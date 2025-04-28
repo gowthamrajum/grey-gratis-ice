@@ -2,3 +2,4 @@ sqlite.db
 uploads/
 *.sqlite-journal
 node_modules/
+.node-gyp/
