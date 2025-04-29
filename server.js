@@ -207,12 +207,47 @@ app.put("/songs/:id", (req, res) => {
 });
 
 app.get("/songs", (req, res) => {
-  const { name } = req.query;
-  const query = name
-    ? ["SELECT * FROM songs WHERE song_name LIKE ?", [`%${name}%`]]
-    : ["SELECT * FROM songs", []];
+  const { name, created_by, last_updated_by, created_from, created_to, updated_from, updated_to } = req.query;
 
-  db.all(...query, (err, rows) => {
+  let baseQuery = "SELECT * FROM songs WHERE 1=1";
+  const params = [];
+
+  if (name) {
+    baseQuery += " AND song_name LIKE ?";
+    params.push(`%${name}%`);
+  }
+
+  if (created_by) {
+    baseQuery += " AND created_by = ?";
+    params.push(created_by);
+  }
+
+  if (last_updated_by) {
+    baseQuery += " AND last_updated_by = ?";
+    params.push(last_updated_by);
+  }
+
+  if (created_from) {
+    baseQuery += " AND date(created_at) >= date(?)";
+    params.push(created_from);
+  }
+
+  if (created_to) {
+    baseQuery += " AND date(created_at) <= date(?)";
+    params.push(created_to);
+  }
+
+  if (updated_from) {
+    baseQuery += " AND date(last_updated_at) >= date(?)";
+    params.push(updated_from);
+  }
+
+  if (updated_to) {
+    baseQuery += " AND date(last_updated_at) <= date(?)";
+    params.push(updated_to);
+  }
+
+  db.all(baseQuery, params, (err, rows) => {
     if (err) return res.status(500).send(err.message);
 
     const data = rows.map((row) => ({
