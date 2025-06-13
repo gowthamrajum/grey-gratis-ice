@@ -9,11 +9,11 @@ const db = new sqlite3.Database("sqlite.db");
 
 // ✅ Middlewares
 app.use(cors({
-  origin: (_, cb) => cb(null, true),
-  methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-  allowedHeaders: ["Content-Type"],
-  credentials: true,
-  optionsSuccessStatus: 204,
+  origin: '*', // ✅ Allow all origins — including file://
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization'],
+  credentials: false, // 🔑 Important: prevents CORS preflight conflict with file://
+  optionsSuccessStatus: 200
 }));
 app.use(bodyParser.json({ limit: "50mb" }));
 app.use((req, res, next) => req.method === "OPTIONS" ? res.sendStatus(204) : next());
