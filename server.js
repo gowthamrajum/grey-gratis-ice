@@ -5,8 +5,7 @@ const stringSimilarity = require("string-similarity");
 const cors = require("cors");
 
 const app = express();
-const db = new sqlite3.Database("sqlite.db");
-
+const db = new sqlite3.Database("/data/sqlite.db");
 // ✅ Middlewares
 app.use(cors({
   origin: function (origin, callback) {
