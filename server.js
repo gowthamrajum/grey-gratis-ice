@@ -105,6 +105,24 @@ app.post("/presentations/slide", (req, res) => {
   );
 });
 
+app.get("/presentations/older", (req, res) => {
+  const hours = parseInt(req.query.hours) || 48;
+  const thresholdDate = new Date(Date.now() - hours * 60 * 60 * 1000).toISOString();
+
+  db.all(
+    `SELECT presentationName, MIN(createdDateTime) AS createdDateTime
+     FROM presentations
+     WHERE datetime(createdDateTime) < datetime(?)
+     GROUP BY presentationName
+     ORDER BY createdDateTime DESC`,
+    [thresholdDate],
+    (err, rows) => {
+      if (err) return res.status(500).send(err.message);
+      res.json(rows);
+    }
+  );
+});
+
 app.put("/presentations/slide", (req, res) => {
   const { presentationName, randomId, slideData } = req.body;
   if (!presentationName || !randomId || !slideData)
