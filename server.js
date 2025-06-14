@@ -9,14 +9,16 @@ const db = new sqlite3.Database("./data/sqlite.db");
 // ✅ Middlewares
 app.use(cors({
   origin: function (origin, callback) {
-    // ✅ Allow Electron (no origin), Vite dev, and Glitch frontend
     const allowedOrigins = [
-      "http://localhost:5173",
-      "https://your-glitch-app.glitch.me"
+      "https://worshipready.onrender.com",       // Your frontend on Render
+      "https://grey-gratis-ice.onrender.com"     // API hosted on Render (if calling itself)
     ];
+
+    // Allow if origin is in list or if no origin (Electron, curl, server-to-server)
     if (!origin || allowedOrigins.includes(origin)) {
       callback(null, true);
     } else {
+      console.warn("❌ CORS blocked:", origin);
       callback(new Error("Not allowed by CORS"));
     }
   },
