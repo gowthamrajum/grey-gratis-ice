@@ -437,6 +437,46 @@ app.get("/ping", (req, res) => {
 // ✅ Start Server
 // -------------------------------
 const PORT = process.env.PORT || 3000;
+
+function deleteOldPresentations() {
+  const twoDaysAgo = new Date(Date.now() - 48 * 60 * 60 * 1000).toISOString();
+
+  db.run(
+    `DELETE FROM presentations WHERE datetime(createdDateTime) < datetime(?)`,
+    [twoDaysAgo],
+    function (err) {
+      if (err) {
+        console.error("❌ Cleanup error:", err.message);
+      } else {
+        console.log(`🧹 Deleted ${this.changes} old presentation(s)`);
+      }
+    }
+  );
+}
+
+function scheduleRandomCleanup() {
+  const randomHour = Math.floor(Math.random() * 24); // 0–23
+  const now = new Date();
+  const nextRun = new Date(now);
+  nextRun.setDate(now.getDate() + 1);
+  nextRun.setHours(randomHour, 0, 0, 0);
+
+  const delay = nextRun - now;
+  console.log(`⏰ Next cleanup scheduled at ${nextRun.toLocaleString()}`);
+
+  setTimeout(() => {
+    deleteOldPresentations();
+    // Then continue every 24h, again at a different random hour
+    scheduleRandomCleanup();
+  }, delay);
+}
+
+// ✅ Run once immediately
+deleteOldPresentations();
+
+// 🔁 Schedule recurring random-time cleanup
+scheduleRandomCleanup();
+
 app.listen(PORT, () => {
   console.log(`✅ Server running at http://localhost:${PORT}`);
 });
