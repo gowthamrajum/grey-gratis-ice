@@ -438,24 +438,46 @@ app.get("/ping", (req, res) => {
 // -------------------------------
 const PORT = process.env.PORT || 3000;
 
-function deleteOldPresentations() {
+function deleteOldPresentationsCompletely() {
   const twoDaysAgo = new Date(Date.now() - 48 * 60 * 60 * 1000).toISOString();
 
-  db.run(
-    `DELETE FROM presentations WHERE datetime(createdDateTime) < datetime(?)`,
+  db.all(
+    `SELECT presentationName
+     FROM presentations
+     GROUP BY presentationName
+     HAVING MAX(datetime(createdDateTime)) < datetime(?)`,
     [twoDaysAgo],
-    function (err) {
+    (err, rows) => {
       if (err) {
-        console.error("❌ Cleanup error:", err.message);
-      } else {
-        console.log(`🧹 Deleted ${this.changes} old presentation(s)`);
+        console.error("❌ Error querying old presentation groups:", err.message);
+        return;
       }
+
+      const oldPresentationNames = rows.map(r => r.presentationName);
+
+      if (oldPresentationNames.length === 0) {
+        console.log("🧼 No stale presentations to delete.");
+        return;
+      }
+
+      const placeholders = oldPresentationNames.map(() => '?').join(',');
+      db.run(
+        `DELETE FROM presentations WHERE presentationName IN (${placeholders})`,
+        oldPresentationNames,
+        function (err) {
+          if (err) {
+            console.error("❌ Deletion error:", err.message);
+          } else {
+            console.log(`🧹 Deleted ${this.changes} slide(s) from presentations:`, oldPresentationNames);
+          }
+        }
+      );
     }
   );
 }
 
 function scheduleRandomCleanup() {
-  const randomHour = Math.floor(Math.random() * 24); // 0–23
+  const randomHour = Math.floor(Math.random() * 24);
   const now = new Date();
   const nextRun = new Date(now);
   nextRun.setDate(now.getDate() + 1);
@@ -465,16 +487,15 @@ function scheduleRandomCleanup() {
   console.log(`⏰ Next cleanup scheduled at ${nextRun.toLocaleString()}`);
 
   setTimeout(() => {
-    deleteOldPresentations();
-    // Then continue every 24h, again at a different random hour
-    scheduleRandomCleanup();
+    deleteOldPresentationsCompletely();
+    scheduleRandomCleanup(); // reschedule next cleanup
   }, delay);
 }
 
-// ✅ Run once immediately
-deleteOldPresentations();
+// ✅ Run once immediately on server start
+deleteOldPresentationsCompletely();
 
-// 🔁 Schedule recurring random-time cleanup
+// 🔁 Schedule cleanup every 24 hours at a random hour
 scheduleRandomCleanup();
 
 app.listen(PORT, () => {
