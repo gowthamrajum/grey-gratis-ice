@@ -1,5 +1,12 @@
+# Common ignores
 sqlite.db
 uploads/
 *.sqlite-journal
 node_modules/
 .node-gyp/
+
+# Ignore all files inside data folder
+data/
+
+# EXCEPT the actual SQLite DB file
+!data/sqlite.db
