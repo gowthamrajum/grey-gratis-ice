@@ -11,7 +11,8 @@ app.use(cors({
   origin: function (origin, callback) {
     const allowedOrigins = [
       "https://worshipready.onrender.com",       // Your frontend on Render
-      "https://grey-gratis-ice.onrender.com"     // API hosted on Render (if calling itself)
+      "https://grey-gratis-ice.onrender.com",     // API hosted on Render (if calling itself)
+      "http://localhost:5173/"
     ];
 
     // Allow if origin is in list or if no origin (Electron, curl, server-to-server)
