@@ -6,31 +6,49 @@ const cors = require("cors");
 
 const app = express();
 const db = new sqlite3.Database("./data/sqlite.db");
-// ✅ Middlewares
-app.use(cors({
-  origin: function (origin, callback) {
-    const allowedOrigins = [
-      "https://worshipready.onrender.com",       // Your frontend on Render
-      "https://grey-gratis-ice.onrender.com",     // API hosted on Render (if calling itself)
-      "http://localhost:5173/"
-    ];
 
-    // Allow if origin is in list or if no origin (Electron, curl, server-to-server)
-    if (!origin || allowedOrigins.includes(origin)) {
-      callback(null, true);
-    } else {
-      console.warn("❌ CORS blocked:", origin);
-      callback(new Error("Not allowed by CORS"));
-    }
+// ✅ CORS
+const allowedOrigins = [
+  "http://localhost:5173",
+  "http://127.0.0.1:5173",
+  "https://worshipready.onrender.com",
+  "https://grey-gratis-ice.onrender.com"
+];
+
+// Helpful if you deploy a frontend elsewhere later:
+function isAllowedOrigin(origin) {
+  if (!origin) return true; // allow curl/server-to-server
+  try {
+    const o = new URL(origin);
+    // normalize to scheme://host[:port] (no trailing slash)
+    const key = `${o.protocol}//${o.hostname}${o.port ? `:${o.port}` : ""}`;
+    return allowedOrigins.includes(key);
+  } catch {
+    return false;
+  }
+}
+
+const corsOptions = {
+  origin(origin, cb) {
+    if (isAllowedOrigin(origin)) return cb(null, true);
+    console.warn("❌ CORS blocked:", origin);
+    cb(new Error("Not allowed by CORS"));
   },
   methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
   allowedHeaders: ["Content-Type", "Authorization"],
-  credentials: false
-}));
+  credentials: false,           // set true only if you actually use cookies
+  preflightContinue: false,
+  optionsSuccessStatus: 204
+};
 
-app.options('*', cors());
+app.use(cors(corsOptions));
+// Let cors() handle preflights and attach headers:
+app.options("*", cors(corsOptions));
+
+// ❌ REMOVE this (it strips CORS headers from preflights):
+// app.use((req, res, next) => req.method === "OPTIONS" ? res.sendStatus(204) : next());
+
 app.use(bodyParser.json({ limit: "50mb" }));
-app.use((req, res, next) => req.method === "OPTIONS" ? res.sendStatus(204) : next());
 
 // -------------------------------
 // ✅ DB Setup
