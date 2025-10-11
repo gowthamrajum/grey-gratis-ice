@@ -21,7 +21,7 @@
     "string-similarity": "^4.0.4"
   },
   "engines": {
-    "node": "14.x"
+    "node": "20.x"
   },
   "repository": {
     "url": "https://glitch.com/edit/#!/hello-sqlite"
