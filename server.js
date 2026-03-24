@@ -5,6 +5,7 @@ const { createClient } = require("@libsql/client");
 const bodyParser = require("body-parser");
 const stringSimilarity = require("string-similarity");
 const cors = require("cors");
+const Anthropic = require("@anthropic-ai/sdk");
 
 const app = express();
 
@@ -461,6 +462,79 @@ app.post("/psalms/bulk", async (req, res) => {
   } catch (e) {
     await run("ROLLBACK").catch(() => {});
     res.status(500).send(e.message);
+  }
+});
+
+// -------------------------------
+// ✅ AI Lyrics Parser
+// -------------------------------
+app.post("/songs/parse-lyrics", async (req, res) => {
+  try {
+    const { rawLyrics } = req.body;
+    if (!rawLyrics || !rawLyrics.trim()) {
+      return res.status(400).json({ error: "rawLyrics is required" });
+    }
+
+    const apiKey = process.env.ANTHROPIC_API_KEY;
+    if (!apiKey) {
+      return res.status(501).json({ error: "AI parsing not configured" });
+    }
+
+    const anthropic = new Anthropic({ apiKey });
+
+    const message = await anthropic.messages.create({
+      model: "claude-sonnet-4-20250514",
+      max_tokens: 4096,
+      messages: [
+        {
+          role: "user",
+          content: `You are an expert in Telugu Christian worship songs. Parse the following raw lyrics into a structured JSON format.
+
+RULES:
+1. Identify the "main_stanza" (pallavi/chorus) — the part that repeats between stanzas
+2. Identify numbered stanzas (charanams) — the unique verse sections
+3. Separate Telugu lines from English transliteration lines
+4. Remove (x2), (x3) repeat markers from the text
+5. Remove stanza number prefixes like "1.", "2." from the text
+6. If the same block of text appears multiple times, it's the chorus — include it only once in main_stanza
+7. The song_name should be the first English line (transliteration of the first Telugu line)
+8. Bridge/pre-chorus sections should be included in main_stanza
+
+IMPORTANT: Return ONLY valid JSON, no markdown, no explanation. Use this exact structure:
+{
+  "song_name": "English name of the song",
+  "main_stanza": {
+    "telugu": ["line1", "line2"],
+    "english": ["transliteration1", "transliteration2"]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": ["line1", "line2"],
+      "english": ["transliteration1", "transliteration2"]
+    }
+  ]
+}
+
+RAW LYRICS:
+${rawLyrics}`
+        }
+      ]
+    });
+
+    const text = message.content[0]?.text || "";
+
+    // Extract JSON from response (handle potential markdown wrapping)
+    let jsonStr = text.trim();
+    if (jsonStr.startsWith("```")) {
+      jsonStr = jsonStr.replace(/^```(?:json)?\n?/, "").replace(/\n?```$/, "");
+    }
+
+    const parsed = JSON.parse(jsonStr);
+    res.json(parsed);
+  } catch (err) {
+    console.error("AI lyrics parse failed:", err.message);
+    res.status(500).json({ error: "AI parsing failed", detail: err.message });
   }
 });
 
