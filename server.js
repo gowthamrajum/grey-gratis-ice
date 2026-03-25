@@ -239,6 +239,41 @@ app.delete("/presentations/:presentationName", async (req, res) => {
 // -------------------------------
 // ✅ Songs API
 // -------------------------------
+
+// Lightweight song list with pagination + search (no lyrics payload)
+app.get("/songs/list", async (req, res) => {
+  try {
+    const page   = Math.max(1, parseInt(req.query.page) || 1);
+    const limit  = Math.min(100, Math.max(1, parseInt(req.query.limit) || 20));
+    const search = (req.query.search || "").trim();
+    const offset = (page - 1) * limit;
+
+    const whereClause = search ? "WHERE song_name LIKE ?" : "";
+    const searchParam = search ? [`%${search}%`] : [];
+
+    const countRow = await get(`SELECT COUNT(*) as total FROM songs ${whereClause}`, searchParam);
+    const total = Number(countRow.total);
+
+    const rows = await all(
+      `SELECT song_id, song_name, created_at, last_updated_at, created_by, last_updated_by
+       FROM songs ${whereClause}
+       ORDER BY last_updated_at DESC
+       LIMIT ? OFFSET ?`,
+      [...searchParam, limit, offset]
+    );
+
+    res.json({
+      songs: rows,
+      total,
+      page,
+      limit,
+      totalPages: Math.ceil(total / limit),
+    });
+  } catch (e) {
+    res.status(500).send(e.message);
+  }
+});
+
 app.post("/songs", async (req, res) => {
   try {
     const { song_name, main_stanza, stanzas } = req.body;
