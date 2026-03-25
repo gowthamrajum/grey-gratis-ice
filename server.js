@@ -257,7 +257,7 @@ app.get("/songs/list", async (req, res) => {
     const rows = await all(
       `SELECT song_id, song_name, created_at, last_updated_at, created_by, last_updated_by
        FROM songs ${whereClause}
-       ORDER BY last_updated_at DESC
+       ORDER BY last_updated_at DESC, song_id DESC
        LIMIT ? OFFSET ?`,
       [...searchParam, limit, offset]
     );
