@@ -280,13 +280,13 @@ app.post("/songs", async (req, res) => {
     if (!song_name || !main_stanza || !stanzas)
       return res.status(400).send("Missing required fields");
 
-    const rows = await all("SELECT id, song_name FROM songs", []);
+    const rows = await all("SELECT song_id, song_name FROM songs", []);
     const conflict = rows.find(
       (song) => stringSimilarity.compareTwoStrings(song_name, song.song_name) >= 0.8
     );
     if (conflict) return res.status(409).json({
       matched_song: {
-        song_id: conflict.id,
+        song_id: conflict.song_id,
         song_name: conflict.song_name
       }
     });
