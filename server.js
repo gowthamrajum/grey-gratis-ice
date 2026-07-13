@@ -6,6 +6,7 @@ const bodyParser = require("body-parser");
 const stringSimilarity = require("string-similarity");
 const cors = require("cors");
 const Anthropic = require("@anthropic-ai/sdk");
+const path = require("path");
 
 const app = express();
 
@@ -615,6 +616,79 @@ ${rawLyrics}`
 // -------------------------------
 app.get("/ping", (req, res) => {
   res.status(200).json({ status: "ok", timestamp: new Date().toISOString() });
+});
+
+// -------------------------------
+// ✅ Live broadcast relay (Lumen Presenter → OBS browser source)
+// -------------------------------
+// A tiny in-memory pub/sub: the presenter (admin) POSTs the current live slide
+// state; an OBS Browser Source subscribes over SSE (or short-polls) and renders
+// a transparent lyrics/scripture lower-third. No DB, no extra process — it just
+// rides along on this service. Configure two secrets in the environment:
+//   BROADCAST_ADMIN_TOKEN   — authorizes publishing (kept on the admin machine)
+//   BROADCAST_VIEWER_TOKEN  — read-only, embedded in the OBS URL
+const BROADCAST_ADMIN_TOKEN = process.env.BROADCAST_ADMIN_TOKEN || "";
+const BROADCAST_VIEWER_TOKEN = process.env.BROADCAST_VIEWER_TOKEN || "";
+const broadcastRooms = new Map(); // room -> { rev, state, clients:Set<res> }
+
+function bcRoom(name) {
+  const key = String(name || "main").slice(0, 64);
+  let r = broadcastRooms.get(key);
+  if (!r) { r = { rev: 0, state: null, clients: new Set() }; broadcastRooms.set(key, r); }
+  return r;
+}
+function bcToken(req) {
+  const h = req.get("authorization") || "";
+  const m = h.match(/^Bearer\s+(.+)$/i);
+  return m ? m[1] : (req.query.token || req.query.key || "");
+}
+function bcFrame(r) {
+  return `event: state\ndata: ${JSON.stringify({ rev: r.rev, state: r.state })}\n\n`;
+}
+
+// Admin publishes the current live state.
+app.post("/broadcast/:room", (req, res) => {
+  if (!BROADCAST_ADMIN_TOKEN) return res.status(503).json({ error: "broadcast not configured" });
+  if (bcToken(req) !== BROADCAST_ADMIN_TOKEN) return res.status(401).json({ error: "unauthorized" });
+  const r = bcRoom(req.params.room);
+  r.state = req.body != null ? req.body : null;
+  r.rev++;
+  const frame = bcFrame(r);
+  for (const c of r.clients) { try { c.write(frame); } catch (_) {} }
+  res.json({ ok: true, rev: r.rev, clients: r.clients.size });
+});
+
+// Viewer polls the latest state (fallback when SSE is unavailable).
+app.get("/broadcast/:room/state", (req, res) => {
+  if (!BROADCAST_VIEWER_TOKEN) return res.status(503).json({ error: "broadcast not configured" });
+  if (bcToken(req) !== BROADCAST_VIEWER_TOKEN) return res.status(401).json({ error: "unauthorized" });
+  const r = bcRoom(req.params.room);
+  res.set("Cache-Control", "no-store");
+  res.json({ rev: r.rev, state: r.state });
+});
+
+// Viewer subscribes over Server-Sent Events (instant updates).
+app.get("/broadcast/:room/stream", (req, res) => {
+  if (!BROADCAST_VIEWER_TOKEN) return res.status(503).end();
+  if (bcToken(req) !== BROADCAST_VIEWER_TOKEN) return res.status(401).end();
+  const r = bcRoom(req.params.room);
+  res.set({
+    "Content-Type": "text/event-stream",
+    "Cache-Control": "no-cache, no-transform",
+    Connection: "keep-alive",
+    "X-Accel-Buffering": "no"
+  });
+  if (res.flushHeaders) res.flushHeaders();
+  res.write("retry: 3000\n\n");
+  res.write(bcFrame(r)); // send current state immediately
+  r.clients.add(res);
+  const hb = setInterval(() => { try { res.write(": hb\n\n"); } catch (_) {} }, 15000);
+  req.on("close", () => { clearInterval(hb); r.clients.delete(res); });
+});
+
+// The OBS overlay page itself (self-contained; token comes in the query string).
+app.get("/broadcast/:room/view", (req, res) => {
+  res.sendFile(path.join(__dirname, "public", "broadcast.html"));
 });
 
 // -------------------------------

@@ -2,6 +2,28 @@
 
 This project includes a [Node.js](https://nodejs.org/en/about/) server script that uses a persistent [SQLite](https://www.sqlite.org) database. The app also includes a front-end with two web pages that connect to the database using the server API. 📊
 
+## Live broadcast relay (Lumen Presenter → OBS)
+
+A tiny in‑memory pub/sub used by [Lumen Presenter](https://github.com/gowthamrajum/lumen-presenter) to stream the current live slide to an OBS **Browser Source** as a transparent lyrics/scripture lower‑third. No database, no extra process — it just rides along on this service.
+
+**Configure two secrets in the environment:**
+
+| Env var | Purpose |
+| --- | --- |
+| `BROADCAST_ADMIN_TOKEN` | Authorizes publishing. Lives only on the presenter (admin) machine. |
+| `BROADCAST_VIEWER_TOKEN` | Read‑only; embedded in the OBS URL. |
+
+If either is unset the matching endpoints return `503` (feature stays off).
+
+**Endpoints** (`:room` lets several churches share one relay):
+
+- `POST /broadcast/:room` — admin publishes the live state. `Authorization: Bearer <BROADCAST_ADMIN_TOKEN>`. Body = JSON live state.
+- `GET  /broadcast/:room/state?token=<viewer>` — latest state (poll fallback).
+- `GET  /broadcast/:room/stream?token=<viewer>` — Server‑Sent Events stream (instant updates).
+- `GET  /broadcast/:room/view?token=<viewer>` — the self‑contained OBS overlay page (`public/broadcast.html`).
+
+**OBS Browser Source URL:** `https://<this-host>/broadcast/main/view?token=<BROADCAST_VIEWER_TOKEN>` (transparent background; optional `&pos=bottom|center|top` and `&size=<vh>`).
+
 The home page presents the user with a poll where they can choose an option, then the page presents the results in a chart. The admin page displays the log of past choices and allows the user to clear it by supplying an admin key (you can set this up by following the steps in `TODO.md`). 🔒
 
 _Last updated: 14 August 2023_
