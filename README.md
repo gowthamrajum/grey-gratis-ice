@@ -13,9 +13,11 @@ A tiny in‑memory pub/sub used by [Lumen Presenter](https://github.com/gowthamr
 - `POST /broadcast/:room` — presenter publishes the live state (JSON body).
 - `GET  /broadcast/:room/state` — latest state (poll fallback).
 - `GET  /broadcast/:room/stream` — Server‑Sent Events stream (instant updates).
-- `GET  /broadcast/:room/view` — the self‑contained overlay page (`public/broadcast.html`); transparent, optional `?pos=bottom|center|top`, `?size=<vh>`, `?clean=1` (drop the scrim).
+- `GET  /broadcast/:room/view` — the self‑contained overlay page (`public/broadcast.html`). Two modes via `?mode`:
+  - **OBS view** (default): transparent alpha, lyrics lower‑third. Options `?pos=bottom|center|top`, `?size=<vh>`, `?clean=1` (drop the scrim).
+  - **User view** (`?mode=audience`): full opaque mirror of the projector — slide background + centered lyrics/scripture, theme applied. (Local `lumen-media://` image/video backgrounds can't cross to the web, so those fall back to the worship gradient.)
 
-**Web page / OBS Browser Source URL:** `https://<this-host>/broadcast/<room>/view`.
+**URLs:** user/audience → `…/broadcast/<room>/view?mode=audience` · OBS browser source → `…/broadcast/<room>/view`.
 
 **Optional lock‑down:** set `BROADCAST_ADMIN_TOKEN` and/or `BROADCAST_VIEWER_TOKEN` in the environment and the matching side then requires it (`Authorization: Bearer <token>` or `?token=`).
 
