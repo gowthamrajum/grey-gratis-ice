@@ -639,7 +639,7 @@ const broadcastRooms = new Map(); // room -> { rev, state, clients:Set<res> }
 function bcRoom(name) {
   const key = String(name || "main").slice(0, 64);
   let r = broadcastRooms.get(key);
-  if (!r) { r = { rev: 0, state: null, clients: new Set() }; broadcastRooms.set(key, r); }
+  if (!r) { r = { rev: 0, state: null, clients: new Set(), createdAt: Date.now(), updatedAt: 0 }; broadcastRooms.set(key, r); }
   return r;
 }
 function bcToken(req) {
@@ -661,6 +661,7 @@ app.post("/broadcast/:room", (req, res) => {
   const r = bcRoom(req.params.room);
   r.state = req.body != null ? req.body : null;
   r.rev++;
+  r.updatedAt = Date.now();
   const frame = bcFrame(r);
   for (const c of r.clients) { try { c.write(frame); } catch (_) {} }
   res.json({ ok: true, rev: r.rev, clients: r.clients.size });
@@ -695,6 +696,188 @@ app.get("/broadcast/:room/stream", (req, res) => {
 // The OBS overlay page itself (self-contained; token comes in the query string).
 app.get("/broadcast/:room/view", (req, res) => {
   res.sendFile(path.join(__dirname, "public", "broadcast.html"));
+});
+
+// -------------------------------
+// ✅ Live sessions directory
+// -------------------------------
+// Two index pages that list the broadcasts currently on air:
+//   GET /sessions      — operator/admin view: each session links to BOTH the
+//                        User (full audience) page and the OBS lower-third.
+//   GET /usersessions  — public view: each session links to the User page ONLY
+//                        (no OBS overlay links) so it's safe to share widely.
+// Backed by GET /sessions.json (the pages poll it, so the list stays live).
+// A "session" is a room that has published state and was active recently.
+const SESSION_TTL_MS = 60 * 60 * 1000; // treat a room silent for >1h as ended
+
+function activeSessions() {
+  const now = Date.now();
+  const out = [];
+  for (const [room, r] of broadcastRooms) {
+    if (!r.updatedAt || now - r.updatedAt > SESSION_TTL_MS) continue;
+    if (r.state == null) continue;
+    const slide = (r.state && r.state.slide) || null;
+    out.push({
+      room,
+      // A section label ("Pallavi", "John 3:16") or caption — never lyric bodies.
+      label: (slide && (slide.label || slide.caption)) || "On air",
+      kind: (slide && slide.kind) || "",
+      updatedAt: r.updatedAt,
+      viewers: r.clients.size
+    });
+  }
+  out.sort((a, b) => b.updatedAt - a.updatedAt);
+  return out;
+}
+
+app.get("/sessions.json", (req, res) => {
+  res.set("Cache-Control", "no-store");
+  res.json({ sessions: activeSessions(), now: Date.now() });
+});
+
+// One self-contained page powers both directories; `showObs` toggles the OBS
+// link column. The list is built on the client from /sessions.json (values are
+// inserted with textContent / encodeURIComponent, so room names can't inject).
+function sessionsPage(showObs) {
+  const heading = showObs ? "Live Sessions" : "Live Services";
+  const blurb = showObs
+    ? "Broadcasts currently on air. Open the audience view, or grab the OBS lower-third."
+    : "Services currently streaming. Tap one to watch.";
+  return `<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>${heading} · Lumen</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; min-height: 100vh;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+    background: radial-gradient(circle at 50% 0%, #1c1440 0%, #0c0a1e 60%, #06050f 100%);
+    color: #eef0f6; padding: 28px 18px 60px;
+  }
+  .wrap { max-width: 720px; margin: 0 auto; }
+  .head { display: flex; align-items: center; gap: 12px; margin-bottom: 6px; }
+  .mark { color: #ffd27f; font-size: 26px; line-height: 1; }
+  h1 { font-size: 22px; margin: 0; font-weight: 800; letter-spacing: 0.01em; }
+  .blurb { color: #a6accd; font-size: 13.5px; margin: 2px 0 22px; line-height: 1.5; }
+  .live-dot { width: 9px; height: 9px; border-radius: 50%; background: #ff4d67; box-shadow: 0 0 10px #ff4d67; display: inline-block; }
+  .list { display: flex; flex-direction: column; gap: 12px; }
+  .card {
+    background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.09);
+    border-radius: 14px; padding: 14px 16px; display: flex; align-items: center; gap: 14px;
+    flex-wrap: wrap;
+  }
+  .card .info { flex: 1; min-width: 0; }
+  .card .title { font-weight: 700; font-size: 15px; display: flex; align-items: center; gap: 8px; }
+  .card .sub { color: #9aa0c2; font-size: 12px; margin-top: 3px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .badge { font-size: 10px; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; color: #ff6b81; }
+  .actions { display: flex; gap: 8px; flex: 0 0 auto; }
+  a.btn {
+    text-decoration: none; font-size: 13px; font-weight: 700; padding: 9px 14px; border-radius: 10px;
+    border: 1px solid transparent; white-space: nowrap;
+  }
+  a.user { background: linear-gradient(180deg, #4f83ff, #3f6fe0); color: #fff; }
+  a.user:active { transform: translateY(1px); }
+  a.obs { background: rgba(255,255,255,0.08); color: #dfe3f2; border-color: rgba(255,255,255,0.14); }
+  .empty { text-align: center; color: #9aa0c2; padding: 60px 20px; line-height: 1.6; }
+  .empty .mk { font-size: 40px; color: #ffd27f; margin-bottom: 10px; }
+  .foot { color: #6b7099; font-size: 11px; text-align: center; margin-top: 26px; }
+</style>
+</head>
+<body data-obs="${showObs ? "1" : "0"}">
+  <div class="wrap">
+    <div class="head"><span class="mark">&#10022;</span><h1>${heading}</h1></div>
+    <div class="blurb">${blurb}</div>
+    <div id="list" class="list"></div>
+    <div id="empty" class="empty" hidden>
+      <div class="mk">&#10022;</div>
+      <div>No live services right now.<br/>This page updates automatically when one starts.</div>
+    </div>
+    <div class="foot">Auto-updating · Lumen Presenter</div>
+  </div>
+<script>
+  var SHOW_OBS = document.body.getAttribute('data-obs') === '1';
+  function ago(ts, now) {
+    var s = Math.max(0, Math.round((now - ts) / 1000));
+    if (s < 5) return 'just now';
+    if (s < 60) return s + 's ago';
+    var m = Math.round(s / 60);
+    if (m < 60) return m + 'm ago';
+    return Math.round(m / 60) + 'h ago';
+  }
+  function viewUrl(room, mode) {
+    var u = '/broadcast/' + encodeURIComponent(room) + '/view';
+    return mode === 'audience' ? u + '?mode=audience' : u;
+  }
+  function render(data) {
+    var list = document.getElementById('list');
+    var empty = document.getElementById('empty');
+    var sessions = (data && data.sessions) || [];
+    list.textContent = '';
+    empty.hidden = sessions.length > 0;
+    sessions.forEach(function (s) {
+      var card = document.createElement('div');
+      card.className = 'card';
+
+      var info = document.createElement('div');
+      info.className = 'info';
+      var title = document.createElement('div');
+      title.className = 'title';
+      var dot = document.createElement('span');
+      dot.className = 'live-dot';
+      var tt = document.createElement('span');
+      tt.textContent = s.label || 'On air';
+      title.appendChild(dot); title.appendChild(tt);
+      var sub = document.createElement('div');
+      sub.className = 'sub';
+      var viewers = s.viewers ? (' · ' + s.viewers + ' watching') : '';
+      sub.textContent = s.room + ' · ' + ago(s.updatedAt, data.now) + viewers;
+      info.appendChild(title); info.appendChild(sub);
+
+      var actions = document.createElement('div');
+      actions.className = 'actions';
+      var user = document.createElement('a');
+      user.className = 'btn user';
+      user.href = viewUrl(s.room, 'audience');
+      user.target = '_blank'; user.rel = 'noopener';
+      user.textContent = 'Watch';
+      actions.appendChild(user);
+      if (SHOW_OBS) {
+        var obs = document.createElement('a');
+        obs.className = 'btn obs';
+        obs.href = viewUrl(s.room, 'obs');
+        obs.target = '_blank'; obs.rel = 'noopener';
+        obs.textContent = 'OBS';
+        actions.appendChild(obs);
+      }
+
+      card.appendChild(info); card.appendChild(actions);
+      list.appendChild(card);
+    });
+  }
+  function tick() {
+    fetch('/sessions.json', { cache: 'no-store' })
+      .then(function (r) { return r.json(); })
+      .then(render)
+      .catch(function () {});
+  }
+  tick();
+  setInterval(tick, 8000);
+</script>
+</body>
+</html>`;
+}
+
+app.get("/sessions", (req, res) => {
+  res.set("Cache-Control", "no-store");
+  res.type("html").send(sessionsPage(true));
+});
+app.get("/usersessions", (req, res) => {
+  res.set("Cache-Control", "no-store");
+  res.type("html").send(sessionsPage(false));
 });
 
 // -------------------------------
