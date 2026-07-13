@@ -619,6 +619,65 @@ app.get("/ping", (req, res) => {
 });
 
 // -------------------------------
+// ✅ ESV (Crossway) proxy
+// -------------------------------
+// Holds the ESV API key SERVER-SIDE (ESV_API_KEY env var) so no client — desktop
+// app or otherwise — ever needs it, and the key never lives in a public repo or
+// build. Cantica calls these instead of api.esv.org directly. This is Crossway's
+// intended model (fetch the text from your server). Non-commercial church use; the
+// client shows the required ESV attribution. Small in-memory cache stays well
+// under Crossway's 500-verse limit and is cleared on restart.
+const ESV_API_KEY = process.env.ESV_API_KEY || "";
+const esvCache = new Map(); // q -> { passages, canonical }
+let esvCacheVerses = 0;
+const ESV_CACHE_CAP = 450;
+
+app.get("/esv/status", (req, res) => {
+  res.json({ available: !!ESV_API_KEY });
+});
+
+app.get("/esv/passage", async (req, res) => {
+  if (!ESV_API_KEY) return res.status(503).json({ error: "ESV not configured", needKey: true });
+  const q = String(req.query.q || "").trim();
+  if (!q) return res.status(400).json({ error: "missing q" });
+
+  const cached = esvCache.get(q);
+  if (cached) return res.json(cached);
+
+  const params = new URLSearchParams({
+    q,
+    "include-passage-references": "false",
+    "include-verse-numbers": "true",
+    "include-first-verse-numbers": "true",
+    "include-footnotes": "false",
+    "include-headings": "false",
+    "include-short-copyright": "false",
+    "include-passage-horizontal-lines": "false",
+    "include-heading-horizontal-lines": "false",
+    "indent-poetry": "false"
+  });
+  try {
+    const r = await fetch(`https://api.esv.org/v3/passage/text/?${params.toString()}`, {
+      headers: { Authorization: `Token ${ESV_API_KEY}` }
+    });
+    if (r.status === 401 || r.status === 403) return res.status(502).json({ error: "ESV key rejected" });
+    if (!r.ok) return res.status(502).json({ error: `ESV HTTP ${r.status}` });
+    const data = await r.json();
+    const out = {
+      passages: Array.isArray(data.passages) ? data.passages : [],
+      canonical: data.canonical || q
+    };
+    const nVerses = ((out.passages[0] || "").match(/\[\d+\]/g) || []).length;
+    if (esvCacheVerses + nVerses > ESV_CACHE_CAP) { esvCache.clear(); esvCacheVerses = 0; }
+    esvCache.set(q, out);
+    esvCacheVerses += nVerses;
+    res.json(out);
+  } catch (e) {
+    res.status(502).json({ error: String((e && e.message) || e) });
+  }
+});
+
+// -------------------------------
 // ✅ Live broadcast relay (Lumen Presenter → OBS browser source)
 // -------------------------------
 // A tiny in-memory pub/sub: the presenter POSTs the current live slide state; a
