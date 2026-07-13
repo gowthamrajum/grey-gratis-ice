@@ -711,8 +711,36 @@ app.get("/broadcast/:room/stream", (req, res) => {
 });
 
 // The OBS overlay page itself (self-contained; token comes in the query string).
-app.get("/broadcast/:room/view", (req, res) => {
-  res.sendFile(path.join(__dirname, "public", "broadcast.html"));
+// Single source of truth is broadcast/obs.html in the Lumen app repo — we fetch
+// the latest (cached 5 min) so pushing the app updates the overlay with no hand-
+// copy. public/broadcast.html is the offline fallback if GitHub is unreachable.
+const OVERLAY_URL = "https://raw.githubusercontent.com/gowthamrajum/lumen-presenter/main/broadcast/obs.html";
+const OVERLAY_TTL_MS = 5 * 60 * 1000;
+let overlayCache = { html: null, at: 0 };
+
+async function getOverlay() {
+  const now = Date.now();
+  if (overlayCache.html && now - overlayCache.at < OVERLAY_TTL_MS) return overlayCache.html;
+  try {
+    const controller = new AbortController();
+    const t = setTimeout(() => controller.abort(), 5000);
+    const res = await fetch(OVERLAY_URL, { signal: controller.signal, headers: { "User-Agent": "lumen-relay" } });
+    clearTimeout(t);
+    if (res.ok) {
+      const html = await res.text();
+      if (html && /<html/i.test(html)) { overlayCache = { html, at: now }; return html; }
+    }
+  } catch (_) { /* fall through to fallback */ }
+  if (overlayCache.html) return overlayCache.html; // serve a stale copy over nothing
+  try { return require("fs").readFileSync(path.join(__dirname, "public", "broadcast.html"), "utf8"); } catch (_) { return null; }
+}
+
+app.get("/broadcast/:room/view", async (req, res) => {
+  const html = await getOverlay();
+  if (!html) return res.status(503).send("overlay unavailable");
+  res.set("Content-Type", "text/html; charset=utf-8");
+  res.set("Cache-Control", "no-store");
+  res.send(html);
 });
 
 // -------------------------------
