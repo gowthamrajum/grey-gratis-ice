@@ -647,8 +647,23 @@ function bcToken(req) {
   const m = h.match(/^Bearer\s+(.+)$/i);
   return m ? m[1] : (req.query.token || req.query.key || "");
 }
-function bcFrame(r) {
-  return `event: state\ndata: ${JSON.stringify({ rev: r.rev, state: r.state })}\n\n`;
+function bcView(req) {
+  return req.query.view === "users" ? "users" : req.query.view === "stream" ? "stream" : null;
+}
+// Project the stored state onto one channel. New presenters post a channel-
+// partitioned payload { ...shared, users:{slide,next}, stream:{slide,next} }, so
+// an item that's off-air for a channel never carries its lyrics to that
+// channel's page. Pick the requested slice and flatten it to { ...shared, slide,
+// next }. Legacy flat payloads (or no view) are returned unchanged.
+function projectState(state, view) {
+  if (!state || typeof state !== "object") return state;
+  if (!state.users && !state.stream) return state; // legacy flat payload
+  const chan = view === "users" ? state.users : view === "stream" ? state.stream : (state.stream || state.users);
+  const { users, stream, ...shared } = state;
+  return { ...shared, slide: chan ? chan.slide : null, next: chan ? chan.next : null };
+}
+function bcFrame(r, view) {
+  return `event: state\ndata: ${JSON.stringify({ rev: r.rev, state: projectState(r.state, view) })}\n\n`;
 }
 // Optional gate: only enforced when a token is configured for that side.
 function bcAllowed(configured, req) {
@@ -662,8 +677,8 @@ app.post("/broadcast/:room", (req, res) => {
   r.state = req.body != null ? req.body : null;
   r.rev++;
   r.updatedAt = Date.now();
-  const frame = bcFrame(r);
-  for (const c of r.clients) { try { c.write(frame); } catch (_) {} }
+  // Each subscriber gets its own channel's projection (users vs stream).
+  for (const c of r.clients) { try { c.res.write(bcFrame(r, c.view)); } catch (_) {} }
   res.json({ ok: true, rev: r.rev, clients: r.clients.size });
 });
 
@@ -672,13 +687,14 @@ app.get("/broadcast/:room/state", (req, res) => {
   if (!bcAllowed(BROADCAST_VIEWER_TOKEN, req)) return res.status(401).json({ error: "unauthorized" });
   const r = bcRoom(req.params.room);
   res.set("Cache-Control", "no-store");
-  res.json({ rev: r.rev, state: r.state });
+  res.json({ rev: r.rev, state: projectState(r.state, bcView(req)) });
 });
 
 // Viewer subscribes over Server-Sent Events (instant updates).
 app.get("/broadcast/:room/stream", (req, res) => {
   if (!bcAllowed(BROADCAST_VIEWER_TOKEN, req)) return res.status(401).end();
   const r = bcRoom(req.params.room);
+  const view = bcView(req);
   res.set({
     "Content-Type": "text/event-stream",
     "Cache-Control": "no-cache, no-transform",
@@ -687,10 +703,11 @@ app.get("/broadcast/:room/stream", (req, res) => {
   });
   if (res.flushHeaders) res.flushHeaders();
   res.write("retry: 3000\n\n");
-  res.write(bcFrame(r)); // send current state immediately
-  r.clients.add(res);
+  res.write(bcFrame(r, view)); // send current state immediately
+  const client = { res, view };
+  r.clients.add(client);
   const hb = setInterval(() => { try { res.write(": hb\n\n"); } catch (_) {} }, 15000);
-  req.on("close", () => { clearInterval(hb); r.clients.delete(res); });
+  req.on("close", () => { clearInterval(hb); r.clients.delete(client); });
 });
 
 // The OBS overlay page itself (self-contained; token comes in the query string).
@@ -716,7 +733,9 @@ function activeSessions() {
   for (const [room, r] of broadcastRooms) {
     if (!r.updatedAt || now - r.updatedAt > SESSION_TTL_MS) continue;
     if (r.state == null) continue;
-    const slide = (r.state && r.state.slide) || null;
+    // State may be channel-partitioned ({users,stream}) or a legacy flat payload.
+    const st = r.state;
+    const slide = st.slide || (st.stream && st.stream.slide) || (st.users && st.users.slide) || null;
     out.push({
       room,
       // A section label ("Pallavi", "John 3:16") or caption — never lyric bodies.
