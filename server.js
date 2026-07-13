@@ -727,20 +727,35 @@ app.get("/broadcast/:room/view", (req, res) => {
 // A "session" is a room that has published state and was active recently.
 const SESSION_TTL_MS = 60 * 60 * 1000; // treat a room silent for >1h as ended
 
-function activeSessions() {
+// The slide currently visible on a channel. State may be channel-partitioned
+// ({users,stream}) or a legacy flat payload. Returns null when nothing shows.
+function currentSlide(st, chan) {
+  if (!st || typeof st !== "object") return null;
+  const flat = !st.users && !st.stream ? (st.slide || null) : null;
+  if (chan === "users") return (st.users && st.users.slide) || flat || null;
+  if (chan === "stream") return (st.stream && st.stream.slide) || flat || null;
+  return (st.users && st.users.slide) || (st.stream && st.stream.slide) || flat || null;
+}
+
+function activeSessions(view) {
   const now = Date.now();
   const out = [];
   for (const [room, r] of broadcastRooms) {
     if (!r.updatedAt || now - r.updatedAt > SESSION_TTL_MS) continue;
     if (r.state == null) continue;
-    // State may be channel-partitioned ({users,stream}) or a legacy flat payload.
-    const st = r.state;
-    const slide = st.slide || (st.stream && st.stream.slide) || (st.users && st.users.slide) || null;
+    const usersSlide = currentSlide(r.state, "users");
+    const streamSlide = currentSlide(r.state, "stream");
+    // Pick the slide for the requested directory; hide the room entirely when
+    // it's off-air there (e.g. an item toggled off broadcast publishes nulls).
+    const slide = view === "users" ? usersSlide : view === "stream" ? streamSlide : (usersSlide || streamSlide);
+    if (!slide) continue;
     out.push({
       room,
       // A section label ("Pallavi", "John 3:16") or caption — never lyric bodies.
-      label: (slide && (slide.label || slide.caption)) || "On air",
-      kind: (slide && slide.kind) || "",
+      label: (slide.label || slide.caption) || "On air",
+      kind: slide.kind || "",
+      hasUsers: !!usersSlide,
+      hasStream: !!streamSlide,
       updatedAt: r.updatedAt,
       viewers: r.clients.size
     });
@@ -751,7 +766,8 @@ function activeSessions() {
 
 app.get("/sessions.json", (req, res) => {
   res.set("Cache-Control", "no-store");
-  res.json({ sessions: activeSessions(), now: Date.now() });
+  const view = req.query.view === "users" ? "users" : req.query.view === "stream" ? "stream" : null;
+  res.json({ sessions: activeSessions(view), now: Date.now() });
 });
 
 // One self-contained page powers both directories; `showObs` toggles the OBS
@@ -858,13 +874,15 @@ function sessionsPage(showObs) {
 
       var actions = document.createElement('div');
       actions.className = 'actions';
-      var user = document.createElement('a');
-      user.className = 'btn user';
-      user.href = viewUrl(s.room, 'audience');
-      user.target = '_blank'; user.rel = 'noopener';
-      user.textContent = 'Watch';
-      actions.appendChild(user);
-      if (SHOW_OBS) {
+      if (s.hasUsers !== false) {
+        var user = document.createElement('a');
+        user.className = 'btn user';
+        user.href = viewUrl(s.room, 'audience');
+        user.target = '_blank'; user.rel = 'noopener';
+        user.textContent = 'Watch';
+        actions.appendChild(user);
+      }
+      if (SHOW_OBS && s.hasStream) {
         var obs = document.createElement('a');
         obs.className = 'btn obs';
         obs.href = viewUrl(s.room, 'obs');
@@ -877,8 +895,11 @@ function sessionsPage(showObs) {
       list.appendChild(card);
     });
   }
+  // The user directory only lists rooms with User (audience) content; the
+  // operator directory lists any on-air room.
+  var VIEW_QS = SHOW_OBS ? '' : '?view=users';
   function tick() {
-    fetch('/sessions.json', { cache: 'no-store' })
+    fetch('/sessions.json' + VIEW_QS, { cache: 'no-store' })
       .then(function (r) { return r.json(); })
       .then(render)
       .catch(function () {});
