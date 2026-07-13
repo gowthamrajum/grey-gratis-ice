@@ -270,7 +270,9 @@
       applyBackground(slide && slide.background ? slide.background : (state && state.background));
     }
 
-    var hidden = !state || state.blackout || state.clearText || !slide;
+    // Hide when the operator shows the logo too, matching the native output
+    // (otherwise a ticking countdown would stay on air over the logo).
+    var hidden = !state || state.blackout || state.clearText || state.showLogo || !slide;
     if (hidden) { stage.classList.remove('show'); stopTick(); return; }
 
     // Countdown / clock: render a live-ticking timer (else the web view is blank
