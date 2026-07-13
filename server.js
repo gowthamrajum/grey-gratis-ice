@@ -621,12 +621,17 @@ app.get("/ping", (req, res) => {
 // -------------------------------
 // ✅ Live broadcast relay (Lumen Presenter → OBS browser source)
 // -------------------------------
-// A tiny in-memory pub/sub: the presenter (admin) POSTs the current live slide
-// state; an OBS Browser Source subscribes over SSE (or short-polls) and renders
+// A tiny in-memory pub/sub: the presenter POSTs the current live slide state; a
+// web page / OBS Browser Source subscribes over SSE (or short-polls) and renders
 // a transparent lyrics/scripture lower-third. No DB, no extra process — it just
-// rides along on this service. Configure two secrets in the environment:
-//   BROADCAST_ADMIN_TOKEN   — authorizes publishing (kept on the admin machine)
-//   BROADCAST_VIEWER_TOKEN  — read-only, embedded in the OBS URL
+// rides along on this service.
+//
+// OPEN BY DEFAULT: with no env vars set, publishing and viewing are open so the
+// presenter can just press "Broadcast" — no keys to configure. Rooms are namespaced
+// so installs don't collide. If you *want* to lock it down, set either/both of
+// these and the matching side will then require it:
+//   BROADCAST_ADMIN_TOKEN   — required to publish
+//   BROADCAST_VIEWER_TOKEN  — required to view/subscribe
 const BROADCAST_ADMIN_TOKEN = process.env.BROADCAST_ADMIN_TOKEN || "";
 const BROADCAST_VIEWER_TOKEN = process.env.BROADCAST_VIEWER_TOKEN || "";
 const broadcastRooms = new Map(); // room -> { rev, state, clients:Set<res> }
@@ -645,11 +650,14 @@ function bcToken(req) {
 function bcFrame(r) {
   return `event: state\ndata: ${JSON.stringify({ rev: r.rev, state: r.state })}\n\n`;
 }
+// Optional gate: only enforced when a token is configured for that side.
+function bcAllowed(configured, req) {
+  return !configured || bcToken(req) === configured;
+}
 
-// Admin publishes the current live state.
+// Presenter publishes the current live state.
 app.post("/broadcast/:room", (req, res) => {
-  if (!BROADCAST_ADMIN_TOKEN) return res.status(503).json({ error: "broadcast not configured" });
-  if (bcToken(req) !== BROADCAST_ADMIN_TOKEN) return res.status(401).json({ error: "unauthorized" });
+  if (!bcAllowed(BROADCAST_ADMIN_TOKEN, req)) return res.status(401).json({ error: "unauthorized" });
   const r = bcRoom(req.params.room);
   r.state = req.body != null ? req.body : null;
   r.rev++;
@@ -660,8 +668,7 @@ app.post("/broadcast/:room", (req, res) => {
 
 // Viewer polls the latest state (fallback when SSE is unavailable).
 app.get("/broadcast/:room/state", (req, res) => {
-  if (!BROADCAST_VIEWER_TOKEN) return res.status(503).json({ error: "broadcast not configured" });
-  if (bcToken(req) !== BROADCAST_VIEWER_TOKEN) return res.status(401).json({ error: "unauthorized" });
+  if (!bcAllowed(BROADCAST_VIEWER_TOKEN, req)) return res.status(401).json({ error: "unauthorized" });
   const r = bcRoom(req.params.room);
   res.set("Cache-Control", "no-store");
   res.json({ rev: r.rev, state: r.state });
@@ -669,8 +676,7 @@ app.get("/broadcast/:room/state", (req, res) => {
 
 // Viewer subscribes over Server-Sent Events (instant updates).
 app.get("/broadcast/:room/stream", (req, res) => {
-  if (!BROADCAST_VIEWER_TOKEN) return res.status(503).end();
-  if (bcToken(req) !== BROADCAST_VIEWER_TOKEN) return res.status(401).end();
+  if (!bcAllowed(BROADCAST_VIEWER_TOKEN, req)) return res.status(401).end();
   const r = bcRoom(req.params.room);
   res.set({
     "Content-Type": "text/event-stream",

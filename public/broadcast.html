@@ -32,6 +32,16 @@
   #stage.pos-bottom { justify-content: flex-end; align-items: center; }
   #stage.pos-center { justify-content: center; align-items: center; }
   #stage.pos-top    { justify-content: flex-start; align-items: center; }
+  /* A soft scrim so the text is readable over any footage — and visible even
+     when the page is opened in a plain (white) browser tab, not just OBS. */
+  .scrim {
+    position: fixed; left: 0; right: 0; bottom: 0; height: 46vh;
+    background: linear-gradient(to top, rgba(0,0,0,.62), rgba(0,0,0,0));
+    pointer-events: none;
+  }
+  #stage.pos-center .scrim { top: 0; height: 100vh; background: linear-gradient(to top, rgba(0,0,0,.5), rgba(0,0,0,.28), rgba(0,0,0,.5)); }
+  #stage.pos-top .scrim { top: 0; bottom: auto; background: linear-gradient(to bottom, rgba(0,0,0,.62), rgba(0,0,0,0)); }
+  #stage.clean .scrim { display: none; }
   .lyrics {
     text-align: center;
     color: var(--text);
@@ -59,7 +69,7 @@
 </style>
 </head>
 <body>
-  <div id="stage"><div class="lyrics" id="lyrics"></div><div class="caption" id="caption"></div></div>
+  <div id="stage"><div class="scrim"></div><div class="lyrics" id="lyrics"></div><div class="caption" id="caption"></div></div>
 <script>
 (function () {
   var q = new URLSearchParams(location.search);
@@ -74,6 +84,7 @@
   var lyricsEl = document.getElementById('lyrics');
   var captionEl = document.getElementById('caption');
   stage.classList.add('pos-' + pos);
+  if (q.get('clean') === '1') stage.classList.add('clean'); // no scrim (pure alpha)
 
   function textOf(slide) {
     if (!slide) return [];

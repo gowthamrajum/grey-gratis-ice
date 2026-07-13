@@ -4,25 +4,20 @@ This project includes a [Node.js](https://nodejs.org/en/about/) server script th
 
 ## Live broadcast relay (Lumen Presenter → OBS)
 
-A tiny in‑memory pub/sub used by [Lumen Presenter](https://github.com/gowthamrajum/lumen-presenter) to stream the current live slide to an OBS **Browser Source** as a transparent lyrics/scripture lower‑third. No database, no extra process — it just rides along on this service.
+A tiny in‑memory pub/sub used by [Lumen Presenter](https://github.com/gowthamrajum/lumen-presenter) to stream the current live slide to a web page / OBS **Browser Source** as a transparent lyrics/scripture lower‑third. No database, no extra process — it just rides along on this service.
 
-**Configure two secrets in the environment:**
+**Open by default — no configuration required.** The presenter just presses *Broadcast*; there are no keys to set. Each install uses its own `:room` slug so setups don't collide.
 
-| Env var | Purpose |
-| --- | --- |
-| `BROADCAST_ADMIN_TOKEN` | Authorizes publishing. Lives only on the presenter (admin) machine. |
-| `BROADCAST_VIEWER_TOKEN` | Read‑only; embedded in the OBS URL. |
+**Endpoints:**
 
-If either is unset the matching endpoints return `503` (feature stays off).
+- `POST /broadcast/:room` — presenter publishes the live state (JSON body).
+- `GET  /broadcast/:room/state` — latest state (poll fallback).
+- `GET  /broadcast/:room/stream` — Server‑Sent Events stream (instant updates).
+- `GET  /broadcast/:room/view` — the self‑contained overlay page (`public/broadcast.html`); transparent, optional `?pos=bottom|center|top`, `?size=<vh>`, `?clean=1` (drop the scrim).
 
-**Endpoints** (`:room` lets several churches share one relay):
+**Web page / OBS Browser Source URL:** `https://<this-host>/broadcast/<room>/view`.
 
-- `POST /broadcast/:room` — admin publishes the live state. `Authorization: Bearer <BROADCAST_ADMIN_TOKEN>`. Body = JSON live state.
-- `GET  /broadcast/:room/state?token=<viewer>` — latest state (poll fallback).
-- `GET  /broadcast/:room/stream?token=<viewer>` — Server‑Sent Events stream (instant updates).
-- `GET  /broadcast/:room/view?token=<viewer>` — the self‑contained OBS overlay page (`public/broadcast.html`).
-
-**OBS Browser Source URL:** `https://<this-host>/broadcast/main/view?token=<BROADCAST_VIEWER_TOKEN>` (transparent background; optional `&pos=bottom|center|top` and `&size=<vh>`).
+**Optional lock‑down:** set `BROADCAST_ADMIN_TOKEN` and/or `BROADCAST_VIEWER_TOKEN` in the environment and the matching side then requires it (`Authorization: Bearer <token>` or `?token=`).
 
 The home page presents the user with a poll where they can choose an option, then the page presents the results in a chart. The admin page displays the log of past choices and allows the user to clear it by supplying an admin key (you can set this up by following the steps in `TODO.md`). 🔒
 
