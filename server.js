@@ -832,18 +832,19 @@ function activeSessions(view) {
     if (r.state == null) continue;
     const usersSlide = currentSlide(r.state, "users");
     const streamSlide = currentSlide(r.state, "stream");
-    // Pick the slide for the requested directory; hide the room entirely when
-    // it's off-air there (e.g. an item toggled off broadcast publishes nulls).
     const slide = view === "users" ? usersSlide : view === "stream" ? streamSlide : (usersSlide || streamSlide);
-    if (!slide) continue;
+    // List a room as soon as it's actively broadcasting (recent state) — even
+    // before any slide is live. Until a slide goes live it shows the branded
+    // standby; the operator no longer has to pick a slide for it to appear here.
     out.push({
       room,
-      // Label the session by the service name the presenter published; fall back
-      // to a section label / caption (never lyric bodies), then "On air".
-      label: (r.state && r.state.name) || slide.label || slide.caption || "On air",
-      kind: slide.kind || "",
+      // Label by the presenter-published service name; fall back to a section
+      // label / caption (never lyric bodies), then a waiting placeholder.
+      label: (r.state && r.state.name) || (slide && (slide.label || slide.caption)) || "Waiting to start",
+      kind: (slide && slide.kind) || "",
       hasUsers: !!usersSlide,
       hasStream: !!streamSlide,
+      waiting: !slide,
       updatedAt: r.updatedAt,
       viewers: r.clients.size
     });
@@ -866,7 +867,7 @@ function sessionsPage(showObs) {
   const blurb = showObs
     ? "Broadcasts currently on air. Open the audience view, or grab the OBS lower-third."
     : "Services currently on air. Tap one to watch.";
-  const ICON = "https://raw.githubusercontent.com/gowthamrajum/lumen-presenter/main/build/apple-touch-icon.png";
+  const ICON = "https://raw.githubusercontent.com/gowthamrajum/lumen-presenter/main/build/apple-touch-icon.png?v=2";
   return `<!doctype html>
 <html lang="en">
 <head>
@@ -903,6 +904,7 @@ function sessionsPage(showObs) {
   .blurb { color: var(--txt-muted); font-size: 14px; margin: 2px 0 22px; line-height: 1.5; }
   .live-dot { width: 8px; height: 8px; border-radius: 50%; background: #f04438;
     box-shadow: 0 0 0 4px rgba(240,68,56,.22); display: inline-block; flex: 0 0 auto; }
+  .live-dot.waiting { background: #f79009; box-shadow: 0 0 0 4px rgba(247,144,9,.2); }
   .list { display: flex; flex-direction: column; gap: 12px; }
   .card {
     background: var(--card); border: 1px solid var(--card-border); box-shadow: var(--shadow);
@@ -971,14 +973,14 @@ function sessionsPage(showObs) {
       var title = document.createElement('div');
       title.className = 'title';
       var dot = document.createElement('span');
-      dot.className = 'live-dot';
+      dot.className = 'live-dot' + (s.waiting ? ' waiting' : '');
       var tt = document.createElement('span');
       tt.textContent = s.label || 'On air';
       title.appendChild(dot); title.appendChild(tt);
       var sub = document.createElement('div');
       sub.className = 'sub';
       var viewers = s.viewers ? (' · ' + s.viewers + ' watching') : '';
-      sub.textContent = s.room + ' · ' + ago(s.updatedAt, data.now) + viewers;
+      sub.textContent = (s.waiting ? 'Waiting to start · ' : '') + s.room + ' · ' + ago(s.updatedAt, data.now) + viewers;
       info.appendChild(title); info.appendChild(sub);
 
       var actions = document.createElement('div');
