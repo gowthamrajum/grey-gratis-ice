@@ -838,8 +838,9 @@ function activeSessions(view) {
     if (!slide) continue;
     out.push({
       room,
-      // A section label ("Pallavi", "John 3:16") or caption — never lyric bodies.
-      label: (slide.label || slide.caption) || "On air",
+      // Label the session by the service name the presenter published; fall back
+      // to a section label / caption (never lyric bodies), then "On air".
+      label: (r.state && r.state.name) || slide.label || slide.caption || "On air",
       kind: slide.kind || "",
       hasUsers: !!usersSlide,
       hasStream: !!streamSlide,
@@ -912,7 +913,8 @@ function sessionsPage(showObs) {
   a.card:hover { border-color: #2a3550; }
   a.card:active { transform: translateY(1px); }
   .card .info { flex: 1; min-width: 0; }
-  .card .title { font-weight: 700; font-size: 15px; display: flex; align-items: center; gap: 9px; color: var(--txt); }
+  .card .title { font-weight: 700; font-size: 15px; display: flex; align-items: center; gap: 9px; color: var(--txt); min-width: 0; }
+  .card .title > span:last-child { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .card .sub { color: var(--txt-muted); font-size: 12px; margin-top: 3px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .actions { display: flex; gap: 8px; flex: 0 0 auto; }
   a.btn, span.btn {
