@@ -864,61 +864,78 @@ function sessionsPage(showObs) {
   const heading = showObs ? "Live Sessions" : "Live Services";
   const blurb = showObs
     ? "Broadcasts currently on air. Open the audience view, or grab the OBS lower-third."
-    : "Services currently streaming. Tap one to watch.";
+    : "Services currently on air. Tap one to watch.";
+  const ICON = "https://raw.githubusercontent.com/gowthamrajum/lumen-presenter/main/build/apple-touch-icon.png";
   return `<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<title>${heading} · Lumen</title>
+<meta name="theme-color" content="#0a0720" />
+<title>${heading} · Cantica</title>
+<link rel="apple-touch-icon" href="${ICON}" />
+<link rel="icon" type="image/png" href="${ICON}" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Anek+Telugu:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
 <style>
-  :root { color-scheme: dark; }
+  /* TailAdmin tokens (matches the Cantica audience app) */
+  :root {
+    color-scheme: dark;
+    --brand-500: #465fff; --brand-600: #3641f5;
+    --surface: radial-gradient(circle at 50% -8%, #1d2939 0%, #101828 55%, #0c111d 100%);
+    --card: #1a2231; --card-border: #1d2939; --txt: #ffffff; --txt-muted: #98a2b3;
+    --shadow: 0 1px 3px rgba(0,0,0,.28), 0 1px 2px rgba(0,0,0,.18);
+  }
   * { box-sizing: border-box; }
   body {
-    margin: 0; min-height: 100vh;
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
-    background: radial-gradient(circle at 50% 0%, #1c1440 0%, #0c0a1e 60%, #06050f 100%);
-    color: #eef0f6; padding: 28px 18px 60px;
+    margin: 0; min-height: 100vh; min-height: 100dvh;
+    font-family: 'Anek Telugu', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+    background: var(--surface); background-attachment: fixed; color: var(--txt);
+    -webkit-font-smoothing: antialiased;
+    padding: calc(28px + env(safe-area-inset-top)) 18px calc(60px + env(safe-area-inset-bottom));
   }
-  .wrap { max-width: 720px; margin: 0 auto; }
-  .head { display: flex; align-items: center; gap: 12px; margin-bottom: 6px; }
-  .mark { color: #ffd27f; font-size: 26px; line-height: 1; }
-  h1 { font-size: 22px; margin: 0; font-weight: 800; letter-spacing: 0.01em; }
-  .blurb { color: #a6accd; font-size: 13.5px; margin: 2px 0 22px; line-height: 1.5; }
-  .live-dot { width: 9px; height: 9px; border-radius: 50%; background: #ff4d67; box-shadow: 0 0 10px #ff4d67; display: inline-block; }
+  .wrap { max-width: 640px; margin: 0 auto; }
+  .head { display: flex; align-items: center; gap: 12px; margin-bottom: 4px; }
+  .mark { width: 34px; height: 34px; border-radius: 9px; flex: 0 0 auto; }
+  h1 { font-size: 24px; margin: 0; font-weight: 800; letter-spacing: -.01em; }
+  .blurb { color: var(--txt-muted); font-size: 14px; margin: 2px 0 22px; line-height: 1.5; }
+  .live-dot { width: 8px; height: 8px; border-radius: 50%; background: #f04438;
+    box-shadow: 0 0 0 4px rgba(240,68,56,.22); display: inline-block; flex: 0 0 auto; }
   .list { display: flex; flex-direction: column; gap: 12px; }
   .card {
-    background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.09);
-    border-radius: 14px; padding: 14px 16px; display: flex; align-items: center; gap: 14px;
-    flex-wrap: wrap;
+    background: var(--card); border: 1px solid var(--card-border); box-shadow: var(--shadow);
+    border-radius: 16px; padding: 14px 16px; display: flex; align-items: center; gap: 14px;
+    flex-wrap: wrap; text-decoration: none; color: inherit;
+    transition: border-color .2s ease, transform .05s ease;
   }
+  a.card:hover { border-color: #2a3550; }
+  a.card:active { transform: translateY(1px); }
   .card .info { flex: 1; min-width: 0; }
-  .card .title { font-weight: 700; font-size: 15px; display: flex; align-items: center; gap: 8px; }
-  .card .sub { color: #9aa0c2; font-size: 12px; margin-top: 3px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .badge { font-size: 10px; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; color: #ff6b81; }
+  .card .title { font-weight: 700; font-size: 15px; display: flex; align-items: center; gap: 9px; color: var(--txt); }
+  .card .sub { color: var(--txt-muted); font-size: 12px; margin-top: 3px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .actions { display: flex; gap: 8px; flex: 0 0 auto; }
-  a.btn {
-    text-decoration: none; font-size: 13px; font-weight: 700; padding: 9px 14px; border-radius: 10px;
+  a.btn, span.btn {
+    text-decoration: none; font-size: 13px; font-weight: 700; padding: 9px 15px; border-radius: 10px;
     border: 1px solid transparent; white-space: nowrap;
   }
-  a.user { background: linear-gradient(180deg, #4f83ff, #3f6fe0); color: #fff; }
-  a.user:active { transform: translateY(1px); }
-  a.obs { background: rgba(255,255,255,0.08); color: #dfe3f2; border-color: rgba(255,255,255,0.14); }
-  .empty { text-align: center; color: #9aa0c2; padding: 60px 20px; line-height: 1.6; }
-  .empty .mk { font-size: 40px; color: #ffd27f; margin-bottom: 10px; }
-  .foot { color: #6b7099; font-size: 11px; text-align: center; margin-top: 26px; }
+  .btn.user { background: var(--brand-500); color: #fff; }
+  a.obs { background: rgba(255,255,255,0.06); color: #d0d5dd; border-color: var(--card-border); }
+  .empty { text-align: center; color: var(--txt-muted); padding: 64px 20px; line-height: 1.6; font-size: 14px; }
+  .empty img { width: 64px; height: 64px; border-radius: 14px; opacity: .92; margin-bottom: 12px; }
+  .foot { color: #667085; font-size: 11px; text-align: center; margin-top: 28px; }
 </style>
 </head>
 <body data-obs="${showObs ? "1" : "0"}">
   <div class="wrap">
-    <div class="head"><span class="mark">&#10022;</span><h1>${heading}</h1></div>
+    <div class="head"><img class="mark" src="${ICON}" alt="" /><h1>${heading}</h1></div>
     <div class="blurb">${blurb}</div>
     <div id="list" class="list"></div>
     <div id="empty" class="empty" hidden>
-      <div class="mk">&#10022;</div>
+      <img src="${ICON}" alt="" />
       <div>No live services right now.<br/>This page updates automatically when one starts.</div>
     </div>
-    <div class="foot">Auto-updating · Lumen Presenter</div>
+    <div class="foot">Auto-updating · Cantica</div>
   </div>
 <script>
   var SHOW_OBS = document.body.getAttribute('data-obs') === '1';
@@ -941,8 +958,11 @@ function sessionsPage(showObs) {
     list.textContent = '';
     empty.hidden = sessions.length > 0;
     sessions.forEach(function (s) {
-      var card = document.createElement('div');
+      // Audience directory: the whole card links straight to the channel page.
+      // Operator directory: a plain card with Watch (new tab) + OBS buttons.
+      var card = document.createElement(SHOW_OBS ? 'div' : 'a');
       card.className = 'card';
+      if (!SHOW_OBS) card.href = viewUrl(s.room, 'audience');
 
       var info = document.createElement('div');
       info.className = 'info';
@@ -961,21 +981,28 @@ function sessionsPage(showObs) {
 
       var actions = document.createElement('div');
       actions.className = 'actions';
-      if (s.hasUsers !== false) {
-        var user = document.createElement('a');
-        user.className = 'btn user';
-        user.href = viewUrl(s.room, 'audience');
-        user.target = '_blank'; user.rel = 'noopener';
-        user.textContent = 'Watch';
-        actions.appendChild(user);
-      }
-      if (SHOW_OBS && s.hasStream) {
-        var obs = document.createElement('a');
-        obs.className = 'btn obs';
-        obs.href = viewUrl(s.room, 'obs');
-        obs.target = '_blank'; obs.rel = 'noopener';
-        obs.textContent = 'OBS';
-        actions.appendChild(obs);
+      if (SHOW_OBS) {
+        if (s.hasUsers !== false) {
+          var user = document.createElement('a');
+          user.className = 'btn user';
+          user.href = viewUrl(s.room, 'audience');
+          user.target = '_blank'; user.rel = 'noopener';
+          user.textContent = 'Watch';
+          actions.appendChild(user);
+        }
+        if (s.hasStream) {
+          var obs = document.createElement('a');
+          obs.className = 'btn obs';
+          obs.href = viewUrl(s.room, 'obs');
+          obs.target = '_blank'; obs.rel = 'noopener';
+          obs.textContent = 'OBS';
+          actions.appendChild(obs);
+        }
+      } else {
+        var go = document.createElement('span');
+        go.className = 'btn user';
+        go.textContent = 'Watch ›';
+        actions.appendChild(go);
       }
 
       card.appendChild(info); card.appendChild(actions);
@@ -1003,6 +1030,12 @@ app.get("/sessions", (req, res) => {
   res.type("html").send(sessionsPage(true));
 });
 app.get("/usersessions", (req, res) => {
+  res.set("Cache-Control", "no-store");
+  res.type("html").send(sessionsPage(false));
+});
+// Public audience directory: lists the services on air; tapping one opens that
+// channel's page. Same as /usersessions, at a friendlier URL.
+app.get("/broadcasts", (req, res) => {
   res.set("Cache-Control", "no-store");
   res.type("html").send(sessionsPage(false));
 });
