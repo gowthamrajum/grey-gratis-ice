@@ -35,6 +35,10 @@ app.use(bodyParser.json({ limit: "50mb" }));
 const allowedOrigins = [
   "http://localhost:5173",
   "http://127.0.0.1:5173",
+  "http://localhost:4173",
+  "http://localhost:4178",
+  // Cantica Live companion app (public read consumer of the broadcast relay)
+  "https://gowthamrajum.github.io",
   "https://worshipready.onrender.com",
   "https://grey-gratis-ice.onrender.com"
 ];
