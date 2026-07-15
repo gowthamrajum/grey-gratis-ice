@@ -40,7 +40,10 @@ const allowedOrigins = [
   // Cantica Live companion app (public read consumer of the broadcast relay)
   "https://gowthamrajum.github.io",
   "https://worshipready.onrender.com",
-  "https://grey-gratis-ice.onrender.com"
+  "https://grey-gratis-ice.onrender.com",
+  // Cantica Web — Telugu Community Church site on Render (custom domain + default)
+  "https://live.teluguchurchdfw.org",
+  "https://cantica-web.onrender.com"
 ];
 
 function isAllowedOrigin(origin) {
