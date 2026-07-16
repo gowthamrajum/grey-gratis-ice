@@ -71,6 +71,12 @@ const corsOptions = {
 };
 
 app.use(cors(corsOptions));
+
+// Shared background-image library for the Cantica presenter. Rehosted here (off
+// worshipReady) so the desktop output, web audience and OBS overlay all load the
+// same stable URLs — grey-gratis-ice.onrender.com/backgrounds/<category>/<file>.
+// Drop more JPGs into public/backgrounds/<category>/ and they're served at once.
+app.use("/backgrounds", express.static(path.join(__dirname, "public", "backgrounds"), { maxAge: "7d" }));
 app.options("*", cors(corsOptions));
 
 // -------------------------------
