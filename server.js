@@ -714,18 +714,25 @@ function bcToken(req) {
   return m ? m[1] : (req.query.token || req.query.key || "");
 }
 function bcView(req) {
-  return req.query.view === "users" ? "users" : req.query.view === "stream" ? "stream" : null;
+  const v = req.query.view;
+  return v === "users" ? "users" : v === "stream" ? "stream" : v === "operator" ? "operator" : null;
 }
 // Project the stored state onto one channel. New presenters post a channel-
-// partitioned payload { ...shared, users:{slide,next}, stream:{slide,next} }, so
-// an item that's off-air for a channel never carries its lyrics to that
-// channel's page. Pick the requested slice and flatten it to { ...shared, slide,
-// next }. Legacy flat payloads (or no view) are returned unchanged.
+// partitioned payload { ...shared, users:{slide,next}, stream:{slide,next},
+// operator:{slide,next} }, so an item that's off-air for a channel never carries
+// its lyrics to that channel's page. Pick the requested slice and flatten it to
+// { ...shared, slide, next }. The `operator` slice is UNSUPPRESSED (a phone
+// operator sees every slide like the desktop presenter); users/stream inherit
+// the per-item broadcast restrictions. Legacy flat payloads are returned as-is.
 function projectState(state, view) {
   if (!state || typeof state !== "object") return state;
-  if (!state.users && !state.stream) return state; // legacy flat payload
-  const chan = view === "users" ? state.users : view === "stream" ? state.stream : (state.stream || state.users);
-  const { users, stream, ...shared } = state;
+  if (!state.users && !state.stream && !state.operator) return state; // legacy flat payload
+  const chan =
+    view === "operator" ? (state.operator || state.stream || state.users) :
+    view === "users" ? state.users :
+    view === "stream" ? state.stream :
+    (state.stream || state.users);
+  const { users, stream, operator, ...shared } = state;
   return { ...shared, slide: chan ? chan.slide : null, next: chan ? chan.next : null };
 }
 function bcFrame(r, view) {
