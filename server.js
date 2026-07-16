@@ -776,6 +776,76 @@ app.get("/broadcast/:room/stream", (req, res) => {
   req.on("close", () => { clearInterval(hb); r.clients.delete(client); });
 });
 
+// -------------------------------
+// ✅ Remote control channel (phone remote ⇄ desktop presenter)
+// -------------------------------
+// A phone "remote" can drive the SAME live deck the desktop presenter owns.
+// The relay holds no deck — just as it mirrors state above, here it's only the
+// command pipe. Flow:
+//   1. The desktop presenter opens the room's control STREAM, listening with the
+//      room's control PIN. Subscribing registers/refreshes that PIN (the desktop
+//      is the authority for its own random room slug).
+//   2. A phone POSTs a command (next/prev/goto/blackout/clear/logo) with the PIN.
+//   3. We fan the command out to the desktop, which runs it against its deck and
+//      republishes state — so the phone sees the result on the normal state feed.
+// Trust model matches the existing broadcast: the room slug is an unguessable
+// random string, and the PIN adds a second factor specifically for control.
+const CONTROL_CMDS = new Set(["next", "prev", "goto", "blackout", "clear", "logo"]);
+
+function bcControl(r) {
+  if (!r.control) r.control = { pin: "", clients: new Set(), seq: 0, updatedAt: 0 };
+  return r.control;
+}
+
+// Desktop presenter subscribes here (SSE) to receive remote commands. Passing a
+// pin registers it as the room's control PIN.
+app.get("/broadcast/:room/control/stream", (req, res) => {
+  const r = bcRoom(req.params.room);
+  const ctl = bcControl(r);
+  const pin = String(req.query.pin || "");
+  if (pin) { ctl.pin = pin; ctl.updatedAt = Date.now(); }
+  res.set({
+    "Content-Type": "text/event-stream",
+    "Cache-Control": "no-cache, no-transform",
+    Connection: "keep-alive",
+    "X-Accel-Buffering": "no"
+  });
+  if (res.flushHeaders) res.flushHeaders();
+  res.write("retry: 3000\n\n");
+  res.write(`event: ready\ndata: ${JSON.stringify({ ok: true })}\n\n`);
+  ctl.clients.add(res);
+  const hb = setInterval(() => { try { res.write(": hb\n\n"); } catch (_) {} }, 15000);
+  req.on("close", () => { clearInterval(hb); ctl.clients.delete(res); });
+});
+
+// Phone remote posts a command. Requires the room's control PIN and a presenter
+// actually listening (otherwise the command has nowhere to land).
+app.post("/broadcast/:room/control", (req, res) => {
+  const r = bcRoom(req.params.room);
+  const ctl = bcControl(r);
+  const body = req.body || {};
+  const pin = String(body.pin || "");
+  const cmd = String(body.cmd || "");
+  if (!ctl.pin) return res.status(409).json({ error: "presenter-offline" });
+  if (pin !== ctl.pin) return res.status(401).json({ error: "bad-pin" });
+  if (!CONTROL_CMDS.has(cmd)) return res.status(400).json({ error: "bad-cmd" });
+  if (ctl.clients.size === 0) return res.status(409).json({ error: "presenter-offline" });
+  ctl.seq++;
+  const frame = `event: command\ndata: ${JSON.stringify({ seq: ctl.seq, cmd, arg: body.arg ?? null })}\n\n`;
+  for (const c of ctl.clients) { try { c.write(frame); } catch (_) {} }
+  res.json({ ok: true, seq: ctl.seq, presenters: ctl.clients.size });
+});
+
+// Phone remote checks a room before it starts sending (clean connect UX):
+// is a presenter online, does the room require a PIN, and is the given PIN right?
+app.get("/broadcast/:room/control/status", (req, res) => {
+  const r = bcRoom(req.params.room);
+  const ctl = bcControl(r);
+  const pin = String(req.query.pin || "");
+  res.set("Cache-Control", "no-store");
+  res.json({ online: ctl.clients.size > 0, hasPin: !!ctl.pin, pinOk: !!ctl.pin && pin === ctl.pin });
+});
+
 // The OBS overlay page itself (self-contained; token comes in the query string).
 // Single source of truth is broadcast/obs.html in the Lumen app repo — we fetch
 // the latest (cached 5 min) so pushing the app updates the overlay with no hand-
