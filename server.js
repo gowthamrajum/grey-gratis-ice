@@ -741,8 +741,25 @@ function projectState(state, view) {
   const { users, stream, operator, ...shared } = state;
   return { ...shared, slide: chan ? chan.slide : null, next: chan ? chan.next : null };
 }
+// Concurrent AUDIENCE watchers = SSE clients on the "users" channel (excludes the
+// OBS overlay on "stream" and phone operators on "operator"). This is the number
+// the audience/operator "who's watching" badge shows.
+function usersCount(r) {
+  let n = 0;
+  for (const c of r.clients) if (c.view === "users") n++;
+  return n;
+}
 function bcFrame(r, view) {
-  return `event: state\ndata: ${JSON.stringify({ rev: r.rev, state: projectState(r.state, view) })}\n\n`;
+  return `event: state\ndata: ${JSON.stringify({ rev: r.rev, state: projectState(r.state, view), viewers: usersCount(r) })}\n\n`;
+}
+// A tiny standalone frame so the live watcher count updates the instant someone
+// joins or leaves — not only when the next slide is published.
+function viewersFrame(r) {
+  return `event: viewers\ndata: ${JSON.stringify({ count: usersCount(r) })}\n\n`;
+}
+function broadcastViewers(r) {
+  const frame = viewersFrame(r);
+  for (const c of r.clients) { try { c.res.write(frame); } catch (_) {} }
 }
 // Optional gate: only enforced when a token is configured for that side.
 function bcAllowed(configured, req) {
@@ -766,7 +783,7 @@ app.get("/broadcast/:room/state", (req, res) => {
   if (!bcAllowed(BROADCAST_VIEWER_TOKEN, req)) return res.status(401).json({ error: "unauthorized" });
   const r = bcRoom(req.params.room);
   res.set("Cache-Control", "no-store");
-  res.json({ rev: r.rev, state: projectState(r.state, bcView(req)) });
+  res.json({ rev: r.rev, state: projectState(r.state, bcView(req)), viewers: usersCount(r) });
 });
 
 // Viewer subscribes over Server-Sent Events (instant updates).
@@ -785,8 +802,14 @@ app.get("/broadcast/:room/stream", (req, res) => {
   res.write(bcFrame(r, view)); // send current state immediately
   const client = { res, view };
   r.clients.add(client);
+  res.write(viewersFrame(r)); // this client's starting count (any channel)
+  if (view === "users") broadcastViewers(r); // a watcher joined → tell the room
   const hb = setInterval(() => { try { res.write(": hb\n\n"); } catch (_) {} }, 15000);
-  req.on("close", () => { clearInterval(hb); r.clients.delete(client); });
+  req.on("close", () => {
+    clearInterval(hb);
+    r.clients.delete(client);
+    if (view === "users") broadcastViewers(r); // a watcher left → tell the room
+  });
 });
 
 // -------------------------------
@@ -936,7 +959,7 @@ function activeSessions(view) {
       hasStream: !!streamSlide,
       waiting: !slide,
       updatedAt: r.updatedAt,
-      viewers: r.clients.size
+      viewers: usersCount(r)
     });
   }
   out.sort((a, b) => b.updatedAt - a.updatedAt);
