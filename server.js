@@ -82,6 +82,20 @@ app.options("*", cors(corsOptions));
 // -------------------------------
 // DB Setup (same schema)
 // -------------------------------
+// CREATE TABLE IF NOT EXISTS cannot add a column: where a table already exists in
+// production it is left exactly as it was, so a new column in the CREATE above
+// reaches fresh databases only. ALTER TABLE is what actually adds it — and since
+// it throws once the column is there, every restart after the first lands in the
+// catch. Anything other than that one error is a real failure and rethrows.
+async function addColumnIfMissing(table, columnDef) {
+  try {
+    await run(`ALTER TABLE ${table} ADD COLUMN ${columnDef}`);
+    console.log(`Added column to ${table}: ${columnDef}`);
+  } catch (e) {
+    if (!/duplicate column name/i.test((e && e.message) || "")) throw e;
+  }
+}
+
 async function initDb() {
   await run(`
     CREATE TABLE IF NOT EXISTS presentations (
@@ -123,9 +137,15 @@ async function initDb() {
       created_at TEXT,
       last_updated_at TEXT,
       created_by TEXT DEFAULT 'System',
-      last_updated_by TEXT DEFAULT ''
+      last_updated_by TEXT DEFAULT '',
+      author TEXT DEFAULT ''
     )
   `);
+
+  // Who wrote the song. Blank for every existing song until someone fills it in.
+  // Declared last above so a fresh database column-orders the same way a migrated
+  // one does (ALTER can only append).
+  await addColumnIfMissing("songs", "author TEXT DEFAULT ''");
 
   await run(`
     CREATE TABLE IF NOT EXISTS psalms (
@@ -143,7 +163,8 @@ async function initDb() {
       created_at = COALESCE(created_at, datetime('now')),
       last_updated_at = COALESCE(last_updated_at, datetime('now')),
       created_by = COALESCE(created_by, 'System'),
-      last_updated_by = COALESCE(last_updated_by, '')
+      last_updated_by = COALESCE(last_updated_by, ''),
+      author = COALESCE(author, '')
   `);
 }
 
@@ -482,7 +503,7 @@ app.get("/songs/list", async (req, res) => {
     const total = Number(countRow.total);
 
     const rows = await all(
-      `SELECT song_id, song_name, created_at, last_updated_at, created_by, last_updated_by
+      `SELECT song_id, song_name, author, created_at, last_updated_at, created_by, last_updated_by
        FROM songs ${whereClause}
        ORDER BY last_updated_at DESC, song_id DESC
        LIMIT ? OFFSET ?`,
@@ -503,7 +524,7 @@ app.get("/songs/list", async (req, res) => {
 
 app.post("/songs", async (req, res) => {
   try {
-    const { song_name, main_stanza, stanzas } = req.body;
+    const { song_name, main_stanza, stanzas, author } = req.body;
     if (!song_name || !main_stanza || !stanzas)
       return res.status(400).send("Missing required fields");
 
@@ -520,9 +541,15 @@ app.post("/songs", async (req, res) => {
 
     const now = new Date().toISOString();
     const r = await run(
-      `INSERT INTO songs (song_name, main_stanza, stanzas, created_at, last_updated_at, created_by, last_updated_by)
-       VALUES (?, ?, ?, ?, ?, ?, ?)`,
-      [song_name, JSON.stringify(main_stanza), JSON.stringify(stanzas), now, now, "System", ""]
+      `INSERT INTO songs (song_name, main_stanza, stanzas, author, created_at, last_updated_at, created_by, last_updated_by)
+       VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
+      [
+        song_name,
+        JSON.stringify(main_stanza),
+        JSON.stringify(stanzas),
+        typeof author === "string" ? author.trim() : "",
+        now, now, "System", ""
+      ]
     );
 
     // libSQL returns lastInsertRowid
@@ -534,15 +561,26 @@ app.post("/songs", async (req, res) => {
 
 app.put("/songs/:id", async (req, res) => {
   try {
-    const { song_name, main_stanza, stanzas, last_updated_by } = req.body;
+    const { song_name, main_stanza, stanzas, last_updated_by, author } = req.body;
     const now = new Date().toISOString();
     const updatedBy = last_updated_by || "System";
 
     const r = await run(
-      `UPDATE songs 
-       SET song_name = ?, main_stanza = ?, stanzas = ?, last_updated_at = ?, last_updated_by = ?
+      // author is COALESCEd rather than overwritten: the existing clients don't
+      // know the field yet, and a PUT without it must not wipe an author someone
+      // has already filled in.
+      `UPDATE songs
+       SET song_name = ?, main_stanza = ?, stanzas = ?, author = COALESCE(?, author), last_updated_at = ?, last_updated_by = ?
        WHERE song_id = ?`,
-      [song_name, JSON.stringify(main_stanza), JSON.stringify(stanzas), now, updatedBy, req.params.id]
+      [
+        song_name,
+        JSON.stringify(main_stanza),
+        JSON.stringify(stanzas),
+        author === undefined || author === null ? null : String(author).trim(),
+        now,
+        updatedBy,
+        req.params.id
+      ]
     );
     if (!r.rowsAffected) return res.status(404).send("Song not found");
     res.send("Song updated");
@@ -553,12 +591,15 @@ app.put("/songs/:id", async (req, res) => {
 
 app.get("/songs", async (req, res) => {
   try {
-    const { name, created_by, last_updated_by, created_from, created_to, updated_from, updated_to } = req.query;
+    const { name, author, created_by, last_updated_by, created_from, created_to, updated_from, updated_to } = req.query;
 
     let baseQuery = "SELECT * FROM songs WHERE 1=1";
     const params = [];
 
     if (name) { baseQuery += " AND song_name LIKE ?"; params.push(`%${name}%`); }
+    // Partial match like song_name rather than exact like created_by: an author is
+    // hand-typed, so "samuel" should find "Rev. K. Samuel".
+    if (author) { baseQuery += " AND author LIKE ?"; params.push(`%${author}%`); }
     if (created_by) { baseQuery += " AND created_by = ?"; params.push(created_by); }
     if (last_updated_by) { baseQuery += " AND last_updated_by = ?"; params.push(last_updated_by); }
     if (created_from) { baseQuery += " AND date(created_at) >= date(?)"; params.push(created_from); }
@@ -573,6 +614,7 @@ app.get("/songs", async (req, res) => {
       song_name: row.song_name,
       main_stanza: row.main_stanza ? JSON.parse(row.main_stanza) : undefined,
       stanzas: row.stanzas ? JSON.parse(row.stanzas) : undefined,
+      author: row.author || "",
       created_at: row.created_at,
       last_updated_at: row.last_updated_at,
       created_by: row.created_by,
@@ -594,6 +636,7 @@ app.get("/songs/:id", async (req, res) => {
       song_name: row.song_name,
       main_stanza: row.main_stanza ? JSON.parse(row.main_stanza) : undefined,
       stanzas: row.stanzas ? JSON.parse(row.stanzas) : undefined,
+      author: row.author || "",
       created_at: row.created_at,
       last_updated_at: row.last_updated_at,
       created_by: row.created_by,
@@ -770,9 +813,10 @@ app.post("/songs/parse-lyrics", async (req, res) => {
 STEP 1 — WEB SEARCH:
 Search the web for this song to find properly structured lyrics. Try searching for:
 - "${firstLines} Telugu Christian song lyrics"
+- "${firstLines} Telugu Christian song writer lyricist composer"
 - Any recognisable Telugu or English phrases from the lyrics below
 
-Use the web search results to cross-reference and verify the song structure: which part is the pallavi (chorus), which are the charanams (stanzas), and ensure you have complete, accurate Telugu and English transliteration.
+Use the web search results to cross-reference and verify the song structure: which part is the pallavi (chorus), which are the charanams (stanzas), and ensure you have complete, accurate Telugu and English transliteration. Note who WROTE the song if the results state it plainly.
 
 STEP 2 — PARSE:
 Using BOTH the pasted lyrics AND any web results, produce a structured JSON.
@@ -787,10 +831,12 @@ RULES:
 7. The song_name should be the first meaningful English transliteration phrase (title of the song).
 8. Keep Telugu lines as proper Telugu script. Keep English lines as English/Latin transliteration.
 9. Each line should be a single displayable line (not too long — split long lines naturally at phrase boundaries).
+10. "author" is the person who WROTE the song (lyricist/composer). Take it only from the web results, never from the pasted text alone. Telugu Christian songs are very often traditional or unattributed, and a wrong name is worse than no name: if the search does not clearly identify the writer, return "" and move on. Never infer an author from a singer, a YouTube channel, an uploader, an album, a music director or a church name — those are performers and publishers, not writers. Do not return hedges like "Unknown" or "Traditional"; return "" instead.
 
 IMPORTANT: After searching and analysing, return ONLY valid JSON as your final text output — no markdown fences, no explanation. Use this exact structure:
 {
   "song_name": "English name of the song",
+  "author": "Who wrote the song, or \\"\\" if the search did not clearly establish it",
   "main_stanza": {
     "telugu": ["line1", "line2", ...],
     "english": ["transliteration1", "transliteration2", ...]
@@ -830,6 +876,13 @@ ${rawLyrics}`
     }
 
     const parsed = JSON.parse(jsonStr);
+    // The author is best-effort — the model is told to return "" when the search
+    // doesn't establish it. Normalize a missing/null/hedged value to "" so the
+    // field is always a plain string the client can post straight to /songs.
+    parsed.author = typeof parsed.author === "string" ? parsed.author.trim() : "";
+    if (/^(unknown|traditional|n\/?a|none|not\s+found|unattributed|anonymous)\.?$/i.test(parsed.author)) {
+      parsed.author = "";
+    }
     res.json(parsed);
   } catch (err) {
     console.error("AI lyrics parse failed:", err.message);
