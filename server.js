@@ -31,7 +31,7 @@ async function all(sql, params = []) {
 
 app.use(bodyParser.json({ limit: "50mb" }));
 
-// ✅ CORS
+// CORS
 const allowedOrigins = [
   "http://localhost:5173",
   "http://127.0.0.1:5173",
@@ -60,7 +60,7 @@ function isAllowedOrigin(origin) {
 const corsOptions = {
   origin(origin, cb) {
     if (isAllowedOrigin(origin)) return cb(null, true);
-    console.warn("❌ CORS blocked:", origin);
+    console.warn("CORS blocked:", origin);
     cb(new Error("Not allowed by CORS"));
   },
   methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
@@ -80,7 +80,7 @@ app.use("/backgrounds", express.static(path.join(__dirname, "public", "backgroun
 app.options("*", cors(corsOptions));
 
 // -------------------------------
-// ✅ DB Setup (same schema)
+// DB Setup (same schema)
 // -------------------------------
 async function initDb() {
   await run(`
@@ -93,6 +93,25 @@ async function initDb() {
       createdDateTime DATETIME DEFAULT CURRENT_TIMESTAMP,
       updatedDateTime DATETIME DEFAULT CURRENT_TIMESTAMP
     )
+  `);
+
+  await run(`
+    CREATE TABLE IF NOT EXISTS services (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      serviceDay TEXT NOT NULL,
+      serviceDate TEXT NOT NULL,
+      serviceData TEXT NOT NULL,
+      active INTEGER NOT NULL DEFAULT 1,
+      createdDateTime DATETIME DEFAULT CURRENT_TIMESTAMP,
+      updatedDateTime DATETIME DEFAULT CURRENT_TIMESTAMP
+    )
+  `);
+
+  // One service per slot. The POST checks first and answers 409, but two callers
+  // racing land here — so the constraint, not the check, is what guarantees it.
+  await run(`
+    CREATE UNIQUE INDEX IF NOT EXISTS idx_services_date_day
+    ON services (serviceDate, serviceDay)
   `);
 
   await run(`
@@ -129,7 +148,7 @@ async function initDb() {
 }
 
 // -------------------------------
-// ✅ Presentations API
+// Presentations API
 // -------------------------------
 app.post("/presentations", async (req, res) => {
   try {
@@ -251,7 +270,201 @@ app.delete("/presentations/:presentationName", async (req, res) => {
 });
 
 // -------------------------------
-// ✅ Songs API
+// Services API (saved worship services)
+// -------------------------------
+// A service is one gathering: the day it happens ("Sunday", "Sunday Morning",
+// "Good Friday"), the calendar date, and the whole deck as one JSON object —
+// items, background, theme, whatever the presenter saves. serviceData is stored
+// verbatim as TEXT so the server never has to know the deck's shape; the
+// body-parser limit (50mb) is the only bound on how big it gets.
+//
+// (serviceDate, serviceDay) is UNIQUE. Posting the same slot twice answers 409
+// with the existing row and the exact call to edit it, rather than silently
+// forking a second copy of the same service.
+//
+// Retention: a service is tagged active on creation and purged automatically
+// once its serviceDate is more than SERVICE_RETENTION_DAYS old (see
+// purgeExpiredServices below), so this table stays small on its own.
+const SERVICE_RETENTION_DAYS = 7;
+
+// Accept 'YYYY-MM-DD' or any ISO string starting with one; keep just the date so
+// stored dates compare lexicographically (which is also chronologically).
+function normalizeServiceDate(v) {
+  const m = String(v == null ? "" : v).trim().match(/^(\d{4}-\d{2}-\d{2})/);
+  return m ? m[1] : null;
+}
+// The deck arrives as a JSON object; a caller that already stringified it works too.
+function serializeServiceData(v) {
+  if (v == null) return null;
+  if (typeof v === "string") return v.trim() ? v : null;
+  if (typeof v === "object") { try { return JSON.stringify(v); } catch (_) { return null; } }
+  return null;
+}
+function parseServiceData(s) {
+  try { return JSON.parse(s); } catch (_) { return s; }
+}
+function isUniqueViolation(e) {
+  return /UNIQUE constraint failed/i.test((e && e.message) || "");
+}
+function serviceRow(row) {
+  return {
+    id: Number(row.id),
+    serviceDay: row.serviceDay,
+    serviceDate: row.serviceDate,
+    active: !!row.active,
+    createdDateTime: row.createdDateTime,
+    updatedDateTime: row.updatedDateTime
+  };
+}
+// The 409 body: everything the caller needs to switch from "create" to "edit"
+// without a second round-trip to find the existing service.
+function serviceConflict(existing) {
+  return {
+    error: "conflict",
+    message: `A service already exists for ${existing.serviceDay} on ${existing.serviceDate}. Edit the existing service instead of creating a new one.`,
+    existing: serviceRow(existing),
+    editWith: { method: "PUT", url: `/services/${Number(existing.id)}` }
+  };
+}
+
+// Create a service.
+app.post("/services", async (req, res) => {
+  const { serviceDay, serviceDate, serviceData } = req.body || {};
+  const day = String(serviceDay == null ? "" : serviceDay).trim();
+  const date = normalizeServiceDate(serviceDate);
+  const data = serializeServiceData(serviceData);
+  if (!day) return res.status(400).send("serviceDay is required.");
+  if (!date) return res.status(400).send("serviceDate is required (YYYY-MM-DD).");
+  if (!data) return res.status(400).send("serviceData (a JSON object) is required.");
+
+  try {
+    const clash = await get(
+      `SELECT id, serviceDay, serviceDate, active, createdDateTime, updatedDateTime
+       FROM services WHERE serviceDate = ? AND serviceDay = ?`,
+      [date, day]
+    );
+    if (clash) return res.status(409).json(serviceConflict(clash));
+
+    const now = new Date().toISOString();
+    const r = await run(
+      `INSERT INTO services (serviceDay, serviceDate, serviceData, active, createdDateTime, updatedDateTime)
+       VALUES (?, ?, ?, 1, ?, ?)`,
+      [day, date, data, now, now]
+    );
+    res.status(201).json({
+      id: Number(r.lastInsertRowid),
+      serviceDay: day,
+      serviceDate: date,
+      active: true,
+      createdDateTime: now,
+      updatedDateTime: now
+    });
+  } catch (e) {
+    if (isUniqueViolation(e)) {
+      // Lost the race between the check above and the insert — same answer.
+      const clash = await get(
+        `SELECT id, serviceDay, serviceDate, active, createdDateTime, updatedDateTime
+         FROM services WHERE serviceDate = ? AND serviceDay = ?`,
+        [date, day]
+      ).catch(() => null);
+      if (clash) return res.status(409).json(serviceConflict(clash));
+    }
+    res.status(500).send(e.message);
+  }
+});
+
+// List every service. Deliberately WITHOUT serviceData — the decks are large and
+// a directory only needs the labels. Optional ?from=&to= narrow by serviceDate.
+app.get("/services", async (req, res) => {
+  try {
+    const from = normalizeServiceDate(req.query.from);
+    const to = normalizeServiceDate(req.query.to);
+
+    let sql = `SELECT id, serviceDay, serviceDate, active, createdDateTime, updatedDateTime,
+                      LENGTH(serviceData) AS serviceDataLength
+               FROM services WHERE 1=1`;
+    const params = [];
+    if (from) { sql += " AND serviceDate >= ?"; params.push(from); }
+    if (to) { sql += " AND serviceDate <= ?"; params.push(to); }
+    sql += " ORDER BY serviceDate DESC, id DESC";
+
+    const rows = await all(sql, params);
+    res.json({
+      services: rows.map((row) => ({
+        ...serviceRow(row),
+        // characters, not bytes — a cheap "how big is this deck" for the list UI
+        serviceDataLength: Number(row.serviceDataLength)
+      })),
+      total: rows.length,
+      retentionDays: SERVICE_RETENTION_DAYS
+    });
+  } catch (e) {
+    res.status(500).send(e.message);
+  }
+});
+
+// One service, including the full deck.
+app.get("/services/:id", async (req, res) => {
+  try {
+    const row = await get("SELECT * FROM services WHERE id = ?", [req.params.id]);
+    if (!row) return res.status(404).send("Service not found.");
+    res.json({ ...serviceRow(row), serviceData: parseServiceData(row.serviceData) });
+  } catch (e) {
+    res.status(500).send(e.message);
+  }
+});
+
+// Edit an existing service — what a 409 from POST /services points the caller to.
+// serviceData is replaced wholesale; day/date are only touched when supplied.
+app.put("/services/:id", async (req, res) => {
+  const { serviceDay, serviceDate, serviceData } = req.body || {};
+  const data = serializeServiceData(serviceData);
+  if (!data) return res.status(400).send("serviceData (a JSON object) is required.");
+  const day = serviceDay === undefined ? null : String(serviceDay == null ? "" : serviceDay).trim();
+  const date = serviceDate === undefined ? null : normalizeServiceDate(serviceDate);
+  if (serviceDay !== undefined && !day) return res.status(400).send("serviceDay cannot be empty.");
+  if (serviceDate !== undefined && !date) return res.status(400).send("serviceDate must be YYYY-MM-DD.");
+
+  try {
+    const now = new Date().toISOString();
+    const sets = ["serviceData = ?", "updatedDateTime = ?"];
+    const params = [data, now];
+    if (day) { sets.push("serviceDay = ?"); params.push(day); }
+    if (date) { sets.push("serviceDate = ?"); params.push(date); }
+    params.push(req.params.id);
+
+    const r = await run(`UPDATE services SET ${sets.join(", ")} WHERE id = ?`, params);
+    if (!r.rowsAffected) return res.status(404).send("Service not found.");
+    const row = await get(
+      `SELECT id, serviceDay, serviceDate, active, createdDateTime, updatedDateTime
+       FROM services WHERE id = ?`,
+      [req.params.id]
+    );
+    res.json(serviceRow(row));
+  } catch (e) {
+    // Moving this service onto a slot another service already occupies.
+    if (isUniqueViolation(e)) {
+      return res.status(409).json({
+        error: "conflict",
+        message: "Another service already exists for that day and date. Edit that one instead."
+      });
+    }
+    res.status(500).send(e.message);
+  }
+});
+
+app.delete("/services/:id", async (req, res) => {
+  try {
+    const r = await run("DELETE FROM services WHERE id = ?", [req.params.id]);
+    if (!r.rowsAffected) return res.status(404).send("Service not found.");
+    res.send("Service deleted.");
+  } catch (e) {
+    res.status(500).send(e.message);
+  }
+});
+
+// -------------------------------
+// Songs API
 // -------------------------------
 
 // Lightweight song list with pagination + search (no lyrics payload)
@@ -415,7 +628,7 @@ app.delete("/songs/by-name/:name", async (req, res) => {
 });
 
 // -------------------------------
-// ✅ Psalms API
+// Psalms API
 // -------------------------------
 app.post("/psalms", async (req, res) => {
   try {
@@ -520,7 +733,7 @@ app.post("/psalms/bulk", async (req, res) => {
 });
 
 // -------------------------------
-// ✅ AI Lyrics Parser
+// AI Lyrics Parser
 // -------------------------------
 app.post("/songs/parse-lyrics", async (req, res) => {
   try {
@@ -625,14 +838,14 @@ ${rawLyrics}`
 });
 
 // -------------------------------
-// ✅ Health Check
+// Health Check
 // -------------------------------
 app.get("/ping", (req, res) => {
   res.status(200).json({ status: "ok", timestamp: new Date().toISOString() });
 });
 
 // -------------------------------
-// ✅ ESV (Crossway) proxy
+// ESV (Crossway) proxy
 // -------------------------------
 // Holds the ESV API key SERVER-SIDE (ESV_API_KEY env var) so no client — desktop
 // app or otherwise — ever needs it, and the key never lives in a public repo or
@@ -691,7 +904,7 @@ app.get("/esv/passage", async (req, res) => {
 });
 
 // -------------------------------
-// ✅ Live broadcast relay (Lumen Presenter → OBS browser source)
+// Live broadcast relay (Lumen Presenter → OBS browser source)
 // -------------------------------
 // A tiny in-memory pub/sub: the presenter POSTs the current live slide state; a
 // web page / OBS Browser Source subscribes over SSE (or short-polls) and renders
@@ -813,7 +1026,7 @@ app.get("/broadcast/:room/stream", (req, res) => {
 });
 
 // -------------------------------
-// ✅ Remote control channel (phone remote ⇄ desktop presenter)
+// Remote control channel (phone remote ⇄ desktop presenter)
 // -------------------------------
 // A phone "remote" can drive the SAME live deck the desktop presenter owns.
 // The relay holds no deck — just as it mirrors state above, here it's only the
@@ -916,7 +1129,7 @@ app.get("/broadcast/:room/view", async (req, res) => {
 });
 
 // -------------------------------
-// ✅ Live sessions directory
+// Live sessions directory
 // -------------------------------
 // Two index pages that list the broadcasts currently on air:
 //   GET /sessions      — operator/admin view: each session links to BOTH the
@@ -1158,7 +1371,7 @@ app.get("/broadcasts", (req, res) => {
 });
 
 // -------------------------------
-// ✅ Start Server
+// Start Server
 // -------------------------------
 const PORT = process.env.PORT || 3000;
 
@@ -1175,7 +1388,7 @@ async function deleteOldPresentationsCompletely() {
 
     const oldPresentationNames = rows.map(r => r.presentationName);
     if (oldPresentationNames.length === 0) {
-      console.log("🧼 No stale presentations to delete.");
+      console.log("No stale presentations to delete.");
       return;
     }
 
@@ -1184,9 +1397,29 @@ async function deleteOldPresentationsCompletely() {
       `DELETE FROM presentations WHERE presentationName IN (${placeholders})`,
       oldPresentationNames
     );
-    console.log(`🧹 Deleted ${r.rowsAffected} slide(s) from presentations:`, oldPresentationNames);
+    console.log(`Deleted ${r.rowsAffected} slide(s) from presentations:`, oldPresentationNames);
   } catch (err) {
-    console.error("❌ Error during cleanup:", err.message);
+    console.error("Error during cleanup:", err.message);
+  }
+}
+
+// Services are tagged active when created and live for SERVICE_RETENTION_DAYS
+// past the date they were held; after that they're purged automatically so the
+// table never grows without bound. The cutoff is compared against serviceDate
+// (not createdDateTime) so a service planned weeks ahead is never purged before
+// it happens. Stored dates are normalized 'YYYY-MM-DD', so a string compare is a
+// date compare. Runs hourly, so a service outlives its window by at most an hour.
+async function purgeExpiredServices() {
+  try {
+    const cutoff = new Date(Date.now() - SERVICE_RETENTION_DAYS * 24 * 60 * 60 * 1000)
+      .toISOString()
+      .slice(0, 10);
+    const r = await run("DELETE FROM services WHERE serviceDate < ?", [cutoff]);
+    if (r.rowsAffected) {
+      console.log(`Purged ${r.rowsAffected} service(s) older than ${SERVICE_RETENTION_DAYS} days (before ${cutoff}).`);
+    }
+  } catch (err) {
+    console.error("Error purging services:", err.message);
   }
 }
 
@@ -1197,7 +1430,7 @@ function scheduleRandomCleanup() {
   nextRun.setDate(now.getDate() + 1);
   nextRun.setHours(randomHour, 0, 0, 0);
   const delay = nextRun - now;
-  console.log(`⏰ Next cleanup scheduled at ${nextRun.toLocaleString()}`);
+  console.log(`Next cleanup scheduled at ${nextRun.toLocaleString()}`);
 
   setTimeout(async () => {
     await deleteOldPresentationsCompletely();
@@ -1209,7 +1442,9 @@ function scheduleRandomCleanup() {
   await initDb();
   await deleteOldPresentationsCompletely();
   scheduleRandomCleanup();
+  await purgeExpiredServices();
+  setInterval(purgeExpiredServices, 60 * 60 * 1000);
   app.listen(PORT, () => {
-    console.log(`✅ Server running at http://localhost:${PORT}`);
+    console.log(`Server running at http://localhost:${PORT}`);
   });
 })();
