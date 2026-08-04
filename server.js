@@ -418,6 +418,41 @@ function serviceConflict(existing) {
 }
 
 // Create a service.
+// -------------------------------
+// Services: change feed
+// -------------------------------
+// Cantica polls /services to notice that Sunday's set has moved on, and a poll
+// is only ever as fresh as its interval. This is the push side: every create,
+// edit, delete and purge announces itself, so a save on the phone reaches the
+// projection machine while the person who made it is still looking at it.
+//
+// Deliberately contentless — an event says "services changed", not what to. The
+// listener already knows how to fetch what it needs, and a payload here would
+// be a second copy of that logic to keep in step.
+const serviceClients = new Set();
+
+function servicesChanged(what) {
+  const frame = `event: services\ndata: ${JSON.stringify({ what, at: Date.now() })}\n\n`;
+  for (const res of serviceClients) {
+    try { res.write(frame); } catch (_) { serviceClients.delete(res); }
+  }
+}
+
+app.get("/services/stream", (req, res) => {
+  res.set({
+    "Content-Type": "text/event-stream",
+    "Cache-Control": "no-cache, no-transform",
+    Connection: "keep-alive",
+    "X-Accel-Buffering": "no"
+  });
+  if (res.flushHeaders) res.flushHeaders();
+  res.write("retry: 3000\n\n");
+  res.write(`event: services\ndata: ${JSON.stringify({ what: "hello", at: Date.now() })}\n\n`);
+  serviceClients.add(res);
+  const hb = setInterval(() => { try { res.write(": hb\n\n"); } catch (_) {} }, 15000);
+  req.on("close", () => { clearInterval(hb); serviceClients.delete(res); });
+});
+
 app.post("/services", async (req, res) => {
   const { serviceDay, serviceDate, serviceData } = req.body || {};
   const day = String(serviceDay == null ? "" : serviceDay).trim();
@@ -441,6 +476,7 @@ app.post("/services", async (req, res) => {
        VALUES (?, ?, ?, 1, ?, ?)`,
       [day, date, data, now, now]
     );
+    servicesChanged("created");
     res.status(201).json({
       id: Number(r.lastInsertRowid),
       serviceDay: day,
@@ -530,6 +566,7 @@ app.put("/services/:id", async (req, res) => {
        FROM services WHERE id = ?`,
       [req.params.id]
     );
+    servicesChanged("updated");
     res.json(serviceRow(row));
   } catch (e) {
     // Moving this service onto a slot another service already occupies.
@@ -547,6 +584,7 @@ app.delete("/services/:id", async (req, res) => {
   try {
     const r = await run("DELETE FROM services WHERE id = ?", [req.params.id]);
     if (!r.rowsAffected) return res.status(404).send("Service not found.");
+    servicesChanged("deleted");
     res.send("Service deleted.");
   } catch (e) {
     res.status(500).send(e.message);
@@ -1639,6 +1677,7 @@ async function purgeExpiredServices() {
       .slice(0, 10);
     const r = await run("DELETE FROM services WHERE serviceDate < ?", [cutoff]);
     if (r.rowsAffected) {
+      servicesChanged("purged");
       console.log(`Purged ${r.rowsAffected} service(s) older than ${SERVICE_RETENTION_DAYS} days (before ${cutoff}).`);
     }
   } catch (err) {
