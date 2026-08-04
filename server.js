@@ -29,6 +29,75 @@ async function all(sql, params = []) {
   return r.rows;
 }
 
+// ---------- author ----------
+// The column is TEXT and used to hold a bare English name. It now holds a JSON
+// object with one credit per language, so a Telugu song can carry the writer's
+// name as it is actually written. Rows written before this change are still
+// bare strings, so every read goes through fromColumn() and every write through
+// toColumn() — nothing has to be migrated up front.
+const AUTHOR_EN = "Authored by";   // English credit, English label
+const AUTHOR_TE = "రచన";           // Telugu credit, Telugu label ("rachana")
+const AUTHOR_TE_LEGACY = "Rachana"; // the label before it was written in Telugu
+
+function emptyAuthor() {
+  return { [AUTHOR_EN]: "", [AUTHOR_TE]: "" };
+}
+
+// Column text -> the object the API hands out. Always both keys, always strings.
+function authorFromColumn(raw) {
+  const out = emptyAuthor();
+  if (raw === null || raw === undefined) return out;
+  const s = String(raw).trim();
+  if (!s) return out;
+  if (s.startsWith("{")) {
+    try {
+      const o = JSON.parse(s);
+      if (o && typeof o === "object" && !Array.isArray(o)) {
+        const te = typeof o[AUTHOR_TE] === "string" ? o[AUTHOR_TE]
+                 : typeof o[AUTHOR_TE_LEGACY] === "string" ? o[AUTHOR_TE_LEGACY] : "";
+        out[AUTHOR_EN] = typeof o[AUTHOR_EN] === "string" ? o[AUTHOR_EN].trim() : "";
+        out[AUTHOR_TE] = te.trim();
+        return out;
+      }
+    } catch { /* not JSON after all — fall through and keep it as a name */ }
+  }
+  out[AUTHOR_EN] = s;                 // legacy row: a bare English name
+  return out;
+}
+
+// What a client sent -> column text. Accepts the object form or a bare string,
+// so older clients that still PUT a plain name keep working. Returns null when
+// the caller said nothing, which the PUT COALESCEs into "leave it alone".
+function authorToColumn(value) {
+  if (value === undefined || value === null) return null;
+  if (typeof value === "string") {
+    const s = value.trim();
+    if (!s) return "";
+    // Already the serialized map (an older deploy stored it as text, or a client
+    // sent it pre-stringified). Re-encode it rather than filing the whole JSON
+    // blob away as somebody's name.
+    if (s.startsWith("{")) {
+      try {
+        const o = JSON.parse(s);
+        if (o && typeof o === "object" && !Array.isArray(o) &&
+            (AUTHOR_EN in o || AUTHOR_TE in o || AUTHOR_TE_LEGACY in o)) {
+          return authorToColumn(o);
+        }
+      } catch { /* not the map — it really is a name */ }
+    }
+    return JSON.stringify({ ...emptyAuthor(), [AUTHOR_EN]: s });
+  }
+  if (typeof value === "object" && !Array.isArray(value)) {
+    const en = typeof value[AUTHOR_EN] === "string" ? value[AUTHOR_EN].trim() : "";
+    const teRaw = typeof value[AUTHOR_TE] === "string" ? value[AUTHOR_TE]
+                : typeof value[AUTHOR_TE_LEGACY] === "string" ? value[AUTHOR_TE_LEGACY] : "";
+    const te = teRaw.trim();
+    if (!en && !te) return "";
+    return JSON.stringify({ [AUTHOR_EN]: en, [AUTHOR_TE]: te });
+  }
+  return null;
+}
+
 app.use(bodyParser.json({ limit: "50mb" }));
 
 // CORS
@@ -511,7 +580,7 @@ app.get("/songs/list", async (req, res) => {
     );
 
     res.json({
-      songs: rows,
+      songs: rows.map((r) => ({ ...r, author: authorFromColumn(r.author) })),
       total,
       page,
       limit,
@@ -547,7 +616,7 @@ app.post("/songs", async (req, res) => {
         song_name,
         JSON.stringify(main_stanza),
         JSON.stringify(stanzas),
-        typeof author === "string" ? author.trim() : "",
+        authorToColumn(author) ?? "",
         now, now, "System", ""
       ]
     );
@@ -576,7 +645,7 @@ app.put("/songs/:id", async (req, res) => {
         song_name,
         JSON.stringify(main_stanza),
         JSON.stringify(stanzas),
-        author === undefined || author === null ? null : String(author).trim(),
+        authorToColumn(author),
         now,
         updatedBy,
         req.params.id
@@ -614,7 +683,7 @@ app.get("/songs", async (req, res) => {
       song_name: row.song_name,
       main_stanza: row.main_stanza ? JSON.parse(row.main_stanza) : undefined,
       stanzas: row.stanzas ? JSON.parse(row.stanzas) : undefined,
-      author: row.author || "",
+      author: authorFromColumn(row.author),
       created_at: row.created_at,
       last_updated_at: row.last_updated_at,
       created_by: row.created_by,
@@ -636,7 +705,7 @@ app.get("/songs/:id", async (req, res) => {
       song_name: row.song_name,
       main_stanza: row.main_stanza ? JSON.parse(row.main_stanza) : undefined,
       stanzas: row.stanzas ? JSON.parse(row.stanzas) : undefined,
-      author: row.author || "",
+      author: authorFromColumn(row.author),
       created_at: row.created_at,
       last_updated_at: row.last_updated_at,
       created_by: row.created_by,
