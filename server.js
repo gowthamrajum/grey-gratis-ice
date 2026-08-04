@@ -1084,20 +1084,95 @@ app.get("/broadcast/:room/stream", (req, res) => {
 // A phone "remote" can drive the SAME live deck the desktop presenter owns.
 // The relay holds no deck — just as it mirrors state above, here it's only the
 // command pipe. Flow:
-//   1. The desktop presenter opens the room's control STREAM, listening with the
-//      room's control PIN. Subscribing registers/refreshes that PIN (the desktop
-//      is the authority for its own random room slug).
-//   2. A phone POSTs a command (next/prev/goto/blackout/clear/logo) with the PIN.
-//   3. We fan the command out to the desktop, which runs it against its deck and
+//   1. The presenter opens the room's control STREAM, listening with the room's
+//      control PIN. Subscribing registers/refreshes that PIN (the presenter is
+//      the authority for its own random room slug). "Presenter" is the desktop
+//      app or, since Cantica Web can broadcast a saved service itself, a phone.
+//   2. A phone POSTs a command (next/prev/goto/blackout/clear/logo/end) with the PIN.
+//   3. We fan the command out to the presenter, which runs it against its deck and
 //      republishes state — so the phone sees the result on the normal state feed.
 // Trust model matches the existing broadcast: the room slug is an unguessable
 // random string, and the PIN adds a second factor specifically for control.
-const CONTROL_CMDS = new Set(["next", "prev", "goto", "blackout", "clear", "logo"]);
+//
+// `end` asks the presenter to take the room off air altogether. Like every other
+// command the relay only carries it: the presenter is what stops publishing and
+// blacks the room out, because the relay has no deck to stop.
+const CONTROL_CMDS = new Set(["next", "prev", "goto", "blackout", "clear", "logo", "end"]);
 
 function bcControl(r) {
-  if (!r.control) r.control = { pin: "", clients: new Set(), seq: 0, updatedAt: 0 };
+  if (!r.control) r.control = { pin: "", clients: new Set(), seq: 0, updatedAt: 0, operator: null };
   return r.control;
 }
+
+// -------------------------------
+// One remote at a time
+// -------------------------------
+// Two phones driving one deck fight each other: both hold a stale idea of where
+// the service is, and every tap on one yanks the screen away from the other. So
+// a room has a single OPERATOR SEAT, claimed by the phone that connects first
+// and refused to any other.
+//
+// This constrains the REMOTE only. The presenter — the desktop, or the phone
+// that started the broadcast from Cantica Web — drives its own deck directly and
+// never posts here, so the originator always keeps control of its own service.
+//
+// The seat is a lease rather than a lock: the holder renews it while its screen
+// is open, and a phone that goes flat or walks out of range stops renewing, so
+// the seat frees itself instead of stranding the room until a restart.
+const OPERATOR_TTL_MS = 40 * 1000;
+
+/** The seat's current holder, or null once its lease has lapsed. */
+function heldOperator(ctl) {
+  if (!ctl.operator) return null;
+  if (Date.now() - ctl.operator.at > OPERATOR_TTL_MS) {
+    ctl.operator = null;
+    return null;
+  }
+  return ctl.operator;
+}
+
+// Take the seat, or renew it. The same operatorId asking again is the heartbeat.
+//
+// `role` is only for saying who has it — "presenter" is the device the broadcast
+// was started from, "remote" a phone that connected to it — so a refused phone
+// can be told which of the two to go and ask.
+//
+// `force` takes the seat from whoever holds it. That is no new privilege: this
+// call already requires the room's control PIN, and a PIN holder can drive the
+// deck and end the broadcast outright. It exists so the device that started the
+// broadcast can take back a seat it handed to a phone that has since wandered off.
+app.post("/broadcast/:room/control/claim", (req, res) => {
+  const ctl = bcControl(bcRoom(req.params.room));
+  const body = req.body || {};
+  const pin = String(body.pin || "");
+  const who = String(body.operatorId || "");
+  const role = body.role === "presenter" ? "presenter" : "remote";
+  if (!ctl.pin) return res.status(409).json({ error: "presenter-offline" });
+  if (pin !== ctl.pin) return res.status(401).json({ error: "bad-pin" });
+  if (!who) return res.status(400).json({ error: "bad-operator" });
+  const held = heldOperator(ctl);
+  if (held && held.id !== who && !body.force) {
+    return res.status(409).json({
+      error: "operator-taken",
+      role: held.role,
+      since: held.since,
+      freeInMs: OPERATOR_TTL_MS - (Date.now() - held.at)
+    });
+  }
+  const now = Date.now();
+  const mine = held && held.id === who;
+  ctl.operator = { id: who, role, at: now, since: mine ? held.since : now };
+  res.json({ ok: true, ttlMs: OPERATOR_TTL_MS, since: ctl.operator.since });
+});
+
+// Hand the seat back on the way out, so the next phone doesn't wait out the lease.
+app.post("/broadcast/:room/control/release", (req, res) => {
+  const ctl = bcControl(bcRoom(req.params.room));
+  const who = String((req.body || {}).operatorId || "");
+  const held = heldOperator(ctl);
+  if (held && who && held.id === who) ctl.operator = null;
+  res.json({ ok: true });
+});
 
 // Desktop presenter subscribes here (SSE) to receive remote commands. Passing a
 // pin registers it as the room's control PIN.
@@ -1117,7 +1192,14 @@ app.get("/broadcast/:room/control/stream", (req, res) => {
   res.write(`event: ready\ndata: ${JSON.stringify({ ok: true })}\n\n`);
   ctl.clients.add(res);
   const hb = setInterval(() => { try { res.write(": hb\n\n"); } catch (_) {} }, 15000);
-  req.on("close", () => { clearInterval(hb); ctl.clients.delete(res); });
+  req.on("close", () => {
+    clearInterval(hb);
+    ctl.clients.delete(res);
+    // Nothing is presenting any more, so the seat belongs to no service: the
+    // next broadcast in this room starts with it free rather than inheriting
+    // whoever happened to be operating the last one.
+    if (ctl.clients.size === 0) ctl.operator = null;
+  });
 });
 
 // Phone remote posts a command. Requires the room's control PIN and a presenter
@@ -1132,20 +1214,39 @@ app.post("/broadcast/:room/control", (req, res) => {
   if (pin !== ctl.pin) return res.status(401).json({ error: "bad-pin" });
   if (!CONTROL_CMDS.has(cmd)) return res.status(400).json({ error: "bad-cmd" });
   if (ctl.clients.size === 0) return res.status(409).json({ error: "presenter-offline" });
+  // Only the phone holding the seat may drive. An unclaimed room still accepts
+  // commands, so a remote too old to claim one keeps working exactly as before.
+  const held = heldOperator(ctl);
+  if (held && held.id !== String(body.operatorId || "")) {
+    return res.status(409).json({ error: "not-operator" });
+  }
+  // Driving is itself a sign of life, so it renews the lease.
+  if (held) held.at = Date.now();
   ctl.seq++;
   const frame = `event: command\ndata: ${JSON.stringify({ seq: ctl.seq, cmd, arg: body.arg ?? null })}\n\n`;
   for (const c of ctl.clients) { try { c.write(frame); } catch (_) {} }
   res.json({ ok: true, seq: ctl.seq, presenters: ctl.clients.size });
 });
 
-// Phone remote checks a room before it starts sending (clean connect UX):
-// is a presenter online, does the room require a PIN, and is the given PIN right?
+// Phone remote checks a room before it starts sending (clean connect UX): is a
+// presenter online, does the room require a PIN, is the given PIN right — and is
+// somebody already operating it, so the second phone is turned away at the door
+// rather than after it thinks it has connected.
 app.get("/broadcast/:room/control/status", (req, res) => {
   const r = bcRoom(req.params.room);
   const ctl = bcControl(r);
   const pin = String(req.query.pin || "");
+  const who = String(req.query.operatorId || "");
+  const held = heldOperator(ctl);
   res.set("Cache-Control", "no-store");
-  res.json({ online: ctl.clients.size > 0, hasPin: !!ctl.pin, pinOk: !!ctl.pin && pin === ctl.pin });
+  res.json({
+    online: ctl.clients.size > 0,
+    hasPin: !!ctl.pin,
+    pinOk: !!ctl.pin && pin === ctl.pin,
+    operatorHeld: !!held,
+    operatorMine: !!held && !!who && held.id === who,
+    operatorRole: held ? held.role || "remote" : null
+  });
 });
 
 // The OBS overlay page itself (self-contained; token comes in the query string).
