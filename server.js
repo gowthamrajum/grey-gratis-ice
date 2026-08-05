@@ -653,6 +653,42 @@ app.get("/songs/list", async (req, res) => {
   }
 });
 
+// How many songs there are, and where they came from. Registered ahead of
+// /songs/:id so "count" is read as the route and not as a song id.
+//
+// Songs POSTed before the source column existed — and any POSTed without one
+// since — carry an empty source. They are reported as `untagged` rather than
+// invented into a catalogue, so `sources` only ever names a real one.
+app.get("/songs/count", async (req, res) => {
+  try {
+    const search = (req.query.search || "").trim();
+    const whereClause = search ? "WHERE song_name LIKE ?" : "";
+    const searchParam = search ? [`%${search}%`] : [];
+
+    const rows = await all(
+      `SELECT TRIM(COALESCE(source, '')) AS source, COUNT(*) AS n
+       FROM songs ${whereClause}
+       GROUP BY 1
+       ORDER BY n DESC, source ASC`,
+      searchParam
+    );
+
+    const sources = {};
+    let untagged = 0;
+    let total = 0;
+    for (const r of rows) {
+      const n = Number(r.n);
+      total += n;
+      if (r.source) sources[r.source] = n;
+      else untagged += n;
+    }
+
+    res.json({ total, sources, untagged });
+  } catch (e) {
+    res.status(500).send(e.message);
+  }
+});
+
 app.post("/songs", async (req, res) => {
   try {
     const { song_name, main_stanza, stanzas, author, source } = req.body;
