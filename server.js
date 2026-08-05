@@ -30,20 +30,35 @@ async function all(sql, params = []) {
 }
 
 // ---------- author ----------
-// The column is TEXT and used to hold a bare English name. It now holds a JSON
-// object with one credit per language, so a Telugu song can carry the writer's
-// name as it is actually written. Rows written before this change are still
-// bare strings, so every read goes through fromColumn() and every write through
-// toColumn() — nothing has to be migrated up front.
-const AUTHOR_EN = "Authored by";   // English credit, English label
-const AUTHOR_TE = "రచన";           // Telugu credit, Telugu label ("rachana")
+// The column is TEXT. It began as a bare English name, became a JSON object
+// with one credit per language, and now holds a list of names per language —
+// a song frequently has several writers ("Enosh Kumar, David Paluri &
+// Elizabeth Cynthia"), and a single string forces every consumer to re-split it.
+//
+// Nothing is migrated up front: every read goes through fromColumn() and every
+// write through toColumn(), so all three stored shapes keep working.
+const AUTHOR_EN = "Authored by";   // English credits, English label
+const AUTHOR_TE = "\u0c30\u0c1a\u0c28";           // Telugu credits, Telugu label ("rachana")
 const AUTHOR_TE_LEGACY = "Rachana"; // the label before it was written in Telugu
 
 function emptyAuthor() {
-  return { [AUTHOR_EN]: "", [AUTHOR_TE]: "" };
+  return { [AUTHOR_EN]: [], [AUTHOR_TE]: [] };
 }
 
-// Column text -> the object the API hands out. Always both keys, always strings.
+// "A, B & C" -> ["A", "B", "C"]. Comma and ampersand are the only separators
+// the data actually uses; splitting on anything else would cut real names.
+function splitNames(v) {
+  if (Array.isArray(v)) {
+    return v.flatMap(splitNames);
+  }
+  if (typeof v !== "string") return [];
+  return v
+    .split(/\s*[,&]\s*/)
+    .map((x) => x.trim().replace(/^[-\u2013\u2014,;]+|[-\u2013\u2014,;]+$/g, "").trim())
+    .filter(Boolean);
+}
+
+// Column text -> the object the API hands out. Always both keys, always arrays.
 function authorFromColumn(raw) {
   const out = emptyAuthor();
   if (raw === null || raw === undefined) return out;
@@ -53,21 +68,21 @@ function authorFromColumn(raw) {
     try {
       const o = JSON.parse(s);
       if (o && typeof o === "object" && !Array.isArray(o)) {
-        const te = typeof o[AUTHOR_TE] === "string" ? o[AUTHOR_TE]
-                 : typeof o[AUTHOR_TE_LEGACY] === "string" ? o[AUTHOR_TE_LEGACY] : "";
-        out[AUTHOR_EN] = typeof o[AUTHOR_EN] === "string" ? o[AUTHOR_EN].trim() : "";
-        out[AUTHOR_TE] = te.trim();
+        const te = o[AUTHOR_TE] !== undefined ? o[AUTHOR_TE] : o[AUTHOR_TE_LEGACY];
+        out[AUTHOR_EN] = splitNames(o[AUTHOR_EN]);
+        out[AUTHOR_TE] = splitNames(te);
         return out;
       }
     } catch { /* not JSON after all — fall through and keep it as a name */ }
   }
-  out[AUTHOR_EN] = s;                 // legacy row: a bare English name
+  out[AUTHOR_EN] = splitNames(s);     // legacy row: a bare English name
   return out;
 }
 
-// What a client sent -> column text. Accepts the object form or a bare string,
-// so older clients that still PUT a plain name keep working. Returns null when
-// the caller said nothing, which the PUT COALESCEs into "leave it alone".
+// What a client sent -> column text. Accepts the object form, an array, or a
+// bare string, so older clients that still PUT a plain name keep working.
+// Returns null when the caller said nothing, which the PUT COALESCEs into
+// "leave it alone".
 function authorToColumn(value) {
   if (value === undefined || value === null) return null;
   if (typeof value === "string") {
@@ -85,14 +100,17 @@ function authorToColumn(value) {
         }
       } catch { /* not the map — it really is a name */ }
     }
-    return JSON.stringify({ ...emptyAuthor(), [AUTHOR_EN]: s });
+    return JSON.stringify({ ...emptyAuthor(), [AUTHOR_EN]: splitNames(s) });
   }
-  if (typeof value === "object" && !Array.isArray(value)) {
-    const en = typeof value[AUTHOR_EN] === "string" ? value[AUTHOR_EN].trim() : "";
-    const teRaw = typeof value[AUTHOR_TE] === "string" ? value[AUTHOR_TE]
-                : typeof value[AUTHOR_TE_LEGACY] === "string" ? value[AUTHOR_TE_LEGACY] : "";
-    const te = teRaw.trim();
-    if (!en && !te) return "";
+  if (Array.isArray(value)) {
+    const en = splitNames(value);
+    return en.length ? JSON.stringify({ ...emptyAuthor(), [AUTHOR_EN]: en }) : "";
+  }
+  if (typeof value === "object") {
+    const teRaw = value[AUTHOR_TE] !== undefined ? value[AUTHOR_TE] : value[AUTHOR_TE_LEGACY];
+    const en = splitNames(value[AUTHOR_EN]);
+    const te = splitNames(teRaw);
+    if (!en.length && !te.length) return "";
     return JSON.stringify({ [AUTHOR_EN]: en, [AUTHOR_TE]: te });
   }
   return null;
