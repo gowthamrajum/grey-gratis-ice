@@ -207,7 +207,8 @@ async function initDb() {
       last_updated_at TEXT,
       created_by TEXT DEFAULT 'System',
       last_updated_by TEXT DEFAULT '',
-      author TEXT DEFAULT ''
+      author TEXT DEFAULT '',
+      source TEXT DEFAULT ''
     )
   `);
 
@@ -215,6 +216,10 @@ async function initDb() {
   // Declared last above so a fresh database column-orders the same way a migrated
   // one does (ALTER can only append).
   await addColumnIfMissing("songs", "author TEXT DEFAULT ''");
+
+  // Which catalogue a song was taken from, so a later import can tell what it
+  // already holds without re-matching lyrics. Short slugs: "clz", "sv".
+  await addColumnIfMissing("songs", "source TEXT DEFAULT ''");
 
   await run(`
     CREATE TABLE IF NOT EXISTS psalms (
@@ -233,7 +238,8 @@ async function initDb() {
       last_updated_at = COALESCE(last_updated_at, datetime('now')),
       created_by = COALESCE(created_by, 'System'),
       last_updated_by = COALESCE(last_updated_by, ''),
-      author = COALESCE(author, '')
+      author = COALESCE(author, ''),
+      source = COALESCE(source, '')
   `);
 }
 
@@ -610,7 +616,7 @@ app.get("/songs/list", async (req, res) => {
     const total = Number(countRow.total);
 
     const rows = await all(
-      `SELECT song_id, song_name, author, created_at, last_updated_at, created_by, last_updated_by
+      `SELECT song_id, song_name, author, source, created_at, last_updated_at, created_by, last_updated_by
        FROM songs ${whereClause}
        ORDER BY last_updated_at DESC, song_id DESC
        LIMIT ? OFFSET ?`,
@@ -631,7 +637,7 @@ app.get("/songs/list", async (req, res) => {
 
 app.post("/songs", async (req, res) => {
   try {
-    const { song_name, main_stanza, stanzas, author } = req.body;
+    const { song_name, main_stanza, stanzas, author, source } = req.body;
     if (!song_name || !main_stanza || !stanzas)
       return res.status(400).send("Missing required fields");
 
@@ -648,13 +654,14 @@ app.post("/songs", async (req, res) => {
 
     const now = new Date().toISOString();
     const r = await run(
-      `INSERT INTO songs (song_name, main_stanza, stanzas, author, created_at, last_updated_at, created_by, last_updated_by)
-       VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
+      `INSERT INTO songs (song_name, main_stanza, stanzas, author, source, created_at, last_updated_at, created_by, last_updated_by)
+       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)`,
       [
         song_name,
         JSON.stringify(main_stanza),
         JSON.stringify(stanzas),
         authorToColumn(author) ?? "",
+        typeof source === "string" ? source.trim() : "",
         now, now, "System", ""
       ]
     );
@@ -668,7 +675,7 @@ app.post("/songs", async (req, res) => {
 
 app.put("/songs/:id", async (req, res) => {
   try {
-    const { song_name, main_stanza, stanzas, last_updated_by, author } = req.body;
+    const { song_name, main_stanza, stanzas, last_updated_by, author, source } = req.body;
     const now = new Date().toISOString();
     const updatedBy = last_updated_by || "System";
 
@@ -677,13 +684,14 @@ app.put("/songs/:id", async (req, res) => {
       // know the field yet, and a PUT without it must not wipe an author someone
       // has already filled in.
       `UPDATE songs
-       SET song_name = ?, main_stanza = ?, stanzas = ?, author = COALESCE(?, author), last_updated_at = ?, last_updated_by = ?
+       SET song_name = ?, main_stanza = ?, stanzas = ?, author = COALESCE(?, author), source = COALESCE(?, source), last_updated_at = ?, last_updated_by = ?
        WHERE song_id = ?`,
       [
         song_name,
         JSON.stringify(main_stanza),
         JSON.stringify(stanzas),
         authorToColumn(author),
+        source === undefined || source === null ? null : String(source).trim(),
         now,
         updatedBy,
         req.params.id
@@ -722,6 +730,7 @@ app.get("/songs", async (req, res) => {
       main_stanza: row.main_stanza ? JSON.parse(row.main_stanza) : undefined,
       stanzas: row.stanzas ? JSON.parse(row.stanzas) : undefined,
       author: authorFromColumn(row.author),
+      source: row.source || "",
       created_at: row.created_at,
       last_updated_at: row.last_updated_at,
       created_by: row.created_by,
@@ -744,6 +753,7 @@ app.get("/songs/:id", async (req, res) => {
       main_stanza: row.main_stanza ? JSON.parse(row.main_stanza) : undefined,
       stanzas: row.stanzas ? JSON.parse(row.stanzas) : undefined,
       author: authorFromColumn(row.author),
+      source: row.source || "",
       created_at: row.created_at,
       last_updated_at: row.last_updated_at,
       created_by: row.created_by,
