@@ -1,0 +1,70 @@
+{
+  "song_name": "Krismas shubhavelalo mana andari hrudayaalalo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Suresh Nittala"
+    ],
+    "రచన": [
+      "సురేష్ నిట్టల"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "క్రిస్మస్ శుభవేళలో – మన అందరి హృదయాలలో",
+      "ఆనందమానందమే – మనసంతా సంతోషమే"
+    ],
+    "english": [
+      "Krismas shubhavelalo – Mana andari hrudayaalalo",
+      "Aanandamaanandame – Manasanthaa santhoshame"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "స్తుతియించి ఆరాదిద్దాం",
+        "ఆ ప్రభుని ఘనపరచి కీర్తించుదాం",
+        "రక్షకుడు పుట్టాడని – మనకు రక్షణ తెచ్చాడని"
+      ],
+      "english": [
+        "Sthuthiyinchi aaraadhiddhaam",
+        "Aa prabhuni ghanaparachi keerthinchudhaam",
+        "Rakshakudu puttaadani – Manaku rakshana thechchaadani"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దావీదు పురమందు రక్షకుడు",
+        "మన కొరకై జన్మించాడు",
+        "దేవాధిదేవుని కుమారుడు రిక్తునిగా భువికొచ్చాడు",
+        "ఆ ప్రభువే నరుడాయెను – లోకమును ప్రేమించెను",
+        "మన పాపము తొలగించెను – పరిశుథ్థులుగా చేసెను",
+        "సర్వోన్నతమైన స్థలములలో – దేవునికే మహిమ",
+        "ఆనందమే ఆశ్చర్యమే – సంతోషం సమాధానమే",
+        "దూతాళి స్త్రోత్రించిరి – కాపరులు చాటించిరి",
+        "ప్రభుయేసు పుట్టాడని – మనకు తోడై ఉంటాడని",
+        "వింతైన తార వెలసిందని – ఙ్ఞానులు కనుగొంటిరి",
+        "ఆ తార వెంబడి వారొచ్చిరి – ప్రభుయేసుని దర్శించిరి",
+        "రాజులకే రాజని – ప్రభువులకే ప్రభువని",
+        "కానుకలు అర్పించిరి – వినమ్రతతో పూజించిరి"
+      ],
+      "english": [
+        "Daaveedu puramandhu rakshakudu",
+        "Mana korakai janminchaadu",
+        "Dhevaadhidhevuni kumaarudu rikthunigaa bhuvikochchaadu",
+        "Aa prabhuve narudaayenu – Lokamunu preminchenu",
+        "Mana paapamu tholaginchenu – Parishuddhulugaa chesenu",
+        "Sarvonnathamaina sthalamulalo – Devunike mahima",
+        "Aanandame aashcharyame – Santhosham samaadhaaname",
+        "Doothaali sthothrinchiri – Kaaparulu chaatinchiri",
+        "Prabhu Yesu puttaadani – Manaku thodai untaadani",
+        "Vinthaina thaara velasindhani – Gnaanulu kanugontiri",
+        "Aa thaara vembadi vaarochchiri – Prabhu Yesuni dharshinchiri",
+        "Raajulake raajani – Prabhuvulake prabhuvani",
+        "Kaanukalu arpinchiri – Vinamrathatho poojinchiri"
+      ]
+    }
+  ]
+}

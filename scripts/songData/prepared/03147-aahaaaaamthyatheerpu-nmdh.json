@@ -1,0 +1,79 @@
+{
+  "song_name": "Aahaa AMthyatheerpu NMdhuna",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆహా అంత్యతీర్పు నందున సింహంబుగా నుండు",
+      "ఓ మానవుండ నీ గతి యేమౌనో తెలియునా యేమేమి చేయుచుంటివో తప్పించుకొందువా?"
+    ],
+    "english": [
+      "Aahaa AMthyatheerpu NMdhuna SiMhMbugaa NuMdu",
+      "Oa MaanavuMda Nee Gathi Yaemaunoa Theliyunaa Yaemaemi ChaeyuchuMtivoa ThappiMchukoMdhuvaa?"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లోకాలు పుట్టినప్పటినుండి మృతులైన ఏ కులజుడైన నాటికి తెర్పులో నిలచును"
+      ],
+      "english": [
+        "Loakaalu PuttinappatinuMdi Mruthulaina Ae Kulajudaina Naatiki Therpuloa Nilachunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మృతులైన ఘనులు హీనులు యేసయ్య యెదుటను",
+        "ప్రతివారు నిలిచియుందురు బ్రతికిన రీతిగనే"
+      ],
+      "english": [
+        "Mruthulaina Ghanulu Heenulu Yaesayya Yedhutanu",
+        "Prathivaaru NilichiyuMdhuru Brathikina Reethiganae"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "గ్రంధాలు విప్పబడగ గ్రంధాలలో వారి గ్రంథంబు బట్టబయలై పొందుదురు తీర్పును"
+      ],
+      "english": [
+        "GrMDhaalu Vippabadaga GrMDhaalaloa Vaari GrMThMbu Battabayalai PoMdhudhuru Theerpunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నరులెల్ల క్రియలచొప్పున మరి తీర్పు పొందుదురు",
+        "మరణము మృతుల లోకము గురియౌను యగ్నికి"
+      ],
+      "english": [
+        "Narulella Kriyalachoppuna Mari Theerpu PoMdhudhuru",
+        "MaraNamu Mruthula Loakamu Guriyaunu Yagniki"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఈనాడు నీవు కూడను యేసుని విడిచినచో",
+        "ఆనాడు నీవు కూడాను అందుండి ఏడ్చెదవు"
+      ],
+      "english": [
+        "Eenaadu Neevu Koodanu Yaesuni Vidichinachoa",
+        "Aanaadu Neevu Koodaanu AMdhuMdi Aedchedhavu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "దేవుని జీవగ్రంథము దేవుడు తెరచును ఎవ్యాని పేరందుండదో వాడగ్నిలో బడును"
+      ],
+      "english": [
+        "Dhaevuni JeevagrMThamu Dhaevudu Therachunu Evyaani PaerMdhuMdadhoa Vaadagniloa Badunu"
+      ]
+    }
+  ]
+}

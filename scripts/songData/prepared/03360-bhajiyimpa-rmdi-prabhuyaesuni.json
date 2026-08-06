@@ -1,0 +1,74 @@
+{
+  "song_name": "Bhajiyimpa Rmdi Prabhuyaesuni",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "భజియింప రండి ప్రభుయేసుని",
+      "ఆత్మసత్యములతో ప్రేమామయుని పరమ తండ్రిని"
+    ],
+    "english": [
+      "Bhajiyimpa Rmdi Prabhuyaesuni",
+      "Aathmasathyamulathoa Praemaamayuni Parama Thmdrini"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాప క్షమాపణ మనకిచ్చెను మనల విమోచించె రక్తముతో",
+        "జయము జయము మన ప్రభుకే"
+      ],
+      "english": [
+        "Paapa Kshmaapana Manakichchenu Manala Vimoachimche Rakthamuthoa",
+        "Jayamu Jayamu Mana Prabhukae"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆత్మమందిర ప్రత్యక్షత నొసగెన్ నేత్రము తెరచెను యేసుని చూడ",
+        "ఆశ్చర్యకరుడు సదాకాలము"
+      ],
+      "english": [
+        "Aathmamamdhira Prathyakshtha Nosagen Naethramu Therachenu Yaesuni Chooda",
+        "Aashcharyakarudu Sadhaakaalamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఘనత పొంద సదా రాజ్యము నిచ్చె స్వాస్థ్యము పొంద వారసులమైతిమి",
+        "హోసన్న హోసన్న విజయునికే"
+      ],
+      "english": [
+        "Ghanatha Pomdha Sadhaa Raajyamu Nichche Svaasthyamu Pomdha Vaarasulamaithimi",
+        "Hoasanna Hoasanna Vijayunikae"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "జగమును జయించే జీవితమునిచ్చె సిలువ శక్తిచే మనలను గాచెగా",
+        "స్తుతులర్పింతుము ముక్తిదాతకే"
+      ],
+      "english": [
+        "Jagamunu Jayimchae Jeevithamunichche Siluva Shakthichae Manalanu Gaachegaa",
+        "Sthuthularpimthumu Mukthidhaathakae"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "సంఘము ప్రభుని చేర తేరిచూచెగా సదాకాల మాయనతో నుండ నెప్పుడు",
+        "సాగిలపడెదము సృష్ఠికర్తకే"
+      ],
+      "english": [
+        "Smghamu Prabhuni Chaera Thaerichoochegaa Sadhaakaala Maayanathoa Numda Neppudu",
+        "Saagilapadedhamu Srushtikarthakae"
+      ]
+    }
+  ]
+}

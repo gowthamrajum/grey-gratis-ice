@@ -1,0 +1,57 @@
+{
+  "song_name": "Entho bhaagyambu Shree Yesu dorikenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎంతో భాగ్యంబు శ్రీ యేసు దొరికెను",
+      "మనకెంతో భాగ్యంబు",
+      "వింతైన తన మహిమనంత విడచి",
+      "మన కొరకై చింతలన్నియు బాపుటకెంతో దీనుడాయె ||ఎంతో||"
+    ],
+    "english": [
+      "Entho bhaagyambu Shree Yesu dorikenu",
+      "Manakentho bhaagyambu",
+      "Vinthaina thana mahimanantha vidachi",
+      "Mana korakai chinthalanniyu baaputakentho dheenudaaye ||Entho||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరలోకమును విడచి మనుజ కుమారుడవయ్యె",
+        "నరుల బాంధవుడయ్యా కరుణా సముద్రుండు  ||ఎంతో||"
+      ],
+      "english": [
+        "Paralokamunu vidachi manuja kumaarudavayye",
+        "Narula baandhavudayyaa karunaa samudrundu ||Entho||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బాలుడయ్య తన జనకుని – పని నెరిగిన వాడయ్యే",
+        "ఈ లోకపు జననీ జనకులకెంతో లోబడనే  ||ఎంతో||"
+      ],
+      "english": [
+        "Baaludayya thana janakuni – Pani nerigina vaadayye",
+        "Ee lokapu jananee janakulakentho lobadane ||Entho||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పెరిగెను జ్ఞానమందు – మరియు దేహ బలమందు",
+        "పరమేశుని దయయందు నరుల కనికరమందు  ||ఎంతో||"
+      ],
+      "english": [
+        "Perigenu gnaanamandu – Mariyu deha balamandu",
+        "Parameshuni dayayandu narula kanikaramandu ||Entho||"
+      ]
+    }
+  ]
+}

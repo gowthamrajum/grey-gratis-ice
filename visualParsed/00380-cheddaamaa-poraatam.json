@@ -1,0 +1,77 @@
+{
+  "song_name": "Cheddaamaa poraatam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Anil Kumar"
+    ],
+    "రచన": [
+      "బ్రదర్ అనిల్ కుమార్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "చేద్దామా పోరాటం ఆత్మీయ పోరాటం - అపవాది శక్తులతో అనుదినము పోరాటం (2)",
+      "ఏనాడో గెలిచాడు యేసు దేవుడు - శత్రువుని మన పక్షాన",
+      "అపవాది తల త్రొక్కి లేచినాడుగా - మనకివ్వ విజయాన్ని....... యే యే యే యే యే",
+      "యేసు రక్తమే జయం జయం - అపవాది క్రియలకు అనంత నాశనం (2)",
+      "చేద్దామా పోరాటం ఆత్మీయ పోరాటం - అపవాది శక్తులతో అనుదినము పోరాటం (2)"
+    ],
+    "english": [
+      "Cheddaamaa poraatam aathmeeya poraatam - Apavaadi shakthulatho anudinamu poraatam (2)",
+      "Enaado gelichaadu Yesu devudu - Shathruvuni mana pakshaana",
+      "Apavaadi thala throkki lechinaadugaa - Manakivva vijayaanni....... ye ye ye ye ye",
+      "Yesu rakthame jayam jayam - Apavaadi kriyalaku anantha naashanam (2)",
+      "Cheddaamaa poraatam aathmeeya poraatam - Apavaadi shakthulatho anudinamu poraatam (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మేం చేసే ఈ యుద్ధం శరీరులతో కాదు - ఆకాశ దురాత్మలతో శక్తులతోనే పోరు (2)",
+        "ప్రధానుల్ అధికారులెవరైన - అంధకార సంబంధ నాధులైన",
+        "యేసయ్య నామంలో వంగాలి - యేసయ్య నామంలో ఓడాలి",
+        "యేసయ్య నామంలో వంగాలి ఓడాలి - ప్రభుకే మ్రొక్కాలి  ||చేద్దామా||"
+      ],
+      "english": [
+        "Mem chese ee yuddham shareerulatho kaadu - Aakaasha duraathmalatho shakthulathone poru (2)",
+        "Pradhaanul adhikaarulevaraina - Andhakaara sambandha naadhulaina",
+        "Yesayya naamamlo vangaali - Yesayya naamamlo odaali",
+        "Yesayya naamamlo vangaali odaali - Prabhuke mrokkaali  ||Cheddaamaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అపవాది తంత్రాలు మేం ఎరుగని వారము కాము - మా నోటి సాక్ష్యముతో ప్రభు రక్తముతో గెలిచెదము (2)",
+        "సర్వాంగ కవచాన్ని ధరియించి - విశ్వాస డాలును ముందుంచి",
+        "అపవాది అగ్ని బాణాలార్పేస్తాం - శ్రమ శోధన దూషణలన్నిటి జయిస్తాం",
+        "అపవాది అగ్ని బాణాలార్పేస్తాం గెలిచేస్తాం ప్రభునే స్తుతిస్తాం  ||చేద్దామా||"
+      ],
+      "english": [
+        "Apavaadi thanthraalu mem erugani vaaramu kaamu - Maa noti saakshyamutho prabhu rakthamutho gelichedamu (2)",
+        "Sarvaanga kavachaanni dhariyinchi - Vishwaasa daalunu mundhunchi",
+        "Apavaadi agni baanaalaarpesthaam - Shrama shodhana dhooshanalanniti jayisthaam",
+        "Apavaadi agni baanaalaarpesthaam gelichesthaam prabhune sthuthisthaam  ||Cheddaamaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "హృదయానికి ప్రభువిచ్చాడు నీతి అనే కవచం - ప్రతి ఆలోచనను క్రీస్తుకు లోపరచి చెరపడతాం (2)",
+        "దేవుని నీతి మేం అగునట్లు - మా నీతి ప్రభువే అయ్యాడు",
+        "సింహంలా ధైర్యముగా మేముంటాము - ఏడు మార్లు పడినా తిరిగి లేస్తాము",
+        "సింహంలా ధైర్యముగా మేముంటాము లేస్తాము ప్రభునే చూస్తాము",
+        "యేసు రక్తమే జయం జయం - అపవాది క్రియలకు అనంత నాశనం (2)"
+      ],
+      "english": [
+        "Hrudhayaaniki prabhuvichchaadu neethi ane kavacham - Prathi aalochananu Kreesthuku loparachi cherapadathaam (2)",
+        "Devuni neethi mem agunatlu - Maa neethi prabhuve ayyaadu",
+        "Simhamlaa dhairyamugaa memuntaamu - Edu maarlu padinaa thirigi lesthaamu",
+        "Simhamlaa dhairyamugaa memuntaamu lesthaamu prabhune choosthaamu",
+        "Yesu rakthame jayam jayam - Apavaadi kriyalaku anantha naashanam (2)"
+      ]
+    }
+  ]
+}

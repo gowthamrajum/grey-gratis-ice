@@ -1,0 +1,63 @@
+{
+  "song_name": "Sarvamupai Yesu Raajyamelun Paapi Mithrudu Gorrepillaku",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సర్వముపై సర్వముపై - సిల్వవేయబడినట్టివాడే",
+      "పాదములబడి పూజింతుము - సర్వముపై హెచ్చించె దేవుడు"
+    ],
+    "english": [
+      "Sarvamupai Sarvamupai - Silvaveyabadinattivaade",
+      "Paadhamulabadi Poojinthumu - Sarvamupai Hechchinche Dhevudu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సర్వముపై యేసు రాజ్యమేలున్ పాపి మిత్రుడు గొఱ్ఱెపిల్లకు",
+        "మన మొరవిన కిరీటమునిచ్చి హెచ్చించె దేవుడాయనన్"
+      ],
+      "english": [
+        "Sarvamupai Yesu Raajyamelun Paapi Mithrudu Gorrepillaku",
+        "Mana Moravina Kireetamunichchi Hechchinche Dhevudaayanan"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తుఫాను భయంకరాలచే కొట్టునప్పుడు మొఱ పెట్టగా",
+        "యేసును వేడగా నా చేతితో పట్టి శిలలపై నడ్పించును"
+      ],
+      "english": [
+        "Thuphaanu Bhayankaraalache Kottunappudu Mora Pettagaa",
+        "Yesunu Vedagaa Naa Chethitho Patti Shilalapai Nadpinchunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పట్టణము లతిగొప్పవైనన్ అడ్డములు బలమైనపుడున్",
+        "నిర్భయముగ సాగుచుందుము సర్వముపై నున్న వాని ద్వారా"
+      ],
+      "english": [
+        "Pattanamu Lathigoppavainan Addamulu Balamainapudun",
+        "Nirbhayamuga Saaguchundhumu Sarvamupai Nunna Vaani Dhvaaraa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ధృవము నుండి ధృవం వరకు యుగములనుండి శాశ్వతముగ",
+        "సర్వముపై ననుభవింతుము వీరులై యేసు వెంట సాగుచు"
+      ],
+      "english": [
+        "Dhruvamu Nundi Dhruvam Varaku Yugamulanundi Shaashvathamuga",
+        "Sarvamupai Nanubhavinthumu Veerulai Yesu Venta Saaguchu"
+      ]
+    }
+  ]
+}

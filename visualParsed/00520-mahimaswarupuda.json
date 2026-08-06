@@ -1,0 +1,69 @@
+{
+  "song_name": "Mahima swaroopudaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మహిమ స్వరూపుడా మృత్యుంజయుడా",
+      "మరణపుముల్లును విరిచినవాడా",
+      "నీకే స్తోత్రములు నా యేసయ్యా నీకే స్తోత్రములు",
+      "నీకే స్తోత్రములు నా యేసయ్యా నీకే స్తోత్రములు"
+    ],
+    "english": [
+      "Mahima swaroopudaa mruthyunjayudaa",
+      "Maranapumullunu virichinavaadaa",
+      "Neeke sthothramulu naa Yesayyaa neeke sthothramulu",
+      "Neeke sthothramulu naa Yesayyaa neeke sthothramulu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ రక్తమును నా రక్షణకై",
+        "బలియాగముగా అర్పించినావు",
+        "నీ గాయములద్వారా స్వస్థతనొంది",
+        "అనందించెద నీలో నేను  ||మహిమ||"
+      ],
+      "english": [
+        "Nee rakthamunu naa rakshanakai",
+        "Baliyaagamugaa arpinchinaavu",
+        "Nee gaayamuladwaaraa swasthathanondhi",
+        "Aanandincheda neelo nenu  ||Mahima||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విరిగిన మనస్సు నలిగినా హృదయం",
+        "నీ కిష్టమైన బలియాగముగా",
+        "నీ చేతితోనే విరిచిన రోట్టెనై",
+        "ఆహారమౌదును అనేకులకు  ||మహిమ||"
+      ],
+      "english": [
+        "Virigina manassu naligina hrudayam",
+        "Nee kishtamaina baliyaagamugaa",
+        "Nee chethithone virichina rottenai",
+        "Aahaaramaudhunu anekulaku  ||Mahima||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరిశుద్ధత్మ ఫలముపొంది",
+        "పరిపూర్ణమైన జ్యేష్టుల సంఘమై",
+        "సీయోను రాజా నీ ముఖము చూడ",
+        "ఆశతో నేను వేచియున్నాను  ||మహిమ||"
+      ],
+      "english": [
+        "Parishuddhaathma phalamupondhi",
+        "Paripoornamaina jyeshtula sanghamai",
+        "Seeyonu raajaa nee mukhamu chooda",
+        "Aashatho nenu vechiyunnaanu  ||Mahima||"
+      ]
+    }
+  ]
+}

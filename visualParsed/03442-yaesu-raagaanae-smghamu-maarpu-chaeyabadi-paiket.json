@@ -1,0 +1,70 @@
+{
+  "song_name": "Yesu raagaane sanghamu maarpu cheyabadi paikeththabadunu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు రాగానే సంఘము - మార్పు చేయబడి పైకెత్తబడును"
+    ],
+    "english": [
+      "Yesu raagaane sanghamu - Maarpu cheyabadi paikeththabadunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మేల్కొనును క్రీస్తునందు మృతులు",
+        "కడబూర మ్రోగగనే - ఓ ప్రియులారా",
+        "కడబూర మ్రోగగనే - శ్రీ యేసు రాగానే"
+      ],
+      "english": [
+        "Melkonunu Kreesthunandu mruthulu",
+        "Kadaboora mrogagane - O priyulaaraa",
+        "Kadaboora mrogagane - Sree Yesu raagaane"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కుడివైపున గొర్రెల జేర్చున్ - మేకల",
+        "నెడమ ప్రక్క జేర్చున్ - ఓ ప్రియులారా",
+        "నెడమ ప్రక్క జేర్చున్ - శ్రీ యేసు తీర్పులో"
+      ],
+      "english": [
+        "Kudivaipuna gorrela jerchun - mekala",
+        "Nedama prakka jerchun - O priyulaaraa",
+        "Nedama prakka jerchun - Sree Yesu theerpulo"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తనవారి నత్యధికముగా ప్రేమించి",
+        "తన కేర్పరచుకొనును - ఓ ప్రియులారా",
+        "తన కేర్పరచుకొనును - శ్రీయేసురాగానే"
+      ],
+      "english": [
+        "Thanavaari nathyadhikamugaa preminchi",
+        "Thana kerparachukonunu - O priyulaaraa",
+        "Thana kerparachukonunu - Sree Yesu raagaane"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మేఘముపై మహిమా ప్రభావముతో",
+        "బచ్చును శ్రీయేసు - ఓ ప్రియులారా",
+        "వచ్చును శ్రీ యేసు - శ్రీ యేసు దూతలతో"
+      ],
+      "english": [
+        "Meghamupai mahimaa prabhaavamutho",
+        "Vachchunu Sree Yesu - O priyulaaraa",
+        "Vachchunu Sree Yesu - Sree Yesu doothalatho"
+      ]
+    }
+  ]
+}

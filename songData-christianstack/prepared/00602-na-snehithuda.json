@@ -1,0 +1,32 @@
+{
+  "song_name": "Na Snehithuda",
+  "author": {
+    "Authored by": "Pammi Daniel, Divya David & Prabhu Pammi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ ముఖం మనోహరం",
+      "నీ స్వరం మధురము నా ప్రియుడా యేసయ్య",
+      "దేవా దేవా దేవా దేవా"
+    ],
+    "english": [
+      "Nee mukham manoharam",
+      "nee swaram madhuramu naa priyudaa yesayyaa",
+      "deva deva deva deva"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏమివ్వగలను నీ ప్రేమకు",
+        "నిన్ను వర్ణించగలనా నా యేసయ్య"
+      ],
+      "english": [
+        "Emivvagalanu nee premaku",
+        "ninnu varninchagalanaa naa yesayya"
+      ]
+    }
+  ]
+}

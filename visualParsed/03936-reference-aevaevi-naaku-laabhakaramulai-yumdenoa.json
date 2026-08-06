@@ -1,0 +1,64 @@
+{
+  "song_name": "Prabhuvaa guri yoddake parugeththuchunnaanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభువా, గురి యొద్దకే - పరుగెత్తుచున్నాను నేను",
+      "ఉన్నత పిలుపునకు కలుగు బహుమానము పొందవలెనని"
+    ],
+    "english": [
+      "Prabhuvaa, guri yoddake - Parugeththuchunnaanu nenu",
+      "Unnatha pilupunaku kalugu bahumaanamu pondhavalenani"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏవేవి లాభకరములై యుండెనో - వాటిని క్రీస్తు నిమిత్తం",
+        "నష్టముగా నెంచుకొని ముందుకే సాగుచున్నాను"
+      ],
+      "english": [
+        "Evevi laabhakaramulai yundeno - Vaatini Kreesthu nimiththam",
+        "Nashtamugaa nenchukoni munduke saaguchunnaanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "క్రీస్తును సంపాదించుకొని - తన పునరుత్థాన బలమును",
+        "ఎరిగి ఆయన శ్రమలలో పాలి వాడనగుదున్"
+      ],
+      "english": [
+        "Kreesthunu sampaadhinchukoni - Thana punarutthaana balamunu",
+        "Erigi aayana shramalalo paali vaadanagudhun"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "క్రీస్తును గూర్చిన అతి శ్రేష్టమైన - జ్ఞానము నిమిత్తము",
+        "సమస్తమును నష్టముగా ఎంచుకొనుచున్నాను"
+      ],
+      "english": [
+        "Kreesthunu goorchina athi shreshtamaina - Gnaanamu nimiththamu",
+        "Samasthamunu nashtamugaa enchukonuchunnaanu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "వెనుక నున్నవి మరచి - ముందున్న వాటి కొరకై",
+        "వేగిర పడుచు ధైర్యముగా ముందుకే సాగుచున్నాను"
+      ],
+      "english": [
+        "Venuka nunnavi marachi - Mundunna vaati korakai",
+        "Vegira paduchu dhairyamugaa munduke saaguchunnaanu"
+      ]
+    }
+  ]
+}

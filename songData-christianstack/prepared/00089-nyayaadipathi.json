@@ -1,0 +1,125 @@
+{
+  "song_name": "Nyayaadipathi",
+  "author": {
+    "Authored by": "Hosanna Ministries featuring Pastor John Wesley, Pastor Ramesh & Pastor Abraham",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దివ్యతేజోమయా యేసయ్యా",
+      "నీతి నియమాలకు నిలయమా",
+      "నినునమ్ము నీజనుల – న్యాయాధిపతి నీవై",
+      "నడిపితివి జయధ్వజముతో"
+    ],
+    "english": [
+      "Dhivya thejomayaa Yesayyaa",
+      "Neethi niyamaalaku nilayamaa",
+      "Ninu nammu neejanula – nyaayaadhipathi neevai",
+      "Nadipithivi jayadhvajamutho"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిత్యం నీకే నా ఆరాధన",
+        "నీవే నీవే నా స్తుతికీర్తన"
+      ],
+      "english": [
+        "Nithyam neeke naa aaraadhana",
+        "Neeve neeve naa sthuthikeerthana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బలవంతుడా మహాశూరుడా",
+        "పలుశోధనలలో నాతోడై",
+        "నా కుడి పార్శ్వమందుండినావు",
+        "నీ మహిమకై నీవేర్పరచిన",
+        "నీ పాత్రగా నను మార్చినీవు",
+        "నీ ఎనలేని ప్రేమను చూపితివి",
+        "నీవే నీవే నా విజయం",
+        "నాలో నీవే నీవే ఆనందం",
+        "నీవే నీవే నా విజయం",
+        "నాలో నీవే నీవే మహదానందం"
+      ],
+      "english": [
+        "Balavanthudaa mahaashoorudaa",
+        "Palusho­dhanalalo naathodai",
+        "Naa kudi paarshvamandundinaavu",
+        "Nee mahimakai neeve erparachina",
+        "Nee paathragaa nanu maarchinee­vu",
+        "Nee enaleni premanu choopithivi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అభిషిక్తుడా నా ప్రాణేశ్వర",
+        "నా నీడవలె నాతోనుండి",
+        "నను రక్షించి పోషించినావు",
+        "నేనెన్నడూ నాకై ఆశించని",
+        "నీ దీవెనలతో తృప్తిపరచి",
+        "నన్నీ స్థితిలో నీవు నిలిపినావు",
+        "నీవే నీవే నా ప్రాణం",
+        "నాలో నీవే నీవే నా ధ్యానం"
+      ],
+      "english": [
+        "Neeve neeve naa vijayam",
+        "Naalo neeve neeve aanandam",
+        "Neeve neeve naa vijayam",
+        "Naalo neeve neeve mahadaanandam"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీ వాక్యమే నన్ను బ్రతికించెను",
+        "నా బాధలలో నెమ్మదినిచ్చి",
+        "గొప్ప ఆదరణ కలిగించె నాలో",
+        "మన్నైనది మన్నైపోవునని",
+        "నను జీవాత్మతో నింపినీవు",
+        "నీ రూపుగా నను మార్చినావే",
+        "నిత్యం నీతో నడుపుటకు",
+        "నీవు నాలో నాతో ఉన్నావే"
+      ],
+      "english": [
+        "Abhishikthudaa naa praaneshwara",
+        "Naa needavale naathonundi",
+        "Nanu rakshinchi poshinchinaavu",
+        "Nenennadu naakai aashinchani",
+        "Nee dheevenalatho thrupthiparachi",
+        "Nannee sthitilo neevu nilipinaavu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [],
+      "english": [
+        "Neeve neeve naa praanam",
+        "Naalo neeve neeve naa dhyaanam"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [],
+      "english": [
+        "Nee vaakyame nannu brathikinchenu",
+        "Naa baadhalalo nemmadhinichchi",
+        "Goppa aadharana kaliginche naalo",
+        "Mannainadhi mannai povunani",
+        "Nanu jeevaathmato nimpineevu",
+        "Nee roopugaa nanu maarchinaave"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [],
+      "english": [
+        "Nithyam neetho nadupata­ku",
+        "Neevu naalo naatho unnaave"
+      ]
+    }
+  ]
+}

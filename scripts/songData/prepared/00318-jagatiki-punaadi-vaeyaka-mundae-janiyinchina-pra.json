@@ -1,0 +1,82 @@
+{
+  "song_name": "Jagatiki Punaadi Vaeyaka Mundae Janiyinchina Praema",
+  "author": {
+    "Authored by": "Dr  Amsumathi mary",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జగతికి పునాది వేయక ముందే జనియించిన ప్రేమ",
+      "జగతిలో నేను పుట్టకముందే నన్నెరిగిన ప్రేమా",
+      "నన్నెరిగిన ప్రేమ నన్నెరిగిన ప్రేమ ఏర్పరుచుకున్న ప్రేమ",
+      "నన్నెరిగిన ప్రేమ నన్నెన్నుకున్న ప్రేమ"
+    ],
+    "english": [
+      "Jagatiki Punaadi Vaeyaka Mundae Janiyinchina Praema",
+      "Jagatiloe Naenu PuTTakamundae Nannerigina Praemaa",
+      "Nannerigina Praema Nannerigina Praema Aerparuchukunna Praema",
+      "Nannerigina Praema Nannennukunna Praema"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గర్భమునా పుట్టినది మొదలు నన్ను భరించిన ప్రేమ",
+        "తల్లి ఒడిలో కూర్చున్నది మొదలు చంకబెట్టిన ప్రేమ",
+        "చిరుప్రాయమునుండీ ముసలితనమువరకూ",
+        "యెత్తుకున్నప్రేమ హత్తుకున్న ప్రేమ",
+        "యెత్తుకున్న ప్రేమ నా యేసు ప్రేమ",
+        "యెత్తుకున్న ప్రేమా ఆ ఆ ఆ నా యేసు ప్రేమ"
+      ],
+      "english": [
+        "Garbhamunaa PuTTinadi Modalu Nannu Bharinchina Praema",
+        "Talli ODiloe Kuurchunnadi Modalu ChankabeTTina Praema",
+        "ChirupraayamununDee Musalitanamuvarakuu",
+        "Yettukunnapraema Hattukunna Praema",
+        "Yettukunna Praema Naa Yaesu Praema",
+        "Yettukunna Praemaa Aa Aa Aa Naa Yaesu Praema"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దూరస్తునిగా ఉన్నపుడు నను సంధించిన ప్రేమ",
+        "దారితొలగి తిరిగినయపుడు నను సమకూర్చిన ఫ్రేమ",
+        "మార్గము చూపించి మందలో నను చేర్చి",
+        "మార్గము చూపించి మందలో నను చేర్చి",
+        "సంధించిన ప్రేమ సమకూర్చిన ప్రేమ",
+        "సందించిన ప్రేమా నా యేసు ప్రేమ",
+        "సమకూర్చిన ప్రేమ నా యేసు ప్రేమ"
+      ],
+      "english": [
+        "Doorastunigaa UnnapuDu Nanu Sandhinchina Praema",
+        "Daaritolagi TiriginayapuDu Nanu Samakuurchina Praema",
+        "Maargamu Chuupinchi Mandaloe Nanu Chaerchi",
+        "Maargamu Chuupinchi Mandaloe Nanu Chaerchi",
+        "Sandhinchina Praema Samakuurchina Praema",
+        "Sandinchina Praemaa Naa Yaesu Praema",
+        "Samakuurchina Praema Naa Yaesu Praema"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రక్షనపాత్రను అందించ రక్తముకార్చిన ప్రేమ",
+        "ముండ్లను శిరమున ధరియించి మకుటమునిచ్చిన ప్రేమ",
+        "నిరుపేదగ నిలచీ నన్ను ధనవంతుని చేసి",
+        "నిరుపేదగ నిలచీ నిను ధనవంతుని చేసి",
+        "రక్షించిన ప్రేమ రక్తం చిందించిన ప్రేమ",
+        "రక్షించిన ప్రేమా రక్తం చిందించిన ప్రేమ"
+      ],
+      "english": [
+        "Rakshanapaatranu Andincha Raktamukaarchina Praema",
+        "MunDlanu Siramuna Dhariyinchi Makutamunicchina Praema",
+        "Nirupaedaga Nilachii Nannu Dhanavantuni Chaesi",
+        "Nirupaedaga Nilachii Ninu Dhanavantuni Chaesi",
+        "Rakshinchina Praema Raktam Chindinchina Praema",
+        "Rakshinchina Praemaa Raktam Chindinchina Praema"
+      ]
+    }
+  ]
+}

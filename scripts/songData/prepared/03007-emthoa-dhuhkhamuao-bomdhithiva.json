@@ -1,0 +1,87 @@
+{
+  "song_name": "Enthoa Dhuhkhamu Bondhithivaa",
+  "author": {
+    "Authored by": "",
+    "రచన": "బూదాల లైమన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎంతో దుఃఖముఁ బొందితివా నాకొర కెంతో దుఃఖము పొంది తివా",
+      "యెంతో దుఃఖము నీకు ఎంతో చింతయు నీకు ఎంతో దిగులయ్యా నాకు",
+      "ఆ పొంతి పిలాతు యూ దులు నీకుఁ బెట్టిన శ్రమలను దలపోయఁ గా"
+    ],
+    "english": [
+      "Enthoa Dhuhkhamu Bondhithivaa Naakora Kenthoa Dhuhkhamu Pondhi Thivaa",
+      "Yenthoa Dhuhkhamu Neeku Enthoa Chinthayu Neeku Enthoa Dhigulayyaa Naaku",
+      "Aa Ponthi Pilaathu Yoo Dhulu Neeku Bettina Shramalanu Dhalapoaya Gaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వచ్చిరి యూదులు ముచ్చట లాడుచు నెచ్చట వాఁడనుచు నిన్ను",
+        "మచ్చరముతో వారి యిచ్చ వచ్చినట్లు కొట్టి దూషించినారా"
+      ],
+      "english": [
+        "Vachchiri Yoodhulu Muchchata Laaduchu Nechchata Vaadanuchu Ninnu",
+        "Machcharamuthoa Vaari Yichcha Vachchinatlu Kotti Dhooshinchinaaraa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సుందరమగు దేహ మందున దెబ్బలు గ్రంధులు గట్టినవా",
+        "నీవు పొందిన బాధ నా డెందము తలఁపనా నందములే దాయెను"
+      ],
+      "english": [
+        "Sundharamagu Dhaeha Mandhuna Dhebbalu Grandhulu Gattinavaa",
+        "Neevu Pondhina Baadha Naa Dendhamu Thalapanaa Nandhamulae Dhaayenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కొట్టుకొట్టుమని తిట్టికేల్ దట్టిని న్నట్టిట్టు నెట్టుచును వారు",
+        "పెట్టుశ్రమలు తుద మట్టున కోర్చియుఁ బెట్టితివా ప్రాణము"
+      ],
+      "english": [
+        "Kottukottumani Thittikael Dhattini Nnattittu Nettuchunu Vaaru",
+        "Pettushramalu Thudha Mattuna Koarchiyu Bettithivaa Praanamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నెపముఁ బెట్టుచుఁ దిట్టి యపహసించుచు యూద చపలులు గొట్టి నారా",
+        "నా యపరాధములకు నా పదలను బొంది నీ కృప నాకుఁ జూపినావా"
+      ],
+      "english": [
+        "Nepamu Bettuchu Dhitti Yapahasinchuchu Yoodha Chapalulu Gotti Naaraa",
+        "Naa Yaparaadhamulaku Naa Padhalanu Bondhi Nee Krupa Naaku Joopinaavaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "చక్కని నా యేసు మిక్కిలి బాధ నీ కెక్కువ గలిగె నయ్యా",
+        "ఆహా యొక్క దుష్టుఁడీటె ప్రక్కను గ్రుచ్చి తన యక్కస దీర్చుకొనెనా"
+      ],
+      "english": [
+        "Chakkani Naa Yaesu Mikkili Baadha Nee Kekkuva Galige Nayyaa",
+        "Aahaa Yokka Dhushtudeete Prakkanu Gruchchi Thana Yakkasa Dheerchukonenaa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "అన్నదమ్ములైన అక్క సెల్లెం డ్రైనఁ కన్న పిత్రాదు లైన నన్ను",
+        "ఎన్నఁ డైన బ్రేమించలే రైరి నా యన్నా ప్రేమించినావా"
+      ],
+      "english": [
+        "Annadhammulaina Akka Sellem Draina Kanna Pithraadhu Laina Nannu",
+        "Enna Daina Braeminchalae Rairi Naa Yannaa Praeminchinaavaa"
+      ]
+    }
+  ]
+}

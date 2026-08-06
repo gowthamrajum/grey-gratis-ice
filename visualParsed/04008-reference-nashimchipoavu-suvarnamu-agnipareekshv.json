@@ -1,0 +1,64 @@
+{
+  "song_name": "Nashinchipovu suvarnamu agnipareekshavalana shudhdhaparachabaduchunnadhi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సుఖదుఃఖాలయాత్ర - కాదా - మానవజీవితమంత",
+      "క్షణం క్షణంబీ - ధాత్రిలోన - క్రీస్తేసేనీ - సౌఖ్యం కాదా"
+    ],
+    "english": [
+      "Sukhadhuhkhaalayaathra - Kaadaa - Maanavajeevithamantha",
+      "Kshanam kshanambee - Dhaathrilona - Kreesthese nee - Saukhyam kaadaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వ్యాధి - బాధల్ - శ్రమల యందు నీలోవిచారమేల",
+        "అగ్నిలో మేలిమి - మెరయుట లేదా - ఆ మేలిమి - నీవేకాదా"
+      ],
+      "english": [
+        "Vyaadhi - Baadhal - Shramala yandu neelo vichaaramela",
+        "Agnilo melimi - Merayuta ledaa - Aa melimi - Neeve kaadaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కపట సహోదర - కుట్రలెన్నో - రహస్య ఆ - లోచనలెన్నో",
+        "క్రుంగజేయ - జూచునపుడు - క్రీస్తేసేనీ - కిచ్చును జయము"
+      ],
+      "english": [
+        "Kapata sahodhara - Kutralenno - Rahasya aa - Lochanalenno",
+        "Krungajeya - Joochunapudu - Kreesthese nee - Kichchunu jayamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రవక్తలు - అపొస్తలులు - విశ్వాసవీ - రులెందరో",
+        "పలువిధ కఠిన - బాధల ద్వారా - వెల్లగలేదా - ఓ నా ప్రియుడా"
+      ],
+      "english": [
+        "Pravakthalu - Aposthalulu - Vishvaasavee - Rulendharo",
+        "Paluvidha katina - Baadhala dwaaraa - Vellagaledhaa - O naa priyudaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "త్వరలో ప్రభువు - వస్తున్నాడు - తన సంఘవధు - వున్ కొనిపోవన్",
+        "త్వరగా సంసి - ద్ధంబగు ప్రియుడా - తగినరీ - తిన్ నేడే ప్రియుడా"
+      ],
+      "english": [
+        "Thvaralo Prabhuvu - Vasthunnaadu - Thana sanghavadhu - Vun konipovan",
+        "Thvaragaa samsi - Dhdhambagu priyudaa - Thagina ree - Thin nede priyudaa"
+      ]
+    }
+  ]
+}

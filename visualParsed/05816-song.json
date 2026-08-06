@@ -1,0 +1,106 @@
+{
+  "song_name": "Yesu puttenu nedu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు పుట్టెను నేడు",
+      "పరమును విడిచెను నేడు",
+      "పాపికి విడుదల నేడు",
+      "ప్రతి పాపికి విడుదల నేడు",
+      "*హ్యాపీ హ్యాపి క్రిస్ట్మస్ మెర్రీ మెర్రి క్రిస్ట్మస్*॥2॥"
+    ],
+    "english": [
+      "Yesu puttenu nedu",
+      "Paramunu vidichenu nedu",
+      "Paapiki vidudala nedu",
+      "Prathi paapiki vidudala nedu",
+      "*Happy happy Christmas merry merry Christmas*॥2॥"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ వేధనలు నీ బాధలను",
+        "తొలగించ వచ్చెను ॥2॥",
+        "కష్టాలను నష్టాలను తొలగించ వచ్చెను ॥2॥"
+      ],
+      "english": [
+        "Nee vedanalu nee baadhalanu",
+        "Tholagincha vachchenu ॥2॥",
+        "Kashtaalanu nashtaalanu tholagincha vachchenu ॥2॥"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఓ సారి యోచించుమా",
+        "ఆ యేసుని చేరుమా ॥2॥"
+      ],
+      "english": [
+        "O saari yochinchumaa",
+        "Aa Yesuni cherumaa ॥2॥"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అందుకే అందుకే అందుకే",
+        "*హ్యపీ హ్యపీ క్రిస్ట్మస్ మెర్రీ మెర్రి క్రిస్ట్మస్*",
+        "*జింగిల్ బెల్స్ జింగిల్ బెల్స్*",
+        "*జింగిల్ ఆల్ ద వే*",
+        "*ఓహ్ వాట్ ఫన్ ఇట్జ్ టు రైడ్*",
+        "*ఇన్ ఏవన్హర్స్ ఓపెన్ స్లెయ్*",
+        "నేనే మార్గము నేనే సత్యము",
+        "నేనే జీవమని చెప్పెను ॥2॥"
+      ],
+      "english": [
+        "Anduke anduke anduke",
+        "*Happy happy Christmas merry merry Christmas*",
+        "*Jingle bells jingle bells*",
+        "*Jingle all the way*",
+        "*Oh what fun it is to ride*",
+        "*In a one-horse open sleigh*",
+        "Nene maargamu nene sathyamu",
+        "Nene jeevamani cheppenu ॥2॥"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీ జీవితము నీ సమస్తము",
+        "సరిచేయ వచ్చెను ॥2॥"
+      ],
+      "english": [
+        "Nee jeevithamu nee samasthamu",
+        "Saricheya vachchenu ॥2॥"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఓ సారి యోచించుమా",
+        "ఆ యేసుని చేరుమా ॥2॥"
+      ],
+      "english": [
+        "O saari yochinchumaa",
+        "Aa Yesuni cherumaa ॥2॥"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "అందుకే అందుకే అందుకే",
+        "*హ్యాపీ హ్యపి క్రిస్ట్మస్ మెర్రీ మెర్రి క్రిస్ట్మస్*॥2॥  ||యేసు||"
+      ],
+      "english": [
+        "Anduke anduke anduke",
+        "*Happy happy Christmas merry merry Christmas*॥2॥  ||Yesu||"
+      ]
+    }
+  ]
+}

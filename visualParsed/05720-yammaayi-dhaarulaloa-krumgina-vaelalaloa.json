@@ -1,0 +1,69 @@
+{
+  "song_name": "Yammaayi daarulalo, krungina velalalo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యమ్మాయి దారులలో, కృంగిన వేళలలో",
+      "నా యేసు నడిచెనుగా నా కన్నులు తెరిచెనుగా",
+      "యేసే అజేయుడు నా యేసే సజీవుడు హల్లెలూయ",
+      "యేసే ఆరాధ్యుడు నా యేసే ప్రాణ ప్రియుడు"
+    ],
+    "english": [
+      "Yammaayi daarulalo, krungina velalalo",
+      "Naa Yesu nadichenugaa naa kannulu terichenugaa",
+      "Yese ajeyudu naa Yese sajeevudu hallelooya",
+      "Yese aaraadhyudu naa Yese praana priyudu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆ కోరు లోయలలోన గాడాందకారములోన",
+        "నడచెను ఒంటరిగాను - నా యేసు నాలో వుండును",
+        "చల్లని నీడలలోన జలదారు తావులలోన",
+        "నా యేసుపై ఆనుకోని నే సాగిపోయెదనుIIయేసేII"
+      ],
+      "english": [
+        "Aa ghora loyalalona gaadhaandhakaaramulona",
+        "Nadachenu ontarigaanu - Naa Yesu naalo vundunu",
+        "Challani needalalona jaladhaaru thaavulalona",
+        "Naa Yesupai aanukoni ne saagipoyedhanu||Yese||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శోధన వేదనలోన గాలి తుఫానులలోన",
+        "నా యేసు నా నావలోన నిదురించిన చాలును",
+        "సాగర కెరటాలైన సాతాను పోరాటమైన",
+        "నా యేసుని ఆనుకొని హాయిగ పయనించెదనుIIయేసేII"
+      ],
+      "english": [
+        "Shodhana vedhanalona gaali thuphaanulalona",
+        "Naa Yesu naa naavalona nidhurinchina chaalunu",
+        "Saagara keratalaina Saathaanu poraatamaina",
+        "Naa Yesuni aanukoni haayiga payaninchedhanu||Yese||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "గుడార యానములోన నా జీవిత యాత్రలోన",
+        "ఆరణ్యదారులలోన నా జీవితా నావలోన",
+        "ఇరులే తరులే ఒరిగిన పర్వతాలుయె తొలిగిన",
+        "ఆభయ మిచ్చిన వాడు మారడు నా యేసుడుIIయేసేII"
+      ],
+      "english": [
+        "Gudaara yaanamulona naa jeevitha yaathralona",
+        "Aaranyadhaarulalona naa jeevithaa naavalona",
+        "Irule tharule origina parvathaale tholigina",
+        "Abhaya michchina vaadu maaradu naa Yesudu||Yese||"
+      ]
+    }
+  ]
+}

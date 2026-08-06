@@ -1,0 +1,58 @@
+{
+  "song_name": "Oohaku andani prema naa Yesu prema",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఊహకు అందని ప్రేమ నా యేసు ప్రేమా",
+      "వెలకు అందని ప్రేమ నా క్రీస్తు ప్రేమా",
+      "తరలెన్ని మారిన యుగాలెన్ని గడచినా",
+      "జగానా మారనిది యేసు ప్రేమా",
+      "ప్రేమా ప్రేమా నా యేసు ప్రేమ",
+      "ప్రేమా ప్రేమా నా తండ్రి ప్రేమా (2)"
+    ],
+    "english": [
+      "Oohaku andani prema naa Yesu premaa",
+      "Velaku andani prema naa Kreesthu premaa",
+      "Tharaalenni maarina yugaalenni gadachinaa",
+      "Jagaana maaranidi Yesu premaa",
+      "Premaa premaa naa Yesu prema",
+      "Premaa premaa naa thandri premaa (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మనిషిని మనిషిని ప్రేమించుటకు స్వార్ధం మూలకారణం",
+        "దేవా నీవు ప్రేమించుటకు నీ కృపే కారణం (2)",
+        "మనుషులు మారినా మమతలు మారినా",
+        "బంధాలు వీడినా యేసు ప్రేమ మారదు (2)"
+      ],
+      "english": [
+        "Manishini manishini preminchutaku swaardham moolakaaranam",
+        "Deva neevu preminchutaku nee krupe kaaranam (2)",
+        "Manushulu maarinaa mamathalu maarinaa",
+        "Bandhaalu veedinaa Yesu prema maaradu (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జీవితమంత పోరాటం ఏదో తెలియని ఆరాటం",
+        "నిత్యం ప్రేమకై వెదకటం దొరకకపోతే సంకటం (2)",
+        "మనుషుల ప్రేమ కొంచెం ప్రేమకు కూడ లంచం",
+        "యేసు ప్రేమ శాశ్వతం జీవితానికే సార్ధకం (2)"
+      ],
+      "english": [
+        "Jeevithamantha poraatam edho theliyani aaraatam",
+        "Nithyam premakai vedakatam dhorakakapothe sankatam (2)",
+        "Manushula prema koncham premaku kooda lancham",
+        "Yesu prema shaashwatham jeevithaanike saardhakam (2)"
+      ]
+    }
+  ]
+}

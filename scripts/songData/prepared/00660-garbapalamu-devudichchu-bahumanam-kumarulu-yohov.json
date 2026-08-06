@@ -1,0 +1,55 @@
+{
+  "song_name": "Garbapalamu Devudichchu Bahumanam",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "గర్భఫలము దేవుడిచ్చు బహుమానం కుమారులు యోహోవా ఇచ్చు స్వాస్ధ్యము",
+      "నిదురించే తన ప్రియులకు వెలలేని ఒడిలోని ప్రేమానుబంధము",
+      "వెలలేని విడిపోని తన ప్రేమ బంధము"
+    ],
+    "english": [
+      "Garbapalamu Devudichchu Bahumanam Kumarulu Yohova Ichchu Svasdhyamu",
+      "Nidurimche Tana Priyulaku Velaleni Odiloni Premanubamdhamu",
+      "Velaleni Vidiponi Tana Prema Bamdhamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరాయి బిడ్డను ఏ ఒక్కరు తన బిడ్డగా అంగీపరింపరు",
+        "ఒకవేళ చూసినా మీ పిల్లలతో సమానముగా చూడలేరు",
+        "మన మనసెరిగిన దేవుడు తన బిడ్డనే మీ బిడ్డగా",
+        "మీ గర్భంలోనే రుపిస్తున్నాడు",
+        "వివాహానికిదే అర్ధం దీనిలోని పరమార్ధం"
+      ],
+      "english": [
+        "Parayi Biddanu E Okkaru Tana Biddaga Amgiparimparu",
+        "Okavela Chusina Mi Pillalato Samanamuga Chudaleru",
+        "Mana Manaserigina Devudu Tana Biddane Mi Biddaga",
+        "Mi Garbamlone Rupistunnadu",
+        "Vivahanikide Ardham Diniloni Paramardham"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రతి బహుమానం తనకొరకే పెంచాలని మీకిచ్చాడు దేవుడు",
+        "వాక్యమెరుగక దేవునికై బ్రతుకక నరకానికందరూ పోవుట న్యాయమా?",
+        "మీ తండ్రి పనుల మీదుండాలని మీరెరుగరా?",
+        "మీ తరమువారికి సేవచేసి నిద్రించరా?",
+        "మనిషి జన్మకిదే అర్ధం దీనిలోని పరమార్ధం"
+      ],
+      "english": [
+        "Prati Bahumanam Tanakorake Pemchalani Mikichchadu Devudu",
+        "Vakyamerugaka Devunikai Bratukaka Narakanikamdaru Povuta Nyayama?",
+        "Mi Tamdri Panula Midumdalani Mirerugara?",
+        "Mi Taramuvariki Sevachesi Nidrimchara?",
+        "Manishi Janmakide Ardham Diniloni Paramardham"
+      ]
+    }
+  ]
+}

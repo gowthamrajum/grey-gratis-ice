@@ -7,6 +7,7 @@ const stringSimilarity = require("string-similarity");
 const cors = require("cors");
 const Anthropic = require("@anthropic-ai/sdk");
 const path = require("path");
+const { r2Config, presignUpload, MAX_BYTES: R2_MAX_BYTES } = require("./r2");
 
 const app = express();
 
@@ -1059,6 +1060,42 @@ ${rawLyrics}`
     console.error("AI lyrics parse failed:", err.message);
     res.status(500).json({ error: "AI parsing failed", detail: err.message });
   }
+});
+
+// -------------------------------
+// Service media
+// -------------------------------
+// A phone can put a welcome clip into Sunday's order, and the projection
+// machine has to be able to fetch it. This relay cannot be where it lives — its
+// disk is wiped on every restart — so the file goes to Cloudflare R2 and only
+// its URL comes back here, inside the deck like any other background.
+//
+// The browser uploads DIRECTLY to R2 with a presigned URL. Nothing large passes
+// through this instance: it signs, and that is all. See r2.js.
+//
+// Dormant until R2 is configured, and it says so rather than failing: the app
+// asks first and hides the upload option, so nobody is offered something that
+// cannot work.
+app.get("/media/config", (req, res) => {
+  res.json({ enabled: r2Config().ok, maxBytes: R2_MAX_BYTES });
+});
+
+app.post("/media/upload-url", (req, res) => {
+  const { name, contentType, size } = req.body || {};
+  const out = presignUpload(name, contentType, Number(size));
+  if (out.error === "not-configured") {
+    return res.status(503).json({ error: "not-configured", message: "No media store is configured." });
+  }
+  if (out.error === "type-not-allowed") {
+    return res.status(415).json({ error: out.error, message: "That kind of file can't go in a service." });
+  }
+  if (out.error === "too-large") {
+    return res
+      .status(413)
+      .json({ error: out.error, message: `Too big — the limit is ${Math.round(R2_MAX_BYTES / 1048576)} MB.` });
+  }
+  if (out.error) return res.status(400).json({ error: out.error, message: "That file couldn't be accepted." });
+  res.json(out);
 });
 
 // -------------------------------

@@ -1,0 +1,138 @@
+{
+  "song_name": "Hallelooya Naa Praanamaa Yehoavaanu Sthuthinchu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "హల్లెలూయ నా ప్రాణమా - యెహోవాను స్తుతించు"
+    ],
+    "english": [
+      "Hallelooya Naa Praanamaa - Yehoavaanu Sthuthinchu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా జీవితకాలమంతయు నే నెహోవాను స్తుతించెదను",
+        "నా బ్రతుకు కాలమంతయు నా దేవుని కీర్తింతును"
+      ],
+      "english": [
+        "Naa Jeevithakaalamanthayu Nae Nehoavaanu Sthuthinchedhanu",
+        "Naa Brathuku Kaalamanthayu Naa Dhaevuni Keerthinthunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రాజుల చేతనైనను - మరి నరుల చేతనైనను",
+        "రక్షణ్య భాగ్యము కల్గదు - వారిని నమ్ముకొనకండి"
+      ],
+      "english": [
+        "Raajula Chaethanainanu - Mari Narula Chaethanainanu",
+        "Rakshanya Bhaagyamu Kalgadhu - Vaarini Nammukonakandi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వారి ప్రాణము నశియించును - వారు మంటిలో గలసెదరు",
+        "వారి సంకల్పములన్నియు నీ దినమే నాశనము నొందున్"
+      ],
+      "english": [
+        "Vaari Praanamu Nashiyinchunu - Vaaru Mantiloa Galasedharu",
+        "Vaari Sankalpamulanniyu Nee Dhinamae Naashanamu Nondhun"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యాకోబు దేవుండు - ఎవ్వనికి సాయంబగునో",
+        "యెవడెహోవా మీద ఆశపెట్టునో - వాడే ధన్యుడు"
+      ],
+      "english": [
+        "Yaakoabu Dhaevundu - Evvaniki Saayambagunoa",
+        "Yevadehoavaa Meedha Aashapettunoa - Vaadae Dhanyudu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఆకాశ భూమి సముద్రం - దానిలోని దంత సృజించెన్",
+        "ఆ తండ్రి యెన్నండైన తన మా-టలు తప్పనివాడు"
+      ],
+      "english": [
+        "Aakaasha Bhoomi Samudhram - Dhaaniloani Dhantha Srujinchen",
+        "Aa Thandri Yennandaina Thana Maa-Talu Thappanivaadu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "బాధ నొందినవారికి - అతడే న్యాయము తీర్చున్",
+        "ఆకలిగొనినట్టి వారికి ఆ - హారము దయచేయున్"
+      ],
+      "english": [
+        "Baadha Nondhinavaariki - Athadae Nyaayamu Theerchun",
+        "Aakaligoninatti Vaariki Aa - Haaramu Dhayachaeyun"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "బంధింపబడిన వారికి బంధములాయన ద్రుంచున్",
+        "పుట్టంధుల కన్నులను యెహోవా తెరవజేసెడివాడు"
+      ],
+      "english": [
+        "Bandhimpabadina Vaariki Bandhamulaayana Dhrunchun",
+        "Puttandhula Kannulanu Yehoavaa Theravajaesedivaadu"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "క్రుంగినట్టి జనుల - నింగికెత్తెడు వాడాయనే",
+        "నీతిమంతుల నెల్లరిని యెహోవా ప్రేమించున్"
+      ],
+      "english": [
+        "Krunginatti Janula - Ningikeththedu Vaadaayanae",
+        "Neethimanthula Nellarini Yehoavaa Praeminchun"
+      ]
+    },
+    {
+      "stanza_number": 9,
+      "telugu": [
+        "పరదేశ వాసులను - కాపాడు వాడాయనే",
+        "వేరుదిక్కులేని వారిని విధవల నాదరించును"
+      ],
+      "english": [
+        "Paradhaesha Vaasulanu - Kaapaadu Vaadaayanae",
+        "Vaerudhikkulaeni Vaarini Vidhavala Naadharinchunu"
+      ]
+    },
+    {
+      "stanza_number": 10,
+      "telugu": [
+        "భక్తిహీనుల దారిని - వంకరగా జేయును",
+        "యెహోవాయే తరతరములు పరిపా - లించుచుండును"
+      ],
+      "english": [
+        "Bhakthiheenula Dhaarini - Vankaragaa Jaeyunu",
+        "Yehoavaayae Tharatharamulu Paripaa - Linchuchundunu"
+      ]
+    },
+    {
+      "stanza_number": 11,
+      "telugu": [
+        "సీయోను నీ దేవుడు - తరతరములు రాజ్య మేలును",
+        "యెహోవాను స్తుతించుడి - హల్లెలూయా ఆమెన్"
+      ],
+      "english": [
+        "Seeyoanu Nee Dhaevudu - Tharatharamulu Raajya Maelunu",
+        "Yehoavaanu Sthuthinchudi - Hallelooyaa Aamen"
+      ]
+    }
+  ]
+}

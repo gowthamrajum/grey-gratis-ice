@@ -1,0 +1,50 @@
+{
+  "song_name": "Saageti ee jeeva yaathraloregeti penu thuphaanulenno",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సాగేటి ఈ జీవ యాత్రలోరేగేటి పెను తుఫానులెన్నో",
+      "ఆదరించవా నీ జీవ వాక్కుతో సేద దీర్చవా నీ చేతి స్పర్శతో"
+    ],
+    "english": [
+      "Saageti ee jeeva yaathraloregeti penu thuphaanulenno",
+      "Aadharinchavaa nee jeeva vaakkutho seda dheerchavaa nee chethi sparshatho"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సుడిగుండాలెన్నో లోకసాగరానా వడిగా నను లాగి",
+        "పడద్రోసే సమయాన నడిపించగలిగిన నా చుక్కాని నీవే",
+        "విడిపించగలిగిన నాకున్న దిక్కు నీవే",
+        "యేసయ్యా ఓ మెస్సయ్యా హలెలూయా నీకే స్తోత్రమయా"
+      ],
+      "english": [
+        "Sudigundaalenno lokasaagaraanaa vadigaa nanu laagi",
+        "Padadhrose samayaana nadipinchagaligina naa chukkaani neeve",
+        "Vidipinchagaligina naakunna dikku neeve",
+        "Yesayyaa o Messayyaa halelooyaa neeke sthothramayaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వడగాల్పులెన్నో నా పయనం లోన నడవనీక సొమ్మసిల్ల",
+        "జేసే సమయాన తడబాటును సరిచేసే ప్రేమ మూర్తి నీవే",
+        "కడవరకు నడిపే ఇమ్మానుయేలు నీవే",
+        "యేసయ్యా ఓ మెస్సయ్యా హలెలూయా నీకే స్తోత్రమయా"
+      ],
+      "english": [
+        "Vadagaalpulenno naa payanam lona nadavaneeka sommasilla",
+        "Jese samayaana thadabaatunu sarichese prema moorthi neeve",
+        "Kadavaraku nadipe Immaanuyelu neeve",
+        "Yesayyaa o Messayyaa halelooyaa neeke sthothramayaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "song_name": "Aagadhu Naa Payanam",
+  "author": {
+    "Authored by": "Pastor Jafanya Sastry",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆగదు నా పయనం – సీయోను చేరకుండా",
+      "ఆశలు కోరికలు – వెనకకు లాగినను",
+      "నా గమ్యము చేర – సాగిపోయెదను"
+    ],
+    "english": [
+      "Aagadhu naa payanam – siyonu cherakundaa",
+      "aasalu korikalu – venukaku laaginanu",
+      "naa gamyamu chera – saagipoyedhanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎల్షద్దాయ్ బలమియ్యగా",
+        "మరి లోతుగా వేరు తన్నెదను",
+        "అదొనాయ్ తోడుండగా",
+        "పైకెదిగి ఫలియించెదన్"
+      ],
+      "english": [
+        "Elshaddai balamiyyagaa",
+        "mari lothuga veru thannedhanu",
+        "adonai thodundagaa",
+        "paikedhigi phaliyinchedhan"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎల్షద్దాయ్ బలమియ్యగా",
+        "మరి క్రిందికి వేరు తన్నెదను",
+        "అదొనాయ్ తోడుండగా",
+        "పైకెదిగి ఫలియించెదన్"
+      ],
+      "english": [
+        "Elshaddai balamiyyagaa",
+        "mari krindhiki veru thannedhanu",
+        "adonai thodundagaa",
+        "paikedhigi phaliyinchedhan"
+      ]
+    }
+  ]
+}

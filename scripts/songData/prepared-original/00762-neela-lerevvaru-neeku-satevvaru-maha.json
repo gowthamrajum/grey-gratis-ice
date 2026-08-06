@@ -1,0 +1,35 @@
+{
+  "song_name": "Neela Lerevvaru Neeku Satevvaru Maha",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీలా లేరెవ్వరు నీకు సాటెవ్వరు మహా దేవుడవు నీవే . . దూరం పొయినను కాలం మారినను ప్రేమతో పిలచితివి నీవే . . నీ ప్రేమ నన్ను మార్చింది నీ ప్రేమ నన్ను కాచింది నీ ప్రేమ నన్ను దాచింది నీ ప్రేమ . . నీ ప్రేమ . . (2)"
+    ],
+    "english": [
+      "Neela lerevvaru neeku satevvaru maha devudavu neeve . . Duram poyinanu kalam marinanu premato pilachitivi neeve . . Ni prema nannu marchimdi ni prema nannu kachimdi Ni prema nannu dachimdi ni prema . . Ni prema . . (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కృంగి ఉన్న వేళలలో నిన్ను నేను మరచినా అదరించె దేవుడవు నీవేగా (2)"
+      ],
+      "english": [
+        "Krumgi unna velalalo ninnu nenu marachina Adarimche devudavu neevega (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నలగిన వేళలలో కష్టకాల సమయంలో రక్షించిన దేవుడవు నీవేగా (2)"
+      ],
+      "english": [
+        "Nalagina velalalo kashtakala samayamlo Rakshimchina devudavu neevega (2)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "song_name": "Naakunnadu Snehithudu",
+  "author": {
+    "Authored by": "Pastor J Arun Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నాకున్నాడు ఒక స్నేహితుడు",
+      "నాకున్నాడు స్నేహితుడు",
+      "నా యేసుడు నా ప్రియుడు",
+      "నాకోసం ప్రాణం పెట్టినా",
+      "చెలికాడు చెలికాడు చెలికాడు",
+      "నాకున్నాడు స్నేహితుడు"
+    ],
+    "english": [
+      "Naakunnaadu oka snehithudu",
+      "naakunnaadu snehithudu",
+      "naa yeasudu naa priyudu",
+      "naakoasam praanam pettinaa",
+      "chelikaadu chelikaadu chelikaadu",
+      "naakunnaadu snehithudu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నాకున్నాడు ఒక స్నేహితుడు",
+        "నాకున్నాడు స్నేహితుడు",
+        "నా యేసుడు నా ప్రియుడు",
+        "నాకోసం ప్రాణం పెట్టినా",
+        "చెలికాడు చెలికాడు చెలికాడు",
+        "నాకున్నాడు స్నేహితుడు"
+      ],
+      "english": [
+        "Naakunnaadu oka snehithudu",
+        "naakunnaadu snehithudu",
+        "naa yeasudu naa priyudu",
+        "naakoasam praanam pettinaa",
+        "chelikaadu chelikaadu chelikaadu",
+        "naakunnaadu snehithudu"
+      ]
+    }
+  ]
+}

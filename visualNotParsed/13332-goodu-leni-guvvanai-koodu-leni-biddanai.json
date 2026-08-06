@@ -1,0 +1,74 @@
+{
+  "song_name": "Goodu leni guvvanai koodu leni biddanai",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "గూడు లేని గువ్వనై – కూడు లేని బిడ్డనై (2)",
+      "నీడ లేని మనిషినై – అందరిలో ఒంటరినై (2)",
+      "దారి తెలియని స్థితిలో నిలబడి ఉన్నాను",
+      "సహాయము కొరకు ఆర్జిస్తు ఉన్నాను (2)",
+      "అప్పుడొక మెల్లని స్వరము నాతో",
+      "మాట్లాడి చెప్పెను ప్రభువైన యేసుని (2)",
+      "ఎప్పుడైతే ఆ స్వరము విన్నానో నేను",
+      "నా జీవితమంత ప్రకాశింప సాగింది (2) ||గూడు||"
+    ],
+    "english": [
+      "Goodu leni guvvanai – Koodu leni biddanai (2)",
+      "Needa leni manishinai – Andarilo ontarinai (2)",
+      "Daari theliyani sthithilo nilabadi unnaanu",
+      "Sahaayamu koraku aarjisthu unnaanu (2)",
+      "Appudoka mellani swaramu naatho",
+      "Maatlaadi cheppenu prabhuvaina Yesuni (2)",
+      "Eppudaithe aa swaramu vinnaano nenu",
+      "Naa jeevithamantha prakaashimpa saagindi (2) ||Goodu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అప్పుడొక తియ్యని స్వరము నాతో",
+        "మాట్లాడి చెప్పెను ప్రియుడైన యేసుని (2)",
+        "ఎప్పుడైతే ఆ స్వరము విన్నానో నేను",
+        "నా పాప జీవితము పారిపో సాగింది (2)  ||గూడు||"
+      ],
+      "english": [
+        "Appudoka thiyyani swaramu naatho",
+        "Maatlaadi cheppenu priyudaina Yesuni (2)",
+        "Eppudaithe aa swaramu vinnaano nenu",
+        "Naa paapa jeevithamu paaripo saagindi (2)  ||Goodu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అప్పుడొక అద్భుత స్వరము నాతో",
+        "మాట్లాడి చెప్పెను రాజైన యేసుని (2)",
+        "ఎప్పుడైతే ఆ స్వరము విన్నానో నేను",
+        "నా ప్రశ్నలన్నిటికి జవాబులు దొరికాయి (2)",
+        "గూడు ఉన్న గువ్వనై – కూడు ఉన్న బిడ్డనై (2)",
+        "నీడ ఉన్న మనిషినై – ఒక్కరిలో వెయ్యినై (2)",
+        "దారి తెలిసిన స్థితిలో నిలబడి ఉన్నాను",
+        "సేవలోని మాధుర్యము ననుభవిస్తున్నాను (2)",
+        "యేసుని నమ్ముకో – యేసుని చేరుకో",
+        "యేసుని కోరుకో – యేసుతో చేరిపో (4)"
+      ],
+      "english": [
+        "Appudoka adbhutha swaramu naatho",
+        "Maatlaadi cheppenu raajaina Yesuni (2)",
+        "Eppudaithe aa swaramu vinnaano nenu",
+        "Naa prashnalannitiki javaabulu dhorikaayi (2)",
+        "Goodu unna guvvanai – Koodu unna biddanai (2)",
+        "Needa unna manishinai – Okkarilo veyyinai (2)",
+        "Daari thelisina sthithilo nilabadi unnaanu",
+        "Sevaloni maadhuryamu nanubhavisthunnaanu (2)",
+        "Yesuni nammuko – Yesuni cheruko",
+        "Yesuni koruko – Yesutho cheripo (4)"
+      ]
+    }
+  ]
+}

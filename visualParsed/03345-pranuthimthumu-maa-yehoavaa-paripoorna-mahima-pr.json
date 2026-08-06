@@ -1,0 +1,76 @@
+{
+  "song_name": "Pranuthinthumu maa Yehova paripoorna mahima prabhaavaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవా నీవే నన్ను సురక్షితముగా నివసింపజేయుదువు. కీర్తన సామ్ 4:8",
+      "ప్రణుతింతుము మా యెహోవా",
+      "పరిపూర్ణ మహిమ ప్రభావా",
+      "ప్రబలెన్ నీ రక్షణ మా విభవా"
+    ],
+    "english": [
+      "Yehova neeve nannu surakshithamugaa nivasimpajeyudhuvu. Keerthana Psalm 4:8",
+      "Pranuthinthumu maa Yehova",
+      "Paripoorna mahima prabhaavaa",
+      "Prabalen nee rakshana maa vibhavaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నేను నిదురబోయి మేలు కొందును",
+        "నాపైన పదివేలు మోహరించినను",
+        "నేనెన్నడు వెరువబోను"
+      ],
+      "english": [
+        "Nenu nidhuraboyi melu kondhunu",
+        "Naapaina padhivelu moharinchinanu",
+        "Nenennadu veruvabonu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా మీదికి లేచి భాధించువారు",
+        "వానికి రక్షణ లేదనువారు",
+        "వేలాదిగా నిల్చినారు"
+      ],
+      "english": [
+        "Naa meediki lechi baadhinchuvaaru",
+        "Vaaniki rakshana ledhanuvaaru",
+        "Velaadhigaa nilchinaaru"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యెలుగెత్తి యెహోవా సన్నిధియందు",
+        "విలపించి వేడినయట్టి దినమందు",
+        "వింతగ రక్షించితివంచు"
+      ],
+      "english": [
+        "Elugetthi Yehova sannidhiyandhu",
+        "Vilapinchi vedinayatti dinamandu",
+        "Vinthaga rakshinchithivanchu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "రక్షణనిచ్చుట మన యెహోవాది",
+        "రారాజు ప్రజలకు ఆశీర్వాదంబు",
+        "రంజిల్లు నీ ధరణియందు"
+      ],
+      "english": [
+        "Rakshananichchuta mana Yehovaadhi",
+        "Raaraaju prajalaku aasheervaadhambu",
+        "Ranjillu nee dharaniyandhu"
+      ]
+    }
+  ]
+}

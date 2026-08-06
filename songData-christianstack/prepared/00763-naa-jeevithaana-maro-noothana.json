@@ -1,0 +1,43 @@
+{
+  "song_name": "Naa Jeevithaana Maro Noothana",
+  "author": {
+    "Authored by": "Bro Paul Emmanuel",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా జీవితాన మరో నూతన సంవత్సరమును",
+      "దయ చేసిన నా యేసయ్య",
+      "కృప చూపిన కరుణామయ",
+      "నీకేమి చెల్లింతును – నా జీవితమే అర్పింతును",
+      "నీకేమి చెల్లింతును – ఇక నీ కొరకే జీవింతును"
+    ],
+    "english": [
+      "Naa jeevithaana maro noothana samvathsaramunu",
+      "dhaya chesina naa yesayya",
+      "krupa choopina karunaamayaa",
+      "neekemi chellinthunu – naa jeevithame arpinthunu",
+      "neekemi chellinthunu – ika nee korake jeevinthunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హాపి హాపి న్యూ ఇయర్ హాపి డేస్ ఫర్ ఎవర్"
+      ],
+      "english": [
+        "Happy happy new year happy days forever"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "హాపి హాపి న్యూ ఇయర్ హాపి డేస్ ఫర్ ఎవర్"
+      ],
+      "english": [
+        "Happy happy new year happy days forever"
+      ]
+    }
+  ]
+}

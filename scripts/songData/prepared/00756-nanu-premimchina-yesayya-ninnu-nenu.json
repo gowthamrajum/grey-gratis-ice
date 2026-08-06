@@ -1,0 +1,58 @@
+{
+  "song_name": "Nanu Premimchina Yesayya Ninnu Nenu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నను ప్రేమించిన యేసయ్యా నిన్ను నేను స్తుతింతునయ్యా",
+      "నాకాదరణానందము నీవే నను రక్షించిన ఓ రక్షకుడా"
+    ],
+    "english": [
+      "Nanu Premimchina Yesayya Ninnu Nenu Stutimtunayya",
+      "Nakadarananamdamu Nive Nanu Rakshimchina O Rakshakuda"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "బలహీనుడను బహు పాపిని ధనహీనుడను దరిద్రుడను",
+        "ఏమి చూచి నన్ను వెదకి రక్షించినావు",
+        "ఎంత ప్రేమ నీది లోకానికి ఒక వింతైనది"
+      ],
+      "english": [
+        "Balahinudanu Bahu Papini Dhanahinudanu Daridrudanu",
+        "Emi Chuchi Nannu Vedaki Rakshimchinavu",
+        "Emta Prema Nidi Lokaniki Oka Vimtainadi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వీధులలో పడి మోసావు భారమైన సిలువ నీవు",
+        "నాదు పాపపు మోపంతా నీ వీపుపై మోసావు",
+        "దాపు జేరిన నన్ను దయతో మన్నిచినావా"
+      ],
+      "english": [
+        "Vidhulalo Padi Mosavu Baramaina Siluva Nivu",
+        "Nadu Papapu Mopamta Ni Vipupai Mosavu",
+        "Dapu Jerina Nannu Dayato Mannichinava"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మరణమును జయించినావు మృత్యువును ఓడించినావు",
+        "మరణ ఛాయలోనున్న నాకు జీవిమిచ్చినావు",
+        "ఏమి నీకు అర్పింతునయ్యా నా వందనం అందుకోవయా"
+      ],
+      "english": [
+        "Maranamunu Jayimchinavu Mrutyuvunu Odimchinavu",
+        "Marana Chayalonunna Naku Jivimichchinavu",
+        "Emi Niku Arpimtunayya Na Vamdanam Amdukovaya"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "song_name": "Prabhu Yesuni nenu nenu vembadinthunu thana adugu jaadalalo nadichedanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభు యేసుని నేను నేను వెంబడింతును (2)",
+      "తన అడుగు జాడలలో నడిచెదను (2)"
+    ],
+    "english": [
+      "Prabhu Yesuni nenu nenu vembadinthunu (2)",
+      "Thana adugu jaadalalo nadichedanu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లోకమున్ విడిచి సిలువను మోసి",
+        "దీక్షతో ప్రభుని వెంబడింతును"
+      ],
+      "english": [
+        "Lokamun vidichi siluvanu mosi",
+        "Deekshatho prabhuni vembadinthunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కాపరి యేసు స్వరమును వినుచు",
+        "చూపెడి స్థలముల కేగెదను"
+      ],
+      "english": [
+        "Kaapari Yesu swaramunu vinuchu",
+        "Choopedi sthalamula kegedanu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "చీకటి జగతిని తప్పించుకొని",
+        "వాక్యపు వెలుగులో వెంబడింతును"
+      ],
+      "english": [
+        "Cheekati jagathini thappinchukoni",
+        "Vaakyapu velugulo vembadinthunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పాప విశాల మార్గమున్ విడచి",
+        "పరుగిడెదను జీవ మార్గమున"
+      ],
+      "english": [
+        "Paapa vishaala maargamun vidachi",
+        "Parugidedanu jeeva maargamuna"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "అంతమువరకు స్థిరముగ నిలిచి",
+        "అమూల్యమకుటము పొందెదను"
+      ],
+      "english": [
+        "Anthamuvaraku sthiramuga nilichi",
+        "Amoolyamakutamu pondedanu"
+      ]
+    }
+  ]
+}

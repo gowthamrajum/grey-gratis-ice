@@ -1,0 +1,98 @@
+{
+  "song_name": "Mattiviraa vattiviraa mannuvuraa mannavuraa kaayamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మట్టివిరా వట్టివిరా మన్నువురా మన్నవురా",
+      "కాయము మాయము ఖాయమురా అయ్యయ్యో!"
+    ],
+    "english": [
+      "Mattiviraa vattiviraa mannuvuraa mannavuraa",
+      "Kaayamu maayamu khaayamuraa ayyayyo!"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అటుచేసి ఇటుచేసి అందరిని మోసం చేసి",
+        "సంఘాన్ని రెండుగ చీల్చావే అయ్యయ్యో",
+        "నీ గోతిలో నువ్వే పడ్డావే అయ్యయ్యో!"
+      ],
+      "english": [
+        "Atuchesi ituchesi andarini mosam chesi",
+        "Sanghaanni renduga cheelchaave ayyayyo",
+        "Nee gothilo nuvve paddaave ayyayyo!"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నువు వేసిన వేషాలు నువు చేసిన మోసాలు",
+        "నరకాగ్నికి నిను చేర్చునులే అయ్యయ్యో",
+        "నరకాగ్నిలో కాలిపోదువులే అయ్యయ్యో!"
+      ],
+      "english": [
+        "Nuvu vesina veshaalu nuvu chesina mosaalu",
+        "Narakaagniki ninu cherchunule ayyayyo",
+        "Narakaagnilo kaalipoduvule ayyayyo!"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ బ్రతుకు దెరువుకోసం బైబిల్ చేతబట్టి",
+        "పమార్ధం మర్చిపోయావే అయ్యయ్యో",
+        "ఆత్మలతో ఆడుకొన్నావే అయ్యయ్యో!"
+      ],
+      "english": [
+        "Nee brathuku deruvukosam Baibil chethabatti",
+        "Paramaardham marchipoyaave ayyayyo",
+        "Aathmalatho aadukonnaave ayyayyo!"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సువార్త సేవకోసం పంపిన సొమ్ములన్నీ",
+        "సొంతానికి ఖర్చు చేశావే అయ్యయ్యో",
+        "శాపాన్ని తెచ్చుకున్నావే అయ్యయ్యో!"
+      ],
+      "english": [
+        "Suvaartha sevakosam pampina sommulannee",
+        "Sonthaaniki kharchu cheshaave ayyayyo",
+        "Shaapaanni thechchukunnaave ayyayyo!"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పాపాన్ని పాతిపెట్టి దోషాన్ని దాచిపెట్టి",
+        "దొరలాగ తిరుగుచున్నావే అయ్యయ్యో",
+        "తొందరలో దొరకిపోతావే అయ్యయ్యో!"
+      ],
+      "english": [
+        "Paapaanni paathipetti dhoshaanni daachipetti",
+        "Doralaaga thiruguchunnaave ayyayyo",
+        "Thondaralo dorakipothaave ayyayyo!"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నీ పాపం ఒప్పుకుంటే ఆ పాపం విడిచిపెడితే",
+        "పరలోకం నిన్ను చేర్చునులే యేసయ్యా",
+        "నీ పాపం కడిగివేయునులే మెస్సయ్యా!"
+      ],
+      "english": [
+        "Nee paapam oppukunte aa paapam vidichipedithe",
+        "Paralokam ninnu cherchunule Yesayyaa",
+        "Nee paapam kadigiveyunule Messayyaa!"
+      ]
+    }
+  ]
+}

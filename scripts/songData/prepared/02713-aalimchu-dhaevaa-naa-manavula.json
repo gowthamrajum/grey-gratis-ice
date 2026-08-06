@@ -1,0 +1,76 @@
+{
+  "song_name": "Aalinchu Dhaevaa Naa Manavula",
+  "author": {
+    "Authored by": "",
+    "రచన": "పులిపాక జగన్నాధము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆలించు దేవా నా మనవుల నాలించు దేవా",
+      "యాలించు నా దేవ యన్ని సమయంబులఁ",
+      "జాల గనపరచుచుఁ జక్కని నీ దయ"
+    ],
+    "english": [
+      "Aalinchu Dhaevaa Naa Manavula Naalinchu Dhaevaa",
+      "Yaalinchu Naa Dhaeva Yanni Samayambula",
+      "Jaala Ganaparachuchu Jakkani Nee Dhaya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సకల సత్యభాగ్య సంపద నీ యందు",
+        "వికలంబు గాకుండ వెలయు నెల్లప్పుడు"
+      ],
+      "english": [
+        "Sakala Sathyabhaagya Sampadha Nee Yandhu",
+        "Vikalambu Gaakunda Velayu Nellappudu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పలుమారు నీ వొసఁగఁ బరమ భాగ్యంబులు",
+        "పొలిసి పోదు నీదు కలిమి కాసంతైన"
+      ],
+      "english": [
+        "Palumaaru Nee Vosaga Barama Bhaagyambulu",
+        "Polisi Poadhu Needhu Kalimi Kaasanthaina"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా యఘము లన్నియు నా తండ్రి క్షమియించు",
+        "నీ యనుగ్రహముచే నీ సుతుని కృతమున"
+      ],
+      "english": [
+        "Naa Yaghamu Lanniyu Naa Thandri Kshamiyinchu",
+        "Nee Yanugrahamuchae Nee Suthuni Kruthamuna"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీ యాజ్ఞ లన్నియు నేను జక్కఁగ సల్ప",
+        "నీ యందు నమ్మిక నెగ డించు మనిశంబు"
+      ],
+      "english": [
+        "Nee Yaajna Lanniyu Naenu Jakkaga Salpa",
+        "Nee Yandhu Nammika Nega Dinchu Manishambu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీ సేవ నొనరింప నిండుగ నిలలోన",
+        "నీ సేవకుని కిమ్ము నీ శుద్ధాత్మను కృపచే"
+      ],
+      "english": [
+        "Nee Saeva Nonarimpa Ninduga Nilaloana",
+        "Nee Saevakuni Kimmu Nee Shudhdhaathmanu Krupachae"
+      ]
+    }
+  ]
+}

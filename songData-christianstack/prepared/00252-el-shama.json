@@ -1,0 +1,79 @@
+{
+  "song_name": "El Shama",
+  "author": {
+    "Authored by": "Jessy Paul",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవా చెవియొగ్గుము",
+      "దృష్టించుము నిన్నే వెదకుచున్నాను",
+      "దేవా సెలవియుము బద్దులియుము",
+      "నిన్నే వేడుచున్నాను"
+    ],
+    "english": [
+      "Deva cheviyoggumu",
+      "drushtinchumu ninne vedakuchunnanu",
+      "deva selaviyumu badduliyyumu",
+      "ninne veduchunnanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రతి ఉదయం – నిన్ను నమ్మి",
+        "ప్రతి రాత్రి – నిన్ను వేడి",
+        "ప్రతి ఘడియ – నిన్ను కోరీ నహాల్"
+      ],
+      "english": [
+        "Prathi udayam – ninnu nammi",
+        "prathi raatri – ninnu vedi",
+        "prathi ghadiya – ninnu kori nahal"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆశతో వేచియున్న – నీవే నా నమ్మకం",
+        "ఓర్పుతో కాచియున్న – నీవేగా నా ధైర్యం",
+        "ఎల్ షమ – ఎల్ షమ – ఎల్ షమ",
+        "నా ప్రార్థన వినువాడా"
+      ],
+      "english": [
+        "Aashatho vechiyunna",
+        "neeve naa nammakam",
+        "orputho kaachiyunna",
+        "neevegaa naa dhairyam",
+        "el shama – el shama – el shama",
+        "naa prardhana vinuvaada"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ శక్తియే విడిపించును",
+        "నీ హస్తమే – లేవనెత్తును",
+        "నీ మాటయే – నా బలం",
+        "నీ మార్గమూ – పరిశుద్ధము"
+      ],
+      "english": [
+        "Nee shaktiye vidipinchunu",
+        "nee hasthame – levanethunu",
+        "nee maateye – naa balam",
+        "nee margamu – parishuddhamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఎల్ షమ – ఎల్ షమ – ఎల్ షమ",
+        "నా ప్రార్థన వినువాడా"
+      ],
+      "english": [
+        "El shama – el shama – el shama",
+        "naa prardhana vinuvaada"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "song_name": "Naa Jeevam Naa Sarvam",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా జీవం నా సర్వం నీవే దేవా",
+      "నా కొరకే బలి అయిన గొర్రెపిల్ల",
+      "నా కొరకే రానున్న ఓ మెస్సయ్యా"
+    ],
+    "english": [
+      "Naa Jeevam Naa Sarvam Neeve Devaa",
+      "Naa Korake Bali Aina Gorrepilla",
+      "Naa Korake Raanunna O Messayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తప్పిపోయిన నన్ను వెదకి రక్షించి",
+        "మంచి కాపరి నాకై ప్రాణమిచ్చితివే",
+        "ఏమివ్వగలను నీ ఎనలేని ప్రేమకై",
+        "విరిగి నలిగిన హృదయమే నేనర్పింతును"
+      ],
+      "english": [
+        "Thappipoyina Nannu Vedaki Rakshinchi",
+        "Manchi Kaaparivai Naakai Praanamichchithivi",
+        "Emivvagalanu Nee Enaleni Premakai",
+        "Virigi Naligina Hrudayame Nenarpinthunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీవే నీవే నీవే దేవా"
+      ],
+      "english": [
+        "Neeve Neeve Neeve Devaa"
+      ]
+    }
+  ]
+}

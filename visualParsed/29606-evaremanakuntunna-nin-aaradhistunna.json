@@ -1,0 +1,65 @@
+{
+  "song_name": "Evaremanukuntunnaa nin aaraadhisthunna",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Saahus Prince"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎవరేమనుకుంటున్నా నిన్ ఆరాధిస్తున్న",
+      "నేనేమై పోతున్న నిన్ కీర్తిస్తున్న",
+      "నిరాశ నిస్పృహలోన నీ వైపే చూస్తున్నా",
+      "ఈ లోకపు అలజడిలో నా ఒడి నీవేగ"
+    ],
+    "english": [
+      "Evaremanukuntunnaa nin aaraadhisthunna",
+      "Nenemai pothunna nin keerthisthunna",
+      "Niraasha nisprahalona nee vaipe choosthunnaa",
+      "Ee lokapu alajadilo naa odi neevega"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మదిలో మనశ్శాంతి లేక – మాటకేదో మిగిలి ఉన్న",
+        "మతి వీడి వున్న నన్ను – మళ్ళీ కలిసి మన్నించావే",
+        "మదిలో మనశ్శాంతి లేక – మాటకేదో మిగిలి ఉన్న",
+        "మతి వీడి వున్న నన్ను – మళ్ళీ కలిసి మన్నించి",
+        "నా కథలో ఓ మలుపే తెచ్చావు",
+        "నా గుండెలో గొప్ప మార్పే ఇచ్చావే",
+        "యేసయ్య నాకున్నది నీవయ్యా",
+        "యేసయ్య నీవుంటే చాలయ్యా",
+        "బ్రతుకు బాట బరువుగున్నా – బయటికొకల బ్రతుకుతున్న",
+        "బరిలేని నన్ను చేరి – భ్రమనుండి వేరుచేసావే",
+        "బ్రతుకు బాట బరువుగున్నా – బయటికొకల బ్రతుకుతున్న",
+        "బరిలేని నన్ను చేరి – భ్రమనుండి వేరుచేసి",
+        "యేసయ్య నన్నే భరించావే",
+        "యేసయ్య నాకై బలైయ్యావా",
+        "దోషినైన నన్నే ప్రేమించావా",
+        "దరిలేని నను నీ దరి చేర్చావా"
+      ],
+      "english": [
+        "Madilo manashshaanthi leka – Maatakedho migili unna",
+        "Mathi veedi vunna nannu – Mallee kalisi manninchaave",
+        "Madilo manashshaanthi leka – Maatakedho migili unna",
+        "Mathi veedi vunna nannu – Mallee kalisi manninchi",
+        "Naa kathalo o malupe thechchaavu",
+        "Naa gundelo goppa maarpe ichchaave",
+        "Yesayya naakunnadi neevayyaa",
+        "Yesayya neevunte chaalayyaa",
+        "Brathuku baata baruvugunnaa – Bayatikokala brathukuthunna",
+        "Barileni nannu cheri – Bhramanundi veruchesaave",
+        "Brathuku baata baruvugunnaa – Bayatikokala brathukuthunna",
+        "Barileni nannu cheri – Bhramanundi veruchesi",
+        "Yesayya nanne bharinchaave",
+        "Yesayya naakai balaiyyaavaa",
+        "Dhoshinaina nanne preminchaavaa",
+        "Dharileni nanu nee dari cherchaavaa"
+      ]
+    }
+  ]
+}

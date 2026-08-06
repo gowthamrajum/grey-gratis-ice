@@ -1,0 +1,55 @@
+{
+  "song_name": "Kalalo Aa Ratri Madilo Uhalalo",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కలలో ఆ రాత్రి మదిలో ఊహలలో తలపుల తలుపులు కదిలె",
+      "కలలో కనిపించె నాకు ఆరుదైన రూపమొకటి",
+      "కలయో నజమో నేను వర్ణింప లేనుఅది",
+      "ఆర్ధా రాత్రి వేళ లేచి మేళ్కొని జూచి",
+      "ఇంట బయట కాదు నాలోనే అలజడివుంది",
+      "మరువని భావమా నాకు కలిగిన భాగ్యమా ఆ"
+    ],
+    "english": [
+      "Kalalo Aa Ratri Madilo Uhalalo Talapula Talupulu Kadile",
+      "Kalalo Kanipimche Naku Arudaina Rupamokati",
+      "Kalayo Najamo Nenu Varnimpa Lenu Adi",
+      "Ardha Ratri Vela Lechi Melkoni Juchi",
+      "Imta Bayata Kadu Nalone Alajadivumdi",
+      "Maruvani Bavama Naku Kaligina Bagyama Aa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హిమముకు హెచ్చిన అతి తెల్లని రూపం పగటికి మించిన ప్రకాశమానం",
+        "రాత్రిలో కలుగని అతి చల్లని కాంతాం తారలకు తెలియని తేజాత్మ ప్రభావం",
+        "తీరములు దాటినా ఆలలు ఎగసి లేచినా గాడాంధకారము క్రమ్మినా చెరుగని ఆరూపము"
+      ],
+      "english": [
+        "Himamuku Hechchina Ati Tellani Rupam Pagatiki Mimchina Prakasamanam",
+        "Ratrilo Kalugani Ati Challani Kamtam Taralaku Teliyani Tejatma Prabavam",
+        "Tiramulu Datina Alalu Egasi Lechina Gadamdhakaramu Krammina Cherugani Arupamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కన్నులకు విందుగా సర్వేశ్వర రుపం చూపుకు మెండుగా దయనందన రూపం",
+        "సుందర వదనిగా సిలువ స్వరూపం పరిపూర్ణ విభునిగా సింహాసన పీఠం",
+        "ఏమి ఆ నయనమో పరమ త్రిత్వపు రూపమా",
+        "దూతాళి సైన్యసమూహముతో పరిశుద్ధ ప్రభుయేసుడే"
+      ],
+      "english": [
+        "Kannulaku Vimduga Sarvesvara Rupam Chupuku Memduga Dayanamdana Rupam",
+        "Sumdara Vadaniga Siluva Svarupam Paripurna Vibuniga Simhasana Pitham",
+        "Emi Aa Nayanamo Parama Tritvapu Rupama",
+        "Dutali Sainyasamuhamuto Parisuddha Prabuyesude"
+      ]
+    }
+  ]
+}

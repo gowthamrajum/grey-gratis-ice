@@ -1,0 +1,52 @@
+{
+  "song_name": "Chedu aalochanalanu jayinche shakthi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Praveen VB"
+    ],
+    "రచన": [
+      "ప్రవీణ్ వి బి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "చెడు ఆలోచనలను జయించే శక్తీ నాకు ఇవయ్యా",
+      "నీ మార్గంలో నడిచే బలము నాకు ఇవయ్యా ||2 ||",
+      "అందరితో సమాధానం కలిగి ఉండే భాగ్యము నాకు ఇవయ్యా ||2 || చెడు ఆలోచనలను||"
+    ],
+    "english": [
+      "Chedu aalochanalanu jayinche shakthi naaku ivayyaa",
+      "Nee maargamlo nadiche balamu naaku ivayyaa ||2 ||",
+      "Andaritho samaadhaanam kaligi unde bhaagyamu naaku ivayyaa ||2 || Chedu aalochanalanu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా చిన్ని మనసుతో నిను ఆరాధించాలని",
+        "నాకున్న కనులతో నిను చూడాలని ||2 ||",
+        "నీకోసమే నా జీవితం నీకోసమే నా పయనము ||2  ||చెడు||"
+      ],
+      "english": [
+        "Naa chinni manasutho ninu aaraadhinchaalani",
+        "Naakunna kanulatho ninu choodaalani ||2 ||",
+        "Neekosame naa jeevitham neekosame naa payanamu ||2  ||Chedu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాకున్న స్వరముతో నిను ఆరాధించాలని",
+        "నా చిన్న మనసును నీకే అర్పించాలని ||2 ||",
+        "నీ అడుగులో నా అడుగులై నీ సాక్షిగా నా జీవితం ||2  ||చెడు||"
+      ],
+      "english": [
+        "Naakunna swaramutho ninu aaraadhinchaalani",
+        "Naa chinna manasunu neeke arpinchaalani ||2 ||",
+        "Nee adugulo naa adugulai nee saakshigaa naa jeevitham ||2  ||Chedu||"
+      ]
+    }
+  ]
+}

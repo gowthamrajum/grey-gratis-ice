@@ -1,0 +1,67 @@
+{
+  "song_name": "మేమిచ్చు కానుకల్ నీవే మాకిచ్చ",
+  "author": {
+    "Authored by": "",
+    "రచన": "విలియం వాల్షా హౌ"
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మేమిచ్చు కానుకల్ నీవే మాకిచ్చితి మా యాస్తియంత ప్రభువా నీ దానమే గదా."
+      ],
+      "english": [
+        "maemichchu kaanukal neevae maakichchithi maa yaasthiyMtha prabhuvaa nee dhaanamae gadhaa."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ వుచితంబుగా మా కిచ్చువాడవు అన్యుల కుచితంబుగా మేమిచ్చుచుందుము."
+      ],
+      "english": [
+        "nee vuchithMbugaa maa kichchuvaadavu anyula kuchithMbugaa maemichchuchuMdhumu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సర్వత్ర బీదలు అన్నంబునొందరు కన్నీళ్లు రాల్చు ప్రజలు అనేకులుందురు."
+      ],
+      "english": [
+        "sarvathra beedhalu annMbunoMdharu kanneeLlu raalchu prajalu anaekuluMdhuru."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఈలాటివారికి సహాయమిచ్చుట దూతలు చేయు సేవకు సమానమగును."
+      ],
+      "english": [
+        "eelaativaariki sahaayamichchuta dhoothalu chaeyu saevaku samaanamagunu."
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పోషించి బీదలన్ రక్షించి పాపులన్ అందరిన్ సంరంక్షించుట శ్రీ యేసు కార్యమే."
+      ],
+      "english": [
+        "poaShiMchi beedhalan rakShiMchi paapulan aMdharin sMrMkShiMchuta shree yaesu kaaryamae."
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నా బీదవారికి నీవిచ్చు దానము నా కిత్తువను వాక్యము శ్రీ యేసు చెప్పెను."
+      ],
+      "english": [
+        "naa beedhavaariki neevichchu dhaanamu naa kiththuvanu vaakyamu shree yaesu cheppenu."
+      ]
+    }
+  ]
+}

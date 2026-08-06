@@ -1,0 +1,46 @@
+{
+  "song_name": "Devude Na Aasrayam",
+  "author": {
+    "Authored by": "Kripal Mohan",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవుడే నా ఆశ్రయం రక్షణ దుర్గము",
+      "కరుణతో కరుణించినా",
+      "ప్రేమతో నను బ్రోచినా",
+      "యేసుడే నా ఆశ్రయం రక్షణ దుర్గము"
+    ],
+    "english": [
+      "Devude naa aasrayam rakshana durgamu",
+      "karunatho karuninchinaa",
+      "prematho nanu brochinaa",
+      "yesude naa aasrayam rakshana durgamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వేటగాని ఉరినుండి",
+        "రక్షించినా నా యేసయ్య",
+        "కాపరై నను కాయుచు",
+        "కనుపాపలా కాపాడిన",
+        "వరద వలే శ్రమలొచ్చిన",
+        "తుఫానులే చెలరేగిన",
+        "నోవహు ఓడ రీతిన",
+        "నోవహు ఓడ రీతిన"
+      ],
+      "english": [
+        "Vetagaani urinundi",
+        "rakshinchinaa naa yesayya",
+        "kaaparai nanu kaayuchu",
+        "kanupaapalaa kaapaadina",
+        "Varadha vale sramalochina",
+        "thufaanule chelaregina",
+        "novahu oda reethina",
+        "novahu oda reethina"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "song_name": "Laelemmu Kraisthavuaodaa Neelo",
+  "author": {
+    "Authored by": "",
+    "రచన": "పురుషోత్తము చౌదరి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "లేలెమ్ము క్రైస్తవుఁడా నీలో మేల్కొని లేలెమ్ము క్రైస్తవుఁడా నీలో మేల్కొని ||లేలెమ్ము||"
+    ],
+    "english": [
+      "laelemmu kraisthavuAOdaa neeloa maelkoni laelemmu kraisthavuAOdaa neeloa maelkoni ||laelemmu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "విడువకు యుద్ధము నుడువకబద్ధము యొడయుఁడు నీకడ నుండును బాయఁడు ||లేలెమ్ము||"
+      ],
+      "english": [
+        "viduvaku yudhDhamu nuduvakabadhDhamu yodayuAOdu neekada nuMdunu baayAOdu ||laelemmu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విడువకు ధైర్యము వదలకు కవచము సదయుఁడు క్రీస్తుఁడు సత్ఫల మిచ్చును ||లేలెమ్ము||"
+      ],
+      "english": [
+        "viduvaku Dhairyamu vadhalaku kavachamu sadhayuAOdu kreesthuAOdu sathphla michchunu ||laelemmu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బెదరకు మేరికి వదలకు దారిని నది యిది కానిది యాత్మను బెట్టక ||లేలెమ్ము||"
+      ],
+      "english": [
+        "bedharaku maeriki vadhalaku dhaarini nadhi yidhi kaanidhi yaathmanu bettaka ||laelemmu||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ప్రార్థన సారము వర్ధిలఁ గోరుము సార్థక కాలము వ్యర్థము చేయక ||లేలెమ్ము||"
+      ],
+      "english": [
+        "praarThana saaramu varDhilAO goarumu saarThaka kaalamu vyarThamu chaeyaka ||laelemmu||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "భావములోనన్ దేవుని ప్రేమన్ నీవది వేఁడుచు నెమ్మదిఁ గూడుచు ||లేలెమ్ము||"
+      ],
+      "english": [
+        "bhaavamuloanan dhaevuni praeman neevadhi vaeAOduchu nemmadhiAO gooduchu ||laelemmu||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "యేసుని సిలువ నెదుట బెట్టుకో మోసము నొందవు యేసుని కాపున ||లేలెమ్ము||"
+      ],
+      "english": [
+        "yaesuni siluva nedhuta bettukoa moasamu noMdhavu yaesuni kaapuna ||laelemmu||"
+      ]
+    }
+  ]
+}

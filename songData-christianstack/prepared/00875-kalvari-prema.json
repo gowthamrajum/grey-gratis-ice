@@ -1,0 +1,40 @@
+{
+  "song_name": "Kalvari Prema",
+  "author": {
+    "Authored by": "Pastor Praveen",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కల్వరి ప్రేమ ప్రకటించుచున్నది",
+      "సర్వలోకానికి",
+      "కల్వరి ప్రేమ ప్రకటించుచున్నది",
+      "ప్రతి పట్టణానికి"
+    ],
+    "english": [
+      "Kalvari prema prakatinchunnadi",
+      "sarvalokaaniki",
+      "kalvari prema prakatinchunnadi",
+      "prathi pattanaaniki"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రమ్ము ప్రియుడా రమ్ము",
+        "క్రీస్తు ప్రేమను ప్రకటించుటకు",
+        "లెమ్ము తేజరిల్లుమయా",
+        "క్రీస్తు వార్తను ప్రకటించుటకు",
+        "ఈ సువార్తను ప్రకటించుటకు"
+      ],
+      "english": [
+        "Rammu priyudaa rammu",
+        "kreesthu premanu prakatinchutaku",
+        "lemmu thejarillumayaa",
+        "kreesthu vaarthanu prakatinchutaku",
+        "ee suvaarthanu prakatinchutaku"
+      ]
+    }
+  ]
+}

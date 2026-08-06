@@ -1,0 +1,46 @@
+{
+  "song_name": "Raare gollavaaralaaraa neti raathri",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "రారె గొల్లవారలారా నేటి రాత్రి బేత్లెహేము నూర జేరి మోక్షదూత",
+      "కోరి దెల్పెను క్రీస్తు వారి జాడకన్ను లారా జూతము వేగ ||రారె||"
+    ],
+    "english": [
+      "Raare gollavaaralaaraa neti raathri Bethlehemu noora jeri mokshadhootha",
+      "Kori dhelpenu Kreesthu vaari jaadakannu laaraa joothamu vega ||Raare||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పుట్టు చావులు లేనివాడఁట పసుల తొట్టిలోపలఁ బుట్టెనేడఁట ఎట్టి",
+        "వారలను జే పట్టి పాపము లూడఁ గొట్టి మోక్షపుత్రోవఁ బెట్టు వాడట",
+        "వేగ  ||రారె||"
+      ],
+      "english": [
+        "Puttu chaavulu lenivaadata pasula thottilopala buttenedata etti",
+        "Vaaralanu je patti paapamu looda gotti mokshaputhrova bettu vaadata",
+        "Vega ||Raare||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బహుకాలమాయెను వింటిమి నేడు మహికివచ్చుట కనుగొంటిమి",
+        "విహితముతోడ సేవించి వత్తము మోక్ష మహితుని గని దుఃఖ",
+        "రహితులమవుదము  ||రారె||"
+      ],
+      "english": [
+        "Bahukaalamaayenu vintimi nedu mahikivachchuta kanugontimi",
+        "Vihithamuthoda sevinchi vatthamu moksha mahithuni gani dhuhkha",
+        "Rahithulamavudhamu ||Raare||"
+      ]
+    }
+  ]
+}

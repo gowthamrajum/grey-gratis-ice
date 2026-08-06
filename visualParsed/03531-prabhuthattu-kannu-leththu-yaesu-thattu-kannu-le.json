@@ -1,0 +1,64 @@
+{
+  "song_name": "Prabhuthattu kannu leththu Yesu thattu kannu leththu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభుతట్టు కన్ను లెత్తు యేసు తట్టు కన్ను లెత్తు",
+      "దొరుకు ప్రేమ శాంతి ఆనందం - పరిపూర్ణ మహిమ నిరీక్షణ"
+    ],
+    "english": [
+      "Prabhuthattu kannu leththu Yesu thattu kannu leththu",
+      "Dhoruku prema shaanthi aanandam - Paripoorna mahima nireekshana"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గతదినముల దుర్నీతి క్రియల మతిని నీవు మరువుము",
+        "పాతకముల జూపి బాపున్ మా దయామయు డేసు"
+      ],
+      "english": [
+        "Gathadhinamula dhurneethi kriyala mathini neevu maruvumu",
+        "Paathakamula joopi baapun maa dhayaamayu Desu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చింతపడకు భవిష్యత్తునకై ఏమి చేయుదునంచు",
+        "సంకట దుఃఖములను బాపున్ ఆశ్రయమే నాయేసు"
+      ],
+      "english": [
+        "Chinthapadaku bhavishyaththunakai emi cheyudhunanchu",
+        "Sankata dhukhamulanu baapun aashrayame naa Yesu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అంధకారము కమ్ముచున్నది యుద్ధము దుఃఖములతో",
+        "భీతిభయములతో నెటులబోదు నాతో నా ప్రభువుండన్"
+      ],
+      "english": [
+        "Andhakaaramu kammuchunnadhi yuddhamu dhukhamulatho",
+        "Bheethibhayamulatho netulabodhu naatho naa prabhuvundan"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నమ్మజాల మీ లోకమును వ్యర్థము సర్వమును",
+        "ప్రభుని లే శరణం దయాసాగరుడేసు"
+      ],
+      "english": [
+        "Nammajaala mee lokamunu vyarthamu sarvamunu",
+        "Prabhuni le sharanam dhayaasaagarudesu"
+      ]
+    }
+  ]
+}

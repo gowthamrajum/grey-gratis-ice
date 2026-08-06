@@ -1,0 +1,63 @@
+{
+  "song_name": "Veerula Mayyaa Jaya Veerula Mayyaa",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఎ  జెఖర్యా"
+  },
+  "main_stanza": {
+    "telugu": [
+      "వీరుల మయ్యా జయ వీరుల మయ్యా",
+      "మా వైరిఁ జంప యుద్ధమాడు శూరుల మయ్యా"
+    ],
+    "english": [
+      "Veerula Mayyaa Jaya Veerula Mayyaa",
+      "Maa Vairi Jampa Yudhdhamaadu Shoorula Mayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మాంస లోక పిశాచి హింసపరచిన మము",
+        "ధ్వంసముఁజేయ పై బడిన ధ్వజము విడమాయా"
+      ],
+      "english": [
+        "Maamsa Loaka Pishaachi Himsaparachina Mamu",
+        "Dhvamsamujaeya Pai Badina Dhvajamu Vidamaayaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరమ గురు వగు యేసు ప్రభువు నాజ్ఞను",
+        "బహు త్వరగఁ బ్రజకుఁ బయలుపర్చు భటుల మే మయా"
+      ],
+      "english": [
+        "Parama Guru Vagu Yaesu Prabhuvu Naajnyanu",
+        "Bahu Thvaraga Brajaku Bayaluparchu Bhatula Mae Mayaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అతి దుష్ట ద్రోహులు మము వెతలఁ బెట్టిన",
+        "నీ క్షితి సువార్త కొఱ కొకింత సిగ్గు పడ మయా"
+      ],
+      "english": [
+        "Athi Dhushta Dhroahulu Mamu Vethala Bettina",
+        "Nee Kshithi Suvaartha Kora Kokintha Siggu Pada Mayaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "భూలోక నాధులు చాల పోరు సల్పిన",
+        "మా వేలుపునకుఁ బ్రాణ మైనఁ బెట్టువారము"
+      ],
+      "english": [
+        "Bhooloaka Naadhulu Chaala Poaru Salpina",
+        "Maa Vaelupunaku Braana Maina Bettuvaaramu"
+      ]
+    }
+  ]
+}

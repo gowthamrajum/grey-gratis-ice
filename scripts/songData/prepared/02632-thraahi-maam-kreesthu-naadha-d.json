@@ -1,0 +1,75 @@
+{
+  "song_name": "Thraahi Maam Kreesthu Naadha",
+  "author": {
+    "Authored by": "",
+    "రచన": "పురుషోత్తము ఛౌదరి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "త్రాహి మాం క్రీస్తు నాధ దయఁ జూడ రావే",
+      "నేను దేహి యనుచు నీ పాదములే దిక్కుగాఁ జేరితి నిపుడు"
+    ],
+    "english": [
+      "Thraahi Maam Kreesthu Naadha Dhaya Jooda Raavae",
+      "Naenu Dhaehi Yanuchu Nee Paadhamulae Dhikkugaa Jaerithi Nipudu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గవ్వ చేయురాని చెడ్డ కర్మేంద్రియాధీనుఁడనై",
+        "రవ్వ పాలై నే నెంతో నెవ్వఁ బొందితిఁ",
+        "త్రవ్వుచున్న కొలఁదిఁ పెరుఁగుఁ దరగదు నా పాప రాశి",
+        "యివ్విధమునఁ జెడిపోతినినే నేమి సేతు నోహోహోహో"
+      ],
+      "english": [
+        "Gavva Chaeyuraani Chedda Karmaendhriyaadheenudanai",
+        "Ravva Paalai Nae Nentho Nevva Bondhithi",
+        "Thravvuchunna Koladhi Perugu Dharagadhu Naa Paapa Raashi",
+        "Yivvidhamuna Jedipothinine Naemi Saethu Nohohoho"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ యందు భయభక్తులు లేని నిర్లజ్జాచిత్తముఁ బూని",
+        "చేయరాని దుష్కర్మములు చేసినాఁడను దయ్యాలరాజు చేతిలోఁ జేయి వేసి",
+        "వాని పనులఁ జేయ సాగి నే నిబ్భంగిఁ జెడిపోయితి నే నయ్యయ్యయ్యొ"
+      ],
+      "english": [
+        "Nee Yandhu Bhayabhakthulu Laeni Nirlajjaachiththamu Booni",
+        "Chaeyaraani Dhushkarmamulu Chaesinaadanu Dhayyaalaraaju Chaethilo Jaeyi Vaesi",
+        "Vaani Panula Jaeya Saagi Nae Nibbhangi Jedipoyithi Nae Nayyayyayyo"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిబ్బర మొక్కించుకై నిజము రవ్వంతైన లేక దబ్బర లాడుటకు",
+        "ము త్తా నైతిని అబ్బురమైన ఘోర పా పాంధకార కూపమందు",
+        "దబ్బున బడిపోతి నయ్యో దారి చెడి నేనబ్బబ్బబ్బా"
+      ],
+      "english": [
+        "Nibbara Mokkinchukai Nijamu Ravvanthaina Laeka Dhabbara Laadutaku",
+        "Mu Ththaa Naithini Abburamaina Ghora Paa Paandhakaara Koopamandhu",
+        "Dhabbuna Badipothi Nayyo Dhaari Chedi Naenabbabbabbaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నిన్నుఁ జేరి సాటిలేని నిత్యానంద మందఁబోవు చున్నప్పుడు",
+        "నిందలు నా కెన్ని చేరినా విన్నదనము లేకుండ",
+        "నీ వే నా మదికి ధైర్యమిచ్చి యన్నిట రక్షించి తివి",
+        "నా యన్న నీకు స్తోత్ర మహాహా"
+      ],
+      "english": [
+        "Ninnu Jaeri Saatilaeni Nithyaanandha Mandhabovu Chunnappudu",
+        "Nindhalu Naa Kenni Chaerinaa Vinnadhanamu Laekunda",
+        "Nee Vae Naa Madhiki Dhairyamichchi Yannita Rakshinchi Thivi",
+        "Naa Yanna Neeku Sthothra Mahaahaa"
+      ]
+    }
+  ]
+}

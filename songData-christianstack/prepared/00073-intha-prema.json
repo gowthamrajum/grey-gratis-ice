@@ -1,0 +1,41 @@
+{
+  "song_name": "Intha Prema",
+  "author": {
+    "Authored by": "Ephraim Saatvik",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసయ్య నా యేసయ్య",
+      "ఎందుకయ్యా నేనంటే ఇంత ప్రేమ"
+    ],
+    "english": [
+      "Yesayya naa Yesayya",
+      "endhukayya nenante intha prema"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసయ్యా నా యేసయ్యా నీలాంటివారు ఎవరున్నారు",
+        "యేసయ్యా నా యేసయ్యా నీవంటివారు ఎవరు లేరయ్యా (2)"
+      ],
+      "english": [
+        "Yesayya naa Yesayya neelantivaaru evarunnaaru",
+        "Yesayya naa Yesayya neevantivaaru evaru lerayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చిత్తుకాయితం నేను.. మురికివాసిని నేను",
+        "నీ చేయి నీ చేయి నాకిచ్చితివే"
+      ],
+      "english": [
+        "Chitthu kaayitham nenu… murikivaasini nenu",
+        "nee cheyi nee cheyi naakitchithive"
+      ]
+    }
+  ]
+}

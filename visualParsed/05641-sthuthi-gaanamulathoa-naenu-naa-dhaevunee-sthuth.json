@@ -1,0 +1,48 @@
+{
+  "song_name": "Sthuthi gaanamulatho nenu naa Devunee sthuthinchedanoo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తుతి గానములతో నేను - నా దేవునీ స్తుతించెదనూ",
+      "నీ జీవితమంతా ప్రభు కొరకై- నేయిల జీవించెదనూ",
+      "ప్రభూ కొరకై నిలచెదనూ"
+    ],
+    "english": [
+      "Sthuthi gaanamulatho nenu - Naa Devunee sthuthinchedanoo",
+      "Nee jeevithamanthaa Prabhu korakai- Neyila jeevinchedanoo",
+      "Prabhoo korakai nilachedanoo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అది అంతము నీవే .... ఆధార భూతుడ నీవే",
+        "ప్రతి జీవిని ప్రేమించి పోషించు ప్రాణదాత నీవే",
+        "నీ ప్రేమలో ... నీ నీడలో నిలుపుము నీకే స్తోత్రము  ||స్తుతి||"
+      ],
+      "english": [
+        "Aadi anthamu neeve .... aadhaara bhoothuda neeve",
+        "Prathi jeevini preminchi poshinchu praanadhaatha neeve",
+        "Nee premalo ... nee needalo nilupumu neeke sthothramu  ||Sthuthi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "లోకమంత నీరాకకై వేచి యుండెను నా ప్రభూ",
+        "మేఘ వాహనంబు మీద మేటి దూత గణముల తోడా",
+        "వేవేగమే రానైయున్న రారాజా- నీకై స్తోత్రము  ||స్తుతి||"
+      ],
+      "english": [
+        "Lokamantha neeraakakai vechi yundenu naa Prabhoo",
+        "Megha vaahanambu meeda meti dootha ganamula thodaa",
+        "Vevegame raanaiyunna raaraajaa- Neekai sthothramu  ||Sthuthi||"
+      ]
+    }
+  ]
+}

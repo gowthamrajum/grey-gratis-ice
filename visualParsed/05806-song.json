@@ -1,0 +1,60 @@
+{
+  "song_name": "Maargamu sathyamu jeevamu naa daivamaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మార్గము సత్యము జీవము నా దైవమా",
+      "ప్రాణము ధ్యానము గానము నా యేసయ్య",
+      "అర్పింతున్ నా హృదయమును",
+      "చెల్లింతున్ నా సమస్తమును",
+      "కొనియాడెదను స్తుతిపాత్రుడా",
+      "యేసు నీ నామం మధురం",
+      "యేసయ్యా యేసయ్యా యేసయ్యా యేసయ్యా"
+    ],
+    "english": [
+      "Maargamu sathyamu jeevamu naa daivamaa",
+      "Praanamu dhyaanamu gaanamu naa Yesayya",
+      "Arpinthun naa hrudayamunu",
+      "Chellinthun naa samasthamunu",
+      "Koniyaadedanu sthuthipaathrudaa",
+      "Yesu nee naamam madhuram",
+      "Yesayyaa Yesayyaa Yesayyaa Yesayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కేడెమా దుర్గమా కీర్తించు సన్నుతించుమా",
+        "ఆదరణా ఆనందమా అతిశయమా అభిషేకమా",
+        "స్తుతింతున్ నీ నామమును",
+        "ప్రేమింతున్ నీ వాక్యమును",
+        "సమర్పించెదను శుద్దాత్ముడా  ||మార్గము||"
+      ],
+      "english": [
+        "Kedemaa durgamaa keerthinchu sannuthinchumaa",
+        "Aadaranaa aanandamaa athishayamaa abhishekamaa",
+        "Sthuthinthun nee naamamunu",
+        "Preminthun nee vaakyamunu",
+        "Samarpinchedanu shuddhaathmudaa ||Maargamu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "స్తుతింతును నీ నామమున్ యేసయ్యా ప్రేమింతును నీ వాక్యమున్ యేసయ్యా",
+        "సమర్పింతున్ శుద్దాత్ముడా యేసయ్యా",
+        "నీవే నా నీవే నా నాకు చాలిన దైవమా"
+      ],
+      "english": [
+        "Sthuthinthunu nee naamamun Yesayyaa preminthunu nee vaakyamun Yesayyaa",
+        "Samarpinthun shuddhaathmudaa Yesayyaa",
+        "Neeve naa neeve naa naaku chaalina daivamaa"
+      ]
+    }
+  ]
+}

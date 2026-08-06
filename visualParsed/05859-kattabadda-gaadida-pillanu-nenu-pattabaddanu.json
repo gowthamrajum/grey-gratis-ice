@@ -1,0 +1,54 @@
+{
+  "song_name": "Kattabadda gaadida pillanu nenu pattabaddaanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Dr A R Stevenson"
+    ],
+    "రచన": [
+      "డాక్టర్ ఏ ఆర్ స్టీవెన్సన్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "కట్టబడ్డ గాడిద పిల్లనునేను",
+      "పట్టబడ్డాను అపవాదితోను /2/"
+    ],
+    "english": [
+      "Kattabadda gaadida pillanu nenu",
+      "Pattabaddaanu apavaadhithonu /2/"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసయ్య నా నిజ యజమానుడు",
+        "సాతాను మోసంతో నను లొంగదీసాడు",
+        "అయినను యేసయ్య కరుణించాడు",
+        "నను విడిపించ తన శిష్యులనంపాడు"
+      ],
+      "english": [
+        "Yesayya naa nija yajamaanudu",
+        "Saathaanu mosantho nanu longadheesaadu",
+        "Ayinanu Yesayya karuninchaadu",
+        "Nanu vidipincha thana shishyulanampaadu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా పైకి ఎక్కి నన్ను ధన్యుని చేసాడు",
+        "యెరూషలేము వీధులవెంట యాత్రచేసాడు",
+        "నా బ్రతుకు మార్చి నాకు ఘనత తెచ్చాడు",
+        "ఆయన సేవ చేయ ఘనతను తెచ్చాడు"
+      ],
+      "english": [
+        "Naa paiki ekki nannu dhanyuni chesaadu",
+        "Yerooshalemu veedhulaventa yaathrachesaadu",
+        "Naa brathuku maarchi naaku ghanatha thechchaadu",
+        "Aayana seva cheya ghanathanu thechchaadu"
+      ]
+    }
+  ]
+}

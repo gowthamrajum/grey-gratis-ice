@@ -1,0 +1,88 @@
+{
+  "song_name": "Poyega poyega kaalamu velli poyega",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "పురుషోత్తము చౌదరి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "పోయెఁగ పోయెఁగ కాలము వెళ్లి పోయెఁగ పోయెఁగ మాయ",
+      "సంసార సం పదఁ గూర్ప మరిగి యాయు వంతయు వ్యర్థ మైపోయెఁ",
+      "దరిగి ||పోయెఁగ||"
+    ],
+    "english": [
+      "Poyega poyega kaalamu velli poyega poyega maaya",
+      "Samsaara sam pada goorpa marigi yaayu vanthayu vyartha maipoye",
+      "Dharigi ||Poyega||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇలలో నెందరు నీతో నీడైనవారు కలఁ గాంచి మేల్కొన్న గతి",
+        "మడసినారు  ||పోయెఁగ||"
+      ],
+      "english": [
+        "Ilalo nendaru neetho needainavaaru kala gaanchi melkonna gathi",
+        "Madasinaaru ||Poyega||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జల బుద్భుదము కంటె చులకని బ్రదుకు దలపోసి దీని యా శలు",
+        "గొయ్యి వెదకు  ||పోయెఁగ||"
+      ],
+      "english": [
+        "Jala budbhudhamu kante chulakani bradhuku dhalaposi dheeni yaa shalu",
+        "Goyyi vedhaku ||Poyega||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఎన్నాళ్ళు సుఖ పెట్టె నెరవౌ నీ మేను కన్ను మూసిననాఁడె కాటి",
+        "పాలౌను  ||పోయెఁగ||"
+      ],
+      "english": [
+        "Ennaallu sukha pette neravau nee menu kannu moosinanaade kaati",
+        "Paalaunu ||Poyega||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మద మత్సరముల వెం బడి గూడి నీవు హృదయాభిమానము వదలు",
+        "కొన్నావు  ||పోయెఁగ||"
+      ],
+      "english": [
+        "Madha mathsaramula vem badi goodi neevu hrudhayaabhimaanamu vadhalu",
+        "Konnaavu ||Poyega||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "చెడు దుర్గుణముల పో షించుట విడువ గడబాట్లు నీ కనులు",
+        "గానంగలేవ  ||పోయెఁగ||"
+      ],
+      "english": [
+        "Chedu dhurgunamula po shinchuta viduva gadabaatlu nee kanulu",
+        "Gaanangaleva ||Poyega||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "జవ్వన బలముచే క్రొవ్వుచు నీవు నవ్వులాటల ప్రొద్దు నడిపి యున్నావు  ||పోయెఁగ||"
+      ],
+      "english": [
+        "Javvana balamuche krovvuchu neevu navvulaatala proddhu nadipi yunnaavu ||Poyega||"
+      ]
+    }
+  ]
+}

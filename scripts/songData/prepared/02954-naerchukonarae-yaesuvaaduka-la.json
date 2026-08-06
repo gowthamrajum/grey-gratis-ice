@@ -1,0 +1,96 @@
+{
+  "song_name": "Naerchukonarae Yaesuvaaduka",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఈతకోట ప్రకాశము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేర్చుకొనరే యేసువాడుక లనుదినము మీ బ్రతుకునందున",
+      "నేర్చుకొనిన మీరలాయన జనముగ నొప్పుదురు ఇలలో"
+    ],
+    "english": [
+      "Naerchukonarae Yaesuvaaduka Lanudhinamu Mee Brathukunandhuna",
+      "Naerchukonina Meeralaayana Janamuga Noppudhuru Ilaloa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆలయ ఆరాధనలకు బోయెడియలవాటుగలిగియు చాలమారులు",
+        "ఆలయమునకు అరగిన యా ప్రభుని వాడుక"
+      ],
+      "english": [
+        "Aalaya Aaraadhanalaku Boayediyalavaatugaligiyu Chaalamaarulu",
+        "Aalayamunaku Aragina Yaa Prabhuni Vaaduka"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేవవాక్య పఠనమందున దీక్షగలిగియు మరియ సుతుడు",
+        "దివ్యముగ నా గ్రంథ పఠనము జేసినవిధంబు మీరలు"
+      ],
+      "english": [
+        "Dhaevavaakya Patanamandhuna Dheekshagaligiyu Mariya Suthudu",
+        "Dhivyamuga Naa Grantha Patanamu Jaesinavidhambu Meeralu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరమ తండ్రికి ప్రార్థనలు ప్రతివేళ జేయుట పరమవిధియని",
+        "మరువకను ప్రార్ధించి మనలను నిరతమును ప్రార్ధింపమనెను"
+      ],
+      "english": [
+        "Parama Thandriki Praarthanalu Prathivaela Jaeyuta Paramavidhiyani",
+        "Maruvakanu Praardhinchi Manalanu Nirathamunu Praardhimpamanenu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "బీద పాపులు బాధితులు బంధింపబడిన వారి కెల్లను",
+        "ఆదరము జూపించి మేలును జేసిన విధంబు మీరలు"
+      ],
+      "english": [
+        "Beedha Paapulu Baadhithulu Bandhimpabadina Vaari Kellanu",
+        "Aadharamu Joopinchi Maelunu Jaesina Vidhambu Meeralu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "సువార్త ప్రకటనజేయుట సుభాగ్యముగ దానెంచి యీ భువి సేవలో",
+        "సువార్త జాటుచు సంచరించిన యేసు వాడుక"
+      ],
+      "english": [
+        "Suvaartha Prakatanajaeyuta Subhaagyamuga Dhaanenchi Yee Bhuvi Saevaloa",
+        "Suvaartha Jaatuchu Sancharinchina Yaesu Vaaduka"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "అక్కరలలో దన్నుజేరి మక్కువతో బ్రార్ధించి వేడిన",
+        "పెక్కు జనముల యక్కరలను జక్కగ దీర్చిన విధంబును"
+      ],
+      "english": [
+        "Akkaralaloa Dhannujaeri Makkuvathoa Braardhinchi Vaedina",
+        "Pekku Janamula Yakkaralanu Jakkaga Dheerchina Vidhambunu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "దైవచిత్తము దీర్చుటయే తన ధర్మ విధిగ నెరిగి యాయన",
+        "ధరణిలో నా ధర్మమునకై మరణమొందిన విభుని మాదిరి"
+      ],
+      "english": [
+        "Dhaivachiththamu Dheerchutayae Thana Dharma Vidhiga Nerigi Yaayana",
+        "Dharaniloa Naa Dharmamunakai Maranamondhina Vibhuni Maadhiri"
+      ]
+    }
+  ]
+}

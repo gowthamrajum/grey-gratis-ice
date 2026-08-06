@@ -1,0 +1,54 @@
+{
+  "song_name": "Oka kshanamaina ninu veedinaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఒక క్షణమైన నిను వీడినా",
+      "నేనే మౌదునో తెలియదయ్యా (2)",
+      "ప్రభు నీతోడు నీ నీడలో",
+      "నేనిలా బ్రతుకు చున్నానయ్యా (2) ||ఒక||"
+    ],
+    "english": [
+      "Oka kshanamaina ninu veedinaa",
+      "Nene maudhuno theliyadhayyaa (2)",
+      "Prabhu neethodu nee needalo",
+      "Nenilaa brathuku chunnaanayyaa (2) ||Oka||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అపవాది శోధనలు నను చుట్టినా",
+        "ఇహలోక శ్రమలు నాకెదరొచ్చినా (2)",
+        "ఆశ్రయమైన నీ నీడలో",
+        "నేనిల బ్రతుకు చున్నానయ్యా (2)  ||ఒక||"
+      ],
+      "english": [
+        "Apavaadi shodhanalu nanu chuttinaa",
+        "Ihaloka shramalu naakedharochchinaa (2)",
+        "Aashrayamaina nee needalo",
+        "Nenila brathuku chunnaanayyaa (2)  ||Oka||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కునకక ఎన్నడు నిద్రించక",
+        "నీ కనుపాపలో కాపాడువాడవు (2)",
+        "కాపరివైన నీ మందలో",
+        "నేనిల బ్రతుకు చున్నానయ్యా (2)  ||ఒక||"
+      ],
+      "english": [
+        "Kunakaka ennadu nidhrinchaka",
+        "Nee kanupaapalo kaapaaduvaadavu (2)",
+        "Kaaparivaina nee mandhalo",
+        "Nenila brathuku chunnaanayyaa (2)  ||Oka||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "song_name": "Kruthagnathatho Samarpanatho",
+  "author": {
+    "Authored by": "Pastor K Christopher",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కృతజ్ఞతతో సమర్పణతో",
+      "ఆయన సన్నిధి చేరెదము",
+      "ప్రధమఫలం ప్రతిష్టార్పణ",
+      "పదియవ భాగం ఆయనవే",
+      "మనసార సమర్పించెదం",
+      "వెనుకాడకు ఇచ్చుటలో"
+    ],
+    "english": [
+      "Kruthagnathatho samarpanatho",
+      "aayana sannidhi cheredhamu",
+      "pradhamaphalam pratishtaarpana",
+      "padhiyava bhaagam aayanave",
+      "manasaara samarpinchedham",
+      "venukaadaku ichutalo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆ ఆ ఆ ఆ ఆ"
+      ],
+      "english": [
+        "aa aa aa aa aa"
+      ]
+    }
+  ]
+}

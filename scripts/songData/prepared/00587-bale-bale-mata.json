@@ -1,0 +1,35 @@
+{
+  "song_name": "Bale Bale Mata",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "బలె బలె మాట బంగారు మాట బైబిల్ మాట యేసు మాట"
+    ],
+    "english": [
+      "Bale Bale Mata Bamgaru Mata Baibil Mata Yesu Mata"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ జీవితాన నా జీవితాన మారని మాట యేసు మాట"
+      ],
+      "english": [
+        "Ni Jivitana Na Jivitana Marani Mata Yesu Mata"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఈలోకాన పరలోకాన మారని మాట యేసు మాట"
+      ],
+      "english": [
+        "Elokana Paralokana Marani Mata Yesu Mata"
+      ]
+    }
+  ]
+}

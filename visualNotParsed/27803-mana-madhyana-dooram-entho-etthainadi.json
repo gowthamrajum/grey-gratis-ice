@@ -1,0 +1,106 @@
+{
+  "song_name": "Mana madhyana dooram entho etthainadi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మన మధ్యన దూరం ఎంతో ఎత్తైనది",
+      "మేమెక్కలేనంత ఎత్తైన పర్వతం",
+      "నిరాశలో మేము నీ వైపు చూచి",
+      "నీ నామములో విడుదలను ప్రకటించితిమి",
+      "అంధకారము తొలగించి",
+      "మా ఆత్మను రక్షించి",
+      "నీ ప్రేమతో మమ్ము నింపినావయ్యా",
+      "పరిపూర్ణమైనది నీవు రచియించిన అంతం",
+      "యేసు ప్రభూ నీవే మా నిరీక్షణ"
+    ],
+    "english": [
+      "Mana madhyana dooram entho etthainadi",
+      "Memekkalenantha etthaina parvatham",
+      "Niraashalo memu nee vaipu choochi",
+      "Nee naamamulo vidudalanu prakatinchithimi",
+      "Andhakaaramu tholaginchi",
+      "Maa aathmanu rakshinchi",
+      "Nee prematho mammu nimpinaavayyaa",
+      "Paripoornamainadi neevu rachiyinchina antham",
+      "Yesu Prabhoo neeve maa nireekshana"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఊహలకు అందనిది నీ కరుణ కటాక్షం",
+        "మాపై కురిపించితివి సమృద్ధిగను",
+        "యుగయుగములకు రాజా నీ మహిమను విడచి",
+        "మా శాప భారము నీవే భరియించితివి",
+        "నీ సిలువలో మేము పొందితిమి క్షమాపణ",
+        "మేము నీవారిగా మార్చబడితిమి",
+        "సుందరుడా యేసయ్యా మేము నీ వారము",
+        "యేసు ప్రభూ నీవే మా నిరీక్షణ"
+      ],
+      "english": [
+        "Oohalaku andanidi nee karuna kataaksham",
+        "Maapai kuripinchithivi samruddhiganu",
+        "Yugayugamulaku raajaa nee mahimanu vidachi",
+        "Maa shaapa bhaaramu neeve bhariyinchithivi",
+        "Nee siluvalo memu pondithimi kshamaapana",
+        "Memu neevaarigaa maarchabadithimi",
+        "Sundarudaa Yesayyaa memu nee vaaramu",
+        "Yesu Prabhoo neeve maa nireekshana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "హల్లెలూయా ప్రభువా నిన్నే స్తుతియింతున్",
+        "హల్లెలూయా నీవు మరణము గెలిచితివి",
+        "నీ నామంలో రక్షణను",
+        "మాకు విజయమునిచ్చితివి",
+        "యేసు ప్రభూ నీవే మా నిరీక్షణ (2)"
+      ],
+      "english": [
+        "Hallelooyaa Prabhuvaa ninne sthuthiyinthun",
+        "Hallelooyaa neevu maranamu gelichithivi",
+        "Nee naamamlo rakshananu",
+        "Maaku vijayamunichchithivi",
+        "Yesu Prabhoo neeve maa nireekshana (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీవు లేచిన ఉదయాన నెరవేరెను వాగ్ధానం",
+        "నిర్జీవ శరీరం శ్వాసించెనుగా",
+        "నిశ్శబ్దములో నుండి నీవు పలికిన జయభేరి",
+        "“ఓ మరణమా నీ జయమెక్కడ?” (2)",
+        "యేషువా నీకే జయమెప్పుడు"
+      ],
+      "english": [
+        "Neevu lechina udayaana neraverenu vaagdhaanam",
+        "Nirjeeva shareeram shwaasinchenugaa",
+        "Nishshabdhamulo nundi neevu palikina jayabheri",
+        "“O maranamaa nee jayamekkada?” (2)",
+        "Yeshuvaa neeke jayameppudu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "హల్లెలూయా ప్రభువా నిన్నే స్తుతియింతున్",
+        "హల్లెలూయా నీవు మరణము గెలిచితివి",
+        "నీ నామంలో రక్షణను",
+        "మాకు విజయమునిచ్చితివి  ||మన||"
+      ],
+      "english": [
+        "Hallelooyaa Prabhuvaa ninne sthuthiyinthun",
+        "Hallelooyaa neevu maranamu gelichithivi",
+        "Nee naamamlo rakshananu",
+        "Maaku vijayamunichchithivi  ||Mana||"
+      ]
+    }
+  ]
+}

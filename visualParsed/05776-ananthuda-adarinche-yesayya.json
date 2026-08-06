@@ -1,0 +1,76 @@
+{
+  "song_name": "Ananthudaa aadarinche Yesayya",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "అనంతుడా ఆదరించే యేసయ్య",
+      "ఆకాశమందు నీవు తప్ప నాకు ఇంకెవరూ వున్నారాయ"
+    ],
+    "english": [
+      "Ananthudaa aadarinche Yesayya",
+      "Aakaashamandu neevu thappa naaku inkevaroo vunnaaraaya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అనురాగ నిలయుడా ఐశ్వర్యవంతుడా",
+        "కనికర పూర్ణుడా నా యేసయ్య"
+      ],
+      "english": [
+        "Anuraaga nilayudaa aishwaryavanthudaa",
+        "Kanikara poornudaa naa Yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కష్టాల కొలిమిలో నీకిష్టమైన రూపు చేసి",
+        "నీ చేతి స్పర్శ తో ప్రతి క్షణము నన్ను ఆదరించి",
+        "మహిమ స్వరూపుడా నా చేయి విడువక",
+        "అనురాగము నాపై చూపించుచున్నావు"
+      ],
+      "english": [
+        "Kashtaala kolimilo neekishtamaina roopu chesi",
+        "Nee chethi sparsha tho prathi kshanamu nannu aadarinchi",
+        "Mahima swaroopudaa naa cheyi viduvaka",
+        "Anuraagamu naapai choopinchuchunnaavu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "శత్రువు పై సమరములో రథ సారథివై నడిపినావు",
+        "నీ నియమాలను నేర్పించి శత్రువును ఓడించినావు",
+        "విజయ సమరయోధుడా నాకు జయము నిచ్చి",
+        "విజయోత్సవాలతో ఊరేగించుచున్నావు"
+      ],
+      "english": [
+        "Shathruvu pai samaramulo ratha saarathivai nadipinaavu",
+        "Nee niyamaalanu nerpinchi shathruvunu odinchinaavu",
+        "Vijaya samarayodhudaa naaku jayamu nichchi",
+        "Vijayothsavaalatho ooreginchuchunnaavu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "విడువక నన్ను ప్రేమించే నిజ స్నేహితుడై నిలిచినావు",
+        "నీ హస్త బలముతో అగాధాలు దాటించినావు",
+        "నీ సన్నిధి కాంతిలో నన్ను తేజరిల్ల చేసి",
+        "ఆనంద నగరికై సిద్ధపరచు చున్నావు"
+      ],
+      "english": [
+        "Viduvaka nannu preminche nija snehithudai nilichinaavu",
+        "Nee hastha balamutho agaadhaalu daatinchinaavu",
+        "Nee sannidhi kaanthilo nannu thejarilla chesi",
+        "Aananda nagarikai siddhaparachu chunnaavu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "song_name": "Ninnu Chudali Neeto Nadavali Mataladali",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిన్ను చూడాలి నితో నడవాలి మాటలాడాలి ప్రతి నిమిషం (2) చిరువాన జల్లులో నీ స్వరము వినిపించు వేళ నీ సిలువ నీడలో నన్ను నే మరువని"
+    ],
+    "english": [
+      "Ninnu chudali neeto nadavali Mataladali prati nimisham (2) chiruvana jallulo ni svaramu vinipimchu vela Ni siluva nidalo nannu ne maruvani"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కాలమే మారినా మమతలే చెరగినా మనుషులే మరచినా నీ ప్రేమ నను మరచునా (2) సిలువలో పంచిన ప్రేమను పాడదా ఉప్పొంగిన నా హృదయము"
+      ],
+      "english": [
+        "Kalame marina mamatale cheragina Manushule marachina ni prema nanu marachuna (2) Siluvalo pamchina premanu Padada uppomgina na hrudayamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "భయము వలదంటివే బలము నీదంటివే నేనున్నానంటివే నా నాయకుడవైతివే (2) మనసున నిండెను ధైర్యము చిత్రమైన నీ ప్రేమకే వందనం"
+      ],
+      "english": [
+        "Bayamu valadamtive balamu nidamtive Nenunnanamtive na nayakudavaitive (2) Manasuna nimdenu dhairyamu chitramaina ni premake vamdanam"
+      ]
+    }
+  ]
+}

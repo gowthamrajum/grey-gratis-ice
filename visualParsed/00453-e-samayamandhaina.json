@@ -1,0 +1,70 @@
+{
+  "song_name": "E samayamandhaina",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏ సమయమందైన ఏ స్ధలమందైన",
+      "ఏ స్ధితిలో నేనున్న స్తుతిపాడెదన్‌",
+      "ఆరాధన (2) నా ప్రెయుడేసు క్రీస్తుకే ఆరాధన",
+      "ఆరాధన (2) గొర్రెపిల్ల క్రీస్తుకే ఆరాధన"
+    ],
+    "english": [
+      "E samayamandhaina e sthalamandhaina",
+      "E sthithilo nenunna sthuthipaadedhan",
+      "Aaraadhana (2) naa priyudesu Kreesthuke aaraadhana",
+      "Aaraadhana (2) gorrepilla Kreesthuke aaraadhana"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చెరసాలలో నేను బంధీగా ఉన్నా",
+        "సింహాల బోనులో పడవేసినా",
+        "కరవు ఖడ్గము హింస ఏదైననూ",
+        "మరణ శాసనమే పొంచున్నను",
+        "యేసు నామమే ఆధారము కాగ",
+        "యేసు రక్తమే నా విజయము",
+        "పగటి ఎండలో రాత్రి వెన్నెలలో",
+        "కునుకకకాపాడు యేసు దేవునికే ఆరాధన"
+      ],
+      "english": [
+        "Cherasaalalo nenu bandheegaa unnaa",
+        "Simhaala bonulo padavesinaa",
+        "Karavu khadgamu himsa edhainanoo",
+        "Marana shaasaname ponchunnanu",
+        "Yesu naamame aadhaaramu kaaga",
+        "Yesu rakthame naa vijayamu",
+        "Pagati endalo raathri vennelalo",
+        "Kunukaka kaapaadu Yesu Devunike aaraadhana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా జీవనాధారం శ్రీ యేసుడే",
+        "నా స్తుతికి పాత్రుడు ప్రభు క్రీస్తుడే",
+        "తన చేతులతో నన్ను నిర్మించెగా",
+        "నా సృష్టికర్తను కొనియాడెదన్‌",
+        "యెహోవా రాఫా నన్ను స్వస్ధపరచున్‌",
+        "యెహోవా షమ్మా నాకు తోడుగా",
+        "యెహోవా నిస్ని నా ధ్వజముగా",
+        "అల్ఫా ఓమేగా ఆది దేవునికే ఆరాధన"
+      ],
+      "english": [
+        "Naa jeevanaadhaaram Shree Yesude",
+        "Naa sthuthiki paathrudu Prabhu Kreesthude",
+        "Thana chethulatho nannu nirminchegaa",
+        "Naa srushtikarthanu koniyaadedan",
+        "Yehova Raaphaa nannu svasthaparachun",
+        "Yehova Shammaa naaku thodugaa",
+        "Yehova Nissi naa dhvajamugaa",
+        "Alphaa Omegaa aadi Devunike aaraadhana"
+      ]
+    }
+  ]
+}

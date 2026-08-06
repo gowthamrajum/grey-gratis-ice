@@ -1,0 +1,57 @@
+{
+  "song_name": "Thappipoyina Gorrenu Nenu",
+  "author": {
+    "Authored by": "Shyam Joseph",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "తప్పిపోయిన గొర్రెను నేను",
+      "నీ దరికి చేర్చుకో యేసయ్య",
+      "యజమానుడా నా యజమానుడా",
+      "నీవు తప్ప నాకు ఎవరూలేరయ్యా"
+    ],
+    "english": [
+      "Tappipoyina gorrenu nenu",
+      "nee dariki cherchuko yesayya",
+      "yajamaanudaa naa yajamaanudaa",
+      "neeku tappa naaku evaroo lerayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిన్ను చేరే మార్గములో నేనుండగా",
+        "ముల్లె నా కాళ్లకు అడ్డుగా ఉన్నది",
+        "నా దారిలో వెలుగువై",
+        "నా చెంతకు నీవు చేరువై",
+        "నా దరికి నీవు రావా నా యేసయ్య"
+      ],
+      "english": [
+        "Ninnu chere maargamulo nenundagaa",
+        "mulle naa kaallaku addugaa unnadi",
+        "naa daarilo veluguvai",
+        "naa chethaku neevu cheruvai",
+        "naa dariki neevu raavaa naa yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అందరు ఉన్నను ఒంటరినైతిని",
+        "చెంతనేవున్నను నీకు దూరముగుంటిని",
+        "నీతోనే నేను ఉండాలని",
+        "నీతోనే నేను నడవాలని",
+        "ఆశతో ఉన్నాను యేసయ్య"
+      ],
+      "english": [
+        "Andaru unnanu ontarinaitini",
+        "chenthanevunnanu neeku dooramuguntini",
+        "neethone nenu undaalani",
+        "neethone nenu nadavaalani",
+        "aashatho unnaanu yesayya"
+      ]
+    }
+  ]
+}

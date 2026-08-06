@@ -1,0 +1,52 @@
+{
+  "song_name": "Saarvajagathiki Samrakshakudu Svaami Yehoavaayae Gaadha",
+  "author": {
+    "Authored by": "",
+    "రచన": "బండారు సుజ్ఞానము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "సార్వజగతికి సంరక్షకుడు స్వామి యెహోవాయే గాద",
+      "ధారుణీ స్థలిని ధనధాన్యములనుఁ దొలి దానము తనకీయగరాదా"
+    ],
+    "english": [
+      "Saarvajagathiki Samrakshakudu Svaami Yehoavaayae Gaadha",
+      "Dhaarunee Sthalini Dhanadhaanyamulanu Dholi Dhaanamu Thanakeeyagaraadhaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆదామును ప్రభు ప్రథమ ఫలంబుగ ఆదర్శముగాఁ మనకిడెగా",
+        "ఆది సంభవుని కతి మోదంబున సేద్య ఫలంబులు తేవలదా"
+      ],
+      "english": [
+        "Aadhaamunu Prabhu Prathama Phalambuga Aadharshamugaa Manakidegaa",
+        "Aadhi Sambhavuni Kathi Moadhambuna Saedhya Phalambulu Thaevaladhaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కానుకలీయరె మానితులారా కన్యకుమారుని భజియింపన్",
+        "మానవ పున్రుత్థాన మహిమలో మన ప్రథమ ఫలంబతడౌర"
+      ],
+      "english": [
+        "Kaanukaleeyare Maanithulaaraa Kanyakumaaruni Bhajiyimpan",
+        "Maanava Punruththaana Mahimaloa Mana Prathama Phalambathadaura"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఉభయజగాల సర్వోన్నతు డాయనే శుభకరు డన నొప్పును గాదె",
+        "ప్రభుని పేర పరమోత్తమమౌ ప్రథమ ఫలాదులు యిటతేరె"
+      ],
+      "english": [
+        "Ubhayajagaala Sarvoannathu Daayanae Shubhakaru Dana Noppunu Gaadhe",
+        "Prabhuni Paera Paramoaththamamau Prathama Phalaadhulu Yithathaere"
+      ]
+    }
+  ]
+}

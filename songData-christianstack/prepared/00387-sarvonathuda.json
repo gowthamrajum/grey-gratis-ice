@@ -1,0 +1,34 @@
+{
+  "song_name": "Sarvonathuda",
+  "author": {
+    "Authored by": "Pastor A Moses",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సర్వోన్నతుడ! విజయవీరుడ",
+      "ప్రియుడ నా శిల్పకారుడ",
+      "ఎవ్వరు లేరు నాకు యేసయ్యా",
+      "నీ సన్నిది చాలు నాకు మేసయ్యా"
+    ],
+    "english": [
+      "Sarvonathuda vijayaveeruda",
+      "priyudu na shilpakaaruda",
+      "yevvaru leru naaku yesayya",
+      "nee sannidi chaalu naaku mesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అ.ప: ఇంతకంటె భాగ్యమంటయ్యా",
+        "నాకు నీకంటె ఘనులెవరయ్యా"
+      ],
+      "english": [
+        "Inthakamte bhagyamentayya",
+        "naaku neekamte ghanulevarayya"
+      ]
+    }
+  ]
+}

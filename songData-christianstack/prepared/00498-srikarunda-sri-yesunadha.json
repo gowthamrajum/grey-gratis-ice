@@ -1,0 +1,40 @@
+{
+  "song_name": "Srikarunda Sri Yesunadha",
+  "author": {
+    "Authored by": "Pastor Jyothi Raju",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "శ్రీకరుండ శ్రీ యేసునాధా",
+      "శ్రీమంతుడవు సృజనాత్ముడా",
+      "హోసన్నా . . హల్లెలూయా"
+    ],
+    "english": [
+      "Srikarunda sri yesunaadhaa",
+      "srimanthudavu srujanaathmudaa",
+      "hosanna . . Hallelujah"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపభారం భరియించినావు పాపినైన నా కొరకేగా",
+        "పవిత్రతతో నీ పాద సన్నిధిలో పరవశింతును పరమ ప్రభో",
+        "మరణపు ముల్లును విరచి నీవు మృత్యుంజయునిగా మరి లేచినావు",
+        "మహిమోన్నతుడా నీ మహిమలను మహిలో నేను చాటెదను",
+        "ఆశీర్వాదము నిచ్చెడివాడా ఆందుకో మా స్తుతిమాలిక",
+        "ఆప్తుడవై నను ఆదరించి అభిషేకముతో నింపితివి"
+      ],
+      "english": [
+        "Paapabhaaram bhariyinchinaavu paapinaina naa korakegaa",
+        "pavithrathatho nee paadha sannidhilo paravasinthunu parama prabho",
+        "Maranapu mullunu virachi neevu mruthyunjayunigaa mari lechinaavu",
+        "mahimonnathudaa nee mahimalanu mahilo nenu chaatedhanu",
+        "Aasirvaadhamu nichedivaadaa andhuko maa sthuthi maalika",
+        "aapthudavai nanu aadharinchi abhishekamutho nimpithivi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "song_name": "Maa shrama lanni theerchithivi maaku",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "బర్నార్డ్ మాన్సెల"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "మా శ్రమ లన్ని తీర్చితివి",
+      "మాకు విశ్రాంతి నిచ్చితివి",
+      "మహిమ నీకుఁ గల్గెడును",
+      "మిత్రుఁడవైన రక్షకుఁడా!"
+    ],
+    "english": [
+      "Maa shrama lanni theerchithivi",
+      "Maaku vishraanthi nichchithivi",
+      "Mahima neeku galgedunu",
+      "Mithrudavaina rakshakudaa!"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సందియ మంతఁ దీర్చితివి",
+        "పూర్ణ విశ్వాస మిచ్చితివి",
+        "మహిమ నీకుఁ గల్గెడును",
+        "మిత్రుఁడవైన రక్షకుఁడా!"
+      ],
+      "english": [
+        "Sandhiya mantha dheerchithivi",
+        "Poorna vishwaasa michchithivi",
+        "Mahima neeku galgedunu",
+        "Mithrudavaina rakshakudaa!"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కన్నీళ్లు నీవు తుడ్చితివి",
+        "మాకు సంతోష మిచ్చితివి",
+        "మహిమ నీకుఁ గల్గెడును",
+        "మిత్రుఁడవైన రక్షకుఁడా!"
+      ],
+      "english": [
+        "Kanneellu neevu thudchithivi",
+        "Maaku santhosha michchithivi",
+        "Mahima neeku galgedunu",
+        "Mithrudavaina rakshakudaa!"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీ బు నమ్మితిమి",
+        "కరుణఁ జూపి ప్రోచితివి",
+        "మహిమ నీకుఁ గల్గెడును",
+        "మిత్రుఁడవైన రక్షకుఁడా!"
+      ],
+      "english": [
+        "Nee bu nammithimi",
+        "Karuna joopi prochithivi",
+        "Mahima neeku galgedunu",
+        "Mithrudavaina rakshakudaa!"
+      ]
+    }
+  ]
+}

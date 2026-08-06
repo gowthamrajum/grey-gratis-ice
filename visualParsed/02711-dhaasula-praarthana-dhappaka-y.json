@@ -1,0 +1,63 @@
+{
+  "song_name": "Daasula praarthana dhappaka esagedu Yesu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "పురుషోత్తము చౌదరి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "దాసుల ప్రార్థన దప్పక యెసఁగెడు యేసు నాయకుఁడై మా వేల్పు",
+      "దోసములు సేయు దుర్జనుఁడైనను దోసి లొగ్గఁ బర వాసి జేయునఁట",
+      "||దాసుల||"
+    ],
+    "english": [
+      "Daasula praarthana dhappaka esagedu Yesu naayakudai maa velpu",
+      "Dhosamulu seyu dhurjanudainanu dhosi logga bara vaasi jeyunata",
+      "||Daasula||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జన రహిత స్థల మున జని వేఁడెడి మనుజుల ప్రార్థన వినుచుండున్",
+        "తన పాదము న మ్మిన సాధూత్తమ జనులను జూచిన సంతస",
+        "మిడునఁట  ||దాసుల||"
+      ],
+      "english": [
+        "Jana rahitha sthala muna jani vededi manujula praarthana vinuchundun",
+        "Thana paadamu nammina saadhooththama janulanu joochina santhasa",
+        "Midunata  ||Daasula||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మది విశ్వాసము గూడిన ప్రార్థన సదయత వినుటకుఁ జెవు లొగ్గున్",
+        "హృదయము కనుఁగొని యుచిత సమయమున గుదురుగ భక్తుల",
+        "కోర్కె లిచ్చునట  ||దాసుల||"
+      ],
+      "english": [
+        "Madi vishwaasamu goodina praarthana sadhayatha vinutaku jevu loggun",
+        "Hrudayamu kanugoni yuchitha samayamuna gudhuruga bhakthula",
+        "Korke lichchunata  ||Daasula||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ముదమున నిద్దరు ముగ్గురు నొకచోఁ బదిలముగాఁ దనుఁ బ్రార్ధింపన్",
+        "వదలక దానట వచ్చి యుందు నని మృదువుగఁ బలికిన కృత",
+        "రక్షణు(డట  ||దాసుల||"
+      ],
+      "english": [
+        "Mudamuna niddharu mugguru nokacho badhilamugaa dhanu braardhimpan",
+        "Vadalaka dhaanata vachchi yundhu nani mrudhuvuga balikina krutha",
+        "Rakshanudata  ||Daasula||"
+      ]
+    }
+  ]
+}

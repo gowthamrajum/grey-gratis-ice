@@ -1,0 +1,62 @@
+{
+  "song_name": "Neevu leni rojanthaa rojena neevu leni brathukanthaa brathukena",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవు లేని రోజంతా రోజేనా - నీవు లేని బ్రతుకంతా బ్రతుకేనా"
+    ],
+    "english": [
+      "Neevu leni rojanthaa rojena - Neevu leni brathukanthaa brathukena"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జీవ జల ఊటయు ప్రభు నీవే - సత్యము మార్గము ప్రభు నీవే",
+        "నా తోడ బుట్టువు ప్రభు నీవే - నాలో సంతసం ప్రభు నీవే  ||నీవు||"
+      ],
+      "english": [
+        "Jeeva jala ootayu Prabhu neeve - Sathyamu maargamu Prabhu neeve",
+        "Naa thoda buttuvu Prabhu neeve - Naalo santhasam Prabhu neeve  ||Neevu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వెలుగొందు జ్వాలయు ప్రభు నీవే - గాలియు శబ్దము ప్రభు నీవే",
+        "తాళము రాగము ప్రభు నీవే - మ్రోగెడు కంచు ప్రభు నీవేIIనీవు లేనిII"
+      ],
+      "english": [
+        "Velugondhu jvaalayu Prabhu neeve - Gaaliyu shabdamu Prabhu neeve",
+        "Thaalamu raagamu Prabhu neeve - Mrogedu kanchu Prabhu neeve||Neevu leni||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా క్రియలు అన్నియు ప్రభు నీవే - నాదు బలమంతయు ప్రభు నీవే",
+        "నా కోట బాటయు ప్రభు నీవే - నా డాలు కేడెము ప్రభు నీవేIIనీవు లేనిII"
+      ],
+      "english": [
+        "Naa kriyalu anniyu Prabhu neeve - Naadu balamanthayu Prabhu neeve",
+        "Naa kota baatayu Prabhu neeve - Naa daalu kedemu Prabhu neeve||Neevu leni||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నా తలపులన్నియు ప్రభు నీవే - నా భాష మాటయు ప్రభు నీవే",
+        "నాదు విమోచన ప్రభు నీవే - నా పునరుత్తానము ప్రభు నీవే  ||నీవు||"
+      ],
+      "english": [
+        "Naa thalapulanniyu Prabhu neeve - Naa bhaasha maatayu Prabhu neeve",
+        "Naadu vimochana Prabhu neeve - Naa punaruththaanamu Prabhu neeve  ||Neevu||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "song_name": "Ninne Preminthunu",
+  "author": {
+    "Authored by": "Pastor Reenukumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా జీవం నీవేగా, నా స్తుతియు నీవేగా",
+      "నాకై మరణించినా, నీకై జీవించెదా",
+      "నిన్నే ప్రేమింతును"
+    ],
+    "english": [
+      "Naa jeevam neevegaa, naa sthuthiyu neevegaa",
+      "Naakai maraninchinaa, neekai jeevinchedaa",
+      "Ninne preminthunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా పాపము చూడక, నీ ముఖమును దాచితివే",
+        "అతిక్రమముల నించక, నీ కృపలను ఇచ్చితివే",
+        "క్షమాపణ కోరగా, మరచితిని అంటివే",
+        "నీ శ్రమలలో ఉండగా, నాతో నీవుంటివే",
+        "నను అందరు విడచినా, నీవు హత్తుకుంటివే",
+        "నా ప్రార్ధన వింటివే, కన్నీళ్లను తుడచితివే"
+      ],
+      "english": [
+        "Naa paapamu choodaka, nee mukhamunu daachithive",
+        "Athikramamula ninchaka, nee krupalanu icchithive",
+        "Kshamaapana koragaa, marachithini antive"
+      ]
+    }
+  ]
+}

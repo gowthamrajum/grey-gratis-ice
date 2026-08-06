@@ -1,0 +1,64 @@
+{
+  "song_name": "Krupa Vembadi Krupalo",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కృప వెంబడి కృపలో",
+      "నన్ను దచావు నీ దయలో",
+      "గడచిన కాలమంతా",
+      "నన్ను కచావు నీ నీడలో"
+    ],
+    "english": [
+      "Krupa vembadi krupalo",
+      "Nannu dhachavu nee dhayalo",
+      "Gadachina kaalamanthaa",
+      "Nannu kachavu nee needalo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు రాజా నీ కృపయే మహోనతం",
+        "నీవు చూపిన ఆ ప్రేమా మధురమృతం"
+      ],
+      "english": [
+        "Yesu Raaja, nee krupaye mahonatham",
+        "Neeku choopina aa prema madhuramrutham"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇరుకులలో ఇబందులలో",
+        "సాయమెలేని వేళలో",
+        "నన్ను విడిపోలేదు నీ కృప",
+        "ఉన్నత స్థానములో నీలిపెనుగా"
+      ],
+      "english": [
+        "Irukulalo, ibandhulalo",
+        "Saayameleni velalo",
+        "Nannu vidipoledu nee krupa",
+        "Unnatha sthaanamulo neelipenuga"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        ". వ్యధులలోన బాధలలోన",
+        "ఆధరనెలేని వేళలో",
+        "నన్ను మరువలేదు నీ కృప",
+        "ఆభయమునిచ్చి నడిపెనుగా"
+      ],
+      "english": [
+        "Vyadhulalona, baadhalalona",
+        "Aadharanealeni velalo",
+        "Nannu maravaledu nee krupa",
+        "Abhayamunichchi nadipenuga"
+      ]
+    }
+  ]
+}

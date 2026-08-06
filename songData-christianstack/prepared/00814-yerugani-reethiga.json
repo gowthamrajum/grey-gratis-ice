@@ -1,0 +1,36 @@
+{
+  "song_name": "Yerugani Reethiga",
+  "author": {
+    "Authored by": "Gottipaati Yesu Das",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎరుగని రీతిగా",
+      "నను దర్శించే నీ కృప",
+      "ఇంతవరకు కాచెనే",
+      "చెంత నుండి నీ కృపా",
+      "అంతము వరకు నడిపించునే",
+      "అంతేలేని నీ కృప"
+    ],
+    "english": [
+      "Yerugani reethigaa",
+      "nanu dharsinche nee krupa",
+      "inthavaraku kaachene",
+      "chentha nundi nee krupa",
+      "anthamu varaku nadipinchune",
+      "antheleni nee krupa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కృప కృప కృప"
+      ],
+      "english": [
+        "Krupa krupa krupa"
+      ]
+    }
+  ]
+}

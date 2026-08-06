@@ -1,0 +1,32 @@
+{
+  "song_name": "Nee Dhukka Dhinamulu",
+  "author": {
+    "Authored by": "Pastor B Shalem Raju",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ దుఃఖ దినములు సమాప్తమైయున్నవి",
+      "నీ బ్రతుకులో ముళ్ళు తొలగించబడియున్నవి"
+    ],
+    "english": [
+      "Nee dhukka dhinamulu samaapthamaiyunnavi",
+      "nee brathukulo mullu tholagincha badiyunnavi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇన్నాళ్ళు కడగళ్ళు తొలగించగా",
+        "ఇన్నేళ్ళ కన్నీళ్ళు తుడిచేయగా",
+        "యేసయ్య నిలిచాడు నీ తోడుగా"
+      ],
+      "english": [
+        "Innaallu kadagallu tholaginchagaa",
+        "innella kanneellu thudicheyagaa",
+        "yesayya nilichaadu nee thodugaa"
+      ]
+    }
+  ]
+}

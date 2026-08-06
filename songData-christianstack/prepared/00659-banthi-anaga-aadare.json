@@ -1,0 +1,47 @@
+{
+  "song_name": "Banthi Anaga Aadare",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "బంతియనగ ఆడరే",
+      "మన బాల చిన్న ముద్దుల యేసుకు"
+    ],
+    "english": [
+      "Banthiyanaga aadare",
+      "mana baala chinna muddula yesuku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ముద్దుల తోడ కూడి యాడి",
+        "ముద్దుల పరుడు పల్క పరుడు",
+        "గ గ గ రి గ మ మ మ మ",
+        "ప మ ప మ ప ద ని స"
+      ],
+      "english": [
+        "Muddula thoda koodi yaadi",
+        "muddula parudu palka parudu",
+        "ga ga ga ri ga ma ma ma ma",
+        "pa ma pa ma pa da ni sa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప ద ని స.. ప ద ని స",
+        "ప ద ప ద గ మ",
+        "గ మ గ రి స రి"
+      ],
+      "english": [
+        "pa da ni sa.. pa da ni sa",
+        "pa da pa da ga ma",
+        "ga ma ga ri sa ri"
+      ]
+    }
+  ]
+}

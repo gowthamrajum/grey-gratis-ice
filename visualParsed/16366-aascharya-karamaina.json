@@ -1,0 +1,64 @@
+{
+  "song_name": "Aashcharyakaramaina",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆశ్చర్య కరమైన",
+      "ఆశ్చర్యకరమైన నీ కృపతో",
+      "మనోహరమైన సీయోనులో",
+      "నా ప్రియుని నేను దర్శింతును",
+      "ఆ నిత్య మహిమలో నేనుందును",
+      "ఆరాధనా ఆరాధనా",
+      "ఆరాధనా నీకే ఆరాధనా"
+    ],
+    "english": [
+      "Aashcharya karamaina",
+      "Aashcharyakaramaina nee krupatho",
+      "Manoharamaina Seeyonulo",
+      "Naa priyuni nenu darshinthunu",
+      "Aa nithya mahimalo nenundunu",
+      "Aaraadhanaa aaraadhanaa",
+      "Aaraadhanaa neeke aaraadhanaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవు పొందిన ఆఘోర శ్రమలలో",
+        "నీవు చూపిన విధేయతా",
+        "సంపూర్ణమైనా పరిపూర్ణతకు",
+        "విలువైన ఫలముగా చేసేను",
+        "నను విలువైన ఫలముగా చేసేను"
+      ],
+      "english": [
+        "Neevu pondina aaghora shramalalo",
+        "Neevu choopina vidheyathaa",
+        "Sampoornamainaa paripoornathaku",
+        "Viluvaina phalamugaa chesenu",
+        "Nanu viluvaina phalamugaa chesenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీవు పొందిన ఆ గాయములే",
+        "అగ్నితో నను అభిషేకించగా",
+        "సౌందర్యమైన ఆ సీయోనుకు",
+        "ప్రధమ ఫలముగా నను మార్చెను",
+        "నను ప్రధమ ఫలముగా నను మార్చెను"
+      ],
+      "english": [
+        "Neevu pondina aa gaayamule",
+        "Agnitho nanu abhishekinchagaa",
+        "Saundharyamaina aa Seeyonuku",
+        "Pradhama phalamugaa nanu maarchenu",
+        "Nanu pradhama phalamugaa nanu maarchenu"
+      ]
+    }
+  ]
+}

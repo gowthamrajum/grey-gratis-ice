@@ -1,0 +1,58 @@
+{
+  "song_name": "Manishini praanamgaa preminchina Devudu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Dr P Satish Kumar"
+    ],
+    "రచన": [
+      "డాక్టర్ పి సతీష్ కుమార్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "మనిషిని ప్రాణంగా ప్రేమించిన దేవుడు",
+      "మనిషికై ప్రాణాన్ని అర్పించిన నాధుడు"
+    ],
+    "english": [
+      "Manishini praanamgaa preminchina Devudu",
+      "Manishikai praanaanni arpinchina naadhudu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మనకోసమే నేడు జన్మించెను చూడు",
+        "హల్లెలూయా పాడు సంతోషమే నేడు"
+      ],
+      "english": [
+        "Manakosame nedu janminchenu choodu",
+        "Hallelooyaa paadu santhoshame nedu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రవచనాలన్నియు నెరెవేర్చెనే నాడు",
+        "ప్రపంచాన్ని రక్షింప జన్మించెను నేడు",
+        "పశువుల పాకలో పవళించెనే",
+        "పరలోకమే ప్రస్తుతించెనే",
+        "పాపులందరిని ప్రేమించిన వాడు",
+        "పాపుల రక్షణకై ప్రాణం పెట్టినవాడు",
+        "పశువుల పాకలో పవళించెనే",
+        "పరలోకమే ప్రస్తుతించెనే"
+      ],
+      "english": [
+        "Pravachanaalanniyu neraverchene naadu",
+        "Prapanchaanni rakshimpa janminchenu nedu",
+        "Pashuvula paakalo pavalinchene",
+        "Paralokame prasthuthinchene",
+        "Paapulandarini preminchina vaadu",
+        "Paapula rakshanakai praanam pettinavaadu",
+        "Pashuvula paakalo pavalinchene",
+        "Paralokame prasthuthinchene"
+      ]
+    }
+  ]
+}

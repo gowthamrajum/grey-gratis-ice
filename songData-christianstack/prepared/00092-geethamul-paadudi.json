@@ -1,0 +1,55 @@
+{
+  "song_name": "Geethamul Paadudi",
+  "author": {
+    "Authored by": "Murari Daveedu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "గీతములు పాడుఁడీ యేసునికి సం గీతములు పాడుడీ పాతకుల",
+      "మగు మనల దారుణ పాతకము తన విమలరక్త స్నాతులనుగాఁ జేసి",
+      "పాపను భాతకులలో నవతరించెను"
+    ],
+    "english": [
+      "Geethamulu paadudi Yesuniki",
+      "Sangeethamulu paadudi paathakula",
+      "Magu manala dhaaruna paathakamu",
+      "Thana vimalaraktha snaathulanugaa jesi",
+      "Paapanu bhaathakulalo navatharinchenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రాజులకు రాజుగా నేలుచు మోక్ష రాజ్యమున కర్తగా బూజలందుచు",
+        "దూత పరిగణ పూజితుండౌ ఘనుఁడు తన దగు తేజ మెల్లను విడిచి",
+        "యీయిల దేజహీనులలోనఁ బుట్టెను"
+      ],
+      "english": [
+        "Raajulaku raajugaa neluchu",
+        "Moksha raajyamuna karthagaa",
+        "Boojalandhuchu",
+        "Dhootha parigana poojithundau ghanudu",
+        "Thana dhagu thejamellanu vidichi",
+        "Iyila dhejasheenulalona buttenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మానవుల కెల్లను దేవుని ప్రేమ మానుగా జూపను మ్రానిపై దన",
+        "రక్త మొసగగ మానవుండై పుట్టె యూదుల లోన యేసను పేరుచేదా",
+        "దీనుడై యిమ్మానుయేలు"
+      ],
+      "english": [
+        "Maanavulakellanu Dhevuni prema",
+        "Maanugaa joopanu mraanipai",
+        "Thana rakthamosagaa",
+        "Maanavundai puttenu",
+        "Yoodhula lona Yesunu peruchedhaa",
+        "Dheenudai Immanuelu"
+      ]
+    }
+  ]
+}

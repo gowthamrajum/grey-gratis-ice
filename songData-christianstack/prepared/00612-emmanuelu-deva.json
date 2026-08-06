@@ -1,0 +1,41 @@
+{
+  "song_name": "Emmanuelu Deva",
+  "author": {
+    "Authored by": "Deepak Dinakar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇమ్మానుయేలు దేవా నాతో ఉన్నవాడా",
+      "నా కొండా కోట నీవే దేవా"
+    ],
+    "english": [
+      "Emmanuelu deva naatho unnavaadaa",
+      "naa konda kota neeve deva"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "భయపడను నేను – నా తోడు నీవుండగ",
+        "దిగులిడను నేను – నా అండ నీవేగా"
+      ],
+      "english": [
+        "Bhayapadanu nenu – naa thodu neevundagaa",
+        "dhigulidanu nenu – naa anda neevegaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "భయపడను నేను – నా తోడు నీవుండగ",
+        "దిగులిడను నేను – నా అండ నీవేగా"
+      ],
+      "english": [
+        "Bhayapadanu nenu – naa thodu neevundagaa",
+        "dhigulidanu nenu – naa anda neevegaa"
+      ]
+    }
+  ]
+}

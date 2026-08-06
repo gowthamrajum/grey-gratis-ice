@@ -1,0 +1,49 @@
+{
+  "song_name": "యేసు మమ్ము నడిపించు నీదు కాప",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఓకబ్ చేంబర్లేన్"
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు, మమ్ము నడిపించు నీదు కాపు కావలెన్ నీవు మమ్మును బోషించు మమ్ముఁ జేర్చు మందలోన్ యేసునాధా, ప్రియనాధా! మిమ్ము విమోచించుమా."
+      ],
+      "english": [
+        "yaesu, mammu nadipiMchu needhu kaapu kaavalen neevu mammunu boaShiMchu mammuAO jaerchu mMdhaloan yaesunaaDhaa, priyanaaDhaa! mimmu vimoachiMchumaa."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మమ్ము నాదరించు యేసూ మాకు పాలకుండవు పాప మార్గమందు నుండి ప్రేమతో! దప్పించుమీ యేసునాధా, ప్రియనాధా! మొఱ్ఱ నాలకించుమా."
+      ],
+      "english": [
+        "mammu naadhariMchu yaesoo maaku paalakuMdavu paapa maargamMdhu nuMdi praemathoa! dhappiMchumee yaesunaaDhaa, priyanaaDhaa! moRRa naalakiMchumaa."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బీద పాపు లైన మమ్ము నీ వంగీకరింతువు మమ్మును బవిత్రపర్చి మమ్ము విడిపించుమీ యేసునాధా, ప్రియనాధా! నిన్ను నాశ్రయింతుము"
+      ],
+      "english": [
+        "beedha paapu laina mammu nee vMgeekariMthuvu mammunu bavithraparchi mammu vidipiMchumee yaesunaaDhaa, priyanaaDhaa! ninnu naashrayiMthumu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "బాల్యమందు నిన్నుఁ జేరి నిన్ను హత్తుకొందుము ప్రియ రక్షకుండ, యేసూ నీ ప్రేమఁ జూపుమా యేసునాధా, ప్రియనాధా! మమ్మింకఁ బ్రేమించుమా."
+      ],
+      "english": [
+        "baalyamMdhu ninnuAO jaeri ninnu haththukoMdhumu priya rakShkuMda, yaesoo nee praemAO joopumaa yaesunaaDhaa, priyanaaDhaa! mammiMkAO braemiMchumaa."
+      ]
+    }
+  ]
+}

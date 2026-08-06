@@ -1,0 +1,62 @@
+{
+  "song_name": "Nee snehamu nanu manishini chesindi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Jesus Chanan",
+      "Bro Prakash"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ స్నేహము నను మనిషిని చేసింది",
+      "నా హృదయముకు ప్రేమించుట నేర్పింది",
+      "విలువైన రక్తము నా కొరకు ధారపోసి",
+      "నిలువెల్ల నలిగితివా ఈ ఘోరపాపి కొరకు",
+      "దోషములన్నీ కడిగి నాలో జీవం నింపితివి",
+      "ప్రేమమయుడా, సర్వోన్నతుడా, మహిమాన్వితుడా, నా యేసయ్య"
+    ],
+    "english": [
+      "Nee snehamu nanu manishini chesindi",
+      "Naa hrudhayamuku preminchuta nerpindhi",
+      "Viluvaina rakthamu naa koraku dhaaraposi",
+      "Niluvella naligithivaa ee ghorapaapi koraku",
+      "Dhoshamulannee kadigi naalo jeevam nimpithivi",
+      "Premamayudaa, sarvonnathudaa, mahimaanvithudaa, naa Yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా తల మీద ప్రవహించే సంద్రము వంటివి",
+        "బాల్యము నుండి నే చేసిన పాపపు కార్యములు",
+        "నా దుష్కార్యములన్నీ నీ వీపువెనక వేసి",
+        "దీవెనగా చేయుటకు నా పాప మంతటిని మరిచావు",
+        "సాధ్యము కాని కార్యములు నీ దయతో పొందితిని",
+        "నీ మేలులు మరచి పశుప్రాయుడనై వీపును చూపితినీ",
+        "నా అవిధేయతలన్నీ నీ వేలితో చెరిపి",
+        "నా ఎముకలలో నీ వాక్యము నే అగ్నికణముగా దాచావు",
+        "మరణము వరకు నీతోనే నే ఉంటానంటినీ",
+        "స్థిరముగ నిలిచి నీతో ఉండుట కలగా మార్చితిని",
+        "కుమారుని రక్తముతో హిమమంత తెలుపు చేసి",
+        "పరిశుద్ధులలో నను చేర్చుటకు సిలువ కిరణమై వెలిగావు"
+      ],
+      "english": [
+        "Naa thala meeda pravahinche sandramu vantivi",
+        "Baalyamu nundi ne chesina paapapu kaaryamulu",
+        "Naa dhushkaaryamulannee nee veepuvenaka vesi",
+        "Deevenagaa cheyutaku naa paapa manthatini marichaavu",
+        "Saadhyamu kaani kaaryamulu nee dayatho pondithini",
+        "Nee melulu marachi pashupraayudanai veepunu choopithinee",
+        "Naa avidheyathalannee nee velitho cheripi",
+        "Naa emukalalo nee vaakyamu ne agnikanamugaa daachaavu",
+        "Maranamu varaku neethone ne untaanantinee",
+        "Sthiramuga nilichi neetho unduta kalagaa maarchithini",
+        "Kumaaruni rakthamutho himamantha thelupu chesi",
+        "Parishuddhulalo nanu cherchutaku siluva kiranamai veligaavu"
+      ]
+    }
+  ]
+}

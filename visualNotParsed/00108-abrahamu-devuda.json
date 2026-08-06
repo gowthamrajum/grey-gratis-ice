@@ -1,0 +1,67 @@
+{
+  "song_name": "Abrahaamu devudavu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "అబ్రహాము దేవుడవు - ఇస్సాకు దేవుడవు",
+      "యాకోబు దేవుడవు - నాకు చాలిన దేవుడవు",
+      "యేసయ్యా నా యేసయ్యా - యేసయ్యా నా యేసయ్యా (2)"
+    ],
+    "english": [
+      "Abrahaamu devudavu - Issaaku devudavu",
+      "Yaakobu devudavu - Naaku chaalina devudavu",
+      "Yesayyaa naa Yesayyaa - Yesayyaa naa Yesayyaa (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అబ్రహాము విశ్వాసముతొ - స్వ దేశము విడచెను",
+        "పునాదులు గల పట్టణమునకై వేచి జీవించెను (2)",
+        "అబ్రహాముకు చాలిన దేవుడు నీవే నయ్యా (2)",
+        "యేసయ్యా నా యేసయ్యా - యేసయ్యా నా యేసయ్యా (2)  ||అబ్రహాము||"
+      ],
+      "english": [
+        "Abrahaamu vishwaasamutho - Sva dhesamu vidachenu",
+        "Punaadhulu gala pattanamunakai vechi jeevinchenu (2)",
+        "Abrahaamuku chaalina devudu neeve nayyaa (2)",
+        "Yesayyaa naa Yesayyaa - Yesayyaa naa Yesayyaa (2)  ||Abrahaamu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇస్సాకు విధేయుడై బలియాగమాయెను",
+        "వాగ్ధానాన్ని బట్టి మృతుడై లేచెను (2)",
+        "ఇస్సాకుకు చాలిన దేవుడు నీవేనయ్యా (2)",
+        "యేసయ్యా నా యేసయ్యా - యేసయ్యా నా యేసయ్యా (2)  ||అబ్రహాము||"
+      ],
+      "english": [
+        "Issaaku vidheyudai baliyaagamaayenu",
+        "Vaagdhaanaanni batti mruthudai lechenu (2)",
+        "Issaakuku chaalina devudu neevenayyaa (2)",
+        "Yesayyaa naa Yesayyaa - Yesayyaa naa Yesayyaa (2)  ||Abrahaamu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యాకోబు మోసగాడై తండ్రి ఇంటిని విడచెను",
+        "యాకోబు ఇశ్రాయేలై తండ్రి ఇంటికి చేరెను (2)",
+        "యాకోబుకు చాలిన దేవుడు నీవేనయ్యా (2)",
+        "యేసయ్యా నా యేసయ్యా - యేసయ్యా నా యేసయ్యా (2)"
+      ],
+      "english": [
+        "Yaakobu mosagaadai thandri intini vidachenu",
+        "Yaakobu Ishraayelai thandri intiki cherenu (2)",
+        "Yaakobuku chaalina devudu neevenayyaa (2)",
+        "Yesayyaa naa Yesayyaa - Yesayyaa naa Yesayyaa (2)"
+      ]
+    }
+  ]
+}

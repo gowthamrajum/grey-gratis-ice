@@ -1,0 +1,58 @@
+{
+  "song_name": "Aahaa Mahaanandame",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆహా మహానందమే - ఇహ పరంబులన్",
+      "మహావతారుండౌ - మా యేసు జన్మ దినం - హల్లేలూయ"
+    ],
+    "english": [
+      "Aahaa Mahaanandame - Iha Parambulan",
+      "Mahaavathaarundau - Maa Yesu Janma Dinam - Halleluya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కన్యక గర్భమందు పుట్టగా - ధన్యుడవంచు దూతలందరు (2X)",
+        "మాన్యులౌ పేద గొల్లలెందరో - అన్యులౌ తూర్పు జ్ఞానులెందురో (2X)",
+        "నిన్నారాధించిరి - హల్లేలూయ"
+      ],
+      "english": [
+        "Kanyaka Garbhamandu Puttagaa - Dhanyudavanchu Doothalandaru (2X)",
+        "Maanyulau Peda Gollalendaro - Anyulau Thoorpu Gnaanulenduro (2X)",
+        "Ninnaaraadhinchiri - Halleluya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యెహోవా తనయా - యేసు ప్రభూ, సహాయుడా - మా స్నేహితుడా (2X)",
+        "ఈహా పరంబుల ఓ ఇమ్మనుయేల్ - మహానందముతో నిన్నారాధింతుము(2X)",
+        "నిన్నారాధింతుము - హల్లేలూయ"
+      ],
+      "english": [
+        "Yehovaa Thanayaa - Yesu Prabhoo, Sahaayudaa - Maa Snehithudaa (2X)",
+        "Eehaa Parambula O Immanuyel - Mahaanandamutho Ninnaaraadhinthumu (2X)",
+        "Ninnaaraadhinthumu - Halleluya"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సర్వేశ్వరున్ రెండవ రాకడన్ - స్వర్గంబు నుండి వచ్చు వేళలో (2X)",
+        "సర్వామికా సంఘంబు భక్తితో - సంధించి నిన్ స్తోత్రిం చు వేళలో (2X)",
+        "నిన్నారాధింతుము - హల్లేలూయ"
+      ],
+      "english": [
+        "Sarveshwarun Rendava Raakadan - Swargambu Nundi Vachchu Velalo (2X)",
+        "Sarvaamikaa Sanghambu Bhakthitho - Sandhinchi Nin Sthothrim Chu Velalo (2X)",
+        "Ninnaaraadhinthumu - Halleluya"
+      ]
+    }
+  ]
+}

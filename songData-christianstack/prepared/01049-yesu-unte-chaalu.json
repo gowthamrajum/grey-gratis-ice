@@ -1,0 +1,49 @@
+{
+  "song_name": "Yesu Unte Chaalu",
+  "author": {
+    "Authored by": "Rajesh Tatapudi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఊహించలేనివి – అహ్లాదమైనవి",
+      "ఎన్నేన్నో మేళులు – పొందండి ఈ వేల",
+      "యేసయ్య త్రోవలు – ఎనలేని ఈవులు",
+      "యేసయ్య వరములు – ఇవన్నీ కావలాయేసే మర్గము – యేసే గమ్యము",
+      "యేసే జీవము – మనకంతా"
+    ],
+    "english": [
+      "Oohincha lenivi – ahladhamainavi",
+      "ennenno melulu – pondandi ee vela",
+      "yesayya throvalu – enaleni eevulu",
+      "yesayya varamulu – ivanni kavaalaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "Pre-chorus:",
+        "యేసు, రక్షణకే ఆధారం",
+        "యేసు ఉంటే చాలు – లేదు పాప భారం",
+        "నేడే రక్షణ కోరు – మారే రోజే నేడు",
+        "దక్కే గొప్ప భాగ్యం – సత్యం ఈ మాట"
+      ],
+      "english": [
+        "yese margamu – yese gamyamu",
+        "yese jeevamu mankanthaaa…"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [],
+      "english": [
+        "Pre-Chorus:",
+        "yesu, rakshanakey aadharam",
+        "yesu untey chaalu – ledu paapa bhaaram",
+        "nede rakshana koru – maarey rojey nedu",
+        "dakkey goppa bhagyam – sathyam ee maata…"
+      ]
+    }
+  ]
+}

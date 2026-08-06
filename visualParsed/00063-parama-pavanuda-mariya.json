@@ -1,0 +1,46 @@
+{
+  "song_name": "Parama paavanudu Mariya thanayudu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరమ పావనుడు మరియ తనయుడు అవతరించెనే శుభ దినాన (2)",
+      "మది పరవశాన ఉప్పోంగగ పరవశాన ఉప్పోంగగ",
+      "అందించెదను ప్రేమ సందేశం అందించెదను క్రిస్మస్ సందేశం ||పరమ||"
+    ],
+    "english": [
+      "Parama paavanudu Mariya thanayudu avatharinchene shubha dinaana (2)",
+      "Madi paravashaana uppongaga paravashaana uppongaga",
+      "Andinchedanu prema sandesham andinchedanu Krismas sandesham ||Parama||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దూత గణములెల్ల మదినాలపింపగా గొల్లలు స్తుతులను అర్పింపగ (2)",
+        "వినరండి బాల యేసుని దివ్యగాథను",
+        "కనరండి దైవ తనయుని ఇమ్మానుయేలును  ||పరమ||"
+      ],
+      "english": [
+        "Dootha ganamulella madinaalapimpagaa gollalu sthuthulanu arpimpaga (2)",
+        "Vinarandi baala Yesuni dhivyagaathanu",
+        "Kanarandi daiva thanayuni Immaanuyelunu  ||Parama||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తారలు కాంతులు జగమంత వెదజల్లగ జ్ఞానులు కానుకలర్పింపగ (2)",
+        "అర్పించెదను నా జీవితం రక్షణ మార్గం వెదజల్లగ  ||పరమ||"
+      ],
+      "english": [
+        "Thaaralu kaanthulu jagamantha vedajallaga gnaanulu kaanukalarpimpaga (2)",
+        "Arpinchedanu naa jeevitham rakshana maargam vedajallaga  ||Parama||"
+      ]
+    }
+  ]
+}

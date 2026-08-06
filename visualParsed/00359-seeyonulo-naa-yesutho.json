@@ -1,0 +1,52 @@
+{
+  "song_name": "Seeyonulo Naa Yesutho",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Yesanna"
+    ],
+    "రచన": [
+      "బ్రదర్ యేసన్న"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "సీయోనులో - నా యేసుతో",
+      "సింహాసనం యెదుట - క్రొత్తపాట పాడెద",
+      "ఈ నిరీక్షణ నన్ను సిగ్గుపరచదు"
+    ],
+    "english": [
+      "Seeyonulo - Naa Yesutho",
+      "Simhaasanam eduta - Krotthapaata paadeda",
+      "Ee nireekshana nannu sigguparachadhu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సీయోను మూల రాయిగా - నా యేసు నిలిచి యుండగా",
+        "ఆత్మసంబంధమైన మందిరముగా",
+        "కట్టబడుచున్నాను - యేసుపై  ||సీయోనులో||"
+      ],
+      "english": [
+        "Seeyonu moola raayigaa - Naa Yesu nilichi yundagaa",
+        "Aathmasambandhamaina mandhiramugaa",
+        "Kattabaduchunnaanu - Yesupai  ||Seeyonulo||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సీయోను కట్టి మహిమతో - నా యేసు రానై యుండగా",
+        "పరిపూర్ణమైన పరిశుద్ధతతో",
+        "అతి త్వరలో ఎదుర్కొందును - నా యేసుని  ||సీయోనులో||"
+      ],
+      "english": [
+        "Seeyonu katti mahimatho - Naa Yesu raanai yundagaa",
+        "Paripoornamaina parishuddhathatho",
+        "Athi thvaralo edhurkondunu - Naa Yesuni  ||Seeyonulo||"
+      ]
+    }
+  ]
+}

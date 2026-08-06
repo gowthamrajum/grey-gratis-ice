@@ -1,0 +1,51 @@
+{
+  "song_name": "Dhivine Vidachina Raaraju",
+  "author": {
+    "Authored by": "Kiran D",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ధివినే విడచి భువికే వచ్చిన నా యేసయ్య",
+      "ఆ ధివికే నిన్ను నన్ను చేర్చగా జన్మించాడయ్యా"
+    ],
+    "english": [
+      "Dhivine vidachi bhuvike vachina naa yesayya",
+      "aa dhivike ninnu nannu cherchagaa janminchaadayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తూర్పు దిక్కు చుక్క మెరిసేలే",
+        "చిన్నారి ఏసు జాడ తెలిపెలే",
+        "బెత్లహేము సంతోషించే లే",
+        "రక్షకుండు యిల జన్మించెలే",
+        "బంగారు సాంబ్రాణి భోలంబు తెచ్చామే",
+        "మనసారా బాలయేసుని స్తుతియింప వచ్చామే",
+        "ఊరంతా సంబర మాయేలే"
+      ],
+      "english": [
+        "Thoorpu dhikku chukka merisele",
+        "chinaari yesu jaada thelipele",
+        "bethlahemu santhoshinchele",
+        "rakshakundu ila janminchele",
+        "bangaaru saambraani bholambu thechaame",
+        "manasaaraa baala yesuni sthuthiyimpa vachaame",
+        "ooranthaa sambara maayele"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రండి రండి పోదాము రారాజుని చూద్దాము",
+        "రండి రండి పోదాము తరియిద్దాము"
+      ],
+      "english": [
+        "Randi randi podhaamu raaraajuni choddaamu",
+        "randi randi podhaamu thariyiddhaamu"
+      ]
+    }
+  ]
+}

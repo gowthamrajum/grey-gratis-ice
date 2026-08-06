@@ -1,0 +1,44 @@
+{
+  "song_name": "Ontarini Nenu Ontarini",
+  "author": {
+    "Authored by": "John Libni Bathuka",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "వారిలో ఒంటరియైన వాడు వెయ్యిమందియగును, ఎన్నిక లేనివాడు బలమైన జనమగును..! - యెషయా 60 : 22 ఒంటరిని నేను ఒంటరిని ఓడిపోయి నేను ఒంటరినై ఓదార్పులేక ఓరిమిలేక మరణమే ఇక శరణం అనుచు అంతమవ్వాలని ఆశపడితి || ఒంటరిని ||"
+    ],
+    "english": [
+      "ontarini nenu ontarini odipoyi nenu ontarini odhaarpu leka orimi leka maraname ika saranam anuchu anthamavvaalani aasapadithey"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దావీదు వలె నేను శ్రమలనొందుచు నిందకు వేదనకు వేడుకనైతిని ఒంటరినై నేను నిను వెదకుచుండగా నీ వాక్యముచే నను ఆదరించి ఇదిగో నేను ఉన్నాను అని నీవు అభయము ఇచ్చితివి యేసు దేవా! || ఒంటరిని ||"
+      ],
+      "english": [
+        "daavidu valey nenu sramalanonduchu nindaku vedhanaku vedukanaithini ontarinai nenu ninu vedhakuchundagaa nee vaakyamuche nanu aadharinchi idigo nenu unnaanu ani neevu abhayamu ichithivi yesu deva"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తప్పిపోయిన తనయుని వలె నేను తండ్రికి దూరమై ఒంటరినైతిని తప్పు తెలిసి క్షమీయించుమని నీ చెంతకు నే చేరితి తండ్రి నీవు నన్ను కౌగిలించి క్షమియించిన ఓ కరుణామయుడా! || ఒంటరిని ||"
+      ],
+      "english": [
+        "thappipoyina thanayuni valey nenu thandriki dhooramai ontarinaithini thappu thelisi kshamiyinchumani nee chenthaku ne cherithi thandri neevu nannu kougilinchi kshamiyinchinaa oh karunaamayudaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యాకోబు వలె నేను భయముతో వణకుచు ఒంటరినై నీతో పోరాడుచుండగా పేరు పెట్టి పిలిచినా దేవా నీదు మోమును చూపించితివి భయపడక నీవు సాగిపొమ్మని దీవించితివి ఓ యేసు దేవా! || ఒంటరిని ||"
+      ],
+      "english": [
+        "yakobu valey nenu bhayamutho vanukuchu ontarinai neetho poraaduchundagaa peru petti pilichinaa devaa needhu momunu choopinchithivi bhayapadaka neevu saagipommani dheevinchithivi oh yesu deva"
+      ]
+    }
+  ]
+}

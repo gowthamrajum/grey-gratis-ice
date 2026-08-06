@@ -1,0 +1,63 @@
+{
+  "song_name": "Jeevaahaaramu Rammu Chirajeevaannamu Nichchi",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఏ  బి  మాసిలామణి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "జీవాహారము రమ్ము చిరజీవాన్నము నిచ్చి జీవిత క్షుద దీర్చుము",
+      "జీవనపథములో చీకటి పడువేళ జీర్ణించు కొనిపోవు జీవితాశలఁ బెంచ"
+    ],
+    "english": [
+      "Jeevaahaaramu Rammu Chirajeevaannamu Nichchi Jeevitha KShudha Dheerchumu",
+      "JeevanapaThamuloa Cheekati PaduvaeLa JeerNiMchu Konipoavu Jeevithaashala BeMcha"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "విందుగృహమునకేగి వీక్షింతు భ్రమతో నీ వివిధసుభోజ్యంబులన్",
+        "విచ్ఛిన్నమైన నీ విమల దేహపు విందు వికలంబౌ మనసుతో వినుతించి, తినుచుందు"
+      ],
+      "english": [
+        "ViMdhugruhamunakaegi VeekShiMthu Bhramathoa Nee ViviDhasubhoajyaMbulan",
+        "VichChinnamaina Nee Vimala Dhaehapu ViMdhu VikalaMbau Manasuthoa VinuthiMchi, ThinuchuMdhu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రుధిర ధారలలోన ఋజువౌ నీ ప్రేమలు రూపుమాయును పాపము",
+        "ఋతద్రాక్ష వల్లీ నీ రుధిరపానముచేత ఋణభారములు దీరి రుచి యించు నా బ్రతుకు"
+      ],
+      "english": [
+        "RuDhira Dhaaralaloana Rujuvau Nee Praemalu Roopumaayunu Paapamu",
+        "RuthadhraakSha Vallee Nee RuDhirapaanamuchaetha RuNabhaaramulu Dheeri Ruchi YiMchu Naa Brathuku"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "భవదీయ స్మరణార్థం పతితుల శరణార్థం ఫలియించు యీహోమము",
+        "ప్రభువా నాయాత్మలో ప్రతిబింబమై వెలసి పానార్పణంబౌను ప్రతిరక్త బిందువు"
+      ],
+      "english": [
+        "Bhavadheeya SmaraNaarThaM Pathithula SharaNaarThaM PhaliyiMchu Yeehoamamu",
+        "Prabhuvaa Naayaathmaloa PrathibiMbamai Velasi PaanaarpaNaMbaunu Prathiraktha BiMdhuvu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆత్మాంతఃపురములో ఆంతర్య గదిలోన ఆరాధించు నీ నామము",
+        "అలనాటి నీ రక్త నవనిబంధన నేడు అపురూపమై నాలో నవతరించును దేవా"
+      ],
+      "english": [
+        "AathmaaMthaHpuramuloa AaMtharya Gadhiloana AaraaDhiMchu Nee Naamamu",
+        "Alanaati Nee Raktha NavanibaMDhana Naedu Apuroopamai Naaloa NavathariMchunu Dhaevaa"
+      ]
+    }
+  ]
+}

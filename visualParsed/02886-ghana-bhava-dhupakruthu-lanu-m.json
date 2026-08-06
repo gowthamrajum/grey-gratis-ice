@@ -1,0 +1,55 @@
+{
+  "song_name": "Ghana bhava dhupakruthu lanu maatiki",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "మిక్కిలి నమూయేలు"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఘన భవ దుపకృతు లను మాటికి నే వినుతింతును దే నిజసుత",
+      "యొనరఁగ నాపై ననుక్రోశముఁదగ నునుపవే క్రైస్తవ జన విహిత||ఘన||"
+    ],
+    "english": [
+      "Ghana bhava dhupakruthu lanu maatiki ne vinuthinthunu dhe nijasutha",
+      "Yonaraga naapai nanukroshamudhaga nunupave Kraisthava jana vihitha||Ghana||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ధోరణిగా నా దోసము లెంచకు సారెకు నాశ్రిత జనవరదా",
+        "పారముఁదప్పిన పాతకు నగు నే నారడివడ నీ కది బిరుదా||ఘన||"
+      ],
+      "english": [
+        "Dhoranigaa naa dhosamu lenchaku saareku naashritha janavaradhaa",
+        "Paaramudhappina paathaku nagu ne naaradivada nee kadhi birudhaa||Ghana||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జలబుద్బుదముతో సమ మని నాస్థితి తెలియద నీకది దేహధరా",
+        "ఖలమయ మగు నీ కర్మినిఁబ్రోవను సిలువను బొందిన శ్రేయఃకరా||ఘన||"
+      ],
+      "english": [
+        "Jalabudhbudhamutho sama mani naasthithi theliyadha neekadhi dhehadharaa",
+        "Khalamaya magu nee karminibrovanu siluvanu bondhina shreyahkaraa||Ghana||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మందమతిని నా యందు నలక్ష్యము నొందకు దేవ సు నంద",
+        "నా యందముగా నా డెందము కడుఁదెలి వొందఁగ నీ దయ నందు మా  ||ఘన||"
+      ],
+      "english": [
+        "Mandhamathini naa yandu nalakshyamu nondhaku Deva su nandha",
+        "Naa yandhamugaa naa dhendhamu kadudheli vondhaga nee daya nandu maa  ||Ghana||"
+      ]
+    }
+  ]
+}

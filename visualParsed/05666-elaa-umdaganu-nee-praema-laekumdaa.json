@@ -1,0 +1,53 @@
+{
+  "song_name": "Elaa undaganu nee prema lekundaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎలా ఉండగను నీ ప్రేమ లేకుండా -",
+      "ఎలా ఉండగను నీ శాంతి లేకుండా",
+      "ఎలా నడువగను - ఎలా బ్రతుకగను",
+      "నీ తోడు నీడ లేకుండా"
+    ],
+    "english": [
+      "Elaa undaganu nee prema lekundaa -",
+      "Elaa undaganu nee shaanthi lekundaa",
+      "Elaa naduvaganu - Elaa brathukaganu",
+      "Nee thodu needa lekundaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ ప్రేమ వర్ణించ లేనిది నీ ప్రేమ వివరించ లేనిది",
+        "నీ ప్రేమ మరచి పోలేనిది నీ ప్రేమ విడిచి లేనిది  ||ఎలా||",
+        "1: శాశ్వత ప్రేమతో ప్రేమించావు కునుకక కాపాడి రక్షించావు",
+        "విడువక ఎడబాయక తోడున్నావు సర్వకాము నాతో వున్నావు",
+        "నీ ప్రేమ",
+        "2.శాశ్వత ప్రేమతో ప్రేమించావు కునుకక కాపాడి రక్షించావు",
+        "విడువక ఎడబాయక తోడున్నావు సర్వకాము నాతో వున్నావు",
+        "నీ ప్రేమ",
+        "3:పాపిని నన్ను ప్రేమించావు నా కొరకు నీ ప్రాణమిచ్చావు",
+        "రక్తము చిందించి విమోచించావు నీ సొత్తుగ నన్ను చేసుకున్నావు",
+        "నీ ప్రేమ"
+      ],
+      "english": [
+        "Nee prema varnincha lenidi nee prema vivarincha lenidi",
+        "Nee prema marachi polenidhi nee prema vidichi lenidi ||Elaa||",
+        "1: Shaashwatha prematho preminchaavu kunukaka kaapaadi rakshinchaavu",
+        "Viduvaka edabaayaka thodunnaavu sarvakaalamu naatho vunnaavu",
+        "Nee prema",
+        "2. Shaashwatha prematho preminchaavu kunukaka kaapaadi rakshinchaavu",
+        "Viduvaka edabaayaka thodunnaavu sarvakaalamu naatho vunnaavu",
+        "Nee prema",
+        "3: Paapini nannu preminchaavu naa koraku nee praanamichchaavu",
+        "Rakthamu chindinchi vimochinchaavu nee sotthuga nannu chesukunnaavu",
+        "Nee prema"
+      ]
+    }
+  ]
+}

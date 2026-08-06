@@ -1,0 +1,67 @@
+{
+  "song_name": "Ninnu thalachi nanu nenu marachi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిన్ను తలచి నను నేను మరచి",
+      "నీ సాక్షిగా ఇల నే బ్రతుకుచుంటిని (2)",
+      "యేసయ్యా.. నీ కృప లేక నే బ్రతుకలేను (2) ||నిను తలచి||"
+    ],
+    "english": [
+      "Ninnu thalachi nanu nenu marachi",
+      "Nee saakshigaa ila ne brathukuchuntini (2)",
+      "Yesayyaa.. nee krupa leka ne brathukalenu (2) ||Ninu thalachi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జీవము లేని దైవారాధనలో",
+        "నిర్జీవ క్రియలతో మృతుడనైతిని (2)",
+        "జీవాధిపతివై నా జీవితానికి",
+        "నిత్య జీవము నొసగిన యేసయ్యా (2) ||నిను తలచి||"
+      ],
+      "english": [
+        "Jeevamu leni dhaivaaraadhanalo",
+        "Nirjeeva kriyalatho mruthudanaithini (2)",
+        "Jeevaadhipathivai naa jeevithaaniki",
+        "Nithya jeevamu nosagina Yesayyaa (2) ||Ninu thalachi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దారే తెలియని కారు చీకటిలో",
+        "బ్రతుకే భారమై నలిగిపోతిని (2)",
+        "నీతి సూర్యుడా ఎదలో ఉదయించి",
+        "బ్రతుకే వెలుగుతో నింపిన యేసయ్యా (2) ||నిను తలచి||"
+      ],
+      "english": [
+        "Daare theliyani kaaru cheekatilo",
+        "Brathuke bhaaramai naligipothini (2)",
+        "Neethi sooryudaa edalo udhayinchi",
+        "Brathuke velugutho nimpina Yesayyaa (2) ||Ninu thalachi||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సద్గుణ శీలుడా సుగుణాలు చూచి",
+        "హృదిలో నేను మురిసిపోతిని (2)",
+        "సుగుణాలు చూచుటకే నీవు",
+        "సిలువలో నాకై నలిగిన యేసయ్యా (2) ||నిను తలచి||"
+      ],
+      "english": [
+        "Sadguna sheeludaa sugunaalu choochi",
+        "Hrudilo nenu murisipothini (2)",
+        "Sugunaalu choochutake neevu",
+        "Siluvalo naakai naligina Yesayyaa (2) ||Ninu thalachi||"
+      ]
+    }
+  ]
+}

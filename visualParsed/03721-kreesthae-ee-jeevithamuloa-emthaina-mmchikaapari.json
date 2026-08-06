@@ -1,0 +1,95 @@
+{
+  "song_name": "Kreesthe ee jeevithamulo enthaina manchikaapari",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "క్రీస్తే ఈ జీవితములో ఎంతైన మంచికాపరి",
+      "దుఃఖ సుఖంబులలో ఆయనే సహాయకుడు మనకు"
+    ],
+    "english": [
+      "Kreesthe ee jeevithamulo enthaina manchikaapari",
+      "Duhkha sukhambulalo aayane sahaayakudu manaku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కష్టబాధలలో మన ప్రభువు",
+        "నమీపముగా నుండెనెంతో",
+        "గాలితుఫానులను గద్దించుచు",
+        "మనతో నుండు యాత్రలో"
+      ],
+      "english": [
+        "Kashtabaadhalalo mana Prabhuvu",
+        "Sameepamugaa nundenentho",
+        "Gaalithuphaanulanu gaddhinchuchu",
+        "Manatho nundu yaathralo"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇహలోక సాగరము దాటునప్పుడు",
+        "అలలెంతో మనలను కదిలింపగా",
+        "మునుగు నప్పుడు మొరపెట్టిన",
+        "మనల రక్షంచు తానే"
+      ],
+      "english": [
+        "Ihaloka saagaramu daatunappudu",
+        "Alalentho manalanu kadhilimpagaa",
+        "Munugu nappudu morapettina",
+        "Manala rakshinchu thaane"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "జీవిత నావపై దాడి చేసే",
+        "సాతాను క్రియలకు భయపడక",
+        "ధైర్యము కొరకై ప్రార్థించిన",
+        "ప్రభువే మనల నడుపున్"
+      ],
+      "english": [
+        "Jeevitha naavapai daadi chese",
+        "Saathaanu kriyalaku bhayapadaka",
+        "Dhairyamu korakai praarthinchina",
+        "Prabhuve manala nadupun"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "జీవితములో నిరాశచే",
+        "కృంగిపోయి మనమున్నప్పుడు",
+        "విజయము నిచ్చి బలపరచి",
+        "జీవకిరీట మిచ్చును"
+      ],
+      "english": [
+        "Jeevithamulo niraashache",
+        "Krungipoyi manamunnappudu",
+        "Vijayamu nichchi balaparachi",
+        "Jeevakireeta michchunu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యేసు ప్రభువే మన దుర్గము",
+        "ఆయన యందే నిలిచినచో",
+        "నిశ్చయముగ జయింతుము",
+        "ఓడిపోవును శత్రువు"
+      ],
+      "english": [
+        "Yesu Prabhuve mana durgamu",
+        "Aayana yande nilichinacho",
+        "Nishchayamuga jayinthumu",
+        "Odipovunu shathruvu"
+      ]
+    }
+  ]
+}

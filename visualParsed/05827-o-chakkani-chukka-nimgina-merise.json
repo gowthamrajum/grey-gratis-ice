@@ -1,0 +1,71 @@
+{
+  "song_name": "O chakkani chukka ningina merise",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ.....ఓ...... చక్కనిచుక్క నింగిన మెరిసే",
+      "చల్లనికాంతులు నేలను విరిసే",
+      "లోకా రక్షకుడు పుట్టే ఓయమ్మో",
+      "రాజాధి రాజు ఇలా పుట్టినాడు.",
+      "లోకనేరాజు పుట్టినాడు ॥చక్కని॥"
+    ],
+    "english": [
+      "O.....o...... chakkanichukka ningina merise",
+      "Challanikaanthulu nelanu virise",
+      "Lokaa rakshakudu putte oyammo",
+      "Raajaadhi raaju ilaa puttinaadu.",
+      "Lokaneraaju puttinaadu ॥Chakkani॥"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దూతగానము చేయాగా",
+        "గొల్లలుఆరాధించిరి ॥2॥",
+        "జ్ఞానులు వచ్చి యేసుని చూసి ॥2॥",
+        "కనుకాలిచిపూజించిరి ॥చక్కని॥"
+      ],
+      "english": [
+        "Dhoothagaanamu cheyagaa",
+        "Gollalu aaraadhinchiri ॥2॥",
+        "Gnaanulu vachchi Yesuni choosi ॥2॥",
+        "Kaanukalichchi poojinchiri ॥Chakkani॥"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రేమ శాంతి సమాధానం",
+        "జగతికి ఇవాగా ఏతెంచే ॥2॥",
+        "జనులార రండి యేసుని చుడా ॥2॥"
+      ],
+      "english": [
+        "Prema shaanthi samaadhaanam",
+        "Jagathiki ivvagaa ethenche ॥2॥",
+        "Janulaara randi Yesuni choodaa ॥2॥"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరుగెడి రండి పూజింపగా",
+        "పరమును మనకు తేచాడు",
+        "వారములు ఏనో ఇస్తాడు ॥2॥",
+        "ప్రభువుని నమ్మి చెంతకు చేరి ॥2॥",
+        "రక్షణ పొంది ధన్యులగుడి ॥చక్కని॥"
+      ],
+      "english": [
+        "Parugedi randi poojimpagaa",
+        "Paramunu manaku thechaadu",
+        "Varamulu enno isthaadu ॥2॥",
+        "Prabhuvuni nammi chenthaku cheri ॥2॥",
+        "Rakshana pondi dhanyulagudi ॥Chakkani॥"
+      ]
+    }
+  ]
+}

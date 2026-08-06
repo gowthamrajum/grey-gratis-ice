@@ -1,0 +1,871 @@
+wtc_id,title_en,title_te,english,telugu_chars,english_chars,telugu_stanzas,english_stanzas,author,library_status,url
+4,andhaala thaara arudenche naaki,అందాల తార అరుదెన్ఛె నాకై,none,785,0,3,0,A B  Masilamani,in_library_contained,https://waytochurch.com/lyrics/song/4
+5,aparaadini yesaiah,అపరాదిని యేసయ్యా,none,624,0,5,0,,in_library_exact,https://waytochurch.com/lyrics/song/5
+6,aadedhan paadehan,ఆడెదన్ పాడెదన్,partial,1063,603,2,0,,missing,https://waytochurch.com/lyrics/song/6
+7,athyunatha simhasanamu pai,అత్యునత సింహాసనము పై,none,630,0,4,0,,in_library_contained,https://waytochurch.com/lyrics/song/7
+8,anni namamula kanna pai namamu,అన్ని నమముల కన్న పై నమము,none,977,0,3,0,,in_library_lyric_line,https://waytochurch.com/lyrics/song/8
+9,aaradhinchedan ninnu naa yesaiah,"ఆరాధించెదను నిన్ను, నా యేసయ్య",none,534,0,2,0,,in_library_contained,https://waytochurch.com/lyrics/song/9
+21,alayamlo pravesinchandi andharu,ఆలయంలో ప్రవేశించండి అందరూ,none,498,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/21
+22,ascharya mina prema,ఆశ్చర్యమైన ప్రేమ కల్వరిలోని ప్రేమ,none,560,0,4,0,,in_library_exact,https://waytochurch.com/lyrics/song/22
+23,aaha mahaanandame,ఆహా మహానందమే ఇహ పరంబులన్,none,545,0,3,0,,missing,https://waytochurch.com/lyrics/song/23
+24,idi kothaku samayam,ఇది కోతకు సమయం పనివారి తరుణం ప్రార్ధన చేయుదమా,none,365,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/24
+25,udhayakanthi rekalo,ఉదయ కాంతి రేఖలో బెత్లెహేము పురమున,none,417,0,2,0,,missing,https://waytochurch.com/lyrics/song/25
+26,unnanthamyna prema dm,ఉన్నతమైన ప్రేమ అత్యున్నతమైన ప్రేమ,none,478,0,2,0,,missing,https://waytochurch.com/lyrics/song/26
+27,unnathamyna sthalamulalo cm,ఉన్నతమైన స్థలములలో ఉన్నతుడా మా దేవా,none,744,0,3,0,,missing,https://waytochurch.com/lyrics/song/27
+28,oohala kandhani lokamulo,ఊహల కందని లోకములో ఉన్నత సింహాసనమందు,none,376,0,2,0,,missing,https://waytochurch.com/lyrics/song/28
+30,enni thalachina,ఎన్ని తలచినా ఏది అడిగినా జరిగేది నీ చిత్తమే,none,979,0,3,0,,in_library_contained,https://waytochurch.com/lyrics/song/30
+31,oka saari aalochinchava,ఒకసారి ఆలోచించవా ఓ సోదరా,none,478,0,3,0,,missing,https://waytochurch.com/lyrics/song/31
+32,o neethi suryuda,ఓ నీతి సూర్యుడా క్రీస్తేసు నాథుడా,none,397,0,2,0,,missing,https://waytochurch.com/lyrics/song/32
+33,o yesu divya prema,ఓ యేసు నీ దివ్య ప్రేమ వివరింప నాకు తరమా,none,307,0,2,0,,missing,https://waytochurch.com/lyrics/song/33
+34,oranna oranna,ఓరన్న ఓరన్న యేసుకు సాటివేరే లేరన్న లేరన్న,none,646,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/34
+35,kanumaa siluva pai,కనుమా సిలువపై క్రీస్తేసుడు పొందిన శ్రమలు,none,703,0,2,0,,missing,https://waytochurch.com/lyrics/song/35
+36,kaluvari girilona,కల్వరిగిరిలోన సిల్వలో శ్రీయేసు పలు బాధలొందెను,none,276,0,2,0,,in_library_contained,https://waytochurch.com/lyrics/song/36
+37,kaluvari giri siluvalo,కలువరి గిరి సిలువలో పలు శ్రమలు పొందిన దైవమా,none,729,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/37
+38,halleluaya ani paduuchu,హల్లెలుయా అని పాడుచు క్రుపామయా నీకు స్తోత్రము,none,463,0,2,0,,missing,https://waytochurch.com/lyrics/song/38
+39,kristhu nedu lechenu,క్రీస్తు నేడు లేచెను ఆ ఆ ఆ హల్లెలూయ,none,548,0,4,0,,missing,https://waytochurch.com/lyrics/song/39
+42,gesthemane thota,గెత్సేమనే తోటలో ప్రార్ధింప నేర్పితివా,none,348,0,2,0,,missing,https://waytochurch.com/lyrics/song/42
+43,chirakaala snehithudaa,చిరకాల స్నేహితుడా నా హృదయాన సన్నిహితుడా,none,569,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/43
+44,jayamu kristhu jaya jaya livigo,జయము క్రీస్తూ జయ జయ లివిగో,none,480,0,2,0,,missing,https://waytochurch.com/lyrics/song/44
+45,jayahe jayahe,జయహే జయహే జయహే జయహే జయ జయ దేవ సుథ,none,828,0,3,0,,missing,https://waytochurch.com/lyrics/song/45
+46,jeeva nadhini,జీవనదిని నా హృదయములో ప్రవహింప చేయుమయా,none,224,0,0,0,,in_library_contained,https://waytochurch.com/lyrics/song/46
+47,dhevuni vaarasulam,దేవుని వారసులం ప్రేమ నివాసులము,none,488,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/47
+48,divam prema swaroopam,దైవం ప్రేమ స్వరూపం ప్రేమకు భాష్యం శ్రీయేసుడే – అవనిలో,none,578,0,2,0,,missing,https://waytochurch.com/lyrics/song/48
+49,nannethagano preminchinaavu,నన్నెంతగానో ప్రేమించెను నన్నెంతగానో కరుణించెను,none,650,0,4,0,,in_library_exact,https://waytochurch.com/lyrics/song/49
+50,naa pere theliyani,నా పేరే తెలియని ప్రజలు ఎందరో ఉన్నారు,none,440,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/50
+51,naa yesu raju,నా యేసు రాజుతో నేను సాగి పోదును,none,979,0,3,0,,missing,https://waytochurch.com/lyrics/song/51
+52,nine preminthunu,నిన్నే ప్రేమింతును నిన్నే ప్రేమింతును యేసు,none,683,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/52
+53,nithyudyna dhevuni thodu o,నిత్యుడైన దేవుని తోడు నీడ నీపై ఉడును,none,361,0,3,0,,missing,https://waytochurch.com/lyrics/song/53
+54,neeti yuta yodha,నీటి యూట యొద్ద నాట బడితిమి వేరుతన్ని ఎదిగి ఫలియింతుము,none,413,0,3,0,,missing,https://waytochurch.com/lyrics/song/54
+55,neeti vaagula koraku,నీటి వాగుల కొరకు దుప్పి ఆశించునట్లు,none,528,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/55
+56,neevu nirminchina dhevalayamulo,నీవు నిర్మించిన దేవాలయములో నీతో జత పనివారము,none,606,0,3,0,,missing,https://waytochurch.com/lyrics/song/56
+57,nee swaramu vinipinchu,నీ స్వరము వినిపించు ప్రభువా నీ దాసుడాలకించున్,none,536,0,4,0,,in_library_exact,https://waytochurch.com/lyrics/song/57
+58,neelakasamlona nigikegasina thaara,నీలాకాశంలోన నింగికెగసె తార,none,458,0,2,0,,missing,https://waytochurch.com/lyrics/song/58
+59,nee siluvalone naa mukthi,నీ శిలువలోనే నా ముక్తీ నీ నీడలోనే నా జీవితం,none,563,0,2,0,,missing,https://waytochurch.com/lyrics/song/59
+61,nenu papino prabhuva,నే పాపినో ప్రభువా నను కావుమా దేవా,none,361,0,2,0,,missing,https://waytochurch.com/lyrics/song/61
+62,parama jeevamu naaku,పరమ జీవము నాకు నివ్వ తిరిగి లేచెను నాతో నుండ,none,519,0,4,0,,in_library_exact,https://waytochurch.com/lyrics/song/62
+63,parama pavanuda mariya,పరమ పావనుడు మరియ తనయుడు అవతరించెనే శుభ దినాన,none,397,0,2,0,,missing,https://waytochurch.com/lyrics/song/63
+64,prabhuva ni karyamulu ab,ప్రభువా నీ కార్యములు ఆశ్చర్య కరమైనవి,none,784,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/64
+65,padedhamu vededhamu cm,పాడెదము వేడెదము యేసు నామము,none,323,0,3,0,,missing,https://waytochurch.com/lyrics/song/65
+66,pradhana vinedi pavanuda,ప్రార్ధన వినెడి పావనుడా ప్రార్ధన మాకు నేర్పుమయా,none,538,0,4,0,,missing,https://waytochurch.com/lyrics/song/66
+68,mahodayam subhodayam,మహోదయం శుభోదయం సర్వలోకాని కరుణోదయం,none,394,0,2,0,,missing,https://waytochurch.com/lyrics/song/68
+69,maranamu gelichina mana prabhuvu,మరణము గెలిచెను మన ప్రభువు – మనుజాళి రక్షణ కోసమూ,none,520,0,1,0,,in_library_exact,https://waytochurch.com/lyrics/song/69
+70,mandhalo cherani gorrelenno,మందలో చేరని గొర్రెలెన్నో కోట్ల కొలదిగా కలవు యిల,none,449,0,3,0,,missing,https://waytochurch.com/lyrics/song/70
+71,yehova na kapari,యెహోవ నా కాపరి యెహోవ నా ఊపిరి నాకు లేమి ఏమి,none,427,0,3,0,,missing,https://waytochurch.com/lyrics/song/71
+72,yehova ni namamu,యెహోవా నీ నామము ఎంతో బలమైనది,none,500,0,4,0,,in_library_exact,https://waytochurch.com/lyrics/song/72
+73,yesu rakthamu rakthamu,యేసు రక్తము రక్తము రక్తము యేసు రక్తము రక్తము రక్తము,none,1088,0,3,0,,missing,https://waytochurch.com/lyrics/song/73
+74,yehova dhayaludu,యెహోవా దయాళుడు,none,431,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/74
+75,yesu ni krupalo,యేసు నీ క్రుపలో మము కాపాడుము దేవా,none,420,0,2,0,,missing,https://waytochurch.com/lyrics/song/75
+76,randeho vinarandeho,రండహో వినరండహో శుభ వార్త ఒకటి వినిపించెదం,none,543,0,3,0,,missing,https://waytochurch.com/lyrics/song/76
+77,randi yehova,రండి యెహోవాను గూర్చి ఉత్సాహగానము చేయుదము,none,459,0,3,0,,in_library_fuzzy,https://waytochurch.com/lyrics/song/77
+78,rakada samayamulo,రాకడ సమయములో కడబూర శబ్దంలో,none,290,0,2,0,,missing,https://waytochurch.com/lyrics/song/78
+79,ruchi choochi yerigithini,రుచి చూచి ఎరిగితిని యెహోవా ఉత్తముడనియు,none,462,0,4,0,,in_library_exact,https://waytochurch.com/lyrics/song/79
+80,lekhaleni chukalenno,లెక్కలేని చుక్కలెన్నో చక్కగా వెలుగుచుండ,none,721,0,3,0,,missing,https://waytochurch.com/lyrics/song/80
+81,lekhimpaleni sthotramul,లెక్కింపలేని స్తోత్రముల్ దేవా ఎల్లప్పుడు నే పాడెదన్,none,416,0,3,0,,missing,https://waytochurch.com/lyrics/song/81
+82,vijaya gosha vinipinchenu,విజయ ఘోష వినిపించెను విశ్వమంత గళము లెత్తి వినిపించర స్తోత్ర గీతముల్,none,1211,0,2,0,,missing,https://waytochurch.com/lyrics/song/82
+83,vimochakudu mana prabhu,విమోచకుడు మన యేసు ప్రభువు అవతరించిన శుభ దినమే,none,530,0,2,0,,missing,https://waytochurch.com/lyrics/song/83
+84,sadaa kalamu neetho nenu,సదా కాలము నీతో నేను జీవించెదను యేసయ్యా,none,846,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/84
+85,samipincha rani tejassulo,సమీపించరాని తెజేస్సులోనీవు వశియించువాడవయా,none,465,0,0,0,,in_library_fuzzy,https://waytochurch.com/lyrics/song/85
+86,sarvakrupa nidi yagu prabhuva,సర్వకృపానిధియగు ప్రభువా సకల చరాచర సంతోషమా,none,420,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/86
+87,sagipodhunu nenu aagi ponu nenu,సాగి పోదును ఆగి పోను నేను,none,498,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/87
+88,silvalo naakai karchenu,సిల్వలో నాకై కార్చెను యేసు రక్తము,none,751,0,4,0,,in_library_exact,https://waytochurch.com/lyrics/song/88
+89,siluva yende needhu prema,సిలువయందె నీదు ప్రేమ తెలిసికొంటినో ప్రభు,none,245,0,2,0,,missing,https://waytochurch.com/lyrics/song/89
+90,srusti kartha yesuni sthutinchedamu,సృష్టికర్త యేసుని స్తుతించెదము సర్వసృష్టియు ప్రభు క్రియలే,none,527,0,3,0,,missing,https://waytochurch.com/lyrics/song/90
+91,srustipitha sarvonatha,సృష్టి పితా సర్వో న్నతా సమర్పింతున్ సర్వస్వమున్,none,413,0,4,0,,missing,https://waytochurch.com/lyrics/song/91
+92,stotram chellinthumu,స్తోత్రం చెల్లింతుము స్తుతి స్తోత్రం చెల్లింతుము,none,631,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/92
+93,sri yesu geethi paadana,శ్రీ యేసు గీతి పాడవా ఆ సిల్వ ప్రేమ చాటవా,none,355,0,2,0,,missing,https://waytochurch.com/lyrics/song/93
+94,halleluya stuti mahima,హల్లెలూయ స్తుతి మహిమ ఎల్లప్పుడు దేవుని కిచ్చెదము,none,347,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/94
+95,halleluya yesu prabhun,హల్లెలూయ యేసు ప్రభున్ ఎల్లరు స్తుతియించుడి,none,946,0,5,0,,in_library_exact,https://waytochurch.com/lyrics/song/95
+96,halleluya padedha prabhu ninu koniyadedhan fm,హల్లేలూయ పాడెద ప్రభు నిన్ను కొనియాడెదన్,none,544,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/96
+107,ayane na sangeetham,ఆయెనె నా సంగీతము బలమైన కోటయును,none,477,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/107
+108,abrahamu devuda,అబ్రహాము దేవుడవు ఇస్సాకు దేవుడవు,none,644,0,3,0,,missing,https://waytochurch.com/lyrics/song/108
+109,aaradhana adhika stotram,ఆరాధన అధిక స్తోత్రము నా యేసుకే నేనర్పింతును,none,306,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/109
+110,చాటించుడి మనుష్య జాతి కేసు నామము చాటించుడి యవశ్య యేసు ప్రేమ సారము,చాటించుడి మనుష్య జాతి కేసు నామము చాటించుడి యవశ్య యేసు ప్రేమ సారము,none,481,0,2,0,,in_library_fuzzy,https://waytochurch.com/lyrics/song/110
+111,chintha ledika yesu puttenu,చింత లేదిక యేసు పుట్టెను,none,552,0,4,0,,in_library_exact,https://waytochurch.com/lyrics/song/111
+112,chudumu gesthemane,చూడుము గెత్సెమనె తోటలో నా ప్రియుడు,none,691,0,6,0,,missing,https://waytochurch.com/lyrics/song/112
+113,deva mahonnathuda,దేవా మహోన్నతుడా మహిమా ప్రకాశితుడా,none,314,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/113
+114,deva nee yavaranam,దేవా నీ యావరణం మాకెంతో శ్రేయస్కరం,none,665,0,3,0,,missing,https://waytochurch.com/lyrics/song/114
+115,deva samsthuthi cheyave manasa,దేవ సంస్తుతి చేయవే మనసా శ్రీమంతుడగు యెహోవ సంస్తుతి,none,1688,0,11,0,,in_library_contained,https://waytochurch.com/lyrics/song/115
+116,dhevara nee dheevenalu,దేవర నీ దీవెనలు ధారళముగను వీరలపై,none,925,0,8,0,,in_library_exact,https://waytochurch.com/lyrics/song/116
+117,dhevuni sthuthiyinchudi ellapudu,దేవుని స్తుతియించుడి యెల్లాప్పుడు దేవుని స్తతియించుడి ఆ,none,1008,0,9,0,,missing,https://waytochurch.com/lyrics/song/117
+118,dhevuni upakarambulalona,దేవుని ఉపకారంబులలోన దేనిని మరువకుము,none,414,0,3,0,,missing,https://waytochurch.com/lyrics/song/118
+119,dhevuni yandhu nireekshana,దేవుని యందు నిరీక్షణనుంచి ఆయనను స్తుతించు నా ప్రాణమా,none,773,0,7,0,,in_library_exact,https://waytochurch.com/lyrics/song/119
+120,dhevuniki stotramu ganamu cheyutaye,దేవునికి స్తోత్రము గానము చేయుటయే మంచిది,none,574,0,5,0,,in_library_exact,https://waytochurch.com/lyrics/song/120
+121,dhootha paata paadudi,దూత పాట పాడుడి రక్షకున్ స్తుతించుడి ఆ ప్రభుండు,none,547,0,3,0,,in_library_contained,https://waytochurch.com/lyrics/song/121
+122,goppa dhevudavani shakthi,గొప్పా దేవుడవని శక్తి సంపన్నుడని గలమెత్తి నిన్ను నేను గాణమాడెదన్,none,534,0,2,0,,in_library_fuzzy,https://waytochurch.com/lyrics/song/122
+123,halleluya ani paadi sthuthimpanu,హల్లెలూయ యని పాడి స్తుతింపను రారె జనులారా మనసారా ఊరూర,none,691,0,4,0,,in_library_exact,https://waytochurch.com/lyrics/song/123
+124,halleluya paata yesaiah paata,హల్లేలూయ పాట యెసయ్య పాట,none,310,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/124
+125,idhigo dheva naa jeevitham,ఇదిగో దేవా నా జీవితం ఆపాద మస్తకం నీకంకితం,none,703,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/125
+127,kanna thalli cherchunatlu,కన్నతల్లి చేర్చునట్లు నన్ను చేర్చు నా ప్రియుడు,none,310,0,4,0,,in_library_exact,https://waytochurch.com/lyrics/song/127
+128,kristhulo jeevinchu naaku,క్రీస్తులో జీవించు నాకు ఎల్లాప్పుడు జయముండును,none,440,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/128
+129,krotha yedu modalu bettenu,క్రొత్త యెడు మొదలు బెట్టెను మన బ్రతుకు నందు క్రొత్త యెడు,none,975,0,5,0,,in_library_contained,https://waytochurch.com/lyrics/song/129
+130,krupa sathya sampurnuda,కృపా సత్యా సంపూర్ణుడా,none,531,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/130
+131,krupalanu thalanchuchu,కృపలను తలంచుచు ఆయుష్కాలమంతా ప్రభుని కృతజ్ఞతతో స్తుతింతున్,none,611,0,5,0,,in_library_contained,https://waytochurch.com/lyrics/song/131
+132,krupamayuda neelona,కృపామయుడా నీలోనా నివసింప జేసినందునా,none,564,0,4,0,Bro  Yesanna,in_library_exact,https://waytochurch.com/lyrics/song/132
+133,kummari o kummari,కుమ్మరి ఓ కుమ్మరి జగదుత్పత్తిధారి,none,354,0,3,0,,missing,https://waytochurch.com/lyrics/song/133
+134,kuthuhala marbhatame,కుతూహల మార్భాటమే నా యేసుని సన్నిధిలో,none,560,0,4,0,,missing,https://waytochurch.com/lyrics/song/134
+135,maa oohalu puttaka munupe,మా ఊహలు పుట్టక మునుపే మా సర్వమునెరిగిన దేవ,none,572,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/135
+136,mahima neeke prabhu,మహిమ నీకె ప్రభూ ఘనత నీకె ప్రభూ స్తుతీ ఘనత మహిమయు,none,647,0,0,0,,missing,https://waytochurch.com/lyrics/song/136
+137,mahonnathuda ni krupalo,మహోన్నతుడా నీ కృపలో నేను నివసించుట నా జీవిత ధన్యతైయున్నది,none,401,0,3,0,Bro  Yesanna,in_library_contained,https://waytochurch.com/lyrics/song/137
+138,mangalame yesunaku x,మంగళమే యేసునకు మనుజావతారునకు,none,498,0,4,0,,in_library_exact,https://waytochurch.com/lyrics/song/138
+139,manulu manikyamulunna,మణులు మాణిక్యములున్న మేడమిద్దెలు ఎన్నున్నా,none,527,0,3,0,,missing,https://waytochurch.com/lyrics/song/139
+140,naa jeevitha yatralo,నా జీవిత యాత్రలో ప్రభువా నీ పాదమే శరణం,none,417,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/140
+141,naa prana priyuda,నా ప్రాణ ప్రియుడా యేసు రాజా అర్పింతును నా హృదయార్పణ,none,628,0,4,0,,in_library_exact,https://waytochurch.com/lyrics/song/141
+142,naa sthuthi paathruda,నా స్తుతి పాత్రుడా నా యెసయ్యా నా ఆరాధనకు,none,395,0,3,0,Bro  Yesanna,in_library_contained,https://waytochurch.com/lyrics/song/142
+143,nadipinchu na naava,నడిపించు నా నావ నడి సంద్రమున దేవా,none,1115,0,6,0,A B  Masilamani,in_library_exact,https://waytochurch.com/lyrics/song/143
+144,ne saagedha yesunitho,నే సాగెద యేసునితో నా జీవిత కాలమంత,none,574,0,5,0,,in_library_exact,https://waytochurch.com/lyrics/song/144
+145,nedo repo naa priyudesu,నేడో రేపో నా ప్రియుడేసు మేఘాల మీద ఏతెంచును,none,495,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/145
+146,nee chethitho nannu pattuko,నీ చేతితో నన్ను పట్టుకో నీఆత్మతో నన్ను నడుపు,none,421,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/146
+147,nee rakthame,నీ రక్తమే నీ రక్తమేనన్ శుద్ధీకరించున్ నీ రక్తమే నా బలము,none,691,0,5,0,,in_library_exact,https://waytochurch.com/lyrics/song/147
+148,neeve naa dhevudavu,నీవే నా దేవుడవు ఆరాధింతను,none,308,0,0,0,Bro  Kripal Mohan,in_library_exact,https://waytochurch.com/lyrics/song/148
+150,neevu chesina upakaaramulaku,నీవు చేసిన ఉపకారములకు నేనేమి చెల్లింతును,none,584,0,4,0,,in_library_exact,https://waytochurch.com/lyrics/song/150
+151,nuthana geethamu paadedhanu,నూతన గీతము పాడెదను నా ప్రియుడేసునిలో,none,489,0,3,0,,missing,https://waytochurch.com/lyrics/song/151
+152,o prabhuva neeve,ఓ ప్రభువా ఓ ప్రభువా నీవే నా మంచి కాపరివి నీవే నా మంచి కాపరివి,none,323,0,2,0,,missing,https://waytochurch.com/lyrics/song/152
+153,o sadbhakthulara,ఓ సద్భక్తులారా లోక రక్షకుండు బెత్లె్హేమందు నేడు,none,601,0,4,0,,in_library_contained,https://waytochurch.com/lyrics/song/153
+154,prabhuva neelo jeevinchuta ab,ప్రభువా నీలో జీవించుట కృపా బాహుళ్యమే నా యెడ కృపాబాహుళ్యమే,partial,512,631,4,3,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/154
+155,pradhana yesuni sandharshana,ప్రార్ధన యేసుని సందర్శన పరమ తండ్రితో సంభాషణ,none,848,0,7,0,,in_library_exact,https://waytochurch.com/lyrics/song/155
+156,prema yesuni prema,ప్రేమ యేసుని ప్రేమ అది ఎవ్వరు కొలువలేనిది,none,610,0,4,0,,in_library_exact,https://waytochurch.com/lyrics/song/156
+157,rakshakundudhayinchi nadata,రక్షకుండుదయించి నాడట మన కొరకు బరమ రక్షకుండుదయించి,none,673,0,5,0,,missing,https://waytochurch.com/lyrics/song/157
+158,randi yuchahinchi paadudhamu,రండి యుత్చాహించి పాడుదము రక్షణదుర్గము మన ప్రభువే,none,604,0,5,0,,missing,https://waytochurch.com/lyrics/song/158
+159,saswathaa mynadhi neevu naayada,శాశ్వాతామైనదీ నీవు నా యెడ చూపినా కృప,none,525,0,4,0,,in_library_exact,https://waytochurch.com/lyrics/song/159
+160,siluva chentha cherina nade,సిలువ చెంత చేరిననాడు కలుషములను కడిగివేయు,none,542,0,4,0,,in_library_contained,https://waytochurch.com/lyrics/song/160
+161,stothra rupamagu krotha,స్తోత్రరూపమగు క్రొత్త గీతంబులన్ నా నోటనుంచెను నా యేసయ్యా,none,698,0,4,0,,missing,https://waytochurch.com/lyrics/song/161
+162,sthuthi yagamu na yesuke,స్తుతి యాగము నా యేసుకే అర్పించెదను ఎల్లప్పుడు,none,661,0,5,0,,missing,https://waytochurch.com/lyrics/song/162
+163,sthuthinchedanu stuthinchedanu,స్తుతించెదనుస్తుతించెదనూ,none,870,0,5,0,,in_library_exact,https://waytochurch.com/lyrics/song/163
+164,sthuthincheda nee namam,స్తుతియించెదా నీ నామం దేవా అనుదినం,none,351,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/164
+165,వందనం బొనర్తుమో ప్రభో ప్రభో,వందనం బొనర్తుమో ప్రభో ప్రభో,none,757,0,5,0,,in_library_exact,https://waytochurch.com/lyrics/song/165
+166,viswasa vanithalamu,విశ్వాస వనితలము ప్రభు యేసు ముద్రికలం,none,605,0,2,0,,missing,https://waytochurch.com/lyrics/song/166
+167,yehova naa moralalinchenu,యెహోవా నా మొర లాలించను దన మహా దయనుననుగణీంచెను,none,755,0,5,0,,in_library_exact,https://waytochurch.com/lyrics/song/167
+168,yehova ye naa kaapariga,యెహోవాయే నా కాపరిగా నాకేమి కొదువగునూ,none,503,0,4,0,,in_library_exact,https://waytochurch.com/lyrics/song/168
+169,yese na parihaari,యేసే నా పరిహారి ప్రియ యేసే నా పరిహారి,none,683,0,5,0,,in_library_exact,https://waytochurch.com/lyrics/song/169
+170,yesu rajula rajai,యేసు రాజు రాజుల రాజై త్వరగా వచ్చుచుండె త్వరగ,none,439,0,3,0,,in_library_contained,https://waytochurch.com/lyrics/song/170
+171,yesutho teeviganu podama,యేసుతో ఠీవిగాను అడ్డుగా వచ్చువైరి గెల్వను,none,631,0,4,0,,missing,https://waytochurch.com/lyrics/song/171
+172,yogyudavo yogyudavo,యోగ్యుడవో యోగ్యుడవో యేసు ప్రభో నీవె యోగ్యుడవో,none,507,0,3,0,"Bro  Raj , micheal paul",missing,https://waytochurch.com/lyrics/song/172
+173,kaneerelamma karuninchu yesu ninu,కన్నీరేలమ్మ కరుణించు యేసు నిన్ను విడువబోడమ్మా,none,482,0,1,0,,in_library_exact,https://waytochurch.com/lyrics/song/173
+272,bangaram adugaledu vajraalani adugaledu,బంగారం అడుగలేదు వజ్రాల్ని అడుగలేదు,partial,738,680,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/272
+309,ascharyakarudu alochanakartha nithyudagu thandri,ఆశ్చర్యకరుడు ఆలోచనకర్త,none,687,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/309
+310,shudhudu ghanudu rakshakudu,శుద్ధుడ ఘనుడ రక్షకుడ,none,295,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/310
+311,bethlehemulo sandhadi,బేత్లెహేములో సందడి పశుల పాకలో సందడి,none,427,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/311
+312,dheva ni namam entho balamynadhi,దేవ నీ నామం ఎంతో బలమైనది,none,371,0,0,0,,missing,https://waytochurch.com/lyrics/song/312
+314,emmanuelu rakthamu,ఇమ్మానుయేలు రక్తము ఇంపైన యూటగు,none,533,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/314
+315,naa jeevitha kalamantha,నా జీవిత కాలమంత,none,630,0,0,0,,missing,https://waytochurch.com/lyrics/song/315
+316,naa thandri neeve,నా తండ్రి నీవే నా దేవుడవు నీవే,none,687,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/316
+317,neeve naa oopiri,నీవే నా ఊపిరి,none,218,0,0,0,,missing,https://waytochurch.com/lyrics/song/317
+319,yesuni roopamloniki maaripovaali,యేసుని రూపం లోనికి మారాలి,none,563,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/319
+321,సృష్టికర్త యేసు దేవ సర్వలోకం నీమాట వినునూ,సృష్టికర్త యేసు దేవ సర్వలోకం నీమాట వినునూ,none,528,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/321
+324,srustikarthavyna yehova,సృష్టి కర్తవైన యెహోవా,none,575,0,2,0,Bro  Yesanna,in_library_exact,https://waytochurch.com/lyrics/song/324
+325,velpulalo bahu ghanudu,వేల్పులలో బహు ఘనుడా యేసయ్యా,none,694,0,3,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/325
+326,jeevinchuchunnadhi nenu khadhu,జీవించుచున్నది నేను కాదు,none,450,0,3,0,Bro  Yesanna,in_library_contained,https://waytochurch.com/lyrics/song/326
+327,neethi nayamulu jariginchu naa yesaiah,నీతి న్యాయములు జరిగించు నా యేసయ్యా,none,602,0,3,0,Bro  Yesanna,in_library_exact,https://waytochurch.com/lyrics/song/327
+328,dheva ni krupa nirantharam,దేవా నీ కృప నిరంతరం మారనిదెపుడు నా ప్రభువా,none,568,0,3,0,,missing,https://waytochurch.com/lyrics/song/328
+329,sariraarevaru naa priyudyna yesayaku,సరిరారెవ్వరూ నా ప్రియుడైన యేసయ్యకు,none,739,0,1,0,Bro  Yesanna,in_library_exact,https://waytochurch.com/lyrics/song/329
+330,naa prana priyudavu neeve,నా ప్రాణ ప్రియుడవు నీవే నా ప్రాణ నాధుడ నీవే,none,361,0,1,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/330
+331,praneswara prabhu dhiva kumara,ప్రాణేశ్వర ప్రభు దైవకుమార,none,450,0,1,0,Bro  Yesanna,in_library_exact,https://waytochurch.com/lyrics/song/331
+332,saswatha krupanu nenu thalanchaga,శాశ్వత కృపను నేను తలంచగా,none,425,0,3,0,Bro  Yesanna,in_library_exact,https://waytochurch.com/lyrics/song/332
+333,naa jeevam nee krupalo,నా జీవం నీ కృపలో దాచితివే నా జీవితకాలమంతా,partial,440,797,3,0,Bro  Yesanna,in_library_exact,https://waytochurch.com/lyrics/song/333
+334,nee preme nannu aadharinchenu,నీ ప్రేమే నను ఆదరించేను,none,476,0,2,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/334
+335,sthuthi paathruda sthothrahurda,స్తుతి పాత్రుడా స్తోత్రార్హుడా,none,566,0,1,0,Bro  Yesanna,in_library_exact,https://waytochurch.com/lyrics/song/335
+336,sannuthichedanu dhayaludavu,సన్నుతించెదను దయాళుడవు నీవని,none,382,0,2,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/336
+337,aascharyakarudaa naa aalochanakartha,ఆశ్చర్యాకరుడా నా ఆలోచన కర్తవు,partial,427,506,3,0,Bro  Yesanna,in_library_exact,https://waytochurch.com/lyrics/song/337
+338,yesu anu namame naa madhura,యేసు అను నామమే నా మధుర గానమే,none,511,0,3,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/338
+339,halleluya yesaiah,హల్లెలూయా యేసయ్యా,none,545,0,3,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/339
+340,dheva naa dhevudavu neeve,దేవా నా దేవుడవు నీవే,none,504,0,1,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/340
+341,aanandame prabhu yesuni,ఆనందమే ప్రభు యేసుని స్తుతించుట ఆత్మానంద గీతమే పాడెదా,none,483,0,3,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/341
+342,premamaya yesu prabhuvaa,ప్రేమమయా యేసు ప్రభువా నిన్నే స్తుతింతును ప్రభువా,none,744,0,3,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/342
+343,aanandam yesutho,ఆనందం యేసుతో ఆనందం,none,384,0,2,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/343
+344,naa vedhanalo vedhikithini,నా వేదనలో వెదకితిని,none,362,0,2,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/344
+345,sarvonathuda neeve naaku,సర్వోన్నతుడా నీవే నాకు ఆశ్రయదుర్గము,none,437,0,3,0,Bro  Yesanna,in_library_exact,https://waytochurch.com/lyrics/song/345
+346,vandhanamu neeke,వందనము నీకే నా వందనము,partial,625,755,3,0,Bro  Yesanna,in_library_exact,https://waytochurch.com/lyrics/song/346
+347,maadhuryame naa prabhutho,మాధుర్యమే నా ప్రభుతో జీవితం,partial,445,588,3,0,Bro  Yesanna,in_library_exact,https://waytochurch.com/lyrics/song/347
+348,yemani varninthu,ఏమని వర్ణింతు నీ కృపను ఏరులై పారెనె నా గుండెలోన,none,359,0,3,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/348
+349,nithyudaa nee sanidhi,నిత్యుడా నీ సన్నిధి నిండుగా నా తోడూ,none,426,0,3,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/349
+350,tejovaasula swasthyamandhu,తేజోవాసుల స్వాస్థ్యమందు నను చేర్చుటే,none,518,0,4,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/350
+351,sthuthi simhasanaseenudavu,స్తుతి సింహాసనాసీనుడవు,none,535,0,2,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/351
+352,anadhilo niyaminchabadina,అనాదిలో నియమించబడిన గొర్రెపిల్ల,none,388,0,2,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/352
+353,prabhuvaa nee samukhamandhu,ప్రభువా నీ సముఖము నందు,none,473,0,3,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/353
+354,nithyudagu naa thandri,నిత్యుడగు నా తండ్రి నీకే స్తోత్రము,none,446,0,3,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/354
+355,nee krupa bahulyame,నీ కృప బాహుళ్యమే నా జీవిత ఆధారమే,none,256,0,2,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/355
+356,aascharyakarudaa needhu krupa,ఆశ్చర్యకరుడా నీదు కృపా అనుదినం అనుభవించెద,none,401,0,3,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/356
+357,evarunnaru ee lokamulo,ఎవరున్నారు ఈ లోకంలో,none,322,0,1,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/357
+358,yuddha veerulam manam,యుద్ధ వీరులం మనము యుద్ధ వీరులం,none,477,0,2,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/358
+359,seeyonulo naa yesutho,సీయోనులో నా యేసుతో,none,303,0,2,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/359
+360,naa jeevitham neekankitham,నా జీవితం నీకంకితం,none,231,0,2,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/360
+361,sooryuni dharinchi,సూర్యుని ధరించి చంద్రుని మీద నిలిచి,none,330,0,3,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/361
+362,oohalu naadhu ootalu,ఊహలు నాదు ఊటలు,none,370,0,1,0,Bro  Yesanna,in_library_exact,https://waytochurch.com/lyrics/song/362
+363,yesaiah naa nirikshana aadharama,యేసయ్యా,none,291,0,1,0,Bro  Yesanna,unusable-title,https://waytochurch.com/lyrics/song/363
+364,noothana yerushalem,నూతన యెరుషలేమ్ దిగి వచ్చుచున్నది,none,844,0,3,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/364
+365,nanu viduvaka dhachithivi,నను విడువక యెడబాయక,none,553,0,1,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/365
+366,kalavaripadi ne kondalavypu,కలవర పడి నే కొండల వైపు నా కన్నులెత్తుదునా,none,563,0,1,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/366
+367,naa prana priyuda yesaiah,నా ప్రియుడా యెసయ్యా నీ కృప లేనిదే నే బ్రతుకలేను,none,541,0,2,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/367
+368,naa pranathma sareeram,నా ప్రాణ ఆత్మ శరీరం అంకితం నీకే ప్రభూ,none,298,0,1,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/368
+369,naa yesu raaja naa aaradhyadhyvama,నా యేసు రాజా నా ఆరాధ్య దైవమా,partial,429,612,3,0,Bro  Yesanna,in_library_exact,https://waytochurch.com/lyrics/song/369
+370,yesaiah naa priya,యేసయ్యా నాప్రియా,none,362,0,1,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/370
+371,nenu velle maargamu,నేను వెళ్ళే మార్గము నా యేసుకే తెలియును,none,641,0,0,0,Bro  Yesanna,in_library_exact,https://waytochurch.com/lyrics/song/371
+372,yeguruthunnandhi vijaya,ఎగురుతున్నది విజయ పతాకం యేసు రక్తమే మా జీవిత విజయం,none,615,0,1,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/372
+373,anthyadhinamula yendu memundaga,అంత్య దినములందు మేం ఉండగా నీ ఆత్మా కుమ్మరింపు నీయుమా,none,999,0,1,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/373
+374,dhevudu maapakshamuna vundaga,దేవుడు మా పక్షమున ఉండగా మాకు విరోధి ఎవడు,none,944,0,1,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/374
+375,idhigo vinuma lokama,ఇదిగో వినుమా ఓ లోకమా త్వరలో ప్రభువు రానుండెను,none,2167,0,1,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/375
+376,israelunu kaapaadu devudu,ఇశ్రాయేలును కాపాడు దేవుడు కునుకడు నిద్రపోడెన్నడు,none,2739,0,0,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/376
+377,jaya pataakam yegaraali,జయ పతాకం ఎగరాలి ఈ దేశం సొంతం కావాలి,none,809,0,1,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/377
+378,jayahe jayahe kristhesu,జయహే జయహే క్రీస్తేసు ప్రభుకు జయహే జయహే జయహే రారాజు ప్రభుకు జయహే,none,1578,0,0,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/378
+379,naa neethi neeve,నా నీతి నీవే నా ఖ్యాతి నీవే నా దైవమా యేసయా,none,1512,0,2,0,Bro  Anil Kumar,in_library_contained,https://waytochurch.com/lyrics/song/379
+380,cheddaamaa poraatam,చేద్దామా పోరాటం ఆత్మీయ పోరాటం అపవాది శక్తులతో అనుదినము పోరాటం,none,1318,0,0,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/380
+381,nibbaram kaligi,నిబ్బరం కలిగి ధైర్యముగుండు దిగులు పడకు జడియకు ఎపుడు,none,2681,0,6,0,Bro  Anil Kumar,in_library_fuzzy,https://waytochurch.com/lyrics/song/381
+382,lokamunu jayinchina,లోకమును జయించిన విజయము విశ్వాసమే ఈ లోకమును జయించిన విజయము విశ్వాసమే,none,1203,0,0,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/382
+383,nee rakthame paapa parihaaram,లోక పాపమును మోసుకెళ్ళిన దేవుని గొర్రె పిల్ల,none,1467,0,0,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/383
+384,veerudu lechenu,వీరుడే లేచెను మరణపు ముల్లును విరచి సాధ్యమా మంటికి ప్రభువునే వుంచను అణచి,none,2543,0,3,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/384
+385,visvasa veerulam,విశ్వాస వీరులం క్రీస్తు శిష్యులం దేవునికే మేం వారసులం,none,2090,0,2,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/385
+386,yesayya lone unnadhi manaku rakshana,యేసయ్యలోనే ఉన్నది మనకు రక్షణ నిరీక్షణ,none,2253,0,1,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/386
+387,maargam satyam jeevam,మార్గం సత్యం జీవం క్రీస్తేసని చాటేద్దాం చేయి చేయి కలిపి ప్రభు రాజ్యం కట్టేద్దాం,none,691,0,0,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/387
+388,yuddha veeruda,యుద్ధ వీరుడా కదులు ముందుకు పాలు తేనెలా నగరుకు,none,1233,0,3,0,Bro  Anil Kumar,in_library_exact,https://waytochurch.com/lyrics/song/388
+389,yesu dhevuni aaradhikulam,యేసు దేవుని ఆరాధికులం వెనుక చూడని సైనికులం,none,1352,0,0,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/389
+390,shuddha hrudhayam,శుద్ధ హృదయం కలుగజేయుము,none,537,0,1,0,Bro  Anil Kumar,in_library_exact,https://waytochurch.com/lyrics/song/390
+391,జీసస్ జీసస్,జీసస్ జీసస్,none,1007,0,0,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/391
+392,yuddhamu yehovadhe,రాజులు మనకెవ్వరు లేరు శూరులు మనకెవ్వరు లేరు,none,621,0,2,0,Bro  Anil Kumar,in_library_contained,https://waytochurch.com/lyrics/song/392
+393,prabhu naamam,ప్రభు నామం నా ఆశ్రయమే ఆయనను స్తుతించెదను ప్రభు మహిమ నా జీవితమే ఆయనను వెంబడింతును,none,622,0,0,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/393
+394,krupa krupa naa yesu krupa,కృప కృప నా యేసు కృప కృప కృప కృప,none,3012,0,3,0,Bro  Anil Kumar,in_library_exact,https://waytochurch.com/lyrics/song/394
+395,kondharemo gurralantu,కొందరేమో గుర్రాలంటూ కొందరేమో రథాలంటూ అబ్బురంగా అతిశయపడతారు,none,2745,0,0,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/395
+396,jayaminkaa manaderaa,జయమింకా మనదేరా జయ ధ్వనినే చేసేయ్ రా ప్రేమించే యేసునిలో అత్యధికపు జయమేరా,none,1939,0,1,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/396
+397,yesuni yandali aanandame,యేసుని యందలి ఆనందమే మాకు బలము,none,2344,0,0,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/397
+398,yehovaa maa balamaa neeve kadha naa dheema,యెహోవా మా బలమా నీవే కదా నా ధీమా,none,2335,0,0,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/398
+399,paraakramamu gala baladyuda,పరాక్రమము గల బలాడ్యుడా నీ కంటికి కనిపించే నీ చెవులకు వినిపించే,none,3066,0,0,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/399
+400,idiye samayam,ఇదియే సమయం ఇక లేరా నేస్తం ప్రభుకై రగిలే జ్వాలై,none,2365,0,0,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/400
+401,holy holy holy,హోలీ హోలీ హోలీ హోలీ హోలీ హోలీ హోలీ హోలీ,none,2725,0,0,0,Bro  Anil Kumar,in_library_exact,https://waytochurch.com/lyrics/song/401
+402,entho vintha entho chintha,ఎంతో వింత ఎంతో చింత యేసునాధున్ మరణమంత,none,581,0,0,0,,missing,https://waytochurch.com/lyrics/song/402
+403,aha mahathma haa sareera,ఆహా మహాత్మ హా శరణ్యాహా విమోచకద్రోహ,none,631,0,0,0,,in_library_contained,https://waytochurch.com/lyrics/song/403
+453,e samayamandhaina,ఏ సమయమందైన ఏ స్ధలమందైన,none,572,0,0,0,,missing,https://waytochurch.com/lyrics/song/453
+496,aanandham aanandham,ఆనంధం –ఆనంధం –ధినధినం ఆనంధం రారాజు నా స్వంతమాయెనే –,none,531,0,3,0,,missing,https://waytochurch.com/lyrics/song/496
+497,aanandha maanandha maayenu,ఆనంధ మానంధ మాయెను – నాధు ప్రియ కుమారుని యంధు,none,907,0,5,0,,missing,https://waytochurch.com/lyrics/song/497
+498,niitigala yohoavaa sthuthi mii,నీతిగల యొహోవా స్థుథి మీ – యాథ్మథో నర్పించుదిమీ యాథ్మథో,none,705,0,0,0,,missing,https://waytochurch.com/lyrics/song/498
+499,dhaeva dhivyanantha prabhaava,ధేవ ధివ్యనంథ ప్రభావ మాంపాహి ఘన యోహోవా స్థావర జంగమ,none,866,0,0,0,,missing,https://waytochurch.com/lyrics/song/499
+500,gaanamu chaeyudu sukiirthananu y,ఘానము చేయుదు సుకీర్థననుఒహోవను గూరిచి క్రొథ గాను రక్థి గాను,none,799,0,1,0,,missing,https://waytochurch.com/lyrics/song/500
+501,anni kalambula nunna yehova,ఆన్ని కాలంబులనున్న యోహోవాని న్నెన్నథరంబయో కన్న థంద్రి – వన్నె,none,811,0,0,0,,missing,https://waytochurch.com/lyrics/song/501
+502,halleluya sthotram,హల్లెలూయ స్తోత్రం,none,553,0,2,0,,missing,https://waytochurch.com/lyrics/song/502
+503,yesu ni krupalo,యేసు నీ క్రుపలో,none,444,0,2,0,,missing,https://waytochurch.com/lyrics/song/503
+504,manchi sakshiga marchumu,మంచి సాక్షిగ మార్చుము,none,1134,0,2,0,,missing,https://waytochurch.com/lyrics/song/504
+505,devaa neeku sthotramu,దేవా నీకు స్తోత్రము,none,223,0,0,0,,missing,https://waytochurch.com/lyrics/song/505
+507,bharatha desama yesuke,భారత దేశమా యేసుకే నా భారత దేశమా ప్రియయేసుకే,none,1927,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/507
+508,nannenthaga preminchithivo,నన్నెంతగా ప్రేమించితివో,partial,657,712,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/508
+509,aradinchedanu ninnu,ఆరాధించెదను నిన్ను నా యేసయ్య ఆత్మతో సత్యముతో,none,335,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/509
+510,sruthi chesi ne padana,శృతి చేసి నే పాడనా స్తోత్రగీతం,none,500,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/510
+511,neevu leni roju asalu,నీవు లేని రోజు అసలు రోజే కాదయా,none,304,0,1,0,,in_library_exact,https://waytochurch.com/lyrics/song/511
+512,punarudhanuda naa yesayya,పునరుత్థానుడ నా యేసయ్య మరణము గెలిచి బ్రతికించితివి నన్ను,none,523,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/512
+513,yudhaa sthuthi gotrapu simhama,యూదా స్తుతి గోత్రపు సింహమా,none,416,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/513
+514,suryuni dharinchi,సూర్యుని ధరించి చంద్రుని మీద నిలిచి,none,291,0,3,0,,missing,https://waytochurch.com/lyrics/song/514
+515,sthuthiki paathruda,స్తుతికి పాత్రుడా స్తోత్రార్హుడా,none,342,0,2,0,,missing,https://waytochurch.com/lyrics/song/515
+516,nee krupa naku chalunu,నీ కృపా నాకు చాలును నీ కృప లేనిదే నే బ్రతుకలేను,none,721,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/516
+517,palle pallello pattanala moolallo,పల్లె పల్లెల్లో పట్టణాల మూలల్లో,none,554,0,0,0,,missing,https://waytochurch.com/lyrics/song/517
+518,musalamma muchatlu,ముసలమ్మ ముచ్చట్లు కట్టిపెట్టి,none,656,0,0,0,,missing,https://waytochurch.com/lyrics/song/518
+519,manasara pujenchi,మనసార పూజించి నిన్ను ఆరాధిస్తా,none,359,0,1,0,"Bro  Raj , micheal paul",in_library_fuzzy,https://waytochurch.com/lyrics/song/519
+520,mahimaswarupuda,మహిమ స్వరూపుడా మృత్యుంజయుడా,none,486,0,0,0,,missing,https://waytochurch.com/lyrics/song/520
+521,dayagala hrudayudavu,దయగల హృదయుడవు,none,675,0,2,0,,missing,https://waytochurch.com/lyrics/song/521
+522,nee sallani soope,నీ సల్లని సూపే ఓ యేసయ్యా,none,435,0,3,0,,missing,https://waytochurch.com/lyrics/song/522
+523,yedabaayani deva,ఎడబాయని దేవా ఇమ్మానుయేలు ప్రభువా,none,397,0,2,0,,missing,https://waytochurch.com/lyrics/song/523
+524,gadachina kaalamantha,గడచిన కాలమంతా నిలిచితివి నా చెంత,none,491,0,1,0,,missing,https://waytochurch.com/lyrics/song/524
+525,ambhara veedhilo tharaka,అంబరవీధిలో తారక వెలసెను తూర్పున వింతగా,none,254,0,2,0,,missing,https://waytochurch.com/lyrics/song/525
+526,krupayu satyamu kalisi,మహిమ రూపము మనిషి ఆయెను బాలయేసునిగా,none,264,0,2,0,,missing,https://waytochurch.com/lyrics/song/526
+527,aakashamlo kotha chukka puttindi,ఆకాశంలో కొత్త చుక్క పుట్టింది,none,194,0,2,0,,missing,https://waytochurch.com/lyrics/song/527
+528,andhari chevulu gingurumanela,అందరి చెవులు గింగురుమనేలా అంతట చాటి చెప్పాలా,none,345,0,1,0,,missing,https://waytochurch.com/lyrics/song/528
+529,ooruko hrudayama neelo,ఊరుకో హృదయమా నీలో మత్సరమా,none,312,0,1,0,,missing,https://waytochurch.com/lyrics/song/529
+530,unnathamaina rajyapu vasi,ఉన్నతమైన రాజ్యపువాసీ యేసయ్యా,none,641,0,2,0,,missing,https://waytochurch.com/lyrics/song/530
+531,sahasa kaaryalu cheya galige,సహసకర్యాలు చేయగలిగే దేవుని హస్తము,none,365,0,2,0,,missing,https://waytochurch.com/lyrics/song/531
+532,o manavuda melukonumu,ఓ మానవుడా మేలుకొనుము నిదురయేలరా,none,383,0,2,0,,missing,https://waytochurch.com/lyrics/song/532
+533,aagipodhu na pata,ఆగిపోదు నా పాట గమ్యం చేరేదాక,none,460,0,0,0,,missing,https://waytochurch.com/lyrics/song/533
+537,gadachina kalamu krupalo mamu,హల్లెలూయ స్తోత్రం యేసయ్య,none,476,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/537
+538,halleluya sthotram,హల్లెలూయ స్తోత్రం యేసయ్య కృప చాలును నీ కృప చాలును,none,288,0,0,0,,missing,https://waytochurch.com/lyrics/song/538
+539,gurileni payanam dari cherakunte,గురిలేని పయనం దరి చేరకుంటే,none,466,0,0,0,,missing,https://waytochurch.com/lyrics/song/539
+540,naa thandri ninu nenu,నా తండ్రీ నిను నేను మరువలేను,none,374,0,0,0,,missing,https://waytochurch.com/lyrics/song/540
+541,chitikina naa jeevitham,చితికిన నా జీవితము చినిగిన ఓ కాగితము,none,487,0,0,0,,missing,https://waytochurch.com/lyrics/song/541
+542,phalamulu kaligina shishyuniga nannu,ఫలములు కలిగిన శిష్యునిగా నన్ను మార్చితివా,none,394,0,0,0,,missing,https://waytochurch.com/lyrics/song/542
+543,modhata nee sthithi konchame ainanu,మొదట నీ స్థితి కొంచెమే అయినను,none,480,0,0,0,,missing,https://waytochurch.com/lyrics/song/543
+544,nannu evvaru kadilinchaleru,నన్ను ఎవ్వరు కదిలించలేరు దేనికి ఆ శక్తి లేదు,none,396,0,0,0,,missing,https://waytochurch.com/lyrics/song/544
+545,aashalanni nee meedhane,ఆశలన్నీ నీ మీదనే తీర్చవా ప్రభూ,none,467,0,0,0,,missing,https://waytochurch.com/lyrics/song/545
+546,naa balamu nannu,నా బలము నన్ను విడిచిపోయినా,none,415,0,1,0,,missing,https://waytochurch.com/lyrics/song/546
+547,neeve na rakshana neeve nireekshana,నీవే నా రక్షణ నీవే నిరీక్షణ,none,312,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/547
+548,krutagnatato samarpanato,కృతజ్ఞతతో సమర్పణతో ఆయన సన్నిది చేరెదము,none,361,0,0,0,,missing,https://waytochurch.com/lyrics/song/548
+549,pashushalalo neevu,పశుశాలలో నీవు పవళించినావు పరమాత్ముడవు నీవు,none,218,0,0,0,,missing,https://waytochurch.com/lyrics/song/549
+550,satvikuda deenulanu karuninche,సాత్వీకుడా దీనులను కరుణించే నా యేసయ్య,none,418,0,0,0,,missing,https://waytochurch.com/lyrics/song/550
+551,nee bahu balamu ennadaina,నీ బాహుబలము ఎన్నడైన దూరమాయెనా,none,618,0,0,0,,missing,https://waytochurch.com/lyrics/song/551
+552,arbhatamutho pradhana dootha,ఆర్భాటముతో ప్రధాన దూత శబ్ధముతో దేవుని బూరతో,none,508,0,0,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/552
+553,chatali jagatilo devuni keerthi,చాటాలి జగతిలో దేవుని కీర్తి కావాలి మనిషికి దేవుని నీతి,none,536,0,0,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/553
+554,bethlahemulo sandhadi pasuvula pakalo,బెత్లేహేములోనంట సందడి పశువుల పాకలో సందడి,none,622,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/554
+555,christmas panduga vachenule,క్రీస్మస్ పండుగ వచ్చేనులే నేడు యేసయ్య జన్మ దినం వచ్చేనులే,none,505,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/555
+556,yennaluga,ఎన్నాళ్ళుగా ఎన్నేళ్ళుగా నా నీరిక్షనా,none,434,0,0,0,,missing,https://waytochurch.com/lyrics/song/556
+557,yenduko nannu neevu,ఎందుకో నన్ను నీవు ప్రేమించినావు దేవా,none,444,0,0,0,bro p issac,in_library_fuzzy,https://waytochurch.com/lyrics/song/557
+558,anuragalu kuripinche,అనురాగాలు కురిపించే నీ ప్రేమ తలచి,none,525,0,0,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/558
+560,nindu manasutho ninne aaradhinchuta,నిండు మనసుతో నిన్నే ఆరాదించుట నీ సంకల్పం,none,555,0,0,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/560
+561,laali laali laalamma laali,లాలి లాలి లాలి లాలమ్మ లాలీ,none,348,0,0,0,,missing,https://waytochurch.com/lyrics/song/561
+562,santhosham naku santhosham,సంతోషం నాకు సంతోషం యేసు నాలో ఉంటే సంతోషం,none,368,0,1,0,,missing,https://waytochurch.com/lyrics/song/562
+563,sharon roja yese,షారోను రోజా యేసే పరిపూర్ణ సుందరుడు,none,463,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/563
+564,sudhinam sarva janulaku,సుధినం సర్వ జనులకు సమధానం సర్వ జగతికి,none,460,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/564
+572,anamda samvatsaram,ఆనంద సంవత్సరం ఆశీర్వద కాలం,none,416,0,3,0,Bro  Sean pachigalla,in_library_exact,https://waytochurch.com/lyrics/song/572
+729,నా నోటన్ క్రొత్త పాట నా యేసు ఇచ్చె,,partial,845,463,10,5,,in_library_contained,https://waytochurch.com/lyrics/song/729
+959,sarvakrupaanidhiagu prabhuvaa,సర్వ కృపానిధీయగు ప్రభువా సకల చరాచర స౦తోషమా,none,460,0,0,0,,in_library_fuzzy,https://waytochurch.com/lyrics/song/959
+1790,e thegulu neegudaaramu,ఏ తెగులూ నీ గుడారమున్ సమీపించదయ్య,none,469,0,3,0,,in_library_fuzzy,https://waytochurch.com/lyrics/song/1790
+1791,aaraadhanalanduko,ఆరాధనలందుకో ఆరాధనలందుకో,none,711,0,3,0,,missing,https://waytochurch.com/lyrics/song/1791
+2370,mukti dilaye eeshu naam,ముక్తి దిలాయె ఈషు నామ్,none,290,0,0,0,,missing,https://waytochurch.com/lyrics/song/2370
+2371,neele aasmaan,నీలె ఆస్మాన్ కె పార్ జాయెంగె,none,315,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/2371
+2385,dhaatipovu vaadu kaadhu,దాటిపోవు వాడు కాదు యేసు దైవము,none,541,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/2385
+2386,jeevithanthamu nee neetho,జీవితాంతమూ నే నీతో నడవాలని,none,976,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/2386
+2387,nammi nammi,నమ్మి నమ్మి మనుషులను నీవు నమ్మీ నమ్మీ,none,874,0,0,0,,missing,https://waytochurch.com/lyrics/song/2387
+2389,naa jayamu koorina dheva,నా జయము కోరిన దేవా సైన్యములకధిపతి యెహోవా,none,631,0,0,0,,missing,https://waytochurch.com/lyrics/song/2389
+2390,kula pichodini nenu,కుల పిచ్చోడ్ని నేను కళ్ళులేని కభోదిని,none,520,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/2390
+2391,thallikunnadhaa thandrikunnadhaa,తల్లికున్నదా తండ్రికున్నదా నీ ప్రేమ జాలి యేసయ్యా,none,709,0,0,0,,missing,https://waytochurch.com/lyrics/song/2391
+2392,jeevana tholi sandya,జీవన తొలి సంధ్యా నీతోనే ఆరంభం,none,537,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/2392
+2393,nenante nee kendhuko,నేనంటే నీకెందుకో ఈ ప్రేమ నన్ను మరచిపోవెందుకో,none,622,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/2393
+2395,కొంతసేపు కనబడి అంతలోనే మాయమయ్యే,కొంతసేపు కనబడి అంతలోనే మాయమయ్యే,none,748,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/2395
+2400,priyudaa nee prema,ప్రియుడా నీ ప్రేమ – పాదముల్ చేరితి,none,574,0,4,0,,in_library_contained,https://waytochurch.com/lyrics/song/2400
+2401,neevu chesina vupakaaramulaku,నీవుచేసిన ఉపకారములకు నేనేమి చేల్లింతును,none,446,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/2401
+2402,halleluah ani paadi,హల్లెలుయా యని పాడి స్తుతింపని రారే,none,619,0,0,0,,in_library_contained,https://waytochurch.com/lyrics/song/2402
+2403,aaraadhanalandhuko,ఆరాధనాలందుకో ఆరాధనాలందుకో,none,645,0,0,0,,missing,https://waytochurch.com/lyrics/song/2403
+2404,gaadandhakaaramulo nee nadachina,గాఢాంధ కారములో నే నడిచిన వేళలలో,none,566,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/2404
+2405,golgotha kondapina,గొల్గోత కొండపైన గాయాలు పొందితివి,none,268,0,2,0,,in_library_contained,https://waytochurch.com/lyrics/song/2405
+2406,kalvary premanu thalanchinappudu,కల్వరి ప్రేమను తలంచినప్పుడు కలుగుచున్నది దుఃఖం,partial,449,568,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/2406
+2407,mahonathuda nee krupalone,మహోన్నతుడా నీ క్రుపలో నేను నివసించుట,none,327,0,0,0,,in_library_fuzzy,https://waytochurch.com/lyrics/song/2407
+2408,nyayadhi pathiayina,న్యాయాధిపతిఐన దేవుడు నిను తీర్పు తీర్చేటి వేళలో,none,572,0,0,0,,in_library_fuzzy,https://waytochurch.com/lyrics/song/2408
+2409,pampumu dheeva,పంపుము దేవా దీవెనలతో,none,321,0,0,0,,in_library_contained,https://waytochurch.com/lyrics/song/2409
+2410,rammu rammu,రమ్ము రమ్ము పరిశుద్ధాత్మ,none,152,0,0,0,,missing,https://waytochurch.com/lyrics/song/2410
+2411,siluvalo bhaliaina,సిలువలో బలియైన దేవుని గొర్రెపిల్ల,none,383,0,0,0,,in_library_fuzzy,https://waytochurch.com/lyrics/song/2411
+2419,enaleni prema naaki,ఎనలేని ప్రేమ నాపైన చూపి,none,361,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/2419
+2420,dhavalavarnnudu rathavarnnudu,ధవళవర్ణుడా రత్నవర్ణుడా,none,532,0,3,0,,in_library_lyric_line,https://waytochurch.com/lyrics/song/2420
+2421,kanugontini ninne o najareya,కనుగొంటిని నిన్నే ఓ నజరేయా,none,512,0,3,0,,in_library_contained,https://waytochurch.com/lyrics/song/2421
+2422,edhenu thotalo,ఏదేను తోటలో ఆదాము హవ్వలు,none,826,0,0,0,,missing,https://waytochurch.com/lyrics/song/2422
+2423,anantha gnani,అనంత జ్ఞాని నీకు అల్పుడను నాకు సహవాసమా,none,471,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/2423
+2424,aanandhinthunu neelo dheva,ఆనందింతును నీలో దేవ అనుదినం నిన్ను స్తుతించుచు,none,485,0,4,0,,in_library_fuzzy,https://waytochurch.com/lyrics/song/2424
+2425,aarani prema idhi aarpajaalani,ఆరని ప్రేమ ఇది ఆర్పజాలని జ్వాల ఇది,none,761,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/2425
+2427,endhukayya yesaiah nannu,ఎందుకయ్యా యేసయ్య నన్ను ప్రేమించితివి,none,382,0,2,0,,missing,https://waytochurch.com/lyrics/song/2427
+2428,eguruchunnadhi vijayapathaakam,ఎగురుచున్నది విజయపతాకం,none,594,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/2428
+2429,endhuko nannu neevu ennukunnavu,ఎందుకో నన్ను నీవు ఎన్నుకున్నావు,none,503,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/2429
+2430,entha krupaamayudavu yessaiah,ఎంత కృపామయుడవు యేసయ్య,partial,445,614,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/2430
+2431,o kristhavuda sinikuda,ఓ క్రైస్తవుడా సైనికుడా బలవంతుడా పరిశుద్ధుడా,none,869,0,8,0,,missing,https://waytochurch.com/lyrics/song/2431
+2432,kontha sepu kanabadi anthalo,కొంత సేపు కనబడి అంతలోనే మాయమయ్యే,none,571,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/2432
+2433,krupa chetha pilachinappude,కృప చేత పిలిచినపుడే నేను నీ వాడనైతినయ్యా,none,300,0,0,0,,missing,https://waytochurch.com/lyrics/song/2433
+2434,kaalamella maarinaa,కాలమెల్ల మారినా మారడు నా యేసు నాధుడు,none,709,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/2434
+2435,krupaamayuda nee lona,కృపామయుడా నీలోన నివసింపజేసినందున,none,434,0,4,0,,in_library_exact,https://waytochurch.com/lyrics/song/2435
+2436,dhevuni sthuthiyinchudi ellapuddu,దేవుని స్తుతియించుడి ఎల్లప్పుడు దేవుని స్తుతియించుడి,none,820,0,9,0,,in_library_contained,https://waytochurch.com/lyrics/song/2436
+2437,nee naamame naa gaanamu,నీ నామమే నా గానము నీవే నా ప్రాకారము,none,766,0,4,0,,missing,https://waytochurch.com/lyrics/song/2437
+2438,ninnu batti,నిన్ను బట్టి బ్రతుకుతున్న నీరీక్షణతో జీవిస్తున్నా,none,645,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/2438
+2439,perupetti pilachinaadu,పేరుపెట్టి పిలిచినాడు నీ స్నేహితుడు,none,778,0,4,0,,missing,https://waytochurch.com/lyrics/song/2439
+2440,paadedham halleluah,పాడేదం హల్లెలుయః క్రొత్త పాట పాడేదం,none,521,0,3,0,,missing,https://waytochurch.com/lyrics/song/2440
+2441,mahima mahima mana,మహిమ మహిమ మన యేసు రాజు కే మహిమ,none,498,0,4,0,,missing,https://waytochurch.com/lyrics/song/2441
+2442,shuba veela,శుభ వేళ స్తోత్రబలి,none,333,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/2442
+2443,raathi kundanu,రాతి కుండను నేను ఖాళియై యున్నాను,none,615,0,3,0,,in_library_contained,https://waytochurch.com/lyrics/song/2443
+2444,aalochinchumu aalochimchu,ఆలోచించూ ఆలోచించు ఓ నా నేస్తం ఆలోచించు,none,672,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/2444
+2445,adhe adhe,అదే అదే ఆ రోజూ యేసయ్య ఉగ్రత రోజు,none,628,0,4,0,,in_library_exact,https://waytochurch.com/lyrics/song/2445
+2446,parama jeevamu naaku nivva,పరమ జీవము నాకు నివ్వ తిరిగి లేచెను నాతోనుండా,none,455,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/2446
+2447,paramulo neethone vundaalani,పరములో నీతోనే ఉండాలనీ నను కోరి కొన్నావు,none,382,0,1,0,,in_library_exact,https://waytochurch.com/lyrics/song/2447
+2448,nee vaaku vinipinchumayya,నీ వాక్కు వినిపించుమయ్యా నేత్రాలు తెరిపించుమయ్యా,none,443,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/2448
+2449,parishudha janamutho,పరిశుద్ధ జనముతో చేరి పరిశుద్ధ స్థలములో నిలచి,none,645,0,2,0,,missing,https://waytochurch.com/lyrics/song/2449
+2450,ankitham,అంకితం ప్రభూ నా జీవితం నీ చరణాల సేవకే అంకితమయ్యా,none,463,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/2450
+2451,naa sneham,నా స్నేహం యేసుతోనే నా గమ్యం క్రీస్తులోనే,none,522,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/2451
+2453,hrudayaaranyamuloo nee,హృదయారణ్యములో నే కృంగిన సమయములో,none,732,0,5,0,,in_library_contained,https://waytochurch.com/lyrics/song/2453
+2454,dhanaraasulunna bhavanaalu,ధనరాశులున్నా భవనాలు ఉన్నా మనలేవు ధరలోన ఓ మానవా,none,430,0,2,0,,missing,https://waytochurch.com/lyrics/song/2454
+2455,ee tharam yuvatharam,ఈ తరం యువతరం ప్రభు యేసుకే అంకితము,none,826,0,2,0,,in_library_prefix,https://waytochurch.com/lyrics/song/2455
+2456,naa sameepamai,నా సమీపమై యున్న నా దేవుడవేసయ్యా,none,417,0,1,0,,in_library_exact,https://waytochurch.com/lyrics/song/2456
+2457,aadharinchina,ఆదరించిన యేసయ్యా ఆరాధనకు యోగ్యుడా,none,278,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/2457
+2458,jyothirmayudaa naa praana,జ్యోతిర్మయుడా నా ప్రాణ ప్రియుడా స్తుతి మహిమలు నీకే,none,430,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/2458
+2459,sathuva bhoomilo,సత్తువభూమిలో శ్రేష్టమైన ద్రాక్షతీగలను నాటించిన దేవుడు,none,704,0,2,0,,missing,https://waytochurch.com/lyrics/song/2459
+2460,sthuthi cheyute kaadhu,స్తుతి చేయుటే కాదు ఆరాధన దేవుని పని చేయుటయే ఆరాధన,none,789,0,2,0,,missing,https://waytochurch.com/lyrics/song/2460
+2461,dhevuni prema,దేవుని ప్రేమ దేవుని ప్రేమ శాశ్వతమైన ప్రేమ,none,369,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/2461
+2462,kalamulatho vrrayagalamaa,కలములతో వ్రాయగలమా కవితలతో వర్ణించగలమా,none,653,0,2,0,,in_library_fuzzy,https://waytochurch.com/lyrics/song/2462
+2463,o dheva naa yaatharalona,ఓ దేవా నా యాత్రలోన నా తోడు నీవేనయా,none,368,0,2,0,,missing,https://waytochurch.com/lyrics/song/2463
+2464,nigilo chandruduaa,నింగిలోని చందురుడా మంద కాచే ఇందురుడా,none,970,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/2464
+2465,kalvary prema prakatinchu,కల్వరి ప్రేమ ప్రకటించుచున్నది సర్వలోకానికి,none,826,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/2465
+2466,immanuyelu naa thodai,ఇమ్మానుయేలు నా తోడై యున్నాడు,none,351,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/2466
+2467,manovichaaramu kuudadhu,మనోవిచారము కూడదు నీకు మహిమ తలంపులే కావలెను,none,7258,0,65,0,,in_library_exact,https://waytochurch.com/lyrics/song/2467
+2468,sthuthipaathrudaa sthothraarhudaa,స్తుతిపాత్రుడా స్తోత్రార్హుడా స్తుతులందుకో పూజార్హుడా,none,397,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/2468
+2469,nijamugaa morapettinaa,నిజముగా మొరపెట్టినా దేవుడాలకించకుండునా,none,468,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/2469
+2470,nee maat naa paata,నీ మాట నా పాటగా అనుక్షణం పాడనీ,none,856,0,3,0,,missing,https://waytochurch.com/lyrics/song/2470
+2471,ninne ninne sthuthiyinthunu,నిన్నే నిన్నే స్తుతియింతున్ నిన్నే నిన్నే కీర్తింతున్,none,363,0,1,0,,in_library_exact,https://waytochurch.com/lyrics/song/2471
+2472,nibandhanaa janulam,నిబంధనా జనులం నిరీక్షణా ధనులం,none,981,0,6,0,,in_library_exact,https://waytochurch.com/lyrics/song/2472
+5765,nanu srujiyinchina,నను సృజియించిన నా తండ్రికే ఆరాధన,none,423,0,0,0,,missing,https://waytochurch.com/lyrics/song/5765
+5766,naa aadarana neevenayya,నా ఆదరణ నీవేనయ్య నా ఆశ్రయము నీవేనయ్యా,none,377,0,0,0,,missing,https://waytochurch.com/lyrics/song/5766
+5767,nee margamu entho priyamu,నీ మార్గము ఎంతో ప్రియము,none,211,0,0,0,,missing,https://waytochurch.com/lyrics/song/5767
+5768,ninu namminacho,నిను నమ్మినచో సిగ్గుపడనీయవు,none,394,0,0,0,,missing,https://waytochurch.com/lyrics/song/5768
+5769,neetho nundani brathuku,నీతొ నుండని బ్రతుకు నిను చూడని క్షణము – ఊహించలేనునాయేసయ్యా,none,537,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5769
+5774,"దైవకుటుంబం ధరణిలో దేవుని ప్రతిబింబం """"",,partial,703,882,2,0,,unusable-title,https://waytochurch.com/lyrics/song/5774
+5775,vinava manavi yesayya,వినవా మనవి యేసయ్య,none,406,0,0,0,A R stevenson,in_library_exact,https://waytochurch.com/lyrics/song/5775
+5776,ananthuda adarinche yesayya,అనంతుడా ఆదరించే యేసయ్య,none,545,0,0,0,"krupa ministries, Guntur",missing,https://waytochurch.com/lyrics/song/5776
+5778,ikanaina kaani ipudaina kaani,ఇకనైన కానీ ఇప్పుడైన కానీ,none,381,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5778
+5779,nee deerga santhame naa hrudayaniki,నీ దీర్ఘశాంతమే నా హృదయానికి ధైర్యము,partial,662,945,3,0,"Krupa ministries, Guntur",in_library_exact,https://waytochurch.com/lyrics/song/5779
+5780,nee prema madhuryam,నీ ప్రేమ మాధుర్యము నేనేమని వర్ణింతును,none,442,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5780
+5781,"నీకే నా ఆరాధననీకే ఆరాధన యుగయుగములకు తరతరములకు మహిమా ప్రభావము నీకే యేసయ్యా ""నీకే""",,none,357,0,0,0,Steven Edwards,unusable-title,https://waytochurch.com/lyrics/song/5781
+5784,yenta manchi kapari,ఎంత మంచి కాపరి – యేసే నా ఊపిరి,none,370,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5784
+5785,bharienchalenesayya e vedhana,భరియించలేనేసయ్యా ఈ వేదన,none,382,0,0,0,,missing,https://waytochurch.com/lyrics/song/5785
+5786,veeche galullo prathiroopam neeve,వీచే గాలుల్లో ప్రతిరూపం నీవే,none,665,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5786
+5787,ఉల్లసించి పాట పాడే పావురమా మృధు మధుర సుందర నారీమణీ,ఉల్లసించి పాట పాడే పావురమా మృధు మధుర సుందర నారీమణీ,none,608,0,0,0,,missing,https://waytochurch.com/lyrics/song/5787
+5788,పేరుకే క్రైస్తవులారా,పేరుకే క్రైస్తవులారా,none,1040,0,0,0,,missing,https://waytochurch.com/lyrics/song/5788
+5790,yesayya nee namamlo shakthi vunnadhi,యేసయ్యా నీ నామంలో శక్తి ఉన్నదీ,none,523,0,0,0,,in_library_fuzzy,https://waytochurch.com/lyrics/song/5790
+5791,parishudhuda na yesayya needhu atmatho mamu nimpuma,పరిశుధ్ధుడా నా యేసయ్యా,none,638,0,0,0,,in_library_contained,https://waytochurch.com/lyrics/song/5791
+5792,neethone na jeevitham prathi dhinamu anukshanamu,నీతోనే నా జీవితం,none,324,0,0,0,,missing,https://waytochurch.com/lyrics/song/5792
+5793,yesu rakthame jayamu,యేసు రక్తమే జయము,none,420,0,0,0,,missing,https://waytochurch.com/lyrics/song/5793
+5794,sakala sthuthulaku pathruda,సకల స్తుతులకు పాత్రుడా స్తోత్ర రూపుడా ॥॥,none,287,0,0,0,,missing,https://waytochurch.com/lyrics/song/5794
+5795,sooda sakkanodamma yesu nadhudu,సూడ సక్కనోడమ్మా యేసు నాధుడు,none,351,0,0,0,,missing,https://waytochurch.com/lyrics/song/5795
+5796,yesundaga neekandaga dhigulela nosodhara,యేసుండగా నీకండగా దిగులేల నోసోదరా,none,390,0,0,0,,missing,https://waytochurch.com/lyrics/song/5796
+5797,yesayya yesayya yesayya,యేసయ్యా యేసయ్యా నా యేసయ్యా,none,218,0,0,0,,in_library_lyric_line,https://waytochurch.com/lyrics/song/5797
+5798,premistha ninne na yesayya,ప్రేమిస్తా నిన్నే నా యేసయ్యా,none,657,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5798
+5799,arambinchedha yesu neelo prathi dhinam,ఆరంభించెద యేసు నీలో ప్రతీదినం,none,479,0,0,0,,missing,https://waytochurch.com/lyrics/song/5799
+5800,ఇంటి మీదనున్న ఒంటరి పిచ్చుకను నేను నా బలమా ఆలకించుమా,ఇంటి మీదనున్న ఒంటరి పిచ్చుకను నేను నా బలమా ఆలకించుమా,none,401,0,0,0,,missing,https://waytochurch.com/lyrics/song/5800
+5801,కోరితి నీ సన్నిదానం చేరితి నీ సన్నిదానం,కోరితి నీ సన్నిదానం చేరితి నీ సన్నిదానం,none,282,0,0,0,,missing,https://waytochurch.com/lyrics/song/5801
+5802,కనురెప్ప పాటైన కను మూయలేదు,కనురెప్ప పాటైన కను మూయలేదు,none,588,0,0,0,,in_library_contained,https://waytochurch.com/lyrics/song/5802
+5803,తీర్పు తీర్చు గడియ వచ్చుచున్నది,తీర్పు తీర్చు గడియ వచ్చుచున్నది,none,504,0,0,0,,missing,https://waytochurch.com/lyrics/song/5803
+5804,గలిలయ తీరాన చిన్ననావ,గలిలయ తీరాన చిన్ననావ,none,391,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5804
+5805,నీవే నా సంతోషగానము,నీవే నా సంతోషగానము,none,713,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5805
+5806,మార్గము సత్యము జీవము నా దైవమా,మార్గము సత్యము జీవము నా దైవమా,none,499,0,0,0,,missing,https://waytochurch.com/lyrics/song/5806
+5807,lechinadayya maranapu mullu,లేచినాడయ్య మరణపు ముల్లు,none,704,0,0,0,,missing,https://waytochurch.com/lyrics/song/5807
+5808,letha mokkala thandri sannidhilo,లేత మొక్కలా తండ్రి సన్నిధిలో,none,439,0,0,0,,missing,https://waytochurch.com/lyrics/song/5808
+5809,devudu prematho devudu prematho,దేవుడు ప్రేమతో దేవుడు ప్రేమతో,none,685,0,0,0,,missing,https://waytochurch.com/lyrics/song/5809
+5810,neellala poyabadinanu teegala sagipoyanu,నీళ్లలా పోయబడినాను తీగలా సాగిపోయాను,none,484,0,0,0,,missing,https://waytochurch.com/lyrics/song/5810
+5811,ninu choodani kanulela naku,నిను చూడని కనులేల నాకు హల్లే హల్లే హల్లే హల్లేలూయ్యా,none,689,0,0,0,,missing,https://waytochurch.com/lyrics/song/5811
+5812,sarveswaruda sthothrarhuda,సర్వేశ్వరా స్తోత్రార్హుడా పూజనీయుడ పరిశుద్దుడా,none,663,0,0,0,,missing,https://waytochurch.com/lyrics/song/5812
+5813,kanneeru vidiche o sodhara,కన్నీరు విడిచే ఓ సోదరా,none,589,0,0,0,,missing,https://waytochurch.com/lyrics/song/5813
+5814,ninne ninne ne koluthunayya,నిన్నే నిన్నే నే కొలుతునయ్యా నీవే నీవే నా రాజువయ్యా యేసయ్యా యేసయ్యా యేసయ్యా యేసయ్యా,none,527,0,0,0,,in_library_contained,https://waytochurch.com/lyrics/song/5814
+5815,సిలువను గూర్చిన వార్త,సిలువను గూర్చిన వార్త,none,349,0,0,0,,missing,https://waytochurch.com/lyrics/song/5815
+5816,యేసు పుట్టెను నేడు,యేసు పుట్టెను నేడు,none,652,0,0,0,,missing,https://waytochurch.com/lyrics/song/5816
+5817,randee ani thelipenu,రండీ అని తెలిపేను ల లలలల్లా,none,580,0,0,0,,missing,https://waytochurch.com/lyrics/song/5817
+5818,నీ కృపయే చాలునయ్యా,నీ కృపయే చాలునయ్యా,none,309,0,0,0,,missing,https://waytochurch.com/lyrics/song/5818
+5819,ascharyamou anugraham,ఆశ్చర్యమౌ అనుగ్రహం,none,545,0,0,0,,missing,https://waytochurch.com/lyrics/song/5819
+5820,చిరకాలం నీ సన్నిధిలో,చిరకాలం నీ సన్నిధిలో,none,497,0,0,0,,missing,https://waytochurch.com/lyrics/song/5820
+5821,janminchenu sree yesudu,జన్మించెను శ్రీ యేసుడు,none,357,0,0,0,,missing,https://waytochurch.com/lyrics/song/5821
+5822,నేనును నా కుటుంబమును,నేనును నా కుటుంబమును,none,360,0,0,0,,missing,https://waytochurch.com/lyrics/song/5822
+5823,dheva nee sannidhilo sampoorna samthosham nee kudi hasthaulo,దేవా నీ సన్నిధిలో సంపూర్ణ సంతోషం నీ కుడి హస్తములో,none,472,0,0,0,,missing,https://waytochurch.com/lyrics/song/5823
+5824,prema mayuda kaluvari nadha,ప్రేమా మయుడా కలువరి నాధా,none,450,0,0,0,,missing,https://waytochurch.com/lyrics/song/5824
+5825,నీకు అసాధ్యమైనది లేనే లేదు,నీకు అసాధ్యమైనది లేనే లేదు,none,377,0,0,0,,missing,https://waytochurch.com/lyrics/song/5825
+5826,e roju krotha velugu mana jeevithalalo aavelugu,ఈరోజు క్రొత్త వెలుగు,none,448,0,0,0,,missing,https://waytochurch.com/lyrics/song/5826
+5827,o chakkani chukka nimgina merise,ఓఓ చక్కనిచుక్క నింగిన మెరిసే,none,449,0,0,0,,missing,https://waytochurch.com/lyrics/song/5827
+5829,yesu namam annitikanna srestamaina namam,యేసు నామం అన్నిటికన్న,none,542,0,0,0,,missing,https://waytochurch.com/lyrics/song/5829
+5830,క్రిస్ట్మస్ వచ్చిందీ సంతోషం తెచ్చిందీ హ్యపీ క్రిస్ట్మస్ మెర్రీ క్రిస్ట్మస్ హ్యపీ క్రిస్ట్మస్ ॥॥,క్రిస్ట్మస్ వచ్చిందీ సంతోషం తెచ్చిందీ హ్యపీ క్రిస్ట్మస్ మెర్రీ క్రిస్ట్మస్ హ్యపీ క్రిస్ట్మస్ ॥॥,none,542,0,0,0,,missing,https://waytochurch.com/lyrics/song/5830
+5831,నా ప్రాణమా సన్నుతించుమా,నా ప్రాణమా సన్నుతించుమా,none,412,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5831
+5832,mahonnayhda ma dheva sahayakuda yehova,మహోన్నతుడా మా దేవా,none,474,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5832
+5834,ఈ దినం శుభ దినం,ఈ దినం శుభ దినం,none,432,0,0,0,,missing,https://waytochurch.com/lyrics/song/5834
+5835,ప్రకటించరా ప్రభుయేసు వార్తను,ప్రకటించరా ప్రభుయేసు వార్తను,none,694,0,0,0,,missing,https://waytochurch.com/lyrics/song/5835
+5836,nanu srujienchina aadhevudu yekkada vunnado,నన్ను సృజియించిన ఆదేవుడు,none,496,0,0,0,,missing,https://waytochurch.com/lyrics/song/5836
+5837,amen halleluya,ఆమెన్ హల్లెలుయా – యేసు క్రీస్తు కల్లెలుయా,none,377,0,0,0,,missing,https://waytochurch.com/lyrics/song/5837
+5838,puttinaroju sri yesuraju,పుట్టినరోజు శ్రీ యేసురాజు,none,616,0,0,0,,missing,https://waytochurch.com/lyrics/song/5838
+5839,bala yesuku jolalu paada,బాల యేసుకు జోలలు పాడ ఈ వేళ – పరలోక సైన్యముల్ పాటలు పాడెన్ ఆ వేళ,none,592,0,0,0,,missing,https://waytochurch.com/lyrics/song/5839
+5840,మనుజులార మంచి వార్త – మానుగాను దెచ్చినాడ,మనుజులార మంచి వార్త – మానుగాను దెచ్చినాడ,none,490,0,0,0,,missing,https://waytochurch.com/lyrics/song/5840
+5841,యెహోవా పరమ పురవాసి – మహాత్ముడయ్యె పరదేశి,యెహోవా పరమ పురవాసి – మహాత్ముడయ్యె పరదేశి,none,381,0,0,0,,missing,https://waytochurch.com/lyrics/song/5841
+5842,లెండి లెండి మీరు క్రైస్తవులారా దండియౌ ప్రభుండు బుట్టె,లెండి లెండి మీరు క్రైస్తవులారా దండియౌ ప్రభుండు బుట్టె,none,441,0,0,0,,missing,https://waytochurch.com/lyrics/song/5842
+5843,లాలి లాలి లాలమ్మ లాలి లాలనుచు బాడరే బాల యేసునకు || లాలి ||,లాలి లాలి లాలమ్మ లాలి లాలనుచు బాడరే బాల యేసునకు || లాలి ||,none,415,0,0,0,,missing,https://waytochurch.com/lyrics/song/5843
+5844,శ్రీ యేసు పుట్టె జగమందు సమస్త పాపులకు విందు,శ్రీ యేసు పుట్టె జగమందు సమస్త పాపులకు విందు,none,608,0,5,0,,missing,https://waytochurch.com/lyrics/song/5844
+5845,శ్రీ యేసుండు జన్మించె నిశీధ రాత్రియందు బెత్లెహేము యూరిలో,శ్రీ యేసుండు జన్మించె నిశీధ రాత్రియందు బెత్లెహేము యూరిలో,none,302,0,1,0,,missing,https://waytochurch.com/lyrics/song/5845
+5846,ఘనదేవ పుత్రుడగు ఘనమైన యేసుబిడ్డన్,ఘనదేవ పుత్రుడగు ఘనమైన యేసుబిడ్డన్,none,595,0,2,0,,missing,https://waytochurch.com/lyrics/song/5846
+5847,యూదా రాజ సింహం తిరిగి లేచెను,యూదా రాజ సింహం తిరిగి లేచెను,none,634,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5847
+5848,aakasaana sukkaelise,అకసాన సుక్కఎలిసె – అర్ధరాత్రి పొద్దుపొడిసె,none,675,0,2,0,madhu sudhakar babu,missing,https://waytochurch.com/lyrics/song/5848
+5849,aaraadhana aaraadhana atmatho aaraadhana,ఆరాధన ఆరాధన ఆత్మతో ఆరాధన,none,281,0,1,0,,in_library_exact,https://waytochurch.com/lyrics/song/5849
+5850,ధింతక్కు ధింతక్కు ధింతక్కు తయ్యారె,ధింతక్కు ధింతక్కు ధింతక్కు తయ్యారె,none,286,0,0,0,,missing,https://waytochurch.com/lyrics/song/5850
+5851,డింగ్ డింగ్ డింగ్ ఎద్దుల బండి,డింగ్ డింగ్ డింగ్ ఎద్దుల బండి,none,226,0,0,0,,missing,https://waytochurch.com/lyrics/song/5851
+5852,చిన్ని చిన్ని తమ్ముడు చిట్టి చెల్లెలు,చిన్ని చిన్ని తమ్ముడు చిట్టి చెల్లెలు,none,257,0,2,0,,missing,https://waytochurch.com/lyrics/song/5852
+5854,chinni manasutho ninnu,చిన్ని మనసుతో నిన్ను ఆరాధింతును – చిన్ని బిడ్డనేసయ్యా స్వీకరించుము,none,559,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5854
+5855,ఛుక్ ఛుక్ బండి రైలు బండి,ఛుక్ ఛుక్ బండి రైలు బండి,none,317,0,0,0,,missing,https://waytochurch.com/lyrics/song/5855
+5856,hosanna hosanna mahonnatudu,హోసన్నా హోసన్నా హోసన్నా మహోన్నతుడు,none,195,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5856
+5857,ఇదే దినం ఇదేదినం –,ఇదే దినం ఇదేదినం –,none,242,0,0,0,This is the day that the Lord has mad,missing,https://waytochurch.com/lyrics/song/5857
+5858,idu rottelu rendu chinni chepalu,ఐదు రొట్టెలు రెండు చిన్ని చేపలు – ఐదు వేల పీపుల్స్ కి పంచిపెట్టారు,none,273,0,0,0,,missing,https://waytochurch.com/lyrics/song/5858
+5859,కట్టబడ్డ గాడిద పిల్లనునేను,కట్టబడ్డ గాడిద పిల్లనునేను,partial,295,357,1,0,Dr  A R Stevenson,missing,https://waytochurch.com/lyrics/song/5859
+5860,keertintunu aaraadhintunu,కీర్తింతును ఆరాధింతున్ లాలల లాలల లాలల లలల,none,187,0,0,0,,missing,https://waytochurch.com/lyrics/song/5860
+5861,mana tandri devudu,మనతండ్రి – మన తండ్రి దేవుడు – అన్ని ఇచ్చిన దేవుడు,none,286,0,4,0,,missing,https://waytochurch.com/lyrics/song/5861
+5862,ముద్దులోలికే చిన్ని నోటితో – మృదువైన పెదవులతో,ముద్దులోలికే చిన్ని నోటితో – మృదువైన పెదవులతో,none,395,0,1,0,,missing,https://waytochurch.com/lyrics/song/5862
+5863,naakai yesu kattenu sundharamu,నాకై యేసు కట్టెను సుందరము బంగారిల్లు,none,275,0,2,0,,missing,https://waytochurch.com/lyrics/song/5863
+5865,నా తల్లి కంటెను నా తండ్రి కంటెను,నా తల్లి కంటెను నా తండ్రి కంటెను,none,196,0,0,0,,missing,https://waytochurch.com/lyrics/song/5865
+5866,నీ విశ్వాస నావలో యేసు వున్నాడా ఆయన కూర్చున్న నావలో నీవు వున్నావ,నీ విశ్వాస నావలో యేసు వున్నాడా ఆయన కూర్చున్న నావలో నీవు వున్నావ,none,311,0,0,0,,missing,https://waytochurch.com/lyrics/song/5866
+5868,నోవహు వోడను త్వరగ చేయుము,నోవహు వోడను త్వరగ చేయుము,none,342,0,0,0,,missing,https://waytochurch.com/lyrics/song/5868
+5869,యేసుని ప్రేమ బహు కమ్మనైనది – జీవాహారం మధురాతి మధురమే,యేసుని ప్రేమ బహు కమ్మనైనది – జీవాహారం మధురాతి మధురమే,none,230,0,1,0,,missing,https://waytochurch.com/lyrics/song/5869
+5870,ఎవ్వరు చేసిరి పక్షులను పక్షులను,ఎవ్వరు చేసిరి పక్షులను పక్షులను,none,215,0,0,0,,missing,https://waytochurch.com/lyrics/song/5870
+5871,చెవులు ఉన్నాయా వినే చెవులు ఉన్నాయా,చెవులు ఉన్నాయా వినే చెవులు ఉన్నాయా,none,875,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5871
+5872,స్తుతులనందుకో స్తుతికి పాత్రుడా,స్తుతులనందుకో స్తుతికి పాత్రుడా,none,334,0,0,0,,missing,https://waytochurch.com/lyrics/song/5872
+5873,స్తోత్రముల్ స్తుతి స్తోత్రముల్ వేలాది వందనాలు,స్తోత్రముల్ స్తుతి స్తోత్రముల్ వేలాది వందనాలు,none,410,0,0,0,,missing,https://waytochurch.com/lyrics/song/5873
+5874,sthothrabhali sthrothrabhali,స్తోత్రబలి స్తోత్రబలీ మంచి దేవ నీకేనయ్యా,none,579,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5874
+5875,స్వస్థపరచు యెహోవానీవే నీరక్తంతో మమ్ము కడుగు యేసయ్యా,స్వస్థపరచు యెహోవానీవే నీరక్తంతో మమ్ము కడుగు యేసయ్యా,none,342,0,0,0,,missing,https://waytochurch.com/lyrics/song/5875
+5876,loyelella poodchabadali,లోయలెల్లా పూట్చబడాలి కొండలుకోనలు కదలిపోవాలి,none,739,0,4,0,,missing,https://waytochurch.com/lyrics/song/5876
+5877,వెదకుడి వెదకుడి యెహోవాను వెదకుడి,వెదకుడి వెదకుడి యెహోవాను వెదకుడి,none,665,0,0,0,,missing,https://waytochurch.com/lyrics/song/5877
+5878,వచ్చుచుండెన్ త్వరలోనే రాజుల రాజుగా యేసయ్యా,వచ్చుచుండెన్ త్వరలోనే రాజుల రాజుగా యేసయ్యా,none,484,0,0,0,,missing,https://waytochurch.com/lyrics/song/5878
+5879,విజయం నీ రక్తంలో అభయం నీ హస్తంలో,విజయం నీ రక్తంలో అభయం నీ హస్తంలో,none,275,0,2,0,,missing,https://waytochurch.com/lyrics/song/5879
+5880,saswethaa prematho nannu preminchavaiah,శాశ్వత ప్రేమతో నన్ను ప్రేమించావయ్యా,none,397,0,0,0,D Arul Raj,in_library_exact,https://waytochurch.com/lyrics/song/5880
+5881,శుభవేళలో నీ మోమును చూసి అర్పించెదను నన్నూ,శుభవేళలో నీ మోమును చూసి అర్పించెదను నన్నూ,none,470,0,0,0,,missing,https://waytochurch.com/lyrics/song/5881
+5882,శ్రమలందు నీవు నలిగే సమయమున ప్రభు నీకు తోడుండుననీ,శ్రమలందు నీవు నలిగే సమయమున ప్రభు నీకు తోడుండుననీ,none,327,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5882
+5883,శిలువాయే నాప్రాణ ధనము కలలోన మరువంగలేను,శిలువాయే నాప్రాణ ధనము కలలోన మరువంగలేను,none,304,0,0,0,,missing,https://waytochurch.com/lyrics/song/5883
+5884,sri yesu raajunake,శ్రీ యేసు రాజునకే ఎల్లప్పుడు మహిమా,none,346,0,0,0,,missing,https://waytochurch.com/lyrics/song/5884
+5885,సర్వశక్తుడు నా సొంతమయ్యెను మృత్యుంజయుడు నా జీవమయ్యెను,సర్వశక్తుడు నా సొంతమయ్యెను మృత్యుంజయుడు నా జీవమయ్యెను,none,407,0,0,0,,missing,https://waytochurch.com/lyrics/song/5885
+5886,స్తుతించిన సాతాన్ పారిపోతాడు కునికితే తిరిగి వస్తాడు,స్తుతించిన సాతాన్ పారిపోతాడు కునికితే తిరిగి వస్తాడు,none,516,0,0,0,,missing,https://waytochurch.com/lyrics/song/5886
+5887,స్తుతి పాడనా నేను ననుకాచె యేసయ్యకు,స్తుతి పాడనా నేను ననుకాచె యేసయ్యకు,none,364,0,1,0,,in_library_prefix,https://waytochurch.com/lyrics/song/5887
+5888,yesunu sthuthiyinchuvaaru nithyajeevamu pondhedharu,యేసును స్తుతియించు వారు నిత్యజీవము నొందెదరు,none,478,0,1,0,,missing,https://waytochurch.com/lyrics/song/5888
+5889,yesu andhariki prabhuvu,యేసు అందరికి ప్రభువు యేసే లోకరక్షకుడు,none,521,0,1,0,,missing,https://waytochurch.com/lyrics/song/5889
+5890,యేసు నీవు నన్ను ప్రేమిస్తున్నావు నీదు ప్రేమను నేను పొందుచున్నాను,యేసు నీవు నన్ను ప్రేమిస్తున్నావు నీదు ప్రేమను నేను పొందుచున్నాను,none,656,0,0,0,,missing,https://waytochurch.com/lyrics/song/5890
+5891,yesaiah naa hrudhayabilaasha neeve naiah,యేసయ్యా నా హృదయాభిలాష నీవేనయ్యా,partial,406,488,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/5891
+5892,yehovaa naaku velugaye,యెహోవా నాకు వెలుగాయే యెహోవానాకు రక్షణయే,partial,417,489,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/5892
+5893,yehova naa kaapari naakemi lemi kalugadhu,యెహోవా నా కాపరి నాకేమి లేమి కలుగదు,none,325,0,0,0,,missing,https://waytochurch.com/lyrics/song/5893
+5894,yehova ninnu poliyunna varevaru,యెహోవా నిన్ను పోలియున్న వారెవ్వరు,none,329,0,0,0,,missing,https://waytochurch.com/lyrics/song/5894
+5895,yehova ninnu sthuthiyinchuta yentho yentho manchidhi,యెహోవాను స్తుతించుట యెంతో యెంతో మంచిది,none,403,0,0,0,,missing,https://waytochurch.com/lyrics/song/5895
+5896,రాలి పోదువో నీవు కూలిపోదువో,రాలి పోదువో నీవు కూలిపోదువో,none,601,0,0,0,,missing,https://waytochurch.com/lyrics/song/5896
+5897,raaja nee prasannam,రాజా నీ ప్రసన్నం చాలునయ్యా,none,323,0,1,0,,missing,https://waytochurch.com/lyrics/song/5897
+5898,manchi kaapari maa prabhuvu,మంచి కాపరి మాప్రభు యేసే,none,463,0,0,0,,missing,https://waytochurch.com/lyrics/song/5898
+5899,manchigaa pilachina naa yesaiah,మంచిగా పిలచినా నా యేసయ్యా,none,467,0,0,0,,missing,https://waytochurch.com/lyrics/song/5899
+5900,మంచి దేవుడు భలే మంచి దేవుడు,మంచి దేవుడు భలే మంచి దేవుడు,none,585,0,1,0,,missing,https://waytochurch.com/lyrics/song/5900
+5901,madhuram madhuram dhiva vaakyam,మధురం మధురం దైవ వాక్యం,none,477,0,0,0,,missing,https://waytochurch.com/lyrics/song/5901
+5902,madhuramina ee samayamuna,మధురమైన ఈ సమయాన ప్రభుని పాట పాడెద,none,355,0,0,0,,missing,https://waytochurch.com/lyrics/song/5902
+5903,maarani devhudavu neevenaiah,మారని దేవుడవు నీవేనయ్యా మరుగై ఉండలేదు నీకు యేసయ్యా,none,444,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5903
+5904,maayalokam maayalokam maaripoku,మాయాలోకం మాయాలోకం,none,375,0,0,0,,missing,https://waytochurch.com/lyrics/song/5904
+5906,naa thoduga vunnavaadave,నాతోడుగా ఉన్నవాడవే నాచేయి పట్టి నడుపు వాడవే,none,607,0,2,0,,in_library_exact,https://waytochurch.com/lyrics/song/5906
+5907,naa praana priyuda naa yesu raaja naa yelinavaada,నాప్రాణ ప్రియుడా నాయేసు రాజా,none,498,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5907
+5908,nee premalenidhe ne brathukalenaiah,నీ ప్రేమలేనిదే నే బ్రతుకలేనయ్యా,none,549,0,1,0,,missing,https://waytochurch.com/lyrics/song/5908
+5909,paralokame naa anthapuram,పరాలోకమే నా అంతపురం చేరాలనే నా తాపత్రయం,none,446,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5909
+5910,paapini yesu prabho,పాపిని యేసు ప్రభో నే పాపిని యేసు ప్రభో,none,326,0,0,0,,missing,https://waytochurch.com/lyrics/song/5910
+5911,paavurama sangamupai,పావురమా సంఘముపై వ్రాలుమిదే జ్వాలలుగా,none,289,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5911
+5913,prabhuyesu ninnu piluvaga,ప్రభు యేసు నిను పిలువగా నీవు పరుగిడెదవా నిలువక,none,431,0,1,0,,missing,https://waytochurch.com/lyrics/song/5913
+5914,naa thalampanthaa neeve yesaiah,నా తలంపంతా నీవే యేసయ్యా నే కోరెదంతా నీతోడెకదయ్యా,none,359,0,2,0,,missing,https://waytochurch.com/lyrics/song/5914
+5915,kalyaana veduka,కళ్యాణ వేడుక – రమణీయ గీతిక,none,520,0,1,0,Dr A R Stevenson,missing,https://waytochurch.com/lyrics/song/5915
+5917,o sodara anduko,ఓ సోదరా అందుకో ఈ స్వాగత కుసుమాంజలి,none,763,0,1,0,Dr A R Stevenson,missing,https://waytochurch.com/lyrics/song/5917
+5918,teepi aashala mandaaraalu,తీపి ఆశల మందారాలు విరబూసిన ఈ వేళ,none,453,0,1,0,Dr A R Stevenson,missing,https://waytochurch.com/lyrics/song/5918
+5919,Yehova Kattina Illu idi,యెహోవ కట్టిన ఇల్లు ఇది – మహోన్నతుడు నిర్మించినది,none,347,0,0,0,Dr A R stevenson,missing,https://waytochurch.com/lyrics/song/5919
+5921,vachhindi vachhindi,వచ్చింది వచ్చింది మధురమైన సమయం,none,467,0,0,0,,missing,https://waytochurch.com/lyrics/song/5921
+5923,parugethedaa parugethedaa,పరుగెత్తెదా పరుగెత్తెదా,none,419,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5923
+5924,manche leni na paina entho prema,మంచే లేని నా పైనా ఏంతో ప్రేమ చూపావు,none,372,0,1,0,,missing,https://waytochurch.com/lyrics/song/5924
+5925,athikaankshaniyyuda naa yesayyaa,అతికాంక్షణీయుడా నా యేసయ్యా,none,684,0,0,0,,missing,https://waytochurch.com/lyrics/song/5925
+5926,yesu premane chupiddam,యేసు ప్రేమనే చూపిద్దాం యేసు లాగనే జీవిద్దాం,none,540,0,0,0,,missing,https://waytochurch.com/lyrics/song/5926
+5927,yesayya o yesayya,యేసయ్యా ఓ యేసయ్యా ఆరాధ్యుడా నా పూజ్యనీయుడా,none,504,0,0,0,,missing,https://waytochurch.com/lyrics/song/5927
+5928,yesayya ninnu chudalani,యేసయ్య నిను చూడాలని యేసయ్య నిను చేరాలని,none,426,0,0,0,,missing,https://waytochurch.com/lyrics/song/5928
+5929,yesayya nee bhavalu,యేసయ్యానీ భావాలు ఆ యెదలోనే నిండాలి,none,316,0,0,0,,missing,https://waytochurch.com/lyrics/song/5929
+5930,yehovanu sannutinchedam,యెహెూవాను సన్నుతించెదన్ ఆయనను కీర్తించెదను,none,731,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5930
+5932,యెహెూవా నను కరుణించుమూ,యెహెూవా నను కరుణించుమూ,none,467,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5932
+5933,vunnavaadavu ani anuvaadavu,ఉన్నవాడవు అని అనువాడవు,none,445,0,0,0,,missing,https://waytochurch.com/lyrics/song/5933
+5934,verucheyajaluna,వేరు చేయజాలునా దూరపరచ జాలునా,none,562,0,0,0,,missing,https://waytochurch.com/lyrics/song/5934
+5935,teliyaka vaaru,తెలియక వారు సిలువ వేశారు,none,630,0,0,0,,missing,https://waytochurch.com/lyrics/song/5935
+5936,talachukunte chalunu,తలుచుకుంటె చాలును ఓ యేసు నీ ప్రేమ,none,540,0,0,0,,missing,https://waytochurch.com/lyrics/song/5936
+5937,taara velisindhi,తార వెలిసింది ఆ నింగిలో ధరణి మురిసింది,none,489,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5937
+5938,sthutiyinchedam keertinchedam,స్తుతియించెదం కీర్తించెదం స్తుతి పాడెదం కొనియాడెదం,none,440,0,0,0,,missing,https://waytochurch.com/lyrics/song/5938
+5939,sthiti neeke yesu raaja,స్తుతి నీకే యేసు రాజా మహిమ నీకే యేసు రాజా,none,619,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5939
+5941,sainyamulaku adhipatiyagu devaa,సైన్యములకు అధిపతియగు దేవా నీకే స్తోత్రమయ్యా,none,583,0,0,0,,missing,https://waytochurch.com/lyrics/song/5941
+5942,sara sarpamura,సారా సర్పమురా అది కాటు వేయక తప్పదురా,none,522,0,0,0,,missing,https://waytochurch.com/lyrics/song/5942
+5943,rajulaku rajanta,రాజులకు రాజంట ప్రభువులకు ప్రభువంట,none,504,0,0,0,,missing,https://waytochurch.com/lyrics/song/5943
+5944,rajula rajuvayya neeve,రాజుల రాజువయ్యా నీవే మా రాజువయ్యా,none,644,0,0,0,,missing,https://waytochurch.com/lyrics/song/5944
+5945,prema ane mayalo,ప్రేమా అనే మాయలో చిక్కుకున్న సోదరీ సోదరా,none,505,0,0,0,,in_library_prefix,https://waytochurch.com/lyrics/song/5945
+5946,prabhuva ninu keerthinchutaku,ప్రభువా నిను కీర్తించుటకు వేనోళ్ళ చాలునా,none,523,0,0,0,,missing,https://waytochurch.com/lyrics/song/5946
+5947,prabhuva na prardhana,ప్రభువా నా ప్రార్ధన ఆలకించుమా,none,430,0,0,0,,missing,https://waytochurch.com/lyrics/song/5947
+5948,prabhuva ani pradhisthe,ప్రభువా అని ప్రార్ధిస్తే చాలునా,none,531,0,0,0,,missing,https://waytochurch.com/lyrics/song/5948
+5949,paralokamunu chudaliro,పరలోకమును చూడాలిరో,none,430,0,0,0,,missing,https://waytochurch.com/lyrics/song/5949
+5950,okka korika nannu korani,ఒక్క కోరిక నన్ను కోరనీ ఒక్క వరమే నన్ను అడగనీ,none,311,0,0,0,,missing,https://waytochurch.com/lyrics/song/5950
+5951,ninnu vidichi poledu,నిన్ను విడచి పోలేడు నిన్ను మరచి పోలేడు,none,458,0,0,0,,missing,https://waytochurch.com/lyrics/song/5951
+5952,nee mandirame,నీ మందిరమే మాకు ఆశ్రయం నీ సన్నిధియే మాకు ఆధారము,none,491,0,0,0,,missing,https://waytochurch.com/lyrics/song/5952
+5953,nee chittamu naalo,నీ చిత్తము నాలో జరిగించుమో దేవా,none,353,0,0,0,,missing,https://waytochurch.com/lyrics/song/5953
+5955,neeve maa thandrivi,నీవే మా తండ్రివి నీవే మా తల్లివి,none,264,0,0,0,,missing,https://waytochurch.com/lyrics/song/5955
+5956,nannu kaadanavani,నన్ను కాదనవని నను కాదనలేవని,none,319,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5956
+5957,nammakura nammakura,నమ్మకురా నమ్మకురా ఈ లోకం నమ్మకురా,none,490,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5957
+5959,naa vedanalo aavedanalo,నా వేదనలో ఆవేదనలో,none,413,0,0,0,,missing,https://waytochurch.com/lyrics/song/5959
+5960,మన్నించుమా మన్నించుమా,మన్నించుమా మన్నించుమా,none,464,0,0,0,,missing,https://waytochurch.com/lyrics/song/5960
+5961,mahonnathuda ni naamamune,మహెూన్నతుడా నీ నామమనే కీర్తించుటయే ఉత్తమము,none,419,0,0,0,,missing,https://waytochurch.com/lyrics/song/5961
+5962,kavali kavali naa yesuku sontham,కావాలి కావాలి నా యేసుకు సొంతం కావాలి,none,612,0,0,0,,missing,https://waytochurch.com/lyrics/song/5962
+5963,idi nyayama idi dharmama,ఇది న్యాయమా ఇది ధర్మమా,none,358,0,0,0,,missing,https://waytochurch.com/lyrics/song/5963
+5964,guruthu chesuko o priyuda,గురుతు చేసుకో ఓ ప్రియుడా,none,473,0,0,0,,missing,https://waytochurch.com/lyrics/song/5964
+5965,dinamulu cheddaviga,దినములు చెడ్డవిగా అజ్ఞానము విడిచెదవా,none,412,0,0,0,,missing,https://waytochurch.com/lyrics/song/5965
+5966,daagunnava neevu dagunnava,దాగున్నావా నీవు దాగున్నావా సంఘాన్ని చెడిపేవాడా,none,450,0,0,0,,missing,https://waytochurch.com/lyrics/song/5966
+5967,deva nee krupatho nannu karuninchuma,దేవా నీ కృపతో నన్ను కరుణించుమా,none,354,0,0,0,,missing,https://waytochurch.com/lyrics/song/5967
+5968,bariyinchalenayya nee mounamu,భరియించలేనయ్యా నీ మౌనము,none,435,0,0,0,,missing,https://waytochurch.com/lyrics/song/5968
+5969,apathkalamandu yehovah,అపత్కాలమందు యెహెూవా నీకు ఉత్తరమిచ్చును,none,398,0,0,0,,missing,https://waytochurch.com/lyrics/song/5969
+5970,aardhya daivama na prana,ఆరాధ్య దైవమా నా ప్రాణ దుర్గమా,none,549,0,0,0,,missing,https://waytochurch.com/lyrics/song/5970
+5971,aaradinthu aaradinthu yesayya,ఆరాధింతు ఆరాధింతు యేసయ్య నామం అన్నింట ఘన నామం,none,526,0,0,0,,missing,https://waytochurch.com/lyrics/song/5971
+5972,stothramu stothramu rakshana stothramu,స్తోత్రము స్తోత్రము రక్షణస్తోత్రము స్తోత్రము,none,460,0,1,0,,missing,https://waytochurch.com/lyrics/song/5972
+5973,aascharyamaina prema,ఆశ్చర్యమైన ప్రేమ కల్వరిలోని ప్రేమ,none,464,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5973
+5979,aa halleluyaa,ఆ హల్లెలుయా … ఆ హల్లెలుయా …,none,244,0,0,0,,missing,https://waytochurch.com/lyrics/song/5979
+5981,aaraadhanaku yogyudaa,ఆరాధనకు యోగ్యుడా నిత్యము స్తుతియించెదము,partial,399,742,2,0,,in_library_fuzzy,https://waytochurch.com/lyrics/song/5981
+5984,adhaaram neevenayyaa,ఆధారం నీవేనయ్యా ఆధారం నీవేనయ్యా,none,434,0,2,0,,missing,https://waytochurch.com/lyrics/song/5984
+5985,ambara veedhilo sambaram gaanchiri,అంబర వీధిలో – సంబరం గాంచిరి,none,316,0,0,0,,missing,https://waytochurch.com/lyrics/song/5985
+5986,anandame paramaanandame,ఆనందమే పరమానందమే యేసయ్య సన్నిధిలో,none,895,0,0,0,,missing,https://waytochurch.com/lyrics/song/5986
+5987,anchulanundi jaarela,అంచులనుండి జారేల – గిన్నెలు నిండి పోర్లేలా,none,519,0,0,0,Dr A R stevenson,missing,https://waytochurch.com/lyrics/song/5987
+5988,andaru nannu vidachina,అందరు నన్ను విడచినా – నీవునన్ను విడువనంటివే,none,454,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/5988
+5989,anni naamamula kanna pai naamau,అన్ని నామముల కన్న పై నామము – యేసుని నామము,none,538,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5989
+5990,atyunnatamainadi yesu naamam,అత్యున్నతమైనది యేసునామం – యేసునామం కోరస్,none,592,0,0,0,Samuel Finny Pachigalla,in_library_prefix,https://waytochurch.com/lyrics/song/5990
+5991,bedham emi ledu,బేధం ఏమి లేదు – అందరును పాపం చేసియున్నారు,none,692,0,0,0,Dr  John Wesley,in_library_exact,https://waytochurch.com/lyrics/song/5991
+5992,deva nee aavaranam maakento sreyaskaram,దేవా నీ ఆవరణం మాకెంతో శ్రేయస్కరం,none,607,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/5992
+5993,gaadaandhakaaramulo nenu tiriginanu o,గాడాధకారములొ – నేను తిరిగినను,none,363,0,0,0,,missing,https://waytochurch.com/lyrics/song/5993
+5994,halleluya halleluya stotramul,హల్లెలూయ హల్లెలూయ స్తోత్రముల్,none,324,0,3,0,,in_library_exact,https://waytochurch.com/lyrics/song/5994
+5996,hrudini marchu deva,హృదిని మార్చు దేవా – యధార్ధమైనదిగా,none,293,0,0,0,,missing,https://waytochurch.com/lyrics/song/5996
+6085,Nee mukhamu manoharamu s,నీ ముఖము మనోహరము నీ స్వరము మాధుర్యము,none,484,0,0,0,Bro  Yesanna,missing,https://waytochurch.com/lyrics/song/6085
+6086,silanaina nanu silpivai marchavu,శిలనైన నను శిల్పివై మార్చవు,none,653,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/6086
+6087,Nenu kuda vunnanayya,నేను కూడా ఉన్నానయ్య,none,555,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/6087
+6101,idhigo dheva ee hrudhayam,ఇదిగో దేవా ఈ హృదయం,none,312,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/6101
+6103,jayam jayam yesulo naaku,జయం జయం జయం జయం యేసులో నాకు జయం జయం,none,476,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/6103
+6105,my hu dhanya jeevi Iam Blessed,మై హు ధన్య జీవి మై హు ధన్య జీవి,none,1435,0,0,0,Bro  Anil Kumar,missing,https://waytochurch.com/lyrics/song/6105
+6106,Papaniki Naaku A Sambandamu Ledhu,పాపానికి నాకు ఏ సంబంధము లేదు,none,1659,0,0,0,Bro  M  Anil Kumar,in_library_exact,https://waytochurch.com/lyrics/song/6106
+6107,arambamayindhi restoration Restoration,ఆరంభమయ్యింది ఆరంభమయ్యింది,none,1739,0,0,0,Bro  M  Anil Kumar,missing,https://waytochurch.com/lyrics/song/6107
+6108,Premalo Paddanu Nenu Premalo,ప్రేమలో పడ్డాను నేను ప్రేమలో పడ్డాను ప్రేమలో పడ్డాను నేను ప్రేమలో పడ్డాను,none,1909,0,0,0,Bro  M  Anil Kumar,in_library_exact,https://waytochurch.com/lyrics/song/6108
+6109,Ye Samacharam Namuthavu Nuvvu,ఏ సమాచారం నమ్ముతావు నువ్వునువ్వు ఏ సమాచారం నమ్ముతావు నువ్వునువ్వు,none,2026,0,0,0,Bro  M  Anil Kumar,missing,https://waytochurch.com/lyrics/song/6109
+6110,Saswathamyna prematho annu preminchavayya,శాశ్వతమైన ప్రేమతో నను ప్రేమించావయ్యా నీ ప్రేమే నను గెల్చెను శాశ్వతమైన ప్రేమతో నను ప్రేమించావయ్యా నీ ప్రేమే నను గెల్చెను,none,2740,0,0,0,Bro  M  Anil Kumar,missing,https://waytochurch.com/lyrics/song/6110
+6111,Yesudevude naa konda,యేసు దేవుడే నా కొండ యేసు దేవుడే నా కొండ,none,1663,0,0,0,Bro  M  Anil Kumar,missing,https://waytochurch.com/lyrics/song/6111
+6145,manasanthaa neeve,మనసంతా నీవే ఊహల్లో నీవే,none,437,0,0,0,,missing,https://waytochurch.com/lyrics/song/6145
+6148,Naa gundelona neevu vunte chalu yesayya,నా గుండెలోన నీవు ఉంటే చాలు యేసయ్య,none,220,0,0,0,,missing,https://waytochurch.com/lyrics/song/6148
+6149,Vadabarani viswasamutho,వాడబారని విశ్వాసముతో,none,664,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/6149
+12413,ni namam naa ganam,నీ నామం నాగానంనీ స్మరణే నా సర్వం,none,368,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/12413
+12414,pavitra parachumu naa hrudayam,పవిత్ర పరచుము నా హృదయంనీ వాక్యమే నా ఆధారం,none,390,0,0,0,,missing,https://waytochurch.com/lyrics/song/12414
+12415,prema raju prema raju yesu prabhuvu,ప్రేమ రాజుప్రేమ రాజుయేసుప్రభువు మళ్ళీ వస్తాడు,none,718,0,0,0,,missing,https://waytochurch.com/lyrics/song/12415
+12416,yesu mahaa dhevudu entha manchi dhevudu,యేసు మహా దేవుడుఎంత మంచి దేవుడు,none,580,0,0,0,,missing,https://waytochurch.com/lyrics/song/12416
+12417,enniyallo enniyallo yesu dhevudochinaadu,ఎన్నియల్లో ఎన్నియల్లో,none,641,0,0,0,,missing,https://waytochurch.com/lyrics/song/12417
+12418,thoorpu nundi padamara varaku enth dhooramo,తూర్పు నుండి పడమరకు ఎంత దూరమో,none,370,0,0,0,,missing,https://waytochurch.com/lyrics/song/12418
+12419,yese naa dhevudu,యేసే నా దేవుడు,none,364,0,0,0,,missing,https://waytochurch.com/lyrics/song/12419
+12420,kristhuni goorchi meeku emi,క్రీస్తుని గూర్చి మీకు ఏమి తోచుచున్నది,none,596,0,0,0,,missing,https://waytochurch.com/lyrics/song/12420
+12421,rakshana pondhithiva nireekshana,రక్షణ పొందితివా నిరీక్షణ నొందితివా,none,542,0,0,0,,missing,https://waytochurch.com/lyrics/song/12421
+12422,sthuthi mahima ganatha prabhavamulu neeke,స్తుతి మహిమ ఘనతప్రభావములు నీకే,none,355,0,0,0,,missing,https://waytochurch.com/lyrics/song/12422
+12423,idhi rakshana krupa kaalam,ఇది రక్షణ కృపకాలం,none,390,0,0,0,,missing,https://waytochurch.com/lyrics/song/12423
+12424,sthuthi sthothramulu chellinthumu,స్తుతి స్తోత్రములు చెల్లిం తుముస్తుతి గీతమునే పాడెదము,none,374,0,0,0,,missing,https://waytochurch.com/lyrics/song/12424
+12425,o sevaka bhayapadaku,ఓ సేవకా భయపడకు నేను నీకు తోడైయుంటాను,none,561,0,0,0,,missing,https://waytochurch.com/lyrics/song/12425
+12426,aaradhinthunu halleluya,ఆరాధింతును హల్లెలూయా,none,355,0,0,0,,in_library_contained,https://waytochurch.com/lyrics/song/12426
+12427,aaradhinthu ninnu dheva,ఆరాధింతు నిన్ను దేవా,none,409,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/12427
+12428,kallu theristhe velugu raa,కళ్లు తెరిస్తే వెలుగురా,none,377,0,0,0,,missing,https://waytochurch.com/lyrics/song/12428
+12429,nadathunu nadathunu nadathunu,నడుతును నడుతును నడుతునూ నడుతును ప్రభువుతో నెప్పుడు,none,499,0,0,0,,missing,https://waytochurch.com/lyrics/song/12429
+12430,elanti vaadanyna,ఏలాంటి వాడవైనా,none,926,0,0,0,,missing,https://waytochurch.com/lyrics/song/12430
+12431,hosanna neeke vandhanaalu,హోసన్న నీకే వందనాలు,none,693,0,0,0,,missing,https://waytochurch.com/lyrics/song/12431
+12432,endhamo yesunemanukunnavu,ఏందమ్మో యేసునేమనుకున్నావు,none,844,0,0,0,,missing,https://waytochurch.com/lyrics/song/12432
+12433,dheva ee jeevitham,దేవా ఈ జీవితం నీకంకితం,none,743,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/12433
+12434,kallalo kanneeru endhuku,కళ్ళల్లో కన్నీరు ఎందుకూ,none,1087,0,4,0,,missing,https://waytochurch.com/lyrics/song/12434
+12435,yesuni kutumbhamokatunnadhi,యేసుని కుటుంబమొకటున్నది,none,578,0,6,0,,missing,https://waytochurch.com/lyrics/song/12435
+12436,jagathi kethenche rakshana kartha,జగతి కేతెంచె రక్షణ కర్త,none,622,0,6,0,,missing,https://waytochurch.com/lyrics/song/12436
+12437,yesu kooda vachunu,యేసు కూడా వచ్చును,none,604,0,8,0,,missing,https://waytochurch.com/lyrics/song/12437
+12438,jaya janda pattukonedham,జయ జెండా పట్టుకొనెదం,none,641,0,6,0,,missing,https://waytochurch.com/lyrics/song/12438
+12439,evaru nannu cheyi vidachinan,ఎవరు నన్ను చేయి విడిచినన్,none,621,0,8,0,,in_library_exact,https://waytochurch.com/lyrics/song/12439
+12440,prabhupi bhaaramella mopumaya,ప్రభుపై భారమెల్ల మోపుమయా,none,318,0,4,0,,missing,https://waytochurch.com/lyrics/song/12440
+12441,naaku chaalinadhi ni prema,నాకు చాలినది నీ ప్రేమ,none,393,0,0,0,"Samson , Stalin",missing,https://waytochurch.com/lyrics/song/12441
+12467,Entha manchi Devudavayya,ఎంత మంచి దేవుడవయ్యా ఎంత మంచి దేవుడవయ్యా,none,392,0,3,0,,in_library_fuzzy,https://waytochurch.com/lyrics/song/12467
+12530,Ardham chesukune apthudavu,అర్ధం చేసుకునే ఆప్తుడవు నీవే బాధను పంచుకునే బంధువు నీవే,none,554,0,0,0,,missing,https://waytochurch.com/lyrics/song/12530
+12531,ninne namminanu yesayya,నిన్నే నమ్మినాను యేసయ్య నన్ను విడిచి పోకు యేసయ్య,none,744,0,3,0,,missing,https://waytochurch.com/lyrics/song/12531
+13222,kanti papa valey nannu,కంటి పాప వలే నన్ను కాచుటకు నేను అర్హుడనా నేను అర్హుడనా,none,951,0,0,0,,missing,https://waytochurch.com/lyrics/song/13222
+13223,yehova yeere,యెహోవా యీరే నను చూసేవాడ నీవండుటయే చాలు,none,574,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/13223
+13236,Ananda ganalatho,ఆనంద గానాలతో ఆరాధించెద ఐశ్వర్యవంతుడా యేసయ్య,none,650,0,0,0,,missing,https://waytochurch.com/lyrics/song/13236
+19016,pellante dehamulu varaina Daivame thana chitthamuga,పెళ్లంటే దేహములు వేరైనా – ఒక్కటిగ ఫలియించె దైవ సంకల్పం,none,1262,0,0,0,S Vijayprasad Reddy,missing,https://waytochurch.com/lyrics/song/19016
+19971,Naadhu Rakshaka ni manase uttamam,నాదు రక్షకా నీ మనసే ఉత్తమం - దిన దినము నీతోనే వసియింతును,none,729,0,0,0,Dr  John Wesly,missing,https://waytochurch.com/lyrics/song/19971
+20008,Kalyaname Vaibhogam,కళ్యాణమే వైభోగం – కమనీయ కాంతుల దీపం,none,377,0,0,0,Dr  A  R  Stevenson,missing,https://waytochurch.com/lyrics/song/20008
+20766,nede viraboosele hrudhaya nethrambule,నేడే విరబూసెలే హృదయ నేత్రంబులే,none,385,0,2,0,"Rev  S  vijay Paul, Music: JK Christopher, Singer: Mrs  Grace Lezitha Joshua",missing,https://waytochurch.com/lyrics/song/20766
+21745,Nigilona merise nakshathram,నింగిలోన మెరిసే నక్షత్రం,none,720,0,0,0,K Y Ratnam,missing,https://waytochurch.com/lyrics/song/21745
+21832,Aaraadhinchedhamu Aathmatho Sathyamutho,ఆరాధించెదము ఆత్మతో సత్యముతో,none,573,0,0,0,Praveen VB,missing,https://waytochurch.com/lyrics/song/21832
+21833,E Jeevithamannadhi Kshanakaalamainadhi,ఈ జీవితమన్నది క్షణకాలమైనది పరలోకంలోనిది శాశ్వతమైనది,none,695,0,0,0,Praveen VB,missing,https://waytochurch.com/lyrics/song/21833
+21834,Sarvonathuda Sarvaadhikaari,సర్వోన్నతుడా సర్వాధికారి ఆకాశం నీ సింహాసనం,none,554,0,0,0,Praveen VB,missing,https://waytochurch.com/lyrics/song/21834
+21835,Yentho Madhuram Na Yesu Prema,ఎంతో మధురం నా యేసు ప్రేమ ఎంతో క్షేమం,none,392,0,0,0,Praveen VB,in_library_contained,https://waytochurch.com/lyrics/song/21835
+21873,kalvari giri pai naa yessaiah naa korakai,కల్వరిగిరిపై నా యేసయ్య,none,565,0,0,0,Bro SURESH NITTALA (Singapore),missing,https://waytochurch.com/lyrics/song/21873
+21874,Madhuraathi Madhuram yesu nee namam,మధురాతి మధురం యేసు నీ నామం,none,467,0,0,0,Joshua Shaik,missing,https://waytochurch.com/lyrics/song/21874
+21877,Silvalo Kaarchinaa Nee Rathamu,సిల్వలో కార్చినా నీ రక్తము,none,353,0,0,0,Praveen VB,missing,https://waytochurch.com/lyrics/song/21877
+21878,Chedu Aalochanalanu Jayinche Sakthi,చెడు ఆలోచనలను జయించే శక్తీ,none,420,0,0,0,Praveen VB,missing,https://waytochurch.com/lyrics/song/21878
+21894,Endhuko e gora papini,ఎందుకో ఈ ఘోర పాపిని,none,573,0,0,0,,missing,https://waytochurch.com/lyrics/song/21894
+21927,kanipettuchuntini prabhuvaa nee sannidhini,కనిపెట్టుచుంటిని ప్రభువా నీ సన్నిధినీ,partial,617,657,2,0,Bro Augustine,missing,https://waytochurch.com/lyrics/song/21927
+22226,Kamaneeyamaina nee premalona ne niluvanaa naa yesayya,కమనీయమైన నీ ప్రేమలోన నే నిలువనా నా యేసయ్య,partial,894,685,2,0,"Joshua Shaik, Passion For Christ Ministries",in_library_exact,https://waytochurch.com/lyrics/song/22226
+22284,Ninne nammukuntini oh deva,నిన్నే నమ్ముకుంటిని ఓ దేవా నన్ను దాటి వెళ్ళకు నా ప్రభువా,none,535,0,0,0,Akhil chand,missing,https://waytochurch.com/lyrics/song/22284
+22350,Ontarini nenu ontarini,ఒంటరిని నేను ఒంటరిని,partial,736,713,3,1,John Libni Bathuka,missing,https://waytochurch.com/lyrics/song/22350
+22496,Neeve naaku chaalunu yesu,నీవే నాకు చాలును యేసు,partial,462,477,3,0,"Apostle R Sudhakar Garu (Daiva sannidhi Ministries, Isukapalli)",missing,https://waytochurch.com/lyrics/song/22496
+22508,Aagani parugulo endina edaarulu,ఆగని పరుగులో ఎండిన ఎడారులు,partial,512,627,2,0,"Joshua Shaik, Passion For Christ Ministries",in_library_exact,https://waytochurch.com/lyrics/song/22508
+22590,Ne padipothini nee premaku ilalo,నే పడిపోతిని నీ ప్రేమకు ఇలలో,partial,535,665,2,1,Prudhvi Raj,missing,https://waytochurch.com/lyrics/song/22590
+22635,Chejarithe thirigi raadhu ee samayam,చేజారితే తిరిగి రాదు ఈ సమయం,partial,481,591,2,0,"L Aseervadam , Tune: Sis L Shanthi Aseervadam",missing,https://waytochurch.com/lyrics/song/22635
+22651,Aaraadinchedham aarbhaatinchedham,ఆరాదించెదం ఆర్భాటించెదం,partial,328,440,2,1,Samy Pachigalla,in_library_contained,https://waytochurch.com/lyrics/song/22651
+22710,నిన్నారాధించెదను నా పూర్ణ హృదయముతో,నిన్నారాధించెదను నా పూర్ణ హృదయముతో,none,406,0,0,0,"Sharon Philip , Philip Gariki",missing,https://waytochurch.com/lyrics/song/22710
+24824,Oohinchaledhayya dheevisthaavani,ఊహించలేదయ్య దీవిస్తావని,partial,428,555,2,1,Raj Chikkala,missing,https://waytochurch.com/lyrics/song/24824
+24826,Karuna sampannuda dheeruda sukumaaruda,కరుణా సంపన్నుడా ధీరుడా సుకుమారుడా,none,804,0,3,0,Pastor John Wesley,missing,https://waytochurch.com/lyrics/song/24826
+24908,Nee melulu vivarimpa tharamaa,నీ మేలులు వివరింపతరమా,partial,508,598,3,1,Suresh Nittala,missing,https://waytochurch.com/lyrics/song/24908
+24926,Yelo yelo yelo antu vachharandi gollalu,ఏలో ఏలో ఏలో అంటూ వచ్చారండీ గొల్లలు,partial,893,1062,3,0,Joshua Shaik,in_library_exact,https://waytochurch.com/lyrics/song/24926
+24940,Yesu puttenu rakshanochenu,యేసు పుట్టెను రక్షనొచ్చెను,partial,434,501,2,1,Philip gariki,missing,https://waytochurch.com/lyrics/song/24940
+24944,Chukkanu Chuchi Vachinamu,చుక్కను చూసి వచ్చినాము,none,805,0,0,0,,in_library_contained,https://waytochurch.com/lyrics/song/24944
+24963,వచ్చావయ్యా భువికేతెంచావయ్యా,వచ్చావయ్యా భువికేతెంచావయ్యా,none,826,0,2,0,Pastor A Yesu Babu,missing,https://waytochurch.com/lyrics/song/24963
+25007,Jeevamaina Yesu naalo pravahinchaali,జీవమైన యేసు నాలో ప్రవహించాలి,none,509,0,0,0,N Ravi vincent,missing,https://waytochurch.com/lyrics/song/25007
+27519,nenu ninnu ennadu viduvanu,నేను నిన్ను ఎన్నడు విడువను,none,494,0,0,0,,in_library_contained,https://waytochurch.com/lyrics/song/27519
+27520,o priya sodharuda o priya sodhari etu,ఓ ప్రియ సోదరుడా ఓ ప్రియ సోదరి ఎటు,none,587,0,1,0,,missing,https://waytochurch.com/lyrics/song/27520
+27528,Oneness 2,వన్నెస్ 2,none,3119,0,0,0,,unusable-title,https://waytochurch.com/lyrics/song/27528
+27571,Akasa gaganana mersindhi taraka,ఆకాశగగనాన మెరిసింది తారక,none,620,0,0,0,Ch Usha,missing,https://waytochurch.com/lyrics/song/27571
+27589,BETHLAHAHeMULO VINTHA,బెత్లహేములో వింత రాజు పుట్టుక వార్త,none,588,0,2,0,,missing,https://waytochurch.com/lyrics/song/27589
+27614,Ninu sthuthiyinchi ganaparachi,నిన్ను స్తుతియించి ఘనపరచి,none,1388,0,0,0,,missing,https://waytochurch.com/lyrics/song/27614
+27619,Nanu yedabaayaka padipooneeyaka podiginchithivi naa jeevamu,నను ఎడబాయక పడిపోనీయక పొడిగించితివి నా జీవము,partial,577,766,3,2,A R Stevenson,missing,https://waytochurch.com/lyrics/song/27619
+27643,Oohakandhanantha Unnatham,ఊహకందనంత ఉన్నతం నాపట్ల,none,527,0,0,0,Dr A R Stevenson,missing,https://waytochurch.com/lyrics/song/27643
+27714,Yesaiah nee prema naaku Chaalaiah,యేసయ్యనీ ప్రేమ నాకు చాలయ్య,none,708,0,0,0,Bro D David,in_library_contained,https://waytochurch.com/lyrics/song/27714
+27960,Sundaruda Athishayudaa,సుందరుడా… అతిశయుడా,none,712,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/27960
+27980,Velpulalovna Nivanti Devudu,వేల్పులలోన నీవంటి దేవుడు,none,2010,0,6,0,,in_library_lyric_line,https://waytochurch.com/lyrics/song/27980
+27982,Vijaya Seeludaa Naa Yesayya,విజయశీలుడా నా యేసయ్యా,none,1876,0,9,0,,missing,https://waytochurch.com/lyrics/song/27982
+28000,Yaahweh Raaphah Elohim Sheddai Yire Adoonaai Kanabarachunu,యావెహ్ రాఫ ఎలోహిం షడ్డాయ్ యీరె అదోనాయ్ కనపరచును,none,591,0,0,0,,missing,https://waytochurch.com/lyrics/song/28000
+28010,Prema Mayuda Naa Yesayya,ప్రేమమయుడా నా యేసయ్యా,none,2296,0,7,0,,missing,https://waytochurch.com/lyrics/song/28010
+28015,Paapaanni Pogotti Syaapaani Naa Sarvam Yesayya,పాపాన్ని పోగొట్టి శాపాన్ని,none,1957,0,2,0,,missing,https://waytochurch.com/lyrics/song/28015
+28019,Neevuleni Kshanamaina,నీవులేని క్షణమైనా,none,1516,0,0,0,,missing,https://waytochurch.com/lyrics/song/28019
+28020,నీవు లేని బ్రతుకును ఊహించలేను,నీవు లేని బ్రతుకును ఊహించలేను,none,385,0,0,0,Fr Dr C Babu Raj (Germany),missing,https://waytochurch.com/lyrics/song/28020
+28027,Ninupolina Varevaru,నిన్ను పోలిన వారెవరు,none,909,0,0,0,,missing,https://waytochurch.com/lyrics/song/28027
+28039,నా జీవితానికి యజమానుడా,నా జీవితానికి యజమానుడా,none,426,0,0,0,"John J, Fire Gospel Ministries",missing,https://waytochurch.com/lyrics/song/28039
+28060,Krupa Chuputalo Mahadaiswaryudaa,కృప చూపుటలో మహాదైశ్వర్యుడా,none,1856,0,6,0,,missing,https://waytochurch.com/lyrics/song/28060
+28074,Endhuko Nanninthaga Preminchinaavani,ఎందుకో నన్నింతగా ప్రేమించినావని,none,2140,0,8,0,,missing,https://waytochurch.com/lyrics/song/28074
+28086,Anudinamu noothanamuga vaatsalyatha neeku kalugunu,అనుదినము నూతనముగా వాత్సల్యత నీకు కలుగును,partial,288,335,2,0,Anne Deborah K Mohanty,missing,https://waytochurch.com/lyrics/song/28086
+28502,Nanna Yesuve Nanna Yesuve,,none,663,0,0,0,,unusable-title,https://waytochurch.com/lyrics/song/28502
+28504,Yella Maghimegu Ganathegu,,none,868,0,0,0,,unusable-title,https://waytochurch.com/lyrics/song/28504
+28508,Na Yesayya Nee Krupaye,నాయేసయ్య నీ కృప యే చాలయ్య,none,1503,0,10,0,,missing,https://waytochurch.com/lyrics/song/28508
+28513,Yessappa Neenandhre Nanna Ghishta,,none,575,0,0,0,,unusable-title,https://waytochurch.com/lyrics/song/28513
+28517,Sugali Madhyalo,,none,557,0,0,0,,unusable-title,https://waytochurch.com/lyrics/song/28517
+28546,Samudhrava Vibajisi Nadesuve Nee,,none,678,0,3,0,,unusable-title,https://waytochurch.com/lyrics/song/28546
+28632,Idi Ascharyame,ఇది ఆశ్చర్యమే,partial,698,748,2,1,Ps  Philip Gariki,missing,https://waytochurch.com/lyrics/song/28632
+28659,maha devuda mahonnathuda,మహాదేవుడా మహోన్నతుడా మహాఘనుడా,none,659,0,0,0,Dr Negala Joshua,missing,https://waytochurch.com/lyrics/song/28659
+28661,Jagamantha Sambarame 2,జగమంతా సంబరమే 2,none,521,0,0,0,DAVIDSON GAJULAVARTHI,missing,https://waytochurch.com/lyrics/song/28661
+28669,Naa Devudu Goppavadu,నా దేవుడు గొప్పవాడు ఏదైనా చెయ్యగలడు,none,1457,0,1,0,M. Vinod Kumar,missing,https://waytochurch.com/lyrics/song/28669
+28687,CHESEVANNI ADBHUTHALE,చేసేవన్నీ అద్భుతాలే మరువలేను నీదు మేలే,none,591,0,0,0,Samuel Karmoji,missing,https://waytochurch.com/lyrics/song/28687
+29506,Sukumaruda jagamulanele paripalaka,సుకుమారుడా జగములనేలే పరిపాలక,none,636,0,0,0,Ps Abraham,missing,https://waytochurch.com/lyrics/song/29506
+29508,Ashrayuda Naa Yesayya,ఆశ్రయుడా నా యేసయ్య,none,902,0,0,0,Ps Ramesh,missing,https://waytochurch.com/lyrics/song/29508
+29581,Samardhuda Naa Yesaya,సమర్థుడా నా యేసయ్య,none,1267,0,0,0,Akshay Ezra Sastry Sonti,missing,https://waytochurch.com/lyrics/song/29581
+29590,El Roi vai Nanu chudaga,ఎల్ రోయి వై నను చూడగా,none,456,0,0,0,Ps Nehemiah David,missing,https://waytochurch.com/lyrics/song/29590
+29658,Nee Sannidhi Chalu,మేఘస్తంభమైన సన్నిధిని రూపు మార్చగల సన్నిధిని,none,841,0,2,0,Evangelist Sam Prasad,in_library_exact,https://waytochurch.com/lyrics/song/29658
+29662,Evarunna lekunna naakemunna lekunna,ఎవరున్న లేకున్నా నాకేమున్నా లేకున్నా,partial,484,606,2,0,M. Manoj Kumar,missing,https://waytochurch.com/lyrics/song/29662
+29730,Meriseti taaralaa nanu veliginchu,మెరిసేటి తారలా నను వెలిగించు,partial,511,633,2,0,"Joshua Shaik, Deva Prasad",missing,https://waytochurch.com/lyrics/song/29730
+29740,lokamloni premalanni sasvatham kaavu,లోకములోని ప్రేమలన్ని శాశ్వతం కావు,none,800,0,0,0,,missing,https://waytochurch.com/lyrics/song/29740
+29747,Aapatkalamuna tana parnashalalo,ఆపత్కాలమున తన పర్ణశాలలో,none,535,0,5,0,,missing,https://waytochurch.com/lyrics/song/29747
+29752,కన్నీటితో నేను కడిగెదను,కన్నీటితో నేను కడిగెదను,none,389,0,0,0,,in_library_contained,https://waytochurch.com/lyrics/song/29752
+29753,Ashaga unnadi,ఆశగా ఉన్నది,none,478,0,0,0,,missing,https://waytochurch.com/lyrics/song/29753
+29758,జగములలో నీవే మా ప్రభు,జగములలో నీవే మా ప్రభు,none,1016,0,0,0,,missing,https://waytochurch.com/lyrics/song/29758
+29760,Yesayya naa Nireekshana,యేసయ్యా నా నిరీక్షణ ఆధారమా,none,283,0,0,0,,missing,https://waytochurch.com/lyrics/song/29760
+29761,Deyyamaa,దెయ్యమా దెయ్యమంటే నీకేంటి భయమా,none,0,0,0,0,,missing,https://waytochurch.com/lyrics/song/29761
+29773,E reethi sthuthinthunu,ఏ రీతి స్తుతింతును,none,738,0,0,0,,missing,https://waytochurch.com/lyrics/song/29773
+29776,Abba ninne premisthuna,అబ్బా నిన్నే ప్రేమిస్తున్నా,none,496,0,0,0,,missing,https://waytochurch.com/lyrics/song/29776
+29777,ascharyakaruda naa yesaiah,ఆశ్చర్యకరుడా నా యేసయ్యా,none,438,0,0,0,,missing,https://waytochurch.com/lyrics/song/29777
+29781,Oohakandadayya Nee Karyamu,ఊహ కందదయ్యా నీ కార్యము,none,593,0,0,0,,missing,https://waytochurch.com/lyrics/song/29781
+29786,నీ ప్రేమ నాకు కావాలయ్యా,నీ ప్రేమ నాకు కావాలయ్యా,none,1143,0,0,0,,missing,https://waytochurch.com/lyrics/song/29786
+29793,Nee Krupaye Naa Jeevithamu,నీ కృపయే నా జీవితము,none,1350,0,3,0,Sirisha Grace,missing,https://waytochurch.com/lyrics/song/29793
+29794,ముందుకే వెళ్లెదను,ముందుకే వెళ్లెదను,none,492,0,0,0,,missing,https://waytochurch.com/lyrics/song/29794
+29800,తల్లి వడిలో పవలించె బిడ్డవలే,తల్లి వడిలో పవలించె బిడ్డవలే,none,1290,0,0,0,,missing,https://waytochurch.com/lyrics/song/29800
+29801,Doothalu Digivache,దూతలు దిగివచ్చే,none,421,0,0,0,,missing,https://waytochurch.com/lyrics/song/29801
+29805,Nenaithe Nee Krupayandhu,నేనైతే నీకృపయందు,none,622,0,0,0,,missing,https://waytochurch.com/lyrics/song/29805
+29808,Naa hrudayam neetho nindene,నా హృదయం నీతో నిండనే,none,1145,0,0,0,,missing,https://waytochurch.com/lyrics/song/29808
+29809,abraham gari viswasam,అబ్రాహాము గారి విశ్వాసం,none,1036,0,0,0,,missing,https://waytochurch.com/lyrics/song/29809
+29816,jeevahaaramu kreesthe kreesthe jeevadhipathi,జీవాహారము క్రీస్తే జీవాధిపతి శ్రీ యేసే,none,660,0,0,0,,missing,https://waytochurch.com/lyrics/song/29816
+29822,raraju puttenu nigilo thara velisenu,రారాజు పుట్టెను నింగిలో తార వెలిసేను,none,1184,0,0,0,PREM EVAN D,missing,https://waytochurch.com/lyrics/song/29822
+29823,NEEVU LEKA KSHANAMAINA,నీవు లేక క్షణమైనా నిలువ లేను,none,595,0,0,0,PREM EVAN D,missing,https://waytochurch.com/lyrics/song/29823
+29828,anandhinchudi,ఆనందించుడి,none,323,0,0,0,,unusable-title,https://waytochurch.com/lyrics/song/29828
+29831,Santhosha Sambarame,క్రీస్తుజన్మించె నేడు కాంతి ఉదయించెనే,none,516,0,0,0,,missing,https://waytochurch.com/lyrics/song/29831
+29832,Dharanilo Velasindu La,ధరణిలో వెలసినాడు,none,1319,0,0,0,,missing,https://waytochurch.com/lyrics/song/29832
+29833,Parisaraana Sasyamantha Hymnal,కోత విస్తారమేగాని పనివారు కొద్దిగా ఉన్నారు,none,325,0,3,0,Translated : Kollkapu gopal Rao | Original Lyrics: O J Thompson,missing,https://waytochurch.com/lyrics/song/29833
+29842,preme naa maargam dheva,ప్రేమే నా మార్గం దేవా,none,403,0,0,0,,missing,https://waytochurch.com/lyrics/song/29842
+29846,thalli marachina thandri vidachina,తల్లి మరచిన తండ్రి విడచిన,none,890,0,0,0,,in_library_lyric_line,https://waytochurch.com/lyrics/song/29846
+29847,STOTRARHUDA NA YESAYYA,స్తోత్రార్హుడా నా యేసయ్యా,none,847,0,5,0,,in_library_contained,https://waytochurch.com/lyrics/song/29847
+29852,Karunathmude kadilochchade,కరుణాత్ముడే కదిలొచ్చాడే,none,693,0,2,0,,missing,https://waytochurch.com/lyrics/song/29852
+29856,sarvalokana santhosham,సర్వలోకాన సంతోషమే,none,948,0,0,0,,missing,https://waytochurch.com/lyrics/song/29856
+29857,endamavule jeevanadhulai,ఎండమావులే జీవనదులై,none,1173,0,0,0,,missing,https://waytochurch.com/lyrics/song/29857
+29860,kanikara poornuda na yesaiah,కనికర పూర్ణుడా నా యెసయ్యా,none,1114,0,0,0,,missing,https://waytochurch.com/lyrics/song/29860
+29875,లోకమునకు వెలుగుగా 0,లోకమునకు వెలుగుగా 0,none,569,0,0,0,,missing,https://waytochurch.com/lyrics/song/29875
+29877,దేవా మా కుటుంబము నీ సేవకే అంకితము,దేవా మా కుటుంబము నీ సేవకే అంకితము,none,1195,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/29877
+29878,నీవు లేని క్షణము,నీవు లేని క్షణము,none,1640,0,0,0,,missing,https://waytochurch.com/lyrics/song/29878
+29879,Andhala bala yesu,అందాల బాల యేసు అందరికి వెలుగునిచ్చె,none,0,0,0,0,Traditional Telugu Christmas Church Song (Public Domain – Lyricist Unknown),missing,https://waytochurch.com/lyrics/song/29879
+29893,చక్కనివాడమ్మ,చక్కనివాడమ్మ,none,964,0,0,0,Karipothu Veerraju,missing,https://waytochurch.com/lyrics/song/29893
+29894,యూదుల రాజుగ,యూదుల రాజుగ,none,949,0,0,0,,missing,https://waytochurch.com/lyrics/song/29894
+29895,యేసు యేసు గొప్ప రాజు,యేసు యేసు గొప్ప రాజు,none,1531,0,0,0,,missing,https://waytochurch.com/lyrics/song/29895
+29907,vandhanalayya vandanalaya,వందనాలయ్యా వందనాలయ్యా,none,2202,0,0,0,,in_library_lyric_line,https://waytochurch.com/lyrics/song/29907
+29908,Nuthana samvatsaramulo naidoinchu prabhuva,నూతన సంవత్సరములో నడిపించుము ప్రభువా,none,1798,0,0,0,Sis. Swaroopa Pradeep,missing,https://waytochurch.com/lyrics/song/29908
+29911,pravachana saramu prabavinchenu ilalona,ప్రవచేన సారము ప్రభవించెను ఇలలోన,none,866,0,0,0,,missing,https://waytochurch.com/lyrics/song/29911
+29917,JALARI PANDUGA,జాలరి పండుగ,none,2370,0,0,0,DR. R. SANTHI JYOTHI KUMAR,missing,https://waytochurch.com/lyrics/song/29917
+29918,చేప కడుపులో యోనా,చేప కడుపులో యోనా,none,946,0,0,0,,missing,https://waytochurch.com/lyrics/song/29918
+29925,Viswadhipathi vani pogadi,విశ్వాధిపతివని పొగిడి శోధను వివరించెదను,none,2362,0,0,0,BRO.PRAKASH GARU,missing,https://waytochurch.com/lyrics/song/29925
+29926,gathinchina kaalamantha,గతించిన కాలమంతా,none,1783,0,0,0,BRO.CH.SIVA,missing,https://waytochurch.com/lyrics/song/29926
+29929,Yesu raju janminchinadu nee kosam,యేసు రాజు జన్మించినాడు నీకోసం,none,1520,0,0,0,,missing,https://waytochurch.com/lyrics/song/29929
+29932,bhayamesthunchi yessaya,భయమేస్తుంది యేసయ్య భయానికి జవాబు యేసు,none,1072,0,0,0,,missing,https://waytochurch.com/lyrics/song/29932
+29933,lokanike shubavartha,లోకానికే శుభవార్త,none,1620,0,0,0,,missing,https://waytochurch.com/lyrics/song/29933
+29934,neelanti prema evvaru chupaleru,నీలాంటి ప్రేమ ఎవరు చూపలేరు ​ ​,none,942,0,0,0,,missing,https://waytochurch.com/lyrics/song/29934
+29935,aaradhananku arhuda,ఆరాధనకు అర్హుడు,none,2052,0,0,0,Sis. Priscilla Robert,missing,https://waytochurch.com/lyrics/song/29935
+29938,andukonuma swagatham,అందుకొనుమా స్వాగతం,none,362,0,0,0,,missing,https://waytochurch.com/lyrics/song/29938
+29939,dhevude yesu dhevude nazareyudaina yesu,దేవుడే యేసు దేవుడే నజరేయుడైన యేసు,none,1093,0,0,0,,missing,https://waytochurch.com/lyrics/song/29939
+29940,yesu kristhu prabhuvu andhariki prabhuvu,యేసు క్రీస్తు ప్రభువు అందరికీ ప్రభువు,none,2036,0,0,0,,missing,https://waytochurch.com/lyrics/song/29940
+29966,inthakaalam mammunu,ఇంతకాలం మమ్మును,none,1663,0,0,0,Pastor Daniel Raju P,missing,https://waytochurch.com/lyrics/song/29966
+29971,NAA VIJAYA SAARADHI NEEVE,నా విజయ సారథి నీవే,none,1799,0,0,0,,missing,https://waytochurch.com/lyrics/song/29971
+29972,nutan vatsar subhavelalo,నూతన వత్సర శుభవేళలో,none,429,0,0,0,,missing,https://waytochurch.com/lyrics/song/29972
+29973,ప్రభువా దృష్టించుము నాకు ఇబ్బంది కలిగెను,ప్రభువా దృష్టించుము నాకు ఇబ్బంది కలిగెను,none,1043,0,0,0,-,missing,https://waytochurch.com/lyrics/song/29973
+29977,ప్రేమస్వరూపుడా,ప్రేమస్వరూపుడా,none,2116,0,0,0,,missing,https://waytochurch.com/lyrics/song/29977
+29978,సార్వభౌముడా నా యేసయ్యా,సార్వభౌముడా నా యేసయ్యా,none,652,0,0,0,,missing,https://waytochurch.com/lyrics/song/29978
+29979,vachindhi kotha samvacharam,వచ్చిందీ కొత్త సంవత్సరం,none,1307,0,0,0,,missing,https://waytochurch.com/lyrics/song/29979
+29987,kruthagnatha sthuthulu neekenayya,కృతజ్ఞతస్తుతులు నీకేనయ్య,none,1842,0,0,0,Kondapally Anand kumar,in_library_contained,https://waytochurch.com/lyrics/song/29987
+29988,AADHARANAKARTHA,నీ కన్నులు నన్ను చూచినవి యేసయ్యా,none,1637,0,0,0,,missing,https://waytochurch.com/lyrics/song/29988
+29989,na sthiraadharudaina yessaya,నా స్థిరాధారుడా యేసయ్య,none,1905,0,0,0,PS. John Halleluia Garu,missing,https://waytochurch.com/lyrics/song/29989
+29990,మరణమా జీవమా ఏది కోరుకుంది,మరణమా జీవమా ఏది కోరుకుంది,none,817,0,0,0,,missing,https://waytochurch.com/lyrics/song/29990
+29991,నా దేవా నే నీతో ఉంటా ప్రతిక్షణం,నా దేవా నే నీతో ఉంటా ప్రతిక్షణం,none,1287,0,0,0,,missing,https://waytochurch.com/lyrics/song/29991
+29992,న్యాయాధిపతి ॥,న్యాయాధిపతి ॥,none,1958,0,0,0,,unusable-title,https://waytochurch.com/lyrics/song/29992
+30002,yesayya naa rajadhiraja,యేసయ్యా నా రాజాధిరాజా,none,946,0,0,0,Kurinela Pavan,missing,https://waytochurch.com/lyrics/song/30002
+30008,na gaanam neevaiah,నా గానం నీవయ్యా,none,1056,0,0,0,,missing,https://waytochurch.com/lyrics/song/30008
+30009,nee krupa lenidhe ne brathukagalana,నీ కృప లేనిదే నే బ్రతుకగలనా,none,1646,0,0,0,Naresh Rapaka,missing,https://waytochurch.com/lyrics/song/30009
+30010,అనుభవించే ప్రతి యివి,అనుభవించే ప్రతి యివి,none,1835,0,0,0,,missing,https://waytochurch.com/lyrics/song/30010
+30011,ఆదరించే వారు లేక,ఆదరించే వారు లేక,none,1462,0,0,0,,missing,https://waytochurch.com/lyrics/song/30011
+30019,Yesu na sonthamai,యేసు నా సొంతమై,none,453,0,3,0,,missing,https://waytochurch.com/lyrics/song/30019
+30024,నా పక్షమందు,నా పక్షమందు,none,1658,0,0,0,Pas.Ch.Kishore Babu Garu,missing,https://waytochurch.com/lyrics/song/30024
+30025,nivu chesina upakaramulakai,నీవు చేసిన ఉపకారములకై,none,1196,0,0,0,**Bro. Krupa Rao Garu**,in_library_exact,https://waytochurch.com/lyrics/song/30025
+30054,ప్రేమే జగతికి మూలం – యేసు క్రీస్తు ప్రేమ,ప్రేమే జగతికి మూలం – యేసు క్రీస్తు ప్రేమ,none,457,0,0,0,,missing,https://waytochurch.com/lyrics/song/30054
+30058,vacchestunnadu yesu vacchestunnadu,వచ్చేస్తున్నాడు యేసు వచ్చేస్తున్నాడు,none,1309,0,0,0,,missing,https://waytochurch.com/lyrics/song/30058
+30066,యేసు చెప్పెను నేనే మార్గము సత్యము జీవము,యేసు చెప్పెను నేనే మార్గము సత్యము జీవము,none,373,0,0,0,,missing,https://waytochurch.com/lyrics/song/30066
+30067,I Naresh Rapaka,నీ మాటే నాకు ప్రాణం,none,1096,0,0,0,,missing,https://waytochurch.com/lyrics/song/30067
+30083,స్తుతి కీర్తనలకు పాత్రుడైన,స్తుతి కీర్తనలకు పాత్రుడైన,none,1262,0,0,0,,missing,https://waytochurch.com/lyrics/song/30083
+30084,పిలచిన వాడవు,పిలచిన వాడవు,none,1201,0,0,0,BROTHER JOHN BANIAN { 90106 17955 },missing,https://waytochurch.com/lyrics/song/30084
+30089,యేసయ్యా… నన్ను వదలవు నీవు,యేసయ్యా… నన్ను వదలవు నీవు,none,1060,0,0,0,,missing,https://waytochurch.com/lyrics/song/30089
+30095,దేవుని ఇష్టం,దేవుని ఇష్టం,none,1649,0,0,0,Br. Pastham Srinivas garu,missing,https://waytochurch.com/lyrics/song/30095
+30096,కృపయే కదా,కృపయే కదా,none,2156,0,0,0,,unusable-title,https://waytochurch.com/lyrics/song/30096
+30120,నాకష్ట కాలములో ట్రాక్,నాకష్ట కాలములో ట్రాక్,none,694,0,0,0,,missing,https://waytochurch.com/lyrics/song/30120
+30121,బ్రతికించుకుంటాను,బ్రతికించుకుంటాను,none,1517,0,0,0,Sirivella Hanoch,missing,https://waytochurch.com/lyrics/song/30121
+30125,విరిగిన నన్ను విలువగా మార్చిన యేసయ్యా,విరిగిన నన్ను విలువగా మార్చిన యేసయ్యా,none,289,0,0,0,,missing,https://waytochurch.com/lyrics/song/30125
+30126,యేసయ్యా… నువ్వే నా ఆశ,యేసయ్యా… నువ్వే నా ఆశ,none,991,0,0,0,,missing,https://waytochurch.com/lyrics/song/30126
+30129,చింత దండగ,చింత దండగ,none,1266,0,0,0,Dr. Victor Rampogu,unusable-title,https://waytochurch.com/lyrics/song/30129
+30133,దావీదు వలెనే నాట్యమాడి,దావీదు వలెనే నాట్యమాడి,none,1108,0,0,0,- Jesus songs Telugu,missing,https://waytochurch.com/lyrics/song/30133
+30134,కృప కలుగును గాక,కృప కలుగును గాక,none,2278,0,0,0,Jonah Samuel,missing,https://waytochurch.com/lyrics/song/30134
+30135,paripoornuda na yessaiah,పరిపూర్ణుడా నాయేసయ్యా,none,586,0,3,0,Pastor.Vatam Samuel,missing,https://waytochurch.com/lyrics/song/30135
+30141,asayam neeve yessaiah adharam neve messaiah,ఆశ్రయం నీవే యేసయ్యా ఆధారం నీవే మెస్సయ్యా,none,651,0,0,0,Bro N Pradeep Reddy (WayToParadise),missing,https://waytochurch.com/lyrics/song/30141
+30147,shalemu raja na yessaiah,షాలేము రాజా నా యేసయ్యా,none,374,0,2,0,Sister Angel,missing,https://waytochurch.com/lyrics/song/30147
+30148,na hrudhayam nee padhala dhagare,నా హృదయం నీ పాదాల దగ్గరే,none,1070,0,0,0,,missing,https://waytochurch.com/lyrics/song/30148
+30153,entha kalamo e andhakaramu,ఎంత కాలమో ఈ అంధకారము,none,287,0,0,0,,missing,https://waytochurch.com/lyrics/song/30153
+30154,kalataleni nidu prema,కలతలేని నీదు ప్రేమ,none,660,0,0,0,,missing,https://waytochurch.com/lyrics/song/30154
+30155,సిలువ వరకు వచ్చిన ప్రేమ,సిలువ వరకు వచ్చిన ప్రేమ,none,1929,0,0,0,,missing,https://waytochurch.com/lyrics/song/30155
+30164,వ్యర్థము వ్యర్థం సర్వము,వ్యర్థము వ్యర్థం సర్వము,none,738,0,8,0,,missing,https://waytochurch.com/lyrics/song/30164
+30165,అంతము సమీపమైయున్నది,అంతము సమీపమైయున్నది,none,699,0,3,0,,missing,https://waytochurch.com/lyrics/song/30165
+30166,పరిశుద్ధాత్మునిచే రేపబడుదాం రారాజు సైన్యమా మేల్కొనుము,పరిశుద్ధాత్మునిచే రేపబడుదాం రారాజు సైన్యమా మేల్కొనుము,none,1359,0,0,0,,missing,https://waytochurch.com/lyrics/song/30166
+30167,మరణానికే,మరణానికే,none,475,0,0,0,,unusable-title,https://waytochurch.com/lyrics/song/30167
+30168,ఎన్ని తలచినా ఏదిఅడిగినా కన్నీరు తెప్పించే ఆరాధన గీతం,ఎన్ని తలచినా ఏదిఅడిగినా కన్నీరు తెప్పించే ఆరాధన గీతం,none,1240,0,0,0,,missing,https://waytochurch.com/lyrics/song/30168
+30169,నీవే నా దిక్కు,నీవే నా దిక్కు,none,1513,0,0,0,,missing,https://waytochurch.com/lyrics/song/30169
+30170,నీ సిలువే నా ఆశ,నీ సిలువే నా ఆశ,none,417,0,0,0,,missing,https://waytochurch.com/lyrics/song/30170
+30184,ఎంత మంచి ప్రేమ నీది యేసయ్య,ఎంత మంచి ప్రేమ నీది యేసయ్య,none,1535,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/30184
+30185,ఏముంది నాలో నీ పరిశుద్ధత లేదే –,ఏముంది నాలో నీ పరిశుద్ధత లేదే –,none,1564,0,0,0,,missing,https://waytochurch.com/lyrics/song/30185
+30186,దేవుని కంఠస్వరము సంఘమా గుర్తుపట్టాలి,దేవుని కంఠస్వరము సంఘమా గుర్తుపట్టాలి,none,1345,0,0,0,,missing,https://waytochurch.com/lyrics/song/30186
+30187,। ద్రాక్ష తోట నీది ।,। ద్రాక్ష తోట నీది ।,none,301,0,2,0,,missing,https://waytochurch.com/lyrics/song/30187
+30188,ప్రార్థన చేయాలని ఆశగా ఉందయ్యా,ప్రార్థన చేయాలని ఆశగా ఉందయ్యా,none,676,0,0,0,,missing,https://waytochurch.com/lyrics/song/30188
+30196,యోగ్యుడనా నేను అర్హుడనా☦,యోగ్యుడనా నేను అర్హుడనా☦,none,1456,0,0,0,Bro. Solomanraju,missing,https://waytochurch.com/lyrics/song/30196
+30201,కలువరి గిరిలోన,కలువరి గిరిలోన,none,1522,0,0,0,Nagaraju Bandela,missing,https://waytochurch.com/lyrics/song/30201
+30204,ధవళ వర్ణుడు,ధవళ వర్ణుడు,none,578,0,0,0,Bro.Murali,missing,https://waytochurch.com/lyrics/song/30204
+30223,విరిగి నలిగిన హృదయము,విరిగి నలిగిన హృదయము,none,2141,0,0,0,M John Bhaskar,in_library_contained,https://waytochurch.com/lyrics/song/30223
+30230,మానవ జాతికి మనసుననీతి,మానవ జాతికి మనసుననీతి,none,825,0,0,0,,missing,https://waytochurch.com/lyrics/song/30230
+30231,పస్కాబలియాగం,పస్కాబలియాగం,none,1848,0,0,0,Elder T.Solomon Raj garu,missing,https://waytochurch.com/lyrics/song/30231
+30232,మా నిధులు నీ మహిమలో,మా నిధులు నీ మహిమలో,none,1287,0,0,0,,missing,https://waytochurch.com/lyrics/song/30232
+30233,యేసయ్య ఓ నా యేసయ్య,యేసయ్య ఓ నా యేసయ్య,none,1525,0,0,0,,missing,https://waytochurch.com/lyrics/song/30233
+30236,కనికర కాపరి క్రీస్తు కనికరము కొరకు కనిపెట్టుచు,కనికర కాపరి క్రీస్తు కనికరము కొరకు కనిపెట్టుచు,none,1271,0,0,0,,missing,https://waytochurch.com/lyrics/song/30236
+30237,Divya Sakhuda,సఖుడా దివ్య సఖుడా,none,1451,0,0,0,,missing,https://waytochurch.com/lyrics/song/30237
+30242,అంతరంగ పురుషుడు సాధుగుణం,అంతరంగ పురుషుడు సాధుగుణం,none,1294,0,0,0,,missing,https://waytochurch.com/lyrics/song/30242
+30243,పంపుము దేవా పనివారలను – పంటను కోయుటకు,పంపుము దేవా పనివారలను – పంటను కోయుటకు,none,1077,0,0,0,Ps. D. John Augustine Garu 🙏,missing,https://waytochurch.com/lyrics/song/30243
+30244,యేసయ్యా నీ ప్రేమ గొప్పది,యేసయ్యా నీ ప్రేమ గొప్పది,none,1083,0,0,0,,missing,https://waytochurch.com/lyrics/song/30244
+30257,గడచిన కాలం కృపలో మమ్ము,గడచిన కాలం కృపలో మమ్ము,none,1136,0,0,0,,missing,https://waytochurch.com/lyrics/song/30257
+30258,ఏ క్షణమున ఏమౌనో,ఏ క్షణమున ఏమౌనో,none,1962,0,0,0,,missing,https://waytochurch.com/lyrics/song/30258
+30263,ఎలోహీం ఎల్షద్దాయి అదోనై,ఎలోహీం ఎల్షద్దాయి అదోనై,none,385,0,0,0,,missing,https://waytochurch.com/lyrics/song/30263
+30264,siluvalo sagindhi yatra,సిలువలో సాగింది యాత్ర,none,584,0,0,0,Traditional Telugu Christian Worship Song,in_library_exact,https://waytochurch.com/lyrics/song/30264
+30265,భవిష్యద్ జ్ఞానము పై నుండి వచ్చు జ్ఞానము,భవిష్యద్ జ్ఞానము పై నుండి వచ్చు జ్ఞానము,none,741,0,0,0,,missing,https://waytochurch.com/lyrics/song/30265
+30270,ఆనంద గీతాలు నే పాడుతు,ఆనంద గీతాలు నే పాడుతు,none,1193,0,0,0,,missing,https://waytochurch.com/lyrics/song/30270
+30271,ఆ పసిపిల్లలు చేసిన తప్పేంటి,ఆ పసిపిల్లలు చేసిన తప్పేంటి,none,1055,0,0,0,Vikas Ravuri,missing,https://waytochurch.com/lyrics/song/30271
+30275,నీవే కావాలేసయ్యా,నీవే కావాలేసయ్యా,none,1866,0,0,0,,missing,https://waytochurch.com/lyrics/song/30275
+30276,వర్ధిల్లేదన్,వర్ధిల్లేదన్,none,430,0,0,0,,missing,https://waytochurch.com/lyrics/song/30276
+30277,యేసయ్య నన్ను కనికరించావా,యేసయ్య నన్ను కనికరించావా,none,926,0,0,0,-,missing,https://waytochurch.com/lyrics/song/30277
+30278,దావీదు కుమారుడా,దావీదు కుమారుడా,none,1152,0,0,0,,missing,https://waytochurch.com/lyrics/song/30278
+30283,జీవజలపు ఊటవు నీవే,జీవజలపు ఊటవు నీవే,none,1120,0,0,0,,missing,https://waytochurch.com/lyrics/song/30283
+30284,దేవుని వారసులము క్రీస్తులో నిత్యజీవ రాజ్య వారసులము,దేవుని వారసులము క్రీస్తులో నిత్యజీవ రాజ్య వారసులము,none,1027,0,0,0,,missing,https://waytochurch.com/lyrics/song/30284
+30290,నీకిష్టమైది కావాలి దేవునికి,నీకిష్టమైది కావాలి దేవునికి,none,1072,0,0,0,,missing,https://waytochurch.com/lyrics/song/30290
+30291,లోకాన్ని మోసింది యేసయ్య సిలువ,లోకాన్ని మోసింది యేసయ్య సిలువ,none,1275,0,0,0,Anand Kumar Kattula,missing,https://waytochurch.com/lyrics/song/30291
+30297,యేసు రక్తము రక్తము రక్తము ✝,యేసు రక్తము రక్తము రక్తము ✝,none,1047,0,0,0,,in_library_exact,https://waytochurch.com/lyrics/song/30297
+30298,నా భారాన్ని నీ పాదాల దగ్గర ఉంచాను యేసయ్య,నా భారాన్ని నీ పాదాల దగ్గర ఉంచాను యేసయ్య,none,680,0,0,0,,missing,https://waytochurch.com/lyrics/song/30298
+30303,సృష్టికర్త దేవుడు కృపకలిగిన దేవుడు,సృష్టికర్త దేవుడు కృపకలిగిన దేవుడు,none,796,0,0,0,,missing,https://waytochurch.com/lyrics/song/30303
+30305,క్షమించుమో ప్రభో,క్షమించుమో ప్రభో,none,1184,0,0,0,Sis. Prasanthi Mortha,missing,https://waytochurch.com/lyrics/song/30305
+30306,సిలువ పై నివేదన,సిలువ పై నివేదన,none,1533,0,0,0,,missing,https://waytochurch.com/lyrics/song/30306
+30307,జ్ఞాపకార్థ గీతం ప్రథమ వర్ధంతి,జ్ఞాపకార్థ గీతం ప్రథమ వర్ధంతి,none,385,0,0,0,,missing,https://waytochurch.com/lyrics/song/30307
+30315,శరణం ప్రభువా,శరణం ప్రభువా,none,1212,0,0,0,Ps. Abhishek Devadas,missing,https://waytochurch.com/lyrics/song/30315
+30316,నాలోనే నీవు ఉన్నావు యేసయ్య,నాలోనే నీవు ఉన్నావు యేసయ్య,none,1024,0,0,0,,missing,https://waytochurch.com/lyrics/song/30316
+30320,Stutiganamu Chesedan,స్తుతిగానము చేసెదన్,none,558,0,0,0,Dr.Satish Kumar Garu,in_library_contained,https://waytochurch.com/lyrics/song/30320
+30321,పరవశమై సర్వశక్తుని దర్శన భాగ్యము పొందుము,పరవశమై సర్వశక్తుని దర్శన భాగ్యము పొందుము,none,1332,0,0,0,,missing,https://waytochurch.com/lyrics/song/30321
+30322,అద్భుత కృప నన్ను కాపాడెను,అద్భుత కృప నన్ను కాపాడెను,none,784,0,0,0,-,missing,https://waytochurch.com/lyrics/song/30322
+30323,సమస్త జనులరా యెహోవాకు ఉత్సాహధ్వని చేయుడి,సమస్త జనులరా యెహోవాకు ఉత్సాహధ్వని చేయుడి,none,1045,0,0,0,,missing,https://waytochurch.com/lyrics/song/30323
+30326,నా సహాయకుడు,నా సహాయకుడు,none,1470,0,0,0,PASTOR KORNELI,missing,https://waytochurch.com/lyrics/song/30326
+30329,kaluvarilo chindinpabadenu yesu raktamu,కలువరిలో చిందింపబడెను యేసు రక్తము,none,825,0,0,0,,missing,https://waytochurch.com/lyrics/song/30329
+30333,కరములే కరములు యేసయ్యా,కరములే కరములు యేసయ్యా,none,936,0,0,0,,missing,https://waytochurch.com/lyrics/song/30333
+30334,సమాప్తము,సమాప్తము,none,1596,0,0,0,,unusable-title,https://waytochurch.com/lyrics/song/30334
+30335,👉 దేవుని ఉగ్రత 🔥 నా మహిమను దోచుకున్నవాడా… మేలుకో,👉 దేవుని ఉగ్రత 🔥 నా మహిమను దోచుకున్నవాడా… మేలుకో,none,1447,0,0,0,,missing,https://waytochurch.com/lyrics/song/30335
+30350,జగములనేలె పరిపాలకతెలుగు క్రిస్టియన్ సాంగ్,జగములనేలె పరిపాలకతెలుగు క్రిస్టియన్ సాంగ్,none,2026,0,0,0,,missing,https://waytochurch.com/lyrics/song/30350
+30351,కుమ్మరించుము నీ ఆత్మను నాపై,కుమ్మరించుము నీ ఆత్మను నాపై,none,925,0,0,0,,missing,https://waytochurch.com/lyrics/song/30351
+30352,సమానులెవరు ప్రభో ఆంధ్ర క్రైస్తవ కీర్తనలు,సమానులెవరు ప్రభో ఆంధ్ర క్రైస్తవ కీర్తనలు,none,573,0,0,0,,missing,https://waytochurch.com/lyrics/song/30352
+30353,నోరు తెరువని ప్రేమ,నోరు తెరువని ప్రేమ,none,562,0,2,0,,missing,https://waytochurch.com/lyrics/song/30353
+30357,Chupinava nidhu Prema,చూపినావా నీదు ప్రేమ,none,588,0,0,0,,missing,https://waytochurch.com/lyrics/song/30357
+30358,yesulone sampoornatha,యేసులోనే సంపూర్ణత,none,828,0,0,0,,missing,https://waytochurch.com/lyrics/song/30358
+30359,Annivelala Anandame,అన్నివేళలా ఆనందమే,none,403,0,0,0,Pastor P.V. Moses Rao,missing,https://waytochurch.com/lyrics/song/30359
+30361,maranamu gelachina na dhivama,మరణము గెలిచిన నా దైవమా,none,1580,0,0,0,Bro. Nissi Samuel Lingibheri,missing,https://waytochurch.com/lyrics/song/30361
+30362,మరణాన్ని గెలిచినోడు,మరణాన్ని గెలిచినోడు,none,1526,0,0,0,MARANAANNI GELACHINODU,missing,https://waytochurch.com/lyrics/song/30362
+30371,ఇశ్రాయేలు కాపరి,ఇశ్రాయేలు కాపరి,none,1962,0,0,0,,missing,https://waytochurch.com/lyrics/song/30371
+30374,ప్రేమకు ప్రతిఫలముప్రాణ త్యాగమా,ప్రేమకు ప్రతిఫలముప్రాణ త్యాగమా,none,477,0,0,0,,missing,https://waytochurch.com/lyrics/song/30374
+30384,ఇమ్మానుయేలనువాడా ఉన్నావు నాతోడు,ఇమ్మానుయేలనువాడా ఉన్నావు నాతోడు,none,858,0,0,0,Dr. M.Moses,missing,https://waytochurch.com/lyrics/song/30384
+30388,దివ్య తేజోమయ యేసయ్య,దివ్య తేజోమయ యేసయ్య,none,1637,0,0,0,,missing,https://waytochurch.com/lyrics/song/30388

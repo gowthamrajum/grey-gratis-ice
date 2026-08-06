@@ -1,0 +1,59 @@
+{
+  "song_name": "Shubhavaartha vintimi Yesu rakshinchunu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శుభవార్త వింటిమి - యేసు రక్షించును",
+        "ఎల్లవారు విననీ - యేసు రక్షించును",
+        "ప్రభుమాట వింటిరె - అది పర్వతంబులన్",
+        "దాటి ప్రకటించుడి - యేసు రక్షించును"
+      ],
+      "english": [
+        "Shubhavaartha vintimi - Yesu rakshinchunu",
+        "Ellavaaru vinanee - Yesu rakshinchunu",
+        "Prabhumaata vintire - Adhi parvathambulan",
+        "Daati prakatinchudi - Yesu rakshinchunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఓడనెక్కి పోవుడి - యేసు రక్షించును",
+        "దైవ భ్రష్టు లెల్లరిన్ - యేసు రక్షించును",
+        "ద్వీపవాసులందరు - వినునట్లు చాటుడి",
+        "దివ్య వర్తమానము - యేసు రక్షించును"
+      ],
+      "english": [
+        "Odanekki povudi - Yesu rakshinchunu",
+        "Daiva bhrashtu lellarin - Yesu rakshinchunu",
+        "Dhveepavaasulandaru - Vinunatlu chaatudi",
+        "Divya varthamaanamu - Yesu rakshinchunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇహ బాధనుండియు - యేసు రక్షించును",
+        "పరమ భాగ్యమిచ్చును - యేసు రక్షించును",
+        "దీన శ్రేష్టు లెల్లరు - భూనివాసులందరు",
+        "యీ సువార్త వినుడి - యేసు రక్షించును"
+      ],
+      "english": [
+        "Iha baadhanundiyu - Yesu rakshinchunu",
+        "Parama bhaagyamichchunu - Yesu rakshinchunu",
+        "Deena shreshtu lellaru - Bhoonivaasulandaru",
+        "Ee suvaartha vinudi - Yesu rakshinchunu"
+      ]
+    }
+  ]
+}

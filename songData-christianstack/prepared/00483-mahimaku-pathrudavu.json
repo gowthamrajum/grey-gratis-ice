@@ -1,0 +1,96 @@
+{
+  "song_name": "Mahimaku Pathrudavu",
+  "author": {
+    "Authored by": "Charles Dany Premson",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మహిమకు పాత్రుడవు ఘనతకు అర్హుడవు",
+      "నిను నే కీర్తించి స్తోత్రించెదను",
+      "ఘనపరచెదను"
+    ],
+    "english": [
+      "Mahimaku paathrudavu ghanathaku arhudavu",
+      "Ninu ne keerthinchi sthothrinchedhanu",
+      "Ghanaparachedanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా యేసయ్య నీకేనయ్యా ఆరాధనా",
+        "నా దైవమా నా సర్వమా నీకే ఆరాధన"
+      ],
+      "english": [
+        "Naa yesayya neekenayya aaradhana",
+        "Naa daivama naa sarvama",
+        "Neeke aaradhana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆరాధన ఆ..ఆ.. నీకే ఆరాధన",
+        "నీకే ఆరాధన నీకే యేసయ్య"
+      ],
+      "english": [
+        "Aaradana aa aa neeke aardhana neeke",
+        "Aaradana neeke yesayya"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పేరు పెట్టి పిలచినావు నీ సొత్తుగా చేసినావు",
+        "బలపరిచే ఆత్మసాక్షిగా మార్చినావయ్యా…"
+      ],
+      "english": [
+        "Peru petti pilachinavu nee sothuga chesinavu",
+        "Bhalapariche aathmasakshiga maarchinaavayya"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీ ప్రేమకు ఏమిచెదనయ్యా నా యేసయ్య",
+        "నీ ప్రేమకు సాటిలేరెవ్వరు నా యేసయ్య",
+        "నీ ప్రేమే రక్షణాధారము నా యేసయ్య",
+        "నా జీవితం అర్పించెదనయ్య"
+      ],
+      "english": [
+        "Nee pramaku emichedanayyaa naa yesayya",
+        "Nee premku satilerevvaru naa yesayya",
+        "Nee preme rakshanaadharamu naa yesayya",
+        "Naa jeevitham arpinchedanayya"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "రాజులకు రాజు నీవు ప్రభులకు ప్రభు నీవు",
+        "రాజ్యములని ఏలుచున్న మహా రాజువు నీవయ్యా"
+      ],
+      "english": [
+        "Raajulaku raaju neevu prabhulaku prabhu neevu",
+        "Raajyamulani yeluchunna maha rajuvu neevayya"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "మా స్తుతులకు కారణభూతుడవు మా యేసయ్య",
+        "మా ఆరాధనా నీకేనయ్యా మా యేసయ్య",
+        "నీ నామం ఘనపరచెదనయ్య మా యేసయ్య",
+        "నీ మహిమను చాటుదాం మా యేసయ్య"
+      ],
+      "english": [
+        "Maa stuthulaku kaaranabhuthudavu maa yesayya",
+        "Maa aaradhana neekenayya maa yesayya",
+        "Nee naamam ghanaparachedanayya maa yesayya",
+        "Nee mahimanu chaatedan maa yesayya"
+      ]
+    }
+  ]
+}

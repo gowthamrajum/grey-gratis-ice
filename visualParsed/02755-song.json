@@ -1,0 +1,79 @@
+{
+  "song_name": "Aahaa naakemaanandhamu Shree Yesu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "జె ఎచ్ గిల్మోర్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆహా నాకేమానందము",
+      "శ్రీ యేసు నాచేఁ బట్టుచు",
+      "సహాయుఁడై నాయన్నిటన్",
+      "సజీవుఁడై నడుపును.",
+      "||నా దారిఁ జూపును యేసు",
+      "నా చేఁబట్టి నడుపును",
+      "ఎన్నఁడు నెడబాయఁడు",
+      "యేసె నా దారిఁ జూఁపును ||"
+    ],
+    "english": [
+      "Aahaa naakemaanandhamu",
+      "Shree Yesu naache battuchu",
+      "sahaayudai naayannitan",
+      "sajeevudai nadupunu.",
+      "||Naa daari joopunu Yesu",
+      "naa chebatti nadupunu",
+      "ennadu nedabaayadu",
+      "Yese naa daari joopunu ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేదే స్సుఖంబు లైనన్",
+        "సదా విచార మైనను",
+        "బాధాంధకార మైనను",
+        "ముదంబుతోడ నుందును."
+      ],
+      "english": [
+        "Yede ssukhambu lainan",
+        "sadaa vichaara mainanu",
+        "baadhaandhakaara mainanu",
+        "mudhambuthoda nundunu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "చింతేల నాకు నీ దయన్",
+        "సంతత మీవు తోడుగాన్",
+        "బంతంబు నీచేఁ బట్టుచు",
+        "సంతృప్తితో నే నుందును."
+      ],
+      "english": [
+        "Chinthela naaku nee dayan",
+        "santhatha meevu thodugaan",
+        "banthambu neeche battuchu",
+        "santhrupthitho ne nundunu."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నా చావు వేళ వచ్చినన్",
+        "విచార మొందక ధృతిన్",
+        "నీ చేయి బట్టి యేసుఁడా",
+        "నీ చారు మోక్ష మెక్కుదున్"
+      ],
+      "english": [
+        "Naa chaavu vela vachchinan",
+        "vichaara mondhaka dhruthin",
+        "nee cheyi batti Yesudaa",
+        "nee chaaru moksha mekkudhun"
+      ]
+    }
+  ]
+}

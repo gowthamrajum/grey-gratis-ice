@@ -1,0 +1,69 @@
+{
+  "song_name": "Evarainaa unnaaraa echatainaa unnaaraa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎవరైనా ఉన్నారా ఎచటైనా ఉన్నారా",
+      "ఈలాటి స్నేహితుడు",
+      "నా యేసయ్య లాంటి మంచి స్నేహితుడు",
+      "ప్రేమించి ప్రాణంబెట్టిన గొప్ప స్నేహితుడు"
+    ],
+    "english": [
+      "Evarainaa unnaaraa echatainaa unnaaraa",
+      "Eelaati snehithudu",
+      "Naa Yesayya laanti manchi snehithudu",
+      "Preminchi praanambettina goppa snehithudu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హేతువేమి లేకుండా లాభమేమి పొందకుండా",
+        "ప్రేమ చూపువారు లేరు లోకమందునా",
+        "నేను కోరుకోకుండా నాకోసము",
+        "తనకు తాను చేసినాడు సిలువయాగము  ||ఎవరైనా||"
+      ],
+      "english": [
+        "Hethuvemi lekundaa laabhamemi pondhakundaa",
+        "Prema choopuvaaru leru lokamandhunaa",
+        "Nenu korukokundaa naakosamu",
+        "Thanaku thaanu chesinaadu siluvayaagamu  ||Evarainaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అంతస్థులు లేకుండా అర్హతలు చూడకుండా",
+        "జతనుకోరువారు దొరకరు ఎంత వెదకినా",
+        "నీచుడనని చూడకుండా నాకోసము",
+        "మహిమనంతా వీడినాడు ఏమి చిత్రము||ఎవరైనా||"
+      ],
+      "english": [
+        "Anthasthulu lekundaa arhathalu choodakundaa",
+        "Jathanukoruvaaru dhorakaru entha vedakinaa",
+        "Neechudanani choodakundaa naakosamu",
+        "Mahimananthaa veedinaadu emi chithramu||Evarainaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "స్వార్ధమేమి లేకుండా ఫలితం ఆశించకుండా",
+        "మేలు చేయువారు ఎవరు విశ్వమందునా",
+        "ఏమి దాచుకోకుండా నాకోసము",
+        "ఉన్నందతా ఇచ్చినాడు ఏమి త్యాగము  ||ఎవరైనా||"
+      ],
+      "english": [
+        "Svaardhamemi lekundaa phalitham aashinchakundaa",
+        "Melu cheyuvaaru evaru vishvamandhunaa",
+        "Emi dhaachukokundaa naakosamu",
+        "Unnadhanthaa ichchinaadu emi thyaagamu  ||Evarainaa||"
+      ]
+    }
+  ]
+}

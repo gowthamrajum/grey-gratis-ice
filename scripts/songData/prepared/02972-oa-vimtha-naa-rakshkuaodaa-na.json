@@ -1,0 +1,58 @@
+{
+  "song_name": "Oa Vintha Naa Rakshakudaa",
+  "author": {
+    "Authored by": "",
+    "రచన": "తామస్ హీలిన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ వింత! నా రక్షకుఁడా నాకై నీ విలువ రక్తము కార్చితివా",
+      "జీవాధిపతి మృతిఁ జెందె నహహా పురుగు వంటి నాకై నీ జీవ మర్పించి నావా"
+    ],
+    "english": [
+      "Oa Vintha! Naa Rakshakudaa Naakai Nee Viluva Rakthamu Kaarchithivaa",
+      "Jeevaadhipathi Mruthi Jendhe Nahahaa Purugu Vanti Naakai Nee Jeeva Marpinchi Naavaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నేను జేసిన పా పములకు నాయన మ్రానిమీఁదను మూల్గినావా",
+        "నేను గ్రహింపలేని నీ జాలి కరుణ మితి లేని ప్రేమ",
+        "దీని వలనను గనుపడుచు నున్నది"
+      ],
+      "english": [
+        "Naenu Jaesina Paa Pamulaku Naayana Mraanimeedhanu Moolginaavaa",
+        "Naenu Grahimpalaeni Nee Jaali Karuna Mithi Laeni Praema",
+        "Dheeni Valananu Ganupaduchu Nunnadhi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరమ శరీరుఁడు తా మరణ రక్తంబుచేతఁ గరుణతో",
+        "నన్నుఁ బ్రోచినాఁ డా మరుతునా యీ ప్రేమ",
+        "నా మరణంబు నందు సహా కర్తృ కటాక్షములు కలకాల ముండు నాతో"
+      ],
+      "english": [
+        "Parama Shareerudu Thaa Marana Rakthambuchaetha Garunathoa",
+        "Nannu Broachinaa Daa Maruthunaa Yee Praema",
+        "Naa Maranambu Nandhu Sahaa Karthru Kataakshamulu Kalakaala Mundu Naathoa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా యేసు నాధ నీకు నేనచ్చియున్న దెల్ల",
+        "నా లేమితోఁ బ్రేమ గదా నియమంబు గల ప్రభువా",
+        "నీకెట్లు చెల్లించెదను నన్ను నేనే నీకు నర్పించుకొనుట గాక"
+      ],
+      "english": [
+        "Naa Yaesu Naadha Neeku Naenachchiyunna Dhella",
+        "Naa Laemithoa Braema Gadhaa Niyamambu Gala Prabhuvaa",
+        "Neeketlu Chellinchedhanu Nannu Naenae Neeku Narpinchukonuta Gaaka"
+      ]
+    }
+  ]
+}

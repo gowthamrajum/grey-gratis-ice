@@ -1,0 +1,53 @@
+{
+  "song_name": "Paapini Yesu Prabho",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "పాపిని యేసు ప్రభో నే పాపిని యేసు ప్రభో",
+      "నీ రక్తపు ధారలచే నను కడుగుము యేసుప్రభో"
+    ],
+    "english": [
+      "Paapini Yesu Prabho ne paapini Yesu Prabho",
+      "Nee rakthapu dhaaralache nanu kadugumu Yesuprabho"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపము మోసితివే - నా శాపము బాపితివే",
+        "నీ మహిమకు పిలచితివే - నీకు స్తోత్రము యేసు ప్రభో"
+      ],
+      "english": [
+        "Paapamu mosithive - Naa shaapamu baapithive",
+        "Nee mahimaku pilachithive - Neeku sthothramu Yesu Prabho"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చిందిన రక్తమున - నే పొందిన స్వస్థతను",
+        "రా నంటిని నీ దరికి - మన్నిచుము యేసు ప్రభో"
+      ],
+      "english": [
+        "Chindina rakthamuna - Ne pondina svasthathanu",
+        "Raa nantini nee dariki - Manninchumu Yesu Prabho"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మంటిని యేసు ప్రభో - కనుగొంటిని నీకృపను",
+        "రా నంటిని నీదరికి - నను గావుము యేసు ప్రభో"
+      ],
+      "english": [
+        "Mantini Yesu Prabho - Kanugontini neekrupanu",
+        "Raa nantini needhariki - Nanu gaavumu Yesu Prabho"
+      ]
+    }
+  ]
+}

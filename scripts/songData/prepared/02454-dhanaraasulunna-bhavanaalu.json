@@ -1,0 +1,51 @@
+{
+  "song_name": "Dhanaraasulunna Bhavanaalu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ధనరాశులున్నా - భవనాలు ఉన్నా - మనలేవు ధరలోన ఓ మానవా - 2",
+      "నాకేమి లే అంటూ - నిదురించకూ - 2",
+      "రారాజు రాకకు వేళాయెను - 2"
+    ],
+    "english": [
+      "Dhanaraasulunnaa - Bhavanaalu Unnaa - Manalevu Dharalona O Maanavaa - 2",
+      "Naakemi Le Antoo - Nidhurinchakoo - 2",
+      "Raaraaju Raakaku Velaayenu - 2"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏ రాత్రి ఆ ప్రభువు నిను పిలుచునో - 2",
+        "నీ ఆశలన్నీ కడతేరునో - 2",
+        "నువు కన్న కలలూ నిర్జీవమై - 2",
+        "నీ వెంట రాదు నీ ఆస్తి గానీ - నీ వెంట రారూ నీ వారు గానీ"
+      ],
+      "english": [
+        "E Raathri Aa Prabhuvu Ninu Piluchuno - 2",
+        "Nee Aashalannee Kadatheruno - 2",
+        "Nuvu Kanna Kalaloo Nirjeevamai - 2",
+        "Nee Venta Raadhu Nee Aasthi Gaanee - Nee Venta Raaroo Nee Vaaru Gaanee"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అపవాది నిను పిలిచి బంధించునో - 2",
+        "ఆపైన అపరాధిగా నిలుపునో - 2",
+        "నీ పాప భారం విడిపించనూ - ఆ సిలువధారీ ఏతెంచెగా",
+        "పరలోక ప్రాప్తి కలిగించగా నిను పిలిచె నేడు - నిలు పిలిచే నేడూ"
+      ],
+      "english": [
+        "Apavaadi Ninu Pilichi Bandhinchuno - 2",
+        "Aapaina Aparaadhigaa Nilupuno - 2",
+        "Nee Paapa Bhaaram Vidipinchanoo - Aa Siluvadhaaree Ethenchegaa",
+        "Paraloka Praapthi Kaliginchagaa Ninu Piliche Nedu - Nilu Piliche Nedoo"
+      ]
+    }
+  ]
+}

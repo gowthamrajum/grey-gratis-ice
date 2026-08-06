@@ -1,0 +1,49 @@
+{
+  "song_name": "Neeve Naaku Thandrivani Neeve Naa Devudani",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Aronkumar Nakrekanti"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవే నాకు తండ్రివని నీవే నా దేవుడని",
+      "నిన్ను గూర్చి పాడెదను నిరంతరము దేవా",
+      "నన్నిలా నన్నుగ కోరిన ప్రేమ",
+      "ఎన్నడు మారదు మరువని ప్రేమ"
+    ],
+    "english": [
+      "Neeve naaku thandrivani neeve naa devudani",
+      "Ninnu goorchi paadedanu nirantharamu Deva",
+      "Nannilaa nannuga korina prema",
+      "Ennadu maaradu maruvani prema"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కన్న తల్లి మోసినట్లు – సిలువలో మోసావయ్య",
+        "ప్రాణం పెట్టి కన్నావయ్య – నీ త్యాగం నా జీవం",
+        "నన్నింతగా ప్రేమించిన ఏ ప్రేమ నేనెరుగను",
+        "నను నేనైన ఏనాడిలా ప్రేమించలేదేసయ్యా",
+        "లోకమంత ఏకమైనా – నిన్ను నన్ను వేరుచేయునా",
+        "నీవు లేక నే లేనయ్య – నీవే నా ప్రాణం",
+        "నాన్నా నీవె నా చేయిపట్టి నన్ను నడిపించుము",
+        "కనురెప్పలా కలకాలము నీ కౌగిటే దాయుము"
+      ],
+      "english": [
+        "Kanna thalli mosinatlu – Siluvalo mosaavayya",
+        "Praanam petti kannaavayya – Nee thyaagam naa jeevam",
+        "Nanninthagaa preminchina e prema neneruganu",
+        "Nanu nenaina enaadilaa preminchaledhesayyaa",
+        "Lokamantha ekamainaa – Ninnu nannu verucheyunaa",
+        "Neevu leka ne lenayya – Neeve naa praanam",
+        "Naannaa neeve naa cheyipatti nannu nadipinchumu",
+        "Kanureppalaa kalakaalamu nee kaugite daayumu"
+      ]
+    }
+  ]
+}

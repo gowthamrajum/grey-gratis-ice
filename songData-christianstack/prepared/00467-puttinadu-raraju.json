@@ -1,0 +1,68 @@
+{
+  "song_name": "Puttinadu Raraju",
+  "author": {
+    "Authored by": "James Lazarus Narukurthi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాజులకు రారాజు పుట్టి నాడు",
+      "మన యేసు మహారాజు పుట్టినాడు",
+      "సర్వశక్తిమంతుడు సర్వాధికారి సర్వ సృష్టికర్త",
+      "ఈ లోకానికి వచ్చాడు"
+    ],
+    "english": [
+      "Raajulaku raaraaju putti naadu",
+      "Mana yeasu mahaaraaju puttinaadu",
+      "Sarvasathimanthudu sarvaadhikaari sarva srushttikartha",
+      "Ee lookaaniki vacchaadu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కష్టాలు కన్నీళ్లు తుడిచి వేస్తాడు",
+        "రోగులకు స్వస్థత నిచ్చే పరమ వైద్యుడు",
+        "నీ కొరకు నా కొరకు జన్మించినాడు",
+        "మహిమ స్వరూపుడు తన మహిమ విడిచాడు"
+      ],
+      "english": [
+        "Kashttaalu kanniillu thudichi veastaadu",
+        "Roogululaku svasthatha nicchhea parama vaidyudu",
+        "Nii koraku naa koraku janminchinaadu",
+        "Mahima swaruupudu thana mahima vidichaadu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపాల ఊబి నుండి విడిపించువాడు",
+        "పాపిని పరిశుద్ధంగా మార్చే మహనీయుడు",
+        "నీతోని నాతోని మాట్లాడే దేవుడు",
+        "కరుణ సంపన్నుడు కరుణించగా వచ్చాడు"
+      ],
+      "english": [
+        "Paapaala uubi nundi vidipinchuvaadu",
+        "Paapini parishuddhamgaa maarchea mahaniiyudu",
+        "Niithooni naathooni maatlaadea deavudu",
+        "Karunna sampannudu karunninchagaa vacchaadu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అంతులేని ప్రేమను చూపించువాడు",
+        "అంతము వరకు నడిపించే నాయకుడు",
+        "నిన్ను నన్ను పరమునకు చేర్చే",
+        "పరిశుద్ధుడు అతి పరిశుద్ధుడు"
+      ],
+      "english": [
+        "Anthuleani preamanu chuupinchuvaadu",
+        "Anthamu varaku nadipinchea naayakudu",
+        "Ninnu nannu paramunaku chearchea",
+        "Parisuddhudu athi parisuddhudu"
+      ]
+    }
+  ]
+}

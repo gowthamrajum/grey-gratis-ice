@@ -1,0 +1,62 @@
+{
+  "song_name": "Dharaniloani Dhanamu Lella Dha",
+  "author": {
+    "Authored by": "",
+    "రచన": "పులిపాక జగన్నాధము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ధరణిలోని ధనము లెల్ల ధరణిపాలై పోవును గరిమతోడ నీవు గైకొను నిరత ముండెడి ధనమును ||ధరణి||"
+    ],
+    "english": [
+      "DharaNiloani Dhanamu lella DharaNipaalai poavunu garimathoada neevu gaikonu niratha muMdedi Dhanamunu ||DharaNi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు నందు నిత్యజీవం బిపుడు దేవుఁ డిచ్చును తీసికొనుము దాని వేగము దివ్య వరముగ నమ్మికన్ ||ధరణి||"
+      ],
+      "english": [
+        "yaesu nMdhu nithyajeevM bipudu dhaevuAO dichchunu theesikonumu dhaani vaegamu dhivya varamuga nammikan ||DharaNi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విడుపు నీదు పాపములను తడవుఁజేయుఁ బోకుమీ విడువ కున్న నీకుఁ గల్గు వేద నాధికంబుపో ||ధరణి||"
+      ],
+      "english": [
+        "vidupu needhu paapamulanu thadavuAOjaeyuAO boakumee viduva kunna neekuAO galgu vaedha naaDhikMbupoa ||DharaNi||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరుల మాటలఁ బట్టి నీవు పడకు మోస మందున నరుల కొఱకు జీవ మిచ్చిన పరమధాముని నమ్ముమీ ||ధరణి||"
+      ],
+      "english": [
+        "parula maatalAO batti neevu padaku moasa mMdhuna narula koRaku jeeva michchina paramaDhaamuni nammumee ||DharaNi||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "తలఁచుకొనుమీ ధరణిలోన నిలుచు కాల మంతట విలువలేని యేసు ప్రేమ విధము చక్కఁగ నెఱుఁగుచు ||ధరణి||"
+      ],
+      "english": [
+        "thalAOchukonumee DharaNiloana niluchu kaala mMthata viluvalaeni yaesu praema viDhamu chakkAOga neRuAOguchu ||DharaNi||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "దేవ కృపను బోలునట్టి దివ్య భాగ్య మొకటియున్ నీవు చూడ బోవు మిత్ర నేట నెచట వెదకినన్ ||ధరణి||"
+      ],
+      "english": [
+        "dhaeva krupanu boalunatti dhivya bhaagya mokatiyun neevu chooda boavu mithra naeta nechata vedhakinan ||DharaNi||"
+      ]
+    }
+  ]
+}

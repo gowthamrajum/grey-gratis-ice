@@ -1,0 +1,64 @@
+{
+  "song_name": "Oa Maa Thandri Needhu Naamamu",
+  "author": {
+    "Authored by": "",
+    "రచన": "విలియం డానన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ మా తండ్రి నీదు నామము నిత్య మెన్ను చుండు గాక",
+      "సకల లోకము క్షేమముగను విమలముగను జెన్ను మిరగఁ",
+      "బరలోక ధాముఁడవై వెలయునట్టి ధన్య సౌజన్యమాన్య"
+    ],
+    "english": [
+      "Oa Maa Thandri Needhu Naamamu Nithya Mennu Chundu Gaaka",
+      "Sakala Loakamu Kshaemamuganu Vimalamuganu Jennu Miraga",
+      "Baraloaka Dhaamudavai Velayunatti Dhanya Saujanyamaanya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ రాజ్యంబు రా నిమ్ము నీదు చిత్తము నేటుగఁ",
+        "బరలోకమందున నే రీతిగను జేయఁబడునో",
+        "యీ భూలోకమందు నట్టి దారి బొందఁ జేయవలెను",
+        "ధర్మ మూర్తి సత్యవర్తి"
+      ],
+      "english": [
+        "Nee Raajyambu Raa Nimmu Needhu Chiththamu Naetuga",
+        "Baraloakamandhuna Nae Reethiganu Jaeyabadunoa",
+        "Yee Bhooloakamandhu Natti Dhaari Bonda Jaeyavalenu",
+        "Dharma Moorthi Sathyavarthi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేటి యాహారంబు మాకుఁ గరుణఁజేసి నేటి కిచ్చి",
+        "సూటి పరచుమి మేటి మా విరోధి జనుల",
+        "మే మెటుల క్షమింతు మటుల మాటికిని క్షమింప",
+        "నీవె మాకు వేరె లేరు సుమ్ము"
+      ],
+      "english": [
+        "Naeti Yaahaarambu Maaku Garuna Jaesi Naeti Kichchi",
+        "Sooti Parachumi Maeti Maa Viroadhi Janula",
+        "Mae Metula Kshaminthu Matula Maatikini Kshaminpa",
+        "Neeve Maaku Vaere Laeru Summu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మమ్ము శోధమునకు తేకుము కీడునుండి మరలఁ జేయు",
+        "మమ్ము నేమనన్ ఇమ్మగు బల మహిమ రా జ్యమ్ములును",
+        "సర్వకా లమ్ము నీవే మాదు ప్రార్థ న నమ్ముఁ జేకొమ్ము ఆమేన్"
+      ],
+      "english": [
+        "Mammu Shoadhamunaku Thaekumu Keedunundi Marala Jaeyu",
+        "Mammu Naemanan Immagu Bala Mahima Raa Jyammulunu",
+        "Sarvakaa Lammu Neevae Maadhu Praartha Na Nammu Jaekommu Aamaen"
+      ]
+    }
+  ]
+}

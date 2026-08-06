@@ -1,0 +1,61 @@
+{
+  "song_name": "Koniyaadi Paadi Keerthimchi Varnimchedha Ninu Naa Prabhuvaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కొనియాడి పాడి కీర్తించి వర్ణించెద నిను నా ప్రభువా"
+    ],
+    "english": [
+      "Koniyaadi Paadi Keerthimchi Varnimchedha Ninu Naa Prabhuvaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరిశుద్ధుడవు నీతిమంతుడవు పాపపు వస్త్రము మార్చిన దేవ",
+        "ప్రాపుగ రక్షణ వస్త్రమిచ్చితివి పొగడెద నిన్ను ధవళవర్ణుడా"
+      ],
+      "english": [
+        "Parishudhdhudavu Neethimamthudavu Paapapu Vasthramu Maarchina Dhaeva",
+        "Praapuga Rakshana Vasthramichchithivi Pogadedha Ninnu Dhavalavarnudaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తూర్పు జ్ఞానులు నీ కర్పించిరి బంగారు సాంబ్రాణి బోళము",
+        "తెలుపబడెను నీ ఘనవిజయము భరియించెద నిన్ను రత్నవర్ణుడా"
+      ],
+      "english": [
+        "Thoorpu Jnyaanulu Nee Karpimchiri Bamgaaru Saambraani Boalamu",
+        "Thelupabadenu Nee Ghanavijayamu Bhariyimchedha Ninnu Rathnavarnudaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "గుర్తించెద నిన్ను ఘనముగా నేను ఘనుడా నాకు ప్రభుడవు నీవే",
+        "పదివేలలో నా ప్రియుడగు ప్రభువా పరికించి నిన్ను పాడి స్తుతించెద"
+      ],
+      "english": [
+        "Gurthimchedha Ninnu Ghanamugaa Naenu Ghanudaa Naaku Prabhudavu Neevae",
+        "Padhivaelaloa Naa Priyudagu Prabhuvaa Parikimchi Ninnu Paadi Sthuthimchedha"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆరాధించెద ప్రభువా దేవా ఆత్మతోను సత్యముతోను",
+        "తిరిగి రానై యున్న ప్రభువా స్తుతియు ఘనత మహిమయు నీకే"
+      ],
+      "english": [
+        "Aaraadhimchedha Prabhuvaa Dhaevaa Aathmathoanu Sathyamuthoanu",
+        "Thirigi Raanai Yunna Prabhuvaa Sthuthiyu Ghanatha Mahimayu Neekae"
+      ]
+    }
+  ]
+}

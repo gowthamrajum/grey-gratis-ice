@@ -1,0 +1,33 @@
+{
+  "song_name": "Reference: Aa ayidhu rottelanu rendu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఐదు రొట్టెలు చేపలు రెండు",
+        "ఐదు వేలకు పంచిపెట్టెన్",
+        "పంక్తి పంక్తిగా కూర్చుండ",
+        "పంచి పెట్టిరి ప్రజలందరికి",
+        "పండ్రెండు గంపలు మిగిలెను",
+        "ప్రభుకు మహిమ కలిగెను"
+      ],
+      "english": [
+        "Aidu rottelu chepalu rendu",
+        "Aidu velaku panchipetten",
+        "Pankthi pankthigaa koorchunda",
+        "Panchi pettiri prajalandhariki",
+        "Pandrendu gampalu migilenu",
+        "Prabhuku mahima kaligenu"
+      ]
+    }
+  ]
+}

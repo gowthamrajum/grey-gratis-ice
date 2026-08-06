@@ -1,0 +1,63 @@
+{
+  "song_name": "Chirakaala snehithudaa naa hrudayaana sannihithudaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "చిరకాల స్నేహితుడా నా హ్రుదయాన సన్నిహితుడా",
+      "నా తోడు నీవయ్య నీ స్నేహం చాలయ్య",
+      "నా నీడ నీవయ్య ప్రియప్రభువా యేసయ్య",
+      "చిరకాల స్నేహం ఇది నా యేసు స్నేహం (2)"
+    ],
+    "english": [
+      "Chirakaala snehithudaa naa hrudayaana sannihithudaa",
+      "Naa thodu neevayya nee sneham chaalayya",
+      "Naa needa neevayya priyaprabhuvaa Yesayya",
+      "Chirakaala sneham idhi naa Yesu sneham (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "బంధువులు వెలివెసిన వెలివేయ్య నీ స్నేహం",
+        "లోకాన లేనట్టి ఓ దివ్వ స్నేహం నా యేసు నీ స్నేహం",
+        "చిరకాల స్నేహం ఇది నా యేసు స్నేహం (2)"
+      ],
+      "english": [
+        "Bandhuvulu velivesina veliveyya nee sneham",
+        "Lokaana lenatti o divya sneham naa Yesu nee sneham",
+        "Chirakaala sneham idhi naa Yesu sneham (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కష్టాలలో కన్నీళ్లలో నన్ను మోయు నీ స్నేహం",
+        "నన్ను దైర్యపరచి ఆదరణ కలిగించు నా యేసు నీ స్నేహం",
+        "చిరకాల స్నేహం ఇది నా యేసు స్నేహం (2)"
+      ],
+      "english": [
+        "Kashtaalalo kanneellalo nannu moyu nee sneham",
+        "Nannu dhairyaparachi aadarana kaliginchu naa Yesu nee sneham",
+        "Chirakaala sneham idhi naa Yesu sneham (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిజమైనది విడువనిది ప్రేమించు నీ స్నేహం",
+        "కలువరిలో చూపిన నీ సిలువ స్నేహం నా యేసు నీ స్నేహం",
+        "చిరకాల స్నేహం ఇది నా యేసు స్నేహం (2)"
+      ],
+      "english": [
+        "Nijamainadhi viduvanidhi preminchu nee sneham",
+        "Kalvarilo choopina nee siluva sneham naa Yesu nee sneham",
+        "Chirakaala sneham idhi naa Yesu sneham (2)"
+      ]
+    }
+  ]
+}

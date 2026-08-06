@@ -1,0 +1,86 @@
+{
+  "song_name": "Aananda yaathra",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Yesanna"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆనంద యాత్ర",
+      "ఇది ఆత్మీయ యాత్ర",
+      "యేసుతో నూతన",
+      "యెరుషలేము యాత్ర (2) ||ఆనంద యాత్ర||"
+    ],
+    "english": [
+      "Aananda yaathra",
+      "idhi aathmeeya yaathra",
+      "Yesutho noothana",
+      "Yerushalemu yaathra (2) ||Aananda yaathra||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసుని రక్తము",
+        "పాపములనుండి విడిపించును",
+        "వేయి నోళ్ళతో స్తుతించినను",
+        "తీర్చలేము ఆ ఋణమును  ||ఆనంద||"
+      ],
+      "english": [
+        "Yesuni rakthamu",
+        "paapamulanundi vidipinchunu",
+        "veyi nollatho sthuthinchinanu",
+        "theerchalemu aa runamunu ||Aananda||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రాత్రియు పగలును",
+        "పాదములకు రాయి తగలకుండా",
+        "మనకు పరిచర్య చేయుట కొరకు",
+        "దేవదూతలు మనకుండగా  ||ఆనంద||"
+      ],
+      "english": [
+        "Raathriyu pagalunu",
+        "paadamulaku raayi thagalakundaa",
+        "manaku paricharya cheyuta koraku",
+        "dhevadhoothalu manakundagaa ||Aananda||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కృతజ్ఞత లేని వారు",
+        "వేలకొలదిగ కూలినను",
+        "కృపా వాక్యమునకు సాక్షులమై",
+        "కృప వెంబడి కృప పొందెదము  ||ఆనంద||"
+      ],
+      "english": [
+        "Kruthagnatha leni vaaru",
+        "velakoladhiga koolinanu",
+        "krupaa vaakyamunaku saakshulamai",
+        "krupa vembadi krupa pondedamu ||Aananda||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆనందం ఆనందం",
+        "యేసుని చూచే క్షణం ఆసన్నం",
+        "ఆత్మానంద భరితులమై",
+        "ఆగమనాకాంక్షతో సాగెదన్  ||ఆనంద||"
+      ],
+      "english": [
+        "Aanandam aanandam",
+        "Yesuni chooche kshanam aasannam",
+        "aathmaanandha bharithulamai",
+        "aagamanaakaankshatho saagedhan ||Aananda||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "song_name": "Kondalavaipu kannuletthinaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Pastor K Shekar"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "కొండలవైపు కన్నులెత్తినా",
+      "ఏ సహాయము దొరకలేదయా",
+      "బందువువైపు చేయి చాపినా",
+      "అక్కరలేమియు తీరలేదయా",
+      "నీ వల్లే సహాయము దొరుకునని"
+    ],
+    "english": [
+      "Kondalavaipu kannuletthinaa",
+      "E sahaayamu dorakaledhayaa",
+      "Bandhuvuvaipu cheyi chaapinaa",
+      "Akkaralemiyu theeraledhayaa",
+      "Nee valle sahaayamu dorukunani"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ పాద సన్నిధి చేరితిని",
+        "అక్కరతో వచ్చిన వారిని",
+        "అక్కున చేర్చే గొప్ప దేవుడా",
+        "మారాలాంటి స్థితిగతులన్నీ",
+        "మధురముగా మార్చిన దేవుడా"
+      ],
+      "english": [
+        "Nee paada sannidhi cherithini",
+        "Akkaratho vachchina vaarini",
+        "Akkuna cherche goppa Devudaa",
+        "Maaraalaanti sthithigathulannee",
+        "Madhuramugaa maarchina Devudaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీవే మాకు దిక్కని ఎంచి",
+        "నీ పాదముల శరణు వేడగా",
+        "కష్ట బాధలు కన్నీరంతా",
+        "తుడచి వేసిన గొప్ప దేవుడా",
+        "గాడాంధకారపు లోయలలోనా",
+        "అగాధ స్థలములో మొరపెట్టగా",
+        "మా కార్యములను సఫలపరచిన",
+        "విజయశీలుడా మంచి దేవుడా"
+      ],
+      "english": [
+        "Neeve maaku dikkani enchi",
+        "Nee paadamula sharanu vedagaa",
+        "Kashta baadhalu kanneerantha",
+        "Thudachi vesina goppa Devudaa",
+        "Gaadaandhakaarapu loyalalonaa",
+        "Agaadha sthalamulo morapettagaa",
+        "Maa kaaryamulanu saphalaparachina",
+        "Vijayasheeludaa manchi Devudaa"
+      ]
+    }
+  ]
+}

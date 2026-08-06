@@ -1,0 +1,34 @@
+{
+  "song_name": "Dheenudaa Ajeyudaa",
+  "author": {
+    "Authored by": "Pastor John Wesley",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దీనుడా అజేయుడా ఆధరణ కిరణమా",
+      "పూజ్యుడా పరిపూర్ణుడా ఆనంద నిలయమా"
+    ],
+    "english": [
+      "Dheenudaa ajeyudaa aadharana kiranamaa",
+      "poojyudaa paripoornudaa aanandha nilayamaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జీవదాతవు నీవని శృతిమించి పాడనా",
+        "జీవదారవు నీవని కానుకనై పూజించనా",
+        "అక్షయదీపము నీవే నా రక్షణ శృంగము నీవే",
+        "స్వరార్చన చేసెద నీకే నా స్తుతులర్పించెద నీకే"
+      ],
+      "english": [
+        "Jeevadhaathavu neevani sruthiminchi paadanaa",
+        "jeevadhaaravu neevani kaanukanai poojinchanaa",
+        "akshayadeepamu neeve naa rakshana srungamu neeve",
+        "swaraarchana chesedha neeke naa sthuthularpincheda neeke"
+      ]
+    }
+  ]
+}

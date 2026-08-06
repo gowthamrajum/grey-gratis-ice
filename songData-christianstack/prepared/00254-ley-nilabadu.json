@@ -1,0 +1,72 @@
+{
+  "song_name": "Ley Nilabadu",
+  "author": {
+    "Authored by": "P James",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప :",
+      "లే నీవు నిలబడు లే నీవు నిలబడు",
+      "బాధల నుండి నువులే",
+      "వ్యాధుల నుండి నువులే",
+      "కష్టం నుండి నువు లే",
+      "సర్వం పోయినా నువులే …"
+    ],
+    "english": [
+      "Le neevo nilabadu le neevo nilabadu",
+      "baadhala nundi nuvule",
+      "vyaadhula nundi nuvule",
+      "kashtam nundi nuvu le",
+      "sarvam poyinaa nuvule…"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మనుష్యులెప్పుడూ నీతో నిలువరే",
+        "దేవుడే నిత్యం నీతో నిలిచెనే",
+        "నింగి నేల సమస్తమూ ఆయనదే",
+        "పునరుద్ధానము – జీవము ఆయనదే"
+      ],
+      "english": [
+        "Manushyuleppudoo neetho niluvare",
+        "devudee nithyam neetho nilichenee",
+        "ningi neela samastamoo ayanade",
+        "punaruddhanamu – jeevamu ayanade"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "క్రీస్తు ప్రేమ నుండి వేరు చేయునా …",
+        "వధకు సిద్ధమైన సాదు జీవులమే",
+        "ఛావైన బ్రతుకుట క్రీస్తనీ",
+        "ఖడ్గమైన చావే మేలని"
+      ],
+      "english": [
+        "Kreestu prema nundi veru cheyuna…",
+        "vadhaku siddhamaina saadu jeevulame",
+        "chaavaina bratukuta kreestanee",
+        "khadgamaina chaave melani"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప:",
+        "పాపము నుండీ నువు లే",
+        "శాపము నుండీ నువు లే",
+        "మోసము నుండీ నువు లే",
+        "మరణం నుండీ నువు లే"
+      ],
+      "english": [
+        "Paapamu nundi nuvu le",
+        "shaapamu nundi nuvu le",
+        "mosamu nundi nuvu le",
+        "maranam nundi nuvu le"
+      ]
+    }
+  ]
+}

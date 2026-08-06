@@ -1,0 +1,53 @@
+{
+  "song_name": "Rammu Rammu Maa Yimtiki Thmdre",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఇ జి ఆనందము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "రమ్ము రమ్ము మా యింటికి తండ్రీ రమ్ము రమ్ము ||"
+    ],
+    "english": [
+      "rammu rammu maa yiMtiki thMdree rammu rammu ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జగములగన్న ప్రేమ గర్భుడవు జగములకావల నుందువె నీవు సరగ రమ్ము నీ బిడ్డలగృహమును సందీపనంబు జేయ ||రమ్ము రమ్ము||"
+      ],
+      "english": [
+        "jagamulaganna praema garbhudavu jagamulakaavala nuMdhuve neevu saraga rammu nee biddalagruhamunu sMdheepanMbu jaeya ||rammu rammu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సంతస ప్రేమాశాంతంబుల నిశా(తంబై యీ గృహ మెల్లప్పుడు సంతత స్వర్గవాసరూపమై సమృద్ధి పొందునటుల ||రమ్ము రమ్ము||"
+      ],
+      "english": [
+        "sMthasa praemaashaaMthMbula nishaa(thMbai yee gruha mellappudu sMthatha svargavaasaroopamai samrudhDhi poMdhunatula ||rammu rammu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అనలజ్వాల సపర్యలు వదలి యనిలపక్ష సంచరణమువదలి అనయము నీ గృహవాసివి నీవై యాశీర్వదించుటుల ||రమ్ము రమ్ము||"
+      ],
+      "english": [
+        "analajvaala saparyalu vadhali yanilapakSh sMcharaNamuvadhali anayamu nee gruhavaasivi neevai yaasheervadhiMchutula ||rammu rammu||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీ ఘననామోచ్చరణము చేత నీ గృహమెల్లను పావనమై నీ యాగప్రేమ మర్మంబులు జగతి బాగుగ దెలియునటుల ||రమ్ము రమ్ము||"
+      ],
+      "english": [
+        "nee ghananaamoachcharaNamu chaetha nee gruhamellanu paavanamai nee yaagapraema marmMbulu jagathi baaguga dheliyunatula ||rammu rammu||"
+      ]
+    }
+  ]
+}

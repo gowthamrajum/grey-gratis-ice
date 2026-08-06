@@ -1,0 +1,52 @@
+{
+  "song_name": "Na Yesu Raja Sthothramu",
+  "author": {
+    "Authored by": "S J Berchmans",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా యేసు రాజా స్తోత్రము",
+      "స్తోత్రము స్తోత్రము",
+      "నే జీవించుదాక ప్రభు"
+    ],
+    "english": [
+      "Naa yesu raajaa sthothramu",
+      "sthothramu sthothramu",
+      "ne jeevinchudhaaka prabhu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కరుణాసంపన్నుడా",
+        "బహు జాలిగల ప్రభువా",
+        "దీర్గశాంతం ప్రేమా కృపయు",
+        "నిండియుండు ప్రభువా",
+        "స్తుతి ఘన మహిమలెల్ల",
+        "నీకే చెల్లింతుము",
+        "ఇంపుగ స్తోత్రబలులు చెల్లించి",
+        "ఆరాధనా చేసెదం",
+        "పిలచెడి వారికెల్ల",
+        "దరిలో నున్నవాడా",
+        "మనసార పిలిచే స్వరములు వినిన",
+        "విడుదల నిచ్చువాడా"
+      ],
+      "english": [
+        "Karunaa sampannudaa",
+        "bahu jaaligala prabhuvaa",
+        "dheergashaantham premaa krupayu",
+        "nindiyundu prabhuvaa",
+        "Sthuthi ghana mahimalella",
+        "neeke chellinthumu",
+        "impuga sthothra balulu chellinchi",
+        "aaraadhanaa chesedam",
+        "Pilachedi vaarikella",
+        "dharilo nunnavaadaa",
+        "manasaara piliche swaramulu vinina",
+        "vidudhala nichuvaadaa"
+      ]
+    }
+  ]
+}

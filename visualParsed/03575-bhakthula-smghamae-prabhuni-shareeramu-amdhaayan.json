@@ -1,0 +1,97 @@
+{
+  "song_name": "Bhakthula sanghame prabhuni shareeramu andhaayana thana poornatha nimpunu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "భక్తుల సంఘమే - ప్రభుని శరీరము",
+      "అందాయన తన - పూర్ణత నింపును"
+    ],
+    "english": [
+      "Bhakthula sanghame - Prabhuni shareeramu",
+      "Andhaayana thana - Poornatha nimpunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఒక్క శరీరమునకు - శిరస్సు నొకటేగా",
+        "సంఘమునకు ప్రభువే - శిరస్సుగా"
+      ],
+      "english": [
+        "Okka shareeramunaku - Shirassu nokatega",
+        "Sanghamunaku prabhuve - Shirassugaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శిరస్సునుండే యోచనలు వెలువడును",
+        "శరీరము నందు - ప్రకటింప బడున్"
+      ],
+      "english": [
+        "Shirassununde yochanalu veluvadunu",
+        "Shareeramu nandu - Prakatimpa badun"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యూదులని హెల్లే - నీయులనిలేదు",
+        "దాసులనియు స్వతం - త్రులనియు లేదు"
+      ],
+      "english": [
+        "Yoodhulani helle - Neeyulaniledhu",
+        "Dhaasulaniyu svatham - Thrulaniyu ledu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కలవు శరీరములో - అనేకావయవముల్",
+        "కలసి ఏకముగా - నివసించుచుండున్"
+      ],
+      "english": [
+        "Kalavu shareeramulo - Anekaavayavamul",
+        "Kalasi ekamugaa - Nivasinchuchundun"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "కరములు కాళ్ళతో - కలహించలేవు",
+        "కలయకనే కార్య-మును చేయలేవు"
+      ],
+      "english": [
+        "Karamulu kaallatho - Kalahinchalevu",
+        "Kalayakane kaarya-munu cheyalevu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఆత్మైక్యత నవ - యవములు కలిగిన",
+        "క్షేమాభివృద్ధిని - దేహము బొందున్"
+      ],
+      "english": [
+        "Aathmaikyatha nava - Yavamulu kaligina",
+        "Kshemaabhivruddhini - Dehamu bondhun"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "శిరస్సాధీనములో - సర్వాంగములుండిన",
+        "సేవలో ప్రభు పరి-పూర్ణత యుండును"
+      ],
+      "english": [
+        "Shirassaadheenamulo - Sarvaangamulundina",
+        "Sevalo prabhu pari-poornatha yundunu"
+      ]
+    }
+  ]
+}

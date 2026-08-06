@@ -1,0 +1,40 @@
+{
+  "song_name": "ప్రకాశించుడి యను నాజ్ఞను ప్",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఎమిలి హంటింగ్టవ్ మిల్లర్"
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "\"ప్రకాశించుడి\" యను నాజ్ఞను ప్రభువైన యేసు మన కిచ్చెను ప్రేమ యను దివ్వె వెలిఁగింతుము నీవు నీ యింటన్ నేను నా యింటన్"
+      ],
+      "english": [
+        "\"prakaashiMchudi\" yanu naajnYnu prabhuvaina yaesu mana kichchenu praema yanu dhivve veliAOgiMthumu neevu nee yiMtan naenu naa yiMtan"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "\"ప్రకాశించుడి\" యను నాజ్ఞను ప్రభువైన యేసు మన కిచ్చెను దురితాంధకారమున్ హరింతము నీవు నీ యింటన్ నేను నా యింటన్"
+      ],
+      "english": [
+        "\"prakaashiMchudi\" yanu naajnYnu prabhuvaina yaesu mana kichchenu dhurithaaMDhakaaramun hariMthamu neevu nee yiMtan naenu naa yiMtan"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "\"ప్రకాశించుడి\" యనునాజ్ఞను ప్రభువైన యేసు మన కిచ్చెను భక్తి యను దివ్వె వెలిఁగింతము నీవు నీ యింటన్ నేను నా యింటన్."
+      ],
+      "english": [
+        "\"prakaashiMchudi\" yanunaajnYnu prabhuvaina yaesu mana kichchenu bhakthi yanu dhivve veliAOgiMthamu neevu nee yiMtan naenu naa yiMtan."
+      ]
+    }
+  ]
+}

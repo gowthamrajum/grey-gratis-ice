@@ -1,0 +1,95 @@
+{
+  "song_name": "Reference: Naa priyudu naavaadu. Nenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రియుడు నావాడు నేను అతని వాడను"
+    ],
+    "english": [
+      "Naa priyudu naavaadu nenu athani vaadanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవు బహు ప్రియుండవనుచు - దానియేలునకు",
+        "దివ్యముగ నభయంబిచ్చిన మా - పరమజనకుండా"
+      ],
+      "english": [
+        "Neevu bahu priyundavanuchu - Dhaaniyelunaku",
+        "Dhivyamuga nabhayambichchina maa - Paramajanakundaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఈయనే నా సంతసమైన - ప్రియతనయుండు",
+        "ఈయన మాట వినుడనిన - పరమజనకుండా"
+      ],
+      "english": [
+        "Eeyane naa santhasamaina - Priyathanayundu",
+        "Eeyana maata vinudanina - Paramajanakundaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఎన్ని సంద్రముల జలరాసుల్ - ఆర్పగాలేని",
+        "ఉన్నతంబైన నీ ప్రేమన్ - ఎన్న మా తరమా"
+      ],
+      "english": [
+        "Enni sandhramula jalaraasul - Aarpagaaleni",
+        "Unnathambaina nee preman - Enna maa tharamaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కల్వరిన్ చిందించిన నీదు - రక్త ధారలతో",
+        "కడిగితివి మా పాపములన్ని - కరుణగల క్రీస్తు"
+      ],
+      "english": [
+        "Kalvarin chindhinchina needu - Raktha dhaaralatho",
+        "Kadigithivi maa paapamulanni - Karunagala Kreesthu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మా పై నపవాది నదిబోలి - పొర్లిపారినను",
+        "ముంచి వేయగ జాలదు మమ్ము - మాతో నీ వుండన్"
+      ],
+      "english": [
+        "Maa pai napavaadhi nadhiboli - Porlipaarinanu",
+        "Munchi veyaga jaaladhu mammu - Maatho nee vundan"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "క్రొత్త వత్సరమును దానముగా - నిచ్చిన క్రీస్తు",
+        "క్షణక్షణం నడిపింతువు మమ్ము - విజయవంతముగా"
+      ],
+      "english": [
+        "Kroththa vathsaramunu daanamugaa - Nichchina Kreesthu",
+        "Kshanakshanam nadipinthuvu mammu - Vijayavanthamugaa"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "నీదు రాకడ కై దినదినము - వేచియున్నాము",
+        "నిత్య మహిమలో నీతో మేము - మెరయుచుందుము"
+      ],
+      "english": [
+        "Needu raakada kai dinadinamu - Vechiyunnaamu",
+        "Nithya mahimalo neetho memu - Merayuchundhumu"
+      ]
+    }
+  ]
+}

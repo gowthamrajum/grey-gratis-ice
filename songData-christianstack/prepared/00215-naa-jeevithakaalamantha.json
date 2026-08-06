@@ -1,0 +1,99 @@
+{
+  "song_name": "Naa Jeevithakaalamantha",
+  "author": {
+    "Authored by": "Pastor Daniel",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా జీవిత కాలమంతా నిన్నే స్తుతియించెదా",
+      "నేను బ్రతుకు దినములంతా నిన్ను నేను చాటెదా",
+      "ఆరాధనా ఆరాధనా"
+    ],
+    "english": [
+      "Na jeevitha kaalamanthaa ninne sthuthiinchedhaa",
+      "Nenu brathuku dhinamulanthaa ninnu nenu chaathedaa",
+      "Aaraadhana… Aaraadhana…"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా జీవిత పయనములో",
+        "మలుపులెన్నో వచ్చినా",
+        "అనుకోని ఆపదలే నన్ను",
+        "చుట్టుముట్టినా"
+      ],
+      "english": [
+        "Naa jeevitha payanamulo malupulenno vachchina",
+        "Anukoni aapadhale nannu chuttumuttinaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇమ్మానుయేలువై",
+        "నన్ను నీలో దాచితివే",
+        "నా పక్షమై నిలచి నన్ను",
+        "ఆదరించితివే"
+      ],
+      "english": [
+        "Immaanueelu vai nannu neelo daachithive",
+        "Naa pakshamai nilachi nannu aadharinchithive"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అపవాది బాణములే నన్ను",
+        "బాధించినా –",
+        "ఆశలన్నీ కోల్పోయి నిరాశలో",
+        "మునిగినా"
+      ],
+      "english": [
+        "Apavaadhi baanamule nannu baadhinchinaa",
+        "Aashalanni kolpoyi niraashalo munigina"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆశ్చర్యకరుడవై – నన్ను",
+        "ఆదుకొంటివే",
+        "ఆనంద మయముగా నన్ను",
+        "మార్చి వేసితివే"
+      ],
+      "english": [
+        "Aashcharyakarudavai nannu aadhukontive",
+        "Aanandha mayamugaa nannu maarchi vesithive"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "అయినవారందరు నన్ను",
+        "విడిచి వెళ్లినా",
+        "ఆదరించు వారే లేక",
+        "ఒంటరినై మిగిలినా"
+      ],
+      "english": [
+        "Ayinavaarandharu nannu vidichi vellinaa",
+        "Aadharimchu vaare leka ontarinaa migilinaa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నా కన్న తండ్రివై నన్ను",
+        "చేరదీసితివే",
+        "కలనైన మరువ లేని –",
+        "కార్యాలు చేసితివే"
+      ],
+      "english": [
+        "Naa kanna thandrivi nannu cheradheesithive",
+        "Kalanaina maruva leni kaaryaalu chesithive"
+      ]
+    }
+  ]
+}

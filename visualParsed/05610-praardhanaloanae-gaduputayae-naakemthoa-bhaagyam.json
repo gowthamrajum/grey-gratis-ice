@@ -1,0 +1,68 @@
+{
+  "song_name": "Praardhanalone gaduputaye naakentho bhaagyamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రార్ధనలోనే గడుపుటయే నాకెంతో భాగ్యము",
+      "యేసుతోనే సహవాసం చేసెదను నిత్యము ||ప్రార్ధన||"
+    ],
+    "english": [
+      "Praardhanalone gaduputaye naakentho bhaagyamu",
+      "Yesuthone sahavaasam chesedanu nithyamu ||Praardhana||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రార్ధనలో వాక్యమును - దొరకగా భుజించెదం",
+        "క్రీస్తు మనకై చేసిన కార్యములన్ని పొగడెదము (2)",
+        "ప్రార్ధనలో స్తుతియించి స్తోత్రించి పాడెదం",
+        "దేవుని ప్రేమను గూర్చి కృతజ్ఞత చెల్లింతం  ||ప్రార్ధనలోనే||"
+      ],
+      "english": [
+        "Praardhanalo vaakyamunu - Dhorakagaa bhujinchedham",
+        "Kreesthu manakai chesina kaaryamulanni pogadedhamu (2)",
+        "Praardhanalo sthuthiyinchi sthothrinchi paadedam",
+        "Devuni premanu goorchi kruthagnatha chellintham ||Praardhanalone||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రార్ధనలో నిరీక్షించి కనిపెట్టెద చిత్తం",
+        "దేవుని ఇష్టులుగా నడచి సంతోష పరచెదం  ||ప్రార్ధనలోనే||"
+      ],
+      "english": [
+        "Praardhanalo nireekshinchi kanipettedha chittham",
+        "Devuni ishtulugaa nadachi santhosha parachedham ||Praardhanalone||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రార్ధనలో జయములను సాధించి చూపెదం",
+        "ప్రార్ధనచే సమస్తము జరిగించి సాగెదం  ||ప్రార్ధనలోనే||"
+      ],
+      "english": [
+        "Praardhanalo jayamulanu saadhinchi choopedham",
+        "Praardhanache samasthamu jariginchi saagedam ||Praardhanalone||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ప్రార్ధించే వారము - పాపము చేయక వుండెదం",
+        "ప్రార్ధననే ఊపిరిగా కలిగి జీవించెదం  ||ప్రార్ధనలోనే||"
+      ],
+      "english": [
+        "Praardhinche vaaramu - Paapamu cheyaka vundedham",
+        "Praardhanane oopirigaa kaligi jeevinchedham ||Praardhanalone||"
+      ]
+    }
+  ]
+}

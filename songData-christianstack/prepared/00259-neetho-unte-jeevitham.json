@@ -1,0 +1,77 @@
+{
+  "song_name": "Neetho Unte Jeevitham",
+  "author": {
+    "Authored by": "Robert Stoll",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీతో ఉంటే జీవితం",
+      "వేదనైనా రంగుల పయనం",
+      "నీతో ఉంటే జీవితం",
+      "భాటేదైనా పువ్వుల కుసుమం",
+      "నువ్వే నా ప్రాణాధారము…",
+      "నువ్వే నా జీవధారము"
+    ],
+    "english": [
+      "Neetho unte jeevitham",
+      "vedanaaina rangula payanam",
+      "neetho unte jeevitham",
+      "bhaatedaina puvvula kusumam",
+      "nuvve naa pranaadhaaramu…",
+      "nuvve naa jeevadhaaramu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నువ్వే లేకపోతే నేను జీవించలేను",
+        "నువ్వే లేకపోతే నేను బ్రతుకలేను",
+        "నువ్వే లేక పోతే నేను ఊహించలేను",
+        "నువ్వే లేక పోతే నేను లేనేలేను",
+        "నిను విడిచిన క్షణమే",
+        "ఒక యుగమై గడచె నా జీవితము",
+        "చెదరిన నా బ్రతుకే",
+        "నిన్ను వెతికే నీ తోడు కోసం",
+        "( నువ్వే నా ప్రాణాధారము )"
+      ],
+      "english": [
+        "Nuvve lekapotey nenu jeevincha lenu",
+        "nuvve lekapotey nenu bratukalenu",
+        "nuvve lekapote nenu oohincha lenu",
+        "nuvve lekapote nenu lene lenu",
+        "ninu vidichina kshaname",
+        "oka yugamai gadache naa jeevithamu",
+        "cheddarina naa bratuke",
+        "ninnu vetike nee todu kosam",
+        "(nuvve naa pranaadhaaramu)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీతో నేను జీవిస్థాలే కల కాలము",
+        "నిన్నే నేను ప్రేమిస్తానే చిరకాలము",
+        "లోకంలో నేనెన్నో వేతికా అంత శూన్యము",
+        "చివరికీ నువ్వే నిలిచవే సదాకాలము",
+        "నిను విడువను దేవా",
+        "నా ప్రభువా నా ప్రాణనాధ",
+        "నీ చేతితో మలచి",
+        "నను విరచి సరిచేయునాధ",
+        "( నువ్వే నా ప్రాణాధారము )"
+      ],
+      "english": [
+        "Neetho nenu jeevistale kala kaalamu",
+        "ninne nenu premistane chirakaalamu",
+        "lokamlo nenenno vetika antha shoonyamu",
+        "chivariki nuvve nilichave sadaakaalamu",
+        "ninu viduvanu devaa",
+        "naa prabhuvaa naa praananaadha",
+        "nee chetito malachi",
+        "nanu virachi saricheyunaadha",
+        "(nuvve naa pranaadhaaramu)"
+      ]
+    }
+  ]
+}

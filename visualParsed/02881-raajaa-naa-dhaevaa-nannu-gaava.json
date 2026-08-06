@@ -1,0 +1,64 @@
+{
+  "song_name": "Raajaa naa Devaa nannu gaava raave Prabhu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "జి పెద సమూయేలు"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాజా నా దేవా నన్ను గావ రావే ప్రభు ||రాజా||"
+    ],
+    "english": [
+      "Raajaa naa Devaa nannu gaava raave Prabhu ||Raajaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తల్లి గర్భంబు బయలు వెళ్లిన దినమునుండి కొల్లగా సేవింపఁ",
+        "జల్లనైన మోక్ష మియ్య  ||రాజా||"
+      ],
+      "english": [
+        "Thalli garbhambu bayalu vellina dinamunundi kollagaa sevimpa",
+        "Jallanaina moksha miyya  ||Raajaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బాలప్రాయమునుండి బ్రతికిన కాలమంత నీలాగు జీవించి నిత్యమైన",
+        "మోక్ష మొంద  ||రాజా||"
+      ],
+      "english": [
+        "Baalapraayamunundi brathikina kaalamantha neelaagu jeevinchi nithyamaina",
+        "Moksha monda  ||Raajaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మాకొఱకై వచ్చి మా పాపములకు మాయ లోకములోన మృతికి",
+        "లోనై లేచితి వయ్య  ||రాజా||"
+      ],
+      "english": [
+        "Maakorakai vachchi maa paapamulaku maaya lokamulona mruthiki",
+        "Lonai lechithi vayya  ||Raajaa||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దండి ప్రభుండు యే సండఁ జేరఁగ మాకు నిండు వేడుకతోను నిత్య",
+        "మోక్షంబు నియ్య  ||రాజా||"
+      ],
+      "english": [
+        "Dandi Prabhundu Yesunda jeraga maaku nindu vedukathonu nithya",
+        "Mokshambu niyya  ||Raajaa||"
+      ]
+    }
+  ]
+}

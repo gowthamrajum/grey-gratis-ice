@@ -1,0 +1,44 @@
+{
+  "song_name": "Shree Yaesu Svaami Thirigi Moaksha",
+  "author": {
+    "Authored by": "",
+    "రచన": "హేరియట్ ఆబర్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "శ్రీ యేసు స్వామి తిరిగి మోక్షంబుఁ జేరగా ఒక్కాదరణకర్తను ఒసంగెను."
+    ],
+    "english": [
+      "Shree Yaesu Svaami Thirigi Moakshambu Jaeragaa Okkaadharanakarthanu Osangenu."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆ దేవునాత్మ ప్రీతిగా మదిన్ వసించుచు విధేయులైన మనల పాలించును."
+      ],
+      "english": [
+        "Aa Dhaevunaathma Preethigaa Madhin Vasinchuchu Vidhaeyulaina Manala Paalinchunu."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సద్గుణ మున్న మనకు ఆ యాత్మ దానము శోధించు దుష్టుని సహా జయించును."
+      ],
+      "english": [
+        "Sadhguna Munna Manaku Aa Yaathma Dhaanamu Shoadhinchu Dhushtuni Sahaa Jayinchunu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఓ దేవునాత్మ, మమ్మును విశుద్ధిపర్చుము మా హృదయంబులో సదా వసించుము."
+      ],
+      "english": [
+        "Oa Dhaevunaathma, Mammunu Vishudhdhiparchumu Maa Hrudhayambuloa Sadhaa Vasinchumu."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "song_name": "Naa Sannidhi Neeku",
+  "author": {
+    "Authored by": "sister Sharon Praveen",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా సన్నిధి నీకు తోడుగ ఉండును చెట్టుకు మంచు వలె",
+      "నీవు అభివృద్ధి పొంది ఎదిగెదవు తామర పువ్వువలే",
+      "ఉన్నత బహుమానం నీవు పొందెదవు",
+      "పక్షిరాజు వలె పైకి ఎగిరెదవు"
+    ],
+    "english": [
+      "Naa sannidhi neeku thoduga undunu chettuku manchu vale",
+      "neevu abhivrudhi pondhi edhigedhavu thaamara puvvuvale",
+      "unnatha bahumaanam neevu pondhedhavu",
+      "pakshiraaju vale paiki egiriredhavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా సన్నిధి నీకు తోడుగ ఉండును చెట్టుకు మంచు వలె",
+        "నీవు అభివృద్ధి పొంది ఎదిగెదవు తామర పువ్వువలే"
+      ],
+      "english": [
+        "Naa sannidhi neeku thoduga undunu chettuku manchu vale",
+        "neevu abhivrudhi pondhi edhigedhavu thaamara puvvuvale"
+      ]
+    }
+  ]
+}

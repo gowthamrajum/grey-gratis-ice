@@ -1,0 +1,51 @@
+{
+  "song_name": "Mayalokam Telusuko Idi Mayalokam Premalokam",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మాయలోకం మాయలోకం తెలుసుకో ఇది మాయలోకం",
+      "ప్రేమలోకం ప్రేమలోకం ప్రేమకర్ధం తెలియని లోకం",
+      "తెలుసుకో ఇది యౌవన మైకం కొంపముంచును నీ అమాయకం"
+    ],
+    "english": [
+      "Mayalokam Mayalokam Telusuko Idi Mayalokam",
+      "Premalokam Premalokam Premakardham Teliyani Lokam",
+      "Telusuko Idi Yauvana Maikam Kompamumchunu Ni Amayakam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎవడో నవ్వాడని అదియే ఆ ప్రేమయని",
+        "అందంగా వున్నాడని అన్నీ తెలిసిన వాడని",
+        "మాటల మాయలో మలినమై పాటల పార్కులో పతనమై",
+        "నీ బ్రతుకు నాశనం చేసుకొందువా ఓ చెల్లెమ్మా. ."
+      ],
+      "english": [
+        "Evado Navvadani Adiye A Premayani",
+        "Amdamga Vunnadani Anni Telisina Vadani",
+        "Matala Mayalo Malinamai Patala Parkulo Patanamai",
+        "Ni Bratuku Nasanam Chesukomduva O Chellemma. ."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎక్కడో అమ్మాయిని చూసి అక్కడే తన మనసిచ్చేసి",
+        "అప్పుడే దేవుని మరచి అక్కడే పిలుపును విడిచి",
+        "ప్రేమ ముసుగులో అంధుడై కామ క్రియలలో బంధియై",
+        "ఆ సమ్సోనులా చంపుకొందువా ఓ సోదరుడా. ."
+      ],
+      "english": [
+        "Ekkado Ammayini Chusi Akkade Tana Manasichchesi",
+        "Appude Devuni Marachi Akkade Pilupunu Vidichi",
+        "Prema Musugulo Amdhudai Kama Kriyalalo Bamdhiyai",
+        "A Samsonula Champukomduva O Sodaruda. ."
+      ]
+    }
+  ]
+}

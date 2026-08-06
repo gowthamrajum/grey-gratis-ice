@@ -1,0 +1,61 @@
+{
+  "song_name": "Jeevitha Thrushnalanu Naadhu Theerchumayyaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జీవిత తృష్ణలను - నాదు తీర్చుమయ్యా ప్రియ - యేసునాథా"
+    ],
+    "english": [
+      "Jeevitha Thrushnalanu - Naadhu Theerchumayyaa Priya - Yaesunaathaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా జీవాధారము నీవే - నీ నుండే జీవము ప్రవహించు",
+        "ప్రవహించే ఈ నీ జీవముతో - ప్రభువా నన్ను నింపుము"
+      ],
+      "english": [
+        "Naa Jeevaadhaaramu Neevae - Nee Nundae Jeevamu Pravahinchu",
+        "Pravahinchae Ee Nee Jeevamuthoa - Prabhuvaa Nannu Nimpumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా శాంతిదాతవు నీవే - శాంతము నీనుండే వచ్చునుగా",
+        "నిశ్చలమైన నీ శాంతముతో - నా జీవితమును నింపుము"
+      ],
+      "english": [
+        "Naa Shaanthidhaathavu Neevae - Shaanthamu Neenundae Vachchunugaa",
+        "Nishchalamaina Nee Shaanthamuthoa - Naa Jeevithamunu Nimpumu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సత్యానందమును నీవే ప్రభు - అసమానము నీ యానందమేగా",
+        "అత్యానంద భరితునిగాజేసి - నిత్యము నన్ను నింపుము"
+      ],
+      "english": [
+        "Sathyaanandhamunu Neevae Prabhu - Asamaanamu Nee Yaanandhamaegaa",
+        "Athyaanandha Bharithunigaajaesi - Nithyamu Nannu Nimpumu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పరిశుద్ధ జీవానందము - పరిశుద్ధతను నా కొసగితివి",
+        "నిరతము నా జీవితము ద్వారా - లోకమును దీవించుము"
+      ],
+      "english": [
+        "Parishudhdha Jeevaanandhamu - Parishudhdhathanu Naa Kosagithivi",
+        "Nirathamu Naa Jeevithamu Dhvaaraa - Loakamunu Dheevinchumu"
+      ]
+    }
+  ]
+}

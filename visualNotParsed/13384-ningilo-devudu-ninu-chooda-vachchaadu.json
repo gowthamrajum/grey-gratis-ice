@@ -1,0 +1,54 @@
+{
+  "song_name": "Ningilo Devudu ninu chooda vachchaadu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నింగిలో దేవుడు నిను చూడ వచ్చాడు",
+      "ఆ నీతి సూర్యుడు శ్రీ యేసు నాధుడు (2)",
+      "చెంత చేరి సంతసించుమా (2)",
+      "స్వంతమైన క్రీస్తు సంఘమా ||నింగిలో||"
+    ],
+    "english": [
+      "Ningilo Devudu ninu chooda vachchaadu",
+      "Aa neethi sooryudu Shree Yesu naadhudu (2)",
+      "Chentha cheri santhasinchumaa (2)",
+      "Svanthamaina Kreesthu sanghamaa ||Ningilo||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపాల పంకిలమై శోకాలకంకితమై",
+        "మరణించి మన కోసం కరుణించి ఆ దైవం (2)",
+        "దీన జన రక్షకుడై దేవ దేవుని సుతుడై (2)",
+        "జన్మించె నీ కోసం ధన్యము చేయగా (2)  ||నింగిలో||"
+      ],
+      "english": [
+        "Paapaala pankilamai shokaalakankithamai",
+        "Maraninchi mana kosam karuninchi aa daivam (2)",
+        "Deena jana rakshakudai Deva devuni suthudai (2)",
+        "Janminche nee kosam dhanyamu cheyagaa (2) ||Ningilo||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సాతాను శోధనలే శాపాల వేదనలై",
+        "విలపించే దీనులకై అలరించు దీవెనలై (2)",
+        "శరణమై ఉదయించే తరుణమౌ ఈ వేళ (2)",
+        "గుండె గుడి పానుపులో చేర్చుకొన రావేల (2)  ||నింగిలో||"
+      ],
+      "english": [
+        "Saathaanu shodhanale shaapaala vedhanalai",
+        "Vilapinche dheenulakai alarinchu dheevenalai (2)",
+        "Sharanamai udayinche tharunamau ee vela (2)",
+        "Gunde gudi paanupulo cherchukona raavela (2) ||Ningilo||"
+      ]
+    }
+  ]
+}

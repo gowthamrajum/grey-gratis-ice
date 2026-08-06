@@ -1,0 +1,62 @@
+{
+  "song_name": "Neevu lenide nenu lenu Prabhuvaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవు లేనిదే నేను లేను ప్రభువా",
+      "నీ కృప లేనిదే నే బ్రతుకలేనయ్యా",
+      "బ్రతుకలేనయ్యా నీవు లేక క్షణమైనా (2)",
+      "నీవు లేకుంటే నా బ్రతుకే శూన్యం (2)",
+      "మరువకయ్యా నన్ను ఏ క్షణము దేవా (2)",
+      "నీ ప్రేమతో నన్ను లాలించు ప్రతి క్షణము (2) ||నీవు||"
+    ],
+    "english": [
+      "Neevu lenide nenu lenu Prabhuvaa",
+      "Nee krupa lenide ne brathukalenayyaa",
+      "Brathukalenayyaa neevu leka kshanamainaa (2)",
+      "Neevu lekunte naa brathuke shoonyam (2)",
+      "Maruvakayyaa nannu e kshanamu Deva (2)",
+      "Nee prematho nannu laalinchu prathi kshanamu (2) ||Neevu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గమ్యమును ఎరుగక నేను వెతలు పాలైన వేళ",
+        "తీరాన్ని దాటలేని నావ నేనైన వేళ (2)",
+        "నా గమ్యం నీవైతి – ఆ గమ్యం సిలువాయే (2)",
+        "ఆ సిలువే నాకు శరణం",
+        "నా పాప పరిహారం (2)  ||నీవు||"
+      ],
+      "english": [
+        "Gamyamunu erugaka nenu vethalu paalaina vela",
+        "Theeraanni daataleni naava nenaina vela (2)",
+        "Naa gamyam neevaithi – Aa gamyam siluvaaye (2)",
+        "Aa siluve naaku sharanam",
+        "Naa paapa parihaaram (2) ||Neevu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అపజయమే నాదు బ్రతుకును విషాదముగా మార్చిన వేళ",
+        "జీవించుటకాశ లేక మరణాన్ని కోరిన వేళ (2)",
+        "నా ఆశ నీవైతి – ఆ ఆశ సిలువాయే (2)",
+        "ఆ సిలువే నాకు నిరతం",
+        "నా జీవిత చిరుదీపం (2)  ||నీవు||"
+      ],
+      "english": [
+        "Apajayame naadu brathukunu vishaadhamugaa maarchina vela",
+        "Jeevinchutakaasha leka maranaanni korina vela (2)",
+        "Naa aasha neevaithi – Aa aasha siluvaaye (2)",
+        "Aa siluve naaku niratham",
+        "Naa jeevitha chirudheepam (2) ||Neevu||"
+      ]
+    }
+  ]
+}

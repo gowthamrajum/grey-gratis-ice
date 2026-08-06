@@ -1,0 +1,63 @@
+{
+  "song_name": "Divya Yesu meeda naanukondhumu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేవసమాధానం శాంతివలె",
+        "ప్రవహించుచుండు వరదరీతి",
+        "మెండుగాను పారుచుండు నిత్యము",
+        "నిండులోతుగాను వృద్ధియగును",
+        "దివ్య యేసు మీద నానుకొందుము",
+        "నిత్య విశ్రాంతిని పొందియుందుము"
+      ],
+      "english": [
+        "Dhevasamaadhaanam shaanthivale",
+        "Pravahinchuchundu varadhareethi",
+        "Mendugaanu paaruchundu nithyamu",
+        "Nindulothugaanu vruddhiyagunu",
+        "Divya Yesu meeda naanukondhumu",
+        "Nithya vishraanthini pondhiyundhumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చేతినీడ క్రింద నన్ను దాచెను",
+        "శత్రుభయముచే దిగులొందను",
+        "కాపాడును చంచలము రానీక",
+        "కించిత్తేని దుఃఖ పడనీయడు"
+      ],
+      "english": [
+        "Chethineeda krinda nannu daachenu",
+        "Shathrubhayamuche dhigulondhanu",
+        "Kaapaadunu chanchalamu raaneeka",
+        "Kinchittheni duhkha padaneeyadu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీడవలెనుండు దుఃఖక్లేశమున్",
+        "సూర్యజ్యోతియైన తన కృపచే",
+        "పారద్రోలి నిత్యానంద మిచ్చును",
+        "కాన జీవితము సఫలమగున్"
+      ],
+      "english": [
+        "Needavalenundu duhkhakleshamun",
+        "Sooryajyothiyaina thana krupache",
+        "Paaradhroli nithyaanandha michchunu",
+        "Kaana jeevithamu saphalamagun"
+      ]
+    }
+  ]
+}

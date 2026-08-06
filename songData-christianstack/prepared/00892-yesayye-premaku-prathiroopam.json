@@ -1,0 +1,45 @@
+{
+  "song_name": "Yesayye Premaku Prathiroopam",
+  "author": {
+    "Authored by": "Sharon Philip",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసయ్యే ప్రేమకు ప్రతిరూపం",
+      "యేసయ్యే జగతికి నిజ దైవము"
+    ],
+    "english": [
+      "Yesayye premaku prathiroopamu",
+      "yesayye jagathiki nija dhaivamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆ మాటల్లో ఆశ్చర్యకార్యాలు",
+        "ఆ చూపుల్లో అద్భుతాలు ఎన్నో"
+      ],
+      "english": [
+        "Aa maatallo aashcharyakaaryaalu",
+        "aa choopullo adhbuthaalu enno"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేలీషాదాయ్ – సర్వశక్తిమంతుడా",
+        "అడోనాయ్ – ప్రభువుల ప్రభువా",
+        "ఎలోహిమ్ – సర్వ సృష్టికర్త",
+        "ఎలోలాం – నిత్యుడగు దేవా"
+      ],
+      "english": [
+        "Elsheddhai – sarvasakthimanthudaa",
+        "adonai – prabhuvula prabhuva",
+        "elohim – sarva srushtikartha",
+        "elolam – nithyudagu dhevaa"
+      ]
+    }
+  ]
+}

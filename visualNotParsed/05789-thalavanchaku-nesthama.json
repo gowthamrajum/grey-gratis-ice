@@ -1,0 +1,66 @@
+{
+  "song_name": "Thalavanchaku nesthamaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "తలవంచకు నేస్తమా తలవంచకు నేస్తమా",
+      "తలవంచకు ఎప్పుడు తలవంచకు ఎన్నడూ",
+      "స్వార్ధపుటంచున ఊగిసలాడే లొకంలో",
+      "కుడి ఎడమలకు బేధం తెలియని లొకంలో",
+      "కన్నులు నెత్తికి వచ్చిన లోకంలో",
+      "ప్రేమకు అర్ధం గ్రహించలేని లోకంలో",
+      "నీవు కావాలి ఓ మాదిరి",
+      "నీవు ఇవ్వాలి ఓ ప్రేరణ",
+      "నీవు మండాలి ఓ జ్వాలగా",
+      "నీవు చేరాలి ఓ గమ్యము"
+    ],
+    "english": [
+      "Thalavanchaku nesthamaa thalavanchaku nesthamaa",
+      "Thalavanchaku eppudu thalavanchaku ennadoo",
+      "Swaardhaputanchuna oogisalaade lokamlo",
+      "Kudi edamalaku bhedam theliyani lokamlo",
+      "Kannulu netthiki vachchina lokamlo",
+      "Premaku ardham grahinchaleni lokamlo",
+      "Neevu kaavaali o maadiri",
+      "Neevu ivvaali o prerana",
+      "Neevu mandaali o jwaalagaa",
+      "Neevu cheraali o gamyamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చీకటిని వెనుకకు త్రోసి సాగిపోముందుకే",
+        "క్రీస్తు బాటలో పయనిస్తే ఎదురేమున్నది",
+        "రేపటి భయం నిందల భారం ఇకపై లేవులే",
+        "క్రీస్తును చేరు లోకాన్ని వీడు విజయం నీదేలే  ||తలవంచకు||"
+      ],
+      "english": [
+        "Cheekatini venukaku throsi saagipomundhuke",
+        "Kreesthu baatalo payanisthe edhuremunnadhi",
+        "Repati bhayam nindala bhaaram ikapai levule",
+        "Kreesthunu cheru lokaanni veedu vijayam needhele  ||Thalavanchaku||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పెకలించు కొండలను విశ్వాస బాటలొ",
+        "గెలవాలి యుద్ధ రంగంలో దైవిక బలముతో",
+        "యేసుని కృప నీలోనే ఉంది సాధించు ప్రగతిని",
+        "మంచిని పెంచు ప్రేమను పంచు నిలిచిపో జగతిలో  ||తలవంచకు||"
+      ],
+      "english": [
+        "Pekalinchu kondalanu vishwaasa baatalo",
+        "Gelavaali yuddha rangamlo dhaivika balamutho",
+        "Yesuni krupa neelone undi saadhinchu pragathini",
+        "Manchini penchu premanu panchu nilichipo jagathilo  ||Thalavanchaku||"
+      ]
+    }
+  ]
+}

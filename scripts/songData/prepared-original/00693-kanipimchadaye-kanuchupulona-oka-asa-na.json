@@ -1,0 +1,35 @@
+{
+  "song_name": "Kanipimchadaye Kanuchupulona Oka Asa Na",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కనిపించదాయె కనుచూపులోన ఒక ఆశ నా జీవితానా కరుణించి యేసు ప్రేమించె నన్ను రక్షించే నే చేరినపుడు"
+    ],
+    "english": [
+      "Kanipimchadaye kanuchupulona Oka asa na jivitana Karunimchi yesu premimche nannu Rakshimche ne cherinapudu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పలుమార్లు నేను పడిపోతినయ్య పాపాల కూపంబులో దరికాన రాక దారేమి లేక విలపించి మొరలిడితిని నా యేసువా"
+      ],
+      "english": [
+        "Palumarlu nenu padipotinayya Papala kupambulo Darikana raka daremi leka Vilapimchi moraliditini na yesuva"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రకటింతునయ్య నీప్రేమ వార్త ప్రతి చోట నా యేసువా నీకెంత జాలి నీకెంత ప్రేమ నన్నాదరించితివా నా యేసువా"
+      ],
+      "english": [
+        "Prakatimtunayya niprema varta Prati chota na yesuva Nikemta jali nikemta prema Nannadarimchitiva na yesuva"
+      ]
+    }
+  ]
+}

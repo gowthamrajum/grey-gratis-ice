@@ -1,0 +1,63 @@
+{
+  "song_name": "Vellipove gathamaa chellubaatu kaavu neevika",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Sayaram Gattu"
+    ],
+    "రచన": [
+      "సాయారం గట్టు"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "వెళ్లిపోవే గతమా! చెల్లుబాటు కావు నీవిక",
+      "క్రీస్తులో నే నూతనం! గతించి పోయే నీ జీవనం"
+    ],
+    "english": [
+      "Vellipove gathamaa! Chellubaatu kaavu neevika",
+      "Kreesthulo ne noothanam! Gathinchi poye nee jeevanam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మనసు పై ఉన్న ఆ మచ్చలు",
+        "నా తప్పులకై ఉన్న నీ లెక్కలు",
+        "రద్దయెను ఆ సిలువలో! హద్దేలేని తన ప్రేమలో"
+      ],
+      "english": [
+        "Manasu pai unna aa machchalu",
+        "Naa thappulakai unna nee lekkalu",
+        "Raddhayenu aa siluvalo! Haddheleni thana premalo"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఒప్పుకుంటేనే నిన్ను నేను",
+        "గుర్తే రావంటా తనకే నీవు",
+        "నీ గురుతులు అన్ని మరచి! ప్రభు మార్గము నే సాగగా"
+      ],
+      "english": [
+        "Oppukuntene ninnu nenu",
+        "Gurthe raavantaa thanake neevu",
+        "Nee guruthulu anni marachi! Prabhu maargamu ne saagagaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మదిలో చీకటిని పెంచే నువ్వు",
+        "తన రక్షణ ముందు నిలువబోవు",
+        "ప్రభు వాక్యము వెలుగులోన, వెలిగితిని అణువణువణువున"
+      ],
+      "english": [
+        "Madilo cheekatini penche nuvvu",
+        "Thana rakshana mundu niluvabovu",
+        "Prabhu vaakyamu velugulona, veligithini anuvanuvanuvuna"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "song_name": "Madhuramaina ee samayaana",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మధురమైన ఈ సమయాన ప్రభుని పాట పాడెద",
+      "సుధలు నిండు ఆ నామమును భువిని నేను చాటెద"
+    ],
+    "english": [
+      "Madhuramaina ee samayaana Prabhuni paata paadeda",
+      "Sudhalu nindu aa naamamunu bhuvini nenu chaateda"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎంత ఘోర పాపులనైన మార్చివేయును",
+        "ఎంత కఠిన హృదయములైనా కరిగి పోవును",
+        "యేసు కరుణ వాక్కులే ప్రేమపూరితం"
+      ],
+      "english": [
+        "Entha ghora paapulanaina maarchiveyunu",
+        "Entha katina hrudhayamulainaa karigi povunu",
+        "Yesu karuna vaakkule premapooritham"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎంచలేని దివ్య ప్రేమ యేసు సిల్వ ప్రేమ",
+        "ఎంచిచూడ ఏదిలేదు మంచితనము నాలో",
+        "యేసు రక్త ధారలే క్షమా సహితము"
+      ],
+      "english": [
+        "Enchaleni divya prema Yesu silva prema",
+        "Enchichooda edhiledhu manchithanamu naalo",
+        "Yesu raktha dhaarale kshamaa sahithamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కష్టమైన నష్టమైన క్రీస్తే ఆశ్రయం",
+        "హింసయైన బాధయైన లేదు యే భయం",
+        "యేసు మథుర నామమే రక్షణ కారణం"
+      ],
+      "english": [
+        "Kashtamaina nashtamaina Kreesthe aashrayam",
+        "Himsayaina baadhayaina ledu e bhayam",
+        "Yesu madhura naamame rakshana kaaranam"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "song_name": "Andhala Tara Merisenu",
+  "author": {
+    "Authored by": "Rakesh Menda",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "అందాల తార మెరిసెను",
+      "రారాజు రాక తెలిపెను",
+      "ప్రభుని రాక నెరిగి – అవని మురిసెను",
+      "విభుని రాక నెరిగి – జగతి సంతసించెను",
+      "బెత్లహేము పురములో – జన్మించే దేవనందుడు",
+      "మహిమతేజ కాంతుడు మరియసుతుడు"
+    ],
+    "english": [
+      "Andhaala thaara merisenu",
+      "raaraaju raaka thelipenu",
+      "prabhuni raaka nerigi – avani murisenu",
+      "vibhuni raaka nerigi – jagathi santhasinchenu",
+      "bethlahemu puramulo – janminche dhevanandhudu",
+      "mahima theja kaanthudu mariya suthudu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శుభదినం ఈ దినం మానవాళికిది పర్వదినం",
+        "శుభదినం ఈ దినం మానవాళి రక్షణదినం"
+      ],
+      "english": [
+        "Subhadhinam ee dhinam maanavaalikidhi parvadhinam",
+        "subhadhinam ee dhinam maanavaali rakshana dhinam"
+      ]
+    }
+  ]
+}

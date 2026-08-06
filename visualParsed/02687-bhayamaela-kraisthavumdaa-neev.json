@@ -1,0 +1,77 @@
+{
+  "song_name": "Bhayamela kraisthavundaa neevika",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "జి జాన్ తాతయ్య"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "భయమేల క్రైస్తవుండా నీవిక నపజయమున బ్రతుకనేల జయ శూరుడగు",
+      "ప్రభువు యిలనీకు జయము నిచ్చుచు నుండగ ||భయమేల||"
+    ],
+    "english": [
+      "Bhayamela kraisthavundaa neevika napajayamuna brathukanela jaya shoorudagu",
+      "Prabhuvu ilaneeku jayamu nichchuchu nundaga ||Bhayamela||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "భూతపీడితుల నెల్ల విడిపించుదాత మన రక్షకుండు సాతాను వల",
+        "నుండియు విడిపించిప నీతితో మనుపలేడా  ||భయమేల||"
+      ],
+      "english": [
+        "Bhoothapeedithula nella vidipinchudhaatha mana rakshakundu Saathaanu vala",
+        "Nundiyu vidipinchi neethitho manupaledhaa ||Bhayamela||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మరణ పాశములనుండి లాజరును కరుణతో లేపలేదా ధరణిమిమ్ముల",
+        "నూతన బలముతో గుఱికి నడిపించలేడా  ||భయమేల||"
+      ],
+      "english": [
+        "Marana paashamulanundi Laajarunu karunatho lepaledhaa dharani mimmula",
+        "Noothana balamutho gurriki nadipinchaledhaa ||Bhayamela||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ద్రాక్షరసముగ నీళ్లను మార్చిన మహిమగల రక్షకుండు అక్షయ",
+        "సంతసంబు నిలమీకు దీక్షతో నివ్వలేడా  ||భయమేల||"
+      ],
+      "english": [
+        "Dhraaksharasamuga neellanu maarchina mahimagala rakshakundu akshaya",
+        "Santhasambu nilameeku deekshatho nivvaledhaa ||Bhayamela||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఐదు చిన్న రొట్టెలు మరి రెండు చిన్న చేపలతోడును ఐదువేల",
+        "మందిని బలపర్చినట్టి రక్షకుడుండగ  ||భయమేల||"
+      ],
+      "english": [
+        "Aidu chinna rottelu mari rendu chinna chepalathodunu aidhuvela",
+        "Mandhini balaparchinatti rakshakudundaga ||Bhayamela||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "విజయకరముగ బ్రతుకు ప్రభువుండు నిజవాగ్దత్తము లివ్వ నీ",
+        "వృజినము గెలువంగను ముదముతో నిజముగ నెరవేర్చడా  ||భయమేల||"
+      ],
+      "english": [
+        "Vijayakaramuga brathuku prabhuvundu nijavaagdhatthamu livva nee",
+        "Vrujinamu geluvanganu mudamutho nijamuga neraverchadaa ||Bhayamela||"
+      ]
+    }
+  ]
+}

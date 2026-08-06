@@ -1,0 +1,48 @@
+{
+  "song_name": "Innellu ilalo unnaamu manamu challani Devuni needalo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇన్నేళ్ళు ఇలలో ఉన్నాము మనము - చల్లని దేవుని నీడలో",
+      "గతించిపోయె కాలం - స్మరించు యేసు నామం",
+      "సంతోషించు ఈ నవోదయం – (2)"
+    ],
+    "english": [
+      "Innellu ilalo unnaamu manamu - Challani Devuni needalo",
+      "Gathinchipoye kaalam - Smarinchu Yesu naamam",
+      "Santhoshinchu ee navodhayam – (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లోకమే నటనాలయం - జీవితమే రంగుల వలయం – (2)",
+        "పరలొకమే మనకు శాశ్వతం - పరలోకదేవుడే నిత్యజీవం",
+        "ప్రేమామయుడే ఆ పరమాత్ముడే - పదిలపరచెలె రక్షణ భాగ్యం llఇన్నేళ్ళుll"
+      ],
+      "english": [
+        "Lokame natanaalayam - Jeevithame rangula valayam – (2)",
+        "Paralokame manaku shaashwatham - Paralokadhevude nithyajeevam",
+        "Premaamayude aa paramaathmude - Padhilaparachele rakshana bhaagyam ||Innellu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మారుమనసు మనిషికి మార్గం - పశ్చాత్తాపం మనసుకు మోక్షం (2)",
+        "నీపూర్ణ హ్రుదయముతో మోకరిల్లుమా - నీ పూర్ణ ఆత్మతో ప్రార్ధించుమా",
+        "పరిపూర్ణుడే పరిశుద్ధాత్ముడే - కరుణించులె నిన్ను కలకాలం llఇన్నేళ్ళుll"
+      ],
+      "english": [
+        "Maarumanasu manishiki maargam - Pashchaaththaapam manasuku moksham (2)",
+        "Neepoorna hrudayamutho mokarillumaa - Nee poorna aathmatho praardhinchumaa",
+        "Paripoornude parishuddhaathmude - Karuninchule ninnu kalakaalam ||Innellu||"
+      ]
+    }
+  ]
+}

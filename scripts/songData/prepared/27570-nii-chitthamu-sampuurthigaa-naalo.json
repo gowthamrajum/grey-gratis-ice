@@ -1,0 +1,31 @@
+{
+  "song_name": "Nii Chitthamu Sampuurthigaa Naalo",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "Lyrics: నీ చిత్తము సంపూర్తిగా నాలో జరిగించుమా నీ పరిపూర్ణ సంకల్పంలో నన్ను నడిపించుమా నీ ఉద్దేశ్యములు – ఉన్నతమైనవి నీ ఆలోచనలు – గంభీరమైనవి నా పూర్ణ హృదయముతో – నా పూర్ణ ఆత్మతో నా పూర్ణ మనస్సుతో – నా పూర్ణ శక్తితో యేసు నిన్నే ప్రేమింతును -నీ ఆజ్ఞలను గైకొందును 1 నా తల్లి గర్భమందు నన్ను నిర్మించినావు నా అంతరింద్రియములను నీవే కలిగించినావు నాయెడల నీకున్న తలంపులు బహు విస్తారములు నా ప్రభువా నీ ఇష్టమే నాలో నెరవేర్చుమా 2 నీకు వేరుగా ఉండి నేనేమి చేయలేను నీకు లోబడకుండా నేను వర్దిల్లలెను నీ కట్టడలను నాకు బోధించి నీ వాక్యంతో నన్ను నిలుపుము నీ ఇష్టమే నాలో నేరవేర్చుమా"
+    ],
+    "english": [
+      "nii chitthamu sampuurthigaa naaloo jariginchumaa nii paripuurnna sankalpamloo nannu nadipinchumaa nii uddeasyamulu – unnathamainavi nii aalochanalu – ganbhiiramainavi naa puurnna hrudayamuthoo – naa puurnna sakthithoo yeasu ninnea preaminthunu – nii aagnyalanu gaikondunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [],
+      "english": [
+        "naa thalli garbhamandu nannu nirminchinaavu naa antharindriyamulanu niivea kaliginchinaavu naayadala niikunna thalampulu bhahu visthaaramulu naa prabhuvaa nii ishtamea naaloo nearavearchumaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [],
+      "english": [
+        "niiku vearugaa undi neaneami cheayaleanu niiku loobadakundaa neanu vardillaleanu nii kattadalanu naaku boodinchi nii vaakyamthoo nannu nilupumu nii ishtamea naaloo nearavearchumaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "song_name": "Daivanirnayam E Parinayam Ramaniyam Atimadhuram",
+  "author": {
+    "Authored by": "Dr A R Stevenson",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దైవనిర్ణయం ఈ పరిణయం రమణీయం అతిమధురం",
+      "యేసులో ఏకమైన ఇరువురి అనుబంధం",
+      "నిలిచియుండును ఇలలో కలకాలం"
+    ],
+    "english": [
+      "Daivanirnayam E Parinayam Ramaniyam Atimadhuram",
+      "Yesulo Ekamaina Iruvuri Anubamdham",
+      "Nilichiyumdunu Ilalo Kalakalam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అన్నిటిలో వివాహం ఘనమైనదని",
+        "పానుపు ఏ కల్మషము లేనిదని",
+        "యెహూవాయే కలిగించిన కార్యమని",
+        "మహూన్నతుని వాక్యమే తెలిపెను"
+      ],
+      "english": [
+        "Annitilo Vivaham Ganamainadani",
+        "Panupu E Kalmashamu Lenidani",
+        "Yehuvaye Kaligimchina Karyamani",
+        "Mahunnatuni Vakyame Telipenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పురుషునిలో సగభాగం తన భార్యయని",
+        "ప్రేమించుట అతనికున్న బాధ్యతని",
+        "విధేయత చూపించుట స్త్రీ ధర్మమని",
+        "సజీవుడైన దేవుడే తెలిపెను"
+      ],
+      "english": [
+        "Purushunilo Sagabagam Tana Baryayani",
+        "Premimchuta Atanikunna Badhyatani",
+        "Vidheyata Chupimchuta Stri Dharmamani",
+        "Sajivudaina Devude Telipenu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "song_name": "Jayajendaalu - Pattukonuchu vijayothsaaha geethaalatho",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "జయజెండాలు - పట్టుకొనుచు విజయోత్సాహ గీతాలతో",
+      "మన ధ్వజమును పైకెత్తి పరుగులెత్తుచు",
+      "ప్రభు కొరకు పని చేసెదం ||2||",
+      "యేసు రాజుల రాజని",
+      "ప్రభువుల ప్రభువని లోకానికి చాటిదం ||2||",
+      "హ........ హల్లెలూయా...హో.... హోసన్నా.... ||2||"
+    ],
+    "english": [
+      "Jayajendaalu - Pattukonuchu vijayothsaaha geethaalatho",
+      "Mana dhwajamunu paiketthi paruguletthuchu",
+      "Prabhu koraku pani chesedam ||2||",
+      "Yesu raajula raajani",
+      "Prabhuvula prabhuvani lokaaniki chaatidham ||2||",
+      "Ha........ hallelooyaa...ho.... hosannaa.... ||2||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కొండలైన, లోయలైన, అడవులైన, ఎడారులైన ||2||",
+        "యేసుని చేరుటె నా లక్ష్యమై,",
+        "వెనుచూడక నే సాగెదను ||2||",
+        "హ........ హల్లెలూయా...హో.... హోసన్నా....||2||"
+      ],
+      "english": [
+        "Kondalaina, loyalaina, adavulaina, edaarulaina ||2||",
+        "Yesuni cherute naa lakshyamai,",
+        "Venuchoodaka ne saagedanu ||2||",
+        "Ha........ hallelooyaa...ho.... hosannaa....||2||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వ్యాధియైన, బాధయైన, కలతలైన, కన్నీరైనా ||2||",
+        "నీ కృపయే నా ఆయుధమై వెనుచూడక నే సాగెదను ||2||",
+        "హ........ హల్లెలూయా...హో.... హోసన్నా.... ||2||"
+      ],
+      "english": [
+        "Vyaadhiyaina, baadhayaina, kalathalaina, kanneeraina ||2||",
+        "Nee krupaye naa aayudhamai venuchoodaka ne saagedanu ||2||",
+        "Ha........ hallelooyaa...ho.... hosannaa.... ||2||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కరువులై, ఖడ్గమైన, హింసయైన, మరణమైనా ||2||",
+        "పరలేకమె నా నిరీక్షనై వెనుచూడక నే సాగెదను ||2||",
+        "హ........ హల్లెలూయా...హో.... హోసన్నా....||2||"
+      ],
+      "english": [
+        "Karuvulai, khadgamaina, himsayaina, maranamaina ||2||",
+        "Paralokame naa nireekshanai venuchoodaka ne saagedanu ||2||",
+        "Ha........ hallelooyaa...ho.... hosannaa....||2||"
+      ]
+    }
+  ]
+}

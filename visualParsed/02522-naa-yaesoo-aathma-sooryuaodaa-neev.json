@@ -1,0 +1,86 @@
+{
+  "song_name": "Naa Yesoo aathma sooryudaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "జాన్ కెబిల్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా యేసూ, ఆత్మ సూర్యుఁడా",
+      "నీవున్న రాత్రి కమ్మదు",
+      "నా యాత్మలో నీ విప్పుడు",
+      "వసించి పాయకుండుమీ."
+    ],
+    "english": [
+      "Naa Yesoo, aathma sooryudaa",
+      "Neevunna raathri kammadhu",
+      "Naa yaathmalo nee vippudu",
+      "Vasinchi paayakundumee."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేను నిద్రించు వేళలో",
+        "నాకు నభయ మియ్యుము",
+        "నే లేచి పనిచేయఁగా",
+        "నా యొద్ద నుండు రక్షకా."
+      ],
+      "english": [
+        "Nenu nidhrinchu velalo",
+        "Naaku nabhaya miyyumu",
+        "Ne lechi panicheyagaa",
+        "Naa yodda nundu rakshakaa."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నాతోడ రాత్రింబగళ్లు",
+        "నీ వుండి నడిపించుము",
+        "నీవు నాతో లేకుండినన్",
+        "జీవింపఁ జావఁజాలను."
+      ],
+      "english": [
+        "Naathoda raathrimbagallu",
+        "Nee vundi nadipinchumu",
+        "Neevu naatho lekundinan",
+        "Jeevimpa jaavajaalanu."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నేఁడు నీ దివ్య వాక్యము",
+        "వినిన పాపు లెల్లరిన్",
+        "క్షమించి గుణపఱచి",
+        "నీ మందలోకిఁ జేర్చుము."
+      ],
+      "english": [
+        "Nedu nee divya vaakyamu",
+        "Vinina paapu lellarin",
+        "Kshaminchi gunaparachi",
+        "Nee mandhaloki jerchumu."
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "రోగిని స్వస్థపఱచి",
+        "బీదలను పోషించుమీ",
+        "దుఃఖించువారి దుఃఖముఁ",
+        "బాపి యానంద మియ్యుము."
+      ],
+      "english": [
+        "Rogini svasthaparachi",
+        "Beedhalanu poshinchumee",
+        "Duhkhinchuvaari duhkhamu",
+        "Baapi yaanandha miyyumu."
+      ]
+    }
+  ]
+}

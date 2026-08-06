@@ -1,0 +1,62 @@
+{
+  "song_name": "Santhosha Sambaraaluro",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Joshua Gariki"
+    ],
+    "రచన": [
+      "జాషువా గరికి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "సంతోష సంబరాలురో",
+      "యేసయ్య జననమాయేరో",
+      "జగమంతా పండుగాయేరో",
+      "రక్షకుడుదయించినాడురో",
+      "ఇంటింటా ప్రతిఇంటా రక్షణ తెచ్చిందిరో",
+      "ఊరంతా వాడంతా పండుగ వచ్చిందిరో"
+    ],
+    "english": [
+      "Santhosha sambaraaluro",
+      "Yesayya jananamaayero",
+      "Jagamanthaa pandugaayero",
+      "Rakshakududhayinchinaaduro",
+      "Intintaa prathiintaa rakshana thechchindhiro",
+      "Ooranthaa vaadanthaa panduga vachchindhiro"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నమ్మదగిన గొప్ప దేవుడు – నరుడై భువికి వచ్చినాడు",
+        "బేదమేమి లేని దేవుడు – బేత్లేహేములో పుట్టినాడు",
+        "రక్షణ దినమిదే యేసుని చేరుకో",
+        "ఈ క్షణమే యేసుని చేరి వేడుకో"
+      ],
+      "english": [
+        "Nammadagina goppa Devudu – Narudai bhuviki vachchinaadu",
+        "Bhedhamemi leni Devudu – Bethlehemulo puttinaadu",
+        "Rakshana dhinamidhe Yesuni cheruko",
+        "Ee kshaname Yesuni cheri veduko"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మార్పు లేని గొప్ప దేవుడు – మహిమను విడిచి వచ్చినాడు",
+        "శక్తిగలిగిన గొప్ప దేవుడు – శాపమంతా తీసివేయును",
+        "రక్షణ దినమిదే యేసుని చేరుకో",
+        "ఈ క్షణమే యేసుని చేరి వేడుకో"
+      ],
+      "english": [
+        "Maarpu leni goppa Devudu – Mahimanu vidichi vachchinaadu",
+        "Shakthigaligina goppa Devudu – Shaapamanthaa theesiveyunu",
+        "Rakshana dhinamidhe Yesuni cheruko",
+        "Ee kshaname Yesuni cheri veduko"
+      ]
+    }
+  ]
+}

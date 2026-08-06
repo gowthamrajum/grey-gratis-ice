@@ -1,0 +1,38 @@
+{
+  "song_name": "Redu Nedu Janiyinchinadu",
+  "author": {
+    "Authored by": "pastor Dr. Pammi Daniel",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జన్మించినాడు శ్రీ యేసురాజు బెత్లెహేమందున",
+      "సర్వోన్నతుడు వెలసినాడు రక్షణిచ్చుటకు",
+      "అక్షయ మార్గము నడిపించే మానవుడై",
+      "నిజమే నిజమే దీనవరుడై ఉదయించే"
+    ],
+    "english": [
+      "Janminchinaadu sri yesuraaju bethlehemandhuna",
+      "sarvonnathudu velasinaadu rakshanichutaku",
+      "akshaya maargamu nadipinche maanavudai",
+      "nijame nijame dheenavarudai udhayinche"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఱేడు నేడు జనియించినాడు",
+        "ఆనందం అద్భుతం",
+        "రేడు నేడు జనియించినాడు",
+        "సంతోషం సమాధానం"
+      ],
+      "english": [
+        "Redu nedu janiyinchinaadu",
+        "aanandam adbhutham",
+        "redu nedu janiyinchinaadu",
+        "santhosham samaadhaanam"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "song_name": "Erugani reethigaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Gottipaati Yesu Das"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎరుగని రీతిగా",
+      "నను దర్శించే నీ కృప",
+      "ఇంతవరకు కాచెనే",
+      "చెంత నుండి నీ కృపా",
+      "అంతము వరకు నడిపించునే",
+      "అంతేలేని నీ కృప",
+      "కృప కృప కృప"
+    ],
+    "english": [
+      "Erugani reethigaa",
+      "Nanu dharshinche nee krupa",
+      "Inthavaraku kaachene",
+      "Chentha nundi nee krupaa",
+      "Anthamu varaku nadipinchune",
+      "Antheleni nee krupa",
+      "Krupa krupa krupa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గల గల పారే సెలయేరులా",
+        "నాలో ప్రవహించే నీ కృప",
+        "శిలనైనా నను కరిగించెనే",
+        "వెలయే లేని నీ కృప",
+        "పావనమైన జీవన యానములో",
+        "క్షేమము నిచ్చే నీ కృప",
+        "రమ్యమైన నీ ప్రేమతో",
+        "గమ్యము చేర్చే నీ కృప"
+      ],
+      "english": [
+        "Gala gala paare selayerulaa",
+        "Naalo pravahinche nee krupa",
+        "Shilanainaa nanu kariginchene",
+        "Velaye leni nee krupa",
+        "Paavanamaina jeevana yaanamulo",
+        "Kshemamu nichche nee krupa",
+        "Ramyamaina nee prematho",
+        "Gamyamu cherche nee krupa"
+      ]
+    }
+  ]
+}

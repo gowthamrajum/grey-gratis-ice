@@ -1,0 +1,63 @@
+{
+  "song_name": "Aanandame Prabhu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Satish Kumar"
+    ],
+    "రచన": [
+      "బ్రదర్ సతీష్ కుమార్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆనందమే ప్రభు యేసుని స్తుతించుట",
+      "ఆత్మానంద గీతముల్ పాడెద"
+    ],
+    "english": [
+      "Aanandame Prabhu Yesuni sthuthinchuta",
+      "Aathmaanandha geethamul paadeda"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సిలువలో నాకై రక్తము కార్చెను",
+        "సింహాసనమునకై నన్నును పిలిచెను",
+        "సింహపుకోరల నుండి నన్ను విడిపించెను"
+      ],
+      "english": [
+        "Siluvalo naakai rakthamu kaarchenu",
+        "Simhaasanamunakai nannunu pilichenu",
+        "Simhapukorala nundi nannu vidipinchenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విశ్వాసమును కాపాడుకొనుచూ",
+        "విజయుడైన యేసుని ముఖమును చూచుచూ",
+        "విలువైన కిరీటము పొందెద నిశ్చయము"
+      ],
+      "english": [
+        "Vishvaasamunu kaapaadukonuchoo",
+        "Vijayudaina Yesuni mukhamunu choochuchoo",
+        "Viluvaina kireetamu pondeda nishchayamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా మానస వీణను మ్రోగించగా",
+        "నా మనో నేత్రములందు కనిపించె ప్రభు రూపమే",
+        "నా మదిలోన మెదిలేను ప్రభు సప్తస్వరాలు"
+      ],
+      "english": [
+        "Naa maanasa veenanu mroginchagaa",
+        "Naa mano nethramulandhu kanipinche Prabhu roopame",
+        "Naa madilona medhilenu Prabhu sapthasvaraalu"
+      ]
+    }
+  ]
+}

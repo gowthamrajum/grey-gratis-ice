@@ -1,0 +1,93 @@
+{
+  "song_name": "Asamaanudu Avamaanaparachadu Ninnu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Pastor David Varma"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "అసామానుడైన వాడు – అవమానపరచడునిన్ను",
+      "ఓటమిఎరుగనీ మన దేవుడు – ఒడిపోనివ్వడు నిన్ను",
+      "ఘనకార్యాలెన్నో నీకై చేసినవాడు -కష్టకాలమందు",
+      "నీ చేయి విడచునా",
+      "అసాధ్యములెన్నో దాటించిన నాథుడు",
+      "శ్రమలో నిన్ను దాటిపోవునా",
+      "సియోను దేవుడే నిన్ను సిగ్గుపడనివ్వడు",
+      "కనికర పూర్ణుడే నీ కన్నీరు తుడచును"
+    ],
+    "english": [
+      "Asamaanudaina vaadu – Avamaanaparachadu ninnu",
+      "Otami erugani mana Devudu – Odiponivvadu ninnu",
+      "Ghanakaaryaalenno neekai chesinavaadu - Kashtakaalamandhu",
+      "Nee cheyi vidachunaa",
+      "Asaadhyamulenno daatinchina naathudu",
+      "Shramalo ninnu daatipovunaa",
+      "Siyonu Devude ninnu sigguppadanivvadu",
+      "Kanikara poornude nee kanneeru thudachunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అగ్ని గుండాములో నెట్టివేసిన – సింహాల నోటికి",
+        "నిన్ను అప్పగించిన",
+        "శత్రువే నీ స్థితిచూసి అతిశయ పడుచున్న",
+        "సింహాలే నీ ఎదుటే మ్రింగివేయ నిలిచిన",
+        "నాకే ఎలా శ్రమలంటూ కృంగిపోకుమా",
+        "తేరిచూడు యేసుని అగ్నిలో నిలిచెను నీకై",
+        "శుత్రువు చేతికి నిను అప్పగించడు"
+      ],
+      "english": [
+        "Agni gundaamulo nettivesina – Simhaala notiki",
+        "Ninnu appaginchina",
+        "Shathruve nee sthithichoosi athishaya paduchunna",
+        "Simhaale nee edute mringiveya nilichina",
+        "Naake elaa shramalantoo krungipokumaa",
+        "Therichoodu Yesuni agnilo nilichenu neekai",
+        "Shathruvu chethiki ninu appaginchadu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరిస్థితులన్నీ చేజారిపోయిన – ఎంతగానో శ్రమమపడిన ఫలితమే లేకున్నా",
+        "అనుకున్నవన్నీ దూరమైపోయిన – మంచిరోజులొస్తాయనే నిరిక్షణే లేకున్నా",
+        "మారదీ తలరాతని దిగులుపడకుమా",
+        "మారాను మధురముగా మార్చును నీకై",
+        "మేలులతో నిను తృప్తిపరచును"
+      ],
+      "english": [
+        "Paristhithulannee chejaaripoyina – Enthagaano shramapadina phalithame lekunnaa",
+        "Anukunnavannee dhooramaipoyina – Manchirojulostaayane nireekshane lekunnaa",
+        "Maaradhee thalaraathani dhigulupadakumaa",
+        "Maaraanu madhuramugaa maarchunu neekai",
+        "Melulatho ninu thrupthiparachunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఒంటరి పోరాటమే విసుగురేపిన",
+        "పొందిన పిలుపే బారమైపోయిన",
+        "ఆత్మీయులందరు అవమానిస్తున్న",
+        "నమ్మదగినవారులేక నిరాశతో నిలిచిన",
+        "పిలుపునే విడచి మరలిపోకుమా",
+        "న్యాయాధిపతియే నాయకునిగా నిలుపును నిన్ను",
+        "పిలిచిన దేవుడు నిను మరచిపోవునా"
+      ],
+      "english": [
+        "Ontari poraatame visugurepina",
+        "Pondina pilupe bhaaramaipoyina",
+        "Aathmeeyulandharu avamaanisthunna",
+        "Nammadhaginavaaruleka niraashatho nilichina",
+        "Pilupune vidachi maralipokumaa",
+        "Nyaayaadhipathiye naayakunigaa nilupunu ninnu",
+        "Pilichina Devudu ninu marachipovunaa"
+      ]
+    }
+  ]
+}

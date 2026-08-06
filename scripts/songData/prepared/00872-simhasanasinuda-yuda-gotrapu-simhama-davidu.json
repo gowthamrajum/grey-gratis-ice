@@ -1,0 +1,66 @@
+{
+  "song_name": "Simhasanasinuda Yuda Gotrapu Simhama Davidu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సింహాసనాసీనుడా యూదా గోత్రపు సింహమా దావీదు చిగురు దేవతనయా",
+      "దేవాగొఱ్ఱెపిల్లవు నీవే స్తుతులకు యోగ్యుడవు (2)",
+      "ఆ . . ఆ . .",
+      "హల్లెలూయా మా మహరాజా",
+      "హొసన్నా హొసన్నా హల్లేలూయా ! శ్రీయేసురాజా",
+      "ఆ . . ఆ . ."
+    ],
+    "english": [
+      "Simhasanasinuda Yuda Gotrapu Simhama Davidu Chiguru Devatanaya",
+      "Devagorrepillavu Nive Stutulaku Yogyudavu (2)",
+      "Aa . . Aa . .",
+      "Halleluya Ma Maharaja",
+      "Hosanna Hosanna Halleluya ! Sriyesuraja",
+      "Aa . . Aa . ."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రభువుల ప్రభువు రాజులరాజు ప్రతివాని మోకాలు వంగవలె",
+        "ప్రభుయేసు క్రీస్తేదేవుడని ప్రతివాని నాలుక ఒప్పవలె",
+        ". . ఆ . ."
+      ],
+      "english": [
+        "Prabuvula Prabuvu Rajularaju Prativani Mokalu Vamgavale",
+        "Prabuyesu Kristedevudani Prativani Naluka Oppavale",
+        ". . Aa . ."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సర్వాధికారి సత్యస్వరూపి సర్వేస్వర నీవు సృష్టికర్తవే",
+        "మహిమాప్రభావము ఇహపరములలో ప్రభువాపొందఅర్హుడవు",
+        ". . ఆ . ."
+      ],
+      "english": [
+        "Sarvadhikari Satyasvarupi Sarvesvara Nivu Srushtikartave",
+        "Mahimaprabavamu Ihaparamulalo Prabuvapomda Arhudavu",
+        ". . Aa . ."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అల్ఫా ఓమేగ ఆమెన్ అనువాడా యుగయుగములకు మహారాజా",
+        "నామములన్నిట ఉన్నతనామం ప్రణుతింతునిన్ను కౄపామయా",
+        ". . ఆ . ."
+      ],
+      "english": [
+        "Alpa Omega Amen Anuvada Yugayugamulaku Maharaja",
+        "Namamulannita Unnatanamam Pranutimtuninnu Krupamaya",
+        ". . Aa . ."
+      ]
+    }
+  ]
+}

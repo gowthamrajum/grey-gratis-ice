@@ -1,0 +1,57 @@
+{
+  "song_name": "O Oho Kraistavuda Ohoho Visvasi",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓఓహో క్రైస్తవుడా ఓహోహో విశ్వాసి",
+      "నిరాశ మాటలు పలుకొద్దురా నిరీక్షణతో కొనసాగరా",
+      "దేవుని వాగ్దనం నమ్ముమురా",
+      "జీవపు మాటలు పలుకుమురా"
+    ],
+    "english": [
+      "O Oho Kraistavuda Ohoho Visvasi",
+      "Nirasa Matalu Palukoddura Nirikshanato Konasagara",
+      "Devuni Vagdanam Nammumura",
+      "Jivapu Matalu Palukumura"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిరాశలో ఉన్న అబ్రాముకు",
+        "నక్షత్రములు చూపెను దేవుడు (2)",
+        "నిరాశను పారద్రోలెనురా నిరీక్షణతో కొనసాగెరా",
+        "వాగ్దానములను నమ్మెనురా",
+        "వాగ్దాన పుత్రుని పొందెనురా (2)"
+      ],
+      "english": [
+        "Nirasalo Unna Abramuku",
+        "Nakshatramulu Chupenu Devudu (2)",
+        "Nirasanu Paradrolenura Nirikshanato Konasagera",
+        "Vagdanamulanu Nammenura",
+        "Vagdana Putruni Pomdenura (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిరాశలో ఉన్న పేతురు",
+        "తన దోనె యేసుకు ఇచ్చెను (2)",
+        "ఆయన మాటలు నమ్మెనురా చేపలతో తనదోనెనిండెనురా",
+        "యేసయ్యను వెంబడించెనురా",
+        "మనుష్యుల జాలరి ఆయెనురా (2)"
+      ],
+      "english": [
+        "Nirasalo Unna Peturu",
+        "Tana Done Yesuku Ichchenu (2)",
+        "Ayana Matalu Nammenura Chepalato Tanadonenimdenura",
+        "Yesayyanu Vembadimchenura",
+        "Manushyula Jalari Ayenura (2)"
+      ]
+    }
+  ]
+}

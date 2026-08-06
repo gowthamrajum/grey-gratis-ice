@@ -1,0 +1,34 @@
+{
+  "song_name": "Rakshakudu Vachinaadu",
+  "author": {
+    "Authored by": "Davidson Gajulavarthi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రక్షకుడు వచ్చినాడు వచ్చినాడమ్మా",
+      "నిన్ను నన్ను పరముకు చేర్చ భువికొచ్చాడమ్మా",
+      "పాపమే లేనోడమ్మా పాపుల రక్షకుడమ్మా",
+      "ప్రాణమియ్య వెనుకాడని ప్రేమామయుడోయమ్మా"
+    ],
+    "english": [
+      "Rakshakudu vachinadu vachinadammaa",
+      "ninnu nannu paramuku chercha bhuvikochaadamma",
+      "paapame lenodamma paapula rakshakudamma",
+      "praanamiyya venukaadani premaamayudoyammaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మన కోసం ఇలకొచ్చిన యేసు రాజుడితఁడమ్మా",
+        "జగమంతా కొలిచేటి ఇమ్మానుయేలమ్మా"
+      ],
+      "english": [
+        "Mana kosam ilakochina yesu rajudithadamma",
+        "jagamanthaa kolicheti immanuyelamma"
+      ]
+    }
+  ]
+}

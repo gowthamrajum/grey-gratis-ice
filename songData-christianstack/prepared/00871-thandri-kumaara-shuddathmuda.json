@@ -1,0 +1,47 @@
+{
+  "song_name": "Thandri Kumaara Shuddathmuda",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "తండ్రి కుమారా శుద్ధాత్ముడా",
+      "త్రియేక దేవుడా",
+      "ఆరాధింతును నిన్నే",
+      "ఆత్మాతో సత్యముతో"
+    ],
+    "english": [
+      "Thandri kumaaraa suddhaathmudaa",
+      "threeyeka devudaa",
+      "aaraadhinthunu ninne",
+      "aathmaatho sathyamutho"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సృష్టికర్తా నిన్నే సత్య స్వరూపుడా",
+        "నా కొరకే బలియైన దేవా",
+        "నిన్నే నే ఆరాధింతు"
+      ],
+      "english": [
+        "srushtikarthaa ninne sathya swaroopudaa",
+        "naa korake baliyaina devaa",
+        "ninne ne aaraadhinthu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జీవాదిపతియైన తేజోమయుడా",
+        "సర్వోన్నతుడా నిన్నే నే ఆరాధింతు"
+      ],
+      "english": [
+        "Jeevaadhipathiyaina thejomayuda",
+        "sarvonnathudaa ninne ne aaraadhinthu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "song_name": "Okamaata chaalu thandri",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Kollabathula Ruben"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఒకమాట చాలు తండ్రీ",
+      "నీ చల్లనైన నోట",
+      "నా జన్మ తరియించును",
+      "నా ఆశ ఫలియించును"
+    ],
+    "english": [
+      "Okamaata chaalu thandree",
+      "Nee challanaina nota",
+      "Naa janma thariyinchunu",
+      "Naa aasha phaliyinchunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మమతలు పంచే లోకంలో",
+        "మంచికి కరువైపోయింది",
+        "ప్రేమను పంచే హృదయంలో",
+        "ద్వేషం గూడులు వేసింది",
+        "అట్టి హృదయాలను ముట్టి మార్చాలని",
+        "నిత్యము సాక్షిగా నీకై నిలవాలని",
+        "లోకంలో నీ ప్రజలంతా",
+        "నీ ప్రేమను గుర్తించాలి",
+        "నిను ద్వేషించే వారంతా",
+        "రక్షణలోనికి రావాలి",
+        "అందరం ఏకమై నిన్ను కొలవాలని",
+        "శుద్ధ హృదయాలతో నిన్ను చేరాలని"
+      ],
+      "english": [
+        "Mamathalu panche lokamlo",
+        "Manchiki karuvaipoyindhi",
+        "Premanu panche hrudayamlo",
+        "Dhwesham goodulu vesindhi",
+        "Atti hrudhayaalanu mutti maarchaalani",
+        "Nithyamu saakshigaa neekai nilavaalani",
+        "Lokamlo nee prajalanthaa",
+        "Nee premanu gurthinchaali",
+        "Ninu dhweshinche vaaranthaa",
+        "Rakshanaloniki raavaali",
+        "Andharam ekamai ninnu kolavaalani",
+        "Shudhdha hrudhayaalatho ninnu cheraalani"
+      ]
+    }
+  ]
+}

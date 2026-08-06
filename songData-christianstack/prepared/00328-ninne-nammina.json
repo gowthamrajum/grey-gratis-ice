@@ -1,0 +1,46 @@
+{
+  "song_name": "Ninne Nammina",
+  "author": {
+    "Authored by": "Dr P Satish Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిన్నే నమ్మినా – నీ సన్నిధి చేరినా",
+      "నన్ను కాదనకు నా రక్షకా",
+      "నిన్నే చేరినా – నీ సన్నిధి కోరినా",
+      "నన్ను త్రోసేయకు నా యేసయ్య"
+    ],
+    "english": [
+      "Ninne namminaa – nee sannidhi cherinaa",
+      "nannu kaadhanaku naa rakshakaa",
+      "ninne cherinaa – nee sannidhi korinaa",
+      "nannu throseyaku naa yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆరిపోతున్నా – మసిబారిపోతున్నా",
+        "(నా) జీవితాన్ని – వెలిగించుమయ్యా",
+        "పడిపోతున్నా – పాడైపోతున్నా",
+        "నా బ్రతుకును – బాగుచేయుమయ్యా",
+        "సోలిపోతున్నా – సొమ్మసిల్లిపోతున్నా",
+        "నా హృదయాన్ని – ఓదార్చుమయ్యా",
+        "కృంగిపోతున్నా – కుప్పకూలిపోతున్నా",
+        "నా బ్రతుకును – బాగుచేయుమయ్యా"
+      ],
+      "english": [
+        "Aaripothunnaa – masibaaripothunnaa",
+        "(naa) jeevithaanni – veliginchumayyaa",
+        "padipothunaa – paadaipothunnaa",
+        "naa brathukunu – baagucheyumayyaa",
+        "Solipothunnaa – sommasillipothunnaa",
+        "naa hrudhayaanni – odharchumayyaa",
+        "krungipothunnaa – kuppakoolipothunnaa",
+        "naa brathukunu – baagu cheyumayyaa"
+      ]
+    }
+  ]
+}

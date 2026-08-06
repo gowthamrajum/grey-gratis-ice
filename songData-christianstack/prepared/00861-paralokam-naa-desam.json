@@ -1,0 +1,51 @@
+{
+  "song_name": "Paralokam Naa Desam",
+  "author": {
+    "Authored by": "Kripal Mohan",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరలోకం నా దేశం",
+      "పరిశుద్ధ దూతల సహవాసం",
+      "పరిపూర్ణతయే నా ధ్యేయం",
+      "యేసయ్యే నా జీవం"
+    ],
+    "english": [
+      "Paralokam naa dhesam",
+      "parisuddha dhoothala sahavaasam",
+      "paripoornathaye naa dhyeyam",
+      "yesayye naa jeevam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హల్లేలూయా హల్లేలూయా హల్లే…లూయా"
+      ],
+      "english": [
+        "Hallelujah Hallelujah Halle…lujah"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆరాధనా నీకేనయ్యా",
+        "నా ధైవమా నిత్యత్వమా",
+        "సమాధానమా నా ధ్యానమా",
+        "నీలోనే చరితార్ధమా",
+        "సువార్తను ప్రకటించెదా సర్వలోకానికి",
+        "యేసయ్యే మార్గమని ప్రచురపరచేదన్"
+      ],
+      "english": [
+        "Aaraadhanaa neekenayyaa",
+        "naa dhaivamaa nithyathvamaa",
+        "samaadhaanamaa naa dhyaanamaa",
+        "neelone charithaardhamaa",
+        "suvaarthanu prakatinchedaa sarvalokaaniki",
+        "yesayye maargamani prachuraparachedan"
+      ]
+    }
+  ]
+}

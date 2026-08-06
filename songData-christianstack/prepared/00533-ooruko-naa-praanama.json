@@ -1,0 +1,35 @@
+{
+  "song_name": "Ooruko Naa Praanama",
+  "author": {
+    "Authored by": "Dr. Asher Andrew",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఊరుకో నా ప్రాణమా కలత చెందకు",
+      "ఆనుకో ప్రభు రొమ్మున నిశ్చింతగా"
+    ],
+    "english": [
+      "Ooruko naa praanamaa kalatha chendhaku",
+      "aanuko prabhu rommuna nischinthagaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎడారి దారిలోన‌‌‌ కన్నీటి లోయలోన",
+        "నా పక్ష‌ మందు నిలిచే నా ముందురే నడిచే",
+        "నీ శక్తినే చాట నన్నుంచెనే చోట‌",
+        "నిన్నెరుగుటే మా ధనం",
+        "ఆరాధనే మా ఆయుధం"
+      ],
+      "english": [
+        "Edaari dhaarilona kanneeti loyalona",
+        "naa pakshamandhu niliche naa mundhare nadiche",
+        "nee shakthine chaata nannunchene chota",
+        "ninnerugute maa dhanam aaradhane maa aayudham"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "song_name": "Kreesthu Silva Naaku Goppa Yaunu",
+  "author": {
+    "Authored by": "",
+    "రచన": "జాన్ బౌరింగ్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "క్రీస్తు సిల్వ నాకు గొప్ప యౌను,",
+      "నేనుతింపుదు సచ్చరిత్రు కాంతి యొప్ప గాని జుట్టి యుండును"
+    ],
+    "english": [
+      "Kreesthu Silva Naaku Goppa Yaunu,",
+      "Naenuthimpudhu Sachcharithru Kaamthi Yoppa Gaani Jutti Yumdunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నాకు నే విచారమైన భీతి యైన కల్గినన్",
+        "సిల్వ రూప మెందునైన సంతసింప జేయునన్"
+      ],
+      "english": [
+        "Naaku Nae Vichaaramaina Bheethi Yaina Kalginan",
+        "Silva Roopa Memdhunaina Samthasimpa Jaeyunan"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మోక్ష సూర్య దైన కాంతి నాదు త్రోవ బుట్టుగా",
+        "సిల్వనుండి కల్గు శాంతి దాని నింపు చేయుగా"
+      ],
+      "english": [
+        "Moaksha Soorya Dhaina Kaamthi Naadhu Throava Buttugaa",
+        "Silvanumdi Kalgu Shaamthi Dhaani Nimpu Chaeyugaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "లాభ, లోభ, మోగు, బాగు శుద్ధి యౌను సిల్వచే",
+        "సంతసంబు శాంతి జాగు లేక కల్గునప్పుడే, ఆమేన్."
+      ],
+      "english": [
+        "Laabha, Loabha, Moagu, Baagu Shudhdhi Yaunu Silvachae",
+        "Samthasambu Shaamthi Jaagu Laeka Kalgunappudae, Aamaen."
+      ]
+    }
+  ]
+}

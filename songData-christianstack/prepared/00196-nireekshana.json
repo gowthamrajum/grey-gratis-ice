@@ -1,0 +1,79 @@
+{
+  "song_name": "Nireekshana",
+  "author": {
+    "Authored by": "Anu Roy Samuel featuring Rufus Ganta",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిరీక్షణ కోలిపోకుము – యేసేగా నీ సహాయము"
+    ],
+    "english": [
+      "Nireekshana kolipokumu",
+      "yese gaa nee sahayamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసే నీ ఆధారము దిగులు చెందకు",
+        "మరలా వెనుదిరుగకు ధైర్యముగా ఉండు",
+        "ఓర్పుతో వేచి ఉండు నూతన బలము నొందెదవు",
+        "పక్షిరాజు వలే పైపైకి ఎగురుదువు"
+      ],
+      "english": [
+        "Yese nee adharamu – digulu chendaku",
+        "marala venu thirugaku – dairyamuga undu",
+        "orputho vechi undu – nuthana balamu nondedavu",
+        "pakshi raju vale – pai paiki yeguruduvu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అను-పల్లవి:",
+        "సహనమును విడువకు ఇక కొద్ది కాలమే",
+        "నిబ్బరం కలిగి ఉండు విజయము నీదే"
+      ],
+      "english": [
+        "Pre-chorus:",
+        "Sahanamunu viduvaku – ika koddi kalame",
+        "nibbaram kaligi undu – vijayamu neede"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అను-పల్లవి:",
+        "సహనమును విడువను ఇక కొద్ది కాలమే",
+        "నిబ్బరం కలిగి ఉందున్ విజయము నాదే"
+      ],
+      "english": [
+        "Pre-chorus:",
+        "sahanamunu viduvanu – ika koddi kalame",
+        "nibbaram kaligi undun – vijayamu nade"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నిరీక్షణ కోలిపోను నేను – యేసేగా నా సహాయము"
+      ],
+      "english": [
+        "nireekshana koliponu nenu",
+        "yesega na sahayamu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యేసే నా రక్షణ యేసే నా నిరీక్షణ"
+      ],
+      "english": [
+        "yese naa rakshana",
+        "yese naa nireekshana"
+      ]
+    }
+  ]
+}

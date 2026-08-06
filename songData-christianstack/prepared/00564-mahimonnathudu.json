@@ -1,0 +1,54 @@
+{
+  "song_name": "Mahimonnathudu",
+  "author": {
+    "Authored by": "Sukumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మహిమోన్నతుడు సర్వశక్తిమంతుడు",
+      "నీకు అసాధ్యమంటు లేనేలేదు",
+      "నీ రాజ్యం గొప్పది నీ తలంపులు ఉన్నతం",
+      "నీలాంటి దేవుడు లేనే లేడు",
+      "నీ కృప చేత నను హత్తుకొని",
+      "నా చేయి పట్టి నన్ను నడిపించావు",
+      "నీ ప్రేమ వాత్సల్యం నాపై చూపి",
+      "ఎడబాయని కృపతో నను హెచ్చించావు",
+      "నా యేసయ్యా నా సర్వోన్నతుడా",
+      "నా యేసయ్యా స్తుతులకు పాత్రుడా"
+    ],
+    "english": [
+      "Mahimonnathudu sarvasakthimanthudu",
+      "neeku asaadhyamantu lene ledhu",
+      "nee rajyam goppadhi nee thalampulu unnatham",
+      "neelanti dhevudu leneledu",
+      "nee krupachetha nanu hathukoni",
+      "naa cheyipatti nannu nadipinchavu",
+      "nee prema vaathsalyam naapai choopi",
+      "yedabaayani krupatho nanu hecchinchavu",
+      "naa yesayya naa sarvonnathudaa",
+      "naa yesayya sthuthulaku paathruda"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "బంధకాలను తెంచివేసిన శక్తిమంతుడా నీకే స్తుతులు",
+        "ఈ లోక మాలిన్యం దూరపరచిన నజరేయుడా నీకే వందనం",
+        "పక్షి రాజువలె నీ రెక్కలపై మోసితివే",
+        "శ్రమ అయినా బాధైనా నన్ను ఓదార్చి హత్తుకుంటివే",
+        "నా యేసయ్యా నా సర్వోన్నతుడా",
+        "నా యేసయ్యా స్తుతులకు పాత్రుడా"
+      ],
+      "english": [
+        "Bandhakaalanu thenchivesina sakthimanthudaa neeke sthuthulu",
+        "ee loka maalinyam dhooraparachina najareyuda neeke vandhanam",
+        "pakshi rajuvale nee rekkalapai mosithive",
+        "sramaaina bhadhaina nannu odharchi hathukuntive",
+        "naa yesayya naa sarvonnathudaa",
+        "naa yesayya sthuthulaku paathruda"
+      ]
+    }
+  ]
+}

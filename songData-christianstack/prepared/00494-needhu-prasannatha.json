@@ -1,0 +1,107 @@
+{
+  "song_name": "Needhu Prasannatha",
+  "author": {
+    "Authored by": "Prathap Darshi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవు లేనిదే ఒక అడుగును వేయలేను",
+      "నీవు లేనిదే అసలు ఉండలేనయ్యా"
+    ],
+    "english": [
+      "Neevu lenidhe oka adugunu veyalenu",
+      "neevu lenidhe asalu undalenayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీదు ప్రసన్నత నీదు ప్రసన్నత",
+        "నాకు కావాలయ్యా ఎల్లప్పుడు",
+        "నీదు ప్రసన్నత నీదు ప్రసన్నత",
+        "నాకు కావాలయ్యా అనునిత్యము"
+      ],
+      "english": [
+        "Needhu prasannatha needhu prasannatha",
+        "naaku kaavaalayyaa ellappudu",
+        "needhu prasannatha needhu prasannatha",
+        "naaku kaavaalayyaa anunithyamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పర్వతములు మైనములా",
+        "నీ సన్నిధిలో కరిగిపోవును"
+      ],
+      "english": [
+        "Parvathamulu mainamulaa",
+        "nee sannidhilo karigipovunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీదు ప్రసన్నత నీదు ప్రసన్నత",
+        "నాకు కావాలయ్యా ఎల్లప్పుడు",
+        "నీదు ప్రసన్నత నీదు ప్రసన్నత",
+        "నాకు కావాలయ్యా అనునిత్యము"
+      ],
+      "english": [
+        "Needhu prasannatha needhu prasannatha",
+        "naaku kaavaalayyaa ellappudu",
+        "needhu prasannatha needhu prasannatha",
+        "naaku kaavaalayyaa anunithyamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "Spontaneous:",
+        "నీ ప్రసన్నత కావాలయ్యా",
+        "మా గృహములలో మా సంఘములలో మా జీవితాలలో",
+        "నీ ప్రసన్నత నింపుమయ",
+        "నీ సన్నిధిలో బంధకములు ఊడిపోవును",
+        "రోగములు పారిపోవును",
+        "యేసయ్యా నీ సన్నిధి చాలయ్యా",
+        "నీవు చాలయ్యా"
+      ],
+      "english": [
+        "Spontaneous:",
+        "Nee prasannatha kaavaalayyaa",
+        "maa gruhamulalo maa sanghamulalo maa jeevithaalalo",
+        "nee prasannatha nimpumayaa",
+        "nee sannidhilo bandhakamulu oodipovunu",
+        "rogamulu paaripovunu",
+        "yesayya nee sannidhi chaalayyaa",
+        "neevu chaalayyaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "Bridge:",
+        "నీదు పరిశుద్ధమైన ప్రసన్నత",
+        "నీదు పరిశుద్ధమైన ప్రసన్నత"
+      ],
+      "english": [
+        "Bridge:",
+        "Needhu parishuddhamaina prasannatha",
+        "needhu parishuddhamaina prasannatha"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నాకు కావాలయ్యా ఎల్లప్పుడు",
+        "నాకు కావాలయ్యా అనునిత్యము"
+      ],
+      "english": [
+        "naaku kaavaalayyaa ellappudu",
+        "naaku kaavaalayyaa anunithyamu"
+      ]
+    }
+  ]
+}

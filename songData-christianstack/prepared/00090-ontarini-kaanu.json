@@ -1,0 +1,61 @@
+{
+  "song_name": "Ontarini Kaanu",
+  "author": {
+    "Authored by": "Blessie Wesly",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఒంటరిని కాను – నీవు తోడుండగా",
+      "విడువబడలేదు – నా దేవా నీవుండగా",
+      "నా ఆదరణ నీవే – నా ఆశ్రయము నీవే",
+      "ఆలంబన నీవే – ఆనందము నీవే"
+    ],
+    "english": [
+      "Ontarini kaanu – neevu thodundagaa",
+      "Viduvabadaledhu – naa Dhevaa neevundagaa",
+      "Naa aadharana neeve – naa aashrayamu neeve",
+      "Aalambana neeve – aanandhamu neeve"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏకాకినైన నా బ్రతుకులో – సెలయేరై పారెనే నీ ప్రేమ",
+        "కన్నీటి కడలిలో నేనుండగా – ఓదార్పువై దరి చేరావుగా",
+        "వ్యధలన్ని తీర్చి – నా స్థితిని మార్చి",
+        "ఆనందమిచ్చిన నా దైవమా",
+        "వ్యధలన్ని తీర్చి – నా స్థితిని మార్చి",
+        "ఆనందమిచ్చిన నా యేసయ్య"
+      ],
+      "english": [
+        "Ekaakinaina naa brathukulo – selayerai paarene nee prema",
+        "Kanneeti kadalilo nenu undagaa – odaarpuvai dari cheraavugaa",
+        "Vyadhalanni theerchi – naa sthithini maarchi",
+        "Aanandamichchina naa Daivamaa",
+        "Vyadhalanni theerchi – naa sthithini maarchi",
+        "Aanandamichchina naa Yesayyaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రియులైన వారే విడనాడినా – నా పక్షమై నీవు నిలిచావుగా",
+        "గాఢాంధకారము నన్ను చుట్టిన – అరుణోదయముగా వచ్చావుగా",
+        "నన్ను చేరదీసి – గాయములను మాన్పి",
+        "ఆధారమైన నా దైవమా",
+        "నన్ను చేరదీసి – గాయములను మాన్పి",
+        "ఆధారమైన నా యేసయ్య"
+      ],
+      "english": [
+        "Priyulaina vaare vidanaadinaa – naa pakshamai neevu nilichaavugaa",
+        "Gaadhaandhakaaramu nannu chuttina – arunodhayamugaa vachchaavugaa",
+        "Nannu cheradeesi – gaayamulanu maanpi",
+        "Aadhaaramaina naa Daivamaa",
+        "Nannu cheradeesi – gaayamulanu maanpi",
+        "Aadhaaramaina naa Yesayyaa"
+      ]
+    }
+  ]
+}

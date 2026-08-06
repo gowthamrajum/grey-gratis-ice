@@ -1,0 +1,75 @@
+{
+  "song_name": "Kalavari mettapai kalavara mettidho",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "చెట్టి భానుమూర్తి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "కలవరి మెట్టపై కలవర మెట్టిదొ సిలువెటులోర్చితివో పలుశ్రమ",
+      "లొందినీ ప్రాణము బెట్టితి ||కల||"
+    ],
+    "english": [
+      "Kalavari mettapai kalavara mettidho siluvetulorchithivo palushrama",
+      "Londhinee praanamu bettithi ||Kala||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తులువలుజేరినిన్ తలపడి మొత్తిరో అలసితి సొలసితి నాత్మను",
+        "గుందితి ||కల||"
+      ],
+      "english": [
+        "Thuluvalujerinin thalapadi motthiro alasithi solasithi naathmanu",
+        "Gundhithi ||Kala||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపులకొరకై ప్రాణముబెట్టితి ప్రేమ ది యెట్టిదో నామదికందదు",
+        "||కల||"
+      ],
+      "english": [
+        "Paapulakorakai praanamubettithi prema dhi ettidho naamadhikandhadhu",
+        "||Kala||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దారుణ పాప భారము మోసితి దీనుల రక్షణ దానమైతివి గద ||కల||"
+      ],
+      "english": [
+        "Daaruna paapa bhaaramu mosithi deenula rakshana dhaanamaithivi gada ||Kala||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "జనకున భీష్టమున్ జక్కగ దీర్చితి జనముల బ్రోవనీ జీవము నిచ్చితి",
+        "||కల||"
+      ],
+      "english": [
+        "Janakuna bheeshtamun jakkaga dheerchithi janamula brovanee jeevamu nichchithi",
+        "||Kala||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "శాంతిని గోరి ది శాంతముల్దిరిగిన భ్రాంతియె గాని వి శ్రాంతెవరిత్తురు?",
+        "||కల||"
+      ],
+      "english": [
+        "Shaanthini gori dhi shaanthamuldhirigina bhraanthiye gaani vi shraanthevaritthuru?",
+        "||Kala||"
+      ]
+    }
+  ]
+}

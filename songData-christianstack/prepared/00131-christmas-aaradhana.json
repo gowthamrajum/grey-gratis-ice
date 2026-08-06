@@ -1,0 +1,84 @@
+{
+  "song_name": "Christmas Aaradhana",
+  "author": {
+    "Authored by": "Blessy Kingsley",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఉత్సాహంగా పాడుదాం ఉల్లాసంగా ఆడుదాం",
+      "శ్రీ యేసు నామమును ఘనపరచుదాం"
+    ],
+    "english": [
+      "Uthsaahanga paadudhaam",
+      "Ullaasanga aadudhaam",
+      "Sri Yesunu naamamunu ghanaparachudam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చపట్లుకొడుతూ ఆరాధిద్దాం నాట్యముచేయుచు ఆరాధిద్దాం",
+        "ఉల్లాసముగా ఆరాధిద్దాం ఉత్సాహముగా ఆరాధిద్దాం",
+        "బెత్లెహేము ఊరిలో మనకై ఉదయించే"
+      ],
+      "english": [
+        "Chapatlu kodutu aaradhiddam",
+        "Naathyam cheyuchu aaradhiddam",
+        "Ullaasamuga aaradhiddam",
+        "Utsaahamuga aaradhiddam",
+        "Bethlehem oorilo manakai udayinche"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆరాధన స్తుతి ఆరాధన",
+        "ఆరాధన క్రిస్మస్ ఆరాధన"
+      ],
+      "english": [
+        "Aaradhana stuti aaradhana",
+        "Aaradhana Christmas aaradhana"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బెత్లెహేము ఊరిలో పశులపాకలో",
+        "లోకరక్షకుండు ఉదయించినాడట",
+        "ఇక క్రిస్మస్ సంతోషమేనట",
+        "అరె గోల్లాలోచ్చి జ్ఞానులొచ్చి యేసుని చూచి కానుకలిచ్చి….",
+        "సువార్తను ప్రకటించిరి శ్రీ యేసుని ఇలా చాటిరి"
+      ],
+      "english": [
+        "Bethlehem oorilo pashulapaakalo",
+        "Lokarakshakundu udayinchinadata",
+        "Ika Christmas santoshamenata",
+        "Are gollalu ochchi, jnaanulu ochchi",
+        "Yesuni chuchi kanukalichchi…",
+        "Suvaartanu prakatinchiri",
+        "Sri Yesuni ila chaatiri"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "లోకప్రజలందరికీ ఒకే పండగంట",
+        "దేవదేవుడే దిగివచ్చినాడట",
+        "ఇక క్రిస్మస్ సంతోషమేనట",
+        "అరె గోల్లాలోచ్చి జ్ఞానులొచ్చి యేసుని చూచి కానుకలిచ్చి….",
+        "సువార్తను ప్రకటించిరి శ్రీ యేసుని ఇలా చాటిరి"
+      ],
+      "english": [
+        "Loka prajala andariki oke pandaganta",
+        "Devadevude digivachinadata",
+        "Ika Christmas santoshamenata",
+        "Are gollalu ochchi, jnaanulu ochchi",
+        "Yesuni chuchi kanukalichchi…",
+        "Suvaartanu prakatinchiri",
+        "Sri Yesuni ila chaatiri"
+      ]
+    }
+  ]
+}

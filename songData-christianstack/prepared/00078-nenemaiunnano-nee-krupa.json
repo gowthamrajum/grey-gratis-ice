@@ -1,0 +1,30 @@
+{
+  "song_name": "Nenemaiunnano Nee Krupa",
+  "author": {
+    "Authored by": "Pastor M. Jyothi Raju",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "అర్హత లేకున్న ప్రేమించావు – ఇది కేవలం నీ కృపయే",
+      "యోగ్యత లేకున్నహెచ్చించావు- ఇది కేవలం నీ కృపయే"
+    ],
+    "english": [
+      "Arhata lekunna preminchaavu – idi kevalam nee krupaye",
+      "yogyata lekunna hecchinchaavu – idi kevalam nee krupaye"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కృపయే కృపయే నేనేమైయున్నానో నీ కృపయే",
+        "కృపయే కృపయే నేబ్రతికి ఉన్నానంటే కృపయే"
+      ],
+      "english": [
+        "Krupaye krupaye nenemaiyunnaano nee krupaye",
+        "krupaye krupaye ne bratiki unnaanante krupaye"
+      ]
+    }
+  ]
+}

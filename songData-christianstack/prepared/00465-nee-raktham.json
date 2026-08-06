@@ -1,0 +1,39 @@
+{
+  "song_name": "Nee Raktham",
+  "author": {
+    "Authored by": "Pastor Sammy Thangiah & Pastor Paul Thangiah",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ రక్తం నా కొరకు కార్చి",
+      "నా పాపము మన్నించితివి"
+    ],
+    "english": [
+      "Nee raktham",
+      "na koraku kaarchi",
+      "na paapamu manninchithivi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎన్నో వేదనలు",
+        "ఎన్నో బాధలు",
+        "గెత్సమనే తోటలోన",
+        "చమట రక్తంగా మారినాదే",
+        "కొరడాలతో కొట్టినారే",
+        "రక్తం ప్రవాహంలా మారినాదే"
+      ],
+      "english": [
+        "Enno vedhanalu",
+        "enno baadhalu",
+        "Gethsamane thotalona",
+        "chamata rakthamga maarinadhe",
+        "Koradaalatho kottinaare",
+        "raktham pravaahamla maarinadhe"
+      ]
+    }
+  ]
+}

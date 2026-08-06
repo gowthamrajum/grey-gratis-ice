@@ -1,0 +1,87 @@
+{
+  "song_name": "Sundara rakshakaa srushtiyokka naadhaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "ఎం గెసాంగ్‌బుచ్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "సుందర రక్షకా!",
+      "సృష్టియొక్క నాధా",
+      "దేవమానవ పుత్రుఁడా",
+      "నిన్నుఁ బ్రేమింతున్",
+      "సదా సేవింతున్",
+      "మదాత్మతోఁ గిరీటమా."
+    ],
+    "english": [
+      "Sundara rakshakaa!",
+      "Srushtiyokka naadhaa",
+      "Dhevamaanava puthrudaa",
+      "Ninnu breminthun",
+      "Sadaa sevinthun",
+      "Madhaathmatho gireetamaa."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మైదాన మంతయుఁ",
+        "పచ్చిక బయళ్లు",
+        "నొప్పగఁ బూచుచున్నవి",
+        "ఐనను యేసుతో",
+        "నాయన కాంతిలో",
+        "దుఃఖములేనివారము."
+      ],
+      "english": [
+        "Maidhaana manthayu",
+        "Pachchika bayallu",
+        "Noppaga boochuchunnavi",
+        "Ainanu Yesutho",
+        "Naayana kaanthilo",
+        "Duhkhamulenivaaramu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సూర్యుని కాంతియుఁ",
+        "చంద్రుని శాంతియు",
+        "ఎంతో శ్రేష్ఠమైయున్నవి.",
+        "అట్లవి యున్న",
+        "అన్నిటి కన్న",
+        "యేసుని కాంతి గొప్పది."
+      ],
+      "english": [
+        "Sooryuni kaanthiyu",
+        "Chandhruni shaanthiyu",
+        "Entho shreshthamaiyunnavi.",
+        "Atlavi yunna",
+        "Anniti kanna",
+        "Yesuni kaanthi goppadi."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆనంద రక్షకా!",
+        "ప్రజల నాధుఁడా",
+        "దేవమానవ పుత్రుఁడా",
+        "మహిమ, ఘనత",
+        "స్తుతి, యారాధన",
+        "నిరంతరంబు నీకగున్."
+      ],
+      "english": [
+        "Aananda rakshakaa!",
+        "Prajala naadhudaa",
+        "Dhevamaanava puthrudaa",
+        "Mahima, ghanatha",
+        "Sthuthi, yaaraadhana",
+        "Nirantharambu neekagun."
+      ]
+    }
+  ]
+}

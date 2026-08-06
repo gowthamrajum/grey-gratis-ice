@@ -1,0 +1,52 @@
+{
+  "song_name": "Dhevaathidhevudu, mahopakaarudu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవాతిదేవుడు, మహోపకారుడు",
+      "మహాత్యము గల మహరాజు",
+      "రాజుల రాజు.... ప్రభువుల ప్రభువు,",
+      "ఆయన కృప నిరంతరముండును || దేవాతి||"
+    ],
+    "english": [
+      "Dhevaathidhevudu, mahopakaarudu",
+      "Mahaathmyamu gala maharaaju",
+      "Raajula raaju.... prabhuvula prabhuvu,",
+      "Aayana krupa nirantharamundunu ||Dhevaathi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సునాద వత్సరము ఉత్సాహ సునాదము",
+        "నూతన సహస్రాబ్ది నూతన శతాబ్దము ||2||",
+        "ఉత్తమ దేవుని నామములో ||2|| ఆ... ఆ  ||దేవాతిదేవుడు||"
+      ],
+      "english": [
+        "Sunaadha vathsaramu uthsaaha sunaadhamu",
+        "Noothana sahasraabdhi noothana shathaabdhamu ||2||",
+        "Utthama devuni naamamulo ||2|| aa... aa ||Dhevaathidhevudu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యుగములకు దేవుడవు ఉన్నవాడ అనువాడవు",
+        "జగమంత ఏలుచున్న జీవాధిపతినీవే ||2||",
+        "నీదు క్రియలు ఘనమైనవి ||2||",
+        "ఆ..ఆ...ఆ... ||దేవాతి దేవుడు||"
+      ],
+      "english": [
+        "Yugamulaku devudavu unnavaada anuvaadavu",
+        "Jagamantha eluchunna jeevaadhipathineeve ||2||",
+        "Needu kriyalu ghanamainavi ||2||",
+        "Aa..aa...aa... ||Dhevaathi devudu||"
+      ]
+    }
+  ]
+}

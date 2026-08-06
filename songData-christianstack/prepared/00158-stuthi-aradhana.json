@@ -1,0 +1,98 @@
+{
+  "song_name": "Stuthi Aradhana",
+  "author": {
+    "Authored by": "Evan Mark Ronald",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పాపినై నేనుండగా నా కొరకై మరణించితివా",
+      "దోషినై నేనుండగా నీ కృపలో నను కాచితివా",
+      "యేసయ్యా……"
+    ],
+    "english": [
+      "Paapinai nenu undagaa naa korakai maraninchithivaa",
+      "dhoshinai nenu undagaa nee krupalo nanu kaachithivaa",
+      "Yesayya……"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆరాధన స్తుతి ఆరాధన ఆరాధన నీకే",
+        "పాడేద హల్లెలూయ హల్లెలూయ హల్లెలూయ నీకే"
+      ],
+      "english": [
+        "Aaradhana sthuthi aaradhana aaradhana neeke",
+        "paadedha halleluya halleluya halleluya neeke"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఒంటరినై నేనుండగా నా తోడు నీవైతివా",
+        "బాధలలో నే కృంగినా నను నీవు బలపరచితివా"
+      ],
+      "english": [
+        "Ontarinai nenu undagaa naa thodu neevaithivaa",
+        "baadhalalo ne krunginaa nanu neevu balaparachithivaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆరాధన స్తుతి ఆరాధన ఆరాధన నీకే",
+        "పాడేద హల్లెలూయ హల్లెలూయ హల్లెలూయ నీకే"
+      ],
+      "english": [
+        "Aaradhana sthuthi aaradhana aaradhana neeke",
+        "paadedha halleluya halleluya halleluya neeke"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "స్తుతి ఆరాధన స్తుతి ఆరాధన స్తుతి ఆరాధన స్తుతి ఆరాధన"
+      ],
+      "english": [
+        "Sthuthi aaradhana sthuthi aaradhana",
+        "sthuthi aaradhana sthuthi aaradhana"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నా బలము నా ధైర్యము నా దుర్గము నీవే",
+        "ఆదారము నా సర్వమూ నా ప్రాణము నీవే"
+      ],
+      "english": [
+        "Naa balamu naa dhairyamu naa durgamu neeve",
+        "Aadhaaramu naa sarvamu naa praanamu neeve"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఆరాధన స్తుతి ఆరాధన ఆరాధన నీకే",
+        "పాడేద హల్లెలూయ హల్లెలూయ హల్లెలూయ నీకే"
+      ],
+      "english": [
+        "Aaradhana sthuthi aaradhana aaradhana neeke",
+        "paadedha halleluya halleluya halleluya neeke"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "స్తుతి ఆరాధన స్తుతి ఆరాధన స్తుతి ఆరాధన",
+        "యేసయ్యా నీకే స్తుతి ఆరాధన"
+      ],
+      "english": [
+        "Sthuthi aaradhana sthuthi",
+        "aaradhana sthuthi aaradhana",
+        "Yesayya neeke sthuthi aaradhana"
+      ]
+    }
+  ]
+}

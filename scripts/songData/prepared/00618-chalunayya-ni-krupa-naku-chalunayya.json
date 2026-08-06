@@ -1,0 +1,55 @@
+{
+  "song_name": "Chalunayya Ni Krupa Naku Chalunayya",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "చాలునయ్యా చాలునయ్యా నీ క్రప నాకు చాలునయ్యా",
+      "ప్రేమామయుడవై ప్రేమించావు కరుణమయుడవై కరుణించావు",
+      "తల్లిగాలాలించి తండ్రిగాప్రేమించి",
+      "ప్రేమా నీ క్రపచాలు (2)"
+    ],
+    "english": [
+      "Chalunayya Chalunayya Ni Krupa Naku Chalunayya",
+      "Premamayudavai Premimchavu Karunamayudavai Karunimchavu",
+      "Talligalalimchi Tamdrigapremimchi",
+      "Prema Ni Krapachalu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జిగటగల ఊబిలో పడియుండగా నీ అడుగులు స్థిరపరచి నిలిపితివి (2)",
+        "హిస్సోపుతో నన్ను కడుగుము యేసయ్య హిమముకంటెను తెల్లగమార్చయ్య",
+        "నీకేమి చెల్లింతు నా మంచి యేసయ్య నా జీవితమంత అర్పంతునీకయ్య",
+        "ప్రేమా నీ క్రపచాలు (2)"
+      ],
+      "english": [
+        "Jigatagala Ubilo Padiyumdaga Ni Adugulu Sthiraparachi Nilipitivi (2)",
+        "Hissoputo Nannu Kadugumu Yesayya Himamukamtenu Tellagamarchayya",
+        "Nikemi Chellimtu Na Mamchi Yesayya Na Jivitamamta Arpamtunikayya",
+        "Prema Ni Krapachalu (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బంధువులు స్నేహితులు త్రోసేసినా తల్లిదండ్రు లేనన్ను వెలివేసినా (2)",
+        "నన్ను నీవు విడువను లేదయా మిన్నగ ప్రేమించి రక్షించినావయ్యా",
+        "నీకేమి చెల్లింతు నామంచి యేసయ్యా నీకేమి చెల్లింతు నా మంచి యేసయ్యా",
+        "నీసాక్షిగా ఇల జీవింతునయ్యా",
+        "ప్రేమా నీ క్రపచాలు (2)"
+      ],
+      "english": [
+        "Bamdhuvulu Snehitulu Trosesina Tallidamdru Lenannu Velivesina (2)",
+        "Nannu Nivu Viduvanu Ledaya Minnaga Premimchi Rakshimchinavayya",
+        "Nikemi Chellimtu Namamchi Yesayya Nikemi Chellimtu Na Mamchi Yesayya",
+        "Nisakshiga Ila Jivimtunayya",
+        "Prema Ni Krapachalu (2)"
+      ]
+    }
+  ]
+}

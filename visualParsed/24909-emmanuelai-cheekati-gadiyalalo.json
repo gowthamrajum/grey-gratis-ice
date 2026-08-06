@@ -1,0 +1,101 @@
+{
+  "song_name": "Emmanuelai cheekati ghadiyalalo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "ANU SAMUEL"
+    ],
+    "రచన": [
+      "అను శామ్యూల్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "చీకటి గడియలలో - ఒంటరి సమయములో",
+      "నే వేసిన ప్రతి అడుగులో",
+      "నలిగిన హృదయముతో కన్నీటి లోయలో",
+      "నే చేసిన ప్రతి పయణములో"
+    ],
+    "english": [
+      "Cheekati ghadiyalalo - Ontari samayamulo",
+      "Ne vesina prathi adugulo",
+      "Naligina hrudayamutho kanneeti loyalo",
+      "Ne chesina prathi payanamulo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇమ్మానియే లై నా తోడై వున్నావు..",
+        "నే నడచిన మార్గములో నీడై నిలిచావు",
+        "నా భయము దిగులును తీసివేసావూ",
+        "ఆ క్రిస్మస్ దినమున నను తిరిగి రాసావు \"2\""
+      ],
+      "english": [
+        "Immaanuyelai naa thodai vunnaavu..",
+        "Ne nadachina maargamulo needai nilichaavu",
+        "Naa bhayamu dhigulunu theesivesaavoo",
+        "Aa Christmas dinamuna nanu thirigi raasaavu \"2\""
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బెత్లహేములో చిన్నీ బాలుడై...",
+        "ఉదయించేనా.. నాకై...",
+        "రక్షకుడవై.. మనషి రూపుడై..",
+        "ఎతెంచేనా ......"
+      ],
+      "english": [
+        "Bethlahemulo chinni baaludai...",
+        "Udhayinchenaa.. naakai...",
+        "Rakshakudavai.. manishi roopudai..",
+        "Ethenchenaa ......"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇమ్మానియే లై నా తోడై వున్నావు..",
+        "ఏ దారి లేనపుడు మార్గము తెరిచావు..",
+        "నా భయము దిగులును తీసివేసావూ..",
+        "ఆ క్రిస్మస్ దినమున నను తిరిగి రాసావు.."
+      ],
+      "english": [
+        "Immaanuyelai naa thodai vunnaavu..",
+        "E daari lenapudu maargamu therichaavu..",
+        "Naa bhayamu dhigulunu theesivesaavoo..",
+        "Aa Christmas dinamuna nanu thirigi raasaavu.."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పశువులా పాకలో - ఆ రాత్రి వేళలో",
+        "నా కొరకు నీవు జన్మించావు..",
+        "ఆశ్చర్య కరుడవై - ఆలోచన కర్తవై..",
+        "నా స్థానములో..- నీవు దిగి వచ్చావు... \"2\""
+      ],
+      "english": [
+        "Pashuvula paakalo - Aa raathri velalo",
+        "Naa koraku neevu janminchaavu..",
+        "Aashcharya karudavai - Aalochana karthavai..",
+        "Naa sthaanamulo..- Neevu digi vachchaavu... \"2\""
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నా యేసు జన్మించెను...",
+        "నా కొరకు దిగి వచ్చేను...",
+        "యేసయ్యా....ఆ ఆ...ఆ ఆ... \"4\"...."
+      ],
+      "english": [
+        "Naa Yesu janminchenu...",
+        "Naa koraku digi vachchenu...",
+        "Yesayyaa....aa aa...aa aa... \"4\"...."
+      ]
+    }
+  ]
+}

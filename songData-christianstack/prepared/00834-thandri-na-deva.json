@@ -1,0 +1,34 @@
+{
+  "song_name": "Thandri Na Deva",
+  "author": {
+    "Authored by": "Pastor J Arun Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "తండ్రి నా దేవా",
+      "యేసు నా ప్రభువా",
+      "పరిశుద్ధాత్మ దేవా",
+      "కృతజ్ఞత స్తుతి నీకే"
+    ],
+    "english": [
+      "Thandri naa devaa",
+      "yesu naa prabhuvaa",
+      "parishudhaathma devaa",
+      "kruthagnatha sthuthi neekey"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మహిమ మహిమ",
+        "మహిమ దేవ మహిమ"
+      ],
+      "english": [
+        "Mahima mahima",
+        "mahima deva mahima"
+      ]
+    }
+  ]
+}

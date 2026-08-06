@@ -1,0 +1,66 @@
+{
+  "song_name": "Ebenejaru",
+  "author": {
+    "Authored by": "John Jebaraj",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేను నా ఇల్లు నా ఇంటివారందరు",
+      "మానక స్తుతించెదము",
+      "నన్ను పిండము వలె కాచావు స్తోత్రం",
+      "నే చెదరక మోసావు స్తోత్రం"
+    ],
+    "english": [
+      "Nenu naa illu naa intivaarandharu",
+      "maanaka sthuthinchedhamu",
+      "nannu pindamu vale kaachaavu sthothram",
+      "ne chedharaka mosaavu sthothram"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎబినేజరు..ఎబినేజరు..ఇంతవరకు మోసితివే",
+        "ఎబినేజరు..ఎబినేజరు..నా తలంపుతోనే నున్నావే"
+      ],
+      "english": [
+        "Ebenejaru… Ebenejaru inthavaraku mosithive",
+        "Ebenejaru… Ebenejaru naa thalamputhone nunnaave"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "స్తోత్రం…. స్తోత్రం…. స్తోత్రం….",
+        "హృదయములో మోసితివే స్తోత్రం",
+        "స్తోత్రం…. స్తోత్రం…. స్తోత్రం….",
+        "పిండము వలె మోసితివే స్తోత్రం"
+      ],
+      "english": [
+        "Sthothram…sthothram…sthothram",
+        "hrudhayamulo mosithive sthothram",
+        "Sthothram…sthothram…sthothram",
+        "pindamu vale mosithive sthothram"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "(Tamil lyrics)",
+        "ఎబినేసరే…. ఎబినేసరే..ఇన్నాల్ వరై సుమందవరే",
+        "ఎబినేసరే…. ఎబినేసరే..ఎన్ నినైవాయ్ ఇరుప్పవరే",
+        "నండ్రి.. నండ్రి.. నండ్రి..ఇదయత్తిల్ సుమందీరే నండ్రి",
+        "నండ్రి.. నండ్రి.. నండ్రి..కరుపోల సుమందీరే నండ్రి"
+      ],
+      "english": [
+        "(Tamil lyrics)",
+        "Ebenesarae ebenesarae innaal varai sumanthavarae",
+        "ebenesarae ebenesarae en ninaivaai iruppavarae",
+        "nandri nandri nandri idhayththil sumntheerae nandri",
+        "nandri nandri nandri karu pola sumantheerae nandri"
+      ]
+    }
+  ]
+}

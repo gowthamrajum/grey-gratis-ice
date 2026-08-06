@@ -1,0 +1,88 @@
+{
+  "song_name": "Yordhannadhi darini bhramimpaku manasaa - Yochanache chinthapadaku naa dendhamaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "హెబ్రూస్ 13:5",
+      "యోర్దాన్నది దరిని భ్రమింపకు మనసా",
+      "యోచనచే చింతపడకు నా డెందమా"
+    ],
+    "english": [
+      "Hebrews 13:5",
+      "Yordhannadhi darini bhramimpaku manasaa",
+      "Yochanache chinthapadaku naa dendhamaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రవాహ మెక్కిన శక్తిని వీడకు",
+        "దివ్య ప్రభునివాక్కు మారదెన్నడు"
+      ],
+      "english": [
+        "Pravaaha mekkina shakthini veedaku",
+        "Divya Prabhunivaakku maaradhennadu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వాక్యానుసారము పాదము పెట్టుము",
+        "ఏక దేవుడేసు మాటతప్పడు"
+      ],
+      "english": [
+        "Vaakyaanusaaramu paadamu pettumu",
+        "Eka Dhevudesu maatathappadu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఉన్నతరాజగు యేసు నీ దళకర్త",
+        "అన్ని శ్రమల నుండి కాచు నిక్కము"
+      ],
+      "english": [
+        "Unnatharaajagu Yesu nee dhalakartha",
+        "Anni shramala nundi kaachu nikkamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కానాను చెంతను ప్రియుని రాజ్యము",
+        "కాంచెద దేశంబు నిత్యానందము"
+      ],
+      "english": [
+        "Kaanaanu chenthanu priyuni raajyamu",
+        "Kaanchedha dheshambu nithyaanandamu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ప్రేమ పాల్ తేనెయు పారెడి దేశము",
+        "పాటచే దాని వర్ణింప వీల్పడదు"
+      ],
+      "english": [
+        "Prema paal theneyu paaredi deshamu",
+        "Paatache daani varnimpa veelpadadhu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ప్రార్థన శక్తిచే విజయుల రాజ్యము",
+        "ప్రకాశ వస్త్రముల ధరింతు మచ్చట"
+      ],
+      "english": [
+        "Praarthana shakthiche vijayula raajyamu",
+        "Prakaasha vasthramula dharinthu machchata"
+      ]
+    }
+  ]
+}

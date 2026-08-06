@@ -1,0 +1,61 @@
+{
+  "song_name": "Mukti Dilaye Eeshu Naam",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ముక్తి దిలాయె ఈషు నామ్ శాంతి దిలాయె ఈషు నామ్"
+    ],
+    "english": [
+      "Mukti Dilaye Eeshu Naam Shaanti Dilaye Eeshu Naam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఈషు దయా క బెహత సాగర్ ఈషు హె ధాత మహన్",
+        "ఈషు హె ధాత మహన్"
+      ],
+      "english": [
+        "Eeshu Dayaa Ka Behata Saagar Eeshu He Dhaata Mahan",
+        "Eeshu He Dhaata Mahan"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చర్న్ మే తు నే జనమ్ లియ ఈషు సూలి పె కియ విష్రామ్",
+        "సూలి పె కియ విష్రామ్"
+      ],
+      "english": [
+        "Charn Me Tu Ne Janam Liya Eeshu Sooli Pe Kiya Vishraam",
+        "Sooli Pe Kiya Vishraam"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "హమ్ పర్ భి ఈషు క్రీపా కర్ణ హమ్ హే పాపి నదాన్",
+        "హమ్ హే పాపి నదాన్"
+      ],
+      "english": [
+        "Ham Par Bhi Eeshu Kreepaa Karna Ham He Paapi Nadaan",
+        "Ham He Paapi Nadaan"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "హమ్ సబ్ కె పాపొ కొ మిట్టానె ఈషు హువ బలిధాన్",
+        "ఈషు హువ బలిధాన్"
+      ],
+      "english": [
+        "Ham Sab Ke Paapo Ko Mittaane Eeshu Huva Balidhaan",
+        "Eeshu Huva Balidhaan"
+      ]
+    }
+  ]
+}

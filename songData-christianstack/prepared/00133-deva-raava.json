@@ -1,0 +1,32 @@
+{
+  "song_name": "Deva Raava",
+  "author": {
+    "Authored by": "Tony Bandela",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ నీడలో నన్ను నడిపించు యేసయ్యా",
+      "నీ సాక్షిగా నన్ను బ్రతికించుమయ్యా",
+      "నా జీవము నీ సేవలో సేదతీరుచున్నది",
+      "నా ప్రాణము నీకోసమే ఎదురుచూచుచున్నది"
+    ],
+    "english": [
+      "Nee needalo nannu nadipinchu Yesayya",
+      "nee saakshigaa nannu brathikinchumayya",
+      "naa jeevamu nee sevalo sedha theeruchunnadhi",
+      "naa praanamu neekosame edhuruchoochuchunnadhi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేవా రావా… నాలో నివసింపవా"
+      ],
+      "english": [
+        "Devaa raavaa… naalo nivasinchavaa"
+      ]
+    }
+  ]
+}

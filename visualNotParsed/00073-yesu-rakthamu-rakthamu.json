@@ -1,0 +1,69 @@
+{
+  "song_name": "Yesu rakthamu rakthamu rakthamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు రక్తము రక్తము రక్తము - యేసు రక్తము రక్తము రక్తము",
+      "అమూల్యమైన రక్తము - నిష్కళంకమైన రక్తము",
+      "యేసు రక్తము రక్తము రక్తము",
+      "యేసు రక్తము రక్తము రక్తము"
+    ],
+    "english": [
+      "Yesu rakthamu rakthamu rakthamu - Yesu rakthamu rakthamu rakthamu",
+      "Amoolyamaina rakthamu - Nishkalankamaina rakthamu",
+      "Yesu rakthamu rakthamu rakthamu",
+      "Yesu rakthamu rakthamu rakthamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రతి ఘోర పాపమును కడుగును - మన యేసయ్య రక్తము",
+        "ప్రతి ఘోర పాపమును కడుగును - మన యేసయ్య రక్తము",
+        "బహు దు:ఖములో మునిగెనే - చమట రక్తముగా మారనే",
+        "బహు దు:ఖములో మునిగెనే - చమట రక్తముగా మారనే  ||యేసు||"
+      ],
+      "english": [
+        "Prathi ghora paapamunu kadugunu - Mana Yesayya rakthamu",
+        "Prathi ghora paapamunu kadugunu - Mana Yesayya rakthamu",
+        "Bahu dukhamulo munigene - Chamata rakthamugaa maarane",
+        "Bahu dukhamulo munigene - Chamata rakthamugaa maarane  ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మనః సాక్షిని శుద్ధి చేయును - మన యేసయ్య రక్తము",
+        "మనః సాక్షిని శుద్ధి చేయును - మన యేసయ్య రక్తము",
+        "మన శిక్షను తొలగించెను - సంహారమునే తప్పించెను",
+        "మన శిక్షను తొలగించెను - సంహారమునే తప్పించెను  ||యేసు||"
+      ],
+      "english": [
+        "Manaha saakshini shuddhi cheyunu - Mana Yesayya rakthamu",
+        "Manaha saakshini shuddhi cheyunu - Mana Yesayya rakthamu",
+        "Mana shikshanu tholaginchenu - Samhaaramune thappinchenu",
+        "Mana shikshanu tholaginchenu - Samhaaramune thappinchenu  ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మహా పరిశుద్ద స్థలములో చేర్చును - మన యేసయ్య రక్తము",
+        "మహా పరిశుద్ద స్థలములో చేర్చును - మన యేసయ్య రక్తము",
+        "మన ప్రధాన యాజకుడు - మన కంటె ముందుగా వెళ్ళెను",
+        "మన ప్రధాన యాజకుడు - మన కంటె ముందుగా వెళ్ళెను  ||యేసు||"
+      ],
+      "english": [
+        "Mahaa parishuddha sthalamulo cherchunu - Mana Yesayya rakthamu",
+        "Mahaa parishuddha sthalamulo cherchunu - Mana Yesayya rakthamu",
+        "Mana pradhaana yaajakudu - Mana kante mundugaa vellenu",
+        "Mana pradhaana yaajakudu - Mana kante mundugaa vellenu  ||Yesu||"
+      ]
+    }
+  ]
+}

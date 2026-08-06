@@ -1,0 +1,74 @@
+{
+  "song_name": "Yaesu Kreesthu Mathasthu Danagaa",
+  "author": {
+    "Authored by": "",
+    "రచన": "మేడికాయల సాధువు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు క్రీస్తు మతస్థుఁ డనఁగా నెఱిఁగి మనుఁడీ జగము లోపల వాసిగాఁ",
+      "ప్రభు యేసు దాసులె పరమునందు ని వాసులగుదురు"
+    ],
+    "english": [
+      "Yaesu Kreesthu Mathasthu Danagaa Nerigi Manudee Jagamu Loapala Vaasigaa",
+      "Prabhu Yaesu Dhaasule Paramunandhu Ni Vaasulagudhuru"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు క్రీస్తును నమ్మి యాయన దాసుఁడై వర్తించు నాతఁడె భాసు రంబుగఁ",
+        "గ్రైస్తవుం డని ప్రాకటంబుగఁ బరగుచుండును"
+      ],
+      "english": [
+        "Yaesu Kreesthunu Nammi Yaayana Dhaasudai Varthinchu Naathade Bhaasu Rambuga",
+        "Graisthavum Dani Praakatambuga Baraguchundunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎల్ల సమయములందు ధాత్రిని యేసు నడతలఁ జూచి నడఁచుచు",
+        "నుల్లమున రక్షకునిఁ దాల్చిన యోర్పరియె క్రైస్తవుఁడు సుమ్ము"
+      ],
+      "english": [
+        "Ella Samayamulandhu Dhaathrini Yaesu Nadathala Joochi Nadachuchu",
+        "Nullamuna Rakshakuni Dhaalchina Yoarpariye Kraisthavudu Summu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "క్రీస్తు నన్ను గొనెను గావున క్రీస్తువాఁడను నేన టంచును",
+        "క్రైస్తవుండు గొల్చు నాతని వాస్తవమ్ముగ నాత్మ తనువుల"
+      ],
+      "english": [
+        "Kreesthu Nannu Gonenu Gaavuna Kreesthuvaadanu Naena Tanchunu",
+        "Kraisthavundu Golchu Naathani Vaasthavammuga Naathma Thanuvula"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "రాజులు యాజకులు శుద్ధులు రాజనందను లనెడు పేళ్ళను",
+        "రాజ రాజగు దేవుఁ డొసఁగెను రాజితంబుఁ క్రైస్తవులకును"
+      ],
+      "english": [
+        "Raajulu Yaajakulu Shuddhulu Raajanandhanu Lanedu Paellanu",
+        "Raaja Raajagu Dhaevu Dosagenu Raajithambu Kraisthavulakunu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "క్షయము లేనిది శుద్ధమైనది వ్యయము లేనిది నిత్యమైనది",
+        "దయను యేసుఁ డొసంగు భాగ్యముఁ దప్పకుండఁ క్రైస్తవులకును"
+      ],
+      "english": [
+        "Kshayamu Laenidhi Shuddhamainadhi Vyayamu Laenidhi Nithyamainadhi",
+        "Dhayanu Yaesu Dosangu Bhaagyamu Dhappakunda Kraisthavulakunu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "song_name": "Bahu saundharya Seeyonulo sthuthi simhaasanaaseenudaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "బహు సౌందర్య సీయోనులో స్తుతిసింహాసనాసీనుడా",
+      "నాయేసయ్య నీ ప్రేమ పరిపూర్ణమై",
+      "నా హృదయాన కొలువాయెనే",
+      "ననుజీవింపజేసే నీవాక్యమే",
+      "నాకిలలోన సంతోషమే"
+    ],
+    "english": [
+      "Bahu saundharya Seeyonulo sthuthisimhaasanaaseenudaa",
+      "Naa Yesayya nee prema paripoornamai",
+      "Naa hrudayaana koluvaayene",
+      "Nanu jeevimpajese nee vaakyame",
+      "Naakilalona santhoshame"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరిశుద్ధతలో మహనీయుడవు - నీవంటిదేవుడు జగమునలేడు",
+        "నాలోనిరీక్షణ - నీలో సంరక్షణ నీకే నాహృదయార్పణ"
+      ],
+      "english": [
+        "Parishuddhathalo mahaneeyudavu - Neevanti Devudu jagamuna ledu",
+        "Naalo nireekshana - Neelo samrakshana neeke naa hrudhayaarpana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఓటమినీడలో క్షేమములేక - వేదనకలిగిన వేళలయందు",
+        "నీవు చూపించిన నీవాత్సల్యమే నాహృదయాన నవజ్ఞాపిక"
+      ],
+      "english": [
+        "Otami needalo kshemamu leka - Vedhana kaligina velalayandhu",
+        "Neevu choopinchina nee vaathsalyame naa hrudayaana navajnaapika"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఒంటరిబ్రతుకులో కృంగిన మనసుకు - చల్లని నీచూపే ఔషధమే",
+        "ప్రతి అరుణోదయం నీముఖదర్శనం నాలోనింపెను ఉల్లాసమే"
+      ],
+      "english": [
+        "Ontari brathukulo krungina manasuku - Challani nee choope aushadhame",
+        "Prathi arunodhayam nee mukha darshanam naalo nimpenu ullaasame"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "song_name": "Aradhya Daivama",
+  "author": {
+    "Authored by": "Pastor D Joseph",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆరాధ్య దైవమా అమరత్వ తేజమ",
+      "అఖిలాండ వ్యాప్తమా – సత్య స్వరూపమ"
+    ],
+    "english": [
+      "Aaraadhya dhaivamaa amarathva thejama",
+      "akilaanda vyaapthamaa sathya swaroopama"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సృష్టికే మూల జీవమా – సరిగమలకు అందని దైవమా",
+        "ఆదియందు వాక్యమా – కృపాసత్య సంపూర్ణమా",
+        "సకల జీవుల సహాయమా – సర్వ సృష్టికి ఆధారమా",
+        "సమస్త వైభవ జ్ఞానమా – శ్రీ యేసు నామ చిరంజీవమా",
+        "మానవ జాతికి రక్షణా – మానవ ఆత్మల విమోచనా",
+        "పాపశాప వినాశకా – మృత్యుంజయమా మహిమ స్వరూపమా"
+      ],
+      "english": [
+        "Srushtike moola jeevamaa – sarigamalaku andhani dhaivamaa",
+        "aadhiyandhu vaakyamaa – krupaa sathya sampoornamaa",
+        "Sakala jeevula sahaayamaa – sarva srushtiki aadhaaramaa",
+        "samastha vaibhava gnaanamaa – sri yesu naama chiranjeevivamaa",
+        "Maanava jaathiki rakshana – maanava aathmala vimochanaa",
+        "paapa saapa vinaasakaa – mruthyunjayamaa mahima swaroopamaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "song_name": "Nannelu Nazareyuda",
+  "author": {
+    "Authored by": "Joshua Shaik",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నన్నేలు నజరేయుడా – నను ప్రేమించు ప్రాణప్రియుడా",
+      "నీ ప్రేమకు సమమెవ్వరూ – నీవు కాక నాకెవ్వరూ"
+    ],
+    "english": [
+      "Nannelu Nazareyuda – Nanu Preminchu Pranapriyudaa",
+      "Nee Premaku Samamevvaru – Neevu Kaka Naakevvaroo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ కృపాతిశయములే నాకు అన్నపానములైయున్నవీ",
+        "నిను ధ్యానించు నా ప్రాణము నీ తట్టే చూచుచున్నదీ",
+        "శత్రు సమూహము నను చీల్చినను కనపడును నీ కరుణ హృదయమే",
+        "నీ సత్య వాక్యములే నాకు త్రోవ చూపుచున్నవీ",
+        "నీ దయాహస్తమే నన్ను ఎక్కలేనంత కొండపై ఎక్కించును",
+        "నీ సన్నిధిలో నే గడుపు క్షణము వెయ్యేండ్లకంటే అతి శ్రేష్టము"
+      ],
+      "english": [
+        "Nee Kripaathishayamule Naaku Annapaanamulai Yunnavee",
+        "Ninu Dyaaninchu Naa Pranamu Nee Thatte Choochuchunnadi",
+        "Satru Samoohamu Nanu Cheelchinanu Kanapadunu Nee Karuna Hridayme",
+        "Nee Sathya Vaakyamule Naaku Throva Choopuchunnavee",
+        "Nee Dayaa Hasthame Nannu Ekkalenantha Kondapai Ekkinchunu",
+        "Nee Sannidhilo Ne Gadupu Kshanamu Veyyendla Kante Athi Sreshtamu"
+      ]
+    }
+  ]
+}

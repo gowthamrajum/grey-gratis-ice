@@ -1,0 +1,57 @@
+{
+  "song_name": "Yesuni kutumbamokatunnadhi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసుని కుటుంబమొకటున్నది",
+      "ప్రేమతో నిండిన స్థలమొకటున్నది",
+      "రాజాధిరాజైన యేసు",
+      "నిరంతరం పాలించును (2)"
+    ],
+    "english": [
+      "Yesuni kutumbamokatunnadhi",
+      "Prematho nindina sthalamokatunnadhi",
+      "Raajaadhiraajaina Yesu",
+      "Nirantharam paalinchunu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హెచ్చు తగ్గుల్‌ అక్కడసలె లేవు",
+        "పేద గొప్ప బేధములే లేవు ||రా||"
+      ],
+      "english": [
+        "Hechchu thaggul akkadasale levu",
+        "Pedha goppa bedhamule levu ||Raa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపం లేదు అక్కడ, శాపం లేదు",
+        "వ్యాధిలేదు, ఆకలసలే లేదు ||రా||"
+      ],
+      "english": [
+        "Paapam ledu akkada, shaapam ledu",
+        "Vyaadhiledhu, aakalasale ledu ||Raa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సంతోషము, సమాధానముంది",
+        "విజయముంది, స్తుతి గీతముంది ||రా||"
+      ],
+      "english": [
+        "Santhoshamu, samaadhaanamundhi",
+        "Vijayamundhi, sthuthi geethamundhi ||Raa||"
+      ]
+    }
+  ]
+}

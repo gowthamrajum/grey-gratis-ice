@@ -1,0 +1,35 @@
+{
+  "song_name": "Yese daivamu – Yese jeevamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసే దైవము – యేసే జీవము",
+      "నా క్రీస్తే సర్వము – నిత్య జీవము (2)",
+      "మహిమా నీకే ఘనతా నీకే",
+      "నిన్నే పూజించి నే ఆరాధింతును"
+    ],
+    "english": [
+      "Yese daivamu – Yese jeevamu",
+      "Naa Kreesthe sarvamu – Nithya jeevamu (2)",
+      "Mahimaa neeke ghanathaa neeke",
+      "Ninne poojinchi ne aaraadhinthunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసయ్యా నా యేసయ్యా",
+        "యేసయ్యా నా యేసయ్యా (3)  ||యేసే||"
+      ],
+      "english": [
+        "Yesayyaa naa Yesayyaa",
+        "Yesayyaa naa Yesayyaa (3) ||Yese||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "song_name": "Naa chinni hrudayamu ninne preminchanee",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా చిన్ని హృదయము నిన్నే ప్రేమించనీ",
+      "నిను చాటనీ – నిను ఘనపరచనీ",
+      "నీ రాకకై వేచియుండనీ ||నా చిన్ని||"
+    ],
+    "english": [
+      "Naa chinni hrudayamu ninne preminchanee",
+      "Ninu chaatanee - Ninu ghanaparachanee",
+      "Nee raakakai vechiyundanee ||Naa chinni||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కావలివారూ వేకువకై చూచునట్లు",
+        "నా ప్రాణము నీకై యెదురు చూడనీ (2)",
+        "నా ప్రాణము నీకై యెదురు చూడనీ  ||నా||"
+      ],
+      "english": [
+        "Kaavalivaaroo vekuvakai choochunatlu",
+        "Naa praanamu neekai eduru choodanee (2)",
+        "Naa praanamu neekai eduru choodanee ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దుప్పి నీటి వాగులకై ఆశించునట్లుగా",
+        "నా ప్రాణము నిన్నే ఆశింపనీ (2)",
+        "నా ప్రాణము నిన్నే ఆశింపనీ  ||నా||"
+      ],
+      "english": [
+        "Duppi neethi vaagulakai aashinchunatlugaa",
+        "Naa praanamu ninne aashimpanee (2)",
+        "Naa praanamu ninne aashimpanee ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పనివారు యజమాని చేతివైపు చూచునట్లు",
+        "నా కన్నులు నీపైనే నిలచియుండనీ (2)",
+        "నా కన్నులు నీపైనే నిలచియుండనీ  ||నా||"
+      ],
+      "english": [
+        "Panivaaru yajamaani chethivaipu choochunatlu",
+        "Naa kannulu neepaine nilachiyundanee (2)",
+        "Naa kannulu neepaine nilachiyundanee ||Naa||"
+      ]
+    }
+  ]
+}

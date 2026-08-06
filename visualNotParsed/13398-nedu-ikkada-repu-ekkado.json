@@ -1,0 +1,54 @@
+{
+  "song_name": "Nedu ikkada repu ekkado",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేడు ఇక్కడ రేపు ఎక్కడో",
+      "తెలియని పయనం ఓ మానవా (2)",
+      "ఎప్పుడు పోవునో ఎవ్వరికి తెలియదు",
+      "ఎక్కడ ఆగునో ఎవరూ ఎరుగరు (2) ||నేడు||"
+    ],
+    "english": [
+      "Nedu ikkada repu ekkado",
+      "Theliyani payanam o maanavaa (2)",
+      "Eppudu povuno evvariki theliyadu",
+      "Ekkada aaguno evaroo erugaru (2) ||Nedu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవు వచ్చినప్పుడు ఏమి తేలేదులే",
+        "నీవు పోయేటప్పుడు నీతో ఏమి రాదులే (2)",
+        "నీవు ఉన్నప్పుడే యేసు ప్రభుని నమ్ముకో (2)",
+        "నమ్ముకుంటే నీవు మోక్షమునకు పోదువు  ||నేడు||"
+      ],
+      "english": [
+        "Neevu vachchinappudu emi theledhule",
+        "Neevu poyetappudu neetho emi raadhule (2)",
+        "Neevu unnappude Yesu Prabhuni nammuko (2)",
+        "Nammukunte neevu mokshamunaku podhuvu ||Nedu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అది నాది ఇది నాదని అదిరి పడతావు",
+        "చివరికి ఏది రాదు నీ వెంట (2)",
+        "దిగంబరిగానే నీవు పుడతావు",
+        "దిగంబరిగానే నీవు వెళతావు (2)  ||నేడు||"
+      ],
+      "english": [
+        "Adhi naadi idhi naadani adhiri padathaavu",
+        "Chivariki edhi raadu nee venta (2)",
+        "Digambarigaane neevu pudathaavu",
+        "Digambarigaane neevu velathaavu (2) ||Nedu||"
+      ]
+    }
+  ]
+}

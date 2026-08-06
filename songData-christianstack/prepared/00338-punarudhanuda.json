@@ -1,0 +1,66 @@
+{
+  "song_name": "Punarudhanuda",
+  "author": {
+    "Authored by": "Raja Mandru",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆరాధన నీకేనయా నా యేసయ్య",
+      "మరణాన్ని జయించిన పునరుద్ధానుడా",
+      "ఆరాధన ఆరాధన ఆరాధన ఆరాధన"
+    ],
+    "english": [
+      "Aaraadhana neekenayaa naa yesayya",
+      "maranaanni jayinchina punaruddhaanudaa",
+      "aaraadhana aaraadhana aaraadhana aaraadhana"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పునరుద్ధానుడా! నా యేసయ్య",
+        "సర్వ యుగాలలో నిను పోలిన వారెవరు",
+        "మరణాన్ని జయించిన పరిశుద్ధుడా",
+        "నా స్తుతి ఆరాధనకు యోగ్యుడా"
+      ],
+      "english": [
+        "Punaruddhaanudaa! naa yesayya",
+        "sarva yugaalalo ninu polina vaarevaru",
+        "maranaanni jayinchina parisuddhudaa",
+        "naa sthuthi aaraadhanaku yogyudaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాకై ప్రాణము పెట్టినవాడవు",
+        "శాపముగా మారి వ్రేలాడితివి",
+        "మరణము జయించిన జయశీలుడా",
+        "నూతన జీవము నాకిచ్చితివి"
+      ],
+      "english": [
+        "Naakai praanamu pettinavaadavu",
+        "saapamugaa maari vrelaadithivi",
+        "maranamu jayinchina jayaseeludaa",
+        "noothana jeevamu naakichithivi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాతాళ వశములోనుండి విమోచించినావు",
+        "మృత్యువు నుండి రక్షించితివి",
+        "ఓ మరణమా, నీ విజయమెక్కడా",
+        "ఓ మరణమా, నీ ముళ్లెక్కడా"
+      ],
+      "english": [
+        "Paathaala vasamulonundi vimochinchinaavu",
+        "mruthyuvu nundi rakshinchithivi",
+        "O maranamaa, nee vijayamekkadaa",
+        "O maranamaa, nee mullekkadaa"
+      ]
+    }
+  ]
+}

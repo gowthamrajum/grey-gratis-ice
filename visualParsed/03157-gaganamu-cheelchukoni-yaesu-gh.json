@@ -1,0 +1,53 @@
+{
+  "song_name": "Gaganamu cheelchukoni Yesu ghanulanu theesikoni",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "గగనము చీల్చుకొని యేసు ఘనులను తీసికొని",
+      "వేలాది దూతలతో భువికి వేగమె రానుండె"
+    ],
+    "english": [
+      "Gaganamu cheelchukoni Yesu ghanulanu theesikoni",
+      "Velaadi doothalatho bhuviki vegame raanunde"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరలోక పెద్దలతో పరివారముతో కదలి",
+        "ధరసంఘ వధువునకై తరలెను వరుడదిగో  ||గగనము||"
+      ],
+      "english": [
+        "Paraloka peddalatho parivaaramutho kadali",
+        "Dharasangha vadhuvunakai tharalenu varudadhigo ||Gaganamu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మొదటగను గొఱ్ఱెగను ముదమారగ వచ్చెను",
+        "కొదమసింహపురీతి కదలెను గర్జనతో  ||గగనము||"
+      ],
+      "english": [
+        "Modataganu gorreganu mudhamaaraga vachchenu",
+        "Kodhamasimhapureethi kadhalenu garjanatho ||Gaganamu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కనిపెట్టు భక్తాళీ కనురెప్పలో మారెదరు",
+        "ప్రథమమున లేచెదరు పరిశుద్ధులు మృతులు  ||గగనము||"
+      ],
+      "english": [
+        "Kanipettu bhakthaalee kanureppalo maaredharu",
+        "Prathamamuna lechedharu parishuddhulu mruthulu ||Gaganamu||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "song_name": "Naenu Nee Vaandanu Dhaevaa",
+  "author": {
+    "Authored by": "",
+    "రచన": "పులిపాక జగన్నాధము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేను నీ వాఁడను దేవా నిక్కంబుగ నేను నీ వాఁడను దేవా",
+      "వీనుల నీ ప్రేమ వివర మాలించుచు",
+      "మేను నాత్మయు నిత్తు మేలొసఁగు నీకిపుడు"
+    ],
+    "english": [
+      "Naenu Nee Vaandanu Dhaevaa Nikkambuga Naenu Nee Vaandanu Dhaevaa",
+      "Veenula Nee Praema Vivara Maalinchuchu",
+      "Maenu Naathmayu Niththu Maelosangu Neekipudu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఘనుఁడ వైన నీవు గలిగించితివి నన్ను",
+        "మనుజ లోకమునందు నిను నేను సేవింప"
+      ],
+      "english": [
+        "Ghanunda Vaina Neevu Galiginchithivi Nannu",
+        "Manuja Loakamunandhu Ninu Naenu Saevimpa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాకు నవసర మౌన నానా వస్తువు లిచ్చి",
+        "నీ కటాక్షము నన్ను నిల్పుచున్నది గాన"
+      ],
+      "english": [
+        "Naaku Navasara Mauna Naanaa Vasthuvu Lichchi",
+        "Nee Kataakshamu Nannu Nilpuchunnadhi Gaana"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా దోషముల నుండి నన్ను రక్షింపను",
+        "నీదు పుత్రుని ప్రేమ నిండార నొసగితివి"
+      ],
+      "english": [
+        "Naa Dhoashamula Nundi Nannu Rakshimpanu",
+        "Needhu Puthruni Praema Nindaara Nosagithivi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నే నఘముల చేత నిజముగఁ జావఁగ",
+        "నీ నెనరుచే నన్ను నీవు బ్రతికించితివి"
+      ],
+      "english": [
+        "Nae Naghamula Chaetha Nijamugan Jaavanga",
+        "Nee Nenaruchae Nannu Neevu Brathikinchithivi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నా తనువు నాత్మయు నాకుఁ గల్గిన వన్ని",
+        "నా తండ్రి యిచ్చితివి నాకు నీ కృప చేత"
+      ],
+      "english": [
+        "Naa Thanuvu Naathmayu Naakun Galgina Vanni",
+        "Naa Thandri Yichchithivi Naaku Nee Krupa Chaetha"
+      ]
+    }
+  ]
+}

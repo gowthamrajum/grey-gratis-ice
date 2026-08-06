@@ -1,0 +1,62 @@
+{
+  "song_name": "Sharonu Vanamulo Pusina Pushpamai Loyalalo",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "షారోను వనములో పూసిన పుష్పమై",
+      "లోయలలో పుట్టిన వల్లిపద్మమునై",
+      "నీ ప్రేమాతిశయమునే నిత్యము కిర్తుంచుచు",
+      "ఆనందమయమై నన్నె మరిచితిని"
+    ],
+    "english": [
+      "Sharonu Vanamulo Pusina Pushpamai",
+      "Loyalalo Puttina Vallipadmamunai",
+      "Ni Prematisayamune Nityamu Kirtumchuchu",
+      "Anamdamayamai Nanne Marichitini"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సుకుమారమైన వదనము నీది - స్పటికము వలె చల్లనైన హృదయము నీది",
+        "మధురమైన నీ మాతల సవ్వడి వినగా - నిన్ను చుడ ఆశలెన్నొ మనసు నిండెనె",
+        "ప్రభువా నిను చెరనా"
+      ],
+      "english": [
+        "Sukumaramaina Vadanamu Nidi - Spatikamu Vale Challanaina Hrudayamu Nidi",
+        "Madhuramaina Ni Matala Savvadi Vinaga - Ninnu Chuda Asalenno Manasu Nimdene",
+        "Prabuva Ninu Cherana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సర్వొన్నతమైన రాజ్యము నీది - సొగసైన సంబరాల నగరము నీది",
+        "న్యాయమైన నీ పాలన విధులను చూడగా - నిన్ను చేర జనసంద్రము ఆశ చెందునే",
+        "ప్రభువా నిన్ను మరతునా"
+      ],
+      "english": [
+        "Sarvonnatamaina Rajyamu Nidi - Sogasaina Sambarala Nagaramu Nidi",
+        "Nyayamaina Ni Palana Vidhulanu Chudaga - Ninnu Chera Janasamdramu Asa Chemdune",
+        "Prabuva Ninnu Maratuna"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సాత్వికమైన పరిచర్యలు నీవి - సూర్యకాంతిమయమైన వరములు నీవి",
+        "పరిమలించు పుష్పమునై చూపనా - ప్రీతి పాత్రనై భువిలో నిన్నే చాటనా",
+        "ప్రభువా కృపతో నింపుమా"
+      ],
+      "english": [
+        "Satvikamaina Paricharyalu Nivi - Suryakamtimayamaina Varamulu Nivi",
+        "Parimalimchu Pushpamunai Chupana - Priti Patranai Buvilo Ninne Chatana",
+        "Prabuva Krupato Nimpuma"
+      ]
+    }
+  ]
+}

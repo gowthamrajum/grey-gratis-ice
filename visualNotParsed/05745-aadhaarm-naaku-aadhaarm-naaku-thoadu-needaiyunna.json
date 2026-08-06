@@ -1,0 +1,67 @@
+{
+  "song_name": "Aadhaaram naaku aadhaaram - Naaku thodu needaiyunna",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆధారం నాకు ఆధారం - నాకు తోడు నీడైయున్న",
+      "నీ కృపయే ఆధారం - ఆశ్రయము నాకు ఆశ్రయము",
+      "ఆపత్కాలమందు నాకు - నీ నామం ఆశ్రయము",
+      "తల్లి తండ్రి లేకున్నా -బంధుజనము రాకున్నా",
+      "లోకమంత ఒక్కటైన - బాధలన్ని బంధువులైన"
+    ],
+    "english": [
+      "Aadhaaram naaku aadhaaram - Naaku thodu needaiyunna",
+      "Nee krupaye aadhaaram - Aashrayamu naaku aashrayamu",
+      "Aapathkaalamandu naaku - Nee naamam aashrayamu",
+      "Thalli thandri lekunnaa -Bandhujanamu raakunnaa",
+      "Lokamantha okkataina - Baadhalanni bandhuvulaina"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "బలహీన బంధంలో నేనుండగా",
+        "శ్రమల సంద్రంలో పడియుండగా",
+        "ఇరుకులో విశాలతను - కలిగించిన ఓ దేవా",
+        "నీ చల్లని ఒడిలో నన్ను చేర్చగరావా"
+      ],
+      "english": [
+        "Balaheena bandhamlo nenundagaa",
+        "Shramala sandramlo padiyundagaa",
+        "Irukulo vishaalathanu - Kaliginchina o Devaa",
+        "Nee challani odilo nannu cherchagaraavaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దారిద్య్రపు సుడి నుండి - ఐశ్వర్యపు తీరానికి",
+        "నీ స్వరమే నా వరమై - నడిపించిన యేసయ్యా",
+        "విడువను ఎడబాయనని - పలికిన దేవా"
+      ],
+      "english": [
+        "Daaridryapu sudi nundi - Aishwaryapu theeraaniki",
+        "Nee swarame naa varamai - Nadipinchina Yesayyaa",
+        "Viduvanu edabaayanani - Palikina Devaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దిగులుపడిన వేళలలో దరిచేరిన దేవా",
+        "అవమానపు చీకటిలో బలమిచ్చిన నా దేవా",
+        "చీకటిలో వెలుగువై నడిచొచ్చిన నా దేవా"
+      ],
+      "english": [
+        "Digulupadina velalalo daricherina Devaa",
+        "Avamaanapu cheekatilo balamichchina naa Devaa",
+        "Cheekatilo veluguvai nadichochchina naa Devaa"
+      ]
+    }
+  ]
+}

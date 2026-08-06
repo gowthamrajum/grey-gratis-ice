@@ -1,0 +1,96 @@
+{
+  "song_name": "Kalvariloani ShraeShtudaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కల్వరిలోని శ్రేష్టుడా - కరుణా భరిత సింహమా",
+      "కన్ను భ్రమించు ప్రభువా - నిలువలోని మిత్రుడా"
+    ],
+    "english": [
+      "Kalvariloani ShraeShtudaa - KaruNaa Bharitha SiMhamaa",
+      "Kannu BhramiMchu Prabhuvaa - Niluvaloani Mithrudaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "స్తుతుకి పాత్రుండగువాడా - దూతలతో వెంచేయువాడా",
+        "సుదతి మరియ పుత్రుడా - సిలువలోని మిత్రుడా"
+      ],
+      "english": [
+        "Sthuthuki PaathruMdaguvaadaa - Dhoothalathoa VeMchaeyuvaadaa",
+        "Sudhathi Mariya Puthrudaa - Siluvaloani Mithrudaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపులకై వచ్చినవాడా - ప్రేమ గల్గిన రక్షకుడా",
+        "పాదములపై బడితిమి - సిలువలోని మిత్రుడా"
+      ],
+      "english": [
+        "Paapulakai Vachchinavaadaa - Praema Galgina RakShakudaa",
+        "Paadhamulapai Badithimi - Siluvaloani Mithrudaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దీవెనల నిచ్చుటకై - వసుధ కేతించినవాడా",
+        "నీవే సుంకరు లాప్తుడవు - సిలువలోని మిత్రుడా"
+      ],
+      "english": [
+        "Dheevenala Nichchutakai - VasuDha KaethiMchinavaadaa",
+        "Neevae SuMkaru Laapthudavu - Siluvaloani Mithrudaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "అయిదు రొట్టెలు మరి రెండు - చేపలతో నైదు వేల",
+        "జనుల పోషించిన తండ్రి - సిలువలోని మిత్రుడా"
+      ],
+      "english": [
+        "Ayidhu Rottelu Mari ReMdu - Chaepalathoa Naidhu Vaela",
+        "Janula PoaShiMchina ThaMdri - Siluvaloani Mithrudaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీళ్ళను రసముగ మార్చితివి - నీళ్ళ మీద నడిచితివి",
+        "మేళ్ళ నొసగు మా దాతా - సిలువలోని మిత్రుడా"
+      ],
+      "english": [
+        "NeeLLanu Rasamuga Maarchithivi - NeeLLa Meedha Nadichithivi",
+        "MaeLLa Nosagu Maa Dhaathaa - Siluvaloani Mithrudaa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "రోగుల బాగుచేయువాడా - గ్రుడ్డికి నేత్రము లిచ్చితివి",
+        "అనాధుల నాయకుడా - సిలువలోని మిత్రుడా"
+      ],
+      "english": [
+        "Roagula Baaguchaeyuvaadaa - Gruddiki Naethramu Lichchithivi",
+        "AnaaDhula Naayakudaa - Siluvaloani Mithrudaa"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "హల్లెలూయా కర్హుడా - యెల్లరు కొనియాడు వాడా",
+        "బలముతో వచ్చువాడా - సిలువలోని మిత్రుడా"
+      ],
+      "english": [
+        "Hallelooyaa Karhudaa - Yellaru Koniyaadu Vaadaa",
+        "Balamuthoa Vachchuvaadaa - Siluvaloani Mithrudaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "song_name": "Vaaru Bhaagyavanthu Laudhuru",
+  "author": {
+    "Authored by": "",
+    "రచన": "విలియం డాసన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "వారు భాగ్యవంతు లౌదురు భూ లోకమందు వారు భాగ్యవంతులౌదురు",
+      "చారు శుభవార్తా రవంబు గోరి యాకర్ణించి",
+      "భక్తి మీరఁ దెలిసికొనిన యట్టి ధీరు లెవ్వ రెవ్వరో"
+    ],
+    "english": [
+      "Vaaru Bhaagyavanthu Laudhuru Bhoo Loakamandhu Vaaru Bhaagyavanthulaudhuru",
+      "Chaaru Shubhavaarthaa Ravambu Goari Yaakarninchi",
+      "Bhakthi Meera Dhelisikonina Yatti Dheeru Levva Revvaroa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వారు నడుచు మార్గమందున సుక్షేమ రాజి వారి ననుసరించు నెందును",
+        "తేరి చూడ రాని దే దీప్యమాన దివ్యసత్య",
+        "భూరి తేజ మాజనములఁ బొలుపు మీరఁ జుట్టుకొనును"
+      ],
+      "english": [
+        "Vaaru Naduchu Maargamandhuna Sukshaema Raaji Vaari Nanusarinchu Nendhunu",
+        "Thaeri Chooda Raani Dhae Dheepyamaana Dhivyasathya",
+        "Bhoori Thaeja Maajanamula Bolupu Meera Juttukonunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విమోచకుని నామమందున దజ్జనంబుల విశ్రుతానందంబు ప్రాణముల",
+        "అమందముగ హెచ్చరించు నతని నీతి రీతిఁ",
+        "దజ్జ నముల కోర్కె వృద్ధి బొం దంగఁ జేయు సంతతంబు"
+      ],
+      "english": [
+        "Vimoachakuni Naamamandhuna Dhajjanambula Vishruthaanandambu Praanamula",
+        "Amandhamuga Hechcharinchu Nathani Neethi Reethi",
+        "Dhajjanamula Koarke Vruddhi Bondhanga Jaeyu Santhathambu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నరులపై బిశాచమును నిందా స్థాప నంబు జేయంగలేదు",
+        "పరగు ప్రకాశమును బ్రాపు నైన సర్వే శ్వరుఁడు",
+        "బలము రక్షయు న వారితముగ మనకు నిచ్చు"
+      ],
+      "english": [
+        "Narulapai Bishaachamunu Nindhaa Sthaapa Nambu Jaeyangalaedhu",
+        "Paragu Prakaashamunu Braapu Naina Sarvaeshvarudu",
+        "Balamu Rakshayu Navaarithamuga Manaku Nichchu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "వరగుణ ప్రశస్తులారా క్రైస్తవులారా వన్నె మీర మీ రాజు",
+        "సురుచిరముగ శాశ్వతముగఁ పరిపాలించు మీ దేవుఁడు",
+        "నిరతముగను జీవించు నీతి భరిత చిత్తుఁడగుచు"
+      ],
+      "english": [
+        "Varaguna Prashasthulaaraa Kraisthavulaaraa Vanne Meera Mee Raaju",
+        "Suruchiramuga Shaashvathamuga Paripaalinchu Mee Dhaevudu",
+        "Nirathamuganu Jeevinchu Neethi Bharitha Chiththudaguchu"
+      ]
+    }
+  ]
+}

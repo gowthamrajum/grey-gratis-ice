@@ -1,0 +1,108 @@
+{
+  "song_name": "Yesuni Jananam",
+  "author": {
+    "Authored by": "Jeevan Louis, Silas featuring Divya Daniel",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓహో ఆనందమే సంతోషమే",
+      "శ్రీ యేసుని జననం అద్భుతమే",
+      "మేము సాగిలపడి నిన్నే సేవింతుము",
+      "మేము సాగిలపడి నిన్నే పూజింతుము"
+    ],
+    "english": [
+      "Oho aanandhame santhoshame",
+      "sri yesuni jananam adhbuthame",
+      "memu saagilapadi ninne sevinthumu",
+      "memu saagilapadi ninne poojinthumu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రాజులకే రారాజువు",
+        "లోకానికి వెలుగై ఉదయించెను",
+        "సింహాసనముపై ఆశీనుడు",
+        "సామాన్యుడిగా దిగివచ్చెను",
+        "సర్వోన్నతుని కుమారుడు",
+        "సర్వజనులకు రక్షకుడు"
+      ],
+      "english": [
+        "Raajulake raaraajuvu",
+        "lokaaniki velugai udhayinchenu",
+        "simhaasanamupai aaseenudu",
+        "saamaanyudigaa dhigivachenu",
+        "sarvonnathuni kumaarudu",
+        "sarvajanulaku rakshakudu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మన పాపభారం తొలగింపను",
+        "ఈ భూవికే రక్షణ తెచ్చెను",
+        "విడువని కృపతో ప్రేమించెను",
+        "శాశ్వత జీవం మనకిచ్చేను",
+        "ఇమ్మానుయేలుగా ఉదయించె",
+        "మా తోడుగా నిత్యముండును"
+      ],
+      "english": [
+        "Mana paapabhaaram tholagimpanu",
+        "ee bhuvike rakshana thechenu",
+        "viduvani krupatho preminchenu",
+        "saaswatha jeevam manakichenu",
+        "immaanuyelugaa udhayinche",
+        "maa thodugaa nithyamundunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ నామమెంతో ఉన్నతం",
+        "నీ వాగ్ధానములు శాశ్వతం",
+        "నీ ప్రేమయే నిరంతరం",
+        "యేసయ్య….. యేసయ్య…"
+      ],
+      "english": [
+        "Bridge:",
+        "Nee naamamentho unnatham",
+        "nee vaagdhaanamulu saaswatham",
+        "nee premaye nirantharam",
+        "yesayya… yesayya…"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీ వాక్యమెంతో మధురం",
+        "నీ కార్యములు ఆశ్చర్యములు",
+        "నీ రాజ్యమే నిరంతరం",
+        "యేసయ్య….. యేసయ్య….."
+      ],
+      "english": [
+        "Bridge2:",
+        "Nee vaakyamentho madhuram",
+        "nee kaaryamulu aascharyamulu",
+        "nee raajyame nirantharam",
+        "yesayya… yesayya…"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఓహో ఆనందమే సంతోషమే",
+        "శ్రీ యేసుని జననం అద్భుతమే",
+        "మేము సాగిలపడి నిన్నే సేవింతుము",
+        "మేము సాగిలపడి నిన్నే పూజింతుము"
+      ],
+      "english": [
+        "Oho aanandhame santhoshame",
+        "sri yesuni jananam adhbuthame",
+        "memu saagilapadi ninne sevinthumu",
+        "memu saagilapadi ninne poojinthumu"
+      ]
+    }
+  ]
+}

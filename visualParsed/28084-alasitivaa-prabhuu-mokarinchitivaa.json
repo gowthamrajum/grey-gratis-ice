@@ -1,0 +1,48 @@
+{
+  "song_name": "Alasithivaa Prabhu mokarinchithivaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Josely Komanapalli"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "అలసితివా ప్రభు మోకరించితివా ||2||"
+    ],
+    "english": [
+      "Alasithivaa Prabhu mokarinchithivaa ||2||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ స్వేరము తాకి నేల పావనమాయెనా",
+        "నీ రక్తము యేరులై ప్రవహించెనా",
+        "సోలిపోతివా ప్రభుక్రీస్తూ",
+        "1. యెత్తైన ఒలీవ కొండకు చేరి – నీ తండ్రితో సహవాసము కూరి ||2||",
+        "నీ చిత్తమైతే ఇ గిన్నె నానుండి – తొలగించమనుచూ ప్రార్ధించితివి ||2||"
+      ],
+      "english": [
+        "Nee swedhamu thaaki nela paavanamaayenaa",
+        "Nee rakthamu erulai pravahinchenaa",
+        "Solipothivaa Prabhu Kreesthoo",
+        "1. Etthaina Oleeva kondaku cheri – Nee thandritho sahavaasamu koori ||2||",
+        "Nee chitthamaithe ee ginne naanundi – Tholaginchamanuchoo praardhinchithivi ||2||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆ ప్రార్ధనా నీ తండ్రి వినగ – పరలోక దూతలు నిను బలపరచగ",
+        "ఆ ద్రుశ్యం నా కనుల ముందు ఉన్నది  ||అలసితివా||"
+      ],
+      "english": [
+        "Aa praardhanaa nee thandri vinaga – Paraloka doothalu ninu balaparachaga",
+        "Aa drushyam naa kanula mundu unnadi ||Alasithivaa||"
+      ]
+    }
+  ]
+}

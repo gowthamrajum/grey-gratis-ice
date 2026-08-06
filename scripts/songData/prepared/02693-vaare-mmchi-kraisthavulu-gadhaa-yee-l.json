@@ -1,0 +1,58 @@
+{
+  "song_name": "Vaare Manchi Kraisthavulu Gadhaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "వారె మంచి క్రైస్తవులు గదా యీ లోకమందు",
+      "వారె మంచి క్రైస్తవులు గదా చేరునట్లు చేయుడి."
+    ],
+    "english": [
+      "Vaare Manchi Kraisthavulu Gadhaa Yee Loakamandhu",
+      "Vaare Manchi Kraisthavulu Gadhaa Chaerunatlu Chaeyudi."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పారమార్థమైన క్రీస్తు సారవాక్య మనుభవించు",
+        "వారి దారి గోరి జేరి భూరిసుఖముఁ బడయునట్టి"
+      ],
+      "english": [
+        "Paaramaarthamaina Kreesthu Saaravaakya Manubhavinchu",
+        "Vaari Dhaari Goari Jaeri Bhoorisukhamu Badayunatti"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కపట వేష భాష లెల్లను తొలంగఁ ద్రోచి",
+        "విపుల భక్తి నిపుణు లగుచును లపితములు",
+        "నసత్యములును శపధములును లేక దేవ కృప",
+        "మనంబులోన వెలిగి యుపరిభాగ మరియునట్టి"
+      ],
+      "english": [
+        "Kapata Vaesha Bhaasha Lellanu Tholanga Dhroachi",
+        "Vipula Bhakthi Nipunu Laguchunu Lapithamulu",
+        "Nasathyamulunu Shapadhamulunu Laeka Dhaeva Krupa",
+        "Manambuloana Veligi Yuparibhaaga Mariyunatti"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నమ్మకంబు సుస్థిరంబుగా మనంబులోన సమ్మతంబు గలిగి మెండుగా",
+        "క్రమ్ము కొనెడి శ్రమలయందు సొమ్మసిలక ప్రభుని పా",
+        "దమ్ములందు బుద్ధి నిలిపి నెమ్మది గలవార లెవరో"
+      ],
+      "english": [
+        "Nammakambu Susthirambugaa Manambuloana Sammathambu Galigi Mendugaa",
+        "Krammu Konedi Shramalayandhu Sommasilaka Prabhuni Paa",
+        "Dhammulandhu Budhdhi Nilipi Nemmadhi Galavaara Levaroa"
+      ]
+    }
+  ]
+}

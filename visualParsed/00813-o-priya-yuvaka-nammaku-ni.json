@@ -1,0 +1,57 @@
+{
+  "song_name": "O priya yuvakaa nammaku nee yauvvanam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ ప్రియ యువకా నమ్మకు నీ యౌవ్వనం",
+      "దైవ భక్తితో యుండుమా క్రీస్తు బాటలో నడువుమా",
+      "ఓ ప్రియ యువతీ నమ్ముకు నీ యౌవ్వనం",
+      "దైవ భక్తితో యుండుమా క్రీస్తు బాటలో నడువుమా"
+    ],
+    "english": [
+      "O priya yuvakaa nammaku nee yauvvanam",
+      "Daiva bhakthitho yundumaa Kreesthu baatalo naduvumaa",
+      "O priya yuvathee nammaku nee yauvvanam",
+      "Daiva bhakthitho yundumaa Kreesthu baatalo naduvumaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ యౌవ్వనము అశాశ్వతం నీ సౌందర్యము వాడిపోవును",
+        "నీ ఆయుష్షు తరిగిపోవును నీ బలమంతయు క్షీణించును"
+      ],
+      "english": [
+        "Nee yauvvanamu ashaashvatham nee saundharyamu vaadipovunu",
+        "Nee aayushshu tharigipovunu nee balamanthayu ksheeninchunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసే నీకు శాశ్వతము వాక్యమే నీకు దీపము",
+        "ప్రార్ధనే నీకు ఆయుధము సౌక్ష్య జీవితమే నీ బలము"
+      ],
+      "english": [
+        "Yese neeku shaashwathamu vaakyame neeku deepamu",
+        "Praardhane neeku aayudhamu saakshya jeevithame nee balamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యౌవ్వన ఆశలకు లొంగకు సాతాను వలలో చిక్కకు",
+        "యేసుని చెంతకు చేరుము నిత్య రాజ్యమును పొందుము"
+      ],
+      "english": [
+        "Yauvvana aashalaku longaku Saathaanu valalo chikkaku",
+        "Yesuni chenthaku cherumu nithya raajyamunu pondumu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "song_name": "Anudinam aa Prabhuni varame",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "అనుదినం ఆ ప్రభుని వరమే",
+      "అనుక్షణం ఆశ్చర్య కార్యమే",
+      "ఆనందం-తో స్వీకరించుము",
+      "అబ్బురం-తో ఆనందించుము",
+      "పచ్చిక గల చోట్ల నన్ను పరుండజేసిన దేవుడు (2)",
+      "నూనెతో నా తలను అంటి దీవెనలతో నింపును ||అనుదినం||"
+    ],
+    "english": [
+      "Anudinam aa Prabhuni varame",
+      "Anukshanam aashcharya kaaryame",
+      "Aanandam-tho sweekarinchumu",
+      "Abburam-tho aanandinchumu",
+      "Pachchika gala chotla nannu parundajesina Devudu (2)",
+      "Noonetho naa thalanu anti deevenalatho nimpunu ||Anudinam||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తల్లియైనా మరచునేమో మరువడు ప్రభు ఎన్నడూ (2)",
+        "ముదిమి వచ్ఛు వరకు నన్ను ఎత్తుకొని కాపాడును  ||అనుదినం||  ||అనుదినం||"
+      ],
+      "english": [
+        "Talliyainaa marachunemo maruvadu Prabhu ennadoo (2)",
+        "Mudimi vachchu varaku nannu etthukoni kaapaadunu ||Anudinam||  ||Anudinam||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాదు పాపపు భారమెల్ల మోసెను నా దేవుడు (2)",
+        "సిలువపై మరణించి నాకు రక్షణిచ్చెను యేసుడు  ||అనుదినం||  ||అనుదినం||"
+      ],
+      "english": [
+        "Naadu paapapu bhaaramella mosenu naa Devudu (2)",
+        "Siluvapai maraninchi naaku rakshanichchenu Yesudu ||Anudinam||  ||Anudinam||"
+      ]
+    }
+  ]
+}

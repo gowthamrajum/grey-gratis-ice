@@ -1,0 +1,74 @@
+{
+  "song_name": "KaruNiMchumu Naa Yaesuvaa KanikaramMdhaishvaryudaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కరుణించుము నా యేసువా - కనికరమందైశ్వర్యుడా",
+      "రేయింబగళ్ళు నే నెలుగెత్తి మొరబెట్టు - ప్రార్థనకు చెవి యొగ్గుమా"
+    ],
+    "english": [
+      "KaruNiMchumu Naa Yaesuvaa - KanikaramMdhaishvaryudaa",
+      "RaeyiMbagaLLu Nae Nelugeththi Morabettu - PraarThanaku Chevi Yoggumaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిత్యము మాకై విజ్ఞాపన చేయు - నిశీదరాత్రిన్ ప్రియుడా",
+        "ప్రేమపితా నేడు మీ ఎదుట ప్రార్థించే - ప్రియుల ప్రార్థన వినుమా"
+      ],
+      "english": [
+        "Nithyamu Maakai VijnYaapana Chaeyu - Nisheedharaathrin Priyudaa",
+        "Praemapithaa Naedu Mee Edhuta PraarThiMchae - Priyula PraarThana Vinumaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మా బంధు జనులు మా తల్లి దండ్రులు - మా ప్రియులు నశియించుట",
+        "చూచి సహింపక కన్నీటితో చేయు మా ప్రార్థన వినుమా"
+      ],
+      "english": [
+        "Maa BMDhu Janulu Maa Thalli DhMdrulu - Maa Priyulu NashiyiMchuta",
+        "Choochi SahiMpaka Kanneetithoa Chaeyu Maa PraarThana Vinumaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీనెవె పట్టణ దుర్గతిని జూచి - కరుణించి కాపాడితివే",
+        "యోనా మొరకొసగిన ఆలోచన నా కొసగ - నా బీదమనవి వినుమా"
+      ],
+      "english": [
+        "Neeneve PattaNa Dhurgathini Joochi - KaruNiMchi Kaapaadithivae",
+        "Yoanaa Morakosagina Aaloachana Naa Kosaga - Naa Beedhamanavi Vinumaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "శ్రమలెన్నో సహించి రక్షించితివే - ఇవియన్నియు వ్యర్థంబౌనా?",
+        "అంజూరపు చెట్టుకై ప్రార్థించినా యట్టి ఆ ప్రార్థన వినుమా"
+      ],
+      "english": [
+        "Shramalennoa SahiMchi RakShiMchithivae - Iviyanniyu VyarThMbaunaa?",
+        "AMjoorapu Chettukai PraarThiMchinaa Yatti Aa PraarThana Vinumaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "శోధన నుండి రక్షించితివే - సొదొమలో భక్తుని",
+        "అబ్రాహాం ఆనాడు విన్నపించినట్టి - ఆది ప్రార్థన వినుమా"
+      ],
+      "english": [
+        "ShoaDhana NuMdi RakShiMchithivae - Sodhomaloa Bhakthuni",
+        "AbraahaaM Aanaadu VinnapiMchinatti - Aadhi PraarThana Vinumaa"
+      ]
+    }
+  ]
+}

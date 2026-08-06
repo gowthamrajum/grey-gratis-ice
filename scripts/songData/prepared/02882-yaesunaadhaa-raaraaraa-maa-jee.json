@@ -1,0 +1,71 @@
+{
+  "song_name": "Yaesunaadhaa Raaraaraa Maa Jeevanaadhaa",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఫిలిప్ బెంజమిన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసునాధా రారారా మా జీవనాధా రారారా"
+    ],
+    "english": [
+      "Yaesunaadhaa Raaraaraa Maa Jeevanaadhaa Raaraaraa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దోసములు బాప నీవు వాసిగ జన్మించినావు"
+      ],
+      "english": [
+        "Dhoasamulu Baapa Neevu Vaasiga Janminchinaavu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీచులను బ్రేమించి నీ కరుణఁ జూపినావు"
+      ],
+      "english": [
+        "Neechulanu Braeminchi Nee Karuna Joopinaavu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీతిలేని వారి కెల్ల నిత్యజీవ మిచ్చినావు"
+      ],
+      "english": [
+        "Neethilaeni Vaari Kella Nithyajeeva Michchinaavu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పొందరాని కష్టములను బొంది యుంటివి తండ్రి"
+      ],
+      "english": [
+        "Pondharaani Kashtamulanu Bondhi Yuntivi Thandri"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "లోకపాపమును జయించి లోకుల రక్షించితివి"
+      ],
+      "english": [
+        "Loakapaapamunu Jayinchi Loakula Rakshinchithivi"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "వేడుకతోడ మేము వేఁడుకొందుమో తండ్రి"
+      ],
+      "english": [
+        "Vaedukathoada Maemu Vaedukondhumoa Thandri"
+      ]
+    }
+  ]
+}

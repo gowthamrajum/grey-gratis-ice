@@ -1,0 +1,38 @@
+{
+  "song_name": "Vendi Bangaaru Kante",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "వెండి బంగారుకంటే శ్రేష్టమైనది",
+      "మన బైబిలు దివ్యమైన మాట",
+      "జుంటి తేనేల కన్న మధురమైనది",
+      "మన యేసయ్య ప్రేమగల మాట"
+    ],
+    "english": [
+      "Vendi bangaarukantey sreshtamainadhi",
+      "mana bible divyamaina maata",
+      "junti thenela kanna madhuramainadhi",
+      "mana yesayya premagala maata"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసయ్య మాట జీవపు ఊట",
+        "యేసయ్య మాట సత్యాల మూట",
+        "చదివి చదివి చదివి చదివి",
+        "ఆనందించుడి బహు సంతోషించండి"
+      ],
+      "english": [
+        "yesayya maata jeevapu oota",
+        "yesayya maata satyaala moota",
+        "chadivi chadivi chadivi chadivi",
+        "aanandinchudi bahu santhoshinchandi"
+      ]
+    }
+  ]
+}

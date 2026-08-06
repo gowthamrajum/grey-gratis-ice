@@ -1,0 +1,34 @@
+{
+  "song_name": "Enni Kastalaina",
+  "author": {
+    "Authored by": "Ebenezer Paul",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవా ఈ జీవితం నీకంకితం",
+      "ఎన్ని కష్టాలైనా ఎన్ని నష్టాలైనా నీతోనే నా జీవితం",
+      "వ్యాధి బాధలైనా శోక సంద్రమైన నీతోనే నా జీవితం"
+    ],
+    "english": [
+      "Deva ee jeevitham neekankitham",
+      "Enni kashtalaina enni nashtalaina neethone naa jeevitham",
+      "Vyadhi badhalaina shoka sandhramaina neethone naa jeevitham"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేవా ఈ జీవితం నీకంకితం",
+        "ఎన్ని కష్టాలైనా ఎన్ని నష్టాలైనా నీతోనే నా జీవితం",
+        "వ్యాధి బాధలైనా శోక సంద్రమైన నీతోనే నా జీవితం"
+      ],
+      "english": [
+        "Deva ee jeevitham neekankitham",
+        "Enni kashtalaina enni nashtalaina neethone naa jeevitham",
+        "Vyadhi badhalaina shoka sandhramaina neethone naa jeevitham"
+      ]
+    }
+  ]
+}

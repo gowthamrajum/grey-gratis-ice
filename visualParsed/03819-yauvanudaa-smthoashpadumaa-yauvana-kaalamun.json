@@ -1,0 +1,72 @@
+{
+  "song_name": "Yauvanudaa santhoshapadumaa yauvana kaalamuna",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యౌవనుడా సంతోషపడుమా - యౌవన కాలమున",
+      "అయితే వీటిని బట్టి దేవుడు తీర్పులోనికి తెచ్చును నిన్ను - జ్ఞప్తినుంచుకో"
+    ],
+    "english": [
+      "Yauvanudaa santhoshapadumaa - Yauvana kaalamuna",
+      "Ayithe veetini batti Devudu theerpuloniki thechchunu ninnu - Gnapthinunchuko"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లేత వయస్సు నడి ప్రాయమును - గతించిపోవునవి",
+        "గనుక నీదు హృదయములో - వ్యాకులమును",
+        "తొలగించుకొనుము - యువకుడా వినుము"
+      ],
+      "english": [
+        "Letha vayassu nadi praayamunu - Gathinchipovunavi",
+        "Ganuka needu hrudayamulo - Vyaakulamunu",
+        "Tholaginchukonumu - Yuvakudaa vinumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దుర్దినములు రాబోకముందే - వీటి యందిపుడు",
+        "సంతోషము లేదనియెడు సంవత్సరములు",
+        "రాబోకముందే - చెడుగును విడుమా"
+      ],
+      "english": [
+        "Durdinamulu raabokamundhe - Veeti yandhipudu",
+        "Santhoshamu ledhaniyedu samvathsaramulu",
+        "Raabokamundhe - Chedhugunu vidumaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పశ్చాత్తాపమున పాపములను - ఒప్పుకొనుచు నేడే",
+        "రక్షణార్థము - రక్షకుడేసును",
+        "రయమున క్షమాపణ వేడిన - రక్షణ నీదే"
+      ],
+      "english": [
+        "Paschaaththaapamuna paapamulanu - Oppukonuchu nede",
+        "Rakshanaarthamu - Rakshakudesunu",
+        "Rayamuna kshamaapana vedina - Rakshana neede"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మన్నయినది వెనుకటివలెనే - మంటిలో కలియున్",
+        "ఆత్మ దాని దయ చేసిన",
+        "దేవుని సన్నిధికి మరల - వెళ్ళును యౌవనుడా"
+      ],
+      "english": [
+        "Mannayinadhi venukativalene - Mantilo kaliyun",
+        "Aathma daani daya chesina",
+        "Devuni sannidhiki marala - Vellunu yauvanudaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "song_name": "Nee krupaye chaalunayyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ కృపయే చాలునయ్యా",
+      "నీ ప్రేమే చాలునయ్యా ॥2॥",
+      "నీ ప్రేమే నన్ను ఎంతో ఆదరించినది ॥2॥",
+      "యేసయ్యా యేసయ్యా యేసయ్యా॥4॥"
+    ],
+    "english": [
+      "Nee krupaye chaalunayyaa",
+      "Nee preme chaalunayyaa ||2||",
+      "Nee preme nannu entho aadharinchinadhi ||2||",
+      "Yesayyaa Yesayyaa Yesayyaa||4||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రతి ఉదయమునా లేచి",
+        "మిమ్మారాధింతుము ॥2॥",
+        "నివు లేక పోతేనే నేనే లేనయ్యా ॥2॥",
+        "॥నీ ప్రేమే నన్ను॥ ॥యేసయ్యా॥"
+      ],
+      "english": [
+        "Prathi udhayamunaa lechi",
+        "Mimmaaraadhinthumu ||2||",
+        "Neevu leka pothene nene lenayyaa ||2||",
+        "||Nee preme nannu|| ||Yesayyaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా కొరకే మరణించి తిరిగి లేచినావు ॥2॥"
+      ],
+      "english": [
+        "Naa korake maraninchi thirigi lechinaavu ||2||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీలా ప్రేమించే వారు",
+        "నాకెవరున్నారయ్యా ॥2॥",
+        "॥నీ ప్రేమే నన్ను॥ ॥యేసయ్యా॥"
+      ],
+      "english": [
+        "Neelaa preminche vaaru",
+        "Naakevarunnaarayyaa ||2||",
+        "||Nee preme nannu|| ||Yesayyaa||"
+      ]
+    }
+  ]
+}

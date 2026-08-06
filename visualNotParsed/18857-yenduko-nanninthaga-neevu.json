@@ -1,0 +1,61 @@
+{
+  "song_name": "Enduko nanninthaga neevu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎందుకో నన్నింతగా నీవు",
+      "ఎందికో నన్నింతగా నీవు ప్రేమించితివో దేవా",
+      "అందుకో నా దీన స్తుతిపాత్ర హల్లెలూయ యేసయ్యా"
+    ],
+    "english": [
+      "Enduko nanninthaga neevu",
+      "Enduko nanninthaga neevu preminchithivo Deva",
+      "Anduko naa deena sthuthipaathra hallelooya Yesayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా పాపము బాప నరరూపి వైనావు",
+        "నా శాపము మాప నలిగి వ్రేలాడితివి",
+        "నాకు చాలిన దేవుడవు నీవే నా స్థానములో నీవే"
+      ],
+      "english": [
+        "Naa paapamu baapa nararoopi vainaavu",
+        "Naa shaapamu maapa naligi vrelaadithivi",
+        "Naaku chaalina devudavu neeve naa sthaanamulo neeve"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ రూపము నాలో నిర్మించియున్నావు",
+        "నీ పోలికలోనే నివశించమన్నావు",
+        "నీవు నన్ను ఎన్నుకొంటివి నీకొరకై నీ కృపలో"
+      ],
+      "english": [
+        "Nee roopamu naalo nirminchiyunnaavu",
+        "Nee polikalone nivashinchamannaavu",
+        "Neevu nannu ennukontivi neekorakai nee krupalo"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా మనవులు ముందే నీ మనసులో నెరవేరే",
+        "నా మనుగడ ముందే నీ గ్రంధములో నుండే",
+        "ఏమి అద్భుత ప్రేమ సంకల్పం నేనేమి చెల్లింతున్"
+      ],
+      "english": [
+        "Naa manavulu munde nee manasulo nerevere",
+        "Naa manugada munde nee granthamulo nunde",
+        "Emi adbhutha prema sankalpam nenemi chellinthun"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "song_name": "Naa Geetharadhanalo",
+  "author": {
+    "Authored by": "Bro. Yesanna",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా గీతారాధనలో యేసయ్యా నీ కృప ఆధారమే",
+      "నా ఆవేదనలలో జనించెనే నీ కృపాధరణ"
+    ],
+    "english": [
+      "Naa Geethaaraadhanalo Yesayyaa Nee Krupa Aadhaarame",
+      "Naa Aavedanalalo Janinchene Nee Krupaadarana"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ కృప నాలో వ్యర్ధము కాలేదు – నీ కృపా వాక్యమే",
+        "చేదైన వేరు ఏదైన నాలో – మొలవనివ్వలేదులే",
+        "నీ కృప నాలో అత్యున్నతమై",
+        "నీతో నన్ను అంటు కట్టెనే",
+        "చేనిలోని పైరు చేతికి రాకున్నా – ఫలములన్ని రాలిపోయినా",
+        "సిరి సంపదలన్ని దూరమై పోయినా – నేను చలించనులే",
+        "నిశ్చలమైన రాజ్యము కొరకే",
+        "ఎల్లవేళలా నిన్నే ఆరాధింతునే",
+        "ఆత్మాభిషేకం నీ ప్రేమ నాలో – నిండుగా కుమ్మరించెనే",
+        "ఆత్మ ఫలములెన్నో మెండుగ నాలో – ఫలింపజేసెనే",
+        "ఆత్మతో సత్యముతో ఆరాధించుచు",
+        "నే వేచియుందునే నీ రాకడకై"
+      ],
+      "english": [
+        "Nee Krupa Naalo Vyardhamu Kaaledu – Nee Krupaa Vaakyame",
+        "Chedaina Veru Edaina Naalo – Molavanivvaledule",
+        "Nee Krupa Naalo Athyunnathamai",
+        "Neetho Nannu Antu Kattene",
+        "Cheniloni Pairu Chethiki Raakunnaa – Phalamulanni Raalipoyinaa",
+        "Siri Sampadalanni Dooramai Poyinaa – Nenu Chalinchanule",
+        "Nischalamaina Raajyamu Korake",
+        "Ellavelalaa Ninne Aaraadhinthune",
+        "Aathmaabhishekam Nee Prema Naalo – Nindugaa Kummarinchene",
+        "Aathma Phlamulenno Menduga Naalo – Phalimpajesene",
+        "Aathmatho Sathyamutho Aaraadhinchuchu",
+        "Ne Vechiyundune Nee Raakadakai"
+      ]
+    }
+  ]
+}

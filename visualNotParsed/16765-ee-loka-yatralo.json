@@ -1,0 +1,69 @@
+{
+  "song_name": "Ee loka yaathralo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఈ లోక యాత్రలో",
+      "ఈ లోక యాత్రలో నే సాగుచుండ",
+      "ఒకసారి నవ్వు ఒకసారి యేడ్పు",
+      "అయినను క్రీస్తేసు నాతోడ నుండు"
+    ],
+    "english": [
+      "Ee loka yaathralo",
+      "Ee loka yaathralo ne saaguchunda",
+      "Okasaari navvu okasaari edpu",
+      "Ayinanu Kreesthesu naathoda nundu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జీవిత యాత్ర ఎంతో కఠినము",
+        "ఘోరాంధకార తుఫానులున్నవి",
+        "అభ్యంతరములు యెన్నెన్నో ఉండు",
+        "కాయువారెవరు రక్షించేదెవరు"
+      ],
+      "english": [
+        "Jeevitha yaathra entho kathinamu",
+        "Ghoraandhakaara thuphaanulunnavi",
+        "Abhyantharamulu ennenno undu",
+        "Kaayuvaarevaru rakshinchedevaru"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీవే ఆశ్రయం క్రీస్తేసు ప్రభువా",
+        "అనుదినము నన్ను ఆధరించెదవు",
+        "నీతో ఉన్నాను విడువలేదనెడు",
+        "నీ ప్రేమ మధుర స్వరము విన్నాను"
+      ],
+      "english": [
+        "Neeve aashrayam Kreesthesu prabhuvaa",
+        "Anudinamu nannu aadharinchedavu",
+        "Neetho unnaanu viduvaledanedu",
+        "Nee prema madhura swaramu vinnaanu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తోడైయుండెదవు అంతము వరకు",
+        "నీవు విడువవు అందరు విడచినను",
+        "నూతన బలమును నా కొసగెదవు",
+        "నే స్థిరముగ నుండ నీ కోరిక యిదియే"
+      ],
+      "english": [
+        "Thodaiyundedavu anthamu varaku",
+        "Neevu viduvavu andaru vidachinanu",
+        "Noothana balamunu naa kosagedavu",
+        "Ne sthiramuga nunda nee korika idiye"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "song_name": "Yehovaa parama puravaasi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవా పరమ పురవాసి – మహాత్ముడయ్యె పరదేశి",
+      "మహాత్మ స్థానమున్ బాసి – మహిన్ తానయ్యె పరదేశి"
+    ],
+    "english": [
+      "Yehovaa parama puravaasi - Mahaathmudayye paradeshi",
+      "Mahaathma sthaanamun baasi - Mahin thaanayye paradeshi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆకాశమందలి జ్యోతి – ప్రకాశమానమౌ రీతి",
+        "వెలింగె నేకముగ రాత్రి – ప్రపంచ శ్రీకరపు రీతి  ||యెహోవా||"
+      ],
+      "english": [
+        "Aakaashamandali jyothi - Prakaashamaanamau reethi",
+        "Velinge nekamuga raathri - Prapancha shreekarapu reethi  ||Yehovaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యెరుషలేమునందుండు – భూరాజుల్ పిరికిపడిరందు",
+        "పౌరుష పుర జనులయందు – సువార్త యెరుకపడె ముందు  ||యెహోవా||"
+      ],
+      "english": [
+        "Yerushalemunandundu - Bhooraajul pirikipadirandu",
+        "Paurusha pura janulayandu - Suvaartha erukapade mundu  ||Yehovaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరంపు భాగ్యమున్ వీడి – మరింత భోగ్యమున్ వీడి",
+        "ధరన్ శ్రీ మరియ గర్భమున – నరుడుగా దాల్చె రూపమును  ||యెహోవా||"
+      ],
+      "english": [
+        "Parampu bhaagyamun veedi - Marintha bhogyamun veedi",
+        "Dharan shree Mariya garbhamuna - Narudugaa daalche roopamunu  ||Yehovaa||"
+      ]
+    }
+  ]
+}

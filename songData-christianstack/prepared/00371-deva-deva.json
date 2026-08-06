@@ -1,0 +1,78 @@
+{
+  "song_name": "Deva Deva",
+  "author": {
+    "Authored by": "Devadas Mungamuri",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవ దేవ దేవ-దివినున్న దేవా",
+      "దేవ దేవ దేవ-దివినున్న దేవా",
+      "పావన స్తోత్రముల్ పరలోక దేవా దేవ"
+    ],
+    "english": [
+      "Dheva dheva dheva – dhivinunna dhevaa",
+      "dheva dheva dheva – dhivinunna dhevaa",
+      "paavana stothramul paraloka dhevaa dheva"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అన్ని లోకములకు – అవతలనున్న",
+        "అన్ని లోకములకు – అవతలనున్న",
+        "ఉన్నత లోకాన – సన్నుతులుగొన్న దేవ"
+      ],
+      "english": [
+        "Anni lokamulaku – avathalanunna",
+        "anni lokamulaku – avathalanunna",
+        "unnatha lokaana – sannuthulugonna dheva"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మహిమ లోకంబున – మహిమ పూర్ణముగ",
+        "మహనీయముగ నుండు – మానకుండగను దేవ"
+      ],
+      "english": [
+        "Mahima lokambuna – mahima poornamuga",
+        "mahaneeyamuga nundu – manakundaganu dhevaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ కిష్టులైనట్టి – లోకవాసులకు",
+        "రాక మానదు శాంతి – రంజిల్లు వరకు దేవ"
+      ],
+      "english": [
+        "Neekishtulainatti – lokavaasulaku",
+        "raaka maanadhu saanthi – ranjillu varaku dheva"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ధరణి మీదను – సమాధానంబు కలుగు",
+        "నరులకు నీ దర్శనం – బిచట కలుగు"
+      ],
+      "english": [
+        "Dharanni meedhanu – samaadhaanambu kalugu",
+        "narulaku nee dharsanam – bichatakalugu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "వధువు సంఘముకు – బాలుండు",
+        "పృథ్విని సువార్తకు – పెరుగుట పట్టు"
+      ],
+      "english": [
+        "Vadhuvu sanghamuku – baalundu",
+        "prudhvini suvaarthaku – perugut pattu"
+      ]
+    }
+  ]
+}

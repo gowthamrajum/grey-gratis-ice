@@ -1,0 +1,57 @@
+{
+  "song_name": "Neevu leni brathukunu oohinchalenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Fr Dr C Babu Raj"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవు లేని బ్రతుకును ఊహించలేను",
+      "నిను వీడి క్షణమైన జీవించలేను",
+      "నా ఊపిరి నీవే నా కాపరి నీవే",
+      "నా మార్గము నీవే నా గమ్యము నీవే"
+    ],
+    "english": [
+      "Neevu leni brathukunu oohinchalenu",
+      "Ninu veedi kshanamaina jeevinchalenu",
+      "Naa oopiri neeve naa kaapari neeve",
+      "Naa maargamu neeve naa gamyamu neeve"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఈ జగమంతా వ్యామోహము",
+        "నా బ్రతుకంతా దాసోహము",
+        "అనుదినము నే రోదిస్తున్నా",
+        "ప్రతిక్షణము నే చింతిస్తున్నా",
+        "నిరతము నా అండే నీవై",
+        "సతతము తోడుండవయ్య",
+        "ఈ లోకమే ఓ ఆకర్షణ",
+        "నాతోనే నాకు ఓ ఘర్షణ",
+        "నేను కోల్పోయాను విచెక్షణ",
+        "కావలి నాకు నీ రక్షణ",
+        "నీ దరికి నన్ను చేర్చుమయ్య",
+        "నా బ్రతుకును నీవు మార్చుమయ్య"
+      ],
+      "english": [
+        "Ee jagamanthaa vyaamohamu",
+        "Naa brathukanthaa dhaasohamu",
+        "Anudinamu ne rodhisthunnaa",
+        "Prathikshanamu ne chinthisthunnaa",
+        "Nirathamu naa ande neevai",
+        "Sathathamu thodundavayya",
+        "Ee lokame o aakarshana",
+        "Naathone naaku o gharshana",
+        "Nenu kolpoyaanu vichakshana",
+        "Kaavali naaku nee rakshana",
+        "Nee dariki nannu cherchumayya",
+        "Naa brathukunu neevu maarchumayya"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+ "conflicts": [],
+ "dups": [
+  {
+   "app_index": 243,
+   "song_name": "Krupa Kaligina Vaada",
+   "matched": "Krupa kaligina vaadaa neelo nilichedanu"
+  },
+  {
+   "app_index": 244,
+   "song_name": "Memu Paadedham",
+   "matched": "Prathi udayam nee krupanu"
+  },
+  {
+   "app_index": 399,
+   "song_name": "Aasirvadham",
+   "matched": "Ninu aasheervadhinthunu"
+  },
+  {
+   "app_index": 509,
+   "song_name": "Adviteeyuda",
+   "matched": "Advitheeyudaa nannelu daivamaa"
+  },
+  {
+   "app_index": 550,
+   "song_name": "Bhuvilo Velisina Dhaivama",
+   "matched": "Maa thoduga neevundutaku"
+  },
+  {
+   "app_index": 628,
+   "song_name": "Srushtikarthavu",
+   "matched": "Srushtikarthavu Rakshanakarthavu"
+  },
+  {
+   "app_index": 749,
+   "song_name": "Dheenudaa Ajeyudaa",
+   "matched": "Dheenudaa ajeyudaa aadarana kiranamaa"
+  },
+  {
+   "app_index": 887,
+   "song_name": "Shalemu Raja",
+   "matched": "Shaalemu Raajaa Shaanthiki Raajaa"
+  }
+ ]
+}

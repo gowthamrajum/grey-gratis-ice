@@ -1,0 +1,69 @@
+{
+  "song_name": "Sidhdhapadudhaam sidhdhapadudhaam mana Devuni",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సిద్దపడుదాం సిద్దపడుదాం మన దేవుని",
+      "సన్నిధికై సిద్దపరచుదాం సిద్ధపరచుదాం",
+      "మన హృదయము ప్రభుకొరకై||2||",
+      "సిద్ధమనసను జోళ్ళు తొడిగి సమాధాన",
+      "సువార్త చాటేదం||2||",
+      "సమాధాన సువార్త చాటిదం"
+    ],
+    "english": [
+      "Sidhdhapadudhaam sidhdhapadudhaam mana Devuni",
+      "Sannidhikai sidhdhaparachudhaam sidhdhaparachudhaam",
+      "Mana hrudayamu Prabhu korakai||2||",
+      "Siddha manasanu jollu thodigi samaadhaana",
+      "Suvaartha chaatedham||2||",
+      "Samaadhaana suvaartha chaatidham"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రతి ఉదయమున ప్రార్ధనతో నీ సన్నిధికి",
+        "సిద్ధమౌదును జీవముకలిగిన వాక్కులకై",
+        "నీ సన్నిధిలో వేచియుందుము||2||  ||సిద్దపడుదాం||"
+      ],
+      "english": [
+        "Prathi udayamuna praardhanatho nee sannidhiki",
+        "Sidhdhamaudhunu jeevamu kaligina vaakkulakai",
+        "Nee sannidhilo vechiyundhumu||2||  ||Sidhdhapadudhaam||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సత్‌కార్యముకై సిద్ధపడి పరిశుద్ధతతొ ఉందుము.",
+        "అన్నివేళలయందు ప్రభుయేసుని ఘనపరచు కీర్తింతుము",
+        "||సిద్ధ మనసను||"
+      ],
+      "english": [
+        "Sathkaaryamukai sidhdhapadi parishudhdhathatho undhumu.",
+        "Annivelalayandhu Prabhu Yesuni ghanaparachu keerthinthumu",
+        "||Siddha manasanu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బుధ్ధిని కలిగి నీ రాకడకై మెలకువతో",
+        "నేనుందుము నీ రాజ్య సువార్తను",
+        "ప్రకటించి ప్రతివారిని సిద్ధపరచును",
+        "|| సిద్ధమనసను||"
+      ],
+      "english": [
+        "Budhdhini kaligi nee raakadakai melakuvatho",
+        "Nenundhumu nee raajya suvaarthanu",
+        "Prakatinchi prathivaarini sidhdhaparachunu",
+        "|| Sidhdhamanasanu||"
+      ]
+    }
+  ]
+}

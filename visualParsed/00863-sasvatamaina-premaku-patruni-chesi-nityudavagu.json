@@ -1,0 +1,54 @@
+{
+  "song_name": "Shaashwathamaina premaku paathruni chesi nithyudavagu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "శాశ్వతమైన ప్రేమకు పాత్రుని చేసి",
+      "నిత్యుడవగు తండ్రి నీవైనావే",
+      "రక్షణ ఆనందాన్ని నా కందించి",
+      "పరలోకపు వారసుడ్ని చేసావే"
+    ],
+    "english": [
+      "Shaashwathamaina premaku paathruni chesi",
+      "Nithyudavagu thandri neevainaave",
+      "Rakshana aanandhaanni naaku andinchi",
+      "Paralokapu vaarasudni chesaave"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా అడుగులను క్రమపరచి నా హృదయమును స్ధిరపరచి",
+        "నీదు రక్తములో నను శుద్ధుని చేసితివే",
+        "నను నూతన సృష్టిగా చేసి నీ పాత్రగా నను మలచి",
+        "నీ దీవెన కర్హుడుగా చేసిన దేవా నీకే స్తోత్రము"
+      ],
+      "english": [
+        "Naa adugulanu kramaparachi naa hrudayamunu sthiraparachi",
+        "Needu rakthamulo nanu shuddhuni chesithive",
+        "Nanu noothana srushtigaa chesi nee paathragaa nanu malachi",
+        "Nee dheevenaku arhudugaa chesina Devaa neeke sthothramu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ వాక్యం నా యందుంచి దుష్టుడిని జయింపచేసి",
+        "సత్యమైన వెలుగులోనికి నడిపించితివే",
+        "నా మట్టుకైతే బ్రతుకుట క్రీస్తే చావైతే లాభమని",
+        "నీ సాక్షిగా సంపూర్ణ శక్తితో దేవా నన్ను నిలుపు"
+      ],
+      "english": [
+        "Nee vaakyam naa yandhunchi dhushtudini jayimpachesi",
+        "Sathyamaina veluguloniki nadipinchithive",
+        "Naa mattukaithe brathukuta Kreesthe chaavaithe laabhamani",
+        "Nee saakshigaa sampoorna shakthitho Devaa nannu nilupu"
+      ]
+    }
+  ]
+}

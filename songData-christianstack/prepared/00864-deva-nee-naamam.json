@@ -1,0 +1,46 @@
+{
+  "song_name": "Deva Nee Naamam",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవా నీ నామం",
+      "బలమైనది నీ నామం",
+      "స్తుతియింతును నీ నామం",
+      "ఘనపరతును నీ నామం",
+      "అన్నిటి కన్న పై నామం",
+      "యేసయ్యా నీ నామం"
+    ],
+    "english": [
+      "Devaa Nee Naamam",
+      "Balamainadi Nee Naamam",
+      "Sthuthiyinthunu Nee Naamam",
+      "Ghanaparathunu Nee Naamam",
+      "Anniti Kanna Pai Naamam",
+      "Yesayyaa Nee Naamam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆశ్రయ దుర్గము నీ నామం",
+        "నా కొండా నా కోట",
+        "స్తుతియింతును నీ నామం",
+        "ఘనపరతును నీ నామం",
+        "అన్నిటి కన్న పై నామం",
+        "యేసయ్యా నీ నామం"
+      ],
+      "english": [
+        "Aashraya Durgamu Nee Naamam",
+        "Naa Kondaa Naa Kota",
+        "Sthuthiyinthunu Nee Naamam",
+        "Ghanaparathunu Nee Naamam",
+        "Anniti Kanna Pai Naamam",
+        "Yesayyaa Nee Naamam"
+      ]
+    }
+  ]
+}

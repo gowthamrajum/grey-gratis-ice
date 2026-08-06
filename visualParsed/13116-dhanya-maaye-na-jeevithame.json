@@ -1,0 +1,81 @@
+{
+  "song_name": "Dhanya maaye naa jeevithame",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Jonah Samuel",
+      "Harini"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ధన్య మాయె న జీవితమె...",
+      "నీ ప్రెమ రుచిమ్పగనె.....",
+      "ఇక శ్రమ అయిన స్వాగతమె",
+      "యెసు నీలొ మహానందమె",
+      "ఇక శ్రమ అయిన స్వాగతమె",
+      "యెసు నీలొ మహానందమె",
+      "ధన్య మాయె న జీవితమె...",
+      "నీ ప్రెమ రుచిమ్పగనె..... (2)"
+    ],
+    "english": [
+      "Dhanya maaye naa jeevithame...",
+      "Nee prema ruchimpagane.....",
+      "Ika shrama ayina svaagathame",
+      "Yesu neelo mahaanandhame",
+      "Ika shrama ayina svaagathame",
+      "Yesu neelo mahaanandhame",
+      "Dhanya maaye naa jeevithame...",
+      "Nee prema ruchimpagane..... (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీకై నిలచి నీ నామమ్ పాడగ",
+        "స్వరమె పరమానందమె..",
+        "నీలొ నిలచి నీ ప్రెమె చాటగ",
+        "ప్రియమె ఘాన మాదుర్యమె",
+        "స్తుతి భావాల-గానాలలొ ఇల",
+        "నిత్య స్తొత్రాల గాత్రాలతొ",
+        "యెదగింపైన నీ నామ సంకీర్తన",
+        "నా నొట నీవున్చగ....  ||ధన్య||  ||ధన్య||"
+      ],
+      "english": [
+        "Neekai nilachi nee naamam paadaga",
+        "Swarame paramaanandame..",
+        "Neelo nilachi nee preme chaataga",
+        "Priyame gaana maadhuryame",
+        "Sthuthi bhaavaala-gaanaalalo ila",
+        "Nithya sthothraala gaathraalatho",
+        "Edagimpaina nee naama sankeerthana",
+        "Naa nota neevunchaga....  ||Dhanya||  ||Dhanya||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీతొ స్నెహమె మహ భాగ్యమె",
+        "ధన్యమె రమ్యమౌ కావ్యమె",
+        "నీకై వెచి నె నిన్నె చెరగ",
+        "వర్నన కన్దని భావమె",
+        "ఇహ లొకాన నెనెమి ఆసిన్తును",
+        "ప్రియ ప్రభువ నీవె ఆశ్రయమ్",
+        "యెదగింపైన నీ నామమె ద్యానము",
+        "నా జీవనాదారము  ||ధన్య||  ||ధన్య||"
+      ],
+      "english": [
+        "Neetho snehame maha bhaagyame",
+        "Dhanyame ramyamau kaavyame",
+        "Neekai vechi ne ninne cheraga",
+        "Varnana kandani bhaavame",
+        "Iha lokaana nenemi aashinthunu",
+        "Priya Prabhuva neeve aashrayam",
+        "Edagimpaina nee naamame dhyaanamu",
+        "Naa jeevanaadhaaramu  ||Dhanya||  ||Dhanya||"
+      ]
+    }
+  ]
+}

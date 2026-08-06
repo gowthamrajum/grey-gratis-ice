@@ -1,0 +1,63 @@
+{
+  "song_name": "Prabhu Yesuni vadhanamulo naa Devuni raajyamulo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభు యేసుని వదనములో నా దేవుని రాజ్యములో",
+      "పరికించిన శుభదినము గమనించిన యాక్షణము",
+      "పరలోకముకై చిరజీవముకై ప్రార్థించెను నా హృదయం"
+    ],
+    "english": [
+      "Prabhu Yesuni vadhanamulo naa Devuni raajyamulo",
+      "Parikinchina shubhadhinamu gamaninchina yaakshanamu",
+      "Paralokamukai chirajeevamukai praarthinchenu naa hrudayam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దిశలన్నియు తిరిగితిని నాపాపపు దాహముతో",
+        "దౌష్ట్యములో మసలుచును దౌర్జన్యము చేయుచును",
+        "ధన పీడనతో మృగ వాంఛలతో దిగజారితి చావునకు"
+      ],
+      "english": [
+        "Dhishalanniyu thirigithini naapaapapu daahamutho",
+        "Daushtyamulo masaluchunu daurjanyamu cheyuchunu",
+        "Dhana peedanatho mruga vaanchalatho dhigajaarithi chaavunaku"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసు నీరాజ్యములో భువి కేతెంచెడి రోజు",
+        "ఈ పాపిని క్షమియించి జ్ఞాపకముతో బ్రోవుమని",
+        "ఇల వేడితిని విలపించుచును ఈడేరును నా వినతి  ||ప్రభు||"
+      ],
+      "english": [
+        "Yesu neeraajyamulo bhuvi kethenchedi roju",
+        "Ee paapini kshamiyinchi gnaapakamutho brovumani",
+        "Ila vedithini vilapinchuchunu eederunu naa vinathi  ||Prabhu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరదైనున ఈ దినమే నా ఆనందముతోను",
+        "పాల్గొందువు నీవనుచు వాగ్ధానము చేయగానే(2)",
+        "పరలోకమె నా తుది వూపిరిగా పయనించితి ప్రభుకడకు",
+        "ప్రభు యేసుని వదనములో నా దేవుడు కనిపించె  ||ప్రభు||"
+      ],
+      "english": [
+        "Paradhaisuna ee diname naa aanandhamuthonu",
+        "Paalgondhuvu neevanuchu vaagdhaanamu cheyagaane(2)",
+        "Paralokame naa thudi voopirigaa payaninchithi prabhukadaku",
+        "Prabhu Yesuni vadhanamulo naa Devudu kanipinche  ||Prabhu||"
+      ]
+    }
+  ]
+}

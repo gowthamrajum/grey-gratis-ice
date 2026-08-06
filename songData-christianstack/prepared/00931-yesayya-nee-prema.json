@@ -1,0 +1,99 @@
+{
+  "song_name": "Yesayya Nee Prema",
+  "author": {
+    "Authored by": "Rajesh Tatapudi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మనసును ముంచెత్తె ఈ సౌందర్యం",
+      "కనులను మురిపించే నీ కార్యం",
+      "నీ నోటితో మాటతోనే",
+      "చేసినావే అద్భుతం",
+      "ఇష్టమొంది సృష్టినంతా",
+      "సృష్టించావు నీవయా…"
+    ],
+    "english": [
+      "Manasunu munchetthe ee soundaryam",
+      "kanalanu muripinche nee kaaryam",
+      "nee notitho maatathone",
+      "chesinaave adbhutham",
+      "istamondhi srushtinanthaa",
+      "srushtinchaavu neevayaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసయ్యా నీ ప్రేమే అమరం",
+        "యేసయ్యా నీ ప్రేమే మధురం",
+        "యేసయ్యా నీ ప్రేమే పదిలం",
+        "చాలిలలో నాకు…!!"
+      ],
+      "english": [
+        "Yesayya nee preme amaram",
+        "Yesayya nee preme madhuram",
+        "Yesayya nee preme padhilam",
+        "chaalilalo naaku"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నువ్వే రాకుంటే నా కోసం",
+        "వేరేలా ఉండే నాలోకం",
+        "నా జీవితం గతిలేక",
+        "పాపమందే దుర్భరం",
+        "నీకు నీవే సిల్వయాగం",
+        "చేసినవే నా ప్రభూ…"
+      ],
+      "english": [
+        "Nuvve raakunte naakosam",
+        "verela unde naa lokam",
+        "naa jeevitham gathileka",
+        "paapamande dhurbaram",
+        "neeku neeve silvayaagam",
+        "chesinaave naa prabhu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యేసయ్యా నీ ప్రేమే అమరం",
+        "యేసయ్యా నీ ప్రేమే మధురం",
+        "యేసయ్యా నీ ప్రేమే పదిలం",
+        "చాలిలలో నాకు…!!"
+      ],
+      "english": [
+        "Yesayya nee preme amaram",
+        "Yesayya nee preme madhuram",
+        "Yesayya nee preme padhilam",
+        "chaalilalo naaku"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీటిలో నీ కార్యము",
+        "ప్రతివాటిలో నీ కృత్యము",
+        "వెలుగులో నీ రూపము",
+        "ఈ గాలిలో నీ ప్రభావము",
+        "ప్రకృతే ప్రమోదము",
+        "ఈ సృష్టియే అమోఘము",
+        "వీటిలో నీ ప్రేమను",
+        "నే చూచినానాయా…"
+      ],
+      "english": [
+        "Neetilo nee kaaryamu",
+        "prathi vaatilo nee kruthyamu",
+        "velugulo nee roopamu",
+        "ee gaalilo nee prabhaavamu",
+        "prakruthe pramodhamu",
+        "ee srushtiye amoghamu",
+        "veetilo nee premanu",
+        "ne choochinaanaya"
+      ]
+    }
+  ]
+}

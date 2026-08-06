@@ -1,0 +1,89 @@
+{
+  "song_name": "Reference: Parvathamulu tholagipoyinanu mettalu thaththarillinanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "54:10",
+      "పర్వతములు తొలగిపోయినను తత్తరిల్లినను",
+      "మెట్టలు బహుగా సమాధానము విడిచిపోదు",
+      "నీ నిబంధన తొలగిపోదు"
+    ],
+    "english": [
+      "54:10",
+      "Parvathamulu tholagipoyinanu thaththarillinanu",
+      "Mettalu bahugaa samaadhaanamu vidichipodhu",
+      "Nee nibandhana tholagipodhu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సైన్యముల కధిపతి యెహోవా శేషించిన తన ప్రజలకు తానే - (2)",
+        "భూషణ కిరీటము సొగసైన మకుటము - (2)",
+        "చిగురు మహిమ శుభలక్షణమగును"
+      ],
+      "english": [
+        "Sainyamula kadhipathi Yehova sheshinchina thana prajalaku thaane - (2)",
+        "Bhooshana kireetamu sogasaina makutamu - (2)",
+        "Chiguru mahima shubhalakshanamagunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మంటి పురుగు వంటి యాకోబు స్వల్పజనమగు ఇశ్రాయేలు",
+        "విమోచకుడు పరిశుద్ధ దేవుడు",
+        "భయము వలదని సహాయము చేయును"
+      ],
+      "english": [
+        "Manti purugu vanti Yaakobu svalpajanamagu Ishraayelu",
+        "Vimochakudu parishuddha Devudu",
+        "Bhayamu valadani sahaayamu cheyunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మృతులైన వారు బ్రతుకుదురని వారి శవములు జీవములగునని",
+        "మంటిలో పడియున్న ప్రేతలైన వారు",
+        "మేల్కొని మహిమలో ఆనందింతురు"
+      ],
+      "english": [
+        "Mruthulaina vaaru brathukudhurani vaari shavamulu jeevamulagunani",
+        "Mantilo padiyunna prethalaina vaaru",
+        "Melkoni mahimalo aanandhinthuru"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యెరూషలేము నివాసులకు సంరక్షకుడు యెహోవా తానే",
+        "నా నిమిత్తము దావీదు నిమిత్తము",
+        "ఈ పట్టణమును కాపాడి రక్షింతు"
+      ],
+      "english": [
+        "Yerooshalemu nivaasulaku samrakshakudu Yehova thaane",
+        "Naa nimiththamu Daaveedu nimiththamu",
+        "Ee pattanamunu kaapaadi rakshinthu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నా పాదములను వలలో నుండి విడిపించి ప్రభూ నడిపించును",
+        "నా కను దృష్టి యెహోవావైపుకే",
+        "తిరిగి యున్నది హల్లెలూయా"
+      ],
+      "english": [
+        "Naa paadhamulanu valalo nundi vidipinchi Prabhoo nadipinchunu",
+        "Naa kanu drushti Yehovaavaipuke",
+        "Thirigi yunnadi hallelooyaa"
+      ]
+    }
+  ]
+}

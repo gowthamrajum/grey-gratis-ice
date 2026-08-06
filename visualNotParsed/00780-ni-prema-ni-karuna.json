@@ -1,0 +1,69 @@
+{
+  "song_name": "Nee prema nee karuna chaalunayaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ ప్రేమా. . నీ కరుణా. . చాలునయా నా జీవితానా",
+      "మరి దేనినీ ఆశించనూ నే కోరను ఈ జగానా",
+      "చాలయ్య చాలు దీవెనలు చాలు",
+      "మేలయ్య మేలు నీ సన్నిధి మేలు"
+    ],
+    "english": [
+      "Nee premaa. . nee karunaa. . chaalunayaa naa jeevithaanaa",
+      "Mari dheninee aashinchanoo ne koranu ee jagaanaa",
+      "Chaalayya chaalu deevenalu chaalu",
+      "Melayya melu nee sannidhi melu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గురిలేని నన్ను గుర్తించినావే",
+        "ఎనలేని ప్రేమను చూపించినావే",
+        "వెలలేని నాకు విలువిచ్చినావే",
+        "విలువైన పాత్రగా నను మార్చినావే"
+      ],
+      "english": [
+        "Gurileni nannu gurthinchinaave",
+        "Enaleni premanu choopinchinaave",
+        "Velaleni naaku viluvichchinaave",
+        "Viluvaina paathragaa nanu maarchinaave"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చేజారిన నాకై చేజాచినావే",
+        "చెదరిన నా బ్రతుకును చేరదీసినావే",
+        "చెరనుండి నన్ను విడిపించినావే",
+        "చెరగని నీ ప్రేమకు సాక్షిగా మార్చావే"
+      ],
+      "english": [
+        "Chejaarina naakai chejaachinaave",
+        "Chedarina naa brathukunu cheradheesinaave",
+        "Cheranundi nannu vidipinchinaave",
+        "Cheragani nee premaku saakshigaa maarchaave"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నరకపు పొలిమేరలో నను కనుగొన్నావే",
+        "కల్వరిలో ప్రాణమిచ్చి ననుకొన్నావే",
+        "నీ ప్రేమను ప్రకటింప నను ఎన్నుకొన్నావే",
+        "నీ కుమారునిగా నను మార్చినావే"
+      ],
+      "english": [
+        "Narakapu polimeralo nanu kanugonnaave",
+        "Kalvarilo praanamichchi nanu konnaave",
+        "Nee premanu prakatimpa nanu ennukonnaave",
+        "Nee kumaarunigaa nanu maarchinaave"
+      ]
+    }
+  ]
+}

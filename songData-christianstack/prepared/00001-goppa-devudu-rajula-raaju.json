@@ -1,0 +1,68 @@
+{
+  "song_name": "Goppa Devudu Rajula Raaju",
+  "author": {
+    "Authored by": "Ramesh Kumar Parichha",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "గొప్ప దేవుడు రాజుల రాజు ఏమని చెప్పను",
+      "గొప్ప దేవుడు రాజుల రాజు ఏమని చెప్పను",
+      "ఏ అద్భుతాలు ఏ చిత్రాలు ఆశ్చర్య కార్యాలు ఎన్నో చేసెనే",
+      "గొప్ప దేవుడు రాజుల రాజు ఏమని చెప్పను"
+    ],
+    "english": [
+      "Goppa devudu rajula raaju emani cheppanu",
+      "Goppa devudu rajula raaju emani cheppanu",
+      "Ee adbhutalu ee chitralu aascharya karyalu enno chesene",
+      "Goppa devudu rajula raaju emani cheppanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కుంటివారిని నడిపించాడు, గుడ్డివారికి చూపునిచ్చాడు",
+        "పక్షవాతము కుష్ఠురోగుల దీనములను గైకొన్నాడు",
+        "మాట మాత్రము పలికాడు, స్వస్థతనిచ్చాడు",
+        "గొప్ప దేవుడు రాజుల రాజు ఏమని చెప్పను"
+      ],
+      "english": [
+        "Kuntivarini nadipinchadu, guddivaariki choopunichchaadu",
+        "Pakshavaathamu kushthurogula deenamulanu gaikonnaadu",
+        "Maata maatramu palikaadu, swasthathanichchaadu",
+        "Goppa devudu rajula raaju emani cheppanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వచ్చెనే యేసు పాపుల కోసం, పాపములను క్షమియించాడు",
+        "నమ్మితే చాలు రక్షణ కలదని, నమ్మకుంటే శిక్షన్నాడు",
+        "ప్రాణమే నాకై పెట్టాడు, రక్షణనిచ్చాడు",
+        "గొప్ప దేవుడు రాజుల రాజు ఏమని చెప్పను"
+      ],
+      "english": [
+        "Vachchene Yesu paapula kosam, paapamulanu kshamiyinchaadu",
+        "Nammithe chaalu rakshana kaladani, nammakunte shikshannadu",
+        "Praname naakai pettaadu, rakshananichchaadu",
+        "Goppa devudu rajula raaju emani cheppanu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రెండు చేపలు ఐదు రొట్టెలు ఐదు వేలకు పంచినాడు",
+        "మరణమైన వారిని సైతం మాటతోనే లేపినాడు",
+        "నీటిపైన నడిచినాడు, అద్భుత దేవుడు",
+        "గొప్ప దేవుడు రాజుల రాజు ఏమని చెప్పను"
+      ],
+      "english": [
+        "Rendu chepalu aidu rottelu aidu velaku panchinaadu",
+        "Maranamaina vaarini setham maatathone lepanuadu",
+        "Neetipaina nadichinaadu, adbhuta devudu",
+        "Goppa devudu rajula raaju emani cheppanu"
+      ]
+    }
+  ]
+}

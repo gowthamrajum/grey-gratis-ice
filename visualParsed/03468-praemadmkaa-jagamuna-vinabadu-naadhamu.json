@@ -1,0 +1,95 @@
+{
+  "song_name": "Premadankaa jagamuna vinabadu naadhamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రేమడంకా జగమున - వినబడు నాదము",
+      "నీమముగా ప్రభు సిలువచే"
+    ],
+    "english": [
+      "Premadankaa jagamuna - Vinabadu naadhamu",
+      "Neemamugaa Prabhu siluvache"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మృత హృదయులకు జీవము నిడెను",
+        "ఆత్మల నమ్మికను రంజిల్ల జేసెను",
+        "జనుల యందు అద్భుతముల జేసెను",
+        "మన సిల్వ మిత్రుడు శ్రీయేసు"
+      ],
+      "english": [
+        "Mrutha hrudhayulaku jeevamu nidenu",
+        "Aathmala nammikanu ranjilla jesenu",
+        "Janula yandu adbhuthamula jesenu",
+        "Mana silva mithrudu Sreeyesu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సిలువ యందున శ్రీ యేసు ప్రాణమిడెన్",
+        "చెలువుగ మన శ్రమలను పార ద్రోలెన్",
+        "తన ప్రేమ పాత్రను మనకిచ్చెను",
+        "మన సిల్వ మిత్రుడు శ్రీయేసు"
+      ],
+      "english": [
+        "Siluva yanduna Sree Yesu praanamiden",
+        "Cheluvuga mana shramalanu paara dhrolen",
+        "Thana prema paathranu manakichchenu",
+        "Mana silva mithrudu Sreeyesu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కబోధులకు కన్నుల నిచ్చెను",
+        "కాళ్ళనిచ్చెను కుంటివారలకు",
+        "కొరతలేని దర్శనము మనకిచ్చెను",
+        "కొట్టబడిన మిత్రుడు శ్రీయేసు"
+      ],
+      "english": [
+        "Kabodhulaku kannula nichchenu",
+        "Kaallanichchenu kuntivaaralaku",
+        "Korathaleni darshanamu manakichchenu",
+        "Kottabadina mithrudu Sreeyesu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఇలను నిద్రమత్తున నుండి సోమరుని",
+        "కాలము వ్యర్థపరచెడు సుఖజీవిని",
+        "పుడమిలో యేసు క్రీస్తు గరుణించెను",
+        "దొడ్డ విలువ మిత్రుడు శ్రీయేసు"
+      ],
+      "english": [
+        "Ilanu nidhramatthuna nundi somaruni",
+        "Kaalamu vyarthaparachedu sukhajeevini",
+        "Pudamilo Yesu Kreesthu karuninchenu",
+        "Dodda viluva mithrudu Sreeyesu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ప్రేమతోడ నెల్లరను పిలుచునెపుడు",
+        "సోమరులను దేశదిమ్మరులను",
+        "ధరణి జనులను చూచి మరలుటకు",
+        "కరుణించెను మిత్రుడు శ్రీయేసు"
+      ],
+      "english": [
+        "Premathoda nellaranu piluchunepudu",
+        "Somarulanu dheshadhimmarulanu",
+        "Dharani janulanu choochi maralutaku",
+        "Karuninchenu mithrudu Sreeyesu"
+      ]
+    }
+  ]
+}

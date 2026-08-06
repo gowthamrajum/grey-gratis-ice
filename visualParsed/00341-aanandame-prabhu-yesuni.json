@@ -1,0 +1,63 @@
+{
+  "song_name": "Aanandame Prabhu Yesuni",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Yesanna"
+    ],
+    "రచన": [
+      "బ్రదర్ యేసన్న"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆనందమే.... ప్రభు యేసుని స్తుతించుట -ఆత్మానంద గీతమే పాడెదా (2)",
+      "ఆనందమే..."
+    ],
+    "english": [
+      "Aanandame.... Prabhu Yesuni sthuthinchuta -Aathmaanandha geethame paadedaa (2)",
+      "Aanandame..."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సిలువలో నాకై - రక్తము కార్చేను",
+        "సింహాసనమునకై - నన్నును పిలచెను (2)",
+        "సింహపు కోరల నుండి - నను విడిపించెను (2)  ||ఆనందమే||"
+      ],
+      "english": [
+        "Siluvalo naakai - Rakthamu kaarchenu",
+        "Simhaasanamunakai - Nannunu pilachenu (2)",
+        "Simhapu korala nundi - Nanu vidipinchenu (2)  ||Aanandame||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విశ్వాసమును - కాపాడుకొనుచు",
+        "విజయుడైన యేసుని - ముఖమును చూచుచు (2)",
+        "విలువైన కిరీటము - పొందెద నిశ్చయమే (2)  ||ఆనందమే||"
+      ],
+      "english": [
+        "Vishwaasamunu - Kaapaadukonuchu",
+        "Vijayudaina Yesuni - Mukhamunu choochuchu (2)",
+        "Viluvaina kireetamu - Pondeda nishchayame (2)  ||Aanandame||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా మానసవీణను - మ్రోగించగా",
+        "నా మనోనేత్రములందు - కనిపించె ప్రభురూపమే (2)",
+        "నా మదిలోన మెదిలేను - ప్రభు సప్తస్వరాలు (2)  ||ఆనందమే||"
+      ],
+      "english": [
+        "Naa maanasaveenanu - Mroginchagaa",
+        "Naa manonethramulandhu - Kanipinche prabhuroopame (2)",
+        "Naa madilona medhilenu - Prabhu sapthaswaraalu (2)  ||Aanandame||"
+      ]
+    }
+  ]
+}

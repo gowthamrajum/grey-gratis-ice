@@ -1,0 +1,62 @@
+{
+  "song_name": "Silvake silvake chellu naa vimukthi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సిల్వచెంత నేసువా - చేర్చి నన్ను నుంచు",
+        "కల్వరిన్ స్రవించెడు - కాల్వలో నన్ముంచు",
+        "సిల్వకే సిల్వకే - చెల్లు నా విముక్తి",
+        "చెల్వ మొప్ప నద్దరిన్ - జేర నాకు ముక్తి"
+      ],
+      "english": [
+        "Silvachentha Yesuvaa - Cherchi nannu nunchu",
+        "Kalvarin sravinchedu - Kaalvalo nanmunchu",
+        "Silvake silvake - Chellu naa vimukthi",
+        "Chelva moppa naddarin - Jera naaku mukthi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కంపితాత్ము నంధునై - కానలేక యుండ",
+        "సొంపుమీరఁ బ్రోచితి - సూర్య తేజస్కుండ"
+      ],
+      "english": [
+        "Kampithaathmu nandhunai - Kaanaleka yunda",
+        "Sompumeera brochithi - Soorya thejaskunda"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దేవ గొఱ్ఱెపిల్ల - నీ - దీప్తి నాకుఁ జూపు",
+        "నీ వధాప్రభావముల్ - పావనుండ నేర్పు"
+      ],
+      "english": [
+        "Deva gorrepilla - Nee - Dheepthi naaku joopu",
+        "Nee vadhaaprabhaavamul - Paavanunda nerpu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నే నిరీక్షణంబుతో - నెప్డు వేచి యుందున్",
+        "భూనితాంత వారథిన్ - బూని యీది మన్దున్"
+      ],
+      "english": [
+        "Ne nireekshanambutho - Nepdu vechi yundun",
+        "Bhoonithaantha vaarathin - Booni eedhi mandhun"
+      ]
+    }
+  ]
+}

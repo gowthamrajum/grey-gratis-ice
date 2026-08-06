@@ -1,0 +1,35 @@
+{
+  "song_name": "Naloni Asha Jyoti Nive Na",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నాలోని ఆశా జ్యోతి నీవే నా ప్రభువా నీధరికి నడిపించు నావా నాజీవ నావ"
+    ],
+    "english": [
+      "Naloni asha jyoti nive na prabuva nidhariki nadipimchu nava najiva nava"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిను నేను ఈ జగాన కొనియాడగా అనువైన పాటపాడి వినుతింపగ నీ పదసేవ చేయగ దేవా ఎనలేని జీవమును వనగూర్చుమయ్యా (2)"
+      ],
+      "english": [
+        "Ninu nenu e jagana koniyadaga anuvaina patapadi vinutimpaga Ni padaseva cheyaga deva enaleni jivamunu vanagurchumayya (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా హృదయ ఆలయాన నివశింపుమా నీ మహిమ మందిరాన నను నిల్పుమా (2) పావన నామ జీవనధామ నాత్మ దీపమును వెలిగించుమయ్యా (2)"
+      ],
+      "english": [
+        "Na hrudaya alayana nivasimpuma ni mahima mamdirana nanu nilpuma (2) Pavana nama jivanadhama natma dipamunu veligimchumayya (2)"
+      ]
+    }
+  ]
+}

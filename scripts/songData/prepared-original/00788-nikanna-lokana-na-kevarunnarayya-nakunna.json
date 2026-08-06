@@ -1,0 +1,53 @@
+{
+  "song_name": "Nikanna Lokana Na Kevarunnarayya Nakunna",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీకన్నా లోకాన నా కెవరున్నారయ్యా నాకున్న తోడు నీడ నీవే యేసయ్యా"
+    ],
+    "english": [
+      "Nikanna lokana na kevarunnarayya Nakunna todu nida nive yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీలా ప్రేమించేవారు ఎవరున్నారయ్యా ప్రాణం బెట్టిన దేవుడవు నీవే యేసయ్యా"
+      ],
+      "english": [
+        "Nila premimchevaru evarunnarayya Pranam bettina devudavu nive yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీలా బోధించేవారు ఎవరున్నారయ్యా జీవం ఉన్న దేవుడవు నీవే యేసయ్యా"
+      ],
+      "english": [
+        "Nila bodhimchevaru evarunnarayya Jivam unna devudavu nive yesayya"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీలా రక్షించేవారు ఎవరున్నారయ్యా రక్తం కార్చిన దేవుడవు నీవే యేసయ్యా"
+      ],
+      "english": [
+        "Nila rakshimchevaru evarunnarayya Raktam karchina devudavu nive yesayya"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీలా పోషించేవారు ఎవరున్నారయ్యా అన్నీ తెలిసిన దేవుడవు నీవే యేసయ్యా"
+      ],
+      "english": [
+        "Nila poshimchevaru evarunnarayya Anni telisina devudavu nive yesayya"
+      ]
+    }
+  ]
+}

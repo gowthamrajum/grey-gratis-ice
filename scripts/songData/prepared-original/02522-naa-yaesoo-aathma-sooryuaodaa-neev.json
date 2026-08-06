@@ -1,0 +1,58 @@
+{
+  "song_name": "Naa Yaesoo Aathma Sooryuaodaa Neev",
+  "author": {
+    "Authored by": "",
+    "రచన": "జాన్ కెబిల్"
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా యేసూ, ఆత్మ సూర్యుఁడా నీవున్న రాత్రి కమ్మదు నా యాత్మలో నీ విప్పుడు వసించి పాయకుండుమీ."
+      ],
+      "english": [
+        "naa yaesoo, aathma sooryuAOdaa neevunna raathri kammadhu naa yaathmaloa nee vippudu vasiMchi paayakuMdumee."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేను నిద్రించు వేళలో నాకు నభయ మియ్యుము నే లేచి పనిచేయఁగా నా యొద్ద నుండు రక్షకా."
+      ],
+      "english": [
+        "naenu nidhriMchu vaeLaloa naaku nabhaya miyyumu nae laechi panichaeyAOgaa naa yodhdha nuMdu rakShkaa."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నాతోడ రాత్రింబగళ్లు నీ వుండి నడిపించుము నీవు నాతో లేకుండినన్ జీవింపఁ జావఁజాలను."
+      ],
+      "english": [
+        "naathoada raathriMbagaLlu nee vuMdi nadipiMchumu neevu naathoa laekuMdinan jeeviMpAO jaavAOjaalanu."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నేఁడు నీ దివ్య వాక్యము వినిన పాపు లెల్లరిన్ క్షమించి గుణపఱచి నీ మందలోకిఁ జేర్చుము."
+      ],
+      "english": [
+        "naeAOdu nee dhivya vaakyamu vinina paapu lellarin kShmiMchi guNapaRachi nee mMdhaloakiAO jaerchumu."
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "రోగిని స్వస్థపఱచి బీదలను పోషించుమీ దుఃఖించువారి దుఃఖముఁ బాపి యానంద మియ్యుము."
+      ],
+      "english": [
+        "roagini svasThapaRachi beedhalanu poaShiMchumee dhuHkhiMchuvaari dhuHkhamuAO baapi yaanMdha miyyumu."
+      ]
+    }
+  ]
+}

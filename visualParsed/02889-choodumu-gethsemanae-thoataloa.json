@@ -1,0 +1,88 @@
+{
+  "song_name": "Choodumu Gethsemane thotalo naa Prabhuvu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "చూడుము గెత్సెమనే తోటలో నా ప్రభువు",
+      "పాపి నాకై వి జ్ఞాపన చేసెడి ధ్వని వినబడుచున్నది",
+      "పాపి నీకై విజ్ఞాపన చేసెడి ధ్వని వినబడుచున్నది"
+    ],
+    "english": [
+      "Choodumu Gethsemane thotalo naa Prabhuvu",
+      "Paapi naakai vijnaapana chesedi dhvani vinabaduchunnadhi",
+      "Paapi neekai vijnaapana chesedi dhvani vinabaduchunnadhi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేహమంతయు నలగి శోకము చెందినవాడై",
+        "దేవాది దేవుని ఏకైక సుతుడు పడు వేదనలు నా కొరకే||"
+      ],
+      "english": [
+        "Dhehamanthayu nalagi shokamu chendhinavaadai",
+        "Dhevaadhi devuni ekaika suthudu padu vedanalu naa korake||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తండ్రి ఈ పాత్ర తొలగున్ నీ చిత్తమైన యెడల",
+        "ఎట్లయినను నీ చిత్తము చేయుటకు నన్నప్పగించితివనెను||"
+      ],
+      "english": [
+        "Thandri ee paathra tholagun nee chitthamaina edala",
+        "Etlayinanu nee chitthamu cheyutaku nannappaginchithivanenu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రక్తపు చెమట వలన మిక్కిలి బాధనొంది",
+        "రక్షకుడేసు హృదయము పగులుగ విజ్ఞాపనము చేసెనే||"
+      ],
+      "english": [
+        "Rakthapu chemata valana mikkili baadhanondhi",
+        "Rakshakudesu hrudayamu paguluga vijnaapanamu chesene||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ముమ్మారు భూమిమీదపడి మిక్కిలి వేదనచే మన యేసు",
+        "ప్రభువు తానే వేడుకొనెను పాపుల విమోచన కొరకే||"
+      ],
+      "english": [
+        "Mummaaru bhoomimeedhapadi mikkili vedhanache mana Yesu",
+        "Prabhuvu thaane vedukonenu paapula vimochana korake||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ప్రేమామృత వాక్కులచే ఆదరించెడి ప్రభువు వేదన",
+        "సమయమున బాధపరచెడి వారి కొరకు ప్రార్థన చేసెను||"
+      ],
+      "english": [
+        "Premaamrutha vaakkulache aadharinchedi Prabhuvu vedhana",
+        "samayamuna baadhaparachedi vaari koraku praarthana chesenu||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నన్ను తనవలె మార్చెడి ఈ మహా ప్రేమను తలచి",
+        "తలచి హృదయము కరుగగ సదా కీర్తించెదను  ||చూడుము||"
+      ],
+      "english": [
+        "Nannu thanavale maarchedi ee mahaa premanu thalachi",
+        "Thalachi hrudayamu karugaga sadaa keerthinchedanu ||Choodumu||"
+      ]
+    }
+  ]
+}

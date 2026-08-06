@@ -1,0 +1,105 @@
+{
+  "song_name": "Nee paadam mrokkedan nithyamu sthuthinchi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ పాదం మ్రొక్కెదన్ నిత్యము స్తుతించి",
+      "నిన్ను పాడి కీర్తించెదను",
+      "యేసయ్యా… నీ ప్రేమ పొంగుచున్నది (2)",
+      "పరిశుద్ధమైన పరవశమే",
+      "పరమ యేసుని కృపా వరమే (2)",
+      "వెదకి నన్ను కనుగొంటివి (2)",
+      "పాడుటకు పాటనిచ్చితివి (2) ||నీ పాదం||"
+    ],
+    "english": [
+      "Nee paadam mrokkedan nithyamu sthuthinchi",
+      "Ninnu paadi keerthinchedanu",
+      "Yesayyaa… nee prema ponguchunnadhi (2)",
+      "Parishuddhamaina paravashame",
+      "Parama Yesuni krupaa varame (2)",
+      "Vedaki nannu kanugontivi (2)",
+      "Paadutaku paatanichchithivi (2) ||Nee paadam||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నూతన నూనె ప్రభావముతో",
+        "నూతన కవిత్వపు కృపతోను (2)",
+        "నింపి నిత్యము నడిపితివి (2)",
+        "నూతన షాలేము చేర్చేడవు (2)  ||నీ||"
+      ],
+      "english": [
+        "Noothana noone prabhaavamutho",
+        "Noothana kavithvapu krupathonu (2)",
+        "Nimpi nithyamu nadipithivi (2)",
+        "Noothana Shaalemu cherchedavu (2)  ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇరుకు నందు పిలచితివి",
+        "నాకు సహాయము చేసితివి (2)",
+        "చెడి ఎక్కడ తిరుగకుండా (2)",
+        "చేరవచ్చి నన్ను ఆడుకొంటివి (2)  ||నీ||"
+      ],
+      "english": [
+        "Iruku nandu pilachithivi",
+        "Naaku sahaayamu chesithivi (2)",
+        "Chedi ekkada thirugakundaa (2)",
+        "Cheravachchi nannu aadukontivi (2)  ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిత్యముగ నీ సన్నిధి",
+        "నాకు ఇచ్చును విశ్రాంతిని (2)",
+        "దుడ్డు కర్ర నీ దండమును (2)",
+        "నిజముగ నన్ను ఆదరించును (2)  ||నీ||"
+      ],
+      "english": [
+        "Nithyamuga nee sannidhi",
+        "Naaku ichchunu vishraanthini (2)",
+        "Duddu karra nee dandamunu (2)",
+        "Nijamuga nannu aadharinchunu (2)  ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఫలించు చెట్టు నీవు నిలచు",
+        "తీగగా నేను వ్యాపించుటకై (2)",
+        "కొమ్మ నరికి కలుపు తీసి (2)",
+        "కాపాడి శుద్దీకరించితివి (2)  ||నీ||"
+      ],
+      "english": [
+        "Phalinchu chettu neevu nilachu",
+        "Theegagaa nenu vyaapinchutakai (2)",
+        "Komma nariki kalupu theesi (2)",
+        "Kaapaadi shuddheekarinchithivi (2)  ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పరిశుద్ధమైన కీర్తితోను",
+        "ప్రకాశమైన శిఖరముపై (2)",
+        "శీఘ్రముగ చేర్చెదవు (2)",
+        "సీయోనులో నిన్ను కీర్తించెదన్ (2)  ||నీ||"
+      ],
+      "english": [
+        "Parishuddhamaina keerthithonu",
+        "Prakaashamaina shikharamupai (2)",
+        "Sheeghramuga cherchedavu (2)",
+        "Seeyonulo ninnu keerthinchedan (2)  ||Nee||"
+      ]
+    }
+  ]
+}

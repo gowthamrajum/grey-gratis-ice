@@ -1,0 +1,62 @@
+{
+  "song_name": "Aanni Kaalambula Nunna Yohovaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆన్ని కాలంబుల-నున్న యోహోవాని- న్నెన్నథరంబయో కన్న థంద్రి",
+      "వన్నె కెక్కిన మోక్ష –వాసాలి సన్నుథు-లున్నథ మై యుంద మున్నె నీకు"
+    ],
+    "english": [
+      "Aanni Kaalambula-Nunna Yohovaani- Nnennatharambayo Kanna Thandri",
+      "Vanne Kekkina Moksha –Vaasaali Sannuthu-Lunnatha Mai Yunda Munne Neeku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ణిన్ను ప్రకతన సేయ- నిఖిల లోకములను- బన్నుగ చేసిన బలుద వీవె",
+        "ఉన్న లోకంబుల –నుదుగక కరునా సంపన్నథ థో నేలు-ప్రభుద వీవె-",
+        "ఎన్న సఖ్యము కాక – ఉన్న లక్షనముల సన్నుథించుతకు నే-చాలుదునా"
+      ],
+      "english": [
+        "Ninnu Prakatana Seya- Nikhila Lokamulanu- Bannuga Chesina Baluda Veeve",
+        "Unna Lokambula –Nudugaka Karunaa Sampannatha Tho Nelu-Prabhuda Veeve-",
+        "Enna Sakhyamu Kaaka – Unna Lakshanamula Sannuthinchutaku Ne-Chaaludunaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఫుత్తింప నీవంచు- పోషింప నీవంచు-గిత్తింప నీవంచు – కీర్థింథును",
+        "వత్తి పనికి మాలి నత్తి మానవులచే – పత్తి రక్షింప బా-ధ్యుంద వంచు",
+        "ధత్తమైన క్రుపను దరి జేర్చ నాకిచ్చి –పత్తయి నిలచియుందు –ప్రభుద వంచు",
+        "కత్తదచే గద-ముత్తుధనుక నా –పత్తుకొలధి నిన్ను ప్రస్థు థింథు"
+      ],
+      "english": [
+        "Phuttimpa Neevanchu- Poshimpa Neevanchu-Gittimpa Neevanchu – Keerthinthunu",
+        "Vatti Paniki Maali Natti Maanavulache – Patti Rakshimpa Baa-Dhyunda Vanchu",
+        "Dhattamaina Krupanu Dari Jercha Naakichchi –Pattayi Nilachiyundu –Prabhuda Vanchu",
+        "Kattadache Gada-Muttudhanuka Naa –Pattukoladhi Ninnu Prasthu Thinthu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఖారున్య నిధి వీవు – కతినాథ్ముదను నేను- భూరి సుద్ధుదవీవు-పాపి నేను",
+        "సార భాగ్యుద వీవు-జగథిలో నాకన్న దారిధ్రుదే లేదు- థరచి చూద",
+        "సార సధ్గునముల – సంపన్నుదవు నీవు – ఘోర దుర్గున సం-చారి నేను",
+        "ఏ రీథి స్థుథి యింథు –నే రీథి సేవింథు - నేర మెన్నక ప్రోవ- నెరనమ్మిథి"
+      ],
+      "english": [
+        "Khaarunya Nidhi Veevu – Kathinaathmudanu Nenu- Bhoori Suddhudaveevu-Paapi Nenu",
+        "Saara Bhaagyuda Veevu-Jagathilo Naakanna Daaridhrude Ledu- Tharachi Chooda",
+        "Saara Sadhgunamula – Sampannudavu Neevu – Ghora Durguna Sam-Chaari Nenu",
+        "E Reethi Sthuthi Yinthu –Ne Reethi Sevinthu - Nera Mennaka Prova- Neranammithi"
+      ]
+    }
+  ]
+}

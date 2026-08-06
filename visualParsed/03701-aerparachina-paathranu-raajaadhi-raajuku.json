@@ -1,0 +1,62 @@
+{
+  "song_name": "Erparachina paathranu raajaadhi raajuku",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏర్పరచిన పాత్రను రాజాధి రాజుకు",
+        "వేరు పరచెను యేసుకు లోకము నుండి",
+        "ప్రతిష్ఠ పాత్రలు ఖాళీ చిన్నవి",
+        "అవి మోయు ఐశ్వర్యము యేసు ప్రభువే"
+      ],
+      "english": [
+        "Erparachina paathranu raajaadhi raajuku",
+        "Veru parachenu Yesuku lokamu nundi",
+        "Prathishtha paathralu khaalee chinnavi",
+        "Avi moyu aishwaryamu Yesu prabhuve"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఏర్పరచెను మోయను - యేసు-సు నామము",
+        "ఆయనతో సహించను సిలువ శ్రమలను"
+      ],
+      "english": [
+        "Erparachenu moyanu - Yesu-su naamamu",
+        "Aayanatho sahinchanu siluva shramalanu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఏర్పరచెను భరించను చెడిన లోకమును",
+        "పోరాటముతో నిలువను - జయించె వరకు"
+      ],
+      "english": [
+        "Erparachenu bharinchanu chedina lokamunu",
+        "Poraatamutho niluvanu - Jayinche varaku"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఏర్పరచె మట్టి పాత్రను ఖాళీ చిన్న వానిని",
+        "నేను మోయు ఐశ్వర్యము క్రీస్తు ప్రభువే"
+      ],
+      "english": [
+        "Erparache matti paathranu khaalee chinna vaanini",
+        "Nenu moyu aishwaryamu Kreesthu prabhuve"
+      ]
+    }
+  ]
+}

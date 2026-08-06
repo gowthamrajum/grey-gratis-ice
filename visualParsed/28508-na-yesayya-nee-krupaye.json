@@ -1,0 +1,68 @@
+{
+  "song_name": "Naa Yesayya nee krupaye chaalayya",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా యేసయ్య నీ కృపయే",
+      "నాయేసయ్య నీ కృప యే చాలయ్య (2)",
+      "కృప యే చాలయ్యా నీ కృప యే చాలయ్యా (2)",
+      "నీ కృప యే చాలయ్యా నాకు అది యే మేలయ్యా (2)"
+    ],
+    "english": [
+      "Naa Yesayya nee krupaye",
+      "Naa Yesayya nee krupaye chaalayya (2)",
+      "Krupaye chaalayyaa nee krupaye chaalayyaa (2)",
+      "Nee krupaye chaalayyaa naaku adiye melayyaa (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తల్లిదండ్రులే మరిచిపోయినా మరువని నీ కృప",
+        "అందరూ నన్ను విడిచిపోయిన విడువని నీ కృప (2)"
+      ],
+      "english": [
+        "Thallidandrule marichipoyinaa maruvani nee krupa",
+        "Andharoo nannu vidichipoyina viduvani nee krupa (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చీకటి నుండి వెలుగులోనికి పిలిచిన నీ కృప",
+        "రాజవంశములో రాజ్యము చేయ పిలిచిన నీ కృప (2)"
+      ],
+      "english": [
+        "Cheekati nundi veluguloniki pilichina nee krupa",
+        "Raajavamshamulo raajyamu cheya pilichina nee krupa (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "శోకపు లోయలో పడిపోచుండగా లేపిన నీ కృప",
+        "బలహీనతలో నన్ను బలపరచి నిలిపిన నీ కృప (2)"
+      ],
+      "english": [
+        "Shokapu loyalo padipovuchundagaa lepina nee krupa",
+        "Balaheenathalo nannu balaparachi nilipina nee krupa (2)"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నేటి వరకు కాచినది నీ కృపయే యేసయ్యా",
+        "నీ కృపకు సాటి ఇలలో ఏదియు లేదయ్యా (2)"
+      ],
+      "english": [
+        "Neti varaku kaachinadhi nee krupaye Yesayyaa",
+        "Nee krupaku saati ilalo ediyu ledayyaa (2)"
+      ]
+    }
+  ]
+}

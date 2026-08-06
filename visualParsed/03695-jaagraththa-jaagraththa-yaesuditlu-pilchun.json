@@ -1,0 +1,78 @@
+{
+  "song_name": "Jaagraththa jaagraththa Yesuditlu pilchun",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జాగ్రత్త జాగ్రత్త - యేసుడిట్లు పిల్చున్",
+        "నేడు పో పను చేయి - నాదు వనములో",
+        "ఆయనే ముందు వెళ్ళి మా త్రోవ చూపున్",
+        "కాగా జాగ్రత్తతో - పని చేయుదము",
+        "పని చేయి - కోరుచు కాచుచు",
+        "మా యేసు వచ్చు మట్టుకు"
+      ],
+      "english": [
+        "Jaagraththa jaagraththa - Yesuditlu pilchun",
+        "Nedu po pani cheyi - Naadu vanamulo",
+        "Aayane mundu velli maa throva choopun",
+        "Kaagaa jaagraththatho - Pani cheyudamu",
+        "Pani cheyi - Koruchu kaachuchu",
+        "Maa Yesu vachchu mattuku"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జాగ్రత్త జాగ్రత్త నీతి నాశించెడు",
+        "వారి నందరిని తృప్తి పర్చెదము",
+        "యేసు సిలువ నె-త్తి మా ధ్వజముగ",
+        "రక్షణ యుచితం-బని చాటింతుము"
+      ],
+      "english": [
+        "Jaagraththa jaagraththa neethi naashinchedu",
+        "Vaari nandharini thrupthi parchedhamu",
+        "Yesu siluva ne-tthi maa dhwajamuga",
+        "Rakshana yuchitham-bani chaatinthumu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "జాగ్రత్త జాగ్రత్త వచ్చి పోరాడుడి",
+        "దుష్ట సాతాను రా-జ్యంబు పాడగును",
+        "యేసు నామ ప్రఖ్యా-తిని శ్లాఘించుడి",
+        "ఆయన రక్షణ యుచితంబగును"
+      ],
+      "english": [
+        "Jaagraththa jaagraththa vachchi poraadudi",
+        "Dushta saathaanu raa-jyambu paadagunu",
+        "Yesu naama prakhyaa-thini shlaaghinchudi",
+        "Aayana rakshana yuchithambagunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "జాగ్రత్త జాగ్రత్త యేసు శక్తి నిచ్చున్",
+        "గెల్చు వారికి జీ-వ కిరీటంబగున్",
+        "మోక్షానందములో నివసించువారై",
+        "రక్షణ యుచితం-బని పాడెదము"
+      ],
+      "english": [
+        "Jaagraththa jaagraththa Yesu shakthi nichchun",
+        "Gelchu vaariki jee-va kireetambagun",
+        "Mokshaanandhamulo nivasinchuvaarai",
+        "Rakshana yuchitham-bani paadedamu"
+      ]
+    }
+  ]
+}

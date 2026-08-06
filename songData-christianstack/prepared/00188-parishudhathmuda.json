@@ -1,0 +1,71 @@
+{
+  "song_name": "Parishudhathmuda",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరిశుద్దాత్ముడా శక్తి కుమ్మరించు",
+      "నీ శక్తి మాకు కావలసినదని",
+      "ప్రభువా నీవు ఎరుగుదువు",
+      "పరిశుద్దాత్ముడా శక్తి కుమ్మరించు"
+    ],
+    "english": [
+      "Parishuddhathmuda shakthi kummarinchu",
+      "Nee shakthi maaku kaavalasinadhani",
+      "Prabhuvaa neevu erugudhuvu",
+      "Parishuddhathmuda shakthi kummarinchu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మొదటి యుగములో జరిగినట్లు – ఆశ్చర్యం జరిగించు లోకములో",
+        "ఆదిలో జరిగిన విధముగా – మిక్కిలి శక్తినిమ్ము",
+        "పరిశుద్దాత్ముడా శక్తి కుమ్మరించు"
+      ],
+      "english": [
+        "Modhati yugamulo jariginatluga – aascharyam jariginchu lokamulo",
+        "Aadilo jarigina vidhamuga – mikkili shakthinimmu",
+        "Parishuddhathmuda shakthi kummarinchu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వరదానములలో మొదలుకొని – మేము వాక్యంలో బలపడి ఎదుగునట్లు",
+        "కడవరి వర్షము మామీద – కుమ్మరించుము దేవా",
+        "పరిశుద్దాత్ముడా శక్తి కుమ్మరించు"
+      ],
+      "english": [
+        "Varadaanamulo modalukoni – memu vaakyamulo balapadi edugunatlu",
+        "Kadavari varshamu maameedha – kummarinchumu Dhevaa",
+        "Parishuddhathmuda shakthi kummarinchu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "లోకాశాలతో పోరాడి – మేము సాతాను శక్తిపై జయముపొంది",
+        "దీనులమై సేవ జేయుటకు – అభిషేకించుమయా"
+      ],
+      "english": [
+        "Lokaashalatho poraadi – memu saathanu shakthipai jayamu pondhi",
+        "Deenulamai seva cheyutaku – abhishekinchumayaa",
+        "Parishuddhathmuda shakthi kummarinchu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పరిశుద్దాత్ముడా శక్తి కుమ్మరించు",
+        "నీ శక్తి మాకు కావలసినదని",
+        "ప్రభువా నీవు ఎరుగుదువు",
+        "పరిశుద్దాత్ముడా శక్తి కుమ్మరించు"
+      ],
+      "english": []
+    }
+  ]
+}

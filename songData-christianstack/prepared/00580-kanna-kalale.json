@@ -1,0 +1,110 @@
+{
+  "song_name": "Kanna Kalale",
+  "author": {
+    "Authored by": "Reshma Reigna",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కన్న కలలే దూరమై నేనిప్పుడు",
+      "ఆశ లేక తడబడుతున్న ఈ బాటలో",
+      "కానరాదే ఈ మార్గము పొలిమేరలో",
+      "దూరమైనే పడియుంటినే…."
+    ],
+    "english": [
+      "Kanna kalale dhooramai nenippudu",
+      "aasa leka thadabaduthunna ee baatalo",
+      "kaanaraadhe ee maargamu polimeralo",
+      "dhooramaine padiyuntine…"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా భారం ఎంత గొప్పదై నను నీ దరి చేరగా",
+        "నన్నాపలేదు ఏదియు ఇక.."
+      ],
+      "english": [
+        "Naa bhaaram entha goppadhai nanu nee dhari cheragaa",
+        "nannaapaledhu eydhiyu ika.."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరిగెడి నీ ఎదకు నేను చేరియుంటినే",
+        "కనికరము కోరే నేను నిలచియుంటినే",
+        "విడువకు నన్నిపుడు తండ్రి నీవే ధైర్యము",
+        "నిరతము నీ నుండే దొరుకు నీ సహాయము"
+      ],
+      "english": [
+        "Parugedi nee edhaku nenu cheriyuntune",
+        "kanikaramu kore nenu nilachiyuntine",
+        "viduvaku nannipudu thandri neeve dhairyamu",
+        "narathamu nee nunde dhoruku nee sahaayamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "Y E A H"
+      ],
+      "english": [
+        "Y E A H"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఓ…. ఓ….. ఓ….. ఓహ్……",
+        "ఓ….. ఓ…. ఓ….. ఓ….. ఓహ్"
+      ],
+      "english": [
+        "Oh…. oh…. oh…. ohh",
+        "Oh…. oh…. oh…. ohh"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "గాయపరిచి నీ మనసును నా క్రియలతో",
+        "నిన్ను మరచి తిరిగాను ఈ ఎడారిలో",
+        "ఆఖరికి గుర్తించితి నీ ప్రేమను",
+        "నా స్థాయి తెలిసి నీ మనస్సులో"
+      ],
+      "english": [
+        "Gaayaparichi nee manasunu naa kriyalatho",
+        "ninnu marachi thirigaanu ee edaarilo",
+        "aakhariki gurthinchithi nee premanu",
+        "naa sthaayi thelisi nee manassulo"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఈ దూరం ఎంత గొప్పదైన నను నీ దరి చేరగా",
+        "నన్నాపలేదు ఏదియు ఇక.."
+      ],
+      "english": [
+        "Ee dhooram entha goppadhaina nanu nee dhari cheragaa",
+        "nannaapaledu eydhiyu ika.."
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "దూరమున నేను ఇంకా నిలిచి ఉండగా",
+        "నాకొరకు యేసు నీవే వేచి ఉంటివే",
+        "పరుగిడి నీవే నాయొద్దకు వచ్చి ఉంటివే",
+        "నా తండ్రి మరలా నన్ను చేర్చుకొంటివే"
+      ],
+      "english": [
+        "Dhooramuna nenu inkaa nilichi undagaa",
+        "na koraku yesu neeve vechi untive",
+        "parugidi neeve naa yoddhaku vachi untive",
+        "naa thandri maralaa nannu cherchukontive"
+      ]
+    }
+  ]
+}

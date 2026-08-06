@@ -1,0 +1,49 @@
+{
+  "song_name": "Aada Janmanu Devudenduku",
+  "author": {
+    "Authored by": "Pastham Srinivas",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆడజన్మను దేవుడు ఎందుకు చేశాడు ?",
+      "ఆడ జన్మ అవసరత దేవుడు ఎందుకు తెలిపాడు ?",
+      "ఆడజన్మ మనిషికి అర్థమయిందా ?",
+      "ఆడ జన్మ అవసరత అర్థం కాకుందా.?",
+      "ఆడపిల్ల పుడితే వద్దనుకుంది శిశువును గర్భంలో హతమార్చింది",
+      "ఆడజన్మను మనిషి పాడు జన్మ అనుకుంది",
+      "అర్థమే లేకుండా అంత మెందిస్తుంది"
+    ],
+    "english": [
+      "Aada janmanu devudu enduku chesaadu?",
+      "aada janma avasaratha devudu enduku thelipaadu?",
+      "aada janma manishiki ardhamayindaa?",
+      "aada janma avasaratha ardham kaakundha?",
+      "aadapilla pudithe vaddhanukundhi",
+      "sisuvunu garbhamlo hathamaarchindhi",
+      "aadajanmanu manishi paadu janma anukundhi",
+      "ardhame lekundaa antha mondhisthundhi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆడవారిని బ్రతికించి కాపాడండి",
+        "పురుషులతో సమానముగా పోషించండి",
+        "స్త్రీలు లేనిదే పురుషులు లేరని",
+        "పురుషులు లేనిదే స్త్రీలు లేరని",
+        "తల్లి కావాలి నీకు చెల్లి కావాలి",
+        "అక్క కావాలి కూతురు కావాలి"
+      ],
+      "english": [
+        "Aadavaarini brathikinchi kaapaadandi",
+        "purushulatho samaanamugaa poshinchandi",
+        "sthreelu lenidhe purushulu lerani",
+        "purushulu lenide sthreelu lerani",
+        "thalli kaavali neeku chelli kaavali",
+        "akka kaavali koothuru kaavali"
+      ]
+    }
+  ]
+}

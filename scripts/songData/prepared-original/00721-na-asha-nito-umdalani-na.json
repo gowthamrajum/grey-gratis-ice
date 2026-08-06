@@ -1,0 +1,35 @@
+{
+  "song_name": "Na Asha Nito Umdalani Na",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ఆశ నీతో ఉండాలని నా ఆశ నీలా ఉండాలని నా ఆశ నీతో నిలవాలని నా ఆశ నిన్ను చూడాలని ఏ . . ఓ . . ఏ . . ఓ . ."
+    ],
+    "english": [
+      "Na asha nito umdalani Na asha nila umdalani Na asha nito nilavalani Na asha ninnu chudalani Ye . . Oo . . Ye . . Oo . ."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీతోనే స్నేహం చేయాలని నాలో ఎంతో ఆశ ఉన్నది నీ ప్రేమ కౌగిలిలో ఉండాలని నాలో ఎంతో ఆశ ఉన్నది (2) నా శిక్షను నీవు పొందావులే నా కొరకు ప్రాణం పెట్టావులే నీ ప్రేమతో నను నింపావులే నిజమైన స్నేహం నీదే"
+      ],
+      "english": [
+        "Nitone sneham cheyalani Nalo emto asha unnadi Ni prema kaugililo umdalani Nalo emto asha unnadi (2) Na sikshanu nivu pomdavule Na koraku pranam pettavule Ni premato nanu nimpavule Nijamaina sneham nide"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీలాంటి స్నేహితుడు ఉన్నాడని నిను గూర్చి అందరికి చెప్పాలని నీ పనిలో నిత్యం సాగాలని నీ కొరకు సాక్షిగా ఉండాలని (2) నీ ఆత్మతో నను నింపుము నీ వరము నాకు దయచేయుము నీ పాత్రగా నను వాడుకో నీ సాక్షిగా నింపుము"
+      ],
+      "english": [
+        "Nilamti snehitudu unnadani Ninu gurchi amdariki cheppalani Ni panilo nityam sagalani Ni koraku sakshiga umdalani (2) Ni atmato nanu nimpumu ni varamu Naku dayacheyumu Ni patraga nanu vaduko Ni sakshiga nimpumu"
+      ]
+    }
+  ]
+}

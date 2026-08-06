@@ -1,0 +1,76 @@
+{
+  "song_name": "Aemaashcharyamu Priyulaaraa Kreesthu Maranamu",
+  "author": {
+    "Authored by": "",
+    "రచన": "పురుషోత్తము చౌధరి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏమాశ్చర్యము ప్రియులారా క్రీస్తు మరణము ప్రేమజూడరెమనసార",
+      "ఆ మహాత్ముఁడు మరణ మగు రీతిఁ గనుకొన్న",
+      "సామాన్యమగు నొక్క జనుని చందము గాదు",
+      "ఈ మహిని గల పాప జీవుల పై మహాకృపఁ జూపి",
+      "నిత్య క్షేమ మొసఁగెడు కొరకు బలు శ్రమ చే మృతుండైనాఁడు స్వేచ్ఛను"
+    ],
+    "english": [
+      "Aemaashcharyamu Priyulaaraa Kreesthu Maranamu Praemajoodaremanasaara",
+      "Aa Mahaathmudu Marana Magu Reethi Ganukonna",
+      "Saamaanyamagu Nokka Januni Chandhamu Gaadhu",
+      "Ee Mahini Gala Paapa Jeevula Pai Mahaakrupa Joopi",
+      "Nithya Kshaema Mosagedu Koraku Balu Shrama Chae Mruthundainaadu Svaechchanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కొండవలె భారమై లోక పాపములు దండింపఁబడె ఘోరమై",
+        "నిండు భారము క్రింద నిలుచున్న వేళను గుండె దిగులునఁ",
+        "దనువు నిండె రక్తపుఁ జెమట మెండుకొని దుఃఖములతో",
+        "నా తండ్రి యీ పాత్రమును నా కడ నుండి తొలగించుటకు",
+        "మనపై యుండినను జేయమని వేఁడెను"
+      ],
+      "english": [
+        "Kondavale Bhaaramai Loaka Paapamulu Dhandimpabade Ghoaramai",
+        "Nindu Bhaaramu Krindha Niluchunna Vaelanu Gunde Dhiguluna",
+        "Dhanuvu Ninde Rakthapu Jemata Mendukoni Dhuhkhamulathoa",
+        "Naa Thandri Yee Paathramunu Naa Kada Nundi Tholaginchutaku",
+        "Manapai Yundinanu Jaeyamani Vaedenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కడు దుర్మార్గులచేతను క్రీస్తుఁడు పట్టు వడె దానంతట తాను",
+        "చెడుగు లెందరు నింద జేసి మోముపై నుమిసి",
+        "వడిముళ్లతో నల్లఁ బడిన కిరీటము తడయ కౌదల బెట్టి",
+        "కరముల నడుగులను సిలువ నిడి మేకులు దొడిపి",
+        "ప్రక్కను రక్తజలములు దొరగ గుంతము గ్రుచ్చి రహహా"
+      ],
+      "english": [
+        "Kadu Dhurmaargulachaethanu Kreesthudu Pattu Vade Dhaananthata Thaanu",
+        "Chedugu Lendharu Nindha Jaesi Moamupai Numisi",
+        "Vadimullathoa Nalla Badina Kireetamu Thadaya Kaudhala Betti",
+        "Karamula Nadugulanu Siluva Nidi Maekulu Dhodipi",
+        "Prakkanu Rakthajalamulu Dhoraga Gunthamu Gruchchi Rahahaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇరు పార్శ్యముల నిద్దరి దొంగల నునిచి మరణావస్థలఁ బెట్టిరి",
+        "నిరపరాధి ప్రభువు దురితాత్ము లొనరించు తరుచు బాధల కోర్చి",
+        "మరి వారిఁ గరుణించి యెరుఁగ రేమి యొనర్తురో",
+        "యీ దురిత జీవులు వీరి నోహో పరమ జనక క్షమించు మని",
+        "తన యరుల కొరకై వేఁడు కొనియెను"
+      ],
+      "english": [
+        "Iru Paarshyamula Nidhdhari Dhongala Nunichi Maranaavasthala Bettiri",
+        "Niraparaadhi Prabhuvu Dhurithaathmu Lonarinchu Tharuchu Baadhala Koarchi",
+        "Mari Vaari Garuninchi Yeruga Raemi Yonarthuroa",
+        "Yee Dhuritha Jeevulu Veeri Noahoa Parama Janaka Kshaminchu Mani",
+        "Thana Yarula Korakai Vaedu Koniyenu"
+      ]
+    }
+  ]
+}

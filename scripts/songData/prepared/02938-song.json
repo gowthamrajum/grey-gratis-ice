@@ -1,0 +1,54 @@
+{
+  "song_name": "Yaesu Naamamu Smarinchu Baadha Neeku Galgagaa",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఎల్ చాక్ట్సర్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు నామము స్మరించు బాధ నీకుఁ గల్గఁగా",
+      "నద్ది క్షేమ సౌఖ్య మిచ్చు దాని స్మరియించుము.",
+      "శ్రేష్ఠమౌ నామము ఆదరించు నిలను శ్రేష్ఠమౌ నామము మోక్షసౌఖ్య మద్దియే"
+    ],
+    "english": [
+      "Yaesu Naamamu SmariMchu BaaDha NeekuAO GalgAOgaa",
+      "Nadhdhi KShaema Saukhya Michchu Dhaani SmariyiMchumu.",
+      "ShraeShTamau Naamamu AadhariMchu Nilanu ShraeShTamau Naamamu MoakShsaukhya Madhdhiyae"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు నామము స్మరించు శోధనంబు లుండఁగా",
+        "డాలుగాను దాని నెంచి వేఁడుమా సునామమున్"
+      ],
+      "english": [
+        "Yaesu Naamamu SmariMchu ShoaDhanMbu LuMdAOgaa",
+        "Daalugaanu Dhaani NeMchi VaeAOdumaa Sunaamamun"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మమ్ముఁ జేరఁదీయు యేసు నామము స్తుతింపఁగా",
+        "మాధుర్యంపు నామ మౌను ఆత్మ కద్ది తుష్టియే"
+      ],
+      "english": [
+        "MammuAO JaerAOdheeyu Yaesu Naamamu SthuthiMpAOgaa",
+        "MaaDhuryMpu Naama Maunu Aathma Kadhdhi ThuShtiyae"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మ్రొక్కుచుందు మేసు నాధ నీదు పాద పద్మముల్",
+        "మోక్షమందుఁజేరఁగాను హెచ్చుగా నుతింతుము"
+      ],
+      "english": [
+        "MrokkuchuMdhu Maesu NaaDha Needhu Paadha Padhmamul",
+        "MoakShmMdhuAOjaerAOgaanu Hechchugaa NuthiMthumu"
+      ]
+    }
+  ]
+}

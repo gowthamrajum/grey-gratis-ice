@@ -1,0 +1,48 @@
+{
+  "song_name": "Nakshatrama",
+  "author": {
+    "Authored by": "Pandit KVK Churchil",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నక్షత్రమా వేకువ నక్షత్రమా",
+      "తూర్పున వెలిగిన నక్షత్రమా",
+      "అంధకారము చీల్చుకొని",
+      "అందరి హృదయాలు వెలిగింప",
+      "ఆకాశాన అరుపెంచినా అద్భుత నక్షత్రమా"
+    ],
+    "english": [
+      "Nakshathramaa vekuva nakshathramaa",
+      "thoorpuna veligina nakshathramaa",
+      "andhakaaramu cheelchukoni",
+      "andhari hrudhayaalu veliginpa",
+      "aakaasaana arupenchinaa adbhutha nakshathramaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మహరాజు జన్మను మహికి కనుపరచ",
+        "ఇహపరమును ఏలు మహితాత్ముడని తెలుప",
+        "ఇమ్మానుయేలు ఇలకు తోడనుచు",
+        "అగుపించె జ్ఞానుల నడిపించినా",
+        "మరియమ్మా గర్భాన ప్రియసుతుడై మన ప్రభువు",
+        "పాపములు బాపేటి రక్షించే దైవము",
+        "ఆ తార ఆగిన ఆ దివ్య నగరానా",
+        "రారాజు శ్రీ యేసు జన్మించెను"
+      ],
+      "english": [
+        "Maharaaju janmanu mahiki kanuparacha",
+        "ihaparamunu elu mahithaathmudani thelupa",
+        "immaanuyelu ilaku thodanuchu",
+        "agupinche gnaanula nadipinchinaa",
+        "Mariyammaa garbhaana priyasuthudai mana prabhuvu",
+        "paapamulu baapeti rakshinche dhaivamu",
+        "aa thaara aagina aa divya nagaraanaa",
+        "raaraaju sree yesu janminchenu"
+      ]
+    }
+  ]
+}

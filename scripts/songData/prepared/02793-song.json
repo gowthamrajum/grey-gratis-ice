@@ -1,0 +1,63 @@
+{
+  "song_name": "Nee Chiththam Baenu Nee Chiththambae Naenu",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఎ ఎ పొల్లార్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ చిత్తం బేను నీ చిత్తంబే నేను మట్టిని ఓ కుమ్మరీ!",
+      "నీ కోర్కెదీర నన్ దీర్చుమా నీకు లొంగెదన్ ఓ ప్రభువా"
+    ],
+    "english": [
+      "Nee Chiththam Baenu Nee Chiththambae Naenu Mattini Oa Kummaree!",
+      "Nee Koarkedheera Nan Dheerchumaa Neeku Longedhan Oa Prabhuvaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ మార్గంబేను నీ మార్గంబే నేడు నన్ను పరిశోధించు",
+        "శుద్ధిజేయుమో యేసూ నన్ను నీ సన్నిధిలో మోకరింతున్"
+      ],
+      "english": [
+        "Nee Maargambaenu Nee Maargambae Naedu Nannu Parishoadhinchu",
+        "Shuddhijaeyumoa Yaesoo Nannu Nee Sannidhiloa Moakarinthun"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ కోర్కె యేసు నీ కోర్కెయే నే గాయంబొంది అలసితిన్",
+        "బాగుచేయు నన్ ముట్టిప్రభో నీకే సమస్త శక్తి నొప్పున్"
+      ],
+      "english": [
+        "Nee Koarke Yaesu Nee Koarkeyae Nae Gaayambondhi Alasithin",
+        "Baaguchaeyu Nan Muttiprabhoa Neekae Samastha Shakthi Noppun"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ యిష్టంబేను నీ యిష్టంబే నీ యాత్మతోడ నన్ నింపుమా",
+        "నాయందెల్లరు క్రీస్తుంజూడన్ నీ యాధీనంబు నన్నుంచుకో"
+      ],
+      "english": [
+        "Nee Yishtambaenu Nee Yishtambae Nee Yaathmathoada Nan Nimpumaa",
+        "Naayandhellaru Kreesthunjoodan Nee Yaadheenambu Nannunchukoa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "అప్పుడు నేను నీ రీతిగాన్ తప్పకజేతు నో ప్రభువా",
+        "ఇప్పుడే నీదు సేవ జేయున్ అప్పగింతు నా సమస్తంబు"
+      ],
+      "english": [
+        "Appudu Naenu Nee Reethigaan Thappakajaethu Noa Prabhuvaa",
+        "Ippudae Needhu Saeva Jaeyun Appaginthu Naa Samasthambu"
+      ]
+    }
+  ]
+}

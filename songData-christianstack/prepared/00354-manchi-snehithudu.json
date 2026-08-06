@@ -1,0 +1,52 @@
+{
+  "song_name": "Manchi Snehithudu",
+  "author": {
+    "Authored by": "Suresh Vanguri",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మంచి స్నేహితుడు మంచి స్నేహితుడు",
+      "హితమును కోరే బ్రతుకును మార్చే",
+      "ప్రాణ స్నేహితుడేసు ప్రాణ స్నేహితుడేసు"
+    ],
+    "english": [
+      "Manchi snehithudu manchi snehithudu",
+      "hithamunu korey brathukunu maarche",
+      "praana snehithudesu praana snehithudesu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఒరిగిన వేళ పరుగున చేరి",
+        "గుండెలకదిమే తల్లవుతాడు",
+        "అక్కరలోన పక్కన నిలిచి",
+        "చల్లగా నిమిరే తండ్రవుతాడు",
+        "ఒంటరితనమున చెలిమవుతాడు",
+        "కృంగిన క్షణమున బలమవుతాడు",
+        "చీకటి దారుల తడబడు ఘడియల",
+        "వెచ్చగ సోకే వెలుగవుతాడు",
+        "పతనపు లోయల జారిన వేళల",
+        "చెయ్యందించే గెలుపవుతాడు",
+        "శోధనలోన ఓర్పవుతాడు",
+        "శోకంలో ఓదార్పవుతాడు"
+      ],
+      "english": [
+        "Origina vela paruguna cheri",
+        "gundelakadhimey thallavuthaadu",
+        "akkaralona pakkana nilichi",
+        "challagaa nimirey thandravuthaadu",
+        "ontarithanamuna chelimavuthaadu",
+        "krungina kshanamuna balamavuthaadu",
+        "Cheekati dhaarula thadabadu ghadiyala",
+        "vechagaa sokey velugavuthaadu",
+        "pathanapu loyala jaarina velala",
+        "cheyyandhinche gelupavuthaadu",
+        "sodhanalona orpavuthaadu",
+        "sokamlo ordhaarpavuthaadu"
+      ]
+    }
+  ]
+}

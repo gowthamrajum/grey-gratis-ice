@@ -1,0 +1,48 @@
+{
+  "song_name": "Nannu vidipinchinaa nannu rakshinchinaa nannu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నన్ను విడిపించి నా నన్ను రక్షించినా",
+      "నన్ను క్షమియించినా నన్ను కరుణించినా",
+      "నా యేసుకే స్తోత్రము నా క్రీస్తుకే వందనము"
+    ],
+    "english": [
+      "Nannu vidipinchinaa nannu rakshinchinaa",
+      "Nannu kshamiyinchinaa nannu karuninchinaa",
+      "Naa Yesuke sthothramu naa Kreesthuke vandanamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపపు సంకెళ్ళచేత బంధించ బడియున్న",
+        "నన్ను చూచి నన్ను చేరి విడిపించిన దైవమా",
+        "నీకే స్తోత్రం నీకే స్తోత్రం నీకే స్తుతిస్తోత్రం"
+      ],
+      "english": [
+        "Paapapu sankellachetha bandhincha badiyunna",
+        "Nannu choochi nannu cheri vidipinchina daivamaa",
+        "Neeke sthothram neeke sthothram neeke sthuthisthothram"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపపు పొడలచేత కన్నుమిన్ను కానకున్న",
+        "నన్నుగాంచి వెల చెల్లించి రక్షించిన దైవమా",
+        "నీకే స్తోత్రం నీకే స్తోత్రం నీకే స్తుతిస్తోత్రం"
+      ],
+      "english": [
+        "Paapapu podalachetha kannuminnu kaanakunna",
+        "Nannugaanchi vela chellinchi rakshinchina daivamaa",
+        "Neeke sthothram neeke sthothram neeke sthuthisthothram"
+      ]
+    }
+  ]
+}

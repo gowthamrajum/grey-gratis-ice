@@ -1,0 +1,49 @@
+{
+  "song_name": "Kondala Vaipu",
+  "author": {
+    "Authored by": "Pastor K Shekar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కొండలవైపు కన్నులెత్తినా",
+      "ఏ సహాయము దొరకలేదయా",
+      "బందువువైపు చేయి చాపినా",
+      "అక్కరలేమియు తీరలేదయా"
+    ],
+    "english": [
+      "Kondalavaipu kannuletthinaa",
+      "ey sahaayamu dorakaledayaa",
+      "bandhuvuvaipu cheyi chaapinaa",
+      "akkaralemiyu theeraledayaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ వల్లే సహాయము దొరుకునని",
+        "నీ పాద సన్నిధి చేరితిని"
+      ],
+      "english": [
+        "Nee valle sahaayamu dhorukunani",
+        "nee paadha sannidhi cherithini"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కొండలవైపు కన్నులెత్తినా",
+        "ఏ సహాయము దొరకలేదయా",
+        "బందువువైపు చేయి చాపినా",
+        "అక్కరలేమియు తీరలేదయా"
+      ],
+      "english": [
+        "Kondalavaipu kannuletthinaa",
+        "ey sahaayamu dorakaledayaa",
+        "bandhuvuvaipu cheyi chaapinaa",
+        "akkaralemiyu theeraledayaa"
+      ]
+    }
+  ]
+}

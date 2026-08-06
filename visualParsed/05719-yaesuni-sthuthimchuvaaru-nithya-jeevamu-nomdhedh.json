@@ -1,0 +1,66 @@
+{
+  "song_name": "Yesuni sthuthinchuvaaru nithya jeevamu nondhedharu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసుని స్తుతించువారు – నిత్య జీవము నొందెదరు",
+      "ఆనందముతో అనుదినము – సంతోషముతో నుందురు",
+      "ఆహా హల్లెలూయా-ఆహా హల్లెలూయా (2)"
+    ],
+    "english": [
+      "Yesuni sthuthinchuvaaru – Nithya jeevamu nondhedharu",
+      "Aanandamutho anudinamu – Santhoshamutho nundhuru",
+      "Aahaa hallelooyaa-Aahaa hallelooyaa (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వాడబారని ఆకువలె – దినదినము బలమొందెదరు",
+        "జీవజలపునది యొడ్డున – వృక్షములవలె పెరిగెదరు IIఆహాII"
+      ],
+      "english": [
+        "Vaadabaarani aakuvale – Dinadinamu balamondhedharu",
+        "Jeevajalapunadhi yoddhuna – Vrukshamulavale perigedharu ||Aahaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చీకటి నుండి వెలుగునకు – మరణము నుండి జీవముకు",
+        "చేయి విడువడక తనతో కూడ – యేసే నడిపించునుIIఆహాII"
+      ],
+      "english": [
+        "Cheekati nundi velugunaku – Maranamu nundi jeevamuku",
+        "Cheyi viduvadaka thanatho kooda – Yese nadipinchunu||Aahaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "చీకు చింతలు కలిగిననూ – చెరలో దుఃఖము కలిగినను",
+        "కనురెప్పవలె కాపాడి – యేసే విడిపించును IIఆహాII"
+      ],
+      "english": [
+        "Cheeku chinthalu kaliginanoo – Cheralo duhkhamu kaliginanu",
+        "Kanureppavale kaapaadi – Yese vidipinchunu ||Aahaa||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నడి సంద్రములో పయనించినా – నట్టడవులలో నివసించినా",
+        "ఎన్నడు విడువక మరువకను యేసే తోడుండును IIఆహాII"
+      ],
+      "english": [
+        "Nadi sandramulo payaninchinaa – Nattadavulalo nivasinchinaa",
+        "Ennadu viduvaka maruvakanu Yese thodundunu ||Aahaa||"
+      ]
+    }
+  ]
+}

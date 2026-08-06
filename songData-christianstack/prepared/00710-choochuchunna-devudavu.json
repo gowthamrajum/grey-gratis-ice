@@ -1,0 +1,39 @@
+{
+  "song_name": "Choochuchunna Devudavu",
+  "author": {
+    "Authored by": "Pastor M Jesu Moses Raja",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "చూచుచున్న దేవుడవు నీవే",
+      "పరిపాలించుచున్న రాజువు నీవే"
+    ],
+    "english": [
+      "Choochuchunna devudavu neeve",
+      "paripalinchuchunna raajuvu neeve"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవే నీవే నీవే నీవే…… యేసయ్యా"
+      ],
+      "english": [
+        "Neeve neeve neeve neeve …… yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చూచుచున్న దేవుడవు నీవే",
+        "పరిపాలించుచున్న రాజువు నీవే"
+      ],
+      "english": [
+        "Choochuchunna devudavu neeve",
+        "paripalinchuchunna raajuvu neeve"
+      ]
+    }
+  ]
+}

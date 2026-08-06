@@ -1,0 +1,66 @@
+{
+  "song_name": "Innaallu maaku saayamai ee mundhukunu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "ఐజక్ వాట్స్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇన్నాళ్లు మాకు సాయమై యీ ముందుకును మా",
+      "యున్నత గృహ మండవై యొప్పెడు దైవమా!"
+    ],
+    "english": [
+      "Innaallu maaku saayamai ee mundhukunu maa",
+      "Yunnatha gruha mandavai yoppedu Daivamaa!"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఏలాటి యీతిబాధయు నీవచ్చు యేఁటిలో",
+        "కలుగకుండఁ బ్రోవవే ఘనంపు ప్రేమతో"
+      ],
+      "english": [
+        "Elaati eethibaadhayu neevachchu etilo",
+        "Kalugakunda brovave ghanampu prematho"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ సింహాసన నీడలో నిలుచు భక్తులు",
+        "భయంబు చింతబాధలన్ జయించి మందురు"
+      ],
+      "english": [
+        "Nee simhaasana needalo niluchu bhakthulu",
+        "Bhayambu chinthabaadhalan jayinchi manduru"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "చరాచరంబు లెల్లను జనించుకంటె",
+        "ముందార తరాలనుండియున్ నీరాజ్య మండెడున్"
+      ],
+      "english": [
+        "Charaacharambu lellanu janinchukante",
+        "Mundhaara tharaalanundiyun neeraajya mandedun"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఇన్నాళ్లు మాకు సాయమై యేలుచుఁ గాచిన",
+        "ఉన్నత ప్రభు ప్రేమతో మన్నించు మింకనున్"
+      ],
+      "english": [
+        "Innaallu maaku saayamai eluchu gaachina",
+        "Unnatha Prabhu prematho manninchu minkanun"
+      ]
+    }
+  ]
+}

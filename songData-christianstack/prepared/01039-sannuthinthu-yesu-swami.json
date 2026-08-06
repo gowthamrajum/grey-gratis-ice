@@ -1,0 +1,54 @@
+{
+  "song_name": "Sannuthinthu Yesu Swami",
+  "author": {
+    "Authored by": "Joel Kodali",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సన్నుతింతు యేసు స్వామి",
+      "నిన్ను అనుదినం",
+      "నీ మహాత్య కార్యములను",
+      "పాడి వివరింతును (2)"
+    ],
+    "english": [
+      "Sannuthinthu Yesu Swaami",
+      "Ninnu Anudinam",
+      "Nee Mahaathya Kaaryamulanu",
+      "Paadi Vivarinthunu (2)",
+      "Shodhana Vedana Kashta Samayaana",
+      "Naa Thoduga Nunduvu",
+      "Aascharya Kaaryamulu Aananda Ghadiyalu",
+      "Ennadu Maruvanu          || Sannuthinthu ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శోధన వేదన కష్ట సమయాన",
+        "నా తోడుగా నుందువు",
+        "ఆశ్చర్య కార్యములు ఆనంద ఘడియలు",
+        "ఎన్నడు మరువను           || సన్నుతింతు ||"
+      ],
+      "english": [
+        "Samaadhilonundi Naa Praanamu",
+        "Vimochinchiyunnaavu",
+        "Karunaa Kataakshamulu Kireetamugaa",
+        "Naakichchiyunnaavu (2)",
+        "Naa Doshamulannitini Kshamiyinchinaavu",
+        "Karuna Samruddhudavu",
+        "Melulatho Naa Hrudayam Thrupthiparachaavu",
+        "Neekemi Chellinthunu || Sannuthinthunu ||",
+        "Mahimaishwaryamula Maharaaju",
+        "Mahimatho Nimpunu",
+        "Shaanthi Raajya Sthaapakudu",
+        "Thana Shaanthi Nichchunu (2)",
+        "Adigina Vaariki Kaadanakunda",
+        "Varamulu Kurpinchinu",
+        "Yesayya Nee Goppa Naamamu Smariyimpa",
+        "Maakentho Bhaagyamu || Sannuthinthunu ||"
+      ]
+    }
+  ]
+}

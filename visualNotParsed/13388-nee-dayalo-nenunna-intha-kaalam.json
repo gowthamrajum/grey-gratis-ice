@@ -1,0 +1,62 @@
+{
+  "song_name": "Nee dayalo nenunna intha kaalam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ దయలో నేనున్న ఇంత కాలం",
+      "నీ కృపలో దాచినావు గత కాలం (2)",
+      "నీ దయ లేనిదే నేనేమౌదునో (2)",
+      "తెలియదయ్యా… ||నీ దయలో||"
+    ],
+    "english": [
+      "Nee dayalo nenunna intha kaalam",
+      "Nee krupalo daachinaavu gatha kaalam (2)",
+      "Nee daya lenide nenemaudhuno (2)",
+      "Theliyadhayyaa… ||Nee dayalo||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తల్లిదండ్రులు చూపిస్తారు ఎనలేని ప్రేమను ఇలలో",
+        "చేయాలని ఆశిస్తారు అందనంత గొప్పవారిగా (2)",
+        "నీ దయ ఉంటే వారు – కాగలరు అధిపతులుగా",
+        "నీ దయ లేకపోతే ఇలలో – బ్రతుకుట జరుగునా",
+        "నీ సిలువ నీడలోనే నను దాచియుంచావని",
+        "నా శేష జీవితాన్ని నీతోనే గడపాలని  ||నీ||"
+      ],
+      "english": [
+        "Thallidandrulu choopisthaaru enaleni premanu ilalo",
+        "Cheyaalani aashisthaaru andhanantha goppavaarigaa (2)",
+        "Nee daya unte vaaru – Kaagalaru adhipathulugaa",
+        "Nee daya lekapothe ilalo – Brathukuta jarugunaa",
+        "Nee siluva needalone nanu dhaachiyunchaavani",
+        "Naa shesha jeevithaanni neethone gadapaalani  ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేల రాలే నా ప్రాణాన్ని లేపి నన్ను నిలిపావు",
+        "అపవాది కోరలకు అంటకుండ దాచావు (2)",
+        "నీ రెక్కల నీడలో నాకాశ్రయ దుర్గము",
+        "ఏ కీడు నా దారికి రాకుండ నీ కృపను తోడుంచినావు",
+        "నీ పాదాల చెంతనే నే పరవశించాలని",
+        "నా ఆయువున్నంత వరకు నీ ప్రేమ పొందాలని  ||నీ||"
+      ],
+      "english": [
+        "Nela raale naa praanaanni lepi nannu nilipaavu",
+        "Apavaadi koralaku antakunda daachaavu (2)",
+        "Nee rekkala needalo naakaashraya durgamu",
+        "E keedu naa daariki raakunda nee krupanu thodunchinaavu",
+        "Nee paadaala chenthane ne paravashinchaalani",
+        "Naa aayuvunnantha varaku nee prema pondaalani  ||Nee||"
+      ]
+    }
+  ]
+}

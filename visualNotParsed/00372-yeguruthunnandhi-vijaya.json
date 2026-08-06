@@ -1,0 +1,59 @@
+{
+  "song_name": "Eguruthunnadhi vijaya pathaakam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Yesanna"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎగురుతున్నది విజయ పతాకం - యేసు రక్తమే మా జీవిత విజయం",
+      "రోగ దుఃఖ వ్యసనములను తీర్చివేయును - సుఖ జీవనం చేయుటకు శక్తి నిచ్చును",
+      "రక్తమే - రక్తమే - రక్తమే - యేసు రక్తమే",
+      "రక్తమే జయం - యేసు రక్తమే జయం"
+    ],
+    "english": [
+      "Eguruthunnadhi vijaya pathaakam - Yesu rakthame maa jeevitha vijayam",
+      "Roga duhkha vyasanamulanu theerchiveyunu - Sukha jeevanam cheyutaku shakthi nichchunu",
+      "Rakthame - Rakthame - Rakthame - Yesu rakthame",
+      "Rakthame jayam - Yesu rakthame jayam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసుని నామం నుచ్చరింపగనే - సాతాను సైన్యము వణుకుచున్నది",
+        "వ్యాధుల బలము నిర్మూలమైనది - జయం పొందెడి నామము నమ్మినప్పుడే || రక్తమే ||"
+      ],
+      "english": [
+        "Yesuni naamam nuchcharimpagane - Saathaanu sainyamu vanukuchunnadhi",
+        "Vyaadhula balamu nirmoolamainadhi - Jayam pondedi naamamu namminappude || Rakthame ||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దెయ్యపు కార్యాలను గెలిచిన రక్తం - ఎడతెగకుండగ మనము స్మరణ చేయుదం",
+        "పాపపు క్రియలన్నిటిని చెదరగొట్టిన - క్రీస్తుని సిలువను మనము అనుసరించెదం || రక్తమే ||"
+      ],
+      "english": [
+        "Deyyapu kaaryaalanu gelichina raktham - Edathegakundaga manamu smarana cheyudham",
+        "Paapapu kriyalannitini chedharagottina - Kreesthuni siluvanu manamu anusarinchedham || Rakthame ||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మా ప్రేమ వైద్యుడా ప్రాణనాధుడా - ప్రీతితోను నీ హస్తము చాపుము దేవా",
+        "నీ పాద పద్మము పై చేరియున్న ప్రజలను - స్వస్థపరచుము తండ్రి ఈ క్షణమందే || రక్తమే ||"
+      ],
+      "english": [
+        "Maa prema vaidyudaa praananaadhudaa - Preethithonu nee hasthamu chaapumu Devaa",
+        "Nee paada padhmamu pai cheriyunna prajalanu - Svasthaparachumu thandri ee kshanamandhe || Rakthame ||"
+      ]
+    }
+  ]
+}

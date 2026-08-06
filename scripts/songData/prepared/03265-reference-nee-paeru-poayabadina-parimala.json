@@ -1,0 +1,69 @@
+{
+  "song_name": "Yaesu MaDhura Naamamu Paadudi",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు మధుర నామము పాడుడి - ప్రభు"
+    ],
+    "english": [
+      "Yaesu MaDhura Naamamu Paadudi - Prabhu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరమును విడచి - ఇహమున కరిగెను",
+        "పాపుల కొరకై - రక్తము కార్చెను",
+        "పనరుత్థానుడై - రక్షణ నిచ్చె - పూర్ణముగా - ముగించె"
+      ],
+      "english": [
+        "Paramunu Vidachi - Ihamuna Karigenu",
+        "Paapula Korakai - Rakthamu Kaarchenu",
+        "PanaruthThaanudai - RakShNa Nichche - PoorNamugaa - MugiMche"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దుఃఖము నుండి మము - విడిపించెను",
+        "శోకము రోగము లన్నియు - బాపెను",
+        "ఆదరించెను నాదు - హృదయ వేదనలలో - అద్భుతమున్ - జరిగించె"
+      ],
+      "english": [
+        "DhuHkhamu NuMdi Mamu - VidipiMchenu",
+        "Shoakamu Roagamu Lanniyu - Baapenu",
+        "AadhariMchenu Naadhu - Hrudhaya Vaedhanalaloa - Adhbhuthamun - JarigiMche"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "లోక పాపములను - మోసెను ప్రభువు",
+        "లోకము కొరకై గాయము లొందెను",
+        "అధర్మ కార్యములకై - నలిగెను ప్రభువు - అర్పించు కొనెను"
+      ],
+      "english": [
+        "Loaka Paapamulanu - Moasenu Prabhuvu",
+        "Loakamu Korakai Gaayamu LoMdhenu",
+        "ADharma Kaaryamulakai - Naligenu Prabhuvu - ArpiMchu Konenu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ప్రియులారా రండి - కలసి పాడెదము",
+        "ప్రియుడగు ప్రభువున్ - ఆరాధించెదము",
+        "చరణములపై బడి - ఘనపరచెదము - చేరి భయభక్తితో"
+      ],
+      "english": [
+        "Priyulaaraa RMdi - Kalasi Paadedhamu",
+        "Priyudagu Prabhuvun - AaraaDhiMchedhamu",
+        "CharaNamulapai Badi - Ghanaparachedhamu - Chaeri Bhayabhakthithoa"
+      ]
+    }
+  ]
+}

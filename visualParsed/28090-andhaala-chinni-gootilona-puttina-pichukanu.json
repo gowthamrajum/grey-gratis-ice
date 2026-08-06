@@ -1,0 +1,56 @@
+{
+  "song_name": "Andaala chinni gootilona puttina pichchukanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Sreshta Karmoji"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "అందాల చిన్ని గూటిలోన – పుట్టిన పిచ్చుకను",
+      "చిన్ని రెక్కలు చాచి నేను – నింగిలో ఎగిరాను",
+      "ఈ చిన్ని జీవికి రూపం ప్రాణం – అన్నీ ఇచ్చింది యేసే",
+      "ప్రతి కొమ్మ రెమ్మలో ఓ కోయిలమ్మ – జత కలిపి పాడమ్మ"
+    ],
+    "english": [
+      "Andaala chinni gootilona – Puttina pichchukanu",
+      "Chinni rekkalu chaachi nenu – Ningilo egiraanu",
+      "Ee chinni jeeviki roopam praanam – Annee ichchindhi Yese",
+      "Prathi komma remmalo o koyilamma – Jatha kalipi paadamma"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లేచే ప్రతి ఉదయం – పాడే నా ప్రాణం",
+        "పదిలముగా కాచే – ప్రభువే నా లోకం"
+      ],
+      "english": [
+        "Leche prathi udayam – Paade naa praanam",
+        "Padilamugaa kaache – Prabhuve naa lokam"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విత్తలేదు నేను కోయలేదు – కొట్లలో కూర్చుకోలేదు",
+        "కొరతంటూ నాకు తెలియదు – కలతంటూ నాకు లేనేలేదు",
+        "పరలోక తండ్రి నా కొరకు అన్నీ – సమకూర్చుచున్నాడులే",
+        "పిచ్చుక విలువ కాసే ఐనా – రాలునా తండ్రి కాదన్నా",
+        "తన రూపునే మీకు ఇచ్చుకున్న – తన కన్నా యెవరన్నా ప్రేమించునా?",
+        "శ్రేష్టులైన మీరు భయపడ తగునా – మీ తండ్రి తోడుండగా"
+      ],
+      "english": [
+        "Vitthaledhu nenu koyaledhu – Kotlalo koorchukoledhu",
+        "Korathantoo naaku theliyadu – Kalathantoo naaku leneledhu",
+        "Paraloka thandri naa koraku annee – Samakoorchuchunnaadule",
+        "Pichchuka viluva kaase ainaa – Raalunaa thandri kaadhannaa",
+        "Thana roopune meeku ichchukunna – Thana kannaa evarannaa preminchunaa?",
+        "Shreshtulaina meeru bhayapada thagunaa – Mee thandri thodundagaa"
+      ]
+    }
+  ]
+}

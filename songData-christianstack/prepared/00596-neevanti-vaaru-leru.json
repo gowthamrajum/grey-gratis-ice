@@ -1,0 +1,51 @@
+{
+  "song_name": "Neevanti Vaaru Leru",
+  "author": {
+    "Authored by": "Pastor Sanjeev Kumar featuring Vandana Kilimi, Rajesh Yelsatti, Jermiah John Sunith",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవంటివారు లేరు",
+      "యేసు నీవంటివారు లేరు",
+      "భూమియందు స్వర్గమందు",
+      "యేసు నీవంటివారు లేరు"
+    ],
+    "english": [
+      "Neevantivaaru leru",
+      "yesu neevantivaaru leru",
+      "bhoomiyandhu swargamandhu",
+      "yesu neevantivaaru leru"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు యేసు",
+        "యేసు యేసు"
+      ],
+      "english": [
+        "Yesu Yesu",
+        "Yesu Yesu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "Bridge:",
+        "నా నమ్మదగిన దేవా",
+        "నను విడువని నా ప్రభువా",
+        "నా రక్షణ నీవయ్యా",
+        "నా సర్వం నీవయ్యా"
+      ],
+      "english": [
+        "Bridge:",
+        "Naa nammadhagina devaa",
+        "nanu viduvani naa prabhuvaa",
+        "naa rakshana neevayyaa",
+        "naa sarvam neevayyaa"
+      ]
+    }
+  ]
+}

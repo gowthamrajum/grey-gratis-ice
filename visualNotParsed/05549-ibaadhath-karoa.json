@@ -1,0 +1,64 @@
+{
+  "song_name": "Ibaadath karo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "---ఇబాదత్ కరో----",
+      "హే దునియా కే లోగో ఉంఛీ ఆవాజ్ కరో",
+      "గావో ఖుషీ కే గీత్",
+      "ఉస్-కా గున్-గాన్ కరో",
+      "ఇబాదత్ కరో ఉస్-కీ ఇబాదత్ కరో",
+      "ఇబాదత్ కరో ఉస్-కీ ఇబాదత్ కరో (2)"
+    ],
+    "english": [
+      "---Ibaadath karo----",
+      "He duniya ke logo unchee aavaaj karo",
+      "Gaavo khushee ke geeth",
+      "Us-kaa gun-gaan karo",
+      "Ibaadath karo us-kee ibaadath karo",
+      "Ibaadath karo us-kee ibaadath karo (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యాద్ కరో కీ వహీ ఇక్ ఖుదా హై",
+        "హమ్ కో యే జీవన్ ఉసీనే దియా హై",
+        "ఉస్ ఛారగాహ్ సే హమ్ సబ్ హై ఆయే",
+        "హమ్-దో సనా కే హమ్ గీత్ గాయే",
+        "రబ్ క తుమ్ శుక్ర్ కరో  ||ఇబాదత్||"
+      ],
+      "english": [
+        "Yaadh karo kee vahee ik khudaa hai",
+        "Ham ko ye jeevan useene diyaa hai",
+        "Us chaaragaah se ham sab hai aaye",
+        "Ham-dho sanaa ke ham geeth gaaye",
+        "Rab ka thum shukr karo  ||Ibaadath||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నామే ఖుదావన్ కిత్-నా ముబారక్",
+        "మేరా ఖుదావన్ కిత్-నా భళా హై",
+        "రెహ్-మత్ హై ఉస్-కీ సది-యో పురానీ",
+        "వఫా కా అజర్ సే యహీ సిల్-సిలా హై",
+        "ఉస్-పర్ ఈమాన్ ధరో, ఉస్-కే ఘర్ ఆవ్ ఛలో",
+        "ఇబాదత్ కరో ఉస్-కీ ఇబాదత్ కరో ||హే దునియా||  ||ఇబాదత్||"
+      ],
+      "english": [
+        "Naame khudhaavan kith-naa mubaarak",
+        "Meraa khudhaavan kith-naa bhalaa hai",
+        "Reh-math hai us-kee sadhi-yo puraanee",
+        "Vaphaa kaa ajar se yahee sil-silaa hai",
+        "Us-par eemaan dharo, us-ke ghar aav chalo",
+        "Ibaadath karo us-kee ibaadath karo ||He duniya||  ||Ibaadath||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "song_name": "O ho ho o hailessaa hailo hailessaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ. .హో. .హో. .ఓ. .ఓ. .ఓ. .ఓ. .ఓ. .ఓ",
+      "హైలెస్సా. . .హైలో. . .హైలెస్సా (2)",
+      "నా చిన్నిదోనెలో యేసు ఉన్నాడుభయమేమి లేదు నాకు ఎప్పుడు",
+      "యేసుపైనే నా చూపు ఉంచెదా యేసుతోనేనిత్యం నేను సాగెద"
+    ],
+    "english": [
+      "O. .ho. .ho. .o. .o. .o. .o. .o. .o",
+      "Hailessaa. . .hailo. . .hailessaa (2)",
+      "Naa chinni donelo Yesu unnaadu bhayamemi ledu naaku eppudu",
+      "Yesupaine naa choopu unchedhaa Yesuthone nithyam nenu saageda"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పెనుగాలులే, ఎదురొచ్చినా తుఫానులే నన్ను ముంచినా",
+        "జడియక బెదరక నేను సాగెద అలయక సొలయక గమ్యం చేరెద",
+        "హైలెస్సా. . .హైలో. . .హైలెస్సా (2)"
+      ],
+      "english": [
+        "Penugaalule, edurochchinaa thuphaanule nannu munchinaa",
+        "Jadiyaka bedharaka nenu saageda alayaka solayaka gamyam chereda",
+        "Hailessaa. . .hailo. . .hailessaa (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సాతానుడే శోధించినా పరిస్థితులే వికటించినా",
+        "జడియక బెదరక నేను సాగెద అలయక సొలయక గమ్యం చేరెద",
+        "హైలెస్సా. . .హైలో. . .హైలెస్సా (2)"
+      ],
+      "english": [
+        "Saathaanude shodhinchinaa paristhithule vikatinchinaa",
+        "Jadiyaka bedharaka nenu saageda alayaka solayaka gamyam chereda",
+        "Hailessaa. . .hailo. . .hailessaa (2)"
+      ]
+    }
+  ]
+}

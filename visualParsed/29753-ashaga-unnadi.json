@@ -1,0 +1,54 @@
+{
+  "song_name": "Aashagaa Unnadi Prabhu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆశగా ఉన్నది ప్రభు, ఆశగా ఉన్నది..",
+      "ఆశగా ఉన్నది ప్రభు, ఆశగా ఉన్నది",
+      "చూడాలని నిన్ను చూడాలని",
+      "చేరాలని నిన్ను చేరాలని ||2|| ||ఆశ||"
+    ],
+    "english": [
+      "Aashagaa unnadi Prabhu, aashagaa unnadi..",
+      "Aashagaa unnadi Prabhu, aashagaa unnadi",
+      "Choodaalani ninnu choodaalani",
+      "Cheraalani ninnu cheraalani ||2|| ||Aasha||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆత్మ ఫలముల సేద్యము కొరకై అభిలా దేశపు నది నాకివ్వు",
+        "ఆత్మీయ దాహము తీర్చుట కొరకై ఆ బంగారపు జలములనివ్వు",
+        "నిను భజియింపను నిను సేవించను",
+        "బోళపు పరిమళ సుస్వరమివ్వు ||2|| ||ఆశ||"
+      ],
+      "english": [
+        "Aathma phalamula sedhyamu korakai abhilaa deshapu nadi naakivvu",
+        "Aathmeeya daahamu theerchuta korakai aa bangaarapu jalamulanivvu",
+        "Ninu bhajiyimpanu ninu sevinchanu",
+        "Bolapu parimala susvaramivvu ||2|| ||Aasha||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ నీతి రాజ్యము చేరుట కొరకై నిరతము నిన్నే వెదకెదనయ్యా",
+        "నీ సత్య ప్రేమను రుచిచూచుటకై నీ నామస్మరణమే చేసెదనయ్యా",
+        "నీవే మార్గము నీవే సత్యము",
+        "నీవేగా నా జీవన గానము ||2|| ||ఆశ||"
+      ],
+      "english": [
+        "Nee neethi raajyamu cheruta korakai nirathamu ninne vedhakedhanayyaa",
+        "Nee sathya premanu ruchichoochutakai nee naamasmaraname chesedhanayyaa",
+        "Neeve maargamu neeve sathyamu",
+        "Neevegaa naa jeevana gaanamu ||2|| ||Aasha||"
+      ]
+    }
+  ]
+}

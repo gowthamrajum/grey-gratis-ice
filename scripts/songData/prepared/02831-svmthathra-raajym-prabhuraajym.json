@@ -1,0 +1,74 @@
+{
+  "song_name": "Svamthathra Raajyam Prabhuraajyam",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఈ డి నిత్యానందము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్వంతత్ర రాజ్యం ప్రభురాజ్యం స్వామి యేసు ఘన సామ్రాజ్యం",
+      "స్వకీయ రాజ్యంమన రాజ్యం సమాధానముగల రాజ్యం"
+    ],
+    "english": [
+      "Svamthathra Raajyam Prabhuraajyam Svaami Yaesu Ghana Saamraajyam",
+      "Svakeeya Raajyammana Raajyam Samaadhaanamugala Raajyam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆద్యంతము లేనిది యీ రాజ్యం అక్షయ విమల సదా సుఖరాజ్యం",
+        "చోద్యము వచింప సుందర రాజ్యం సురుచిర నీతియు గల రాజ్యం"
+      ],
+      "english": [
+        "Aadhyamthamu Laenidhi Yee Raajyam Akshaya Vimala Sadhaa Sukharaajyam",
+        "Choadhyamu Vachimpa Sumdhara Raajyam Suruchira Neethiyu Gala Raajyam"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మన దేవుని సహవాసము కలుగున్ మరణ దుఃఖ బాధలు మరి తొలుగున్",
+        "యేసులేని కాంతియై ప్రభు వెలుగున్ కనలేమిక చీకటి తొలుగున్"
+      ],
+      "english": [
+        "Mana Dhaevuni Sahavaasamu Kalugun Marana Dhuhkha Baadhalu Mari Tholugun",
+        "Yaesulaeni Kaamthiyai Prabhu Velugun Kanalaemika Cheekati Tholugun"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సూర్చు నెండవడ గాలియు నైనన్ సోకదు తన ప్రజలకు నింతైనన్",
+        "ఆర్యసహాయం బాకలియైనన్ అటనుండవు దాహములైనన్"
+      ],
+      "english": [
+        "Soorchu Nemdavada Gaaliyu Nainan Soakadhu Thana Prajalaku Nimthainan",
+        "Aaryasahaayam Baakaliyainan Atanumdavu Dhaahamulainan"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీతిమంతులట నూతన గీతం ప్రీతిగ పాడుచు ప్రభుని సమేతం",
+        "దూతల బోలి వసింతురు నిరతం జ్యోతులవలె వెలుగుదురు సతం"
+      ],
+      "english": [
+        "Neethimamthulata Noothana Geetham Preethiga Paaduchu Prabhuni Samaetham",
+        "Dhoothala Boali Vasimthuru Niratham Jyoathulavale Velugudhuru Satham"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "జీవ వృక్ష ఫలముల దినిపించున్ జీవ జలంబుల మరి ద్రావించున్",
+        "దేవుడె మన కన్నీటిని దుడుచున్ దేవతలందరి పయినుంచున్"
+      ],
+      "english": [
+        "Jeeva Vruksha Phalamula Dhinipimchun Jeeva Jalambula Mari Dhraavimchun",
+        "Dhaevude Mana Kanneetini Dhuduchun Dhaevathalamdhari Payinumchun"
+      ]
+    }
+  ]
+}

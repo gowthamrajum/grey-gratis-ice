@@ -1,0 +1,66 @@
+{
+  "song_name": "Ennelo ennelaa kannullo ennelaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎన్నెలో ఎన్నెలా కన్నుల్లో ఎన్నెలా",
+      "యేసయ్యను నమ్ముకుంటే ఎన్నెలో ఎన్నెలా",
+      "ఆ సామిని కొలుసుకుంటే బతుకంతా ఎన్నెలా"
+    ],
+    "english": [
+      "Ennelo ennelaa kannullo ennelaa",
+      "Yesayyanu nammukunte ennelo ennelaa",
+      "Aa saamini kolusukunte bathukanthaa ennelaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరలోకం నుండి దొరా నరలోకం వచ్చిండు",
+        "మన సీకటి బతుకుల్లో ఎలుతురే తెచ్చిండు"
+      ],
+      "english": [
+        "Paralokam nundi doraa naralokam vachchindu",
+        "Mana seekati bathukullo eluthure thechchindu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సెంతజేరినోళ్ళకంత సింతలన్ని బాపెనంట",
+        "ఎంతటి రోగాలైనా సిటికెలో తీసేసెనంట"
+      ],
+      "english": [
+        "Senthajerinollakantha sinthalanni baapenanta",
+        "Enthati rogaalainaa sitikelo theesesenanta"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సొరగానికి దారిసూప అడుగుబెట్టె భూమిమీద",
+        "మరణానికి బుద్దిసెప్ప కన్నుమూసె సిలువమీద"
+      ],
+      "english": [
+        "Soragaaniki dhaarisoopa adugubette bhoomimeedha",
+        "Maranaaniki buddhiseppa kannumoose siluvameedha"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సక్కనయ్య మోముజూడ సిక్కులన్ని తీరిపోవు",
+        "మక్కువతో శరణువేడ బతుకంతా మనలగాయు"
+      ],
+      "english": [
+        "Sakkanayya momujooda sikkulanni theeripovu",
+        "Makkuvatho sharanuveda bathukanthaa manalagaayu"
+      ]
+    }
+  ]
+}

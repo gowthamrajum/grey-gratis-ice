@@ -1,0 +1,35 @@
+{
+  "song_name": "Poorna Hrudhayamutho Poorna Aathmatho",
+  "author": {
+    "Authored by": "Joel Kodali",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పూర్ణ హృదయముతో పూర్ణ ఆత్మతో నా పూర్ణ మనస్సుతో నిన్ను ప్రేమింతును మంచి దేవుడవు ఎంతో మంచి ప్రభుడవు నా మంచి ప్రియుడవు యేసు నిను ప్రేమింతును"
+    ],
+    "english": [
+      "poorna hrudhayamutho poorna aathmatho naa poorna manassutho ninnu preminthunu manchi devudavu entho manchi prabhudavu naa manchi priyudavu yesu ninu preminthunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నేనంటు లేనపుడే యేసు నను నీవు యెరిగితివని తెలుసు నిను నేను కోరక మునుపే నను కోరి భువిపై జన్మించి నా పాపము దూరము చేయుటకు నా బలము చాలదు ఆని యెరిగి నీ మదిలో నా పేరు తలచి ఆనాడే నాకై మరణించి రక్షణనిచ్చితివి – ఉచితముగా కృపమూలముగా నీ మేలును ఏల మరతును యేసు నిన్ను ప్రేమింతును"
+      ],
+      "english": [
+        "nenantu lenapude yesu nanu neevu yerigithivani thelusu ninu nenu koraka munupe nanu kori bhuvipai janminchi naa paapamu dhooramu cheyutaku naa balamu chaaladhu ani yerigi nee madhilo naa peru thalachi aanaade naakai maraninchi rakshanichithivi – uchithamugaa krupa moolamugaa nee melunu eyla marathunu yesu ninnu preminthunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాపై నీకంత ప్రేమ ఎందుకనో తెలిపెదవా దేవా ఒక రోత హృదయుని కోసం అన్ని ఘోర శ్రమలను పొందితివా లోకము ఎరుగని వింత ప్రేమ సిలువలో నిను చూడగా కనిపించే నీ దేహముపైన గాయములు ఆ ప్రేమ లోతును కనపరిచే నా పాపమంతటిని – కడిగితివా నీ రక్తముతో నన్నంతగా ప్రేమించితివి – నేను నిన్ను ప్రేమింతును"
+      ],
+      "english": [
+        "naapai neekantha prema endhukano thelipedhavaa devaa oka rotha hrudhayuni kosam anni ghora sramalanu pondhithivaa lokamu erugani vintha prema siluvalo ninu choodagaa kanipinche nee dhehamupaina gaayamulu aa prema lothunu kanariche naa paapamanthatini – kadigithivaa nee rakthamutho nannathagaa preminchithivi – nenu ninnu preminthunu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "song_name": "Sthothram Cheya",
+  "author": {
+    "Authored by": "Pr D.Isaac Gnana Raj",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తోత్రము చేయ వచ్చినాము",
+      "యేసయ్యా నీ సన్నిధికి",
+      "స్తుతియింప వచ్చామయ్యా",
+      "నిన్ను కొనియాడి పాడ",
+      "రాజాధిరాజువని నీ సన్నిధికి"
+    ],
+    "english": [
+      "Sthothramu cheya vachchaanamu",
+      "Yesayyaa nee sannidhiki",
+      "Sthuthiyimp vacchamayya",
+      "Ninnu koniyaadi paada",
+      "Raajadhiraajuvani nee sannidhiki"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శూన్యములో నుండి సమస్తమును",
+        "నీ నోటి మాటచే సృష్టించినావు",
+        "సర్వజగత్తుకు సత్యము నీవే",
+        "మార్గము నీవే జీవము నీవే"
+      ],
+      "english": [
+        "Shoonyamulonu nundi samasthamunu",
+        "Nee noti maata che srushtinchinaavu",
+        "Sarvajagatthuku sathyamu neevea",
+        "Maargamu neevea jeevamu neevea"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆదియు నీవే అంతము నీవే",
+        "సకల సృష్టికి ఆధారం నీవే",
+        "నిత్యము నీవే స్తుతిపాత్రుడవు",
+        "నిత్యము నీవే పూజార్హుడవు"
+      ],
+      "english": [
+        "Aadhiyu neevea anthamu neevea",
+        "Sakala srushtiki aadharam neevea",
+        "Nithyamu neevea sthuthipaathrudavu",
+        "Nithyamu neevea poojaarhudavu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఈ లోకము నన్ను ద్వేషించినప్పుడు",
+        "ఆనందముతో నాట్యమాడెదన్",
+        "పరలోక రాజ్యములో నాదు ఫలము",
+        "అధికమగునని స్తుతియించెదను"
+      ],
+      "english": [
+        "Ee lokamu nannu dhveshinchinappudu",
+        "Aanandhamutho naatyamaadeadan",
+        "Paralokha raajyamulo naadhu phalamu",
+        "Adhikamagunani sthuthiyinchedhanu"
+      ]
+    }
+  ]
+}

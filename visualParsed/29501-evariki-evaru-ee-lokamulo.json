@@ -1,0 +1,66 @@
+{
+  "song_name": "Evariki evaru ee lokamulo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bharat Mandru"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎవరికి ఎవరు ఈ లోకములో",
+      "ఎంతవరకు మనకి బంధము",
+      "ఎవరికి ఎవరు సొంతము",
+      "ఎవరికి ఎవరు శాశ్వతము"
+    ],
+    "english": [
+      "Evariki evaru ee lokamulo",
+      "Enthavaraku manaki bandhamu",
+      "Evariki evaru sonthamu",
+      "Evariki evaru shaashwathamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మన జీవితం ఒక యాత్ర",
+        "మన గమ్యమే ఆ యేసు",
+        "మన జీవితం ఒక పరీక్ష",
+        "దాన్నీ గెలవడమే ఒక తపన"
+      ],
+      "english": [
+        "Mana jeevitham oka yaathra",
+        "Mana gamyame aa Yesu",
+        "Mana jeevitham oka pareeksha",
+        "Daannee gelavadame oka thapana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తల్లిదండ్రుల ప్రేమ ఈ లోకమున్నంతవరకే",
+        "అన్నదమ్ముల ప్రేమ అనురాగమున్నంతవరకే",
+        "స్నేహితుల ప్రేమ ప్రియురాలి ప్రేమ",
+        "స్నేహితుల ప్రేమ ప్రియుని ప్రేమ",
+        "నీ ధనమున్నంతవరకే",
+        "ఈ లోక శ్రమలు ఈ దేహమున్నంతవరకే",
+        "ఈ లోక శోధనలు క్రీస్తులో నిలిచేంత వరకే",
+        "యేసులో విశ్వాసము యేసుకై నిరీక్షణ",
+        "కాదెన్నడు నీకు వ్యర్థం"
+      ],
+      "english": [
+        "Thallidandrula prema ee lokamunnanthavarake",
+        "Annadhammula prema anuraagamunnanthavarake",
+        "Snehithula prema priyuraali prema",
+        "Snehithula prema priyuni prema",
+        "Nee dhanamunnanthavarake",
+        "Ee loka shramalu ee dhehamunnanthavarake",
+        "Ee loka shodhanalu Kreesthulo nilichentha varake",
+        "Yesulo vishwaasamu Yesukai nireekshana",
+        "Kaadhennadu neeku vyartham"
+      ]
+    }
+  ]
+}

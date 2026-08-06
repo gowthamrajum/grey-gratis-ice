@@ -1,0 +1,78 @@
+{
+  "song_name": "Chithikina naa jeevitham",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "చితికిన నా జీవితము చినిగిన ఓ కాగితము",
+      "నా గుండె పగిలేనయ్యా నా మనసు విరిగేనయ్య"
+    ],
+    "english": [
+      "Chithikina naa jeevithamu chinigina o kaagithamu",
+      "Naa gunde pagilenayyaa naa manasu virigenayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా ఆశ నీవే కావా నా మార్గములు నీవేగా",
+        "నీ చేతితోనే నన్ను నడిపించుమా నా యేసు"
+      ],
+      "english": [
+        "Naa aasha neeve kaavaa naa maargamulu neevegaa",
+        "Nee chethithone nannu nadipinchumaa naa Yesu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అలనాడు దానియేలు బబులోను దేశములో",
+        "నీ పక్షముగా నిలబడినాడు",
+        "నా ఆశ అదియే దేవా",
+        "నా మార్గము అదియే",
+        "నీ మాటతోనే నన్ను బ్రతికించుమా నా యేసు"
+      ],
+      "english": [
+        "Alanaadu Daaniyelu Babulonu deshamulo",
+        "Nee pakshamugaa nilabadinaadu",
+        "Naa aasha adiye Deva",
+        "Naa maargamu adiye",
+        "Nee maatathone nannu brathikinchumaa naa Yesu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అలనాడు యోబును శ్రమలన్నిటి మధ్యన",
+        "నడిపించినావా దేవా",
+        "నా ఆశ అదియే దేవా",
+        "నా మార్గము అదియే",
+        "విశ్వాసముతో నన్ను చిగురింపచేయుము దేవా"
+      ],
+      "english": [
+        "Alanaadu Yobunu shramalanniti madhyana",
+        "Nadipinchinaavaa Deva",
+        "Naa aasha adiye Deva",
+        "Naa maargamu adiye",
+        "Vishwaasamutho nannu chigurimpacheyumu Deva"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "అలనాడు పౌలును నీ రెక్కల నీడలో కాపాడినావా దేవా",
+        "నా ఆశ అదియే దేవా",
+        "పరిశుద్దతతో నన్ను కడవరకు నడిపించు"
+      ],
+      "english": [
+        "Alanaadu Paulunu nee rekkala needalo kaapaadinaavaa Deva",
+        "Naa aasha adiye Deva",
+        "Parishuddhathatho nannu kadavaraku nadipinchu"
+      ]
+    }
+  ]
+}

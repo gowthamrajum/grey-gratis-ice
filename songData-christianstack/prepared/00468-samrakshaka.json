@@ -1,0 +1,60 @@
+{
+  "song_name": "Samrakshaka",
+  "author": {
+    "Authored by": "Pastor Dr. Pammi Daniel",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "బాలురందరు వృద్ధులందరు",
+      "ఎల్లరూ పాడెదం",
+      "ఉల్లాసముతో నుతియించెదము",
+      "ఇదియే సమయము"
+    ],
+    "english": [
+      "Baalurandharu vrudhulandharu",
+      "ellaru paadedham",
+      "ullaasamutho nuthiyinchedhamu",
+      "idhiye samayamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సంరక్షకా విమోచకా",
+        "రక్షకా సంరక్షకా"
+      ],
+      "english": [
+        "Samrakshakaa vimochakaa",
+        "rakshakaa samrakshakaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ధివినే విడచి భువికేతెంచిన నిజ రక్షకుడా స్తోత్రం",
+        "పాపులకై మార్గము చూపించుటకుదయించిన రాజా స్తోత్రం"
+      ],
+      "english": [
+        "Dhivine vidachi bhuvikethenchina nija rakshakudaa sthothram",
+        "papulakai maargamu chupinchutakudhayinchina raaja sthothram"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సర్వ లోక నాధా స్తోత్రం",
+        "సర్వస్థులకు అర్హుడ స్తోత్రం",
+        "మహిమా ప్రధాత స్తోత్రం",
+        "పరలోకపు ఘనతయు నీకే"
+      ],
+      "english": [
+        "Sarva loka naadha sthothram",
+        "sarvasthuthulaku arhudaa sthothram",
+        "mahimaa pradhaathaa sthothram",
+        "paralokapu ghanathayu neeke"
+      ]
+    }
+  ]
+}

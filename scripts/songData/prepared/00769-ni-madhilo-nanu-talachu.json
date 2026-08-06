@@ -1,0 +1,54 @@
+{
+  "song_name": "Ni. . .Madhilo Nanu Talachu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ. . .మధిలో నను తలచు ప్రభువా",
+      "నీ. . .మధిలో నను తలచు నా ప్రభువా",
+      "నను తలచిన తరుణములో నా పాపము పరిహరించు (2)"
+    ],
+    "english": [
+      "Ni. . .Madhilo Nanu Talachu Prabuva",
+      "Ni. . .Madhilo Nanu Talachu Na Prabuva",
+      "Nanu Talachina Tarunamulo Na Papamu Pariharimchu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రాపంచిక వ్యసనములో నే చిక్కితినో ప్రభువా (2)",
+        "నను విడుదల చేయుమయా పరిశుద్ధుని చేయుమయా (2)"
+      ],
+      "english": [
+        "Prapamchika Vyasanamulo Ne Chikkitino Prabuva (2)",
+        "Nanu Vidudala Cheyumaya Parisuddhuni Cheyumaya (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అనురాగపు వీక్షణతో నా దు:ఖము బాపుమయా (2)",
+        "ప్రియ సేవకుడను నేనై సవి చూతును విశ్రాంతి (2)"
+      ],
+      "english": [
+        "Anuragapu Vikshanato Na Du:Kamu Bapumaya (2)",
+        "Priya Sevakudanu Nenai Savi Chutunu Visramti (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "చీకటిలో కలతలలో నను బాయకుమో దేవా (2)",
+        "చూపించుము నా ప్రభువా నీ స్వర్గపు మార్గమును (2)"
+      ],
+      "english": [
+        "Chikatilo Kalatalalo Nanu Bayakumo Deva (2)",
+        "Chupimchumu Na Prabuva Ni Svargapu Margamunu (2)"
+      ]
+    }
+  ]
+}

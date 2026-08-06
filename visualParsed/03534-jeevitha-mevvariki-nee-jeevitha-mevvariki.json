@@ -1,0 +1,82 @@
+{
+  "song_name": "Jeevitha mevvariki nee jeevitha mevvariki",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "జీవిత మెవ్వరికి, నీ జీవిత మెవ్వరికి?",
+      "ఈ లోకములో జీవించు జీవితమంత",
+      "జీవిత మెవ్వరికి, నీ జీవిత మెవ్వరికి?"
+    ],
+    "english": [
+      "Jeevitha mevvariki, nee jeevitha mevvariki?",
+      "Ee lokamulo jeevinchu jeevithamantha",
+      "Jeevitha mevvariki, nee jeevitha mevvariki?"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శరీరేచ్ఛలకై ఆశలుండు - ఈ ధరణియందు",
+        "సుఖభోగులుగా జీవింతురు - ఈ ధరణియందు",
+        "వారి యూహలు దినమెల్ల చెడియున్నవి",
+        "వారి పాప జీవిత మంత శాపమెగ"
+      ],
+      "english": [
+        "Shareerechchhalakai aashalundu - Ee dharaniyandhu",
+        "Sukhabhogulugaa jeevintharu - Ee dharaniyandhu",
+        "Vaari yoohalu dinamella chediyunnavi",
+        "Vaari paapa jeevitha mantha shaapamega"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ధనాపేక్షకులెందరో గలరు - ఈ ధరణియందు",
+        "ధనముపై మనస్సు నిల్పెదరు - ఈ ధరణియందు",
+        "వారి కలవరమంత ధనము ధనమే",
+        "వారు బ్రతికెడు బ్రతుకంత క్షీణతయే"
+      ],
+      "english": [
+        "Dhanaapekshakulendharo galaru - Ee dharaniyandhu",
+        "Dhanamupai manassu nilpedharu - Ee dharaniyandhu",
+        "Vaari kalavaramantha dhanamu dhaname",
+        "Vaaru brathikedu brathukantha ksheenathaye"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "స్వంత బోధలకై బ్రతికెదరు - ఈ ధరణియందు",
+        "గర్వమునకు అమ్మబడి యుందురు - ఈ ధరణియందు",
+        "వారి మనసులు సంకుచితములై యుండు",
+        "వారి జీవిత ప్రయాసము - పతనమేగా"
+      ],
+      "english": [
+        "Swantha bodhalakai brathikedharu - Ee dharaniyandhu",
+        "Garvamunaku ammabadi yundhuru - Ee dharaniyandhu",
+        "Vaari manasulu sankuchithamulai yundu",
+        "Vaari jeevitha prayaasamu - Pathanamegaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "విరిగిన హృదయులు కలరెందరో - ఈ ధరణియందు",
+        "కరిగెడు ఉప్పుగ నుండెదరు - ఈ ధరణియందు",
+        "వారు ప్రభుకై దాగియే నిలచెదరు",
+        "దైవ వాక్కుగ దినమెల్ల సేవింతురు"
+      ],
+      "english": [
+        "Virigina hrudayulu kalarendharo - Ee dharaniyandhu",
+        "Karigedu uppuga nundedharu - Ee dharaniyandhu",
+        "Vaaru Prabhukai dhaagiye nilachedharu",
+        "Daiva vaakkuga dinamella sevintharu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "song_name": "Thalli Garbhamulo",
+  "author": {
+    "Authored by": "Phillip Prakash",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా తల్లి కనక ముందే",
+      "నీవు నన్ను కన్నావయ్యా",
+      "ఏ కన్ను చూడకముందే",
+      "నా పేరెత్తి పిలిచావయ్యా"
+    ],
+    "english": [
+      "Naa thalli kanaka mundhe",
+      "neevu nannu kannaavayyaa",
+      "ye kannu choodakamundhe",
+      "naa peretthi pilichaavayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎంతగా నిను స్తుతియించిననూ",
+        "తీర్చలేను నీ రుణము",
+        "నీవు చాలును జీవితాంతము",
+        "వీడిపోను ఏ క్షణము"
+      ],
+      "english": [
+        "Enthagaa ninu stuthiyinchinanu",
+        "theerchalenu nee runamu",
+        "neevu chaalunu jeevithaanthamu",
+        "veediponu ey kshanamu"
+      ]
+    }
+  ]
+}

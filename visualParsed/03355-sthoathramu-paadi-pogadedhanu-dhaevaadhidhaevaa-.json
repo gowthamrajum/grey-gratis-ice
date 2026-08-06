@@ -1,0 +1,77 @@
+{
+  "song_name": "Sthothramu paadi pogadedanu Dhevaadhidhevaa ninu raajaadhiraajaa ninu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తోత్రము పాడి పొగడెదను",
+      "దేవాదిదేవా నిను రాజాధిరాజా నిను",
+      "మ్రొక్కి కీర్తించెదను"
+    ],
+    "english": [
+      "Sthothramu paadi pogadedanu",
+      "Dhevaadhidhevaa ninu raajaadhiraajaa ninu",
+      "Mrokki keerthinchedanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అద్భుతమైన ప్రేమ - నాలో పరమతండ్రి చూపు శుద్ధ ప్రేమ",
+        "ఎన్నడును మారని ప్రేమ - నాలో నిలుచుండు ప్రేమ"
+      ],
+      "english": [
+        "Adbhuthamaina prema - Naalo paramathandri choopu shuddha prema",
+        "Ennadunu maarani prema - Naalo niluchundu prema"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జ్యోతిగా జగమునకు - వచ్చి జీవమిచ్చి నన్నుకొన్న ప్రేమ",
+        "త్యాగియైన క్రీస్తు ప్రేమ - దివ్య మధుర ప్రేమ"
+      ],
+      "english": [
+        "Jyothigaa jagamunaku - Vachchi jeevamichchi nannukonna prema",
+        "Thyaagiyaina Kreesthu prema - Divya madhura prema"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మాయలోక ప్రేమను - నమ్మి నశించిన నన్ను ప్రేమించెను",
+        "నన్ను జయించిన దైవ ప్రేమ - నాలో ఉప్పొంగు ప్రేమ"
+      ],
+      "english": [
+        "Maayaloka premanu - Nammi nashinchina nannu preminchenu",
+        "Nannu jayinchina daiva prema - Naalo uppongu prema"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆధారమైన ప్రేమ - దినము మాతవలె నన్నాదుకొను ప్రేమ",
+        "ఉన్నత మహా దైవ ప్రేమ - నన్నాకర్షించె ప్రేమ"
+      ],
+      "english": [
+        "Aadhaaramaina prema - Dinamu maathavale nannaadhukonu prema",
+        "Unnatha mahaa daiva prema - Nannaakarshinche prema"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మాట తప్పని ప్రేమ - పరమ వాక్కు నిచ్చి ఆదరించె ప్రేమ",
+        "సర్వ శక్తిగల దైవ ప్రేమ - సతతము నుండు ప్రేమ"
+      ],
+      "english": [
+        "Maata thappani prema - Parama vaakku nichchi aadarinche prema",
+        "Sarva shakthigala daiva prema - Sathathamu nundu prema"
+      ]
+    }
+  ]
+}

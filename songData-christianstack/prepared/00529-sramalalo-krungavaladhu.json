@@ -1,0 +1,52 @@
+{
+  "song_name": "Sramalalo Krungavaladhu",
+  "author": {
+    "Authored by": "Dr. John Wesly",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "శ్రమలలో కృంగవలదు – జడివానలో బెదరవలదు",
+      "హృదయమే పగిలినా – దుఃఖమే పొంగిన",
+      "యేసే నీకు తోడుగా – యేసే నీకు నీడగా"
+    ],
+    "english": [
+      "Sramalalo krungavaladu – jadivaanalo bedaravaladu",
+      "hrudayame pagilina – dukhame pongina",
+      "yesay neeku thodugaa – yesay neeku needagaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గాలి తుఫానులు సమసిపోయే",
+        "దుఃఖముఖులు నాట్యమాడే",
+        "భ్రమలు బ్రాంతి శూన్యమయ్యె",
+        "పాత బ్రతుకు క్రోత్తదాయె",
+        "నిలిచెనా ఎవ్వరైనా – మేలు పొందక యేసు ముందు",
+        "మేలు పొందక యేసు ముందు",
+        "అంధకారం తొలగిపోయే",
+        "కారు మబ్బులు కానరాయె",
+        "దుష్టశక్తులు దూరమయ్యే",
+        "భయము భీతి మౌనమయ్యె",
+        "ఓడేనా ఎవ్వరైనా – యేసు రక్తం చేరినపుడు",
+        "యేసు రక్తం చేరినపుడు"
+      ],
+      "english": [
+        "Gaali thufaanulu samasipoye",
+        "dukhamukhulu naatyamaade",
+        "bhramalu branthi sunyamayye",
+        "paatha brathuku krotthadaaye",
+        "nilichenaa evvaraina- melu pondaka yesu mundhu",
+        "melu pondaka yesu mundhu",
+        "Andhakaaram tholagipoye",
+        "kaaru mabbulu kaanaraaye",
+        "dusta shakthulu dooramayye",
+        "bhayamu bheethi maunamayye",
+        "oodenaa evvarainaa – yesu raktham cherinappudu",
+        "yesu raktham cherinappudu"
+      ]
+    }
+  ]
+}

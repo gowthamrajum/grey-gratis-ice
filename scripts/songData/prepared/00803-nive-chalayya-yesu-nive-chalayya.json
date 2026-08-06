@@ -1,0 +1,61 @@
+{
+  "song_name": "Nive Chalayya Yesu Nive Chalayya",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవే చాలయ్యా యేసు నీవే చాలయ్యా (2)",
+      "నా జీవితానికి నీవే మేలయ్యా",
+      "ప్రేమించువాడవు పాలించువాడవు",
+      "క్షమియించువాడవు నీవే యేసయ్యా (2)",
+      "నా కన్నీటి లోయలో నన్ను లేవదీసిన",
+      "నీవే చాలయ్యా యేసు నీవే మేలయ్యా (2)"
+    ],
+    "english": [
+      "Nive Chalayya Yesu Nive Chalayya (2)",
+      "Na Jivitaniki Neve Melayya",
+      "Premimchuvadavu Palimchuvadavu",
+      "Kshamiyimchuvadavu Nive Yesayya (2)",
+      "Na Kanniti Loyalo Nanu Levadisina",
+      "Nive Chalayya Yesu Nive Melayya (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రేమించువారు లేక పక్షినైతిని",
+        "దరిచేర్చేవారు లేక దూరమైతిని",
+        "క్షమియించేచారు లేక దోషినైతిని",
+        "పాప పరిహారము కోరి నిన్ను చేరితి",
+        "నా పాపాన్ని నీ ఓర్చి నన్ను మనిషి చేసిన"
+      ],
+      "english": [
+        "Premimchuvaru Leka Pakshinaitini",
+        "Daricherchevaru Leka Duramaitini",
+        "Kshamiyimchecharu Leka Doshinaitini",
+        "Papa Pariharamu Kori Ninnu Cheriti",
+        "Na Papanni Ni Orchi Nanu Manishi Chesina"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేను పుట్టకుముందే నీవు నన్ను చూచితివి",
+        "రూపించ బడకముందే నన్ను ఎరిగితివి",
+        "పిండముగా ఉన్నప్పుడే నన్ను ఏర్పరచితివి",
+        "ఏ అర్హత లేకున్నా నన్ను ప్రేమించితివి",
+        "నీ కల్వరి ప్రేమతో నన్ను గెలుచుకొన్నట్టి"
+      ],
+      "english": [
+        "Nenu Puttakumumde Nivu Nannu Chuchitivi",
+        "Rupimcha Badakamumde Nannu Erigitivi",
+        "Pimdamuga Unnappude Nannu Erparachitivi",
+        "E Arhata Lekunna Nannu Premimchitivi",
+        "Ni Kalvari Premato Nannu Geluchukonnatti"
+      ]
+    }
+  ]
+}

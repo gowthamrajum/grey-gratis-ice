@@ -1,0 +1,63 @@
+{
+  "song_name": "Yesu anu naamame naa madhura",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Yesanna"
+    ],
+    "రచన": [
+      "బ్రదర్ యేసన్న"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు అను నామమే - నా మధుర గానమే (2)",
+      "నా హృదయ ధ్యానమే - యేసు అను నామమే...."
+    ],
+    "english": [
+      "Yesu anu naamame - naa madhura gaaname (2)",
+      "Naa hrudaya dhyaaname - Yesu anu naamame...."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా అడుగులు జార సిద్ధమాయెను (2)",
+        "అంతలోన నా ప్రియుడు (2)",
+        "నన్ను కౌగలించెను (1)  ||యేసు||"
+      ],
+      "english": [
+        "Naa adugulu jaara siddhamaayenu (2)",
+        "Anthalona naa priyudu (2)",
+        "Nannu kaugalinchenu (1)  ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అగాధజలములలోన - అలమటించు వేళ (2)",
+        "జాలి వీడి విడువక (2)",
+        "నన్ను ఆదరించెను (1)  ||యేసు||"
+      ],
+      "english": [
+        "Agaadhajalamulalona - alamatinchu vela (2)",
+        "Jaali veedi viduvaka (2)",
+        "Nannu aadarinchenu (1)  ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అడవి చెట్లలోన - జల్దరు వృక్షంబు వలె (2)",
+        "పురుషులలో నా ప్రియుడు (2)",
+        "అధిక కాంక్షనీయుడు (1)  ||యేసు||"
+      ],
+      "english": [
+        "Adavi chetlalona - jaldaru vrukshambu vale (2)",
+        "Purushulalo naa priyudu (2)",
+        "Adhika kaankshaneeyudu (1)  ||Yesu||"
+      ]
+    }
+  ]
+}

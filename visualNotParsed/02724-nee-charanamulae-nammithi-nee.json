@@ -1,0 +1,94 @@
+{
+  "song_name": "Nee charanamule nammithi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ లే నమ్మితి నీ పాదములే పట్టితిఁ బట్టితిఁ బట్టితి",
+      "||నీ లే||"
+    ],
+    "english": [
+      "Nee le nammithi nee paadamule pattithi battithi battithi",
+      "||Nee le||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దిక్కిఁక నీవే చక్కఁగ రావే మిక్కిలి మ్రొక్కుదు మ్రొక్కుదు మ్రొక్కుదు  ||నీ||"
+      ],
+      "english": [
+        "Dhikkika neeve chakkaga raave mikkili mrokkudu mrokkudu mrokkudu ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఐహిక సుఖము నరసితి నిత్యము ఆహాహా ద్రోహిని ద్రోహిని ద్రోహిని  ||నీ||"
+      ],
+      "english": [
+        "Aihika sukhamu narasithi nithyamu aahaahaa drohini drohini drohini ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "న్యాయము గాని నా క్రియ లన్ని రోయుచుఁ ద్రోయకు త్రోయకు",
+        "త్రోయకు  ||నీ||"
+      ],
+      "english": [
+        "Nyaayamu gaani naa kriya lanni royuchu dhroyaku throyaku",
+        "Throyaku ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "భావము మార్చి నావెతఁ దీర్చి దేవర ప్రోవవే ప్రోవవే ప్రోవవే  ||నీ||"
+      ],
+      "english": [
+        "Bhaavamu maarchi naavetha deerchi Devara provave provave provave ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "చంచల బుద్ధి వంచన యెద్ది ఉంచక త్రుంచవే త్రుంచవే త్రుంచవే  ||నీ||"
+      ],
+      "english": [
+        "Chanchala buddhi vanchana eddhi unchaka thrunchave thrunchave thrunchave ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "చుట్టుకొని యున్న శోధన లున్నఁ పట్టు విడఁ గొట్టవే కొట్టవే కొట్టవే  ||నీ||"
+      ],
+      "english": [
+        "Chuttukoni yunna shodhana lunna pattu vida gottave kottave kottave ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "నాచు పిశాచి నరుకుట గాచి కాచుకో దాఁచవే దాఁచవే దాఁచవే  ||నీ||"
+      ],
+      "english": [
+        "Naachu pishaachi narukuta gaachi kaachuko daachave daachave daachave ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "యేసుని తోడ నెన్వరు సాటి దోసముఁ బాపును బాపును బాపును  ||నీ||"
+      ],
+      "english": [
+        "Yesuni thoda nenvaru saati dhosamu baapunu baapunu baapunu ||Nee||"
+      ]
+    }
+  ]
+}

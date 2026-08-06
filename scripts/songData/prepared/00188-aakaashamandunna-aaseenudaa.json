@@ -1,0 +1,52 @@
+{
+  "song_name": "Aakaashamandunna Aaseenudaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆఅకాశమన్డున్న ఆఅసీనుడా ణీ థట్టు కనులెత్తుచున్నాను",
+      "ణెను ణీ థట్టు కనులెత్తుచున్నాను"
+    ],
+    "english": [
+      "Aakaashamandunna Aaseenudaa Nee Thattu Kanuleththuchunnaanu",
+      "Nenu Nee Thattu Kanuleththuchunnaanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఢారి థప్పిన ఙొర్రెను ణెను ఢారి కానక థిరుగుచున్నాను (2)",
+        "కరునిన్చుమా Yఎసు కాపాడుమా"
+      ],
+      "english": [
+        "Daari Thappina Gorrenu Nenu Daari Kaanaka Thiruguchunnaanu (2)",
+        "Karuninchumaa Yesu Kaapaadumaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఙాయపడిన ఙొర్రెను ణెను భాగు ఛెయుమా Pఅరమ Vఐడ్యుడా (2)",
+        "కరునిన్చుమా Yఎసు కాపాడుమా"
+      ],
+      "english": [
+        "Gaayapadina Gorrenu Nenu Baagu Cheyumaa Parama Vaidyudaa (2)",
+        "Karuninchumaa Yesu Kaapaadumaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "Pఆప ఓఒభిలొ Pఅడియున్నాను ళెవనెత్తుమా ణన్ను భాగు ఛెయుమా (2)",
+        "కరునిన్చుమా Yఎసు కాపాడుమా"
+      ],
+      "english": [
+        "Paapa Oobhilo Padiyunnaanu Levaneththumaa Nannu Baagu Cheyumaa (2)",
+        "Karuninchumaa Yesu Kaapaadumaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "song_name": "Aasheervaadhambul maameedha varshimpajeyu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆశీరవంబు ల్మామీఁద",
+      "వర్షింపజేయు మీశ",
+      "యాశతో నమ్మి యున్నాము",
+      "నీసత్య వాగ్దత్తము.",
+      "|| ఇమ్మహి మీద",
+      "క్రుమ్మరించుము దేవ",
+      "క్రమ్మర ప్రేమ వర్షంబున్",
+      "గ్రుమ్మరించుము దేవా ||"
+    ],
+    "english": [
+      "Aasheervaadhambul maameedha",
+      "Varshimpajeyu meesha",
+      "Yaashatho nammi yunnaamu",
+      "Neesathya vaagdhaththamu.",
+      "|| Immahi meeda",
+      "Krummarinchumu Deva",
+      "Krammara prema varshambun",
+      "Grummarinchumu Devaa ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఓ దేవ పంపింప వయ్యా",
+        "నీ దీవెన ధారలన్",
+        "మా దాహ మెల్లను బాపు",
+        "మాధుర్యమౌ వర్షమున్"
+      ],
+      "english": [
+        "O Deva pampimpa vayyaa",
+        "Nee deevena dhaaralan",
+        "Maa dhaaha mellanu baapu",
+        "Maadhuryamau varshamun"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మామీఁద కురియించు మీశ",
+        "ప్రేమ ప్రవాహంబులన్",
+        "సమస్త దేశంబు మీఁద",
+        "క్షామంబు పోనట్లుగన్."
+      ],
+      "english": [
+        "Maameedha kuriyinchu meesha",
+        "Prema pravaahambulan",
+        "Samastha dheshambu meeda",
+        "Kshaamambu ponatlugan."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఈనాఁడె వర్షింపు మీశ",
+        "నీ నిండు దీవెనలన్",
+        "నీ నామమందున వేఁడి",
+        "సన్నుతిఁ బ్రార్థింతుము."
+      ],
+      "english": [
+        "Eenaade varshimpu meesha",
+        "Nee nindu dheevenalan",
+        "Nee naamamandhuna vedi",
+        "Sannuthi braarthinthumu."
+      ]
+    }
+  ]
+}

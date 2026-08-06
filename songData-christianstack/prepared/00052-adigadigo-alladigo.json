@@ -1,0 +1,141 @@
+{
+  "song_name": "Adigadigo Alladigo",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "అదిగదిగో అల్లదిగో",
+      "కల్వరి మెట్టకు దారదిగో",
+      "ఆ ప్రభువును వేసిన సిలువదిగో"
+    ],
+    "english": [
+      "Adhigadhigo alladhigo",
+      "Kalvari mettaku dhaaradhigo",
+      "Aa Prabhuvunu vesina siluvadhigo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గెత్సేమను ఒక తోటదిగో",
+        "ఆ తోటలో ప్రార్ధన స్థలమదిగో",
+        "అచటనే యుండి ప్రార్ధించుడని",
+        "పలికిన క్రీస్తు మాటదిగో"
+      ],
+      "english": [
+        "Gethsemanu oka thotadhigo",
+        "Aa thotalo praarthana sthalamadhigo",
+        "Achatane undi praarthinchuḍani",
+        "Palikina Kreesthu maatadhigo"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శిష్యులలో ఇస్కరియోతు",
+        "యూదాయను ఒక ఘాతకుడు",
+        "ప్రభువును యూదులకప్పగింప",
+        "పెట్టిన దొంగ ముద్దదిగో"
+      ],
+      "english": [
+        "Shishyulalo Iskariyothu",
+        "Yoodaayanu oka ghaatakudu",
+        "Prabhuvunu Yoodulakappagimpa",
+        "Pettina donga muddadhigo"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "లేఖనము నెరవేరుటకై",
+        "ఈ లోకపు పాపము పోవుటకై",
+        "పావనుడేసుని రక్తమును గల",
+        "ముప్పది రూకల మూటదిగో"
+      ],
+      "english": [
+        "Lekhanamu neraverutakai",
+        "Ee lokapu paapamu povutakai",
+        "Paavanudaina Yesuni raktamunu gala",
+        "Muppadi rookala mootadigo"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "చలికాచుకొను గుంపదిగో",
+        "ఆ పేతురు బొంకిన స్థలమదిగో",
+        "మూడవసారి బొంకిన వెంటనే",
+        "కొక్కొరొకోయను కూతదిగో"
+      ],
+      "english": [
+        "Chalikachukonu gumpadigo",
+        "Aa Pethuru bonkina sthalamadigo",
+        "Moodavasari bonkina ventane",
+        "Kokkorokoyanu koothadigo"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యూదుల రాజువు నీవేనా",
+        "మోదముతో నీవన్నట్లే",
+        "నీలో దోషము కనుగొనలేక",
+        "చేతులు కడిగిన పిలాతుడాడుగో"
+      ],
+      "english": [
+        "Yoodula Raajuvu neevenaa",
+        "Modamutho neevannatle",
+        "Neelo doshamu kanugonaleka",
+        "Chethulu kadigina Pilaatudaaḍugo"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "గొల్గొతా స్థల అద్దరిని",
+        "ఆ ఇద్దరు దొంగల మధ్యమున",
+        "సాక్షాత్తు యెహోవా తనయుని",
+        "సిలువను వేసిరి చూడదిగో"
+      ],
+      "english": [
+        "Golgotha sthala addarini",
+        "Aa iddaru dongala madhyamuna",
+        "Saakshaatthu Yehova thanayuni",
+        "Siluvanu vesiri choodadigo"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "గొల్లున ఏడ్చిన తల్లదిగో",
+        "ఆ తల్లికి చెప్పిన మాటదిగో",
+        "యూదుల రాజా దిగి రమ్మనుచు",
+        "హేళన చేసిన మూకదిగో"
+      ],
+      "english": [
+        "Golluna edchina thalladigo",
+        "Aa thalliki cheppina maatadigo",
+        "Yoodula Raajaa digi rammanuchu",
+        "Helana chesina mookadigo"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "దాహము గొనుచున్నాననుచు",
+        "ప్రాణము విడిచెను పావనుడు",
+        "పరిశుద్ధుడు మన రక్షకుడేసు",
+        "మన మది యేమో గమనించు"
+      ],
+      "english": [
+        "Daahamu gonuchunnanuchu",
+        "Praanamu vidichenu Paavanudu",
+        "Parishuddhudu mana rakshakudaina Yesu",
+        "Mana madi yemo gamaninchuu"
+      ]
+    }
+  ]
+}

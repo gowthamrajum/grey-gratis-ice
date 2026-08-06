@@ -1,0 +1,73 @@
+{
+  "song_name": "Raajula raaju puttaadandi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Manoj David"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాజుల రాజు పుట్టాడండి",
+      "రక్షణ లోకానికి తెచ్చాడండి",
+      "ప్రభువుల ప్రభువు పుట్టాడండి",
+      "పరమును వీడి వచ్చాడండి",
+      "ఆనందం ఆనందం ఇలలో ఆనందం",
+      "అంబరాలు అంటే సంబరాలు చేసేద్దాం"
+    ],
+    "english": [
+      "Raajula raaju puttaadandi",
+      "Rakshana lokaaniki thechchaadandi",
+      "Prabhuvula prabhuvu puttaadandi",
+      "Paramunu veedi vachchaadandi",
+      "Aanandam aanandam ilalo aanandam",
+      "Ambaraalu ante sambaraalu chesedhdhaam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దూతలే దిగివచ్చెను",
+        "యేసు రాజునే సేవించెను",
+        "గొల్లలంత కూడివచ్చెను",
+        "మహరాజునే స్తుతియించెను",
+        "పాపవిమోచకుడు రక్షకుడు అని",
+        "స్తుతియించి నాట్యమాడిరి",
+        "ఆకాశంలో తార వెలసెను",
+        "ప్రభు జాడనే చూపించెను",
+        "జ్ఞానులు వెదకి వచ్చెను",
+        "గొప్ప కానుకలే ప్రభువుకిచ్చెను",
+        "గొప్ప దేవుడని ప్రభువుల ప్రభువని",
+        "ఘనపరచి కొనియాడిరి",
+        "లోకమంత సంతోషము",
+        "ప్రతి మనసులో రక్షణానందము",
+        "జనమంతా చూడవచ్చెను",
+        "యేసురాజు మహ జననము",
+        "రాజుల రాజని ప్రభువుల ప్రభువని",
+        "పూజించి మహిమపరిచిరి"
+      ],
+      "english": [
+        "Doothale dhigivachchenu",
+        "Yesu raajune sevinchenu",
+        "Gollalantha koodivachchenu",
+        "Maharaajune sthuthiyinchenu",
+        "Paapavimochakudu rakshakudu ani",
+        "Sthuthiyinchi naatyamaadiri",
+        "Aakaashamlo thaara velasenu",
+        "Prabhu jaadane choopinchenu",
+        "Gnaanulu vedaki vachchenu",
+        "Goppa kaanukale prabhuvukichchenu",
+        "Goppa Devudani prabhuvula prabhuvani",
+        "Ghanaparachi koniyaadiri",
+        "Lokamantha santhoshamu",
+        "Prathi manasulo rakshanaanandhamu",
+        "Janamanthaa choodavachchenu",
+        "Yesuraaju maha jananamu",
+        "Raajula raajani prabhuvula prabhuvani",
+        "Poojinchi mahimaparichiri"
+      ]
+    }
+  ]
+}

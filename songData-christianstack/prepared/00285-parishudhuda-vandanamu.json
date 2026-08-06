@@ -1,0 +1,58 @@
+{
+  "song_name": "Parishudhuda Vandanamu",
+  "author": {
+    "Authored by": "Daniel Muchumarri",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరిశుద్దుడా పరిపూర్ణుడా",
+      "పరమాత్ముడా నీకే వందనమయ్యా",
+      "వందనము వందనము వందనమయ్యా"
+    ],
+    "english": [
+      "Parishudhudaa paripoornudaa",
+      "paramaathmudaa neeke vandhanamayyaa",
+      "vandhanamu vandhanamu vandhanamayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవు చేసిన మేలులకై వందనమయ్యా",
+        "నీవు చూపిన కృపలకై వందనమయ్యా",
+        "నీ ఆశ్చర్య కార్యములకై వందనమయ్యా",
+        "నీ సత్యస్వభావమునకై వందనమయ్యా",
+        "కోరిన ఒడ్డుకు చేర్చువాడా వందనమయ్యా",
+        "పాపములు క్షమియించినావు వందనమయ్యా",
+        "ప్రాణమును విడిపించినావు వందనమయ్యా",
+        "గొప్పరక్షణ నిచ్చినావు వందనమయ్యా",
+        "శత్రువుపై జయమిచ్చినావు వందనమయ్యా",
+        "నీ శాశ్విత రాజ్యమునకై వందనమయ్యా",
+        "మితములేని శక్తిమంతుడా వందనమయ్యా",
+        "అనంత లోకాల నేలువాడా వందనమయ్యా",
+        "ఆది అంతమై ఉన్నవాడా వందనమయ్యా",
+        "నిత్యమహిమలో ఉండువాడా వందనమయ్యా",
+        "మాకై త్వరలో రానున్నవాడ వందనమయ్యా"
+      ],
+      "english": [
+        "Neevu chesina melulakai vandhanamayyaa",
+        "neevu choopina krupalakai vandhanamayyaa",
+        "nee aascharya kaaryamulakai vandhanamayyaa",
+        "nee sathya swabhaavamunakai vandhanamayyaa",
+        "korina odduku cherchuvaadaa vandhanamayyaa",
+        "Paapamulu kshaminchinaavu vandhanamayyaa",
+        "praanamunu vidipinchinaavu vandhanamayyaa",
+        "goppa rakshana nichinaavu vandhanamayyaa",
+        "sathruvupai jayamichinaavu vandhanamayya",
+        "nee saaswatha raajyamunakai vandhanamayyaa",
+        "Mithamuleni sakthimanthudaa vandhanamayyaa",
+        "anantha lokaala neluvaadaa vandhanamayyaa",
+        "aadhi anthamai unnavaadaa vandhanamayyaa",
+        "nithya mahimalo unduvaadaa vandhanamayyaa",
+        "maakai thwaralo raanunnavaadaa vandhanamayyaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "song_name": "Maargam sathyam jeevam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Anil Kumar"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మార్గం సత్యం జీవం క్రీస్తేసని చాటేద్దాం -చేయి చేయి కలిపి ప్రభు రాజ్యం కట్టేద్దాం (2)",
+      "హొ హొ హో ఒ ఓ - ఒ హొ హొ హో ఒ ఓ ఒ",
+      "ఒ ఓ హొ హొ హో హొ ఒ - ఓ హో హొ హొ హో హొ హొ"
+    ],
+    "english": [
+      "Maargam sathyam jeevam Kreesthesani chaateddaam - Cheyi cheyi kalipi Prabhu raajyam katteddaam (2)",
+      "Ho ho ho o o - O ho ho ho o o o",
+      "O o ho ho ho ho o - O ho ho ho ho ho ho"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సృష్టికి కారకుడు జనులందరి రక్షకుడు - శాంతి స్థాపకుడు మా దేవుడే యేసతడు (2)",
+        "పదరా ఈ వార్తను చాటుతు దేశ దేశాలకు - ఎదురే లేదింక మనకు ఆత్మ ఉన్నందుకు (2)  ||మార్గం||"
+      ],
+      "english": [
+        "Srushtiki kaarakudu janulandhari rakshakudu - Shaanthi sthaapakudu maa Devude Yesathadu (2)",
+        "Padaraa ee vaarthanu chaatuthu desha dheshaalaku - Edhure ledhinka manaku aathma unnandhuku (2)  ||Maargam||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రాజుల రాజతడు ప్రతి ప్రభువుకు ప్రభువతడు - రానై యున్నాడు కొదమ సింహమై ఓ నాడు (2)",
+        "పదరా ఈ వార్తను చాటుతు దేశ దేశాలకు - ఎదురే లేదింక మనకు ఆత్మ ఉన్నందుకు (2)  ||మార్గం||"
+      ],
+      "english": [
+        "Raajula raajathadu prathi prabhuvuku prabhuvathadu - Raanai yunnaadu kodama simhamai o naadu (2)",
+        "Padaraa ee vaarthanu chaatuthu desha dheshaalaku - Edhure ledhinka manaku aathma unnandhuku (2)  ||Maargam||"
+      ]
+    }
+  ]
+}

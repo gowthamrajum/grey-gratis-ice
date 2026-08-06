@@ -1,0 +1,83 @@
+{
+  "song_name": "Jeevithamante maatalu kaadu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "జీవితమంటే మాటలు కాదు చెల్లెమ్మా",
+      "(ఇవి) మనిషి మనిషిని నమ్మే రోజులు కావమ్మా – (2) ||జీవితమంటే||"
+    ],
+    "english": [
+      "Jeevithamante maatalu kaadu chellemmaa",
+      "(Ivi) manishi manishini namme rojulu kaavammaa – (2) ||Jeevithamante||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నమ్ముకున్నాడు యోసేపు – అమ్ముకున్నారు అన్నలు",
+        "నమ్ముకున్నాడు ఏశావు – మోసగించాడు యాకోబు (2)",
+        "ఈ అన్నల నమ్మే కంటే…",
+        "ఈ అన్నల నమ్మే కంటే",
+        "అన్న యేసుని నమ్ముకో",
+        "రాజ్యం నీదే మేలుకో",
+        "పరలోకం నీదే ఏలుకో  ||జీవితమంటే||"
+      ],
+      "english": [
+        "Nammukunnaadu Yosepu – Ammukunnaaru annalu",
+        "Nammukunnaadu Eshaavu – Mosaginchaadu Yaakobu (2)",
+        "Ee annala namme kante…",
+        "Ee annala namme kante",
+        "Anna Yesuni nammuko",
+        "Raajyam neede meluko",
+        "Paralokam neede eluko ||Jeevithamante||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నమ్ముకున్నాడు యేసయ్యా – అమ్ముకున్నాడు శిష్యుడు",
+        "పాపుల కొరకై వచ్చాడమ్మా – ప్రాణాలే తీసారమ్మా (2)",
+        "ఈ మనుషులలోనే…",
+        "ఈ మనుషులలోనే – మమతలు లేవు",
+        "మంచితనానికి రోజులు కావు",
+        "సమయం మనకు లేదమ్మా",
+        "ఇక త్వరపడి యేసుని చేరమ్మా  ||జీవితమంటే||"
+      ],
+      "english": [
+        "Nammukunnaadu Yesayyaa – Ammukunnaadu shishyudu",
+        "Paapula korakai vachchaadammaa – Praanaale theesaarammaa (2)",
+        "Ee manushulalone…",
+        "Ee manushulalone – Mamathalu levu",
+        "Manchithanaaniki rojulu kaavu",
+        "Samayam manaku ledhammaa",
+        "Ika thvarapadi Yesuni cherammaa ||Jeevithamante||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నమ్మకమైన వాడు – ఉన్నాడు మన దేవుడు",
+        "నమ్మదగినవాడు – వస్తాడు త్వరలోనే (2)",
+        "యేసుని రాకకు ముందే…",
+        "యేసుని రాకకు ముందే",
+        "మారు మనస్సును పొందుమా",
+        "ప్రభుని చెంతకు చేరుమా",
+        "రక్షణ భాగ్యం పొందుమా  ||జీవితమంటే||"
+      ],
+      "english": [
+        "Nammakamaina vaadu – Unnaadu mana Devudu",
+        "Nammadaginavaadu – Vasthaadu thvaralone (2)",
+        "Yesuni raakaku munde…",
+        "Yesuni raakaku munde",
+        "Maaru manassunu pondumaa",
+        "Prabhuni chenthaku cherumaa",
+        "Rakshana bhaagyam pondumaa ||Jeevithamante||"
+      ]
+    }
+  ]
+}

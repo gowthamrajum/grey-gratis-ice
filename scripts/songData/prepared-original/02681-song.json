@@ -1,0 +1,40 @@
+{
+  "song_name": "యేసుని జేరఁ వేగము రా మార్గముఁ",
+  "author": {
+    "Authored by": "",
+    "రచన": "జి ఎఫ్ రూట్"
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసుని జేరఁ వేగము రా మార్గముఁ జూపి వేదములో దాపున నుండి క్రీస్తు దయన్ రమ్మని పిల్చును. || సంతసంబు సంతసంబు బల్ పాపశుద్ధి మేము పొందఁగా యేసుని యెద్దనుండ సదా మోక్ష పథంబున ||"
+      ],
+      "english": [
+        "yaesuni jaerAO vaegamu raa maargamuAO joopi vaedhamuloa dhaapuna nuMdi kreesthu dhayan rammani pilchunu. || sMthasMbu sMthasMbu bal paapashudhDhi maemu poMdhAOgaa yaesuni yedhdhanuMda sadhaa moakSh paThMbuna ||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బాలురమైన మమ్మును దా నెంతటి ప్రేమతోఁ బిలుచున్ యేసుని స్వీకరించుటకై వత్తుము వేగమే."
+      ],
+      "english": [
+        "baaluramaina mammunu dhaa neMthati praemathoaAO biluchun yaesuni sveekariMchutakai vaththumu vaegamae."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా ముద్దు బిడ్డ రమ్మనఁగా నాతని ప్రేమ కన్పడఁగా నాయన నేఁడు నిన్చిలువన్ రానని యందువా? ||"
+      ],
+      "english": [
+        "naa mudhdhu bidda rammanAOgaa naathani praema kanpadAOgaa naayana naeAOdu ninchiluvan raanani yMdhuvaa? ||"
+      ]
+    }
+  ]
+}

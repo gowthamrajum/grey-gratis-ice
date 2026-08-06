@@ -1,0 +1,96 @@
+{
+  "song_name": "Ninnu Naenu Viduvanu Dhaeva",
+  "author": {
+    "Authored by": "",
+    "రచన": "పులిపాక జగన్నాధము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిన్ను నేను విడువను దేవ నీవు నను దీవించు వరకు",
+      "నిన్ను నమ్మినవారల నెల్ల నీవు చక్కఁగ దీవించెదవు"
+    ],
+    "english": [
+      "Ninnu Naenu Viduvanu Dhaeva Neevu Nanu Dheevinchu Varaku",
+      "Ninnu Namminavaarala Nella Neevu Chakkaga Dheevinchedhavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నేను శత్రువునై యుండంగ నీవు నాపై నెనరు జూపి",
+        "దాన మిచ్చితివి నా కొరకు దారుఁడౌ నీ ప్రియ పుత్రుని"
+      ],
+      "english": [
+        "Naenu Shathruvunai Yundanga Neevu Naapai Nenaru Joopi",
+        "Dhaana Michchithivi Naa Koraku Dhaarudau Nee Priya Puthruni"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "త్రోవ దప్పి తిరుగుచుండ దుడుకునైన నన్ను ఁ గాంచి",
+        "ప్రోవ(గోరి మదిని నీవు త్రోవను బెట్టితివి నన్ను"
+      ],
+      "english": [
+        "Throava Dhappi Thiruguchunda Dhudukunaina Nannu Gaanchi",
+        "Proava(Goari Madhini Neevu Throavanu Bettithivi Nannu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నాఁటనుండి నేఁటి వరకు నాకుఁ గల్గిన శోధనములలో",
+        "నేటుగా ననుఁ గాచిన వాఁడవు నీవు గావా, ఓ నా తండ్రి"
+      ],
+      "english": [
+        "Naatanundi Naeti Varaku Naaku Galgina Shoadhanamulaloa",
+        "Naetugaa Nanu Gaachina Vaadavu Neevu Gaavaa, Oa Naa Thandri"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఇంత కాలము నన్నుఁ గాచి యిఁకను నన్ను విడువ వనుచు",
+        "సంత సించి మదిని నేను జక్కఁగ నీ దరి జేరితిని"
+      ],
+      "english": [
+        "Intha Kaalamu Nannu Gaachi Yikanu Nannu Viduva Vanuchu",
+        "Santha Sinchi Madhini Naenu Jakkaga Nee Dhari Jaerithini"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీవు గాక యెవరున్నారు నేలపైని ననుఁ గాపాడఁ",
+        "చేవ లేని నాకు నీవు చేవ గలుగఁ జేయఁ గలవు"
+      ],
+      "english": [
+        "Neevu Gaaka Yevarunnaaru Naelapaini Nanu Gaapaada",
+        "Chaeva Laeni Naaku Neevu Chaeva Galuga Jaeya Galavu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "అడుగు వారి కిచ్చెద నంచు నాన తిచ్చినావు గాన",
+        "నడిగెద నిను సాహాయ్యంబు నాత్మమై యున్నట్టి తండ్రి"
+      ],
+      "english": [
+        "Adugu Vaari Kichchedha Nanchu Naana Thichchinaavu Gaana",
+        "Nadigedha Ninu Saahaayyambu Naathmamai Yunnatti Thandri"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "నాదు ప్రార్థన లన్నియి నీవు నీదు కృపచే నాలకించి",
+        "నీదు సరణిని నిల్పి నన్ను నేర్పు దనరఁగ రక్షించితివి"
+      ],
+      "english": [
+        "Naadhu Praarthana Lanniyi Neevu Needhu Krupachae Naalakinchi",
+        "Needhu Saranini Nilpi Nannu Naerpu Dhanaraga Rakshinchithivi"
+      ]
+    }
+  ]
+}

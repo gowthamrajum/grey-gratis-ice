@@ -1,0 +1,60 @@
+{
+  "song_name": "Naa Yesayya Naa Sthuthi",
+  "author": {
+    "Authored by": "Bro. Yesanna",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా యేసయ్యా నా స్తుతియాగము",
+      "నైవేద్యమునై ధూపము వోలె",
+      "నీ సన్నిధానము చేరును నిత్యము",
+      "చేతువు నాకు సహాయము వెనువెంటనే – వెనువెంటనే"
+    ],
+    "english": [
+      "Naa yesayyaa naa sthuthi yaagamu",
+      "naivedyamunai dhoopamu voley",
+      "nee sannidhaanamu cherunu nithyamu",
+      "chethuvu naaku sahaayamu venuventane – venuventane"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆత్మతోను మనసుతోను",
+        "నేను చేయు విన్నపములు",
+        "ఆలకించి తండ్రి సన్నిధిలో నాకై",
+        "విజ్ఞాపన చేయుచున్నావా",
+        "విజ్ఞాపన చేయుచున్నావా",
+        "ప్రార్థన చేసి యాచించగానే",
+        "నీ బాహు బలము చూపించినావు",
+        "మరణపు ముల్లును విరిచితివా నాకై",
+        "మరణ భయము తొలగించితివా",
+        "మరణ భయము తొలగించితివా",
+        "మెలకువ కలిగి ప్రార్థన చేసిన",
+        "శోధనలన్నియు తప్పించెదవు",
+        "నీ ప్రత్యక్షత నే చూచుటకే నాకై",
+        "రారాజుగా దిగి వచ్చెదవు",
+        "రారాజుగా దిగి వచ్చెదవు"
+      ],
+      "english": [
+        "Aathmathonu manasuthonu",
+        "nenu cheyu vinnapamulu",
+        "aalakinchi thandri sannidhilo naakai",
+        "vignaapana cheyuchunnaavaa",
+        "vignaapana cheyuchunnaavaa",
+        "Praarthana chesi yaachinchagaane",
+        "nee baahu balamu choopinchinaavu",
+        "maranapu mullunu virichithivaa naakai",
+        "marana bhayamu tholaginchithivaa",
+        "marana bhayamu tholaginchithivaa",
+        "Melakuva kaligi praarthana chesina",
+        "shodhanalanniyu thappinchedhavu",
+        "nee prathyakshatha ne choochutakey naakai",
+        "raaraajugaa dhigi vachedhavu",
+        "raaraajugaa dhigi vachedhavu"
+      ]
+    }
+  ]
+}

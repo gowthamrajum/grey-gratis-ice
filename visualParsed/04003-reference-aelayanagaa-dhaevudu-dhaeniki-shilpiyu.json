@@ -1,0 +1,79 @@
+{
+  "song_name": "Devudu deniki shilpiyunu nirmaanakudai yunnaado",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవుడు దేనికి శిల్పియును నిర్మాణకుడై యున్నాడో",
+      "ఆ పట్టణమే నా గురి - నా జీవితకాలమంతా",
+      "హల్లెలూయ హల్లెలూయ హల్లెలూయ",
+      "హల్లెలూయ హల్లెలూయ హల్లెలూయ (2)"
+    ],
+    "english": [
+      "Devudu deniki shilpiyunu nirmaanakudai yunnaado",
+      "Aa pattaname naa guri - Naa jeevithakaalamanthaa",
+      "Hallelooya hallelooya hallelooya",
+      "Hallelooya hallelooya hallelooya (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా ప్రభు నన్ను ప్రేమించెన్ నాకై సిలువలో మరణించెన్",
+        "తన రక్తములో నను కడిగెన్ నా పాపమును తొలగించెన్"
+      ],
+      "english": [
+        "Naa Prabhu nannu preminchen naakai siluvalo maraninchen",
+        "Thana rakthamulo nanu kadigen naa paapamunu tholaginchen"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రతి క్షణము కృపనిచ్చున్ ప్రతి దినము ప్రభు నడిపించున్",
+        "ప్రతి వరము ప్రభు మనకిచ్చున్ అతి ఫలము ప్రభు దయచేయున్"
+      ],
+      "english": [
+        "Prathi kshanamu krupanichchun prathi dinamu Prabhu nadipinchun",
+        "Prathi varamu Prabhu manakichchun athi phalamu Prabhu dhayacheyun"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "జలములు నాపై లేచినను జలము లపై నే వెళ్ళెదను",
+        "జనములు నన్నెదిరించినను జయశాలి ప్రభు జయమిచ్చున్"
+      ],
+      "english": [
+        "Jalamulu naapai lechinanu jalamula pai ne velledanu",
+        "Janamulu nannedhirinchinanu jayashaali Prabhu jayamichchun"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ప్రభు నాకిచ్చిన కార్యమును ప్రభు శక్తితో నే జేసెదను",
+        "ప్రబు నాకిచ్చిన కాలమును ప్రభు కొరకై నే గడిపెదను"
+      ],
+      "english": [
+        "Prabhu naakichchina kaaryamunu Prabhu shakthitho ne jesedanu",
+        "Prabhu naakichchina kaalamunu Prabhu korakai ne gadipedhanu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నిశ్చలమైనది పట్టణము నీతితొ నిండిన పట్టణము",
+        "నిత్యము జీవించెదనచట నిత్యుండగు ప్రభు సన్నిధిలో"
+      ],
+      "english": [
+        "Nishchalamainadhi pattanamu neethitho nindina pattanamu",
+        "Nithyamu jeevinchedhanachata nithyundagu Prabhu sannidhilo"
+      ]
+    }
+  ]
+}

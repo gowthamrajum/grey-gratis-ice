@@ -1,0 +1,69 @@
+{
+  "song_name": "Naalona anuvanuvuna neevani",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నాలోన అణువణువున నీవని",
+      "నీలోన నన్ను దాచినది శాశ్వతమైన కృపయేనని",
+      "యేసయ్యా నీ అపురూపమైన",
+      "ప్రతిరూపమునై ఆరాదించెదను"
+    ],
+    "english": [
+      "Naalona anuvanuvuna neevani",
+      "Neelona nannu daachinadhi shaashwathamaina krupayenani",
+      "Yesayyaa nee apuroopamaina",
+      "Prathiroopamunai aaraadhinchedanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అరుణోదయ దర్శనమిచ్చి",
+        "ఆవేదనలు తొలగించితివి",
+        "అమృతజల్లులు కురిపించించే - అనందగానాలు పాడుచునే",
+        "కలిగియుందునే - నీ దైవత్వమే !! నాలోన !!"
+      ],
+      "english": [
+        "Arunodhaya dharshanamichchi",
+        "Aavedhanalu tholaginchithivi",
+        "Amruthajallulu kuripinche - Aanandhagaanaalu paaduchune",
+        "Kaligiyundhune - Nee dhaivathwame !! Naalona !!"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇమ్మానుయేలుగా తొడైయుండి",
+        "ఇంపైన నైవెద్యముగ మర్చితివే",
+        "ఈ పరిచర్యలో నేను - వాగ్దానఫలములు పొందుకుని",
+        "ధరించుకుందునే - నీ దీనత్వమే !! నాలోన !!"
+      ],
+      "english": [
+        "Immaanuyelugaa thodaiyundi",
+        "Impaina naivedhyamuga maarchithive",
+        "Ee paricharyalo nenu - Vaagdhaanaphalamulu pondhukuni",
+        "Dharinchukundhune - Nee dheenathwame !! Naalona !!"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వివేక హృదయము - అనుగ్రహించి",
+        "విజయపధములో నడిపించెదవు",
+        "వినయభయభక్తితో నేను - నిశ్చల రాజ్యము పొందుటకు",
+        "స్మరించుకుందునే - నీ ఆమరత్వమే !! నాలోన !!"
+      ],
+      "english": [
+        "Viveka hrudayamu - Anugrahinchi",
+        "Vijayapadhamulo nadipinchedhavu",
+        "Vinayabhayabhakthitho nenu - Nishchala raajyamu pondutaku",
+        "Smarinchukundhune - Nee amarathwame !! Naalona !!"
+      ]
+    }
+  ]
+}

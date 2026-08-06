@@ -1,0 +1,90 @@
+{
+  "song_name": "Jayahe",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జయహే",
+      "జయహే",
+      "జయ జయ దేవసుతా జయ జయ విజయసుతా"
+    ],
+    "english": [
+      "Jayahe",
+      "Jayahe",
+      "Jaya Jaya Devasuta Jaya Jaya Vijayasuta"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సిలువలో పాపికి విడుదల కలిగెనువిడుదల కలిగెను",
+        "కలువరిలో నవ జీవన మొదవెను జీవన మొదవెను",
+        "సిలువ పతాకము జయమును గూర్చెను",
+        "జయమని పాడెదనునా విజయము పాడెదను",
+        "నా విజయము పాడెదను"
+      ],
+      "english": [
+        "Siluvalo Papiki Vidudala Kaligenuvidudala Kaligenu",
+        "Kaluvarilo Nava Jivana Modavenu Jivana Modavenu",
+        "Siluva Patakamu Jayamunu Gurchenu",
+        "Jayamani Padedanuna Vijayamu Padedanu",
+        "Na Vijayamu Padedanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మరణపు కోటలో మరణమే సమసెను మరణమే సమసెను",
+        "ధరణిలో జీవిత భయములు దీరెను భయములు దీరెను",
+        "మరణములో సహ జయములు నావే (2)"
+      ],
+      "english": [
+        "Maranapu Kotalo Maraname Samasenu Maraname Samasenu",
+        "Dharanilo Jivita Bayamulu Direnu Bayamulu Direnu",
+        "Maranamulo Saha Jayamulu Nave (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "శోదనలో ప్రభుసన్నిది దొరికెను సన్నిది దొరికెను",
+        "వేధనలే రణభూమిగా మారెను భూమిగ మారెను",
+        "శోధన భాధలు బలమును గూర్చెను (2)"
+      ],
+      "english": [
+        "Sodanalo Prabusannidi Dorikenu Sannidi Dorikenu",
+        "Vedhanale Ranabumiga Marenu Bumiga Marenu",
+        "Sodhana Badhalu Balamunu Gurchenu (2)"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ప్రార్ధనకాలము బహుప్రియమాయెను బహుప్రియ మాయెను",
+        "సార్ధకమాయెను దేవుని వాక్యము దేవుని వాక్యము",
+        "ప్రార్ధనలే భలి పీఠములాయెను (2)"
+      ],
+      "english": [
+        "Prardhanakalamu Bahupriyamayenu Bahupriya Mayenu",
+        "Sardhakamayenu Devuni Vakyamu Devuni Vakyamu",
+        "Prardhanale Bali Pithamulayenu (2)"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పరిశుద్ధాత్ముని ప్రాపక మొదవెను ప్రాపక మొదవెను",
+        "వరుడగు యేసుని వధువుగ మారితి వధువుగ మారితి",
+        "పరిశుద్ధుడు నను సాక్షిగ పిలచెను (2)"
+      ],
+      "english": [
+        "Parisuddhatmuni Prapaka Modavenu Prapaka Modavenu",
+        "Varudagu Yesuni Vadhuvuga Mariti Vadhuvuga Mariti",
+        "Parisuddhudu Nanu Sakshiga Pilachenu (2)"
+      ]
+    }
+  ]
+}

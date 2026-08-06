@@ -1,0 +1,86 @@
+{
+  "song_name": "O yuvathee yuvakaa - O yavvanundaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ యువతీ యువకా - ఓ యవ్వనుండా",
+      "యేసుని సిలువ గురుతుందా - యేసుని సిలువ యెరుకుందా"
+    ],
+    "english": [
+      "O yuvathee yuvakaa - O yavvanundaa",
+      "Yesuni shiluva guruthundaa - Yesuni shiluva erukundhaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దనవంతుడేసు దయనెంచి నీపై - దరిద్రుడాయేను గురుతుందా",
+        "దాసుని రూపము దోషంబునెంచక - దోసిలొగ్గెను యెరుకుందా IIఓII"
+      ],
+      "english": [
+        "Dhanavanthudesu dhayanenchi neepai - Dharidhrudaayenu guruthundaa",
+        "Daasuni roopamu dhoshambunenchaka - Dhosiloggenu erukundhaa ||O||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కత్తులు గుదియలు ఎదనుంచి యూదులు - ఎదిరించిరేసుని గురుతుందా",
+        "బందించిరేసుని దొంగనుబోలి - దూషించి ఉమివేసిరెరుకుందా IIఓII"
+      ],
+      "english": [
+        "Katthulu gudhiyalu edhanunchi Yoodulu - Edhirinchiresuni guruthundaa",
+        "Bandhinchiresuni dhonganuboli - Dhooshinchi umivesirerukundhaa ||O||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "శిరమునందు ముండ్లను నాటి - శిలువను మోపిరి గురుతుందా",
+        "వీదుల వెంట వేధించిరేసుని - ఎరయాయె కొరడాలకెదురుందాIIఓII"
+      ],
+      "english": [
+        "Shiramunandhu mundlanu naati - Shiluvanu mopiri guruthundaa",
+        "Veedhula venta vedhinchiresuni - Erayaaye koradaalakedhurundhaa||O||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మిట్ట మధ్యాహ్నము కల్వరి గుట్టపై - కొట్టబడె శిలువను గురుతుందా",
+        "చట్టుబండపై యవ్వన రక్తము - వరదవలె ప్రవహించెరెరుకుందా IIఓII"
+      ],
+      "english": [
+        "Mitta madhyaahnamu Kalvari guttapai - Kottabade shiluvanu guruthundaa",
+        "Chattubandapai yavvana rakthamu - Varadhavale pravahinchererukundhaa ||O||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఏలీ ఏలీ లామా సబక్తాని - ఎలుగెత్తి అరిచేను గురుతుందా",
+        "బండలు పగుల, కొండలు కదల - బలియాయె ప్రభు యేసు తెలిసిందా IIఓII"
+      ],
+      "english": [
+        "Elee Elee laamaa sabakthaani - Elugetthi arichenu guruthundaa",
+        "Bandalu pagula, kondalu kadhala - Baliyaaye Prabhu Yesu thelisindhaa ||O||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "యవ్వనమందే కాడిని మోయుట - నరునికి మేలని యెరుకుందా",
+        "యవ్వనమందే యేసుని నమ్మి - సిలువను మోయుట తెలిసిందాIIఓII"
+      ],
+      "english": [
+        "Yavvanamandhe kaadini moyuta - Naruniki melani erukundhaa",
+        "Yavvanamandhe Yesuni nammi - Shiluvanu moyuta thelisindhaa||O||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "song_name": "Nemmadi ledaa nemmadi ledaa – Ontarivainaavaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నెమ్మది లేదా నెమ్మది లేదా – ఒంటరివైనావా",
+      "చీకటి బ్రతుకులో వెలుగు లేక – తిరుగుచున్నావా",
+      "ఆశలు ఆవిరై పోయినా",
+      "నీ కలలన్ని చెదరిన",
+      "అలసిపోక సాగిపోవుమా (2) ||నెమ్మది||"
+    ],
+    "english": [
+      "Nemmadi ledaa nemmadi ledaa – Ontarivainaavaa",
+      "Cheekati brathukulo velugu leka – Thiruguchunnaavaa",
+      "Aashalu aavirai poyinaa",
+      "Nee kalalanni chedarina",
+      "Alasipoka saagipovumaa (2) ||Nemmadi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ వారు నిన్ను హేళన చేసినా",
+        "నీ ప్రేమ బంధు నిన్ను విడచిననూ",
+        "గాఢాంధ కారం నిన్ను చుట్టిననూ",
+        "అవమానం నింద కలచి వేస్తున్నా",
+        "నిను విడువని దేవుడే నీ తోడుగా ఉందును",
+        "నీదు వేదనలలోనే నీకు ధైర్యము నిచ్చును",
+        "నీ కోసమే తను నిలిచెను",
+        "నీ బాధను తొలగించును  ||నెమ్మది||"
+      ],
+      "english": [
+        "Nee vaaru ninnu helana chesinaa",
+        "Nee prema bandhu ninnu vidachinanoo",
+        "Gaadhaandha kaaram ninnu chuttinanoo",
+        "Avamaanam ninda kalachi vesthunnaa",
+        "Ninu viduvani Devude nee thodugaa undunu",
+        "Needu vedhanalalone neeku dhairyamu nichchunu",
+        "Nee kosame thanu nilichenu",
+        "Nee baadhanu tholaginchunu ||Nemmadi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ కన్నీరంతా తుడిచి వేయును",
+        "నీ గాయాన్నంతా మాన్పి వేయును",
+        "విలువైన పాత్రగ నిన్ను మార్చును",
+        "నీ వారికే నిన్ను దీవెనగా చేయును",
+        "కాపరి వలె నిన్ను తన కృపలతో నడుపును",
+        "నిత్య జీవ మార్గం నీకు ఆయనే చూపును",
+        "తన ప్రేమకు నువ్వు సాక్షిగా",
+        "జీవించుమా ఇల నిత్యము",
+        "నెమ్మది పొందు నెమ్మది పొందు – యేసే నీ తోడు",
+        "చీకటి బ్రతుకులో వెలుగు చూపే – యేసే నీ మార్గం"
+      ],
+      "english": [
+        "Nee kanneeranthaa thudichi veyunu",
+        "Nee gaayaannanthaa maanpi veyunu",
+        "Viluvaina paathraga ninnu maarchunu",
+        "Nee vaarike ninnu deevenagaa cheyunu",
+        "Kaapari vale ninnu thana krupalatho nadupunu",
+        "Nithya jeeva maargam neeku aayane choopunu",
+        "Thana premaku nuvvu saakshigaa",
+        "Jeevinchumaa ila nithyamu",
+        "Nemmadi pondu nemmadi pondu – Yese nee thodu",
+        "Cheekati brathukulo velugu choope – Yese nee maargam"
+      ]
+    }
+  ]
+}

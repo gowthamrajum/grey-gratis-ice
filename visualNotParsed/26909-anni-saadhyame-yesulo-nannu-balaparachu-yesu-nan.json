@@ -1,0 +1,72 @@
+{
+  "song_name": "Anni saadhyame Yesulo - Nannu balaparachu Yesunande nenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Kranthi Chepuri"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నన్ను బలపరచు యేసునందే నేను",
+      "సర్వము చేయగలను",
+      "నన్ను స్థిరపరచు క్రీస్తునందే నేను",
+      "సమస్తం చేయగలను",
+      "సాధ్యము కానిది ఏదియు లేదే",
+      "అన్ని సాధ్యమే యేసులో",
+      "సాధ్యము కానిది ఏదియు లేదే",
+      "అన్ని సాధ్యమే క్రీస్తులో ||నన్ను బలపరచు||"
+    ],
+    "english": [
+      "Nannu balaparachu Yesunande nenu",
+      "Sarvamu cheyagalanu",
+      "Nannu sthiraparachu Kreesthunande nenu",
+      "Samastham cheyagalanu",
+      "Saadhyamu kaanidi ediyu lede",
+      "Anni saadhyame Yesulo",
+      "Saadhyamu kaanidi ediyu lede",
+      "Anni saadhyame Kreesthulo ||Nannu balaparachu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీటిని చీల్చి – బాటను వేసి – నరులను నడిపించెనే",
+        "బండను చీల్చి – దాహము తీర్చ – నీటిని పుట్టించెనే",
+        "నీటిని ద్రాక్షా రసముగ మార్చెనే",
+        "నీటిపై నడిచెనే – నీటినే అణచెనే",
+        "నా కన్నీటిని నాట్యముగ మార్చెనే",
+        "జీవ జలమైన నా యేసయ్యా… ||సాధ్యము||"
+      ],
+      "english": [
+        "Neetini cheelchi – Baatanu vesi – Narulanu nadipinchene",
+        "Bandanu cheelchi – Daahamu theercha – Neetini puttinchene",
+        "Neetini draakshaa rasamuga maarchene",
+        "Neetipai nadichene – Neetine anachene",
+        "Naa kanneetini naatyamuga maarchene",
+        "Jeeva jalamaina naa Yesayyaa… ||Saadhyamu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "హోరేబు కొండపై – మండే పొద నుండి – మోషేతో మాట్లాడెనే",
+        "బలిపీఠముపై – అగ్నిని కురిపించి – మహిమను కనుపరచెనే",
+        "షద్రకు మేషాకు అబేద్నెగోలను",
+        "అగ్నిలో ఉండియే కాపాడెనే",
+        "నరకపు మంటనుండి నను రక్షించిన",
+        "అగ్ని నేత్రాల నా యేసయ్యా… ||సాధ్యము||"
+      ],
+      "english": [
+        "Horebu kondapai – Mande podha nundi – Moshetho maatlaadene",
+        "Balipeethamupai – Agnini kuripinchi – Mahimanu kanuparachene",
+        "Shadraku Meshaaku Abednegolanu",
+        "Agnilo undiye kaapaadene",
+        "Narakapu mantanundi nanu rakshinchina",
+        "Agni nethraala naa Yesayyaa… ||Saadhyamu||"
+      ]
+    }
+  ]
+}

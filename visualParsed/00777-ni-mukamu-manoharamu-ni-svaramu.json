@@ -1,0 +1,55 @@
+{
+  "song_name": "Nee mukhamu manoharamu nee swaramu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ ముఖము మనోహరము నీ స్వరము మాధుర్యము",
+      "నీ పాదాలు అపరంజి మయము",
+      "యేసయ్యా నా ప్రాణ ప్రియుడా మనగలనా నిను వీడి క్షణమైన"
+    ],
+    "english": [
+      "Nee mukhamu manoharamu nee swaramu maadhuryamu",
+      "Nee paadaalu aparanji mayamu",
+      "Yesayyaa naa praana priyudaa managalanaa ninu veedi kshanamaina"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవే నాతోడువై నీవే నాజీవమై నా హృదిలోన నిలిచిన జ్ణాపికవై",
+        "అణువణువున నీకృప నిక్షిప్తమై నను ఎన్నడు వీడని అనుబంధమై"
+      ],
+      "english": [
+        "Neeve naathoduvai neeve naajeevamai naa hrudhilona nilichina gnaapikavai",
+        "Anuvanuvuna neekrupa nikshipthamai nanu ennadu veedani anubandhamai"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీవే నా శైలమై నీవే నాశృంగమై నా విజయానికే నీవు భుజబలమై",
+        "అనుక్షణమున శత్రువుకు ప్రత్యక్షమై నను వెనుదీయనీయక వెన్ను తట్టినావు"
+      ],
+      "english": [
+        "Neeve naa shailamai neeve naashrungamai naa vijayaanike neevu bhujabalamai",
+        "Anukshanamuna shathruvuku prathyakshamai nanu venudheeyaneeyaka vennu thattinaavu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీవే వెలుగువై నీవే ఆలయమై నా నిత్యత్వమునకు ఆద్యంతమై",
+        "అమరలోకాన శుద్ధులతో పరిచయమై నను మైమరచి నేనేమి చేసేదనో"
+      ],
+      "english": [
+        "Neeve veluguvai neeve aalayamai naa nithyathvamunaku aadhyanthamai",
+        "Amaralokaana shuddhulatho parichayamai nanu maimarachi nenemi chesedhano"
+      ]
+    }
+  ]
+}

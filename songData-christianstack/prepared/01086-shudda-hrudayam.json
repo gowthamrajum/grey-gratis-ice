@@ -1,0 +1,48 @@
+{
+  "song_name": "Shudda Hrudayam",
+  "author": {
+    "Authored by": "Bro Augustine Dandingi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "శుద్ధ హృదయం కలుగజేయుము",
+      "నాలోనా … ఆ … నాలోనా"
+    ],
+    "english": [
+      "Shuddaa hrudayam kalujeyumu",
+      "naalonaa … aa …. naalonaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ వాత్సల్యం నీ బాహుళ్యం",
+        "నీ కృప కనికరము చూపించుము",
+        "పాపము చేశాను దోషినై యున్నాను",
+        "తెలిసి యున్నది నా అతిక్రమమే",
+        "తెలిసి యున్నవి నా పాపములే",
+        "నీ సన్నిధిలో నా పాపములే ఒప్పుకొందునయా",
+        "నీ జ్ఞానమును నీ సత్యమును",
+        "నా ఆంతర్యములో పుట్టించుము",
+        "ఉత్సాహ సంతోషం నీ రక్షణానందం",
+        "కలుగజేయుము నా హృదయములో",
+        "నీ సన్నిధిలో పరిశుద్ధాత్మతో నన్ను నింపుమయా"
+      ],
+      "english": [
+        "Nee vaathsalyam nee baahulyam",
+        "nee krupa kanikaramu choopinchumu",
+        "paapamu chesaanu dhoshinai yunnaanu",
+        "thelisi yunnadi naa athikramame",
+        "thelisi yunnadi naa paapamule",
+        "nee sannidhilo naa paapamule oppukondhunayaa",
+        "Nee gnaanamunu nee sathyamunu",
+        "naa aantharyamulo puttinchumu",
+        "uthsaaha santhosham nee rakshanaanandham",
+        "kalugajeyumu naa hrudhayamulo",
+        "nee sannidhilo parishuddathmatho nannu nimpumayaa"
+      ]
+    }
+  ]
+}

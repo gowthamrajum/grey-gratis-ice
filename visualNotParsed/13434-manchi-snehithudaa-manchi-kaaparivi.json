@@ -1,0 +1,66 @@
+{
+  "song_name": "Manchi Snehithudaa Manchi Kaaparivi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మంచి స్నేహితుడా మంచి కాపరివి (2)",
+      "అగాధ జలములలో నేను నడచినను",
+      "అరణ్య యానములో నేను తిరిగినను",
+      "నన్ను ఆదరించినావు ఓదార్చినావు",
+      "చేర దీసినావు కాపాడినావు (2)",
+      "నీకే ఆరాధన – నీకే ఆరాధన (2)",
+      "ఆరాధన ఆరాధన – ఆరాధన నీకే ఆరాధన (2)",
+      "తప్పిపోయిన నన్ను వెదకి రక్షించినావు",
+      "ఆశ్చర్యమైన నీ వెలుగులోనికి నన్ను పిలచుచున్నావు (2)",
+      "ఘనమైన పరిచర్యను నాకు దయచేసినావు",
+      "ప్రధాన కాపరిగా నన్ను నడిపించినావు ||ఆరాధన||"
+    ],
+    "english": [
+      "Manchi snehithudaa manchi kaaparivi (2)",
+      "Agaadha jalamulalo nenu nadachinanu",
+      "Aranya yaanamulo nenu thiriginanu",
+      "Nannu aadarinchinaavu odaarchinaavu",
+      "Chera dheesinaavu kaapaadinaavu (2)",
+      "Neeke aaraadhana – Neeke aaraadhana (2)",
+      "Aaraadhana aaraadhana – Aaraadhana neeke aaraadhana (2)",
+      "Thappipoyina nannu vedaki rakshinchinaavu",
+      "Aashcharyamaina nee veluguloniki nannu pilachuchunnaavu (2)",
+      "Ghanamaina paricharyanu naaku dayachesinaavu",
+      "Pradhaana kaaparigaa nannu nadipinchinaavu ||Aaraadhana||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చెరలో ఉన్న నన్ను విడుదల చేసినావు",
+        "బంధింపబడియున్న నన్ను విముక్తి ప్రకటించినావు (2)",
+        "నాలో ఉన్న నిన్ను లోకానికి చూపినావు",
+        "నీలో ఉన్న నన్ను నీ సాక్షిగా నిలిపినావు ||ఆరాధన||"
+      ],
+      "english": [
+        "Cheralo unna nannu vidudala chesinaavu",
+        "Bandhimpabadiyunna nannu vimukthi prakatinchinaavu (2)",
+        "Naalo unna ninnu lokaaniki choopinaavu",
+        "Neelo unna nannu nee saakshigaa nilipinaavu ||Aaraadhana||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఒంటరియైన నన్ను వేయిమందిగా చేసితివి",
+        "ఎన్నిక లేని నన్ను బలమైన జనముగా మార్చితివి (2)",
+        "నన్ను హెచ్చించినావు నా కొమ్ము పైకెత్తినావు (2) ||ఆరాధన||"
+      ],
+      "english": [
+        "Ontariyaina nannu veyimandhigaa chesithivi",
+        "Ennika leni nannu balamaina janamugaa maarchithivi (2)",
+        "Nannu hechchinchinaavu naa kommu paiketthinaavu (2) ||Aaraadhana||"
+      ]
+    }
+  ]
+}

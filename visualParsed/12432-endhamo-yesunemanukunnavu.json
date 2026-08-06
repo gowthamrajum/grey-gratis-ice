@@ -1,0 +1,72 @@
+{
+  "song_name": "Endammo Yesunemanukunnaavu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏందమ్మో యేసునేమనుకున్నావు",
+      "ఏందయ్యో యేసునేమనుకున్నావు"
+    ],
+    "english": [
+      "Endammo Yesunemanukunnaavu",
+      "Endayyo Yesunemanukunnaavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాట పాడమన్నాడు - ప్రార్థించమన్నాడు",
+        "పాట పాడి ప్రార్ధిస్తే - ఏమన్నాడు? (2)",
+        "పక్కనుంటనన్నాడు  ||ఏందమ్మో||"
+      ],
+      "english": [
+        "Paata paadamannaadu - praarthinchamannaadu",
+        "Paata paadi praardhisthe - emannaadu? (2)",
+        "Pakkanuntanannaadu ||Endammo||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తోడు నేనన్నాడు - నీడ నేనన్నాడు",
+        "వేడుకున్న తోడనే - ఏమన్నాడు? (2)",
+        "వెంటనుంటనన్నాడు (2)  ||ఏందమ్మో||"
+      ],
+      "english": [
+        "Thodu nenannaadu - needa nenannaadu",
+        "Vedukunna thodane - emannaadu? (2)",
+        "Ventanuntanannaadu (2) ||Endammo||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దాపు నేనన్నాడు - కాపునేనన్నాడు",
+        "కావలసి అడిగితే - ఏమన్నాడు? (2)",
+        "అదుకుంటనన్నాడు  ||ఏందమ్మో||"
+      ],
+      "english": [
+        "Daapu nenannaadu - kaapunenannaadu",
+        "Kaavalasi adigithe - emannaadu? (2)",
+        "Adhukuntanannaadu ||Endammo||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నన్ను నమ్మమన్నాడు -నిన్ను విడువనన్నాడు",
+        "అమల్లాగ నానాలాగ - ఏమన్నాడు? (2)",
+        "ఆదరిస్తనన్నాడు  ||ఏందమ్మో||"
+      ],
+      "english": [
+        "Nannu nammamannaadu - ninnu viduvanannaadu",
+        "Ammallaaga naannaalaaga - emannaadu? (2)",
+        "Aadharisthanannaadu ||Endammo||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "song_name": "Yehovaa naa Devaa nithyamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవా నా దేవా నిత్యము - నేను నిన్ను స్తుతియించెద",
+      "హల్లెలూయ హల్లెలూయ - హల్లెలూయ హల్లెలూయ"
+    ],
+    "english": [
+      "Yehovaa naa Devaa nithyamu - Nenu ninnu sthuthiyinchedha",
+      "Halleluya halleluya - Halleluya halleluya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యెహోవా నా శత్రువులను - నా పై సంతోషింప నీయక",
+        "నీవు నన్నుద్ధరించినందుకై నేను - నిన్ను కొనియాడుచున్నాను"
+      ],
+      "english": [
+        "Yehovaa naa shathruvulanu - Naa pai santhoshimpa neeyaka",
+        "Neevu nannuddharinchinandhukai nenu - Ninnu koniyaaduchunnaanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేను నీకు మొరపెట్టగా",
+        "నీవు నన్ స్వస్థపరచితివి",
+        "పరిశుద్ధ జ్ఞాపకార్థ నామమును బట్టి",
+        "భక్తులారా ప్రభున్ కీర్తించుడు"
+      ],
+      "english": [
+        "Nenu neeku morapettagaa",
+        "Neevu nan swasthaparachithivi",
+        "Parishuddha gnaapakaartha naamamunu batti",
+        "Bhakthulaaraa prabhun keerthinchudu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యెహోవా పాతాళములో నుండి",
+        "నా ప్రాణము లేవదీసితివి",
+        "నేను సమాధిలోకి దిగకుండగ",
+        "నీవు నన్ను బ్రతికించితివి"
+      ],
+      "english": [
+        "Yehovaa paathaalamulo nundi",
+        "Naa praanamu levadheesithivi",
+        "Nenu samaadhiloki dhigakundaga",
+        "Neevu nannu brathikinchithivi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆయన కోపము నిమిషమే",
+        "దయ ఆయుష్కాలముండును",
+        "ఏడ్పు వచ్చి రాత్రియుండిన ఉదయ",
+        "మున సంతోషము కలుగును"
+      ],
+      "english": [
+        "Aayana kopamu nimishame",
+        "Daya aayushkaalamundunu",
+        "Edpu vachchi raathriyundina udaya",
+        "Muna santhoshamu kalugunu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నే నెన్నడు కదలనని నా",
+        "క్షేమ కాలమున తలచితి",
+        "యెహోవా దయ కలిగి నీవే నా",
+        "పర్వతము స్థిరపరచితివి"
+      ],
+      "english": [
+        "Ne nennadu kadhalanani naa",
+        "Kshema kaalamuna thalachithi",
+        "Yehovaa daya kaligi neeve naa",
+        "Parvathamu sthiraparachithivi"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నీ ముఖము నీవు దాచిన",
+        "యపుడు నేను క్షోభిల్లితి",
+        "యెహోవా నీకే మొర పెట్టితిని",
+        "నా ప్రభువును బ్రతిమాలు కొంటిని"
+      ],
+      "english": [
+        "Nee mukhamu neevu daachina",
+        "Yapudu nenu kshobhillithi",
+        "Yehovaa neeke mora pettithini",
+        "Naa Prabhuvunu brathimaalu kontini"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "నేను సమాధిలోకి దిగిన",
+        "నా ప్రాణము వలన లాభమా",
+        "మన్ను నిన్ను స్తుతించునా?",
+        "నీ సత్యమును గూర్చి అది వివరించునా?"
+      ],
+      "english": [
+        "Nenu samaadhiloki digina",
+        "Naa praanamu valana laabhamaa",
+        "Mannu ninnu sthuthinchunaa?",
+        "Nee sathyamunu goorchi adhi vivarinchunaa?"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "నా అంగలార్పును నీవేగా",
+        "నాట్యముగా మార్చియుంటివి",
+        "నా గోనెపట్ట విడిపించి సంతోష",
+        "వస్త్రము ధరింప జేసితివి"
+      ],
+      "english": [
+        "Naa angalaarpunu neevegaa",
+        "Naatyamugaa maarchiyuntivi",
+        "Naa gonepatta vidipinchi santhosha",
+        "Vasthramu dharimpa jesithivi"
+      ]
+    }
+  ]
+}

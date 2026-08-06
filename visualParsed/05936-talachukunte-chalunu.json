@@ -1,0 +1,70 @@
+{
+  "song_name": "Thaluchukunte chaalunu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "తలుచుకుంటె చాలును ఓ యేసు నీ ప్రేమ",
+      "జలజల జల రాలును కృతజ్ఞతా కన్నీళ్ళ",
+      "తలుచుకొంటే చాలును కరిగించును రాళ్ళను",
+      "కల్వరి స్వరము ఇది కల్వరి స్వరము"
+    ],
+    "english": [
+      "Thaluchukunte chaalunu o Yesu nee prema",
+      "Jalajala jala raalunu kruthagnathaa kanneella",
+      "Thaluchukonte chaalunu kariginchunu raallanu",
+      "Kalvari swaramu idhi Kalvari swaramu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ మోమున ఊసిన ఉమ్ములు",
+        "నా మోహపు చూపు తుడిచెను",
+        "నీ చెంపను కొట్టిన దెబ్బలు",
+        "నా నోటిని శుద్ధి చేసెను(2)",
+        "నీ శిరస్సున గుచ్చిన ముండ్లు",
+        "నా మోసపు తలపును త్రుంచెను (2)",
+        "ఎంత త్యాగపూరితమో నీప్రేమా...",
+        "ఎంత క్షమాభరితమో నీప్రేమా…"
+      ],
+      "english": [
+        "Nee momuna oosina ummulu",
+        "Naa mohapu choopu thudichenu",
+        "Nee chempanu kottina debbalu",
+        "Naa notini shuddhi chesenu(2)",
+        "Nee shirassuna guchchina mundlu",
+        "Naa mosapu thalapunu thrunchenu (2)",
+        "Entha thyaagapoorithamo neepremaa...",
+        "Entha kshamaabharithamo neepremaa…"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ దేహము చీరిన కొరడా",
+        "నా కామమును చీల్చెను",
+        "నీ చేతుల కాళ్లకు మేకులు",
+        "నా చీకటి దారి మూసెను (2)",
+        "సిలువ నెత్తుటి ధారలు",
+        "నా కలుషమును కడిగి వేసెను (2)",
+        "ఎంత త్యాగపూరితమో నీప్రేమా...",
+        "ఎంత క్షమాభరితమో నీ ప్రేమా…"
+      ],
+      "english": [
+        "Nee dehamu cheerina koradaa",
+        "Naa kaamamunu cheelchenu",
+        "Nee chethula kaallaku mekulu",
+        "Naa cheekati daari moosenu (2)",
+        "Siluva netthuti dhaaralu",
+        "Naa kalushamunu kadigi vesenu (2)",
+        "Entha thyaagapoorithamo neepremaa...",
+        "Entha kshamaabharithamo nee premaa…"
+      ]
+    }
+  ]
+}

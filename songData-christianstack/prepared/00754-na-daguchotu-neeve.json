@@ -1,0 +1,32 @@
+{
+  "song_name": "Na Daguchotu Neeve",
+  "author": {
+    "Authored by": "Hosanna Ministries",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా దాగుచోటు నీవే యేసయ్యా",
+      "నా విచారములు కొట్టివేసి",
+      "ఆనందము కలుగజేసితివి"
+    ],
+    "english": [
+      "Naa dhaaguchotu neeve yesayyaa",
+      "naa vichaaramulu kottivesi",
+      "aanandhamu kalugajesithivi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా హృదయములో నదివలె సమాధానమే",
+        "నలుదిశల నెమ్మదిని కలుగజేసితివే"
+      ],
+      "english": [
+        "Naa hrudhayamulo nadhivale samaadhaaname",
+        "nalu dhisala nemmadhini kaluga jesithive"
+      ]
+    }
+  ]
+}

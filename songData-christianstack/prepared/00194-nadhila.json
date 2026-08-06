@@ -1,0 +1,26 @@
+{
+  "song_name": "Nadhila",
+  "author": {
+    "Authored by": "Srimanth katamala",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రవహించే నీ కృపా నదిలా ఆఅఆ"
+    ],
+    "english": [
+      "Pravahimche nee krupa nadila aaa…."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రవహించే నీ కృపా నదిలా ఆఅఆ"
+      ],
+      "english": [
+        "Pravahimche nee krupa nadila aaa…."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "song_name": "Kondalathattu kannuletthi choosaanu Yesayya",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Dr Victor Rampogu"
+    ],
+    "రచన": [
+      "డాక్టర్ విక్టర్ రాంపోగు"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "కొండలతట్టు కన్నులెత్తి చూసాను యేసయ్యా",
+      "ఎత్తైన చోట్లలో వెదకి వేచాను యేసయ్యా",
+      "దొరకలేదయ దొరకలేదయా నాకు సహాయమెక్కడ",
+      "నా చెంతనె ఉండే నా ప్రక్కలొ వుండే",
+      "నా హృదయంలొ ఉండే నీవె నాకు సహాయం",
+      "హల్లెలూయ హల్లెలూయ స్తోత్రం నీకె యేసయ్యా"
+    ],
+    "english": [
+      "Kondalathattu kannuletthi choosaanu Yesayya",
+      "Etthaina chotlalo vedaki vechaanu Yesayya",
+      "Dhorakaledhaya dhorakaledhayaa naaku sahaayamekkada",
+      "Naa chenthane unde naa prakkalo vunde",
+      "Naa hrudayamlo unde neeve naaku sahaayam",
+      "Halleluya halleluya sthothram neeke Yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "భూమి ఆకాశములను సృష్టించిన యెహోవా",
+        "నా పాదములను ఎన్నడు నీవు తొట్రిల్లనీయవు",
+        "ఇశ్రాయేలు జనులను కాపాడిన దెవా",
+        "నా క్షేమము కోరి కునుకును నిద్రను పోని వాడవు",
+        "నా కుడిప్రక్క వేయి మంది పడిపోయినా",
+        "నా ఎడమ ప్రక్క పదివేలు కూలిపోయినా",
+        "నాకు తోడు నీడై నన్ను కాపాడువాడవు – కాపాడువాడ",
+        "సాంద్రము నడిమికి చీల్చి మార్గము వేసిన దేవా",
+        "కీడును హతమార్చినన్ను కాపాడువాడవు",
+        "అడవిలొ మన్నాతో ఆకలి తీర్చిన దేవా",
+        "కొదువలేకుండ నన్ను పోషించువాడవు",
+        "అగ్నివంటి శ్రమలు కాల్చివేయచూచినా",
+        "మాయ రోగములు చంపివేయచూచిన",
+        "బ్రతుకుదినములన్ని నాతో ఉండి కాయువాడవు – కాయువాడవు"
+      ],
+      "english": [
+        "Bhoomi aakaashamulanu srushtinchina Yehova",
+        "Naa paadhamulanu ennadu neevu thotrillaneeyavu",
+        "Ishraayelu janulanu kaapaadina Deva",
+        "Naa kshemamu kori kunukunu nidhranu poni vaadavu",
+        "Naa kudiprakka veyi mandi padipoyinaa",
+        "Naa edama prakka padhivelu koolipoyinaa",
+        "Naaku thodu needai nannu kaapaaduvaadavu – Kaapaaduvaada",
+        "Saandhramu nadimiki cheelchi maargamu vesina Deva",
+        "Keedunu hathamaarchinannu kaapaaduvaadavu",
+        "Adavilo mannaatho aakali theerchina Deva",
+        "Kodhuvalekunda nannu poshinchuvaadavu",
+        "Agnivanti shramalu kaalchiveyachoochinaa",
+        "Maaya rogamulu champiveyachoochina",
+        "Brathukudhinamulanni naatho undi kaayuvaadavu – Kaayuvaadavu"
+      ]
+    }
+  ]
+}

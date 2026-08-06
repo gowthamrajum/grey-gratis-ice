@@ -1,0 +1,75 @@
+{
+  "song_name": "Yesu Kreesthu prabhuvaayane andariki prabhuvu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు క్రీస్తు ప్రభువాయనే అందరికి ప్రభువు",
+      "పశువుల పాకన్ పరుండెను తానే దేవుడై యుండి"
+    ],
+    "english": [
+      "Yesu Kreesthu prabhuvaayane andariki prabhuvu",
+      "Pashuvula paakan parundenu thaane Dhevudai yundi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నరులన్ గావన్ శ్రమల బొందెన్ క్రీస్తు ప్రభువు",
+        "తిరిగెన్ భువిన్ సుఖమున్ విడచి శిష్యులు వెంటనుండన్"
+      ],
+      "english": [
+        "Narulan gaavan shramala bondhen Kreesthu Prabhuvu",
+        "Thirigen bhuvin sukhamun vidachi shishyulu ventanundan"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిత్యజీవం నిత్య శాంతి నిండు నెమ్మది",
+        "నిత్యుండేసు మనకు నివ్వ మృత్యువున్ గెల్చెను"
+      ],
+      "english": [
+        "Nithyajeevam nithya shaanthi nindu nemmadi",
+        "Nithyundesu manaku nivva mruthyuvun gelchenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "భీతిన్ గొలుపు అలలు పైకి లేచినంతనే",
+        "భీతిన్ విడచి యేసు వైపు చూడు నిమ్మళించును"
+      ],
+      "english": [
+        "Bheethin golupu alalu paiki lechinanthane",
+        "Bheethin vidachi Yesu vaipu choodu nimmalinchunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మరణమేలు లోయలందు సంచరించెడు",
+        "తరుణములు కలిగినను క్రీస్తు మీ చెంతనుండున్"
+      ],
+      "english": [
+        "Maranamelu loyalandhu sancharinchedu",
+        "Tharunamulu kaliginanu Kreesthu mee chenthanundun"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మన జీవము క్రీస్తే గదా క్రీస్తున్ తేరి చూచి",
+        "తనయులమై యుద్ధమందు జయము నొందెదము"
+      ],
+      "english": [
+        "Mana jeevamu Kreesthe gadaa Kreesthun theri choochi",
+        "Thanayulamai yudhdhamandhu jayamu nondhedhamu"
+      ]
+    }
+  ]
+}

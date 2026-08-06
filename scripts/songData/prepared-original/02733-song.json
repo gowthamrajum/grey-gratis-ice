@@ -1,0 +1,67 @@
+{
+  "song_name": "అలసటపడ్డ నీవు దేవోక్తి విను",
+  "author": {
+    "Authored by": "",
+    "రచన": "జాన్ మేసన్ నీ"
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అలసటపడ్డ నీవు దేవోక్తి విను రా, నా యొద్ద, సు విశ్రాంతి పొందుము"
+      ],
+      "english": [
+        "alasatapadda neevu dhaevoakthi vinu raa, naa yodhdha, su vishraaMthi poMdhumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేను చూచు గుర్తు లేవి, వాని కుండునా? 'ప్రక్కఁ గాలుసేతులందు గాయముల్'"
+      ],
+      "english": [
+        "naenu choochu gurthu laevi, vaani kuMdunaa? 'prakkAO gaalusaethulMdhu gaayamul'"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రాజుఁబోలి కిరీటంబు వాని కుండునా 'యుండుగాని ముండ్లచేత నల్లరి'"
+      ],
+      "english": [
+        "raajuAOboali kireetMbu vaani kuMdunaa 'yuMdugaani muMdlachaetha nallari'"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నన్ను ఁ జేర్చుకొమ్మనంగఁ జేర్చుకొనునా? 'ఔను లోకాంతంబు దాఁక చేర్చును'"
+      ],
+      "english": [
+        "nannu AO jaerchukommanMgAO jaerchukonunaa? 'aunu loakaaMthMbu dhaaAOka chaerchunu'"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "వాని వెంబడింతు నేని యేమి లాభము? 'పాప దుఃఖ కష్టములు వచ్చును'"
+      ],
+      "english": [
+        "vaani veMbadiMthu naeni yaemi laabhamu? 'paapa dhuHkha kaShtamulu vachchunu'"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "చావుమట్టు కోర్తునేని ఏమి యిచ్చును? 'సంతోషంబు సౌఖ్య మింక మోక్షము'"
+      ],
+      "english": [
+        "chaavumattu koarthunaeni aemi yichchunu? 'sMthoaShMbu saukhya miMka moakShmu'"
+      ]
+    }
+  ]
+}

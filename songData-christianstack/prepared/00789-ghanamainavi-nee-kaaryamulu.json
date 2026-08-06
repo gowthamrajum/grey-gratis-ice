@@ -1,0 +1,48 @@
+{
+  "song_name": "Ghanamainavi Nee Kaaryamulu",
+  "author": {
+    "Authored by": "Hosanna Ministries",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఘనమైనవి నీ కార్యములు నా యెడల",
+      "స్థిరమైననవి నీ ఆలోచనలు నా యేసయ్యా",
+      "కృపలను పొందుచు కృతజ్ఞత కలిగి",
+      "స్తుతులర్పించెదను అన్ని వేళలా",
+      "అనుదినమూ నీ అనుగ్రహమే",
+      "ఆయుష్కాలము నీ వరమే"
+    ],
+    "english": [
+      "Ghanamainavi nee kaaryamulu naa yedala",
+      "sthiramainavi nee aalochanalu naa yesayya",
+      "krupalanu pondhuchu kruthagnatha kaligi",
+      "sthuthularpinchedhanu anni velalaa",
+      "anudhinamu nee anugrahame",
+      "aayushkaalamu nee varame"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఘనమైనవి… స్థిరమైనవి…",
+        "ఘనమైనవి నీ కార్యములు నా యెడల",
+        "స్థిరమైననవి నీ ఆలోచనలు నా యేసయ్యా",
+        "కృపలను పొందుచు కృతజ్ఞత కలిగి",
+        "స్తుతులర్పించెదను అన్ని వేళలా",
+        "అనుదినమూ నీ అనుగ్రహమే",
+        "ఆయుష్కాలము నీ వరమే"
+      ],
+      "english": [
+        "Ghanamainavi… sthiramainavi",
+        "Ghanamainavi nee kaaryamulu naa yedala",
+        "sthiramainavi nee aalochanalu naa yesayya",
+        "krupalanu pondhuchu kruthagnatha kaligi",
+        "sthuthularpinchedhanu anni velalaa",
+        "anudhinamu nee anugrahame",
+        "aayushkaalamu nee varame"
+      ]
+    }
+  ]
+}

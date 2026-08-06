@@ -1,0 +1,106 @@
+{
+  "song_name": "Kraisthavulaaraa lendi eenaadu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "జాన్ బైరొం"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "క్రైస్తవులారా! లెండి యీనాడు",
+      "క్రీస్తు పుట్టెనంచు పాడుఁడి;",
+      "ప్రసన్నుఁడైన తండ్రి ప్రేమను",
+      "ఆసక్తిపరులై కీర్తించుఁడి",
+      "క్రీస్తేను మానవాళితోడను",
+      "నశింపవచ్చెనంచు పాడుఁడి."
+    ],
+    "english": [
+      "Kraisthavulaaraa! lendi eenaadu",
+      "Kreesthu puttenanchu paadudi;",
+      "Prasannudaina thandri premanu",
+      "Aasakthiparulai keerthinchudi",
+      "Kreesthenu maanavaalithodanu",
+      "Nashimpavachchenanchu paadudi."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేవుని దూత గొల్లవారికి",
+        "ఈ రీతిగాను ప్రకతించెనుః",
+        "'ఈ వేళ మహా సంతోషంబగు",
+        "సువార్త నేను ఎరిగింతును.",
+        "దావీదు పట్నమం దీదినము",
+        "దైవరక్షకుఁడు జన్మించెను.'"
+      ],
+      "english": [
+        "Devuni dootha gollavaariki",
+        "Ee reethigaanu prakatinchenu:",
+        "'Ee vela mahaa santhoshambagu",
+        "Suvaartha nenu eriginthunu.",
+        "Daaveedu patnamam dheedhinamu",
+        "Dhaivarakshakudu janminchenu.'"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "త్వరగానే ఆకాశ సైన్యము",
+        "హర్షించుచు నీలాగు పాడెను",
+        "'సర్వోన్న తాకాశంబునందుండు",
+        "సర్వేశ్వరునికి ప్రభావము",
+        "నరులయందు సమాధానము",
+        "ధరణిలో వ్యాపింపనియ్యుఁడు'."
+      ],
+      "english": [
+        "Thvaragaane aakaasha sainyamu",
+        "Harshinchuchu neelaagu paadenu",
+        "'Sarvonna thaakaashambunandundu",
+        "Sarveshvaruniki prabhaavamu",
+        "Narulayandhu samaadhaanamu",
+        "Dharanilo vyaapimpaniyyudu'."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పరమతండ్రి దయారసము",
+        "నరులకెంతో నాశ్చర్యము",
+        "నరావతారుఁడగు దేవుఁడు",
+        "నిరపరాధిగాను జీవించి",
+        "నిర్దోషమైన త్రోవ చూపించి",
+        "విరోధులన్ ప్రేమించుచుండెను."
+      ],
+      "english": [
+        "Paramathandri dhayaarasamu",
+        "Narulakentho naashcharyamu",
+        "Naraavathaarudagu devudu",
+        "Niraparaadhigaanu jeevinchi",
+        "Nirdhoshamaina throva choopinchi",
+        "Virodhulan preminchuchundenu."
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "శ్రీ మాత సైన్యముతో మేమును",
+        "వాద్యములు వాయించుచుందుము;",
+        "ఈ దినమందు నుద్భవించిన",
+        "యా దివ్యకర్తను వీక్షింతుము;",
+        "సదయుఁడైన యేసు ప్రేమను",
+        "సదా స్తుతించి పాడుచుందుము."
+      ],
+      "english": [
+        "Sree maata sainyamutho memunu",
+        "Vaadhyamulu vaayinchuchundhumu;",
+        "Ee dinamandu nudbhavinchina",
+        "Yaa dhivyakarthanu veekshinthumu;",
+        "Sadhayudaina Yesu premanu",
+        "Sadaa sthuthinchi paaduchundhumu."
+      ]
+    }
+  ]
+}

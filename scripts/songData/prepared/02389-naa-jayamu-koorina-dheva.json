@@ -1,0 +1,43 @@
+{
+  "song_name": "Naa Jayamu Koorina Dheva",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా జయము కోరిన దేవా - సైన్యములకధిపతి యెహోవా",
+      "నీ దండులో - నేనుండగా - నాకు ఓటమి లేదయ్యా యేసయ్యా",
+      "నీకే నీకే నా ఆరాధనా - నీకే నీకే మహిమా ఘనతా"
+    ],
+    "english": [
+      "Naa Jayamu Korina Dhevaa - Sainyamulakadhipathi Yehovaa",
+      "Nee Dhandulo - Nenundagaa - Naaku Otami Ledhayyaa Yesayyaa",
+      "Neeke Neeke Naa Aaraadhanaa - Neeke Neeke Mahimaa Ghanathaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీదు మందిరమందున - పరచి ప్రార్ధనచేయగా",
+        "దూతను పంపి - దీవెనతో నింపి - మాకు జయమిచ్చితివే"
+      ],
+      "english": [
+        "Needhu Mandhiramandhuna - Parachi Praardhanacheyagaa",
+        "Dhoothanu Pampi - Dheevenatho Nimpi - Maaku Jayamichchithive"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ ప్రజల నెమ్మది కోరి - ఆదరణకర్తను పంపితివి",
+        "విశ్వాసి ప్రార్ధనకు - విశ్వముపైన - విజయమిచ్చెదనంటివే"
+      ],
+      "english": [
+        "Nee Prajala Nemmadhi Kori - Aadharanakarthanu Pampithivi",
+        "Vishwaasi Praardhanaku - Vishwamupaina - Vijayamichchedhanantive"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "song_name": "Manasaa Vinavaemae Kreesthuni Gani",
+  "author": {
+    "Authored by": "",
+    "రచన": "బి కోటయ్య"
+  },
+  "main_stanza": {
+    "telugu": [
+      "మనసా వినవేమే క్రీస్తునిఁ గని సేవింపవేమే",
+      "అనుదినమున నీ కాయువు క్షీణం బగుచున్నది గదవే"
+    ],
+    "english": [
+      "Manasaa Vinavaemae Kreesthuni Gani Saevimpavaemae",
+      "Anudhinamuna Nee Kaayuvu Ksheenam Baguchunnadhi Gadhavae"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చింతలేల నీకు వర శ్రీ మంతుడుండు వరకు",
+        "చెంతను జేరక యెంతసేపు నీ యంతట నుండెదవే"
+      ],
+      "english": [
+        "Chinthalaela Neeku Vara Shree Manthudundu Varaku",
+        "Chenthanu Jaeraka Yenthasaepu Nee Yanthata Nundedhavae"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "లోకాశలకును నీవు లోకువై యుండకుము",
+        "ఆకాశము నేలెడు మన ప్రభువును ప్రాకటముగ నమ్ము"
+      ],
+      "english": [
+        "Loakaashalakunu Neevu Loakuvai Yundakumu",
+        "Aakaashamu Naeledu Mana Prabhuvunu Praakatamuga Nammu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మాయ సంతలోన జిక్కి మాయలఁ బోయెదవు",
+        "కాయము స్థిరమని నమ్మకు మీ నీ ప్రాయము దక్కదుగా"
+      ],
+      "english": [
+        "Maaya Santhaloana Jikki Maayala Boayedhavu",
+        "Kaayamu Sthiramani Nammaku Mee Nee Praayamu Dhakkadhugaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "రక్షకయని వేఁడు నీవు రక్షణకై వేఁడు",
+        "రక్షణఁ బొందుట కిదియే సమయము తక్షణమున వేఁడు"
+      ],
+      "english": [
+        "Rakshakayani Vaedu Neevu Rakshanakai Vaedu",
+        "Rakshana Bondhuta Kidhiyae Samayamu Thakshanamuna Vaedu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "అందరమును గూడి యేసుని మందిరమునఁ జేరి",
+        "పొందుగ క్రీస్తుని పొగడుచుఁ బాడుచు నందునఁ జేరుదము"
+      ],
+      "english": [
+        "Andharamunu Goodi Yaesuni Mandhiramuna Jaeri",
+        "Pondhuga Kreesthuni Pogaduchu Baaduchu Nandhuna Jaerudhamu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "song_name": "Nee premaye naaku chaalu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ ప్రేమయే నాకు చాలు నీతోడు నాకుంటే చాలు",
+      "నా జీవితాన ఒంటరి పయనాన",
+      "నీ నీడలో నన్ను నడిపించుమా",
+      "యేసయ్యా. . ఆ. . ఆ. . యేసయ్యా. . ఆ. . ఆ. .",
+      "యేసయ్యా. . ఆ. . ఆ. . యేసయ్యా. . యేసయ్యా. ."
+    ],
+    "english": [
+      "Nee premaye naaku chaalu neethodu naakunte chaalu",
+      "Naa jeevithaana ontari payanaana",
+      "Nee needalo nannu nadipinchumaa",
+      "Yesayyaa. . aa. . aa. . Yesayyaa. . aa. . aa. .",
+      "Yesayyaa. . aa. . aa. . Yesayyaa. . Yesayyaa. ."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ ప్రేమతోను నీ వాక్కుతోను నిత్యము నన్ను నింపుమయ్యా",
+        "నీ ఆత్మతోను నీ సత్యముతోను నిత్యము నను కాపాడుమయ్యా",
+        "నీ సేవలో నీ సన్నిధిలో నీ మాటలో నీ బాటలో",
+        "నిత్యము నను నడిపించుమయ్యా"
+      ],
+      "english": [
+        "Nee premathonu nee vaakkuthonu nithyamu nannu nimpumayyaa",
+        "Nee aathmathonu nee sathyamuthonu nithyamu nanu kaapaadumayyaa",
+        "Nee sevalo nee sannidhilo nee maatalo nee baatalo",
+        "Nithyamu nanu nadipinchumayyaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నువు లేక నేను జీవించలేను నీ రాకకై వేచియున్న",
+        "నువు లేని నన్ను ఊహించలేను నాలోన నివసించుమన్న",
+        "నా ఊహలో నీ రూపమే నా ధ్యాసలో నీ ధ్యానమే",
+        "నీ రూపులో మార్చెనయ్యా"
+      ],
+      "english": [
+        "Nuvu leka nenu jeevinchalenu nee raakakai vechiyunna",
+        "Nuvu leni nannu oohinchalenu naalona nivasinchumanna",
+        "Naa oohalo nee roopame naa dhyaasalo nee dhyaaname",
+        "Nee roopulo maarchenayyaa"
+      ]
+    }
+  ]
+}

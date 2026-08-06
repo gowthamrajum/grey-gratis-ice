@@ -1,0 +1,46 @@
+{
+  "song_name": "Raakada samayamulo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాకడ సమయములో కడబూర శబ్దంలో",
+      "యేసుని చేరుకొనే విశ్వాసం నీకుందా",
+      "రావయ్య యేసయ్య వేగమే రావయ్యా",
+      "రావయ్య యేసయ్య వేగమే రావయ్యా"
+    ],
+    "english": [
+      "Raakada samayamulo kadaboora shabdamlo",
+      "Yesuni cherukone vishwaasam neekundaa",
+      "Raavayya Yesayya vegame raavayyaa",
+      "Raavayya Yesayya vegame raavayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసయ్య రాకడ సమయములో ఎదురేగే రక్షణ నీకుందా (2)",
+        "లోకాశలపై విజయం నీకుందా  ||రాకడ||"
+      ],
+      "english": [
+        "Yesayya raakada samayamulo edurege rakshana neekundaa (2)",
+        "Lokaashalapai vijayam neekundaa  ||Raakada||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇంపైన ధూప వేదికగా ఏకాంత ప్రార్ధన నీకుందా (2)",
+        "యేసు నాశించే దీన మనసుందా  ||రాకడ||"
+      ],
+      "english": [
+        "Impaina dhoopa vedikagaa ekaantha praardhana neekundaa (2)",
+        "Yesu aashinche deena manasundaa  ||Raakada||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "song_name": "Yepati Dhananaya",
+  "author": {
+    "Authored by": "Pastor D. Chrisostam",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏపాటిదాననయా – నన్నింతగ హెచ్చించుటకు",
+      "నేనెంతటిదాననయా – నాపై కృప చూపుటకు",
+      "నా దోషము భరియించి – నా పాపము క్షమియించి",
+      "నను నీలా మార్చుటకు – కలువరిలో మరణించి"
+    ],
+    "english": [
+      "Yepaati daananayaa – nannintaga hechchinchutaku",
+      "nenenthati daananayaa – naapai krupa chooputaku",
+      "naa dhoshamu bariyinchi – naa paapamu kshamiyinchi",
+      "nanu neela maarchutaku – kaluvarilo maraninchi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రేమించే ప్రేమామయుడా – నీ ప్రేమకు పరిమితులేవి",
+        "కృపచూపు కృపగల దేవా – నీ కృపకు సాటియేది || ఏపాటి ||"
+      ],
+      "english": [
+        "preminchey premaamayuda – nee premaku parimithulevi",
+        "krupachoopu krupagala deva – nee krupaku saati yedi || Yepati ||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కష్టాల కడలిలో – కన్నీటి లోయలలో",
+        "నా తోడు నిలిచావు – నన్నాదరించావు",
+        "అందరు నను విడచిన – నను విడువని యేసయ్యా",
+        "విడువను ఎడబాయనని – నా తోడై నిలిచితివా || ప్రేమించే ||"
+      ],
+      "english": [
+        "kashtaala kadalilo – kanniti loyalalo",
+        "naa thodu nilichaavu – nannaadarinchaavu",
+        "andaru nanu vidachina – nanu viduvani yesayyaa",
+        "viduvanu edabaayanani – naa thodai nilichitivaa || preminchey ||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ ప్రేమను మరువలేనయ్య – నీ సాక్షిగ బ్రతికెదనేసయ్యా",
+        "నేనొందిన నీ కృపను – ప్రకటింతును బ్రతుకంతా",
+        "నేనొందిన ఈ జయము – నీవిచ్చినదేనయ్య",
+        "నీవిచ్చిన జీవముకై – స్తోత్రము యేసయ్య || ప్రేమించే ||"
+      ],
+      "english": [
+        "nee premanu maruvalenayya – nee saakshiga brathikedanesayyaa",
+        "nenondina nee krupanu – prakatinthunu brathukantha",
+        "nenondina ee jayamu – neevichchinadenayya",
+        "neevichchina jeevamukai – sthothramu yesayya || preminchey ||"
+      ]
+    }
+  ]
+}

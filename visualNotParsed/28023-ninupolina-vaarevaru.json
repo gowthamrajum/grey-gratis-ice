@@ -1,0 +1,100 @@
+{
+  "song_name": "Ninupolina vaarevaru",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Benny Joshua"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నినుపోలిన వారెవరు",
+      "మేలుచేయు దేవుడవు",
+      "నిన్నే నే నమ్మితిన్ నా దేవా"
+    ],
+    "english": [
+      "Ninupolina vaarevaru",
+      "Melucheyu Devudavu",
+      "Ninne ne nammithin naa Deva"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిన్నే నా జీవితమునకు",
+        "ఆధారము చేసికొంటిని",
+        "నీవులేని జీవితమంత",
+        "వ్యర్దముగా పోవునయ్య"
+      ],
+      "english": [
+        "Ninne naa jeevithamunaku",
+        "Aadhaaramu chesikontini",
+        "Neevuleni jeevithamantha",
+        "Vyardhamugaa povunayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎల్షదాయ్! ఆరాధన",
+        "ఎలోహీం ! ఆరాధన",
+        "అదొనై! ఆరాధన",
+        "యేషువ! ఆరాధన"
+      ],
+      "english": [
+        "Elshadaay! aaraadhana",
+        "Eloheem ! aaraadhana",
+        "Adonai! aaraadhana",
+        "Yeshuva! aaraadhana"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కృంగిఉన్న నన్ను చూచి",
+        "కన్నీటిని తుడిచితివయ్య",
+        "కంటిపాప వలె కాచి",
+        "కరుణతో నడిపితివయ్య",
+        "మరణపు మార్గమందు",
+        "నడచిన వేలయందు",
+        "వైద్యునిగా వచ్చి నాకు",
+        "మరో జన్మనిచ్చితివయ్య",
+        "ఎల్షదాయ్! నీకే ఆరాధన",
+        "ఎలోహీం ! ఆరాధన",
+        "అదొనై! ఆరాధన",
+        "యేషువ! యేషువ!"
+      ],
+      "english": [
+        "Krungiunna nannu choochi",
+        "Kanneetini thudichithivayya",
+        "Kantipaapa vale kaachi",
+        "Karunatho nadipithivayya",
+        "Maranapu maargamandu",
+        "Nadachina velayandhu",
+        "Vaidhyunigaa vachchi naaku",
+        "Maro janmanichchithivayya",
+        "Elshadaay! neeke aaraadhana",
+        "Eloheem ! aaraadhana",
+        "Adonai! aaraadhana",
+        "Yeshuva! Yeshuva!"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఎల్షదాయ్! ఆరాధన",
+        "ఎలోహీం ! ఆరాధన",
+        "అదొనై! అదొనై!",
+        "అదొనై! ఆరాధన"
+      ],
+      "english": [
+        "Elshadaay! aaraadhana",
+        "Eloheem ! aaraadhana",
+        "Adonai! Adonai!",
+        "Adonai! aaraadhana"
+      ]
+    }
+  ]
+}

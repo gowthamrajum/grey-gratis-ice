@@ -1,0 +1,66 @@
+{
+  "song_name": "Shree Yehova nee kosangedha",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "వేశపోగు గుల్బానమ్మ"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "శ్రీ యెహోవా నీ కొసంగెద శ్రేయ మొదవఁగ నాదు సంపదఁ బాయక",
+      "నీ సమ్ముఖమ్మున నే యెడ నివసింతు భక్తితో ||శ్రీ||"
+    ],
+    "english": [
+      "Shree Yehova nee kosangedha shreya modhavaga naadu sampada baayaka",
+      "Nee sammukhammuna ne eda nivasinthu bhakthitho ||Shree||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అడఁకువతో నీ పాదములఁబడి యొడయుఁడా నావెల్ల నీకిడి తడవు",
+        "చేయక కొల్తు నిన్నుఁ దండ్రి నన్నంగీకరించుమి  ||శ్రీ||"
+      ],
+      "english": [
+        "Adakuvatho nee paadhamulabadi odayudaa naavella neekidi thadavu",
+        "Cheyaka kolthu ninnu thandri nannangeekarinchumi ||Shree||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీవు నా రాజువు నిరతము నేను నీ బిడ్డను నిశ్చయము పావనాత్ముని",
+        "యెదుట నాదు జీవ మిడుదు సజ్జీవనముకయి  ||శ్రీ||"
+      ],
+      "english": [
+        "Neevu naa raajuvu nirathamu nenu nee biddanu nishchayamu paavanaathmuni",
+        "Eduta naadu jeeva midudhu sajjeevanamukayi ||Shree||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రభువరా యర్పించుకొందు భక్తితోడ నన్ను నిందు శుభప్రదము లగు",
+        "శక్తులతో నను సొంపుమీరఁగ నింపు స్వామీ  ||శ్రీ||"
+      ],
+      "english": [
+        "Prabhuvaraa arpinchukondhu bhakthithoda nannu nindu shubhapradhamu lagu",
+        "Shakthulatho nanu sompumeeraga nimpu Swaamee ||Shree||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మహిమస్తుతులు చెల్లు నీ నా మంబునకు నిత్యంబుగా న న్నిహ పరంబుఁ",
+        "బ్రోచువాఁడ నీవె సుమ్మా లోక రక్షకా  ||శ్రీ||"
+      ],
+      "english": [
+        "Mahimasthuthulu chellu nee naamambunaku nithyambugaa nanniha parambu",
+        "Brochuvaada neeve summaa loka rakshakaa ||Shree||"
+      ]
+    }
+  ]
+}

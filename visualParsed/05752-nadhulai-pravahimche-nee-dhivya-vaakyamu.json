@@ -1,0 +1,56 @@
+{
+  "song_name": "Nadhulai pravahinche nee divya vaakyamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నదులై ప్రవహించె నీ దివ్య వాక్యము",
+      "నా విశ్వాసపు వేళ్ళు తడవు అను నిత్య",
+      "స్తుతించెద ఆత్మలో పలించెద నీప్రేమాతిశయము చేత మూర్చిల్లెద",
+      "ఆనందం, ఆనందం, ఆనందం హల్లెలూయా",
+      "ఆ.....ఆ....ఆ....ఆ.....ఆ..."
+    ],
+    "english": [
+      "Nadhulai pravahinche nee divya vaakyamu",
+      "Naa vishwaasapu vellu thadavu anu nithya",
+      "Sthuthincheda aathmalo palincheda nee premaathishayamu chetha moorchilleda",
+      "Aanandam, aanandam, aanandam halleluya",
+      "Aa.....aa....aa....aa.....aa..."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇవి నదులు మాత్రమే కాదు - జీవజలపు ఊటలు",
+        "నా మదిని పులకరింపజేయు - ముత్యాల మాటలు (2)",
+        "పాటలు - బాటలు - కెరటాల - వరాల మూటలు (2)",
+        "కోటలు వరాల మూటలు (2)"
+      ],
+      "english": [
+        "Ivi nadulu maathrame kaadu - Jeevajalapu ootalu",
+        "Naa madini pulakarimpajeyu - Muthyaala maatalu (2)",
+        "Paatalu - Baatalu - Keratala - Varaala mootalu (2)",
+        "Kotalu varaala mootalu (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇవి ఊటలు మాత్రమే కాదు సిలువ రుథిర ధారలు",
+        "నా పాప రోగమును మాన్పెడి దివ్య ఔషదములు",
+        "కృపలు కనికరములు వరములు ఆత్మ ఫలములు",
+        "వరములు ఆత్మ ఫలములు"
+      ],
+      "english": [
+        "Ivi ootalu maathrame kaadu siluva rudhira dhaaralu",
+        "Naa paapa rogamunu maanpedi divya aushadhamulu",
+        "Krupalu kanikaramulu varamulu aathma phalamulu",
+        "Varamulu aathma phalamulu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "song_name": "Sthoathraarpana Narpinthamu",
+  "author": {
+    "Authored by": "",
+    "రచన": "సమూయేలు పాక్యనాథము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తోత్రార్పణ నర్పింతము జప ధూపము వేసి కీర్తింతము",
+      "పాత్రుం డైన శ్రీ యేసుఁడు పరమ భోజనాంశమైనందున"
+    ],
+    "english": [
+      "Sthoathraarpana Narpinthamu Japa Dhoopamu Vaesi Keerthinthamu",
+      "Paathrum Daina Shree Yaesudu Parama Bhoajanaamshamainandhuna"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కృతజ్ఞతా స్తోత్రంబులన్ దేవ కృపార్థంబై చేయుదము",
+        "క్షీతి నాతండు బలి నియ్యఁగాఁ పుట్టె నూతనంపు నిబంధన"
+      ],
+      "english": [
+        "Kruthajnathaa Sthoathrambulan Dhaeva Krupaarthambai Chaeyudhamu",
+        "Ksheethi Naathandu Bali Niyyagaa Putte Noothanampu Nibandhana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపము లన్ని హరించెను మా ప్రభు వగు యేసు సురక్తము",
+        "ఏపుగ దీనిఁ దలంచుచు నిఁక నెన్నఁడు యేసుని భజింతము"
+      ],
+      "english": [
+        "Paapamu Lanni Harinchenu Maa Prabhu Vagu Yaesu Surakthamu",
+        "Aepuga Dheeni Dhalanchuchu Nika Nennadu Yaesuni Bhajinthamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "చావు నుండి రక్షించెను స జీవులలో లెక్కించెను",
+        "దేవుని కిఁక నర్పింతము స జీవార్పణ బలిగను"
+      ],
+      "english": [
+        "Chaavu Nundi Rakshinchenu Sa Jeevulaloa Lekkinchenu",
+        "Dhaevuni Kika Narpinthamu Sa Jeevaarpana Baliganu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పుణ్యరక్త శరీరముల లోఁ పాలొందు మన మందరము",
+        "అన్యులము కానేరము దై వాన్యోన్యంబు నొందినాము"
+      ],
+      "english": [
+        "Punyaraktha Shareeramula Loa Paalondhu Mana Mandharamu",
+        "Anyulamu Kaanaeramu Dhai Vaanyoanyambu Nondhinaamu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మరణ శ్రమల స్మరింతము ప్రభు తిరిగి వచ్చు పర్యంతము",
+        "ధర నా యేసు మరణంబును యింకఁ చిరకాలంబుఁ జాటింతము"
+      ],
+      "english": [
+        "Marana Shramala Smarinthamu Prabhu Thirigi Vachchu Paryanthamu",
+        "Dhara Naa Yaesu Maranambunu Yinka Chirakaalambu Jaatinthamu"
+      ]
+    }
+  ]
+}

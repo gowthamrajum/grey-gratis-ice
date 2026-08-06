@@ -1,0 +1,67 @@
+{
+  "song_name": "Neeku Ishtudigaa Ilalo Ne Undaalani",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీకు ఇష్టుడిగా ఇలలో నే ఉండాలని",
+      "ఎంత కష్టమైనా నీలోనే ఉండాలని",
+      "ఆశతో ఉన్నాను నా యేసయ్యా",
+      "ఆశలు తీర్చే నా మెస్సయ్యా (2)",
+      "నువ్వంటే ఇష్టం నా యేసయ్యా",
+      "నాతో నువ్వుంటే ఇష్టం నా మెస్సయ్యా",
+      "ఆ ఆ…"
+    ],
+    "english": [
+      "Neeku Ishtudigaa Ilalo Ne Undaalani",
+      "Entha Kashtamainaa Neelone Undaalani",
+      "Aashatho Unnaanu Naa Yesayyaa",
+      "Aashalu Theerche Naa Messaiah (2)",
+      "Nuvvante Ishtam Naa Yesayya",
+      "Naatho Nuvvunte Ishtam Naa Messaiah",
+      "Aaaaaa.. Aaaaa…"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ వెంటనే నే నడవాలని",
+        "నీ ఇంటిలోనికి రావాలని (2)",
+        "నీ వాక్యపు రుచి నాకు చూపావయ్యా",
+        "నీ వాత్సల్యతతో నను నింపావయ్యా (2)",
+        "అందుకేనయ్యా నువ్వంటే నాకిష్టం",
+        "అందుకోవయ్యా నాలోని నీ ఇష్టం (2)"
+      ],
+      "english": [
+        "Nee Ventane Ne Nadavaalani",
+        "Nee Intiloniki Raavaalani (2)",
+        "Nee Vaakyapu Ruchi Naaku Choopaavayyaa",
+        "Nee Vaathsalyathatho Nanu Nimpaavayyaa (2)",
+        "Andukenayyaa Nuvvante Naakishtam",
+        "Andukovayyaa Naaloni Nee Ishtam (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎన్నో శోధనలు ఎన్నెన్నో శ్రమలతో",
+        "ఈ లోకంలో నే పడియుండగా (2)",
+        "నీ కృపచేత నను నీవు నిలిపావయ్యా",
+        "నీ కరుణతో నను నీవు నడిపావయ్యా (2)",
+        "అందుకేనయ్యా నువ్వంటే నాకిష్టం",
+        "అందుకోవయ్యా నాలోని నీ ఇష్టం (2)"
+      ],
+      "english": [
+        "Enno Shodhanalu Ennenno Shramalatho",
+        "Ee Lokamlo Ne Padiyundagaa (2)",
+        "Nee Krupachetha Nanu Neevu Nilipaavayyaa",
+        "Nee Karunatho Nanu Neevu Nadipaavayyaa (2)",
+        "Andukenayyaa Nuvvante Naakishtam",
+        "Andukovayyaa Naaloni Nee Ishtam (2)"
+      ]
+    }
+  ]
+}

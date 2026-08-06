@@ -1,0 +1,66 @@
+{
+  "song_name": "Kanyaa garbhamuna butti karunagalgu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "మిక్కిలి దేవసహాయము"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "కన్యా గర్భమున బుట్టి కరుణగల్గు బాలుఁడవైన కన్యా సుతుండ నిన్నే",
+      "నమ్మితి నో యేసునాధ కన్ను లెత్తి మమ్ముఁ జూడుము ||కన్యా||"
+    ],
+    "english": [
+      "Kanyaa garbhamuna butti karunagalgu baaludavaina kanyaa suthunda ninne",
+      "Nammithi no Yesunaadha kannu letthi mammu joodumu ||Kanyaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "బాల ప్రాయమున నేను బాగుగా నీ పాద సేవఁ జాలజేసి యున్న వా",
+        "డనుగా యో యేసు నాధ చాల దయతో మేలు చేయుమి  ||కన్యా||"
+      ],
+      "english": [
+        "Baala praayamuna nenu baagugaa nee paada seva jaalajesi yunna vaa",
+        "Danugaa yo Yesu naadha chaala dayatho melu cheyumi  ||Kanyaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇంపైనట్టి మరియ తనయ యిహము పరము నేలు బాల సొంపుగా నీ",
+        "ప్రాపే గోరితి నో యేసునాధ చెంపఁ గొట్టి బుద్ధి చెప్పుము  ||కన్యా||"
+      ],
+      "english": [
+        "Impainatti Mariya thanaya ihamu paramu nelu baala sompugaa nee",
+        "Praape gorithi no Yesunaadha chempa gotti buddhi cheppumu  ||Kanyaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తుంటతనము చేత జగము తంటాచేసి తిరుగుచుంటి నంటిన మాయల",
+        "బాధల నో యేసు నాధ యంటుఁ బాపి జంటజేయుము  ||కన్యా||"
+      ],
+      "english": [
+        "Thuntathanamu chetha jagamu thantaachesi thiruguchunti nantina maayala",
+        "Baadhala no Yesu naadha yantu baapi jantajeyumu  ||Kanyaa||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మింట నుండి నీవు వచ్చి మంటి పైని బాలుఁడ వగుచుఁ గంటి కింపు",
+        "గాను నడిచితి వో యేసు నాధ కానుపర్చి తోవు త్రోవను ||గన్యా||"
+      ],
+      "english": [
+        "Minta nundi neevu vachchi manti paini baaluda vaguchu ganti kimpu",
+        "Gaanu nadichithi vo Yesu naadha kaanuparchi thovu throvanu ||Kanyaa||"
+      ]
+    }
+  ]
+}

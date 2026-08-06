@@ -1,0 +1,75 @@
+{
+  "song_name": "Paramaathma prokshanam paripoorna poshanam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరమాత్మ ప్రోక్షణం, పరిపూర్ణ పోషణం",
+      "ప్రశాంత జీవిత కళా వికాసం, ఆత్మ కారణం",
+      "పరమాత్మ ప్రోక్షణం, పరిపూర్ణ పోషణం"
+    ],
+    "english": [
+      "Paramaathma prokshanam, paripoorna poshanam",
+      "Prashaantha jeevitha kalaa vikaasam, aathma kaaranam",
+      "Paramaathma prokshanam, paripoorna poshanam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపపు తిమిరము భాపగను,",
+        "ఆగాధములపై అల్లాడి ప్రధమ మానవుని నాసికలో,",
+        "నడయాడిన ఊపిరిగా",
+        "ప్రభ విల్లిన యా పరిశుద్దాత్మ తండ్రి",
+        "కుమారుల బహుమానం (2) ||పరమాత్మా ప్రోక్షణం||"
+      ],
+      "english": [
+        "Paapapu thimiramu baapaganu,",
+        "Agaadhamulapai allaadi pradhama maanavuni naasikalo,",
+        "Nadayaadina oopirigaa",
+        "Prabhavillina yaa parishuddhaathma thandri",
+        "Kumaarula bahumaanam (2) ||Paramaathmaa prokshanam||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విముక్తి దాయిని, ఉజ్జీవ వాహిని (2)",
+        "గళాత్తలముపై, సజీవ దేవుని శక్తి శీలమై (2)",
+        "దేశము నందలి లోయలలో పండిన శల్య సమూహముపై,",
+        "దేశపు పనరుద్దానముకై ప్రసరిల్లి జీవాత్మ దేవతలను",
+        "సైనికులుగా మార్చిన పరిశుద్ధాత్మ ఏ ప్రభు ధానం  ||పరమాత్మ||"
+      ],
+      "english": [
+        "Vimukthi dhaayini, ujjeeva vaahini (2)",
+        "Galaatthalamupai, sajeeva Devuni shakthi sheelamai (2)",
+        "Deshamu nandhali loyalalo endina shalya samoohamupai,",
+        "Deshapu punarudhdhaanamukai prasarilli jeevaathma dhevathalanu",
+        "Sainikulugaa maarchina parishuddhaathma e Prabhu dhaanam  ||Paramaathma||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అబిషేక తైలమై దివ్యాగ్ని జ్వావాలయై (2)",
+        "అశేష వరముల నొసంగి భ్రోచెడి బాగ్యారాసియై (2)",
+        "ఆముష్మికయా వరములతో ఆత్మ ఫలములతో తులతూగి,",
+        "అహరాడగ మన హృదయ నివాసిగ జీవించేడి ఆత్మ ,",
+        "ఆంతర్యములో యేసుని రూపం,",
+        "అలవర్చుట దైవాత్మక్రియ  ||పరమాత్మ||"
+      ],
+      "english": [
+        "Abhisheka thailamai dhivyaagni jwaalalayai (2)",
+        "Ashesha varamula nosangi brochedi bhaagyaraashiyai (2)",
+        "Aamushmikayaa varamulatho aathma phalamulatho thulathoogi,",
+        "Aharaadaga mana hrudaya nivaasiga jeevinchedi aathma,",
+        "Aantharyamulo Yesuni roopam,",
+        "Alavarchuta dhaivaathmakriya  ||Paramaathma||"
+      ]
+    }
+  ]
+}

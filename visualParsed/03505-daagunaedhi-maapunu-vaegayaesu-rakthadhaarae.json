@@ -1,0 +1,62 @@
+{
+  "song_name": "Daagunedhi maapunu vegayesu rakthadhaare",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "డాగునేది మాపును - వేగయేసు రక్తధారే",
+        "రోగికే యౌషధము - బాగుగా నా రక్తధారే",
+        "హా దివ్య రక్తము - ఎంతో యమూల్యము",
+        "నన్ శుద్ధిచేయును - యేసుయొక్క రక్తధారే"
+      ],
+      "english": [
+        "Daagunedhi maapunu - Vegayesu rakthadhaare",
+        "Rogike aushadhamu - Baagugaa naa rakthadhaare",
+        "Haa divya rakthamu - Entho amoolyamu",
+        "Nan shudhdhicheyunu - Yesuyokka rakthadhaare"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాప పరిహారము - ప్రాపు యేసురక్తధారే",
+        "శాపపు సంహారము - స్వామి యేసు రక్తధారే"
+      ],
+      "english": [
+        "Paapa parihaaramu - Praapu Yesurakthadhaare",
+        "Shaapapu samhaaramu - Swaami Yesu rakthadhaare"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇదే నా సుపానము - యేసుయొక్క రక్తధారే",
+        "నాదు క్షమాపణము - యేసుయొక్క రక్తధారే"
+      ],
+      "english": [
+        "Idhe naa sopaanamu - Yesuyokka rakthadhaare",
+        "Naadu kshamaapanamu - Yesuyokka rakthadhaare"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నాకు సమాధానము - యేసుయొక్క రక్తధారే",
+        "నాకు జయగానము - యేసుయొక్క రక్తధారే"
+      ],
+      "english": [
+        "Naaku samaadhaanamu - Yesuyokka rakthadhaare",
+        "Naaku jayagaanamu - Yesuyokka rakthadhaare"
+      ]
+    }
+  ]
+}

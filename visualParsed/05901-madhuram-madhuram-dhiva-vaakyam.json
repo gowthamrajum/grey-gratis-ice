@@ -1,0 +1,73 @@
+{
+  "song_name": "Madhuram madhuram daiva vaakyam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మధురం మధురం దైవ వాక్యం",
+      "తేనెకన్న మధురం దేవుని వాక్యం",
+      "చీకటి నిండిన వీదులలో",
+      "కాంతిని వెదజల్లు దైవవాక్యం",
+      "అ.ప:జీవమున్న వాక్యం,జీవమిచ్చు వాక్యం",
+      "దేవుని దివ్య వాక్యం..."
+    ],
+    "english": [
+      "Madhuram madhuram daiva vaakyam",
+      "Thenekanna madhuram Devuni vaakyam",
+      "Cheekati nindina veedhulalo",
+      "Kaanthini vedhajallu dhaivavaakyam",
+      "A.pa: Jeevamunna vaakyam, jeevamichchu vaakyam",
+      "Devuni divya vaakyam..."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఖడ్గము కంటెను వాడిగలది",
+        "ప్రాణాత్మలను విభజించెడి వాక్యం",
+        "హృదయమునందలి చింతలను",
+        "పరిశోదించెడి దైవ వాక్యం \"జీవమున్న\""
+      ],
+      "english": [
+        "Khadgamu kantenu vaadigaladhi",
+        "Praanaathmalanu vibhajinchedi vaakyam",
+        "Hrudhayamunandhali chinthalanu",
+        "Parishodhinchedi daiva vaakyam \"Jeevamunna\""
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాహృదయములో దైవ వాక్యం",
+        "పదిలపరచుకొని యున్నందున",
+        "పాపములో...నే తడబడకుండ",
+        "అడుగులు కాపాడు దైవ వాక్యం \"జీవమున్న\""
+      ],
+      "english": [
+        "Naa hrudayamulo daiva vaakyam",
+        "Padhilaparachukoni yunnandhuna",
+        "Paapamulo...ne thadabadakunda",
+        "Adugulu kaapaadu daiva vaakyam \"Jeevamunna\""
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కష్టములలోన దైవవాక్యం",
+        "నెమ్మది నిచ్చి నడిపించును",
+        "అలసిన,కృంగిన వేళలలో",
+        "జీవింపచేయు దైవ వాక్యం \"జీవమున్న\""
+      ],
+      "english": [
+        "Kashtamulalona dhaivavaakyam",
+        "Nemmadi nichchi nadipinchunu",
+        "Alasina, krungina velalalo",
+        "Jeevimpacheyu daiva vaakyam \"Jeevamunna\""
+      ]
+    }
+  ]
+}

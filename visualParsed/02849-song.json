@@ -1,0 +1,84 @@
+{
+  "song_name": "O Kreesthu bhakthulaaraa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ క్రీస్తు భక్తులారా",
+      "నీతి నిమిత్తము",
+      "పోరాడ కవచంబు",
+      "ను ధరించుడి",
+      "శక్తుండు సైన్య ప్రభు",
+      "వు, శాంతిరాజుకు",
+      "అపారసేవ జేయ",
+      "అర్పణ యైతిమి.",
+      "||జోహారు, రక్షకుండ!",
+      "నీ మార్గమందున",
+      "విజయగృహ దైవ",
+      "పురంబు బోదుము ||"
+    ],
+    "english": [
+      "O Kreesthu bhakthulaaraa",
+      "Neethi nimitthamu",
+      "Poraada kavachambu",
+      "Nu dharinchudi",
+      "Shakthundu sainya prabhu",
+      "Vu, shaanthiraajuku",
+      "Apaaraseva jeya",
+      "Arpana yaithimi.",
+      "||Johaaru, Rakshakunda!",
+      "Nee maargamandhuna",
+      "Vijayagruha daiva",
+      "Purambu bodhumu ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పదండి ముందుకంచు",
+        "నాదంబు చేయుడు",
+        "స్వార్థంబు గెల్వవలె",
+        "సాగిపోదము",
+        "హర్షంబులేని యాత్మ",
+        "లెన్నెన్నొ చూడుడు",
+        "ఈ ఘోరయుద్ధమున",
+        "కందరి గూర్చుడు."
+      ],
+      "english": [
+        "Padandi mundhukanchu",
+        "Naadhambu cheyudu",
+        "Svaarthambu gelvavale",
+        "Saagipodhamu",
+        "Harshambuleni yaathma",
+        "Lennenno choodudu",
+        "Ee ghorayuddhamuna",
+        "Kandhari goorchudu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "క్రీస్తే మా నాయకుండు",
+        "అటంచు దెల్పగ",
+        "మా హృదయంబునందు",
+        "సంతోష శాంతిసేద లు కల్గునప్పుడు",
+        "సిల్వధ్వజము!",
+        "ఈ లోకమేలులన్ని",
+        "దీవెన నొందును."
+      ],
+      "english": [
+        "Kreesthe maa naayakundu",
+        "Atanchu dhelpaga",
+        "Maa hrudhayambunandhu",
+        "Santhosha shaanthisedha lu kalgunappudu",
+        "Silvadhvajamu!",
+        "Ee lokamelulanni",
+        "Deevena nondhunu."
+      ]
+    }
+  ]
+}

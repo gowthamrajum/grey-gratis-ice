@@ -1,0 +1,51 @@
+{
+  "song_name": "Jeeva naadha mukthi daatha",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "జీవ నాధ ముక్తి దాత",
+      "శాంతి దాత పరమాత్మ",
+      "పావనాత్మ పరుగిడి రావా",
+      "నా హృదిలో నివసింప రావా",
+      "నీ రాక కోసం వేచియున్నాను",
+      "వెలిగించు నాలో నీ దివ్య జ్యోతి – (2)",
+      "ముక్తి ప్రసాదించుము",
+      "భక్తిని నేర్పించుము",
+      "నీ ఆనందముతో నను నింపుము – (2)",
+      "వేంచేయు మా ఆత్మ దేవా",
+      "వెలిగించు నాలో నీ దివ్య జ్యోతి – (2) ||జీవ నాధ||"
+    ],
+    "english": [
+      "Jeeva naadha mukthi daatha",
+      "Shaanthi daatha paramaathma",
+      "Paavanaathma parugidi raavaa",
+      "Naa hrudilo nivasimpa raavaa",
+      "Nee raaka kosam vechiyunnaanu",
+      "Veliginchu naalo nee divya jyothi – (2)",
+      "Mukthi prasaadinchumu",
+      "Bhakthini nerpinchumu",
+      "Nee aanandamutho nanu nimpumu – (2)",
+      "Vencheyu maa aathma Deva",
+      "Veliginchu naalo nee divya jyothi – (2) ||Jeeva naadha||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ శాంతి నింపంగ రావా",
+        "నీ శక్తి నింపంగ రావా (2)",
+        "నీ పరమ వారములతో నింపేవా (2)  ||జీవ||"
+      ],
+      "english": [
+        "Nee shaanthi nimpanga raavaa",
+        "Nee shakthi nimpanga raavaa (2)",
+        "Nee parama vaaramulatho nimpevaa (2)  ||Jeeva||"
+      ]
+    }
+  ]
+}

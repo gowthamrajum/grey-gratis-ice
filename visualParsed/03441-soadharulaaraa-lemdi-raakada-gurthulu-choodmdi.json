@@ -1,0 +1,85 @@
+{
+  "song_name": "Sodharulaaraa lendi raakada gurthulu choodandi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సోదరులారా లెండి - రాకడ గుర్తులు చూడండి",
+      "దివిటీల నూనెతో నింపి - సిద్ధపడండి"
+    ],
+    "english": [
+      "Sodharulaaraa lendi - Raakada gurthulu choodandi",
+      "Diviteela noonetho nimpi - Siddhapadandi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అర్ధరాత్రివేళలో - ప్రభురాకడ ధ్వని మ్రోగెను",
+        "సోమరితనము విడచి (2)",
+        "నడుమున దట్టి గట్టి - ప్రభుని కెదురుచూడుము"
+      ],
+      "english": [
+        "Ardharaathrivelalo - Prabhuraakada dhvani mrogenu",
+        "Somarithanamu vidachi (2)",
+        "Nadumuna dhatti gatti - Prabhuni kedhuruchoodumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సర్వత్రయుద్ధాలు భూకం-పములును ఘోరవ్యాధులు",
+        "ఘోరముగ ప్రబలెను (2)",
+        "యేసుని రాకడ సమీపం - బాయెనో సోదరా"
+      ],
+      "english": [
+        "Sarvathrayuddhaalu bhookam-pamulunu ghoravyaadhulu",
+        "Ghoramuga prabalenu (2)",
+        "Yesuni raakada sameepam - baayeno sodaraa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రాజ్యాలు అధికారాలన్ని - కదలిపోవుచున్నవి",
+        "కలవర మధికంబాయె (2)",
+        "కన్నులు తెరచి చూడుమా ప్రభు వచ్చేవేళాయె"
+      ],
+      "english": [
+        "Raajyaalu adhikaaraalanni - Kadhalipovuchunnavi",
+        "Kalavara madhikambaaye (2)",
+        "Kannulu therachi choodumaa Prabhu vachchevelaaye"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "చెదరిన యూదులు స్వదేశానికి చేరుటే యొక సూచన",
+        "క్రీస్తుయుగ మారంభము (2)",
+        "రానై యున్న వేళిదే - కనిపెట్టుము సోదరా"
+      ],
+      "english": [
+        "Chedarina Yoodulu svadheshaaniki cherute yoka soochana",
+        "Kreesthuyuga maarambhamu (2)",
+        "Raanai yunna velidhe - Kanipettumu sodaraa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "తలుపు వేయబడిన లోన - ప్రవేశించనేరవు",
+        "పశ్చాత్తాప పడుము (2)",
+        "యేసుపై నాధారపడి సంసిద్ధపడుమా"
+      ],
+      "english": [
+        "Thalupu veyabadina lona - Praveshinchaneravu",
+        "Pashchaatthaapa padumu (2)",
+        "Yesupai naadhaarapadi samsiddhapadumaa"
+      ]
+    }
+  ]
+}

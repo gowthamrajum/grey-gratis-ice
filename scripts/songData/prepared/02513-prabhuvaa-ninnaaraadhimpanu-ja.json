@@ -1,0 +1,68 @@
+{
+  "song_name": "Prabhuvaa Ninnaaraadhimpanu Jaerithimi",
+  "author": {
+    "Authored by": "",
+    "రచన": "మొలతాటి విద్యానందము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభువా నిన్నారాధింపను జేరితిమి యుదయ శుభకాంతి ప్రభవింపఁగా",
+      "దేవా నేఁడు శుభకాంతి విరజిమ్మఁగా",
+      "విభవముగను ప్రభాకరముగను విరియు నీ తేజంబెలర్పఁగ",
+      "నభి దనంబులఁగూడి భక్తిని యాత్మతో సత్యంబుతోడను"
+    ],
+    "english": [
+      "Prabhuvaa Ninnaaraadhimpanu Jaerithimi Yudhaya Shubhakaanthi Prabhavimpagaa",
+      "Dhaevaa Naedu Shubhakaanthi Virajimmagaa",
+      "Vibhavamuganu Prabhaakaramuganu Viriyu Nee Thaejambelarpaga",
+      "Nabhi Dhanambulagoodi Bhakthini Yaathmathoa Sathyambuthoadanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇరులుం గమ్మిననుండి యరుణోదయము దనుక నరిగాపు నీవే కాదా",
+        "దేవా రాత్రి యరిగాపు నీవేకాదా",
+        "విరివిగా మా హృదయసీమల నెరసి యుండిన చీఁకటులుఁబో దరిమి",
+        "శాంతంబైన మనసుల దయఁబ్రసాదింపను భజింతుము"
+      ],
+      "english": [
+        "Irulum Gamminanundi Yarunoadhayamu Dhanuka Narigaapu Neevae Kaadhaa",
+        "Dhaevaa Raathri Yarigaapu Neevaekaadhaa",
+        "Virivigaa Maa Hrudhayaseemala Nerasi Yundina Cheekatulubo Dharimi",
+        "Shaanthambaina Manasula Dhayabrasaadhimpanu Bhajinthumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అనఘా నీ సాన్నిధ్యమున నుండఁగా మా దుర్శనసుల నరి కట్టుమో",
+        "దేవా మా దుర్శనసుల శుచి జేయుము",
+        "వినయ భయ భక్తులుఁద లిర్పగ వినుచు నీ వాక్యోపదేశము",
+        "లనిశమును ధ్యానింపనాత్మను బనిచి తుదకుఁ బ్రసన్నమగుము"
+      ],
+      "english": [
+        "Anaghaa Nee Saannidhyamuna Nundagaa Maa Dhurshanasula Nari Kattumoa",
+        "Dhaevaa Maa Dhurshanasula Shuchi Jaeyumu",
+        "Vinaya Bhaya Bhakthuluda Lirpaga Vinuchu Nee Vaakyoapadhaeshamu",
+        "Lanishamunu Dhyaanimpanaathmanu Banichi Thudhaku Brasannamagumu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పనిపాటలలో మేమీ దినము నీ కే మహిమ నొనఁగూర్ప నడిపించుమో",
+        "దేవా నిన్నే ఘన పరచన్నడిపించుము",
+        "తనువు శ్రమచేబడలినను మా దారి దుర్గమమైన కనంబడ",
+        "వనటఁజెందక నేది జేసినఁ బ్రభువు కొఱకని చేయ నడుపుము"
+      ],
+      "english": [
+        "Panipaatalaloa Maemee Dhinamu Nee Kae Mahima Nonagoorpa Nadipinchumoa",
+        "Dhaevaa Ninnae Ghana Parachannadipinchumu",
+        "Thanuvu Shramachaebadalinanu Maa Dhaari Dhurgamamaina Kanambada",
+        "Vanatajendhaka Naedhi Jaesina Brabhuvu Korakani Chaeya Nadupumu"
+      ]
+    }
+  ]
+}

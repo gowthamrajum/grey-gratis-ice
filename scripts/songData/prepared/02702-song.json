@@ -1,0 +1,63 @@
+{
+  "song_name": "JeevithMbu Ghoara KaShtanaShtMbul AavariMchi",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎంచుము లెక్కించు మీవులన్ ఎంచుచూడు మేసుదీవెనల్",
+      "ఎంచు మెంచు మెంచు మీవులన్ వింత నొందెదవు నీవు వానికై"
+    ],
+    "english": [
+      "EMchumu LekkiMchu Meevulan EMchuchoodu Maesudheevenal",
+      "EMchu MeMchu MeMchu Meevulan ViMtha NoMdhedhavu Neevu Vaanikai"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జీవితంబు ఘోర కష్టనష్టంబుల్ ఆవరించి నిన్ను దుఃఖపర్చిన",
+        "దేవుడిచ్చినట్టి ఈవులెంచుము నీ వాశ్చర్య మొందెదవు. వానికై."
+      ],
+      "english": [
+        "JeevithMbu Ghoara KaShtanaShtMbul AavariMchi Ninnu DhuHkhaparchina",
+        "Dhaevudichchinatti EevuleMchumu Nee Vaashcharya MoMdhedhavu. Vaanikai."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చింతమానసంబు నీకు గల్గినన్ వంతచే భారంబు గల్గ నీయెదన్",
+        "సంతసంబుతోడ నెంచుమీవులన్ వింత నొందెదవు నీవు వానికై"
+      ],
+      "english": [
+        "ChiMthamaanasMbu Neeku Galginan VMthachae BhaarMbu Galga Neeyedhan",
+        "SMthasMbuthoada NeMchumeevulan ViMtha NoMdhedhavu Neevu Vaanikai"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నాశనంబు జెందు నాస్తి జూడగా వాసిగా శ్రీ యేసు నీ కొసంగిన",
+        "భాసురంపు భాగ్యముం దలంపుమా యీ సౌభాగ్యమే గదా సదా యుండు"
+      ],
+      "english": [
+        "NaashanMbu JeMdhu Naasthi Joodagaa Vaasigaa Shree Yaesu Nee KosMgina",
+        "BhaasurMpu BhaagyamuM DhalMpumaa Yee Saubhaagyamae Gadhaa Sadhaa YuMdu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "జీవితాదియందు ధైర్య మొందుము దేవుడుండు నెల్లవార్కి తోడుగ",
+        "జీవయాత్ర యందు సాయమియ్యగన్ దేవదూతల్ నీకు తోడుగా నుండు."
+      ],
+      "english": [
+        "JeevithaadhiyMdhu Dhairya MoMdhumu DhaevuduMdu Nellavaarki Thoaduga",
+        "Jeevayaathra YMdhu Saayamiyyagan Dhaevadhoothal Neeku Thoadugaa NuMdu."
+      ]
+    }
+  ]
+}

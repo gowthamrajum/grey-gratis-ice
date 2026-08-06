@@ -1,0 +1,76 @@
+{
+  "song_name": "Prathi udayam nee krupanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Daniel Surya Avula"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రతి ఉదయం నీ కృపను",
+      "ప్రతి రాత్రి నీ వాత్సల్యతను",
+      "పగలంతా కీర్తింతుము",
+      "రేయంతా ఆరాదించెదము"
+    ],
+    "english": [
+      "Prathi udayam nee krupanu",
+      "Prathi raathri nee vaathsalyathanu",
+      "Pagalanthaa keerthinthumu",
+      "Reyanthaa aaraadhinchedamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అన్నికాలములలో – స్తోత్రార్హుడని నిన్ను (2)",
+        "మేము పాడెదం – మేము పాడెదం (2)"
+      ],
+      "english": [
+        "Annikaalamulalo – Sthothraarhudani ninnu (2)",
+        "Memu paadedam – Memu paadedam (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆరంభము నీవే – అంతముయు నీవే",
+        "ఉన్నవాడవు నీవే – అనువాడవు నీవే (2)",
+        "నిత్యమూ నివసించూ – దేవుడవని నిన్ను (2)",
+        "మేము పాడెదం – మేము పాడెదం (2)",
+        "ఆకాశము నీదే – అంతరిక్షము నీదే",
+        "జీవప్రాణులు నీవే – జలరాసులు నీవే (2)",
+        "సర్వమును సృజించిన – దేవుడవని నిన్ను (2)",
+        "మేము పాడెదం – మేము పాడెదం (2)",
+        "నీతిమంతుడు నీవే – నిత్యజీవము నీవే",
+        "పరిశుద్ధుడు నీవే – పరిహారము నీవే (2)",
+        "మా కొరకు బలియైన – దేవుడవని నిన్ను (2)",
+        "మేము పాడెదం – మేము పాడెదం (2)",
+        "సంకల్పము నీదే – ఆలోచన నీదే",
+        "రాజ్యములు నీవే – రారాజువు నీవే (2)",
+        "సర్వాధికారియైన – దేవుడవని నిన్ను (2)",
+        "మేము పాడెదం – మేము పాడెదం (2)"
+      ],
+      "english": [
+        "Aarambhamu neeve – Anthamunu neeve",
+        "Unnavaadavu neeve – Anuvaadavu neeve (2)",
+        "Nithyamoo nivasinchu – Devudavani ninnu (2)",
+        "Memu paadedam – Memu paadedam (2)",
+        "Aakaashamu neede – Antharikshamu neede",
+        "Jeevapraanulu neeve – Jalaraasulu neeve (2)",
+        "Sarvamunu srujinchina – Devudavani ninnu (2)",
+        "Memu paadedam – Memu paadedam (2)",
+        "Neethimanthudu neeve – Nithyajeevamu neeve",
+        "Parishuddhudu neeve – Parihaaramu neeve (2)",
+        "Maa koraku baliyaina – Devudavani ninnu (2)",
+        "Memu paadedam – Memu paadedam (2)",
+        "Sankalpamu neede – Aalochana neede",
+        "Raajyamulu neeve – Raaraajuvu neeve (2)",
+        "Sarvaadhikaariyaina – Devudavani ninnu (2)",
+        "Memu paadedam – Memu paadedam (2)"
+      ]
+    }
+  ]
+}

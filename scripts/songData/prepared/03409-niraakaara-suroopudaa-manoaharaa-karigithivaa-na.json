@@ -1,0 +1,96 @@
+{
+  "song_name": "Niraakaara Suroopudaa Manoaharaa Karigithivaa Naakai Vraelaaduchu Siluvaloa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిరాకార, సురూపుడా, మనోహరా",
+      "కరిగితివా నాకై వ్రేలాడుచు - సిలువలో"
+    ],
+    "english": [
+      "Niraakaara, Suroopudaa, Manoaharaa",
+      "Karigithivaa Naakai Vraelaaduchu - Siluvaloa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వారుల దెబ్బలబాధ నొంది - వాడి మేకులతో గ్రుచ్చబడి",
+        "తీరని దాహము సహించితివి - సిలువలో"
+      ],
+      "english": [
+        "Vaarula DhebbalabaaDha NoMdhi - Vaadi Maekulathoa Gruchchabadi",
+        "Theerani Dhaahamu SahiMchithivi - Siluvaloa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మానవులు ఏడ్చి ప్రలాపింప - భూరాజు లెల్లరు మాడిపోగా",
+        "శిష్యుల డెందములు పగుల - సిలువలో"
+      ],
+      "english": [
+        "Maanavulu Aedchi PralaapiMpa - Bhooraaju Lellaru Maadipoagaa",
+        "ShiShyula DeMdhamulu Pagula - Siluvaloa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అరచి ప్రాణము వీడిన సుతుడా - వైరి నే నీ పాదముల బడితిని",
+        "కోరి రక్షణ నెరవేర్చితివి - సిలువలో"
+      ],
+      "english": [
+        "Arachi Praanamu Veedina Suthudaa - Vairi Nae Nee Paadhamula Badithini",
+        "Koari RakShNa Neravaerchithivi - Siluvaloa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కోరి సిల్వభారమును మోసితివి - పాపభారమును ద్రుంచితివి",
+        "ఘోర గాయములు పొందితివి - సిలువలో"
+      ],
+      "english": [
+        "Koari Silvabhaaramunu Moasithivi - Paapabhaaramunu DhruMchithivi",
+        "Ghoara Gaayamulu PoMdhithivi - Siluvaloa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నన్ను రక్షింపను ఎన్ని పాట్లన్ - పెన్నుగ నీవు సహించితివి",
+        "నన్ను నీ చిత్తమున బిడ్డచేయ - సిలువలో"
+      ],
+      "english": [
+        "Nannu RakShiMpanu Enni Paatlan - Pennuga Neevu SahiMchithivi",
+        "Nannu Nee Chiththamuna Biddachaeya - Siluvaloa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "కౄరుడు ప్రక్కనీటె గ్రుచ్చగా - నీదు రక్తమును పారెనయ్యా!",
+        "తీరుగా నే రక్షణ పొందను - సిలువలో"
+      ],
+      "english": [
+        "Kroarudu Prakkaneete Gruchchagaa - Needhu Rakthamunu Paarenayyaa!",
+        "Theerugaa Nae RakShNa PoMdhanu - Siluvaloa"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "ఒక్కడుగు నిత్య దేవినికే - ఒక్కడుగు సుతుడేసునకే",
+        "ఒక్కడుగు సత్య ఆత్మ నీకే - హల్లెలూయా"
+      ],
+      "english": [
+        "Okkadugu Nithya Dhaevinikae - Okkadugu Suthudaesunakae",
+        "Okkadugu Sathya Aathma Neekae - Hallelooyaa"
+      ]
+    }
+  ]
+}

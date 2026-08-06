@@ -1,0 +1,40 @@
+{
+  "song_name": "O Prabhuvaa neeve naa manchi kaaparivi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ ప్రభువా ఓ ప్రభువా - నీవే నా మంచి కాపరివి - నీవే నా మంచి కాపరివి"
+    ],
+    "english": [
+      "O Prabhuvaa o Prabhuvaa - Neeve naa manchi kaaparivi - Neeve naa manchi kaaparivi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దారి తప్పిన నన్నును నీవు - వెదకి వచ్చి రక్షించితివి (2)",
+        "నిత్య జీవము నిచ్చిన దేవా - నీవే నా మంచి కాపరివి  ||ఓ||"
+      ],
+      "english": [
+        "Daari thappina nannunu neevu - Vedaki vachchi rakshinchithivi (2)",
+        "Nithya jeevamu nichchina Deva - Neeve naa manchi kaaparivi  ||O||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీవు ప్రేమించిన గొఱ్ఱెలన్నిటిని ఎల్లప్పుడు చెయ్యి విడువక (2)",
+        "అంతము వరకు కాపాడు దేవా - నీవే నామంచి కాపరివి  ||ఓ||"
+      ],
+      "english": [
+        "Neevu preminchina gorrelannitini ellappudu cheyyi viduvaka (2)",
+        "Anthamu varaku kaapaadu Deva - Neeve naamanchi kaaparivi  ||O||"
+      ]
+    }
+  ]
+}

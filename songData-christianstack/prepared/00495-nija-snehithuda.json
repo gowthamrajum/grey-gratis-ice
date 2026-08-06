@@ -1,0 +1,90 @@
+{
+  "song_name": "Nija Snehithuda",
+  "author": {
+    "Authored by": "Joshua Katta",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా చెలిమి కోరి – నీ కలిమి వీడి,",
+      "నా చెంత చేరావు శ్రీమంతుడా!",
+      "నా రక్షణ కొరకై – ఆ శిక్షను పొంది,",
+      "బలియాగమైన నిజ స్నేహితుడా!"
+    ],
+    "english": [
+      "Na chelimi kori – nee kalimi veedi,",
+      "naa chentha cheraavu sreemanthudaa!",
+      "naa rakshana korakai – aa sikshanu pondhi,",
+      "baliyaagamaina nija snehithudaa!"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ద్రోహినై – దూరమైతిని,",
+        "పాపినై – పరుగులెడితిని",
+        "గమ్యమే – ఎరుగనైతిని",
+        "మరణమే – శరణమాయెను."
+      ],
+      "english": [
+        "Dhrohinai – dhooramaithini,",
+        "paapinai – paruguledithini",
+        "gamyame – eruganaithini",
+        "maraname saranamaayenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎంతో ప్రేమించితివి – నాస్థానమందు నిలిచితివి,",
+        "కృపతో నను రక్షించితివి – నా దోషశిక్ష భరించితివి"
+      ],
+      "english": [
+        "Entho preminchithivi – naa sthaanamandhu nilichithivi,",
+        "krupatho nanu rakshinthivi – naa dhosha siksha bharinchithivi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిందలు – అవమానములు,",
+        "హేళనలు – చీత్కారములు",
+        "కఠిన దెబ్బలు – ముళ్లపోటులు,",
+        "శిలువ భారం – కాయమంతా గాయం"
+      ],
+      "english": [
+        "Nindhalu – avamaanamulu,",
+        "helanalu – cheethkaaramulu",
+        "katina dhebbalu – mulla potulu",
+        "siluva bhaaram – kaayamanthaa gaayam"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "హృదినే బాధించినా – భరించావు వేదన మౌనముగా",
+        "తనువే తల్లడిల్లినా – తృప్తినొందావు నను తలచుకొని"
+      ],
+      "english": [
+        "Hrudhine baadhinchinaa – bharinchaavu vedhana mounamugaa",
+        "thanuve thalladillina – thrupthi nondhaavu nanu thalachukoni"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఏ రీతి నిన్ను – కీర్తించగలను?",
+        "నా నీతి నీవే ఓ యేసుదేవా!",
+        "నీ సాక్షిగా నిలిచి – నీ ప్రేమను చాటి,",
+        "ఘనపరతును నిన్నే ప్రియ స్నేహితుడా!"
+      ],
+      "english": [
+        "Ey reethi ninnu keerthinchagalanu",
+        "naa neethi neeve oh yesu deva!",
+        "nee saakshigaa nilichi – nee premanu chaati,",
+        "ghanaparathunu ninne priya snehithudaa!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "song_name": "El Elohe",
+  "author": {
+    "Authored by": "John Jebaraj",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిన్ను నమ్మి వచ్చి, నే సిగ్గుచెందలేదు",
+      "నీ దయ నన్ను చేయి విడువ లేదు",
+      "వట్టి చేతితో వచ్చితిని",
+      "రెండు పరివారాలనిచ్చితివే"
+    ],
+    "english": [
+      "Ninnu nammi vacchi, ne siggu chendhaledhu",
+      "nee dhaya nanu cheyi viduva ledhu",
+      "vatti chethitho ne vachithini",
+      "rendu parivaaraala nichithive."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏల్‌-ఎలోహే ఏల్‌-ఎలోహే ఏల్‌-ఎలోహే",
+        "నిన్నే స్తుతింతున్"
+      ],
+      "english": [
+        "El-elohe, el-elohe",
+        "ninne sthuthinthun"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గాయపడ్డాను, కన్నీళ్లు కార్చాను",
+        "కలతచెందిన నన్ను కరుణించావు",
+        "నిబంధనను నాతో చేసితివే",
+        "కోల్పోయినవన్నీ ఇచ్చితివే"
+      ],
+      "english": [
+        "Gaayapaddaanu, kanneellu kaarchaanu",
+        "kalathachendhina nannu karuninchaavu",
+        "nibandhananu naatho chesithive",
+        "kolpoyina vanni ichithive"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రియులందరు విడిచి పోయినా",
+        "ప్రియమైనవన్నీ నాకిచ్చితివే",
+        "పరదేశిగా నేనున్న చోటే",
+        "స్వాస్థ్యముగా నాకు మార్చితివే"
+      ],
+      "english": [
+        "Priyulandharu vidichi poyina",
+        "priyamaina vanni naakichithive",
+        "paradhesiga nenunna chote",
+        "swasthyamuga naaku maarchithive"
+      ]
+    }
+  ]
+}

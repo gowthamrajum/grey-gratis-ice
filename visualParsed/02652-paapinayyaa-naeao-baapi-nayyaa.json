@@ -1,0 +1,81 @@
+{
+  "song_name": "Paapinayyaa ne baapi nayyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "బేతాళ జాన్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "పాపినయ్యా నేఁ బాపి నయ్యా కాపాడ వయ్యా పాపభారము",
+      "నుండి పాపు మయ్యా నన్నుఁ పాపభారమునుండి పాపు మయ్యా",
+      "||పాపి||"
+    ],
+    "english": [
+      "Paapinayyaa ne baapi nayyaa kaapaada vayyaa paapabhaaramu",
+      "Nundi paapu mayyaa nannu paapabhaaramunundi paapu mayyaa",
+      "||Paapi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కాపుమయ్యా ననుఁ గావు మయ్య నా పావ నయ్యా జీవమైన",
+        "యేసు నీ వే నయ్యా నా జీవమైన యేసు నీవే నయ్యా  ||పాపినయ్యా||"
+      ],
+      "english": [
+        "Kaapumayyaa nanu gaavu mayya naa paava nayyaa jeevamaina",
+        "Yesu nee ve nayyaa naa jeevamaina Yesu neeve nayyaa ||Paapinayyaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రాపు నీవు నా ప్రాపు నీవు న న్నోపినావు నా పాలిదైవమా నన్ను",
+        "ఁ గావు మో నా పాలి దైవమా నన్ను ఁ గావు  ||పాపినయ్యా||"
+      ],
+      "english": [
+        "Praapu neevu naa praapu neevu na nnopinaavu naa paalidhaivamaa nannu",
+        "Gaavu mo naa paali daivamaa nannu gaavu ||Paapinayyaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఏల వయ్యా న న్నేల వయ్యా మేలియ్య వయ్యా చాల నమ్మితిఁ",
+        "గరుణా శాలి వయ్యా నేఁ జాల నమ్మతిఁ గరుణా శాలి వయ్యా  ||పాపినయ్యా||"
+      ],
+      "english": [
+        "Ela vayyaa na nnela vayyaa meliyya vayyaa chaala nammithi",
+        "Garunaa shaali vayyaa ne jaala nammathi garunaa shaali vayyaa ||Paapinayyaa||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మంటివాఁడ నే మంటివాఁడ న న్నొంటి వీడ కె న్నంటి కైన ని",
+        "న్నంటువాఁడ నే నె న్నంటికైన ని న్నంటువాఁడ  ||పాపినయ్యా||"
+      ],
+      "english": [
+        "Mantivaada ne mantivaada na nnonti veeda ke nnanti kaina ni",
+        "Nnantuvaada ne ne nnantikaina ni nnantuvaada ||Paapinayyaa||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "శాంతివాఁడ నను శాంతిపరచు నీ శాంత మిడుచు నా సొంత",
+        "మగు దనుక చెంత నునుచు నే నా సాంత మగు దనుక చెంత",
+        "నునుచు  ||పాపినయ్యా||"
+      ],
+      "english": [
+        "Shaanthivaada nanu shaanthiparachu nee shaantha miduchu naa sontha",
+        "Magu dhanuka chentha nunuchu ne naa saantha magu dhanuka chentha",
+        "Nunuchu ||Paapinayyaa||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "song_name": "Geethamulu paadudee Yesuniki",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "మురారి దావీదు"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "గీతములు పాడుఁడీ యేసునికి సం గీతములు పాడుఁడీ పాతకుల",
+      "మగు మనల దారుణ పాతకము తన విమలరక్త స్నాతులనుగాఁ జేసి",
+      "పాపను భాతకులలో నవతరించెను ||గీతములు||"
+    ],
+    "english": [
+      "Geethamulu paadudee Yesuniki sam geethamulu paadudee paathakula",
+      "Magu manala daaruna paathakamu thana vimalaraktha snaathulanugaa jesi",
+      "Paapanu bhaathakulalo navatharinchenu ||Geethamulu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రాజులకు రాజుగా నేలుచు మోక్ష రాజ్యమున కర్తగా బూజలందుచు",
+        "దూత పరిగణ పూజితుండౌ ఘనుఁడు తన దగు తేజ మెల్లను విడిచి",
+        "యీయిలఁ దేజహీనులలోనఁ బుట్టెను  ||గీతములు||"
+      ],
+      "english": [
+        "Raajulaku raajugaa neluchu moksha raajyamuna karthagaa boojalanduchu",
+        "Dootha parigana poojithundau ghanudu thana dhagu theja mellanu vidichi",
+        "Eeyila dhejaheenulalona buttenu ||Geethamulu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దాసులగు వారలన్ దమ పటు దోష త్రాస విముక్తులన్ జేసి వారల",
+        "నెల్ల మోక్ష ని వాసులుగఁ జేయంగ రక్తముఁ బోసి కృపచేఁగావ వచ్చెను",
+        "యేసు నాధుఁడు దీన వృత్తిని  ||గీతములు||"
+      ],
+      "english": [
+        "Dhaasulagu vaaralan dhama patu dosha thraasa vimukthulan jesi vaarala",
+        "Nella moksha ni vaasuluga jeyanga rakthamu bosi krupachegaava vachchenu",
+        "Yesu naadhudu deena vrutthini ||Geethamulu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మానవుల కెల్లను దేవుని ప్రేమ మానుగాఁ జూపను మ్రానిపై దన",
+        "రక్త మొసఁగఁగ మానవుండై పుట్టె యూదుల లోన యేసను పేరుచేఁదా",
+        "దీనుఁడై యిమ్మానుయేలు  ||గీతములు||"
+      ],
+      "english": [
+        "Maanavula kellanu Devuni prema maanugaa choopanu mraanipai dhana",
+        "Raktha mosagaga maanavundai putte Yoodula lona Yesanu peruchedhaa",
+        "Deenudai Immaanuyelu ||Geethamulu||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆదిఁ దన వాక్యము నందున యేసు మోదమున్ నిట్లనెన మేదినిందా",
+        "మనుజుఁడై యిఁక సాదరమ్మునఁ బ్రోవ మనుజుల నా దయాళుఁడు",
+        "తనదు దేహము సాధుగా నర్పింతు ననుచును  ||గీతములు||"
+      ],
+      "english": [
+        "Aadi dhana vaakyamu nanduna Yesu modhamun nitlanena medhinindhaa",
+        "Manujudai inka saadharammuna brova manujula naa dayaaludu",
+        "Thanadu dehamu saadhugaa narpinthu nanuchunu ||Geethamulu||"
+      ]
+    }
+  ]
+}

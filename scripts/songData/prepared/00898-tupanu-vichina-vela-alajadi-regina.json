@@ -1,0 +1,43 @@
+{
+  "song_name": "Tupanu Vichina Vela Alajadi Regina Vela",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "తుఫాను వీచిన వేళ అలజడి రేగిన వేళ",
+      "కారు చీకటిలో నా నావ చిక్కుకున్న వేళ"
+    ],
+    "english": [
+      "Tupanu Vichina Vela Alajadi Regina Vela",
+      "Karu Chikatilo Na Nava Chikkukunna Vela"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ ప్రేమ బాహువును అందించావయ్యా పాపగోతి నుండి నన్ను లేపినావయ్యా",
+        "నా రోత జీవితమును మార్చినావయ్యా నీ దివ్య రాజ్యములో చేర్చినావయ్యా"
+      ],
+      "english": [
+        "Ni Prema Bahuvunu Amdimchavayya Papagoti Numdi Nannu Lepinavayya",
+        "Na Rota Jivitamunu Marchinavayya Ni Divya Rajyamulo Cherchinavayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శత్రువు చేతిలో కీలు బొమ్మనై ప్రేమించు యేసు నీకు బహుదూరమై",
+        "గాయాలు పాలై నిను చేరితిని అక్కున చేర్చుకుని ఆదరించినావు",
+        "తుఫాను ఆగింది అలజడి సడలింది కారు చీకటిలో కాంతి వెలిసింది"
+      ],
+      "english": [
+        "Satruvu Chetilo Kilu Bommanai Premimchu Yesu Niku Bahuduramai",
+        "Gayalu Palai Ninu Cheritini Akkuna Cherchukuni Adarimchinavu",
+        "Tupanu Agimdi Alajadi Sadalimdi Karu Chikatilo Kamti Velisimdi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "song_name": "Jaagratha Jaagratha Yaesu Ditlu Pilchun",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పని చేయి, పని చేయి కోరుచు కాచుచు నూయేసు వచ్చు మట్టుకు"
+    ],
+    "english": [
+      "Pani Chaeyi, Pani Chaeyi Koaruchu Kaachuchu Nooyaesu Vachchu Mattuku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జాగ్రత జాగ్రత యేసుఁ డిట్లు పిల్చున్",
+        "నేఁడు పో పనిచేయి నాదు వనములో",
+        "ఆయనే ముందు వె ళ్లి మా త్రోవ చూపున్",
+        "కాగ జాగ్రతతో పని చేయుదుము."
+      ],
+      "english": [
+        "Jaagratha Jaagratha Yaesu Ditlu Pilchun",
+        "Naedu Poa Panichaeyi Naadhu Vanamuloa",
+        "Aayanae Mundhu Velli Maa Throava Choopun",
+        "Kaaga Jaagrathathoa Pani Chaeyudhumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జాగ్రత జాగ్రత నీతి నాశించెడు వారి నందరిని తృప్తిపర్చెదము",
+        "యేసు సిలువ నె త్తి మాధ్వజముగ",
+        "రక్షణ యుచితం బని చాటింతుము."
+      ],
+      "english": [
+        "Jaagratha Jaagratha Neethi Naashinchedu Vaari Nandharini Thrupthiparchedhamu",
+        "Yaesu Siluva Neththi Maadhvajamuga",
+        "Rakshana Yuchitham Bani Chaatinthumu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "జాగ్రత జాగ్రత వచ్చి పోరాడుడీ దుష్ట సాతాను రా జ్యంబు పాడగును",
+        "యేసు నామ ప్రఖ్యా తిని శ్లాఘింపుడీ",
+        "ఆయన రక్షణ యుచితంబగును."
+      ],
+      "english": [
+        "Jaagratha Jaagratha Vachchi Poaraadudee Dhushta Saathaanu Raajyambu Paadagunu",
+        "Yaesu Naama Prakhyaathini Shlaaghimpudee",
+        "Aayana Rakshana Yuchithambagunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "జాగ్రత జాగ్రత యేసు శక్తి నిచ్చున్",
+        "గెల్చువారికి జీ వ కిరీటం బగున్",
+        "మోక్షానందములో నివసించువారై రక్షణ యుచితం బని పాడెదము"
+      ],
+      "english": [
+        "Jaagratha Jaagratha Yaesu Shakthi Nichchun",
+        "Gelchuvaariki Jeeva Kireetam Bagun",
+        "Moakshaanandhamuloa Nivasinchuvaarai Rakshana Yuchitham Bani Paadedhamu"
+      ]
+    }
+  ]
+}

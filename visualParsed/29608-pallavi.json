@@ -1,0 +1,76 @@
+{
+  "song_name": "Idhe kadaa jeevitham",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Joshua Shaik"
+    ],
+    "రచన": [
+      "జాషువా షేక్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇదే కదా జీవితం – నీ దరే సదా సాంత్వనం",
+      "ఎడారిలో ఆశ్రయం – నీ నిరీక్షణే నా బలం",
+      "ఏ కాలమైనా – కారు మేఘమైనా",
+      "ఏ లోయలైనా – శోక సంద్రమైనా",
+      "నీవేగా ఆధారం – నీవే కదా మార్గం"
+    ],
+    "english": [
+      "Idhe kadaa jeevitham – Nee dhare sadaa saanthwanam",
+      "Edaarilo aashrayam – Nee nireekshane naa balam",
+      "E kaalamainaa – Kaaru meghamainaa",
+      "E loyalainaa – Shoka sandhramainaa",
+      "Neevegaa aadhaaram – Neeve kadaa maargam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మరువలేని – గాయమైన",
+        "నీవే దేవా ప్రేమ చూపి చేరదీసావుగా",
+        "విసిగివున్న – జీవితాన",
+        "ఆశే నీవై దారి చూపి ఆదరించావుగా",
+        "తలపులన్నీ భారమైన – కలచివేసే ఓటమైన",
+        "కొలిచినావుగా నీవు – ప్రతి బాష్పబిందువు నాలో",
+        "యేసయ్య నిన్ను కొలిచేదెలా",
+        "నను ఆదుకున్న నా దేవా"
+      ],
+      "english": [
+        "Maruvaleni – Gaayamaina",
+        "Neeve Deva prema choopi cheradheesaavugaa",
+        "Visigivunna – Jeevithaana",
+        "Aashe neevai daari choopi aadharinchaavugaa",
+        "Thalapulannee bhaaramaina – Kalachivese otamaina",
+        "Kolichinaavugaa neevu – Prathi baashpabindhuvu naalo",
+        "Yesayya ninnu kolichedhelaa",
+        "Nanu aadhukunna naa Deva"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కపటమైన లోకమందు",
+        "నాలో నీవై నీలో నేనై దీపమైనావుగా",
+        "మధురమైన మమత చూపి",
+        "తోడు నీడై కాచే దేవా స్నేహమైనావుగా",
+        "కొరతలన్నీ కూడుకున్నా – కలతలన్నీ ఏకమైన",
+        "తలచినావుగా నన్ను – స్థితి మార్చినావుగా నీవు",
+        "యేసయ్య నిన్ను కొలిచేదెలా",
+        "నను ఆదుకున్న నా దేవా"
+      ],
+      "english": [
+        "Kapatamaina lokamandu",
+        "Naalo neevai neelo nenai dheepamainaavugaa",
+        "Madhuramaina mamatha choopi",
+        "Thodu needai kaache Deva snehamainaavugaa",
+        "Korathalannee koodukunnaa – Kalathalannee ekamaina",
+        "Thalachinaavugaa nannu – Sthithi maarchinaavugaa neevu",
+        "Yesayya ninnu kolichedhelaa",
+        "Nanu aadhukunna naa Deva"
+      ]
+    }
+  ]
+}

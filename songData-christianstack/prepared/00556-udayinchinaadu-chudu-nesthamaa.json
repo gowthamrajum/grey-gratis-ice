@@ -1,0 +1,64 @@
+{
+  "song_name": "Udayinchinaadu Chudu Nesthamaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఉదయించినాడు చూడు నేస్తమా",
+      "లోక రక్షకుడు క్రీస్తేసుగా"
+    ],
+    "english": [
+      "Udayinchinaadu Chudu Nesthamaa",
+      "looka rakshakudu kriistugaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సర్వాధికారి ఆయనే సర్వశక్తిమంతుడు",
+        "దీనుడై రిక్తుడై మనుష్యకుమారుడై",
+        "నశియించినదానిని వెదకి రక్షించుట కొరకు వచ్చెను",
+        "లోకపాపమును మోసికొనిపోవు దేవుని గొర్రెపిల్లగా"
+      ],
+      "english": [
+        "Sarvaadhikaari aayane sarvasakthimanthudu",
+        "diinudai rikthudai manushyakumaarudai",
+        "nasiyinchinadaanini vedaki rakshinchuta koraku vacchenu",
+        "lookapaapamunu moosikonipoovu devuni gorrepillagaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇమ్మానుయేలు దేవుడు ఎన్నడూ నిను విడువడు",
+        "మరువడు కునుకడు తోడుగా ఉండువాడు",
+        "నలిగినవారికి దుర్గమై ఆశ్రయమిచ్చే అమరుడు",
+        "చీకటి బ్రతుకులో వెలుగునింపుటకు నీతి సూర్యుడై"
+      ],
+      "english": [
+        "Immanuyelu devudu ennaduu ninu viduvadu",
+        "maruvadu kunukadu thoodugaa unduvaadu",
+        "naliginavaariki durgamai aasrayamicche amarudu",
+        "chiikati brathukuloo velugunimputaku niiti suuryudai"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రయాసపడుచు భారము మోయు సమస్త జనులరా",
+        "రండి దేవుని ఆశ్రయించుడి ఈ దినమందే",
+        "మీ దోషములు అపరాధములు అన్నీ పోవును",
+        "శాంతి నెమ్మది సమాధానము ఇచ్చే దయగల దేవుడు"
+      ],
+      "english": [
+        "Prayaasapaduchu bhaaramu moyu samasta janularaa",
+        "randi devunu aasrayinchudi ii dinamande",
+        "mii dooshamulu aparaadhamulu annii poovunu",
+        "saanthi nemmadi samaadhaanamu icche dayagala devudu"
+      ]
+    }
+  ]
+}

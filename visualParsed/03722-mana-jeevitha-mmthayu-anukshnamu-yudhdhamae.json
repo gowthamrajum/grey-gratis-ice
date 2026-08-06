@@ -1,0 +1,64 @@
+{
+  "song_name": "Mana jeevitha manthayu anukshanamu yudhdhame",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మన జీవిత మంతయు - అనుక్షణము యుద్ధమే",
+      "ఇదియే సిలువ మార్గము - మహిమ రాజ్యమొందను"
+    ],
+    "english": [
+      "Mana jeevitha manthayu - Anukshanamu yudhdhame",
+      "Idiye siluva maargamu - Mahima raajyamondhanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఈ యాత్రలో ముందుకు - సాగిన తోడ్పడి",
+        "యేసుడే నడుపును మనలను - తన మార్గమునందున"
+      ],
+      "english": [
+        "Ee yaathralo munduku - Saagina thodpadi",
+        "Yesude nadupunu manalanu - Thana maargamunandhuna"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆ సిలువ మార్గము - ఎంతో యిరుకైనది",
+        "క్రీస్తునే గురిగా నుంచిన - విజయము నిశ్చయము"
+      ],
+      "english": [
+        "Aa siluva maargamu - Entho irukainadhi",
+        "Kreesthune gurigaa nunchina - Vijayamu nishchayamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇహమందు శ్రమలు - రానున్న మహిమలో",
+        "ఎన్నదగినవి కావుగా - క్రీస్తే దుఃఖము బాపును"
+      ],
+      "english": [
+        "Ihamandu shramalu - Raanunna mahimalo",
+        "Ennadhaginavi kaavugaa - Kreesthe duhkhamu baapunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఈ జగతులో కష్టముల్ - బాధలు కలిగిన",
+        "ధైర్యము విడువక యుందుము - జయించె ప్రభువు ఇహమును"
+      ],
+      "english": [
+        "Ee jagathulo kashtamul - Baadhalu kaligina",
+        "Dhairyamu viduvaka yundhumu - Jayinche Prabhuvu ihamunu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "song_name": "Gatha kaalamantha ninu kaachina Devudu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "గత కాలమంత నిను కాచిన దేవుడు",
+      "ఈ రోజు నిన్ను ఎంతో దీవించెను",
+      "ఇయ్యి నీ మానసియ్యి – చెయ్యి స్తోత్రము చెయ్యి",
+      "ఇయ్యి కానుకలియ్యి – చెయ్యి ప్రార్థన చెయ్యి",
+      "మట్టి కుండగా పుట్టించి నిన్ను",
+      "కంటి పాపగా కాపాడినాడు (2)",
+      "అందాలాలెన్నో ఎక్కించువాడు",
+      "అందరిలో నిన్ను మెప్పించుతాడు (2) ||ఇయ్యి||"
+    ],
+    "english": [
+      "Gatha kaalamantha ninu kaachina Devudu",
+      "Ee roju ninnu entho deevinchenu",
+      "Iyyi nee maanasiyyi – Cheyyi sthothramu cheyyi",
+      "Iyyi kaanukaliyyi – Cheyyi praarthana cheyyi",
+      "Matti kundagaa puttinchi ninnu",
+      "Kanti paapagaa kaapaadinaadu (2)",
+      "Andalaalenno ekkinchuvaadu",
+      "Andarilo ninnu meppinchuthaadu (2) ||Iyyi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసుని హత్తుకో ఈ లోకమందు",
+        "ఓపిక తెచ్చుకో యేసు రాక ముందు (2)",
+        "తలను ఎత్తుకొని పైకెత్తి చూడు",
+        "మరలా యేసు రాజు దిగి వస్తున్నాడు (2) ||ఇయ్యి||"
+      ],
+      "english": [
+        "Yesuni hatthuko ee lokamandu",
+        "Opika techchuko Yesu raaka mundu (2)",
+        "Thalanu etthukoni paiketthi choodu",
+        "Maralaa Yesu raaju digi vasthunnaadu (2) ||Iyyi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కష్టాలలో నిన్ను కాపాడినాడు",
+        "నష్టాలలో నిన్ను కాపాడినాడు (2)",
+        "నీవు నమ్ముకుంటే నిను వదులలేడు",
+        "నిన్ను ఎప్పుడూ ఎడబాసి పోడు (2) ||ఇయ్యి||"
+      ],
+      "english": [
+        "Kashtaalalo ninnu kaapaadinaadu",
+        "Nashtaalalo ninnu kaapaadinaadu (2)",
+        "Neevu nammukunte ninu vadhulaledu",
+        "Ninnu eppudoo edabaasi podu (2) ||Iyyi||"
+      ]
+    }
+  ]
+}

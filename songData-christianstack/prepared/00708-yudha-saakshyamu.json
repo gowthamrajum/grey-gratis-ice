@@ -1,0 +1,30 @@
+{
+  "song_name": "Yudha Saakshyamu",
+  "author": {
+    "Authored by": "A J Emmanuel",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యూదా సాక్ష్యము గల వారెందరో",
+      "యేదీ మోక్షము యేదీ ప్రశాంతము"
+    ],
+    "english": [
+      "Yudha Saakshyamu galavaarendharo",
+      "yedhi mokshamu yedhi prashaanthamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యూదా సాక్ష్యము గల వారెందరో",
+        "యేదీ మోక్షము యేదీ ప్రశాంతము"
+      ],
+      "english": [
+        "Yudha Saakshyamu galavaarendharo",
+        "yedhi mokshamu yedhi prashaanthamu"
+      ]
+    }
+  ]
+}

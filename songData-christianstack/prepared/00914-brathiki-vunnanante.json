@@ -1,0 +1,36 @@
+{
+  "song_name": "Brathiki Vunnanante",
+  "author": {
+    "Authored by": "Pastor Sven Edwards",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసయ్య నా యేసయ్య"
+    ],
+    "english": [
+      "Yesayya naa Yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "బ్రతికి ఉన్నానంటే నీ కృప",
+        "జీవిస్తున్నానంటే నీ కృప",
+        "ఏ యోగ్యత నాలో లేదు",
+        "ఎంత బాగ్యమునిచ్చావు",
+        "పరిశుద్ధత నాలో లేదు",
+        "నీ ప్రేమను చూపావు"
+      ],
+      "english": [
+        "Brathiki unnaanante nee krupa",
+        "jeevisthunnaanante nee krupa",
+        "ea yogyatha naalo ledu",
+        "entha baagyamunichaavu",
+        "parishuddhatha naalo ledu",
+        "nee premanu choopaavu"
+      ]
+    }
+  ]
+}

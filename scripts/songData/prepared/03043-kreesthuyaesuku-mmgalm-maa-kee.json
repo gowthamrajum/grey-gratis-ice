@@ -1,0 +1,74 @@
+{
+  "song_name": "Kreesthuyaesuku Mangalam",
+  "author": {
+    "Authored by": "",
+    "రచన": "రవివర్మ"
+  },
+  "main_stanza": {
+    "telugu": [
+      "క్రీస్తుయేసుకు మంగళం మా కీర్తి రాజుకు మంగళం",
+      "క్రీస్తుయేసే దైవమంచును కూడి పాడుదు మంగళం"
+    ],
+    "english": [
+      "Kreesthuyaesuku Mangalam Maa Keerthi Raajuku Mangalam",
+      "Kreesthuyaesae Dhaivamanchunu Koodi Paadudhu Mangalam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రవచనంబులు బల్కినట్టి ప్రాణనాధుడవీవె నీదు",
+        "స్తవము జేయుచు మెలగు మనుజుల సత్ప్రభువుకిదె మంగళం"
+      ],
+      "english": [
+        "Pravachanambulu Balkinatti Praananaadhudaveeve Needhu",
+        "Sthavamu Jaeyuchu Melagu Manujula Sathprabhuvukidhe Mangalam"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జగమునేలెడు జీవనాధుడ జపములందెడు గృపకటాక్ష",
+        "అగణీ తంబగు ప్రేమజూపిన అమరతేజుడ మంగళం"
+      ],
+      "english": [
+        "Jagamunaeledu Jeevanaadhuda Japamulandhedu Grupakataaksha",
+        "Aganee Thambagu Praemajoopina Amarathaejuda Mangalam"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఖలుల బ్రోచెడు కనికరాత్మ కేంద్ర స్థానము నీ పదాబ్జము",
+        "కలుషమును కడమార్చినట్టి సిలువ నాధుడ మంగళం"
+      ],
+      "english": [
+        "Khalula Broachedu Kanikaraathma Kaendhra Sthaanamu Nee Padhaabjamu",
+        "Kalushamunu Kadamaarchinatti Siluva Naadhuda Mangalam"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మనము గోరెడు మా హృదీశుడ మార్గదర్శుడ వీవెగావ",
+        "అనయము నినుగొల్చు జనముల ఆది దేవుడ మంగళం"
+      ],
+      "english": [
+        "Manamu Goaredu Maa Hrudheeshuda Maargadharshuda Veevegaava",
+        "Anayamu Ninugolchu Janamula Aadhi Dhaevuda Mangalam"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "జనకసుత శుద్ధాత్మ దేవుడ గనని వినని ప్రేమ పూర్ణుడ",
+        "తనివితీరగ పాడుదము యీ ధాత్రి నీకగు మంగళం"
+      ],
+      "english": [
+        "Janakasutha Shudhdhaathma Dhaevuda Ganani Vinani Praema Poornuda",
+        "Thanivitheeraga Paadudhamu Yee Dhaathri Neekagu Mangalam"
+      ]
+    }
+  ]
+}

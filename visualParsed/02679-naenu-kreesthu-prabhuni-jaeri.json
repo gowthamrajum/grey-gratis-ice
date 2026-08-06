@@ -1,0 +1,66 @@
+{
+  "song_name": "Nenu Kreesthu prabhuni jeri",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "సి  రవివర్మ"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేను క్రీస్తు ప్రభుని జేరి నేను క్రీస్తువాడ నౌదు నేను క్రీస్తు సొత్తు గాన",
+      "నేను నా సమస్తమును నాధు డేసు కిపుడు యిత్తు ||నే||"
+    ],
+    "english": [
+      "Nenu Kreesthu Prabhuni jeri nenu Kreesthuvaada naudhu nenu Kreesthu sotthu gaana",
+      "Nenu naa samasthamunu naadu desu kipudu itthu ||Ne||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నేను క్రీస్తు ననుభవించి నేను క్రీస్తు బోలియుందు నేను నా స్వరూపమందు",
+        "నా ప్రభుండు గానుపింప నేను నేసులో వసింతు ||నే||"
+      ],
+      "english": [
+        "Nenu Kreesthu nanubhavinchi nenu Kreesthu boliyundhu nenu naa svaroopamandhu",
+        "Naa Prabhundu gaanupimpa nenu Yesulo vasinthu ||Ne||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేను క్రీస్తునందునుండి నేను క్రీస్తులో బెరుగుదు నేను క్రీస్తు దారినడచి",
+        "నేను క్రీస్తు మనసు నెపుడు గానుపఱతు నెల్లెడను ||నే||"
+      ],
+      "english": [
+        "Nenu Kreesthunandhunundi nenu Kreesthulo berugudhu nenu Kreesthu dhaarinadachi",
+        "Nenu Kreesthu manasu nepudu gaanuparathu nelledanu ||Ne||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నేను క్రీస్తు సేవజేసి నేను క్రీస్తు సాక్షినౌదు నేను క్రీస్తు సాధ నంబె",
+        "నేను యనుభవించు రక్ష ణానందంబు జాటెదెపుడు ||నే||"
+      ],
+      "english": [
+        "Nenu Kreesthu sevajesi nenu Kreesthu saakshinaudhu nenu Kreesthu saadha nambe",
+        "Nenu yanubhavinchu raksha naanandhambu jaatedhepudu ||Ne||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నేను ప్రాణమైన నిచ్చి నేను క్రీస్తుకై బ్రతుకుదు నేను, క్రీస్తు కలిసియున్న",
+        "నాశన తనయుని శక్తి నేలగూలు నద్భుతముగ ||నే||"
+      ],
+      "english": [
+        "Nenu praanamaina nichchi nenu Kreesthukai brathukudhu nenu, Kreesthu kalisiyunna",
+        "Naashana thanayuni shakthi nelagoolu nadhbhuthamuga ||Ne||"
+      ]
+    }
+  ]
+}

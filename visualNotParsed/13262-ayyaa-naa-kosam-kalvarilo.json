@@ -1,0 +1,58 @@
+{
+  "song_name": "Ayyaa naa kosam Kalvarilo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "అయ్యా నా కోసం కల్వరిలో",
+      "కన్నీరును కార్చితివా (2)",
+      "నశించిపోవు ఈ పాపి కొరకై",
+      "సిలువను మోసితివా",
+      "అయ్యా వందనమయ్యా",
+      "యేసు వందనమయ్యా (2) ||అయ్యా||"
+    ],
+    "english": [
+      "Ayyaa naa kosam Kalvarilo",
+      "Kanneerunu kaarchithivaa (2)",
+      "Nashinchipovu ee paapi korakai",
+      "Siluvanu mosithivaa",
+      "Ayyaa vandanamayyaa",
+      "Yesu vandanamayyaa (2) ||Ayyaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పడిపోయి ఉన్న వేళలో",
+        "నా చేయి పట్టి లేపుటకు",
+        "గొల్గొతా కొండపై పడిపోయిన",
+        "యేసు నా కొరకు తిరిగి లేచితివి (2) ||అయ్యా వందనమయ్యా||"
+      ],
+      "english": [
+        "Padipoyi unna velalo",
+        "Naa cheyi patti leputaku",
+        "Golgothaa kondapai padipoyina",
+        "Yesu naa koraku thirigi lechithivi (2) ||Ayyaa vandanamayyaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అనాథ నేను కాదని",
+        "సిలువపై నాకు చెప్పుటకు",
+        "ఒంటరిగా ఉన్న మరియను",
+        "యేసు యోహానును అప్పగించితివి (2) ||అయ్యా వందనమయ్యా||"
+      ],
+      "english": [
+        "Anaatha nenu kaadani",
+        "Siluvapai naaku chepputaku",
+        "Ontarigaa unna Mariyanu",
+        "Yesu Yohaanunu appaginchithivi (2) ||Ayyaa vandanamayyaa||"
+      ]
+    }
+  ]
+}

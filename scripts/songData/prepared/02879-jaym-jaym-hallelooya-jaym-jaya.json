@@ -1,0 +1,52 @@
+{
+  "song_name": "Jayam Jayam Hallelooya",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఎబిలిన్ ప్రీష్టి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "జయం జయం హల్లెలూయ జయం జయ మిప్పుడే",
+      "ప్రభు యేసు నామమునకు జయం జయ మిప్పుడే"
+    ],
+    "english": [
+      "Jayam Jayam Hallelooya Jayam Jaya Mippudae",
+      "Prabhu Yaesu Naamamunaku Jayam Jaya Mippudae"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఓహో మిత్రులారా మీరు జ్ఞానమును పొందుడీ",
+        "స్నేహమార్గం ముక్తిమార్గం జీవమార్గం ఆయనే"
+      ],
+      "english": [
+        "Oahoa Mithrulaaraa Meeru Jnyaanamunu Pondhudee",
+        "Snaehamaargam Mukthimaargam Jeevamaargam Aayanae"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆలస్యమేలనో పాపి రమ్ము యేసు నొద్దకు",
+        "ఆత్మమూర్తి రక్షణ మూర్తి యేసు ప్రభు వాయనే"
+      ],
+      "english": [
+        "Aalasyamaelanoa Paapi Rammu Yaesu Nodhdhaku",
+        "Aathmamoorthi Rakshana Moorthi Yaesu Prabhu Vaayanae"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రేపు అను చింతలను బాపి యేసు నమ్ముఁడీ",
+        "రూపు మాపు అనక యేసు దాపు జేరుఁ డిప్పుడే"
+      ],
+      "english": [
+        "Raepu Anu Chinthalanu Baapi Yaesu Nammudee",
+        "Roopu Maapu Anaka Yaesu Dhaapu Jaeru Dippudae"
+      ]
+    }
+  ]
+}

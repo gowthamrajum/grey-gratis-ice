@@ -1,0 +1,97 @@
+{
+  "song_name": "Vintimayyaa Nee Svaramu - Kantimayyaa Nee Roopamunu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "వింటిమయ్యా నీ స్వరము - కంటిమయ్యా నీ రూపమును",
+      "ప్రియప్రభూ నిన్నుగాక వేరెవరిని చూడము వినము"
+    ],
+    "english": [
+      "Vintimayyaa Nee Svaramu - Kantimayyaa Nee Roopamunu",
+      "Priyaprabhoo Ninnugaaka Vaerevarini Choodamu Vinamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "భక్తి మర్మము గొప్పది యెంతో",
+        "శరీరుడుగా మారిన దేవా, దూతలకు కనబడితివి",
+        "లోకమందు నమ్మబడియున్న దేవా"
+      ],
+      "english": [
+        "Bhakthi Marmamu Goppadhi Yenthoa",
+        "Shareerudugaa Maarina Dhaevaa, Dhoothalaku Kanabadithivi",
+        "Loakamandhu Nammabadiyunna Dhaevaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "భయపడవలదని దూతలు తెల్పె",
+        "మహా సంతోషకరమైన వార్త, రక్షకుడు పుట్టెనని",
+        "పరమందు మహిమ భువికి శాంతియనిరి"
+      ],
+      "english": [
+        "Bhayapadavaladhani Dhoothalu Thelpe",
+        "Mahaa Santhoashakaramaina Vaartha, Rakshakudu Puttenani",
+        "Paramandhu Mahima Bhuviki Shaanthiyaniri"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నరరూప ధారివి యైతివి ప్రభువా",
+        "అద్భుతములు చేసియున్నవు, వేరెవ్వరు చేయలేరు",
+        "అద్భుతకరుడ ఘనత కలుగును గాక"
+      ],
+      "english": [
+        "Nararoopa Dhaarivi Yaithivi Prabhuvaa",
+        "Adhbhuthamulu Chaesiyunnavu, Vaerevvaru Chaeyalaeru",
+        "Adhbhuthakaruda Ghanatha Kalugunu Gaaka"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మూగవారికి మాటలిచ్చితివి",
+        "గ్రుడ్డి కుంటిని బాగు జేసితివి, మృతులను లేపితివి",
+        "పరాక్రమ శాలివి నీవే ఓ ప్రభువా"
+      ],
+      "english": [
+        "Moogavaariki Maatalichchithivi",
+        "Gruddi Kuntini Baagu Jaesithivi, Mruthulanu Laepithivi",
+        "Paraakrama Shaalivi Neevae Oa Prabhuvaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ప్రేమించి ప్రభువా ప్రాణమిచ్చితివి",
+        "అధికారముతో తిరిగి లేచితివి, మరణపు ముల్లు విరచితివి",
+        "నమాధి నిన్ను గెలువక పోయెను"
+      ],
+      "english": [
+        "Praeminchi Prabhuvaa Praanamichchithivi",
+        "Adhikaaramuthoa Thirigi Laechithivi, Maranapu Mullu Virachithivi",
+        "Namaadhi Ninnu Geluvaka Poayenu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఇహము నుండి పరమున కేగి",
+        "మా కొరకై నీవు రానై యున్నావు, ఆనందముతో కనిపెట్టెదము",
+        "మదియందె నిరీక్షణ కలిగి స్తుతింతుం"
+      ],
+      "english": [
+        "Ihamu Nundi Paramuna Kaegi",
+        "Maa Korakai Neevu Raanai Yunnaavu, Aanandhamuthoa Kanipettedhamu",
+        "Madhiyandhe Nireekshana Kaligi Sthuthinthum"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "song_name": "Christmas Subhavelalo",
+  "author": {
+    "Authored by": "Suresh Nittala",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆనందగీతం నే పాడెద క్రిస్మస్ శుభవేళలో",
+      "సంతోషముగ నే కీర్తించెద క్రీస్తేసుని సన్నిధిలో",
+      "దూతల స్త్రోత్రాలతో గొల్లల నాట్యాలతో",
+      "పుడమే పులకించెను రక్షకుడే జన్మించెను"
+    ],
+    "english": [
+      "Aanandhageethamu ne padedha christmas subhavelalo",
+      "santhoshamuga ne keerthinchedha kreesthesuni sannidhilo",
+      "dhoothala sthothraalatho gollala naatyalatho",
+      "pudame pulakinchenu rakshakude janminchenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రభువొచ్చెను నరుడైపుట్టేను రక్షకుడు జన్మించెను",
+        "మనపాపభారం తొలగింపను ఈ భువికే దిగి వచ్చెను",
+        "దర్శించిరి పూజించిరి జ్ఞానులు కీర్తించిరి",
+        "బంగారు సాంబ్రాణి బోళములు ప్రభుయేసున కర్పించిరి",
+        "జన్మించెను మనల రక్షింపను రారాజు జన్మించెను",
+        "కన్యక గర్భాన ప్రభుపుట్టెను ప్రవచనమే నెరవేరెను"
+      ],
+      "english": [
+        "Prabhuvochenu narudeputtenu rakshakudu janminchenu",
+        "mana paapabharam tholagimpanu ee bhuvike dhigi vachenu",
+        "Dharsinchiri poojinchiri gnanulu keerthinchiri",
+        "bangaru saambrani bolamulu prabhuyesunakarpinchiri",
+        "Janminchenu manala rakshimpanu raraju janminchenu",
+        "kanyaka garbhaana prabhuputtenu pravachaname neraverenu"
+      ]
+    }
+  ]
+}

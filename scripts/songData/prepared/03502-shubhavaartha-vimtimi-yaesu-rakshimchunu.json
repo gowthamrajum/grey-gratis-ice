@@ -1,0 +1,53 @@
+{
+  "song_name": "Shubhavaartha Vimtimi Yaesu Rakshimchunu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "శుభవార్త వింటిమి - యేసు రక్షించును",
+      "ఎల్లవారు విననీ - యేసు రక్షించును",
+      "ప్రభుమాట వింటిరె - అది పర్వతంబులన్",
+      "దాటి ప్రకటించుడి - యేసు రక్షించును"
+    ],
+    "english": [
+      "Shubhavaartha Vimtimi - Yaesu Rakshimchunu",
+      "Ellavaaru Vinanee - Yaesu Rakshimchunu",
+      "Prabhumaata Vimtire - Adhi Parvathmbulan",
+      "Dhaati Prakatimchudi - Yaesu Rakshimchunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఓడనెక్కి పోవుడి - యేసు రక్షించును",
+        "దైవ భ్రష్టు లెల్లరిన్ - యేసు రక్షించును",
+        "ద్వీపవాసులందరు - వినునట్లు చాటుడి",
+        "దివ్య వర్తమానము - యేసు రక్షించును"
+      ],
+      "english": [
+        "Oadanekki Poavudi - Yaesu Rakshimchunu",
+        "Dhaiva Bhrashtu Lellarin - Yaesu Rakshimchunu",
+        "Dhveepavaasulmdharu - Vinunatlu Chaatudi",
+        "Dhivya Varthamaanamu - Yaesu Rakshimchunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇహ బాధనుండియు - యేసు రక్షించును",
+        "పరమ భాగ్యమిచ్చును - యేసు రక్షించును",
+        "దీన శ్రేష్టు లెల్లరు - భూనివాసులందరు",
+        "యీ సువార్త వినుడి - యేసు రక్షించును"
+      ],
+      "english": [
+        "Iha Baadhanumdiyu - Yaesu Rakshimchunu",
+        "Parama Bhaagyamichchunu - Yaesu Rakshimchunu",
+        "Dheena Shraeshtu Lellaru - Bhoonivaasulmdharu",
+        "Yee Suvaartha Vinudi - Yaesu Rakshimchunu"
+      ]
+    }
+  ]
+}

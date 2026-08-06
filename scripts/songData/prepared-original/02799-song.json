@@ -1,0 +1,58 @@
+{
+  "song_name": "యేసుసామి నీకు నేను నా సమస్త మ",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసుసామి నీకు నేను నా సమస్త మిత్తును నీ సన్నిధిలో వసించి ఆశతో సేవింతును ||నా సమస్తము నా సమస్తము నా సురక్షకా నీ కిత్తు నా సమస్తము||"
+      ],
+      "english": [
+        "yaesusaami neeku naenu naa samastha miththunu nee sanniDhiloa vasiMchi aashathoa saeviMthunu ||naa samasthamu naa samasthamu naa surakShkaa nee kiththu naa samasthamu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసుసామి నీకె నేను దోసి లొగ్గి మ్రొక్కెదన్ తీసివేతు లోకయాశల్ యేసు చేర్చుమిప్పుడే."
+      ],
+      "english": [
+        "yaesusaami neeke naenu dhoasi loggi mrokkedhan theesivaethu loakayaashal yaesu chaerchumippudae."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నేను నీవాడను యేసు నీవును నావాడవు నీవు నేను నేకమాయె నీ శుద్ధాత్మ సాక్ష్యము."
+      ],
+      "english": [
+        "naenu neevaadanu yaesu neevunu naavaadavu neevu naenu naekamaaye nee shudhDhaathma saakShyamu."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీకు నన్ను యేసు ప్రభూ ఈయనేనె యేగితి నీదు ప్రేమశక్తి నింపు నీదుదీవె నియ్యవే."
+      ],
+      "english": [
+        "neeku nannu yaesu prabhoo eeyanaene yaegithi needhu praemashakthi niMpu needhudheeve niyyavae."
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యేసు నీదె నా సర్వాస్తి హా సుజ్వాలన్ బొందితి హా సురక్షణానందమా హల్లెలూయా స్తోత్రము."
+      ],
+      "english": [
+        "yaesu needhe naa sarvaasthi haa sujvaalan boMdhithi haa surakShNaanMdhamaa hallelooyaa sthoathramu."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "song_name": "Thalli thana biddanu marachinaa gaani",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "తల్లి తన బిడ్డను మరచినా గాని",
+      "మరువదయ్యా నీ ప్రేమ నన్ను",
+      "పర్వతములు తొలగినా గాని",
+      "విడువదయ్యా నీ కృప నన్ను (2)",
+      "దుఃఖ దినములే దరి చేరినా",
+      "దారి కానక నే చెదరినా (2)",
+      "మరువదయ్యా నీ ప్రేమ నన్ను",
+      "విడువదయ్యా నీ కృప నన్ను ||తల్లి||"
+    ],
+    "english": [
+      "Thalli thana biddanu marachinaa gaani",
+      "Maruvadhayyaa nee prema nannu",
+      "Parvathamulu tholaginaa gaani",
+      "Viduvadhayyaa nee krupa nannu (2)",
+      "Duhkha dinamule dari cherinaa",
+      "Daari kaanaka ne chedarinaa (2)",
+      "Maruvadhayyaa nee prema nannu",
+      "Viduvadhayyaa nee krupa nannu ||Thalli||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నశించిపోయిన నన్ను వెదకి రక్షించినావు",
+        "పాపినైన నాకై నీ ప్రాణమునర్పించినావు (2)",
+        "నీతిమంతుని కొరకైననూ",
+        "ఒకరు చనిపోవుట అరుదుగా (2)",
+        "ఏ మంచియు లేనట్టి నాకై",
+        "ఎందుకయ్యా నీ త్యాగము (2) ||దుఃఖ దినములే||"
+      ],
+      "english": [
+        "Nashinchipoyina nannu vedaki rakshinchinaavu",
+        "Paapinaina naakai nee praanamunarpinchinaavu (2)",
+        "Neethimanthuni korakainanoo",
+        "Okaru chanipovuta arudhugaa (2)",
+        "E manchiyu lenatti naakai",
+        "Endukayyaa nee thyaagamu (2) ||Duhkha dinamule||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దారి తొలగిన నేను గొర్రె వలె తిరిగాను",
+        "కాపరివైన నిన్ను కాదని వేసారినాను (2)",
+        "నీవు చేసిన మేళ్లన్ని మరచి",
+        "దూరమైతిని నిను నేను విడచి (2)",
+        "అయిననూ నా రాక కొరకై",
+        "వేచియుంటివా ఓ జాలి హృదయా (2) ||దుఃఖ దినములే||"
+      ],
+      "english": [
+        "Daari tholagina nenu gorre vale thirigaanu",
+        "Kaaparivaina ninnu kaadani vesaarinaanu (2)",
+        "Neevu chesina mellanni marachi",
+        "Dooramaithini ninu nenu vidachi (2)",
+        "Ayinanoo naa raaka korakai",
+        "Vechiyuntivaa o jaali hrudhayaa (2) ||Duhkha dinamule||"
+      ]
+    }
+  ]
+}

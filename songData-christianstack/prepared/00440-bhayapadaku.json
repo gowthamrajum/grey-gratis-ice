@@ -1,0 +1,115 @@
+{
+  "song_name": "Bhayapadaku",
+  "author": {
+    "Authored by": "Pastor John Wesley",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "భయపడకు భయపడకు",
+      "యేసు నాధుడు ఉదయించెను",
+      "దిగులు చెందకు దిగులు చెందకు",
+      "లోక రక్షకుడు ఏతెంచెను",
+      "రాత్రి వేళలో వెలుగిచ్చును",
+      "అశాంతిని తొలగించును",
+      "రాత్రి వేళలో వెలుగిచ్చును",
+      "అశాంతిని తొలగించును"
+    ],
+    "english": [
+      "Bhayapadaku bhayapadaku",
+      "yeasu naadhudu udhayinchenu",
+      "dhigulu chendhaku dhigulu chendhaku",
+      "looka rakshakudu yeathenchenu",
+      "raathri veallaloo velugicchunu",
+      "asaanthini tholaginchunu",
+      "raathri veallaloo velugicchunu",
+      "asaanthini tholaginchunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "Happy Happy",
+        "Happy Happy Merry",
+        "Merry Christmas",
+        "Happy Happy Christmas",
+        "Merry Merry Christmas"
+      ],
+      "english": [
+        "Happy Happy",
+        "Happy Happy Merry",
+        "Merry Christmas",
+        "Happy Happy Christmas",
+        "Merry Merry Christmas"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చేధించలేని చీకటిని",
+        "వెలుగుగా మార్చును",
+        "చెలరేగిపోతున్న ప్రళయాన్ని",
+        "నిమ్మళపరచును",
+        "ఇమ్మానుయేలుగా భువికొచ్చెను",
+        "ఆశలు నెరవేర్చెను",
+        "సర్వోన్నతునిగా దిగివచ్చెను",
+        "తన ప్రేమ అందించెను"
+      ],
+      "english": [
+        "Ccheadhinchaleani chiikatini",
+        "velugugaa maarchunu",
+        "chelareagipothunna prallayaanninimmallaparachunu",
+        "immanuyeluga bhuvikocchenu",
+        "aasalu neravearchenu",
+        "sarvonnathuniga dhigivacchenu",
+        "thana preama andhinchenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "Happy Happy Merry Merry",
+        "Happy Happy Merry Merry Christmas"
+      ],
+      "english": [
+        "Happy Happy Merry Merry",
+        "Happy Happy Merry Merry Christmas"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కన్నీటిని తుడచును",
+        "అందలం ఎక్కించును",
+        "చెరసాలలు కంపించును",
+        "భువి అంత పులకించును",
+        "ఆశ్చర్యకరుడుగా భువికొచ్చెను",
+        "ఆలోచన ఇచ్చును",
+        "ప్రతి ఒక్క హృదిలో నివసింపను",
+        "యేసుడే దిగివచ్చెను"
+      ],
+      "english": [
+        "Kanniitini thuduchunu",
+        "andalam ekkinchunu",
+        "cherasaalalu kampinchunu",
+        "bhuvi antha pulakinchunu",
+        "aascharyakarudugaa bhuvikocchenu",
+        "aaloochana icchunu",
+        "prathi okka hrudhiloo nivasimpanu",
+        "yeasudea dhigivacchenu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "Happy Happy Merry Merry",
+        "Happy Happy Merry Merry Christmas"
+      ],
+      "english": [
+        "Happy Happy Merry Merry",
+        "Happy Happy Merry Merry Christmas"
+      ]
+    }
+  ]
+}

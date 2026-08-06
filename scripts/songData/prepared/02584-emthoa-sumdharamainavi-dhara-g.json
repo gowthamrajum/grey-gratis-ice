@@ -1,0 +1,78 @@
+{
+  "song_name": "Enthoa Sundharamainavi Dhara Girulapai",
+  "author": {
+    "Authored by": "",
+    "రచన": "మేడికాయల సాధువు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎంతో సుందరమైనవి ధర గిరులపై నెంతో యందమైనవి",
+      "సంత తంబుఁ బరమ ప్రేమను దెల్ప సంతస మందుచు",
+      "సరిగ బ్రకటన జేయ అంతటను బనిఁ బూని",
+      "ప్రభు న త్యంతముగఁ బ్రక టించి వసుధ న",
+      "నంత మగు శుభవార్తఁ జాటెడు వింత యగు బోధకుల పాదము"
+    ],
+    "english": [
+      "Enthoa Sundharamainavi Dhara Girulapai Nenthoa Yandhamainavi",
+      "Santha Thambu Barama Praemanu Dhelpa Santhasa Mandhuchu",
+      "Sariga Brakatana Jaeya Anthatanu Bani Booni",
+      "Prabhu Na Thyanthamuga Braka Tinchi Vasudha Na",
+      "Nantha Magu Shubhavaartha Jaatedu Vintha Yagu Boadhakula Paadhamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మందమతులగు వారలు మూర్ఖత్వంబు నొందు నెల్ల జనంబులు",
+        "వందుచుఁ గుందుచు వన గిరి కందరము లందు నున్న",
+        "సకల మౌ మోటుజన మెరుఁగఁ పొందుగాఁ",
+        "ప్రభు యే సొసంగెడు సుందరం బగు సత్య వాక్యం",
+        "బందుకొని చాటించుచుండెడు అంద మగు బోధ కుల పాదము"
+      ],
+      "english": [
+        "Mandhamathulagu Vaaralu Moorkhathvambu Nondhu Nella Janambulu",
+        "Vandhuchu Gundhuchu Vana Giri Kandharamu Landhu Nunna",
+        "Sakala Mau Moatujana Meruga Pondhugaa",
+        "Prabhu Yae Sosangedu Sundharam Bagu Sathya Vaakyam",
+        "Bandhukoni Chaatinchuchundedu Andha Magu Boadha Kula Paadhamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మదిలోఁ ప్రభుని నమ్మిన పాపుల నెల్లఁ",
+        "తుదిని మోక్ష పదమ్మున విదితమ్ముగాఁ జేర్చి",
+        "ప్రీతిఁ జూపున టంచు ఇదిగో రమ్మని క్రీస్తు",
+        "పద సన్నిధిని జేర్ప సదయులై శుభవార్తమానము",
+        "ముదమునను మదిలోన నిడి కొని పదిలముగఁ",
+        "ప్రకటించుచుండెడి విదితు లగు బోధకుల పాదము"
+      ],
+      "english": [
+        "Madhiloa Prabhuni Nammina Paapula Nella",
+        "Thudhini Moaksha Padhammuna Vidhithammugaa Jaerchi",
+        "Preethi Joopuna Tanchu Idhigoa Rammani Kreesthu",
+        "Padha Sannidhini Jaerpa Sadhayulai Shubhavaarthamaanamu",
+        "Mudhamunanu Madhiloana Nidi Koni Padhilamuga",
+        "Prakatinchuchundedi Vidhithu Lagu Boadhakula Paadhamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యేసు క్రీస్తు రారాజై యున్నాఁడనుచు భాసురంబుగఁ దెల్పుచు",
+        "వాసిగాఁ ప్రభు యేసు వసుధ రక్షకుఁడనుచు",
+        "యీ సువార్తను జాటి యిచట నెమ్మదినొంద",
+        "దోసకారి జనంబు లందరి కీ సుమంగళ వార్తఁ దెలుపుచు",
+        "దోస మంతయుఁ బాపు మన ప్రభు యేసుఁ జూపెడు వారి పాదము"
+      ],
+      "english": [
+        "Yaesu Kreesthu Raaraajai Yunnaadanuchu Bhaasurambuga Dhelpuchu",
+        "Vaasigaa Prabhu Yaesu Vasudha Rakshakudanuchu",
+        "Yee Suvaarthanu Jaati Yichata Nemmadhinondha",
+        "Dhoasakaari Janambu Landhari Kee Sumangala Vaartha Dhelupuchu",
+        "Dhoasa Manthayu Baapu Mana Prabhu Yaesu Joopedu Vaari Paadhamu"
+      ]
+    }
+  ]
+}

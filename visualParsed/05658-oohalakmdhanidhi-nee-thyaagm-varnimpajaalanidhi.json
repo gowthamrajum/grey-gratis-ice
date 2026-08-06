@@ -1,0 +1,54 @@
+{
+  "song_name": "Oohalakandhanidhi nee thyaagam varnimpajaalanidhi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఊహలకందనిది నీ త్యాగం వర్ణింపజాలనిది",
+      "ఊసులకందనిది నీ యూగం వివరింపజాలనిది",
+      "నీ కొరకే నా త్యాగం మన కొరకే బలియాగం",
+      "ఎంత ప్రేమయ్యా యేసు వింత ప్రేమయ్యా (2)"
+    ],
+    "english": [
+      "Oohalakandhanidhi nee thyaagam varnimpajaalanidhi",
+      "Oosulakandhanidhi nee yaagam vivarimpajaalanidhi",
+      "Nee korake naa thyaagam mana korake baliyaagam",
+      "Entha premayyaa Yesu vintha premayyaa (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎవరూ చూపని నీ ప్రేమ నాకై చూపిన నా దేవా",
+        "ఎవరూ చేయని ఆ త్యాగం నాకై చేసిన నా ప్రభువా",
+        "ఏమని వర్ణింతును ఏమని వివరింతును",
+        "నీ గప్ప త్యాగాన్ని ఆ గొప్ప యాగాన్ని (2)"
+      ],
+      "english": [
+        "Evaroo choopani nee prema naakai choopina naa Deva",
+        "Evaroo cheyani aa thyaagam naakai chesina naa Prabhuvaa",
+        "Emani varninthunu emani vivarinthunu",
+        "Nee goppa thyaagaanni aa goppa yaagaanni (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాలో మంచి లేదనియు తెలిసి తనయునిగా పిలచి",
+        "ఎంచలేని మంచిని నాలో పెంచాలని యెంచి",
+        "యాగమై బలియాగమై త్యాగమై ప్రాణ త్యాగమై",
+        "నాకై మరణించిన యేసు నన్ను బ్రతికించినా (2)"
+      ],
+      "english": [
+        "Naalo manchi ledhaniyu thelisi thanayunigaa pilachi",
+        "Enchaleni manchini naalo penchaalani enchi",
+        "Yaagamai baliyaagamai thyaagamai praana thyaagamai",
+        "Naakai maraninchina Yesu nannu brathikinchinaa (2)"
+      ]
+    }
+  ]
+}

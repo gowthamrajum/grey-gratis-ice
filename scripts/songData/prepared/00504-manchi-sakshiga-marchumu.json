@@ -1,0 +1,77 @@
+{
+  "song_name": "Manchi Saakshiga Maarchumu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మంచి సాక్షిగ మార్చుము",
+      "మంచి సాక్షిగ మార్చుము - నా దేవా, సిలువ సాక్షిగ నిలువనీ - నా దేవా",
+      "మంచి సాక్షిగ మార్చుము - నా దేవా, సిలువ సాక్షిగ నిలువనీ - నా దేవా",
+      "యేసయ్య నా దేవా యేసయ్య నా మెస్సయ్యా",
+      "యేసయ్య నా దేవా యేసయ్య నా మెస్సయ్యా",
+      "మంచి సాక్షిగ మార్చుము - నా దేవా, సిలువ సాక్షిగ నిలువనీ - నా దేవా"
+    ],
+    "english": [
+      "Manchi Saakshiga Maarchumu",
+      "Manchi Saakshiga Maarchumu - Naa Devaa, Siluva Saakshiga Niluvanee - Naa Devaa",
+      "Manchi Saakshiga Maarchumu - Naa Devaa, Siluva Saakshiga Niluvanee - Naa Devaa",
+      "Yesayya Naa Devaa Yesayya Naa Messayyaa",
+      "Yesayya Naa Devaa Yesayya Naa Messayyaa",
+      "Manchi Saakshiga Maarchumu - Naa Devaa, Siluva Saakshiga Niluvanee - Naa Devaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నాపై కనపరిచిన నీ ప్రేమను - పాపినైన నాకై అర్పించిన నీ జీవం",
+        "నాపై కనపరిచిన నీ ప్రేమను - పాపినైన నాకై అర్పించిన నీ జీవం",
+        "నలిగిన ప్రతి హృదయానికి - ప్రకటింప సెలవియ్యవా",
+        "నలిగిన ప్రతి హృదయానికి - ప్రకటింప సెలవియ్యవా",
+        "యేసయ్య నా దేవా యేసయ్య నా మెస్సయ్యా",
+        "యేసయ్య నా దేవా యేసయ్య నా మెస్సయ్యా",
+        "మంచి సాక్షిగ మార్చుము - నా దేవా, సిలువ సాక్షిగ నిలువనీ - నా దేవా"
+      ],
+      "english": [
+        "Naapai Kanaparichina Nee Premanu - Paapinaina Naakai Arpinchina Nee Jeevam",
+        "Naapai Kanaparichina Nee Premanu - Paapinaina Naakai Arpinchina Nee Jeevam",
+        "Naligina Prathi Hrudayaaniki - Prakatimpa Selaviyyavaa",
+        "Naligina Prathi Hrudayaaniki - Prakatimpa Selaviyyavaa",
+        "Yesayya Naa Devaa Yesayya Naa Messayyaa",
+        "Yesayya Naa Devaa Yesayya Naa Messayyaa",
+        "Manchi Saakshiga Maarchumu - Naa Devaa, Siluva Saakshiga Niluvanee - Naa Devaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా జీవిత కాలమంత నమ్మికగా, నీ సన్నిధిలో మంచి వాసునిగా",
+        "నా జీవిత కాలమంత నమ్మికగా, నీ సన్నిధిలో మంచి వాసునిగా",
+        "నీ రాజ్య వారసునిగా - నీ కృపకు పాత్రునిగా",
+        "నీ రాజ్య వారసునిగా - నీ కృపకు పాత్రునిగా",
+        "యేసయ్య నా దేవా యేసయ్య నా మెస్సయ్యా",
+        "యేసయ్య నా దేవా యేసయ్య నా మెస్సయ్యా",
+        "మంచి సాక్షిగ మార్చుము - నా దేవా, సిలువ సాక్షిగ నిలువనీ - నా దేవా",
+        "మంచి సాక్షిగ మార్చుము - నా దేవా, సిలువ సాక్షిగ నిలువనీ - నా దేవా",
+        "యేసయ్య నా దేవా యేసయ్య నా మెస్సయ్యా",
+        "యేసయ్య నా దేవా యేసయ్య నా మెస్సయ్యా",
+        "యేసయ్య నా దేవా యేసయ్య నా మెస్సయ్యా"
+      ],
+      "english": [
+        "Naa Jeevitha Kaalamantha Nammikagaa, Nee Sannidhilo Manchi Vaasunigaa",
+        "Naa Jeevitha Kaalamantha Nammikagaa, Nee Sannidhilo Manchi Vaasunigaa",
+        "Nee Raajya Vaarasunigaa - Nee Krupaku Paathrunigaa",
+        "Nee Raajya Vaarasunigaa - Nee Krupaku Paathrunigaa",
+        "Yesayya Naa Devaa Yesayya Naa Messayyaa",
+        "Yesayya Naa Devaa Yesayya Naa Messayyaa",
+        "Manchi Saakshiga Maarchumu - Naa Devaa, Siluva Saakshiga Niluvanee - Naa Devaa",
+        "Manchi Saakshiga Maarchumu - Naa Devaa, Siluva Saakshiga Niluvanee - Naa Devaa",
+        "Yesayya Naa Devaa Yesayya Naa Messayyaa",
+        "Yesayya Naa Devaa Yesayya Naa Messayyaa",
+        "Yesayya Naa Devaa Yesayya Naa Messayyaa"
+      ]
+    }
+  ]
+}

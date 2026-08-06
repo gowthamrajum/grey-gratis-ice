@@ -1,0 +1,55 @@
+{
+  "song_name": "Nee. . .madilo nanu talachu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ. . .మధిలో నను తలచు ప్రభువా",
+      "నీ. . .మధిలో నను తలచు నా ప్రభువా",
+      "నను తలచిన తరుణములో నా పాపము పరిహరించు (2)"
+    ],
+    "english": [
+      "Nee. . .madilo nanu talachu Prabhuvaa",
+      "Nee. . .madilo nanu talachu naa Prabhuvaa",
+      "Nanu thalachina tarunamulo naa paapamu pariharinchu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రాపంచిక వ్యసనములో నే చిక్కితినో ప్రభువా (2)",
+        "నను విడుదల చేయుమయా పరిశుద్ధుని చేయుమయా (2)"
+      ],
+      "english": [
+        "Praapanchika vyasanamulo ne chikkithino Prabhuvaa (2)",
+        "Nanu vidudala cheyumayaa parishuddhuni cheyumayaa (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అనురాగపు వీక్షణతో నా దు:ఖము బాపుమయా (2)",
+        "ప్రియ సేవకుడను నేనై సవి చూతును విశ్రాంతి (2)"
+      ],
+      "english": [
+        "Anuraagapu veekshanatho naa du:khamu baapumayaa (2)",
+        "Priya sevakudanu nenai savi choothunu vishraanthi (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "చీకటిలో కలతలలో నను బాయకుమో దేవా (2)",
+        "చూపించుము నా ప్రభువా నీ స్వర్గపు మార్గమును (2)"
+      ],
+      "english": [
+        "Cheekatilo kalathalalo nanu baayakumo Devaa (2)",
+        "Choopinchumu naa Prabhuvaa nee svargapu maargamunu (2)"
+      ]
+    }
+  ]
+}

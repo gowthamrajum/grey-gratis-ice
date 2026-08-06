@@ -1,0 +1,121 @@
+{
+  "song_name": "Seeyonu vaasulaaraa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సీయోను వాసులారా",
+      "సకల వాగ్దానములు మనవాయెను",
+      "సాగిలపడి యేసుని ఆరాధించెదము"
+    ],
+    "english": [
+      "Seeyonu vaasulaaraa",
+      "Sakala vaagdhaanamulu manavaayenu",
+      "Saagilapadi Yesuni aaraadhinchedamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేనికి దేవుడు శిల్పియు నిర్మాణకుడో",
+        "దాని నివాసులుగా మనలను దీవించెన్"
+      ],
+      "english": [
+        "Deniki Devudu shilpiyu nirmaanakudo",
+        "Daani nivaasulugaa manalanu dheevinchen"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సంతోషించుము దేశమ భయపడవలదు",
+        "గంతులు వేయుము ఘనకార్యములను చేయున్"
+      ],
+      "english": [
+        "Santhoshinchumu dheshama bhayapadavaladhu",
+        "Ganthulu veyumu ghanakaaryamulanu cheyun"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పచ్చిక మొలచును ఫలియించును మరి తరులు",
+        "ఫలియించును ద్రాక్ష అంజూరపు చెట్లు"
+      ],
+      "english": [
+        "Pachchika molachunu phaliyinchunu mari tharulu",
+        "Phaliyinchunu dhraaksha anjoorapu chetlu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "తొలకరి కడవరి వర్షము విస్తారముగా",
+        "తనదు నీతిని బట్టి మనకొసగును"
+      ],
+      "english": [
+        "Tholakari kadavari varshamu visthaaramugaa",
+        "Thanadu neethini batti manakosagunu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "కొట్లు ధాన్యముతో నిండి పొర్లును",
+        "క్రొత్త తైలము ద్రాక్షరసము పారును"
+      ],
+      "english": [
+        "Kotlu dhaanyamutho nindi porlunu",
+        "Krottha thailamu dhraaksharasamu paarunu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "పసరు గొంగలి చీడపురుగులు మిడుతల్",
+        "నాశనముచేసిన పంటను మీకొసగును"
+      ],
+      "english": [
+        "Pasaru gongali cheedapurugulu midhuthal",
+        "Naashanamuchesina pantanu meekosagunu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "సర్వ శరీరులపై తన ఆత్మను పోసి",
+        "స్వప్నముల దర్శనముల మీ కొసగును"
+      ],
+      "english": [
+        "Sarva shareerulapai thana aathmanu posi",
+        "Svapnamula dharshanamula mee kosagunu"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "సీయోను వాసులు సిగ్గునొందరు",
+        "శేషము నిలిచి వాసము చేతురు ప్రభులో"
+      ],
+      "english": [
+        "Seeyonu vaasulu siggunondharu",
+        "Sheshamu nilichi vaasamu chethuru prabhulo"
+      ]
+    },
+    {
+      "stanza_number": 9,
+      "telugu": [
+        "ఆ దినమున యెహోవా నామమునందు",
+        "ప్రార్థించు వారు రక్షణ నొందెదరు"
+      ],
+      "english": [
+        "Aa dinamuna Yehovaa naamamunandhu",
+        "Praarthinchu vaaru rakshana nondhedharu"
+      ]
+    }
+  ]
+}

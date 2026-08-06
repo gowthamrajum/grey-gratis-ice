@@ -1,0 +1,50 @@
+{
+  "song_name": "Nee naamamune koniyaadedanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ నామమునే కొనియాడెదను నీ సన్నిధిలో నే పాడెదను",
+      "నీవే నా జీవము నీవే నా స్వాస్ధ్యము నీ నామమునే . . ఆ . ."
+    ],
+    "english": [
+      "Nee naamamune koniyaadedanu nee sannidhilo ne paadedanu",
+      "Neeve naa jeevamu neeve naa swaasthyamu nee naamamune . . aa . ."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా కోసమే ఈ భువికొచ్చి నీ ప్రాణమే అర్పించి నీ రక్షణే నొసగితివే",
+        "నీ మహిమను విడచి వచ్చి నీ మార్గము నాకందించి నీ కృపను చూపించితివే",
+        "ఏలాగు వర్ణింతునయ్యా యేసయ్యా నీ గొప్ప త్యాగంబును",
+        "ఏలాగు వర్ణింతునయ్యా యేసయ్యా నీ అనురాగంబును"
+      ],
+      "english": [
+        "Naa kosame ee bhuvikochchi nee praaname arpinchi nee rakshane nosagithive",
+        "Nee mahimanu vidachi vachchi nee maargamu naakandhinchi nee krupanu choopinchithive",
+        "Elaagu varninthunayyaa Yesayyaa nee goppa thyaagambunu",
+        "Elaagu varninthunayyaa Yesayyaa nee anuraagambunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆత్మ స్వరూపుడా ఆది సంభూతుడా నీ ఆత్మ బలమును కుమ్మరించుమయ్యా",
+        "నీతి స్వరూపుడా నరరూపధారుడా పునరుత్ధాన శక్తితో ఉజ్జీవింపుమయ్యా",
+        "నీదు సేవలో నేను సాగెదన్ యేసయ్యా",
+        "నీదు ప్రేమను నీదు మహిమను నీదు నామమును నేను చాటెదను"
+      ],
+      "english": [
+        "Aathma swaroopudaa aadi sambhoothudaa nee aathma balamunu kummarinchumayyaa",
+        "Neethi swaroopudaa nararoopadhaarudaa punarutthaana shakthitho ujjeevimpumayyaa",
+        "Needu sevalo nenu saagedhan Yesayyaa",
+        "Needu premanu needu mahimanu needu naamamunu nenu chaatedanu"
+      ]
+    }
+  ]
+}

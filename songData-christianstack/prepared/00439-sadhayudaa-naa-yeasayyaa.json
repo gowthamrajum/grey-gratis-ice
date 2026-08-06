@@ -1,0 +1,74 @@
+{
+  "song_name": "Sadhayudaa Naa Yeasayyaa",
+  "author": {
+    "Authored by": "Pastor B Shalem Raju",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సదయుడా నా యేసయ్యా",
+      "స్తుతి ఘనతా మహిమ నీకేనయ్య",
+      "ప్రతి క్షణము నీ వాత్సల్యమును చూపి విడువక ప్రేమించితివే – ఎడబాయక కాచితివే"
+    ],
+    "english": [
+      "Sadhayudaa naa yeasayyaa",
+      "stuthi ghanathaa mahima neekeanayya",
+      "prathi kshannamu nee vaathsalyamunu chuupi viduvaka peaminchithivea – edabaayaka kaachithivea"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవే స్తుతి గానము – నీవే నా విజయము నీవే నా అతిశయం యేసయ్యా"
+      ],
+      "english": [
+        "Neevea stuthi gaanamu – neevea naa vijayamu neevea naa athisayam yeasayyaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా సరిహద్దులలో నెమ్మది కలుగగా కారణము నీవే",
+        "కృపా క్షేమము నావెంట నిలువగ కనికరము నీదే"
+      ],
+      "english": [
+        "Naa sarihaddhulaloo nemmadhi kalugagaa kaarannmu neevea",
+        "krupaa ksheamamu naaventa niluvaga kanikaramu needhea"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సన్నుతించెదనూ ఊపిరున్నంత వరకూ విశ్రమించను నేను నిన్ను చేరేంత వరకూ",
+        "నిన్ను చేరేంత వరకూ…"
+      ],
+      "english": [
+        "Sannuthinchedhanuu uupirunnantha varakuu visraminchanu neanu ninnu cheareantha varakuu",
+        "ninnu cheareantha varaku"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పలు విధములుగా నిను విసిగించినా నను సహియించితివే",
+        "పూర్ణ ఓరిమితో నను భరియించి భుజమున మోసితివే"
+      ],
+      "english": [
+        "Palu vidhamulugaa ninu visiginchinaa nanu sahiyinchithivea",
+        "puurnna oorimithoo nanu bhariyinchi bhujamuna moosithivea"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "సన్నుతించెదనూ ఊపిరున్నంత వరకూ విశ్రమించను నేనూ నిన్ను చేరేంత వరకూ",
+        "నిన్ను చేరేంత వరకూ"
+      ],
+      "english": [
+        "Sannuthinchedhanuu uupirunnantha varakuu visraminchanu neanu ninnu cheareantha varakuu",
+        "ninnu cheareantha varaku"
+      ]
+    }
+  ]
+}

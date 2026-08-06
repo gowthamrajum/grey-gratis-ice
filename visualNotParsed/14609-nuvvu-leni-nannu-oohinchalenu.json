@@ -1,0 +1,60 @@
+{
+  "song_name": "Nuvvu leni nannu oohinchalenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నువ్వు లేని నన్ను ఊహించలేను",
+      "నీ ఉన్నత ప్రేమను వివరించలేను (2)",
+      "అడగాలని నేను అనుకోకముందే",
+      "నా అవసరతలు ఎరిగి అక్కరలు తీర్చావు (2)",
+      "నా అవసరతలు ఎరిగి అక్కరలు తీర్చావు",
+      "యేసయ్యా… నీవే నా ఆరాధ్య దైవమా",
+      "యేసయ్యా… నీవే నా ఆధార దీపమా (2) ||నువ్వు లేని||"
+    ],
+    "english": [
+      "Nuvvu leni nannu oohinchalenu",
+      "Nee unnatha premanu vivarinchalenu (2)",
+      "Adagaalani nenu anukokamundhe",
+      "Naa avasarathalu erigi akkaralu theerchaavu (2)",
+      "Naa avasarathalu erigi akkaralu theerchaavu",
+      "Yesayyaa… Neeve naa aaraadhya daivamaa",
+      "Yesayyaa… Neeve naa aadhaara dheepamaa (2) ||Nuvvu leni||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పదివేలలో అతి సుందరుడా",
+        "కురూపినైన నాకు నీ స్వారూప్యమునిచ్చావు",
+        "ఎందుకు పనికిరాని వాడనై యుండగా",
+        "నీ కుమారునిగా నను స్వీకరించావు (2) ||అడగాలని||"
+      ],
+      "english": [
+        "Padivelalo athi sundarudaa",
+        "Kuroopinaina naaku nee swaaroopyamunichchaavu",
+        "Enduku panikiraani vaadanai yundagaa",
+        "Nee kumaarunigaa nanu sweekarinchaavu (2) ||Adagaalani||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఏ పాపమును ఎరుగని పరిశుద్ధుడా",
+        "ఘోరపాపినైన నాకు పరిశుద్ధత నొసగావు",
+        "ఈ లోకము వీడి నిన్ను చేరేంత వరకు",
+        "పరిశుద్ధాత్మను నాకు తోడుగా ఉంచావు (2) ||అడగాలని||"
+      ],
+      "english": [
+        "E paapamunu erugani parishuddhudaa",
+        "Ghorapaapinaina naaku parishuddhatha nosagaavu",
+        "Ee lokamu veedi ninnu cherentha varaku",
+        "Parishuddhaathmanu naaku thodugaa unchaavu (2) ||Adagaalani||"
+      ]
+    }
+  ]
+}

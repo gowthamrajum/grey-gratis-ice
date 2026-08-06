@@ -1,0 +1,77 @@
+{
+  "song_name": "Edhi sakhuda edhi nee madini jesikonina prathina",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "చెట్టి భానుమూర్తి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏది సఖుడ యేది నీ మదిని జేసికొనిన ప్రతిన యేది నీవొసంగు కాను",
+      "కిదియె తరుణమీయరమ్ము ||"
+    ],
+    "english": [
+      "Edhi sakhuda edhi nee madini jesikonina prathina edhi neevosangu kaanu",
+      "Kidhiye tharunameeyarammu ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అన్న వస్త్రంబు లిచ్చి యాలు బిడ్డల ననుగ్రహించి యన్ని వస్తువుల నిచ్చి",
+        "యున్న నా కెదురుకాను ||కేది||"
+      ],
+      "english": [
+        "Anna vasthrambu lichchi yaalu biddala nanugrahinchi yanni vasthuvula nichchi",
+        "Yunna naa kedhurukaanu ||Edhi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వ్యాధి బాధలొదినపుడు శోధనంబు లడరినపుడు ఏది యెప్పుడవసరం",
+        "బది యొసంగి యాదిరించితి  ||ఏది||"
+      ],
+      "english": [
+        "Vyaadhi baadhalodhinapudu shodhanambu ladarinapudu edhi eppudavasaram",
+        "Badi yosangi yaadhirinchithi ||Edhi||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మనసు శాంతిలేక నీవు మదిని బొగలుచుండ జూచి కనని వినని ప్రేమ",
+        "జూపి కనికరించినట్టి ప్రభుని ||కేది||"
+      ],
+      "english": [
+        "Manasu shaanthileka neevu madini bogaluchunda joochi kanani vinani prema",
+        "Joopi kanikarinchinatti prabhuni ||Edhi||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పాపమందు పడినాడు దాపుజేరి నిలుపలేద? కాపరివలె నిన్ను గాచి",
+        "యోపికతో నడుపలేద  ||ఏది||"
+      ],
+      "english": [
+        "Paapamandu padinaadu dhaapujeri nilupaledha? Kaaparivale ninnu gaachi",
+        "Yopikatho nadupaledha ||Edhi||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఏమి దాచినావో సఖుడ! ఏమి తెచ్చినావు నేడు? నీ మనసు నిండ",
+        "ప్రేమయున్న నదియే నాకు వేనవేలు  ||ఏది||"
+      ],
+      "english": [
+        "Emi dhaachinaavo sakhuda! Emi thechchinaavu nedu? Nee manasu ninda",
+        "Premayunna nadhiye naaku venavelu ||Edhi||"
+      ]
+    }
+  ]
+}

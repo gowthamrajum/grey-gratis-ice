@@ -1,0 +1,97 @@
+{
+  "song_name": "Reyimpagalu nee padhaseve Yesu prabhuvaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "రేయింపగలు నీ పదసేవే యేసు ప్రభువా చేయుటమేలు",
+      "సాటిలేని దేవుడ నీవె నాదు కోట కొండయు నీవె"
+    ],
+    "english": [
+      "Reyimpagalu nee padhaseve Yesu prabhuvaa cheyutamelu",
+      "Saatileni devuda neeve naadu kota kondayu neeve"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరమపురిలో వరదా నిరతం దూతగణముల స్తుతులను సల్పి",
+        "శుద్ధుడ పరిశుద్ధుడనుచు పూజనొందె దేవుడ నీవె  ||రేయింపగలు||"
+      ],
+      "english": [
+        "Paramapurilo varadhaa niratham dhoothaganamula sthuthulanu salpi",
+        "shuddhuda parishuddhudanuchu poojanondhe devuda neeve  ||Reyimpagalu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జిగటమన్నే మానవులంతా పరమకుమ్మరి ప్రభుడవు నీవే",
+        "సృష్టికర్తను మరచి జనులు సృష్టిని పూజించుట తగునా  ||రేయింపగలు||"
+      ],
+      "english": [
+        "Jigatamanne maanavulanthaa paramakummari prabhudavu neeve",
+        "srushtikarthanu marachi janulu srushtini poojinchuta thagunaa  ||Reyimpagalu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పెంటకుప్పలనుండి దీనుల పైకిలేపు ప్రభుడవు నీవే",
+        "గర్వమణచి గద్దెలు దింపి ఘనులనైనా మేపవ గడ్డి  ||రేయింపగలు||"
+      ],
+      "english": [
+        "Pentakuppalanundi deenula paikilepu prabhudavu neeve",
+        "garvamanachi gaddhelu dhimpi ghanulanainaa mepava gaddi  ||Reyimpagalu||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నరుల నమ్ముట కంటె నిజముగ నీదు శరణం శరణం దేవా",
+        "రాజులను ధరనమ్ముటకంటె రాజరాజవు నాకాశ్రయము  ||రేయింపగలు||"
+      ],
+      "english": [
+        "Narula nammuta kante nijamuga needu sharanam sharanam Deva",
+        "raajulanu dharanammutakante raajaraajavu naakaashrayamu  ||Reyimpagalu||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "అగ్నివాసననంటకుండా అబెద్నగోలతో నుండి నదేవా",
+        "దానియేలును సింహపుబోనులో ఆదుకొన్న నాధుడనీవె  ||రేయింపగలు||"
+      ],
+      "english": [
+        "Agnivaasananantakundaa Abednagolatho nundina Deva",
+        "Dhaaniyelunu simhapubonulo aadhukonna naadhudaneeve  ||Reyimpagalu||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "పరమగురుడవు ప్రభులకు ప్రభుడవు వరము చేర్చు పదము నీవే",
+        "అడుగుజాడల నడచిన హనోకు పరముచేరె ప్రాణముతోడ  ||రేయింపగలు||"
+      ],
+      "english": [
+        "Paramagurudavu prabhulaku prabhudavu varamu cherchu padhamu neeve",
+        "adugujaadala nadachina Hanoku paramuchere praanamuthoda  ||Reyimpagalu||"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "మృతుల సహితము లేపినావు మృతినిగెల్చి లేచినావు",
+        "మృతులనెల్ల లేపేవాడవు మృత్యువును మృతిలేపినావు  ||రేయింపగలు||"
+      ],
+      "english": [
+        "Mruthula sahithamu lepinaavu mruthinigelchi lechinaavu",
+        "mruthulanella lepevaadavu mruthyuvunu mruthilepinaavu  ||Reyimpagalu||"
+      ]
+    }
+  ]
+}

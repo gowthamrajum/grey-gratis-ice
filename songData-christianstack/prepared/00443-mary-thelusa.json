@@ -1,0 +1,113 @@
+{
+  "song_name": "Mary Thelusa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మేరీ తెలుసా నీ కుమారుడు",
+      "నీటిపై నడచునని",
+      "మేరీ తెలుసా నీ కుమారుడు",
+      "నీ ప్రజలను రక్షించునని",
+      "నీకు తెలుసా నీ కుమారుడు",
+      "నిను నూతన పరచునని",
+      "జన్మనిచ్చిన నీ కుమారుడే",
+      "నీకు జన్మ నిచ్చునని……"
+    ],
+    "english": [
+      "Mary thelusa ni kumaarudu",
+      "neeti pai nadachunani",
+      "mary thelusa ni kumaarudu",
+      "nee prajalanu rakshinchunani",
+      "neeku thelusa ni kumaarudu",
+      "ninu noothana parachunani",
+      "janmanichina nee kumaarudey",
+      "neeku janmanichunani"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మేరీ తెలుసా నీ కుమారుడు",
+        "గ్రుడ్డి వానికి చూపు నిచ్చునని",
+        "మేరీ తెలుసా నీ కుమారుడు",
+        "తన చేతితో తూఫాను ఆపునని",
+        "నీకు తెలుసా నీ కుమారుడు",
+        "దూతాలతో నడచునని",
+        "నీ బిడ్డను ముద్దడినచో",
+        "నీ దేవుని ముద్ధడేనని…."
+      ],
+      "english": [
+        "Mary thelusa ni kumaarudu",
+        "gruddi vaaniki choopunichunani",
+        "mary thelusa ni kumaarudu",
+        "thana chethitho thufaanunaapunani",
+        "thelusa nee kumaarudu dhoothalatho nadachunani",
+        "nee biddanu muddhadinacho",
+        "nee dhevuni muddhadenani"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మేరీ తెలుసా………మేరీ తెలుసా……….",
+        "మేరీ తెలుసా……….. మేరీ తెలుసా……"
+      ],
+      "english": [
+        "Mary thelusa…….Mary thelusa…..",
+        "Mary thelusa…….Mary thelusa….."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "గ్రుడ్డి వారు చూచున్ – చెవిటి వారు వినున్",
+        "మృతులే లేతురు……",
+        "కుంటి వారు నడచున్ – మూగ వారు పలుకున్",
+        "ఏసునకే స్తోత్రము"
+      ],
+      "english": [
+        "Gruddivaadu chuchun cheviti vaadu vinun",
+        "mruthuley lethuru",
+        "kunti vaaru nadachun – mooga vaaru palukun",
+        "yesukaney sthothramu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మేరీ తెలుసా నీ కుమారుడు",
+        "ఈ సృష్టికి ప్రభువని",
+        "మేరీ తెలుసా నీ కుమారుడు",
+        "ఈ జగతిని ఏలునని",
+        "నీకు తెలుసా నీ కుమారుడు",
+        "పరలోకపు ప్రియుడిని",
+        "నీ వడిలో ఉన్న కుమారుడే",
+        "అద్వితీయ దేవుడని……"
+      ],
+      "english": [
+        "Mary thelusa nee kumaarudu",
+        "ee srustiki prabhuvani",
+        "mary thelusa nee kumaarudu",
+        "ee jagathini eylunani",
+        "neeku thelusa nee kumaarudu",
+        "paralokapu priyudini",
+        "nee vadilo unna kumaarudey",
+        "adhwitheeya dhevudani"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మేరీ తెలుసా …….. మేరీ తెలుసా…….",
+        "మేరీ తెలుసా……….మేరీ తెలుసా………"
+      ],
+      "english": [
+        "Mary thelusa…….Mary thelusa…..",
+        "Mary thelusa…….Mary thelusa….."
+      ]
+    }
+  ]
+}

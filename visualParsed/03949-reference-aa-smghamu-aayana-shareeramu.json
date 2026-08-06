@@ -1,0 +1,85 @@
+{
+  "song_name": "Sanghame Kreesthu Yesuni shareeramu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సంఘమే క్రీస్తు యేసుని శరీరము",
+      "అందు చేరిన వారే అంగములు"
+    ],
+    "english": [
+      "Sanghame Kreesthu Yesuni shareeramu",
+      "Andu cherina vaare angamulu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆత్మ మూలముగా దేవుని కాలయముగా",
+        "కట్టబడు చున్నారు పరిశుద్ధాత్మచే",
+        "స్థిరులై యుండెదరు యెవరు నిలిచి యుందురో"
+      ],
+      "english": [
+        "Aathma moolamugaa Devuni kaalayamugaa",
+        "Kattabadu chunnaaru parishuddhaathmache",
+        "Sthirulai yundedaru evaru nilichi yundhuro"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మర్మమైయున్న దేవుని సంకల్పము",
+        "సంఘము ద్వారా ఇహమునకు తెలిపెను",
+        "ఎవరు విశ్వసింతురో వారే ధన్యులగుదురు"
+      ],
+      "english": [
+        "Marmamaiyunna Devuni sankalpamu",
+        "Sanghamu dwaaraa ihamunaku thelipenu",
+        "Evaru vishvasinthuro vaare dhanyulagudhuru"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దేవునికే క్రీస్తు యేసు మూలముగా",
+        "మహిమ కలుగును గాక తరతరములు",
+        "ఎవరు మహిమ పరతురో వారే స్వాస్థ్యమగుదురు"
+      ],
+      "english": [
+        "Devunike Kreesthu Yesu moolamugaa",
+        "Mahima kalugunu gaaka tharatharamulu",
+        "Evaru mahima parathuro vaare svaasthyamagudhuru"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "క్రీస్తు యేసు సంఘమును కట్టు చుండగా",
+        "ప్రబల లేవు పాతాళ ద్వారములు",
+        "ఎవరు జయము గాంతురో వారే తనతో నుందురు"
+      ],
+      "english": [
+        "Kreesthu Yesu sanghamunu kattu chundagaa",
+        "Prabala levu paathaala dwaaramulu",
+        "Evaru jayamu gaanthuro vaare thanatho nundhuru"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "వధువు సంఘముకై క్రీస్తు వచ్చుచుండగా",
+        "తానే కొనిపోవును శుద్ధులైన వారిని",
+        "ఎవరు సిద్ధపడెదరో వారే యెత్తబడెదరు"
+      ],
+      "english": [
+        "Vadhuvu sanghamukai Kreesthu vachchuchundagaa",
+        "Thaane konipovunu shuddhulaina vaarini",
+        "Evaru siddhapadedharo vaare etthabadedharu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "song_name": "Naa Snehabandhama",
+  "author": {
+    "Authored by": "Pastor Sunil",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా స్నేహ బంధమా – నన్ను విడిపోలేదు",
+      "నా ప్రాణ బంధమా – నన్ను విడిపోలేదు",
+      "నాకు ఆధారమైనావు నీవు – నాకు ఆనందమైనావు నీవు",
+      "మరువనయ్యా నా యేసయ్యా విడువనయ్యా నా యేసయ్యా"
+    ],
+    "english": [
+      "Naa sneha bandhamaa nannu vidipoledhu",
+      "Naa prana bandhamaa nannu vidipoledhu",
+      "Naaku aadharamainaavu neevu",
+      "naaku aanandhamainaavu neevu",
+      "Maruvanayyaa naa Yesayyaa",
+      "Viduvanayyaa naa Yesayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జారిపోయే వేళలో నన్ను జారిపోనీయక నా చేయి పట్టి నడిపించావే నీవు",
+        "నా ఆతిశయం నా ఆశ్రయమే నీవు",
+        "నేను నమ్మదగిన నా చెలిమియే నీవు"
+      ],
+      "english": [
+        "Jaaripoye velalo nannu jaariponeeyaka",
+        "Naa cheyi patti nadipinchaave neevu",
+        "Naa athishayam naa aashrayame neevu",
+        "Nenu nammadhagina naa chelimi neevu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేను కృంగియున్న వేళలో నన్ను కృంగిపోనియ్యక",
+        "నా వెన్నుతట్టి నడిపించావే నీవు నీ కృపయు నా క్షేమమే నీవు",
+        "నేను నమ్మదగిన నా స్నేహమే నీవు"
+      ],
+      "english": [
+        "Nenu krungiyunna velalo nannu krungiponiyyaka",
+        "Naa vennuthatti nadipinchave neevu",
+        "Nee krupayu naa kshemame neevu",
+        "Neanu nammadhagina naa snehamea neevu"
+      ]
+    }
+  ]
+}

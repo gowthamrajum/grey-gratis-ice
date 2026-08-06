@@ -1,0 +1,127 @@
+{
+  "song_name": "Idigo mee devudani",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇదిగో మీ దేవుడని - యూదా పట్టణములకు - ప్రకటించుడి",
+      "ప్రభువగు మన యేసు తానే - శక్తి సంపన్నుడై త్వరగా వచ్చును",
+      "బలముగా ప్రకటించుడి - భయపడక ప్రకటించుడి 2"
+    ],
+    "english": [
+      "Idigo mee devudani - Yoodaa pattanamulaku - prakatinchudi",
+      "Prabhuvagu mana Yesu thaane - shakthi sampannudai thvaragaa vachchunu",
+      "Balamugaa prakatinchudi - bhayapadaka prakatinchudi 2"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రేమగా మాట్లాడుడి - యెరూషలేముతో",
+        "నా జనులను - ఓదార్చుడి",
+        "ఆమె దోషరుణము తీర్చబడెనని",
+        "రెండింతలు ప్రతిఫలము పొందెనని"
+      ],
+      "english": [
+        "Premagaa maatlaadudi - Erooshalemutho",
+        "Naa janulanu - odhaarchudi",
+        "Aame dhosharunamu theerchabadenani",
+        "Rendinthalu prathiphalamu pondhenani"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సర్వ శరీరులు - గడ్డివంటివారే",
+        "అడవి పువ్వు వంటిదే వారి అందము",
+        "గడ్డియెండి దాని పువ్వు వాడిపోవును",
+        "మన దేవుని వాక్యము - నిత్యము నిలుచునని"
+      ],
+      "english": [
+        "Sarva shareerulu - gaddivantivaare",
+        "Adavi puvvu vantidhe vaari andhamu",
+        "Gaddiyendi daani puvvu vaadipovunu",
+        "Mana devuni vaakyamu - nithyamu niluchunani"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మన దేవుని మార్గమును సిద్ధపరచుడి",
+        "సరాళము చేయుడి రాజమార్గము",
+        "మన యేసు మహిమతో బయలుపడును",
+        "సర్వ శరీరులు దాని చూచెదరు"
+      ],
+      "english": [
+        "Mana devuni maargamunu siddhaparachudi",
+        "Saraalamu cheyudi raajamaargamu",
+        "Mana Yesu mahimatho bayalupadunu",
+        "Sarva shareerulu daani choochedharu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "శ్రమననుభవించుడి - మంచి సైనికులై",
+        "చిక్కుకొనకుడి - జీవన వ్యాపారములలో",
+        "నియమ ప్రకారము - పోరాడుడి",
+        "కిరీటము పొంది - యేలుటకై"
+      ],
+      "english": [
+        "Shramananubhavinchudi - manchi sainikulai",
+        "Chikkukonakudi - jeevana vyaapaaramulalo",
+        "Niyama prakaaramu - poraadudi",
+        "Kireetamu pondi - yelutakai"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "దేవుడు మీ ప్రతి అవసరమును తీర్చును",
+        "తన ఐశ్వర్యము చొప్పున క్రీస్తు యేసులో",
+        "ప్రీతికరమైన సేవ - చేయుదము",
+        "దేవునికే మహిమ - యుగ యుగములకు"
+      ],
+      "english": [
+        "Devudu mee prathi avasaramunu theerchunu",
+        "Thana aishwaryamu choppuna Kreesthu Yesulo",
+        "Preethikaramaina seva - cheyudamu",
+        "Devunike mahima - yuga yugamulaku"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "సువార్తను ప్రకటించు ఓ సీయోను",
+        "ఉన్నత పర్వతమును ఎక్కుము",
+        "సువార్తను ప్రకటించు యెరూషలేమా",
+        "నీ యుద్ధకాలము సమాప్తమాయెను"
+      ],
+      "english": [
+        "Suvaarthanu prakatinchu o Seeyonu",
+        "Unnatha parvathamunu ekkumu",
+        "Suvaarthanu prakatinchu Erooshalemaa",
+        "Nee yuddhakaalamu samaapthamaayenu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "ఉపదేశించుము సరిగా సత్యవాక్యము",
+        "యోగ్యునిగా సిగ్గుపడని పనివానిగా",
+        "బహుమానముతో వచ్చును యజమానుడు",
+        "అవిధేయత చూపకు దర్శనమునకు"
+      ],
+      "english": [
+        "Upadheshinchumu sarigaa sathyavaakyamu",
+        "Yogyunigaa siggupadani panivaanigaa",
+        "Bahumaanamutho vachchunu yajamaanudu",
+        "Avidheyatha choopaku dharshanamunaku"
+      ]
+    }
+  ]
+}

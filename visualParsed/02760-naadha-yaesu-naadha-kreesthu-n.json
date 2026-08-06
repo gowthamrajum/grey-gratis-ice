@@ -1,0 +1,88 @@
+{
+  "song_name": "Naadha Yesu naadha Kreesthu naadha nenanaadha",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "పసుపులేటి దావీదు"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నాధ యేసు నాధ క్రీస్తు నాధ నేననాధ సాధు జనులఁ బ్రోచు",
+      "సదయు నీ దయ కాదా ||నాధ||"
+    ],
+    "english": [
+      "Naadha Yesu naadha Kreesthu naadha nenanaadha saadhu janula brochu",
+      "Sadhayu nee daya kaadaa ||Naadha||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గతిఁ దలఁపని మూర్ఖచిత్త గమనుఁడనే గానా సతతముననుఁ గరుణఁ",
+        "బ్రోచెడు గతియ నీవు కావా  ||నాధ||"
+      ],
+      "english": [
+        "Gathi dhalapani moorkhachiththa gamanudane gaanaa sathathamunanu garuna",
+        "Brochedu gathiya neevu kaavaa ||Naadha||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపమందు జననమైన పామరుండ నేఁగానా కటకట ననుఁ గని",
+        "కరించు కరుణ నీది గాదా  ||నాధ||"
+      ],
+      "english": [
+        "Paapamandu jananamaina paamarunda negaanaa katakata nanu gani",
+        "Karinchu karuna needi gaadhaa ||Naadha||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కుటిల బుద్ధిగల వాఁడను క్రూరుఁడ నేఎఁగానా కటకట ననుఁ గని",
+        "కరించు కరుణ నీది గాదా  ||నాధ||"
+      ],
+      "english": [
+        "Kutila buddhigala vaadanu krooruda negaanaa katakata nanu gani",
+        "Karinchu karuna needi gaadhaa ||Naadha||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆది కర్త వీవు గావె యఖిల లోకమునకును బీదవారి నెల్లఁ బ్రోచు",
+        "బిరిదు నీది గాదా  ||నాధ||"
+      ],
+      "english": [
+        "Aadi kartha veevu gaave akhila lokamunakunu beedhavaari nella brochu",
+        "Biridhu needi gaadhaa ||Naadha||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "సారమైన సత్యశాస్త్ర సార మీవు గావా ఘోరమైన పాపి జనులఁ",
+        "గోరి పిలువ లేదా  ||నాధ||"
+      ],
+      "english": [
+        "Saaramaina sathyashaasthra saara meevu kaavaa ghoramaina paapi janula",
+        "Gori piluva ledaa ||Naadha||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "జీవ నాధారమైన త్రోవ నీవు గావా దేవదేవ యెహవా నా దిక్కు నీవు",
+        "గావా  ||నాధ||"
+      ],
+      "english": [
+        "Jeeva naadhaaramaina throva neevu kaavaa Dhevadheva Yehova naa dikku neevu",
+        "Kaavaa ||Naadha||"
+      ]
+    }
+  ]
+}

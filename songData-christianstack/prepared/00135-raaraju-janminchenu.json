@@ -1,0 +1,120 @@
+{
+  "song_name": "Raaraju Janminchenu",
+  "author": {
+    "Authored by": "Syam Sundar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పసి బాలుడై ఉదయించినడే",
+      "పశుశాలలో పరుండినాడే",
+      "పరలోకాన్నే విడిచినాడే",
+      "ఈ లోకములో జన్మించినాడే"
+    ],
+    "english": [
+      "Pasi baaludai udhayinchinade",
+      "Pashushaalalo parundinadea",
+      "Paralokaanne vidichinaade",
+      "Ee lokamulo janminchinaade"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఈ లోకాన్నే రక్షించు దేవుడు",
+        "నీతి న్యాయమును స్తాపించు రక్షకుడు",
+        "పరలోకమే భువి కరునించేను",
+        "రారాజు ఇలలో వెలసెను"
+      ],
+      "english": [
+        "Ee lokanne rakshinchu Dhevudu",
+        "Neethi nyaayamunu sthaapinchu rakshakudu",
+        "Paralokaame bhuvi karuninchenu",
+        "Raaraaju ilalo velasenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసయ్యా నీకే స్తోత్రంము",
+        "యేసయ్యా నీకే స్తుతి గీతము"
+      ],
+      "english": [
+        "Yesayya neeke sthothramu",
+        "Yesayya neeke sthuthi geethamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా చింతలు తీరేనయ్య",
+        "నా బాధలు పొయ్యేనయ్య",
+        "నా వ్యాధులు తోలగేనయ్య",
+        "నా శాపము విరిగేనాయ్య",
+        "ప్రతి వేదనను చిరినవ్వుగా మర్చవు",
+        "ప్రతి దోషముల నుండి విడిపించావు",
+        "ప్రతి వ్యాధుల నుండి స్వస్థతనిచావు",
+        "పరలోకానికి మార్గం తెరిచావు"
+      ],
+      "english": [
+        "Naa chinthalu theerenayya",
+        "Naa baadhalu poyyenayya",
+        "Naa vyaadhulu tholagenayya",
+        "Naa shaapamu virigenayya"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ప్రధాన యాజకుడవు",
+        "పరిశుద్ధ దేవుడవు"
+      ],
+      "english": [
+        "Prathi vedhananu chirinavvuga marchhaavu",
+        "Prathi dhoshamulunundi vidipinchhaavu",
+        "Prathi vyaadhulunundi swasthatha nichhaavu",
+        "Paralokaaniki maargam therichhaavu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "హృదయాన్నే కోరావయ్యా",
+        "రక్షణ మార్గమే చూపావయ్యా",
+        "నూతన సృష్టిగా మార్చావయ్యా",
+        "పరిశుద్దాత్మతో నింపావయ్యా",
+        "నీ నామములోనే విడుదల దొరుకును",
+        "నీ నామములోనే రక్షణ కలుగును",
+        "నీ రాజ్యములో నిత్యము నిలిచేదను",
+        "సదా కాలము నీతోనుండేదను",
+        "ఏమ్మానుఏలు నాతో ఉన్న వాడవు"
+      ],
+      "english": [
+        "Pradhaana yaajakudavu",
+        "Parishuddha Dhevudavu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [],
+      "english": [
+        "Hrudhayanne kooravaiyyaaa",
+        "Rakshana maargame choopaavaiyyaa",
+        "Noothana srushtiga maarchhaavaiyyaa",
+        "Parishuddha Aathmathonimpaavaiyyaa"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [],
+      "english": [
+        "Nee naamamulone vidudhala dhorukunu",
+        "Nee naamamulone rakshana kalugunu",
+        "Nee raajyamulo nithyamu nilichedhanu",
+        "Sadhaa kaalamu neethone undedhanu",
+        "Emmanuelu naatho unna vaadavu"
+      ]
+    }
+  ]
+}

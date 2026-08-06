@@ -1,0 +1,122 @@
+{
+  "song_name": "Telugu Christmas Mashup 4",
+  "author": {
+    "Authored by": "Various Artists",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మన యేసు బెత్లెహేములో",
+      "చిన్న పశుల పాకలో పుట్టెన్",
+      "పాకలో పుట్టెన్ పాకలో పుట్టెన్",
+      "జ్ఞానులంతా చుక్క ద్వారా",
+      "యేసుని యొద్దకు వచ్చి యుండిరి",
+      "వచ్చి యుండిరి కానుక లిచ్చిరి"
+    ],
+    "english": [
+      "Mana yesu bethlehemulo",
+      "chinna pasula paakalo putten",
+      "paakalo putten paakalo putten",
+      "gnaanulanthaa chukka dwaaraa",
+      "yesuni yoddhaku vachi yundiri",
+      "vachi yundiri kaanuka lichiri"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నరులా రక్షణ కోరి",
+        "పరలోకపు మహిమ విడచి",
+        "కరుణగల దేవుడిలలో",
+        "నరరూపుడైన దినము",
+        "ఆనందా శుభదినము",
+        "అందరికిదే దినము"
+      ],
+      "english": [
+        "Narula rakshana kori",
+        "paralokapu mahima vidachi",
+        "karunagala devudilalo",
+        "nararoopudaina dhinamu",
+        "aanandhaa subhadhinamu",
+        "andharikidey dhinamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బెత్లెహేము నందు కన్య గర్భమందు",
+        "పుట్టినాడు నేడు క్రీస్తు యేసు రాజు",
+        "దూత ద్వార గొల్లలు తారను జూచి జ్ఞానులు",
+        "వచ్చి యేసునారాధించిరి",
+        "మనమంత కూడి సంతోషించెదం",
+        "గీతములు పాడి సువార్త చాటెదం"
+      ],
+      "english": [
+        "Bethlehemu nandhu kanya garbhamandhu",
+        "puttinaadu nedu kreesthu yesu raaju",
+        "dhootha dwaaraa gollalu thaaranu joochi gnaanulu",
+        "vachi yesunaaraadhinchiri",
+        "manamantha koodi santhoshinchedham",
+        "geethamulu paadi suvaartha chaatedham"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇది క్రిస్మస్ ఇది క్రిస్మస్",
+        "మనం కలిసి పాడుదాం",
+        "ఇది క్రిస్మస్ ఇది క్రిస్మస్",
+        "భలే సందడి చేసేద్దాం"
+      ],
+      "english": [
+        "Idi christmas idi christmas",
+        "manam kalisi paaDudaam",
+        "idi christmas idi christmas",
+        "bhaley sandhadi cheseddhaam"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "వార్తో సత్య శుభవార్త",
+        "వార్త నాలకించి గొల్ల బోయులార వినరే",
+        "పరముకో నరుని రూపమందునా",
+        "బీద కన్య గర్భమందు నాదుడుద్భవించెను",
+        "గొల్లల్లారా వెళ్లిరండి వేగమే",
+        "వెళ్లి లోక రక్షకుని వెదకిరండి అచ్చట"
+      ],
+      "english": [
+        "Vaartho sathya subhavaartha",
+        "vaartha naalakinchi golla boyulaara vinarey",
+        "paramuko naruni roopamandhunaa",
+        "beedha kanya garbhamandhu naadudhdbhavinchenu",
+        "gollallaaraa vellirandi vegamey",
+        "velli loka rakshakuni vedhakirandi achata"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "తూర్పు దిక్కు చుక్క బుట్టె",
+        "మేరమ్మ ఓ మరియమ్మా",
+        "చుక్కాన్ జూచి మేము వచ్చినాము",
+        "మ్రొక్కి బోవుటాకు",
+        "పశువుల పాకలోని బాలుడమ్మ",
+        "పాప రహితుడమ్మా",
+        "పాపాంబు బాపను పుట్టెనమ్మ",
+        "సత్య వంతుడమ్మా"
+      ],
+      "english": [
+        "Thoorpu dhikku chukka buttey",
+        "meramma O mariyammaa",
+        "chukkaan joochi memu vachinaamu",
+        "mrokki bovutaaku",
+        "pasuvula paakaloni baaludamma",
+        "paapa rahithudammaa",
+        "paapaambu bhaapanu puttenamma",
+        "satya vanthudammaa"
+      ]
+    }
+  ]
+}

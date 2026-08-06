@@ -1,0 +1,44 @@
+{
+  "song_name": "Anamdame Prabu",
+  "author": {
+    "Authored by": "Bro  Satish Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆనందమే ప్రభు యేసుని స్తుతించుట ఆత్మానంద గీతముల్ పాడెద"
+    ],
+    "english": [
+      "Anamdame prabu yesuni stutimchuta Atmanamda gitamul padeda"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సిలువలో నాకై రక్తము కార్చెను సింహాసనమునకై నన్నును పిలిచెను సింహపుకోరల నుండి నన్ను విడిపించెను"
+      ],
+      "english": [
+        "Siluvalo nakai raktamu karchenu Simhasanamunakai nannunu pilichenu Simhapukorala numdi nannu vidipimchenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విశ్వాసమును కాపాడుకొనుచూ విజయుడైన యేసుని ముఖమును చూచుచూ విలువైన కిరీటము పొందెద నిశ్చయము"
+      ],
+      "english": [
+        "Visvasamunu kapadukonuchu Vijayudaina yesuni mukamunu chuchuchu Viluvaina kiritamu pomdeda nischayamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా మానస వీణను మ్రోగించగా నా మనో నేత్రములందు కనిపించె ప్రభు రూపమే నా మదిలోన మెదిలేను ప్రభు సప్తస్వరాలు"
+      ],
+      "english": [
+        "Na manasa vinanu mrogimchaga Na mano netramulamdu kanipimche prabu rupame Na madilona medilenu prabu saptasvaralu"
+      ]
+    }
+  ]
+}

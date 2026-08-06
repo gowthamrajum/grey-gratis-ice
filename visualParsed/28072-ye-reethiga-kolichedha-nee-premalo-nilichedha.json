@@ -1,0 +1,86 @@
+{
+  "song_name": "E reethigaa kolicheda - Nee premalo nilicheda",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Joshua Shaik"
+    ],
+    "రచన": [
+      "జాషువా షేక్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏ రీతిగా కొలిచెద – నీ ప్రేమలో నిలిచెద",
+      "ఇదే ఆశ మదిలో అనుదినం",
+      "ఇదే నా ప్రపంచం అనుక్షణం",
+      "సదా యేసు నీలో బ్రతికెద",
+      "ఏ రీతిగా కొలిచెద – ప్రభు నీ సేవలో నిలిచెద",
+      "ఇదే ఆశ మదిలో అనుదినం",
+      "ఇదే నా ప్రపంచం అనుక్షణం",
+      "సదా యేసు నీలో బ్రతికెద",
+      "ఏ రీతిగా కొలిచెద – ప్రభు నీ ప్రేమలో నిలిచెద"
+    ],
+    "english": [
+      "E reethigaa kolicheda – Nee premalo nilicheda",
+      "Idhe aasha madilo anudinam",
+      "Idhe naa prapancham anukshanam",
+      "Sadaa Yesu neelo brathikeda",
+      "E reethigaa kolicheda – Prabhu nee sevalo nilicheda",
+      "Idhe aasha madilo anudinam",
+      "Idhe naa prapancham anukshanam",
+      "Sadaa Yesu neelo brathikeda",
+      "E reethigaa kolicheda – Prabhu nee premalo nilicheda"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ మమతే – అమూల్యమైనదీ",
+        "ఊహలకే – అతీతమైనదీ",
+        "నా గతం – ఓడించగా",
+        "నీ దరే – చేరానుగా",
+        "పాపములో నన్ను – విడనాడక",
+        "విమోచించినా – నిజ దైవమా",
+        "ప్రార్ధనలే నాలో – ఫలియించగా",
+        "ప్రతీ శ్వాసలో – ప్రభవించవా",
+        "నీ ప్రేమ ఇలలో – పాడెద – నిరతం దేవా"
+      ],
+      "english": [
+        "Nee mamathe – Amoolyamainadhee",
+        "Oohalake – Atheethamainadhee",
+        "Naa gatham – Odinchagaa",
+        "Nee dhare – Cheraanugaa",
+        "Paapamulo nannu – Vidanaadaka",
+        "Vimochinchinaa – Nija daivamaa",
+        "Praardhanale naalo – Phaliyinchagaa",
+        "Prathee shwaasalo – Prabhavinchavaa",
+        "Nee prema ilalo – Paadeda – Niratham Deva"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ వరమే – విశేషమైనదీ",
+        "వాక్యముగా – వసించుచున్నదీ",
+        "నీ స్వరం – నా దీపమై",
+        "నీ బలం – ఆధారమై",
+        "ఆశ్రయమైనావు – కలకాలము",
+        "కృపాసాగరా – స్తుతి పాత్రుడా",
+        "శాశ్వత నీ ప్రేమ – వివరించుట",
+        "ఎలా సాధ్యమూ – ప్రియ యేసయా"
+      ],
+      "english": [
+        "Nee varame – Visheshamainadhee",
+        "Vaakyamugaa – Vasinchuchunnadhee",
+        "Nee swaram – Naa deepamai",
+        "Nee balam – Aadhaaramai",
+        "Aashrayamainaavu – Kalakaalamu",
+        "Krupaasaagaraa – Sthuthi paathrudaa",
+        "Shaashwatha nee prema – Vivarinchuta",
+        "Elaa saadhyamoo – Priya Yesayaa"
+      ]
+    }
+  ]
+}

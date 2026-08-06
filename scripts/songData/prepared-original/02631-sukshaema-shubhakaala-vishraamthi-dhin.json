@@ -1,0 +1,40 @@
+{
+  "song_name": "Sukshaema Shubhakaala Vishraamthi Dhin",
+  "author": {
+    "Authored by": "",
+    "రచన": "క్రిస్టఫర్ వర్డ్స్ వర్త్"
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సుక్షేమ శుభకాల విశ్రాంతి దినమా విచారమెల్ల తీర్చు దైవాదివారమా ఈనాడు మేము కూడి దేవాలయంబున మా త్ర్యేక దేవ స్తుతిఁగావింతు మెంతయు."
+      ],
+      "english": [
+        "sukShaema shubhakaala vishraaMthi dhinamaa vichaaramella theerchu dhaivaadhivaaramaa eenaadu maemu koodi dhaevaalayMbuna maa thryaeka dhaeva sthuthiAOgaaviMthu meMthayu."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీయందు సృష్టికర్త విశ్రామ మొందెను నీయందు యేసుక్రీస్తు మృత్యు బంధమును త్రెంచుచు తాను లేచి చావున్ జయించెను నీ యందు పావనాత్మ మాకియ్యఁ బడెను."
+      ],
+      "english": [
+        "neeyMdhu sruShtikartha vishraama moMdhenu neeyMdhu yaesukreesthu mruthyu bMDhamunu threMchuchu thaanu laechi chaavun jayiMchenu nee yMdhu paavanaathma maakiyyAO badenu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "భూవాసు లీ దినంబు సంతోషపడుచు సువార్త విని, పాడి మా యేసు స్తోత్రము ప్రితృపుత్ర శుద్ధాత్మ త్రిత్వంబౌ దేవుని ఉత్సాహ ధ్వనితోడ నెంతో స్తుతింతురు."
+      ],
+      "english": [
+        "bhoovaasu lee dhinMbu sMthoaShpaduchu suvaartha vini, paadi maa yaesu sthoathramu prithruputhra shudhDhaathma thrithvMbau dhaevuni uthsaaha Dhvanithoada neMthoa sthuthiMthuru."
+      ]
+    }
+  ]
+}

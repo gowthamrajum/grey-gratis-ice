@@ -1,0 +1,86 @@
+{
+  "song_name": "Maayaloka Maayalo Nela Mungi Thirigedhavu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మాయలోక మాయలో నేల ముంగి తిరిగెదవు",
+        "కాయము నిన్ను మోసముచేయు కాలమాయెను",
+        "మరణము వచ్చున్ మరణము వచ్చున్",
+        "లోకము ముగియున్ మానవులపై",
+        "కృపకాలము దాటిపోవును"
+      ],
+      "english": [
+        "Maayaloka maayalo nela mungi thirigedhavu",
+        "Kaayamu ninnu mosamucheyu kaalamaayenu",
+        "Maranamu vachchun maranamu vachchun",
+        "Lokamu mugiyun maanavulapai",
+        "Krupakaalamu daatipovunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాతాళము నిన్ను మ్రింగ కాచి నిల్చెను",
+        "ప్రాణనాథుడేసు నిన్నురక్షింప వచ్చెను"
+      ],
+      "english": [
+        "Paathaalamu ninnu mringa kaachi nilchenu",
+        "Praananaathudesu ninnurakshimpa vachchenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వేదవాక్యము మారక - పూర్తియగును",
+        "దేవకోపము మానవులపై - పోయబడును"
+      ],
+      "english": [
+        "Vedhavaakyamu maaraka - Poorthiyagunu",
+        "Dhevakopamu maanavulapai - Poyabadunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "లోకము దిగుల్ కలహములతో తత్తరిల్లును",
+        "మేఘమందు యేసు రాజు కానిపించును"
+      ],
+      "english": [
+        "Lokamu dhigul kalahamulatho thattharillunu",
+        "Meghamandhu Yesu raaju kaanipinchunu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యేసు నేనే మార్గం సత్యం జీవము నేనే",
+        "మోసపోకు డెందు మార్గం వేరే లేదనెన్"
+      ],
+      "english": [
+        "Yesu nene maargam sathyam jeevamu nene",
+        "Mosapoku dendhu maargam vere ledhanen"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "పాపికై మరణించిన యేసు కాచి నిల్చెను",
+        "పాపి! నిన్ను పిల్చుచున్నాడు చెంత జేరుమా"
+      ],
+      "english": [
+        "Paapikai maraninchina Yesu kaachi nilchenu",
+        "Paapi! ninnu pilchuchunnaadu chentha jerumaa"
+      ]
+    }
+  ]
+}

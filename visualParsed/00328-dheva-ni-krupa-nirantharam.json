@@ -1,0 +1,66 @@
+{
+  "song_name": "Deva nee krupa nirantharam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవా! నీ కృప నిరంతరం - మారనిదెపుడు నా ప్రభువా",
+      "నిత్యజీవము గలది ప్రియ ప్రభువా .....",
+      "దేవా! నీ కృప నిరంతరం"
+    ],
+    "english": [
+      "Devaa! nee krupa nirantharam - Maaranidhepudu naa Prabhuvaa",
+      "Nithyajeevamu galadi priya Prabhuvaa .....",
+      "Devaa! nee krupa nirantharam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపినగు నన్ను ఓ ప్రభువా - పరిశుద్ధపరచెను నీ కృపయే (2)",
+        "పరమ స్వాస్థ్యము నొందుటకు - ప్రేమతో నన్ను పిలిచితివే (2)  ||దేవా||"
+      ],
+      "english": [
+        "Paapinagu nannu o Prabhuvaa - Parishudhdhaparachenu nee krupaye (2)",
+        "Parama swaasthyamu nondhutaku - Prematho nannu pilichithive (2)  ||Devaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రక్షణ భాగ్యము పొందుటకు - రక్షక యేసు నీ కృపయే (2)",
+        "నిత్యము నీతో నుండుటకు - నిత్య జీవము నిచ్చితివే (2)  ||దేవా||"
+      ],
+      "english": [
+        "Rakshana bhaagyamu pondutaku - Rakshaka Yesu nee krupaye (2)",
+        "Nithyamu neetho nundutaku - Nithya jeevamu nichchithive (2)  ||Devaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "విశ్వాస జీవితం చేయుటకు - విజయము నిచ్చెను నీ కృపయే (2)",
+        "శోధన బాధలు అన్నిటిలో - శక్తినొసంగి నడిపితివే (2)  ||దేవా||"
+      ],
+      "english": [
+        "Vishwaasa jeevitham cheyutaku - Vijayamu nichchenu nee krupaye (2)",
+        "Shodhana baadhalu annitilo - Shakthinosangi nadipithive (2)  ||Devaa||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కృపలో నడుపుము ఓ దేవా - కృపతో నింపుము నా ప్రభువా (2)",
+        "నిత్యము కృపలో నన్ను నడిపి - నిన్నెదుర్కొనుటకు శక్తినిమ్ము (2)  ||దేవా||"
+      ],
+      "english": [
+        "Krupalo nadupumu o Devaa - Krupatho nimpumu naa Prabhuvaa (2)",
+        "Nithyamu krupalo nannu nadipi - Ninnedhurkonutaku shakthinimmu (2)  ||Devaa||"
+      ]
+    }
+  ]
+}

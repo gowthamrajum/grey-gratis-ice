@@ -1,0 +1,60 @@
+{
+  "song_name": "Naa Thandri Ninu Nenu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా తండ్రీ నిను నేను మరువలేను యేసయ్య",
+      "నా చేయి పట్టి నడుపయ్య",
+      "నాకెవ్వరు లేరు ఇలలో నీవే నా ఆశ్రయం"
+    ],
+    "english": [
+      "Naa Thandree Ninu Nenu Maruvalenu Yesayya",
+      "Naa Cheyi Patti Nadupayya",
+      "Naakevvaru Leru Ilalo Neeve Naa Aashrayam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఘనుడా నిను బట్టియే నాకు ఈ స్థానం",
+        "ఏముంది నాలో నను ఆశీర్వదించుటకు",
+        "నాకెవ్వరు లేరు ఇలలో నీవే నా ఆశ్రయం"
+      ],
+      "english": [
+        "Ghanudaa Ninu Battiye Naaku Ee Sthaanam",
+        "Emundi Naalo Nanu Aasheervadinchutaku",
+        "Naakevvaru Leru Ilalo Neeve Naa Aashrayam"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా ప్రార్ధనలన్ని నేరవేర్చు దేవా",
+        "నా ఆశలన్ని తీర్చేటి ప్రభువా",
+        "నాకెవ్వరు లేరు ఇలలో నీవే నా ఆశ్రయం"
+      ],
+      "english": [
+        "Naa Praardhanalanni Neraverchu Devaa",
+        "Naa Aashalanni Theercheti Prabhuvaa",
+        "Naakevvaru Leru Ilalo Neeve Naa Aashrayam"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా సరిహద్దులన్నీ విశాల పరచుమా",
+        "నీ చేయి నాకు తోడుగా నుండనీ",
+        "నాకెవ్వరు లేరు ఇలలో నీవే నా ఆశ్రయం"
+      ],
+      "english": [
+        "Naa Sarihaddulannee Vishaala Parachumaa",
+        "Nee Cheyi Naaku Thodugaa Nundanee",
+        "Naakevvaru Leru Ilalo Neeve Naa Aashrayam"
+      ]
+    }
+  ]
+}

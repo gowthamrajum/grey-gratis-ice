@@ -1,0 +1,60 @@
+{
+  "song_name": "Naa sarvamu neevenayya",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవేనయ్యా నీవేనయ్యా నా సర్వము నీవేనయ్యా",
+      "నీకేనయ్యా నీకేనయ్యా న సర్వము నీకేనయ్యా",
+      "నీదేనయ్యా నీదేనయ్యా న సర్వము నీదేనయ్యా",
+      "నీతోనయ్యా నీతోనయ్యా నే నడిచెద నీతోనయ్యా",
+      "యేసయ్యా యేసయ్యా యేసయ్యా యేసయ్యా"
+    ],
+    "english": [
+      "Neevenayyaa neevenayyaa naa sarvamu neevenayyaa",
+      "Neekenayyaa neekenayyaa naa sarvamu neekenayyaa",
+      "Needenayyaa needenayyaa naa sarvamu needenayyaa",
+      "Neethonayyaa neethonayyaa ne nadicheda neethonayyaa",
+      "Yesayyaa Yesayyaa Yesayyaa Yesayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ వాక్యమే నా మాటగా – నీ ఆత్మ నను నడుపగా",
+        "ఫలియించెద నీ సాక్షిగ – జీవించెద నీ మాదిరిగా",
+        "న్యాయముగా నడుచుకొనుచు – కనికరమును ప్రేమించుచు"
+      ],
+      "english": [
+        "Nee vaakyame naa maatagaa – Nee aathma nanu nadupagaa",
+        "Phaliyinchedha nee saakshiga – Jeevincheda nee maadirigaa",
+        "Nyaayamugaa naduchukonuchu – Kanikaramunu preminchuchu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ కృపలో నే ఉండగా – నా అండగ నీవు నిలువగా",
+        "నీకై నే పరితపించగా – కన్నీటిని తుడిచావుగా",
+        "నీ సాక్షిగా బ్రతికెదనయ్యా – నా జీవితం అంకితమయ్యా",
+        "నీవేనయ్యా – నా ప్రాణము",
+        "నీవేనయ్యా – నా స్నేహము",
+        "నీవేనయ్యా – నా సర్వము",
+        "నీవేనయ్యా – నా జీవితము"
+      ],
+      "english": [
+        "Nee krupalo ne undagaa – Naa andaga neevu niluvagaa",
+        "Neekai ne parithapinchagaa – Kanneetini thudichaavugaa",
+        "Nee saakshigaa brathikedhanayyaa – Naa jeevitham ankithamayyaa",
+        "Neevenayyaa – Naa praanamu",
+        "Neevenayyaa – Naa snehamu",
+        "Neevenayyaa – Naa sarvamu",
+        "Neevenayyaa – Naa jeevithamu"
+      ]
+    }
+  ]
+}

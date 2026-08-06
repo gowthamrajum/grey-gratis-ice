@@ -1,0 +1,60 @@
+{
+  "song_name": "Maranapu Mullu",
+  "author": {
+    "Authored by": "A R Stevenson",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మరణపు ముల్లు విరిగిపోయింది",
+      "మరణం విజయమందు మ్రింగబడింది",
+      "పునరుత్థానం నిజమయ్యింది",
+      "లేఖన సత్యం ఋజువయ్యింది",
+      "జయహో రారాజుకు",
+      "జయవీరుడు శ్రీయేసుకు"
+    ],
+    "english": [
+      "Maranapu mullu virigipoyindi",
+      "Maranam vijayamandu mringabadindi",
+      "Punarutthanam nijamayindi",
+      "Lekhana satyam rujavayyindi",
+      "Jayaho raarajuku",
+      "Jayaveerudu Sri Yesuku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మరణం తరువాత జీవితం ఉందనే వాస్తవం తెలిసొచ్చింది",
+        "ప్రధమముగా చావు చావగా చరిత్రయే తిరుగబడింది"
+      ],
+      "english": [
+        "Maranam taruvata jeevitam undane vastavam telisochchindi",
+        "Pradhamamuga chaavu chaavaga charitraye tirugabadindi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసయ్య దేహం ఉంచిన సమాధి ఖాళీయై కనిపించింది",
+        "భద్రతలన్నీ నిర్వీర్యమవ్వగా శత్రువుకు వణుకొచ్చింది"
+      ],
+      "english": [
+        "Yesayya deham unchina samadhi khaaliyai kanipinchindi",
+        "Bhadratalanni nirveeryamavvaga satruvuku vanukochchindi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "క్రీస్తేసునందు నిద్రించిన ప్రజల నిరీక్షణ ఫలియించింది",
+        "మరణించి యేసు తిరిగి లేవగా విశ్వాసికి బలమొచ్చింది"
+      ],
+      "english": [
+        "Kreesthesunandu nidrinchina prajala nireekshana phaliyinchindi",
+        "Maraninchi Yesu tirigi levaga viswasiki balamochchindi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "song_name": "Yesu Swamy Vanti",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు స్వామి వంటి దేవుడొక్కడైనా కానరాడు",
+      "ఒక్కడైనా లేవలేదురా ఓ జనులారా",
+      "సచ్చి మురిగిపోయినారురా ఓ జనులారా"
+    ],
+    "english": [
+      "Yesu swamy vanti devudokkadaianaa kaanaraadu",
+      "Okkadaianaa levaleduraa O janulaaraa",
+      "Sacchi murigipoyinaaruraa O janulaaraa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కన్యసుతుని జన్మమెత్తి కలువరికి సిలువ మోసి",
+        "ఉన్నతము నుండి వచ్చెను ఓ జనులారా",
+        "తిన్ననైన దారి చూపెను ఓ జనులారా"
+      ],
+      "english": [
+        "Kanyasuthuni janmametthi kaluvariki siluva mosi",
+        "Unnathamu nundi vacchenu O janulaaraa",
+        "Thinnanaina dhaari chupenu O janulaaraa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇట్టి దేవుని ఓర్వలేక దుష్టజనులు యేసుప్రభువుని",
+        "కలువరికి సిలువ మోపిరి ఓ జనులారా",
+        "ఉమ్మివేసి గేలిచేసిరి ఓ జనులారా"
+      ],
+      "english": [
+        "Itthi devuni orvaleka dushtajanulu Yesu prabhuvuni",
+        "Kaluvariki siluva mopiri O janulaaraa",
+        "Ummivesi gelichesiri O janulaaraa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దండి యేసు చావు చూసి బండలన్నీ బ్రద్దలాయెను",
+        "భూమండలమంతా వణకెను ఓ జనులారా",
+        "దేశమంతా చీకటాయెను ఓ జనులారా"
+      ],
+      "english": [
+        "Dhandi Yesu chaavu chusi bandalanni braddhalaayenu",
+        "Bhumandalamantha vanakenu O janulaaraa",
+        "Deshamantha cheekataayenu O janulaaraa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "బొందలో నుండి యేసు దండిగా మూడవనాడు",
+        "ప్రాణముతో లేచినాడురా ఓ జనులారా",
+        "సమాధిని గెలిచినాడురా ఓ జనులారా"
+      ],
+      "english": [
+        "Bondhalo nundi Yesu dhandigaa moodavanaadu",
+        "Praanamutho lechinaaduraa O janulaaraa",
+        "Samaadhini gelichinaaduraa O janulaaraa"
+      ]
+    }
+  ]
+}

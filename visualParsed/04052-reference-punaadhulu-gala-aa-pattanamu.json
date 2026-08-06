@@ -1,0 +1,87 @@
+{
+  "song_name": "Yesuni raajyamu adhi nishchalamainadhi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసుని రాజ్యము అది నిశ్చలమైనది (2)",
+      "తరతరములకు యుగయుగములకు మార్పులేనిది",
+      "పరిశుద్ధులందరు స్తుతులు చెల్లించే మహిమ రాజ్యమది (2)"
+    ],
+    "english": [
+      "Yesuni raajyamu adhi nishchalamainadhi (2)",
+      "Tharatharamulaku yugayugamulaku maarpulenidhi",
+      "Parishuddhulandharu sthuthulu chellinche mahima raajyamadhi (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రకాశమైన రాజ్యము - పరిశుద్ధులకె స్థానము (2)",
+        "కన్నీరు లేని రాజ్యము - మరణము లేని రాజ్యము (2)",
+        "ఎల్లప్పుడు ఆనందమే - ఎల్లప్పుడు సంతోషమే (2)"
+      ],
+      "english": [
+        "Prakaashamaina raajyamu - Parishuddhulake sthaanamu (2)",
+        "Kanneeru leni raajyamu - Maranamu leni raajyamu (2)",
+        "Ellappudu aanandame - Ellappudu santhoshame (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "భోజనపానము కాని ఉత్తమమైన రాజ్యము - నీతి సమాధాన రాజ్యము",
+        "సూర్యచంద్రులు లేని రాజ్యము",
+        "ఎల్లప్పుడు ఆనందమే - ఎల్లప్పుడు సంతోషమే"
+      ],
+      "english": [
+        "Bhojanapaanamu kaani utthamamaina raajyamu - Neethi samaadhaana raajyamu",
+        "Sooryachandhrulu leni raajyamu",
+        "Ellappudu aanandame - Ellappudu santhoshame"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "జయించు వారిదే రాజ్యము - నీతిమంతులదే కిరీటము",
+        "జీవజలనది పారును - దేవుడే వాటిని త్రాగనిచ్చును",
+        "ఎల్లప్పుడు ఆనందమే - ఎల్లప్పుడు సంతోషమే"
+      ],
+      "english": [
+        "Jayinchu vaaridhe raajyamu - Neethimanthuladhe kireetamu",
+        "Jeevajalanadhi paarunu - Devude vaatini thraaganichchunu",
+        "Ellappudu aanandame - Ellappudu santhoshame"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "శాపము లేని రాజ్యము - గొర్రెపిల్ల ఉండు రాజ్యము",
+        "మన ప్రభువే ప్రకాశించును - యుగయుగములు పరిపాలించున్",
+        "ఎల్లప్పుడు ఆనందమే - ఎల్లప్పుడు సంతోషమే"
+      ],
+      "english": [
+        "Shaapamu leni raajyamu - Gorrepilla undu raajyamu",
+        "Mana prabhuve prakaashinchunu - Yugayugamulu paripaalinchun",
+        "Ellappudu aanandame - Ellappudu santhoshame"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "క్రీస్తుని రాక ఏ క్షణమో - ఎదుర్కొన నీవు సంసిద్ధమా",
+        "నేడే యేసుని స్వీకరించు - క్రీస్తుకై నీవు జీవించుమా",
+        "ఎల్లప్పుడు ఆనందమే - ఎల్లపుడు సంతోషమే"
+      ],
+      "english": [
+        "Kreesthuni raaka e kshanamo - Edhurkona neevu samsiddhamaa",
+        "Nede Yesuni sweekarinchu - Kreesthukai neevu jeevinchumaa",
+        "Ellappudu aanandame - Ellappudu santhoshame"
+      ]
+    }
+  ]
+}

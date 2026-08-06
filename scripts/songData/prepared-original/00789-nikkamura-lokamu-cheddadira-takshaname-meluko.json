@@ -1,0 +1,35 @@
+{
+  "song_name": "Nikkamura Lokamu Cheddadira Takshaname Meluko",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిక్కమురా లోకము చెడ్డదిరా తక్షణమే మేలుకో సోదారా ఈ లోకపు పాపపు చీకటిలో నీలోనే వెలుగును చూపుమురా"
+    ],
+    "english": [
+      "Nikkamura lokamu cheddadira takshaname meluko sodara E lokapu papapu chikatilo nilone velugunu chupumura"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "విన్నాననుకొంటివి కాని గ్రహియింపకున్నావా ? చూసాననుకొంటూనే తెరువలేకున్నావా దగ్గరగా ఉంటూనే దూరాన నిలిచేవా త్రోవను జారా విడిచి కుడి ఎడమకు తప్పావా పాపేచ్చలతోటి క్రీస్తేసుని మరిచావా తన గాయములను రేపుటకు కారకుడైయున్నావా"
+      ],
+      "english": [
+        "Vinnananukomtivi kani grahiyimpakunnava ? chusananukomtune teruvalekunnava Daggaraga umtune durana nilicheva Trovanu jara vidichi kudi edamaku tappava Papechchalatoti kristesuni marichava Tana gayamulanu reputaku karakudaiyunnava"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శోధనల పోరుటముతో సరిపెట్టకు నీ పయనం కష్టానష్టాలను సాకులు తప్పించవు నీ గమ్మం పానార్పణనొందే గాని సుఖమెరుగకు అది శూన్యం ప్రేమ విశ్వాసముతోటి నడిచేదే నీ జీవితం నీ పరుగును కడముట్టించే నీదే మంచి పోరాటం పరభాగ్యము నీవు పొంద ప్రకటించుము యేసుని వాక్యం"
+      ],
+      "english": [
+        "Sodhanala porutamuto saripettaku ni payanam Kashtanashtalanu sakulu tappimchavu ni gammam Panarpananomde gani sukamerugaku adi sunyam Prema visvasamutoti nadichede ni jivitam Ni parugunu kadamuttimche nide mamchi poratam Parabagyamu nivu pomda prakatimchumu yesuni vakyam"
+      ]
+    }
+  ]
+}

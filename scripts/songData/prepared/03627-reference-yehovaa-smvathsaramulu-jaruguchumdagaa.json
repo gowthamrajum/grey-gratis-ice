@@ -1,0 +1,107 @@
+{
+  "song_name": "Prabhuvaa Nee Kaaryamunu Noothana Parachumu Maaloa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభువా నీ కార్యమును - నూతన పరచుము మాలో",
+      "పరిశుద్ధ దేవా నీకు - ప్రజలమై యున్నా మిలలో"
+    ],
+    "english": [
+      "Prabhuvaa Nee Kaaryamunu - Noothana Parachumu Maaloa",
+      "ParishudhDha Dhaevaa Neeku - Prajalamai Yunnaa Milaloa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సంవత్సరములు జరుగుచుండగనే సత్యదేవా",
+        "విలువైన నీదు కార్యమును - తెలియజేయుము మాకు"
+      ],
+      "english": [
+        "SMvathsaramulu JaruguchuMdaganae Sathyadhaevaa",
+        "Viluvaina Needhu Kaaryamunu - Theliyajaeyumu Maaku"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపము జేసి నీదు - కోపము రేపితిమయ్యా",
+        "కోపించుచునే నీదు - వాత్సల్యము జూపుమయ్యా"
+      ],
+      "english": [
+        "Paapamu Jaesi Needhu - Koapamu Raepithimayyaa",
+        "KoapiMchuchunae Needhu - Vaathsalyamu Joopumayyaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రేమతో మము రక్షించి - క్షేమము నిచ్చితివయ్యా",
+        "ప్రేమించకున్నాము మేము - ప్రేమా మయుడా నిన్ను"
+      ],
+      "english": [
+        "Praemathoa Mamu RakShiMchi - KShaemamu Nichchithivayyaa",
+        "PraemiMchakunnaamu Maemu - Praemaa Mayudaa Ninnu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "వెలిగించితివి మమ్మిలలో - వెలుగైన ఓ మా ప్రభువా",
+        "పలుచోట్ల లోన మేము - వెలుగకున్నామయ్యా"
+      ],
+      "english": [
+        "VeligiMchithivi Mammilaloa - Velugaina Oa Maa Prabhuvaa",
+        "Paluchoatla Loana Maemu - Velugakunnaamayyaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మారుచున్న లోకమున - కారుతొట్లలో త్రాగన్",
+        "జీవపు ఊటవు నిన్ను విడచి - త్రొవతప్పితిమయ్యా"
+      ],
+      "english": [
+        "Maaruchunna Loakamuna - Kaaruthotlaloa Thraagan",
+        "Jeevapu Ootavu Ninnu Vidachi - Throvathappithimayyaa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "సోదర ప్రేమను జూపు - మాదిరి విడచితిమయ్యా",
+        "ఓదార్పు పొందిన మేము - ఆదరణియ్యకున్నాము"
+      ],
+      "english": [
+        "Soadhara Praemanu Joopu - Maadhiri Vidachithimayyaa",
+        "Oadhaarpu PoMdhina Maemu - AadharaNiyyakunnaamu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "మేలిమి బంగారుగను - మమ్ముల జేసితివయ్యా",
+        "మాలిన్యమునంటి మేము - మందగిలియున్నాము"
+      ],
+      "english": [
+        "Maelimi BMgaaruganu - Mammula Jaesithivayyaa",
+        "MaalinyamunMti Maemu - MMdhagiliyunnaamu"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "మాటతప్పని మాదేవా - కోటగా నున్నావయ్యా",
+        "చాటించెద నీదు ప్రేమన్ - సాటిలేని ప్రియుడా"
+      ],
+      "english": [
+        "Maatathappani Maadhaevaa - Koatagaa Nunnaavayyaa",
+        "ChaatiMchedha Needhu Praeman - Saatilaeni Priyudaa"
+      ]
+    }
+  ]
+}

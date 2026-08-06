@@ -1,0 +1,30 @@
+{
+  "song_name": "Na Kanneeru Thudichina",
+  "author": {
+    "Authored by": "K Y Ratnam",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా కన్నీరు తుడచిన దేవుడవు",
+      "నా బాధలన్ని తీసిన దేవుడవు"
+    ],
+    "english": [
+      "Naa kanneeru thudachina Devudavu",
+      "naa baadhalanni theesina Devudavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా చెంతేవుండి నిలచిన దేవుడవు",
+        "నా తోనేవుండి నడచిన దేవుడవు"
+      ],
+      "english": [
+        "naa chenthevundi nilachina Devudavu",
+        "naa thonevundi nadachina Devudavu"
+      ]
+    }
+  ]
+}

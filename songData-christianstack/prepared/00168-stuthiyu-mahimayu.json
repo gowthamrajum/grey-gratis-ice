@@ -1,0 +1,58 @@
+{
+  "song_name": "Stuthiyu Mahimayu",
+  "author": {
+    "Authored by": "Sam Benny Paul",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తుతియు మహిమయూ ఘణతయు చెల్లింతును",
+      "యేసయ్య యేసయ్య నీకే ఆరాధన"
+    ],
+    "english": [
+      "Sthuthiyu mahimayu ghanathayu chellinthunu",
+      "Yesayya Yesayya neeke aaradhana"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆరాధనాకు యోగ్యుడా – స్తుతుల పైన ఆశీనుడా",
+        "స్తోత్రించి నిన్నే కీర్థింతును ఆరాధింతును ఘణపరతును",
+        "ఆరాధన ఆరాధన ఆరాధన ఆరాధన"
+      ],
+      "english": [
+        "Aaradhanaku yogyudaa – sthuthula paina aaseenudaa",
+        "Sthothrinchi ninne keerthinthunu, aaradhinthunu ghanaparathunu",
+        "Aaradhana aaradhana aaradhana aaradhana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "స్తుతియించుటకు మమ్ము చేసినా – సృష్టికర్త ఆరాధన",
+        "స్తోత్రించి నిన్నే కీర్థింతును ఆరాధింతును ఘణపరతును",
+        "ఆరాధన ఆరాధన ఆరాధన ఆరాధన"
+      ],
+      "english": [
+        "Sthuthiyinchutaku mammu chesina – srushtikartha aaradhana",
+        "Sthothrinchi ninne keerthinthunu, aaradhinthunu ghanaparathunu",
+        "Aaradhana aaradhana aaradhana aaradhana"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కృప చేత నన్ను రక్షించిన – కృప మాయుడ ఆరాధన",
+        "స్తోత్రించి నిన్నే కీర్థింతును ఆరాధింతును ఘణపరతును",
+        "ఆరాధన ఆరాధన ఆరాధన ఆరాధన"
+      ],
+      "english": [
+        "Krupa chetha nannu rakshinchina – krupamayuda aaradhana",
+        "Sthothrinchi ninne keerthinthunu, aaradhinthunu ghanaparathunu",
+        "Aaradhana aaradhana aaradhana aaradhana"
+      ]
+    }
+  ]
+}

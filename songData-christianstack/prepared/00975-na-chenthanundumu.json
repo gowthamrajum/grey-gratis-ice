@@ -1,0 +1,30 @@
+{
+  "song_name": "Na Chenthanundumu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా చెంత నుండుము ఓ యేసయ్య",
+      "నే నిన్ను విడచి బ్రతుకలేనయ్య"
+    ],
+    "english": [
+      "Naa chenthanundumu O yesayya",
+      "ne ninnu vidachi brathukalenayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా చెంత నుండుము ఓ యేసయ్య",
+        "నే నిన్ను విడచి బ్రతుకలేనయ్య"
+      ],
+      "english": [
+        "Naa chenthanundumu O yesayya",
+        "ne ninnu vidachi brathukalenayya"
+      ]
+    }
+  ]
+}

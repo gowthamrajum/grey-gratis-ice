@@ -1,0 +1,53 @@
+{
+  "song_name": "Premimchavu Nannu Poshimchavu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రేమించావు నన్ను పోషించావు",
+      "నాకై సిలువపై ప్రాణమిచ్చావు (2)",
+      "నాకై సిలువపై బాధనొందావు",
+      "నాకై సిలువపై రక్తమిచ్చావు (2)"
+    ],
+    "english": [
+      "Premimchavu Nannu Poshimchavu",
+      "Nakai Siluvapai Pranamichchavu (2)",
+      "Nakai Siluvapai Badhanomdavu",
+      "Nakai Siluvapai Raktamichchavu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా తలంపులను బట్టి నీ తలకు ముళ్ళు",
+        "నే చేసిన హత్యలకే నీ చేతులకు మేకులు (2)",
+        "పాపిని ఆదరించావు",
+        "నా సిలువ నీ వీపుపై మోసావు (2)"
+      ],
+      "english": [
+        "Na Talampulanu Batti Ni Talaku Mullu",
+        "Ne Chesina Hatyalake Ni Chetulaku Mekulu (2)",
+        "Papini Adarimchavu",
+        "Na Siluva Ni Vipupai Mosavu (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా కాళ్ళ నడకలకై నీ కాళ్ళకు సీలలు",
+        "నే చేసిన పాపముకై నీ ప్రక్కన బల్లెము (2)",
+        "పాపిని కరుణజూపావు",
+        "నా సిలువ నీ భుజముపై మోసావు (2)"
+      ],
+      "english": [
+        "Na Kalla Nadakalakai Ni Kallaku Silalu",
+        "Ne Chesina Papamukai Ni Prakkana Ballemu (2)",
+        "Papini Karunajupavu",
+        "Na Siluva Ni Bujamupai Mosavu (2)"
+      ]
+    }
+  ]
+}

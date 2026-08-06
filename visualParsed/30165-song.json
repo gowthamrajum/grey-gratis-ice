@@ -1,0 +1,69 @@
+{
+  "song_name": "Anthamu Sameepamaiyunnadhi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "అంతము సమీపమైయున్నది దేవుని తీర్పు రానున్నది",
+      "అ.ప. ఈ యుగము ముగింపబడుచున్నది నీవు సిద్ధపడి యున్నావా",
+      "కాలము బహు కొంచమే ఉన్నది నీవు సిద్ధపడి యున్నావా",
+      "నీ ఆత్మ సిద్ధపరచుకున్నావా"
+    ],
+    "english": [
+      "Anthamu sameepamaiyunnadhi Devuni theerpu raanunnadhi",
+      "A.pa. ee yugamu mugimpabaduchunnadhi neevu siddhapadi yunnaavaa",
+      "Kaalamu bahu konchame unnadi neevu siddhapadi yunnaavaa",
+      "Nee aathma siddhaparachukunnaavaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లోకపు నటనను ధరియించి వేషధారిగా ఉంటివా",
+        "పైకి భక్తిగల వాడై దేవుని శక్తిని ఆశ్రయించవా",
+        "మారుమనస్సే లేనిచో క్షమాపణే లేదని గ్రహించుచున్నావా",
+        "కాలమే కొంచెము సమయమే లేదని గ్రహించుచున్నావా"
+      ],
+      "english": [
+        "Lokapu natananu dhariyinchi veshadhaarigaa untivaa",
+        "Paiki bhakthigala vaadai Devuni shakthini aashrayinchavaa",
+        "Maarumanasse lenicho kshamaapane ledani grahinchuchunnaavaa",
+        "Kaalame konchemu samayame ledani grahinchuchunnaavaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరిశుద్ధాత్మను కలిగుండి నీవు నడచుచుంటివా",
+        "నీ జీవము దేవుని యందు భద్రపరచియుంటివా",
+        "పరిశుద్ధాత్మయే లేనిచో పరలోకమే లేదని గ్రహించుచున్నవా",
+        "కాలమే కొంచెము సమయమే లేదని గ్రహించుచున్నావా"
+      ],
+      "english": [
+        "Parishuddhaathmanu kaligundi neevu nadachuchuntivaa",
+        "Nee jeevamu Devuni yandu bhadhraparachiyuntivaa",
+        "Parishuddhaathmaye lenicho paralokame ledani grahinchuchunnavaa",
+        "Kaalame konchemu samayame ledani grahinchuchunnaavaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సత్యము గూర్చిన జ్ఞానమును నీవు కలిగియుంటివా",
+        "ప్రత్యక్షతను పొందక సత్యమునే ఎదురింతువా",
+        "సత్యమే లేనిచో నిత్యజీవమే లేదని గ్రహించుచున్నావా",
+        "కాలమే కొంచెము సమయమే లేదని గ్రహించుచున్నావా"
+      ],
+      "english": [
+        "Sathyamu goorchina gnaanamunu neevu kaligiyuntivaa",
+        "Prathyakshathanu pondhaka sathyamune edhurinthuvaa",
+        "Sathyame lenicho nithyajeevame ledani grahinchuchunnaavaa",
+        "Kaalame konchemu samayame ledani grahinchuchunnaavaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "song_name": "Sthoathramu Yaesunaathaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తోత్రము యేసునాథా నీకు సదా - స్తోత్రము యేసునాథా",
+      "స్తోత్రము చెల్లింతుము నీదు దాసులము - పిత్రపుత్రాత్మలకు"
+    ],
+    "english": [
+      "Sthoathramu Yaesunaathaa Neeku Sadhaa - Sthoathramu Yaesunaathaa",
+      "Sthoathramu Chellinthumu Needhu Dhaasulamu - Pithraputhraathmalaku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేడు నీదు నామమందున - మేము చేరి స్తుతించునట్లు",
+        "చేసిన కృపకై నీకే నిరతము - స్తోత్రము చేసెదము"
+      ],
+      "english": [
+        "Naedu Needhu Naamamandhuna - Maemu Chaeri Sthuthinchunatlu",
+        "Chaesina Krupakai Neekae Nirathamu - Sthoathramu Chaesedhamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీదు రక్తధారచే కలిగిన - సజీవ నవమార్గము",
+        "దాసులము తండ్రి సన్నిధి చేరను - నిత్యము స్వాతంత్ర్యము"
+      ],
+      "english": [
+        "Needhu Rakthadhaarachae Kaligina - Sajeeva Navamaargamu",
+        "Dhaasulamu Thandri Sannidhi Chaeranu - Nithyamu Svaathanthryamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఇట్టి ప్రభావమైన పదవిని - పురుగులమగు మాకు",
+        "ఇంత దయతోడ నిచ్చిన కృపమా - కెంతయు నాశ్చర్యము"
+      ],
+      "english": [
+        "Itti Prabhaavamaina Padhavini - Purugulamagu Maaku",
+        "Intha Dhayathoada Nichchina Krupamaa - Kenthayu Naashcharyamu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "దూతల సైన్యములు శృంగార - గీతముల నెప్పుడు",
+        "రాజాధిరాజా నీ స్తుతులు పాడుచు - నార్భటించుచుందురు"
+      ],
+      "english": [
+        "Dhoothala Sainyamulu Shrungaara - Geethamula Neppudu",
+        "Raajaadhiraajaa Nee Sthuthulu Paaduchu - Naarbhatinchuchundhuru"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నీవు తఫ్ఫ మాకు పరమందున - వేరెవరు గలరు?",
+        "ఇద్దరయందు నీవు తప్ప మాకు ఆదరణ ఎవరు?"
+      ],
+      "english": [
+        "Neevu Thaphpha Maaku Paramandhuna - Vaerevaru Galaru?",
+        "Idhdharayandhu Neevu Thappa Maaku Aadharana Evaru?"
+      ]
+    }
+  ]
+}

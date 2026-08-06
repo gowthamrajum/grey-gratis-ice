@@ -1,0 +1,42 @@
+{
+  "song_name": "Samaanulevaru Prabho",
+  "author": {
+    "Authored by": "Chetty Bhanumurthy",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సమానులెవరు ప్రభో – నీ – సమానులెవరు ప్రభో",
+      "సమస్త మానవ – శ్రమాను భవమున్ – సహించి వహించి – ప్రేమించగల నీ"
+    ],
+    "english": [
+      "Samaanulevaru prabho – nee samaanulevaru prabho",
+      "samastha maanava – sramaanu bhavamun – saahinchi vahinchi – premincha ga la ni"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సమాన తత్వము – సహోదరత్వము",
+        "సమంజసము గాను – మాకు దెలుప నీ",
+        "పరార్ధమై భవ – శరీర మొసగిన",
+        "పరోపకారా నరావ తారా నీ",
+        "దయా హృదయ యీ – దురాత్ము లెల్లరిన్",
+        "నయాన భయాన – దయాన బ్రోవ నీ",
+        "ఓ పావనత్ముడ – ఓ పుణ్య శీలుడ",
+        "పాపాత్ములను బ్రోవ – పరమాత్మ సుతునీ"
+      ],
+      "english": [
+        "Samaana thathvam – saahodhorathvamu",
+        "samanjasamu gaanu – maaku dhelupa ni",
+        "Paraardhamai bhava – shareera mosagina",
+        "paropakaaraa naraava thaaraa ni",
+        "Dhaya hrudhaya ee – dhuraathmulellarin",
+        "nayaana bhayaana – dhayaana bhrova ni",
+        "O paavanaathmuda – O punyaseeludaa",
+        "paapaathmulanu bhrova – paramaathma suthu ni"
+      ]
+    }
+  ]
+}

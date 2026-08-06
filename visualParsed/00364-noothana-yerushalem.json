@@ -1,0 +1,79 @@
+{
+  "song_name": "Noothana Yerushalem",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Yesanna"
+    ],
+    "రచన": [
+      "బ్రదర్ యేసన్న"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నూతన యెరుషలేమ్ - దిగి వచ్చుచున్నది",
+      "పెండ్లికుమార్తె వలె - మహిమతో నిండి",
+      "స్వర్గమునందున్న- దేవుని యొద్ద నుండి",
+      "నూతన యెరుషలేమ్ - దిగి వచ్చుచున్నది",
+      "పెండ్లికుమార్తె వలె - మహిమతో నిండి"
+    ],
+    "english": [
+      "Noothana Yerushalem - Digi vachchuchunnadhi",
+      "Pendlikumaarthe vale - Mahimatho nindi",
+      "Svargamunandunna- Devuni yodda nundi",
+      "Noothana Yerushalem - Digi vachchuchunnadhi",
+      "Pendlikumaarthe vale - Mahimatho nindi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శోభ కలిగిన - ఆ దివ్య నగరము",
+        "వర్ణింప శక్యము - కానిదియే (2)",
+        "బహు సహస్రముల - సూర్యుని కంటె (2)",
+        "ప్రజ్వలించుచున్నది - మహిమవలెను  ||నూతన||",
+        "పెండ్లికుమార్తె వలె - మహిమతో నిండి"
+      ],
+      "english": [
+        "Shobha kaligina - Aa divya nagaramu",
+        "Varninpa shakyamu - Kaanidhiye (2)",
+        "Bahu sahasramula - Sooryuni kante (2)",
+        "Prajvalinchuchunnadhi - Mahimavalenu  ||Noothana||",
+        "Pendlikumaarthe vale - Mahimatho nindi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరిపూర్ణమైన -సౌందర్యమును",
+        "పృథ్వికి - ఆనందముగాను (2)",
+        "భూరాజులందరు - మహిమ తెచ్చెడి (2)",
+        "మహిమగల నగరము - ఇదియే  ||నూతన||",
+        "పెండ్లికుమార్తె వలె - మహిమతో నిండి"
+      ],
+      "english": [
+        "Paripoornamaina -Saundharyamunu",
+        "Pruthviki - Aanandhamugaanu (2)",
+        "Bhooraajulandaru - Mahima techchedi (2)",
+        "Mahimagala nagaramu - Idiye  ||Noothana||",
+        "Pendlikumaarthe vale - Mahimatho nindi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ధగధగ మెరయు - సూర్యకాంతం వలె",
+        "జ్వలించుచున్న- దైవనగరమందు (2)",
+        "నీతిమంతులే - సూర్యునివలెను (2)",
+        "నిత్య నిత్యముగా - ప్రకాశించుచుందురు  ||నూతన||  ||నూతన||"
+      ],
+      "english": [
+        "Dhagadhaga merayu - Sooryakaantham vale",
+        "Jvalinchuchunna- Dhaivanagaramandu (2)",
+        "Neethimanthule - Sooryunivalenu (2)",
+        "Nithya nithyamugaa - Prakaashinchuchunduru  ||Noothana||  ||Noothana||"
+      ]
+    }
+  ]
+}

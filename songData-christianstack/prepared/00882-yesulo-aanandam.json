@@ -1,0 +1,46 @@
+{
+  "song_name": "Yesulo Aanandam",
+  "author": {
+    "Authored by": "Arun Alwyn",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసులో ఆనందం యేసులో సంతోషం",
+      "యేసులో నిత్యజీవము ఉన్నది",
+      "యేసులో సత్యము యేసులో సర్వము",
+      "యేసులో పరిపూర్ణత ఉన్నది",
+      "యేసే రక్షణ తెలుసుకో నేస్తమా",
+      "నీ జీవితం విలువైనది దరిచేరుమా",
+      "యేసే నీరీక్షణ తెలుసుకో నేస్తమా",
+      "నీ జీవితం ఆ ప్రభువుకు అర్పించుమా"
+    ],
+    "english": [
+      "Yesulo aanandam Yesulo santhosham",
+      "Yesulo nithyajeevamu unnadhi",
+      "Yesulo sathyamu yesulo sarvamu",
+      "Yesulo paripoornatha unnadi",
+      "yeasey rakshana thelusuko nesthamaa",
+      "nee jeevitham viluvainadhi dharicherumaa",
+      "yeasey neerikshana thelusuko nesthamaa",
+      "nee jeevitham aa prabhuvuku arpinchumaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "స ని స రి గ గ రి గ మ ప ప మ ప ద ప",
+        "స ని స రి గ గ రి గ మ ప ప మ ప ద ని",
+        "ని స ని స రి ని స ని స రి ని స ని స గ రి స",
+        "స ని ప ని ప గ ప గ రి … రి గ స…"
+      ],
+      "english": [
+        "sa ni sa ri ga ga ri ga ma pa pa ma pa da pa",
+        "sa ni sa ri ga ga ri ga ma pa pa ma pa da ni",
+        "ni sa ni sa ri ni sa ni sa ri ni sa ni sa ga ri sa",
+        "sa ni pa ni pa ga pa ga ri … ri ga sa…"
+      ]
+    }
+  ]
+}

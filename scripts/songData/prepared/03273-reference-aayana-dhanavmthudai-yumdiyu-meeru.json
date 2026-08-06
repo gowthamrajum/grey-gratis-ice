@@ -1,0 +1,83 @@
+{
+  "song_name": "Jai Jai Jai Jai Raajula Raajaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జై జై జై జై రాజుల రాజా పాత్రుడ వీవే మా ప్రభు వీవే"
+    ],
+    "english": [
+      "Jai Jai Jai Jai Raajula Raajaa Paathruda Veevae Maa Prabhu Veevae"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అన్ని కాలములలో నీ నామము మహోన్నతము మహోన్నతుడా",
+        "వాగ్దానము నెరవేర్చిన దేవా మాట తప్పని మహోపకారి"
+      ],
+      "english": [
+        "Anni Kaalamulaloa Nee Naamamu Mahoannathamu Mahoannathudaa",
+        "Vaagdhaanamu Neravaerchina Dhaevaa Maata Thappani Mahoapakaari"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దూతల మాదిరి గీతముల్ పాడుచు సతతము నిన్నే స్తోత్రించెదము",
+        "గొల్లలు గాంచిన ఘన కాపరి మా ఉల్లము నందు ఉల్లసించెదము"
+      ],
+      "english": [
+        "Dhoothala Maadhiri Geethamul Paaduchu Sathathamu Ninnae Sthoathrinchedhamu",
+        "Gollalu Gaanchina Ghana Kaapari Maa Ullamu Nandhu Ullasinchedhamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తూర్పున తారను గాంచిన జ్ఞానులు రాజుల రాజ నీవే యనుచు",
+        "బంగారము సాంబ్రాణి బోళమును అర్పించి ఆరాధించిరిగా"
+      ],
+      "english": [
+        "Thoorpuna Thaaranu Gaanchina Jnaanulu Raajula Raaja Neevae Yanuchu",
+        "Bangaaramu Saambraani Boalamunu Arpinchi Aaraadhinchirigaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ధనవంతుడవగు ఓ మా ప్రభువా ధనహీనుడుగా నైతివి మాకై",
+        "మా దారిద్ర్యము తీసివేయ నరరూపమున జన్మించితివి"
+      ],
+      "english": [
+        "Dhanavanthudavagu Oa Maa Prabhuvaa Dhanaheenudugaa Naithivi Maakai",
+        "Maa Dhaaridhryamu Theesivaeya Nararoopamuna Janminchithivi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యేసు ప్రభుండా రక్తము కార్చి ఎంచి మమ్ము విమోచించితివి",
+        "ఎంచలేను నీ మేలుల నెపుడు ఎన్నదగిన మా దేవుడ నీవే"
+      ],
+      "english": [
+        "Yaesu Prabhundaa Rakthamu Kaarchi Enchi Mammu Vimoachinchithivi",
+        "Enchalaenu Nee Maelula Nepudu Ennadhagina Maa Dhaevuda Neevae"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "మాకై సిలువలో మరణించితివి మరణపు ముల్లును విరచిన ప్రభువా",
+        "యుగయుగములకు నీకే మహిమ నిరతము స్తోత్రము హల్లెలూయ"
+      ],
+      "english": [
+        "Maakai Siluvaloa Maraninchithivi Maranapu Mullunu Virachina Prabhuvaa",
+        "Yugayugamulaku Neekae Mahima Nirathamu Sthoathramu Hallelooya"
+      ]
+    }
+  ]
+}

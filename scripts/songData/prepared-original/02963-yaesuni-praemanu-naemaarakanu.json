@@ -1,0 +1,62 @@
+{
+  "song_name": "Yaesuni Praemanu Naemaarakanu",
+  "author": {
+    "Authored by": "",
+    "రచన": "దొరసామి ఆరోగ్యము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసుని ప్రేమను నేమారకను నెప్పుడు దలఁచవే యో మనసా వాసిగ నాతని వరనామంబును వదలక పొగడవె యో మనసా||"
+    ],
+    "english": [
+      "yaesuni praemanu naemaarakanu neppudu dhalAOchavae yoa manasaa vaasiga naathani varanaamMbunu vadhalaka pogadave yoa manasaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపులకొరకై ప్రాణముఁ బెట్టిన ప్రభు నిలఁ దలఁచవె యో మనసా శాపము నంతయుఁ జక్కఁగ నోర్చిన శాంతుని పొగడవె యో మనసా ||యేసుని||"
+      ],
+      "english": [
+        "paapulakorakai praaNamuAO bettina prabhu nilAO dhalAOchave yoa manasaa shaapamu nMthayuAO jakkAOga noarchina shaaMthuni pogadave yoa manasaa ||yaesuni||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కష్టములలో మన కండగ నుండిన కర్తను దలఁచవె యో మనసా నష్టములన్నియు నణఁచిన యాగురు శ్రేష్ఠుని ప్పొగడవె యో మనసా ||యేసుని||"
+      ],
+      "english": [
+        "kaShtamulaloa mana kMdaga nuMdina karthanu dhalAOchave yoa manasaa naShtamulanniyu naNAOchina yaaguru shraeShTuni ppogadave yoa manasaa ||yaesuni||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మరణతఱిని మన శరణుగ నుండెడు మాన్యునిఁ దలఁచవె యో మనసా కరుణను మన క న్నీటి దుడిచిన కర్తను పొగడవె యో మనసా ||యేసుని||"
+      ],
+      "english": [
+        "maraNathaRini mana sharaNuga nuMdedu maanyuniAO dhalAOchave yoa manasaa karuNanu mana ka nneeti dhudichina karthanu pogadave yoa manasaa ||yaesuni||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ప్రార్థనలు విని ఫలముల నొసఁగిన ప్రభు నిఁక దలఁచవె యో మనసా వర్థనఁ గోరుచు శ్రద్ధతో దిద్దిన వంద్యుని పొగడవె యో మనసా ||యేసుని||"
+      ],
+      "english": [
+        "praarThanalu vini phlamula nosAOgina prabhu niAOka dhalAOchave yoa manasaa varThanAO goaruchu shradhDhathoa dhidhdhina vMdhyuni pogadave yoa manasaa ||yaesuni||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "వంచనలేక వరముల నొసఁగిన వరదునిఁ దలఁచవె యో మనసా కొంచెము కాని కూర్మితో దేవుని కొమరుని పొగడవె యో మనసా ||యేసుని||"
+      ],
+      "english": [
+        "vMchanalaeka varamula nosAOgina varadhuniAO dhalAOchave yoa manasaa koMchemu kaani koormithoa dhaevuni komaruni pogadave yoa manasaa ||yaesuni||"
+      ]
+    }
+  ]
+}

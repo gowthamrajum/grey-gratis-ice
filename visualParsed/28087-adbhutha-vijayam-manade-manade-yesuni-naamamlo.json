@@ -1,0 +1,70 @@
+{
+  "song_name": "Adbhutha vijayam manade manade Yesuni naamamlo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "P J Stephen Paul"
+    ],
+    "రచన": [
+      "పి జె స్టీఫెన్ పాల్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "అద్భుత విజయం మనదే మనదే యేసుని నామంలో",
+      "అద్భుత విజయం మనదే మనదే యేసుని రక్తములో"
+    ],
+    "english": [
+      "Adbhutha vijayam manade manade Yesuni naamamlo",
+      "Adbhutha vijayam manade manade Yesuni rakthamulo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేవుని మాటలు శ్రద్ధగా విందాము",
+        "ఆసక్తితో నిత్యము ప్రార్ధన చేద్దాము",
+        "యేసుని గూర్చి ప్రకటన చేద్దాము",
+        "ఆత్మపూర్ణులై ఆరాధిద్దాము"
+      ],
+      "english": [
+        "Devuni maatalu shraddhagaa vindhaamu",
+        "Aasakthitho nithyamu praardhana cheddhaamu",
+        "Yesuni goorchi prakatana cheddhaamu",
+        "Aathmapoornulai aaraadhiddhaamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రాకడ వస్తుందండి",
+        "నిర్లక్ష్యం చేయకండి",
+        "దేవునితో నడవండి",
+        "రక్షణలో కొనసాగండి",
+        "కుటుంబ ప్రార్ధన చేయండి",
+        "ఐక్యతతో జీవించండి",
+        "అందరిని క్షమియించండి",
+        "ప్రేమను నిత్యము పంచండి",
+        "సంఘానికి మానక వెళ్ళండి",
+        "పరిశుద్ధంగా జీవించండి",
+        "ఉపదేశమును వినండి",
+        "ఉన్నత దీవెన పొందండి"
+      ],
+      "english": [
+        "Raakada vasthundhandi",
+        "Nirlakshyam cheyakandi",
+        "Devunitho nadavandi",
+        "Rakshanalo konasaagandi",
+        "Kutumba praardhana cheyandi",
+        "Aikyathatho jeevinchandi",
+        "Andarini kshamiyinchandi",
+        "Premanu nithyamu panchandi",
+        "Sanghaaniki maanaka vellandi",
+        "Parishuddhangaa jeevinchandi",
+        "Upadeshamunu vinandi",
+        "Unnatha deevena pondandi"
+      ]
+    }
+  ]
+}

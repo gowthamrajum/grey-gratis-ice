@@ -1,0 +1,118 @@
+{
+  "song_name": "Priyamainatti naa yaathma sthothrambu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "జె నియాండెర్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రియమైనట్టి నా యాత్మ",
+      "స్తోత్రంబు చెల్లింపు",
+      "మహిమ శక్తులుగల నా ఱేని",
+      "మన్నింపు",
+      "కూడుడిట",
+      "వీణెల గానమున",
+      "సన్నుతు లొసంగ రండి."
+    ],
+    "english": [
+      "Priyamainatti naa yaathma",
+      "Sthothrambu chellimpu",
+      "Mahima shakthulugala naa reni",
+      "Mannimpu",
+      "Koodudita",
+      "Veenela gaanamuna",
+      "Sannuthu losanga randi."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సర్వము వింతగ పాలనచేయుచు",
+        "నిన్ను",
+        "గరుడ విహగ పక్షము లందిడి",
+        "మిన్ను",
+        "నొరయగా",
+        "నడిపి సుఖముగా",
+        "నిత్యంబు",
+        "గాచిన ప్రభు నుతింపు."
+      ],
+      "english": [
+        "Sarvamu vinthaga paalanacheyuchu",
+        "Ninnu",
+        "Garuda vihaga pakshamu landidi",
+        "Minnu",
+        "Norayagaa",
+        "Nadipi sukhamugaa",
+        "Nithyambu",
+        "Gaachina prabhu nuthimpu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఎంతో చమత్కతిగా నా",
+        "యాత్మ! నిన్ సృజించి",
+        "క్షేమ మారోగ్యము నెసగగా",
+        "నడిపించి",
+        "కష్టములలో",
+        "బొదివి ఱెక్కలతో",
+        "బ్రోచిన ప్రభునుతింపు"
+      ],
+      "english": [
+        "Entho chamathkruthigaa naa",
+        "Yaathma! nin srujinchi",
+        "Kshema maarogyamu nesagagaa",
+        "Nadipinchi",
+        "Kashtamulalo",
+        "Bodivi rekkalatho",
+        "Brochina prabhunuthimpu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "అందరు గాంచెడులాగు నీ",
+        "స్థితి దీవించి",
+        "యాకసమందున నుండి కృపన్",
+        "గురిపించి",
+        "ప్రేమతో",
+        "జూచు నాతండెవ్వడో",
+        "శక్తు నా ప్రభు నుతింపు"
+      ],
+      "english": [
+        "Andaru gaanchedulaagu nee",
+        "Sthithi deevinchi",
+        "Yaakasamanduna nundi krupan",
+        "Guripinchi",
+        "Prematho",
+        "Joochu naathandevvado",
+        "Shakthu naa prabhu nuthimpu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "సకలాంతః కరణంబులతోడ",
+        "నుతింపు",
+        "ఆయన నామ ప్రసిద్ధి",
+        "గీర్తింపు",
+        "వెలుంగులో",
+        "నా బ్రహాం సంతతితో",
+        "ప్రభునుతింపుమి ఆమేన్"
+      ],
+      "english": [
+        "Sakalaanthah karanambulathoda",
+        "Nuthimpu",
+        "Aayana naama prasiddhi",
+        "Geerthimpu",
+        "Velungulo",
+        "Naa Abrahaam santhathitho",
+        "Prabhunuthimpumi aamen"
+      ]
+    }
+  ]
+}

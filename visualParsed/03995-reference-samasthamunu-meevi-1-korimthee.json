@@ -1,0 +1,97 @@
+{
+  "song_name": "Samasthamunu meevi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సర్వశక్తుని వాక్కు యిదియే - సర్వమును మీవే",
+      "దేవుని సర్వమును మీవే"
+    ],
+    "english": [
+      "Sarvashakthuni vaakku idiye - Sarvamunu meeve",
+      "Devuni sarvamunu meeve"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పౌలైన కేఫాయైన - అపొల్లోయైన - లోకమైన",
+        "ఉన్నవి మరి యేవియైన - సర్వమును మీవేగా"
+      ],
+      "english": [
+        "Paulaina Kephaayaina - Apolloyaina - Lokamaina",
+        "Unnavi mari eviyaina - Sarvamunu meevegaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జీవమైనను మరణమైన - ప్రస్తుతమందున్నవైన",
+        "రాబోవునవియైనను - సర్వమును మీవేగా"
+      ],
+      "english": [
+        "Jeevamainanu maranamaina - Prasthuthamandhunnavaina",
+        "Raabovunaviyainanu - Sarvamunu meevegaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దేవుని పనివారైన - దేవుని గృహమైన",
+        "దేవుని వ్యవసాయమైన - సర్వమును మీవేగా"
+      ],
+      "english": [
+        "Devuni panivaaraina - Devuni gruhamaina",
+        "Devuni vyavasaayamaina - Sarvamunu meevegaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "భూమి ఆకాశములందు - అధికార దీవెనలు",
+        "సంఘ సంపూర్ణతయును - సర్వమును మీవేగా"
+      ],
+      "english": [
+        "Bhoomi aakaashamulandhu - Adhikaara deevenalu",
+        "Sangha sampoornathayunu - Sarvamunu meevegaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీరు కట్టిన తోటైన - నీటి యూటలైనను",
+        "ఫలములిచ్చు చెట్లయినను - సర్వమును మీవేగా"
+      ],
+      "english": [
+        "Neeru kattina thotaina - Neethi ootalainanu",
+        "Phalamulichchu chetlayinanu - Sarvamunu meevegaa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "అన్ని స్వతంత్రించుకొని - దైవపుత్రులగుటయును",
+        "అవసరతల ననుభవింప - సర్వమును మీవేగా"
+      ],
+      "english": [
+        "Anni svathanthrinchukoni - Dhaivaputhrulagutayunu",
+        "Avasarathala nanubhavimpa - Sarvamunu meevegaa"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "క్రొత్త సృష్టి స్వాస్థ్యము - పుత్రశ్లాఘ్యమైనను",
+        "దేవుని జీవవాక్యము - సర్వమును మీవేగా"
+      ],
+      "english": [
+        "Krottha srushti swaasthyamu - Puthrashlaaghyamainanu",
+        "Devuni jeevavaakyamu - Sarvamunu meevegaa"
+      ]
+    }
+  ]
+}

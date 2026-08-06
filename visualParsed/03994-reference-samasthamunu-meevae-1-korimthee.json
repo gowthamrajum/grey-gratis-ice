@@ -1,0 +1,97 @@
+{
+  "song_name": "Samasthamunu meeve",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "లోకం, జీవం, మరణంబైనన్",
+      "సకలము మీవె నిజం - స్థిరముగ నమ్ముడిలన్"
+    ],
+    "english": [
+      "Lokam, jeevam, maranambainan",
+      "Sakalamu meeve nijam - Sthiramuga nammudilan"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రస్తుతమందు ఉన్నవియైనన్ - రాబోవునట్టివియైనను",
+        "వాస్తవముగా సమస్తము మీవె - మీరేసుని వారు"
+      ],
+      "english": [
+        "Prasthuthamandhu unnaviyainan - Raabovunattiviyainanu",
+        "Vaasthavamugaa samasthamu meeve - Meeresuni vaaru"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తన్ను ప్రేమించుచుండెడి వారికి - దేవుడు వేటిని సిద్దపరచెనో",
+        "కన్నులకు గోచరము కావవి - చెవులకు వినబడవు"
+      ],
+      "english": [
+        "Thannu preminchuchundedi vaariki - Devudu vetini siddhaparacheno",
+        "Kannulaku gocharamu kaavavi - Chevulaku vinabadavu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "హృదయములకు అగోచరమైనవి - మరుగైయుండె లోకజ్ఞానులకు",
+        "పదిలముగా ప్రభు సహాయముతో - నేరుగు మీ మర్మమును"
+      ],
+      "english": [
+        "Hrudhayamulaku agocharamainavi - Marugaiyunde lokagnaanulaku",
+        "Padilamugaa prabhu sahaayamutho - Nerugu mee marmamunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "అక్షయమైనది నిర్మలమైనది - వాడబారనిది మీ స్వాస్థ్యము",
+        "రక్షకుడేసు భద్రపరచెను - పరమున మీకొరకు"
+      ],
+      "english": [
+        "Akshayamainadhi nirmalamainadhi - Vaadabaaranidhi mee swaasthyamu",
+        "Rakshakudesu bhadhraparachenu - Paramuna meekoraku"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "అసమానమగు శక్తిచే మిమ్మున్ - నిత్యముకాచి భద్రపరచును",
+        "యేసు ఆ కడవరి రక్షణ మీకు - నిచ్చు విశ్వసించు"
+      ],
+      "english": [
+        "Asamaanamagu shakthiche mimmun - Nithyamukaachi bhadhraparachunu",
+        "Yesu aa kadavari rakshana meeku - Nichchu vishwasinchu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "మీరే దేవుని పుత్రులటంచు - ఆత్మయే సాక్షమిచ్చు చున్నాడు",
+        "వారసులగు మీరు శ్రమపడిన - మహిమను పొందెదరు"
+      ],
+      "english": [
+        "Meere Devuni puthrulatanchu - Aathmaye saakshamichchu chunnaadu",
+        "Vaarasulagu meeru shramapadina - Mahimanu pondedaru"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "జయించువాడు వీటన్నిటిని - స్వాతంత్రించుకొను నిక్కముగా",
+        "ఆయనే మీకు దేవుడైయుండు - మీరాయన సుతులు"
+      ],
+      "english": [
+        "Jayinchuvaadu veetannitini - Svaathanthrinchukonu nikkamugaa",
+        "Aayane meeku Dhevudaiyundu - Meeraayana suthulu"
+      ]
+    }
+  ]
+}

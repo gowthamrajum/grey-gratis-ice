@@ -1,0 +1,59 @@
+{
+  "song_name": "Thraahi maam Kreesthu naadha daya jooda raave nenu dehi yanuchu nee",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "త్రాహి మాం క్రీస్తు నాధ-దయఁజూడ రావే = నేను-దేహి యనుచు నీ",
+      "పాదములే - దిక్కుగాఁ జేరితి నిపుడు ||త్రాహి||"
+    ],
+    "english": [
+      "Thraahi maam Kreesthu naadha-dhayanjooda raave = nenu-dehi yanuchu nee",
+      "Paadamule - Dhikkugaan jerithi nipudu ||Thraahi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "1గవ్వ చేయరాని చెడ్డ - కర్మేంద్రియాధీనుఁడనై - రవ్వపాలై నే నెంతో - నెవ్వ",
+        "ఁబొందితిఁ - త్రవ్వుచున్న కొలఁదిఁ - పెరుఁగుఁ- దరగదు నా పాప రాశి",
+        "- యివ్విధమునఁ జెడిపోతినినే - నేమి సేతు నో¬¬¬  ||త్రాహి||"
+      ],
+      "english": [
+        "1gavva cheyaraani chedda - Karmendriyaadheenudanai - Ravvapaalai ne nentho - Nevva",
+        "Bondhithin - Thravvuchunna kolandhin - Perugun- Dharagadu naa paapa raashi",
+        "- Ivvidhamunan jedipothinine - Nemi sethu no  ||Thraahi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ యందు భయభక్తులు లేని - నిర్లజ్జాచిత్తముఁ బూని - చేయరాని",
+        "దుష్కర్మములు చేసినాఁడను = దయ్యాలరాజు చేతిలో ఁ - జేయి వేసి వాని",
+        "పనులఁ- జేయ సాగి నే నిబ్భంగిఁ - జెడిపపోయితి నే నయ్యయ్యయ్యొ  ||త్రాహి||"
+      ],
+      "english": [
+        "Nee yandu bhayabhakthulu leni - Nirlajjaachitthamun booni - Cheyaraani",
+        "Dhushkarmamulu chesinaadanu = dayyaalaraaju chethilon - Jeyi vesi vaani",
+        "Panulan- Jeya saagi ne nibbhangin - Jedipapoyithi ne nayyayyayyo  ||Thraahi||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిబ్బర మొక్కంచుకైన-నిజము రవ్వంతైన లేక- దబ్బర లాడుటకు",
+        "ము-త్తాత నైతిని= అబ్బురమైన ఘోర పా -పాంధకార కూపమందు -",
+        "దబ్బున బడిపోయినయ్యో - దారి చెడి నేనబ్బబ్బబ్బా  ||త్రాహి||"
+      ],
+      "english": [
+        "Nibbara mokkanchukaina-nijamu ravvanthaina leka- Dhabbara laadutaku",
+        "Mu-tthaatha naithini= abburamaina ghora paa -paandhakaara koopamandhu -",
+        "Dhabbuna badipoyinayyo - Daari chedi nenabbabbabbaa  ||Thraahi||"
+      ]
+    }
+  ]
+}

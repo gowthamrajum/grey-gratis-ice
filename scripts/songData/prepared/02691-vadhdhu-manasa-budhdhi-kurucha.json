@@ -1,0 +1,97 @@
+{
+  "song_name": "Vadhdhu Manasa Budhdhi Kurucha",
+  "author": {
+    "Authored by": "",
+    "రచన": "పురుషోత్తము చౌదరి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "వద్దు మనస బుద్ధి కురుచ పెద్దలకుఁ బెద్ద",
+      "పరి శుద్ధుఁ డగు క్రీస్తు తా దిద్దు",
+      "నినుఁ బ్రేమ సరి హద్దులను మీరఁబో"
+    ],
+    "english": [
+      "Vadhdhu Manasa Budhdhi Kurucha Pedhdhalaku Bedhdha",
+      "Pari Shudhdhu Dagu Kreesthu Thaa Dhidhdhu",
+      "Ninu Braema Sari Hadhdhulanu Meeraboa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చెడ్డ తలఁపు లడ్డి నిలుపు మెడ్డెలకు నెద్దెయగు",
+        "గడ్డు సాతాను నకు మెడ్డుకొని",
+        "దొడ్డ ప్రభు బిడ్డవలె నడువు మిఁక"
+      ],
+      "english": [
+        "Chedda Thalapu Laddi Nilupu Meddelaku Nedhdheyagu",
+        "Gaddu Saathaanu Naku Meddukoni",
+        "Dhodda Prabhu Biddavale Naduvu Mika"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నింద పాలు బొంద మేలు పొందుగను అందముగ",
+        "ముందు నీ యందు వెలుఁ గొందు ప్రభు",
+        "సుందర ని బంధనలు మరిచ పో"
+      ],
+      "english": [
+        "Nindha Paalu Bondha Maelu Pondhuganu Andhamuga",
+        "Mundhu Nee Yandhu Velu Gondhu Prabhu",
+        "Sundhara Ni Bandhanalu Maricha Poa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆశ బెట్టు యేసు తట్టు దోసములు వాసి చనఁ జేసి",
+        "నను మోసి కొను యేసు నిజ దాసులను బాసి యుండకు మిఁక"
+      ],
+      "english": [
+        "Aasha Bettu Yaesu Thattu Dhoasamulu Vaasi Chana Jaesi",
+        "Nanu Moasi Konu Yaesu Nija Dhaasulanu Baasi Yundaku Mika"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "బెండు పడకు నిండు విడకు దండి గల తండ్రి",
+        "యొడ యుండు యేసుండు నీ యండ నుండఁగ",
+        "నీ గుండె దిగు లేల యిఁక"
+      ],
+      "english": [
+        "Bendu Padaku Nindu Vidaku Dhandi Gala Thandri",
+        "Yoda Yundu Yaesundu Nee Yanda Nundaga",
+        "Nee Gunde Dhigu Laela Yika"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పట్టు విడకు దిటము సెడకు నెట్టుకొని",
+        "ముట్టడిగఁ జుట్టుకొను కష్టముల బిట్టు విడఁగొట్టు",
+        "ప్రభు తట్టు కనిపెట్టు మిఁక"
+      ],
+      "english": [
+        "Pattu Vidaku Dhitamu Sedaku Nettukoni",
+        "Muttadiga Juttukonu Kashtamula Bittu Vidagottu",
+        "Prabhu Thattu Kanipettu Mika"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "మంచి గుణము లెంచికొనుము వంచనల మించి",
+        "గ ర్వించి నీ దు ర్భావముఁ ద్రుంచు ప్రభు",
+        "నొద్ద గురి యుంచి ప్రార్ధించు మిఁక"
+      ],
+      "english": [
+        "Manchi Gunamu Lenchikonumu Vanchanala Minchi",
+        "Ga Rvinchi Nee Dhu Rbhaavamu Dhrunchu Prabhu",
+        "Nodhdha Guri Yunchi Praardhinchu Mika"
+      ]
+    }
+  ]
+}

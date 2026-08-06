@@ -1,0 +1,34 @@
+{
+  "song_name": "Na Priyuniki",
+  "author": {
+    "Authored by": "Pastor John David Raju Nethala",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రియునికి ఒక తోట వున్నది",
+      "దానిలో మందను మేపుచుండెను",
+      "పద్మములు వికసించెను – పరిమళము వ్యాపించెను"
+    ],
+    "english": [
+      "Na priyuniki oka thota unnadhi",
+      "dhaanilo mandhanu mepuchundenu",
+      "padmamulu vikasinchenu – parimalamu vyaapinchenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా ప్రియునికి ఒక తోట వున్నది",
+        "దానిలో మందను మేపుచుండెను",
+        "పద్మములు వికసించెను – పరిమళము వ్యాపించెను"
+      ],
+      "english": [
+        "Na priyuniki oka thota unnadhi",
+        "dhaanilo mandhanu mepuchundenu",
+        "padmamulu vikasinchenu – parimalamu vyaapinchenu"
+      ]
+    }
+  ]
+}

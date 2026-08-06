@@ -1,0 +1,51 @@
+{
+  "song_name": "Devakaavave raathri mammulan",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవకావవే రాత్రి మమ్ములన్ నీవె నేడు కాచినావు నీకు స్తోత్రము ||దేవ||"
+    ],
+    "english": [
+      "Devakaavave raathri mammulan neeve nedu kaachinaavu neeku sthothramu ||Deva||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆపదలు మమున్ అంటకుండను కాపుగాచి మంచి నిద్ర కలుగ",
+        "జేయుమీ  ||దేవకావవే||"
+      ],
+      "english": [
+        "Aapadalu mammun antakundanu kaapugaachi manchi nidra kaluga",
+        "Jeyumee ||Devakaavave||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పండియుండగా పాము తేలులున్ గండములను తొలగజేసి కాయుమో",
+        "ప్రభో  ||దేవకావవే||"
+      ],
+      "english": [
+        "Pandiyundagaa paamu thelulun gandamulanu tholagajesi kaayumo",
+        "Prabho ||Devakaavave||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దుష్ట స్వప్నముల్ దొగ భయమును కష్టములను తొలగజేసి కాయుమో",
+        "ప్రభో  ||దేవకావవే||"
+      ],
+      "english": [
+        "Dushta swapnamul donga bhayamunu kashtamulanu tholagajesi kaayumo",
+        "Prabho ||Devakaavave||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "song_name": "Unnattu nenu vachchedhan paapinaina nan pilvagan",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఉన్నట్టు నేను వచ్చెదన్ - పాపినైన నన్ పిల్వగన్",
+        "నీ నెత్రుచేత గడుగుమా - యో గొఱ్ఱెపిల్ల దేవుడా"
+      ],
+      "english": [
+        "Unnattu nenu vachchedhan - Paapinaina nan pilvagan",
+        "Nee nethruchetha kadugumaa - Yo gorrepilla Devudaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఉన్నట్టు నేను వచ్చెదన్ - నే నొప్పుకొందు దప్పులన్",
+        "నీ మాటలతో హరించుమా - యో గొఱ్ఱెపిల్ల దేవుడా"
+      ],
+      "english": [
+        "Unnattu nenu vachchedhan - Ne noppukondhu dhappulan",
+        "Nee maatalatho harinchumaa - Yo gorrepilla Devudaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఉన్నట్టు నేను వచ్చెదన్ - దుఃఖంబు బాధపర్చగన్",
+        "పాపంబు బాయ నీయొద్ద - యో గొఱ్ఱెపిల్ల దేవుడా"
+      ],
+      "english": [
+        "Unnattu nenu vachchedhan - Dhuhkhambu baadhaparchagan",
+        "Paapambu baaya neeyodhdha - Yo gorrepilla Devudaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఉన్నట్టు నేను వచ్చెదన్ - కబోధినై నేనుండగన్",
+        "ఆత్మీయ దృష్టి నీయుమా - యో గొఱ్ఱెపిల్ల దేవుడా"
+      ],
+      "english": [
+        "Unnattu nenu vachchedhan - Kabodhinai nenundagan",
+        "Aathmeeya drushti neeyumaa - Yo gorrepilla Devudaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఉన్నట్టు నేను వచ్చెదన్ - నీ మాట నమ్మునట్టి నన్",
+        "మన్నించి చేర్చుకొనయా - యో గొఱ్ఱెపిల్ల దేవుడా"
+      ],
+      "english": [
+        "Unnattu nenu vachchedhan - Nee maata nammunatti nan",
+        "Manninchi cherchukonayaa - Yo gorrepilla Devudaa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఉన్నట్టు నేను వచ్చెదన్ - నీ ప్రేమ నన్ను పిల్వగన్",
+        "నీవాడనౌదు సర్వదా - యో గొఱ్ఱెపిల్ల దేవుడా"
+      ],
+      "english": [
+        "Unnattu nenu vachchedhan - Nee prema nannu pilvagan",
+        "Neevaadanaudhu sarvadaa - Yo gorrepilla Devudaa"
+      ]
+    }
+  ]
+}

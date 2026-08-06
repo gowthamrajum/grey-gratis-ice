@@ -1,0 +1,64 @@
+{
+  "song_name": "Thrithvamai nithyathvamuna nekathvamagu Deva",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "త్రిత్వమై నిత్యత్వమున నేకత్వమగు దేవా నీ సత్యసామర్థ్యత్వముల",
+      "నిజ తత్వము గణించి నిను నిత్యము స్తుతించెదను ||త్రిత్వమై||"
+    ],
+    "english": [
+      "Thrithvamai nithyathvamuna nekathvamagu Deva nee sathyasaamarthyathvamula",
+      "Nija thathvamu ganinchi ninu nithyamu sthuthinchedanu ||Thrithvamai||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎల్లలోకంబుల సృజించిన చల్లని తండ్రి నా యుల్లమున నీ గొప్ప వింత",
+        "లెల్ల సంతసిల్ల శోభిల్లఁ దలంచెదను  ||త్రిత్వమై||"
+      ],
+      "english": [
+        "Ellalokambula srujinchina challani thandri naa yullamuna nee goppa vintha",
+        "Lella santhasilla shobhilla dhalanchedhanu ||Thrithvamai||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వాసి కెక్కిన పరమరాజ్యని వాసమును విడిన శ్రీ యేసునాధుండను",
+        "కుమారా దోషుల దోసంబులెల్లఁ గాచి రక్షించినావు  ||త్రిత్వమై||"
+      ],
+      "english": [
+        "Vaasi kekkina paramaraajyani vaasamunu vidina Sree Yesunaadhundanu",
+        "Kumaaraa dhoshula dhosambulella gaachi rakshinchinaavu ||Thrithvamai||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆదరణకారుండ వగు శుద్ధాత్ముడా దేవా యామోద నామము",
+        "నంపఁబడి యేసు నాధుని సుబోధ లెల్ల బోధపరచి పాదుకొల్పు  ||త్రిత్వమై||"
+      ],
+      "english": [
+        "Aadharanakaarunda vagu shudhdhaathmudaa Deva yaamodha naamamu",
+        "Nampabadi Yesu naadhuni subodha lella bodhaparachi paadhukolpu ||Thrithvamai||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఓపితా సుతా శుద్ధాత్మ ఒక్క దేవుఁడవు ఎల్ల పాపులను రక్షింప",
+        "మిగుల నోపికతో నాపదలు బాపి కృపఁ జూపినావు  ||త్రిత్వమై||"
+      ],
+      "english": [
+        "Opithaa suthaa shuddhaathma okka Devudavu ella paapulanu rakshimpa",
+        "Migula nopikatho naapadhalu baapi krupa joopinaavu ||Thrithvamai||"
+      ]
+    }
+  ]
+}

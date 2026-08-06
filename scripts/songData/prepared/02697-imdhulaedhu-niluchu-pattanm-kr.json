@@ -1,0 +1,74 @@
+{
+  "song_name": "IMdhulaedhu Niluchu PattaNM Kreesthu Yaathrikulaku",
+  "author": {
+    "Authored by": "",
+    "రచన": "జె ఈ షార్మీ"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇందులేదు నిలుచు పట్టణం క్రీస్తు యాత్రికులకు",
+      "నిందు లేదు నిలుచు పట్టణం"
+    ],
+    "english": [
+      "IMdhulaedhu Niluchu PattaNM Kreesthu Yaathrikulaku",
+      "NiMdhu Laedhu Niluchu PattaNM"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాదుకొన్న లౌకికునకు బహుళదుఃఖ మిది మఱి సొం పై దగు",
+        "మేల్ చోటు వెదకు భక్తుఁడ వెత నొంద కెప్పు"
+      ],
+      "english": [
+        "Paadhukonna Laukikunaku BahuLadhuHkha Midhi MaRi SoM Pai Dhagu",
+        "Mael Choatu Vedhaku BhakthuAOda Vetha NoMdha Keppu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మాకు నిల్లి దైన దుఃఖ మౌకదా వచ్చు పురము",
+        "దాకొనంగ వెదకె దము ధైర్య మిచ్చు నిదియె మాకు"
+      ],
+      "english": [
+        "Maaku Nilli Dhaina DhuHkha Maukadhaa Vachchu Puramu",
+        "DhaakonMga Vedhake Dhamu Dhairya Michchu Nidhiye Maaku"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మనము యాత్ర వారి వలెనే ఘనత విశ్రమంబులేక",
+        "కినుక నీలోక మునను గ్రింది వన్ని వదలు దాము"
+      ],
+      "english": [
+        "Manamu Yaathra Vaari Valenae Ghanatha VishramMbulaeka",
+        "Kinuka Neeloaka Munanu GriMdhi Vanni Vadhalu Dhaamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మిగుల యాత్ర పరులవిశ్ర మించు సౌఖ్య వాసమా",
+        "ఖగము వలెనే టెక్కలున్న నెగిరి నిన్నుఁ జేరుకొందు"
+      ],
+      "english": [
+        "Migula Yaathra Parulavishra MiMchu Saukhya Vaasamaa",
+        "Khagamu Valenae Tekkalunna Negiri NinnuAO JaerukoMdhu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "సద్దు నాయాత్మ నణంగ వద్దు తగిన వేళగామి యొద్ది",
+        "కతని తలఁపు జేతుఁ నొసఁగు విశ్రమం బతండె"
+      ],
+      "english": [
+        "Sadhdhu Naayaathma NaNMga Vadhdhu Thagina VaeLagaami Yodhdhi",
+        "Kathani ThalAOpu JaethuAO NosAOgu VishramM BathMde"
+      ]
+    }
+  ]
+}

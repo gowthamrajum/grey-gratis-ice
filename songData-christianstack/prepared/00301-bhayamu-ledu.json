@@ -1,0 +1,54 @@
+{
+  "song_name": "Bhayamu Ledu",
+  "author": {
+    "Authored by": "Raja Mandru",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేను నమ్మిన నా దేవుడు సర్వశక్తిమంతుడు",
+      "నేను నమ్మిన నా యేసయ్య సర్వశక్తిమంతుడు",
+      "భయము లేదు నాకు భయం లేదు",
+      "యేసు ఉండగా నాకు భయం లేదు"
+    ],
+    "english": [
+      "Nenu nammina naa dhevudu sarva shakthimanthudu",
+      "nenu nammina naa yesayya sarva shakthimanthudu",
+      "bhayamu ledu naaku bhayam ledhu",
+      "yesu undagaa naaku bhayam ledhu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యెరికో కోటైన భయము లేదు",
+        "ఎర్ర సంద్రమైన భయము లేదు",
+        "సింహాల గుహఐన భయము లేదు",
+        "గొల్యాతు అయిన భయము లేదు",
+        "ఎబినేజర్ ఉండగా భయము లేదు",
+        "ఎల్ రోయి ఉండగా భయము లేదు",
+        "ఎల్షడాయ్ ఉండగా భయము లేదు",
+        "యేసు ఉండగా భయము లేదు",
+        "మరణపు లోయ అయిన భయము లేదు",
+        "శోధనలెదురైన భయము లేదు",
+        "వ్యాధి బాధలైన భయము లేదు",
+        "శత్రువులు ఎదురైన భయము లేదు"
+      ],
+      "english": [
+        "Yericho kotaina bhayamu ledhu",
+        "erra sandhramaina bhayamu ledhu",
+        "simhaala guhaina bhayamu ledhu",
+        "golyaathu aina bhayamu ledhu",
+        "Ebinejar undagaa bhayamu ledhu",
+        "el roi undagaa bhayamu ledhu",
+        "el shaddhai undagaa bhayamu ledhu",
+        "yesu undagaa bhayamu ledhu",
+        "Maranapu loya aina bhayamu ledhu",
+        "shodhanaledhuraina bhayamu ledhu",
+        "vyaadhi baadhalaina bhayamu ledhu",
+        "sathruvulu edhuraina bhayamu ledhu"
+      ]
+    }
+  ]
+}

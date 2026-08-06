@@ -1,0 +1,50 @@
+{
+  "song_name": "Prema Prema",
+  "author": {
+    "Authored by": "Joel Kodali",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "వందనము వందనము వందనము వందనము",
+      "యేసయ్య కే వందనము",
+      "వందనము వందనము వందనము వందనము",
+      "నా రాజుకే వందనము",
+      "వందనము వందనము వందనము వందనము",
+      "ప్రేమ ప్రేమ శ్రీ యేసుని ప్రేమ"
+    ],
+    "english": [
+      "Vandanamu vandanamu vandanamu vandanamu",
+      "yesayya ke vandanamu",
+      "vandanamu vandanamu vandanamu vandanamu",
+      "naa raajuke vandanamu",
+      "vandanamu vandanamu vandanamu vandanamu",
+      "prema prema sri yesuni prema"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రేమ ప్రేమ నా యేసుని ప్రేమ",
+        "ప్రేమ ప్రేమ నా రాజుని ప్రేమ",
+        "దారి తొలగిన నా కొరకు",
+        "ఎంతో వేదనతో వేచితివి",
+        "దూరాన నను చూడగానే",
+        "పరుగెడుతు దరి చేరితివి",
+        "అపరాధిగా నుండగానే",
+        "నను ముట్టి ముద్దాడితివి"
+      ],
+      "english": [
+        "Prema prema naa yesuni prema",
+        "prema prema naa raajuni prema",
+        "daari tolagina naa koraku",
+        "entho vedanatho vechithivi",
+        "dooraana nanu choodagaane",
+        "parugedutu dari cherithivi",
+        "aparaadhigaa nundagaane",
+        "nanu mutti muddaadithivi"
+      ]
+    }
+  ]
+}

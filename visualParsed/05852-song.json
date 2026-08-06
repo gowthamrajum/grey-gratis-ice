@@ -1,0 +1,42 @@
+{
+  "song_name": "Chinni chinni thammudu chitti chellelu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "చిన్ని చిన్ని తమ్ముడు చిట్టి చెల్లెలు /2/",
+      "యేసయ్య ఎవరో తెలుసా నీకు – ఆ యేసయ్య ఎవరో తెలుసా నీకు"
+    ],
+    "english": [
+      "Chinni chinni thammudu chitti chellelu /2/",
+      "Yesayya evaro thelusaa neeku - Aa Yesayya evaro thelusaa neeku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపులను రక్షించగా – ఈ భువికి యెతెంచెగా",
+        "నిన్ను నన్ను రక్షింప మరియమ్మ గర్భాన ఉదయించెగా"
+      ],
+      "english": [
+        "Paapulanu rakshinchagaa - Ee bhuviki ethenchegaa",
+        "Ninnu nannu rakshimpa Mariyamma garbhaana udayinchegaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసయ్య నే నమ్మిన – నీహృదయమర్పించిన",
+        "విలువైన రక్షణ పరలోక భాగ్యము నీకిచ్చును"
+      ],
+      "english": [
+        "Yesayya ne nammina - Nee hrudhayamarpinchina",
+        "Viluvaina rakshana paraloka bhaagyamu neekichchunu"
+      ]
+    }
+  ]
+}

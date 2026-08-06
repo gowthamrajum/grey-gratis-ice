@@ -1,0 +1,44 @@
+{
+  "song_name": "Nenu Velle Maargamu",
+  "author": {
+    "Authored by": "Bro. Yesanna",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేను వెళ్ళే మార్గము – నా యేసుకే తెలియును",
+      "శోధించబడిన మీదట – నేను సువర్ణమై మారెదను"
+    ],
+    "english": [
+      "Nenu velle maargamu – naa yesuke theliyunu",
+      "shodhinchabadina meedata – nenu suvarnamai maaredanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కడలేని కడలి తీరము – ఎడమాయె కడకు నా బ్రతుకున",
+        "గురిలేని తరుణాన వెరువగ – నా దరినే నిలిచేవ నా ప్రభు",
+        "హల్లేలూయా హల్లేలూయా హల్లేలూయా ఆమేన్‌",
+        "జలములలోబడి నే వెళ్లినా – అవి నా మీద పారవు",
+        "అగ్నిలో నేను నడచినా – జ్వాలలు నను కాల్చజాలవు",
+        "హల్లేలూయా హల్లేలూయా హల్లేలూయా ఆమేన్‌",
+        "విశ్వాస నావ సాగుచు – పయనించు సమయాన నా ప్రభు",
+        "సాతాను సుడిగాలి రేపగా – నా యెదుటే నిలిచేవా నా ప్రభు",
+        "హల్లేలూయా హల్లేలూయా హల్లేలూయా ఆమేన్‌"
+      ],
+      "english": [
+        "Kadaleni kadali theeramu – edamaaye kadaku naa brathukuna",
+        "gurileni tharunaana veruvaga – naa darine nilicheva naa prabhu",
+        "hallelooyaa hallelooyaa hallelooyaa aamen",
+        "Jalamulalo badi ne vellinaa – avi naa meeda paaravu",
+        "agnilo nenu nadachinaa – jwaalalu nanu kaalchajaalavu",
+        "hallelooyaa hallelooyaa hallelooyaa aamen",
+        "Vishwaasa naava saaguchu – payaninchu samayaana naa prabhu",
+        "saathaanu sudigaali repagaa – naa yedute nilichevaa naa prabhu",
+        "hallelooyaa hallelooyaa hallelooyaa aamen"
+      ]
+    }
+  ]
+}

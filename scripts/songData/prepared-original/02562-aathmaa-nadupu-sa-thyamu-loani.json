@@ -1,0 +1,62 @@
+{
+  "song_name": "Aathmaa Nadupu Sa Thyamu Loani",
+  "author": {
+    "Authored by": "",
+    "రచన": "తూలూరి కొర్నేలియస్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆత్మా నడుపు స త్యము లోని కిపుడే యాత్మా నడుపు ఆత్మా నీ సాయంబు నధికంబుగా నిచ్చి ఆత్మానందముతో దై వారాధనమున ||కాత్మా||"
+    ],
+    "english": [
+      "aathmaa nadupu sa thyamu loani kipudae yaathmaa nadupu aathmaa nee saayMbu naDhikMbugaa nichchi aathmaanMdhamuthoa dhai vaaraaDhanamuna ||kaathmaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఘోర కలుషంబుల దూరంబుగాఁ దోలి పారమార్థిక బుద్ధిఁ గోరు నట్టులను ||ఆత్మా||"
+      ],
+      "english": [
+        "ghoara kaluShMbula dhoorMbugaaAO dhoali paaramaarThika budhDhiAO goaru nattulanu ||aathmaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అంధత్వంబు వలన మందమైయుండు మా డెందంబు లెల్ల నీ యందు వెలుఁగుటకు ||ఆత్మా||"
+      ],
+      "english": [
+        "aMDhathvMbu valana mMdhamaiyuMdu maa deMdhMbu lella nee yMdhu veluAOgutaku ||aathmaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిర్మల హృదయంబు నిరతంబు మా కిచ్చి కూర్మిన్ నీ వరములఁ గూర్చి దీవించి ||ఆత్మా||"
+      ],
+      "english": [
+        "nirmala hrudhayMbu nirathMbu maa kichchi koormin nee varamulAO goorchi dheeviMchi ||aathmaa||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సకల మానవులతో అకలంక శుభవార్తఁ బ్రకటించు బలజ్ఞాన నిక రంబు నిచ్చి ||ఆత్మా||"
+      ],
+      "english": [
+        "sakala maanavulathoa akalMka shubhavaarthAO brakatiMchu balajnYaana nika rMbu nichchi ||aathmaa||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "దీవించి పంపు మో దైవాత్మా మమ్మును భావజ్ఞాన మొసంగి ప్రభు సేవలోన ||ఆత్మా||"
+      ],
+      "english": [
+        "dheeviMchi pMpu moa dhaivaathmaa mammunu bhaavajnYaana mosMgi prabhu saevaloana ||aathmaa||"
+      ]
+    }
+  ]
+}

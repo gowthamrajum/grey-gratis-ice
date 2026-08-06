@@ -1,0 +1,63 @@
+{
+  "song_name": "Chinnabiddala Vinnapamula Nennadaina",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "చిన్నబిడ్డల విన్నపముల నెన్నడైన త్రోయక",
+      "పన్నుగ విను కన్న తండ్రిని సన్నుతింప జేరరే"
+    ],
+    "english": [
+      "Chinnabiddala Vinnapamula Nennadaina Throayaka",
+      "Pannuga Vinu Kanna Thmdrini Sannuthimpa Jaerarae"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "భూమి మీద మానవునిగా స్వామి ఉండినప్పుడు",
+        "ప్రేమతో అనేక మంది పిల్లల దరి జేర్చెను"
+      ],
+      "english": [
+        "Bhoomi Meedha Maanavunigaa Svaami Umdinappudu",
+        "Praemathoa Anaeka Mmdhi Pillala Dhari Jaerchenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చెంత జేర్చి చిన్న పిల్లల చేతులుంచి వారిపై",
+        "ఎంతో దయతో నాశీర్వ దించె యేసు వారిని"
+      ],
+      "english": [
+        "Chemtha Jaerchi Chinna Pillala Chaethulumchi Vaaripai",
+        "Emthoa Dhayathoa Naasheerva Dhimche Yaesu Vaarini"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "చిన్న పిల్లల పోలికలను ఎన్నోమార్లు బోధలో",
+        "ఎన్నుకొనుటలో మనయం దున్న ప్రేమ దెలిపెను"
+      ],
+      "english": [
+        "Chinna Pillala Poalikalanu Ennoamaarlu Boadhaloa",
+        "Ennukonutaloa Manaym Dhunna Praema Dhelipenu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పాట పాడి ప్రభుని పేర కోటి స్తుతుల నియ్యరే",
+        "చాటుగను బాహాటముగను మేటి ప్రభుని వేడరే"
+      ],
+      "english": [
+        "Paata Paadi Prabhuni Paera Koati Sthuthula Niyyarae",
+        "Chaatuganu Baahaatamuganu Maeti Prabhuni Vaedarae"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "song_name": "Tamdri Kumara Suddhatmuda Triyeka Devuda",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "తండ్రి కుమార శుద్ధాత్ముడా త్రియేక దేవుడా",
+      "ఆరాధింతును నిన్నే ఆత్మతో సత్యముతో"
+    ],
+    "english": [
+      "Tamdri Kumara Suddhatmuda Triyeka Devuda",
+      "Aradhimtunu Ninne Atmato Satyamuto"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సృష్టికర్త నిన్నే సత్య స్వరూపుడా",
+        "నా కొరకే బలియైన దేవా నిన్నే నే ఆరాధింతున్",
+        "జీవాధిపతియైన తేజోమయుడా",
+        "సర్వోన్నతుడా . . . . నిన్నే నే ఆరాధింతున్"
+      ],
+      "english": [
+        "Srushtikarta Ninne Satya Svarupuda",
+        "Na Korake Baliyaina Deva Ninne Ne Aradhimtun",
+        "Jivadhipatiyaina Tejomayuda",
+        "Sarvonnatuda . . . . Ninne Ne Aradhimtun"
+      ]
+    }
+  ]
+}

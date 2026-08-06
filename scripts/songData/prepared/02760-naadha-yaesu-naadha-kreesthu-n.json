@@ -1,0 +1,85 @@
+{
+  "song_name": "Naadha Yaesu Naadha Kreesthu Naadha Naenanaadha",
+  "author": {
+    "Authored by": "",
+    "రచన": "పసుపులేటి దావీదు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "నాధ యేసు నాధ క్రీస్తు నాధ నేననాధ",
+      "సాధు జనులఁ బ్రోచు సదయు నీ దయ కాదా"
+    ],
+    "english": [
+      "Naadha Yaesu Naadha Kreesthu Naadha Naenanaadha",
+      "Saadhu Janula Broachu Sadhayu Nee Dhaya Kaadhaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గతిఁ దలఁపని మూర్ఖచిత్త గమనుఁడనే గానా",
+        "సతతముననుఁ గరుణఁ బ్రోచెడు గతియ నీవు కావా"
+      ],
+      "english": [
+        "Gathi Dhalapani Moorkhachiththa Gamanudanae Gaanaa",
+        "Sathathamunanu Garuna Broachedu Gathiya Neevu Kaavaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపమందు జననమైన పామరుండ నేఁగానా",
+        "కటకట ననుఁ గని కరించు కరుణ నీది గాదా"
+      ],
+      "english": [
+        "Paapamandhu Jananamaina Paamarunda Naegaanaa",
+        "Katakata Nanu Gani Karinchu Karuna Needhi Gaadhaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కుటిల బుద్ధిగల వాఁడను క్రూరుఁడ నేఎఁగానా",
+        "కటకట ననుఁ గని కరించు కరుణ నీది గాదా"
+      ],
+      "english": [
+        "Kutila Budhdhigala Vaadanu Krooruda Naeegaanaa",
+        "Katakata Nanu Gani Karinchu Karuna Needhi Gaadhaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆది కర్త వీవు గావె యఖిల లోకమునకును",
+        "బీదవారి నెల్లఁ బ్రోచు బిరిదు నీది గాదా"
+      ],
+      "english": [
+        "Aadhi Kartha Veevu Gaave Yakhila Loakamunakunu",
+        "Beedhavaari Nella Broachu Biridhu Needhi Gaadhaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "సారమైన సత్యశాస్త్ర సార మీవు గావా",
+        "ఘోరమైన పాపి జనులఁ గోరి పిలువ లేదా"
+      ],
+      "english": [
+        "Saaramaina Sathyashaasthra Saara Meevu Gaavaa",
+        "Ghoaramaina Paapi Janula Goari Piluva Laedhaa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "జీవ నాధారమైన త్రోవ నీవు గావా",
+        "దేవదేవ యెహవా నా దిక్కు నీవు గావా"
+      ],
+      "english": [
+        "Jeeva Naadhaaramaina Throava Neevu Gaavaa",
+        "Dhaevadhaeva Yehavaa Naa Dhikku Neevu Gaavaa"
+      ]
+    }
+  ]
+}

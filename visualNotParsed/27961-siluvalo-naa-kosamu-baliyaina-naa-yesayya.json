@@ -1,0 +1,54 @@
+{
+  "song_name": "Siluvalo naa kosamu baliyaina naa Yesayya",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Raja Mandru"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సిలువలో నా కోసము బలియైన నా యేసయ్య",
+      "మోకాళ్లపై నీ సిలువను కట్టెదను",
+      "కన్నీటితో నీ పాదాలు కడిగెదను"
+    ],
+    "english": [
+      "Siluvalo naa kosamu baliyaina naa Yesayya",
+      "Mokaallapai nee siluvanu kattedhanu",
+      "Kanneetitho nee paadaalu kadigedhanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసయ్యా… యేసయ్యా…",
+        "యేసయ్యా… యేసయ్యా…"
+      ],
+      "english": [
+        "Yesayyaa… Yesayyaa…",
+        "Yesayyaa… Yesayyaa…"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఏలీ, ఏలీ, లామా సబక్తానీ అని అంటూ పలికితిరి",
+        "తండ్రి నీ బిడ్డలు ఏమి చేయుచున్నారో యెరుగరని పలికితిరి",
+        "సిలువపైన దొంగ నా వంటి పాపి నిను చూసి వేడుకొనగా",
+        "నేడు నీవు నాతో పరదైసులో ఉందువని రక్షించితిరి",
+        "యేసయ్యా… యేసయ్యా…",
+        "యేసయ్యా… యేసయ్యా…"
+      ],
+      "english": [
+        "Elee, Elee, laamaa sabakthaanee ani antoo palikithiri",
+        "Thandri nee biddalu emi cheyuchunnaaro erugarani palikithiri",
+        "Siluvapaina donga naa vanti paapi ninu choosi vedukonagaa",
+        "Nedu neevu naatho paradhaisulo undhuvani rakshinchithiri",
+        "Yesayyaa… Yesayyaa…",
+        "Yesayyaa… Yesayyaa…"
+      ]
+    }
+  ]
+}

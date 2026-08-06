@@ -1,0 +1,75 @@
+{
+  "song_name": "Praarthana vinedu Devaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రార్థన వినెడు దేవా ప్రార్థించుమనిన ప్రభువా",
+      "స్వార్థమునెల్లను ద్రోసి దరి చేరితిమి మముజూడు (2)"
+    ],
+    "english": [
+      "Praarthana vinedu Devaa praarthinchumanina Prabhuvaa",
+      "Svaarthamunellanu dhrosi dari cherithimi mamujoodu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పొందిన మేలుల మరచి మందిర సమృద్దిన్ విడచి",
+        "పొందితిమిలలో బాధల్ నిందను తెచ్చితిమయ్యా"
+      ],
+      "english": [
+        "Pondina melula marachi mandira samruddhin vidachi",
+        "Pondhithimilalo baadhal nindanu thechchithimayyaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఒప్పుకొనుచుంటి మిలలో మా పితరులవలె మేము",
+        "అపవిత్రులమై నీదు కోపము రేపితిమయ్యా"
+      ],
+      "english": [
+        "Oppukonuchunti milalo maa pitharulavale memu",
+        "Apavithrulamai needu kopamu repithimayyaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇరుకున పడియుంటిమి పరులెల్లరు మముజూచి",
+        "పరిహాసమును చేయ తరుణము నిచ్చితిమయ్యా"
+      ],
+      "english": [
+        "Irukuna padiyuntimi parulellaru mamujoochi",
+        "Parihaasamunu cheya tharunamu nichchithimayyaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆశించితిమి నిన్ను శాశ్వత కృపగల దేవా",
+        "త్రోసివేయని మా దేవా నీ చెంత జేరితిమయ్యా"
+      ],
+      "english": [
+        "Aashinchithimi ninnu shaashwatha krupagala Devaa",
+        "Throsiveyani maa Devaa nee chentha jerithimayyaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీ ముఖమును దాచకుము నీ మార్గమును నేర్పించు",
+        "నింపునీయాత్మనుమాలో సంపూర్ణులుగా జేయుమయ్యా"
+      ],
+      "english": [
+        "Nee mukhamunu dhaachakumu nee maargamunu nerpinchu",
+        "Nimpuneeyaathmanumaalo sampoornulugaa jeyumayyaa"
+      ]
+    }
+  ]
+}

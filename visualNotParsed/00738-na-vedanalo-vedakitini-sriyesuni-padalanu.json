@@ -1,0 +1,42 @@
+{
+  "song_name": "Naa vedhanalo vedakithini Sree Yesuni paadaalanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా వేదనలో వెదకితిని శ్రీయేసుని పాదాలను",
+      "నా మనస్సులో కోరితిని నీ రూపమునే దీనుడనై"
+    ],
+    "english": [
+      "Naa vedhanalo vedakithini Sree Yesuni paadaalanu",
+      "Naa manassulo korithini nee roopamune deenudanai"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వేకు జాములో విలపించితిని నా పాపములో వ్యసనములో",
+        "ఓదార్చుము విసుగొందక నీ కృపలో నా ప్రభువా (2)"
+      ],
+      "english": [
+        "Veku jaamulo vilapinchithini naa paapamulo vyasanamulo",
+        "Odhaarchumu visugondhaka nee krupalo naa Prabhuvaa (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ హస్తములో నిదురింపజేయుమా నీ ప్రేమలో లాలించుమా",
+        "ఓదార్చుము విసుగొందక నీ కృపలో నా ప్రభువా (2)"
+      ],
+      "english": [
+        "Nee hasthamulo nidhurimpajeyumaa nee premalo laalinchumaa",
+        "Odhaarchumu visugondhaka nee krupalo naa Prabhuvaa (2)"
+      ]
+    }
+  ]
+}

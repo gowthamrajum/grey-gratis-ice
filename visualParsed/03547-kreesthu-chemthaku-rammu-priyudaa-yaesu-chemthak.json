@@ -1,0 +1,87 @@
+{
+  "song_name": "Kreesthu chenthaku rammu priyudaa Yesu chenthaku rammu priyudaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "క్రీస్తు చెంతకు రమ్ము ప్రియుడా",
+      "యేసు చెంతకు రమ్ము ప్రియుడా",
+      "జీవజలమును త్రాగి నీ దాహము తీర్చుకొనన్"
+    ],
+    "english": [
+      "Kreesthu chenthaku rammu priyudaa",
+      "Yesu chenthaku rammu priyudaa",
+      "Jeevajalamunu thraagi nee daahamu theerchukonan"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆయనే జీవజలము - నిత్యమైన తృప్తినిచ్చును",
+        "నీవు ఆ జలము త్రాగిన - ఇంకెన్నడు దప్పిగొనవు",
+        "యుగ యుగములవరకు"
+      ],
+      "english": [
+        "Aayane jeevajalamu - Nithyamaina thrupthinichchunu",
+        "Neevu aa jalamu thraagina - Inkennadu dhappigonavu",
+        "Yuga yugamulavaraku"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆయనే జీవాహారము - నిత్యమైన తృప్తినిచ్చును",
+        "జీవాహారము భుజించిన - ఆకలిగొనవెప్పుడు",
+        "యుగ యుగములవరకు"
+      ],
+      "english": [
+        "Aayane jeevaahaaramu - Nithyamaina thrupthinichchunu",
+        "Jeevaahaaramu bhujinchina - Aakaligonaveppudu",
+        "Yuga yugamulavaraku"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆయనే జీవ మార్గము - స్వర్గరాజ్యమును చేరను",
+        "ఆయన నంగీకరించిన - తండ్రియొద్దకు చేరెదవు",
+        "యుగములు రాజ్య మేలను"
+      ],
+      "english": [
+        "Aayane jeeva maargamu - Swargaraajyamunu cheranu",
+        "Aayana nangeekarinchina - Thandriyodhdhaku cheredhavu",
+        "Yugamulu raajya melanu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆయనే యేకైక ద్వారం స్వర్గరాజ్యము చేరను",
+        "నీ వందు ప్రవేశించిన - చేరుదువు నిశ్చయముగ",
+        "నిత్యసుఖము లొందెదవు"
+      ],
+      "english": [
+        "Aayane ekaika dwaaram swargaraajyamu cheranu",
+        "Nee vandhu praveshinchina - Cherudhuvu nishchayamuga",
+        "Nithyasukhamu londhedhavu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఆయనే నిత్య సత్యము - సర్వలోకమును రక్షింప",
+        "ఆయనను స్వీకరించిన - నిత్య శిక్షనుండి తప్పించున్",
+        "సదా ఆయనతో నుందువు"
+      ],
+      "english": [
+        "Aayane nithya sathyamu - Sarvalokamunu rakshimpa",
+        "Aayananu sweekarinchina - Nithya shikshanundi thappinchun",
+        "Sadaa aayanatho nundhuvu"
+      ]
+    }
+  ]
+}

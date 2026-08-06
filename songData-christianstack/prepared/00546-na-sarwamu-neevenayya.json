@@ -1,0 +1,48 @@
+{
+  "song_name": "Na Sarwamu Neevenayya",
+  "author": {
+    "Authored by": "David Parla & Prasanth Geddam",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవేనయ్యా నీవేనయ్యా నా సర్వము నీవేనయ్యా",
+      "నీకేనయ్యా నీకేనయ్యా న సర్వము నీకేనయ్యా",
+      "నీదేనయ్యా నీదేనయ్యా న సర్వము నీదేనయ్యా",
+      "నీతోనయ్యా నీతోనయ్యా నే నడిచెద నీతోనయ్యా"
+    ],
+    "english": [
+      "Neevenayya neevenayya na sarwamu neevenayya",
+      "neekenayya neekenayya na sarwamu neekenayya",
+      "needhenayya needhenayya na sarwamu needhenayya",
+      "neethonayya neethonayya ne nadichedha neethonayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసయ్యా యేసయ్యా యేసయ్యా యేసయ్యా"
+      ],
+      "english": [
+        "Yesayya yesayya yesayya yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీవేనయ్యా – నా ప్రాణము",
+        "నీవేనయ్యా – నా స్నేహము",
+        "నీవేనయ్యా – నా సర్వము",
+        "నీవేనయ్యా – నా జీవితము"
+      ],
+      "english": [
+        "Bridge:",
+        "neevenayya – na praanamu",
+        "neevenayya – na snehamu",
+        "neevenayya – na sarwamu",
+        "neekenayya – na jeevithamu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "song_name": "Naa priya Yesu raajaa aaduko",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రియ యేసు రాజా ఆదుకో నన్నెపుడు",
+      "శోధనలో వేదనలో నిను వీడి పోనియ్యకు"
+    ],
+    "english": [
+      "Naa priya Yesu raajaa aaduko nannepudu",
+      "Shodhanalo vedanalo ninu veedi poniyyaku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కలుషితగు ఈ లోక౦ కదిలెను నా కన్నులలో",
+        "మరణ శరీరపు మరులే మెదిలెను నా హ్రుదయములో",
+        "కల్వరిలో ఆదరి౦చు ఆదరి౦చు ఆదరి౦చు"
+      ],
+      "english": [
+        "Kalushithagu ee lokam kadilenu naa kannulalo",
+        "Marana shareerapu marule medilenu naa hrudayamulo",
+        "Kalvarilo aadarinchu aadarinchu aadarinchu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మరచితి నీ వాగ్దాన౦ సడలెను నా విశ్వాస౦",
+        "శ్రమల ప్రవాహపు సుడులే వడిగా నను పెనుగొనగా",
+        "కల్వరిలో ఆదరి౦చు ఆదరి౦చు ఆదరి౦చు"
+      ],
+      "english": [
+        "Marachithi nee vaagdhaanam sadalenu naa vishwaasam",
+        "Shramala pravaahapu sudule vadigaa nanu penugonagaa",
+        "Kalvarilo aadarinchu aadarinchu aadarinchu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నేరము లెన్నో నాపై మోపెను ఆ అపవాది",
+        "తీరని పోరాటములో దూరముగా పరుగిడితి",
+        "కల్వరిలో ఆదరి౦చు ఆదరి౦చు ఆదరి౦చు"
+      ],
+      "english": [
+        "Neramu lenno naapai mopenu aa apavaadi",
+        "Theerani poraatamulo dooramugaa parugidithi",
+        "Kalvarilo aadarinchu aadarinchu aadarinchu"
+      ]
+    }
+  ]
+}

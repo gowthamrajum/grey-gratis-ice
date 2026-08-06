@@ -1,0 +1,61 @@
+{
+  "song_name": "Praardhinchu neevu praardhinchu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Joshua Jessi"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రార్ధించు నీవు ప్రార్ధించు",
+      "ఓ సంఘమా నీవు ప్రార్ధించు",
+      "దేశం కోసం నీవు ప్రార్ధించు",
+      "ఓ సంఘమా నీవు ప్రార్ధించు",
+      "భారతదేశం కొరకు నీవు ప్రార్ధించు",
+      "దేశ విమోచన కొరకు నీవు ప్రార్ధించు"
+    ],
+    "english": [
+      "Praardhinchu neevu praardhinchu",
+      "O sanghamaa neevu praardhinchu",
+      "Desham kosam neevu praardhinchu",
+      "O sanghamaa neevu praardhinchu",
+      "Bhaarathadesham koraku neevu praardhinchu",
+      "Desha vimochana koraku neevu praardhinchu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ రక్షణ కోసం ప్రార్ధించు",
+        "నీ బంధువు కోసం ప్రార్ధించు",
+        "నీ స్థితిగతి కోసం ప్రార్ధించు",
+        "ఓ సంఘమా",
+        "ఐక్యత కొరకు దేశ శాంతి కొరకు  ||ప్రార్ధించు||",
+        "నీ ప్రభుయేసుని ప్రేమ కోసమై ప్రార్ధించు",
+        "నీవు ఎక్కడ ఉన్నా ప్రార్ధించు",
+        "నీవు ఎప్పుడు ఐనా ప్రార్ధించు",
+        "నీవు ఎవరివైన ప్రార్ధించు",
+        "ఓ సంఘమా",
+        "కులమేదైనా నీ మతమేదైనా  ||ప్రార్ధించు||",
+        "మన ప్రభుయేసుని కృప కొరకు నీవు ప్రార్ధించు"
+      ],
+      "english": [
+        "Nee rakshana kosam praardhinchu",
+        "Nee bandhuvu kosam praardhinchu",
+        "Nee sthithigathi kosam praardhinchu",
+        "O sanghamaa",
+        "Aikyatha koraku desha shaanthi koraku  ||Praardhinchu||",
+        "Nee Prabhuyesuni prema kosamai praardhinchu",
+        "Neevu ekkada unnaa praardhinchu",
+        "Neevu eppudu ainaa praardhinchu",
+        "Neevu evarivaina praardhinchu",
+        "O sanghamaa",
+        "Kulamedhainaa nee mathamedhainaa  ||Praardhinchu||",
+        "Mana Prabhuyesuni krupa koraku neevu praardhinchu"
+      ]
+    }
+  ]
+}

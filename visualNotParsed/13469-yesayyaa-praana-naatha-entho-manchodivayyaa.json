@@ -1,0 +1,62 @@
+{
+  "song_name": "Yesayyaa Praana Naathaa Entho Manchodivayyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసయ్యా ప్రాణ నాథా – ఎంతో మంచోడివయ్యా",
+      "సిలువలో ప్రాణం పెట్టినావయ్యా",
+      "రక్తమిచ్చి కొన్నావయ్యా యేసయ్యా",
+      "నన్ను.. రక్తమిచ్చి కొన్నావయ్యా యేసయ్యా",
+      "మరణాంధకారములో పడియున్న వేళ",
+      "ఉదయించినావు ఓ నీతి సూర్యుడా (2)",
+      "కురిసింది కల్వరి ప్రేమ నీ రుధిర ధారలై (2)",
+      "నిను వీడి క్షణమైనా నే బ్రతుకలేను (2) ||యేసయ్యా||"
+    ],
+    "english": [
+      "Yesayyaa praana naathaa – Entho manchodivayyaa",
+      "Siluvalo praanam pettinaavayyaa",
+      "Rakthamichchi konnaavayyaa Yesayyaa",
+      "Nannu.. rakthamichchi konnaavayyaa Yesayyaa",
+      "Maranaandhakaaramulo padiyunna vela",
+      "Udhayinchinaavu o neethi sooryudaa (2)",
+      "Kurisindi Kalvari prema nee rudhira dhaaralai (2)",
+      "Ninu veedi kshanamainaa ne brathukalenu (2) ||Yesayyaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మరణ పాశాలన్ని ఛేదించినావు",
+        "ప్రేమ పాశాలతో దీవించినావు (2)",
+        "నీ ప్రేమ బానిసగా నను చేసుకున్నావు (2)",
+        "మోడైన నా బ్రతుకు చిగురింపజేశావు (2)  ||యేసయ్యా||"
+      ],
+      "english": [
+        "Marana paashaalanni chedhinchinaavu",
+        "Prema paashaalatho deevinchinaavu (2)",
+        "Nee prema baanisagaa nanu chesukunnaavu (2)",
+        "Modaina naa brathuku chigurimpajeshaavu (2) ||Yesayyaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మృతిని గెల్చి లేచావు మహిమను దాల్చావు",
+        "ఈ మట్టి దేహాన్ని మహిమతో నింపావు (2)",
+        "నా సృష్టికర్తవు నా క్రీస్తు నీవు (2)",
+        "రానున్న రారాజు నీ వధువు నేను (2)  ||యేసయ్యా||"
+      ],
+      "english": [
+        "Mruthini gelchi lechaavu mahimanu dhaalchaavu",
+        "Ee matti dehaanni mahimatho nimpaavu (2)",
+        "Naa srushtikarthavu naa Kreesthu neevu (2)",
+        "Raanunna raaraaju nee vadhuvu nenu (2) ||Yesayyaa||"
+      ]
+    }
+  ]
+}

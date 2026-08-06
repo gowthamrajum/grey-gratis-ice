@@ -1,0 +1,52 @@
+{
+  "song_name": "Hosanna Hosanna Rakshakudu",
+  "author": {
+    "Authored by": "Dr. Noah R Ajay Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "గార్ధవముపై వచ్చిన యేసయ్య శాంతి రాజువై భువికి వచ్చినావయ్యా",
+      "గార్ధవముపై వచ్చిన నీ వినయం మా జీవితాలకు మార్గదర్శకం"
+    ],
+    "english": [
+      "Gardhavamupai vachina Yesayya shanthi rajuvai bhuviki vachinavayya",
+      "Gardhavamupai vachina nee vinayam maa jeevithalaku margadarshakam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సాత్వికుడవై దీనత్వము చూపినావు నీ ప్రేమతో లోకాన్ని తాకినావు",
+        "భూలోక రాజ్యము కాదు నీ లక్ష్యం హృదయములో స్థాపించే ప్రేమ రాజ్యం"
+      ],
+      "english": [
+        "Sathvikudavai deenathvamu chupinaavu nee prematho lokanni thakinaavu",
+        "Bhuloka rajyamu kaadu nee lakshyam hrudayamulo sthapinche prema rajyam"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యెరుషలేము వీధుల్లో వెలుగు వచ్చెను హోసన్నా గానాలతో మారుమ్రోగెను",
+        "నిన్ను మోసిన గాడిదకు మహిమ కలిగెను దీనత్వము నీ రాజ్య చిన్హమాయెను"
+      ],
+      "english": [
+        "Yerushemu veedhullo velugu vacchenu Hosanna gaanalatho marumrogenu",
+        "Ninnu mosina gaadidaku mahima kaligenu deenathvamu nee rajya chinhamayenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రాజుగా వచ్చి సేవకుడవైనావు శాంతి సందేశం మాకై తెచ్చినావు",
+        "వినయ స్వరూపుడవు యేసయ్య జీవితాంతము నిన్నే సేవించెదమయ్యా"
+      ],
+      "english": [
+        "Rajugaa vacchi sevakudavainavu shanthi sandesham maakai tecchinaavu",
+        "Vinaya swaroopudavu Yesayya jeevithanthamu ninne sevinchedamayya"
+      ]
+    }
+  ]
+}

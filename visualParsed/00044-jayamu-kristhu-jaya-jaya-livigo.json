@@ -1,0 +1,66 @@
+{
+  "song_name": "Jayamu Kreesthoo jaya jaya livigo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "జయము క్రీస్తూ - జయ జయ లివిగో",
+      "భయము దీరె మరణముతో",
+      "జయము క్రీస్తూ - జయ జయ లివిగో",
+      "భయము దీరె మరణముతో",
+      "సిలువ జయము మాకోసంబే",
+      "తులువ బ్రోవ విజయమహో",
+      "సిలువ జయము మాకోసంబే",
+      "తులువ బ్రోవ విజయమహో",
+      "జయము క్రీస్తూ - జయ జయ లివిగో",
+      "భయము దీరె మరణముతో"
+    ],
+    "english": [
+      "Jayamu Kreesthoo - Jaya jaya livigo",
+      "Bhayamu deere maranamutho",
+      "Jayamu Kreesthoo - Jaya jaya livigo",
+      "Bhayamu deere maranamutho",
+      "Siluva jayamu maakosambe",
+      "Thuluva brova vijayamaho",
+      "Siluva jayamu maakosambe",
+      "Thuluva brova vijayamaho",
+      "Jayamu Kreesthoo - Jaya jaya livigo",
+      "Bhayamu deere maranamutho"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేవా నవ్య సృష్టి - నీవే యిలజేసి",
+        "దేవా నవ్య సృష్టి - నీవే యిలజేసి",
+        "సాతానుని జాడ - సిలువలోనే దునుమాడ",
+        "జయగీతం రహిబాడ  ||జయము||"
+      ],
+      "english": [
+        "Devaa navya srushti - Neeve ilajesi",
+        "Devaa navya srushti - Neeve ilajesi",
+        "Saathaanuni jaada - Siluvalone dunumaada",
+        "Jayageetham rahibaada  ||Jayamu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాతాళము నొంచి - పరలోకము దెరచి",
+        "పాతాళము నొంచి - పరలోకము దెరచి",
+        "పాపాత్ముల కెంత - భాగ్యమెంచె క్షమియించె",
+        "పాడుదమా స్తుతియించి  ||జయము||"
+      ],
+      "english": [
+        "Paathaalamu nonchi - Paralokamu derachi",
+        "Paathaalamu nonchi - Paralokamu derachi",
+        "Paapaathmula kentha - Bhaagyamenche kshamiyinche",
+        "Paadudamaa sthuthiyinchi  ||Jayamu||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "song_name": "Dhorakuthaavuraa Sahoadharaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దొరకుతావురా సహోదరా! దొరుకుతావురా, నీవు",
+      "తరిమి తరిమి కీడుచేయ పరుగులెత్తినగాని తుదకు"
+    ],
+    "english": [
+      "Dhorakuthaavuraa Sahoadharaa! Dhorukuthaavuraa, Neevu",
+      "Tharimi Tharimi Keeduchaeya Paruguleththinagaani Thudhaku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చిన్న చూపు చూచి తమ్ముని కన్నెఱుంగక చంపినగాని",
+        "అన్న కయీను దేవుని హస్తమునకు దొరికిన రీతిగా"
+      ],
+      "english": [
+        "Chinna Choopu Choochi Thammuni Kannerungaka Champinagaani",
+        "Anna Kayeenu Dhaevuni Hasthamunaku Dhorikina Reethigaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వరములొందిన తమ్ముని జంప వలయునని పంతముగబట్టి",
+        "నరకవచ్చిలోబడి యేడ్చిన దురిత చరితుని యేశావువలె"
+      ],
+      "english": [
+        "Varamulondhina Thammuni Jampa Valayunani Panthamugabatti",
+        "Narakavachchiloabadi Yaedchina Dhuritha Charithuni Yaeshaavuvale"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "భక్త దావీదును బట్టి ప్రాణము దీయగ దలచిన",
+        "తన శక్తితో తరిమిన రాజగు సౌలు దొరికినరీతిగాను"
+      ],
+      "english": [
+        "Bhaktha Dhaaveedhunu Batti Praanamu Dheeyaga Dhalachina",
+        "Thana Shakthithoa Tharimina Raajagu Saulu Dhorikinareethigaanu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "విగ్రహమునకు మ్రొక్కని దైవ పిల్లల నగ్నిలోపడవైచి",
+        "ఆగ్రహించిన నెబుకద్నెజరు గడ్డిమోసి దొరికిన విధముగ"
+      ],
+      "english": [
+        "Vigrahamunaku Mrokkani Dhaiva Pillala Nagniloapadavaichi",
+        "Aagrahinchina Nebukadhnejaru Gaddimoasi Dhorikina Vidhamuga"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "క్రైస్తవులను బట్టి కొట్టి ఖైదులో వేయదలచినను",
+        "వాస్తవమగు వెలుగును జూచి ప్రభుని చాటిని పౌలుబోలి"
+      ],
+      "english": [
+        "Kraisthavulanu Batti Kotti Khaidhuloa Vaeyadhalachinanu",
+        "Vaasthavamagu Velugunu Joochi Prabhuni Chaatini Pauluboali"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "కీడుచేయబోకు మెపుడు కీడు నీకే కీడు కీడు",
+        "కీడు చేసినమేలుచేసి కీడును జయింపకపోతే"
+      ],
+      "english": [
+        "Keeduchaeyaboaku Mepudu Keedu Neekae Keedu Keedu",
+        "Keedu Chaesinamaeluchaesi Keedunu Jayimpakapoathae"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "మాటలు కుదిరితే మాటలు కోటలు కుదురును నీకు",
+        "మాటలలో లోటుంటే నోటిమాట తప్పకుండ"
+      ],
+      "english": [
+        "Maatalu Kudhirithae Maatalu Koatalu Kudhurunu Neeku",
+        "Maatalaloa Loatuntae Noatimaata Thappakunda"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "దొంగతనము వ్యభిచారమునకు లొంగి శాపగ్రస్తులునై",
+        "దొంగిలించిన దశమభాగమే లొంగుట కారణమని తుదకు"
+      ],
+      "english": [
+        "Dhongathanamu Vyabhichaaramunaku Longi Shaapagrasthulunai",
+        "Dhongilinchina Dhashamabhaagamae Longuta Kaaranamani Thudhaku"
+      ]
+    },
+    {
+      "stanza_number": 9,
+      "telugu": [
+        "కొంతయిచ్చిన దశభాగ మంత యిదియని తప్పుకున్న",
+        "కొంతయిచ్చిన కయీనువలె కొంతయిచ్చిన అననియవలె"
+      ],
+      "english": [
+        "Konthayichchina Dhashabhaaga Mantha Yidhiyani Thappukunna",
+        "Konthayichchina Kayeenuvale Konthayichchina Ananiyavale"
+      ]
+    },
+    {
+      "stanza_number": 10,
+      "telugu": [
+        "చెడుగుచేసి బదులు దానిని చేసినారని చెప్పమన్న",
+        "వడిగ దేవుని న్యాయమనెడి పరమత్రాసులో నిలువండి"
+      ],
+      "english": [
+        "Cheduguchaesi Badhulu Dhaanini Chaesinaarani Cheppamanna",
+        "Vadiga Dhaevuni Nyaayamanedi Paramathraasuloa Niluvandi"
+      ]
+    }
+  ]
+}

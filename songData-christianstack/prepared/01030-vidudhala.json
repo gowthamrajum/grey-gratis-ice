@@ -1,0 +1,42 @@
+{
+  "song_name": "Vidudhala",
+  "author": {
+    "Authored by": "Joel Kodali",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "వి…. విడుదల (4)",
+      "విడుదల (8)",
+      "విరిగినలిగిన వారికి క్రుంగి కృశించిన వారికి",
+      "పరిశుద్ధుని రక్తము చేత విడుదల",
+      "దుష్టుని చెరలోని వారికి అపవాది పీడుతులందరికి",
+      "శిలువలో దొరికెను శాశ్వత విడుదల",
+      "విడుదల విడుదల విడుదల"
+    ],
+    "english": [
+      "V…. vidudala (4)",
+      "vidudala (8)",
+      "viriginaligina vaariki krungi krusinchina vaariki",
+      "parishuddhuni raktamu cheta vidudala",
+      "dushtuni cheraloni vaariki apavaadhi peeduthulandhariki",
+      "siluvalo dorikenu saasvatha vidudala",
+      "vidudala vidudala vidudala"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సంపూర్ణ విడుదల",
+        "స్వేచ్చను ఇచ్చువాడు",
+        "యేసే యేసే యేసే యేసే || వి…. విడుదల ||"
+      ],
+      "english": [
+        "sampoorna vidudala",
+        "svechanu ichuvaadu",
+        "yese yese yese yese || v…. vidudala ||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "song_name": "Idigo",
+  "author": {
+    "Authored by": "Apostle P.S. Rambabu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ మహిమను చూడాలి",
+      "నీ రాజ్యం రావాలి",
+      "నీ చిత్తం జరగాలి, యేసయ్యా"
+    ],
+    "english": [
+      "Nee mahimanu choodali",
+      "Nee rajyam raavali",
+      "Nee chittham jaragali, yesaiah"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇదిగో, ఇదిగో",
+        "నా ప్రాణం, ఇదిగో",
+        "ఇదిగో, ఇదిగో",
+        "నా సర్వం, ఇదిగో"
+      ],
+      "english": [
+        "Idigo, idigo",
+        "Naa pranam, idigo",
+        "Idigo, idigo",
+        "Naa sarvam, idigo"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసయ్యా, నీ మహిమతో",
+        "ఈ క్షణమే మమ్ము దర్శించు"
+      ],
+      "english": [
+        "Yesaiah, nee mahima tho",
+        "Ee kshaname mammu darshinchu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యేసయ్యా, యేసయ్యా",
+        "ఈ క్షణమే మమ్ము దర్శించు"
+      ],
+      "english": [
+        "Yesaiah, yesaiah"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఇదిగో, ఇదిగో",
+        "నా ప్రాణం, ఇదిగో",
+        "ఇదిగో, ఇదిగో",
+        "నా సర్వం, ఇదిగో"
+      ],
+      "english": [
+        "Ee kshaname mammu darshinchu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [],
+      "english": [
+        "Idigo, idigo",
+        "Naa pranam, idigo",
+        "Idigo, idigo",
+        "Naa sarvam idigo"
+      ]
+    }
+  ]
+}

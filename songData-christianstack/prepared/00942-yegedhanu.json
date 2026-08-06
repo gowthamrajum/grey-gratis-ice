@@ -1,0 +1,48 @@
+{
+  "song_name": "Yegedhanu",
+  "author": {
+    "Authored by": "Joshua Shaik",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏగెదను, నే చేరెదను – సీయోనును నే చూచెదను",
+      "విశ్వాస కర్తయైన నా యేసూ",
+      "నీ సముఖములో నే మురిసెదను",
+      "నీ కౌగిలిలో ఉప్పొంగెదను",
+      "జీవ కిరీటమును నే పొందెదను"
+    ],
+    "english": [
+      "Yegedhanu, ne cheredanu – siyonunu ne choochedanu",
+      "viswaasa karthaina naa yesu",
+      "nee samukamulo ne murisedanu",
+      "nee kougililo uppongedanu",
+      "jeeva keeritamunu ne pondedanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "భూదిగంతములకు నీ కాడిని నే మోయుచున్నాను",
+        "యేసూ నీ యొద్దనే నాకు విశ్రాంతి దొరుకును",
+        "దినదినము నాలో నే చనిపోవుచున్నాను",
+        "అనుదినము నీలో బ్రతుకుచున్నాను",
+        "నా ఆత్మీయ పోరాటములో దేవా నీవే నా కేడెము",
+        "సదా నిన్నే నేను ధరియించి సాగిపోవుచున్నాను",
+        "మంచి పోరాటముతో నా పరుగును కడముట్టించి జయమొందెదను",
+        "విశ్వాసములో జయమొందెదను"
+      ],
+      "english": [
+        "Bhoodhiganthamulaku nee kaadini ne moyuchunnaanu",
+        "yesu nee yoddhane naaku visraanthi dhorukunu",
+        "dinadinamu naalo ne chanipovuchunnanu",
+        "anudinamu neelo brathukuchunnaanu",
+        "Naa aathmeeya poraatamulo deva neeve naa kedemu",
+        "sadha ninne nenu dhariyinchi saagipovuchunnanu",
+        "manchi poraatamutho naa parugunu kadamuttinchi jayamondhedhanu",
+        "viswasamulo jayamondhedhanu"
+      ]
+    }
+  ]
+}

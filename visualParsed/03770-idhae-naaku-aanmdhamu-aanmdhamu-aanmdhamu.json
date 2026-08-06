@@ -1,0 +1,70 @@
+{
+  "song_name": "Idhe naaku aanandamu aanandamu aanandamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శృంగార దేశము చేరగానే నా దుఃఖ బాధలన్నియుపోవున్",
+        "యేసుని యొద్దను నిత్యము నే",
+        "నుండుట మిక్కిలి యాశ్చర్యము",
+        "ఇదే నాకు ఆనందము, ఆనందము, ఆనందము",
+        "నేను ఆయనను జూచుటయే ఇదే నాకు పరమానందము"
+      ],
+      "english": [
+        "Shrungaara deshamu cheragaane naa duhkha baadhalanniyupovun",
+        "Yesuni yoddhanu nithyamu ne",
+        "Nunduta mikkili yaashcharyamu",
+        "Idhe naaku aanandamu, aanandamu, aanandamu",
+        "Nenu aayananu joochutaye idhe naaku paramaanandhamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అమితమైన కృపవలన నన్ను స్వర్గంబున జేర్చుదురు",
+        "అచ్చోటనుండి యేసుని గాంచి",
+        "స్తుతికీర్తనలు పాడుదును"
+      ],
+      "english": [
+        "Amithamaina krupavalana nannu svargambuna jerchudhuru",
+        "Achchotanundi Yesuni gaanchi",
+        "Sthuthikeerthanalu paadudhunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నేను ప్రేమించు స్నేహితులను అక్కడజూచి సంతోషింతును",
+        "నా యేసు ముఖము చూచుటయే",
+        "నిత్యము నాకది యానందము"
+      ],
+      "english": [
+        "Nenu preminchu snehithulanu akkadajoochi santhoshinthunu",
+        "Naa Yesu mukhamu choochutaye",
+        "Nithyamu naakadhi yaanandhamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆ స్వర్గ సౌఖ్య మొందువరకు",
+        "కండ్లతో చూడక పోయినను యేసుని మాటలు గైకొనుచు",
+        "నాత్మతో చూచి సంతోషింతును"
+      ],
+      "english": [
+        "Aa swarga saukhya mondhuvaraku",
+        "Kandlatho choodaka poyinanu Yesuni maatalu gaikonuchu",
+        "Naathmatho choochi santhoshinthunu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "song_name": "Talli Marachina Maruvani Deva Tamdri",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "తల్లి మరచిన మరువని దేవా తండ్రి విడచిన విఢువనిదేవ ఏమని వర్ణింతును నీప్రేమను ఏమని వివరింతును వెకువనె నిను వెదకెదను ప్రభు నీ నామము స్తుతియించుటకు"
+    ],
+    "english": [
+      "Talli marachina maruvani deva tamdri vidachina vidhuvanideva Emani varnimtunu nipremanu emani vivarimtunu Vekuvane ninu vedakedanu prabu ni namamu stutiyimchutaku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవు చేసితివి నాకేన్నో మేలులు నాపై చూపితివి నీఫ్రేమను తొలగిపొయేను నాకష్టాలన్నీ ఆగిపొయేను నా కన్నీరు తొడుగ నా నీడగ నడిపించును నజరేయుడు"
+      ],
+      "english": [
+        "Nivu chesitivi nakenno melulu Napai chupitivi nipremanu Tolagipoyenu nakashtalanni Agipoyenu na kanniru Toduga na nidaga nadipimchunu najareyudu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తేలుసుకున్నాను నా శ్రమల ద్వార ఏంతో మధురమైన నీ ప్రేమను నీవున్న ఇంటిలొ ఏంతో ఆనందం నీవు లేని ఇంటిలొ ఏంతో నరకము విడువక ఎడబాయక నడిపించును నజరేయుడు"
+      ],
+      "english": [
+        "Telusukunnanu na sramala dvara Emto madhuramaina ni premanu Nivunna imtilo emto anamdam Nivu leni imtilo emto narakamu Viduvaka edabayaka nadipimchunu najareyudu"
+      ]
+    }
+  ]
+}

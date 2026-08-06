@@ -1,0 +1,63 @@
+{
+  "song_name": "Yesu Devuni aaraadhikulam venuka choodani sainikulam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు దేవుని ఆరాధికులం వెనుక చూడని సైనికులం (2)",
+      "మరణమైన, శ్రమ ఎదురైన, బెదిరిపోని విశ్వాసులం (2)",
+      "మా యేసుడే మా బలం మా యేసుడే మా జయం (2)",
+      "ప్రాణమిచ్చి, మృతిని గెల్చిన, యేసురాజే మా అతిశయం (2)"
+    ],
+    "english": [
+      "Yesu Devuni aaraadhikulam venuka choodani sainikulam (2)",
+      "Maranamaina, shrama eduraina, bedhiriponi vishwaasulam (2)",
+      "Maa Yesude maa balam maa Yesude maa jayam (2)",
+      "Praanamichchi, mruthini gelchina, Yesuraaje maa athishayam (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "షద్రకు మేషాకు అబెద్నగోలను అగ్నిగుండంలో త్రోయబోగా (2)",
+        "నెబుకద్నెజరుమాకు చింతియే లేదులే మా దేవుడు మమ్మును రక్షించులే (2)",
+        "అని తెగించి, విశ్వసించి, ముగ్గురు నలుగురై జయించిరే (2)"
+      ],
+      "english": [
+        "Shadraku Meshaaku Abednagolanu agnigundamlo throyabogaa (2)",
+        "Nebukadnejaru maaku chinthiye ledule maa Devudu mammunu rakshinchule (2)",
+        "Ani theginchi, vishwasinchi, mugguru nalugurai jayinchire (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శత్రుసైన్యము దండెత్తి వచ్చెగాయెహొషాపాతు ప్రార్ధిన చేసెగా (2)",
+        "యుద్ధం నాదని దేవుడు సెలవిచ్చెగా భయమె లేక వారు జయగీతం పాడగా (2)",
+        "ఆత్మతోడ, స్తుతియిస్తుండ, దేవుడె యుద్ధం జరిగించెగా (గెలిపించెగా) (2)"
+      ],
+      "english": [
+        "Shathrusainyamu dandetthi vachchegaa Yehoshaapaathu praardhana chesegaa (2)",
+        "Yuddham naadani Devudu selavichchegaa bhayame leka vaaru jayageetham paadagaa (2)",
+        "Aathmathoda, sthuthiisthunda, Devude yuddham jariginchegaa (gelipinchegaa) (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "శత్రు గొల్యతు సవాలు విసిరెగా దేవుని ప్రజలంతా మౌనమాయెగా (2)",
+        "ఒక్క దావీదు రోషముతో లేచెగా జీవము గల దేవుని నమాన్ని చాటెగా (2)",
+        "చిన్న రాయి, వడిసె తోడ, ఆత్మశక్తితో జయించెగా (2)"
+      ],
+      "english": [
+        "Shathru Golyathu savaalu visiregaa Devuni prajalanthaa maunamaayegaa (2)",
+        "Okka Daaveedu roshamutho lechegaa jeevamu gala Devuni naamaanni chaategaa (2)",
+        "Chinna raayi, vadise thoda, aathmashakthitho jayinchegaa (2)"
+      ]
+    }
+  ]
+}

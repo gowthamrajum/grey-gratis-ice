@@ -1,0 +1,73 @@
+{
+  "song_name": "Lendee randee bhaavimahonnatha saakshulaaraa lendee",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "లెండీ, రండీ, భావిమహోన్నత సాక్షులారా లెండీ"
+    ],
+    "english": [
+      "Lendee, randee, bhaavimahonnatha saakshulaaraa lendee"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యుగాల పాపముల శ్రంఖలాలు తెగితేలే",
+        "తరతరాల అపవాది తంత్రముల్ - సిలువరక్తముచే తరలిపోయెగా"
+      ],
+      "english": [
+        "Yugaala paapamula shrunkhalaalu thegithele",
+        "Tharatharaala apavaadi thanthramul - Siluvarakthamuche tharalipoyegaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మహిమైశ్వర్యముతో మనలను పిలిచె ప్రభువు",
+        "మహిమ రాజ్యముకు పిలిచిన ప్రభుకు - తగినట్లుగా నడచుకొనెదము"
+      ],
+      "english": [
+        "Mahimaishvaryamutho manalanu piliche prabhuvu",
+        "Mahima raajyamuku pilichina prabhuku - Thaginatlugaa nadachukonedamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మనయందే క్రీస్తు మహిమ నిరీక్షణాయె",
+        "సిగ్గుపరచదు ఈ నిరీక్షణ - పరిశుద్ధాత్మచే మనలో వసించె"
+      ],
+      "english": [
+        "Manayandhe Kreesthu mahima nireekshanaaye",
+        "Sigguparachadhu ee nireekshana - Parishuddhaathmache manalo vasinche"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నిరీక్షణ స్థిరము మన ఆత్మకు లంగరుగా",
+        "శరణాగతులమైన మనకు - వాగ్దానమును స్థిరపరచె గదా"
+      ],
+      "english": [
+        "Nireekshana sthiramu mana aathmaku langarugaa",
+        "Sharanaagathulamaina manaku - Vaagdhaanamunu sthiraparache gadaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "లోకాశల విడచి శుభప్రద నిరీక్షణతో",
+        "క్రీస్తు మహిమ ప్రత్యక్షత కొరకు - ఎల్లప్పుడును ఎదురు చూచెదము"
+      ],
+      "english": [
+        "Lokaashala vidachi shubhaprada nireekshanatho",
+        "Kreesthu mahima prathyakshatha koraku - Ellappudunu eduru choochedhamu"
+      ]
+    }
+  ]
+}

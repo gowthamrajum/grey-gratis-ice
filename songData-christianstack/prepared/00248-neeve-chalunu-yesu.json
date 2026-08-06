@@ -1,0 +1,57 @@
+{
+  "song_name": "Neeve Chalunu Yesu",
+  "author": {
+    "Authored by": "Percy Bhanu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవే చాలును యేసు వెరై ఉండలేను",
+      "నీవే చాలును నిను వీడి బ్రతుకాలేను",
+      "మనసు చెదరిన నీ మాట నిలుచును",
+      "మనుషులంతా వీడిన నీ కృపాయే దాచును"
+    ],
+    "english": [
+      "Neve chaalunu yesu verai undalenu",
+      "neve chaalunu ninu veedi brathukalenu",
+      "manasu chedharina nee maata niluchunu",
+      "manushulanthaa veedina nee krupaye dhaachunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఈ లోక సంపద లేకున్నా మదియందుసంతసముంచావూ",
+        "మనుషులు సాయం రాకున్నా నిరీక్షించు ఓర్పే నేర్పావు",
+        "ఆకాలి వేళలో అద్భుతాలు చేశావు",
+        "నాకున్న లేమిలో నన్ను దివించావు"
+      ],
+      "english": [
+        "Ee loka sampadha lekhunna",
+        "madhiyandhu santhosamunchaavu",
+        "manushulu saayam raakhunna",
+        "nireekshincu oorpe nerpaavu",
+        "akaali velalo adbhutalu chesavu",
+        "naakunna laemilo nannu dhivinchaavu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గత కాల వ్యధలందు మాపై కృపయే కదా ఉంచావు",
+        "మితి మీరే ప్రతి కూల స్తితులపై అధికారమే ఇచ్చావు",
+        "కాలాలు మారిన కోర్కెలు చెదరిన",
+        "బంధాలే వీడిన నీదు ప్రేమ మారదు"
+      ],
+      "english": [
+        "Gatha kaala vyadhalandhu",
+        "maapai krupaye kadha unchaavu",
+        "mithi meere prathi koola sthithulapai",
+        "adhikaarame ichhaavu",
+        "kaalalu maarina korkelu chedharina",
+        "bandhale veedina needhu prema maaradhu"
+      ]
+    }
+  ]
+}

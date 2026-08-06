@@ -1,0 +1,46 @@
+{
+  "song_name": "Mahodhayam shubhodhayam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మహోదయం శుభోదయం సర్వలోకాని కరుణోదయం",
+      "శ్రీయేసు రాజు జన్మ దినం భూప్రజలెల్లరి హృదయానందం"
+    ],
+    "english": [
+      "Mahodhayam shubhodhayam sarvalokaani karunodhayam",
+      "Shreeyesu raaju janma dinam bhooprajalellari hrudhayaanandham"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సర్వలోకాన సువార్త తెల్ప భువికేతించిన మరియ పుత్రుడు",
+        "క్రుపామయుడు సత్య సంపూర్ణుడు క్రీస్తేసు రాజు జన్మ దినం",
+        "ఆ హల్లేలుయా ఆ హల్లేలుయా ఆ హల్లేలుయా ఆ హల్లేలుయా (2)"
+      ],
+      "english": [
+        "Sarvalokaana suvaartha thelpa bhuvikethinchina mariya puthrudu",
+        "Krupaamayudu sathya sampoornudu Kreesthesu raaju janma dinam",
+        "Aa hallelooyaa aa hallelooyaa aa hallelooyaa aa hallelooyaa (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఘోర పాపములోనున్న జనులకు పరలోక జీవ మార్గము చూప",
+        "కరుణామయుడు ఇమ్మానుయేలు అవతరించిన శుభోదయం",
+        "ఆ హల్లేలుయా ఆ హల్లేలుయా ఆ హల్లేలుయా ఆ హల్లేలుయా (2)"
+      ],
+      "english": [
+        "Ghora paapamulonunna janulaku paraloka jeeva maargamu choopa",
+        "Karunaamayudu Immanuyelu avatharinchina shubhodhayam",
+        "Aa hallelooyaa aa hallelooyaa aa hallelooyaa aa hallelooyaa (2)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "song_name": "Namoa Yaesunaadhaa Naadhaa Namoa Jeevanaadhaa",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఇ జి  ఆనందము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "నమో యేసునాధా నాధా నమో జీవనాధా",
+      "సమాన విరహిత సనాతనాత్మా సమున్నతోజ్వల ప్రశాంత ధామా"
+    ],
+    "english": [
+      "Namoa Yaesunaadhaa Naadhaa Namoa Jeevanaadhaa",
+      "Samaana Virahitha Sanaathanaathmaa Samunnathoajvala Prashaantha Dhaamaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "స్థావర జంగమ జగమందున నీ శక్తి స్వరూపము ప్రతిఫలింపగ",
+        "భూ వలయాకాశంబుల మించుచు భువన పాలనముజేసెటి ప్రభువా"
+      ],
+      "english": [
+        "Sthaavara Jangama Jagamandhuna Nee Shakthi Svaroopamu Prathiphalimpaga",
+        "Bhoo Valayaakaashambula Minchuchu Bhuvana Paalanamujaeseti Prabhuvaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ధరణీ మానవ విమోచనార్థము కరుణను జీవము లొసగిన ప్రభువా",
+        "పరమ కృపాభరితా మృతసారా వరసజ్జన హృదయాబ్జ విహారా"
+      ],
+      "english": [
+        "Dharanee Maanava Vimoachanaarthamu Karunanu Jeevamu Losagina Prabhuvaa",
+        "Parama Krupaabharithaa Mruthasaaraa Varasajjana Hrudhayaabja Vihaaraa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సుందర మలయజ గంధ ధూపముల చందముననుమా వినుతులు గొను మా",
+        "వందే దేవ దయాసందీప వందే శుభదానంద స్వరూపా"
+      ],
+      "english": [
+        "Sundhara Malayaja Gandha Dhoopamula Chandhamunanumaa Vinuthulu Gonu Maa",
+        "Vandhae Dhaeva Dhayaasandheepa Vandhae Shubhadhaanandha Svaroopaa"
+      ]
+    }
+  ]
+}

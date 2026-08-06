@@ -1,0 +1,53 @@
+{
+  "song_name": "Neevu thodundagaa naaku digulundunaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవు తోడుండగా నాకు దిగులుండునా",
+      "నా మంచి యేసయ్యా",
+      "మనసారా స్తోత్రమయా (2) ||నీవు తోడుండగా||"
+    ],
+    "english": [
+      "Neevu thodundagaa naaku digulundunaa",
+      "Naa manchi Yesayyaa",
+      "Manasaaraa sthothramayaa (2) ||Neevu thodundagaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవంటి వారెవ్వరు",
+        "నీ తోటి సాటెవ్వరు (2)",
+        "నా జీవితాన – నీవే ప్రభువా (2)",
+        "నాకెవ్వరు లేరు ఇలలో (2)",
+        "హాలెలూయా హాలెలూయా హల్లెలూయా (3)",
+        "హల్లెలూయా హల్లెలూయా హాలెలూయా  ||నీవు||",
+        "మనుషులలో మహనీయుడా",
+        "వేల్పులలో ఘణ పూజ్యుడా (2)",
+        "సర్వాధికారి సర్వాంతర్యామి (2)",
+        "చేసెద నీ పాద సేవ (2)",
+        "హాలెలూయా హాలెలూయా హల్లెలూయా (3)",
+        "హల్లెలూయా హల్లెలూయా హాలెలూయా  ||నీవు||"
+      ],
+      "english": [
+        "Neevanti vaarevvaru",
+        "Nee thoti saatevvaru (2)",
+        "Naa jeevithaana – Neeve Prabhuvaa (2)",
+        "Naakevvaru leru ilalo (2)",
+        "Haaleluyaa haaleluyaa halleluyaa (3)",
+        "Halleluyaa halleluyaa haaleluyaa ||Neevu||",
+        "Manushulalo mahaneeyudaa",
+        "Velpulalo ghana poojyudaa (2)",
+        "Sarvaadhikaari sarvaantharyaami (2)",
+        "Cheseda nee paada seva (2)",
+        "Haaleluyaa haaleluyaa halleluyaa (3)",
+        "Halleluyaa halleluyaa haaleluyaa ||Neevu||"
+      ]
+    }
+  ]
+}

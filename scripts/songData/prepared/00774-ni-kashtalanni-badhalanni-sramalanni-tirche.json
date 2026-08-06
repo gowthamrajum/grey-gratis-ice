@@ -1,0 +1,47 @@
+{
+  "song_name": "Ni Kashtalanni Badhalanni Sramalanni Tirche",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ కష్టాలన్నీ బాధలన్నీ శ్రమలన్నీ తీర్చే ఆ నాధుడు యేసే",
+      "ఆది నుండి ఉన్నవాడు",
+      "ఆ దేవుడు అద్భుతాలు చేసేవాడు నా యేసుడు"
+    ],
+    "english": [
+      "Ni Kashtalanni Badhalanni Sramalanni Tirche Aa Nadhudu Yese",
+      "Adi Numdi Unnavadu",
+      "A Devudu Adbutalu Chesevadu Na Yesudu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఈ లోక బంధాలన్నీ నీకున్న స్నేహాలన్నీ",
+        "నీవు కూర్చే భోగలన్నీ ప్రేరు ప్రఖ్యాతలన్నీ",
+        "ఇవన్నీ నిన్ను రక్షింపలేవు రక్షకుడు శ్రీ యేసే"
+      ],
+      "english": [
+        "I Loka Bamdhalanni Nikunna Snehalanni",
+        "Nivu Kurche Bogalanni Preru Prakyatalanni",
+        "Ivanni Ninnu Rakshimpalevu Rakshakudu Sri Yese"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "క్షణమాత్రం నీదు జీవితం ఈనాడే యేసుని చేరు",
+        "నీవు పొందే విడుదల చూడు నీకు లేదు వేరే మార్గం",
+        "ఆలస్యం చేయకు ఇక సమయం లేదు యేసు చెంతకు చేరు"
+      ],
+      "english": [
+        "Kshanamatram Nidu Jivitam Inade Yesuni Cheru",
+        "Nivu Pomde Vidudala Chudu Niku Ledu Vere Margam",
+        "Alasyam Cheyaku Ika Samayam Ledu Yesu Chemtaku Cheru"
+      ]
+    }
+  ]
+}

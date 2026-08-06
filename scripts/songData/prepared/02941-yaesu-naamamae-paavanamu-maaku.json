@@ -1,0 +1,63 @@
+{
+  "song_name": "Yaesu Naamamae Paavanamu Maaku",
+  "author": {
+    "Authored by": "",
+    "రచన": "పురుషోత్తమ చౌధరి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు నామమే పావనము మాకు యేసు గద నిత్య జీవనము",
+      "దాస జన హృద్వికాసమైయెల్ల దోసములకు వి నాశకరమైన"
+    ],
+    "english": [
+      "Yaesu Naamamae Paavanamu Maaku Yaesu Gadha Nithya Jeevanamu",
+      "Dhaasa Jana Hrudhvikaasamaiyella Dhoasamulaku Vi Naashakaramaina"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సాధు మానసోల్లాసములు యేసు నాధు గుణ చిద్విలాసములు",
+        "బోధఁ గొను వారి బాధ వెడలించి మాధుర్యమగు ముక్తి సాధనములిచ్చు."
+      ],
+      "english": [
+        "Saadhu Maanasoallaasamulu Yaesu Naadhu Guna Chidhvilaasamulu",
+        "Boadha Gonu Vaari Baadha Vedalinchi Maadhuryamagu Mukthi Saadhanamulichchu."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "భక్త జన లోక పూజ్యములు రక్త సిక్త పాదపయోజములు",
+        "ముక్త రాజ్యాభి షిక్తుఁడౌ సర్వ శక్తి యుతుఁడైన సామియగు క్రీస్తు"
+      ],
+      "english": [
+        "Bhaktha Jana Loaka Poojyamulu Raktha Siktha Paadhapayoajamulu",
+        "Muktha Raajyaabhi Shikthudau Sarva Shakthi Yuthudaina Saamiyagu Kreesthu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దీన జన నిత్య తోషణము సిల్వ మ్రాని ప్రభు మృత్యు ఘోషణము",
+        "పానకము జుంటి తేనియల స్వాదు వీనులను గ్రోలు మానవుల కెల్ల"
+      ],
+      "english": [
+        "Dheena Jana Nithya Thoashanamu Silva Mraani Prabhu Mruthyu Ghoashanamu",
+        "Paanakamu Junti Thaeniyala Svaadhu Veenulanu Groalu Maanavula Kella"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పాపులకు మంచి పక్షములు ముక్తిఁ జూపు క్రీస్తు కటాక్షములు",
+        "పాప సందోహ కూపమునఁ గూలు కాపురుషు నన్నుఁగాచుకొనిప్రోచు"
+      ],
+      "english": [
+        "Paapulaku Manchi Pakshamulu Mukthi Joopu Kreesthu Kataakshamulu",
+        "Paapa Sandhoaha Koopamuna Goolu Kaapurushu Nannugaachukoniproachu"
+      ]
+    }
+  ]
+}

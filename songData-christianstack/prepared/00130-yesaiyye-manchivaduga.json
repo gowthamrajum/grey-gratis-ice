@@ -1,0 +1,49 @@
+{
+  "song_name": "Yesaiyye Manchivaduga",
+  "author": {
+    "Authored by": "Pastor Vinod Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా యేసయ్యే మంచివాడుగా",
+      "నా యేసయ్యే గొప్పవాడుగా",
+      "నా యేసయ్యే మంచివాడుగా",
+      "నా యేసయ్యే గొప్పవాడుగా"
+    ],
+    "english": [
+      "Naa yesayye manchivaadugaa",
+      "naa yesayye goppavaadugaa",
+      "naa yesayye manchivaadugaa",
+      "naa yesayye goppavaadugaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎన్ని శ్రమలైనా భయము లేదుగా",
+        "నాకు జయమిచ్చే యేసుండగా",
+        "ఎంత కష్టమైనా దిగులు లేదుగా",
+        "నా యేసయ్య తోడుండగా"
+      ],
+      "english": [
+        "Enni shramalainaa bhayamu ledhugaa",
+        "naaku jayamicche yesundagaa",
+        "entha kashtamainaa dhigulu ledhugaa",
+        "naa yesayya thodundagaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా యేసయ్యే మంచివాడుగా",
+        "నా యేసయ్యే గొప్పవాడుగా"
+      ],
+      "english": [
+        "Naa yesayye manchivaadugaa",
+        "naa yesayye goppavaadugaa"
+      ]
+    }
+  ]
+}

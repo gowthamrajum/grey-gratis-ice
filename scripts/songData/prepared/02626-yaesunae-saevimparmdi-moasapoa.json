@@ -1,0 +1,52 @@
+{
+  "song_name": "Yaesunae Saevimparandi Moasapoakandi",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఎన్ డి ఏబెల్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసునే సేవింపరండి మోసపోకండి ప్రభు",
+      "దోసములను బాపు నండి దొడ్డ ప్రభువండి ప్రభు"
+    ],
+    "english": [
+      "Yaesunae Saevimparandi Moasapoakandi Prabhu",
+      "Dhoasamulanu Baapu Nandi Dhodda Prabhuvandi Prabhu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేవుఁ డీతఁడే సుమండి దిగులుపడకండి మన",
+        "చావు నొంది లేచెనండి జీవ మితఁడండి ప్రభు"
+      ],
+      "english": [
+        "Dhaevu Deethadae Sumandi Dhigulupadakandi Mana",
+        "Chaavu Nondhi Laechenandi Jeeva Mithadandi Prabhu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపులను ప్రేమించె నండి ప్రాణ మిడె నండి ప్రభు",
+        "దాపుఁజేరి వేఁ డ రండి దయామయుఁడండి ప్రభు"
+      ],
+      "english": [
+        "Paapulanu Praeminche Nandi Praana Mide Nandi Prabhu",
+        "Dhaapujaeri Vae Da Randi Dhayaamayudandi Prabhu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నరకబాధ నొందె నండి నరులకొర కండి ప్రభు",
+        "దురితములను బాపు నండి దుఃఖపడకండి ప్రభు"
+      ],
+      "english": [
+        "Narakabaadha Nondhe Nandi Narulakora Kandi Prabhu",
+        "Dhurithamulanu Baapu Nandi Dhuhkhapadakandi Prabhu"
+      ]
+    }
+  ]
+}

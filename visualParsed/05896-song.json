@@ -1,0 +1,76 @@
+{
+  "song_name": "Raali podhuvo neevu koolipodhuvo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాలి పోదువో నీవు కూలిపోదువో",
+      "తెలియదురా నీకు ఏగడియో",
+      "పువ్వు రాలు విదముగారాలి పోదువో",
+      "అయ్యో మానవా మాయరా, మాయరా ఇది మాయరా \"రాలిపో\""
+    ],
+    "english": [
+      "Raali podhuvo neevu koolipodhuvo",
+      "Theliyadhuraa neeku egadiyo",
+      "Puvvu raalu vidhamugaa raali podhuvo",
+      "Ayyo maanavaa maayaraa, maayaraa idhi maayaraa \"Raalipo\""
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రేపు నీది కాదని తెలుసుకో - మునగకురా నీవు బ్రతుకవురా",
+        "ఒట్టిదిరా నీవు మట్టివిరా (2)",
+        "అయ్యో మానవా మాయరా ఇది మాయరా \"రాలిపో\""
+      ],
+      "english": [
+        "Repu needi kaadani thelusuko - Munagakuraa neevu brathukavuraa",
+        "Ottidhiraa neevu mattiviraa (2)",
+        "Ayyo maanavaa maayaraa idhi maayaraa \"Raalipo\""
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కోరకురా నీవు కోర్కెలనూ - ఉండవురా నీవు మన్నేరా",
+        "కుండవురా నీవు పగిలెదవు (2)",
+        "అయ్యో మానవా మాయరా,మాయరా ఇది మాయరా \"రాలిపో\""
+      ],
+      "english": [
+        "Korakuraa neevu korkelanoo - Undavuraa neevu manneraa",
+        "Kundavuraa neevu pagiledhavu (2)",
+        "Ayyo maanavaa maayaraa,maayaraa idhi maayaraa \"Raalipo\""
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీవు పోయినపుడు ఏడ్చెదరేగాని - ఎవ్వరు రారయ్య నీ వెంట",
+        "ఎందరు వున్న ఒక్కడివే (2)",
+        "అయ్యో మానవా మాయరా,మాయరా ఇది మాయరా \"రాలిపో\""
+      ],
+      "english": [
+        "Neevu poyinapudu edchedharegaani - Evvaru raarayya nee venta",
+        "Endaru vunna okkadive (2)",
+        "Ayyo maanavaa maayaraa,maayaraa idhi maayaraa \"Raalipo\""
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "భార్యభిడ్డలు మాయరా - లోక నివాసులు మాయరా",
+        "మర్చిపోదురు నిన్ను ఒక దినము (2)",
+        "అయ్యో మానవా మాయరా,మాయరా ఇది మాయరా \"రాలిపో\""
+      ],
+      "english": [
+        "Bhaaryabiddalu maayaraa - Loka nivaasulu maayaraa",
+        "Marchipodhuru ninnu oka dinamu (2)",
+        "Ayyo maanavaa maayaraa,maayaraa idhi maayaraa \"Raalipo\""
+      ]
+    }
+  ]
+}

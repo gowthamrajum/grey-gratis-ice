@@ -1,0 +1,50 @@
+{
+  "song_name": "Naa paadamulaku deepam naa throvalaku",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా పాదములకు దీపం నా త్రోవలకు వెలుగు (2)",
+      "నా ప్రాణమునకు జీవం నా యేసయ్య నీ వాక్యం (2)"
+    ],
+    "english": [
+      "Naa paadamulaku deepam naa throvalaku velugu (2)",
+      "Naa praanamunaku jeevam naa Yesayya nee vaakyam (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "భుమి కంటే ఆకాశం ఎంత ఉన్నతం",
+        "నా దోషములను అంత దూర పరచితివే",
+        "నీ కిచ్చిన రక్షణ కొరకై నేనేమి చెల్లింతును",
+        "రక్షణ పాత్ర చేత పట్టుకొని స్తోత్రము చేసెదన్"
+      ],
+      "english": [
+        "Bhoomi kante aakaasham entha unnatham",
+        "Naa doshamulanu antha dhoora parachithive",
+        "Nee kichchina rakshana korakai nenemi chellinthunu",
+        "Rakshana paathra chetha pattukoni sthothramu chesedan"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాలో ఉన్న ఆశలను నెరవెర్చితివే",
+        "నా ఆలోచన సఫల పరచితివే",
+        "నీ సేవకై నా జీవితం నేను అర్పింతును",
+        "నా ప్రాణ అత్మ దేహమును నీకై అర్పింతును"
+      ],
+      "english": [
+        "Naalo unna aashalanu neraverchithive",
+        "Naa aalochana saphala parachithive",
+        "Nee sevakai naa jeevitham nenu arpinthunu",
+        "Naa praana aathma dehamunu neekai arpinthunu"
+      ]
+    }
+  ]
+}

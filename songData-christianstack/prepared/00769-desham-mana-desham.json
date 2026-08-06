@@ -1,0 +1,78 @@
+{
+  "song_name": "Desham Mana Desham",
+  "author": {
+    "Authored by": "Merlyn Salvadi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "వందేమాతరం వందేమాతరం వందేమాతరం"
+    ],
+    "english": [
+      "Vande Mataram Vande Mataram Vande Mataram"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేశం మన దేశం",
+        "ఈ భారతదేశం",
+        "ఈ దేశమును నీవు ప్రేమిస్తే",
+        "ప్రార్ధించు నీవు మరువక",
+        "యేసయ్యా వింటాడు",
+        "మన దేశమును దీవిస్తాడు"
+      ],
+      "english": [
+        "Desham mana desham",
+        "ee bhaarathadesham",
+        "ee deshamunu neevu premisthe",
+        "praardhinchu neevu maruvaka",
+        "yesayyaa vintaadu",
+        "mana deshamunu dheevisthaadu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఈ దేశం ఈ దేశం",
+        "ఈ దేశం మన దేశం"
+      ],
+      "english": [
+        "Ee desham ee desham",
+        "Ee desham mana desham"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వందేమాతరం వందేమాతరం వందేమాతరం"
+      ],
+      "english": [
+        "vandeamaataram vandeamaataram vandeamaataram"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీది ఇండియా నాది ఇండియా అందరి ఇండియా",
+        "నీది ఇండియా నాది ఇండియా మనదే ఇండియా"
+      ],
+      "english": [
+        "Needi india naadi india andari india",
+        "needi india naadi india manadhe india"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఈ దేశం మన దేశం",
+        "భారతదేశం"
+      ],
+      "english": [
+        "Ee desham mana desham",
+        "bhaaratha desham"
+      ]
+    }
+  ]
+}

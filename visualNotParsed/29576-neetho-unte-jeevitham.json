@@ -1,0 +1,80 @@
+{
+  "song_name": "Neetho unte jeevitham",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Raj Prakash Paul"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీతో ఉంటే జీవితం",
+      "వేదనైనా రంగుల పయనం",
+      "నీతో ఉంటే జీవితం",
+      "భాటేదైనా పువ్వుల కుసుమం ( 2)",
+      "నువ్వే నా ప్రాణాధారము…",
+      "నువ్వే నా జీవధారము (2)"
+    ],
+    "english": [
+      "Neetho unte jeevitham",
+      "Vedanainaa rangula payanam",
+      "Neetho unte jeevitham",
+      "Bhaatedhainaa puvvula kusumam ( 2)",
+      "Nuvve naa praanaadhaaramu…",
+      "Nuvve naa jeevadhaaramu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నువ్వే లేకపోతే నేను జీవించలేను",
+        "నువ్వే లేకపోతే నేను బ్రతుకలేను",
+        "నువ్వే లేక పోతే నేను ఊహించలేను",
+        "నువ్వే లేక పోతే నేను లేనేలేను (2)",
+        "నిను విడిచిన క్షణమే",
+        "ఒక యుగమై గడచె నా జీవితము",
+        "చెదరిన నా బ్రతుకే",
+        "నిన్ను వెతికే నీ తోడు కోసం(2)",
+        "( నువ్వే నా ప్రాణాధారము )"
+      ],
+      "english": [
+        "Nuvve lekapothe nenu jeevinchalenu",
+        "Nuvve lekapothe nenu brathukalenu",
+        "Nuvve leka pothe nenu oohinchalenu",
+        "Nuvve leka pothe nenu lenelenu (2)",
+        "Ninu vidichina kshaname",
+        "Oka yugamai gadache naa jeevithamu",
+        "Chedarina naa brathuke",
+        "Ninnu vethike nee thodu kosam(2)",
+        "( Nuvve naa praanaadhaaramu )"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీతో నేను జీవిస్థాలే కల కాలము",
+        "నిన్నే నేను ప్రేమిస్తానే చిరకాలము",
+        "లోకంలో నేనెన్నో వేతికా అంత శూన్యము",
+        "చివరికీ నువ్వే నిలిచవే సదాకాలము (2)",
+        "నిను విడువను దేవా",
+        "నా ప్రభువా నా ప్రాణనాధ",
+        "నీ చేతితో మలచి",
+        "నను విరచి సరిచేయునాధ (2)",
+        "( నువ్వే నా ప్రాణాధారము )"
+      ],
+      "english": [
+        "Neetho nenu jeevisthaane kala kaalamu",
+        "Ninne nenu premisthaane chirakaalamu",
+        "Lokamlo nenenno vethikaa antha shoonyamu",
+        "Chivarikee nuvve nilichave sadaakaalamu (2)",
+        "Ninu viduvanu Deva",
+        "Naa Prabhuvaa naa praananaadha",
+        "Nee chethitho malachi",
+        "Nanu virachi saricheyunaadha (2)",
+        "( Nuvve naa praanaadhaaramu )"
+      ]
+    }
+  ]
+}

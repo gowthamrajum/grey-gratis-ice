@@ -1,0 +1,71 @@
+{
+  "song_name": "Vekuvachukkala shreshthamau dhaanaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "రెజినాల్డ్ హెబర్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "వేకువచుక్కల శ్రేష్ఠమౌ దానా!",
+      "మా యిరుల్ బాపి నీ సాయమిమ్ము",
+      "ప్రాగ్దిశ తార దిజ్మండల భూషా",
+      "మా బాలరక్షకు జూపింపుమా."
+    ],
+    "english": [
+      "Vekuvachukkala shreshthamau dhaanaa!",
+      "Maa yirul baapi nee saayamimmu",
+      "Praagdhisha thaara dhijmandala bhooshaa",
+      "Maa baalarakshaku joopimpumaa."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చల్లమంచాయన తొట్టిపై నొప్పు",
+        "పశులతో భువిబరుండెను",
+        "కున్నెడు నాయన దూతల మ్రొక్కు",
+        "నందర స్రష్ట, రాజు, రక్షణ."
+      ],
+      "english": [
+        "Challamanchaayana thottipai noppu",
+        "pashulatho bhuvibarundenu",
+        "kunnedu naayana doothala mrokku",
+        "nandhara srashta, raaju, rakshana."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆయనకు మంచికాన్కలిత్తమా!",
+        "ఏదోం సువాసనల ద్రివసుల్",
+        "వార్ది ముత్యాల్ కానబోళంబుఖని",
+        "స్వర్ణము నిత్తమా యాయనకు."
+      ],
+      "english": [
+        "Aayanaku manchikaankalitthamaa!",
+        "Edhom suvaasanala dhrivasul",
+        "Vaardhi muthyaal kaanabolambukhani",
+        "svarnamu nitthamaa yaayanaku."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నిష్ఫలమే యన్ని శ్రేష్ఠార్పణలు",
+        "కాన్కల నాయన ప్రేమరాదు",
+        "అన్నిట డెందము బీదల మొరల్",
+        "దేవుని కిష్టము లౌకాన్కలు."
+      ],
+      "english": [
+        "Nishphalame yanni shreshthaarpanalu",
+        "kaankala naayana premaraadhu",
+        "annita dendhamu beedhala moral",
+        "Devuni kishtamu laukaankalu."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "song_name": "Parama thandri suthudu praanamichchene paapi korakai",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరమ తండ్రి సుతుడు ప్రాణమిచ్చెనే - పాపి కొరకై"
+    ],
+    "english": [
+      "Parama thandri suthudu praanamichchene - paapi korakai"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వినుము సోదరా - వింతవార్తను దేవదేవుడే - త్యాగమాయెను",
+        "ఆ - దేవుడే దయతో నన్ను వెదకి వచ్చెగా"
+      ],
+      "english": [
+        "Vinumu sodaraa - vinthavaarthanu Dhevadhevude - thyaagamaayenu",
+        "Aa - Devude dayatho nannu vedaki vachchegaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కల్వరి ప్రభున్ - గాంచు సోదరా వ్రేలాడెను - యేసునాథుడు",
+        "నా - పాపముల్ సిలువలో మోసె నేసు కల్వరిన్"
+      ],
+      "english": [
+        "Kalvari Prabhun - gaanchu sodaraa vrelaadenu - Yesunaathudu",
+        "Naa - paapamul siluvalo mose Nesu Kalvarin"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దేహమంతయున్ - గాయమొందెనే నా రోగమున్ బాగుచేసెనే",
+        "నా శాపమున్ బాపెను మోసె నెల్ల బాధలన్"
+      ],
+      "english": [
+        "Dhehamanthayun - gaayamondhene naa rogamun baaguchesene",
+        "Naa shaapamun baapenu mose nella baadhalan"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మహిన్ ప్రేమచే - మహిమ విడచెనే - మాత వలెనే - మమ్ము బ్రోచెనే",
+        "ఇ - మ్మహియందు ఎన్నడున్ కాననట్టి కార్యమే"
+      ],
+      "english": [
+        "Mahin premache - mahima vidachene - maata valene - mammu brochene",
+        "I - mmahiyandhu ennadun kaananatti kaaryame"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యేసు ప్రభుకై - ఏమి చేతును - దీన మనసుతో - సేవజేతును",
+        "నన్ - నిరతము గాచును ఎల్లవేళ కొల్లగన్"
+      ],
+      "english": [
+        "Yesu Prabhukai - emi chethunu - deena manasutho - sevajethunu",
+        "Nan - nirathamu gaachunu ellavela kollagan"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "song_name": "Nee valle nee valle naa kintha santhoshamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ వల్లే నీ వల్లే యేసయ్య - నా కింత సంతోషము (2)"
+    ],
+    "english": [
+      "Nee valle nee valle Yesayya - Naa kintha santhoshamu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కనుపాపలాగ నను ప్రతి దినము - హల్లేలూయ",
+        "కనుపాపలాగ నను ప్రతి క్శనమ్ ము",
+        "కనుపాపలాగ నను ప్రతి దినము - హల్లేలూయ",
+        "కనుపాపలాగ నను ప్రతి క్శనమ్ ము"
+      ],
+      "english": [
+        "Kanupaapalaaga nanu prathi dinamu - Hallelooya",
+        "Kanupaapalaaga nanu prathi kshanamu",
+        "Kanupaapalaaga nanu prathi dinamu - Hallelooya",
+        "Kanupaapalaaga nanu prathi kshanamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నను లాలించి పోషించి కాపాడినావే",
+        "నను దీవించి కరుణించి బలపరిచిలావే"
+      ],
+      "english": [
+        "Nanu laalinchi poshinchi kaapaadinaave",
+        "Nanu deevinchi karuninchi balaparichinaave"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అలసి సోలసిన ఈ జీవితానా - ఆశలన్ని అడిఆశలవ్వగ",
+        "అలసి సోలసిన ఈ జీవితానా - ఆశలన్ని అడిఆశలవ్వగ",
+        "నా ఆశ నీవైతివే నన్నాదరించితివే",
+        "నా ఆశ నీవైతివే నన్నాదరించితివే ''  ||నీ||"
+      ],
+      "english": [
+        "Alasi solasina ee jeevithaanaa - Aashalanni adiyaashalavvaga",
+        "Alasi solasina ee jeevithaanaa - Aashalanni adiyaashalavvaga",
+        "Naa aasha neevaithive nannaadharinchithive",
+        "Naa aasha neevaithive nannaadharinchithive ''  ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "చెలిమి కలిమి లేని నాకు - ఒంటరైనా నా జీవితానికి",
+        "చెలిమి కలిమి లేని నాకు - ఒంటరైనా నా జీవితానికి",
+        "నా హితునిగా ఉంటివే నను నిలువబెట్టితివే",
+        "నా హితునిగా ఉంటివే నను నిలువబెట్టితివే \"  ||నీ||"
+      ],
+      "english": [
+        "Chelimi kalimi leni naaku - Ontarainaa naa jeevithaaniki",
+        "Chelimi kalimi leni naaku - Ontarainaa naa jeevithaaniki",
+        "Naa hithunigaa untive nanu niluvabettithive",
+        "Naa hithunigaa untive nanu niluvabettithive \"  ||Nee||"
+      ]
+    }
+  ]
+}

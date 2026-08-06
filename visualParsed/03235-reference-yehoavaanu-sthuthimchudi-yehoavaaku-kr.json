@@ -1,0 +1,80 @@
+{
+  "song_name": "Yehovaaku kroththa keerthana paadudi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవాకు క్రొత్త కీర్తన పాడుడి - యెహోవాను స్తుతించుడి",
+      "భక్తులు కూడుకొను సమాజములో - స్తోత్రగీతము పాడుడి"
+    ],
+    "english": [
+      "Yehovaaku kroththa keerthana paadudi - Yehovaanu sthuthinchudi",
+      "Bhakthulu koodukonu samaajamulo - Sthothrageethamu paadudi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇశ్రాయేలీయులు తమ సృష్టికర్తను",
+        "బట్టి సంతోషించెదరు గాక",
+        "సీయోను జనులు తమ రాజును బట్టి",
+        "ఆనందించుచు నుందురు గాక"
+      ],
+      "english": [
+        "Ishraayeleeyulu thama srushtikarthanu",
+        "Batti santhoshinchedaru gaaka",
+        "Seeyonu janulu thama raajunu batti",
+        "Aanandhinchuchu nundhuru gaaka"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాట్యముతో వారు తన నామమును",
+        "శ్రేష్ఠముగా స్తుతింతురు గాక",
+        "తంబురతోను సితారాతోను",
+        "తనివి తీర పాడుదురు గాక"
+      ],
+      "english": [
+        "Naatyamutho vaaru thana naamamunu",
+        "Shreshthamugaa sthuthinthuru gaaka",
+        "Thamburathonu sithaaraathonu",
+        "Thanivi theera paadudhuru gaaka"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యెహోవా ఆయన ప్రజల యందు",
+        "మహా ప్రేమ కలిగినవాడు",
+        "ఆయన బీదలను రక్షణతో",
+        "అందముగ అలంకరించును"
+      ],
+      "english": [
+        "Yehova aayana prajala yandu",
+        "Mahaa prema kaliginavaadu",
+        "Aayana beedhalanu rakshanatho",
+        "Andhamuga alankarinchunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "భక్తులందరును ఘనతనొంది",
+        "నిత్యము ప్రహర్షింతురు గాక",
+        "సంతోషభరితులై పడకల మీద",
+        "వింత గానము చేతురు గాక"
+      ],
+      "english": [
+        "Bhakthulandharunu ghanathanondhi",
+        "Nithyamu praharshinthuru gaaka",
+        "Santhoshabharithulai padakala meeda",
+        "Vintha gaanamu chethuru gaaka"
+      ]
+    }
+  ]
+}

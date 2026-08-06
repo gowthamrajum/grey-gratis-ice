@@ -1,0 +1,53 @@
+{
+  "song_name": "Dhaevaathma Jayoa Dheenadhayaa",
+  "author": {
+    "Authored by": "",
+    "రచన": "చెట్టి భానుమూర్తి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవాత్మ జయో దీనదయాళూ పావనాత్మ మము బ్రోచితహో నీవే గదా మా నిజరక్షణకై జీవమీయ ధర జేరితహో||"
+    ],
+    "english": [
+      "dhaevaathma jayoa dheenadhayaaLoo paavanaathma mamu broachithahoa neevae gadhaa maa nijarakShNakai jeevameeya Dhara jaerithahoa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సుగుణాత్ములలో సుగుణము నీవే నిగమము లెరుగని నీతివహో సుజనాత్ముల కిల సుజ్ఞానాత్మవు సవినయ భక్తికి సారమహో||"
+      ],
+      "english": [
+        "suguNaathmulaloa suguNamu neevae nigamamu lerugani neethivahoa sujanaathmula kila sujnYaanaathmavu savinaya bhakthiki saaramahoa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పేదలలో నిరు పేదవు నీవే సాధులలో ఘన సాధువహో మోదమలర మా ముక్తిని గూర్చిన సాధు పేదజన సోదరహో||"
+      ],
+      "english": [
+        "paedhalaloa niru paedhavu neevae saaDhulaloa ghana saaDhuvahoa moadhamalara maa mukthini goorchina saaDhu paedhajana soadharahoa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దీనాత్ములలో దీనుడవై భవదీయ దయారస ధారలహో దినదిన మొసగిన దేవాత్మజ యిమ్మాను యేలు వం దనములహో||"
+      ],
+      "english": [
+        "dheenaathmulaloa dheenudavai bhavadheeya dhayaarasa Dhaaralahoa dhinadhina mosagina dhaevaathmaja yimmaanu yaelu vM dhanamulahoa||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పరమ పూజ్యుడా పరిమిత ప్రేమాభరితుడ సంస్థవ పాత్రుడహో నిరతము నిన్నేమరక నుతిం చెద నరజన గణముల నేస్తడహో||"
+      ],
+      "english": [
+        "parama poojyudaa parimitha praemaabharithuda sMsThava paathrudahoa nirathamu ninnaemaraka nuthiM chedha narajana gaNamula naesthadahoa||"
+      ]
+    }
+  ]
+}

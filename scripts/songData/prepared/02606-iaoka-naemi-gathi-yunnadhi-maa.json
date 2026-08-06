@@ -1,0 +1,49 @@
+{
+  "song_name": "Ika Naemi Gathi Yunnadhi",
+  "author": {
+    "Authored by": "",
+    "రచన": "పురుషోత్తము చౌదరి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇఁక నేమి గతి యున్నది మానవులారా యిఁక నేమి గతి యున్నది",
+      "పాపులకోస మిఁక నేమి గతి యున్నది",
+      "యొకఁ డైనఁ ఋణ్యాత్ముఁ డుర్వి లేఁడని ముందె ప్రకటించి",
+      "దావీదు పల్కె వేదము నందు"
+    ],
+    "english": [
+      "Ika Naemi Gathi Yunnadhi Maanavulaaraa Yika Naemi Gathi Yunnadhi",
+      "Paapulakoasa Mika Naemi Gathi Yunnadhi",
+      "Yoka Daina Runyaathmu Durvi Laedani Mundhe Prakatinchi",
+      "Dhaaveedhu Palke Vaedhamu Nandhu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇల రక్షకుఁడు లేమిని గొఱ్ఱెల మంద లిలఁ జెల్ల చెదు రాయెను",
+        "పులులఁ బోలిన దైవ ములు గురువులు పెక్కు గల రేల",
+        "వారు పద్దతి జూప జాలరు"
+      ],
+      "english": [
+        "Ila Rakshakudu Laemini Gorrela Mandha Lila Jella Chedhu Raayenu",
+        "Pulula Boalina Dhaiva Mulu Guruvulu Pekku Gala Raela",
+        "Vaaru Padhdhathi Joopa Jaalaru"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దురితము లణఁగింపఁగఁ బాపుల నెల్ల దరిఁ జేర్చి బ్రతికింపగ",
+        "పర మేశ్వరుఁడు తన వరపుత్రుఁ డగు క్రీస్తున్ ధర కంపె",
+        "నయ్యేసు శరణుఁ జొరకయున్న"
+      ],
+      "english": [
+        "Dhurithamu Lanagimpaga Baapula Nella Dhari Jaerchi Brathikimpaga",
+        "Para Maeshvarudu Thana Varaputhru Dagu Kreesthun Dhara Kampe",
+        "Nayyaesu Sharanu Jorakayunna"
+      ]
+    }
+  ]
+}

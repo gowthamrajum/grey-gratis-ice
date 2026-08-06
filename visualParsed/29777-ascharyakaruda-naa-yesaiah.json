@@ -1,0 +1,67 @@
+{
+  "song_name": "Ascharyakaruda naa Yesayya",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దయచూపువాడవు నీవేనయ్యా",
+      "అద్భుతకరుడా నా యేసయ్యా",
+      "ప్రేమించువాడవు నీవేనయ్యా"
+    ],
+    "english": [
+      "Dhayachoopuvaadavu neevenayyaa",
+      "Adbhuthakarudaa naa Yesayyaa",
+      "Preminchuvaadavu neevenayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా ప్రార్ధనలన్నీ నీవు ఆలకించుమయ్యా",
+        "నా జీవితాన్ని అద్భుతంగా మార్చుమయ్యా",
+        "నీవే ప్రార్ధనలను ఆలకించువాడవు",
+        "నీవే జీవితాలను మార్చువాడవు"
+      ],
+      "english": [
+        "Naa praardhanalannee neevu aalakinchumayyaa",
+        "Naa jeevithaanni adbhuthangaa maarchumayyaa",
+        "Neeve praardhanalanu aalakinchuvaadavu",
+        "Neeve jeevithaalanu maarchuvaadavu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా హృదయమును నూతనపరచుమయ్యా",
+        "ప్రతి దినము బాగుగా శుద్ధిచేయుమయ్యా",
+        "నీవే నూతనకార్యం చేయువాడవు",
+        "నీవే హృదయాన్ని శుద్ధి చేయువాడవు"
+      ],
+      "english": [
+        "Naa hrudayamunu noothanaparachumayyaa",
+        "Prathi dinamu baagugaa shuddhicheyumayyaa",
+        "Neeve noothanakaaryam cheyuvaadavu",
+        "Neeve hrudayaanni shuddhi cheyuvaadavu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "లోక ఆశలపై విజయం దయచేయుమయ్యా",
+        "పరలోకమార్గంలో నన్ను నడిపించుమయ్యా",
+        "నీవే లోకాశలపై విజయమిచ్చువాడవు",
+        "నీవే పరలోకానికి నడిపించువాడవు"
+      ],
+      "english": [
+        "Loka aashalapai vijayam dhayacheyumayyaa",
+        "Paralokamaargamlo nannu nadipinchumayyaa",
+        "Neeve lokaashalapai vijayamichchuvaadavu",
+        "Neeve paralokaaniki nadipinchuvaadavu"
+      ]
+    }
+  ]
+}

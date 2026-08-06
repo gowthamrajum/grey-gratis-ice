@@ -1,0 +1,52 @@
+{
+  "song_name": "Jo jo laali baala Yesu laali",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "జో జో లాలి (2)",
+      "బాల యేసు లాలి నను గన్న నా తండ్రి లాలి",
+      "నా గారాల తనయా లాలి.. జో జో.. జో జో.. జోజో.."
+    ],
+    "english": [
+      "Jo jo laali (2)",
+      "Baala Yesu laali nanu ganna naa thandri laali",
+      "Naa gaaraala thanayaa laali.. jo jo.. jo jo.. jojo.."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జగతిని ఏలే నీవు జననిగనను ఎంచితివి",
+        "పేదరాలిని నేను పొత్తిబట్టలు పరచితివి",
+        "తల దాచు చోటులేక తల్లడిల్లిపోతిని",
+        "వాడ వాడ వెదకినను పశులపాకె నెల వాయె"
+      ],
+      "english": [
+        "Jagathini ele neevu jananiga nanu enchithivi",
+        "Pedharaalini nenu potthibattalu parachithivi",
+        "Thala daachu chotuleka thalladillipothini",
+        "Vaada vaada vedhakinanu pashulapaaka nelavaaye"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నింగినేల నీ సొంతమైన ఇసుమంతా చోటు నీకు లేదాయే",
+        "తారపు వెలుగులు యిచ్చిన నీకే చిరుదీపమేనాడు కరువాయె",
+        "ఎవరి కొరకు నీవస్తావో వారెవరికి కానరా రాయె",
+        "అన్ని ఉన్న దేవుడవు లేనివానిగా జన్మించితివి"
+      ],
+      "english": [
+        "Ninginela nee sonthamaina isumanthaa chotu neeku ledaaye",
+        "Thaarapu velugulu ichchina neeke chirudheepame naadu karuvaaye",
+        "Evari koraku neevasthaavo vaarevariki kaanaraaraaye",
+        "Anni unna Devudavu lenivaanigaa janminchithivi"
+      ]
+    }
+  ]
+}

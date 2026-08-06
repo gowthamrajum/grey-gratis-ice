@@ -1,0 +1,45 @@
+{
+  "song_name": "Kirtaniyuda Na Shalemu Raja Vadhimpabadina",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కీర్తనీయుడా నా షాలేము రాజా వధింపబడిన గొర్రెపిల్ల . .",
+      "నా స్తుతులకు యోగ్యుడా ఆమేన్ ఆమేన్ హల్లెలూయా . ."
+    ],
+    "english": [
+      "Kirtaniyuda Na Shalemu Raja Vadhimpabadina Gorrepilla . .",
+      "Na Stutulaku Yogyuda Amen Amen Halleluya . ."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "బలియైపోతివా ప్రాణనాధుడా నీ రక్తము నిచ్చి నన్ను రక్షించావు",
+        "నీ సిలువ దర్శనమే నా రక్షణాధారం",
+        "నీ శ్రమలే నా విశ్వాస ఆ యుధం ఆమేన్ ఆమేన్ హల్లెలూయా . ."
+      ],
+      "english": [
+        "Baliyaipotiva Prananadhuda Ni Raktamu Nichchi Nannu Rakshimchavu",
+        "Ni Siluva Darsaname Na Rakshanadharam",
+        "Ni Sramale Na Visvasa A Yudham Amen Amen Halleluya . ."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆరాధింతును ఆత్మరూపుడా నా హృదయ వీణపై నీవే జీవన యాగం",
+        "సజీవయాగముగా నీ సిల్వలో ప్రాణార్పణముగా నే పోయ బడుదును",
+        "ఆమేన్ ఆమేన్ హల్లెలూయా . ."
+      ],
+      "english": [
+        "Aradhimtunu Atmarupuda Na Hrudaya Vinapai Nive Jivana Yagam",
+        "Sajivayagamuga Ni Silvalo Pranarpanamuga Ne Poya Badudunu",
+        "Amen Amen Hallelujah . ."
+      ]
+    }
+  ]
+}

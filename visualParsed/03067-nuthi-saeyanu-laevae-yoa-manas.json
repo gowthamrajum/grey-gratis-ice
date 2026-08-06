@@ -1,0 +1,74 @@
+{
+  "song_name": "Nuthi seyanu leve yo manasaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "వంతగాని పరదేశి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నుతి సేయను లేవే యో మనసా నుతిఁజేయను లేవే క్షితిని దివిని",
+      "హితమతిఁ బ్రోచెడి సుతుని జనకుని శుద్ధాత్మునిఁ ద్ర్యేకుని ||నుతి||"
+    ],
+    "english": [
+      "Nuthi seyanu leve yo manasaa nuthijeyanu leve kshithini divini",
+      "Hithamathi brochedi suthuni janakuni shuddhaathmuni dhryekuni ||Nuthi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సూర్యుని కాంతి సొంపగు పంటలు సుకాలక్షేమముల్ శోభిలు",
+        "గేహమున్ ఆర్య సాంగత్యము నైశ్వర్యముల నిల ననుభవింపవె నీవా",
+        "యాఢ్యుని పేర్మిని  ||నుతి||"
+      ],
+      "english": [
+        "Sooryuni kaanthi sompagu pantalu sukaalakshemamul shobhilu",
+        "Gehamun aarya saangathyamu naishwaryamula nila nanubhavimpave neevaa",
+        "Yaadhyuni permini ||Nuthi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దురితము లందె దుర్గతి నున్న నీ కురుతర ప్రేమను బరమార్థ",
+        "మీయను వరపుత్రు నొసఁగఁడె వందనీయుఁడు ప్రభు మరిమరి",
+        "మ్రొక్కు మా పరమోపకారిని  ||నుతి||"
+      ],
+      "english": [
+        "Dhurithamu landhe dhurgathi nunna nee kuruthara premanu baramaartha",
+        "Meeyanu varaputhru nosagade vandhaneeyudu Prabhu marimari",
+        "Mrokku maa paramopakaarini ||Nuthi||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "జీవము జ్ఞానము జీవము నొసంగెడు పావనాత్మను నీకై పంపిన",
+        "దేవుడు కేవల దోష స్వ భావము మార్చఁడె సేవ జేయుమ నీవా",
+        "పావనమూర్తికి  ||నుతి||"
+      ],
+      "english": [
+        "Jeevamu gnaanamu jeevamu nosangedu paavanaathmanu neekai pampina",
+        "Devudu kevala dosha swa bhaavamu maarchade seva jeyuma neevaa",
+        "Paavanamoorthiki ||Nuthi||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కరములు పదముల్ కనకాదు లన్నియు స్వరమును చిత్తము స్థిరమగు",
+        "ప్రేమయు మరి నీదు హృదయము పరమాత్ము సేవకై పరిపూర్ణముగ",
+        "నిచ్చి ప్రణుతించు మాయనన్  ||నుతి||"
+      ],
+      "english": [
+        "Karamulu padhamul kanakaadhu lanniyu swaramunu chitthamu sthiramagu",
+        "Premayu mari needu hrudayamu paramaathmu sevakai paripoornamuga",
+        "Nichchi pranuthinchu maayanan ||Nuthi||"
+      ]
+    }
+  ]
+}

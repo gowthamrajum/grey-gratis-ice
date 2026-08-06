@@ -1,0 +1,63 @@
+{
+  "song_name": "Chaethuleththi Vandhanamulu Chaethu Mipudae",
+  "author": {
+    "Authored by": "",
+    "రచన": "నరెళ్ల సమూయేలు సుబ్బయ్య"
+  },
+  "main_stanza": {
+    "telugu": [
+      "చేతులెత్తి వందనములు చేతు మిపుడే యేసు నీకు",
+      "రాతిరి పగ లందు మముఁ బ్రీతితోఁ గాపాడు యేసు"
+    ],
+    "english": [
+      "Chaethuleththi Vandhanamulu Chaethu Mipudae Yaesu Neeku",
+      "Raathiri Paga Landhu Mamu Breethithoa Gaapaadu Yaesu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సుఖమైనట్టి నిద్ర మమ్ము నొందఁజేసి రాత్రియందు",
+        "సకల మేలు లంద జేయు స్వామి యేసుక్రీస్తూ నీకుఁ"
+      ],
+      "english": [
+        "Sukhamainatti Nidhra Mammu Nondajaesi Raathriyandhu",
+        "Sakala Maelu Landha Jaeyu Svaami Yaesukreesthoo Neeku"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అన్నవస్త్రములను మాకు నన్ని వేళలందు నిచ్చి",
+        "కన్న తండ్రివలెను బెంచు చున్న యేసుస్వామీ నీకే"
+      ],
+      "english": [
+        "Annavasthramulanu Maaku Nanni Vaelalandhu Nichchi",
+        "Kanna Thandrivalenu Benchu Chunna Yaesusvaamee Neekae"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "విద్యా బుద్ధులన్ని యిచ్చి వింత వింత వరము లిచ్చి",
+        "పెద్దల దయలోనుమమ్ముఁ బెంపారఁ జేయు మేసయ్యా"
+      ],
+      "english": [
+        "Vidhyaa Buddhulanni Yichchi Vintha Vintha Varamu Lichchi",
+        "Peddhala Dhayaloanumammu Bempaara Jaeyu Maesayyaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "చిన్నవారి స్నేహితుడుగ నున్న యేసుస్వామీ నీకు",
+        "ఎన్నో వేల స్తోత్రంబులు నిలలో నెపుడు కలుగుగాక"
+      ],
+      "english": [
+        "Chinnavaari Snaehithuduga Nunna Yaesusvaamee Neeku",
+        "Ennoa Vaela Sthoathrambulu Nilaloa Nepudu Kalugugaaka"
+      ]
+    }
+  ]
+}

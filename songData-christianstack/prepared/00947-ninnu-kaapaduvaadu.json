@@ -1,0 +1,32 @@
+{
+  "song_name": "Ninnu Kaapaduvaadu",
+  "author": {
+    "Authored by": "Shulamite Pachigalla",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిను కాపాడువాడు",
+      "కునుకడు నిదురపోడు",
+      "యెహోవాయే నిను నిత్యము కాపాడున్"
+    ],
+    "english": [
+      "Ninu kaapaadu vaadu",
+      "kunukadu nidhurapodu",
+      "yehovaa ye ninu nithyamu kaapaadun"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేవా నా దేవా నా ఆశ్రయము నీవే",
+        "దేవా నా దేవా నా సమస్తము నీవే"
+      ],
+      "english": [
+        "Devaa naa devaa naa aasrayamu neeve",
+        "Devaa naa devaa naa samasthamu neeve"
+      ]
+    }
+  ]
+}

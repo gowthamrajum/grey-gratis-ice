@@ -1,0 +1,65 @@
+{
+  "song_name": "Randi randi randayo rakshakudu puttenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "రండి రండి రండయో రక్షకుడు పుట్టెను (2)",
+      "రక్షకుని చూడను రక్షణాలు పొందను (2) ||రండి||"
+    ],
+    "english": [
+      "Randi randi randayo rakshakudu puttenu (2)",
+      "Rakshakuni choodanu rakshanaalu pondhanu (2) ||Randi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యూదుల యూదట రాజుల రాజట (2)",
+        "రక్షణాలు ఇవ్వను వచ్చియున్నాడట (2)",
+        "యూదుల యూదట రాజుల రాజట (2)",
+        "రక్షణాలు ఇవ్వను వచ్చియున్నాడట (2)  ||రండి||"
+      ],
+      "english": [
+        "Yoodula yoodhata raajula raajata (2)",
+        "Rakshanaalu ivvanu vachchiyunnaadata (2)",
+        "Yoodula yoodhata raajula raajata (2)",
+        "Rakshanaalu ivvanu vachchiyunnaadata (2) ||Randi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బెత్లెహేము ఊరిలో బీద కన్య మరియకు (2)",
+        "పశువుల శాలలో శిశువుగా పుట్టెను (2)",
+        "బెత్లెహేము ఊరిలో బీద కన్య మరియకు (2)",
+        "పశువుల శాలలో శిశువుగా పుట్టెను (2)  ||రండి||"
+      ],
+      "english": [
+        "Bethlehemu oorilo beeda kanya Mariyaku (2)",
+        "Pashuvula shaalalo shishuvugaa puttenu (2)",
+        "Bethlehemu oorilo beeda kanya Mariyaku (2)",
+        "Pashuvula shaalalo shishuvugaa puttenu (2) ||Randi||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సాతాను సంతలో సంతోషమేదిరా (2)",
+        "సంతోషం కలదురా శ్రీ యేసుని రాకలో (2)",
+        "సాతాను సంతలో సంతోషమేదిరా (2)",
+        "సంతోషం కలదురా శ్రీ యేసుని రాకలో (2)  ||రండి||"
+      ],
+      "english": [
+        "Saathaanu santhalo santhoshamedhiraa (2)",
+        "Santhosham kaladhuraa Sree Yesuni raakalo (2)",
+        "Saathaanu santhalo santhoshamedhiraa (2)",
+        "Santhosham kaladhuraa Sree Yesuni raakalo (2) ||Randi||"
+      ]
+    }
+  ]
+}

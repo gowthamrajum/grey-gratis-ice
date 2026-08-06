@@ -1,0 +1,67 @@
+{
+  "song_name": "Naa devuni gudaaramulo naa Yesuni nivaasamulo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా దేవుని గుడారములో – నా యేసుని నివాసములో (2)",
+      "ఎంతో సంతోషం – ఎంతో ఆనందం (2)",
+      "నా యేసుని నివాసములో (2) ||నా దేవుని||"
+    ],
+    "english": [
+      "Naa devuni gudaaramulo – Naa Yesuni nivaasamulo (2)",
+      "Entho santhosham – Entho aanandam (2)",
+      "Naa Yesuni nivaasamulo (2) ||Naa devuni||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సీయోను మార్గములందు – సహాయకుడవు నీవే కదా",
+        "రాత్రి జాముల యందు- నా తోడు నీడవు నీవే కదా (2)",
+        "నా కొండ నీవేగా – నా కోట నీవేగా (2)",
+        "నా యేసు రక్షకా నీవే కదా (2)  ||నా||"
+      ],
+      "english": [
+        "Seeyonu maargamulandhu – Sahaayakudavu neeve kadaa",
+        "Raathri jaamula yandu- Naa thodu needavu neeve kadaa (2)",
+        "Naa konda neevegaa – Naa kota neevegaa (2)",
+        "Naa Yesu rakshakaa neeve kadaa (2)  ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా యేసు సన్నిధి యందు – నేను పరవశమొందెదను",
+        "నా యేసు స్వరమును వినుచు – నేను కాలము మరచెదను (2)",
+        "నా గానమాయెనే – నా ధ్యానమాయెనే (2)",
+        "నాదు స్వరము నా ప్రభువే (2)  ||నా||"
+      ],
+      "english": [
+        "Naa Yesu sannidhi yandu – Nenu paravashamondhedhanu",
+        "Naa Yesu swaramunu vinuchu – Nenu kaalamu marachedhanu (2)",
+        "Naa gaanamaayene – Naa dhyaanamaayene (2)",
+        "Naadu swaramu naa Prabhuve (2)  ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆనంద తైలము నందు – నన్ను అభిషేకించెనుగా",
+        "నాదు వస్త్రము నందు – అగరు వాసన నింపెనుగా (2)",
+        "నా ప్రాణ నాథుడా – నా ప్రేమ పాత్రుడా (2)",
+        "నా యేసు నాథుడా నీవే కదా (2)  ||నా||"
+      ],
+      "english": [
+        "Aananda thailamu nandu – Nannu abhishekinchenugaa",
+        "Naadu vasthramu nandu – Agaru vaasana nimpenugaa (2)",
+        "Naa praana naathudaa – Naa prema paathrudaa (2)",
+        "Naa Yesu naathudaa neeve kadaa (2)  ||Naa||"
+      ]
+    }
+  ]
+}

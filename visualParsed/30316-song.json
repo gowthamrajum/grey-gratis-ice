@@ -1,0 +1,159 @@
+{
+  "song_name": "Naalone neevu unnaavu Yesayya",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నాలోనే",
+      "నీవున్నావు యేసయ్యా",
+      "నీ ప్రేమనే",
+      "నాలో ఉంచావు",
+      "నీలోనే నన్ను దాచావు యేసయ్యా",
+      "నీ కృపలో నన్ను కాచావు",
+      "ఆరాధన",
+      "నీకే యేసయ్యా",
+      "నా ఆరాధన",
+      "నీకే యేసయ్యా"
+    ],
+    "english": [
+      "Naalone",
+      "neevunnaavu Yesayyaa",
+      "Nee premane",
+      "naalo unchaavu",
+      "Neelone nannu daachaavu Yesayyaa",
+      "Nee krupalo nannu kaachaavu",
+      "Aaraadhana",
+      "neeke Yesayyaa",
+      "Naa aaraadhana",
+      "neeke Yesayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అబ్రహాముపై",
+        "మానని కృప చూపావు",
+        "యేసయ్య",
+        "విశ్వాసులకు",
+        "తండ్రిగా చేసావు",
+        "అబ్రహాముపై",
+        "మానని కృప చూపావు",
+        "యేసయ్య విశ్వాసులకు కు తండ్రిగా",
+        "చేసావు",
+        "ఆరాధన",
+        "నీకే",
+        "యేసయ్యా",
+        "నా ఆరాధన",
+        "నీకే యేసయ్యా  ||నాలోనే||",
+        "నీవు ఉన్నావు యేసయ్యా  ||నాలోనే||"
+      ],
+      "english": [
+        "Abrahaamupai",
+        "maanani krupa choopaavu",
+        "Yesayya",
+        "vishvaasulaku",
+        "thandrigaa chesaavu",
+        "Abrahaamupai",
+        "maanani krupa choopaavu",
+        "Yesayya vishvaasulaku ku thandrigaa",
+        "chesaavu",
+        "Aaraadhana",
+        "neeke",
+        "Yesayyaa",
+        "Naa aaraadhana",
+        "neeke Yesayyaa  ||Naalone||",
+        "Neevu unnaavu Yesayyaa  ||Naalone||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మోషే పై నీ కృప ఉంచావు",
+        "యేసయ్య",
+        "నీ ప్రజలను రక్షించే నాయకుడిగా",
+        "చేసావు",
+        "మోషేపై",
+        "నీ కృప ఉంచావు",
+        "యేసయ్య",
+        "నీ ప్రజలను రక్షించే నాయకుడిగా",
+        "చేసాను",
+        "ఆరాధన",
+        "నీకే యేసయ్యా",
+        "నా ఆరాధన",
+        "నీకే యేసయ్యా  ||నాలోనే||",
+        "నీవు ఉన్నావు యేసయ్యా",
+        "నీ ప్రేమలో",
+        "ఓ  ||నాలోనే||"
+      ],
+      "english": [
+        "Moshe pai nee krupa unchaavu",
+        "Yesayya",
+        "nee prajalanu rakshinche naayakudigaa",
+        "chesaavu",
+        "Moshepai",
+        "nee krupa unchaavu",
+        "Yesayya",
+        "nee prajalanu rakshinche naayakudigaa",
+        "chesaanu",
+        "Aaraadhana",
+        "neeke Yesayyaa",
+        "Naa aaraadhana",
+        "neeke Yesayyaa  ||Naalone||",
+        "Neevu unnaavu Yesayyaa",
+        "Nee premalo",
+        "o  ||Naalone||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దావీదుపై శాశ్వత కృప చూపావు",
+        "యేసయ్య",
+        "నీ ప్రజలకు రాజుగా చేసావు"
+      ],
+      "english": [
+        "Dhaaveedhupai shaashwatha krupa choopaavu",
+        "Yesayya",
+        "nee prajalaku raajugaa chesaavu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దావీదుపై శాశ్వత కృప చూపావు",
+        "యేసయ్య",
+        "నీ ప్రజలకు రాజుగా చేసావు",
+        "ఆరాధన నీకే యేసయ్యా",
+        "నా ఆరాధన",
+        "నీకే",
+        "యేసయ్యా  ||నాలోనే||"
+      ],
+      "english": [
+        "Dhaaveedhupai shaashwatha krupa choopaavu",
+        "Yesayya",
+        "nee prajalaku raajugaa chesaavu",
+        "Aaraadhana neeke Yesayyaa",
+        "Naa aaraadhana",
+        "neeke",
+        "Yesayyaa  ||Naalone||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీవు ఉన్నావు యేసయ్యా",
+        "నీ ప్రేమనే  ||నాలోనే||",
+        "ఉంచావు  ||నాలోనే||"
+      ],
+      "english": [
+        "Neevu unnaavu Yesayyaa",
+        "Nee premane  ||Naalone||",
+        "unchaavu  ||Naalone||"
+      ]
+    }
+  ]
+}

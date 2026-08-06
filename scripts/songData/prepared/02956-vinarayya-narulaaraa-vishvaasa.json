@@ -1,0 +1,74 @@
+{
+  "song_name": "Vinarayya Narulaaraa Vishvaasamuna",
+  "author": {
+    "Authored by": "",
+    "రచన": "పురుషోత్తము చౌధరి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "వినరయ్య నరులారా విశ్వాసమున క్రీస్తు విమల బోధ",
+      "పాప మనుజుల కెల్ల పా వన జీవనము సేయు వసుధ మీఁద"
+    ],
+    "english": [
+      "Vinarayya Narulaaraa Vishvaasamuna Kreesthu Vimala Boadha",
+      "Paapa Manujula Kella Paa Vana Jeevanamu Saeyu Vasudha Meedha"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపాత్ములను పశ్చా త్తాపము పడుఁడంచు బ్రభువు దెల్పెన్",
+        "దన దాపు గోరినవారిఁ గాపాడుటకుఁ దానే దక్షుడయ్యెన్"
+      ],
+      "english": [
+        "Paapaathmulanu Pashchaa Ththaapamu Padudanchu Brabhuvu Dhelpen",
+        "Dhana Dhaapu Goarinavaari Gaapaadutaku Dhaanae Dhakshudayyen"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "భారాక్రాంతులైన పాపులఁ దనుఁ జేరఁ బ్రభువు పిల్చెన్",
+        "శ్రమలు దూరంబుఁ జేసిత ద్దురితముల్ బాపి సం తోష మియ్యన్"
+      ],
+      "english": [
+        "Bhaaraakraanthulaina Paapula Dhanu Jaera Brabhuvu Pilchen",
+        "Shramalu Dhoorambu Jaesitha Ddhurithamul Baapi Sam Thoasha Miyyan"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అనుమానింపక నెవ్వ రైన వచ్చినఁ ద్రోయ ననుచుఁ బల్కెన్",
+        "పెక్కు మనుజుల కొఱకు జీ వన మియ్యనే వచ్చి తనుచుఁ దెల్పెన్"
+      ],
+      "english": [
+        "Anumaanimpaka Nevva Raina Vachchina Dhroaya Nanuchu Balken",
+        "Pekku Manujula Koraku Jee Vana Miyyanae Vachchi Thanuchu Dhelpen"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మనసారదేవునిన్ మానక ప్రేమింపు మనుచునేర్పెన్",
+        "ఇంకఁ దన పోల్కె నొరులకు దాను బ్రేమింపగ దనర దెల్పెన్"
+      ],
+      "english": [
+        "Manasaaradhaevunin Maanaka Praemimpu Manuchunaerpen",
+        "Inka Dhana Poalke Norulaku Dhaanu Braemimpaga Dhanara Dhelpen"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "తన శిష్యులకు నైక్య మును బ్రేమించుట కాజ్ఞ లొనర నిచ్చె నెంతో",
+        "ఘన సత్ప్రభువు కాళ్లు గడిగి భక్తులచోట వినతుఁ డయ్యెన్"
+      ],
+      "english": [
+        "Thana Shishyulaku Naikya Munu Braeminchuta Kaagnya Lonara Nichche Nenthoa",
+        "Ghana Sathprabhuvu Kaallu Gadigi Bhakthulachoata Vinathu Dayyen"
+      ]
+    }
+  ]
+}

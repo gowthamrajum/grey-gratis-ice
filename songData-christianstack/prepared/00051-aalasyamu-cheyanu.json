@@ -1,0 +1,64 @@
+{
+  "song_name": "Aalasyamu Cheyanu",
+  "author": {
+    "Authored by": "Venkat Reddy P",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆలస్యము చేయను నా తండ్రి – నిన్ను ఆరాధించుటలో",
+      "ఆశ్రయించితిని నిన్నేకదా – తప్పిదములు తెలుసుకొని"
+    ],
+    "english": [
+      "Aalasyamu cheyanu naa tandri – ninnu aaradhinchutalo",
+      "Aashrayinchitini ninnekadaa – thappidamulu telusukoni"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తండ్రి ఇంటిని నే విడచి – లోకపు ఆశలను అనుసరించితిని",
+        "తప్పిపోయిన కుమారుడను, నీరాజ్యమునకు అయోగ్యుడను.",
+        "శరణు జోడితిని దేవా – నా తప్పిదములు తెలుసుకొని,",
+        "ఆలస్యము చేయను తండ్రి – నిన్ను స్తుతించుటలో …."
+      ],
+      "english": [
+        "Tandri intini ne vidachi – lokapu aashalanu anusarinchitini",
+        "Thappipoyina kumaarudanu, nee raajyamunaku ayogyudanu.",
+        "Sharanu joditini Devaa – naa thappidamulu telusukoni,",
+        "Aalasyamu cheyanu tandri – ninnu stutinchutalo"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా వలన పొందిన గాయములను గుర్తించలేని పాపిని",
+        "నా కొరకు చిందిన రక్తమును వ్యర్థము చేసితిని.",
+        "మారుమనస్సు పొందితిని ప్రభూ – నా తప్పిదములు తెలుసుకొని",
+        "ఆలస్యము చేయను తండ్రి – నిన్ను మహిమ పరచుటలో …"
+      ],
+      "english": [
+        "Naa valana pondina gaayamulanu gurtinchaleni paapini",
+        "Naa koraku chindina raktamunu vyarthamu chesitini.",
+        "Maaru manassu ponditini Prabhu – naa thappidamulu telusukoni",
+        "Aalasyamu cheyanu tandri – ninnu mahima parachutalo"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రచురింతును నిరతము – నీవు సిలువలో చేసిన బలియాగమును",
+        "వాక్యమునే అనుసరింతును – నీ కృపతో తుది వరకు పోరాడెదను.",
+        "నిన్నే ఆశ్రయించితిని స్వామి – నా తప్పిదములు తెలుసుకొని,",
+        "ఆలస్యము చేయను తండ్రి – నిన్ను ఘనపరచుటలో …."
+      ],
+      "english": [
+        "Prachurintunu niratamu – neevu siluvalo chesina baliyaagamunu",
+        "Vaakyamune anusarinthunu – nee krupatho thudi varaku poraadedanu.",
+        "Ninne aashrayinchitini Swaami – naa thappidamulu telusukoni,",
+        "Aalasyamu cheyanu tandri – ninnu ghanaparachutalo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+source_id,song_name,author,stanzas,main_te_lines,main_en_lines,warnings
+3,Parishudhdha Prabhuvaa Parishudhdha Prabhuvaa Vara,,4,1,1,unbroken-lines
+4,Andhaala Thaara Arudenche Naaki,A B  Masilamani,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+5,Aparaadini Yesaiah,,5,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=5 en=0
+6,Aadedhan Paadehan,,2,1,1,unbroken-lines; stanza-count-mismatch te=2 en=0
+7,Athyunatha Simhasanamu Pai,,4,2,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=4 en=0
+8,Anni Namamula Kanna Pai Namamu,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+9,Aaradhinchedan Ninnu Naa Yesaiah,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+21,Alayamlo Pravesinchandi Andharu,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+22,Ascharya Mina Prema,,4,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=4 en=0
+23,Aaha Mahaanandame,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+24,Idi Kothaku Samayam,,3,1,0,no-english-lyrics; stanza-count-mismatch te=3 en=0
+25,Udhayakanthi Rekalo,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+26,Unnanthamyna Prema Dm,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+27,Unnathamyna Sthalamulalo Cm,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+28,Oohala Kandhani Lokamulo,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+29,Enduko Naninthaaga Neevu,,0,1,1,unbroken-lines
+30,Enni Thalachina,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+31,Oka Saari Aalochinchava,,3,2,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+32,O Neethi Suryuda,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+33,O Yesu Divya Prema,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+34,Oranna Oranna,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+35,Kanumaa Siluva Pai,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+36,Kaluvari Girilona,,2,1,0,no-english-lyrics; stanza-count-mismatch te=2 en=0
+37,Kaluvari Giri Siluvalo,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+38,Halleluaya Ani Paduuchu,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+39,Kristhu Nedu Lechenu,,4,0,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=4 en=0
+40,Prema Kaligi Sathyamu Palukuchu,Pastor N J Simon,0,1,1,unbroken-lines
+41,Ghanamainavi Nee Kaaryamulu Naa Yedala,,0,1,1,unbroken-lines
+42,Gesthemane Thota,,2,3,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+43,Chirakaala Snehithudaa,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+44,Jayamu Kristhu Jaya Jaya Livigo,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+45,Jayahe Jayahe,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+46,Jeeva Nadhini,,0,1,0,no-english-lyrics; unbroken-lines
+47,Dhevuni Vaarasulam,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+48,Divam Prema Swaroopam,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+49,Nannethagano Preminchinaavu,,4,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=4 en=0
+50,Naa Pere Theliyani,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+51,Naa Yesu Raju,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+52,Nine Preminthunu,,3,3,0,no-english-lyrics; stanza-count-mismatch te=3 en=0
+53,Nithyudyna Dhevuni Thodu O,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+54,Neeti Yuta Yodha,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+55,Neeti Vaagula Koraku,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+56,Neevu Nirminchina Dhevalayamulo,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+57,Nee Swaramu Vinipinchu,,4,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=4 en=0
+58,Neelakasamlona Nigikegasina Thaara,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+59,Nee Siluvalone Naa Mukthi,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+60,Neevunte Naaku Chaalu,,4,1,1,unbroken-lines
+61,Nenu Papino Prabhuva,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+62,Parama Jeevamu Naaku,,4,0,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=4 en=0
+63,Parama Pavanuda Mariya,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+64,Prabhuva Ni Karyamulu Ab,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+65,Padedhamu Vededhamu Cm,,3,1,0,no-english-lyrics; stanza-count-mismatch te=3 en=0
+66,Pradhana Vinedi Pavanuda,,4,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=4 en=0
+68,Mahodayam Subhodayam,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+69,Maranamu Gelichina Mana Prabhuvu,,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+70,Mandhalo Cherani Gorrelenno,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+71,Yehova Na Kapari,,3,2,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+72,Yehova Ni Namamu,,4,5,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=4 en=0
+73,Yesu Rakthamu Rakthamu,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+74,Yehova Dhayaludu,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+75,Yesu Ni Krupalo,,2,2,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+76,Randeho Vinarandeho,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+77,Randi Yehova,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+78,Rakada Samayamulo,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+79,Ruchi Choochi Yerigithini,,4,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=4 en=0
+80,Lekhaleni Chukalenno,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+81,Lekhimpaleni Sthotramul,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+82,Vijaya Gosha Vinipinchenu,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+83,Vimochakudu Mana Prabhu,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+84,Sadaa Kalamu Neetho Nenu,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+85,Samipincha Rani Tejassulo,,0,2,0,no-english-lyrics
+86,Sarvakrupa Nidi Yagu Prabhuva,,3,0,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+87,Sagipodhunu Nenu Aagi Ponu Nenu,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+88,Silvalo Naakai Karchenu,,4,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=4 en=0
+89,Siluva Yende Needhu Prema,,2,1,0,no-english-lyrics; stanza-count-mismatch te=2 en=0
+90,Srusti Kartha Yesuni Sthutinchedamu,,3,4,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+91,Srustipitha Sarvonatha,,4,1,0,no-english-lyrics; stanza-count-mismatch te=4 en=0
+92,Stotram Chellinthumu,,0,1,0,no-english-lyrics; unbroken-lines
+93,Sri Yesu Geethi Paadana,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+94,Halleluya Stuti Mahima,,2,3,0,no-english-lyrics; stanza-count-mismatch te=2 en=0
+95,Halleluya Yesu Prabhun,,5,0,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=5 en=0
+96,Halleluya Padedha Prabhu Ninu Koniyadedhan Fm,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+107,Ayane Na Sangeetham,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+108,Abrahamu Devuda,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+109,Aaradhana Adhika Stotram,,2,2,0,no-english-lyrics; stanza-count-mismatch te=2 en=0
+110,చాటించుడి మనుష్య జాతి కేసు నామము చాటించుడి యవశ్య యేసు ప్రేమ సారము,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0; title-telugu-only
+111,Chintha Ledika Yesu Puttenu,,4,2,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=4 en=0
+112,Chudumu Gesthemane,,6,1,0,no-english-lyrics; stanza-count-mismatch te=6 en=0
+113,Deva Mahonnathuda,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+114,Deva Nee Yavaranam,,3,1,0,no-english-lyrics; stanza-count-mismatch te=3 en=0
+115,Deva Samsthuthi Cheyave Manasa,,11,2,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=11 en=0
+116,Dhevara Nee Dheevenalu,,8,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=8 en=0
+117,Dhevuni Sthuthiyinchudi Ellapudu,,9,1,0,no-english-lyrics; stanza-count-mismatch te=9 en=0
+118,Dhevuni Upakarambulalona,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+119,Dhevuni Yandhu Nireekshana,,7,1,0,no-english-lyrics; stanza-count-mismatch te=7 en=0
+120,Dhevuniki Stotramu Ganamu Cheyutaye,,5,1,0,no-english-lyrics; stanza-count-mismatch te=5 en=0
+121,Dhootha Paata Paadudi,,3,0,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+122,Goppa Dhevudavani Shakthi,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+123,Halleluya Ani Paadi Sthuthimpanu,,4,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=4 en=0
+124,Halleluya Paata Yesaiah Paata,,2,2,0,no-english-lyrics; stanza-count-mismatch te=2 en=0
+125,Idhigo Dheva Naa Jeevitham,,3,2,0,no-english-lyrics; stanza-count-mismatch te=3 en=0
+126,Varninchaleni Thyaagam Oodaarpu Nondhani Vainam,Dr Y Vijay Kumar,0,1,1,unbroken-lines
+127,Kanna Thalli Cherchunatlu,,4,1,0,no-english-lyrics; stanza-count-mismatch te=4 en=0
+128,Kristhulo Jeevinchu Naaku,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+129,Krotha Yedu Modalu Bettenu,,5,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=5 en=0
+130,Krupa Sathya Sampurnuda,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+131,Krupalanu Thalanchuchu,,5,1,0,no-english-lyrics; stanza-count-mismatch te=5 en=0
+132,Krupamayuda Neelona,Bro  Yesanna,4,2,0,no-english-lyrics; stanza-count-mismatch te=4 en=0
+133,Kummari O Kummari,,3,1,0,no-english-lyrics; stanza-count-mismatch te=3 en=0
+134,Kuthuhala Marbhatame,,4,2,0,no-english-lyrics; stanza-count-mismatch te=4 en=0
+135,Maa Oohalu Puttaka Munupe,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+136,Mahima Neeke Prabhu,,0,4,0,no-english-lyrics
+137,Mahonnathuda Ni Krupalo,Bro  Yesanna,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+138,Mangalame Yesunaku X,,4,2,0,no-english-lyrics; stanza-count-mismatch te=4 en=0
+139,Manulu Manikyamulunna,,3,1,0,no-english-lyrics; stanza-count-mismatch te=3 en=0
+140,Naa Jeevitha Yatralo,,3,2,0,no-english-lyrics; stanza-count-mismatch te=3 en=0
+141,Naa Prana Priyuda,,4,2,0,no-english-lyrics; stanza-count-mismatch te=4 en=0
+142,Naa Sthuthi Paathruda,Bro  Yesanna,3,2,0,no-english-lyrics; stanza-count-mismatch te=3 en=0
+143,Nadipinchu Na Naava,A B  Masilamani,6,2,0,no-english-lyrics; stanza-count-mismatch te=6 en=0
+144,Ne Saagedha Yesunitho,,5,1,0,no-english-lyrics; stanza-count-mismatch te=5 en=0
+145,Nedo Repo Naa Priyudesu,,3,2,0,no-english-lyrics; stanza-count-mismatch te=3 en=0
+146,Nee Chethitho Nannu Pattuko,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+147,Nee Rakthame,,5,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=5 en=0
+148,Neeve Naa Dhevudavu,Bro  Kripal Mohan,0,2,0,no-english-lyrics
+149,Ho Happy Christmas Happy Christmas,,0,1,1,unbroken-lines
+150,Neevu Chesina Upakaaramulaku,,4,2,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=4 en=0
+151,Nuthana Geethamu Paadedhanu,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+152,O Prabhuva Neeve,,2,1,0,no-english-lyrics; stanza-count-mismatch te=2 en=0
+153,O Sadbhakthulara,,4,0,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=4 en=0
+154,Prabhuva Neelo Jeevinchuta Ab,Bro  Yesanna,4,1,1,unbroken-lines; stanza-count-mismatch te=4 en=3
+155,Pradhana Yesuni Sandharshana,,7,1,0,no-english-lyrics; stanza-count-mismatch te=7 en=0
+156,Prema Yesuni Prema,,4,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=4 en=0
+157,Rakshakundudhayinchi Nadata,,5,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=5 en=0
+158,Randi Yuchahinchi Paadudhamu,,5,1,0,no-english-lyrics; stanza-count-mismatch te=5 en=0
+159,Saswathaa Mynadhi Neevu Naayada,,4,2,0,no-english-lyrics; stanza-count-mismatch te=4 en=0
+160,Siluva Chentha Cherina Nade,,4,2,0,no-english-lyrics; stanza-count-mismatch te=4 en=0
+161,Stothra Rupamagu Krotha,,4,4,0,no-english-lyrics; stanza-count-mismatch te=4 en=0
+162,Sthuthi Yagamu Na Yesuke,,5,1,0,no-english-lyrics; stanza-count-mismatch te=5 en=0
+163,Sthuthinchedanu Stuthinchedanu,,5,2,0,no-english-lyrics; stanza-count-mismatch te=5 en=0
+164,Sthuthincheda Nee Namam,,3,1,0,no-english-lyrics; stanza-count-mismatch te=3 en=0
+165,వందనం బొనర్తుమో ప్రభో ప్రభో,,5,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=5 en=0; title-telugu-only
+166,Viswasa Vanithalamu,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+167,Yehova Naa Moralalinchenu,,5,2,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=5 en=0
+168,Yehova Ye Naa Kaapariga,,4,1,0,no-english-lyrics; stanza-count-mismatch te=4 en=0
+169,Yese Na Parihaari,,5,1,0,no-english-lyrics; stanza-count-mismatch te=5 en=0
+170,Yesu Rajula Rajai,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+171,Yesutho Teeviganu Podama,,4,2,0,no-english-lyrics; stanza-count-mismatch te=4 en=0
+172,Yogyudavo Yogyudavo,"Bro  Raj , micheal paul",3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+173,Kaneerelamma Karuninchu Yesu Ninu,,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+174,Shudhdhaa Hrudhaayam Kalugajeyumu,,2,1,1,unbroken-lines
+175,Nee Premaye Naku Chalu,,0,2,2,
+176,Neevennallu Rendu Thalampulatho,,0,1,1,unbroken-lines
+177,Sri Yesundu Janminche Reyilo,,0,1,1,unbroken-lines
+178,Shudhdhaa Hrudayam,,0,1,1,unbroken-lines
+179,Shaashwathamu Kaadu,,0,1,1,unbroken-lines
+180,Vetakaani Urilo Nundi,,0,1,1,unbroken-lines
+181,Adavi Chetla Naduma,,0,1,1,unbroken-lines
+182,Adiginadi Konthe Ainaa,,0,1,1,unbroken-lines
+183,Adugudi Meeku Ivvabadunu,,0,1,1,unbroken-lines
+184,Ade Ade Aa Roju,,0,1,1,unbroken-lines
+185,Anudinamu Prabhuni,,0,1,1,unbroken-lines
+186,Arpinchuchuntini Yesayyaa,,0,1,1,unbroken-lines
+187,Andaala Udyaanavanamaa,,0,1,1,unbroken-lines
+188,Aakaashamandunna Aaseenudaa,,0,1,1,unbroken-lines
+189,Aathma Deepamunu,,0,1,1,unbroken-lines
+190,Aananda Yaathra,bro yesanna,0,1,1,unbroken-lines
+191,Aanandamu Prabhu Naakosagenu,,0,1,1,unbroken-lines
+192,Aayane Naa Sangeethamu Balamaina Kotayunu,,0,1,1,unbroken-lines
+193,Aascharyakarudu Aalochanakartha,,0,1,1,unbroken-lines
+194,Aasheervaadambul Maa Meeda,,0,1,1,unbroken-lines
+195,Aanandamugaa Yehovaa Nee Krupaalanni,,0,1,1,unbroken-lines
+196,Aahaa Yemaanandam Aahaa Yemaanandamu,,0,1,1,unbroken-lines
+197,Idiyenayya Maa Praarthana,,0,1,1,unbroken-lines
+198,Ide Naa Korika,,0,1,1,unbroken-lines
+199,Ihamanduna Aa Paramandu Naaku,,0,1,1,unbroken-lines
+200,Illalona Panduganta Kallalona Kaanthulanta,,0,1,1,unbroken-lines
+201,Intha Kaalam Needu Krupalo Kaachina Devaa,,0,1,1,unbroken-lines
+202,Inthalone Kanabadi Anthalone Maayamayye,,0,1,1,unbroken-lines
+203,Oohinchaleni Melulatho Nimpina,,0,1,1,unbroken-lines
+204,Enni Maarlu Neevu Daiva Vaakyamunu Vini,,0,1,1,unbroken-lines
+205,Evariki Evaru Ee Lokamlo,,0,1,1,unbroken-lines
+206,Entha Madhuramu Yesuni Prema,,0,1,1,unbroken-lines
+207,Entha Manchi Devudavayyaa Yesayyaa,,0,1,1,unbroken-lines
+208,Ae Vaipu Choosinaa Yudhdha Vaarthalegaa,,0,1,1,unbroken-lines
+209,O Maanavaa Nijamedo Erugavaa,,0,2,1,
+210,Kanulunnaa Kaanaleni Chevulunnaa Vinaleni,,0,1,1,unbroken-lines
+211,Kalamulatho Raayagalamaa,,0,1,1,unbroken-lines
+212,Kaluvarigirilo Siluvadhaariyai,,0,1,1,unbroken-lines
+213,Kalyaanam Kamaneeyam,,0,1,1,unbroken-lines
+214,Kraisthavamoka Mathamu Kaadidi,,0,1,1,unbroken-lines
+215,Gamyam Cheraalani Neetho Undaalani,,0,1,1,unbroken-lines
+216,Gaadaandhakaarapu Loyalo,,0,1,1,unbroken-lines
+217,Chithra Chithraala Vaade Mana Yesayya,,0,1,1,unbroken-lines
+218,Cheyi Pattuko Naa Cheyi Pattuko,,0,1,1,unbroken-lines
+219,Janminchenu Oka Thaara,,0,1,1,unbroken-lines
+220,Junti Thene Dhaarala Kannaa,,0,1,1,unbroken-lines
+221,Jayam Jayam Jayam Jayam,,0,1,1,unbroken-lines
+222,Tharatharaalalo Yugayugaalalo Jagajagaalalo,,0,1,1,unbroken-lines
+223,Thallilaa Laalinchunu Thandrilaa Preminchunu,,0,1,1,unbroken-lines
+224,Thoorpu Diku Chukka Butte,,0,1,1,unbroken-lines
+225,Daari Thappi Pothunnaavaa Vishwaasi,,0,1,1,unbroken-lines
+226,Dinamella Ne Paadinaa Keerthinchinaa,,0,1,1,unbroken-lines
+227,Deva Nee Goppa Kaaryamulan,,0,1,1,unbroken-lines
+228,Najareyudaa Naa Yesayya,,0,1,1,unbroken-lines
+229,Nadipinchu Naa Naavaa Nadi Sandramuna Devaa,,0,1,1,unbroken-lines
+230,Nannenthagaano Preminchina Prabhuvaa,,0,1,1,unbroken-lines
+231,Nammakamaina Naa Snehithudu,,0,1,1,unbroken-lines
+232,Naa Kanula Vembadi Kanneeru Raaneeyaka,,0,1,1,unbroken-lines
+233,Naa Kosamaa Ee Siluva Yaagamu,,0,1,1,unbroken-lines
+234,Naa Gunde Chappudu Chesthundi Neeke Sthothramani,,0,1,1,unbroken-lines
+235,Athyunnathamaina Simhaasanampai,Sukumar,0,2,2,
+236,Naa Naathudaa Naa Yullamichchithi Neeku,,0,1,1,unbroken-lines
+237,Naa Neethi Neeve Naa Khyaathi Neeve,,0,1,1,unbroken-lines
+238,Naa Praanamaa Naalo Neevu,,0,1,1,unbroken-lines
+239,Naa Praanamaa Yesayyaa Naa Dhyaanamaa Yesayyaa,,0,1,1,unbroken-lines
+240,Naa Praanamaa Yehovaanu Neevu Sannuthinchumu,,0,1,1,unbroken-lines
+241,Naa Praanaaniki Praanam Neevenayyaa,,0,1,1,unbroken-lines
+242,Naa Mano Nethramu Therachi,,0,1,1,unbroken-lines
+243,Naa Yesayyaa Naa Rakshakaa,,0,1,1,unbroken-lines
+244,Naa Yesuu Nee Paadaala Chenthaa,,0,1,1,unbroken-lines
+245,Naaku Nee Krupa Chaalunu Priyudaa,,0,1,1,unbroken-lines
+246,Naatho Maatlaadu Prabhuvaa Neeve Maatlaadumayyaa,,0,1,1,unbroken-lines
+247,Naadantuu Lokaana Edi Ledayya,,0,1,1,unbroken-lines
+248,Naadu Jeevamaayene Naa Samasthamu,,0,1,1,unbroken-lines
+249,Nithyamu Sthuthinchinaa,,0,1,1,unbroken-lines
+250,Ninu Choose Kannulu Naaku Immayyaa,,0,1,1,unbroken-lines
+251,Ninnu Kaapaadu Devudu,,0,1,1,unbroken-lines
+252,Ninne Ninne Nammukunnaanayya,,0,1,1,unbroken-lines
+253,Nee Krupa Naaku Chaalunu,bro yesanna,0,1,1,unbroken-lines
+254,Nee Chethilo Rottenu Nenayya,,0,1,1,unbroken-lines
+255,Nee Dhanamu Nee Ghanamu Prabhu Yesude,,0,1,1,unbroken-lines
+256,Nee Premalo Nundi Nannu Edabaapu Vaarevaru,,0,1,1,unbroken-lines
+257,Nee Premaa Nee Karunaa,,0,1,1,unbroken-lines
+258,Nee Roopu Chooda Nenaashapadithi,,0,1,1,unbroken-lines
+259,Nee Vaakyame Naa Paadaalaku Deepamu,,0,1,1,unbroken-lines
+260,Neekante Nammadagina Devudevarayyaa,,0,1,1,unbroken-lines
+261,Neeku Ishtudigaa Ilalo Ne Undaalani,,0,2,1,
+262,Padamulu Chaalani Prema Idi,,0,1,1,unbroken-lines
+263,Padivelalo Athipriyudu,,0,1,1,unbroken-lines
+264,Padivelalo Athisundarudaa,,0,1,1,unbroken-lines
+265,Pondithini Nenu Prabhuvaa Nee Nundi,,0,1,1,unbroken-lines
+266,Prabhu Yesu Naa Rakshakaa,,0,1,1,unbroken-lines
+267,Prabhu Yesuni Vadanamulo Naa Devudu Kanipinche,,0,1,1,unbroken-lines
+268,Priya Yesu Nirminchithivi,,0,1,1,unbroken-lines
+269,Priya Yesu Raajunu Ne Choochina Chaalu,,0,1,1,unbroken-lines
+270,Preminchedan Adhikamugaa,,0,2,2,
+271,Brathakaalani Unnaa Brathakalekunnaa,,0,1,1,unbroken-lines
+272,Bangaram Adugaledu Vajraalani Adugaledu,,2,2,2,unbroken-lines; stanza-count-mismatch te=2 en=0
+273,Bethlehem Puramuna Chithrambu Kalige,,0,1,1,unbroken-lines
+274,Bhajana Cheyuchu Bhakthapaalaka,,0,1,1,unbroken-lines
+275,Bheekarundau Maa Yehovaa Peeta Medutan Goodare,,0,1,1,unbroken-lines
+276,Mahima Ghanathaku Arhudavu,,0,1,1,unbroken-lines
+277,Maargamu Choopumu Intiki Naa Thandri Intiki,,0,1,1,unbroken-lines
+278,Maaripovaali Ee Lokamanthaa,,0,1,1,unbroken-lines
+279,Moodu Dashaabdaala Vaivaahika Jeevithaanni,,0,1,1,unbroken-lines
+280,Moodunaalla Muchchata Kosam,,0,1,1,unbroken-lines
+281,Yudhdhamu Yehovaade,,0,1,1,unbroken-lines
+282,Yehovaa Naa Balamaa,,0,1,1,unbroken-lines
+283,Yehovaaku Sthuthulu Paadandi,,0,1,1,unbroken-lines
+284,Yehovaanu Sthuthiyinchu,,0,1,1,unbroken-lines
+285,Yesayyaa Nee Naamamune,,0,1,1,unbroken-lines
+286,Yesu Jananamu,,0,1,1,unbroken-lines
+287,Yesu Ninnu Nenu,,0,1,1,unbroken-lines
+288,Yesu Maatho Neevundagaa,father sj berchams,0,1,1,unbroken-lines
+289,Yesu Rakthamulo,,0,1,1,unbroken-lines
+290,Yesu Sarvonnathudaa,,0,1,1,unbroken-lines
+291,Yesuni Naa Madilo Sweekarinchaanu,,0,1,1,unbroken-lines
+292,Yese Naa Aashrayamu,,0,1,1,unbroken-lines
+293,Rammanuchunnaadu Ninnu Prabhu Yesu,,0,1,1,unbroken-lines
+294,Raajulaku Raaju Puttenannayya,,0,1,1,unbroken-lines
+295,Raaraaju Janminchinaadu,,0,1,1,unbroken-lines
+296,Rende Rende Daarulu,,0,1,1,unbroken-lines
+297,Samarpana Cheyumu Prabhuvunaku,,0,1,1,unbroken-lines
+298,Saagilapadi Mrokkedamu,,0,1,1,unbroken-lines
+299,Saakshyamichcheda,,0,1,1,unbroken-lines
+300,Siluvalo Bali Aina Devuni Gorrepilla,,0,1,1,unbroken-lines
+301,Siluvalo Saagindi Yaathra,,0,1,1,unbroken-lines
+302,Seeyonu Paatalu Santhoshamugaa,,0,1,1,unbroken-lines
+303,Sugunaala Sampannudaa,Bro  Yesanna,0,1,1,unbroken-lines
+304,Sthuthiyu Mahima Ghantha Neeke,,0,1,1,unbroken-lines
+305,Sthuthula Meeda Aaseenudaa,,0,1,1,unbroken-lines
+306,Sthuthula Meeda Hallelujah,,0,1,1,unbroken-lines
+307,Solipovaladu Manassaa,,0,1,1,unbroken-lines
+308,Sthothrinthumu Ninu Maadu Thandri,,0,1,1,unbroken-lines
+309,Ascharyakarudu Alochanakartha Nithyudagu Thandri,,0,1,0,no-english-lyrics; unbroken-lines
+310,Shudhudu Ghanudu Rakshakudu,,0,1,0,no-english-lyrics; unbroken-lines
+311,Bethlehemulo Sandhadi,,0,1,0,no-english-lyrics; unbroken-lines
+312,Dheva Ni Namam Entho Balamynadhi,,0,1,0,no-english-lyrics; unbroken-lines
+313,Dheva Ni Namam Balamynadhi Ni Namam,Bro  Kripal Mohan,0,1,1,unbroken-lines
+314,Emmanuelu Rakthamu,,0,1,0,no-english-lyrics; unbroken-lines
+315,Naa Jeevitha Kalamantha,,0,1,0,no-english-lyrics; unbroken-lines
+316,Naa Thandri Neeve,,0,12,0,no-english-lyrics
+317,Neeve Naa Oopiri,,0,4,0,no-english-lyrics
+318,Jagatiki Punaadi Vaeyaka Mundae Janiyinchina Praema,Dr  Amsumathi mary,0,1,1,unbroken-lines
+319,Yesuni Roopamloniki Maaripovaali,,0,1,0,no-english-lyrics; unbroken-lines
+320,Ae Vyaktinainaa Ae Sthitiyandainaa Entagaanoe Praeminchu Praema,Dr  Amsumathi mary,0,1,1,unbroken-lines
+321,సృష్టికర్త యేసు దేవ సర్వలోకం నీమాట వినునూ,,0,1,0,no-english-lyrics; unbroken-lines; title-telugu-only
+322,Viluvaina Praemaloe Vanchana Laedu,,0,1,1,unbroken-lines
+323,Oohaku Andani Praema Naa Yaesu Praema,rev  aakumarthi daniel,0,1,1,unbroken-lines
+324,Srustikarthavyna Yehova,Bro  Yesanna,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+325,Velpulalo Bahu Ghanudu,Bro  Yesanna,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+326,Jeevinchuchunnadhi Nenu Khadhu,Bro  Yesanna,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+327,Neethi Nayamulu Jariginchu Naa Yesaiah,Bro  Yesanna,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+328,Dheva Ni Krupa Nirantharam,,3,2,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+329,Sariraarevaru Naa Priyudyna Yesayaku,Bro  Yesanna,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+330,Naa Prana Priyudavu Neeve,Bro  Yesanna,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+331,Praneswara Prabhu Dhiva Kumara,Bro  Yesanna,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+332,Saswatha Krupanu Nenu Thalanchaga,Bro  Yesanna,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+333,Naa Jeevam Nee Krupalo,Bro  Yesanna,3,1,1,unbroken-lines; stanza-count-mismatch te=3 en=0
+334,Nee Preme Nannu Aadharinchenu,Bro  Yesanna,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+335,Sthuthi Paathruda Sthothrahurda,Bro  Yesanna,1,2,0,no-english-lyrics; stanza-count-mismatch te=1 en=0
+336,Sannuthichedanu Dhayaludavu,Bro  Yesanna,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+337,Aascharyakarudaa Naa Aalochanakartha,Bro  Yesanna,3,1,1,unbroken-lines; stanza-count-mismatch te=3 en=0
+338,Yesu Anu Namame Naa Madhura,Bro  Yesanna,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+339,Halleluya Yesaiah,Bro  Yesanna,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+340,Dheva Naa Dhevudavu Neeve,Bro  Yesanna,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+341,Aanandame Prabhu Yesuni,Bro  Yesanna,3,2,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+342,Premamaya Yesu Prabhuvaa,Bro  Yesanna,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+343,Aanandam Yesutho,Bro  Yesanna,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+344,Naa Vedhanalo Vedhikithini,Bro  Yesanna,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+345,Sarvonathuda Neeve Naaku,Bro  Yesanna,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+346,Vandhanamu Neeke,Bro  Yesanna,3,1,1,unbroken-lines; stanza-count-mismatch te=3 en=0
+347,Maadhuryame Naa Prabhutho,Bro  Yesanna,3,1,1,unbroken-lines; stanza-count-mismatch te=3 en=0
+348,Yemani Varninthu,Bro  Yesanna,3,2,0,no-english-lyrics; stanza-count-mismatch te=3 en=0
+349,Nithyudaa Nee Sanidhi,Bro  Yesanna,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+350,Tejovaasula Swasthyamandhu,Bro  Yesanna,4,2,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=4 en=0
+351,Sthuthi Simhasanaseenudavu,Bro  Yesanna,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+352,Anadhilo Niyaminchabadina,Bro  Yesanna,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+353,Prabhuvaa Nee Samukhamandhu,Bro  Yesanna,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+354,Nithyudagu Naa Thandri,Bro  Yesanna,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+355,Nee Krupa Bahulyame,Bro  Yesanna,2,1,0,no-english-lyrics; stanza-count-mismatch te=2 en=0
+356,Aascharyakarudaa Needhu Krupa,Bro  Yesanna,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+357,Evarunnaru Ee Lokamulo,Bro  Yesanna,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+358,Yuddha Veerulam Manam,Bro  Yesanna,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+359,Seeyonulo Naa Yesutho,Bro  Yesanna,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+360,Naa Jeevitham Neekankitham,Bro  Yesanna,2,1,0,no-english-lyrics; stanza-count-mismatch te=2 en=0
+361,Sooryuni Dharinchi,Bro  Yesanna,3,1,0,no-english-lyrics; stanza-count-mismatch te=3 en=0
+362,Oohalu Naadhu Ootalu,Bro  Yesanna,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+363,Yesaiah Naa Nirikshana Aadharama,Bro  Yesanna,1,2,0,no-english-lyrics; stanza-count-mismatch te=1 en=0
+364,Noothana Yerushalem,Bro  Yesanna,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+365,Nanu Viduvaka Dhachithivi,Bro  Yesanna,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+366,Kalavaripadi Ne Kondalavypu,Bro  Yesanna,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+367,Naa Prana Priyuda Yesaiah,Bro  Yesanna,2,2,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+368,Naa Pranathma Sareeram,Bro  Yesanna,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+369,Naa Yesu Raaja Naa Aaradhyadhyvama,Bro  Yesanna,3,1,1,unbroken-lines; stanza-count-mismatch te=3 en=0
+370,Yesaiah Naa Priya,Bro  Yesanna,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+371,Nenu Velle Maargamu,Bro  Yesanna,0,1,0,no-english-lyrics; unbroken-lines
+372,Yeguruthunnandhi Vijaya,Bro  Yesanna,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+373,Anthyadhinamula Yendu Memundaga,Bro  Anil Kumar,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+374,Dhevudu Maapakshamuna Vundaga,Bro  Anil Kumar,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+375,Idhigo Vinuma Lokama,Bro  Anil Kumar,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+376,Israelunu Kaapaadu Devudu,Bro  Anil Kumar,0,1,0,no-english-lyrics; unbroken-lines
+377,Jaya Pataakam Yegaraali,Bro  Anil Kumar,1,2,0,no-english-lyrics; stanza-count-mismatch te=1 en=0
+378,Jayahe Jayahe Kristhesu,Bro  Anil Kumar,0,5,0,no-english-lyrics
+379,Naa Neethi Neeve,Bro  Anil Kumar,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+380,Cheddaamaa Poraatam,Bro  Anil Kumar,0,2,0,no-english-lyrics
+381,Nibbaram Kaligi,Bro  Anil Kumar,6,5,0,no-english-lyrics; stanza-count-mismatch te=6 en=0
+382,Lokamunu Jayinchina,Bro  Anil Kumar,0,5,0,no-english-lyrics
+383,Nee Rakthame Paapa Parihaaram,Bro  Anil Kumar,0,8,0,no-english-lyrics
+384,Veerudu Lechenu,Bro  Anil Kumar,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+385,Visvasa Veerulam,Bro  Anil Kumar,2,2,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+386,Yesayya Lone Unnadhi Manaku Rakshana,Bro  Anil Kumar,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+387,Maargam Satyam Jeevam,Bro  Anil Kumar,0,1,0,no-english-lyrics; unbroken-lines
+388,Yuddha Veeruda,Bro  Anil Kumar,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+389,Yesu Dhevuni Aaradhikulam,Bro  Anil Kumar,0,1,0,no-english-lyrics; unbroken-lines
+390,Shuddha Hrudhayam,Bro  Anil Kumar,1,2,0,no-english-lyrics; stanza-count-mismatch te=1 en=0
+391,జీసస్ జీసస్,Bro  Anil Kumar,0,2,0,no-english-lyrics; title-telugu-only
+392,Yuddhamu Yehovadhe,Bro  Anil Kumar,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+393,Prabhu Naamam,Bro  Anil Kumar,0,1,0,no-english-lyrics; unbroken-lines
+395,Kondharemo Gurralantu,Bro  Anil Kumar,0,1,0,no-english-lyrics; unbroken-lines
+396,Jayaminkaa Manaderaa,Bro  Anil Kumar,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+397,Yesuni Yandali Aanandame,Bro  Anil Kumar,0,1,0,no-english-lyrics; unbroken-lines
+398,Yehovaa Maa Balamaa Neeve Kadha Naa Dheema,Bro  Anil Kumar,0,1,0,no-english-lyrics; unbroken-lines
+399,Paraakramamu Gala Baladyuda,Bro  Anil Kumar,0,22,0,no-english-lyrics
+400,Idiye Samayam,Bro  Anil Kumar,0,1,0,no-english-lyrics; unbroken-lines
+402,Entho Vintha Entho Chintha,,0,1,0,no-english-lyrics; unbroken-lines
+403,Aha Mahathma Haa Sareera,,0,1,0,no-english-lyrics; unbroken-lines
+404,Yevaru Chesiri Puvuu Lanuu,,3,0,0,unbroken-lines
+453,E Samayamandhaina,,0,1,0,no-english-lyrics; unbroken-lines
+496,Aanandham Aanandham,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+497,Aanandha Maanandha Maayenu,,5,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=5 en=0
+498,Niitigala Yohoavaa Sthuthi Mii,,0,1,0,no-english-lyrics; unbroken-lines
+499,Dhaeva Dhivyanantha Prabhaava,,0,1,0,no-english-lyrics; unbroken-lines
+500,Gaanamu Chaeyudu Sukiirthananu Y,,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+501,Anni Kalambula Nunna Yehova,,0,1,0,no-english-lyrics; unbroken-lines
+502,Halleluya Sthotram,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+503,Yesu Ni Krupalo,,2,2,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+504,Manchi Sakshiga Marchumu,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+505,Devaa Neeku Sthotramu,,0,2,0,no-english-lyrics
+506,Priyathama Bandhama Naa Hrudayapu,,2,1,1,unbroken-lines; stanza-count-mismatch te=0 en=2
+509,Aradinchedanu Ninnu,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+514,Suryuni Dharinchi,,3,1,0,no-english-lyrics; stanza-count-mismatch te=3 en=0
+515,Sthuthiki Paathruda,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+517,Palle Pallello Pattanala Moolallo,,0,1,0,no-english-lyrics; unbroken-lines
+518,Musalamma Muchatlu,,0,1,0,no-english-lyrics; unbroken-lines
+520,Mahimaswarupuda,,0,1,0,no-english-lyrics; unbroken-lines
+521,Dayagala Hrudayudavu,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+522,Nee Sallani Soope,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+523,Yedabaayani Deva,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+524,Gadachina Kaalamantha,,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+525,Ambhara Veedhilo Tharaka,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+526,Krupayu Satyamu Kalisi,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+527,Aakashamlo Kotha Chukka Puttindi,,2,1,0,no-english-lyrics; stanza-count-mismatch te=2 en=0
+528,Andhari Chevulu Gingurumanela,,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+529,Ooruko Hrudayama Neelo,,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+530,Unnathamaina Rajyapu Vasi,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+531,Sahasa Kaaryalu Cheya Galige,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+532,O Manavuda Melukonumu,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+533,Aagipodhu Na Pata,,0,1,0,no-english-lyrics; unbroken-lines
+534,Ananthamunundi Ananthamu Varaku,,0,1,1,unbroken-lines
+536,Alpha Omega Ayina Mahimanvithuda,,0,1,1,unbroken-lines
+538,Halleluya Sthotram,,0,1,0,no-english-lyrics; unbroken-lines
+539,Gurileni Payanam Dari Cherakunte,,0,1,0,no-english-lyrics; unbroken-lines
+540,Naa Thandri Ninu Nenu,,0,1,0,no-english-lyrics; unbroken-lines
+541,Chitikina Naa Jeevitham,,0,1,0,no-english-lyrics; unbroken-lines
+542,Phalamulu Kaligina Shishyuniga Nannu,,0,1,0,no-english-lyrics; unbroken-lines
+543,Modhata Nee Sthithi Konchame Ainanu,,0,1,0,no-english-lyrics; unbroken-lines
+544,Nannu Evvaru Kadilinchaleru,,0,1,0,no-english-lyrics; unbroken-lines
+545,Aashalanni Nee Meedhane,,0,1,0,no-english-lyrics; unbroken-lines
+546,Naa Balamu Nannu,,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+548,Krutagnatato Samarpanato,,0,5,0,no-english-lyrics
+552,Arbhatamutho Pradhana Dootha,Bro  Yesanna,0,1,0,no-english-lyrics; unbroken-lines
+558,Anuragalu Kuripinche,Bro  Yesanna,0,1,0,no-english-lyrics; unbroken-lines
+565,Andala Udyana Vanama,,0,1,1,unbroken-lines
+566,Ambaraniki Antela,Bro  AR Stevenson,3,1,1,
+567,Athi Thvaralo,Bro Raj prakash paul,3,1,1,unbroken-lines
+568,Allaneredallo,,4,2,2,
+569,Aa Jali Premanu,Bro Raj prakash paul,2,1,1,unbroken-lines
+570,Agaka Saguma,Bro Raj prakash paul,2,1,1,
+571,Atmaparisuddatmuda,,3,1,1,unbroken-lines
+572,Anamda Samvatsaram,Bro  Sean pachigalla,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+573,Anamdame Prabu,Bro  Satish Kumar,3,1,1,unbroken-lines
+574,Aradhana Sthuthi,Bro  Samuel Karmoji,2,1,1,unbroken-lines
+575,Aradhana Aradhana,,2,1,1,
+577,Andariki Kaavaali,,3,1,1,unbroken-lines
+578,Ammallaara O Akkallaara,,0,1,1,unbroken-lines
+579,Aakaashamandunna,,3,1,1,unbroken-lines; stanza-count-mismatch te=0 en=3
+580,Aalayamlo Praveshinchandi,,2,1,1,unbroken-lines
+613,Idigo Deva Na Jivitam Apada,,3,1,1,unbroken-lines
+615,Aa . Aa . Aa,,2,1,1,unbroken-lines
+665,Ide Na Korika Navajivana Ragamalika,,3,1,1,
+666,Idi Kotaku Samayam Panivari Tarunam,,3,1,1,
+667,Imtati Premanu Vimtaga Chupanu Emtativadanaya,,2,1,1,unbroken-lines
+668,Inthalone Kanabadi Amtalone Mayamayye Alapamaina,,2,1,1,unbroken-lines
+1791,Aaraadhanalanduko,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+2403,Aaraadhanalandhuko,,0,1,0,no-english-lyrics; unbroken-lines
+2423,Anantha Gnani,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+2424,Aanandhinthunu Neelo Dheva,,4,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=4 en=0
+2425,Aarani Prema Idhi Aarpajaalani,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+2444,Aalochinchumu Aalochimchu,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+2445,Adhe Adhe,,4,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=4 en=0
+2457,Aadharinchina,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+2466,Immanuyelu Naa Thodai,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+2473,Anni Kaalmbula Nunna Yehoavaa,బేళాళ జాన్,3,1,1,unbroken-lines
+2501,Innaallu Maaku Saayamai Yee Mumdhukunu,ఐజక్ వాట్స్,5,0,0,
+2520,Aakaashmbu Bhoomiyu Amthata Cheekati Yaa,ఏ చార్లెస్ కిన్సింగర్,8,0,0,unbroken-lines
+2533,Idhigoa Naa Shishyulaaraa Yeru,పురుషోత్తము చౌధరి,6,1,1,
+2548,Ayyoa Yidhi Dhuhkhamu Prabhu T,పురుషోత్తమ చౌధరి,7,1,1,unbroken-lines
+2562,Aathmaa Nadupu Sa Thyamu Loani,తూలూరి కొర్నేలియస్,5,1,1,unbroken-lines
+2586,Aduguchunnaa Moa Dhaeva Kadu D,విలియం బెర్రి,8,1,1,unbroken-lines
+2591,Aacharimchuchununnaamu Aa Chmd,విలియం డాకన్,4,1,1,unbroken-lines
+2606,Iaoka Naemi Gathi Yunnadhi Maa,పురుషోత్తము చౌదరి,2,1,1,unbroken-lines
+2630,Idhi Yehoavaa Kaligimchina Dhi,పురుషోత్తమ చౌధరి,5,1,1,unbroken-lines
+2644,Aparaadhini Yaesayya Krupa Joo,సిరిపురపు కృపానందము,7,1,1,
+2655,Aadharimpumu Yaesuvaa Ni Nnaas,వి జి జాన్ సుందరరావు,5,1,1,unbroken-lines
+2666,Aanmdha Magu Mukthi Yae Naa Mm,పురుషోత్తము చౌదరి,3,1,1,unbroken-lines
+2668,Itharula Saakshyamu Lemthoa Ga,పురుషోత్తము చౌదరి,3,1,1,unbroken-lines
+2697,Imdhulaedhu Niluchu Pattanm Kr,జె ఈ షార్మీ,5,1,1,unbroken-lines
+2709,ఆశీరవంబు ల్మామీఁద వర్షింపజేయు,,4,0,0,unbroken-lines; title-telugu-only
+2713,Aalimchu Dhaevaa Naa Manavula,పులిపాక జగన్నాధము,5,1,1,unbroken-lines
+2733,అలసటపడ్డ నీవు దేవోక్తి విను,జాన్ మేసన్ నీ,6,0,0,title-telugu-only
+2755,ఆహా నాకేమానందము శ్రీ యేసు నాచ,జె ఎచ్ గిల్మోర్,4,0,0,unbroken-lines; title-telugu-only
+2773,అంత్య దినమందు దూత బూర నూదు చు,,3,0,0,unbroken-lines; title-telugu-only
+2820,Aathmalanu Smpaadhimpao Nagu A,మల్లెల దావీదు,6,1,1,unbroken-lines
+2862,Anukarimchedha Nae Nanudhinamu,మల్లెల దావీదు,9,1,1,unbroken-lines
+2865,Aa Chinna Vaariloa Naenumdi Yu,తూపిలి యోహాను,4,1,1,unbroken-lines
+2875,Aasheervaadhamu Neeyuma Maa Pa,తూలూరి ప్రకాశము,5,1,1,unbroken-lines
+2895,AanMdha Yaathra Idhi Aathmeeya Yaathra,,4,1,1,unbroken-lines
+2906,AanMdhM DhinadhinM AanMdhM Yaesuraaju Naa,,3,1,1,unbroken-lines
+2917,Idhigoa Nee Raaju Vachchuchumd,,7,1,1,
+2928,Idhiyae Samaymbu Rmdi Yaesuni,,7,1,1,unbroken-lines
+2950,Idhigoa Shubhadha Rakshnamu Dh,పురుషోత్తమ చౌధరి,4,1,1,unbroken-lines
+2952,Amdhamaina Kreesthu Katha Mee,పురుషోత్తము చౌధరి,4,1,1,unbroken-lines
+2967,Annaa Mana Yaesu Prabhuni Kann,రావూరి లక్ష్మయ్య,5,1,1,unbroken-lines
+2968,Idugoa Gorrelakaapari Soadharu,పురుషోత్తము చౌధరి,9,1,1,unbroken-lines
+2980,Aahaa Yemthati Shramalao Bomdh,కొత్తపల్లి జాన్,4,1,1,unbroken-lines
+2986,Aa Ymdhakaarmpu Raeyiloa Krees,పురుషోత్తమ చౌధరి,5,1,1,unbroken-lines
+2987,Aahaa Mahaathma Haa Sharanyaa,పంతగాని పరదేశి,7,1,1,
+2988,Ayyoa Naadhagu Ghoarapaapamu G,యెద్దు దానియేలు,6,1,1,unbroken-lines
+3010,Apu Darchakaadhu Luppomgiri Pr,పురుషోత్తము చౌధరి,3,1,1,unbroken-lines
+3016,Idhigoa Neethibhaaskarumdu Udh,చెట్టి భానుమూర్తి,5,1,1,unbroken-lines
+3059,Ichchunatti Vidhamu Theliymdi,బన్యన్ జోసఫ్,3,1,1,unbroken-lines
+3072,Aalimchu Maa Praarthana Maa Ra,పులిపాక జగన్నాధము,5,1,1,unbroken-lines
+3133,ఆత్మ శృంగారించు కొమ్ము పాప గ,జె ఫ్రాంక్,5,0,0,unbroken-lines; title-telugu-only
+3143,AMDhudaa Raavaa Aramarayaela Adugoanayya! Ayyoa,,6,1,1,unbroken-lines
+3147,Aahaaaaamthyatheerpu Nmdh,,7,3,3,
+3154,Aanmdhamaanmdha Maayenu Naadhu,,7,1,1,unbroken-lines
+3160,Reference: Naenu Naa ParishudhDha Parvathamaina,,0,1,1,unbroken-lines
+3224,Reference: Yehoavaa DhayaaLudu. Aayanaku KruthajnYthaasthuthulu,,0,1,1,unbroken-lines
+3240,Reference: Nithyudagu ThMdri YeShyaa Isaiah,,0,1,1,unbroken-lines
+3242,Reference: Nee SMvathsaramulaku AMthamu Laedhu.,,0,1,1,unbroken-lines
+3255,"Reference: Idhigoa Eeyana Naa Priyakumaarudu,",,0,1,1,unbroken-lines
+3258,Reference: ... Saagilapadi Aayananu PoojiMchiri,,0,1,1,unbroken-lines
+3260,Reference: Nee Raaju Neethiparudunu RakShNagalavaadunu,,0,1,1,unbroken-lines
+3283,Arpimthu Sthuthul Nee Siluvaloanaa,,0,1,1,unbroken-lines
+3288,Aanmdha Maanmdha Maanmdhamae Aanmdha Maanmdhamae,,0,1,1,unbroken-lines
+3303,Adhymtha Rahitha Prabhuvaa,,0,1,1,unbroken-lines
+3318,Athymtha Sumdharumdunu Ellari Kaamkshneeyudu,,1,1,1,unbroken-lines
+3319,Aa Mumdla Kireetm Boayenu Ghanmbukalgenu,,0,1,1,unbroken-lines
+3335,Aaraadhimchedha Ninu Madhi Pogadedha Nirathamu Ninu Sthuthiyimchedhanu,,0,1,1,unbroken-lines
+3340,Aashcharyakaruda Veevae Yehoavaa Neevae Dhanyudavu,,0,1,1,unbroken-lines
+3361,Anudhinamu Maa Bhaaramu,,5,1,1,unbroken-lines
+3385,Aanmdhamugaa Yehoavaa Nee Krupalanni Anni Kaalmbulmdhu Keerthimchedhanu,,0,1,1,unbroken-lines
+3416,Adhigoa Kalvariloa Yaesu Rakshkudae Dheenudai Vraelaaduchunnaadae,,0,1,1,unbroken-lines
+3448,Adhigoa Vachchunadhevaroa Choodumaa Mahima Galigina Mana Yaesae,,0,1,1,unbroken-lines
+3450,Idhigoa Naenu Vachchuchunnaanu Thvaragaa Vachchuchunnaanu,,0,1,1,unbroken-lines
+3492,Amdhakaaraloakamunaku Velugunivva Prabhuvu Vachchenu,,0,1,1,unbroken-lines
+3514,Idhiyae Anukoola Samayamu Neeku Ghana Rakshna Dhinamu,,0,1,1,unbroken-lines
+3515,Idhiyae Samaymbu Rmdi Yaesuni Jaermdi,,0,1,1,unbroken-lines
+3564,Aakaashamu Bhuviloa Nella Yaesu Unnathudu,,0,1,1,unbroken-lines
+3583,Reference: Meerunu Sajeevamaina RaaLLavalenuMdi Aathma,,0,1,1,unbroken-lines
+3589,Reference: Dhayagala Nee Aathma Samabhoomigala,,0,1,1,unbroken-lines
+3601,"Reference: MeeyMdhu Naa SMthoaShmu UMdavalenaniyu,",,0,1,1,unbroken-lines
+3604,Reference: Naedu Naenu MeekaajnYaapiMchu Mee,,0,1,1,unbroken-lines
+3614,Reference: Aakaashamunu Mahaakaashamunu Ninnu Pattajaalavae,,0,1,1,unbroken-lines
+3626,Reference: Yaesu - Naenu Loakamunaku,,0,1,1,unbroken-lines
+3635,Reference: Adugudi Mee Kiyyabadunu Maththayi,,0,1,1,unbroken-lines
+3644,Reference: Kadavari Vaanakaalamuna VarShmu Dhayachaeyumani,,0,1,1,unbroken-lines
+3657,Aahaa Yaemaanmdhm Aahaa Yaemaanmdhamu Cheppashakyamaa,,0,1,1,unbroken-lines
+3659,Amoolyarakthamu Dhvaaraarakshnapomdhina Janulaaraa,,0,1,1,unbroken-lines
+3689,Aalakimthunu Aa Pilupunu Saevimchedhanu Dhaevuni,,0,1,1,unbroken-lines
+3704,Aanmdhimchedhamu Prabhu Yaesuloa Amthayu Maralaarjimchu Komtimi,,0,1,1,unbroken-lines
+3717,Adhikaaramu Pomdhi Yumtini Prabhoo,,0,1,1,unbroken-lines
+3725,Aanmdhamae Manakilaloa Mana Kaanmdhamae Prabhu Laechen,,0,1,1,unbroken-lines
+3754,Anaadhi Dhaevudu Aashrayamu Thana Baahuvulu Nee Kaadhaaramae,,0,1,1,unbroken-lines
+3770,Idhae Naaku Aanmdhamu Aanmdhamu Aanmdhamu,,0,1,1,unbroken-lines
+3773,Amthyadhinammdhu Dhootha Boora Noodhuchumdagaa,,0,1,1,unbroken-lines
+3837,Aashraeshtmbau Grmthamuloa,,0,1,1,unbroken-lines
+3843,Ch:aanMdhM Naa KaanMdhM AanMdhM ParamaanMdhMch:aathmanu,,0,1,1,unbroken-lines
+3850,Ch:adhbhutha Shakthikaladhu Rakthamuloa - GoRRepilla,,0,1,1,unbroken-lines
+3858,ఆయనాశ్చర్య కరుడు నన్ను రక్షించి కాపాడి శుద్ధి చేయును,,1,0,0,unbroken-lines; title-telugu-only
+3865,Ch:aathmala CheMthaku Nadupu BoaDhiMpanu Naerpumu,,0,1,1,unbroken-lines
+3870,Reference: Aashcharyakarudu Aaloachanakartha BalavMthudaina Dhaevudu,,0,1,1,unbroken-lines
+3871,Ch:aashcharya Maashcharya Maesu Naakuch:aaloachana Karthayu,,0,1,1,unbroken-lines
+3873,Ch:aanMdhaanMdhamu - MahadhaanMdhamuch:yaesu Prabhunaku -,,0,1,1,unbroken-lines
+3874,Ch:aashcharya - Aashcharya - Yaesu,,0,1,1,unbroken-lines
+3884,Ch:aahaa Aahaa Idhigoa Marala Vasthimich:aahaa,,0,1,1,unbroken-lines
+3889,Reference: Aayanaku Annitiloa Praamukhyamu Kalugu,,0,1,1,unbroken-lines
+3895,Reference: Prabhuvunu SthuthiMchudi Prakatana Revelation,,0,1,1,unbroken-lines
+3919,Reference: VeerikMte Neevu Nannu Ekkuvagaa,,0,1,1,unbroken-lines
+3924,Reference: Bhoomi Molakanu MolipiMchunatlugaanu Thoataloa,,0,1,1,unbroken-lines
+3930,"Reference: Vaaru VaDhiMpabadina Gorrepilla, Shakthiyu",,0,1,1,unbroken-lines
+3954,Reference: Aa Dhinamulaloa Yehoavaa Vaakku,,0,1,1,unbroken-lines
+3955,Reference: Nee Vaakyamae Sathyamu Yoahaanu,,0,1,1,unbroken-lines
+3966,Reference: Idhigoa Naenoka Noothana Kriya,,0,1,1,unbroken-lines
+3973,Reference: AathmaviShyamai Dheenulainavaaru Dhanyulu; Paraloakaraajyamu,,6,1,1,unbroken-lines
+3986,Reference: Anyadhaevathalanu Paaravaeyumu AadhikaaMdamu Genesis,,0,1,1,unbroken-lines
+4013,Reference: Adavi VrukShmulaloa Jaldharu VrukShmetlunnadhoa,,0,1,1,unbroken-lines
+4015,Reference: Aayana Thana Siluva Moasikoni,,0,1,1,unbroken-lines
+4037,Reference: Vishvaasamunaku Karthayu Dhaanini KonasaagiMchuvaadunaina,,0,1,1,unbroken-lines
+4059,Reference: Gaddi YeMdipoavunu. Dhaani Puvvu,,1,1,1,unbroken-lines
+4061,"Reference: Aayananu AaraaDhiMchuvaaru Aathmathoanu, Sathyamuthoanu",,0,1,1,unbroken-lines
+5539,Aakaashambun DoothaluUthsaahinchi PaadiriPutte RakshakundaniSanthasinchi AadiriSarvonnathamaina,,0,1,1,unbroken-lines
+5542,Amdhaala Thaara Arudhemchi Naakai Ambhara Veedhiloa,,0,1,1,unbroken-lines
+5543,Adhvitheeya Sathyadhaevaa Vmdhanm,,0,1,1,unbroken-lines
+5544,Anniti Kannaa Praarthanae Minn,,0,1,1,unbroken-lines
+5545,Agni Mmdimchu Naaloa Agni Mmdimchu,,0,1,1,unbroken-lines
+5546,Aalaymloa Pravaeshimchmdi Amdharu,,0,5,5,
+5547,Aanmdha Smdhrmbuna Naa Jeevitha Naavanu,,0,1,1,unbroken-lines
+5548,Aahaa Aanmdhamae Mahaa Smthoashmae,,0,1,1,unbroken-lines
+5549,Ibaadhath Karoa,,0,1,1,unbroken-lines
+5550,Idhi Mattalaadhi Vaarm Idhi Maha Parvadhinamu,,0,1,1,unbroken-lines
+5631,Aha Aanandame Maha Aanandame Yesu Putte Ilalo,Mary Vijay Nanneti,0,1,1,unbroken-lines
+5650,Amdhamae Roopu Dhaalche Dhaiva Vaakkunakae,,0,1,1,unbroken-lines
+5651,Anni Naamamula Kanna Ghanamaina Naamamu Needhi Yaesu Naathaa,,0,1,1,unbroken-lines
+5652,Adavi Vrukshmulaloa Jaldharu Vrukshmu Metlunnadhoa,,0,1,1,unbroken-lines
+5653,Aaraadhimchedhanu Ninnu Naa Yaesayyaa Aathmathoa Sathyamuthoa,,0,2,2,
+5654,Aashapadaku Ee Loakm Koasm Chellemmaa,,0,1,1,unbroken-lines
+5656,Innaellu Ilaloa Unnaamu Manamu Challani Dhaevuni Needaloa,,0,1,1,unbroken-lines
+5745,Aadhaarm Naaku Aadhaarm Naaku Thoadu Needaiyunna,,0,1,1,unbroken-lines
+5749,Innaallu Thoadugaa Maathoa Nadichaavu,,0,1,1,unbroken-lines
+5750,Annivaelalaa Aadharimchedi Aathmaroopee Neekae Vmdhanm,,0,1,1,unbroken-lines
+5772,Aasrayuda Naa Abhishaktuda,,0,1,1,unbroken-lines
+5776,Ananthuda Adarinche Yesayya,"krupa ministries, Guntur",0,1,0,no-english-lyrics; unbroken-lines
+5778,Ikanaina Kaani Ipudaina Kaani,,0,1,0,no-english-lyrics; unbroken-lines
+5799,Arambinchedha Yesu Neelo Prathi Dhinam,,0,1,0,no-english-lyrics; unbroken-lines
+5800,ఇంటి మీదనున్న ఒంటరి పిచ్చుకను నేను నా బలమా ఆలకించుమా,,0,1,0,no-english-lyrics; unbroken-lines; title-telugu-only
+5819,Ascharyamou Anugraham,,0,1,0,no-english-lyrics; unbroken-lines
+5833,Athyunnatha Simhasanamupai Hosanna,Bro  Yesanna,0,1,1,unbroken-lines
+5837,Amen Halleluya,,0,1,0,no-english-lyrics; unbroken-lines
+5848,Aakasaana Sukkaelise,madhu sudhakar babu,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+5849,Aaraadhana Aaraadhana Atmatho Aaraadhana,,1,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=1 en=0
+5857,ఇదే దినం ఇదేదినం –,This is the day that the Lord has mad,0,1,0,no-english-lyrics; unbroken-lines; title-telugu-only
+5925,Athikaankshaniyyuda Naa Yesayyaa,,0,1,0,no-english-lyrics; unbroken-lines
+5963,Idi Nyayama Idi Dharmama,,0,1,0,no-english-lyrics; unbroken-lines
+5969,Apathkalamandu Yehovah,,0,1,0,no-english-lyrics; unbroken-lines
+5970,Aardhya Daivama Na Prana,,0,1,0,no-english-lyrics; unbroken-lines
+5971,Aaradinthu Aaradinthu Yesayya,,0,1,0,no-english-lyrics; unbroken-lines
+5973,Aascharyamaina Prema,,0,1,0,no-english-lyrics; unbroken-lines
+5979,Aa Halleluyaa,,0,1,0,no-english-lyrics; unbroken-lines
+5981,Aaraadhanaku Yogyudaa,,2,1,1,unbroken-lines; stanza-count-mismatch te=2 en=0
+5982,Aaraadhna Naa Yesuke,,0,1,1,unbroken-lines
+5983,Aakaasha Vaasulaara Yehovanu Stutiyinchudi,,0,1,1,unbroken-lines
+5984,Adhaaram Neevenayyaa,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0
+5985,Ambara Veedhilo Sambaram Gaanchiri,,0,1,0,no-english-lyrics; unbroken-lines
+5986,Anandame Paramaanandame,,0,1,0,no-english-lyrics; unbroken-lines
+5987,Anchulanundi Jaarela,Dr A R stevenson,0,1,0,no-english-lyrics; unbroken-lines
+5988,Andaru Nannu Vidachina,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+5989,Anni Naamamula Kanna Pai Naamau,,0,1,0,no-english-lyrics; unbroken-lines
+5990,Atyunnatamainadi Yesu Naamam,Samuel Finny Pachigalla,0,1,0,no-english-lyrics; unbroken-lines
+6003,Aa Dari Chere Daare Kanaraadu,,0,1,1,unbroken-lines
+6014,Annayya Thellaarindi Leraa,,0,1,1,unbroken-lines
+6020,Anni Velala Vinuvaadu Nee Praardhanalanniyu,,0,1,1,unbroken-lines
+6032,Anni Saadhyame Yesuku Anni Saadhyame,,0,1,1,unbroken-lines
+6049,Idenaa Nyaayamidiyenaa,,0,1,1,unbroken-lines
+6050,Andamaina Madhuramaina Naamam Evaridi,,0,1,1,unbroken-lines
+6055,Anjali Ghatiyinthu Devaa (2)nee Manjula,,0,1,1,unbroken-lines
+6058,Idi Shubhodayam – Kreesthu Janmadinamidi,,0,1,1,unbroken-lines
+6067,Ammaa Ani Ninnu Piluvanaa,,0,1,1,unbroken-lines
+6098,Amoolya Raktham Prashastha Raktham,Bro  Divya Prasad Rao,0,1,1,unbroken-lines
+6101,Idhigo Dheva Ee Hrudhayam,,0,1,0,no-english-lyrics; unbroken-lines
+6107,Arambamayindhi Restoration Restoration,Bro  M  Anil Kumar,0,1,0,no-english-lyrics; unbroken-lines
+6112,Aa Bhojana Pankthilo Seemonu Intilo,,0,1,1,unbroken-lines
+6119,Aakaasha Mahaa Kaashambulu,,0,1,1,unbroken-lines
+6124,Aaripoye Deepamlaa,,0,1,1,unbroken-lines
+6140,Aa Raaje Naa Raaju Naa Raaje Raaraaju,,0,1,1,unbroken-lines
+12396,Immaanuyelu Devudaa Mamu Kanna Devudaa,,0,1,1,unbroken-lines
+12397,Andaru Mechchina Andaala Thaara,G Purushotham Babu,0,1,1,unbroken-lines
+12401,Aruna Kaanthi Kiranamai,Pastor A Shalem Israel,0,1,1,unbroken-lines
+12404,Aascharyakarudaa Aalochanakartha Balavanthudaina Devudaa Happy Christmas,Bishop Daniel Kalyanapu,0,1,1,unbroken-lines
+12423,Idhi Rakshana Krupa Kaalam,,0,1,0,no-english-lyrics; unbroken-lines
+12426,Aaradhinthunu Halleluya,,0,1,0,no-english-lyrics; unbroken-lines
+12427,Aaradhinthu Ninnu Dheva,,0,1,0,no-english-lyrics; unbroken-lines
+12448,Aadhaaram Naaku Aadhaaram,,0,1,1,unbroken-lines
+12453,Abraahaamu Issaaku Yaakobunaku Devudavu,,0,1,1,unbroken-lines
+12461,Aahaa Aanandame Paramaanandame,,0,1,1,unbroken-lines
+12502,Adagaka Mundhe Akkaralerigi,,0,1,1,unbroken-lines
+12505,Idhe Naa Hrudhaya Vaanchana,,0,1,1,unbroken-lines
+12508,Aakarshinche Priyudaa,,0,1,1,unbroken-lines
+12517,Idhi Devuni Nirnayamu,,0,1,1,unbroken-lines
+12530,Ardham Chesukune Apthudavu,,0,1,0,no-english-lyrics; unbroken-lines
+12532,Adhigadhigo Alladhigo,,0,1,1,unbroken-lines
+12559,Aathma Varshamu Maapai Kuripinchumu,bro  Paul Emmanuel,0,1,1,unbroken-lines
+13119,Amma Kanna Minna O Yesayyaa,,0,2,2,
+13164,Aashrayamaa Aadhaaramaa Neeve Naa Yesayyaa,,0,1,1,unbroken-lines
+13193,Innaallu Thodugaa Maatho Nadichaavu,AR Stevenson,0,1,1,unbroken-lines
+13195,Aaraadhana Aaraadhana,,0,1,1,unbroken-lines
+13215,Aaraadhinchedam Aarbhaatinchedam Yesuni Sannidhilo,,0,1,1,unbroken-lines
+13236,Ananda Ganalatho,,0,1,0,no-english-lyrics; unbroken-lines
+13255,Athyunnatha Simhaasanamupai Aaseenudavaina Devaa,Amshumathi Mary,0,3,3,
+13257,Advitheeya Sathya Devudu,,0,1,1,unbroken-lines
+13258,Anni Velala Aaraadhana,,0,1,1,unbroken-lines
+13259,Anudinam Aa Prabhuni Varame,,0,1,1,unbroken-lines
+13260,Appagimpabadina Raathri,,0,1,1,unbroken-lines
+13261,Amoolyamaina Aanimuthyamaa,Rev  Rachel Jyothi Komanapalli,0,1,1,unbroken-lines
+13262,Ayyaa Naa Kosam Kalvarilo,,0,1,1,unbroken-lines
+13263,Avadhule Lenidi Divyamaina Nee Krupa,,0,1,1,unbroken-lines
+13264,Andaalu Chinde Shubha Vela Anduko Ee Vela,,0,1,1,unbroken-lines
+13265,Aakaasham Amrutha Jallulu Kurpinchindi,,0,1,1,unbroken-lines
+13267,Aathmeeya Gaanaalatho,,0,1,1,unbroken-lines
+13268,Aapathkaalamuna Naaku Aashrayamu Neeve,,0,1,1,unbroken-lines
+13269,Aakashaana Thaara Okati Velasindi,,0,1,1,unbroken-lines
+13270,Adugaduguna Raktha Bindhuvule,,0,1,1,unbroken-lines
+13271,Aarambhamayyindi Restoration,,0,1,1,unbroken-lines
+13272,Aalakinchu Devaa Sthothraalaapana,,0,1,1,unbroken-lines
+13273,Aalochanalo Goppavaadaa,,0,1,1,unbroken-lines
+13274,Aavedana Nenondanu,,0,1,1,unbroken-lines
+13275,Aascharyakarudaa Sthothram,,0,1,1,unbroken-lines
+13276,Aashraya Durgamaa Naa Yesayyaa,,0,1,1,unbroken-lines
+13277,Idigo Devuni Gorrepillaa,,0,1,1,unbroken-lines
+13278,Innellu Ilalo Unnaamu Manamu,,0,1,1,unbroken-lines
+13503,Adi Thala Meeda Poyabadi,,0,1,1,unbroken-lines
+13725,Aa Ningilo Veligindi Oka Thaara,,0,1,1,unbroken-lines
+14561,Adigo Naa Naava Bayalu Deruchunnadi,,0,1,1,unbroken-lines
+14562,Alphaa Omegayaina – Mahimaanvithudaa,,0,1,1,unbroken-lines
+14563,Andaala Thaara Arudenche Naakai Ambara Veedhilo,,0,1,1,unbroken-lines
+14565,Aathma Varshamunu Kummarinchayyaa,,0,1,1,unbroken-lines
+14566,Aanandamaanandame,,0,1,1,unbroken-lines
+14568,Aao Khushi Se Hum Sab Gaaye – Ek Madhurtham Geeth,,0,1,1,unbroken-lines
+14569,Aasha Theera Naa Yesu Swaamini Kolichedanu,,0,1,1,unbroken-lines
+14570,Aascharya Kaaryamul Cheyunu Yesu (2),,0,1,1,unbroken-lines
+14596,Aakaasha Pakshulanu Choodandi,,0,2,2,
+16150,Aaraadhana Anduko (2),,0,1,1,unbroken-lines
+16366,Aascharya Karamaina,,2,1,1,unbroken-lines
+16568,Aparadini Yesiah,,0,1,1,unbroken-lines
+19969,Aanandinthumu Aanandinthumu,,0,1,1,unbroken-lines
+20002,"Abednago, Shadraku, Mesheku Vacchipadene Pedda Chikku",,0,1,1,unbroken-lines
+20030,Iddarokkatiga Maareti Madhuramaina Kshanamu,,0,1,1,unbroken-lines
+20715,Aashatho Nee Koraku Eduru Choochuchundagaa,,0,1,1,unbroken-lines
+20741,Ambaraanni Daate Sambaraalu Nedu,,0,1,1,unbroken-lines
+21832,Aaraadhinchedhamu Aathmatho Sathyamutho,Praveen VB,0,3,0,no-english-lyrics
+21841,Aalochinchavaa Oh Nestham Aalochinchavaa,Joshua dean,0,5,1,
+22064,Aaraadhinchedamu Aathmatho Nirathamu,,0,1,1,unbroken-lines
+22065,Aananda Thailaabhishekamu Nimmu Aathma Swaroopudaa,,0,1,1,unbroken-lines
+22081,Annivelala Vinuvaadu,G Phinehas,0,1,1,unbroken-lines
+22093,Andhakaara Cherasaalalo Bandhakaala Irukulo,,0,1,1,unbroken-lines
+22100,Anthya Dinamulayandu Aathmanu,,0,1,1,unbroken-lines
+22107,Aaraadhinchedanu Aatmathoa Nirathamu,Pastor Raj Prakash Paul,0,1,1,unbroken-lines
+22108,Aanandam Neelone Aadhaaram Neevegaa,,0,1,1,unbroken-lines
+22119,Ah Ah Ah Ahahah,Franklin Sukumar,0,1,1,unbroken-lines
+22133,Aaraadhinchedamu Yesayya Naamamunu,,0,1,1,unbroken-lines
+22153,Ashirwadam Ashirvadham Yehova Dheevinchi Kaapadunugaka,"Dr  Prasanna kaki, music: Issac pilli",0,1,1,unbroken-lines
+22158,Aa Silvalo Ee Paapikai Nee Sareeramu Baliyaayane,Israel Dorababu,0,1,1,unbroken-lines
+22286,Aalakinchumo Devaa Maa Aakrandananu,Srinivas Bandaru,0,1,1,unbroken-lines
+22367,Idi Kamaneeya Kalyaana Raagam,Pandit KVK Churchil,0,1,1,unbroken-lines
+22417,Amarudavu Neevu Naa Yesayya Aadhiyu Anthamu Neevenayyaa,Hosanna Ministries,0,1,1,unbroken-lines
+22487,Aalanavai Paalanavai,Dr  Issac Raj Alanka,0,1,1,unbroken-lines
+22508,Aagani Parugulo Endina Edaarulu,"Joshua Shaik, Passion For Christ Ministries",2,1,1,unbroken-lines; stanza-count-mismatch te=2 en=0
+22583,Aada Janmanu Devudu Enduku Chesaadu,Pastham Srinivas,0,1,1,unbroken-lines
+22584,Aakaashamandu Neevundagaa,,0,1,1,unbroken-lines
+22651,Aaraadinchedham Aarbhaatinchedham,Samy Pachigalla,2,1,1,unbroken-lines; stanza-count-mismatch te=2 en=1
+22686,Andaala Baaludu Udayinchinaadu,Sayaram Gattu,0,1,1,unbroken-lines
+22712,Avaniloe Udbhavinchea Aadismbhuutunichuudarea,KR John,0,1,1,unbroken-lines
+22740,Andamaina Kshanamu Aanandamayamu,Josh Arasavelli,0,1,3,unbroken-lines
+22747,Avanilo Udbhavinche Aadi Sambhoothuni Choodare,KR JOHN,0,1,1,unbroken-lines
+22754,Aadiyanthamu Leni Vaadaa Sampoornudagu Maa Devaa,,0,1,1,unbroken-lines
+24835,Athi Sundharudavu Yesayya Manoharudavu Neevayya,Hosanna Ministries,0,1,1,unbroken-lines
+24891,Anjali Ghatiyinchinaamu,Late K Yohan Babu,0,3,1,
+24920,Abrahamu Devudavu Neeve Yesayya,Sumanth Gudivada,2,1,1,unbroken-lines
+24938,Intha Varaku Kaapaadinaavu Vandanaalayyaa,,0,1,1,unbroken-lines
+24943,Aadhilo Emi Lenappudu,Yohan Kadiyala,0,1,1,unbroken-lines
+24955,Anukshnnam Nii Krupaloo Pratidinam Nii Sannidiloo,Glory City Prabhakar,0,1,1,unbroken-lines
+24999,Athi Parishuddhudaa Stuthi Naivaidyamu Neeke Arpinchi Keerthinthunu,"Hosanna Ministries featuring Pastor John Wesley, Pastor Abraham , Pastor Ramesh",0,1,1,unbroken-lines
+25005,Alankarinchunu - Naa Manassaa Aayana Marachunaa,Ps  John Jebaraj,0,1,1,unbroken-lines
+25013,Aa Srehstambau Grandhamulo,,0,1,1,unbroken-lines
+26909,ANNI SAADHYAME YESULO Nannu Balaparachu Yesu Nande Nenu,Kranthi Chepuri,0,1,2,unbroken-lines
+26910,Emmanuelu Deva Naatho Unnavaadaa,Deepak Dinakar,0,1,1,unbroken-lines
+26927,Aakaashamu Nee Simhaasanam,,0,1,1,unbroken-lines
+26928,Adviteeyuda Nannelu Daivamaa,Hosanna Ministries Guntur,0,1,1,unbroken-lines
+27527,Antaraani Vaadavantu Nannu,Joel Kodali,0,9,9,
+27530,Inthavaraku Neevu Nannu Nadipinchutaku,Benny joshua,2,1,1,unbroken-lines
+27559,Aakaasha Veedhullo Aanandham Aa Ningi Thaarallo Ullaasam,Joshua Shaik,2,1,1,unbroken-lines
+27571,Akasa Gaganana Mersindhi Taraka,Ch Usha,0,1,0,no-english-lyrics; unbroken-lines
+27584,Aanandam Aanandamea Raaraaju Putteanani,Teja Emmanuel,2,1,1,unbroken-lines
+27594,Asalaina Christmas Mana Jeevithamey,Jonah Samuel,0,1,1,unbroken-lines
+27601,Aa Raatrilo Ningilo Oka Taara Goppa Tejamutho Prabhavinchenu Aa Reyi,M Prasanna kumar,3,1,1,unbroken-lines
+27602,Aa Madhya Raathrilo Bethlehemu Puramulo,Medidi Prasanna kumar,0,1,1,unbroken-lines
+27623,Inthakaalam Nee Krupaloo,Sampath Kareti,2,1,1,unbroken-lines; stanza-count-mismatch te=0 en=2
+27629,Anni Veallalandu Mammu Kaapaadu Deavaa,Pastor John Wesley,2,1,1,unbroken-lines
+27646,Aagadhu Naa Payanam Siyonu Cherakundaa,Pastor Jafanya Sastry,0,1,1,unbroken-lines
+27649,Ayyaa Vandanaalu Ayyaa Vandanaalu,,0,1,1,unbroken-lines
+27665,Andam Soundaryam Sirisampadhalu,Ch Shiva,0,1,1,unbroken-lines
+27668,Aaraadhyudavu Neeve Prabhu,,0,1,1,unbroken-lines
+27669,Anni Thelisina Thalli Mariyammaa,,0,1,1,unbroken-lines
+27725,Amruthamu Nee Prema Abhisakthudaa,"Keerthana , Samkeertha",0,1,1,unbroken-lines
+27778,Akshayamainadhi Yesuni Rakthamu,Jasper Kunapo,0,1,1,unbroken-lines
+27779,Aadhainchumayyaa Aadhukonevaadaa,Dr P Satish Kumar,0,1,1,unbroken-lines
+27791,Aaraadhanaku Yogyudaa Neeve Maa Sthuthula Sthothraahudaa,Prudhvi Raj,0,1,1,unbroken-lines
+28080,Aanandhageethamu Ne Padedha Christmas Subhavelalo,Suresh Nittala,0,1,1,unbroken-lines
+28081,Aanandamtho Sandadi Cheddam,Padaala Suresh Babu,0,1,1,unbroken-lines
+28082,Aanandam Aarbhatame Ilalo,Hepsi Bhaskar,3,1,1,unbroken-lines
+28083,Aadiyu Neeve Anthamu Neeve,Joel Kodali,0,1,1,unbroken-lines
+28084,Alasitivaa Prabhuu Mokarinchitivaa,Josely Komanapalli,1,1,1,unbroken-lines
+28085,Ammanu Minchina Preme Needhayya,Samuel Karmoji,0,1,1,unbroken-lines
+28086,Anudinamu Noothanamuga Vaatsalyatha Neeku Kalugunu,Anne Deborah K Mohanty,2,1,1,unbroken-lines; stanza-count-mismatch te=2 en=0
+28087,Adbhutha Vijayam Manade Manade Yesuni Naamamlo,P J Stephen Paul,0,1,1,unbroken-lines
+28088,Athyunnatha Simhaasanamu Pai Aasieenudavyana Dhevaa,Dr  Darla Amshumathi Mary,0,1,1,unbroken-lines
+28089,Adavi Pushpama Santhoshinchuma Kasturi Pushpama Ullasinchuma,Anne Deborah K Mohanty,2,1,1,unbroken-lines
+28090,Andhaala Chinni Gootilona Puttina Pichukanu,Sreshta Karmoji,0,1,1,unbroken-lines
+28502,Nanna Yesuve Nanna Yesuve,,0,1,0,no-english-lyrics; unbroken-lines
+28504,Yella Maghimegu Ganathegu,,0,3,0,no-english-lyrics
+28513,Yessappa Neenandhre Nanna Ghishta,,0,1,0,no-english-lyrics; unbroken-lines
+28517,Sugali Madhyalo,,0,3,0,no-english-lyrics
+28546,Samudhrava Vibajisi Nadesuve Nee,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0
+28632,Idi Ascharyame,Ps  Philip Gariki,2,1,1,unbroken-lines; stanza-count-mismatch te=2 en=1
+28645,Aakaasa Veedhilo Oka Thaara Velisindhi,Kishore Babu Thappeta,0,1,1,unbroken-lines
+28656,Emmanuel Natho Vunna Vaada,Rev Paul Thangaiah,0,1,1,unbroken-lines
+29499,Adigadigo Oka Yuddham,,0,1,1,unbroken-lines
+29508,Ashrayuda Naa Yesayya,Ps Ramesh,0,1,0,no-english-lyrics; unbroken-lines
+29555,Immaanuye,,0,1,1,unbroken-lines
+29556,Innaallu Thodugaa Maatho,,0,1,1,unbroken-lines
+29558,Iddarokkatiga Maareti,,0,1,1,unbroken-lines
+29559,Idigo Nenuoka Noothana,,0,1,1,unbroken-lines
+29560,Inna Yellaaga Maatho Undi Nadipinchavayya,Sister Nissy Paul,2,2,1,stanza-count-mismatch te=0 en=2
+29561,Idi Shubhodayam,,0,1,1,unbroken-lines
+29562,Idhe Naa Hrudhaya Vaanchana,,0,1,1,unbroken-lines
+29563,Idhi Devuni Nirnayamu,,0,1,1,unbroken-lines
+29564,Inthavaraku Neevu,,0,1,1,unbroken-lines
+29566,Inti Meeda Nunna Ontari,,0,1,1,unbroken-lines
+29608,Pallavi,Joshua Shaik,0,1,1,unbroken-lines
+29609,Athi Parishuddhudaa Sthuthi Naivedyamu,,0,1,1,unbroken-lines
+29705,Asamanudu Avamanaparachadu Ninnu,Pastor David Varma,0,1,1,unbroken-lines
+29722,Nee Sannidhi Anandhamu Aadyanthamu,Kishore Kathula,0,1,1,unbroken-lines
+29747,Aapatkalamuna Tana Parnashalalo,,5,1,0,no-english-lyrics; stanza-count-mismatch te=5 en=0
+29753,Ashaga Unnadi,,0,1,0,no-english-lyrics; unbroken-lines
+29776,Abba Ninne Premisthuna,,0,1,0,no-english-lyrics; unbroken-lines
+29777,Ascharyakaruda Naa Yesaiah,,0,1,0,no-english-lyrics; unbroken-lines
+29809,Abraham Gari Viswasam,,0,1,0,no-english-lyrics; unbroken-lines
+29828,Anandhinchudi,,0,1,0,no-english-lyrics; unbroken-lines
+29879,Andhala Bala Yesu,Traditional Telugu Christmas Church Song (Public Domain – Lyricist Unknown),0,0,0,no-telugu-lyrics; no-english-lyrics
+29935,Aaradhananku Arhuda,Sis. Priscilla Robert,0,1,0,no-english-lyrics; unbroken-lines
+29938,Andukonuma Swagatham,,0,1,0,no-english-lyrics; unbroken-lines
+29966,Inthakaalam Mammunu,Pastor Daniel Raju P,0,1,0,no-english-lyrics; unbroken-lines
+30010,అనుభవించే ప్రతి యివి,,0,1,0,no-english-lyrics; unbroken-lines; title-telugu-only
+30011,ఆదరించే వారు లేక,,0,1,0,no-english-lyrics; unbroken-lines; title-telugu-only
+30141,Asayam Neeve Yessaiah Adharam Neve Messaiah,Bro N Pradeep Reddy (WayToParadise),0,1,0,no-english-lyrics; unbroken-lines
+30165,అంతము సమీపమైయున్నది,,3,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=3 en=0; title-telugu-only
+30187,। ద్రాక్ష తోట నీది ।,,2,1,0,no-english-lyrics; unbroken-lines; stanza-count-mismatch te=2 en=0; title-telugu-only
+30242,అంతరంగ పురుషుడు సాధుగుణం,,0,1,0,no-english-lyrics; unbroken-lines; title-telugu-only
+30270,ఆనంద గీతాలు నే పాడుతు,,0,1,0,no-english-lyrics; unbroken-lines; title-telugu-only
+30271,ఆ పసిపిల్లలు చేసిన తప్పేంటి,Vikas Ravuri,0,1,0,no-english-lyrics; unbroken-lines; title-telugu-only
+30322,అద్భుత కృప నన్ను కాపాడెను,,0,1,0,no-english-lyrics; unbroken-lines; title-telugu-only
+30359,Annivelala Anandame,Pastor P.V. Moses Rao,0,1,0,no-english-lyrics; unbroken-lines
+30384,ఇమ్మానుయేలనువాడా ఉన్నావు నాతోడు,Dr. M.Moses,0,1,0,no-english-lyrics; unbroken-lines; title-telugu-only
+30398,Aaradhana Chethunu Anni Veylalaa,Bro Palaparthi Prabhudas,0,1,1,unbroken-lines

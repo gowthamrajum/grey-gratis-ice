@@ -1,0 +1,74 @@
+{
+  "song_name": "Sheethaakaalamlo Christmas kaanthulatho",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Rev John Sandeep"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓహో...ఓహో...ఓహో...ఓహో... ॥4॥",
+      "శీతాకాలంలో క్రిస్ట్మస్ కాంతులతో",
+      "జనియించిన శ్రీ యేసుని నీడలో ॥2॥",
+      "చీకు లేదు చింతా లేదు చాలా సంతోషం",
+      "బాధాలేదు భయము లేదు భలే ఆనందం ॥2॥",
+      "*హ్యాపీ క్రిస్ట్మస్ మెర్రీ క్రిస్ట్మస్*॥2॥",
+      "॥శీతాకాలంలో॥"
+    ],
+    "english": [
+      "Oho...oho...oho...oho... ॥4॥",
+      "Sheethaakaalamlo Christmas kaanthulatho",
+      "Janiyinchina Sree Yesuni needalo ॥2॥",
+      "Cheeku ledu chinthaa ledu chaalaa santhosham",
+      "Baadhaa ledu bhayamu ledu bhale aanandam ॥2॥",
+      "*Happy Christmas merry Christmas*॥2॥",
+      "॥Sheethaakaalamlo॥"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యాకోబులో నక్షత్రం ఉదయించెను",
+        "తూర్పుదేశ జ్ఞానులు గుర్తించెను ॥2॥",
+        "బెత్లెహేములో యేసుని చూచి",
+        "కానుకలిచ్చెను నాడు",
+        "ఆరాధించి ఆనందించి ॥2॥",
+        "యేసుని చాటెనుచూడు  ||ఓహోఓహోఓహోఓహో||"
+      ],
+      "english": [
+        "Yaakobulo nakshathram udayinchenu",
+        "Thoorpudhesha gnaanulu gurthinchenu ॥2॥",
+        "Bethlehemulo Yesuni choochi",
+        "Kaanukalichchenu naadu",
+        "Aaraadhinchi aanandhinchi ॥2॥",
+        "Yesuni chaatenu choodu ||Oho oho oho oho||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పొలమందు కాపరులకు దూత చెప్పెను",
+        "రక్షకుడు మీకొరకు పుట్టియున్నాడు ॥2॥",
+        "పశువుల తొట్టిలో ప్రభువును చూచి",
+        "పరవశమొందిరి వారు",
+        "కని విన్నవాటిని ప్రచురము చేసి ॥2॥",
+        "మహిమ పరచెను చూడు",
+        "*హ్యపీ క్రిస్ట్మస్ మెర్రీ క్రిస్ట్మస్*॥2॥",
+        "॥శీతాకాలంలో॥"
+      ],
+      "english": [
+        "Polamandhu kaaparulaku dootha cheppenu",
+        "Rakshakudu meekoraku puttiyunnaadu ॥2॥",
+        "Pashuvula thottilo Prabhuvunu choochi",
+        "Paravashamondhiri vaaru",
+        "Kani vinnavaatini prachuramu chesi ॥2॥",
+        "Mahima parachenu choodu",
+        "*Happy Christmas merry Christmas*॥2॥",
+        "॥Sheethaakaalamlo॥"
+      ]
+    }
+  ]
+}

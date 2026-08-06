@@ -1,0 +1,67 @@
+{
+  "song_name": "Yesuni chethulandhu Yesuni rommunan",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సాంగ్ ఆఫ్ సాంగ్స్ 2:6"
+    ],
+    "english": [
+      "Song of Songs 2:6"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసుని చేతులందు - యేసుని రొమ్మునన్",
+        "నాకు నభయమందు - నందె పరుండెదన్",
+        "దూతలు పాడుచుండు - పాటను వింటివా",
+        "నాయన యందుండి - పొందు సుఖంబహా!",
+        "యేసుని చేతులందు - యేసుని రొమ్మునన్",
+        "నాకు నభయమందు - నందె పరుండెదన్"
+      ],
+      "english": [
+        "Yesuni chethulandhu - Yesuni rommunan",
+        "Naaku nabhayamandhu - Nande parundedhan",
+        "Doothalu paaduchundu - Paatanu vintivaa",
+        "Naayana yandhundi - Pondu sukhambahaa!",
+        "Yesuni chethulandhu - Yesuni rommunan",
+        "Naaku nabhayamandhu - Nande parundedhan"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసుని చేతులందు మిక్కిలి క్షేమము",
+        "ఏ దుఃఖబాధలైన నచ్చోట చేరవు",
+        "పాపపు భీతి బాధలంటవు నన్నిటన్",
+        "కన్నీరు సందియంబుల్ - కొన్ని దినాళ్ళిటన్"
+      ],
+      "english": [
+        "Yesuni chethulandhu mikkili kshemamu",
+        "E dhukhabaadhalaina nachchota cheravu",
+        "Paapapu bheethi baadhalantavu nannitan",
+        "Kanneeru sandhiyambul - Konni dhinaallitan"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యేసే నా యాశ్రయంబు - నాకై చావొందెగా",
+        "గొల్గోతయందు నుండు - నా గురి సర్వదా",
+        "చీకటి దాటుదాక - నోర్పుతో నుండెదన్",
+        "జేరెద నింక నాక - మంచును నమ్మెదన్"
+      ],
+      "english": [
+        "Yese naa yaashrayambu - Naakai chaavondhegaa",
+        "Golgothayandhu nundu - Naa guri sarvadaa",
+        "Cheekati daatudhaaka - Norputho nundedhan",
+        "Jeredha ninka naaka - Manchunu nammedhan"
+      ]
+    }
+  ]
+}

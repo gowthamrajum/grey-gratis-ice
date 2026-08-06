@@ -1,0 +1,93 @@
+{
+  "song_name": "Raare Yaesuni Joothamu",
+  "author": {
+    "Authored by": "",
+    "రచన": "బేతాళ జాన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "రారె యేసుని జూతము కోరిక దీర రారె యేసుని జూతము",
+      "రారె యేసుని జూడ రారాజై మన జీవా ధార",
+      "కరుణామృత సారమై యున్నాఁ డు"
+    ],
+    "english": [
+      "Raare Yaesuni Joothamu Koarika Dheera Raare Yaesuni Joothamu",
+      "Raare Yaesuni Jooda Raaraajai Mana Jeevaa Dhaara",
+      "Karunaamrutha Saaramai Yunnaa Du"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సారహీన మగు సం సారాబ్ధిలోఁ జిక్కి భారమనుచు",
+        "నీత నేరని వారికి తారకమైన దేవకు మారుఁడు",
+        "యేసుఁడూ రార్చు చుండు టకు భూరిసహాయ కారియై",
+        "చేయూతకుఁ గోరి యిచ్చుచు క్షేమ తీరం బునకుఁ జేర్చ",
+        "దారిఁ జూపుచు మీవి చారముల్ దొలఁగించు"
+      ],
+      "english": [
+        "Saaraheena Magu Sam Saaraabdhiloa Jikki Bhaaramanuchu",
+        "Neetha Naerani Vaariki Thaarakamaina Dhaevaku Maarudu",
+        "Yaesudoo Raarchu Chundu Taku Bhoorisahaaya Kaariyai",
+        "Chaeyoothaku Goari Yichchuchu Kshaema Theeram Bunaku Jaercha",
+        "Dhaari Joopuchu Meevi Chaaramul Dholaginchu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఘోరమైన పాప భారంబు మోయుచు దారిఁ గానక",
+        "తారు మారు లైన నరులఁ గూరిమితో ఁ బిల్చును",
+        "నారక బాధ లూరక దొలఁ గించుచు నీరసు లంచు",
+        "భారంబు తా మోయుచు నోరి మధి కముఁ జూపి",
+        "నేరంబు బాపి శృం గారమైన మోక్ష ద్వారమై యున్నాఁడు"
+      ],
+      "english": [
+        "Ghoaramaina Paapa Bhaarambu Moayuchu Dhaari Gaanaka",
+        "Thaaru Maaru Laina Narula Goorimithoa Bilchunu",
+        "Naaraka Baadha Looraka Dhola Ginchuchu Neerasu Lanchu",
+        "Bhaarambu Thaa Moayuchu Noari Madhi Kamu Joopi",
+        "Naerambu Baapi Shrum Gaaramaina Moaksha Dhvaaramai Yunnaadu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కారుణ్యుఁడును నిర్వి కారుఁడు దురితోప కారుండు",
+        "శుద్ధాలం కారుండౌ యేసుని నే రీతిగా వింటిమో",
+        "యా రీతి మో క్షారామ మున జూతుము",
+        "సార వాక్య ధోరణిన్ బడి పోదము",
+        "దారుణం బగు శ్రమలు బారుబారుగా నున్న",
+        "పోరి దాఁటి ప్రభునిఁ జేరి సుఖింతము"
+      ],
+      "english": [
+        "Kaarunyudunu Nirvi Kaarudu Dhurithoapa Kaarundu",
+        "Shuddhaalam Kaarundau Yaesuni Nae Reethigaa Vintimoa",
+        "Yaa Reethi Moa Kshaaraama Muna Joothumu",
+        "Saara Vaakya Dhoaranin Badi Poadhamu",
+        "Dhaarunam Bagu Shramalu Baarubaarugaa Nunna",
+        "Poari Dhaati Prabhuni Jaeri Sukhinthamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆ రమ్యపురిన బ్రే మారగించుచు నిత్య మారోగ్యముకు బొంది",
+        "సారెసారెకుఁ ప్రభుని నారావముగ స్తోత్రము",
+        "చారుతర దే వా రాధనముఁ జేతము",
+        "నోరార నా పేరు నే పూజింతుము",
+        "దూరస్థులై యున్న వారలం దన రక్త ధారోదకముచేఁ",
+        "జే కూరునట్లుగఁ జేయు"
+      ],
+      "english": [
+        "Aa Ramyapurina Brae Maaraginchuchu Nithya Maaroagyamuku Bondhi",
+        "Saaresaareku Prabhuni Naaraavamuga Sthoathramu",
+        "Chaaruthara Dhae Vaa Raadhanamu Jaethamu",
+        "Noaraara Naa Paeru Nae Poojinthumu",
+        "Dhoorasthulai Yunna Vaaralam Dhana Raktha Dhaaroadhakamuchae",
+        "Jae Koorunatluga Jaeyu"
+      ]
+    }
+  ]
+}

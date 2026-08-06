@@ -1,0 +1,49 @@
+{
+  "song_name": "Ninne Vedakeda Nikai Bradikeda",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిన్నె వెదకెద నీకై బ్రదికెదా",
+      "యేసుతో యీ జీవితం ఆనందమే ఇది సత్యం (2)"
+    ],
+    "english": [
+      "Ninne Vedakeda Nikai Bradikeda",
+      "Yesuto Yi Jivitam Anamdame Idi Satyam (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చీకటి లోఐనా చింతలు ఎన్నో ఉన్నా (2)",
+        "కన్నీరు తుడిచే యేసు నాతో ఉండగా",
+        "నా గుండె గాయాలన్ని తానే మాన్పగా (2)",
+        "యేసుతో యీ జీవితం ఆనందమే ఇది సత్యం (2)"
+      ],
+      "english": [
+        "Chikati Loaaina Chimtalu Enno Unna (2)",
+        "Kanniru Tudiche Yesu Nato Umdaga",
+        "Na Gumde Gayalanni Tane Manpaga (2)",
+        "Yesuto Yi Jivitam Anamdame Idi Satyam (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా కొరకై ప్రాణ మిచ్చినా నీకొరకే జీవిస్తున్నా (2)",
+        "నా ఆత్మ ప్రాణం సర్వం నిన్నే తలచగా",
+        "నా గుండె శబ్దం నిత్యం యేసే యేసేగా (2)",
+        "యేసుతో యీ జీవితం ఆనందమే ఇది సత్యం (2)"
+      ],
+      "english": [
+        "Na Korakai Prana Michchina Nikorake Jivistunna (2)",
+        "Na Atma Pranam Sarvam Ninne Talachaga",
+        "Na Gumde Sabdam Nityam Yese Yesega (2)",
+        "Yesuto Yi Jivitam Anamdame Idi Satyam (2)"
+      ]
+    }
+  ]
+}

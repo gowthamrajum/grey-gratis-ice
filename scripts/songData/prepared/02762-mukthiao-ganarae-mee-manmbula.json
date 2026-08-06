@@ -1,0 +1,85 @@
+{
+  "song_name": "Mukthi Ganarae Mee Manambula",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ముక్తిఁ గనరే మీ మనంబుల శక్తిగల రక్షకుని పలుకులు",
+      "ముక్తిసాధన ములకు మూలము భక్తిగొని యానంద మొందరే"
+    ],
+    "english": [
+      "Mukthi Ganarae Mee Manambula Shakthigala Rakshakuni Palukulu",
+      "Mukthisaadhana Mulaku Moolamu Bhakthigoni Yaanandha Mondharae"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపభారము క్రింద శ్రమపడు పాపులారా రండు నేనే",
+        "ప్రాపు నెమ్మది మీకిడుదునని పరమరక్షకుఁ డాన తిచ్చెను"
+      ],
+      "english": [
+        "Paapabhaaramu Krindha Shramapadu Paapulaaraa Randu Naenae",
+        "Praapu Nemmadhi Meekidudhunani Paramarakshaku Daana Thichchenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇచ్ఛయించెడు వాఁడు యిచటికి వచ్చి జీవజలంబు రుచిగా",
+        "పుచ్చు కొనుగా కనుచుఁ బల్కెను సచ్ఛరితుఁడు మనుష్య పుత్రుఁడు"
+      ],
+      "english": [
+        "Ichchayinchedu Vaadu Yichatiki Vachchi Jeevajalambu Ruchigaa",
+        "Puchchu Konugaa Kanuchu Balkenu Sachcharithudu Manushya Puthrudu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆకసమునందుండి యిటు దిగి లోకమునకుఁ జీవము నొసఁగునది",
+        "ఈ కడనె యున్న దది నేనను యేసు ప్రభు వాక్కు మధురాన్నము"
+      ],
+      "english": [
+        "Aakasamunandundi Yitu Dhigi Loakamunaku Jeevamu Nosagunadhi",
+        "Ee Kadane Yunna Dhadhi Naenanu Yaesu Prabhu Vaakku Madhuraannamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నేనె మార్గము నేనె సత్యము నేనె జీవము నావలననే",
+        "గాని యెపఁడును తండ్రి యొద్దికి రానలవిగాదని వచించెను"
+      ],
+      "english": [
+        "Naene Maargamu Naene Sathyamu Naene Jeevamu Naavalananae",
+        "Gaani Yepadunu Thandri Yodhdhiki Raanalavigaadhani Vachinchenu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "జీవజలము నుద్రావుటకు మీ భావన లనెడి పాత్ర ముంచుచు",
+        "చేవఁ గొని పానించుచు నిరత జీవమును వెలుఃగొంది బ్రతుకను"
+      ],
+      "english": [
+        "Jeevajalamu Nudhraavutaku Mee Bhaavana Lanedi Paathra Munchuchu",
+        "Chaeva Goni Paaninchuchu Niratha Jeevamunu Velugondhi Brathukanu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఎక్కడను యిటువంటి ప్రభువును మక్కువను వేసారి వెతకిన",
+        "చిక్క(బో డిటువచ్చి జూడుడి గ్రక్కునను జేసట్టు డిప్పుడే"
+      ],
+      "english": [
+        "Ekkadanu Yituvanti Prabhuvunu Makkuvanu Vaesaari Vethakina",
+        "Chikka(boa Dituvachchi Joodudi Grakkunanu Jaesattu Dippudae"
+      ]
+    }
+  ]
+}

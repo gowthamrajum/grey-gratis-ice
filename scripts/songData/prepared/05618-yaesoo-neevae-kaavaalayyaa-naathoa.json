@@ -1,0 +1,44 @@
+{
+  "song_name": "Yaesoo Neevae Kaavaalayyaa - Naathoa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసూ నీవే కావాలయ్యా - నాతో కూడా రావాలయ్యా ఘనుడా నీ దివ్యసన్నిధి - నను ఆదుకునే నా పెన్నిది అ.ప: నీవే కావాలయ్యా - నాతో రావాలయ్యా (2)"
+    ],
+    "english": [
+      "yaesoo neevae kaavaalayyaa - naathoa koodaa raavaalayyaa ghanudaa nee dhivyasanniDhi - nanu aadhukunae naa pennidhi a.pa: neevae kaavaalayyaa - naathoa raavaalayyaa (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవే నాతో వస్తే - దిగులు నాకుండదు (2) నీవే ఆజ్ఞాపిస్తే - తెగులు నన్నంటదు (2) నీవే కావాలయ్యా - నాతో రావాలయ్యా (2) ||యేసు||"
+      ],
+      "english": [
+        "neevae naathoa vasthae - dhigulu naakuMdadhu (2) neevae aajnYaapisthae - thegulu nannMtadhu (2) neevae kaavaalayyaa - naathoa raavaalayyaa (2) ||yaesu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీవే నాతో వస్తే - కొరత నాకుండదు (2) నీవే ఆజ్ఞాపిస్తే - క్షయతనన్నంటుదు (2) నీవే కావాలయ్యా - నాతో రావాలయ్యా (2) ||యేసు||"
+      ],
+      "english": [
+        "neevae naathoa vasthae - koratha naakuMdadhu (2) neevae aajnYaapisthae - kShyathanannMtudhu (2) neevae kaavaalayyaa - naathoa raavaalayyaa (2) ||yaesu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీవే నాతో వస్తే - ఓటమి నాకుండదు (2) నీవే ఆజ్ఞాపిస్తే - చికటి నన్నంటదు (2) నీవే కావాలయ్యా - నాతో రావాలయ్యా (2) ||యేసు||"
+      ],
+      "english": [
+        "neevae naathoa vasthae - oatami naakuMdadhu (2) neevae aajnYaapisthae - chikati nannMtadhu (2) neevae kaavaalayyaa - naathoa raavaalayyaa (2) ||yaesu||"
+      ]
+    }
+  ]
+}

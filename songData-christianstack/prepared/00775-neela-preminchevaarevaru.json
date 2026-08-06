@@ -1,0 +1,64 @@
+{
+  "song_name": "Neela Preminchevaarevaru",
+  "author": {
+    "Authored by": "Samuel Pammi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీలా ప్రేమించేవారెవరు ఇలలో లేరు",
+      "నీవే ప్రేమామయా",
+      "నీలా ప్రేమించేవారెవరు ఈ ధరలో లేరు",
+      "నీవే ప్రేమామయా"
+    ],
+    "english": [
+      "Neela Preminchevaarevaru ilalo leru",
+      "neeve premaamayaa",
+      "neela preminchevaarevaru ee dharalo leru",
+      "neeve premaamayaaNinnu nenu Preminchakamundhe",
+      "nannu neevu preminchithive",
+      "nee mahimananthaa vidachi",
+      "naa korakai dhigi vachithive"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిన్ను నేను ప్రేమించకముందే",
+        "నన్ను నీవు ప్రేమించితివే",
+        "నీ మహిమనంతా విడచి",
+        "నా కొరకై దిగివచ్చితివే"
+      ],
+      "english": [
+        "Ninnu nenu Preminchakamundhe",
+        "nannu neevu preminchithive",
+        "naa siksha anthaa aa siluvalo",
+        "naa korakai bhariyinchithive"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిన్ను నేను ప్రేమించకముందే",
+        "నన్ను నీవు ప్రేమించితివే",
+        "నా శిక్ష అంతా ఆ సిలువలో",
+        "నా కొరకై భరియించితివే"
+      ],
+      "english": [
+        "Andhakaaramulo aasaa jyothivai",
+        "cheekati brathukunu nee velugutho nimpaavu",
+        "paramunu vidachi bhuvikethenchi nannu vimochinchaavu",
+        "needhu raajya vaarasunigaa nannu chesukunnaavu",
+        "evaru cheyani saahasam naakai siluvalo neevu chesaavu",
+        "vadhaku thebadina gorrepillagaa naakai neevu maaraavu",
+        "Thalli marachinaa neevu maruvavu",
+        "thandri vidachinaa neevu viduvavu",
+        "nanu anaadhagaa viduvanani vaagdhaanam chesina naadhudavu",
+        "aathmaroopigaa naalo nivasinchi nanu aadharinchaavu",
+        "thwaralo paramunaku nannu konipova thirigi raanaiyunnaavu",
+        "yugayugaalu neetho unde bhaagyam naaku ichaavu"
+      ]
+    }
+  ]
+}

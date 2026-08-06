@@ -1,0 +1,75 @@
+{
+  "song_name": "Na Pakshamuna",
+  "author": {
+    "Authored by": "A R Stevenson",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా పక్షమున నీవుండగా ముందెవరూ నిలువలేరుగా",
+      "ఊరక నిలిచిన కార్యం జరుగును"
+    ],
+    "english": [
+      "Naa pakshamuna neevundagaa mundhevaroo niluvalerugaa",
+      "Ooraka nilichina kaaryam jarugunu",
+      "Yuddhamu needhe maa Yehovaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యుద్ధము నీదే మా యెహోవా"
+      ],
+      "english": [
+        "Mosaginchabaddaanu throsiveyabaddaanu aandholanathoo vilapinchannu",
+        "Naa dhukkhamunu naatyamgaa neeve maarchaavu",
+        "Vedhinchina shatruvu aasha bhangam chesaavu",
+        "Nemmadhinichhaavu Yesu nemmadhinichhaavu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మోసగించబడ్డాను త్రోసివేయబడ్డాను",
+        "ఆందోళనతో విలపించాను",
+        "నా దుఃఖమును నాట్యంగా నీవే మార్చావు",
+        "వేదించిన శత్రువు ఆశ భంగం చేసావు",
+        "నెమ్మదినిచ్చావు యేసూ నెమ్మదినిచ్చావు"
+      ],
+      "english": [
+        "Anagadhrokkabaddaanu vidichipettabaddaanu anthaa mugisindhanukunnaanu",
+        "Naa otamini vijayamgaa neeve maarchaavu",
+        "Kolpoyina sthaanam kante hechhugaa lepaavu",
+        "Gaayam maanpaavu Yesu gaayam maanpaavu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అణగద్రొక్కబడ్డాను విడిచిపెట్టబడ్డాను",
+        "అంతా ముగిసిందనుకున్నాను",
+        "నా ఓటమిని విజయంగా నీవే మార్చావు",
+        "కోల్పోయిన స్థానం కంటే హెచ్చుగా లేపావు",
+        "గాయం మాన్పావు యేసూ గాయం మాన్పావు"
+      ],
+      "english": [
+        "Geli cheyabaddaanu gaayaparachabaddaanu avamaanamuthoo sagamayyaanu",
+        "Naa swapnamunu sathyamgaa neeve maarchaavu",
+        "Oohinchani dhikkula nundi saayam pampaavu",
+        "Bhaaram dhinchaavu Yesu bhaaram dhinchaavu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "గేళి చేయబడ్డాను గాయపర్చబడ్డాను",
+        "అవమానముతో సగమయ్యాను",
+        "నా స్వప్నమును సత్యంగా నీవే మార్చావు",
+        "ఊహించని దిక్కుల నుండి సాయం పంపావు",
+        "భారం దించావు యేసూ భారం దించావు"
+      ],
+      "english": []
+    }
+  ]
+}

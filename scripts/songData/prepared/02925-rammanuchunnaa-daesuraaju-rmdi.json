@@ -1,0 +1,54 @@
+{
+  "song_name": "Rammanuchunnaa Daesuraaju RMdi Sarva Janulaaraa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రమ్మనుచున్నా డేసురాజు రండి సర్వ జనులారా",
+      "ఇల్లువాకిలి లేనివారలు ఇహాన నమ్మదగనివారలు",
+      "తన రాజ్యము మీకిచ్చును యేసు"
+    ],
+    "english": [
+      "Rammanuchunnaa Daesuraaju RMdi Sarva Janulaaraa",
+      "Illuvaakili Laenivaaralu Ihaana Nammadhaganivaaralu",
+      "Thana Raajyamu Meekichchunu Yaesu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కరవుచే కృశించుచున్న మరణించుచున్న ప్రజలారా",
+        "ఆకలిదప్పులు తీర్చును మీకు రండి సర్వజనులారా"
+      ],
+      "english": [
+        "Karavuchae KrushiMchuchunna MaraNiMchuchunna Prajalaaraa",
+        "Aakalidhappulu Theerchunu Meeku RMdi Sarvajanulaaraa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ముండ్ల మకుటము ప్రక్కన గాయము పాదహస్తములలో గాయములు",
+        "పొందిన ప్రభువే పిల్చెను మిమ్ము రండి సర్వజనులారా"
+      ],
+      "english": [
+        "MuMdla Makutamu Prakkana Gaayamu Paadhahasthamulaloa Gaayamulu",
+        "PoMdhina Prabhuvae Pilchenu Mimmu RMdi Sarvajanulaaraa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రయమున ప్రియులారా కూడి రండి పరీక్ష చేయండి",
+        "భరించును మీ భారములన్నియు రండి సర్వజనులారా"
+      ],
+      "english": [
+        "Rayamuna Priyulaaraa Koodi RMdi PareekSh ChaeyMdi",
+        "BhariMchunu Mee Bhaaramulanniyu RMdi Sarvajanulaaraa"
+      ]
+    }
+  ]
+}

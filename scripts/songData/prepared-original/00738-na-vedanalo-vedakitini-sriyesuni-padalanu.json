@@ -1,0 +1,35 @@
+{
+  "song_name": "Na Vedanalo Vedakitini Sriyesuni Padalanu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా వేదనలో వెదకితిని శ్రీయేసుని పాదాలను నా మనస్సులో కోరితిని నీ రూపమునే దీనుడనై"
+    ],
+    "english": [
+      "Na vedanalo vedakitini sriyesuni padalanu Na manassulo koritini ni rupamune dinudanai"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వేకు జాములో విలపించితిని నా పాపములో వ్యసనములో ఓదార్చుము విసుగొందక నీ కృపలో నా ప్రభువా (2)"
+      ],
+      "english": [
+        "Veku jamulo vilapimchitini na papamulo vyasanamulo Odarchumu visugomdaka ni krupalo na prabuva (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ హస్తములో నిదురింపజేయుమా నీ ప్రేమలో లాలించుమా ఓదార్చుము విసుగొందక నీ కృపలో నా ప్రభువా (2)"
+      ],
+      "english": [
+        "Ni hastamulo nidurimpajeyuma ni premalo lalimchuma Odarchumu visugomdaka ni krupalo na prabuva (2)"
+      ]
+    }
+  ]
+}

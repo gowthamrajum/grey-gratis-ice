@@ -1,0 +1,52 @@
+{
+  "song_name": "Shaashwathamainadi Yesuni prema - Unnathamainadi naa Yesu pilupu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "శాశ్వతమైనది యేసుని ప్రేమ - ఉన్నతమైనది నా యేసు పిలుపు",
+      "విలువైనదీ బలమైనదీ 2-",
+      "మరువలేనిది నా యేసు ప్రేమ"
+    ],
+    "english": [
+      "Shaashwathamainadi Yesuni prema - Unnathamainadi naa Yesu pilupu",
+      "Viluvainadhee balamainadhee 2-",
+      "Maruvalenidhi naa Yesu prema"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా జీవితములో ఆశలన్నీ నిరాశలై మారాయి -",
+        "గమ్యం ఎరుగని ఈ పయనంలో -",
+        "ఒంటరిగానే తిరిగాను - ఆశాకిరణమై ఆశను కలిగించావూ",
+        "ఈ శేషజీవితం నీ కర్పించెదనయ్యా శా"
+      ],
+      "english": [
+        "Naa jeevithamulo aashalannee niraashalai maaraayi -",
+        "Gamyam erugani ee payanamlo -",
+        "Ontarigaane thirigaanu - Aashaakiranamai aashanu kaliginchaavoo",
+        "Ee sheshajeevitham neekarpinchedhanayyaa shaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా జీవితాన్ని నీ చేతిలో విరచి -",
+        "పంచిపెట్టుము నా యేసయ్యా 2",
+        "సమృద్థి జీవములో నను నింపుతున్నావయ్యా....... ఆ.... ఆ.....",
+        "సంతోష గానముతో నిను స్తుతియించెదనయా శా"
+      ],
+      "english": [
+        "Naa jeevithaanni nee chethilo virachi -",
+        "Panchipettumu naa Yesayyaa 2",
+        "Samruddhi jeevamulo nanu nimputhunnaavayyaa....... aa.... aa.....",
+        "Santhosha gaanamutho ninu sthuthiyinchedhanayaa shaa"
+      ]
+    }
+  ]
+}

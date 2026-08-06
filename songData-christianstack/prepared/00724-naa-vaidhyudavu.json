@@ -1,0 +1,34 @@
+{
+  "song_name": "Naa Vaidhyudavu",
+  "author": {
+    "Authored by": "Pastor Raj Prakash Paul",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిన్నే నే నమ్మితీ",
+      "నీవే నా వైధ్యుడవు",
+      "నిన్నే నే నమ్మితీ",
+      "నీవే నా ఆధారము"
+    ],
+    "english": [
+      "Ninne ne nammithi",
+      "neeve naa vaidhyudavu",
+      "nenne ne nammithi",
+      "neeve naa aadhaaramu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏదేమైనా, ఏ స్థితియైన",
+        "నీవే నా సహాయము"
+      ],
+      "english": [
+        "Edhaymaina, ey sthithiyaina",
+        "neeve naa sahaayamu"
+      ]
+    }
+  ]
+}

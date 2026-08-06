@@ -1,0 +1,60 @@
+{
+  "song_name": "Bhariyinchalenayyaa nee maunamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "భరియించలేనయ్యా నీ మౌనము",
+      "సహియించలేనయ్యా ఈ భారము",
+      "ఊహించలేనయ్యా ఈ దూరము",
+      "మన్నించు యేసయ్యానా పాపము"
+    ],
+    "english": [
+      "Bhariyinchalenayyaa nee maunamu",
+      "Sahiyinchalenayyaa ee bhaaramu",
+      "Oohinchalenayyaa ee dooramu",
+      "Manninchu Yesayyaa naa paapamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ ప్రేమ కాదని నే వెళ్ళితి నీ తోడు లేకయే నే నలసితి",
+        "అంతా మాయేకదా ఈ పాడు లోకము",
+        "నమ్మకద్రోహమేగా ఈ లోక స్నేహము",
+        "నిజమైన స్నేహమేగా నీ సిలువ త్యాగము",
+        "ఆ విలువ తెలియకేగా ఈ గాయము"
+      ],
+      "english": [
+        "Nee prema kaadani ne vellithi nee thodu lekaye ne nalasithi",
+        "Anthaa maayekadhaa ee paadu lokamu",
+        "Nammakadhrohamegaa ee loka snehamu",
+        "Nijamaina snehamegaa nee siluva thyaagamu",
+        "Aa viluva theliyakegaa ee gaayamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిరాశ నిసృహలో నలిగిపోతిని",
+        "నీ మాట కాదని దూరమైతిని",
+        "నా బ్రతుకు భారమాయె బలపరచు యేసయ్యా",
+        "నా తనువు చిద్రమాయె కరుణించు యేసయ్యా",
+        "విడువని బంధమేగా ఆ కలువరి యాగము.",
+        "నను వీడి పోవనేగా ఈ మౌనగీతము."
+      ],
+      "english": [
+        "Niraasha nispruhalo naligipothini",
+        "Nee maata kaadani dooramaithini",
+        "Naa brathuku bhaaramaaye balaparachu Yesayyaa",
+        "Naa thanuvu chidhramaaye karuninchu Yesayyaa",
+        "Viduvani bandhamegaa aa Kaluvari yaagamu.",
+        "Nanu veedi povanegaa ee maunageethamu."
+      ]
+    }
+  ]
+}

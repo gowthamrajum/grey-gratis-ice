@@ -1,0 +1,86 @@
+{
+  "song_name": "Aahaaaaamthyatheerpu Nmdh",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆహా",
+      ".అంత్యతీర్పు నందున .",
+      ".సింహంబుగా నుండు"
+    ],
+    "english": [
+      "aahaa",
+      ".aMthyatheerpu nMdhuna .",
+      ".siMhMbugaa nuMdu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఓ మానవుండ నీ గతి యేమౌనో తెలియునా యేమేమి చేయుచుంటివో తప్పించుకొందువా?",
+        "||ఆహా||"
+      ],
+      "english": [
+        "oa maanavuMda nee gathi yaemaunoa theliyunaa yaemaemi chaeyuchuMtivoa thappiMchukoMdhuvaa?",
+        "||aahaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "లోకాలు పుట్టినప్పటినుండి మృతులైన ఏ కులజుడైన నాటికి తెర్పులో నిలచును ||ఆహా||"
+      ],
+      "english": [
+        "loakaalu puttinappatinuMdi mruthulaina ae kulajudaina naatiki therpuloa nilachunu ||aahaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మృతులైన ఘనులు హీనులు యేసయ్య యెదుటను ప్రతివారు నిలిచియుందురు బ్రతికిన రీతిగనే ||ఆహా||"
+      ],
+      "english": [
+        "mruthulaina ghanulu heenulu yaesayya yedhutanu prathivaaru nilichiyuMdhuru brathikina reethiganae ||aahaa||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "గ్రంధాలు విప్పబడగ గ్రంధాలలో వారి గ్రంథంబు బట్టబయలై పొందుదురు తీర్పును ||ఆహా||"
+      ],
+      "english": [
+        "grMDhaalu vippabadaga grMDhaalaloa vaari grMThMbu battabayalai poMdhudhuru theerpunu ||aahaa||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నరులెల్ల క్రియలచొప్పున మరి తీర్పు పొందుదురు మరణము మృతుల లోకము గురియౌను యగ్నికి ||ఆహా||"
+      ],
+      "english": [
+        "narulella kriyalachoppuna mari theerpu poMdhudhuru maraNamu mruthula loakamu guriyaunu yagniki ||aahaa||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఈనాడు నీవు కూడను యేసుని విడిచినచో ఆనాడు నీవు కూడాను అందుండి ఏడ్చెదవు ||ఆహా||"
+      ],
+      "english": [
+        "eenaadu neevu koodanu yaesuni vidichinachoa aanaadu neevu koodaanu aMdhuMdi aedchedhavu ||aahaa||"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "దేవుని జీవగ్రంథము దేవుడు తెరచును ఎవ్యాని పేరందుండదో వాడగ్నిలో బడును ||ఆహా||"
+      ],
+      "english": [
+        "dhaevuni jeevagrMThamu dhaevudu therachunu evyaani paerMdhuMdadhoa vaadagniloa badunu ||aahaa||"
+      ]
+    }
+  ]
+}

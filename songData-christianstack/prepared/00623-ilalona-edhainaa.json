@@ -1,0 +1,41 @@
+{
+  "song_name": "Ilalona Edhainaa",
+  "author": {
+    "Authored by": "Pastor Ravinder Vottepu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇలలోన ఏదైనా వేరు చేయగలదా",
+      "నీ ప్రేమ నుండి యేసయ్యా"
+    ],
+    "english": [
+      "Ilalona edhainaa veru cheyagaladhaa",
+      "nee prema nundi yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఓ….నా మార్గము నీవే",
+        "ఓ…నా జీవము నీవే"
+      ],
+      "english": [
+        "ooo… naa maargamu neeve",
+        "ooo… naa jeevamu neeve"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కాలాలు మారినా – అపజయము ఎదురైనా",
+        "నా విజయము నీవే యేసయ్యా"
+      ],
+      "english": [
+        "kaalaalu maarina – apajayamu edhuraina",
+        "naa vijayamu neeve yesayya"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "song_name": "Yesu Janminchenu",
+  "author": {
+    "Authored by": "Pr D.Isaac Gnana Raj",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు జన్మించెను రక్షకుడు ఉదయించెను",
+      "బేత్లెహేము పురములో కన్య గర్భమందు పశువుల పాకలో జన్మించెను"
+    ],
+    "english": [
+      "Yesu janminchenu rakshakudu udhayinchenu",
+      "Bethlehem puramulo kanya garbhamandhu pashuvula paakalo janminchenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లోకానికి వెలుగు ఆయనే – మార్గము సత్యము జీవమాయనే",
+        "సర్వమును సృజియించిన – సృష్టికర్త యేసు దిగివచ్చెను"
+      ],
+      "english": [
+        "Lokaaniki velugu aayane – maargamu sathyamu jeevam aayane",
+        "Sarvamunu srujinchina – srushtikartha Yesu dhigivachchenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపము నుండి విడిపించును – పరిశుద్ధుడు యేసు ఒక్కడే",
+        "పాపపరిహారము చేయను – దేవుని గొర్రెపిల్లగా వచ్చెను"
+      ],
+      "english": [
+        "Paapamunundi vidipinchunu – parishuddhudu Yesu okkade",
+        "Paapaparihaaramu cheyanu – Dhevuni gorrepillaga vachchenu"
+      ]
+    }
+  ]
+}

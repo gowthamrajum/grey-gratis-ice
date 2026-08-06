@@ -1,0 +1,53 @@
+{
+  "song_name": "Shree Yaesureethigaanu Praemimpa Goarudhun",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "శ్రీ యేసురీతిగాను ప్రేమింపఁ గోరుదున్ నే నుండఁ గోరుదున్",
+      "కోపంబులేనివాఁడు శాంతుండు నాయనే",
+      "నా స్వామి యొంటిగాను ప్రార్ధించునప్పుడు",
+      "ఆయన తండ్రితోను మాట్లాడుచుండెను."
+    ],
+    "english": [
+      "Shree Yaesureethigaanu Praemimpa Goarudhun Nae Nunda Goarudhun",
+      "Koapambulaenivaadu Shaanthundu Naayanae",
+      "Naa Svaami Yontigaanu Praardhinchunappudu",
+      "Aayana Thandrithoanu Maatlaaduchundenu."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శ్రీ యేసురీతిగాను నే నుండఁ గోరుదున్",
+        "దూషింబఁబడఁగాను దీవించుచుండెను",
+        "శ్రీ యేసురీతిగాను ప్రేమింపఁ గోరుదున్",
+        "నా చెలికాండ్ల మేలు నేఁ గోరు చుందును"
+      ],
+      "english": [
+        "Shree Yaesureethigaanu Nae Nunda Goarudhun",
+        "Dhooshimbabadagaanu Dheevinchuchundenu",
+        "Shree Yaesureethigaanu Praemimpa Goarudhun",
+        "Naa Chelikaandla Maelu Nae Goaru Chundhunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శ్రీ యేసురీతి గాను నేనుండఁ గోరుదున్",
+        "నావంటి చిన్నవారిన్ ప్రేమించి పిల్చును.",
+        "శ్రీ యేసురీతిగాను నేనిప్పు డిచ్చటన్",
+        "నీ రీతిగాను యేసూ న న్నుండఁ జేయుమీ"
+      ],
+      "english": [
+        "Shree Yaesureethi Gaanu Naenunda Goarudhun",
+        "Naavanti Chinnavaarin Praeminchi Pilchunu.",
+        "Shree Yaesureethigaanu Naenippu Dichchatan",
+        "Nee Reethigaanu Yaesoo Na Nnunda Jaeyumee"
+      ]
+    }
+  ]
+}

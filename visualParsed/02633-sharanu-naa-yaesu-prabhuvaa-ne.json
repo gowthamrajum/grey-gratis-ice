@@ -1,0 +1,55 @@
+{
+  "song_name": "Sharanu Naa Yesu Prabhuvaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "మిక్కిలి సమూయేలు"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "శరణు నా యేసు ప్రభువా నీవెగా పరలోకమునకుఁ ద్రోవ కరుణతో",
+      "నన్నుఁ గావ నీ కన్న గర్త యెవ్వఁడు యేసువా ||శరణు||"
+    ],
+    "english": [
+      "Sharanu naa Yesu prabhuvaa neevegaa paralokamunakun dhrova karunatho",
+      "Nannun gaava nee kanna gartha evvandu Yesuvaa ||Sharanu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పర సుఖము విడిచినావు కన్యక మరియగర్భమున నీవు ధరణి",
+        "నుదయించినావు నీ కన్న దాత యెవ్వఁడు యేసువా  ||శరణు||"
+      ],
+      "english": [
+        "Para sukhamu vidichinaavu kanyaka Mariyagarbhamuna neevu dharani",
+        "Nudhayinchinaavu nee kanna daatha evvandu Yesuvaa ||Sharanu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపభారము క్రిందను బడి యున్న పాపాత్ములను నెల్లను జేఁపట్టి",
+        "రక్షింపఁగా నీ కన్న శ్రేష్ఠుఁ డెవ్వఁడు యేసువా  ||శరణు||"
+      ],
+      "english": [
+        "Paapabhaaramu krindhanu badi yunna paapaathmulanu nellanu jenpatti",
+        "Rakshimpangaa nee kanna shreshthun devvandu Yesuvaa ||Sharanu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మరణమై లేచినావు జీవింప మార్గంబుఁ జూపినావు పరమహిమ",
+        "జూపినావు నీ కన్నఁ ప్రభుఁ డెవ్వఁడు యేసువా  ||శరణు||"
+      ],
+      "english": [
+        "Maranamai lechinaavu jeevimpa maargambun joopinaavu paramahima",
+        "Joopinaavu nee kannan prabhun devvandu Yesuvaa ||Sharanu||"
+      ]
+    }
+  ]
+}

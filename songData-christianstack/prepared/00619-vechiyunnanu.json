@@ -1,0 +1,154 @@
+{
+  "song_name": "Vechiyunnanu",
+  "author": {
+    "Authored by": "Vijay Kondapuram",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "[Verse 1]",
+      "కొండలతట్టు నా కన్నులెత్తి",
+      "చూచున్నాను నీ వైపు",
+      "కరములు చాపి నీ వాగ్దానముకై",
+      "వేచియున్నాను నీ ముందు"
+    ],
+    "english": [
+      "[Verse 1]",
+      "Kondala thattu naa kannuletti",
+      "Choochuchunnanu nee vaipu",
+      "Karamulu chaapi nee vagdanamukai",
+      "Vechiyunnanu nee mundu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "[Pre-chorus]",
+        "నా సహాయుడా నా సమర్ధుడా",
+        "నా సజీవుడా జయమిచ్చు జయశీలుడా"
+      ],
+      "english": [
+        "[Pre-chorus]",
+        "Naa sahaayuda – Naa samarthuda",
+        "Naa sajeevuda – Jayamichu jayasheeluda"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "[Chorus 1]",
+        "కునుకవు నీవు నిదురించవు",
+        "నిరతము నా మొరలను ఆలకింతువు"
+      ],
+      "english": [
+        "[Chorus 1]",
+        "Kunukavu neevu nidurinchavu",
+        "Nirathamu naa moralanu aalakinthuvu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "[Verse 2]",
+        "నీ కార్యములు ఆశ్చర్యములు",
+        "నీ యోచనలు మహనీయము",
+        "రుచి చూచితిని నా బాల్యమునుండి",
+        "సాగిపోదును ఈ దృఢ విశ్వాసముతో"
+      ],
+      "english": [
+        "[Verse 2]",
+        "Nee kaaryamulu ascharyamulu",
+        "Nee yochanalu mahaneeyamu",
+        "Ruchi choochithini naa baalyamunundi",
+        "Saagipodunu ee dhruda visvasamutho"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "[Pre-chorus]",
+        "నా సహాయుడా నా సమర్ధుడా",
+        "నా సజీవుడా జయమిచ్చు జయశీలుడా"
+      ],
+      "english": [
+        "[Pre-chorus]",
+        "Naa sahaayuda – Naa samarthuda",
+        "Naa sajeevuda – Jayamichu jayasheeluda"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "[Chorus 2]",
+        "కునుకవు నీవు నిదురించవు",
+        "నిరతము నా మొరలను ఆలకింతువు",
+        "కునుకవు నీవు నిదురించవు",
+        "నిత్య నిబంధన స్థిరపరచెదవు"
+      ],
+      "english": [
+        "[Chorus 2]",
+        "Kunukavu neevu nidurinchavu",
+        "Nirathamu naa moralanu aalakinthuvu",
+        "Kunukavu neevu nidurinchavu",
+        "Nithya nibandhana sthiraparachedavu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "[Bridge 1]",
+        "నీతిని చీల్చి మార్గము చేసి",
+        "ఆరిన నేలపై నడిపిన దేవా",
+        "అగ్నిలో చేరి తోడుగ నడిచి",
+        "సజీవ సాక్షిగ నిలిపిన దేవా"
+      ],
+      "english": [
+        "[Bridge 1]",
+        "Neetini cheelchi maargamu chesi",
+        "Aarina nelapai nadipina Deva",
+        "Agnilo cheri thoduga nadichi",
+        "Sajeeva saakshiga nilipina Deva"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "[Bridge 2]",
+        "పర్వతములను తొలగించుము",
+        "నీ వాగ్ధానమును నెరవేర్చుము"
+      ],
+      "english": [
+        "[Bridge 2]",
+        "Parvathamulanu – Tholaginchumu",
+        "Nee vaagdanamunu – Neraverchumu"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "[Pre-chorus]",
+        "నా సహాయుడా నా సమర్ధుడా",
+        "నా సజీవుడా జయమిచ్చు జయశీలుడా"
+      ],
+      "english": [
+        "[Pre-chorus]",
+        "Naa sahaayuda – Naa samarthuda",
+        "Naa sajeevuda – Jayamichu jayasheeluda"
+      ]
+    },
+    {
+      "stanza_number": 9,
+      "telugu": [
+        "[Chorus 1]",
+        "కునుకవు నీవు నిదురించవు",
+        "నిరతము నా మొరలను ఆలకింతువు"
+      ],
+      "english": [
+        "[Chorus 1]",
+        "Kunukavu neevu nidurinchavu",
+        "Nirathamu naa moralanu aalakinthuvu"
+      ]
+    }
+  ]
+}

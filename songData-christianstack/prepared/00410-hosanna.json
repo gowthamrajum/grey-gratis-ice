@@ -1,0 +1,68 @@
+{
+  "song_name": "Hosanna",
+  "author": {
+    "Authored by": "Joel Kodali",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "హోసన్న హోసన్న",
+      "జయ గీతం పాడెదం",
+      "హోసన్న హోసన్న",
+      "జయ ధ్వనులు చేసెదం",
+      "మన ప్రభువు మహా దేవుడు",
+      "యేసునకు హోసన్న",
+      "రక్షకుడు పరిశుద్ధుడు",
+      "యేసునకు హోసన్న"
+    ],
+    "english": [
+      "Hosanna hosanna",
+      "jaya geetham paadedham",
+      "hosanna hosanna",
+      "jaya dhwanulu chesedham",
+      "mana prabhuvu mahaa devudu",
+      "yesunaku hosanna",
+      "rakshakudu parishuddhudu",
+      "yesunaku hosanna"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శిక్షకు పాత్రులము దైవ విరోధులము",
+        "దేవుని క్రోధము దిగి రావలెను",
+        "దయగల దేవుడు కనికరము చూపెను",
+        "యేసును లోకముకు పంపెను",
+        "శిక్షకు బదులుగా కృపయే దిగి వచ్చెను",
+        "మన అపవాదిని యేసు జయించెను",
+        "పాపపు సంకెళ్ళను తెంచెను",
+        "మరణపు ముళ్ళును విరిచి వేసెను",
+        "మనలో తన జీవమును నింపెను",
+        "తన జయ గాధలో మనలను చేర్చెను",
+        "మన ఈ జీవితము దానము దేవునిదే",
+        "మన ఆనందమే తన ఆశయము",
+        "ఆనందించెదము యేసులో ఎల్లప్పుడు",
+        "స్తుతి పాటలు పాడుచు ఉల్లాసముగా",
+        "యేసు మన బ్రతుకును నాట్యముగా మార్చెను"
+      ],
+      "english": [
+        "Sikshaku paathrulamu dhaiva virodhulamu",
+        "dhevuni krodhamu dhigi raavalenu",
+        "dhayagala devudu kanikaramu choopenu",
+        "yesunu lokamuku pampenu",
+        "sikshaku badhulugaa krupaye dhigi vachenu",
+        "Mana apavaadhini yesu jayinchenu",
+        "paapapu sankellanu thenchenu",
+        "maranapu mullunu virichi vesenu",
+        "manalo thana jeevamunu nimpenu",
+        "thana jaya gaadhalo manalanu cherchenu",
+        "Mana ee jeevithamu dhaanamu devunidey",
+        "mana aanandhamey thana aasayamu",
+        "aanandhinchedhamu yesulo ellappudu",
+        "sthuthi paatalu paaduchu ullaasamugaa",
+        "yesu mana brathukunu naatyamugaa maarchenu"
+      ]
+    }
+  ]
+}

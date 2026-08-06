@@ -1,0 +1,46 @@
+{
+  "song_name": "Raajaa Nee Bhavanamuloa Raeyimbagalu Vaechiyumdhunu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాజా ! నీ భవనములో - రేయింబగలు వేచియుందును స్తుతించి ఆనందింతును - చింతలు మరచెదను ఆరాధనా.",
+      ". - అబ్బా తండ్రీ నీకేనయ్యా"
+    ],
+    "english": [
+      "raajaa ! nee bhavanamuloa - raeyiMbagalu vaechiyuMdhunu sthuthiMchi aanMdhiMthunu - chiMthalu marachedhanu aaraaDhanaa.",
+      ". - abbaa thMdree neekaenayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా బలమా నాకోట ఆరాధన నీవే నా దుర్గమా ఆశ్రయమా ఆరాధనా నీకే"
+      ],
+      "english": [
+        "naa balamaa naakoata aaraaDhana neevae naa dhurgamaa aashrayamaa aaraaDhanaa neekae"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అంతట నివసించు యెహోవా - ఎలోహీమ్‌ ఆరాధనా నీకే నా యొక్క నీతి యెహోవా - సిద్కేేను ఆరాధన నీకే"
+      ],
+      "english": [
+        "aMthata nivasiMchu yehoavaa - eloaheem? aaraaDhanaa neekae naa yokka neethi yehoavaa - sidhkaeaenu aaraaDhana neekae"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరిశుద్ధ పరచే యెహోవామెకదేేష్‌ ఆరాధన నీకే - రూపించుదైవం యెహోవా హోసేను ఆరాధన నీకే"
+      ],
+      "english": [
+        "parishudhDha parachae yehoavaamekadhaeaeSh? aaraaDhana neekae - roopiMchudhaivM yehoavaa hoasaenu aaraaDhana neekae"
+      ]
+    }
+  ]
+}

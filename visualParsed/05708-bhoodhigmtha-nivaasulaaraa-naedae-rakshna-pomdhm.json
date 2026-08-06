@@ -1,0 +1,54 @@
+{
+  "song_name": "Bhoodhigantha nivaasulaaraa - Nede rakshana pondandi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "భూదిగంత నివాసులారా - నేడే రక్షణ పొందండి (2)",
+      "ఇదియే సమయము - యుగ సమాప్తి కాలము (2)",
+      "నేడే యేసుని చేరుడి - హల్లెలూయ గానము చేయుడి(2)"
+    ],
+    "english": [
+      "Bhoodhigantha nivaasulaaraa - Nede rakshana pondandi (2)",
+      "Idiye samayamu - Yuga samaapthi kaalamu (2)",
+      "Nede Yesuni cherudi - Hallelooya gaanamu cheyudi(2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చీకటిలో ఉన్నవారికి - వెలుగును చూపించును",
+        "చెరలోనున్న వారికి - విడుదల దయచేయును (2)",
+        "మూగవారికి - మాటలు దయచేయును- గ్రుడ్డివారు - చూపు పొందుదురు",
+        "తన నామమున - రక్షణ దయచేయును (2)IIఇదియేII"
+      ],
+      "english": [
+        "Cheekatilo unnavaariki - Velugunu choopinchunu",
+        "Cheralonunna vaariki - Vidudala dhayacheyunu (2)",
+        "Moogavaariki - Maatalu dhayacheyunu- Gruddivaaru - Choopu pondhudhuru",
+        "Thana naamamuna - Rakshana dhayacheyunu (2)||Idiye||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "లోబడనొల్లని వారలకు - దినమెల్ల చేతులు చాచును",
+        "తనను వెదకని వారికి - ఉచితముగా దొరుకును (2)",
+        "మన పాపములు - తలకు మించినవై యున్నవి-",
+        "మన దోషములు - ఆకాశమంత ఎత్తుగా నున్నవి",
+        "మన కొరకు సిలువలో - మరణించి లేచెను (2) IIఇదియేII"
+      ],
+      "english": [
+        "Lobadanollani vaaralaku - Dinamella chethulu chaachunu",
+        "Thananu vedhakani vaariki - Uchithamugaa dorukunu (2)",
+        "Mana paapamulu - Thalaku minchinavai yunnavi-",
+        "Mana doshamulu - Aakaashamantha etthugaa nunnavi",
+        "Mana koraku siluvalo - Maraninchi lechenu (2) ||Idiye||"
+      ]
+    }
+  ]
+}

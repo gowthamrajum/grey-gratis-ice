@@ -1,0 +1,88 @@
+{
+  "song_name": "Bethlehemu Puramulo",
+  "author": {
+    "Authored by": "Joel Kodali",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "బేత్లెహేము పురములో ఒక నాటి రాతిరి",
+      "ఊహలకు అందని అద్భుతము జరిగెను",
+      "లోక చరిత మార్చిన దైవకార్యము",
+      "కన్యమరియ గర్భమందు శిశువు పుట్టెను",
+      "అహహ్హ ఆశ్చర్యము ఓహోహో ఆనందము",
+      "రారాజు యేసు క్రీస్తుని జననము",
+      "అహహ్హ ఏమా దృశ్యము ఓహొహ్హో ఆ మహత్యము",
+      "సర్వోన్నతుని స్వరూపము ప్రత్యక్షము"
+    ],
+    "english": [
+      "Bethlehemu puramulo oka naati raathiri",
+      "oohalaku andhani adbuthamu jarigenu",
+      "loka charitha maarchina daiva kaaryamu",
+      "kanya mariya garbamandhu sisuvu puttenu",
+      "ah ha ha aascharyamu oh ho ho aanandhamu",
+      "raaraaju yesu kreesthuni jananamu",
+      "ah ha ha eyma drushyamu oh ho ho aa mahathyamu",
+      "sarvonnathuni swaroopamu prathyakshamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ధన్యులం హీనులం మనము ధన్యులం",
+        "దైవమే మనల కోరి దరికి చేరెను",
+        "మనిషిగా మన మధ్య చేరే దీన జన్మతో",
+        "పశువుల తోట్టెలోన నిదుర చేసెను",
+        "అంటు బాల యేసుని చూడ వచ్చి గొల్లలు",
+        "మనకు శిశువు పుట్టెనంటూ పరవశించిపోయిరి"
+      ],
+      "english": [
+        "Dhanyulam heenulam manamu dhanyulam",
+        "dhaivame manala kori dhariki cherenu",
+        "manishigaa mana madhya chere dheena janmatho",
+        "pasuvula thottelona nidhura chesenu",
+        "antu baala yesuni chooda vachi gollalu",
+        "manaku sisuvu puttenantu paravasinchipoyiri"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పుట్టెను యూదులకు రాజు పుట్టెను",
+        "వెతికిరి ఆ రాజు జాడ కొరకు వెతికిరి",
+        "నడిపెను ఆకశానా తార కనపడి",
+        "నిలిచెను యేసు ఉన్న చోటు తెలిపెను",
+        "తడవు చేయకొచ్చిరి తూర్పు దేశ జ్ఞానులు",
+        "యేసు చెంత మొకరించి కానుకలర్పించిరి"
+      ],
+      "english": [
+        "Puttenu yudhulaku raaju puttenu",
+        "vethikiri aa raaju jaada koraku vethikiri",
+        "nadipenu aakaasaanaa thaara kanapadi",
+        "nilichenu yesu unna chotu thelipenu",
+        "thadavu cheyakochiri thoorpu desa gnaanulu",
+        "yesu chentha mokarinchi kaanukalarpinchiri"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దొరికెను రక్షకుడు మనకు దొరికెను",
+        "తోడుగా ఇమ్మానుయేలు మనకు దొరికెను",
+        "దేవుని ప్రేమయే ప్రత్యక్షమాయెను",
+        "యేసుని రూపమే మనకు సాక్షము",
+        "యేసు జన్మ నింపెను లోకమంతా సంబరం",
+        "నింపెను నిరీక్షణ కృపయు సమాధానము"
+      ],
+      "english": [
+        "Dhorikenu rakshakudu manaku dhorikenu",
+        "thodugaa immaanuyelu manaku dhorikenu",
+        "dhevuni premaye prathyakshamaayenu",
+        "yesuni roopame manaku saakshamu",
+        "yesu janma nimpenu lokamanthaa sambaram",
+        "nimpenu nireekshana krupayu samaadhaanamu"
+      ]
+    }
+  ]
+}

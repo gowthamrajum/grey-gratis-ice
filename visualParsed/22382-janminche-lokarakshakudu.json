@@ -1,0 +1,78 @@
+{
+  "song_name": "Janminche lokarakshakudu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bishop Samuel Finny Pachigalla"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "జన్మించె లోకరక్షకుడు",
+      "మన పాప విమోచకుడు",
+      "జగతికి ముక్తిని ప్రసాదించే రక్షకుడు",
+      "ప్రభుల ప్రభువు రాజుల రాజు",
+      "పరము వీడి జన్మించె",
+      "జన్మించె"
+    ],
+    "english": [
+      "Janminche lokarakshakudu",
+      "Mana paapa vimochakudu",
+      "Jagathiki mukthini prasaadhinche rakshakudu",
+      "Prabhula prabhuvu raajula raaju",
+      "Paramu veedi janminche",
+      "Janminche"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గాబ్రియేలు దూత",
+        "కాపరులకు చెప్పెనే",
+        "రక్షకుడు విమోచకుడు",
+        "మనకొరకు ఇల పుట్టాడని",
+        "పరలోక సైన్య సమూహము",
+        "ప్రభువును స్తుతియించెనే",
+        "ఆనంద ధ్వనులు చేస్తు",
+        "శుభములు తెలుపుతు వచ్చెనే  ||జన్మించె||"
+      ],
+      "english": [
+        "Gaabriyelu dootha",
+        "Kaaparulaku cheppene",
+        "Rakshakudu vimochakudu",
+        "Manakoraku ila puttaadani",
+        "Paraloka sainya samoohamu",
+        "Prabhuvunu sthuthiyinchene",
+        "Aananda dhvanulu chesthu",
+        "Shubhamulu theluputhu vachchene  ||Janminche||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తూర్పు దేశ జ్ఞానులు",
+        "తారను చూచిరి",
+        "యూదుల రాజుగ",
+        "పుట్టిన వానిని కనుగొన వెతికిరి",
+        "తార నడిపే జ్ఞానులను",
+        "ప్రభువు పాద సన్నిధికి",
+        "కానుకలను అర్పించి",
+        "సాగిలపడి వందనం చేసెనే  ||జన్మించె||",
+        "నా నా నా నా నా  ||జన్మించె||"
+      ],
+      "english": [
+        "Thoorpu desha gnaanulu",
+        "Thaaranu choochiri",
+        "Yoodula raajuga",
+        "Puttina vaanini kanugona vethikiri",
+        "Thaara nadipe gnaanulanu",
+        "Prabhuvu paada sannidhiki",
+        "Kaanukalanu arpinchi",
+        "Saagilapadi vandanam chesene  ||Janminche||",
+        "Naa naa naa naa naa  ||Janminche||"
+      ]
+    }
+  ]
+}

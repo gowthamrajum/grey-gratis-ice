@@ -1,0 +1,97 @@
+{
+  "song_name": "Sandram Lo Padava Prayanam",
+  "author": {
+    "Authored by": "P Srinivas",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సంద్రంలో పడవ ప్రయాణం – బ్రతుకులోన భక్తి ప్రయాణం",
+      "తీరాన్ని చేరే గమనం పరమునకు చేర్చే గమ్యం",
+      "దరిచేర్చయ్యా యెహోవా పరమునకు చేర్చుమయ్యా యెహోవా",
+      "కృపచూపయ్యా నా ప్రభువా కాపాడుమయ్యా నా ప్రభువా"
+    ],
+    "english": [
+      "Sandhramlo padava prayaanam – brathukulona bakthi prayaanam",
+      "theeraanni chere gamanam paramunaku cherche gamyam",
+      "dharicherchayyaa yehova paramunaku cherchumayyaa yehova",
+      "krupachoopayyaa naa prabhuvaa kaapaadumayya naa prabhuva"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నడికడలిలో… నావ ఉన్నది అలలచేత అల్లాడుచున్నది",
+        "బ్రతుకు మధ్యలోనా… భక్తి ఉన్నది",
+        "హింసలతో అది కాస్తా వణుకుచున్నది",
+        "నడికడలిలో నావ ఉన్నది అలలచేత అల్లాడుచున్నది",
+        "బ్రతుకు మధ్యలో భక్తి ఉన్నది",
+        "హింసలతో కాస్తా వణుకుచున్నది",
+        "తీరం చేరాలన్నా నీ కృపయేకదా",
+        "అంతం వరకూ సహించే నీ చలువే కదా",
+        "కెరటాలతో జలము పడవలోకి చేరినట్లు",
+        "విశ్వాసంలో భాదలు అలుముకున్నవి",
+        "నాకున్న బలము సరిపోదయ్యా",
+        "నాకున్న శక్తి చాలనే చాలదయ్యా",
+        "బాహువు చేత గమ్యము చేర్చి",
+        "నీ శక్తి చేత కడముట్టించుమయ్యా",
+        "విశ్వాసంలో ఓడ బ్రద్దలైనా",
+        "హుమెనైయును, అలెక్సంద్రు ఎందరో వున్నారు",
+        "సత్యవిషయమై అనుభవజ్ఞానం లేని",
+        "విశ్వాసమును చెరిపే యన్నే యంబ్రెలున్నారు",
+        "విశ్వాసంలో ఓడ బ్రద్దలై హుమెనైయును, అలెక్సంద్రు ఎందరో",
+        "సత్యవిషయమై అనుభవము లేని",
+        "విశ్వాసము చెరిపేవారు ఎందరో",
+        "భక్తిహీనులనుండి నన్ను కాపాడి",
+        "సత్యమార్గములో నన్ను నడిపించు నాదేవా",
+        "పెనుగాలిలాంటి ఆపదలెదురైనా",
+        "మరణాలెన్నో సంభవించినా",
+        "భక్తిలో నన్ను స్థిరముగా చేసి",
+        "మరణం వరకు తొట్రిల్నియ్యకయ్యా",
+        "అవమానాలు ఎన్నో ఎదురైన",
+        "భక్తుల మాదిరినా సాగిపోనియ్యుమయ్యా",
+        "దరిచేర్చయ్యా యెహోవా",
+        "పరమునకు చేర్చుమయ్యా యెహోవా",
+        "కృపచూపయ్యా నా ప్రభువా",
+        "కాపాడుమయ్యా నా ప్రభువా"
+      ],
+      "english": [
+        "Nadikadalilo… naava unnadhi alalachetha allaaduchunnadhi",
+        "brathuku madhyalonaa… bakthi unnadhi",
+        "himsalatho adhi kaastha vanukuchunnadhi",
+        "nadikadalilo naava unnadhi alalachetha allaaduchunnadhi",
+        "brathuku madhyalo bakthi unnadhi",
+        "himsalatho kaastha vanukuchunnadhi",
+        "theeram cheraalannaa nee krupaye kadaa",
+        "antham varuku sahinche nee chaluve kada",
+        "kerataalatho jalamu padavaloki cherinatlu",
+        "viswaasamlo bhaadhalu alumukunnavi",
+        "naakunna balamu saripodhayyaa",
+        "naakunna shakthi chaalane chaaladhayyaa",
+        "baahuvu chetha gamyamu cherchi",
+        "nee shakthi chetha kadamuttinchumayyaa",
+        "Viswaasamlo oda braddhalainaa",
+        "humanaiyunu, alexendhru endharo unnaaru",
+        "sathya vishayamai anubhavagnaanam leni",
+        "viswaasamunu cheripe yanne, yambrelunnaaru",
+        "viswaasamlo oda braddhalainaa",
+        "humanaiyunu, alexendhru endharo unnaaru",
+        "sathya vishayamai anubhavagnaanam leni",
+        "viswaasamunu cheripevaaru endharo",
+        "bakthiheenula nundi nannu kaapaadi",
+        "sathya maargamulo nannu nadipinchu naa devaa",
+        "penugaalilaanti aapadhaledhurainaa",
+        "maranaalenno sambhavinchinaa",
+        "bakthilo nannu sthiramugaa chesi",
+        "maranam varuku thottrilneeyyakayyaa",
+        "avamaanaalu enno edhuraina",
+        "bakthula maadhirinaa saagiponiyyumayya",
+        "dharicherchayya yehovaa",
+        "paramunaku cherchumayya yehovaa",
+        "krupachoopayyaa naa prabhuvaa",
+        "kaapaadumayya naa prabhuvaa"
+      ]
+    }
+  ]
+}

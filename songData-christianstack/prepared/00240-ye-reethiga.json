@@ -1,0 +1,103 @@
+{
+  "song_name": "Ye Reethiga",
+  "author": {
+    "Authored by": "Bishop Dr. Pandiri Moses",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఒక తరమైన చాలదు నీ కోసము",
+      "ఒక యుగమైన చాలదు నీ కోసము"
+    ],
+    "english": [
+      "Oka tharamaina chaaladhu nee kosamu",
+      "Oka yugamaina chaaladhu nee kosamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏ రీతిగా నిన్ను స్తుతియింతును",
+        "ఏ రీతిగా నిన్ను ఘనపరతును",
+        "ఏ రీతిగా నిన్ను కీర్తింతును",
+        "ఏ రీతిగా నిన్ను కొనియాడెదన్"
+      ],
+      "english": [
+        "Ee reethiga ninnu sthuthiyinthunu",
+        "Ee reethiga ninnu ghanaparathunu",
+        "Ee reethiga ninnu keerthinthunu",
+        "Ee reethiga ninnu koniyaadedhan"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆ……ఆ……..ఆ……ఆ….."
+      ],
+      "english": [
+        "Aa… aa… aa… aa…"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "⁠ ⁠ఒక క్షణమైన దూరమైతే ప్రాణమాగదే",
+        "ఒక అడుగైన విడచివెళ్ళితే ఊపిరాడదే",
+        "నీవులేని ఈ లోకం నాకెందుకు",
+        "నడిపించు నన్ను నీ పొందుకు"
+      ],
+      "english": [
+        "Oka kshanamaina dhooramaithe praanamagadhe",
+        "Oka adugaina vidachivellithe oopiraadadhe",
+        "Neewuleni ee lokam naakendhuku",
+        "Nadipinchu nannu nee pondhuku"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "⁠ ⁠నా కన్నుల్లో నీ రూపమే",
+        "నా గుండెల్లో నీ ధ్యానమే",
+        "నా ఆశలలో నీ స్నేహమే",
+        "నా శ్వాస నీ కోసమే…….",
+        "నీ తోడే లేని నా బ్రతుకుకు నాతోడై ఉండు కడవరకు"
+      ],
+      "english": [
+        "Naa kannullo nee roopame",
+        "Naa gundello nee dhyaaname",
+        "Naa aashalalo nee snehamme",
+        "Naa shwaasa nee kosame",
+        "Nee thodae leeni naa brathukuku naathodai undu kadavarakoo"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "కోరస్:",
+        "ఒక తరమైన చాలదు నీ కోసము",
+        "ఒక యుగమైన చాలదు నీ కోసము"
+      ],
+      "english": [
+        "Chorus (Repeat):",
+        "Oka tharamaina chaaladhu nee kosamu",
+        "Oka yugamaina chaaladhu nee kosamu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఏ రీతిగా నిన్ను స్తుతియింతును",
+        "ఏ రీతిగా నిన్ను ఘనపరతును",
+        "ఏ రీతిగా నిన్ను కీర్తింతును",
+        "ఏ రీతిగా నిన్ను కొనియాడెదన్ …. యేసయ్యా"
+      ],
+      "english": [
+        "Ee reethiga ninnu sthuthiyinthunu",
+        "Ee reethiga ninnu ghanaparathunu",
+        "Ee reethiga ninnu keerthinthunu",
+        "Ee reethiga ninnu koniyaadedhan.. Yesayya"
+      ]
+    }
+  ]
+}

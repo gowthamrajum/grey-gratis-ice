@@ -1,0 +1,30 @@
+{
+  "song_name": "Naa Yesayya Naa Rakshaka",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా యేసయ్యా నా రక్షకా",
+      "నా నమ్మదగిన దేవా కీర్తింతును"
+    ],
+    "english": [
+      "Naa Yesayyaa Naa Rakshakaa",
+      "Naa Nammadagina Deva Keerthinthunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రేమింతును నీ సన్నిధానమును",
+        "కీర్తింతును యేసయ్యా"
+      ],
+      "english": [
+        "Preminthunu Nee Sannidhaanamunu",
+        "Keerthinthunu Yesayyaa"
+      ]
+    }
+  ]
+}

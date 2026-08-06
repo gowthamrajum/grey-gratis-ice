@@ -1,0 +1,64 @@
+{
+  "song_name": "Yesu rakshakaa shathakoti sthothram",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Raj Prakash Paul"
+    ],
+    "రచన": [
+      "బ్రదర్ రాజ్ ప్రకాష్ పాల్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "Yఎసు ఱక్శకా షతకొటి Sతొత్రమ్",
+      "ఝీవన ఢాత కొటి కొటి సతొత్రమ్",
+      "Yఎసు భజియిన్చి Pఊజిన్చి ఆఅరాదిన్చెడను (2)",
+      "ణా సఅమస్తము ఆర్పిన్చి ఆఅరాదిన్చెడను (2)",
+      "Yఎసు ఆఅరాదిన్చెడను – ఆఅరాదిన్చెడను",
+      "షొఉర్యుడు ణా పరాన పరియుడు",
+      "ణన్ను ఱక్శిమ్ప ణర ఱూపమెట్తాడు (2)",
+      "ణా సఇల్వ ంఒసి ణన్ను స్వఅర్గ ళొకమెక్కిన్చాడు (2)",
+      "ఛల్లని ఢెవుడు ణా ఛక్కని Yఎసుడు (2) ||Yఎసు ఱక్శకా||"
+    ],
+    "english": [
+      "Yesu rakshakaa shathakoti sthothram",
+      "Jeevana daatha koti koti sthothram",
+      "Yesu bhajiyinchi poojinchi aaraadhinchedanu (2)",
+      "Naa samasthamu arpinchi aaraadhinchedanu (2)",
+      "Yesu aaraadhinchedanu – aaraadhinchedanu",
+      "Shauryudu naa praana priyudu",
+      "Nannu rakshimpa nara roopamettaadu (2)",
+      "Naa silva mosi nannu swarga lokamekkinchaadu (2)",
+      "Challani Devudu naa chakkani Yesudu (2) ||Yesu rakshakaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పఇలిచినాడు ణీవె ణా సఒట్తన్నాడు",
+        "ఏన్నటికిని ఏడబాయనన్నాడు (2)",
+        "థన పరెమ ఛూప ణాకు ణెల ఢిగినాడు (2)",
+        "ణా సఎడ ఢీర్చి ణన్ను ఝీవిమ్పజెసాడు (2)  ||ఎసు||"
+      ],
+      "english": [
+        "Pilichinaadu neeve naa sotthannaadu",
+        "Ennatikini edabaayanannaadu (2)",
+        "Thana prema choopa naaku nela dhiginaadu (2)",
+        "Naa seda deerchi nannu jeevimpajesaadu (2)  ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ణా సఅర్వము ఆర్పిన్చి – ఆఅరాదిన్చెడను",
+        "షరనమ్ షరనమ్ Yఎసు Swఆమి షరనమ్ (3) ||Yఎసు ఆఅరాదిన్చెడను||  ||ఎసు||"
+      ],
+      "english": [
+        "Naa sarvamu arpinchi – aaraadhinchedanu",
+        "Sharanam sharanam Yesu swaami sharanam (3) ||Yesu aaraadhinchedanu||  ||Yesu||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "song_name": "Ilao Puchchukonuta Kanna Nemth",
+  "author": {
+    "Authored by": "",
+    "రచన": "మల్లెల దావీదు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇలఁ పుచ్చుకొనుట కన్న నెంతో యిచ్చుటయే ధన్య మన్న",
+      "తులలేని భక్తి మీర చెలువైన రక్తి దీర",
+      "నలలారు కూరిమితో మరి పేరి మితో మెలంగినచో",
+      "నెలమిని బ్రభుఁ డిడుఁ బలు దీవెనల"
+    ],
+    "english": [
+      "IlAO Puchchukonuta Kanna NeMthoa Yichchutayae Dhanya Manna",
+      "Thulalaeni Bhakthi Meera Cheluvaina Rakthi Dheera",
+      "Nalalaaru Koorimithoa Mari Paeri Mithoa MelMginachoa",
+      "Nelamini BrabhuAO DiduAO Balu Dheevenala"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పొడగాంచి చుక్క జ్ఞానులు కరము నడిచి నడచి",
+        "కానుకలు నిడి బాలనృపునిమ్రోల పడి మ్రొక్కి మోడ్చి కేలఁ",
+        "గడు నిత్యభాగ్యమును సౌభాగ్యమును గడించికదా వెడలి రమందానందముతోడ"
+      ],
+      "english": [
+        "PodagaaMchi Chukka JnYaanulu Karamu Nadichi Nadachi",
+        "Kaanukalu Nidi Baalanrupunimroala Padi Mrokki Moadchi KaelAO",
+        "Gadu Nithyabhaagyamunu Saubhaagyamunu GadiMchikadhaa Vedali RamMdhaanMdhamuthoada"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మును పేద విధవ చాల భక్తి నొనరంగ",
+        "గుడి చందాలఁ దన జీవనం బై యుండు",
+        "నెనరాని కాసుల రెండు మనసార నర్పించె సమర్పించె",
+        "మనశ్శాంతిన్ గని యెను క్రీస్తుని వరముల బడసె"
+      ],
+      "english": [
+        "Munu Paedha ViDhava Chaala Bhakthi NonarMga",
+        "Gudi ChMdhaalAO Dhana JeevanM Bai YuMdu",
+        "Nenaraani Kaasula ReMdu Manasaara NarpiMche SamarpiMche",
+        "ManashshaaMthin Gani Yenu Kreesthuni Varamula Badase"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తనయ నీదు హృదయంబు నాకి మ్మనె దేవుఁడె యనయంబు",
+        "మన సొప్పి మన కానుకల మారాడక మన సకల మును నీయఁ గావలయున్",
+        "బ్రభుడాయవలెన్ మనం బలరన్ సణుగక గొణుగక వర్ధిల్లు కొలఁది"
+      ],
+      "english": [
+        "Thanaya Needhu HrudhayMbu Naaki Mmane DhaevuAOde YanayMbu",
+        "Mana Soppi Mana Kaanukala Maaraadaka Mana Sakala Munu NeeyAO Gaavalayun",
+        "Brabhudaayavalen ManM Balaran SaNugaka GoNugaka VarDhillu KolAOdhi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "song_name": "Dhaevaa Naa Hrudhayamu NeeyMdhu SThiramaayen",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవా నా హృదయము - నీయందు స్థిరమాయెన్",
+      "నే పాడుచు స్తుతించున్ - నా యాత్మ గానము చేయున్"
+    ],
+    "english": [
+      "Dhaevaa Naa Hrudhayamu - NeeyMdhu SThiramaayen",
+      "Nae Paaduchu SthuthiMchun - Naa Yaathma Gaanamu Chaeyun"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "స్వరమండలమా సితారా - మేల్కొనుడి మీరు కూడా",
+        "వేకువనే నే లేచెదను - స్తుతిగానము చేసెదను"
+      ],
+      "english": [
+        "SvaramMdalamaa Sithaaraa - Maelkonudi Meeru Koodaa",
+        "Vaekuvanae Nae Laechedhanu - Sthuthigaanamu Chaesedhanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేవా నీ జనముల మధ్య - కృతజ్ఞతా స్తుతులను",
+        "చెల్లించి ప్రజలలోన - స్తుతిగానము చేసెదను"
+      ],
+      "english": [
+        "Dhaevaa Nee Janamula MaDhya - KruthajnYthaa Sthuthulanu",
+        "ChelliMchi Prajalaloana - Sthuthigaanamu Chaesedhanu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆకాశమున కంటె నీ - కృప మహోన్నతమైనది",
+        "నీదు సత్యము మేఘములకంటె - అత్యున్నతమైనది"
+      ],
+      "english": [
+        "Aakaashamuna KMte Nee - Krupa Mahoannathamainadhi",
+        "Needhu Sathyamu MaeghamulakMte - Athyunnathamainadhi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దేవా నీ వాకాశముకంటె - మహోన్నతుడవు కమ్ము",
+        "నీదు మహిమ సర్వభూమి - మీద వ్యాపించును గాక"
+      ],
+      "english": [
+        "Dhaevaa Nee VaakaashamukMte - Mahoannathudavu Kammu",
+        "Needhu Mahima Sarvabhoomi - Meedha VyaapiMchunu Gaak"
+      ]
+    }
+  ]
+}

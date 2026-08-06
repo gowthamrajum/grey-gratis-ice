@@ -1,0 +1,32 @@
+{
+  "song_name": "Na Upakaarivi Neevu Yesayya",
+  "author": {
+    "Authored by": "Dr. Victor Rampogu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎవరు తీర్చలేని ఆరాటము",
+      "ఎవరు తేల్చలేని పోరాటము",
+      "ఎవరు తొలగించలేని ఆవేదన"
+    ],
+    "english": [
+      "Evaru theerchaleni aaraatamu",
+      "evaru thelchaleni poraatamu",
+      "evaru tholaginchaleni aavedhana"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తీర్చువాడవు తేల్చువాడవు తొలగించువాడవు",
+        "నా ఉపకారివి నీవు యేసయ్యా నా సహకారివి నా యేసయ్య"
+      ],
+      "english": [
+        "Theerchuvaadavu thelchuvaadavu tholaginchuvaadavu",
+        "naa upakaarivi neevu yesayya naa sahakaarivi naa yesayya"
+      ]
+    }
+  ]
+}

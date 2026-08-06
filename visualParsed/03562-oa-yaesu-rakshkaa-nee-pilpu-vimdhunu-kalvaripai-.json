@@ -1,0 +1,62 @@
+{
+  "song_name": "O Yesu rakshakaa nee pilpu vindunu kalvaripai naa paapamu nivruththichesithi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఓ యేసు - రక్షకా - నీ పిల్పు విందును",
+        "కల్వరిపై నా పాపము నివృత్తిచేసితి",
+        "యేసు - వచ్చెదన్ - నన్నుచేర్చుము",
+        "నన్ నీ రక్తమందున - శుద్ధుని జేయుము"
+      ],
+      "english": [
+        "O Yesu - Rakshakaa - Nee pilpu vindunu",
+        "Kalvaripai naa paapamu nivruththichesithi",
+        "Yesu - Vachchedhan - Nannucherchumu",
+        "Nan nee rakthamandhuna - Shuddhuni jeyumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేనైతే పాపిని - నీవే నా ప్రాపపు",
+        "నా దోషమెల్ల కడిగి - పవిత్రపర్చుము"
+      ],
+      "english": [
+        "Nenaithe paapini - Neeve naa praapamu",
+        "Naa dhoshamella kadigi - Pavithraparchumu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆశక్తుడనౌ నన్ - నీవే స్థాపించుము",
+        "విశ్వాస ధైర్యబలముల్ - నాలో పుట్టించుము"
+      ],
+      "english": [
+        "Ashakthudanau nan - Neeve sthaapinchumu",
+        "Vishwaasa dhairyabalamul - Naalo puttinchumu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యేసూ - విమోచకా - యేసు మా శరణు",
+        "యేసూ - మా దైవధ్యానము - నీవే మా రాజువు"
+      ],
+      "english": [
+        "Yesoo - Vimochakaa - Yesu maa sharanu",
+        "Yesoo - Maa dhaivadhyaanamu - Neeve maa raajuvu"
+      ]
+    }
+  ]
+}

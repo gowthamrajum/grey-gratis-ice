@@ -1,0 +1,58 @@
+{
+  "song_name": "Theeyani Swaraalatho",
+  "author": {
+    "Authored by": "A.R.Stevenson",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "తీయని స్వరాలతో నా మనసే నిండెను",
+      "యేసుని వరాలతో నా బ్రతుకే మారెను",
+      "భావమధురిమ ఉప్పొంగెను",
+      "రాగసుధలతో భాసిల్లెను",
+      "పరవసించి నిను స్తుతించి",
+      "ఘనపరెచెదా వైభవముగా"
+    ],
+    "english": [
+      "Theeyani swaraalatho naa manase nindenu",
+      "yesuni varaalatho naa brathuke maarenu",
+      "baavamadhurima uppongenu",
+      "raagasudhalatho baasillenu",
+      "paravasinchi ninu sthuthinchi",
+      "ghanaparicheda vaibhavamugaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏదేమైనా ఏనాడైన నీ దారిలో నేను",
+        "నీవే నాకు ఆప్తుడైన నిన్నాశ్రయించాను",
+        "సజీవుడా నీవే లేని నేనే వ్యర్ధము",
+        "ఏదేమైన ఏనాడైనా నీ దారిలోనేను",
+        "యేసుతో రాజ్యము చేసే భాగ్యము",
+        "నాకు దొరికె కనికరము తనువు పరవశము",
+        "ఆరాధన యోగ్యుడైన నీ సొంతమే నేను",
+        "నిన్నేనమ్మి జీవించేను నీలో ఫలించేను",
+        "సహాయుడా నీలోనేగా నా సాఫల్యము",
+        "ఆరాధనా యోగ్యుడైన నీ సొంతమే నేను",
+        "యేసుని సన్నిధి చేరే భాగ్యము",
+        "నాకు కలిగె అనుగ్రహము తనువు పరవశము"
+      ],
+      "english": [
+        "Edemaina enaadaina nee dhaarilo nenu",
+        "neeve naaku aapthudaina ninnasrayinchaanu",
+        "sajeevuda neeve leni neney vardhamu",
+        "edemaina enaadaina nee dhaarilo nenu",
+        "yesutho raajyamu chese bhagyamu",
+        "naaku dhorike kanikaramu thanuvu paravasam",
+        "Aaraadhana yogyudaina nee sonthame nenu",
+        "ninne nammi jeevinchenu neelo phalinchenu",
+        "sahaayuda neelonegaa naa saaphalyam",
+        "aaraadhana yogyudaina nee sonthame nenu",
+        "yesuni sannidhi chere baagyam",
+        "naaku kalige anugraham thanuvu paravasam"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4212 @@
+[
+ {
+  "app_index": 5,
+  "song_name": "Nee Vaakyame Nannu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1039,
+  "duplicate_of_name": "Nee Vaakyame Nannu Brathikinchenu",
+  "c3": 0.905,
+  "wd": 0.848,
+  "title_score": 0.682
+ },
+ {
+  "app_index": 9,
+  "song_name": "Varninchalenu..Vivarinchalenu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 249,
+  "duplicate_of_name": "Varninchalenu Vivarinchalenu",
+  "c3": 0.867,
+  "wd": 0.776,
+  "title_score": 0.926
+ },
+ {
+  "app_index": 10,
+  "song_name": "Entho Sundarudamma Thanu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 179,
+  "duplicate_of_name": "Entho Sundarudamma Thaanu",
+  "c3": 0.971,
+  "wd": 0.969,
+  "title_score": 0.977
+ },
+ {
+  "app_index": 14,
+  "song_name": "Nee Vaakyame Nannu Brathikinchenu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1039,
+  "duplicate_of_name": "Nee Vaakyame Nannu Brathikinchenu",
+  "c3": 0.944,
+  "wd": 0.967,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 15,
+  "song_name": "Nenu Odiponayaa",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1429,
+  "duplicate_of_name": "Nenu Odiponayaa",
+  "c3": 0.955,
+  "wd": 0.952,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 16,
+  "song_name": "Ninu Matrame Ne Nammanaya",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2025,
+  "duplicate_of_name": "Ninu maathrame ne nammaanayaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.609
+ },
+ {
+  "app_index": 22,
+  "song_name": "Entho Sundharudamma Thaanu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 179,
+  "duplicate_of_name": "Entho Sundarudamma Thaanu",
+  "c3": 0.975,
+  "wd": 0.977,
+  "title_score": 0.933
+ },
+ {
+  "app_index": 23,
+  "song_name": "Gaadandhakaramulo",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1187,
+  "duplicate_of_name": "Gaadaandhakaaramulo Ne Nadachina",
+  "c3": 0.787,
+  "wd": 0.642,
+  "title_score": 0.711
+ },
+ {
+  "app_index": 24,
+  "song_name": "Kalavarapadi Ne Kondala Vaipu",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2860,
+  "duplicate_of_name": "Kalavara padi ne kondala vaipu",
+  "c3": 0.69,
+  "wd": 0.544,
+  "title_score": 0.76
+ },
+ {
+  "app_index": 38,
+  "song_name": "Nuvvivakuntey Na Yesayya",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2125,
+  "duplicate_of_name": "Nuvivvakunte edhi ledhayya",
+  "c3": 0.942,
+  "wd": 0.916,
+  "title_score": 0.636
+ },
+ {
+  "app_index": 46,
+  "song_name": "Paralokame Naa Swasthyamu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1612,
+  "duplicate_of_name": "Paralokame Naa Swaasthyamu",
+  "c3": 0.934,
+  "wd": 0.913,
+  "title_score": 0.978
+ },
+ {
+  "app_index": 51,
+  "song_name": "Adigadigo Alladigo",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 375,
+  "duplicate_of_name": "Adhigadhigo Alladhigo",
+  "c3": 0.951,
+  "wd": 0.939,
+  "title_score": 0.743
+ },
+ {
+  "app_index": 56,
+  "song_name": "Needu Premaku",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 162,
+  "duplicate_of_name": "Needu Premaku Haddu Ledayaa",
+  "c3": 0.967,
+  "wd": 0.964,
+  "title_score": 0.72
+ },
+ {
+  "app_index": 57,
+  "song_name": "Ninu Matrame Ne Nammanaya",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2025,
+  "duplicate_of_name": "Ninu maathrame ne nammaanayaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.609
+ },
+ {
+  "app_index": 60,
+  "song_name": "DivyaSakhudaa",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1755,
+  "duplicate_of_name": "Sakhudaa divya sakhudaa",
+  "c3": 0.708,
+  "wd": 0.521,
+  "title_score": 0.625
+ },
+ {
+  "app_index": 61,
+  "song_name": "Enni Kastalaina",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 767,
+  "duplicate_of_name": "Devaa Ee Jeevitham",
+  "c3": 0.786,
+  "wd": 0.761,
+  "title_score": 0.519
+ },
+ {
+  "app_index": 70,
+  "song_name": "Enni Kastalaina",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 767,
+  "duplicate_of_name": "Devaa Ee Jeevitham",
+  "c3": 0.604,
+  "wd": 0.6,
+  "title_score": 0.519
+ },
+ {
+  "app_index": 76,
+  "song_name": "Naa Hrudayana",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 475,
+  "duplicate_of_name": "Naa Hrudayaana Koluvaina",
+  "c3": 0.964,
+  "wd": 0.974,
+  "title_score": 0.769
+ },
+ {
+  "app_index": 91,
+  "song_name": "Geethamul Paadudi",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2322,
+  "duplicate_of_name": "Geethamulu paadudee Yesuniki",
+  "c3": 0.67,
+  "wd": 0.621,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 101,
+  "song_name": "Janminchenu Emmanuelu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1863,
+  "duplicate_of_name": "Janminchenu Immanuyelu",
+  "c3": 0.953,
+  "wd": 0.959,
+  "title_score": 0.821
+ },
+ {
+  "app_index": 102,
+  "song_name": "Nee Krupaye Naa Jeevithamu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1788,
+  "duplicate_of_name": "Nee krupaye naa jeevithamu",
+  "c3": 0.776,
+  "wd": 0.741,
+  "title_score": 0.727
+ },
+ {
+  "app_index": 115,
+  "song_name": "Mundhuke Velledhanu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2698,
+  "duplicate_of_name": "Munduke velledanu",
+  "c3": 0.812,
+  "wd": 0.8,
+  "title_score": 0.688
+ },
+ {
+  "app_index": 133,
+  "song_name": "Doothalu Digivache",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 2431,
+  "duplicate_of_name": "Doothalu dhigivachche",
+  "c3": 0.584,
+  "wd": 0.588,
+  "title_score": 0.8
+ },
+ {
+  "app_index": 136,
+  "song_name": "Santhosha Sambarame",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 3845,
+  "duplicate_of_name": "Santhosha sambarame",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.882
+ },
+ {
+  "app_index": 160,
+  "song_name": "Bhayamu Chendhaku Bhakthudaa",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1351,
+  "duplicate_of_name": "Bhayamu Chendaku",
+  "c3": 0.765,
+  "wd": 0.717,
+  "title_score": 0.718
+ },
+ {
+  "app_index": 165,
+  "song_name": "Mahonnathuda",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 175,
+  "duplicate_of_name": "Mahonnathudaa Maa Devaa",
+  "c3": 0.809,
+  "wd": 0.639,
+  "title_score": 0.786
+ },
+ {
+  "app_index": 168,
+  "song_name": "Thappipoyina Gorrenu Nenu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 2430,
+  "duplicate_of_name": "Thappipoyina gorrenu nenu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.842
+ },
+ {
+  "app_index": 170,
+  "song_name": "Bhajana Cheyuchu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 441,
+  "duplicate_of_name": "Bhajana Cheyuchu Bhaktha Paalaka",
+  "c3": 0.949,
+  "wd": 0.789,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 171,
+  "song_name": "Kantipaapalaa Kaachinaavayyaa",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1173,
+  "duplicate_of_name": "Kantipaapalaa Kaachinaavayyaa",
+  "c3": 0.982,
+  "wd": 0.986,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 173,
+  "song_name": "Ninu Matrame Ne Nammanaya",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2025,
+  "duplicate_of_name": "Ninu maathrame ne nammaanayaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.609
+ },
+ {
+  "app_index": 180,
+  "song_name": "Aashalanni",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1611,
+  "duplicate_of_name": "Aashalanni",
+  "c3": 0.824,
+  "wd": 0.767,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 182,
+  "song_name": "Meriseti Taarala",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2073,
+  "duplicate_of_name": "Meriseti thaaralaa nanu veliginchu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.545
+ },
+ {
+  "app_index": 190,
+  "song_name": "Meriseti Taarala",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2073,
+  "duplicate_of_name": "Meriseti thaaralaa nanu veliginchu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.545
+ },
+ {
+  "app_index": 191,
+  "song_name": "Na Kosam Pranam Pettina",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2286,
+  "duplicate_of_name": "Naa kosam praanam pettina",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.65
+ },
+ {
+  "app_index": 192,
+  "song_name": "Naa Kosam",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 3840,
+  "duplicate_of_name": "Naa kosam",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.875
+ },
+ {
+  "app_index": 194,
+  "song_name": "Nee Sannidhi",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1899,
+  "duplicate_of_name": "Nee sannidhi aanandamu aadyanthamu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.8
+ },
+ {
+  "app_index": 195,
+  "song_name": "Nireekshana",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1975,
+  "duplicate_of_name": "Yese nee aadhaaramu digulu chendaku",
+  "c3": 0.714,
+  "wd": 0.734,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 196,
+  "song_name": "Saricheyumo Devaa",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 994,
+  "duplicate_of_name": "Sari Cheyumo Devaa",
+  "c3": 0.963,
+  "wd": 0.919,
+  "title_score": 0.867
+ },
+ {
+  "app_index": 197,
+  "song_name": "Swasthaparachu Devudu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1610,
+  "duplicate_of_name": "Swasthaparachu Devudu",
+  "c3": 0.979,
+  "wd": 0.986,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 199,
+  "song_name": "ఎల్ షద్దాయ్ (Elshaddai)",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2020,
+  "duplicate_of_name": "Naa balamugaa Kreesthu naakundagaa",
+  "c3": 0.918,
+  "wd": 0.932,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 200,
+  "song_name": "Adonai (Suryodayamu Modhalokuni)",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3838,
+  "duplicate_of_name": "Adonai Sooryodhayamu Modhalukoni",
+  "c3": 0.946,
+  "wd": 0.954,
+  "title_score": 0.655
+ },
+ {
+  "app_index": 201,
+  "song_name": "Antha Nee Krupa",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2704,
+  "duplicate_of_name": "Anthaa nee krupa",
+  "c3": 0.815,
+  "wd": 0.8,
+  "title_score": 0.64
+ },
+ {
+  "app_index": 203,
+  "song_name": "Asamanudainavadu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1847,
+  "duplicate_of_name": "Asamaanudu Avamaanaparachadu Ninnu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.621
+ },
+ {
+  "app_index": 206,
+  "song_name": "Kaaparivai",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1814,
+  "duplicate_of_name": "Kaaparivai nannu kaachave",
+  "c3": 0.984,
+  "wd": 0.985,
+  "title_score": 0.581
+ },
+ {
+  "app_index": 207,
+  "song_name": "Kruthagnatha",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3844,
+  "duplicate_of_name": "Kruthagnatha sthothraarpanalu neeke chellinthunu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.647
+ },
+ {
+  "app_index": 210,
+  "song_name": "Anduko Naa Upavasa",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1898,
+  "duplicate_of_name": "Susaadhyamegaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 217,
+  "song_name": "Sthiraparachuvaadavu",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1636,
+  "duplicate_of_name": "Emainaa Cheyagalavu",
+  "c3": 0.586,
+  "wd": 0.5,
+  "title_score": 0.522
+ },
+ {
+  "app_index": 220,
+  "song_name": "Dhavala Simhaasanam",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1946,
+  "duplicate_of_name": "Davala simhaasanam",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.788
+ },
+ {
+  "app_index": 221,
+  "song_name": "Gauravaneeyuda Galaliyavada",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2803,
+  "duplicate_of_name": "Gauravaneeyudaa Galileeyavaada Yesayya ninnu ghanaparachedhanayya",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.518
+ },
+ {
+  "app_index": 226,
+  "song_name": "Neevu Thodai Undagaa",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1651,
+  "duplicate_of_name": "Neevu Thodaiyundagaa",
+  "c3": 0.883,
+  "wd": 0.817,
+  "title_score": 0.857
+ },
+ {
+  "app_index": 227,
+  "song_name": "Neevunte Chalayya",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3843,
+  "duplicate_of_name": "Evarunna lekunna naakemunna lekunna",
+  "c3": 0.838,
+  "wd": 0.827,
+  "title_score": 0.634
+ },
+ {
+  "app_index": 231,
+  "song_name": "Idhe Kadha Jeevitham",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1974,
+  "duplicate_of_name": "Idhe kadaa jeevitham",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.647
+ },
+ {
+  "app_index": 235,
+  "song_name": "Nee Sannidhi Chalu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1587,
+  "duplicate_of_name": "Megha sthambamaina sannidhini",
+  "c3": 0.834,
+  "wd": 0.741,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 236,
+  "song_name": "Nee Udayakanthilo",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2016,
+  "duplicate_of_name": "Nee udaya kaanthilo ne nadachivelleda",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 237,
+  "song_name": "Nyaayamuga",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2017,
+  "duplicate_of_name": "Nyaayamugaa naduchukoni",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.6
+ },
+ {
+  "app_index": 240,
+  "song_name": "Balavanthuda",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3976,
+  "duplicate_of_name": "Balavanthudaa dhanavanthudaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.595
+ },
+ {
+  "app_index": 241,
+  "song_name": "Evaremanukuntunna",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2018,
+  "duplicate_of_name": "Evaremanukuntunnaa nin aaraadhisthunna",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.627
+ },
+ {
+  "app_index": 242,
+  "song_name": "Jaalari Jaalari Jaalarivo",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2739,
+  "duplicate_of_name": "Jaalari jaalari jaalarivaa Yesu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.694
+ },
+ {
+  "app_index": 245,
+  "song_name": "Naa Baagaswamini",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1781,
+  "duplicate_of_name": "Naa bhaagaswaamini Yeshua Jerusha",
+  "c3": 0.994,
+  "wd": 0.992,
+  "title_score": 0.579
+ },
+ {
+  "app_index": 246,
+  "song_name": "Nee Krupa Lenidhe Nee Daya",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2355,
+  "duplicate_of_name": "Nee krupa lenide nee daya lenide",
+  "c3": 0.977,
+  "wd": 0.976,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 248,
+  "song_name": "Yela Padanu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1860,
+  "duplicate_of_name": "Elaa paadanoo emi cheppanoo",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.545
+ },
+ {
+  "app_index": 251,
+  "song_name": "El Shama",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 8,
+  "duplicate_of_name": "El Shamaa",
+  "c3": 0.577,
+  "wd": 0.465,
+  "title_score": 0.923
+ },
+ {
+  "app_index": 252,
+  "song_name": "Kalamulatho Rayagalama",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 53,
+  "duplicate_of_name": "Kalamulatho Raayagalamaa",
+  "c3": 0.966,
+  "wd": 0.977,
+  "title_score": 0.952
+ },
+ {
+  "app_index": 255,
+  "song_name": "Nadipisthaadu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1294,
+  "duplicate_of_name": "Nadipisthaadu Naa Devudu",
+  "c3": 0.937,
+  "wd": 0.962,
+  "title_score": 0.727
+ },
+ {
+  "app_index": 256,
+  "song_name": "Nannu Choochuvaada",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1621,
+  "duplicate_of_name": "Nannu Choochuvaadaa",
+  "c3": 0.882,
+  "wd": 0.865,
+  "title_score": 0.97
+ },
+ {
+  "app_index": 258,
+  "song_name": "Neetho Unte Jeevitham",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 1616,
+  "duplicate_of_name": "Neetho Unte Jeevitham",
+  "c3": 0.773,
+  "wd": 0.612,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 259,
+  "song_name": "Thappipoyina Gorrenu Nenu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 2430,
+  "duplicate_of_name": "Thappipoyina gorrenu nenu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.842
+ },
+ {
+  "app_index": 260,
+  "song_name": "Maruvanu Deva",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 3836,
+  "duplicate_of_name": "E reethigaa ninu paadedanu",
+  "c3": 0.624,
+  "wd": 0.571,
+  "title_score": 0.516
+ },
+ {
+  "app_index": 264,
+  "song_name": "Nee Raktam",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1783,
+  "duplicate_of_name": "Nee raktham challindhi o Deva",
+  "c3": 0.994,
+  "wd": 1.0,
+  "title_score": 0.5
+ },
+ {
+  "app_index": 265,
+  "song_name": "Nee Thyagam",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2481,
+  "duplicate_of_name": "Nee Thyaagam Naa Viluvanu Penchindhi",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 266,
+  "song_name": "Pindamunai Nenu",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2290,
+  "duplicate_of_name": "Pindamunai nenu naa thalli garbhamuna",
+  "c3": 0.737,
+  "wd": 0.747,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 267,
+  "song_name": "Rare Chuthamu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 400,
+  "duplicate_of_name": "Raare Choothamu",
+  "c3": 0.837,
+  "wd": 0.865,
+  "title_score": 0.75
+ },
+ {
+  "app_index": 268,
+  "song_name": "Sharonu Rojave",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1591,
+  "duplicate_of_name": "Sharoonu Rojaave Naa Praana Snehame",
+  "c3": 0.624,
+  "wd": 0.658,
+  "title_score": 0.714
+ },
+ {
+  "app_index": 270,
+  "song_name": "Baliinava",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1856,
+  "duplicate_of_name": "Neevu kaligina korikakai",
+  "c3": 0.907,
+  "wd": 0.893,
+  "title_score": 0.545
+ },
+ {
+  "app_index": 271,
+  "song_name": "Inneluga Matho",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2140,
+  "duplicate_of_name": "Innellugaa Maatho Undi Nadipinchavayyaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.511
+ },
+ {
+  "app_index": 272,
+  "song_name": "Kanuma Siluvapai",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 2436,
+  "duplicate_of_name": "Kanumaa siluvapai",
+  "c3": 0.806,
+  "wd": 0.833,
+  "title_score": 0.828
+ },
+ {
+  "app_index": 273,
+  "song_name": "Minnayaina Prema",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2023,
+  "duplicate_of_name": "Minnayaina Prema Choopina Yesayya",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.651
+ },
+ {
+  "app_index": 275,
+  "song_name": "Paadana Kaneeti Swaram",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2071,
+  "duplicate_of_name": "Paadanaa Sthothra Keerthana",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.514
+ },
+ {
+  "app_index": 276,
+  "song_name": "Rudhiram",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2744,
+  "duplicate_of_name": "Siluva Baruvayenaa Rudhiram Dhaaralayenaa",
+  "c3": 0.988,
+  "wd": 1.0,
+  "title_score": 0.526
+ },
+ {
+  "app_index": 277,
+  "song_name": "Siddhapadudham",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 3808,
+  "duplicate_of_name": "Siddhapadudhaam siddhapadudhaam",
+  "c3": 0.85,
+  "wd": 0.505,
+  "title_score": 0.619
+ },
+ {
+  "app_index": 281,
+  "song_name": "Ashrayuda Naa",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 3832,
+  "duplicate_of_name": "Aashrayudaa naa Yesayya",
+  "c3": 0.935,
+  "wd": 0.636,
+  "title_score": 0.625
+ },
+ {
+  "app_index": 286,
+  "song_name": "Sukumaaruda",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2070,
+  "duplicate_of_name": "Sukumaarudaa jagamulanele paripaalaka",
+  "c3": 0.991,
+  "wd": 0.993,
+  "title_score": 0.632
+ },
+ {
+  "app_index": 288,
+  "song_name": "Yesayye Naa Praanam",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3833,
+  "duplicate_of_name": "Yesayya naa praanamaa – Ghanamaina sthuthigaanamaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.722
+ },
+ {
+  "app_index": 291,
+  "song_name": "Bangaramu Veedhulunna",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1897,
+  "duplicate_of_name": "Bangaaramu Veedhulunna Nagaramulona",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.745
+ },
+ {
+  "app_index": 293,
+  "song_name": "Devude Maanavunigaa",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2067,
+  "duplicate_of_name": "Devude maanavunigaa janminchenu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 294,
+  "song_name": "Jagamantha Panduga",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2352,
+  "duplicate_of_name": "Aakaashaveedhilo oka thaara velisindi",
+  "c3": 0.617,
+  "wd": 0.584,
+  "title_score": 0.545
+ },
+ {
+  "app_index": 297,
+  "song_name": "Raajula Raaju Puttenu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1925,
+  "duplicate_of_name": "Raajula Raaju Puttenu Bethelehemulo",
+  "c3": 0.944,
+  "wd": 0.957,
+  "title_score": 0.78
+ },
+ {
+  "app_index": 304,
+  "song_name": "Naa Pakshamai Saakshyam",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1840,
+  "duplicate_of_name": "Nindalalo nispruhalo",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.5
+ },
+ {
+  "app_index": 307,
+  "song_name": "Neeve Naku Thandrivani",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3831,
+  "duplicate_of_name": "Neeve Naaku Thandrivani Neeve Naa Devudani",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.691
+ },
+ {
+  "app_index": 313,
+  "song_name": "Jeeva Naava",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2011,
+  "duplicate_of_name": "Raavaa Yesudhevaa neeve naa varamuga",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.643
+ },
+ {
+  "app_index": 320,
+  "song_name": "Akshayamainadi",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2273,
+  "duplicate_of_name": "Akshaya mainadhi Yesuni rakthamu",
+  "c3": 0.873,
+  "wd": 0.909,
+  "title_score": 0.6
+ },
+ {
+  "app_index": 326,
+  "song_name": "Neevu Naa Thodu Unnavayya",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 337,
+  "duplicate_of_name": "Neeve Naa Thodu Unnaavayyaa",
+  "c3": 0.985,
+  "wd": 0.985,
+  "title_score": 0.864
+ },
+ {
+  "app_index": 334,
+  "song_name": "Ne Gelichedanu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1606,
+  "duplicate_of_name": "Ne Gelichedanu",
+  "c3": 0.903,
+  "wd": 0.805,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 336,
+  "song_name": "Neeve Deva",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 509,
+  "duplicate_of_name": "Paapiga Nanu Choodaleka",
+  "c3": 0.912,
+  "wd": 0.809,
+  "title_score": 0.64
+ },
+ {
+  "app_index": 345,
+  "song_name": "Nee Snehamu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 2128,
+  "duplicate_of_name": "Nee snehamu nanu manishini chesindi",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 353,
+  "song_name": "Manchi Snehithudu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 198,
+  "duplicate_of_name": "Manchi Snehithudu",
+  "c3": 0.943,
+  "wd": 0.882,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 354,
+  "song_name": "Naa Praanamaina Yesu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 605,
+  "duplicate_of_name": "Naa Praanamaina Yesu",
+  "c3": 0.937,
+  "wd": 0.959,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 355,
+  "song_name": "Nuthanamaina Krupa",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3821,
+  "duplicate_of_name": "Noothanamaina krupa nava noothanamaina krupa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.684
+ },
+ {
+  "app_index": 359,
+  "song_name": "Aaraadhinchu Naa Snehithudaa",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3817,
+  "duplicate_of_name": "Yesayya neeve aashrayapuramu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.684
+ },
+ {
+  "app_index": 366,
+  "song_name": "Sannidhiye",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2281,
+  "duplicate_of_name": "Sannidhi sannidhiye",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.75
+ },
+ {
+  "app_index": 367,
+  "song_name": "Silipi",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2127,
+  "duplicate_of_name": "Ye roopamu leni nannu pindamunai ne unna",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 380,
+  "song_name": "Daiva Istame Gaalike",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1970,
+  "duplicate_of_name": "Daiva ishtame gaalike undi thelusunaa",
+  "c3": 0.918,
+  "wd": 0.912,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 381,
+  "song_name": "Inti Peru",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 2121,
+  "duplicate_of_name": "Thallithandrulevarainaa inti peredhi neekunnaa",
+  "c3": 0.931,
+  "wd": 0.925,
+  "title_score": 0.824
+ },
+ {
+  "app_index": 384,
+  "song_name": "Prathi Roju Chudalani",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1137,
+  "duplicate_of_name": "Prathi Roju Choodaalani",
+  "c3": 0.976,
+  "wd": 0.973,
+  "title_score": 0.842
+ },
+ {
+  "app_index": 388,
+  "song_name": "Ye Reethiga",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1852,
+  "duplicate_of_name": "E reethigaa kolicheda - Nee premalo nilicheda",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.519
+ },
+ {
+  "app_index": 393,
+  "song_name": "Peturu Vale Nenu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1078,
+  "duplicate_of_name": "Pethuru Vale Nenu",
+  "c3": 0.935,
+  "wd": 0.902,
+  "title_score": 0.889
+ },
+ {
+  "app_index": 395,
+  "song_name": "Sreshtamu శ్రేష్ఠము",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2062,
+  "duplicate_of_name": "Balulu arpinchutakante nee",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 396,
+  "song_name": "Sthothram Stuthi Sthothram",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 3812,
+  "duplicate_of_name": "Sthothram sthuthi sthothram mahima ghanatha neeke",
+  "c3": 0.864,
+  "wd": 0.851,
+  "title_score": 0.857
+ },
+ {
+  "app_index": 402,
+  "song_name": "Kachithivi Gathakalam",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 3824,
+  "duplicate_of_name": "Kaachithivi gathakaalam",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.85
+ },
+ {
+  "app_index": 404,
+  "song_name": "Neelone Anandham",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2782,
+  "duplicate_of_name": "Neelone aanandam naa Deva",
+  "c3": 0.987,
+  "wd": 0.991,
+  "title_score": 0.714
+ },
+ {
+  "app_index": 405,
+  "song_name": "One In Christ",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3814,
+  "duplicate_of_name": "Shreemanthudaa shreekarunda shree Yesu raajaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.5
+ },
+ {
+  "app_index": 407,
+  "song_name": "Ye Reethiga",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1846,
+  "duplicate_of_name": "E reethigaa ninnu sthuthinchagalanu",
+  "c3": 0.921,
+  "wd": 0.924,
+  "title_score": 0.519
+ },
+ {
+  "app_index": 410,
+  "song_name": "Jeevadaatha",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1816,
+  "duplicate_of_name": "Jeevadhaatha Sthuthipaathrudaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.625
+ },
+ {
+  "app_index": 414,
+  "song_name": "Nenentha Dhanyudano",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1971,
+  "duplicate_of_name": "Nenentha dhanyudano priyudaa Yesayya",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.612
+ },
+ {
+  "app_index": 415,
+  "song_name": "Ontari Payanamlo",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2134,
+  "duplicate_of_name": "Ontari payanamlo evaru lekunnaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.585
+ },
+ {
+  "app_index": 420,
+  "song_name": "Anni Velalandu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2427,
+  "duplicate_of_name": "Anni velalandu mammu kaapaadu Deva",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 424,
+  "song_name": "Neeve Neeve",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2010,
+  "duplicate_of_name": "Neeve neeve neeve maa praanam",
+  "c3": 0.991,
+  "wd": 0.994,
+  "title_score": 0.692
+ },
+ {
+  "app_index": 427,
+  "song_name": "Prananaadha",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2061,
+  "duplicate_of_name": "Nannu inthagaa preminchina naa Yesu raajaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.643
+ },
+ {
+  "app_index": 429,
+  "song_name": "Aaradhana Neekai Aalapana",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2425,
+  "duplicate_of_name": "Dinamulu gaduchuchundagaa nee melutho thrupthi parachithivi",
+  "c3": 0.561,
+  "wd": 0.527,
+  "title_score": 0.75
+ },
+ {
+  "app_index": 431,
+  "song_name": "Dheenudu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1768,
+  "duplicate_of_name": "Naakai dheenunigaa bhuviki vachchinaavayaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.5
+ },
+ {
+  "app_index": 432,
+  "song_name": "Inthakalam Nee Krupalo",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3809,
+  "duplicate_of_name": "Inthakaalam nee krupalo",
+  "c3": 0.991,
+  "wd": 0.982,
+  "title_score": 0.769
+ },
+ {
+  "app_index": 434,
+  "song_name": "Manne Kadhayya",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1056,
+  "duplicate_of_name": "Mannegadayyaa Mannegadayyaa",
+  "c3": 0.944,
+  "wd": 0.963,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 435,
+  "song_name": "Nanu Yedabaayak",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2117,
+  "duplicate_of_name": "Nanu edabaayaka padiponeeyaka podiginchithivi naa jeevamu",
+  "c3": 0.973,
+  "wd": 0.976,
+  "title_score": 0.588
+ },
+ {
+  "app_index": 436,
+  "song_name": "Paiki Egiredhavu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2424,
+  "duplicate_of_name": "Devuni aanandam ninu kammunu",
+  "c3": 0.803,
+  "wd": 0.793,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 440,
+  "song_name": "Janminche Yesayya",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3968,
+  "duplicate_of_name": "Janminche Yesayya naa lonaa",
+  "c3": 0.875,
+  "wd": 0.853,
+  "title_score": 0.789
+ },
+ {
+  "app_index": 444,
+  "song_name": "Nannerigina Devudavu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 2639,
+  "duplicate_of_name": "Nannerigina Devudavu",
+  "c3": 0.779,
+  "wd": 0.667,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 449,
+  "song_name": "Aa Raatrilo Ningilo Oka",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2342,
+  "duplicate_of_name": "Aa raathrilo ningilo oka thaara goppa thejamutho prabhavinchenu aa reyi",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 453,
+  "song_name": "Oka Aasa Undayyaa",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2270,
+  "duplicate_of_name": "Oka aasha undayyaa naa korika theerchayyaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 455,
+  "song_name": "Raaju Putten",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 328,
+  "duplicate_of_name": "Raaju Puttenu",
+  "c3": 0.971,
+  "wd": 0.966,
+  "title_score": 0.952
+ },
+ {
+  "app_index": 461,
+  "song_name": "Gollalu Vacchiri",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3810,
+  "duplicate_of_name": "Aanandam aanandame raaraaju puttenani",
+  "c3": 0.843,
+  "wd": 0.843,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 465,
+  "song_name": "Paata Paadaala",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2187,
+  "duplicate_of_name": "Paata paadaalaa vaadyamulu mrogaala",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.595
+ },
+ {
+  "app_index": 470,
+  "song_name": "Chandhamama",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3811,
+  "duplicate_of_name": "Chandhamaama chandhamaama",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.643
+ },
+ {
+  "app_index": 473,
+  "song_name": "Mariya Thanayudai",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2695,
+  "duplicate_of_name": "Mariyaa thanayudai manujaavathaarudai",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.615
+ },
+ {
+  "app_index": 475,
+  "song_name": "Sakalaaseervaadhamula",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2118,
+  "duplicate_of_name": "Sakalaasheervaadhamula kaaranabhoothudaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.655
+ },
+ {
+  "app_index": 477,
+  "song_name": "Velasenule",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1583,
+  "duplicate_of_name": "Velasenule Gaganaana Thoorpu Thaara",
+  "c3": 0.571,
+  "wd": 0.554,
+  "title_score": 0.5
+ },
+ {
+  "app_index": 480,
+  "song_name": "Akaasa Veedhullo",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2012,
+  "duplicate_of_name": "Aakaasha veedhullo aanandam",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.526
+ },
+ {
+  "app_index": 482,
+  "song_name": "Mahimaku Pathrudavu",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 1647,
+  "duplicate_of_name": "Mahimaku Paathrudavu",
+  "c3": 0.811,
+  "wd": 0.532,
+  "title_score": 0.971
+ },
+ {
+  "app_index": 485,
+  "song_name": "Ninu Poli Nenu",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 961,
+  "duplicate_of_name": "Ninu Poli Nenu",
+  "c3": 0.796,
+  "wd": 0.637,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 486,
+  "song_name": "Oohakandhanantha",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2119,
+  "duplicate_of_name": "Oohakandhanantha unnatham",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.789
+ },
+ {
+  "app_index": 488,
+  "song_name": "Yesayya Janminche",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1973,
+  "duplicate_of_name": "Yesayya janminche ee nelapai",
+  "c3": 0.885,
+  "wd": 0.891,
+  "title_score": 0.737
+ },
+ {
+  "app_index": 489,
+  "song_name": "Ebenejaru",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3967,
+  "duplicate_of_name": "Nenu Naa Illu Naa Intivaarandharu",
+  "c3": 0.763,
+  "wd": 0.757,
+  "title_score": 0.625
+ },
+ {
+  "app_index": 494,
+  "song_name": "Nija Snehithuda",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1507,
+  "duplicate_of_name": "Nija Snehithudaa",
+  "c3": 0.949,
+  "wd": 0.904,
+  "title_score": 0.963
+ },
+ {
+  "app_index": 496,
+  "song_name": "Sadha Neevu Naa Thoduga",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1862,
+  "duplicate_of_name": "Sadaa neevu naa thodugaa Yesayya",
+  "c3": 0.948,
+  "wd": 0.946,
+  "title_score": 0.611
+ },
+ {
+  "app_index": 497,
+  "song_name": "Srikarunda Sri Yesunadha",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1730,
+  "duplicate_of_name": "Shreekarunda Shreeyesunaadhaa - Shreemanthudavu Srujanaathmudaa",
+  "c3": 0.953,
+  "wd": 0.827,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 500,
+  "song_name": "Endhukani",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2276,
+  "duplicate_of_name": "Endhukanee nenante intha prema",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 501,
+  "song_name": "Jayinchenu",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 3804,
+  "duplicate_of_name": "Maranamu jayinchenu",
+  "c3": 0.811,
+  "wd": 0.592,
+  "title_score": 0.615
+ },
+ {
+  "app_index": 503,
+  "song_name": "Nisi Raathri",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 676,
+  "duplicate_of_name": "Nishi Raathri",
+  "c3": 0.979,
+  "wd": 0.988,
+  "title_score": 0.857
+ },
+ {
+  "app_index": 504,
+  "song_name": "Siluvapaina",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2478,
+  "duplicate_of_name": "Siluvapaina prema choopa maranamaayenu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.615
+ },
+ {
+  "app_index": 507,
+  "song_name": "Vijayame",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2188,
+  "duplicate_of_name": "Bhayamedhainaa ippudu neelo unnadaa",
+  "c3": 0.664,
+  "wd": 0.622,
+  "title_score": 0.5
+ },
+ {
+  "app_index": 508,
+  "song_name": "Yehova Ruah",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2009,
+  "duplicate_of_name": "Yehovaa Raaphaa soukhyamichchuvaadu",
+  "c3": 0.936,
+  "wd": 0.934,
+  "title_score": 0.526
+ },
+ {
+  "app_index": 510,
+  "song_name": "Andhaala Chinni Gootilona",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2577,
+  "duplicate_of_name": "Andaala chinni gootilona puttina pichchukanu",
+  "c3": 0.618,
+  "wd": 0.653,
+  "title_score": 0.525
+ },
+ {
+  "app_index": 511,
+  "song_name": "Dayaa Samkalpam",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 321,
+  "duplicate_of_name": "Gaganamu Cheelchukoni",
+  "c3": 0.922,
+  "wd": 0.872,
+  "title_score": 0.571
+ },
+ {
+  "app_index": 512,
+  "song_name": "Edho Aasha Naalo",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2282,
+  "duplicate_of_name": "Edho aasha naalo neethone jeevinchanee",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 513,
+  "song_name": "Jeevapradatha",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2182,
+  "duplicate_of_name": "Jeevapradhaathavu nanu roopinchina shilpivi neeve Prabhu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.529
+ },
+ {
+  "app_index": 514,
+  "song_name": "Krupa Kaligina Deva",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2574,
+  "duplicate_of_name": "Krupa kaligina Devaa naa Yehovaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.651
+ },
+ {
+  "app_index": 515,
+  "song_name": "Nen Emathramu",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 705,
+  "duplicate_of_name": "Inthavaraku Neevu",
+  "c3": 0.58,
+  "wd": 0.507,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 516,
+  "song_name": "Pelli Kuthuru",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3805,
+  "duplicate_of_name": "Pelli kuthuru - Andamayina manasuku nenoka chakkani roopam",
+  "c3": 0.933,
+  "wd": 0.886,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 517,
+  "song_name": "Premantu Edhaina Unte",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2015,
+  "duplicate_of_name": "Premantoo edainaa unte Yesele adhi Yesele",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.5
+ },
+ {
+  "app_index": 518,
+  "song_name": "Soundarya Seeyonulo",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 3801,
+  "duplicate_of_name": "Bahu saundharya Seeyonulo sthuthi simhaasanaaseenudaa",
+  "c3": 0.992,
+  "wd": 0.505,
+  "title_score": 0.571
+ },
+ {
+  "app_index": 519,
+  "song_name": "Alankarinchunu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 161,
+  "duplicate_of_name": "Alankarinchunu",
+  "c3": 0.828,
+  "wd": 0.781,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 520,
+  "song_name": "Athi Parishudduda",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1613,
+  "duplicate_of_name": "Athi Parishuddhudaa Sthuthi Naivedyamu",
+  "c3": 0.942,
+  "wd": 0.907,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 521,
+  "song_name": "Kanyaka Garbhamu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1805,
+  "duplicate_of_name": "Kanyaka garbhamu dharinchunanumaata pravachanamu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 522,
+  "song_name": "Manasu Marchu",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1963,
+  "duplicate_of_name": "Neethi Soorya Thejomayudaa",
+  "c3": 0.591,
+  "wd": 0.612,
+  "title_score": 0.56
+ },
+ {
+  "app_index": 523,
+  "song_name": "Merry Christmas",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2114,
+  "duplicate_of_name": "Eduruchoosina kaalam – Pratyaksha parichenu daivam",
+  "c3": 0.957,
+  "wd": 0.962,
+  "title_score": 0.643
+ },
+ {
+  "app_index": 524,
+  "song_name": "Poorna Hrudhayamutho",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1893,
+  "duplicate_of_name": "Poorna hrudayamutho poorna aathmatho",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.706
+ },
+ {
+  "app_index": 527,
+  "song_name": "Saricheyunu",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2183,
+  "duplicate_of_name": "Saricheyunu - Kanumarugu cheyudhunanevaaredhuta",
+  "c3": 0.715,
+  "wd": 0.69,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 528,
+  "song_name": "Sramalalo Krungavaladhu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3779,
+  "duplicate_of_name": "Shramalalo krungavaladu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.762
+ },
+ {
+  "app_index": 530,
+  "song_name": "Chinni Yesu Raju",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2184,
+  "duplicate_of_name": "Gnaanulu choodavelliri Bethlehemu puramunaku",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.583
+ },
+ {
+  "app_index": 535,
+  "song_name": "Sambaralu Chesedhama",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 764,
+  "duplicate_of_name": "Sambaraalu Cheseddaamaa",
+  "c3": 0.892,
+  "wd": 0.859,
+  "title_score": 0.821
+ },
+ {
+  "app_index": 538,
+  "song_name": "Udhayinchinaadu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 276,
+  "duplicate_of_name": "Udayinchinaadu",
+  "c3": 0.811,
+  "wd": 0.707,
+  "title_score": 0.889
+ },
+ {
+  "app_index": 539,
+  "song_name": "Anandam Arbhatame",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2277,
+  "duplicate_of_name": "Aanandam aarbhaatame ilalo",
+  "c3": 0.912,
+  "wd": 0.928,
+  "title_score": 0.632
+ },
+ {
+  "app_index": 541,
+  "song_name": "Dhoothalu Paadiri",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2116,
+  "duplicate_of_name": "Sainyamulaku adhipathivi raajulake raajuvu",
+  "c3": 0.663,
+  "wd": 0.637,
+  "title_score": 0.5
+ },
+ {
+  "app_index": 542,
+  "song_name": "Intinta Christmas",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 4009,
+  "duplicate_of_name": "Santhosha Sambaraaluro",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.621
+ },
+ {
+  "app_index": 544,
+  "song_name": "Loka Rakshakudu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3806,
+  "duplicate_of_name": "Loka rakshakudu mana korakudhayinchenu",
+  "c3": 0.951,
+  "wd": 0.894,
+  "title_score": 0.571
+ },
+ {
+  "app_index": 545,
+  "song_name": "Na Sarwamu Neevenayya",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 3966,
+  "duplicate_of_name": "Neevenayyaa neevenayyaa naa sarvamu neevenayyaa",
+  "c3": 0.687,
+  "wd": 0.683,
+  "title_score": 0.625
+ },
+ {
+  "app_index": 548,
+  "song_name": "Telugu Christmas Mashup 3",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 646,
+  "duplicate_of_name": "Christmas Medley 3",
+  "c3": 0.91,
+  "wd": 0.792,
+  "title_score": 0.737
+ },
+ {
+  "app_index": 549,
+  "song_name": "Anukshanam Nee Krupalo",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2422,
+  "duplicate_of_name": "Anukshanam nee krupalo prathidhinam nee sannidhilo",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.632
+ },
+ {
+  "app_index": 551,
+  "song_name": "Nee Chethilo",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2426,
+  "duplicate_of_name": "Nee Chethilo Oka Kalamuga Chithrinche Kunchega",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.588
+ },
+ {
+  "app_index": 553,
+  "song_name": "Rakshakudu Vachinaadu",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 25,
+  "duplicate_of_name": "Rakshakudu Vachchinaadu",
+  "c3": 0.563,
+  "wd": 0.5,
+  "title_score": 0.95
+ },
+ {
+  "app_index": 554,
+  "song_name": "Randi Rarandoy",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1942,
+  "duplicate_of_name": "Randi raarandoy Yesayyanu choosoddhaam",
+  "c3": 0.651,
+  "wd": 0.623,
+  "title_score": 0.571
+ },
+ {
+  "app_index": 555,
+  "song_name": "Udayinchinaadu Chudu Nesthamaa",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2419,
+  "duplicate_of_name": "Udayinchinaadu choodu nesthamaa",
+  "c3": 0.994,
+  "wd": 0.983,
+  "title_score": 0.764
+ },
+ {
+  "app_index": 557,
+  "song_name": "Vachaavayyaa Velugulu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2115,
+  "duplicate_of_name": "Vachchaavayyaa Bhuvikethenchaavayyaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.5
+ },
+ {
+  "app_index": 559,
+  "song_name": "Christmas Subhavelalo",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2692,
+  "duplicate_of_name": "Aanandhageetham ne paadeda Krismas shubhavelalo",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.632
+ },
+ {
+  "app_index": 560,
+  "song_name": "Deevinchumu Deva",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1939,
+  "duplicate_of_name": "Nee aasheervaadam pondina kutumbam",
+  "c3": 0.615,
+  "wd": 0.566,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 562,
+  "song_name": "Maaranivaada",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3802,
+  "duplicate_of_name": "Mahonnathuda maaranivaada",
+  "c3": 0.938,
+  "wd": 0.792,
+  "title_score": 0.647
+ },
+ {
+  "app_index": 568,
+  "song_name": "Yesu Puttenu",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2413,
+  "duplicate_of_name": "Yesu puttenu rakshanochchenu",
+  "c3": 0.619,
+  "wd": 0.622,
+  "title_score": 0.692
+ },
+ {
+  "app_index": 572,
+  "song_name": "Kadhalira Suvartha Chaataga",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3807,
+  "duplicate_of_name": "Ningilona thaaraka cheya vachchindi veduka",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.565
+ },
+ {
+  "app_index": 584,
+  "song_name": "Ravikoti Thejudu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 474,
+  "duplicate_of_name": "Ravikoti Thejudu",
+  "c3": 0.978,
+  "wd": 0.957,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 585,
+  "song_name": "Sarwesvaruni Darshanamukai",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2112,
+  "duplicate_of_name": "Sarveshvaruni dharshanamukai",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.76
+ },
+ {
+  "app_index": 586,
+  "song_name": "Vellipove Gathama",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2635,
+  "duplicate_of_name": "Vellipove gathamaa chellubaatu kaavu neevika",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 587,
+  "song_name": "Ye Stithilonaina",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2186,
+  "duplicate_of_name": "E sthithilonainaa ninnu preminche vaanigaa",
+  "c3": 0.91,
+  "wd": 0.797,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 588,
+  "song_name": "Yelo Yelo Sambaralu 5",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 501,
+  "duplicate_of_name": "Yelo Yelo Yelo Antu",
+  "c3": 0.94,
+  "wd": 0.835,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 589,
+  "song_name": "Bhayamela",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2415,
+  "duplicate_of_name": "Abrahamu devudavu neeve Yesayya",
+  "c3": 0.606,
+  "wd": 0.635,
+  "title_score": 0.556
+ },
+ {
+  "app_index": 590,
+  "song_name": "El Elohe",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2272,
+  "duplicate_of_name": "Ninnu nammi vachchi ne siggu chendhaledhu",
+  "c3": 0.874,
+  "wd": 0.796,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 592,
+  "song_name": "Na Praanama Naalo Neevu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 578,
+  "duplicate_of_name": "Naa Praanamaa Naalo Neevu",
+  "c3": 0.882,
+  "wd": 0.824,
+  "title_score": 0.95
+ },
+ {
+  "app_index": 593,
+  "song_name": "Na Priya Yesu Raa",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 176,
+  "duplicate_of_name": "Naa Priya Yesu Raa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.963
+ },
+ {
+  "app_index": 595,
+  "song_name": "Neevanti Vaaru Leru",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 3819,
+  "duplicate_of_name": "Neevantivaaru leru",
+  "c3": 0.62,
+  "wd": 0.605,
+  "title_score": 0.75
+ },
+ {
+  "app_index": 599,
+  "song_name": "Aasraya Dhurgama Naa Yesayya",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1456,
+  "duplicate_of_name": "Aashraya Durgamaa Naa Yesayyaa",
+  "c3": 0.964,
+  "wd": 0.964,
+  "title_score": 0.84
+ },
+ {
+  "app_index": 602,
+  "song_name": "Naa Yesayya Naa Sthuthi",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1544,
+  "duplicate_of_name": "Naa Yesayyaa Naa Sthuthiyaagamu",
+  "c3": 0.964,
+  "wd": 0.974,
+  "title_score": 0.826
+ },
+ {
+  "app_index": 603,
+  "song_name": "Nee Melulu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2113,
+  "duplicate_of_name": "Nee melulu vivarimpatharamaa",
+  "c3": 0.947,
+  "wd": 0.893,
+  "title_score": 0.727
+ },
+ {
+  "app_index": 604,
+  "song_name": "Nee Sannidhilo",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 3800,
+  "duplicate_of_name": "Nee sannidhilo aanandame nee sevalone santhoshame",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.828
+ },
+ {
+  "app_index": 605,
+  "song_name": "Samarpinchedanu",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2477,
+  "duplicate_of_name": "Samarpinchedhanu samasthamu",
+  "c3": 0.564,
+  "wd": 0.582,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 606,
+  "song_name": "Sthuthi Geethamu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3803,
+  "duplicate_of_name": "Yesu nee adbhutha prema nenela marichedha Deva",
+  "c3": 0.884,
+  "wd": 0.876,
+  "title_score": 0.743
+ },
+ {
+  "app_index": 607,
+  "song_name": "Viswaasa Vanithalam",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 2572,
+  "duplicate_of_name": "Viswaasa vanithalam Yehova needana nivaasulam",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.857
+ },
+ {
+  "app_index": 608,
+  "song_name": "Yesu Kosame",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 563,
+  "duplicate_of_name": "Yesu Kosame Jeeviddaam",
+  "c3": 0.964,
+  "wd": 0.928,
+  "title_score": 0.643
+ },
+ {
+  "app_index": 609,
+  "song_name": "Anjali Ghatiyinchinaamu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1792,
+  "duplicate_of_name": "Anjali ghatiyinchinaamu",
+  "c3": 0.921,
+  "wd": 0.935,
+  "title_score": 0.905
+ },
+ {
+  "app_index": 610,
+  "song_name": "Dhavalavarnuda Ratnavarnuda",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 599,
+  "duplicate_of_name": "Davalavarnudaa",
+  "c3": 0.937,
+  "wd": 0.754,
+  "title_score": 0.579
+ },
+ {
+  "app_index": 611,
+  "song_name": "Emmanuelu Deva",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2690,
+  "duplicate_of_name": "Immaanuyelu Deva naatho unnavaadaa",
+  "c3": 0.742,
+  "wd": 0.814,
+  "title_score": 0.621
+ },
+ {
+  "app_index": 613,
+  "song_name": "Naaku Adharamaina Yesayya",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 2274,
+  "duplicate_of_name": "Naaku aadhaaramaina Yesayya",
+  "c3": 0.932,
+  "wd": 0.941,
+  "title_score": 0.87
+ },
+ {
+  "app_index": 614,
+  "song_name": "Nee Pilupe",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 2573,
+  "duplicate_of_name": "Nee Pilupe Naa Dari Chere Neethoti Naa Snehamaa",
+  "c3": 0.793,
+  "wd": 0.783,
+  "title_score": 0.875
+ },
+ {
+  "app_index": 615,
+  "song_name": "Nee Pilupu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 201,
+  "duplicate_of_name": "Nee Pilupu",
+  "c3": 0.928,
+  "wd": 0.899,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 616,
+  "song_name": "Noothana Hrudhayamu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 562,
+  "duplicate_of_name": "Noothana Hrudayamu",
+  "c3": 0.975,
+  "wd": 0.96,
+  "title_score": 0.909
+ },
+ {
+  "app_index": 617,
+  "song_name": "Oohinchalenu Prabhu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2269,
+  "duplicate_of_name": "Oohinchalenu prabhoo nee mamathanu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.596
+ },
+ {
+  "app_index": 618,
+  "song_name": "Vechiyunnanu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1653,
+  "duplicate_of_name": "Kondala Thattu Naa Kannuletthi",
+  "c3": 0.995,
+  "wd": 0.968,
+  "title_score": 0.556
+ },
+ {
+  "app_index": 620,
+  "song_name": "Gorrepilla Rakthamulo",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1455,
+  "duplicate_of_name": "Gorrepilla Rakthamulo",
+  "c3": 0.892,
+  "wd": 0.892,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 626,
+  "song_name": "Oddu Cheri Nee Yedhuta",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1878,
+  "duplicate_of_name": "Odducheri nee eduta nilpunapudu",
+  "c3": 0.988,
+  "wd": 0.896,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 631,
+  "song_name": "Karuna Sampannuda",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3796,
+  "duplicate_of_name": "Karunaasampannudaa dheerudaa sukumaarudaa",
+  "c3": 0.947,
+  "wd": 0.955,
+  "title_score": 0.706
+ },
+ {
+  "app_index": 633,
+  "song_name": "Nenu Velle Maargamu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 853,
+  "duplicate_of_name": "Nenu Velle Maargamu",
+  "c3": 0.99,
+  "wd": 0.983,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 634,
+  "song_name": "Oohinchaledhayya",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2571,
+  "duplicate_of_name": "Oohinchaledhayya dheevisthaavani",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 635,
+  "song_name": "Paadedha Stuthi Gaanamu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2111,
+  "duplicate_of_name": "Paadeda sthuthigaanamu koniyaadeda nee naamamu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.634
+ },
+ {
+  "app_index": 637,
+  "song_name": "Sthuthiye Na Aayudham",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1764,
+  "duplicate_of_name": "Ne Paadeda Hallelooyaa Naa Shathruvula Eduta",
+  "c3": 0.831,
+  "wd": 0.837,
+  "title_score": 0.5
+ },
+ {
+  "app_index": 643,
+  "song_name": "Naa Jeevithana",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3813,
+  "duplicate_of_name": "Shaashwathamainadi ennadu maaranidi",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.759
+ },
+ {
+  "app_index": 645,
+  "song_name": "Nannu Diddumu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1190,
+  "duplicate_of_name": "Nannu Diddumu Chinna Praayamu",
+  "c3": 0.922,
+  "wd": 0.897,
+  "title_score": 0.611
+ },
+ {
+  "app_index": 646,
+  "song_name": "Neetho Gadipe Prathi Kshanam",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1388,
+  "duplicate_of_name": "Neetho Gadipe Prathi Kshanamu",
+  "c3": 0.961,
+  "wd": 0.971,
+  "title_score": 0.98
+ },
+ {
+  "app_index": 648,
+  "song_name": "Mattilona Muthyamalle",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2265,
+  "duplicate_of_name": "Mattilona muthyamalle puttaaduro",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.708
+ },
+ {
+  "app_index": 652,
+  "song_name": "Prakashinchenu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1842,
+  "duplicate_of_name": "Prakaashinchenu o divya thaara",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.688
+ },
+ {
+  "app_index": 653,
+  "song_name": "Shaka Purushuni Jananam",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2065,
+  "duplicate_of_name": "Vachchaadu mahaaraaju mari manakosame andagaa thodugaa",
+  "c3": 0.631,
+  "wd": 0.596,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 654,
+  "song_name": "Sthuthi Paadutake",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 919,
+  "duplicate_of_name": "Sthuthi Paadutake",
+  "c3": 0.931,
+  "wd": 0.833,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 655,
+  "song_name": "Sudhooramu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1271,
+  "duplicate_of_name": "Sudhooramu Ee Payanamu",
+  "c3": 0.957,
+  "wd": 0.95,
+  "title_score": 0.643
+ },
+ {
+  "app_index": 656,
+  "song_name": "Vagdanamulu",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1208,
+  "duplicate_of_name": "Vaagdhaanamulanni Neraverchuchunnaadu",
+  "c3": 0.814,
+  "wd": 0.632,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 657,
+  "song_name": "Villuveleni Na Jeevitham",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 81,
+  "duplicate_of_name": "Viluve Leni Naa Jeevitham",
+  "c3": 0.694,
+  "wd": 0.623,
+  "title_score": 0.857
+ },
+ {
+  "app_index": 664,
+  "song_name": "Neelo Samasthamu Saadyame",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 190,
+  "duplicate_of_name": "Neelo Samasthamu Saadhyame",
+  "c3": 0.894,
+  "wd": 0.757,
+  "title_score": 0.933
+ },
+ {
+  "app_index": 665,
+  "song_name": "Telugu Christmas Mashup 2",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 527,
+  "duplicate_of_name": "Christmas Medley 2",
+  "c3": 0.863,
+  "wd": 0.724,
+  "title_score": 0.737
+ },
+ {
+  "app_index": 667,
+  "song_name": "Yesayya Katha",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1491,
+  "duplicate_of_name": "Daaveedu Vamshamlo",
+  "c3": 0.632,
+  "wd": 0.636,
+  "title_score": 0.64
+ },
+ {
+  "app_index": 668,
+  "song_name": "Aakasame Pattanodu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 959,
+  "duplicate_of_name": "Aakashame Pattanodu",
+  "c3": 0.954,
+  "wd": 0.883,
+  "title_score": 0.909
+ },
+ {
+  "app_index": 676,
+  "song_name": "Sajeeva Saakshulugaa",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1488,
+  "duplicate_of_name": "Sajeeva Saakshulugaa",
+  "c3": 0.98,
+  "wd": 0.979,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 682,
+  "song_name": "Seethaakalamlo",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1841,
+  "duplicate_of_name": "Sheethakaalamlo shree Yesuni shubhavaartha",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.606
+ },
+ {
+  "app_index": 683,
+  "song_name": "Toorpu Nundi Padamaraku",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2560,
+  "duplicate_of_name": "Thoorpu nundi padamaraku entha dhooramo",
+  "c3": 0.88,
+  "wd": 0.757,
+  "title_score": 0.556
+ },
+ {
+  "app_index": 684,
+  "song_name": "Uthsaaha Dwani (Jaijaikar)",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 3260,
+  "duplicate_of_name": "Samastha dheshamulaaraa andaru paadudi",
+  "c3": 0.627,
+  "wd": 0.505,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 686,
+  "song_name": "Yesayya Nee",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 473,
+  "duplicate_of_name": "Yesayya Nee Prema",
+  "c3": 0.974,
+  "wd": 0.936,
+  "title_score": 0.783
+ },
+ {
+  "app_index": 691,
+  "song_name": "Naamamu",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 888,
+  "duplicate_of_name": "Ae Naamamulo",
+  "c3": 0.737,
+  "wd": 0.641,
+  "title_score": 0.75
+ },
+ {
+  "app_index": 694,
+  "song_name": "Ninne Sthuthinchedan",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 2264,
+  "duplicate_of_name": "Nenu odipoyinaa ninne sthuthinchedan",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.824
+ },
+ {
+  "app_index": 696,
+  "song_name": "Viraboosina Pushpama",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3798,
+  "duplicate_of_name": "Viraboosina pushpamaa jathakalise bandhamaa nedu santhasinchumaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.556
+ },
+ {
+  "app_index": 697,
+  "song_name": "Yevaru Choopinchaleni",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 466,
+  "duplicate_of_name": "Evaru Choopinchaleni",
+  "c3": 0.94,
+  "wd": 0.863,
+  "title_score": 0.919
+ },
+ {
+  "app_index": 701,
+  "song_name": "Oohinchalenu Prabhu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2269,
+  "duplicate_of_name": "Oohinchalenu prabhoo nee mamathanu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.596
+ },
+ {
+  "app_index": 702,
+  "song_name": "Padhe Paadana",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 719,
+  "duplicate_of_name": "Padhe Paadanaa",
+  "c3": 0.964,
+  "wd": 0.943,
+  "title_score": 0.957
+ },
+ {
+  "app_index": 703,
+  "song_name": "Parugethi Ninnu Cheri",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1837,
+  "duplicate_of_name": "Parugetthi ninu cheri",
+  "c3": 0.637,
+  "wd": 0.667,
+  "title_score": 0.722
+ },
+ {
+  "app_index": 705,
+  "song_name": "Prabhuva Ma Deva",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2568,
+  "duplicate_of_name": "Prabhuvaa maa Devaa krupa choopumayyaa",
+  "c3": 0.64,
+  "wd": 0.597,
+  "title_score": 0.786
+ },
+ {
+  "app_index": 706,
+  "song_name": "Yedabayani Nee Krupa",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1213,
+  "duplicate_of_name": "Edabaayani Nee Krupa",
+  "c3": 0.943,
+  "wd": 0.924,
+  "title_score": 0.882
+ },
+ {
+  "app_index": 708,
+  "song_name": "Aada Janmanu Devudenduku",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1838,
+  "duplicate_of_name": "Aada janmanu Devudu enduku chesaadu",
+  "c3": 0.651,
+  "wd": 0.671,
+  "title_score": 0.706
+ },
+ {
+  "app_index": 711,
+  "song_name": "Kaliseti Andhaala",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1844,
+  "duplicate_of_name": "Kaliseti andaala anubandhame",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.65
+ },
+ {
+  "app_index": 714,
+  "song_name": "Naa Thodu Neeve Deva",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1635,
+  "duplicate_of_name": "Naa Thodu Neeve Devaa",
+  "c3": 0.948,
+  "wd": 0.882,
+  "title_score": 0.97
+ },
+ {
+  "app_index": 716,
+  "song_name": "Pilichenu Prabhu Yesu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 2569,
+  "duplicate_of_name": "Pilichenu Prabhu Yesu naathudu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.818
+ },
+ {
+  "app_index": 719,
+  "song_name": "Koteswarulaina Kadupedalaina",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1803,
+  "duplicate_of_name": "Koteeshwarulainaa Kadupedhalainaa",
+  "c3": 0.986,
+  "wd": 0.988,
+  "title_score": 0.842
+ },
+ {
+  "app_index": 727,
+  "song_name": "Vinthaina Prema",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3797,
+  "duplicate_of_name": "Vinthaina prema idhegaa Yesayya prema nijangaa",
+  "c3": 0.902,
+  "wd": 0.908,
+  "title_score": 0.581
+ },
+ {
+  "app_index": 732,
+  "song_name": "Naa Jeevam",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1084,
+  "duplicate_of_name": "Naa Jeevam Naa Sarvam",
+  "c3": 0.737,
+  "wd": 0.779,
+  "title_score": 0.64
+ },
+ {
+  "app_index": 742,
+  "song_name": "Neethodu Chaalayya",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2351,
+  "duplicate_of_name": "Neethodu chaalayya naa balamu neevayya",
+  "c3": 0.593,
+  "wd": 0.593,
+  "title_score": 0.595
+ },
+ {
+  "app_index": 744,
+  "song_name": "Oka Mata Chaalu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2278,
+  "duplicate_of_name": "Okamaata chaalu thandri",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.5
+ },
+ {
+  "app_index": 746,
+  "song_name": "Siluvalo Naa Kosamu",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 3972,
+  "duplicate_of_name": "Siluvalo naa kosamu baliyaina naa Yesayya",
+  "c3": 0.616,
+  "wd": 0.581,
+  "title_score": 0.595
+ },
+ {
+  "app_index": 758,
+  "song_name": "Bhayapadanu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1582,
+  "duplicate_of_name": "Mahonnathuda Nee Chaatuna",
+  "c3": 0.995,
+  "wd": 0.987,
+  "title_score": 0.8
+ },
+ {
+  "app_index": 759,
+  "song_name": "Egasipade Thufanullo",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1525,
+  "duplicate_of_name": "Sudigaalainanu",
+  "c3": 0.921,
+  "wd": 0.875,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 760,
+  "song_name": "Krupa Kshemamu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 906,
+  "duplicate_of_name": "Krupaa Kshemamu",
+  "c3": 0.971,
+  "wd": 0.97,
+  "title_score": 0.96
+ },
+ {
+  "app_index": 761,
+  "song_name": "Mem Kraisthavulam",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 997,
+  "duplicate_of_name": "Mem Kraisthavulam",
+  "c3": 0.744,
+  "wd": 0.738,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 767,
+  "song_name": "Aadharinchaga Raava",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1405,
+  "duplicate_of_name": "Aagani Parugulo",
+  "c3": 0.629,
+  "wd": 0.566,
+  "title_score": 0.556
+ },
+ {
+  "app_index": 770,
+  "song_name": "Koti Koti Sthothram Daddy",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1140,
+  "duplicate_of_name": "Sthothrabali Sthothrabali",
+  "c3": 0.844,
+  "wd": 0.849,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 771,
+  "song_name": "Na Hrudayaana Koluvaina",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 475,
+  "duplicate_of_name": "Naa Hrudayaana Koluvaina",
+  "c3": 0.919,
+  "wd": 0.863,
+  "title_score": 0.976
+ },
+ {
+  "app_index": 772,
+  "song_name": "Naa Dhehamunu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 817,
+  "duplicate_of_name": "Naa Dehamunu",
+  "c3": 0.952,
+  "wd": 0.933,
+  "title_score": 0.857
+ },
+ {
+  "app_index": 773,
+  "song_name": "Nadavaleni Velalo",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2689,
+  "duplicate_of_name": "Naduvaleni Velalo Endinaa Edaarilo",
+  "c3": 0.923,
+  "wd": 0.835,
+  "title_score": 0.622
+ },
+ {
+  "app_index": 774,
+  "song_name": "Neela Preminchevaarevaru",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1865,
+  "duplicate_of_name": "Neelaa preminchevaarevaru ilalo leru",
+  "c3": 0.495,
+  "wd": 0.41,
+  "title_score": 0.741
+ },
+ {
+  "app_index": 775,
+  "song_name": "Neeve Naku Chalunu Yesu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 4008,
+  "duplicate_of_name": "Neeve Naaku Chaalunu Yesu",
+  "c3": 0.853,
+  "wd": 0.786,
+  "title_score": 0.95
+ },
+ {
+  "app_index": 777,
+  "song_name": "Ammanu Minchina Preme",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2138,
+  "duplicate_of_name": "Ammanu minchina preme needayyaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.622
+ },
+ {
+  "app_index": 780,
+  "song_name": "Lekkimpa Sakyamu Kaavu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2480,
+  "duplicate_of_name": "Lekkimpa shakyamu kaavu Deva nee kaaryamulu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.536
+ },
+ {
+  "app_index": 781,
+  "song_name": "Naa Geetharadhanalo",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 808,
+  "duplicate_of_name": "Naa Geethaaraadhanalo",
+  "c3": 0.952,
+  "wd": 0.95,
+  "title_score": 0.944
+ },
+ {
+  "app_index": 782,
+  "song_name": "Neepai Velugu Virajille",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1944,
+  "duplicate_of_name": "Neepai velugu virajille samvathsaram",
+  "c3": 0.874,
+  "wd": 0.867,
+  "title_score": 0.615
+ },
+ {
+  "app_index": 784,
+  "song_name": "Sarirarevvaru",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1248,
+  "duplicate_of_name": "Sari Raarevvaru",
+  "c3": 0.894,
+  "wd": 0.757,
+  "title_score": 0.8
+ },
+ {
+  "app_index": 786,
+  "song_name": "Christmas Vela",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1843,
+  "duplicate_of_name": "Poddhugooke Bethlemulo",
+  "c3": 0.575,
+  "wd": 0.575,
+  "title_score": 0.692
+ },
+ {
+  "app_index": 787,
+  "song_name": "Gathakaalam Antha",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2014,
+  "duplicate_of_name": "Gathakaalam Anthaa Kaachaavu Nee Krupalo",
+  "c3": 0.574,
+  "wd": 0.608,
+  "title_score": 0.733
+ },
+ {
+  "app_index": 790,
+  "song_name": "Kreesthu Nedu Puttene",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 2896,
+  "duplicate_of_name": "Kreesthu nedu puttene rakshana dhorikene",
+  "c3": 0.606,
+  "wd": 0.581,
+  "title_score": 0.85
+ },
+ {
+  "app_index": 798,
+  "song_name": "Aha Anandame",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 360,
+  "duplicate_of_name": "Aahaa Aanandame",
+  "c3": 0.932,
+  "wd": 0.95,
+  "title_score": 0.696
+ },
+ {
+  "app_index": 799,
+  "song_name": "Bethlehemu Puramulo",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1273,
+  "duplicate_of_name": "Bethlehemu Puramulo",
+  "c3": 0.918,
+  "wd": 0.887,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 806,
+  "song_name": "Janminche",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1917,
+  "duplicate_of_name": "Janminche lokarakshakudu",
+  "c3": 0.836,
+  "wd": 0.839,
+  "title_score": 0.696
+ },
+ {
+  "app_index": 807,
+  "song_name": "Kaligiyunna Samasthamu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2353,
+  "duplicate_of_name": "Kaligiyunna samasthamu needhenayya",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.706
+ },
+ {
+  "app_index": 808,
+  "song_name": "Prabhu Athma",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2482,
+  "duplicate_of_name": "Prabhu aathma naalo nindiporlinappudu",
+  "c3": 0.883,
+  "wd": 0.895,
+  "title_score": 0.571
+ },
+ {
+  "app_index": 813,
+  "song_name": "Yerugani Reethiga",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2349,
+  "duplicate_of_name": "Erugani reethigaa",
+  "c3": 0.579,
+  "wd": 0.621,
+  "title_score": 0.733
+ },
+ {
+  "app_index": 814,
+  "song_name": "Yesey Naaku Samasthamu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2428,
+  "duplicate_of_name": "Yese naaku samasthamu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.757
+ },
+ {
+  "app_index": 822,
+  "song_name": "Okasari Nee Swaramu",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 250,
+  "duplicate_of_name": "Okasaari Nee Swaramu",
+  "c3": 0.585,
+  "wd": 0.593,
+  "title_score": 0.97
+ },
+ {
+  "app_index": 825,
+  "song_name": "Cheri Jeevinchudi",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1923,
+  "duplicate_of_name": "Cheri Jeevinchudi",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 829,
+  "song_name": "Nee Mandhiraana",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2785,
+  "duplicate_of_name": "Nee Mandhiraanaa Nenundiponaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 831,
+  "song_name": "Ontarini",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1861,
+  "duplicate_of_name": "Ontarini nenu ontarini",
+  "c3": 0.905,
+  "wd": 0.92,
+  "title_score": 0.538
+ },
+ {
+  "app_index": 832,
+  "song_name": "Taramulu Maruchunnavi",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 528,
+  "duplicate_of_name": "Tharamulu Maaruchunnavi",
+  "c3": 0.928,
+  "wd": 0.837,
+  "title_score": 0.9
+ },
+ {
+  "app_index": 834,
+  "song_name": "Aagipodhu Naa Paata",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2369,
+  "duplicate_of_name": "Aagipodhu naa paata",
+  "c3": 0.93,
+  "wd": 0.814,
+  "title_score": 0.75
+ },
+ {
+  "app_index": 842,
+  "song_name": "Naa Nireekshana Neelo Undaga",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 2354,
+  "duplicate_of_name": "Naa Nireekshana Neelo Undagaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.98
+ },
+ {
+  "app_index": 846,
+  "song_name": "Kamaneeyamaina",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1428,
+  "duplicate_of_name": "Kamaneeyamaina",
+  "c3": 0.863,
+  "wd": 0.793,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 853,
+  "song_name": "Yese Goppa Devudu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1425,
+  "duplicate_of_name": "Yese Goppa Devudu",
+  "c3": 0.954,
+  "wd": 0.971,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 854,
+  "song_name": "Dina Dinamu Vijayamu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1176,
+  "duplicate_of_name": "Dinadinamu Vijayamu",
+  "c3": 0.979,
+  "wd": 0.984,
+  "title_score": 0.882
+ },
+ {
+  "app_index": 859,
+  "song_name": "Oh Prardhana Su Prardhana",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 343,
+  "duplicate_of_name": "O Praardhanaa Supraardhanaa",
+  "c3": 0.938,
+  "wd": 0.697,
+  "title_score": 0.8
+ },
+ {
+  "app_index": 863,
+  "song_name": "Deva Nee Naamam",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 882,
+  "duplicate_of_name": "Devaa Nee Naamam (Kripal Mohan)",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.96
+ },
+ {
+  "app_index": 865,
+  "song_name": "Na Praanam Na Sarvam",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2813,
+  "duplicate_of_name": "Naa praanam naa sarvam antharangamuna",
+  "c3": 0.942,
+  "wd": 0.755,
+  "title_score": 0.789
+ },
+ {
+  "app_index": 866,
+  "song_name": "Naa Yesayya Naa Rakshaka",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 149,
+  "duplicate_of_name": "Naa Yesayyaa Naa Rakshakaa",
+  "c3": 0.593,
+  "wd": 0.6,
+  "title_score": 0.952
+ },
+ {
+  "app_index": 869,
+  "song_name": "Sthuthi Aaradhana Parishuddunake",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2814,
+  "duplicate_of_name": "Sthuthi aaraadhana parishuddhunake jeevaadhipathiyaina Yesunake",
+  "c3": 0.749,
+  "wd": 0.578,
+  "title_score": 0.636
+ },
+ {
+  "app_index": 870,
+  "song_name": "Thandri Kumaara Shuddathmuda",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2818,
+  "duplicate_of_name": "Thandri kumaara shuddhaathmudaa thriyeka Devudaa",
+  "c3": 0.919,
+  "wd": 0.739,
+  "title_score": 0.618
+ },
+ {
+  "app_index": 873,
+  "song_name": "Dorakunu Samasthamu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1006,
+  "duplicate_of_name": "Dorakunu Samasthamu",
+  "c3": 0.95,
+  "wd": 0.94,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 882,
+  "song_name": "Gnapakam Chesuko",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2283,
+  "duplicate_of_name": "Gnaapakam chesuko Yesayyaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.649
+ },
+ {
+  "app_index": 883,
+  "song_name": "Munduku Sagedanu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 2123,
+  "duplicate_of_name": "Munduku saagedanu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.828
+ },
+ {
+  "app_index": 885,
+  "song_name": "Neeve Maa Dhikku",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2479,
+  "duplicate_of_name": "Yehovaa Raaphaa swasthaparachu Devaa",
+  "c3": 0.715,
+  "wd": 0.712,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 886,
+  "song_name": "Noothanamainadi",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1545,
+  "duplicate_of_name": "Noothanamainadi",
+  "c3": 0.905,
+  "wd": 0.699,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 888,
+  "song_name": "Unnadu Devudu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 935,
+  "duplicate_of_name": "Unnaadu Devudu Naaku Thodu",
+  "c3": 0.903,
+  "wd": 0.658,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 890,
+  "song_name": "Yesayya Naakantu Evaru Lerayya",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1141,
+  "duplicate_of_name": "Yesayyaa Naakantu",
+  "c3": 0.567,
+  "wd": 0.464,
+  "title_score": 0.683
+ },
+ {
+  "app_index": 891,
+  "song_name": "Yesayye Premaku Prathiroopam",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 2280,
+  "duplicate_of_name": "Yesayye premaku prathiroopamu",
+  "c3": 0.647,
+  "wd": 0.613,
+  "title_score": 0.824
+ },
+ {
+  "app_index": 892,
+  "song_name": "Deshama Na Deshama",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3828,
+  "duplicate_of_name": "Deshamaa naa deshamaa deshamaa Bhaaratha deshamaa",
+  "c3": 0.968,
+  "wd": 0.966,
+  "title_score": 0.5
+ },
+ {
+  "app_index": 895,
+  "song_name": "Nasiyinchedi Lokamlo",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1160,
+  "duplicate_of_name": "Nashiyinchedi Lokamlo",
+  "c3": 0.951,
+  "wd": 0.971,
+  "title_score": 0.919
+ },
+ {
+  "app_index": 896,
+  "song_name": "Nedaina Nijamaina",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2129,
+  "duplicate_of_name": "Nedainaa nijamaina rakshakuni cherumaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.645
+ },
+ {
+  "app_index": 897,
+  "song_name": "O Deva",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 165,
+  "duplicate_of_name": "O Devaa Daya Choopumayyaa",
+  "c3": 0.967,
+  "wd": 0.947,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 898,
+  "song_name": "Prardinchu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2124,
+  "duplicate_of_name": "Praardhinchu neevu praardhinchu",
+  "c3": 0.967,
+  "wd": 0.969,
+  "title_score": 0.727
+ },
+ {
+  "app_index": 899,
+  "song_name": "Srama Kaligina",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1864,
+  "duplicate_of_name": "Shrama kaliginaa bhayapadaku",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.56
+ },
+ {
+  "app_index": 901,
+  "song_name": "Vignapana",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2643,
+  "duplicate_of_name": "Maa ooru maa veedi",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 902,
+  "song_name": "Adbhutha Vijayam Manadhe",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2137,
+  "duplicate_of_name": "Adbhutha vijayam manade manade Yesuni naamamlo",
+  "c3": 0.617,
+  "wd": 0.65,
+  "title_score": 0.512
+ },
+ {
+  "app_index": 903,
+  "song_name": "Ashirwadam",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 354,
+  "duplicate_of_name": "Aasheervaadam",
+  "c3": 0.542,
+  "wd": 0.419,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 908,
+  "song_name": "Naa Praanama",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 338,
+  "duplicate_of_name": "Naa Praanamaa Naa Samasthamaa",
+  "c3": 0.851,
+  "wd": 0.764,
+  "title_score": 0.741
+ },
+ {
+  "app_index": 910,
+  "song_name": "Sagam Lokam",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1854,
+  "duplicate_of_name": "Sagam lokam sagam sangham",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.5
+ },
+ {
+  "app_index": 914,
+  "song_name": "Chirakaala Snehithuda",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1019,
+  "duplicate_of_name": "Chirakaala Snehithudaa",
+  "c3": 0.866,
+  "wd": 0.777,
+  "title_score": 0.974
+ },
+ {
+  "app_index": 917,
+  "song_name": "Nuvivvakuntey",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2125,
+  "duplicate_of_name": "Nuvivvakunte edhi ledhayya",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.629
+ },
+ {
+  "app_index": 919,
+  "song_name": "Saadhyam",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1157,
+  "duplicate_of_name": "Cheekatilo Kaanthivi",
+  "c3": 0.645,
+  "wd": 0.477,
+  "title_score": 0.6
+ },
+ {
+  "app_index": 921,
+  "song_name": "Tharinchiponi",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2279,
+  "duplicate_of_name": "Tharinchiponi Nee Premalone",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 923,
+  "song_name": "Jolaa",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2066,
+  "duplicate_of_name": "Jolaa Prabhu Yesayya odilona jola",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 924,
+  "song_name": "Kanipettuchuntini",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2420,
+  "duplicate_of_name": "Kanipettuchuntini Prabhuvaa nee sannidhini",
+  "c3": 0.612,
+  "wd": 0.583,
+  "title_score": 0.593
+ },
+ {
+  "app_index": 925,
+  "song_name": "Maruvani Needu Prematho",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 74,
+  "duplicate_of_name": "Maruvani Needu Prematho",
+  "c3": 0.878,
+  "wd": 0.803,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 926,
+  "song_name": "Nee Karyamulu",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 642,
+  "duplicate_of_name": "Nee Kaaryamulu",
+  "c3": 0.545,
+  "wd": 0.444,
+  "title_score": 0.957
+ },
+ {
+  "app_index": 927,
+  "song_name": "Nee Prema Naalo",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 791,
+  "duplicate_of_name": "Nee Prema Naalo Madhuramainadi",
+  "c3": 0.956,
+  "wd": 0.919,
+  "title_score": 0.846
+ },
+ {
+  "app_index": 928,
+  "song_name": "Neevu Leni Brathukunu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2284,
+  "duplicate_of_name": "Neevu leni brathukunu oohinchalenu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.632
+ },
+ {
+  "app_index": 929,
+  "song_name": "Santhoshame Na Yesunilo",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 2068,
+  "duplicate_of_name": "Santhoshame naa Yesunilo",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.878
+ },
+ {
+  "app_index": 930,
+  "song_name": "Yesayya Nee Prema",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1825,
+  "duplicate_of_name": "Manasunu munchetthe ee saundharyam",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 931,
+  "song_name": "Yesu Rakthamu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 2810,
+  "duplicate_of_name": "Yesu rakthamu shuddhi chese rakthamu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.917
+ },
+ {
+  "app_index": 933,
+  "song_name": "Andhakaara Cherasalalo",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1500,
+  "duplicate_of_name": "Andhakaara Cherasaalalo",
+  "c3": 0.962,
+  "wd": 0.929,
+  "title_score": 0.976
+ },
+ {
+  "app_index": 934,
+  "song_name": "Anni Velala Vinuvadu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1118,
+  "duplicate_of_name": "Anni Velala Vinuvaadu",
+  "c3": 0.894,
+  "wd": 0.717,
+  "title_score": 0.971
+ },
+ {
+  "app_index": 939,
+  "song_name": "Neeve",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1358,
+  "duplicate_of_name": "Neeve Aashrayadurgam",
+  "c3": 0.781,
+  "wd": 0.55,
+  "title_score": 0.5
+ },
+ {
+  "app_index": 941,
+  "song_name": "Yegedhanu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 167,
+  "duplicate_of_name": "Egedanu Ne Cheredanu",
+  "c3": 0.943,
+  "wd": 0.938,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 943,
+  "song_name": "Ee Loka Yathralo",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 24,
+  "duplicate_of_name": "Ee Loka Yaathraalo",
+  "c3": 0.909,
+  "wd": 0.743,
+  "title_score": 0.929
+ },
+ {
+  "app_index": 944,
+  "song_name": "Kanipettu Chuntini",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2420,
+  "duplicate_of_name": "Kanipettuchuntini Prabhuvaa nee sannidhini",
+  "c3": 0.612,
+  "wd": 0.583,
+  "title_score": 0.519
+ },
+ {
+  "app_index": 947,
+  "song_name": "Saageda Nenu Yesunilo",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1728,
+  "duplicate_of_name": "Saageda Nenu Yesunilo - Shramayaina Karuvainaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.686
+ },
+ {
+  "app_index": 950,
+  "song_name": "Yesayya Na Praana Naadha",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1080,
+  "duplicate_of_name": "Yesayyaa Naa Praana Naathaa Ninu",
+  "c3": 0.912,
+  "wd": 0.857,
+  "title_score": 0.837
+ },
+ {
+  "app_index": 960,
+  "song_name": "Samaanulevaru Prabho",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 588,
+  "duplicate_of_name": "Samaanulavru Prabho",
+  "c3": 0.823,
+  "wd": 0.8,
+  "title_score": 0.8
+ },
+ {
+  "app_index": 961,
+  "song_name": "Sundaruda Athiysheyuda",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 322,
+  "duplicate_of_name": "Sundarudaa Athishayudaa",
+  "c3": 0.881,
+  "wd": 0.71,
+  "title_score": 0.78
+ },
+ {
+  "app_index": 965,
+  "song_name": "Naa Brathuku Dhinamulu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 524,
+  "duplicate_of_name": "Naa Brathuku Dinamulu",
+  "c3": 0.938,
+  "wd": 0.708,
+  "title_score": 0.919
+ },
+ {
+  "app_index": 966,
+  "song_name": "Naa Hrudayamantha",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1608,
+  "duplicate_of_name": "Naa Hrudayamantha",
+  "c3": 0.874,
+  "wd": 0.654,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 971,
+  "song_name": "Theeyani Swaraalatho",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 953,
+  "duplicate_of_name": "Theeyani Swaraalatho",
+  "c3": 0.941,
+  "wd": 0.904,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 972,
+  "song_name": "Alochinchava",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1826,
+  "duplicate_of_name": "Aalochinchaava o nestham aalochinchaava",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.625
+ },
+ {
+  "app_index": 975,
+  "song_name": "Naa Hrudhayam",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3789,
+  "duplicate_of_name": "Naa hrudayam paadene nee premane",
+  "c3": 0.814,
+  "wd": 0.841,
+  "title_score": 0.769
+ },
+ {
+  "app_index": 978,
+  "song_name": "Priyathama Bandhama",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 130,
+  "duplicate_of_name": "Priyathama Bandhamaa",
+  "c3": 0.787,
+  "wd": 0.69,
+  "title_score": 0.971
+ },
+ {
+  "app_index": 980,
+  "song_name": "Yeruganaya Ninneppudu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 784,
+  "duplicate_of_name": "Eruganayyaa Ninneppudu",
+  "c3": 0.81,
+  "wd": 0.674,
+  "title_score": 0.872
+ },
+ {
+  "app_index": 981,
+  "song_name": "Yesayya Nee Krupalo",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2109,
+  "duplicate_of_name": "Yesayya nee krupalo nenundute dhanyamu",
+  "c3": 0.945,
+  "wd": 0.944,
+  "title_score": 0.706
+ },
+ {
+  "app_index": 1003,
+  "song_name": "Emauthano Ani",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2261,
+  "duplicate_of_name": "Emauthaano ani neekemi chesaanani",
+  "c3": 0.934,
+  "wd": 0.928,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 1004,
+  "song_name": "Kannitini Thudiche Daivama",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1768,
+  "duplicate_of_name": "Naakai dheenunigaa bhuviki vachchinaavayaa",
+  "c3": 0.548,
+  "wd": 0.416,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 1006,
+  "song_name": "Mahima Neekey",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1284,
+  "duplicate_of_name": "Mahima Neeke Ghanatha Neeke",
+  "c3": 0.882,
+  "wd": 0.809,
+  "title_score": 0.741
+ },
+ {
+  "app_index": 1009,
+  "song_name": "Subha Dinam",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2348,
+  "duplicate_of_name": "Shubhadinam ee dinam",
+  "c3": 0.655,
+  "wd": 0.655,
+  "title_score": 0.571
+ },
+ {
+  "app_index": 1010,
+  "song_name": "Thaara Velisenu Choodu",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2484,
+  "duplicate_of_name": "Thaara Velisenu Choodu Aakaasamlona",
+  "c3": 0.558,
+  "wd": 0.568,
+  "title_score": 0.76
+ },
+ {
+  "app_index": 1012,
+  "song_name": "Baaludu Kaadammo Balavanthudu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1472,
+  "duplicate_of_name": "Baaludu Kaadammo",
+  "c3": 0.974,
+  "wd": 0.98,
+  "title_score": 0.7
+ },
+ {
+  "app_index": 1013,
+  "song_name": "Chukka Puttindi",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 1087,
+  "duplicate_of_name": "Chukka Puttindi",
+  "c3": 0.62,
+  "wd": 0.504,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 1014,
+  "song_name": "Ee Reyi Challanidhi",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3827,
+  "duplicate_of_name": "Ee reyi challanidi",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.645
+ },
+ {
+  "app_index": 1016,
+  "song_name": "Hrudayama",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2285,
+  "duplicate_of_name": "Hrudayamaa naa hrudayamaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.696
+ },
+ {
+  "app_index": 1017,
+  "song_name": "Lokaniki Aanandame",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 1920,
+  "duplicate_of_name": "Lokaaniki aanandame",
+  "c3": 0.553,
+  "wd": 0.567,
+  "title_score": 0.848
+ },
+ {
+  "app_index": 1018,
+  "song_name": "Ninupolina Varevaru",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 3971,
+  "duplicate_of_name": "Ninupolina vaarevaru",
+  "c3": 0.787,
+  "wd": 0.808,
+  "title_score": 0.857
+ },
+ {
+  "app_index": 1019,
+  "song_name": "Rajula Raju",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1894,
+  "duplicate_of_name": "Raajula raaju puttaadandi",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.9
+ },
+ {
+  "app_index": 1021,
+  "song_name": "Sandhade Sandhadi",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1389,
+  "duplicate_of_name": "Sandadi 3",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.581
+ },
+ {
+  "app_index": 1022,
+  "song_name": "Digivachenu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1919,
+  "duplicate_of_name": "Dhigivachchenu maraninchutakai",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 1023,
+  "song_name": "Junti Thene Kanna",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 287,
+  "duplicate_of_name": "Junte Thene Kannaa",
+  "c3": 0.901,
+  "wd": 0.77,
+  "title_score": 0.828
+ },
+ {
+  "app_index": 1024,
+  "song_name": "Kanti Paapavale",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1967,
+  "duplicate_of_name": "Nee kanti paapavale nannu kaachutaku",
+  "c3": 0.917,
+  "wd": 0.786,
+  "title_score": 0.75
+ },
+ {
+  "app_index": 1025,
+  "song_name": "Lerevaru",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1777,
+  "duplicate_of_name": "Vedhana tholaginchuvaadu Yese",
+  "c3": 0.942,
+  "wd": 0.951,
+  "title_score": 0.5
+ },
+ {
+  "app_index": 1026,
+  "song_name": "Na Jeevitha Kaalamantha",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 815,
+  "duplicate_of_name": "Naa Jeevitha Kaalamantha",
+  "c3": 0.912,
+  "wd": 0.8,
+  "title_score": 0.976
+ },
+ {
+  "app_index": 1027,
+  "song_name": "Nee Premanu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1966,
+  "duplicate_of_name": "Nee Premanu Nee Karunanu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 1031,
+  "song_name": "Aascharyakarudu Alochanakartha",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1415,
+  "duplicate_of_name": "Aascharyakarudu (Rojanthaa)",
+  "c3": 0.797,
+  "wd": 0.708,
+  "title_score": 0.947
+ },
+ {
+  "app_index": 1032,
+  "song_name": "Adiyu Neeve",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1675,
+  "duplicate_of_name": "Aadiyu Neeve Anthamu Neeve",
+  "c3": 0.797,
+  "wd": 0.6,
+  "title_score": 0.516
+ },
+ {
+  "app_index": 1033,
+  "song_name": "Nindu Manasutho",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1984,
+  "duplicate_of_name": "Nindu manasutho ninnu preminthunu",
+  "c3": 0.886,
+  "wd": 0.698,
+  "title_score": 0.625
+ },
+ {
+  "app_index": 1034,
+  "song_name": "Ninnu Kolicheda",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2576,
+  "duplicate_of_name": "Ninnu kolicheda raavayya naa Yesanna",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.56
+ },
+ {
+  "app_index": 1035,
+  "song_name": "Prema Prema",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 2148,
+  "duplicate_of_name": "Prema prema naa Yesuni prema",
+  "c3": 0.617,
+  "wd": 0.607,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 1036,
+  "song_name": "Rojantha",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1664,
+  "duplicate_of_name": "Rojanthaa Nee Paada Chentha",
+  "c3": 0.674,
+  "wd": 0.69,
+  "title_score": 0.636
+ },
+ {
+  "app_index": 1037,
+  "song_name": "Sajeevudu",
+  "tier": "B-likely-lyric-dup",
+  "duplicate_of_song_id": 1807,
+  "duplicate_of_name": "Lokaanaa unnadi okade devudu",
+  "c3": 0.63,
+  "wd": 0.604,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 1039,
+  "song_name": "Viluvainadi Ee Jeevitham",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 2928,
+  "duplicate_of_name": "Viluvainadi ee jeevitham anni velala",
+  "c3": 0.926,
+  "wd": 0.822,
+  "title_score": 0.952
+ },
+ {
+  "app_index": 1040,
+  "song_name": "Andaala Thaara",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 138,
+  "duplicate_of_name": "Andaala Thaara",
+  "c3": 0.949,
+  "wd": 0.782,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 1042,
+  "song_name": "Deva Vembadinchithi",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3037,
+  "duplicate_of_name": "Deva vembadinchithi nee naamamun",
+  "c3": 0.995,
+  "wd": 0.992,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 1043,
+  "song_name": "Manchivada",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 1972,
+  "duplicate_of_name": "Manchivaadaa manchivaadaa",
+  "c3": 0.994,
+  "wd": 0.992,
+  "title_score": 0.562
+ },
+ {
+  "app_index": 1044,
+  "song_name": "Na Jeevithamu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 2130,
+  "duplicate_of_name": "Naa jeevithamu nee maatathone aarambhinchedan",
+  "c3": 0.979,
+  "wd": 0.988,
+  "title_score": 0.8
+ },
+ {
+  "app_index": 1046,
+  "song_name": "Prabhu Yesuni Vadhanamulo",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1326,
+  "duplicate_of_name": "Prabhu Yesuni Vadanamulo",
+  "c3": 0.89,
+  "wd": 0.688,
+  "title_score": 0.93
+ },
+ {
+  "app_index": 1049,
+  "song_name": "Devuni Vaarasulam",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 677,
+  "duplicate_of_name": "Devuni Vaarasulam",
+  "c3": 0.769,
+  "wd": 0.652,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 1050,
+  "song_name": "Jayahe Jayahe",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 2364,
+  "duplicate_of_name": "Jayahe jayahe",
+  "c3": 0.994,
+  "wd": 0.989,
+  "title_score": 0.818
+ },
+ {
+  "app_index": 1052,
+  "song_name": "Naa Gaanam",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2647,
+  "duplicate_of_name": "Naa gaanam neevayya naa hrudayapu pilupu neeve Deva",
+  "c3": 0.989,
+  "wd": 0.985,
+  "title_score": 0.64
+ },
+ {
+  "app_index": 1053,
+  "song_name": "Premagala Thandri",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3818,
+  "duplicate_of_name": "Premagala thandri krupagala prabhuva sthuthimahimalu neeke",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.774
+ },
+ {
+  "app_index": 1054,
+  "song_name": "Thenekanna Theeyanainadi",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 236,
+  "duplicate_of_name": "Thene Kanna Theeyanainadi",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.909
+ },
+ {
+  "app_index": 1055,
+  "song_name": "Vandanam",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 886,
+  "duplicate_of_name": "Vandanam",
+  "c3": 0.84,
+  "wd": 0.632,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 1057,
+  "song_name": "Vesaarina",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 27,
+  "duplicate_of_name": "Vesaarina Manase",
+  "c3": 0.95,
+  "wd": 0.917,
+  "title_score": 0.727
+ },
+ {
+  "app_index": 1058,
+  "song_name": "Yepati Dhananaya",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 986,
+  "duplicate_of_name": "Epaati Daananayaa",
+  "c3": 0.958,
+  "wd": 0.806,
+  "title_score": 0.69
+ },
+ {
+  "app_index": 1059,
+  "song_name": "Aayana Ikkada Ledu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2189,
+  "duplicate_of_name": "Sajeevudaina vaarini meerela mruthulalo vedakuchunnaaru",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 1060,
+  "song_name": "Adavi Pushapama",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3826,
+  "duplicate_of_name": "Adavi pushpamaa santhoshinchumaa kasthuree pushpamaa ullasinchumaa",
+  "c3": 0.968,
+  "wd": 0.976,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 1061,
+  "song_name": "Anudinamu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2822,
+  "duplicate_of_name": "Anudinamu noothanamugaa vaathsalyatha neeku kalugunu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.667
+ },
+ {
+  "app_index": 1062,
+  "song_name": "Hosanna Ministries",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 100,
+  "duplicate_of_name": "Agni Mandinchu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 1064,
+  "song_name": "Najareyudaa Naa Yesayya",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 655,
+  "duplicate_of_name": "Najareyudaa Naa Yesayyaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.976
+ },
+ {
+  "app_index": 1065,
+  "song_name": "Nithya Prematho",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 857,
+  "duplicate_of_name": "Nithya Prematho",
+  "c3": 0.84,
+  "wd": 0.791,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 1066,
+  "song_name": "Okka Punya Kaaryamuche",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2786,
+  "duplicate_of_name": "Okka punya kaaryamuche maanavuniki krupaadaaname",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.511
+ },
+ {
+  "app_index": 1068,
+  "song_name": "Siyonu Kumari",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2821,
+  "duplicate_of_name": "Seeyonu kumaari praakaarama nadi pravaahamu valenu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.0
+ },
+ {
+  "app_index": 1069,
+  "song_name": "Alasithiva Prabhu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 2790,
+  "duplicate_of_name": "Alasithivaa Prabhu mokarinchithivaa",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 0.643
+ },
+ {
+  "app_index": 1071,
+  "song_name": "Enduko Nanninthagaa",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 22,
+  "duplicate_of_name": "Enduko Nanninthagaa Neevu",
+  "c3": 0.958,
+  "wd": 0.925,
+  "title_score": 0.872
+ },
+ {
+  "app_index": 1072,
+  "song_name": "Idigo Deva Naa Jeevitham",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1081,
+  "duplicate_of_name": "Idhigo Devaa Naa Jeevitham",
+  "c3": 0.969,
+  "wd": 0.973,
+  "title_score": 0.905
+ },
+ {
+  "app_index": 1073,
+  "song_name": "Kummari O Kummari",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 129,
+  "duplicate_of_name": "Kummari O Kummari",
+  "c3": 0.98,
+  "wd": 0.98,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 1074,
+  "song_name": "Naa Praana Priyuda Yesu",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 795,
+  "duplicate_of_name": "Naa Praanapriyudaa Yesu Raajaa",
+  "c3": 0.952,
+  "wd": 0.959,
+  "title_score": 0.756
+ },
+ {
+  "app_index": 1075,
+  "song_name": "Snehithudu Prana Priyudu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1639,
+  "duplicate_of_name": "Snehithudu Praanapriyudu",
+  "c3": 0.909,
+  "wd": 0.698,
+  "title_score": 0.884
+ },
+ {
+  "app_index": 1076,
+  "song_name": "Yehova Naa Mora Laalinchenu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1492,
+  "duplicate_of_name": "Yehova Naa Moralaalinchenu",
+  "c3": 0.966,
+  "wd": 0.87,
+  "title_score": 0.913
+ },
+ {
+  "app_index": 1077,
+  "song_name": "Yehovaa Naa Balamaa",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 601,
+  "duplicate_of_name": "Yehovaa Naa Balamaa",
+  "c3": 0.951,
+  "wd": 0.957,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 1078,
+  "song_name": "Yehovaa Nee Naamamu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 445,
+  "duplicate_of_name": "Yehovaa Nee Naamamu",
+  "c3": 0.936,
+  "wd": 0.947,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 1080,
+  "song_name": "Mahima Ghanathaku Arhudavu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 749,
+  "duplicate_of_name": "Mahima Ghanathaku Arhudavu",
+  "c3": 0.973,
+  "wd": 0.977,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 1081,
+  "song_name": "Naa Jeevam Naa Sarvam",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1084,
+  "duplicate_of_name": "Naa Jeevam Naa Sarvam",
+  "c3": 0.955,
+  "wd": 0.968,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 1082,
+  "song_name": "Nee Chethitho Nannu Pattuko",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 374,
+  "duplicate_of_name": "Nee Chethitho Nannu Pattuko",
+  "c3": 0.987,
+  "wd": 0.989,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 1083,
+  "song_name": "Ninne Preminthunu",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 164,
+  "duplicate_of_name": "Ninne Preminthunu",
+  "c3": 0.745,
+  "wd": 0.771,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 1084,
+  "song_name": "Sadaakaalamu Neetho Nenu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1126,
+  "duplicate_of_name": "Sadaa Kaalamu Neetho Nenu",
+  "c3": 0.95,
+  "wd": 0.958,
+  "title_score": 0.905
+ },
+ {
+  "app_index": 1085,
+  "song_name": "Shudda Hrudayam",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 266,
+  "duplicate_of_name": "Shuddha Hrudayam",
+  "c3": 0.839,
+  "wd": 0.623,
+  "title_score": 0.889
+ },
+ {
+  "app_index": 1087,
+  "song_name": "Silvalo Naakai Kaarchenu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 1419,
+  "duplicate_of_name": "Silvalo Naakai Kaarchenu",
+  "c3": 1.0,
+  "wd": 1.0,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 1088,
+  "song_name": "Sugunaala Sampannudaa",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 980,
+  "duplicate_of_name": "Sugunaala Sampannudaa",
+  "c3": 0.958,
+  "wd": 0.969,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 1089,
+  "song_name": "Aaraadhinchedanu Ninnu",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 132,
+  "duplicate_of_name": "Aaraadhinchedanu Ninnu",
+  "c3": 0.916,
+  "wd": 0.951,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 1090,
+  "song_name": "Jayamunichu Devuniki",
+  "tier": "A-lyric-dup",
+  "duplicate_of_song_id": 3730,
+  "duplicate_of_name": "Jayamunichchu Devuniki kotla kotla sthothram",
+  "c3": 0.884,
+  "wd": 0.805,
+  "title_score": 0.684
+ },
+ {
+  "app_index": 1091,
+  "song_name": "Jeevanadini Naa Hrudayamulo",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 1071,
+  "duplicate_of_name": "Jeevanadini Naa Hrudayamulo",
+  "c3": 0.799,
+  "wd": 0.48,
+  "title_score": 1.0
+ },
+ {
+  "app_index": 1092,
+  "song_name": "Najareyudaa Naa Yesayya",
+  "tier": "A-confirmed-dup",
+  "duplicate_of_song_id": 655,
+  "duplicate_of_name": "Najareyudaa Naa Yesayyaa",
+  "c3": 0.936,
+  "wd": 0.961,
+  "title_score": 0.976
+ },
+ {
+  "app_index": 1093,
+  "song_name": "Neeve Naa Devudavu",
+  "tier": "B-likely-dup",
+  "duplicate_of_song_id": 775,
+  "duplicate_of_name": "Neeve Naa Devudavu",
+  "c3": 0.723,
+  "wd": 0.71,
+  "title_score": 1.0
+ }
+]

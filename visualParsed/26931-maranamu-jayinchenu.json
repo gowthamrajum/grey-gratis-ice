@@ -1,0 +1,58 @@
+{
+  "song_name": "Maranamu jayinchenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Dr Jaya Paul Ravela"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మరణము జయించెను మహిమతేజ ప్రభుయేసు",
+      "హాలెలూయా.. హాలెలూయా..",
+      "హాలెలూయా.. హాలెలూయా.. (2)"
+    ],
+    "english": [
+      "Maranamu jayinchenu mahimatheja Prabhu Yesu",
+      "Haleluyaa.. Haleluyaa..",
+      "Haleluyaa.. Haleluyaa.. (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మరణముళ్లు విరిచెను మరణమోడిపోయెను",
+        "మానవాళికి రక్షణ నిత్యజీవమిచ్చెను",
+        "సర్వశక్తి యేసుక్రీస్తు విశ్వమేలను",
+        "హాలెలూయా.. హాలెలూయా..",
+        "హాలెలూయా.. హాలెలూయా.. (2)"
+      ],
+      "english": [
+        "Maranamullu virichenu maranamodipoyenu",
+        "Maanavaaliki rakshana nithyajeevamichchenu",
+        "Sarvashakthi Yesukreesthu vishwamelanu",
+        "Haleluyaa.. Haleluyaa..",
+        "Haleluyaa.. Haleluyaa.. (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జయం జయం అని పాడుము విజయస్తోత్రగీతము",
+        "ఆత్మతో సేవించుము ఆర్భాటముతో సాగుము",
+        "సర్వశక్తి యేసుక్రీస్తు విశ్వమేలను",
+        "హాలెలూయా.. హాలెలూయా..",
+        "హాలెలూయా.. హాలెలూయా.. (2)"
+      ],
+      "english": [
+        "Jayam jayam ani paadumu vijayasthothrageethamu",
+        "Aathmatho sevinchumu aarbhaatamutho saagumu",
+        "Sarvashakthi Yesukreesthu vishwamelanu",
+        "Haleluyaa.. Haleluyaa..",
+        "Haleluyaa.. Haleluyaa.. (2)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "song_name": "Nenu Naa Illu Naa Intivaarandharu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "John Jebaraj"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేను నా ఇల్లు నా ఇంటివారందరు",
+      "మానక స్తుతించెదము",
+      "నన్ను పిండము వలె కాచావు స్తోత్రం",
+      "నే చెదరక మోసావు స్తోత్రం"
+    ],
+    "english": [
+      "Nenu naa illu naa intivaarandharu",
+      "Maanaka sthuthinchedamu",
+      "Nannu pindamu vale kaachaavu sthothram",
+      "Ne chedharaka mosaavu sthothram"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎబినేజరు..ఎబినేజరు..ఇంతవరకు మోసితివే",
+        "ఎబినేజరు..ఎబినేజరు..నా తలంపుతోనే నున్నావే",
+        "స్తోత్రం…. స్తోత్రం…. స్తోత్రం….",
+        "హృదయములో మోసితివే స్తోత్రం",
+        "స్తోత్రం…. స్తోత్రం…. స్తోత్రం….",
+        "పిండము వలె మోసితివే స్తోత్రం"
+      ],
+      "english": [
+        "Ebinejaru..Ebinejaru..inthavaraku mosithive",
+        "Ebinejaru..Ebinejaru..naa thalamputhone nunnaave",
+        "Sthothram…. sthothram…. sthothram….",
+        "Hrudayamulo mosithive sthothram",
+        "Sthothram…. sthothram…. sthothram….",
+        "Pindamu vale mosithive sthothram"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఏమియు లేకుండ సాగిన నా బ్రతుకును",
+        "మేలులతో నింపితివే",
+        "ఎట్టి కీడైన తలంచని నీవు",
+        "ఏ తండ్రైన నీలాగ లేరు"
+      ],
+      "english": [
+        "Emiyu lekunda saagina naa brathukunu",
+        "Melulatho nimpithive",
+        "Etti keedaina thalanchani neevu",
+        "E thandraina neelaaga leru"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అనుదినము నా అవసరతలన్నియు",
+        "పొందితి నీ కరము చే",
+        "నీ నడిపింపు వివరించలేను",
+        "ఒక పరిపూర్ణ మాటైన లేదు"
+      ],
+      "english": [
+        "Anudinamu naa avasarathalanniyu",
+        "Pondithi nee karamu che",
+        "Nee nadipimpu vivarinchalenu",
+        "Oka paripoorna maataina ledu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "జ్ఞానుల మధ్యలో వెఱ్ఱివాడనైన నన్ను",
+        "పిలిచినది అధ్బుతము",
+        "నేను దేనికి పాత్రను కాదు",
+        "ఇది కృపయే వేరేమి లేదు"
+      ],
+      "english": [
+        "Gnaanula madhyalo verrivaadanaina nannu",
+        "Pilichinadhi adbhuthamu",
+        "Nenu deniki paathranu kaadu",
+        "Idhi krupaye veremi ledu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఎబినేసరే…. ఎబినేసరే..ఇన్నాల్ వరై సుమందవరే",
+        "ఎబినేసరే…. ఎబినేసరే..ఎన్ నినైవాయ్ ఇరుప్పవరే",
+        "నండ్రి.. నండ్రి.. నండ్రి..ఇదయత్తిల్ సుమందీరే నండ్రి",
+        "నండ్రి.. నండ్రి.. నండ్రి..కరుపోల సుమందీరే నండ్రి"
+      ],
+      "english": [
+        "Ebinesare…. Ebinesare..innaal varai sumandhavare",
+        "Ebinesare…. Ebinesare..en ninaivaay iruppavare",
+        "Nandri.. nandri.. nandri..idhayaththil sumandheere nandri",
+        "Nandri.. nandri.. nandri..karupola sumandheere nandri"
+      ]
+    }
+  ]
+}

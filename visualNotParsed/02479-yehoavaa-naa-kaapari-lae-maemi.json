@@ -1,0 +1,99 @@
+{
+  "song_name": "Yehova naa kaapari",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "సరెళ్ల సమూయేలు సుబ్బయ్య"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవా నా కాపరి లే మేమి గలుగదు తన మహా కృపతోఁ",
+      "బ్రోచి నన్ను మనుపు నాతఁడే||"
+    ],
+    "english": [
+      "Yehova naa kaapari lemi galugadhu thana mahaa krupatho",
+      "Brochi nannu manupu naathade||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పచ్చికగల చోట్ల నను పరుండజేయుచుఁ గడు హెచ్చగు సౌఖ్యములు",
+        "సదా యిచ్చు నాతఁడే||"
+      ],
+      "english": [
+        "Pachchikagala chotla nanu parundajeyuchu gadu hechchagu saukhyamulu",
+        "Sadaa ichchu naathade||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శాంతికర జలములకు నను సాగజేయుచు విశ్రాంతి ప్రాణమున కొసంగు",
+        "విభుఁడు అతఁడే||"
+      ],
+      "english": [
+        "Shaanthikara jalamulaku nanu saagajeyuchu vishraanthi praanamuna kosangu",
+        "Vibhudu athade||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "గాఢాంధకారమైన లోయల గుండ బోయిన నే కీడుకు భయపడ నిఁక",
+        "నా తోడు ఆయనే||"
+      ],
+      "english": [
+        "Gaadhaandhakaaramaina loyala gunda boyina ne keeduku bhayapada nika",
+        "Naa thodu aayane||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దుడ్డుకఱ్ఱతో శత్రువులఁ దరుమఁగొట్టుచుఁ దన దొడ్డ దండముతో",
+        "నీతి దారిలో నడుపు||"
+      ],
+      "english": [
+        "Dhuddukarratho shathruvula dharumagottuchu dhana dhodda dandamutho",
+        "Neethi daarilo nadupu||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "అందరిలో నన్ను నెంచి యధిక ప్రేమతోఁ గడు విందు లొసఁగి",
+        "తృప్తిపరుచు విభుఁడు ఆయనే||"
+      ],
+      "english": [
+        "Andarilo nannu nenchi yadhika prematho gadu vindu losagi",
+        "Thrupthiparuchu vibhudu aayane||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ముఖము కళగా నుండునట్లు మంచితైలమున్ నా సఖుఁడు నాకుఁ",
+        "బూయుచుండు సకల వేళలన్||"
+      ],
+      "english": [
+        "Mukhamu kalagaa nundunatlu manchithailamun naa sakhudu naaku",
+        "Booyuchundu sakala velalan||"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "బ్రదుకు దినము లన్నిట నాకు బంటులవలెనే నను వెదకి కృపా",
+        "క్షేమములు నా వెంటవచ్చును||"
+      ],
+      "english": [
+        "Bradhuku dinamu lannita naaku bantulavalene nanu vedaki krupaa",
+        "Kshemamulu naa ventavachchunu||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "song_name": "Nimdu Manasuto Ninnu Premimtunu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిండు మనసుతో నిన్ను ప్రేమింతును",
+      "నా పూర్ణ శక్తితో నిన్ను సేవింతును",
+      "నా సమస్తము నీకే అర్పింతును",
+      "సంపూర్ణ భక్తితో నిన్ను పూజింతును",
+      "నీతిమంతుడా నిర్మలాత్ముడా లోకరక్షకా యేసూ . ."
+    ],
+    "english": [
+      "Nimdu Manasuto Ninnu Premimtunu",
+      "Na Purna Saktito Ninnu Sevimtunu",
+      "Na Samastamu Nike Arpimtunu",
+      "Sampurna Baktito Ninnu Pujimtunu",
+      "Nitimamtuda Nirmalatmuda Lokarakshaka Yesu . ."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ నీడలో నన్ను నిలువనీయుము నీ బాటలో నేను నడిచెద",
+        "నీ అత్మతో నన్ను నింపు ప్రభు నీ సాక్షిగా నేను నిలిచెద",
+        "సజీవయాగముగా నా దేహమర్పింతును",
+        "నా బలము నా ఘనము నీకే సమర్పింతు ఫలియింపజేయుము నన్ను"
+      ],
+      "english": [
+        "Ni Nidalo Nannu Niluvaniyumu Ni Batalo Nenu Nadicheda",
+        "Ni Atmato Nannu Nimpu Prabu Ni Sakshiga Nenu Nilicheda",
+        "Sajivayagamuga Na Dehamarpimtunu",
+        "Na Balamu Na Ganamu Nike Samarpimtu Paliyimpajeyumu Nannu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ నామము నేను మహిమపరచెద నవ్యగీతిక నీకై పాడెద",
+        "సర్వసృష్టికి ఆధారభూతుడ గంభీర ధ్వనులతో అరాధించెద",
+        "నీ నామ మాధుర్యం లోకానికి చాటిచెప్పెద",
+        "నీ ప్రేమ వాత్సల్యం అందరికి చూపించెద మనసారా ప్రేమింతు నిన్ను"
+      ],
+      "english": [
+        "Ni Namamu Nenu Mahimaparacheda Navyagitika Nikai Padeda",
+        "Sarvasrushtiki Adharabutuda Gambira Dhvanulato Aradhimcheda",
+        "Ni Nama Madhuryam Lokaniki Chaticheppeda",
+        "Ni Prema Vatsalyam Amdariki Chupimcheda Manasara Premimtu Ninnu"
+      ]
+    }
+  ]
+}

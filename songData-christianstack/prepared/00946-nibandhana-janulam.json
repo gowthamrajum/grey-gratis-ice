@@ -1,0 +1,34 @@
+{
+  "song_name": "Nibandhana Janulam",
+  "author": {
+    "Authored by": "Pastor K Rajababu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిబంధనా జనులం",
+      "నిరీక్షణా ధనులం",
+      "ఘనుడగు యేసుని సిలువ రక్తపు సంబంధులం",
+      "మేము నిబంధనల జనులం"
+    ],
+    "english": [
+      "Nibandhanaa Janulam",
+      "Nireekshanaa Dhanulam",
+      "Ghanudagu Yesuni Siluva Rakthapu Sambandhulam",
+      "Memu Nibandhanaa Janulam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు రాజు వచ్చును – ఇంకా కొంత కాలమే",
+        "మోక్షమందు చేరెదము"
+      ],
+      "english": [
+        "Yesu Raaju Vachunu – Inkaa Kontha Kaalame",
+        "Mokshamandu Cheredhamu"
+      ]
+    }
+  ]
+}

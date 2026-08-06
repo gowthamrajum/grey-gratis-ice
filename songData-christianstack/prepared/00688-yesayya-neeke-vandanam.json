@@ -1,0 +1,40 @@
+{
+  "song_name": "Yesayya Neeke Vandanam",
+  "author": {
+    "Authored by": "Kranthi Chepuri",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "భూమ్యాకాశములను సృజియించిన దేవా",
+      "నీ సన్నిధిలోనే ప్రవేశించెదను",
+      "నీ పరిశుద్ధతను ప్రకాశించుటకు",
+      "నీ పరిపూర్ణతలో నన్ను నడిపించుము"
+    ],
+    "english": [
+      "Bhoomyaakaasamulanu srujinchina devaa",
+      "nee sannidhilone pravesinchedhanu",
+      "nee parishuddathanu prakaasinchutaku",
+      "nee paripoornathalo nannu nadipinchumu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మహిమా నీకే… ఘనతా నీకే…",
+        "ప్రతి దినం నా ఆరాధన నీకే",
+        "మహిమా నీకే… ఘనతా నీకే…",
+        "నిరంతరం ఈ స్తోత్రార్పణ నీకే",
+        "యేసయ్యా.. నీకే వందనం"
+      ],
+      "english": [
+        "Mahimaa neeke ghanathaa neeke",
+        "prathi dhinam naa aaraadhana neeke",
+        "mahimaa neeke ghanathaa neeke",
+        "nirantharam ee sthothraarpana neeke",
+        "yesayya neeke vandanam"
+      ]
+    }
+  ]
+}

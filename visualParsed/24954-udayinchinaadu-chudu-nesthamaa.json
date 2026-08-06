@@ -1,0 +1,67 @@
+{
+  "song_name": "Udayinchinaadu choodu nesthamaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Prabhakar"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఉదయించినాడు చూడు నేస్తమా",
+      "లోక రక్షకుడు క్రీస్తేసుగా '2'"
+    ],
+    "english": [
+      "Udayinchinaadu choodu nesthamaa",
+      "Loka rakshakudu Kreesthesugaa '2'"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సర్వాధికారి ఆయెనే సర్వశక్తిమంతుడు",
+        "దీనుడై రిక్తుడై మనుష్యకుమారుడై '2'",
+        "నశియించినదానిని వెదకి రక్షించుట కొరకు వచ్చెను '2'",
+        "లోకపాపమును మోసికొనిపోవు దేవుని గొర్రెపిల్లగా"
+      ],
+      "english": [
+        "Sarvaadhikaari aayene sarvashakthimanthudu",
+        "Deenudai rikthudai manushyakumaarudai '2'",
+        "Nashiyinchinadhaanini vedaki rakshinchuta koraku vachchenu '2'",
+        "Lokapaapamunu mosikonipovu Devuni gorrepillagaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇమ్మానుయేలు దేవుడు ఎన్నడూ నిను విడువడు",
+        "మరువడు కునుకడు తోడుగా ఉండువాడు '2'",
+        "నలిగినవారికి దుర్గమై ఆశ్రయమిచ్చే అమరుడు '2'",
+        "చీకటి బ్రతుకులో వెలుగునింపుటకు నీతి సూర్యుడై"
+      ],
+      "english": [
+        "Immaanuyelu Devudu ennadoo ninu viduvadu",
+        "Maruvadu kunukadu thodugaa unduvaadu '2'",
+        "Naliginavaariki dhurgamai aashrayamichche amarudu '2'",
+        "Cheekati brathukulo velugunimputaku neethi sooryudai"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రయాసపడుచు భారము మోయు సమస్త జనులరా",
+        "రండి దేవుని ఆశ్రయించుడి ఈ దినమందే '2'",
+        "మీ దోషములు అపరాధములు అన్నీ పోవును '2'",
+        "శాంతి నెమ్మది సమాధానము ఇచ్చే దయగల దేవుడు"
+      ],
+      "english": [
+        "Prayaasapaduchu bhaaramu moyu samastha janularaa",
+        "Randi Devuni aashrayinchudi ee dhinamandhe '2'",
+        "Mee doshamulu aparaadhamulu annee povunu '2'",
+        "Shaanthi nemmadi samaadhaanamu ichche dayagala Devudu"
+      ]
+    }
+  ]
+}

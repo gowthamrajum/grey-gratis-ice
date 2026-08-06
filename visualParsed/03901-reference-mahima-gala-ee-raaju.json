@@ -1,0 +1,99 @@
+{
+  "song_name": "Paadedamu nee sthuthulanu mahaa prabhuvaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సామ్ 24:8",
+      "పాడెదము నీ స్తుతులను మహా ప్రభువా",
+      "నిన్ను మేము పూజించెదము శ్రద్ధభక్తితో"
+    ],
+    "english": [
+      "Psalm 24:8",
+      "Paadedamu nee sthuthulanu mahaa prabhuvaa",
+      "Ninnu memu poojinchedhamu shradhdhabhakthitho"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ధనవంతుడవగు నీవు సర్వము మా కొరకు నిచ్చి",
+        "ధనవంతులుగ మమ్ము జేయ పేదవైతివి"
+      ],
+      "english": [
+        "Dhanavanthudavagu neevu sarvamu maa koraku nichchi",
+        "Dhanavanthuluga mammu jeya pedhavaithivi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేవుని స్వరూపమైయుండి యెంచలేదు సమానుడని",
+        "రిక్తుడై నిందను భరించి దాసుడైతివి"
+      ],
+      "english": [
+        "Devuni svaroopamaiyundi enchaledhu samaanudani",
+        "Rikthudai nindanu bharinchi dhaasudaithivi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరీక్షించబడిన ప్రభు నిర్దోషిగనైతివినిల",
+        "నీతి న్యాయములు గలిగి జయించితివి"
+      ],
+      "english": [
+        "Pareekshinchabadina prabhu nirdhoshiganaithivi nila",
+        "Neethi nyaayamulu galigi jayinchithivi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పాపమెరుగని వాడవు కపటమేమి లేదు నీ నోట",
+        "ఎవరిని దూషింపను లేదు పవిత్రుడవు"
+      ],
+      "english": [
+        "Paapamerugani vaadavu kapatamemi ledu nee nota",
+        "Evarini dhooshimpanu ledu pavithrudavu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీచుడుగా నీ వెంచబడి తృణీకరింప బడితివి",
+        "వ్యాధి బాధ వేదన పొంది సహించితివి"
+      ],
+      "english": [
+        "Neechudugaa nee venchabadi thruneekarimpa badithivi",
+        "Vyaadhi baadha vedhana pondi sahinchithivi"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "గాయపరచబడితివి మాకు బదులుగా ప్రభువా",
+        "నలుగ గొట్టబడిన నీవు మరణమైతివి"
+      ],
+      "english": [
+        "Gaayaparachabadithivi maaku badhulugaa prabhuvaa",
+        "Naluga gottabadina neevu maranamaithivi"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "పరాక్రమ శాలివై ప్రభు సజీవుడవై లేచితివి",
+        "మరణమును జయించితివి విజయుండవై"
+      ],
+      "english": [
+        "Paraakrama shaalivai prabhu sajeevudavai lechithivi",
+        "Maranamunu jayinchithivi vijayundavai"
+      ]
+    }
+  ]
+}

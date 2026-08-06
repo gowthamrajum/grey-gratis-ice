@@ -1,0 +1,96 @@
+{
+  "song_name": "Aedhiyadhi Yaedhiyadhi Yaedhiraa",
+  "author": {
+    "Authored by": "",
+    "రచన": "మిక్కిలి సమూయేలు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏదియది యేదియది యేదిరా మన దేశము",
+      "పాదుకొన్న లౌకికునకు బహుళ దుఃఖ పాశము"
+    ],
+    "english": [
+      "Aedhiyadhi Yaedhiyadhi Yaedhiraa Mana Dhaeshamu",
+      "Paadhukonna Laukikunaku Bahula Dhuhkha Paashamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సిలోమను కొలను గల జీవన ప్రదేశము",
+        "పాలు తేనె లొల్కు నట్టి పరమ కానాన్ దేశము"
+      ],
+      "english": [
+        "Siloamanu Kolanu Gala Jeevana Pradhaeshamu",
+        "Paalu Thaene Lolku Natti Parama Kaanaan Dhaeshamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆయతమై యున్నదది యమర జనుల కోసము",
+        "సీయోనను పేరుగల శ్రీకరుని నివాసము"
+      ],
+      "english": [
+        "Aayathamai Yunnadhadhi Yamara Janula Koasamu",
+        "Seeyoananu Paerugala Shreekaruni Nivaasamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "జీవ ప్రవాహములు గల జీవుల స్వదేశము",
+        "కేవల పరిశుద్ధమైన కెరు బుల స్వదేశము"
+      ],
+      "english": [
+        "Jeeva Pravaahamulu Gala Jeevula Svadhaeshamu",
+        "Kaevala Parishuddhamaina Keru Bula Svadhaeshamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యేసు జన స్వాస్థ్య మిదే యిశ్రాయేలు దేశము",
+        "మేసయ్య యను రాజుసదా మృతములిడు దేశము"
+      ],
+      "english": [
+        "Yaesu Jana Svaasthya Midhae Yishraayaelu Dhaeshamu",
+        "Maesayya Yanu Raajusadhaa Mruthamulidu Dhaeshamu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "కోరికలు దీరునట్లు గొబ్బుననేఁ బోదురా",
+        "చేరి సౌఖ్యమొంద మదిని స్ధిరతఁ బూని యుంటిరా"
+      ],
+      "english": [
+        "Koarikalu Dheerunatlu Gobbunanae Boadhuraa",
+        "Chaeri Saukhyamomdha Madhini Sdhiratha Booni Yumtiraa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "మరణమును యోర్దాన్ నది మధ్యమందు గంటిరా",
+        "తరుణమునేఁ గాచి దాని దాటిపోవ నుంటిరా"
+      ],
+      "english": [
+        "Maranamunu Yoardhaan Nadhi Madhyamamdhu Gamtiraa",
+        "Tharunamunae Gaachi Dhaani Dhaatipoava Numtiraa"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "కాలు ధరను నిల్వదది కండ్లుఁబడు దాకరా",
+        "మేలుకొని యుంటిరా మేర దాట లేకరా"
+      ],
+      "english": [
+        "Kaalu Dharanu Nilvadhadhi Kandlubadu Dhaakaraa",
+        "Maelukoni Yumtiraa Maera Dhaata Laekaraa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "song_name": "Yesuke vandanam - Prabhu Yesuke vandanam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసుకే వందనం - ప్రభు యేసుకే వందనం (2)"
+    ],
+    "english": [
+      "Yesuke vandanam - Prabhu Yesuke vandanam (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రేమ సందేశమిచ్చి - ప్రేమ స్వరూపిగ వెలసి (2)",
+        "ప్రేమనే జగతికి చూపిన …ఆ (2)",
+        "ప్రేమ మూర్తి, పరమ మూర్తి, యేసు నీకే వందనంIIయేసుకేII"
+      ],
+      "english": [
+        "Prema sandheshamichchi - Prema swaroopiga velasi (2)",
+        "Premane jagathiki choopina …aa (2)",
+        "Prema moorthi, parama moorthi, Yesu neeke vandanam||Yesuke||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సర్వలోక మానవ కళ్యాణమై - సిలువపై బలియాగమై (2)",
+        "మరణించి తిరిగి లేచిన …ఆ (2)",
+        "మహిమ దేవా, మహా దేవ, యేసు నీకే వందనం IIయేసుకేII"
+      ],
+      "english": [
+        "Sarvaloka maanava kalyaanamai - Siluvapai baliyaagamai (2)",
+        "Maraninchi thirigi lechina …aa (2)",
+        "Mahima Deva, mahaa Deva, Yesu neeke vandanam ||Yesuke||"
+      ]
+    }
+  ]
+}

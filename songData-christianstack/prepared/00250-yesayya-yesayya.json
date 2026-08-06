@@ -1,0 +1,51 @@
+{
+  "song_name": "Yesayya Yesayya",
+  "author": {
+    "Authored by": "P J Stephen Paul",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ కృపలోన ఇంతకాలం",
+      "నన్ను నిలిపిన నా యేసయ్య",
+      "భయపడవద్దని అభయమిచ్చిన",
+      "దేవదేవుడవు నీవేనయ్యా",
+      "నీ దయ కిరీటముగా",
+      "ఈ నూతన సంవత్సరములో",
+      "నన్ను అభివృద్ధి పరచుము",
+      "నా యేసయ్య"
+    ],
+    "english": [
+      "Nee krupalona intha kaalam",
+      "nannu nilipina naa yesayya",
+      "bhayapadavaddani abhayamichhina",
+      "devadevudavu neevenayya",
+      "nee daya keeritamuga",
+      "ee noothana samvatsaramulo",
+      "nannu abhivruddhi parachumu",
+      "naa yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసయ్య యేసయ్య",
+        "స్తుతి ఘన మహిమలు నీకేనయ్యా"
+      ],
+      "english": [
+        "Yesayya yesayya",
+        "stuthi ghana mahimalu neekenayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అను పల్లవి:",
+        "యేసయ్య యేసయ్య",
+        "స్తుతి ఘన మహిమలు నీకేనయ్యా"
+      ],
+      "english": []
+    }
+  ]
+}

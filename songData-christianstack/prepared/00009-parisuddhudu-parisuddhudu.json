@@ -1,0 +1,77 @@
+{
+  "song_name": "Parisuddhudu Parisuddhudu",
+  "author": {
+    "Authored by": "Dr. Yehoshua Kamalakar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరిశుద్ధుడు పరిశుద్ధుడు…"
+    ],
+    "english": [
+      "Parisuddhudu parisuddhudu…"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరిశుద్ధుడు పరిశుద్ధుడు పరిశుద్ధుడు అని",
+        "నిత్యము దూతలతో కొనియాడబడుతున్న నా యేసయ్యా",
+        "నిత్యము దూతలతో కొనియాడబడుతున్న నా యేసయ్యా",
+        "వందనం ప్రభు వందనం… వందనం ప్రభు వందనం…"
+      ],
+      "english": [
+        "Parisuddhudu parisuddhudu parisuddhudu ani",
+        "Nithyamu dootalato koniyaadabadutunna naa Yesayyaa",
+        "Nithyamu dootalato koniyaadabadutunna naa Yesayyaa",
+        "Vandanam Prabhu vandanam… Vandanam Prabhu vandanam…"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సర్వలోకము నీ మహిమతో నిండియున్నది దేవా",
+        "సర్వలోకము నీ మహిమతో నిండియున్నది దేవా",
+        "గొప్ప స్వరముతో ప్రభు యేసు నామమును",
+        "గొప్ప స్వరముతో ప్రభు యేసు నామమును",
+        "గాన ప్రతిగానం చేసెద నేను… గాన ప్రతిగానం చేసెద నేను…"
+      ],
+      "english": [
+        "Sarvalokamu nee mahimato nindiyunnadi Devaa",
+        "Sarvalokamu nee mahimato nindiyunnadi Devaa",
+        "Goppa swaramuto Prabhu Yesu naamamunu",
+        "Goppa swaramuto Prabhu Yesu naamamunu",
+        "Gaana pratigaanam chesedanenu… Gaana pratigaanam chesedanenu…"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా కంఠ స్వరము వలన గడప కమ్ముల పునాదులు కదలుచున్నవి దేవా",
+        "నా కంఠ స్వరము వలన గడప కమ్ముల పునాదులు కదలుచున్నవి దేవా",
+        "నా దేహమనే ఆలయమందున… నా దేహమనే ఆలయమందున…",
+        "స్తుతి ధూమము వేసెద నిరతము నీకు… స్తుతి ధూమము వేసెద నిరతము నీకు…"
+      ],
+      "english": [
+        "Naa kantha swaramu valana gadapa kammula punaadulu kadaluchunnavi Devaa",
+        "Naa kantha swaramu valana gadapa kammula punaadulu kadaluchunnavi Devaa",
+        "Naa dehamane aalayamanduna… Naa dehamane aalayamanduna…",
+        "Stuti dhoomamu veseda niratamu neeku… Stuti dhoomamu veseda niratamu neeku…"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పరిశుద్ధుడు పరిశుద్ధుడు పరిశుద్ధుడు అని",
+        "నిత్యము దూతలతో కొనియాడబడుతున్న నా యేసయ్యా",
+        "వందనం ప్రభు వందనం… వందనం ప్రభు వందనం…"
+      ],
+      "english": [
+        "Parisuddhudu parisuddhudu parisuddhudu ani",
+        "Nityamu dootalato koniyaadabadutunna naa Yesayyaa",
+        "Vandanam Prabhu vandanam… Vandanam Prabhu vandanam…"
+      ]
+    }
+  ]
+}

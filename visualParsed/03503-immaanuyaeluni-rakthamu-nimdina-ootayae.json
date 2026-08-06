@@ -1,0 +1,73 @@
+{
+  "song_name": "Immaanuyeluni rakthamu nindina ootaye",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇమ్మానుయేలుని రక్తము - నిండిన ఊటయే",
+        "ఇమ్ముగ దోషములెల్ల - నివృత్తి చేయును",
+        "హల్లెలూయా యేసువా కల్వరిపైన మృతుడా",
+        "హల్లెలూయా హల్లెలూయా హల్లెలూయా ఆమెన్"
+      ],
+      "english": [
+        "Immaanuyeluni rakthamu - Nindina ootaye",
+        "Immuga dhoshamulella - Nivrutthi cheyunu",
+        "Hallelooyaa Yesuvaa kalvaripaina mruthudaa",
+        "Hallelooyaa hallelooyaa hallelooyaa aamen"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపాత్ముడైన దొంగయు - ఆ ఊటలోముంగి",
+        "మన్నింపు, మోక్షానందము - నొందియానందించెన్"
+      ],
+      "english": [
+        "Paapaathmudaina dhongayu - Aa ootalomungi",
+        "Mannimpu, mokshaanandhamu - Nondhiyaanandhinchen"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆలాగే నేను యేసుచే - విముక్తి పొందుదు",
+        "విలువైన మన్నింపునొంది - పాడుదును సదా"
+      ],
+      "english": [
+        "Aalaage nenu Yesuche - Vimukthi pondhudhu",
+        "Viluvaina mannimpunondhi - Paadudhunu sadaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "గాయంపు రక్తమును నే - విశ్వసించి చూచి",
+        "ప్రియంపు యేసు ప్రేమను - ప్రకటింతు నెల్లడన్"
+      ],
+      "english": [
+        "Gaayampu rakthamunu ne - Vishvasinchi choochi",
+        "Priyampu Yesu premanu - Prakatinthu nelladan"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మోక్షంబునందు రక్షకున్ - చూచి ప్రహర్షింతున్",
+        "రక్షించునట్టి ప్రేమను - రక్తితో పాడుదున్"
+      ],
+      "english": [
+        "Mokshambunandhu rakshakun - Choochi praharshinthun",
+        "Rakshinchunatti premanu - Rakthitho paadudhun"
+      ]
+    }
+  ]
+}

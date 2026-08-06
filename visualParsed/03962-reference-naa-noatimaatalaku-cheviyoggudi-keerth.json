@@ -1,0 +1,80 @@
+{
+  "song_name": "Ne bodhimpa janaalikin",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నే బోధింప జనాళికిన్ - నేర్పింపు నాకు నో ప్రభు",
+        "నన్ వెద్కినట్లు నేనును - నశించువారిన్ వెద్కెదను"
+      ],
+      "english": [
+        "Ne bodhimpa janaalikin - Nerpimpu naaku no Prabhu",
+        "Nan vedkinatlu nenunu - Nashinchuvaarin vedkedanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆత్మీయ భోజనంబుతో - పోషించునట్లు నన్నును",
+        "మూర్ఛిల్లువారికిన్నదే - నేనియ్యగాను నడ్పుమా"
+      ],
+      "english": [
+        "Aathmeeya bhojanambutho - Poshinchunatlu nannunu",
+        "Moorchhilluvaarikinnade - Neniyyagaanu nadpumaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కష్టంబులొందు వారిని రక్షింప గల్గునట్లుగా",
+        "నాకిమ్ము నీదు శక్తిని - నన్ ధైర్య పర్చుమో ప్రభూ"
+      ],
+      "english": [
+        "Kashtambulondu vaarini rakshimpa galgunatlugaa",
+        "Naakimmu needu shakthini - Nan dhairya parchumo Prabhoo"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నే నేర్పునట్లు నాకును - నీ దివ్య వాక్యం నేర్పుము",
+        "ఆలించునట్లనేకులు - నా బోధను దీవింపుమా"
+      ],
+      "english": [
+        "Ne nerpunatlu naakunu - Nee divya vaakyam nerpumu",
+        "Aalinchunatlanekulu - Naa bodhanu dheevimpumaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ప్రయాసమొందు వారికి - విశ్రాంతి కల్గునట్లుగా",
+        "ఓదార్చు శక్తి మెండుగా - నీ యాత్మచే నాకిమ్మయా"
+      ],
+      "english": [
+        "Prayaasamondu vaariki - Vishraanthi kalgunatlugaa",
+        "Odhaarchu shakthi mendugaa - Nee yaathmache naakimmayaa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నీ దివ్యమోము జూచుచున్ నీ హాయి సంతోషంబులు",
+        "నే నొందుదాక నన్నిలన్ - నీ చిత్తమార నడ్పుమా"
+      ],
+      "english": [
+        "Nee dhivyamomu joochuchun nee haayi santhoshambulu",
+        "Ne nondudhaaka nannilan - Nee chiththamaara nadpumaa"
+      ]
+    }
+  ]
+}

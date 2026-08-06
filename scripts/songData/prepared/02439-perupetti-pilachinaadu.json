@@ -1,0 +1,83 @@
+{
+  "song_name": "Perupetti Pilichinaadu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పేరుపెట్టి పిలిచినాడు - నీ స్నేహితుడు",
+      "నేన్ను చూచి - నిలిచినాడు దావీదు సుతుడు",
+      "కానలేకున్నావా - దారి తెలియదన్నావా ?",
+      "నమ్మితే చాలు నేస్తమా - దేని గూర్చి చింత పడకుమా !"
+    ],
+    "english": [
+      "Perupetti Pilichinaadu - Nee Snehithudu",
+      "Nennu Choochi - Nilichinaadu Daaveedu Suthudu",
+      "Kaanalekunnaavaa - Daari Teliyadannaavaa ?",
+      "Nammithe Chaalu Nesthamaa - Deni Goorchi Chintha Padakumaa !"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కంటి కునుకు లేక యున్తివా - మోయలేని భారము",
+        "దాటలేని తీరము - వేదనతో కుములు చుంటివా !",
+        "లోకులేన్దరున్న - నీ కేక విన్నారా",
+        "నీకు తోడు నీడగా - నీతో వచ్చారా !"
+      ],
+      "english": [
+        "Kanti Kunuku Leka Yunthivaa - Moyaleni Bhaaramu",
+        "Daataleni Theeramu - Vedanatho Kumulu Chuntivaa !",
+        "Lokulendarunna - Nee Keka Vinnaaraa",
+        "Neeku Thodu Needagaa - Neetho Vachchaaraa !"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆదరనే లేక యుంటివా ఆదుకొనేవారు",
+        "నీ భాద వినేవారు - లేరని - ఏడ్చు చుంటివా",
+        "నమ్ముకోన్నవారే నిన్నేరుగనందురు",
+        "కష్ట కాల మందు నిన్ను మరచి పోదురు"
+      ],
+      "english": [
+        "Aadarane Leka Yuntivaa Aadukonevaaru",
+        "Nee Bhaada Vinevaaru - Lerani - Edchu Chuntivaa",
+        "Nammukonnavaare Ninnerugananduru",
+        "Kashta Kaala Mandu Ninnu Marachi Poduru"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సీయోను - చింత పడకుమా - చెంత చేరినాడు",
+        "నీ చింత బాపువాడు చూడుమా - నీ కరుణామయుడు",
+        "దిట్టమైన చోట - మేకు కొట్టినట్టుగా",
+        "స్తిరపరచి - బలపరచును నిన్ను ఏసుడు"
+      ],
+      "english": [
+        "Seeyonu - Chintha Padakumaa - Chentha Cherinaadu",
+        "Nee Chintha Baapuvaadu Choodumaa - Nee Karunaamayudu",
+        "Dittamaina Chota - Meku Kottinattugaa",
+        "Sthiraparachi - Balaparachunu Ninnu Yesudu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ముగిసి పోయే యుద్ధ కాలము తొలగి పోయెను",
+        "నీ పాప శాపము - దోషరునము తీరిపోయెను",
+        "ప్రేమ చూపుచున్నాడు ప్రాణ నాధుడు",
+        "నిన్ను చేర వచ్చుచుందే - యేసు నాధుడు"
+      ],
+      "english": [
+        "Mugisi Poye Yuddha Kaalamu Tholagi Poyenu",
+        "Nee Paapa Shaapamu - Dosharunamu Theeripoyenu",
+        "Prema Choopuchunnaadu Praana Naadhudu",
+        "Ninnu Chera Vachchuchunde - Yesu Naadhudu"
+      ]
+    }
+  ]
+}

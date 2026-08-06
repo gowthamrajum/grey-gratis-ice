@@ -1,0 +1,41 @@
+{
+  "song_name": "Chaediyalu Gumpugoodiri Kreesthu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "చేడియలు గుంపుగూడిరి క్రీస్తు జాడఁ గని తాల్మి నీడిరి",
+      "ఆడికలనోర్చి నేఁడు మన పాఁలి వాఁడుసిలువ ను న్నాడు గదె యంచు"
+    ],
+    "english": [
+      "Chaediyalu Gumpugoodiri Kreesthu Jaada Gani Thaalmi Neediri",
+      "Aadikalanoarchi Naedu Mana Paali Vaadusiluva Nu Nnaadu Gadhe Yanchu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వారి మొగములు వాడెను యేసు వారి వెత లెల్ల జూడను",
+        "నీరు దృక్సర సీరుహములందు జార తమ కొన గోరులను మీటి"
+      ],
+      "english": [
+        "Vaari Mogamulu Vaadenu Yaesu Vaari Vetha Lella Joodanu",
+        "Neeru Dhruksara Seeruhamulandhu Jaara Thama Kona Goarulanu Meeti"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రొమ్ములను జేతు లుంచుచు చింత గ్రమ్మి నిట్టూర్పు లిచ్చుచు",
+        "కొమ్మలట నిల్పు బొమ్మలన చేష్ట లిమ్ముచెడి యబ్బు రమ్ముతో నిల్చి"
+      ],
+      "english": [
+        "Rommulanu Jaethu Lunchuchu Chintha Grammi Nittoorpu Lichchuchu",
+        "Kommalata Nilpu Bommalana Chaeshta Limmuchedi Yabbu Rammuthoa Nilchi"
+      ]
+    }
+  ]
+}

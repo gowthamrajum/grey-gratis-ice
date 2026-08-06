@@ -1,0 +1,91 @@
+{
+  "song_name": "Sarvashakthudu naaku sarvamaayane",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సర్వశక్తుడు నాకు - సర్వమాయనే",
+        "సర్వమాయనే - నాకు సమస్తమాయనే"
+      ],
+      "english": [
+        "Sarvashakthudu naaku - Sarvamaayane",
+        "Sarvamaayane - Naaku samasthamaayane"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మార్గ సత్యజీవంబు - యేసునాథుడే",
+        "మార్గమాయనే - ఏకమార్గమాయనే"
+      ],
+      "english": [
+        "Maarga sathyajeevambu - Yesunaathude",
+        "Maargamaayane - Ekamaargamaayane"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "జీవాహారము జీవపానము నాయనే",
+        "జలము నాయనే - శాంతజల మాయనే"
+      ],
+      "english": [
+        "Jeevaahaaramu jeevapaanamu naayane",
+        "Jalamu naayane - Shaanthajala maayane"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆదియంతము అల్ఫా ఓమేగాయనే",
+        "ఓమేగాయనే - ఏకసుతుడాయనే"
+      ],
+      "english": [
+        "Aadiyanthamu alphaa omegaayane",
+        "Omegaayane - Ekasuthudaayane"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "రక్షణ పరిశుద్ధత నీతియాయనే",
+        "నీతియాయనే - దేవ నీతి యాయనే"
+      ],
+      "english": [
+        "Rakshana parishuddhatha neethiyaayane",
+        "Neethiyaayane - Deva neethi yaayane"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "పునరుత్థానము నిత్య జీవమాయనే",
+        "జీవమాయనే - నిత్య జీవమాయనే"
+      ],
+      "english": [
+        "Punarutthaanamu nithya jeevamaayane",
+        "Jeevamaayane - Nithya jeevamaayane"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "హల్లెలూయకు సర్వపాత్రుడాయనే",
+        "పాత్రుడాయనే - ఆశ్రయ దుర్గమాయనే"
+      ],
+      "english": [
+        "Hallelooyaku sarvapaathrudaayane",
+        "Paathrudaayane - Aashraya dhurgamaayane"
+      ]
+    }
+  ]
+}

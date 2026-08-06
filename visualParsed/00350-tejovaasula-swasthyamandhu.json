@@ -1,0 +1,70 @@
+{
+  "song_name": "Thejovaasula swaasthyamandhu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Yesanna"
+    ],
+    "రచన": [
+      "బ్రదర్ యేసన్న"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "తేజోవాసుల స్వాస్థ్యమందు - నను చేర్చుటే",
+      "నీ నిత్యసంకల్పమా నను చేర్చుటే నీ నిత్యసంకల్పమా (2)",
+      "తేజోవాసుల స్వాస్థ్యమందు ......"
+    ],
+    "english": [
+      "Thejovaasula swaasthyamandhu - Nanu cherchute",
+      "Nee nithyasankalpamaa nanu cherchute nee nithyasankalpamaa (2)",
+      "Thejovaasula swaasthyamandhu ......"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అగ్నిలో పుటము వేయబడగా - నాదు విశ్వాసము (2)",
+        "శుద్ధ సువర్ణమగునా - నీదు రూపు రూపించబడునా (2)  ||తేజోవాసుల||"
+      ],
+      "english": [
+        "Agnilo putamu veyabadagaa - Naadu vishwaasamu (2)",
+        "Shuddha suvarnamagunaa - Needu roopu roopinchabadunaa (2)  ||Thejovaasula||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రాబోవు యుగములన్నిటిలో - కృపా మహదైశ్వర్యం (2)",
+        "కనుపరచే నిమిత్తమేనా - నన్ను నీవు ఏర్పరచితివా (2)  ||తేజోవాసుల||"
+      ],
+      "english": [
+        "Raabovu yugamulannitilo - Krupaa mahadhaishwaryam (2)",
+        "Kanuparache nimitthamenaa - Nannu neevu erparachithivaa (2)  ||Thejovaasula||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "శాపము రోగములు లేని - శాశ్వత రాజ్యము (2)",
+        "శాపవిముక్తి పొందిన - శాంతమూర్తుల స్వాస్థ్యమదేనా (2)  ||తేజోవాసుల||"
+      ],
+      "english": [
+        "Shaapamu rogamulu leni - Shaashwatha raajyamu (2)",
+        "Shaapavimukthi pondina - Shaanthamoorthula swaasthyamadhenaa (2)  ||Thejovaasula||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నటనలు నరహత్యలు లేని - నూతన యెరూషలేం (2)",
+        "అర్హతలేని నన్నును - చెర్చుటయే నీ చిత్తమా (2)  ||తేజోవాసుల||"
+      ],
+      "english": [
+        "Natanalu narahathyalu leni - Noothana Yerooshalem (2)",
+        "Arhathaleni nannunu - Cherchutaye nee chitthamaa (2)  ||Thejovaasula||"
+      ]
+    }
+  ]
+}

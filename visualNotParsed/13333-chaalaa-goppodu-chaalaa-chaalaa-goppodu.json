@@ -1,0 +1,77 @@
+{
+  "song_name": "Chaalaa goppodu chaalaa chaalaa goppodu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "చాలా గొప్పోడు – చాలా చాలా గొప్పోడు",
+      "నేను నమ్మిన నా యేసుడు",
+      "చాలా గొప్పోడు – చాలా చాలా గొప్పోడు",
+      "నాకు దొరికిన నా యేసుడు (2)",
+      "మాటలలో చెప్పలేనంత",
+      "చేతలలో చూపలేనంత (2)",
+      "చాలా చాలా చాలా చాలా – చాలా గొప్పోడు",
+      "చాలా చాలా చాలా చాలా – చాలా మంచోడు (2) ||చాలా||"
+    ],
+    "english": [
+      "Chaalaa goppodu – Chaalaa chaalaa goppodu",
+      "Nenu nammina naa Yesudu",
+      "Chaalaa goppodu – Chaalaa chaalaa goppodu",
+      "Naaku dhorikina naa Yesudu (2)",
+      "Maatalalo cheppalenantha",
+      "Chethalalo choopalenantha (2)",
+      "Chaalaa chaalaa chaalaa chaalaa – Chaalaa goppodu",
+      "Chaalaa chaalaa chaalaa chaalaa – Chaalaa manchodu (2) ||Chaalaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా పాప శిక్షను తాను మోసెను",
+        "నా కొరకు కలువారిలో త్యాగమాయెను (2)",
+        "తన ప్రేమ వర్ణనాతీతం",
+        "తన జాలి వర్ణనాతీతం (2) ||మాటలలో||"
+      ],
+      "english": [
+        "Naa paapa shikshanu thaanu mosenu",
+        "Naa koraku Kalvarilo thyaagamaayenu (2)",
+        "Thana prema varnanaatheetham",
+        "Thana jaali varnanaatheetham (2) ||Maatalalo||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసయ్యకు సాటి ఎవ్వరు లేరు",
+        "జగమంతా వెదకినా కానరారులే (2)",
+        "తన ప్రేమ వర్ణనాతీతం",
+        "తన జాలి వర్ణనాతీతం (2) ||మాటలలో||"
+      ],
+      "english": [
+        "Yesayyaku saati evvaru leru",
+        "Jagamanthaa vedakinaa kaanaraarule (2)",
+        "Thana prema varnanaatheetham",
+        "Thana jaali varnanaatheetham (2) ||Maatalalo||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఈలాంటి ప్రేమ ఎక్కడ లేదు",
+        "వింతైన ప్రేమ అంతు చిక్కదు (2)",
+        "కలువరిలో చూపిన ప్రేమ",
+        "శాపమునే బాపిన ప్రేమ (2) ||మాటలలో||"
+      ],
+      "english": [
+        "Eelaanti prema ekkada ledu",
+        "Vinthaina prema antu chikkadhu (2)",
+        "Kalvarilo choopina prema",
+        "Shaapamune baapina prema (2) ||Maatalalo||"
+      ]
+    }
+  ]
+}

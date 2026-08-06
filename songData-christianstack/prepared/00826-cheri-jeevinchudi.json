@@ -1,0 +1,68 @@
+{
+  "song_name": "Cheri Jeevinchudi",
+  "author": {
+    "Authored by": "Devadas Mungamuri",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "చేరి జీవించుడి",
+      "దేవాది దేవుని",
+      "చేరి జీవించుడి",
+      "చేరి జీవనము చేసిన యెడల",
+      "కోరిన మోక్షము ఊరకే దొరుకును"
+    ],
+    "english": [
+      "Cheri Jeevinchudi",
+      "devaadi devuni",
+      "cheri jeevinchudi",
+      "cheri jeevanamu chesina yedala",
+      "korina mokshamu oorake dhorukunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మంచినే చేయుడి",
+        "దానినే అనుసరించి జీవించుడి",
+        "మంచి మార్గమున ఆటంకములు",
+        "మాటి మాటికి వచ్చును గాని",
+        "కించితైనను మంచిని గూర్చి",
+        "వంచన దారి యటంచు తలంపక",
+        "మంచి చెడ్డలన్ గుర్తింపగల",
+        "మనసాక్షిని ఇమ్మని దేవుని",
+        "యెంచి ప్రార్ధన చేయుచు స్తుతితో",
+        "పాపముల్ మానుడి",
+        "ఆ చెడ్డదారివైపే చూడకుడి",
+        "పాపము పాప ఫలితమైయున్న",
+        "శాపము సాతాన్ అతని సైన్యము",
+        "చూపునకెంతో రమ్యములైన",
+        "ఆపదలును ఆ పాప మార్గమున",
+        "దాపరించియుండును కావున",
+        "దాపున జేరిన అది నరకంబను",
+        "కూపములోనికి నడుపును గాన"
+      ],
+      "english": [
+        "Manchiney cheyudi",
+        "daaniney anusarinchi jeevinchudi",
+        "manchi maargamuna aatankamulu",
+        "maati maatiki vachunu gaani",
+        "kinchithainanu manchini goorchi",
+        "vanchana dhaari yatanchu thalanpaka",
+        "manchi cheddalan gurthimpagala",
+        "manasaakshini immani devuni",
+        "yenchi praardhana cheyuchu sthuthitho",
+        "Paapamul maanudi",
+        "aa chedda dhaarivaipey choodakudi",
+        "paapamu paapa phalithameiyunna",
+        "shaapamu saathaan athani sainyamu",
+        "choopunakentho ramyamulaina",
+        "aapadhalunu aa paapa maargamuna",
+        "dhaaparinchiyundunu kaavuna",
+        "dhaapuna jerina adi narakambanu",
+        "koopamuloniki nadupunu gaana"
+      ]
+    }
+  ]
+}

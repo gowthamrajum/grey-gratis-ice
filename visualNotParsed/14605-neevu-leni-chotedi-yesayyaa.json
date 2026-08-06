@@ -1,0 +1,70 @@
+{
+  "song_name": "Neevu leni chotedi Yesayyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Victor Rampogu"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవు లేని చోటేది యేసయ్యా",
+      "నే దాగి క్షణముండలేనయ్యా",
+      "నీవు చూడని స్థలమేది యేసయ్యా",
+      "కనుమరుగై నేనుండలేనయ్యా (2)",
+      "నీవు వినని మనవేది యేసయ్యా",
+      "నీవు తీర్చని భాద ఏది యేసయ్యా (2)",
+      "నీవుంటే నా వెంట అదియే చాలయ్యా (4) ||నీవు లేని||"
+    ],
+    "english": [
+      "Neevu leni chotedi Yesayyaa",
+      "Ne daagi kshanamundalenayyaa",
+      "Neevu choodani sthalamedi Yesayyaa",
+      "Kanumarugai nenundalenayyaa (2)",
+      "Neevu vinani manavedi Yesayyaa",
+      "Neevu theerchani baadha edi Yesayyaa (2)",
+      "Neevunte naa venta adiye chaalayyaa (4) ||Neevu leni||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కయీను కౄర పగకు బలియైన హేబేలు",
+        "రక్తము పెట్టిన కేక విన్న దేవుడవు",
+        "అన్నల ఉమ్మడి కుట్రకు గురియైన యోసేపు",
+        "మరణ ఘోష గోతి నుండి విన్న దేవుడవు (2)",
+        "చెవి యొగ్గి నా మొరను",
+        "యేసయ్యా నీవు వినకుంటే నే బ్రతుకలేనయ్యా (2) ||నీవుంటే||"
+      ],
+      "english": [
+        "Kayeenu kroora pagaku baliyaina Hebelu",
+        "Rakthamu pettina keka vinna Devudavu",
+        "Annala ummadi kutraku guriyaina Yosepu",
+        "Marana ghosha gothi nundi vinna Devudavu (2)",
+        "Chevi yoggi naa moranu",
+        "Yesayyaa neevu vinakunte ne brathukalenayyaa (2) ||Neevunte||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సౌలు ఈటె దాటికి గురియైన దావీదు",
+        "ప్రాణము కాపాడి రక్షించిన దేవుడవు",
+        "సాతాను పన్నిన కీడుకు మెత్తబడిన యోబును",
+        "గెలిపించి దీవెనలు కురిపించిన దేవుడవు (2)",
+        "నీ తోడు నీ నీడ",
+        "యేసయ్యా నాకు లేకుంటే నే జీవించలేనయ్యా (2) ||నీవుంటే||"
+      ],
+      "english": [
+        "Saulu eete daadiki guriyaina Daaveedu",
+        "Praanamu kaapaadi rakshinchina Devudavu",
+        "Saathaanu pannina keeduku metthabadina Yobunu",
+        "Gelipinchi deevenalu kuripinchina Devudavu (2)",
+        "Nee thodu nee needa",
+        "Yesayyaa naaku lekunte ne jeevinchalenayyaa (2) ||Neevunte||"
+      ]
+    }
+  ]
+}

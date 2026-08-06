@@ -1,0 +1,54 @@
+{
+  "song_name": "Thoorpu nundi padamaraku entha dhooramo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "తూర్పు నుండి పడమరకు ఎంత దూరమో",
+      "అంత దూరం పోయెను నా పాప భారము",
+      "యేసు నన్ను తాకగానే తొలగిపోయెను",
+      "నా పాపము -నా పాప భారము (2)"
+    ],
+    "english": [
+      "Thoorpu nundi padamaraku entha dhooramo",
+      "Antha dooram poyenu naa paapa bhaaramu",
+      "Yesu nannu thaakagaane tholagipoyenu",
+      "Naa paapamu -Naa paapa bhaaramu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రాతి వంటిది నాదు-పాత హృదయము",
+        "మెత్తనైన మాంసపు-హృదయమాయెను",
+        "ఎంత మధురము -నా యేసు రుధిరము",
+        "నా కలుష హృదయమును-కడిగి వేసెను||తూర్పు||"
+      ],
+      "english": [
+        "Raathi vantidi naadu-Paata hrudayamu",
+        "Metthanaina maamsapu-Hrudhayamaayenu",
+        "Entha madhuramu -Naa Yesu rudhiramu",
+        "Naa kalusha hrudayamunu-Kadigi vesenu||Thoorpu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాప ఊబి నుండి నన్ను పైకి లేపెను",
+        "పరమ జీవమార్గమును-నాకు జూపెను",
+        "ఎంత రమ్యము -నా యేసు రాజ్యము",
+        "యుగ యుగాలు -అదే నాకు పరమభాగ్యము||తూర్పు||"
+      ],
+      "english": [
+        "Paapa oobhi nundi nannu paiki lepenu",
+        "Parama jeevamaargamunu-Naaku joopenu",
+        "Entha ramyamu -Naa Yesu raajyamu",
+        "Yuga yugaalu -Adhe naaku paramabhaagyamu||Thoorpu||"
+      ]
+    }
+  ]
+}

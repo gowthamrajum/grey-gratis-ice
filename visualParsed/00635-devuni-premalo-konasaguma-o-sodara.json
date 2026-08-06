@@ -1,0 +1,48 @@
+{
+  "song_name": "Devuni premalo konasaagumaa O sodaraa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవుని ప్రేమలో కొనసాగుమా ఓ సోదరా! ఓసోదరీ !!",
+      "విశ్వాసములో జీవించుమా. . ఓ సోదరా! ఓసోదరీ !!",
+      "నీతిమంతుడు నిత్య దేవుడు నీతో వుండును ఎల్లప్పుడూ. ."
+    ],
+    "english": [
+      "Devuni premalo konasaagumaa O sodaraa! Osodharee !!",
+      "Vishwaasamulo jeevinchumaa. . O sodaraa! Osodharee !!",
+      "Neethimanthudu nithya Devudu neetho vundunu ellappudoo. ."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కష్టములు నిను తొందర పెట్టినా నిందలే నిను బాదించినా",
+        "అగ్నిశోధన నీకు కల్గిన కారు చీకటి కమ్మినా",
+        "మరణాంధకారపు లోయలలో నీవు నడిచినను"
+      ],
+      "english": [
+        "Kashtamulu ninu thondhara pettinaa nindhale ninu baadhinchinaa",
+        "Agnishodhana neeku kalgina kaaru cheekati kamminaa",
+        "Maranaandhakaarapu loyalalo neevu nadichinanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వ్యాధి బాధలు చుట్టిముట్టినా మరణ వేదనలు కల్గిన",
+        "దుష్టశక్తులు ఆవరించిన కష్టాల సుడులలో చిక్కిన",
+        "గాఢాందకారపు లోయలలో సంచరించినను"
+      ],
+      "english": [
+        "Vyaadhi baadhalu chuttimuttinaa marana vedanalu kalgina",
+        "Dhushtashakthulu aavarinchina kashtaala sudulalo chikkina",
+        "Gaadaandhakaarapu loyalalo sancharinchinanu"
+      ]
+    }
+  ]
+}

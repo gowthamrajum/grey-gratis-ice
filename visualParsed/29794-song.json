@@ -1,0 +1,50 @@
+{
+  "song_name": "Munduke velledanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ ఆత్మతో నన్ను నడుపుమయ్యా",
+      "నీ చేతి నీడలో నిత్యము నన్ను కావుమా",
+      "నీ సేవను కొనసాగించే భాగ్యమియ్యుమా।।"
+    ],
+    "english": [
+      "Nee aathmatho nannu nadupumayyaa",
+      "Nee chethi needalo nithyamu nannu kaavumaa",
+      "Nee sevanu konasaaginche bhaagyamiyyumaa।।"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అవమానమెదురైన గాయపరచాబడిన",
+        "నిందలెన్నో వేసిన చిన్న చూపే చూసిన (2)",
+        "నా వెన్ను తట్టి కన్నీరు తుడచి విశ్వాసం బలపరచావు (ఎదిగించావు) (2)",
+        "।।ముందుకే వెళ్లెదను।।"
+      ],
+      "english": [
+        "Avamaanamedhuraina gaayaparachabadina",
+        "Nindhalenno vesina chinna choope choosina (2)",
+        "Naa vennu thatti kanneeru thudachi vishwaasam balaparachaavu (edhiginchaavu) (2)",
+        "।।Munduke velledanu।।"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎంతగానో నమ్మిన వారే మోసం చేసిన",
+        "నా వెంటే ఉన్నానంటు నా పక్షం లేకున్నాను (2)",
+        "నే నీకు లేనా ? నేను సరిపోనా ?? అని నన్ను బలపరచావు (నడీపించావు) (2)  ||నీ||  ||నీ||"
+      ],
+      "english": [
+        "Enthagaano nammina vaare mosam chesina",
+        "Naa vente unnaanantu naa paksham lekunnaanu (2)",
+        "Ne neeku lenaa ? nenu sariponaa ?? ani nannu balaparachaavu (nadipinchaavu) (2)  ||Nee||  ||Nee||"
+      ]
+    }
+  ]
+}

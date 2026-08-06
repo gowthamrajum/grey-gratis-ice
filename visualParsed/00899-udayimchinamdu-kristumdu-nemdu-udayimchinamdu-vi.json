@@ -1,0 +1,52 @@
+{
+  "song_name": "Udayinchinaadu Kreesthudu nedu udayinchinaadu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఉదయించినాఁడు క్రీస్తుఁడు నేఁడు ఉదయించినాఁడు విదితయు",
+      "మరియ నందనుఁడై యిమ్మానులేల్ సదయుఁడై చెడియున్న పృధివికి",
+      "నొదవ సమ్మద మల పిశాచికి మద మణంగన సాధు జనముల",
+      "హృదయముల ముద మెదుగునట్లుగ"
+    ],
+    "english": [
+      "Udayinchinaadu Kreesthudu nedu udayinchinaadu vidhithayu",
+      "Mariya nandhanudai Immanuyel sadhayudai chediyunna prudhiviki",
+      "Nodhava sammadha mala pishaachiki madha manangana saadhu janamula",
+      "Hrudhayamula mudha medhugunatluga"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏ విభునివలన నీ జగ మయ్యె నా విభుఁ డీయిలను దైవత్వమగు",
+        "మను ష్యావతారముఁ దాల్చె జీవులకు జీవనము పై తగ దేవుఁడును దా",
+        "నొక్కఁడు చిరజీవియగు ప్రభు పాపి జీవులఁ గావఁ దనుఁ జావునకు నొడాఁబడి"
+      ],
+      "english": [
+        "E vibhunivalana nee jaga mayye naa vibhu deeyilanu dhaivathvamagu",
+        "Manu shyaavathaaramu dhaalche jeevulaku jeevanamu pai thaga Dhevudunu dhaa",
+        "Nokkadu chirajeeviyagu Prabhu paapi jeevula gaava dhanu jaavunaku nodaabadi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యూదుల నడుమన్ బెక్కగు భేదా భేదముల్ బొడమన్ వాదించి",
+        "ప్రభు రాకఁ గాదంచు మది నెంచి మిదుఁ జూడని వారి కారుండ",
+        "వారుండై స్వీయ జనులకు మెదమగు రొత్తంగ మద్ఘనుఁ",
+        "డె దయాళుఁడు ప్రాణ మిడుటకు"
+      ],
+      "english": [
+        "Yoodula naduman bekkagu bhedhaa bhedhamul bodaman vaadhinchi",
+        "Prabhu raaka gaadhanchu madi nenchi midhu joodani vaari kaarunda",
+        "Vaarundai sveeya janulaku medhamagu rotthanga madhghanu",
+        "De dayaaludu praana midutaku"
+      ]
+    }
+  ]
+}

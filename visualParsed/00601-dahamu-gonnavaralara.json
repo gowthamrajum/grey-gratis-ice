@@ -1,0 +1,55 @@
+{
+  "song_name": "Daahamu gonnavaaralaaraa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దాహము గొన్నవారలారా దాహము తీర్చుకొనండి",
+      "దేవుడేసే జీవజలము త్రాగ రారండి",
+      "హల్లేలూయ దేవుడేసే జీవజలము త్రాగ రారండి"
+    ],
+    "english": [
+      "Daahamu gonnavaaralaaraa daahamu theerchukonandi",
+      "Dhevudese jeevajalamu thraaga raarandi",
+      "Hallelooya Dhevudese jeevajalamu thraaga raarandi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జీవ జలము శ్రీ యేసుక్రీస్తు జీవపు ఊటలు ప్రవహింప జేయున్‌",
+        "జలము పొంది జీవము నొంద జలనిధి చేరండి"
+      ],
+      "english": [
+        "Jeeva jalamu Sree Yesukreesthu jeevapu ootalu pravahimpa jeyun",
+        "Jalamu pondi jeevamu nondha jalanidhi cherandi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేనిచ్చు నీరు త్రాగెడివారు ఎన్నటికిని దాహముగొనరు",
+        "అని సెలవిచ్చిన ప్రభు యేసు క్రీస్తు చెంతకు చేరండి"
+      ],
+      "english": [
+        "Nenichchu neeru thraagedivaaru ennatikini dhaahamugonaru",
+        "Ani selavichchina Prabhu Yesu Kreesthu chenthaku cherandi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తన పాపములను ఎరిగినవాడు తండ్రి క్షమాపణ కోరినవాడు",
+        "తప్పక పొందును జీవజలము త్వరపడి పరుగిడి రండి"
+      ],
+      "english": [
+        "Thana paapamulanu eriginavaadu thandri kshamaapana korinavaadu",
+        "Thappaka pondhunu jeevajalamu thvarapadi parugidi randi"
+      ]
+    }
+  ]
+}

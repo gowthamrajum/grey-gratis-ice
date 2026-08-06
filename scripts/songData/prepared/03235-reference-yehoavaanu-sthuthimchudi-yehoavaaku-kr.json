@@ -1,0 +1,63 @@
+{
+  "song_name": "Yehoavaaku Kroththa Keerthana Paadudi",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవాకు క్రొత్త కీర్తన పాడుడి - యెహోవాను స్తుతించుడి",
+      "అను భక్తులు కూడుకొను సమాజములో - స్తోత్రగీతము పాడుడి"
+    ],
+    "english": [
+      "Yehoavaaku Kroththa Keerthana Paadudi - Yehoavaanu SthuthiMchudi",
+      "Anu Bhakthulu Koodukonu Samaajamuloa - Sthoathrageethamu Paadudi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇశ్రాయేలీయులు తమ సృష్టికర్తనుబట్టి సంతోషించెదరు గాక",
+        "సీయోను జనులు తమ రాజును బట్టి ఆనందించుచు నుందురు గాక"
+      ],
+      "english": [
+        "Ishraayaeleeyulu Thama SruShtikarthanubatti SaMthoaShiMchedharu Gaaka",
+        "Seeyoanu Janulu Thama Raajunu Batti AanaMdhiMchuchu NuMdhuru Gaaka"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాట్యముతో వారు తన నామమును శ్రేష్ఠముగా స్తుతింతురు గాక",
+        "తంబురతోను సితారాతోను తనివి తీర పాడుదురు గాక"
+      ],
+      "english": [
+        "Naatyamuthoa Vaaru Thana Naamamunu ShraeShTamugaa SthuthiMthuru Gaaka",
+        "ThaMburathoanu Sithaaraathoanu Thanivi Theera Paadudhuru Gaaka"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యెహోవా ఆయన ప్రజల యందు మహా ప్రేమ కలిగినవాడు",
+        "ఆయన బీదలను రక్షణతో అందముగ అలంకరించును"
+      ],
+      "english": [
+        "Yehoavaa Aayana Prajala YaMdhu Mahaa Praema Kaliginavaadu",
+        "Aayana Beedhalanu RakShaNathoa AMdhamuga AlaMkariMchunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "భక్తులందరును ఘనతనొంది నిత్యము ప్రహర్షింతురు గాక",
+        "సంతోషభరితులై పడకల మీద వింత గానము చేతురు గాక"
+      ],
+      "english": [
+        "BhakthulaMdharunu GhanathanoMdhi Nithyamu PraharShiMthuru Gaaka",
+        "SaMthoaShabharithulai Padakala Meedha ViMtha Gaanamu Chaethuru Gaaka"
+      ]
+    }
+  ]
+}

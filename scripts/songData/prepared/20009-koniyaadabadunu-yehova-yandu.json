@@ -1,0 +1,38 @@
+{
+  "song_name": "Koniyaadabadunu Yehova Yandu",
+  "author": {
+    "Authored by": "Dr  A R Stevenson",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కొనియాడబడును యెహోవాయందు భయభక్తులు గల వనిత తనవారికైన పగవారికైన పంచును సమత మమత"
+    ],
+    "english": [
+      "koniyaadabadunu yehova yandu – bhaya bhaktulu gala vanithatanavaarikaina pagavaarikaina panchunu samata mamata1.prati paristitini premato bharinchagaligina orpupratikoolatanu anukulamugaa maarcheti nerpukaligina bhaarya intiki deepamusanghamane aa vadhuvunaku nijamaina roopamu2.tandrivale odaarchi tallivale seda deerchimitrunivale bharthaku yeppudu toduga nilchunudaiva jnaanamutho kutumbamunu nadupunuraabovu vaati goorchi nishntaga nundunu3.bratuku dinamulanniyunu bhataku mele cheyunudeenulaku daridrulaku tana cheyi chaapunuaahaaramunu taane siddhaparachunuinti vaarinandarini kanipettuchundunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రతి పరిస్థితిని ప్రేమతో భరించగలిగిన ఓర్పుప్రతికూలతను అనుకూలముగా మార్చేటి నేర్పు కలిగిన భార్య ఇంటికి దీపము సంఘమనే ఆ వధువునకు నిజమైన రూపము"
+      ],
+      "english": []
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తండ్రివలె ఓదార్చి తల్లివలె సేదదీర్చిమిత్రునివలె భర్తకు ఎప్పుడు తోడుగ నిల్చును దైవ జ్ఞానముతో కుటుంబమును నడుపును రాబోవు వాటి గూర్చి నిశ్చింతగా నుండును"
+      ],
+      "english": []
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బ్రతుకు దినములన్నియును భర్తకు మేలే చేయునుదీనులకు దరిద్రులకు తన చేయిచాపును ఆహారమును తానే సిద్ధపరచును ఇంటివారినందరిని కనిపెట్టుచుండును"
+      ],
+      "english": []
+    }
+  ]
+}

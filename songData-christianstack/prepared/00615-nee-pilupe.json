@@ -1,0 +1,81 @@
+{
+  "song_name": "Nee Pilupe",
+  "author": {
+    "Authored by": "Joshua Shaik, Passion For Christ Ministries",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ పిలుపే నా దరి చేరే – నీతోటి నా స్నేహమా",
+      "నీ మనసే నా మది కోరే – ఎనలేని సంబంధమా",
+      "కోటి రాగాలు నే పాడుతున్నా – తీరనేలేదు నా దాహమైన",
+      "నిన్ను చేరేటి సంతోషమా"
+    ],
+    "english": [
+      "Nee pilupe naa dhari chere – neethoti naa snehamaa",
+      "nee manase naa madhi kore – enaleni sambhadhamaa",
+      "koti raagaalu ne paaduthunnaa – theeraneledu naa dhaahamaina",
+      "ninnu chereti santhoshamaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కోరుకున్నాను నీ ప్రేమనే – దాచుకున్నాను నీ వాక్యమే",
+        "ఎన్ని కాలాలు నే దాటినా – కడలి కెరటాలు నను తాకినా",
+        "ఆలకించావు నా ప్రార్ధన – ఆదరించావు నా యేసయ్య"
+      ],
+      "english": [
+        "Korukunnaanu nee premane – dhaachukunnaanu nee vaakyame",
+        "enni kaalaalu ne dhaatinaa – kadali kerataalu nanu thaakinaa",
+        "aalakinchaavu naa praardhana – aadharinchaavu naa yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ మాటే నాలో మెదిలే – దినమెల్ల నీ ధ్యానమే",
+        "అణువణువు నాలో పలికే – నీ స్తోత్ర సంకీర్తన",
+        "కోటి రాగాలు నే పాడుతున్నా – తీరనేలేదు నా దాహమైన",
+        "నిన్ను చేరేటి సంతోషమా",
+        "నీ పిలుపే నా దరి చేరే – నీతోటి నా స్నేహమా"
+      ],
+      "english": [
+        "nee maate naalo medhile – dinamella nee dhyaaname",
+        "anuvanuvu naalo palike – nee stothra sankeerthana",
+        "koti raagaalu nee paaduthunnaa – theeraneledu naa dhaahamaina",
+        "ninnu chereti santhoshamaa",
+        "nee pilupe naa dari chere – neethoti naa snehamaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "చేరుకున్నాను నీ పాదమే – వేడుకున్నాను నీ స్వాంతనే",
+        "జీవ గమనాల సంఘర్షణ – అంతరంగాన ఆవేదన",
+        "తెల్లవారేను నీ నీడన – పొందుకున్నాను నీ దీవెన"
+      ],
+      "english": [
+        "cherukunnaanu nee paadame – vedukunnaanu nee swaantane",
+        "jeeva gamanaala sangharshana – antharangaana aavedhana",
+        "thellavaarenu nee needana – pondhukunnanu nee deevena"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీ పిలుపే నా దరి చేరే – నీతోటి నా స్నేహమా",
+        "నీ మనసే నా మది కోరే – ఎనలేని సంబంధమా",
+        "కోటి రాగాలు నే పాడుతున్నా – తీరనేలేదు నా దాహమైన",
+        "నిన్ను చేరేటి సంతోషమా"
+      ],
+      "english": [
+        "nee pilupe naa dari chere – neethoti naa snehamaa",
+        "nee manase naa madhi kore – enaleni sambandhamaa",
+        "koti raagaalu ne paaduthunnaa – theeraneledhu naa dhaahamaina",
+        "ninnu chereti santhoshamaa"
+      ]
+    }
+  ]
+}

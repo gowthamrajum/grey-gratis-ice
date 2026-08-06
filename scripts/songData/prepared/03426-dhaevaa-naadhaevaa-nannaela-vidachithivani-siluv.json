@@ -1,0 +1,71 @@
+{
+  "song_name": "Dhaevaa Naadhaevaa Nannaela Vidachithivani Siluvaloa Baliyaina Naa Yaesuvaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవా నాదేవా నన్నేల విడచితివని",
+      "సిలువలో బలియైన నా యేసువా పలుబాధ లొందితివి నా శైలమా"
+    ],
+    "english": [
+      "Dhaevaa Naadhaevaa Nannaela Vidachithivani",
+      "Siluvaloa Baliyaina Naa Yaesuvaa Palubaadha Londhithivi Naa Shailamaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా తండ్రి నీకిది సాధ్యమైతే ఈ గిన్నె నానుండి తొలగింపుమని",
+        "నా నాథా తండ్రిని వేడితివా",
+        "నే మోయలేని ఈ భారమంత నీవు గాక యెవరు భరింతురు"
+      ],
+      "english": [
+        "Naa Thandri Neekidhi Saadhyamaithae Ee Ginne Naanundi Tholagimpumani",
+        "Naa Naathaa Thandrini Vaedithivaa",
+        "Nae Moayalaeni Ee Bhaaramantha Neevu Gaaka Yevaru Bharinthuru"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ శిష్యులంతా యేమైపోయిరి నీవు స్వస్థపరచిన రోగులేరి",
+        "నీ తండ్రికూడా నిను విడనాడెనా",
+        "నా దోషమంతా నీపై మోపెనా నిను నలుగగొట్టుట కప్పగించెనా"
+      ],
+      "english": [
+        "Nee Shishyulanthaa Yaemaipoayiri Neevu Svasthaparachina Roagulaeri",
+        "Nee Thandrikoodaa Ninu Vidanaadenaa",
+        "Naa Dhoashamanthaa Neepai Moapenaa Ninu Nalugagottuta Kappaginchenaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిన్ను రచ్చకీడ్చను నా రక్షకా నీ నేరమేమిటి ఓ నా ప్రభువా",
+        "మానవులు దేవుని చంపుటయా? ఏ చరితంబులోనూ కలదా ప్రభూ?",
+        "ఈ ఘోరమరణము నాకై నొందితివా?"
+      ],
+      "english": [
+        "Ninnu Rachchakeedchanu Naa Rakshakaa Nee Naeramaemiti Oa Naa Prabhuvaa",
+        "Maanavulu Dhaevuni Champutayaa? Ae Charithambuloanoo Kaladhaa Prabhoo?",
+        "Ee Ghoaramaranamu Naakai Nondhithivaa?"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సొగసైన షారోను ఓ పుష్పమా సురూపమంతా కోల్పోయితివా",
+        "వ్యసనా క్రాంతుడవైతివా నా కై వ్యాధిని అనుభవించితివి నాకై",
+        "వధియింప బడితివి బలి పశువుగా"
+      ],
+      "english": [
+        "Sogasaina Shaaroanu Oa Pushpamaa Suroopamanthaa Koalpoayithivaa",
+        "Vyasanaa Kraanthudavaithivaa Naa Kai Vyaadhini Anubhavinchithivi Naakai",
+        "Vadhiyimpa Badithivi Bali Pashuvugaa"
+      ]
+    }
+  ]
+}

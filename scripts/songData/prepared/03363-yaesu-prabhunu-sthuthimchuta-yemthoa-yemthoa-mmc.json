@@ -1,0 +1,82 @@
+{
+  "song_name": "Yaesu Prabhunu Sthuthimchuta Yemthoa Yemthoa Mmchidhi",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు ప్రభును స్తుతించుట - యెంతో యెంతో మంచిది"
+    ],
+    "english": [
+      "Yaesu Prabhunu Sthuthimchuta - Yemthoa Yemthoa Mmchidhi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మహోన్నతుడా - నీనామమును - స్తుతించుటయే బహుమంచిది",
+        "హల్లెలూయ - హల్లెలూయ - హల్లెలూయ - హల్లెలూయ"
+      ],
+      "english": [
+        "Mahoannathudaa - Neenaamamunu - Sthuthimchutayae Bahummchidhi",
+        "Hallelooya - Hallelooya - Hallelooya - Hallelooya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విలువైన రక్తము సిలువాలో కార్చి - కలుషాత్ముల మమ్ము ప్రభు కడిగెను"
+      ],
+      "english": [
+        "Viluvaina Rakthamu Siluvaaloa Kaarchi - Kalushaathmula Mammu Prabhu Kadigenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఎంతో గొప్ప రక్షణ నిచ్చి - వింతైన జనముగా మము జేసెను"
+      ],
+      "english": [
+        "Emthoa Goppa Rakshna Nichchi - Vimthaina Janamugaa Mamu Jaesenu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మా శైలము మా కేడెము - మా కోటయు మా ప్రభువే"
+      ],
+      "english": [
+        "Maa Shailamu Maa Kaedemu - Maa Koatayu Maa Prabhuvae"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఉన్నత దుర్గము రక్షణ శృంగము - రక్షించువాడు మన దేవుడే"
+      ],
+      "english": [
+        "Unnatha Dhurgamu Rakshna Shrumgamu - Rakshimchuvaadu Mana Dhaevudae"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "అతిసుందరుడు అందరిలోన - అతి కాంక్షణీయుడు అతి ప్రియుడు"
+      ],
+      "english": [
+        "Athisumdharudu Amdhariloana - Athi Kaamkshneeyudu Athi Priyudu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "రాత్రింబవళ్ళు వేనోళ్ళతోను - స్తుతుంచుటయే బహు మంచిది"
+      ],
+      "english": [
+        "Raathrimbavallu Vaenoallathoanu - Sthuthumchutayae Bahu Mmchidhi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "song_name": "Niti Nyayamulu Premimchuvadu Na Yesu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీతి న్యాయములు ప్రేమించువాడు నా యేసు",
+      "నా స్తుతలపై ఆశీనుడు నీతిగలవాడు (2)",
+      "నా యేసు నా యేసు నా యేసు (2)"
+    ],
+    "english": [
+      "Niti Nyayamulu Premimchuvadu Na Yesu",
+      "Na Stutalapai Asinudu Nitigalavadu (2)",
+      "Na Yesu Na Yesu Na Yesu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గొప్ప కార్యములు జరిగించువాడు నా యేసు",
+        "చీకటి నుండి వెలుగునకు నన్ను నడిపించెను (2)"
+      ],
+      "english": [
+        "Goppa Karyamulu Jarigimchuvadu Na Yesu",
+        "Chikati Numdi Velugunaku Nannu Nadipimchenu (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ధవళవర్ణుడు, రత్నవర్ణుడు నా యేసు",
+        "పదివేలలో గుర్తించగగలిగిన కాంక్షనీయుడు (2)"
+      ],
+      "english": [
+        "Dhavalavarnudu, Ratnavarnudu Na Yesu",
+        "Padivelalo Gurtimchagagaligina Kamkshaniyudu (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మనో నేత్రములు వెలిగించువాడు నా యేసు",
+        "మేఘాలలో రానైయున్న కొదమ సింహము (2)"
+      ],
+      "english": [
+        "Mano Netramulu Veligimchuvadu Na Yesu",
+        "Megalalo Ranaiyunna Kodama Simhamu (2)"
+      ]
+    }
+  ]
+}

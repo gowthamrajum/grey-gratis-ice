@@ -1,0 +1,74 @@
+{
+  "song_name": "Sannuthinchedanu ellappudu nithyamu aayana keerthi naanotanundu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "34:1",
+      "సన్నుతించెదను ఎల్లప్పుడు",
+      "నిత్యము ఆయన కీర్తి నానోటనుండు"
+    ],
+    "english": [
+      "34:1",
+      "Sannuthinchedanu ellappudu",
+      "Nithyamu aayana keerthi naanotanundu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యెహోయాకు ప్రార్ధించగా - నా భయమంత తొలగించెను",
+        "శ్రమలన్నిటిలో నాతో నుండి (2)",
+        "చేరదీసి నన్ను ఆదరించె - ఆరాధించెద నెల్లప్పుడు"
+      ],
+      "english": [
+        "Yehovaaku praardhinchagaa - Naa bhayamantha tholaginchenu",
+        "Shramalannitilo naatho nundi (2)",
+        "Cheradeesi nannu aadarinche - Aaraadhincheda nellappudu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జీవితమంతా పాడుచుందును - నీ మేలులకు ఓ ప్రభువా",
+        "నా ఆయుష్కాల మంతయును (2)",
+        "నీ విశ్వాస్యత కొరకెప్పుడు - నిరతము నిన్ను స్తోత్రింతు"
+      ],
+      "english": [
+        "Jeevithamanthaa paaduchundhunu - Nee melulaku O Prabhuvaa",
+        "Naa aayushkaala manthayunu (2)",
+        "Nee vishwaasyatha korakeppudu - Nirathamu ninnu sthothrinthu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మహోన్నతమైనది నీదు మహిమ - ఘనత ప్రభావముగల ప్రభువా",
+        "తనివి తీరగ నిను పూజింతు (2)",
+        "తరగని నీ కార్యములకై - తప్పక నిన్ను స్తుతియింతు"
+      ],
+      "english": [
+        "Mahonnathamainadhi needu mahima - Ghanatha prabhaavamugala Prabhuvaa",
+        "Thanivi theeraga ninu poojinthu (2)",
+        "Tharagani nee kaaryamulakai - Thappaka ninnu sthuthiyinthu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీ సంకల్పమును నెరవేర్చి - నడిపించితివి ఘనముగను",
+        "నాకు ప్రభుడవై నా కాపరివై (2)",
+        "నా జీవితములో వున్నావు - నిజముగ నిన్ను పొగడెదను"
+      ],
+      "english": [
+        "Nee sankalpamunu neraverchi - Nadipinchithivi ghanamuganu",
+        "Naaku prabhudavai naa kaaparivai (2)",
+        "Naa jeevithamulo vunnaavu - Nijamuga ninnu pogadedhanu"
+      ]
+    }
+  ]
+}

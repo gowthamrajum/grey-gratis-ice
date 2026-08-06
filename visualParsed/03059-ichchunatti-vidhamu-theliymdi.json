@@ -1,0 +1,63 @@
+{
+  "song_name": "Ichchunatti vidhamu theliyandi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "బన్యన్ జోసఫ్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇచ్చునట్టి విధము తెలియండి ప్రియులారా మీరు హెచ్చు పొందు",
+      "విధము ఇది నుండి పుచ్చుకొనుట కన్న నెప్పు డిచ్చుటయే కడు ధన్యత",
+      "యని హెచ్చరించి చెప్పలేదా యేసు ప్రభు వపొస్తలులకు ||నిచ్చు||"
+    ],
+    "english": [
+      "Ichchunatti vidhamu theliyandi priyulaaraa meeru hechchu pondu",
+      "Vidhamu idhi nundi puchchukonuta kanna neppu dichchutaye kadu dhanyatha",
+      "Yani hechcharinchi cheppaledhaa Yesu prabhu vaposthalulaku ||Nichchu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శక్తికొలఁది దాన మీయుండి సోదరులార భక్తికొలఁది పరుల కీయుఁ",
+        "డి శక్తి లేదని సాకు చెప్పక సణగ కేమియు సరగ శ్రద్ధా సక్తితో పేదలకు",
+        "నిచ్చుట యుక్త మని భావించి మదిలో ||నిచ్చు||"
+      ],
+      "english": [
+        "Shakthikoladhi dhaana meeyundi sodharulaara bhakthikoladhi parula keeyu",
+        "Di shakthi ledani saaku cheppaka sanaga kemiyu saraga shraddhaa sakthitho pedhalaku",
+        "Nichchuta yuktha mani bhaavinchi madilo ||Nichchu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీతిబోధలు చేయువారికి బోధకులైన నిఖల పాలకులైన వారికి",
+        "ఆతురముతో నీయవలెనని యనుభవముగల మీరలెల్లరు చేతులార నీయు",
+        "డయ్య ప్రీతి తోడును వారవార ||నిచ్చు||"
+      ],
+      "english": [
+        "Neethibodhalu cheyuvaariki bodhakulaina nikhala paalakulaina vaariki",
+        "Aathuramutho neeyavalenani yanubhavamugala meeralellaru chethulaara neeyu",
+        "Dayya preethi thodhunu vaaravaara ||Nichchu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆలయ కృత్యములు జరిగించు యాజకుఁ డెపుడు నాలయంబువలన",
+        "జీవించు ప్రాలుమాలక పనిని జేయఁ బరఃగ మీ యర్పణలఁ గాన్కల",
+        "బలవంతము లేక మీరు పలువిధంబు నియ్య వెదకుడి ||నిచ్చు||"
+      ],
+      "english": [
+        "Aalaya kruthyamulu jariginchu yaajaku depudu naalayambuvalana",
+        "Jeevinchu praalumaalaka panini jeya baraga mee yarpanala gaankala",
+        "Balavanthamu leka meeru paluvidhambu niyya vedhakudi ||Nichchu||"
+      ]
+    }
+  ]
+}

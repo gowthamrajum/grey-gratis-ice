@@ -1,0 +1,54 @@
+{
+  "song_name": "Vijaya ghosha vinipinchenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "విజయ ఘోష వినిపించెను విశ్వమంత- గళము లెత్తి వినిపించర స్తోత్ర గీతముల్",
+      "విజయ ఘోష వినిపించెను విశ్వమంత- గళము లెత్తి వినిపించర స్తోత్ర గీతముల్",
+      "హల్లెలూయా హల్లెలూయా - హల్లెలూయా హల్లెలూయా హోసన్న హోసన్న హోసన్న హోసన్న హల్లెలూయా (4)",
+      "విజయ ఘోష వినిపించెను విశ్వమంత – గళము లెత్తి వినిపించర స్తోత్ర గీతముల్"
+    ],
+    "english": [
+      "Vijaya ghosha vinipinchenu vishwamantha- Galamu letthi vinipinchara sthothra geethamul",
+      "Vijaya ghosha vinipinchenu vishwamantha- Galamu letthi vinipinchara sthothra geethamul",
+      "Hallelooyaa hallelooyaa - Hallelooyaa hallelooyaa hosanna hosanna hosanna hosanna hallelooyaa (4)",
+      "Vijaya ghosha vinipinchenu vishwamantha – Galamu letthi vinipinchara sthothra geethamul"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అణువణువున విమోచన రాగ రవళులు - పొంగి పొరలి నరాళిలో యీనాడు",
+        "అణువణువున విమోచన రాగ రవళులు - పొంగి పొరలి నరాళిలో యీనాడు",
+        "మృతుంజయుడై యేసు లేచెను - మానవ కోటికి రక్షణ కలిగెను",
+        "మృతుంజయుడై యేసు లేచెను - మానవ కోటికి రక్షణ కలిగెను  ||విజయ||"
+      ],
+      "english": [
+        "Anuvanuvuna vimochana raaga ravalulu - Pongi porali naraalilo eenaadu",
+        "Anuvanuvuna vimochana raaga ravalulu - Pongi porali naraalilo eenaadu",
+        "Mruthyunjayudai Yesu lechenu - Maanava kotiki rakshana kaligenu",
+        "Mruthyunjayudai Yesu lechenu - Maanava kotiki rakshana kaligenu  ||Vijaya||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తరతరాల పాపశాప బంధకంబులు - విడిపోయి విడుదలాయె మానవాళి",
+        "తరతరాల పాపశాప బంధకంబులు - విడిపోయి విడుదలాయె మానవాళి",
+        "అంతఃశ్చర్యము, పునురుద్ధానము - అవనిలో ఎన్నడూ జరుగని కార్యము",
+        "అంతఃశ్చర్యము, పునురుద్ధానము - అవనిలో ఎన్నడూ జరుగని కార్యము  ||విజయ||"
+      ],
+      "english": [
+        "Tharatharaala paapashaapa bandhakambulu - Vidipoyi vidudhalaaye maanavaali",
+        "Tharatharaala paapashaapa bandhakambulu - Vidipoyi vidudhalaaye maanavaali",
+        "Anthashcharyamu, punarutthaanamu - Avanilo ennadoo jarugani kaaryamu",
+        "Anthashcharyamu, punarutthaanamu - Avanilo ennadoo jarugani kaaryamu  ||Vijaya||"
+      ]
+    }
+  ]
+}

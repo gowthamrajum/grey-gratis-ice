@@ -1,0 +1,76 @@
+{
+  "song_name": "Nee Sannidhilo",
+  "author": {
+    "Authored by": "A R Stevenson",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ సన్నిధిలో సంపూర్ణమైన",
+      "సంతోషము కలదయా",
+      "యేసయ్యా సంతోషము కలదయా",
+      "నిను విడిచి ఎట్లుండగలనయా",
+      "నీవు లేకుంటే ఏమైపోదునయా"
+    ],
+    "english": [
+      "Nee sannidhiloo sampoornamaina",
+      "Samtooshhamu kaladayaa",
+      "Yeesayyaa samtooshhamu kaladayaa",
+      "Ninu vidichi etlumdagalanayaa",
+      "Neevu leekumtee eemaipoodunayaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "బలహీన సమయాన నీ శక్తితో",
+        "కార్యాన్ని జరిగించుచున్నావయా",
+        "భయపడ్డ నన్ను పలకరించుచు",
+        "బ్రతికించుచున్నావయా",
+        "యేసయ్యా నీవు నాకుంటే చాలయా"
+      ],
+      "english": [
+        "Balaheena samayaana nee shaktitoo",
+        "Kaaryaanni jarigimchuchunnaavayaa",
+        "Bhayapadda nannu palakarimchuchu",
+        "Bratikimchuchunnaavayaa",
+        "Yeesayyaa neevu naakumtee chaalayaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అనుమానస్థితిలోన నీ మాటతో",
+        "సంతృప్తి కలిగించుచున్నావయా",
+        "తడబడ్డ నాకు సహకరించుచు",
+        "గెలిపించుచున్నావయా",
+        "యేసయ్యా నీవు నాకుంటే చాలయా"
+      ],
+      "english": [
+        "Anumaanasthitiloona nee maatatoo",
+        "Samtrupti kaligimchuchunnaavayaa",
+        "Tadabadda naaku sahakarimchuchu",
+        "Gelipimchuchunnaavayaa",
+        "Yeesayyaa neevu naakumtee chaalayaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కెరటాల రొద మధ్య నీ ఆజ్ఞతో",
+        "విశ్రాంతి నెలకొల్పుచున్నావయా",
+        "శ్రమపడ్డ నాకు ఫలితమిచ్చుచు",
+        "వెలిగించుచున్నావయా",
+        "యేసయ్యా నీవు నాకుంటే చాలయా"
+      ],
+      "english": [
+        "Kerataala roda madhya nee aagnyatoo",
+        "Vishraamti nelakolpuchunnaavayaa",
+        "Shramapadda naaku phalitamichchuchu",
+        "Veligimchuchunnaavayaa",
+        "Yeesayyaa neevu naakumtee chaalayaa"
+      ]
+    }
+  ]
+}

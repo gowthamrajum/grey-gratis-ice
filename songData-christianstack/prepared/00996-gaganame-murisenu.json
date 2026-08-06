@@ -1,0 +1,68 @@
+{
+  "song_name": "Gaganame Murisenu",
+  "author": {
+    "Authored by": "Samuel Karmoji",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "గగనమే మురిసెను",
+      "తారయే మెరిసెను",
+      "పరమున దూతలే",
+      "పండుగ జేసెను"
+    ],
+    "english": [
+      "Gaganame murisenu",
+      "taaraye merisenu",
+      "paramuna dhoothale",
+      "panduga jesenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జయం జయం",
+        "హోసన్నా జయం జయం",
+        "శుభం శుభం",
+        "లోకానికి శుభం శుభం"
+      ],
+      "english": [
+        "jayam jayam",
+        "hosanna jayam jayam",
+        "subham subham",
+        "lokaaniki subham subham"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గగనమే మురిసెను",
+        "తారయే మెరిసెను",
+        "పరమున దూతలే",
+        "పండుగ జేసెను"
+      ],
+      "english": [
+        "Gaganame murisenu",
+        "taaraye merisenu",
+        "paramuna dhoothale",
+        "panduga jesenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "జయం జయం",
+        "హోసన్నా జయం జయం",
+        "శుభం శుభం",
+        "లోకానికి శుభం శుభం"
+      ],
+      "english": [
+        "jayam jayam",
+        "hosanna jayam jayam",
+        "subham subham",
+        "lokaaniki subham subham"
+      ]
+    }
+  ]
+}

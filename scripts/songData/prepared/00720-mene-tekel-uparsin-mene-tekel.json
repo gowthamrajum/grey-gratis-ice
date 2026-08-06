@@ -1,0 +1,41 @@
+{
+  "song_name": "Mene Tekel Uparsin Mene Tekel",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మెనే మెనే టెకేల్ ఉఫార్సీన్ మెనే మెనే టెకేల్ ఉఫార్సీన్",
+      "వ్రాసెను శాసనం దేవుని చేతితో దేవుని త్రాసులో నీవు తేలిపోదువో"
+    ],
+    "english": [
+      "Mene Mene Tekel Uparsin Mene Mene Tekel Uparsin",
+      "Vrasenu Sasanam Devuni Chetito Devuni Trasulo Nivu Telipoduvo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సౌలు రాజు తేలిపోయెను అహాబు రాజు తేలి కూలెను",
+        "నీ క్రియలను బట్టి తీర్పు తీర్చును మరి నీ గతి ఏమౌతుందో తెలుసుకొ"
+      ],
+      "english": [
+        "Saulu Raju Telipoyenu Ahabu Raju Teli Kulenu",
+        "Ni Kriyalanu Batti Tirpu Tirchunu Mari Ni Gati Emautumdo Telusuko"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఘనుడవైన అల్పుడవైనా ఈ లోకమేలే అధిపతివైనా",
+        "క్రీస్తు న్యాయపీఠము ఎదుట మరి నీ గతి ఏమౌతుందో తెలుసుకో"
+      ],
+      "english": [
+        "Ganudavaina Alpudavaina I Lokamele Adhipativaina",
+        "Kristu Nyayapithamu Eduta Mari Ni Gati Emautumdo Telusuko"
+      ]
+    }
+  ]
+}

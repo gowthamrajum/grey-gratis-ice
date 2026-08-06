@@ -1,0 +1,50 @@
+{
+  "song_name": "Naa Dhehamunu",
+  "author": {
+    "Authored by": "Joel Kodali",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా దేహమును నీ ఆలయముగా నిర్మించి నివసించుము",
+      "నే సమర్పింతును నీకు నా దేహము సజీవయాగముగా ప్రభు",
+      "యేసు నాలో నీవు వుంటే నీ సంపదలు నా సొంతమే",
+      "యేసు నీలో నేను వుంటే నా బ్రతుకంతా సంతోషమే"
+    ],
+    "english": [
+      "Naa dhehamunu nee aalayamugaa nirminchi nivasinchumu",
+      "ne samarpinthunu neeku naa dhehamu sajeevayaagamugaa prabhu",
+      "yesu naalo neevu unte nee sampadhalu naa sonthame",
+      "yesu naalo neevu unte naa brathukanthaa santhoshame"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నాలో నీ సన్నిధి ఉందని గ్రహియించు జ్ఞానమును కలిగుంచుము",
+        "నా దేహమును భయముతో భక్తితో నీకోరకు పరిశుద్ధముగా దాచెద",
+        "ఈ లోకములో జనముల ఎదుట మాదిరిగా జీవింతును",
+        "నా దేహముతో నీ నామమును ఘనపరతును నిత్యము",
+        "నీ జీవ ప్రవాహము ప్రవహించనీ నాలోని అణువణువు చిగురించును",
+        "ఫలియించు ద్రాక్షావల్లి వలె నేను విస్తారముగా దేవా ఫలియింతును",
+        "నా దీవెనగా నీవు ఉంటే నాకేమైనా కొదువుండునా",
+        "ఈ లోకముకు నన్ను నీవు దీవెనగా మార్చు ప్రభు"
+      ],
+      "english": [
+        "Naalo nee sannidhi undhani",
+        "grahiyinchi gnaanamunu kaliginchumu",
+        "naa dhehamunu bhayamutho bhakthitho",
+        "nee koraku parishuddamugaa dhaachedha",
+        "ee lokamulo janamula edhuta maadhirigaa jeevinthunu",
+        "naa dhehamutho nee naamamunu ghanaparathunu nithyamu",
+        "Nee jeeva pravaahamu pravahinchani",
+        "naaloni anuvanuvu chigurinchunu",
+        "phaliyinchu dhraakshaavalli vale",
+        "nenu visthaaramugaa devaa phaliyinthunu",
+        "naa dheevenagaa neevu unte naakemainaa kodhuvundunaa",
+        "ee lokamuku nannu neevu deevenagaa maarchu prabhu"
+      ]
+    }
+  ]
+}

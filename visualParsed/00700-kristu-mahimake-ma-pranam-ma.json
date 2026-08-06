@@ -1,0 +1,62 @@
+{
+  "song_name": "Kreesthu mahimake maa praanam maa jeevam maa sarvam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "క్రీస్తు మహిమకే మా ప్రాణం మా జీవం మా సర్వం",
+      "లోకము మరచి పాడెదము స్తుతి గీతం కలకాలం",
+      "చప్పట్లతో తాళాలతో నాట్యముతో కొనియాడెదం",
+      "తప్పెట్లతో భజనలతో శాంతి సువార్తను ప్రకటించెదమ్"
+    ],
+    "english": [
+      "Kreesthu mahimake maa praanam maa jeevam maa sarvam",
+      "Lokamu marachi paadedamu sthuthi geetham kalakaalam",
+      "Chappatlatho thaalaalatho naatyamutho koniyaadedam",
+      "Thappetlatho bhajanalatho shaanthi suvaarthanu prakatinchedam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అడుగులు తడబడు వేళ",
+        "జారనీయక నిలిపి ఇక్కట్టులో",
+        "దరి చేరి వ్యథను తీర్చాడు",
+        "ఈ సామర్థ్యమెవరికి లేదు",
+        "ధర ఎవరికి సాధ్యము కాదు",
+        "ఏది ఏమైనను నే యేసయ్యనే",
+        "స్తుతి గళమెత్తి మనసారా భజియింతుము"
+      ],
+      "english": [
+        "Adugulu thadabadu vela",
+        "Jaaraneeyaka nilipi ikkattulo",
+        "Dari cheri vyathanu theerchaadu",
+        "Ee saamarthyamevariki ledu",
+        "Dhara evariki saadhyamu kaadu",
+        "Edhi emainanu ne Yesayyane",
+        "Sthuthi galameththi manasaaraa bhajiyinthumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆత్మీయ పోరాటమును మాకు నేర్పిన గురువు",
+        "పోరాడువాడు తానై జయమునిచ్చాడు",
+        "మాకు మెళుకువ నేర్పువాడు ప్రార్థనాయుధమును ఇచ్చాడు",
+        "నాశనమవ్వని జీవకీరింటము నాకు",
+        "తప్పక బహుమతిగా అందించును"
+      ],
+      "english": [
+        "Aathmeeya poraatamunu maaku nerpina guruvu",
+        "Poraaduvaadu thaanai jayamunichchaadu",
+        "Maaku melukuva nerpuvaadu praarthanaayudhamunu ichchaadu",
+        "Naashanamavvani jeevakireetamu naaku",
+        "Thappaka bahumathigaa andhinchunu"
+      ]
+    }
+  ]
+}

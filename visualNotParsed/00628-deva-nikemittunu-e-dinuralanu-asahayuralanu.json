@@ -1,0 +1,42 @@
+{
+  "song_name": "Deva neekemitthunu ee deenuraalanu asahaayuraalanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవా నీకేమిత్తును ఈ దనురాలను అసహాయురాలను",
+      "దేవా నికేమిత్తును (2)"
+    ],
+    "english": [
+      "Deva neekemitthunu ee deenuraalanu asahaayuraalanu",
+      "Deva neekemitthunu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కృంగిన వేళ ఓదార్పు నీవైతివి దుఃఖించు వేళ కన్నీరు తుడిచితివి",
+        "ఏ తీరు పోల్చను నీ స్నేహమును కృతజ్జతాస్తుతులు చెల్లింతును (2)"
+      ],
+      "english": [
+        "Krungina vela odaarpu neevaithivi dhukhinchu vela kanneeru thudichithivi",
+        "E theeru polchanu nee snehamunu kruthajnathaasthuthulu chellinthunu (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆకలి అనగా మన్నాను కురిపింతువు బండ నుండి జలమును పంపింతువు",
+        "ఏలాగు విడువను నీ త్యాగమును మేలిమికన్నా ప్రియమైనది (2)"
+      ],
+      "english": [
+        "Aakali anagaa mannaanu kuripinthuvu banda nundi jalamunu pampinthuvu",
+        "Elaagu viduvanu nee thyaagamunu melimikannaa priyamainadhi (2)"
+      ]
+    }
+  ]
+}

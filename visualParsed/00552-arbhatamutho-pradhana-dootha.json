@@ -1,0 +1,63 @@
+{
+  "song_name": "Aarbhaatamutho pradhaana dootha",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Yesanna"
+    ],
+    "రచన": [
+      "బ్రదర్ యేసన్న"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆర్భాటముతో ప్రధాన దూత శబ్ధముతో దేవుని బూరతో",
+      "మహిమతో ప్రభువు తన స్వాస్త్యముకై త్వరగా రానైయున్నాడు"
+    ],
+    "english": [
+      "Aarbhaatamutho pradhaana dootha shabdhamutho Devuni booratho",
+      "Mahimatho Prabhuvu thana svaasthyamukai thvaragaa raanaiyunnaadu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అరుదెంచెను నవ వసంతము చిగురించుచున్నది అంజూరము",
+        "అనుకొనని గడియలో ప్రత్యక్షమగును మేఘాలపై మన ప్రియుడు",
+        "ఓపిక కలిగి ఆత్మ ఫలమును ఫలించెదము ప్రభు కొరకే"
+      ],
+      "english": [
+        "Arudhenchenu nava vasanthamu chigurinchuchunnadhi anjooramu",
+        "Anukonani gadiyalo prathyakshamagunu meghaalapai mana priyudu",
+        "Opika kaligi aathma phalamunu phalinchedhamu Prabhu korake"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరిశుద్ధతలో సంపూర్ణులమై ప్రభువు వలె మార్పునొందెదము",
+        "సూర్య చంద్రులు అక్కర లేని సీయోను నగరము నందు",
+        "గొర్రె పిల్ల దీపకాంతిలో ప్రకాశించెదము"
+      ],
+      "english": [
+        "Parishuddhathalo sampoornulamai Prabhuvu vale maarpunondhedhamu",
+        "Soorya chandrulu akkara leni Seeyonu nagaramu nandu",
+        "Gorre pilla dheepakaanthilo prakaashinchedhamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వధువు సంఘముగా ప్రభువుతో కలిసి నిత్యము నివాసముండెదము",
+        "ఆహా ఎంతో సొగసైన వైభవమైన పన్నెండు గుమ్మముల నగరములో",
+        "యుగయుగాలు మన ప్రాణ ప్రియునితో లీనమై పోదుము"
+      ],
+      "english": [
+        "Vadhuvu sanghamugaa Prabhuvutho kalisi nithyamu nivaasamundedhamu",
+        "Aahaa entho sogasaina vaibhavamaina pannendu gummamula nagaramulo",
+        "Yugayugaalu mana praana priyunitho leenamai podhumu"
+      ]
+    }
+  ]
+}

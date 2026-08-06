@@ -1,0 +1,38 @@
+{
+  "song_name": "Snehamai Praanamai",
+  "author": {
+    "Authored by": "Joshua Shaik, Passion For Christ Ministries",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్నేహమై, ప్రాణమై వరించే దైవమై",
+      "ఇదే జీవితం, నీకే అంకితం",
+      "ఇదే నా వరం, నీవే అమృతం",
+      "నిరంతరం సేవించనీ"
+    ],
+    "english": [
+      "Snehamai praanamai varinche daivamai",
+      "idhey jeevitham, neeke ankitham",
+      "idhey na varam, neeve amrutham",
+      "nirantharam sevinchani"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "స్నేహమై, ప్రాణమై వరించే దైవమై",
+        "ఇదే జీవితం, నీకే అంకితం",
+        "ఇదే నా వరం, నీవే అమృతం",
+        "నిరంతరం సేవించనీ"
+      ],
+      "english": [
+        "Snehamai praanamai varinche daivamai",
+        "idhey jeevitham, neeke ankitham",
+        "idhey na varam, neeve amrutham",
+        "nirantharam sevinchani"
+      ]
+    }
+  ]
+}

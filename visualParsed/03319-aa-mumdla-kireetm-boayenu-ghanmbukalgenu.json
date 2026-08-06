@@ -1,0 +1,58 @@
+{
+  "song_name": "Aa mundla kireetam boyenu ghanambukalgenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆ ముండ్ల కిరీటం బోయెను - ఘనంబుకల్గెను",
+        "విజయరాజుపై - జయకిరీటంబుంచుడి"
+      ],
+      "english": [
+        "Aa mundla kireetam boyenu - Ghanambukalgenu",
+        "Vijayaraajupai - Jayakireetambunchudi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రభువులకు ప్రభువా - రాజులకు రాజా!",
+        "పై లోకమందు సొంత గద్దెపై కూర్చుంటివి"
+      ],
+      "english": [
+        "Prabhuvulaku prabhuvaa - Raajulaku raajaa!",
+        "Pai lokamandu sontha gaddhepai koorchuntivi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పై దూతల యానందము - జనాళి మోదము",
+        "నీ గొప్ప ప్రేమ జూతుము - నిన్ వెంబడింతుము"
+      ],
+      "english": [
+        "Pai doothala yaanandhamu - Janaali modhamu",
+        "Nee goppa prema joothumu - Nin vembadinthumu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "తా జచ్చిన యా సిలువ - మాకాయె క్షేమము",
+        "నిరీక్షణ సౌభాగ్యము - మా నిత్య జీవము"
+      ],
+      "english": [
+        "Thaa jachchina yaa siluva - Maakaaye kshemamu",
+        "Nireekshana saubhaagyamu - Maa nithya jeevamu"
+      ]
+    }
+  ]
+}

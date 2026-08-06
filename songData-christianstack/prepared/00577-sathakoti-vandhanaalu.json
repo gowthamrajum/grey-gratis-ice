@@ -1,0 +1,32 @@
+{
+  "song_name": "Sathakoti Vandhanaalu",
+  "author": {
+    "Authored by": "John Kennedy Bethapudi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "శతకోటి వందనాలు నా యేసయ్యా",
+      "గతమంత నీ కృపలో కాచితివయ్యా"
+    ],
+    "english": [
+      "Sathakoti vandhanaalu na yesayya",
+      "gathamantha nee krupalo kaachithivayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నూతన బలము నూతన శక్తి",
+        "మా కొసగుమయ్యా",
+        "ఎనలేని నీ ప్రేమను మాపై",
+        "చూపించుమయ్యా"
+      ],
+      "english": [
+        "Nuthana balamu nuthana sakthi maa kosagumayaa",
+        "yenaleni nee premanu maapai chupinchumayaa"
+      ]
+    }
+  ]
+}

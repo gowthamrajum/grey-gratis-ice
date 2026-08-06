@@ -1,0 +1,34 @@
+{
+  "song_name": "Gaganame Ganthulese",
+  "author": {
+    "Authored by": "Surya Teja",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కేవలం రాజు కాదయ్యా",
+      "కేవలం ప్రవక్త కాదయ్యా",
+      "కేవలం మనుజుడు కాదయ్యా",
+      "ఈయన దేవుడు యేసయ్యా"
+    ],
+    "english": [
+      "Kevalam raaju kaadhayyaa",
+      "kevalam pravaktha kaadhayyaa",
+      "kevalam manujudu kaadhayyaa",
+      "eeyana devudu yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గగనమే గంతులేసే యేసయ్య జననానా",
+        "దూతలే పాట పాడే యేసయ్య పుట్టినందున"
+      ],
+      "english": [
+        "Gaganame ganthulese yesayya jananaanaa",
+        "dhoothale paata paade yesayya vachinandhunaa"
+      ]
+    }
+  ]
+}

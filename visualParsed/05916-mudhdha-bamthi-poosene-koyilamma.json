@@ -1,0 +1,54 @@
+{
+  "song_name": "Mudhdha banthi poosene – Koyilamma koosene",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Dr A R Stevenson"
+    ],
+    "రచన": [
+      "డాక్టర్ ఏ ఆర్ స్టీవెన్సన్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ముద్ద బంతి పూసెనె – కొయిలమ్మ కూసెనె",
+      "ఆఅనన్డమ్ వెల్లివిరిసెనె – (ఏఎ బన్దమ్ నిట్యమ్ నిలిచెనె)(2)/2/"
+    ],
+    "english": [
+      "Mudhdha banthi poosene – Koyilamma koosene",
+      "Aanandam vellivirisene – (Ee bandham nithyam nilichene)(2)/2/"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రెల్లనె ఈ బన్దమ్ – ఆనురాగపు అనుబన్దమ్",
+        "ఠీయనైన మకరన్డమ్ – ఇగిరిపొని సుమగన్దమ్ /2/",
+        "ఠొడుగా ఈడు జొడుగ – జన్టగ కనుల పన్టగ /2/",
+        "Pఅన్డాలి బ్రటుకు నిన్డాలి – డామ్పట్యమె వెలుగుటున్డాలి /2/ముడ్డ/"
+      ],
+      "english": [
+        "Pellane ee bandham – Anuraagapu anubandham",
+        "Theeyanaina makarandham – Igiriponi sumagandham /2/",
+        "Thodugaa eedu jodugaa – Jantagaa kanula pantagaa /2/",
+        "Pandaali brathuku nindaali – Dhaampatyame veluguthundaali /2/Mudhdha/"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దెవుడె యెర్పరచిన డివ్యమైన డీబన్దమ్",
+        "క్రీస్టు Yఎసు సన్ఘమునకు పొల్చబడిన సమ్బన్దమ్ /2/",
+        "ఢెవుడె జట చెయగా – సాద్యమ వెరు చెయగా /2/",
+        "కలటలె లెక సాగాలి – కలలన్ని నిజము కావాలి /2/ముడ్డ/"
+      ],
+      "english": [
+        "Devude erparachina divyamaina ee bandham",
+        "Kreesthu Yesu sanghamunaku polchabadina sambandham /2/",
+        "Devude jatha cheyagaa – Saadhyama veru cheyagaa /2/",
+        "Kalathale leka saagaali – Kalalannee nijamu kaavaali /2/Mudhdha/"
+      ]
+    }
+  ]
+}

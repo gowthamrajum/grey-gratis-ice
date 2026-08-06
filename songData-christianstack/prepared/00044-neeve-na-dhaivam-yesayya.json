@@ -1,0 +1,96 @@
+{
+  "song_name": "Neeve Na Dhaivam Yesayya",
+  "author": {
+    "Authored by": "Benaiah Jameson & Rachel Benaiah",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మనసారా నిన్నే నే ఆరాధింతున్",
+      "కృతజ్ఞతతో నేను నిను చేరెద",
+      "నీ పాద సన్నిధిలో మోకరించేదన్",
+      "నీతి సూర్యుడ నాపై ఉదయించుము"
+    ],
+    "english": [
+      "Manasara ninne ne aradhinthun",
+      "Kruthagnatha tho nenu ninu cheredha",
+      "Ne padha sannidhilo mokarinchedhan",
+      "Neethi suryuda na pai udhayinchumu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీది పరిశుద్ధ నామం,",
+        "సత్యమైన మార్గం,",
+        "నిత్యమైన రాజ్యం…",
+        "నీవే నా దైవం…"
+      ],
+      "english": [
+        "Needhi parishudha namam",
+        "Satyamaina margam",
+        "Nityamaina rajyam",
+        "Neeve na dhaivam",
+        "Yesayya yesayya yesayya yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విరిగిన మనసు నీకు ఇచ్చెద",
+        "నలిగిన నా బ్రతుకు మార్చవా",
+        "వేరెవ్వరు లేరు చేరదీసే వారు",
+        "హత్తుకో దేవా ఈ క్షణమే…",
+        "వేరెవ్వరు లేరు ఆధరించే వారు",
+        "కనికరించు దేవా ఈ క్షణమే."
+      ],
+      "english": [
+        "Virigina Manassu neeku ichedha",
+        "Naligina na brathuku marchava",
+        "Verevvaru leru cheradese varu",
+        "Hathuko deva ee kshaname…",
+        "Verevvaru leru adharinche varu",
+        "Kanikarinchu deva we kshaname…"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిత్యము నీతోనే నడిచెద…",
+        "రక్షణ ఆనందం నింపుమా…",
+        "వేరెవ్వరు లేరు తోడు నడిచేవారు",
+        "దరి చేరు దేవ ఈ క్షణమే",
+        "వేరెవ్వరు లేరు రక్షించే వారు",
+        "ఆదుకో దేవా ఈ క్షణమే"
+      ],
+      "english": [
+        "Nityamu neethone nadichedha",
+        "Rakshana anandham nimpuma",
+        "Verevvaru leru thodu nadichevaru",
+        "Dharicheru deva ee kshaname",
+        "Verevvaru leru rakshinche",
+        "Varu adhuko deva ee kshaname"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "బ్రతికెద నీ కొరకే సాక్షిగా…",
+        "స్థిరముగా నిలిచే కృపను ఇయ్యుమా…",
+        "వేరెవ్వరు లేరు బలపరిచే వారు",
+        "లేవనెత్తూ దేవా ఈ క్షణమే",
+        "వేరెవ్వరు లేరు దివించే వారు",
+        "తృప్తిపరచు దేవా ఈ క్షణమే"
+      ],
+      "english": [
+        "Brathikeda ne korake sakshiga",
+        "Sthiramuga niliche krupaniyyuma",
+        "Verevvaru leru balaparachevaru",
+        "Levanethu deva ee kshaname…",
+        "Verevvaru leru deevinchevaru",
+        "Trupti parachu deva ee kshaname"
+      ]
+    }
+  ]
+}

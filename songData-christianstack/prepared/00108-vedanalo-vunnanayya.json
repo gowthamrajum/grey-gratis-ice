@@ -1,0 +1,124 @@
+{
+  "song_name": "Vedanalo Vunnanayya",
+  "author": {
+    "Authored by": "Pas. J. Anilkumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "వేదనలో ఉన్నానయ్యా",
+      "శోధనలో ఉన్నానయ్యా",
+      "కష్టములో ఉన్నానయ్యా",
+      "నష్టములో ఉన్నానయ్యా",
+      "యేసయ్యా రావయ్యా",
+      "దర్శించు నా యేసు",
+      "యేసయ్యా రావయ్యా",
+      "దర్శించు నాయేసు"
+    ],
+    "english": [
+      "Vedanalo unnanayya",
+      "Sodhanalo unnanayya",
+      "Kashtamulo unnanayya",
+      "Nashtamulo unnanayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గుండె పగిలి పోతుందయ్యా యేసయ్యా",
+        "మనసు నలిగి పోతుందయ్యా",
+        "గుండె పగిలి పోతుందయ్యా యేసయ్యా",
+        "మనసు నలిగి పోతుందయ్యా",
+        "యేసయ్యా రావయ్యా",
+        "దర్శించు నా యేసు",
+        "యేసయ్యా రావయ్యా",
+        "దర్శించు నాయేసు"
+      ],
+      "english": [
+        "Yesayya raavayya",
+        "Dharshinchu naa Yesu",
+        "Yesayya raavayya",
+        "Dharshinchu naa Yesu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కన్నీరే అన్నపానమే యేసయ్యా",
+        "రాత్రులు నిద్రలేవులే",
+        "కన్నీరే అన్నపానమే యేసయ్యా",
+        "రాత్రులు నిద్రలేవులే",
+        "యేసయ్యా రావయ్యా",
+        "దర్శించు నా యేసు",
+        "యేసయ్యా రావయ్యా",
+        "దర్శించు నాయేసు"
+      ],
+      "english": [
+        "Gunde pagili pothundhayya Yesayya",
+        "Manasu naligi pothundhayya",
+        "Gunde pagili pothundhayya Yesayya",
+        "Manasu naligi pothundhayya"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మరణచ్చాయలో ఉంటిని యేసయ్యా",
+        "సమాధికి చేరువైతిని",
+        "మరణచ్చాయలో ఉంటిని యేసయ్యా",
+        "సమాధికి చేరువైతిని",
+        "యేసయ్యా రావయ్యా",
+        "దర్శించు నా యేసు",
+        "యేసయ్యా రావయ్యా",
+        "దర్శించు నాయేసు"
+      ],
+      "english": [
+        "Yesayya raavayya",
+        "Dharshinchuu naa Yesu",
+        "Yesayya raavayya",
+        "Dharshinchuu naa Yesu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [],
+      "english": [
+        "Kanneerea annapanamea Yesayya",
+        "Raathrulu nidhralevule",
+        "Kanneerea annapanamea Yesayya",
+        "Raathrulu nidhralevule"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [],
+      "english": [
+        "Yesayya raavayya",
+        "Dharshinchuu naa Yesu",
+        "Yesayya raavayya",
+        "Dharshinchuu naa Yesu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [],
+      "english": [
+        "Maranachaayalo untini Yesayya",
+        "Samaadhiki cheruvaithini",
+        "Maranachaayalo untini Yesayya",
+        "Samaadhiki cheruvaithini"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [],
+      "english": [
+        "Yesayya raavayya",
+        "Dharshinchuu naa Yesu",
+        "Yesayya raavayya",
+        "Dharshinchuu naa Yesu"
+      ]
+    }
+  ]
+}

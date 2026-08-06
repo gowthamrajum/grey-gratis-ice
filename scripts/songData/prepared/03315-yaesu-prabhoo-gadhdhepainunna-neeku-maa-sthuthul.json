@@ -1,0 +1,63 @@
+{
+  "song_name": "Yesu Prabhoo Gaddhepainunna Neeku Maa Sthuthulanu Chellinchedhamu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పాత్రుండవీవే పాత్రుండవీవే పాత్రుండవీవే మాప్రభు నీవే",
+      "నీ సన్నిధియందు నిన్నారాధించి పాత్రుండవీవంచు కీర్తింతుము"
+    ],
+    "english": [
+      "Paathrundaveeve Paathrundaveeve Paathrundaveeve Maaprabhu Neeve",
+      "Nee Sannidhiyandhu Ninnaaraadhinchi Paathrundaveevanchu Keerthinthumu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు ప్రభూ గద్దెపైనున్న నీకు మా స్తుతులను చెల్లించెదము",
+        "నీ సన్నిధియందు నిన్నారాధించి పాత్రుండ వీవంచు కీర్తింతుము"
+      ],
+      "english": [
+        "Yesu Prabhoo Gaddhepainunna Neeku Maa Sthuthulanu Chellinchedhamu",
+        "Nee Sannidhiyandhu Ninnaaraadhinchi Paathrunda Veevanchu Keerthinthumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేవుడౌ నీవు నరరూపమెత్తి దూతలకన్న తగ్గింపబడి",
+        "స్త్రీ సంతానమౌ నీవు మరణించి సర్పము తల నణగ ద్రొక్కితివి"
+      ],
+      "english": [
+        "Dhevudau Neevu Nararoopameththi Dhoothalakanna Thaggimpabadi",
+        "Stree Santhaanamau Neevu Maraninchi Sarpamu Thala Nanaga Dhrokkithivi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ సృష్టియే సిల్వయొద్దకు నిన్ను నడ్పి సిల్వన్ మేకులతో కొట్టిరి",
+        "దైవ మానవులచే వీడబడి శాప నష్ట మనుభవించితివి"
+      ],
+      "english": [
+        "Nee Srushtiye Silvayoddhaku Ninnu Nadpi Silvan Mekulatho Kottiri",
+        "Dhaiva Maanavulache Veedabadi Shaapa Nashta Manubhavinchithivi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మహిమతో మరణమును గెల్చి గొప్ప విజయము పొందితివి",
+        "చావు సమాధులపై విజయుండా నిన్ను స్తుతింపక నెట్టులుందును"
+      ],
+      "english": [
+        "Mahimatho Maranamunu Gelchi Goppa Vijayamu Pondhithivi",
+        "Chaavu Samaadhulapai Vijayundaa Ninnu Sthuthimpaka Nettulundhunu"
+      ]
+    }
+  ]
+}

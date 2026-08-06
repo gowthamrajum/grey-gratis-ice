@@ -1,0 +1,34 @@
+{
+  "song_name": "Yesu Leni Jeevitham Ela",
+  "author": {
+    "Authored by": "Gabriel Shama",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు లేని జీవితం ఏల గడపను",
+      "యేసు రాకకై నేను వేచియున్నాను",
+      "దేవా.. దేవా..రావా.. నను బ్రోవా"
+    ],
+    "english": [
+      "Yesu leni jeevitham ela gadapanu",
+      "Yesu raakakai nenu vechi yunnanu",
+      "Devaa devaaa raaava nanu brova"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు లేని జీవితం ఏల గడపను",
+        "యేసు రాకకై నేను వేచియున్నాను",
+        "దేవా.. దేవా..రావా.. నను బ్రోవా"
+      ],
+      "english": [
+        "Yesuleni jeevitham ela gadapanu",
+        "Yesu raakakai nenu vechi yunnanu",
+        "Devaa devaaa raaava nanu brova"
+      ]
+    }
+  ]
+}

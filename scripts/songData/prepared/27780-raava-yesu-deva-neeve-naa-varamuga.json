@@ -1,0 +1,35 @@
+{
+  "song_name": "Raava Yesu Deva Neeve Naa Varamuga",
+  "author": {
+    "Authored by": "Joshua Shaik",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రావా యేసుదేవా – నీవే నా వరముగ దారే చూప రావా – నడిపించే దేవా రావా ఈ కడలిలో నలిగిన నా హృదయముతో నిను కొలుతును నా ప్రభువా రావా తోడు రావా – నీవే జీవ నావ పొంగేటి ప్రేమై రావా – నాతో ఉండిపోవా"
+    ],
+    "english": [
+      "raava yesu deva – neeve naa varamuga dhaare choopa raava – nadipinche deva raava ee kadalilo naligina naa hrudayamutho ninu koluthunu naa prabhuvaa raava thodu raava – neeve jeeva naava pongeti premai raava – naatho undipova"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏలో ఏలో – అంటు సాగే – నాదు నావ మబ్బే కమ్మీ – గాలే రేగే – నీవు లేక ఆశే నీవు – నాదు ప్రభువ – ఆదుకోవా దూరమైన – వెల్లువైన – నాతో రావా కడలిలోన – కరుణ చూపే – దీపం కావా ఏ బంధమో – అనుబంధమో బ్రతుకంత నీదేగా – కరుణించ రావయ్యా"
+      ],
+      "english": [
+        "yelo yelo – antu saage – naadhu naava mabbe kammi – gaale rege – neevu leka aase neevu – naadhu prabhuva – aadhukova dhooramaina – velluvaina – naatho raava kadalilona – karuna choope dheepam kaava ye bandhamo – anubandhamo brathukantha needhegaa – karunincha raavayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కొండా కోన – నింగీ నేల – చాలనంత పొంగీపోయే – ప్రేమే నీది – సంద్రమంత చూసే నీవు – నాదు బ్రతుకు – భారమంతా ఆదరించే – అమ్మ వంటి – దైవమే నీవు దయను చూపే – దరికి చేర్చే – నేస్తమే నీవు ఏ రాగమో – అనురాగమో కడదాకా నీవేగా – కృప చూప రావయ్యా"
+      ],
+      "english": [
+        "konda kona – ningi nela – chaalanantha pongipoye – preme needhi – sandramantha choose neevu – naadhu brathuku – bhaaramanthaa aadharinche- amma vanti – daivame neevu dayanu choope – dariki cherche – nesthame neevu ye raagamo – anuraagamo kada daaka neevega – krupa choopa ravayya"
+      ]
+    }
+  ]
+}

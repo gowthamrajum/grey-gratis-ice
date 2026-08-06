@@ -1,0 +1,63 @@
+{
+  "song_name": "Devude maanavunigaa janminchenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Late Dr. Joseph Moses K"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవుడే మానవునిగా జన్మించెను",
+      "ఈ భువిలో ఈ భువిలో",
+      "దేవుడే.. దేవుడే.."
+    ],
+    "english": [
+      "Devude maanavunigaa janminchenu",
+      "Ee bhuvilo ee bhuvilo",
+      "Devude.. Devude.."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపాంధకారములో నశియించిన నన్ను",
+        "జీవ వెలుగు మార్గమున చేర్చెన్",
+        "నా సృష్టికర్త – నను ప్రేమించి",
+        "అరుదెంచెను – బెత్లెహేములో",
+        "నా పాప భారమును సిలువను మోయన్",
+        "నా పాప శాపమును సిలువను వేయన్",
+        "పరిశుద్ధుడే – నరరూపుడై",
+        "అరుదెంచెను – బెత్లెహేములో",
+        "శోధన నుండి నను విమోచింపన్",
+        "వేదన నుండి నను రక్షింపన్",
+        "పరమాత్ముడే – ఇమ్మానుయేలుడై",
+        "అరుదెంచెను – బెత్లెహేములో",
+        "మహిలో లేని మహిమను నాకు",
+        "వెల ఇచ్చి కొనలేని శాంతిని నాకు",
+        "సర్వోన్నతుడే – ప్రసాదింపను",
+        "అరుదెంచెను – బెత్లెహేములో"
+      ],
+      "english": [
+        "Paapaandhakaaramulo nashiyinchina nannu",
+        "Jeeva velugu maargamuna cherchen",
+        "Naa srushtikartha – Nanu preminchi",
+        "Arudhenchenu – Bethlehemulo",
+        "Naa paapa bhaaramunu siluvanu moyan",
+        "Naa paapa shaapamunu siluvanu veyan",
+        "Parishuddhude – Nararoopudai",
+        "Arudhenchenu – Bethlehemulo",
+        "Shodhana nundi nanu vimochimpan",
+        "Vedhana nundi nanu rakshimpan",
+        "Paramaathmude – Immaanuyeludai",
+        "Arudhenchenu – Bethlehemulo",
+        "Mahilo leni mahimanu naaku",
+        "Vela ichchi konaleni shaanthini naaku",
+        "Sarvonnathude – Prasaadhimpanu",
+        "Arudhenchenu – Bethlehemulo"
+      ]
+    }
+  ]
+}

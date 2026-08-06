@@ -1,0 +1,90 @@
+{
+  "song_name": "Nee saakshyamu edhi? - Nee bali arpana edhi?",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ సాక్ష్యము ఏది? - నీ బలి అర్పణ ఏది? (2)",
+      "ప్రభు యేసు నంగీకరించి - నిద్రించెదవేల? (1)",
+      "ప్రభు యేసు నంగీకరించి - జాగు చేసెదవేల? (1)",
+      "మేల్కో - లెమ్ము (2) - రారమ్ము విశ్వాసి (1)"
+    ],
+    "english": [
+      "Nee saakshyamu edhi? - Nee bali arpana edhi? (2)",
+      "Prabhu Yesu nangeekarinchi - Nidhrinchedhavela? (1)",
+      "Prabhu Yesu nangeekarinchi - Jaagu chesedhavela? (1)",
+      "Melko - Lemmu (2) - Raarammu vishwaasi (1)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అపొస్తలుల కాలమందు - ఉపద్రవముల ఒత్తిడిలో (2)",
+        "అన్నింటి సహించుచు (2) - ఆత్మలాదాయము చేసిరి (1)"
+      ],
+      "english": [
+        "Aposthalula kaalamandu - Upadhravamula ottidilo (2)",
+        "Anninti sahinchuchu (2) - Aathmalaadhaayamu chesiri (1)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రాళ్ళతో కొట్టబడిరి - రంపాలచే కోయబడిరి",
+        "పరమ దర్శనమొంది - సువార్తను చాటించిరి"
+      ],
+      "english": [
+        "Raallatho kottabadiri - Rampaalache koyabadiri",
+        "Parama dharshanamondhi - Suvaarthanu chaatinchiri"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కొరడాతో కొట్టబడిరి - చెరసాలయందుంచబడిరి",
+        "చెరసాల సంకెళ్ళును - వారి నాటంక పరచలేదు"
+      ],
+      "english": [
+        "Koradaatho kottabadiri - Cherasaalayandhunchabadiri",
+        "Cherasaala sankellunu - Vaari naatanka parachaledhu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సజీవ యాగముగ - ప్రభు సేవను జరిగించిరి",
+        "సువార్త ప్రభలమాయె - సంఘము - స్థాపించబడె"
+      ],
+      "english": [
+        "Sajeeva yaagamuga - Prabhu sevanu jariginchiri",
+        "Suvaartha prabalamaaye - Sanghamu - Sthaapinchabade"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "కోతవిస్తారమెంతో - కోత కోయువారు కొందరే",
+        "యేసునిన్ పిలుచుచుండె - త్రోసివేసెదవా ప్రభు పిలుపున్"
+      ],
+      "english": [
+        "Kothavisthaaramentho - Kotha koyuvaaru kondhare",
+        "Yesunin piluchuchunde - Throsivesedhavaa Prabhu pilupun"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "అర్పించెద నన్ను - ఆత్మ ప్రాణ శరీరముతో",
+        "నా సిలువను ఎత్తుకొని - నిన్నే వెంబడింతును నేను"
+      ],
+      "english": [
+        "Arpincheda nannu - Aathma praana shareeramutho",
+        "Naa siluvanu etthukoni - Ninne vembadinthunu nenu"
+      ]
+    }
+  ]
+}

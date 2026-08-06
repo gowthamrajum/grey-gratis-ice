@@ -1,0 +1,34 @@
+{
+  "song_name": "Memu Paadedham",
+  "author": {
+    "Authored by": "Daniel Surya Avula",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రతి ఉదయం నీ కృపను",
+      "ప్రతి రాత్రి నీ వాత్సల్యతను",
+      "పగలంతా కీర్తింతుము",
+      "రేయంతా ఆరాదించెదము"
+    ],
+    "english": [
+      "Prathi udhayam nee krupanu",
+      "prathi rathri nee vathsalyathanu",
+      "pagalantaa keerthinthumu",
+      "reyanthaa aaradhinchedhamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అన్నికాలములలో – స్తోత్రార్హుడని నిన్ను (2)",
+        "మేము పాడెదం – మేము పాడెదం (2)"
+      ],
+      "english": [
+        "Anni kaalamulalo – sthothraarhudani ninnu (2)",
+        "memu paadedham – memu paadedham (2)"
+      ]
+    }
+  ]
+}

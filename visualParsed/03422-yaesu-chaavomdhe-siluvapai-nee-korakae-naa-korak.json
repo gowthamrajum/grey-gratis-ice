@@ -1,0 +1,53 @@
+{
+  "song_name": "Yesu chaavonde siluvapai nee korake naa korake",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు చావొందె సిలువపై నీ కొరకే నా కొరకే",
+      "ఎంతగొప్ప శ్రమ నోర్చెను నీ కొరకే నా కొరకే"
+    ],
+    "english": [
+      "Yesu chaavonde siluvapai nee korake naa korake",
+      "Enthagoppa shrama norchenu nee korake naa korake"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నదివలె యేసు రక్తము - సిలువలో నుండి ప్రవహించె",
+        "పాపము కడిగె మలినంబు తుడిచె - ఆ ప్రశస్త రక్తమే"
+      ],
+      "english": [
+        "Nadhivale Yesu rakthamu - Siluvalo nundi pravahinche",
+        "Paapamu kadige malinambu thudiche - Aa prashastha rakthame"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేడే నీ పాపము లొప్పుకో - నీ పాపడాగులు తుడుచుకో",
+        "నీ ఆత్మ తనువుల శుద్దిపరచుకో - క్రీస్తుయేసు రక్తములో"
+      ],
+      "english": [
+        "Nede nee paapamu loppuko - Nee paapadaagulu thuduchuko",
+        "Nee aathma thanuvula shuddhiparachuko - Kreesthuyesu rakthamulo"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాపశిక్ష పొంద తగియుంటిమి - మన శిక్ష ప్రభువే సహించెను",
+        "నలుగగొట్టబడె పొడువబడె నీకై - అంగీకరించు యేసుని"
+      ],
+      "english": [
+        "Paapashiksha ponda thagiyuntimi - Mana shiksha Prabhuve sahinchenu",
+        "Nalugagottabade poduvabade neekai - Angeekarinchu Yesuni"
+      ]
+    }
+  ]
+}

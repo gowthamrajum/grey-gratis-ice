@@ -1,0 +1,76 @@
+{
+  "song_name": "Dheevenala nidu Devaa needu sevakai",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "పంతగాని పరదేశి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "దీవెనల నిడు దేవా నీదు సేవకై వెడలెడు దీనులపైఁ పావనాత్మ నంపుము",
+      "పనులలో నడిపింపుము కేవలంబుగ మా తనువులు నీ సేవకై యర్పింప",
+      "గజేయుము ||దీవెనల||"
+    ],
+    "english": [
+      "Dheevenala nidu Devaa needu sevakai vedaledu dheenulapai paavanaathma nampumu",
+      "Panulalo nadipimpumu kevalambuga maa thanuvulu nee sevakai yarpimpa",
+      "Gajeyumu ||Dheevenala||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మాటిమాటికి బాపయుతంబౌ మార్గమునఁ జను మనసులఁ ద్రుంచి",
+        "మేటి క్రీస్తుని నామా మృతముఁ గ్రోలుచు మేమా పాటున నాత్మల రక్షణకై",
+        "పనులు సల్ప(గ బంపుము కృపచే  ||దీవెనల||"
+      ],
+      "english": [
+        "Maatimaatiki baapayuthambau maargamuna janu manasula dhrunchi",
+        "Meti Kreesthuni naamaamruthamu groluchu memaa paatuna naathmala rakshanakai",
+        "Panulu salpaga bampumu krupache ||Dheevenala||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దివ్య బోధ లెదను గల్గి దీనతను రక్షణ మార్గమును భవ్యముగ బోధింపఁ",
+        "బరమార్థ మెఱిగింప సేవ్య నేర్పవె దిన దినమును నీ సేవకాళికి నీ",
+        "మర్మముల  ||దీవెనల||"
+      ],
+      "english": [
+        "Divya bodha ledanu galgi dheenathanu rakshana maargamunu bhavyamuga bodhimpa",
+        "Baramaartha merigimpa sevya nerpave dina dhinamunu nee sevakaaliki nee",
+        "Marmamula ||Dheevenala||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దురిత రోగాదులచే మిగులఁ తూలి చను మనుజాళికి నీవే పరమ",
+        "విశ్రాంతి నిడు వరదుఁడ వంచుఁగడు వెరవునను బోధింపంగను నీ",
+        "వర ములతో నింపుము దాసులను  ||దీవెనల||"
+      ],
+      "english": [
+        "Duritha rogaadhulache migula thooli chanu manujaaliki neeve parama",
+        "Vishraanthi nidu varaduda vanchugadu veravunanu bodhimpanganu nee",
+        "Varamulatho nimpumu dhaasulanu ||Dheevenala||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "గ్రామ సంఘంబులను బడుల క్షేమముగఁ గాపాడి పెంప ఓ మహాత్మ",
+        "నీ కృప తో మమ్ముఁ గాచి సదా స్వామి మాలో నీవును నీలో మేము",
+        "మనగను బ్రోవు మామేన్  ||దీవెనల||"
+      ],
+      "english": [
+        "Graama sanghambulanu badula kshemamuga gaapaadi pempa o mahaathma",
+        "Nee krupatho mammu gaachi sadaa Swaami maalo neevunu neelo memu",
+        "Managanu brovu maamen ||Dheevenala||"
+      ]
+    }
+  ]
+}

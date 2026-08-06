@@ -1,0 +1,67 @@
+{
+  "song_name": "Aaradhinchedam",
+  "author": {
+    "Authored by": "Davidson Gajulavarthi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మహిమా నీకే, ఘనతా నీకే",
+      "పరిశుద్ధుడా, నా యేసయ్య",
+      "స్తుతియు నీకే, నా సర్వం నీకే",
+      "నా దైవమా, నా యేసయ్య"
+    ],
+    "english": [
+      "Mahima neeke, ghanatha neeke",
+      "parishudhuda, naa yesayya",
+      "sthuthiyu neeke, naa sarvam neeke",
+      "naa daivama, naa yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సుందరుడా నీ నామం అతి ఉన్నతం",
+        "రక్షకుడా నీ సన్నిదియే ఆనందం"
+      ],
+      "english": [
+        "Sundarudaa nee naamam athi unnatham",
+        "rakshakuda nee sannidhiye aanandam"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆరాధించెదం"
+      ],
+      "english": [
+        "Aaraadhinchedam"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆశ్చర్యకరుడా, ఆలోచనకర్త",
+        "నిత్యుడగు తండ్రి, సమాధాన అధిపతి",
+        "కీర్తించెదము, పూజించెదము",
+        "స్తుతియించెదము, ఘనపరచెదము"
+      ],
+      "english": [
+        "Aascharyakaruda, aalochanakartha",
+        "nithyudagu thandri, samaadhaana adhipathi",
+        "keerthinchedamu, poojinchedamu",
+        "sthuthiyinchedamu, ghanaparachedamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యేసయ్య నిన్నే, ఆరాధించెదం"
+      ],
+      "english": [
+        "yesayya ninne, aaraadhinchedam"
+      ]
+    }
+  ]
+}

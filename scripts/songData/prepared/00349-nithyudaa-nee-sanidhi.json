@@ -1,0 +1,60 @@
+{
+  "song_name": "Nithyudaa Nee Sanidhi",
+  "author": {
+    "Authored by": "Bro  Yesanna",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిత్యుడా - నీ సన్నిధి నిండుగా",
+      "నా తోడూ నిత్యముంచి",
+      "నన్ను నడిపించుమా - నడిపించుమా -2"
+    ],
+    "english": [
+      "Nithyudaa - Nee Sannidhi Ninduga",
+      "Naa Thodoo Nithyamunchi",
+      "Nannu Nadipinchumaa - Nadipinchumaa -2"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ కుడి హస్తం - హత్తుకొని యున్నది",
+        "నీ ఎడమ చేయి నా - తలక్రిందనున్నది -2",
+        "నీ కౌగిలిలోనే - నిత్యం నిలుపుమా -2"
+      ],
+      "english": [
+        "Nee Kudi Hastham - Hatthukoni Yunnadi",
+        "Nee Edama Cheyi Naa - Thalakrindanunnadi -2",
+        "Nee Kaugililone - Nithyam Nilupumaa -2"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ సన్నిధిలో - నా హృదయమును",
+        "నీళ్ళవలే - కుమ్మరించునట్లు -2",
+        "నీ పాదపీఠముగా - నన్ను మార్చుమా -2"
+      ],
+      "english": [
+        "Nee Sannidhilo - Naa Hrudayamunu",
+        "Neellavale - Kummarinchunatlu -2",
+        "Nee Paadapeethamugaa - Nannu Maarchumaa -2"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ సముఖములో - కాలుచున్న రాళ్ళవలె",
+        "నీ మనస్సు నందు - నన్ను తలంచితివా -2",
+        "నీ చిత్తమే నాలో - నేరవేర్చుమా -2"
+      ],
+      "english": [
+        "Nee Samukhamulo - Kaaluchunna Raallavale",
+        "Nee Manassu Nandu - Nannu Thalanchithivaa -2",
+        "Nee Chitthame Naalo - Neraverchumaa -2"
+      ]
+    }
+  ]
+}

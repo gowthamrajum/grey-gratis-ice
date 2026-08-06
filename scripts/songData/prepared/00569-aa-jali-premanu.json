@@ -1,0 +1,61 @@
+{
+  "song_name": "Aa Jali Premanu",
+  "author": {
+    "Authored by": "Bro Raj prakash paul",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆ జాలి ప్రేమను గమనింపకుందువా?",
+      "ఆ దివ్య ప్రేమను గ్రహియింపకుందువా?",
+      "ఓ సోదరా. . . ఓ సోదరా . . .",
+      "ఆ ప్రేమమూర్తి యేసు దరిచేరవా?"
+    ],
+    "english": [
+      "Aa Jali Premanu Gamanimpakumduva?",
+      "Aa Divya Premanu Grahiyimpakumduva?",
+      "O Sodara. . . O Sodara . . .",
+      "Aa Premamurti Yesu Daricherava?"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ పాప జీవితాన ఆ ప్రేమమూర్తియే",
+        "ఆ సిల్వపైన నీకై మరణ బాధ నొందెను",
+        "నీ శిక్ష బాపగా రక్షణను చూపగా",
+        "ని హృదయ ద్వారమందు వేచియుండెగా",
+        "నీ రక్షకుండు యేసు నిన్ను పలచుచుండెను",
+        "ఆ ప్రేమమూర్తి పలుకు ఆలకింపజాలవా?"
+      ],
+      "english": [
+        "Ni Papa Jivitana Aa Premamurtiye",
+        "Aa Silvapaina Nikai Marana Badha Nomdenu",
+        "Ni Siksha Bapaga Rakshananu Chupaga",
+        "Ni Hrudaya Dvaramamdu Vechiyumdega",
+        "Ni Rakshakumdu Yesu Ninnu Palachuchumdenu",
+        "A Premamurti Paluku Alakimpajalava?"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎంత పాపినైనా గాని యేసు చేర రమ్మనె",
+        "యేసు చెంత చేరువాని త్రోసివేయజాలడు",
+        "నీ పాప జీవితం ప్రభుయేసు మార్చగా",
+        "నీ చెంత చేరి నిన్ను పిలచుచుండెను",
+        "విలువైన రక్త ధార ప్రేమతోడ గార్చెను",
+        "ఆ ప్రేమ మూర్తి పిలుపు ఆలకింపజాలవా?"
+      ],
+      "english": [
+        "Emta Papinaina Gani Yesu Chera Rammane",
+        "Yesu Chemta Cheruvani Trosiveyajaladu",
+        "Ni Papa Jivitam Prabu Yesu Marchaga",
+        "Ni Chemta Cheri Ninnu Pilachuchumdenu",
+        "Viluvaina Rakta Dhara Prematoda Garchenu",
+        "Aa Prema Murti Pilupu Alakimpajalava?"
+      ]
+    }
+  ]
+}

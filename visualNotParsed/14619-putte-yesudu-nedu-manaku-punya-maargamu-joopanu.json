@@ -1,0 +1,53 @@
+{
+  "song_name": "Putte Yesudu nedu – Manaku punya maargamu joopanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "పుట్టె యేసుడు నేడు – మనకు – పుణ్య మార్గము జూపను",
+      "పట్టి యయ్యె బరమ గురుఁడు – ప్రాయశ్చిత్తుడు శ్రీ యేసు ||పుట్టె||"
+    ],
+    "english": [
+      "Putte Yesudu nedu – Manaku – Punya maargamu joopanu",
+      "Patti yayye barama gurudu – Praayashchitthudu Sree Yesu ||Putte||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ధర బిశాచిని వేడిన – దు –ర్నరుల బ్రోచుటకై యా",
+        "పరమవాసి పాపహరుఁడు – వరభక్త జన పోషుడు (2)  ||పుట్టె||"
+      ],
+      "english": [
+        "Dhara bishaachini vedina – dhu –rnarula brochutakai yaa",
+        "Paramavaasi paapaharudu – Varabhaktha jana poshudu (2)  ||Putte||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యూద దేశములోన – బెత్లె -హేమను గ్రామమున",
+        "నాదరింప నుద్భవించెను – అధములమైన మనలను (2)  ||పుట్టె||"
+      ],
+      "english": [
+        "Yooda dheshamulona – Bethle -hemanu graamamuna",
+        "Naadharimpa nudbhavinchenu – Adhamulamaina manalanu (2)  ||Putte||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తూర్పు దేశపు జ్ఞానులు – పూర్వ – దిక్కు చుక్కను గాంచి",
+        "సర్వోన్నతుని మరియ తనయుని – మ్రొక్కిరి అర్పణంబులిచ్చిరి (2)  ||పుట్టె||"
+      ],
+      "english": [
+        "Thoorpu deshapu gnaanulu – Poorva – Dikku chukkanu gaanchi",
+        "Sarvonnathuni Mariya thanayuni – Mrokkiri arpanambulichchiri (2)  ||Putte||"
+      ]
+    }
+  ]
+}

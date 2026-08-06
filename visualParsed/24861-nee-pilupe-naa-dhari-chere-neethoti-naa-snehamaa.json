@@ -1,0 +1,58 @@
+{
+  "song_name": "Nee Pilupe Naa Dari Chere Neethoti Naa Snehamaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Joshua Shaik"
+    ],
+    "రచన": [
+      "జాషువా షేక్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ పిలుపే నా దరి చేరే – నీతోటి నా స్నేహమా",
+      "నీ మనసే నా మది కోరే – ఎనలేని సంబంధమా",
+      "కోటి రాగాలు నే పాడుతున్నా – తీరనేలేదు నా దాహమైన",
+      "నిన్ను చేరేటి సంతోషమా"
+    ],
+    "english": [
+      "Nee pilupe naa dari chere – Neethoti naa snehamaa",
+      "Nee manase naa madi kore – Enaleni sambandhamaa",
+      "Koti raagaalu ne paaduthunnaa – Theeraneledhu naa dhaahamaina",
+      "Ninnu chereti santhoshamaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కోరుకున్నాను నీ ప్రేమనే – దాచుకున్నాను నీ వాక్యమే",
+        "ఎన్ని కాలాలు నే దాటినా – కడలి కెరటాలు నను తాకినా",
+        "ఆలకించావు నా ప్రార్ధన – ఆదరించావు నా యేసయ్య",
+        "నీ మాటే నాలో మెదిలే – దినమెల్ల నీ ధ్యానమే",
+        "అణువణువు నాలో పలికే – నీ స్తోత్ర సంకీర్తన  ||నీ||"
+      ],
+      "english": [
+        "Korukunnaanu nee premane – Dhaachukunnaanu nee vaakyame",
+        "Enni kaalaalu ne dhaatinaa – Kadali kerataalu nanu thaakinaa",
+        "Aalakinchaavu naa praardhana – Aadarinchaavu naa Yesayya",
+        "Nee maate naalo medhile – Dinamella nee dhyaaname",
+        "Anuvanuvu naalo palike – Nee sthothra sankeerthana ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చేరుకున్నాను నీ పాదమే – వేడుకున్నాను నీ స్వాంతనే",
+        "జీవ గమనాల సంఘర్షణ – అంతరంగాన ఆవేదన",
+        "తెల్లవారేను నీ నీడన – పొందుకున్నాను నీ దీవెన  ||నీ||"
+      ],
+      "english": [
+        "Cherukunnaanu nee paadhame – Vedukunnaanu nee svaanthane",
+        "Jeeva gamanaala sangharshana – Antharangaana aavedana",
+        "Thellavaarenu nee needana – Pondhukunnaanu nee deevena ||Nee||"
+      ]
+    }
+  ]
+}

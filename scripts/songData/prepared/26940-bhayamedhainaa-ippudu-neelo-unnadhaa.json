@@ -1,0 +1,35 @@
+{
+  "song_name": "Bhayamedhainaa Ippudu Neelo Unnadhaa",
+  "author": {
+    "Authored by": "Susanna Esther Geddam",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "భయమేదైనా ఇప్పుడు నీలో ఉన్నదా యేసయ్యతోనే ఇక విజయము నీదేగా విజయమే విజయమే విజయమే విజయమే నా యేసులో ఎల్లప్పుడు విజయమే విజయమే"
+    ],
+    "english": [
+      "bhayamedhainaa ippudu neelo unnadhaa yesayyathone ika vijayamu needhegaa vijayame vijayame vijayame vijayame naa yesulo ellappudu vijayame vijayame"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శోధనలో నాకు భయమే లేదు సమస్యలలో నాకు బెదురే లేదు యేసు నాతో ఉండగా విజయం విజయం విజయం"
+      ],
+      "english": [
+        "shodhanalo naaku bhayame ledhu samasyalalo naaku bedhure ledhu yesu naatho undagaa vijayam vijayam vijayam"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వ్యాధి నన్ను వదిలి పారిపోవును సైతాను నన్ను చూసి వణికిపోవును యేసు నాతో ఉండగా విజయం విజయం విజయం Bridge: ఏ పరిస్తితియైనా ఎంత కష్టమైన యేసు నాతో ఉండగా విజయమే ఓ ఓ విజయమే"
+      ],
+      "english": [
+        "vyaadhi nannu vadhili paaripovunu saithaanu nannu choosi vanikipovunu yesu naatho undagaa vijayam vijayam vijayam bridge: ey paristhithi yainaa entha kastamaina yesu naatho undagaa vijayame oh oh vijayame"
+      ]
+    }
+  ]
+}

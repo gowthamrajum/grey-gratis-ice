@@ -1,0 +1,53 @@
+{
+  "song_name": "Nammi Nammi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నమ్మి నమ్మి... మనుషులను నీవు నమ్మీ నమ్మీ... పలుమార్లు మోసపోయావు - పలుమార్లు మోసపోయావు",
+      "ఇలా ఎంత కాలమూ - నీవు సాగిపోదువు"
+    ],
+    "english": [
+      "Nammi nammi... manushulanu neevu nammee nammee... palumaarlu mosapoyaavu - Palumaarlu mosapoyaavu",
+      "Ilaa entha kaalamoo - Neevu saagipoduvu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రాజులను నమ్మి... బహుమతిని ప్రేమించిన - బిలాముఏమాయెను -దైవ దర్శనం కోల్పోయెను",
+        "నా యేసయ్యను నమ్మిన యెడలా - ఉన్నత బహుమానమూ - నీకు నిశ్చయమే  ||నమ్మి||"
+      ],
+      "english": [
+        "Raajulanu nammi... bahumathini preminchina - Bilaamu emaayenu - Daiva darshanam kolpoyenu",
+        "Naa Yesayyanu nammina edalaa - Unnatha bahumaanamoo - Neeku nishchayame  ||Nammi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఐశ్వర్యము నమ్మి...వెండీ బంగారము ఆశించిన - ఆకాను ఏమాయెను- అగ్నికి ఆహుతి ఆయెను",
+        "నా యేసయ్యను నమ్మిన యెడలా - మహిమైశ్వర్యము - నీకు నిశ్చయమే  ||నమ్మి||"
+      ],
+      "english": [
+        "Aishwaryamu nammi...vendee bangaaramu aashinchina - Aakaanu emaayenu- Agniki aahuthi aayenu",
+        "Naa Yesayyanu nammina edalaa - Mahimaishwaryamu - Neeku nishchayame  ||Nammi||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సుఖభోగము నమ్మి... ధనాపేక్షతో పరుగెత్తిన - గెహజి ఏమాయెను - అగ్నికి ఆహుతి ఆయెను",
+        "నా యేసయ్యను నమ్మిన యెడలా - శాశ్వతమైన ఘనత - నీకు నిశ్చయమే  ||నమ్మి||"
+      ],
+      "english": [
+        "Sukhabhogamu nammi... dhanaapekshatho parugettina - Gehaji emaayenu - Agniki aahuthi aayenu",
+        "Naa Yesayyanu nammina edalaa - Shaashwathamaina ghanatha - Neeku nishchayame  ||Nammi||"
+      ]
+    }
+  ]
+}

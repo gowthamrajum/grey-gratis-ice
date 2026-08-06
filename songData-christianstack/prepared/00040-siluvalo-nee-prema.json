@@ -1,0 +1,66 @@
+{
+  "song_name": "Siluvalo Nee Prema",
+  "author": {
+    "Authored by": "Stanley Telagathoti",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసయ్యా… యేసయ్యా… నీలా గలవారు ఎవ్వరూ",
+      "మంచివాడా… గొప్ప దేవా…",
+      "నీవంటి వారు ఎవ్వరూ?"
+    ],
+    "english": [
+      "Yesaya… yesaya… Neelaga lerevvaru",
+      "Manchivaada… Goppa deva…",
+      "Neevanti vaarevvaru..?"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సిలువలో నీవు చూపిన ప్రేమ",
+        "ఎంతో గొప్పది యేసయ్యా",
+        "ఆ ప్రేమే నన్ను మార్చి",
+        "పాపమును తొలగించెను"
+      ],
+      "english": [
+        "Siluvalo.. neevu choopina prema",
+        "entho goppadhi yesayya..",
+        "Ah preme nanu marchi",
+        "papamunu tholaginchenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపికి విముక్తి ఇచ్చిన",
+        "నీ త్యాగమే గొప్పది",
+        "ఆ త్యాగం నన్ను మార్చి",
+        "పరిశుద్ధునిగా మార్చెను"
+      ],
+      "english": [
+        "Papiki.. vidudhalanicchina",
+        "ni thyaagame goopadhi",
+        "ah thyaagam nanu maarchi",
+        "Parishuddhuniga maarchenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సిలువలో నీవు కార్చిన రక్తం",
+        "విలువైనది యేసయ్యా",
+        "ఆ రక్తమే ప్రతి పాపమునుండి",
+        "పరిశుద్ధునిగా మార్చెను"
+      ],
+      "english": [
+        "Siluvalo neevu kaarchina raktham",
+        "Viluvainadhi yesayya..",
+        "Ah Rakthamae prathi papamunundi",
+        "Parishuddhuniga maarchenu"
+      ]
+    }
+  ]
+}

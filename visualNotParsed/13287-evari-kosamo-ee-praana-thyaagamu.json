@@ -1,0 +1,60 @@
+{
+  "song_name": "Evari kosamo ee praana thyaagamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎవరి కోసమో ఈ ప్రాణ త్యాగము (2)",
+      "నీ కోసమే నా కోసమే",
+      "కలువరి పయనం – ఈ కలువరి పయనం (2) ||ఎవరి||"
+    ],
+    "english": [
+      "Evari kosamo ee praana thyaagamu (2)",
+      "Nee kosame naa kosame",
+      "Kaluvari payanam – Ee kaluvari payanam (2) ||Evari||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏ పాపము ఎరుగని నీకు – ఈ పాప లోకమే సిలువ వేసిందా",
+        "ఏ నేరము తెలియని నీకు – అన్యాయపు తీర్పునే ఇచ్చిందా (2)",
+        "మోయలేని మ్రానుతో మోముపైన ఉమ్ములతో",
+        "నడువలేని నడకలతో తడబడుతూ పోయావా",
+        "సోలి వాలి పోయావా  ||ఎవరి||"
+      ],
+      "english": [
+        "E paapamu erugani neeku – Ee paapa lokame siluva vesindhaa",
+        "E neramu theliyani neeku – Anyaayapu theerpune ichchindhaa (2)",
+        "Moyaleni mraanutho momupaina ummulatho",
+        "Naduvaleni nadakalatho thadabadutoo poyaavaa",
+        "Soli vaali poyaavaa  ||Evari||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జీవకిరీటం మాకు ఇచ్చావు – ముళ్ళ కిరీటం నీకు పెట్టాము",
+        "జీవ జలములు మాకు ఇచ్చావు – చేదు చిరకను నీకు ఇచ్చాము (2)",
+        "మా ప్రక్కన ఉండి మమ్ము కాపాడుచుండగా",
+        "నీ ప్రక్కలో బళ్ళెముతో – ఒక్క పోటు పొడిచితిమి",
+        "తండ్రీ వీరు చేయునదేదో వీరెరుగరు",
+        "వీరిని క్షమించు, వీరిని క్షమించు",
+        "అని వేడుకొన్నావా… పరమ తండ్రిని  ||ఎవరి||"
+      ],
+      "english": [
+        "Jeevakireetam maaku ichchaavu – Mulla kireetam neeku pettaamu",
+        "Jeeva jalamulu maaku ichchaavu – Chedu chirakanu neeku ichchaamu (2)",
+        "Maa prakkana undi mammu kaapaaduchundagaa",
+        "Nee prakkalo ballemutho – Okka potu podichithimi",
+        "Thandree veeru cheyunadhedho veererugaru",
+        "Veerini kshaminchu, veerini kshaminchu",
+        "Ani vedukonnaavaa… parama thandrini  ||Evari||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "song_name": "Maargam Neeve",
+  "author": {
+    "Authored by": "Anil Ravada",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు………..నీవే",
+      "(మార్గం సత్యం జీవం)"
+    ],
+    "english": [
+      "yeasu………..neevea",
+      "(maargam satyam jeevam)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మార్గం నీవే సత్యం నీవే జీవం నీవే",
+        "యువకులం నవ భారతీయులం",
+        "యువకులం నిజ స్నేహితులం",
+        "వీ లవ్ వీ లవ్ ఇండియా",
+        "వీ సర్వ్ వీ ప్రే ఫర్ ఇండియా"
+      ],
+      "english": [
+        "maargam neevea satyam neevea jeevam neevea",
+        "yuvakulam nava bhaarateeyulam",
+        "yuvakulam nija sneahitulam",
+        "we love we love India",
+        "we serve we pray for India"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జీసస్ గేవ్ హిస్ లైఫ్ టు సెట్ అస్ ఫ్రీ",
+        "హిస్ ఎలైవ్ ఇన్ మీ అండ్ ఐ ఆం ఫ్రీ"
+      ],
+      "english": [
+        "Jesus gave his life to set us free",
+        "He’s alive in me and I am free"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వందనం వందనం",
+        "యేసు నీకే వందనం",
+        "ఈ దేశం నీకే అంకితం",
+        "ఎన్ని శ్రమలు మాకు వచ్చినా",
+        "నీ శక్తితో ఎదురించెదం",
+        "ఈ దేశమును నీ శాంతి కృపలతో నింపుము"
+      ],
+      "english": [
+        "Vandanam vandanam",
+        "yeasu neekea vandanam",
+        "ee deaSam neekea ankitam",
+        "enni Sramalu maaku vachchinaa",
+        "nee Saktitoa edurinchedam",
+        "ee deaSamunu nee Saanti kRpalatoa nimpumu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "వీ ప్రే ఫర్ ఇండియా అవర్ ఇండియా"
+      ],
+      "english": [
+        "We pray for india our india"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యేసు………..నీవే",
+        "(మార్గం సత్యం జీవం)"
+      ],
+      "english": [
+        "yeasu………..neevea",
+        "(maargam satyam jeevam)"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "వీ ఆర్ యువర్ చిల్డ్రెన్ టు ఫీల్ యువర్ ఫ్రీడం",
+        "లెట్ ద వరల్డ్ సీ యువర్ కింగ్డం"
+      ],
+      "english": [
+        "we are your children to feel your freedom",
+        "let the world see your kingdom"
+      ]
+    }
+  ]
+}

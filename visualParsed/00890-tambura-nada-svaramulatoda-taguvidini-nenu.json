@@ -1,0 +1,57 @@
+{
+  "song_name": "Thambura naadha swaramulathoda thaguvidhini nenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "తంబుర నాద స్వరములతోడ",
+      "తగువిదిని నేను భజన చేసెద",
+      "అంబురంబున కెగసే పాటలు",
+      "హాయిగా హాయిగా పాడెద పాడెద"
+    ],
+    "english": [
+      "Thambura naadha swaramulathoda",
+      "Thaguvidhini nenu bhajana cheseda",
+      "Amburambuna kegase paatalu",
+      "Haayigaa haayigaa paadeda paadeda"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సితార స్వరమండలములతో శ్రీకర నిను భజన చేసెద",
+        "ప్రతి దినము నీ ప్రేమ గాదను ప్రస్తుతించి పాడెద పాడెద (2)"
+      ],
+      "english": [
+        "Sithaara swaramandalamulatho Sreekara ninu bhajana cheseda",
+        "Prathi dinamu nee prema gaathanu prasthuthinchi paadeda paadeda (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మృదంగ తాళద్వనులతోడ మృత్యుంజయ నిను భజన చేసెద",
+        "ఉదయ సాయంత్రములాయందు హొసన్నాయని పాడెద పాడెద (2)"
+      ],
+      "english": [
+        "Mrudhanga thaaladhwanulathoda Mruthyunjaya ninu bhajana cheseda",
+        "Udaya saayanthramulayandhu hosannaayani paadeda paadeda (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పిల్లన గ్రోవి చల్లగ నుండి ఉల్లమున నిన్ను భజన చేసెద",
+        "ఉల్లమున నిను ఎల్లవేలల హల్లెలూయని పాడెద పాడెద (2)"
+      ],
+      "english": [
+        "Pillana grovi challaga nundi ullamuna ninnu bhajana cheseda",
+        "Ullamuna ninu ellavelala halleluyani paadeda paadeda (2)"
+      ]
+    }
+  ]
+}

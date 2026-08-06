@@ -1,0 +1,62 @@
+{
+  "song_name": "Paapamu Dhalaochu Sumee Pashch",
+  "author": {
+    "Authored by": "",
+    "రచన": "యెషయా వీరమార్టిన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "పాపము దలఁచు సుమీ పశ్చా త్తాపముఁ బొందు సుమీ దాపని యేసుని పాదంబులబడి పాపము వీడు సుమీ ||పాపము||"
+    ],
+    "english": [
+      "paapamu dhalAOchu sumee pashchaa ththaapamuAO boMdhu sumee dhaapani yaesuni paadhMbulabadi paapamu veedu sumee ||paapamu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపము చేయకు మీ యేసుని గాయము రేపకుమీ పాయక పాపము చేసిన మనసా కాయఁడు యేసు సుమీ ||పాపము||"
+      ],
+      "english": [
+        "paapamu chaeyaku mee yaesuni gaayamu raepakumee paayaka paapamu chaesina manasaa kaayAOdu yaesu sumee ||paapamu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గంతులు వేయకుమీ యేసుని చెంతకుఁ జేరు సుమీ వింతఁగఁ గ్రీస్తుని రక్షణ్యామృత బిందువుఁ గోరు సుమీ ||పాపము||"
+      ],
+      "english": [
+        "gMthulu vaeyakumee yaesuni cheMthakuAO jaeru sumee viMthAOgAO greesthuni rakShNyaamrutha biMdhuvuAO goaru sumee ||paapamu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఈ ధరన్నమ్మకుమీ ఆత్మకు శోధన లుండు సుమీ శోధన మాన్పెడు క్రీస్తును నమ్మి శ్రద్ధగ నుఁడు సుమీ ||పాపము||"
+      ],
+      "english": [
+        "ee Dharannammakumee aathmaku shoaDhana luMdu sumee shoaDhana maanpedu kreesthunu nammi shradhDhaga nuAOdu sumee ||paapamu||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "తెగువఁ బోరాడు సుమీ రిపునకు బెగ్గిలవద్దు సుమీ తెగువగు ప్రార్థన ఖడ్గమునుఁ బట్టి పగతునిఁ గెల్వు సుమీ ||పాపము||"
+      ],
+      "english": [
+        "theguvAO boaraadu sumee ripunaku beggilavadhdhu sumee theguvagu praarThana khadgamunuAO batti pagathuniAO gelvu sumee ||paapamu||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "అంతము వచ్చు సుమీ రక్షణ అంతలో వెదకు సుమీ అంత రంగుఁ డగు క్రీస్తు రక్షకుని చెంతను జేరు సుమీ ||పాపము||"
+      ],
+      "english": [
+        "aMthamu vachchu sumee rakShNa aMthaloa vedhaku sumee aMtha rMguAO dagu kreesthu rakShkuni cheMthanu jaeru sumee ||paapamu||"
+      ]
+    }
+  ]
+}

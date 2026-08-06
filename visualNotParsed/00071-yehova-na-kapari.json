@@ -1,0 +1,61 @@
+{
+  "song_name": "Yehova naa kaapari",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవ నా కాపరి .. యెహోవ నా ఊపిరి, నాకు లేమి, ఏమి",
+      "లోయలలో .. లోతులలో యెహోవ నా కాపరి",
+      "సంద్రములో .. సమరములో యెహోవ నా కాపరి (2)"
+    ],
+    "english": [
+      "Yehova naa kaapari .. Yehova naa oopiri, naaku lemi, emi",
+      "Loyalalo .. lothulalo Yehova naa kaapari",
+      "Sandramulo .. samaramulo Yehova naa kaapari (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పచ్చిక గల చోట్ల .. నన్ను పరుండ జేయును (2)",
+        "శాంతి కరమైన జలములకు .. నన్ను నడిపించును (2)",
+        "… లోయలలో …"
+      ],
+      "english": [
+        "Pachchika gala chotla .. nannu parunda jeyunu (2)",
+        "Shaanthi karamaina jalamulaku .. nannu nadipinchunu (2)",
+        "… Loyalalo …"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గాడాంధకారపు లోయలలో -- సంచరించినను (2)",
+        "అపాయమే కలుగదు నాకు .. నీ తోడు నా కుండగ (2)",
+        "… లోయలలో …"
+      ],
+      "english": [
+        "Gaadaandhakaarapu loyalalo -- Sancharinchinanu (2)",
+        "Apaayame kalugadu naaku .. nee thodu naa kundaga (2)",
+        "… Loyalalo …"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "చిర కాలము నేను .. యెహోవ సన్నిధిలో (2)",
+        "నివాసముండెదను నేను -- నిత్యము జీవింతును (2)",
+        "… లోయలలో …"
+      ],
+      "english": [
+        "Chira kaalamu nenu .. Yehova sannidhilo (2)",
+        "Nivaasamundedhanu nenu -- Nithyamu jeevinthunu (2)",
+        "… Loyalalo …"
+      ]
+    }
+  ]
+}

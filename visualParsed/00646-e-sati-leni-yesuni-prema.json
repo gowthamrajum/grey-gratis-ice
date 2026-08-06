@@ -1,0 +1,59 @@
+{
+  "song_name": "E saati leni Yesuni prema",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏ సాటి లేని యేసుని ప్రేమ ఎప్పుడైనా రుచియించినావా",
+      "యిప్పుడైనా ఆశించి రావా"
+    ],
+    "english": [
+      "E saati leni Yesuni prema eppudainaa ruchiyinchinaavaa",
+      "Ippudainaa aashinchi raavaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ దేవుండెవరు నీ పూజెవ్వరికి నశియించె వెండి బంగారాలకా",
+        "నిజ దైవమెవరు నీ రక్షకుడెవరు నీవెన్నడైనా తలచావా",
+        "నీకున్న లోటెరిగినావా"
+      ],
+      "english": [
+        "Nee dhevundevaru nee poojevvariki nashiyinche vendi bangaaraalakaa",
+        "Nija dhaivamevaru nee rakshakudevaru neevennadainaa thalachaavaa",
+        "Neekunna loteriginaavaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కలువరి గిరిపై విలువైన ప్రాణం అర్పించి మరణించిందీ నీ కొరకై",
+        "నిన్నెంతగానో ప్రేమించినట్టి నీ దేవుని ప్రేమ",
+        "గ్రోలన్ మోదంబున రావదేల"
+      ],
+      "english": [
+        "Kaluvari giripai viluvaina praanam arpinchi maraninchindhee nee korakai",
+        "Ninnenthagaano preminchinatti nee devuni prema",
+        "Grolan modhambuna raavadhela"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వేదంబులందు వ్రాయబడినట్లు ఈ ధరను రక్షింప నవతరంచి",
+        "బలియాగమైన ప్రభు యేసు కాక మరి ఎవ్వరైనను కలరా",
+        "మనసారా యోచించిరావా"
+      ],
+      "english": [
+        "Vedhambulandhu vraayabadinatlu ee dharanu rakshimpa navatharinchi",
+        "Baliyaagamaina Prabhu Yesu kaaka mari evvarainanu kalaraa",
+        "Manasaaraa yochinchiraavaa"
+      ]
+    }
+  ]
+}

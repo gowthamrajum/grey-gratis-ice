@@ -1,0 +1,77 @@
+{
+  "song_name": "Annaa mana Yesu prabhuni kanna",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "రావూరి లక్ష్మయ్య"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "అన్నా మన యేసు ప్రభుని కన్న రక్షకుఁడు లేఁడు ఎన్న రాని మన",
+      "యఘము లన్ని సడలించి ప్రోచు ||నన్న||"
+    ],
+    "english": [
+      "Annaa mana Yesu prabhuni kanna rakshakudu ledu enna raani mana",
+      "aghamulanni sadalinchi prochu ||Nanna||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మన దోషములకు బదులుగ మరణావస్థల నొందెను తన",
+        "దివ్యావయముల ర క్తము చిందించెను భువిపై ||నన్న||"
+      ],
+      "english": [
+        "Mana dhoshamulaku badhuluga maranaavasthala nondenu thana",
+        "dhivyaavayamula rakthamu chindhinchenu bhuvipai ||Nanna||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిజ రక్షకుఁడితఁడే మన వృజినాదులఁ బరిమార్పను విజయం బగు",
+        "నతని పాద రజయుగ్మును స్మరించు ||మన్న||"
+      ],
+      "english": [
+        "Nija rakshakuditade mana vrujinaadhula barimaarpanu vijayam bagu",
+        "nathani paada rajayugmunu smarinchu ||Manna||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దిక్కు మాలిన వారికి దిక్కై మార్గముఁజూపెను చక్కనీ గుణముల సొం",
+        "పెక్కి వర్తించె నహహ ||యన్న||"
+      ],
+      "english": [
+        "Dikku maalina vaariki dikkai maargamujoopenu chakkanee gunamula som",
+        "pekki varthinche nahaha ||Yanna||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఈలాటి దయాసముద్రు నిల నెందైనను గానము నీలోఁ గల దుర్గుణాది",
+        "జాలంబులఁ గడఁ ద్రోయును  ||అన్నా||"
+      ],
+      "english": [
+        "Eelaati dhayaasamudhru nila nendainanu gaanamu neelo gala dhurgunaadhi",
+        "jaalambula gada dhroyunu ||Annaa||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మృతి గెల్చిన వాఁడే దు రిత జీవులఁ బ్రోవఁ దగును మృతి నొంది",
+        "నశించు లోక మూఢాత్ముల కేలఁ గల్గు ||నన్న||"
+      ],
+      "english": [
+        "Mruthi gelchina vaade duritha jeevula brova dhagunu mruthi nondi",
+        "nashinchu loka moodhaathmula kela galgu ||Nanna||"
+      ]
+    }
+  ]
+}

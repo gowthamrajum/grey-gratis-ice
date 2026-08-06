@@ -1,0 +1,60 @@
+{
+  "song_name": "Yese Goppa Devudu",
+  "author": {
+    "Authored by": "Bro Philip Gariki",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసే గొప్ప దేవుడు – మన యేసే శక్తిమంతుడు",
+      "యేసే ప్రేమ పూర్ణుడు – యుగయుగములు స్తుతిపాత్రుడు",
+      "స్తోత్రము మహిమ జ్ఞానము శక్తి",
+      "ఘనతా బలము కలుగును ఆమెన్"
+    ],
+    "english": [
+      "Yesey goppa devudu – mana yesey shakthimandthudu",
+      "yesey prema poornudu – yugayugamulu sthuthipaatrudu",
+      "sthothramu mahima gnaanamu shakthi",
+      "ganathaa balamu kalugunu aamen"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మహా శ్రమలలో వ్యాధి బాధలలో",
+        "సహనము చూపి స్థిరముగ నిలచిన",
+        "యోబు వలె నే జీవించెదను",
+        "అద్వితీయుడు ఆదిసంభూతుడు",
+        "దీర్ఘ శాంతుడు మన ప్రభు యేసే",
+        "ప్రార్థన శక్తితో ఆత్మ బలముతో",
+        "లోకమునకు ప్రభువును చాటిన",
+        "దానియేలు వలె జీవింతును",
+        "మహోన్నతుడు మన రక్షకుడు",
+        "ఆశ్రయ దుర్గము మన ప్రభు యేసే",
+        "జీవితమంతా ప్రభుతో నడచి",
+        "ఎంతో ఇష్టుడై సాక్ష్యము పొందిన",
+        "హనోకు వలె నే జీవించెదను",
+        "అద్భుతకరుడు ఆశ్చర్యకరుడు",
+        "నీతి సూర్యుడు మన ప్రభు యేసే"
+      ],
+      "english": [
+        "Maha sramalalo vyaadhi baadhalalo",
+        "sahanamu choopi sthiramuga nilichina",
+        "yobu vale ne jeevinchedhanu",
+        "aadhweedheeyudu aadhisambuthudu",
+        "dheerga shaanthudu mana prabhu yesey",
+        "Praardhana shakthitho aathma balamutho",
+        "lokamunaku prabhuvunu chaatina",
+        "dhaaniyelu valey jeevinthunu",
+        "mahonnathudu mana rakshakudu",
+        "aasraya durgamu mana prabhu yesey",
+        "Jeevinthamanthaa prabhutho nadichi",
+        "entho ishtudai saakshamu pondhina",
+        "haanoku vale ne jeevinchedanu",
+        "adhbuthakarudu aashcharyakarudu",
+        "neethi suryudu mana prabhu yesey"
+      ]
+    }
+  ]
+}

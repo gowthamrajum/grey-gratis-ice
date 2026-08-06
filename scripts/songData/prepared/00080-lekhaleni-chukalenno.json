@@ -1,0 +1,63 @@
+{
+  "song_name": "Lekkaleni Chukkalenno",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "లెక్కలేని చుక్కలెన్నో చక్కగా వెలుగుచుండ (2X)",
+      "చెప్పకుండ వెళ్ళిపోయె చక్కని చుక్క - దుఃఖమే విడిచిపోయె చక్కని చుక్క (2X)"
+    ],
+    "english": [
+      "Lekkaleni Chukkalenno Chakkagaa Veluguchunda (2X)",
+      "Cheppakunda Vellipoye Chakkani Chukka - Duhkhame Vidichipoye Chakkani Chukka (2X)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రభువునందు మృతులే మరి ధన్యులని - విభుని చెంత చేరుటయే గమ్యమని (2X)",
+        "ఆలకించెనెక్కడో చక్కని చుక్క - ఆలసింపక వెళ్ళిపోయె చక్కని చుక్క (2X)"
+      ],
+      "english": [
+        "Prabhuvunandu Mruthule Mari Dhanyulani - Vibhuni Chentha Cherutaye Gamyamani (2X)",
+        "Aalakinchenekkado Chakkani Chukka - Aalasimpaka Vellipoye Chakkani Chukka (2X)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేహమందు నివశించుట వ్యర్ధమని - మోహమంత మరచుట పరమార్ధమని (2X)",
+        "ఆలకించెనెక్కడో చక్కని చుక్క - ఆలసింపక వెళ్ళిపోయె చక్కని చుక్క (2X)"
+      ],
+      "english": [
+        "Dehamandu Nivashinchuta Vyardhamani - Mohamantha Marachuta Paramaardhamani (2X)",
+        "Aalakinchenekkado Chakkani Chukka - Aalasimpaka Vellipoye Chakkani Chukka (2X)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాపలోకమందు బ్రతుకలేమని - ఆ పరమును చే్రుటయే మేలని (2X)",
+        "ఆలకించెనెక్కడో చక్కని చుక్క - ఆలసింపక వెళ్ళిపోయె చక్కని చుక్క (2X)"
+      ],
+      "english": [
+        "Paapalokamandu Brathukalemani - Aa Paramunu Cherutaye Melani (2X)",
+        "Aalakinchenekkado Chakkani Chukka - Aalasimpaka Vellipoye Chakkani Chukka (2X)"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యేసు ప్రభువు తిరిగి భువికి వచ్చునని - మృతులనుండి తనను తిరిగి లేపునని (2X)",
+        "ఆలకించెనెక్కడో చక్కని చుక్క - ఆలసింపక వెళ్ళిపోయె చక్కని చుక్క (2X)"
+      ],
+      "english": [
+        "Yesu Prabhuvu Thirigi Bhuviki Vachchunani - Mruthulanundi Thananu Thirigi Lepunani (2X)",
+        "Aalakinchenekkado Chakkani Chukka - Aalasimpaka Vellipoye Chakkani Chukka (2X)"
+      ]
+    }
+  ]
+}

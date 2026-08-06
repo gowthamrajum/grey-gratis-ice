@@ -1,0 +1,62 @@
+{
+  "song_name": "Hallelooya hosannaa sthuthi ghanathaa Prabhuke",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "హల్లెలూయ హోసన్నా స్తుతి ఘనతా ప్రభుకే"
+    ],
+    "english": [
+      "Hallelooya hosannaa sthuthi ghanathaa Prabhuke"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సజీవ బలిజేసి శరీరముల్ - ప్రభుని సేవలో నీ పరుగును",
+        "నిస్వార్థముగా ప్రేమతో - ఆత్మ సత్యములతో ముగించుమా"
+      ],
+      "english": [
+        "Sajeeva balijesi shareeramul - Prabhuni sevalo nee parugunu",
+        "Niswaarthamugaa prematho - Aathma sathyamulatho muginchumaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విశ్వాస యోగ్యులుగా నిత్యం నిలిచి - ప్రభుని ప్రేమలో స్థిరులైయుండి",
+        "ఆశగల కన్నులతో వీక్షించుచు - ప్రభు రాక కొరకై కనిపెట్టుమా"
+      ],
+      "english": [
+        "Vishwaasa yogyulugaa nithyam nilichi - Prabhuni premalo sthirulaiyundi",
+        "Aashagala kannulatho veekshinchuchu - Prabhu raaka korakai kanipettumaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరిశుద్ధులారా మెలకువగా నుండి - ఎడతెగక ప్రార్థన చేయుడి",
+        "ప్రయత్నించుటలో వెనుదీయక - ఆత్మ ఆసక్తిన్ కలిగి యుండుడి"
+      ],
+      "english": [
+        "Parishuddhulaaraa melakuvagaa nundi - Edathegaka praarthana cheyudi",
+        "Prayathninchutalo venudheeyaka - Aathma aasakthin kaligi yundudi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "వెనుకనున్న వాటిని మరచి - నూతన దర్శనము కలిగి",
+        "పరలోక బహుమానము పొందుటకై - గురిని చూచుచు పరుగెత్తుడి"
+      ],
+      "english": [
+        "Venukanunna vaatini marachi - Noothana darshanamu kaligi",
+        "Paraloka bahumaanamu pondutakai - Gurini choochuchu parugetthudi"
+      ]
+    }
+  ]
+}

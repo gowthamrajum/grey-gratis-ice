@@ -1,0 +1,51 @@
+{
+  "song_name": "Andhaala Thaara",
+  "author": {
+    "Authored by": "Michael Kalyanapu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "తల్లి మరియ వడిలోనా పవలించగా",
+      "అందాల తార వెలసెనంట"
+    ],
+    "english": [
+      "Thalli mariya vadilonaa pavalinchagaa",
+      "andhaala thaara velasenanta"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రాజులకు రారాజు పుట్టెనంట",
+        "ఇలలోనంట",
+        "అందాల తార వెలసెనంట",
+        "సర్వలోక ప్రజలందరికి మహిమ",
+        "క్రీస్తు నీలో నాలో ఉదయించెను",
+        "ఆనందం సంతోషం సమాధానం",
+        "కలుగును మనకు"
+      ],
+      "english": [
+        "Raajulaku raaraaju puttenanta",
+        "ilalonanta",
+        "andhaala thaara velasenanta",
+        "sarvaloka prajalandhariki mahima",
+        "kreesthu neelo naalo udayinchenu",
+        "aanandham santhosham samaadhaanam",
+        "kalugunu manaku"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "Happy Happy Christmas",
+        "Merry Merry Christmas"
+      ],
+      "english": [
+        "Happy Happy Christmas",
+        "Merry Merry Christmas"
+      ]
+    }
+  ]
+}

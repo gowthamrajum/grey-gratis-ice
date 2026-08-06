@@ -1,0 +1,85 @@
+{
+  "song_name": "Prabhuvu dhigivachchunu paramunundi vegame vibhudu thirigivachchunu parama vadhuvukai",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభువు దిగివచ్చును పరమునుండి వేగమే",
+      "విభుడు తిరిగివచ్చును పరమ వధువుకై"
+    ],
+    "english": [
+      "Prabhuvu dhigivachchunu paramunundi vegame",
+      "Vibhudu thirigivachchunu parama vadhuvukai"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రభువు దిగివచ్చు నార్భటముతో - దూత శబ్దముతో బూరధ్వనితో",
+        "క్రీస్తునందు మృతులు మొదటనే లేతురు",
+        "వారితో నేకమై ప్రభువు నెదుర్కొందువా?"
+      ],
+      "english": [
+        "Prabhuvu dhigivachchu naarbhatamutho - Dootha shabdhamutho booradhwanitho",
+        "Kreesthunandu mruthulu modhatane lethuru",
+        "Vaaritho nekamai prabhuvu nedhurkondhuvaa?"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వాని వాని పనులనుబట్టి ప్రభువు - సిద్ధపరచిన జీతము తానిచ్చును",
+        "తానే త్వరగా వచ్చున్ ఎదుర్కొన సిద్ధమా",
+        "సిగ్గుతో భయముతో నుందువా దినమునా?"
+      ],
+      "english": [
+        "Vaani vaani panulanubatti prabhuvu - Sidhdhaparachina jeethamu thaanichchunu",
+        "Thaane thvaragaa vachchun edhurkona sidhdhamaa",
+        "Siggutho bhayamutho nundhuvaa dhinamunaa?"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "హృదయములో కలవరపడక - క్రీస్తునందు విశ్వాసముంచుడి",
+        "శుద్ధులుగ మీరు సిద్ధమనస్సుతోడ",
+        "ప్రార్ధన చేయుచు మేల్కొని యుండుడి"
+      ],
+      "english": [
+        "Hrudayamulo kalavarapadaka - Kreesthunandu vishwaasamunchudi",
+        "Shudhdhuluga meeru sidhdhamanassuthoda",
+        "Praardhana cheyuchu melkoni yundudi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "అనేకుల పాపములను భరింప - ఒక్కసారే క్రీస్తు అర్పించుకొనెను",
+        "తనకొరకై వేచియుండు వారికొరకు",
+        "పాపరహితుడు తిరిగి ప్రత్యక్షమౌ"
+      ],
+      "english": [
+        "Anekula paapamulanu bharimpa - Okkasaare Kreesthu arpinchukonenu",
+        "Thanakorakai vechiyundu vaarikoraku",
+        "Paaparahithudu thirigi prathyakshamau"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ప్రొద్దు గ్రుంకి వచ్చునో ఎప్పుడో అర్థరాత్రియో తెల్లవారు ఝామునో",
+        "నిద్దుర పోవుచునుండగా వచ్చునో",
+        "మేల్కొనియుండుడి మీరు ఎల్లప్పుడు"
+      ],
+      "english": [
+        "Prodhdhu grunki vachchuno eppudo ardharaathriyo thellavaaru jhaamuno",
+        "Nidhdhura povuchunundagaa vachchuno",
+        "Melkoniyundudi meeru ellappudu"
+      ]
+    }
+  ]
+}

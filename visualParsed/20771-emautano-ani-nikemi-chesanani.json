@@ -1,0 +1,66 @@
+{
+  "song_name": "Emauthaano ani neekemi chesaanani",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Samuel Karmoji"
+    ],
+    "రచన": [
+      "శామ్యూల్ కర్మోజి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏమౌతానో అని నీకేమి చే సానని",
+      "నదిలా ప్రవహించెను నీప్రేమ || 2 ||"
+    ],
+    "english": [
+      "Emauthaano ani neekemi chesaanani",
+      "Nadhilaa pravahinchenu neeprema || 2 ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అమ్మ, నాన్న లాలి పాడకముందే",
+        "చూసావు నన్ను, రాసావు నాకై",
+        "కలిగున్న నీఆశలే, కలిగున్న నీఆశలే  ||ఏమౌతానో||",
+        "నదిలా ప్రవహిం చెను నీప్రేమ",
+        "మంటినైన ననుచూచి సారెపై ననుమలచి",
+        "పేరుపెట్టి విలువనిచ్చినావు",
+        "పగిలిన పాత్రను పట్టించుకున్నావు",
+        "గాయాల చేతితో అతికించుకున్నావు  ||ఏమౌతానో||",
+        "నదిలా ప్రవహించెను నీప్రేమ",
+        "వట్టిపాత్ర ననుచూచి నూనెతో నింపావు",
+        "నిండు పొర్లు దీవెనతో పలుకరించినావు || 2 ||"
+      ],
+      "english": [
+        "Amma, naanna laali paadakamundhe",
+        "Choosaavu nannu, raasaavu naakai",
+        "Kaligunna neeaashale, kaligunna neeaashale  ||Emauthaano||",
+        "Nadhilaa pravahinchenu neeprema",
+        "Mantinaina nanuchoochi saarepai nanumalachi",
+        "Perupetti viluvanichchinaavu",
+        "Pagilina paathranu pattinchukunnaavu",
+        "Gaayaala chethitho athikinchukunnaavu  ||Emauthaano||",
+        "Nadhilaa pravahinchenu neeprema",
+        "Vattipaathra nanuchoochi noonetho nimpaavu",
+        "Nindu porlu dheevenatho palukarinchinaavu || 2 ||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీఆస్తిగా నన్ను ముద్రించుకున్నావు",
+        "నీఇంటి పాత్రగా ఓ స్థానమిచ్చావు  ||ఏమౌతానో||",
+        "నదిలా ప్రవహించెను నీప్రేమ"
+      ],
+      "english": [
+        "Neeaasthigaa nannu mudhrinchukunnaavu",
+        "Neeinti paathragaa o sthaanamichchaavu  ||Emauthaano||",
+        "Nadhilaa pravahinchenu neeprema"
+      ]
+    }
+  ]
+}

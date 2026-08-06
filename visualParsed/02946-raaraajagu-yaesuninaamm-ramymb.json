@@ -1,0 +1,69 @@
+{
+  "song_name": "Raaraajagu Yesuni naamam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "పి  రవివర్మ"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "రారాజగు యేసునినామం రమ్యంబగు దేవుని నామం",
+      "ఈశుండగు యేసునినామం ఈధర నిదె పావననామం",
+      "యేసునినామం దేవునినామం రమ్యంబగు దేవుని నామం ||రారాజు||"
+    ],
+    "english": [
+      "Raaraajagu Yesuni naamam ramyambagu Devuni naamam",
+      "Eeshundagu Yesuni naamam eedhara nide paavana naamam",
+      "Yesuni naamam Devuni naamam ramyambagu Devuni naamam ||Raaraaju||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గగనమువీడిన గురునామం కలుషాత్మలబ్రోచెడు నామం ||రారాజు||"
+      ],
+      "english": [
+        "Gaganamuveedina guru naamam kalushaathmala brochedu naamam ||Raaraaju||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "స్లీవాంకముగల యినామం సుజనుల జేసెడు స్థిరనామం ||రారాజు||"
+      ],
+      "english": [
+        "Sleevaankamugala inaamam sujanula jesedu sthira naamam ||Raaraaju||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "విజయం బొపగెడు నిజనామం విమలాత్ముల కిదివరనామం ||రారాజు||"
+      ],
+      "english": [
+        "Vijayam bosagedu nija naamam vimalaathmula kidhi vara naamam ||Raaraaju||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మనమున కిది యజ్జ్వలనామం జనములకిదియే ఋజునామం ||రారాజు||"
+      ],
+      "english": [
+        "Manamuna kidhi ujjvala naamam janamulakidhiye ruju naamam ||Raaraaju||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఈధరస్తుతులను గొనునామం ఈయేసుని యమృతనామం ||రారాజు||"
+      ],
+      "english": [
+        "Eedhara sthuthulanu gonu naamam ee Yesuni amrutha naamam ||Raaraaju||"
+      ]
+    }
+  ]
+}

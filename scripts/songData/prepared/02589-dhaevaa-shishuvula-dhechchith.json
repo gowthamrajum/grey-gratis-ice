@@ -1,0 +1,61 @@
+{
+  "song_name": "Dhaevaa Shishuvula Dhechchithimi",
+  "author": {
+    "Authored by": "",
+    "రచన": "పులిపాక జగన్నాదము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవా శిశువుల( దెచ్చితిమి నీవు దీవించువీరల దివ్య కృపమీర"
+    ],
+    "english": [
+      "Dhaevaa Shishuvula( Dhechchithimi Neevu Dheevinchuveerala Dhivya Krupameera"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వీరు పొందిన బాప్తిస్మంబు గురుతు వీరు నీవా రన విశదపరపంగా",
+        "వీరిపైఁ గురిపించు దయను వేగ వీరికిఁ గలుగంగ విజ్ఞాన ధనము"
+      ],
+      "english": [
+        "Veeru Pondhina Baapthismambu Guruthu Veeru Neevaa Rana Vishadhaparapangaa",
+        "Veeripai Guripinchu Dhayanu Vaega Veeriki Galuganga Vignaana Dhanamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ వొసఁగు శిశువుల మాకు దేవ నీవ చేర్చికొనుము నీవ కాపాడు",
+        "జీవ మార్గము నందు నిలుపు నిత్య జీవంబు దయచేసి శ్రీ యేసు కఠినన్"
+      ],
+      "english": [
+        "Nee Vosagu Shishuvula Maaku Dhaeva Neeva Chaerchikonumu Neeva Kaapaadu",
+        "Jeeva Maargamu Nandhu Nilupu Nithya Jeevambu Dhayachaesi Shree Yaesu Katinan"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "విమలాత్మ బాప్తిస్మ మొసఁగి వీరి విమలులఁ జేయుము ప్రీతిని దేవా",
+        "క్షమ భక్తిప్రేమ శాంతుల నొసంగు శ్రమముల వెలుఁగంగ సత్య సాక్షులుగా"
+      ],
+      "english": [
+        "Vimalaathma Baapthisma Mosagi Veeri Vimalula Jaeyumu Preethini Dhaevaa",
+        "Kshama Bhakthipraema Shaanthula Nosangu Shramamula Velunganga Sathya Saakshulugaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "వీరలకుఁ దోడై యుండుము తండ్రి వీరలఁ జూడుము వివిధ మార్గ ముల",
+        "వీరు లోకము విడుచు నపుడు దయను వీరలఁ జేర్చుము విమ లానందమున"
+      ],
+      "english": [
+        "Veeralaku Dhoadai Yundumu Thandri Veerala Joodumu Vividha Maarga Mula",
+        "Veeru Loakamu Viduchu Napudu Dhayanu Veerala Jaerchumu Vima Laanandhamuna"
+      ]
+    }
+  ]
+}

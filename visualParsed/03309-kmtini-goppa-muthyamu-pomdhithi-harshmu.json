@@ -1,0 +1,91 @@
+{
+  "song_name": "Kantini Goppa Muthyamu Pondithi Harshamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కంటిని గొప్ప ముత్యము - పొందితి హర్షము",
+        "తింటిని జీవాహారము - గ్రోలితి స్నేహము"
+      ],
+      "english": [
+        "Kantini goppa muthyamu - Pondithi harshamu",
+        "Thintini jeevaahaaramu - Grolithi snehamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మాత పితృడు యేసుడ - ద్భుత రాజాయనే",
+        "గుడ్డలు చుట్టబడెను - మందల కాపరి"
+      ],
+      "english": [
+        "Maata pithrudu Yesuda - Dbhutha raajaayane",
+        "Guddalu chuttabadenu - Mandala kaapari"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆదియంత రహితుడు - జ్యోతిర్మయ ప్రభు",
+        "నార్తులకు నాయకుడు - జాతిగోత్రరహితుడు"
+      ],
+      "english": [
+        "Aadhiyantha rahithudu - Jyothirmaya prabhu",
+        "Naarthulaku naayakudu - Jaathigothrarahithudu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యూదా గోత్రంపు సింహమా - పితృల దైవమా",
+        "నాథా నా హేమ మకుటమా - పాదముల బడితిమి"
+      ],
+      "english": [
+        "Yoodaa gothrampu simhamaa - Pithrula daivamaa",
+        "Naathaa naa hema makutamaa - Paadamula badithimi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "కర్తాదికర్త యేసువా - రాజాధిరాజవు",
+        "షారోను రోజా పుష్పమా - మరలవత్తువు"
+      ],
+      "english": [
+        "Karthaadhikartha Yesuvaa - Raajaadhiraajavu",
+        "Shaaronu rojaa pushpamaa - Maralavatthuvu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "మార్గం సత్యం జీవమా - రోషంపు దేవుడా",
+        "కుంకని యాజకుండవు - ప్రకాశమయుడా"
+      ],
+      "english": [
+        "Maargam sathyam jeevamaa - Roshampu devudaa",
+        "Kunkani yaajakundavu - Prakaashamayudaa"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "హల్లెలూయాకు పాత్రుడా - ఎల్లరి రక్షకా",
+        "రాతి గుండె కరిగింతువు - నీవే సమస్తము"
+      ],
+      "english": [
+        "Hallelooyaaku paathrudaa - Ellari rakshakaa",
+        "Raathi gunde kariginthuvu - Neeve samasthamu"
+      ]
+    }
+  ]
+}

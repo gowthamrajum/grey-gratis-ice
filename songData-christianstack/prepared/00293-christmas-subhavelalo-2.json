@@ -1,0 +1,32 @@
+{
+  "song_name": "Christmas Subhavelalo 2",
+  "author": {
+    "Authored by": "Suresh Nittala",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "క్రిస్మస్ శుభవేళలో – మన అందరి హృదయాలలో",
+      "ఆనందమానందమే – మనసంతా సంతోషమే"
+    ],
+    "english": [
+      "Sthuthiyinchi aaraadhiddham",
+      "aa prabhuni ghanaparachi keerthinchudhaam",
+      "rakshakudu puttaadani – manaku rakshana thechaadani"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "స్తుతియించి ఆరాదిద్దాం",
+        "ఆ ప్రభుని ఘనపరచి కీర్తించుదాం",
+        "రక్షకుడు పుట్టాడని – మనకు రక్షణ తెచ్చాడని"
+      ],
+      "english": [
+        "Christmas Subhavelalo – mana andhari hrudhayaalalo",
+        "aanandhamaanandhame – manasanthaa santhoshame"
+      ]
+    }
+  ]
+}

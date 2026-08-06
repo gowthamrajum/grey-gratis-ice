@@ -1,0 +1,88 @@
+{
+  "song_name": "Nindalalo nispruhalo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Kiran Paul"
+    ],
+    "రచన": [
+      "కిరణ్ పాల్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిందలలో నిస్పృహలో",
+      "నా పక్షమై సాక్ష్యం నీవే కదా",
+      "ద్వేషముతో దూషణతో",
+      "దుష్టుల వలలెన్నో నను పొంచిఉండగా",
+      "ఒక్క మాట సెలవిచ్చి అణిచే శక్తి నీది",
+      "నా ముందు నిలుచుండి నడిపే బలము నీది",
+      "యోసేపు దేవుడా దానియేలు దేవుడా",
+      "ఈ దీన దాసుని తప్పించ రావా",
+      "ఈ దీన దాసుని కరుణించ రావా"
+    ],
+    "english": [
+      "Nindalalo nispruhalo",
+      "Naa pakshamai saakshyam neeve kadaa",
+      "Dhweshamutho dhooshanatho",
+      "Dushtula valalenno nanu ponchiundagaa",
+      "Okka maata selavichchi aniche shakthi needi",
+      "Naa mundu niluchundi nadipe balamu needi",
+      "Yosepu Devudaa Daaniyelu Devudaa",
+      "Ee deena daasuni thappincha raavaa",
+      "Ee deena daasuni karunincha raavaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నేరము లేని దోషము మోపి",
+        "భ్రష్టుల సాక్ష్యం భక్తులు నమ్మతే",
+        "భక్తులు సంఘములో నాటిరి బ్రస్టత్వమే",
+        "ఆ నాటి శాస్త్రుల నిందలు నిజమైతే",
+        "భక్తులు సంఘములో నాటిరి బ్రస్టత్వమే",
+        "క్రీస్తు మోసిన సిలువ రక్షణ వ్యర్ధమే",
+        "వడిసెలతో దుష్టుని అణచిన శక్తి నీది",
+        "చేప గర్భమునుండి తప్పించిన బలము నీది",
+        "దావీదు దేవుడా యోన దేవుడా లేఖనము",
+        "నెరవేర్చుటకై బలహీనుడువైతీవ"
+      ],
+      "english": [
+        "Neramu leni doshamu mopi",
+        "Bhrashtula saakshyam bhakthulu nammithe",
+        "Bhakthulu sanghamulo naatiri bhrashtathwame",
+        "Aa naati shaasthrula nindalu nijamaithe",
+        "Bhakthulu sanghamulo naatiri bhrashtathwame",
+        "Kreesthu mosina siluva rakshana vyardhame",
+        "Vadiselatho dhushtuni anachina shakthi needi",
+        "Chepa garbhamunundi thappinchina balamu needi",
+        "Daaveedu Devudaa Yona Devudaa lekhanamu",
+        "Neraverchutakai balaheenuduvaitheeva"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రేమకు ప్రతిగా పగవారైతే పౌలుకు",
+        "మిగిలింది అంతులేని గాయమే",
+        "కోరహు వాదన న్యాయమైతే",
+        "మోషే పక్షమున దేవుడే దోషియా",
+        "సౌలును పౌలుగా మార్చిన శక్తి నీది",
+        "మోషేకీ సాక్షిగా నిలిచిన బలము నీది",
+        "పౌలు దేవుడా మోషే దేవుడా లేఖనం",
+        "స్థాపించుటకై భక్తులను విరచితివ"
+      ],
+      "english": [
+        "Premaku prathigaa pagavaaraithe Pauluku",
+        "Migilindhi anthuleni gaayame",
+        "Korahu vaadhana nyaayamaithe",
+        "Moshe pakshamuna Devude dhoshiyaa",
+        "Saulunu Paulugaa maarchina shakthi needi",
+        "Mosheki saakshigaa nilichina balamu needi",
+        "Paulu Devudaa Moshe Devudaa lekhanam",
+        "Sthaapinchutakai bhakthulanu virachithiva"
+      ]
+    }
+  ]
+}

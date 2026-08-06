@@ -1,0 +1,45 @@
+{
+  "song_name": "Na Padamulaku Dipam Na Trovalaku",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా పాదములకు దీపం నా త్రోవలకు వెలుగు (2)",
+      "నా ప్రాణమునకు జీవం నా యేసయ్య నీ వాక్యం (2)"
+    ],
+    "english": [
+      "Na Padamulaku Dipam Na Trovalaku Velugu (2)",
+      "Na Pranamunaku Jivam Na Yesayya Ni Vakyam (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "భుమి కంటే ఆకాశం ఎంత ఉన్నతం నా దోషములను అంత దూర పరచితివే",
+        "నీ కిచ్చిన రక్షణ కొరకై నేనేమి చెల్లింతును",
+        "రక్షణ పాత్ర చేత పట్టుకొని స్తోత్రము చేసెదన్"
+      ],
+      "english": [
+        "Bumi Kamte Akasam Emta Unnatam Na Doshamulanu Amta Dura Parachitive",
+        "Ni Kichchina Rakshana Korakai Nenemi Chellimtunu",
+        "Rakshana Patra Cheta Pattukoni Stotramu Chesedan"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాలో ఉన్న ఆశలను నెరవెర్చితివే నా ఆలోచన సఫల పరచితివే",
+        "నీ సేవకై నా జీవితం నేను అర్పింతును",
+        "నా ప్రాణ అత్మ దేహమును నీకై అర్పింతును"
+      ],
+      "english": [
+        "Nalo Unna Asalanu Neraverchitive Na Alochana Sapala Parachitive",
+        "Ni Sevakai Na Jivitam Nenu Arpimtunu",
+        "Na Prana Atma Dehamunu Nikai Arpimtunu"
+      ]
+    }
+  ]
+}

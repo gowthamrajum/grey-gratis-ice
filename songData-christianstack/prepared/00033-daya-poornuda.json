@@ -1,0 +1,85 @@
+{
+  "song_name": "Daya Poornuda",
+  "author": {
+    "Authored by": "Ambati Cherubim",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దయామయుడా – దయాళుదా",
+      "నా జీవితానికి దయాపూర్ణుడా",
+      "స్తుతి సింహాసనాసీనుడా",
+      "కృతజ్ఞత స్తుతులు నీకెనయ్యా"
+    ],
+    "english": [
+      "Dayaamayuda dayaalluda naa jeevithaaniki dayaapoornuda",
+      "Sthuthi simhaasana seenuda kruthagnatha sthuthulu neekenayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అల్లాడిపోతున్న వేళలో",
+        "ఆసరా కరువైన దుస్థిలిలో",
+        "అలలవలే నీవు నాతోడువై",
+        "అద్దరికి చేర్చావు నా సాయమై",
+        "నన్ను వీక్షించు దయాళుదా",
+        "నన్ను రక్షించు దయామయుడా"
+      ],
+      "english": [
+        "Allaadipothunna velalo aasara karuvaina dhusthithilo",
+        "Alalavale neevu naa thoduvai addhariki cherchaavu naa saayamai",
+        "Nannu veekshinchu dayaalluda nannu rakshinchu dayaamayuda"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కృపవత్సరమును ఒసగితివి",
+        "దయాకీరీటమును ఇచితివి",
+        "అందని సిఖరాలనెక్కించి",
+        "ఆశీర్వాదముతో నింపితివి",
+        "నన్ను బలపరుచు దయాళుదా",
+        "నన్ను స్థిరపరచు దయామయుడా"
+      ],
+      "english": [
+        "Krupa vathsaramunu osagithivi daya kireetamunu ichithivi",
+        "Andhani shikharalanekkinchi aasheerwaadhamutho nimpithivi",
+        "Nannu balaparachu dayaalluda nannu sthiraparachu dayaamayuda"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా స్తుతుల సింహాసనముపై",
+        "ఆసీనుడవైన నా యేసయ్య",
+        "నిన్ను స్తుతియించి భజియించి",
+        "ఆరాధించెదను నా యేసయ్య",
+        "నిన్ను పాడెద దయాళుదా",
+        "నిన్నే పొగడెద దయామయుడా"
+      ],
+      "english": [
+        "Naa sthuthula simhaasanamupai aaseenudavaina naa Yesayya",
+        "Ninnu sthuthiyinchi bhajiyinchi aaraadhinchedhanu naa Yesayya",
+        "Ninnu paadedha dayaalluda ninne pogadedha dayaamayuda"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దయామయుడా – దయాళుదా",
+        "నా జీవితానికి దయాపూర్ణుడా"
+      ],
+      "english": []
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "స్తుతి సింహాసనాసీనుడా",
+        "కృతజ్ఞత స్తుతులు నీకెనయ్యా"
+      ],
+      "english": []
+    }
+  ]
+}

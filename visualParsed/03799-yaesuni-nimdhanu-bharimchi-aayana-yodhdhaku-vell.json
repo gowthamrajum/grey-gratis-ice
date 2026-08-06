@@ -1,0 +1,125 @@
+{
+  "song_name": "Yesuni nindanu bharinchi aayana yoddaku velludhamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసుని నిందను భరించి",
+      "ఆయన యొద్దకు వెళ్ళుదము"
+    ],
+    "english": [
+      "Yesuni nindanu bharinchi",
+      "Aayana yoddaku velludhamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సంబల్లటు టోబీయా చేయు హేళనలు",
+        "వారలు పెట్టు శ్రమల భరించి",
+        "ఆయనతో సంతోషముగ భరించి",
+        "బయలుదేరి వెళ్ళుదము"
+      ],
+      "english": [
+        "Sanballattu Tobeeyaa cheyu helanalu",
+        "Vaaralu pettu shramala bharinchi",
+        "Aayanatho santhoshamuga bharinchi",
+        "Bayaludheri velludhamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "స్తెఫను చావును మదిలో దలచి",
+        "పేతురు చెఱలో నుండుట దలచి",
+        "మోసము లెన్నియో కల్గినగాని",
+        "బయలుదేరి వెళ్ళుదము"
+      ],
+      "english": [
+        "Sthephanu chaavunu madilo dhalachi",
+        "Pethuru cheralo nunduta dhalachi",
+        "Mosamu lenniyo kalginagaani",
+        "Bayaludheri velludhamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కపట సోదరుల వలన బాధలు",
+        "అపనిందలు మా కెన్నియున్న",
+        "యేసు ప్రభువునే ద్వేషించినను",
+        "బయలుదేరి వెళ్ళుదము"
+      ],
+      "english": [
+        "Kapata sodharula valana baadhalu",
+        "Apanindhalu maa kenniyunna",
+        "Yesu prabhuvune dhveshinchinanu",
+        "Bayaludheri velludhamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కర్రలతోనే మము కొట్టినను",
+        "కత్తులతో మము ఖండించినను",
+        "ప్రజల వలన బహుగా నలిగినను",
+        "బయలు దేరి వెళ్ళుదము"
+      ],
+      "english": [
+        "Karralathone mamu kottinanu",
+        "Katthulatho mamu khandinchinanu",
+        "Prajala valana bahugaa naliginanu",
+        "Bayalu deri velludhamu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఉపవాసములతో యున్ననుగాని",
+        "జాగరణములతో యున్ననుగాని",
+        "దిగంబరత్వముతో మేమున్నన్",
+        "బయలుదేరి వెళ్ళుదము"
+      ],
+      "english": [
+        "Upavaasamulatho yunnanugaani",
+        "Jaagaranamulatho yunnanugaani",
+        "Dhigambarathvamutho memunnan",
+        "Bayaludheri velludhamu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "అగ్నిలో నడువ వలసిన గాని",
+        "పలువిధ శ్రమలు మా పై బడినన్",
+        "చంపబడిన గొఱ్ఱెపిల్లను జూచి",
+        "బయలుదేరి వెళ్ళుదము"
+      ],
+      "english": [
+        "Agnilo naduva valasina gaani",
+        "Paluvidha shramalu maa pai badinan",
+        "Champabadina gorrepillanu joochi",
+        "Bayaludheri velludhamu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "నిబ్బరముగ నిలుచుందుము మేము",
+        "యెహోవాయే మా ప పక్షము జేరి",
+        "పోరాటములో జయము చేకూర్చున్",
+        "హల్లెలూయ పాడుదము"
+      ],
+      "english": [
+        "Nibbaramuga niluchundhumu memu",
+        "Yehovaaye maa pakshamu jeri",
+        "Poraatamulo jayamu chekoorchun",
+        "Hallelooya paadudhamu"
+      ]
+    }
+  ]
+}

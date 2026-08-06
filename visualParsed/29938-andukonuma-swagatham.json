@@ -1,0 +1,58 @@
+{
+  "song_name": "Andukonumaa swaagatham",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "అందుకొనుమా స్వాగతం ౹౹2౹౹",
+      "నిత్య నూతన రాజ్యాధినేత",
+      "శాశ్వత జీవ మోక్ష ప్రదాత ౹౹ అందుకొనుమా౹౹"
+    ],
+    "english": [
+      "Andukonumaa swaagatham ||2||",
+      "Nithya noothana raajyaadhinetha",
+      "Shaashwatha jeeva moksha pradhaatha ||Andukonumaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిరాధార ఆకాశన అందమైన ఆ వెలుగు",
+        "అబ్బురముగేల నిలిచెనో",
+        "పీఠం లేని గగనాన దూత కోటి నిలిచి",
+        "గానము ఏల చేసేనో",
+        "అంబరాన అద్భుతాలే శూన్యంలో సోయగాలే",
+        "వింతగొల్పు నీదు జన్మ"
+      ],
+      "english": [
+        "Niraadhaara aakaashana andamaina aa velugu",
+        "Abburamugela nilicheno",
+        "Peetham leni gaganaana dootha koti nilichi",
+        "Gaanamu ela cheseno",
+        "Ambaraana adbhuthaale shoonyamlo soyagaale",
+        "Vinthagolpu needu janma"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేవునికసాధ్యము ఏదియు లేదని",
+        "ఋజువాయే నేటితో",
+        "అపవాది క్రియలకు అనంత నాశనం",
+        "రక్షణ అస్త్ర ధారి నిరీక్షణ నీవే మరి",
+        "నీపాటి లేరు సరి"
+      ],
+      "english": [
+        "Dhevunikasaadhyamu ediyu ledani",
+        "Rujuvaaye netitho",
+        "Apavaadi kriyalaku anantha naashanam",
+        "Rakshana asthra daari nireekshana neeve mari",
+        "Neepaati leru sari"
+      ]
+    }
+  ]
+}

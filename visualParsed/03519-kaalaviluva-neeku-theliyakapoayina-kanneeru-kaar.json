@@ -1,0 +1,74 @@
+{
+  "song_name": "Kaalaviluva neeku theliyakapoyina kanneeru kaarchedhavu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "కాలవిలువ నీకు తెలియకపోయిన - కన్నీరు కార్చెదవు",
+      "భువిలో యేసు నిన్నుంచిన యుద్దేశము",
+      "భావమందు తలచి యేసుచే జీవించుము"
+    ],
+    "english": [
+      "Kaalaviluva neeku theliyakapoyina - Kanneeru kaarchedhavu",
+      "Bhuvilo Yesu ninnunchina yuddheshamu",
+      "Bhaavamandhu thalachi Yesuche jeevinchumu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇష్టప్రకారము మనసు వీడి నడచి - కోప పాత్రుడ వగుదువె",
+        "రక్షణ్య జీవితమొంది సంతోషించ",
+        "ననుగ్రహ కాలమిదే యని తెలిసి"
+      ],
+      "english": [
+        "Ishtaprakaaramu manasu veedi nadachi - Kopa paathruda vagudhuve",
+        "Rakshana jeevithamondhi santhoshincha",
+        "Nanugraha kaalamide yani thelisi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇహమందు సేవకు యేసు నిన్ను పిల్చె - నని తెలిసికొనుము",
+        "ఘనమైన పనిని మరచి నిద్రించిన",
+        "పగలు గతించక నిక నేమి చేతువు"
+      ],
+      "english": [
+        "Ihamandu sevaku Yesu ninnu pilche - Nani thelisikonumu",
+        "Ghanamaina panini marachi nidhrinchina",
+        "Pagalu gathinchaka nika nemi chethuvu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నోవహుకాలమున నూట ఇరువది - యేండ్లు చూచి లోకమును",
+        "నశింప జేసెను కృపతో నీ కిడిన",
+        "ఆయుస్సు ఈ ఏటితోనే ముగిసిన"
+      ],
+      "english": [
+        "Novahukaalamuna noota iruvadi - Yendlu choochi lokamunu",
+        "Nashimpa jesenu krupatho nee kidina",
+        "Aayussu ee etithone mugisina"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ముందు యిర్మియా హనన్యాకు తెలిపిన - ఏటనే మృతిపొందెను",
+        "ఏ సమయము నీకు సొంత మనకుము",
+        "ఈ ఏటనే నీవు మరణించవచ్చును"
+      ],
+      "english": [
+        "Mundu Irmiyaa Hananyaaku thelipina - Etane mruthipondhenu",
+        "E samayamu neeku sontha manakumu",
+        "Ee etane neevu maraninchavachchunu"
+      ]
+    }
+  ]
+}

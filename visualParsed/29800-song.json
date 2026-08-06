@@ -1,0 +1,168 @@
+{
+  "song_name": "Thalli vadilo pavalinche biddavale",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "తల్లివడిలో పవలించే బిడ్డవలేనే",
+      "తండ్రి నీ ఒడిలోనే వదికితినయ్యా",
+      "తల్లి వడిలో పవలించే బిడ్డవలేనే",
+      "తండ్రి నీ వడిలోనే వదిగితినయ్యా",
+      "వేదన లేదు",
+      "శోధన లేదు",
+      "వేదన లేదు",
+      "శోధన లేదు",
+      "నీ హస్తం విడువనయ్యా",
+      "నే నీ హస్తం విడువనయ్యా",
+      "భయమన్నది",
+      "లేనే లేదు",
+      "భయమన్నది",
+      "లేనే లేదు",
+      "ప్రేమతో నడిపితివి",
+      "నీ ప్రేమ ప్రేమతో నడిపితివి",
+      "తల్లి వడిలో పవలించే బిడ్డవలేనే",
+      "తండ్రి నీ వడిలోనే వదిగితినయ్యా",
+      "తల్లి వడిలో పవలించే బిడ్డవలేనే",
+      "తండ్రి నీ వడిలోనే వదిగితినయ్యా",
+      "నీ ఉపకారం",
+      "స్మరించి",
+      "నీ ఉపకారం",
+      "స్మరించి",
+      "స్తుతి స్తోత్రం చెల్లెదను",
+      "నీకు స్తుతి స్తోత్రం తెలిపెదను"
+    ],
+    "english": [
+      "Thallivadilo pavalinche biddavalene",
+      "Thandri nee odilone vadhigithinayyaa",
+      "Thalli vadilo pavalinche biddavalene",
+      "Thandri nee vadilone vadhigithinayyaa",
+      "Vedhana ledu",
+      "Shodhana ledu",
+      "Vedhana ledu",
+      "Shodhana ledu",
+      "Nee hastham viduvanayyaa",
+      "Ne nee hastham viduvanayyaa",
+      "Bhayamannadhi",
+      "Lene ledu",
+      "Bhayamannadhi",
+      "Lene ledu",
+      "Prematho nadipithivi",
+      "Nee prema prematho nadipithivi",
+      "Thalli vadilo pavalinche biddavalene",
+      "Thandri nee vadilone vadhigithinayyaa",
+      "Thalli vadilo pavalinche biddavalene",
+      "Thandri nee vadilone vadhigithinayyaa",
+      "Nee upakaaram",
+      "Smarinchi",
+      "Nee upakaaram",
+      "Smarinchi",
+      "Sthuthi sthothram chelledhanu",
+      "Neeku sthuthi sthothram thelipedhanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చేయి విడువని",
+        "నా యేసయ్య",
+        "చేయి విడువని",
+        "నా యేసయ్య",
+        "కల్వరి నాయ నాయకుడా",
+        "నా కల్వరి నాయకుడా  ||తల్లివడిలో||",
+        "తండ్రి నీ వడిలోనే వదికితినయ్యా  ||తల్లివడిలో||"
+      ],
+      "english": [
+        "Cheyi viduvani",
+        "Naa Yesayya",
+        "Cheyi viduvani",
+        "Naa Yesayya",
+        "Kalvari naa naayakudaa",
+        "Naa Kalvari naayakudaa  ||Thallivadilo||",
+        "Thandri nee vadilone vadhigithinayyaa  ||Thallivadilo||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మంచి కాపరి",
+        "జీవ కాపరి",
+        "మంచి కాపరి",
+        "జీవ కాపరి",
+        "హృదయ పాలకుడా",
+        "నా హృదయ",
+        "పాలకుడా",
+        "ఆధారమై",
+        "వచ్చితివా",
+        "ఆధారమై",
+        "వచ్చితివా",
+        "ఆత్మతో తో నడిపితివా",
+        "నీ ఆత్మతో నడిపితివా"
+      ],
+      "english": [
+        "Manchi kaapari",
+        "Jeeva kaapari",
+        "Manchi kaapari",
+        "Jeeva kaapari",
+        "Hrudaya paalakudaa",
+        "Naa hrudaya",
+        "Paalakudaa",
+        "Aadhaaramai",
+        "Vachchithivaa",
+        "Aadhaaramai",
+        "Vachchithivaa",
+        "Aathmatho tho nadipithivaa",
+        "Nee aathmatho nadipithivaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిన్ను నేను పట్టుకుంటిని",
+        "నిన్ను నేను పట్టుకుంటిని",
+        "భుజము పైన సోలెదను",
+        "నీ భుజము పైన సోలెదను",
+        "నీ రెక్కల",
+        "నీడల నుండి",
+        "నీ రెక్కల",
+        "నీడల నుండి",
+        "లోకాని",
+        "మరచితిని",
+        "ఈ లోకాన్ని మరచితిని",
+        "తల్లి వడిలో పవలించే బిడ్డవలెనే"
+      ],
+      "english": [
+        "Ninnu nenu pattukuntini",
+        "Ninnu nenu pattukuntini",
+        "Bhujamu paina soledhanu",
+        "Nee bhujamu paina soledhanu",
+        "Nee rekkala",
+        "Needala nundi",
+        "Nee rekkala",
+        "Needala nundi",
+        "Lokaani",
+        "Marachithini",
+        "Ee lokaanni marachithini",
+        "Thalli vadilo pavalinche biddavalene"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "తండ్రి నీ వడిలోనే వదిగితినయ్యా",
+        "తల్లి వడిలో పవళించే బిడ్డవలెనే",
+        "తండ్రి నీ ఒడిలోనే వదిగితినయ్యా",
+        "హల్లెలూయా హల్లెలూయ"
+      ],
+      "english": [
+        "Thandri nee vadilone vadhigithinayyaa",
+        "Thalli vadilo pavalinche biddavalene",
+        "Thandri nee odilone vadhigithinayyaa",
+        "Hallelooyaa hallelooya"
+      ]
+    }
+  ]
+}

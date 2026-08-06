@@ -1,0 +1,56 @@
+{
+  "song_name": "Nedo repo Yesu raakada kaalam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేడో రేపో యేసు రాకడ కాలం సమయం",
+      "ఎవ్వరెరుగరు విశ్వస యాత్రలొ నే సాగిపోదును",
+      "లోకాన్ని ఆశించి నే వెనుక తిరుగను",
+      "వస్తాడు యేసు రాజై నీతి న్యాయముతో",
+      "నను తిసుకెళతాడు నిత్యరాజ్యమునకు"
+    ],
+    "english": [
+      "Nedo repo Yesu raakada kaalam samayam",
+      "Evvarerugaru vishwasa yaathralo ne saagipodunu",
+      "Lokaanni aashinchi ne venuka thiruganu",
+      "Vasthaadu Yesu raajai neethi nyaayamutho",
+      "Nanu theesukelathaadu nithyaraajyamunaku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చీకటి లోకాన్ని కమ్ముకుంది పాపాంధకారంలో మునిగియుంది",
+        "నా అన్నవారే పరులైనారే నమ్ము కున్నవారే అమ్ముచేస్తున్నారే",
+        "ఎన్నాళ్ళీ ప్రేమ లేని ఏకత్వం ఎన్నాళ్ళీ క్రిస్తు లేని క్రెస్తవ్వం",
+        "అనేకుల ప్రేమ చల్లరిపోతుంది"
+      ],
+      "english": [
+        "Cheekati lokaanni kammukundhi paapaandhakaaramlo munigiyundhi",
+        "Naa annavaare parulainaare nammu kunnavaare ammuchesthunnaare",
+        "Ennaallee prema leni ekathvam ennaallee Kreesthu leni kraisthavam",
+        "Anekula prema challaripothundhi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కరువులు యుద్దాలు భూకంపాలు స్వార్దం నిండిన చీలిక సంఘలు",
+        "ధనముకు లోకం దాస్వతమాయే నైతిక విలువలే నిర్ములమాయొ",
+        "అన్యాయం విస్తారించింది ఆత్మీయత అనగారి పోయింది",
+        "ప్రతి క్రియ తీర్పులో విచారింపబడును"
+      ],
+      "english": [
+        "Karuvulu yuddhaalu bhookampaalu swaartham nindina cheelika sanghaalu",
+        "Dhanamuku lokam dhaasathvamaaye naithika viluvale nirmoolamaayo",
+        "Anyaayam visthaarinchindhi aathmeeyatha anagaari poyindhi",
+        "Prathi kriya theerpulo vichaarimpabadunu"
+      ]
+    }
+  ]
+}

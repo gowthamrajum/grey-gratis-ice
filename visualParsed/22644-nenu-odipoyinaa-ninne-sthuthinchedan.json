@@ -1,0 +1,71 @@
+{
+  "song_name": "Nenu odipoyinaa ninne sthuthinchedan",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Merlyn Salvadi"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేను ఓడిపోయినా నిన్నే స్తుతించెదన్",
+      "నేను లోయలోనున్నా నిన్నే స్తుతించెదన్",
+      "నేను నిలబడలేకున్నా నిన్నే స్తుతించెదన్",
+      "నేను గాయముతోనున్నా నిన్నే స్తుతించెదన్"
+    ],
+    "english": [
+      "Nenu odipoyinaa ninne sthuthinchedan",
+      "Nenu loyalonunnaa ninne sthuthinchedan",
+      "Nenu nilabadalekunnaa ninne sthuthinchedan",
+      "Nenu gaayamuthonunnaa ninne sthuthinchedan"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా యేసయ్యా నీకై మొరపెట్టుచు",
+        "నా భారము నీపై వేయుచు",
+        "నా జీవితం నీవు సరిచేయుచు",
+        "ప్రతి బాధను తొలగించుచు"
+      ],
+      "english": [
+        "Naa Yesayyaa neekai morapettuchu",
+        "Naa bhaaramu neepai veyuchu",
+        "Naa jeevitham neevu saricheyuchu",
+        "Prathi baadhanu tholaginchuchu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా నీరీక్షణ నీవే",
+        "నా అండయు నీవే",
+        "నా ఆశ్రయము నీవే",
+        "నా సర్వము నీవే"
+      ],
+      "english": [
+        "Naa nireekshana neeve",
+        "Naa andayu neeve",
+        "Naa aashrayamu neeve",
+        "Naa sarvamu neeve"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నేను కరువులోనున్నా నిన్నే స్తుతించెదన్",
+        "నేను వ్యాధితోనున్నా నిన్నే స్తుతించెదన్",
+        "సహాయము లేకున్న నిన్నే స్తుతించెదన్",
+        "నన్ను నువ్వు వెలివేసినా నిన్నే స్తుతించెదన్"
+      ],
+      "english": [
+        "Nenu karuvulonunnaa ninne sthuthinchedan",
+        "Nenu vyaadhithonunnaa ninne sthuthinchedan",
+        "Sahaayamu lekunna ninne sthuthinchedan",
+        "Nannu nuvvu velivesinaa ninne sthuthinchedan"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "song_name": "Jeevitha naava nadupumu Deva",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "A J Emmanuel"
+    ],
+    "రచన": [
+      "ఏ జె ఇమ్మానుయేల్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "జీవిత నావ నడుపుము దేవ",
+      "నావ యధికారివి కావా",
+      "నా నావ యధికారివి కావా"
+    ],
+    "english": [
+      "Jeevitha naava nadupumu Deva",
+      "Naava yadhikaarivi kaavaa",
+      "Naa naava yadhikaarivi kaavaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "బ్రతుకెల్ల నీ – ధ్యాసను కలిగి",
+        "పతనమనే – శత్రువు నోడించి",
+        "లతను బోలి – నీవాధారముగా",
+        "ఋతువులెల్ల – ఫలించెద",
+        "నే ఋతువులెల్ల – ఫలించెద",
+        "నీరాకడకై – నే – వేచెదను",
+        "పోరాటములన్నిటి నెదురింతును",
+        "ఆరాధించు – మనస్సును నేను",
+        "ధారాళమ్ముగ – గోరెదను",
+        "నే ధారాళమ్ముగ – గోరెదను",
+        "రాకడ గురుతులు – నెరవేరగను",
+        "లోకపు మాయలు – మితిమీరగను",
+        "చీకటి నరులను – రక్షింపుమని",
+        "యేకధారగ – వేడెదను",
+        "నే యేకధారగ – వేడెదను  ||జీవిత||  ||జీవిత||"
+      ],
+      "english": [
+        "Brathukella nee - Dhyaasanu kaligi",
+        "Pathanamane - Shathruvu nodinchi",
+        "Lathanu boli - Neevaadhaaramugaa",
+        "Ruthuvulella - Phalinchedha",
+        "Ne ruthuvulella - Phalinchedha",
+        "Neeraakadakai - Ne - Vechedhanu",
+        "Poraatamulanniti nedurinthunu",
+        "Aaraadhinchu - Manassunu nenu",
+        "Dhaaraalammuga - Goredhanu",
+        "Ne dhaaraalammuga - Goredhanu",
+        "Raakada guruthulu - Neraveraganu",
+        "Lokapu maayalu - Mithimeeraganu",
+        "Cheekati narulanu - Rakshimpumani",
+        "Ekadhaaraga - Vededhanu",
+        "Ne ekadhaaraga - Vededhanu  ||Jeevitha||  ||Jeevitha||"
+      ]
+    }
+  ]
+}

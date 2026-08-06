@@ -1,0 +1,36 @@
+{
+  "song_name": "Okkate Aasa",
+  "author": {
+    "Authored by": "Samuel Karmoji",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఒక్కటే ఆశ జీవిత అభిలాష",
+      "యేసునే రాజుగా కొలవాలని",
+      "నీ ప్రేమనే చూసా నీవే నా ద్యాస",
+      "పాడనా ఈ జీవితం నీదేనని"
+    ],
+    "english": [
+      "Okkate aasa jeevitha abhilaasha",
+      "yesune raajugaa kolavaalani",
+      "nee premane choosaa neeve naa dyaasa",
+      "paadanaa ee jeevitam needenani"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అర్హుడవు నీవని అందరికి ప్రభువు నీవని",
+        "ఆదియు నీవని అంతమే నీకు లేదని",
+        "ప్రతి నిత్యము కొనియాడాలని"
+      ],
+      "english": [
+        "arhudavu neevani andariki prabhuvu neevani",
+        "aadiyu neevani antame neeku ledani",
+        "prathi nithyamu koniyaadaalani"
+      ]
+    }
+  ]
+}

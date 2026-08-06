@@ -1,0 +1,73 @@
+{
+  "song_name": "Vachchuchunden thvaralone Raajula raajugaa Yesayyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "వచ్చుచుండెన్‌ త్వరలోనే - రాజుల రాజుగా యేసయ్యా"
+    ],
+    "english": [
+      "Vachchuchunden thvaralone - Raajula raajugaa Yesayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తుఫాను వెంబడి తుఫానులు - ఎన్నడు ఎరుగని సునామియు (2)",
+        "గుర్తించితివా ఇకనైనా యేసుని రాకడ సూచనలు"
+      ],
+      "english": [
+        "Thuphaanu vembadi thuphaanulu - Ennadu erugani sunaamiyu (2)",
+        "Gurthinchithivaa ikanainaa Yesuni raakada soochanalu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వరదల వెంబడి వరదలతో - అనేక ప్రాంతపు కరువులను (2)",
+        "గుర్తించితివా ఇకనైనా యేసుని రాకడ సూచనలు"
+      ],
+      "english": [
+        "Varadhala vembadi varadhalatho - Aneka praanthapu karuvulanu (2)",
+        "Gurthinchithivaa ikanainaa Yesuni raakada soochanalu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఎన్నడు లేని రోగములు - ధారుణమైన మరణములు (2)",
+        "గుర్తించితివా ఇకనైనా యేసుని రాకడ సూచనలు"
+      ],
+      "english": [
+        "Ennadu leni rogamulu - Dhaarunamaina maranamulu (2)",
+        "Gurthinchithivaa ikanainaa Yesuni raakada soochanalu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "భయంకరమైన బాంబులతో - యుద్ధము వెంబడి యుద్ధములు (2)",
+        "గుర్తించితివా ఇకనైనా యేసుని రాకడ సూచనలు"
+      ],
+      "english": [
+        "Bhayankaramaina baambulatho - Yuddhamu vembadi yuddhamulu (2)",
+        "Gurthinchithivaa ikanainaa Yesuni raakada soochanalu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "అతి తరచుగ భూకంపములు - ధారుణమైన రోధనలు (2)",
+        "గుర్తించితివా ఇకనైనా యేసుని రాకడ సూచనలు"
+      ],
+      "english": [
+        "Athi tharachuga bhookampamulu - Dhaarunamaina rodhanalu (2)",
+        "Gurthinchithivaa ikanainaa Yesuni raakada soochanalu"
+      ]
+    }
+  ]
+}

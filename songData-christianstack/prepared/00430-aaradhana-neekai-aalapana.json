@@ -1,0 +1,34 @@
+{
+  "song_name": "Aaradhana Neekai Aalapana",
+  "author": {
+    "Authored by": "Tony Bandela",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దినములు గడుచుచుండగా నీ మేలుతో తృప్తిపరచితివి",
+      "జనములు చూచుచుండగా నీ వాగ్దానము నెరవేర్చితివి",
+      "ఎల్షద్దాయ్ దేవుడా స్వరమెత్తి నిన్ను పాడెదన్",
+      "ఎల్షద్దాయ్ దేవుడా స్వరమెత్తి నిన్ను పొగడెదను"
+    ],
+    "english": [
+      "Dinamulu gaduchuchundagaa nee melutho thrupthi parachithivi",
+      "janamulu choochuchundagaa nee vaagdhaanamu neraverchithivi",
+      "elsheddai devudaa swaramethi ninnu paadedhan",
+      "elsheddai devudaa swaramethi ninnu pogadedhan"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆరాధనా నీకై ఆలాపన",
+        "స్తుతి అర్పణ నీకై నీరీక్షణ"
+      ],
+      "english": [
+        "Aaraadhanaa neekai aalaapana",
+        "sthuthi arpana neekai nireekshana"
+      ]
+    }
+  ]
+}

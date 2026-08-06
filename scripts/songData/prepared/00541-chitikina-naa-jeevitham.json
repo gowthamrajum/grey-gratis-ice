@@ -1,0 +1,68 @@
+{
+  "song_name": "Chitikina Naa Jeevitham",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "చితికిన నా జీవితము చినిగిన ఓ కాగితము",
+      "నా గుండె పగిలేనయ్యా నా మనసు విరిగేనయ్య",
+      "నా ఆశ నీవే కావా నా మార్గములు నీవేగా",
+      "నీ చేతితోనే నన్ను నడిపించుమా నా యేసు"
+    ],
+    "english": [
+      "Chithikina Naa Jeevithamu Chinigina O Kaagithamu",
+      "Naa Gunde Pagilenayyaa Naa Manasu Virigenayya",
+      "Naa Aasha Neeve Kaavaa Naa Maargamulu Neevegaa",
+      "Nee Chethithone Nannu Nadipinchumaa Naa Yesu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అలనాడు దానియేలు బబులోను దేశములో",
+        "నీ పక్షముగా నిలబడినాడు",
+        "నా ఆశ అదియే దేవా నా మార్గము అదియే",
+        "నీ మాటతోనే నన్ను బ్రతికించుమా నా యేసు"
+      ],
+      "english": [
+        "Alanaadu Daaniyelu Babulonu Deshamulo",
+        "Nee Pakshamugaa Nilabadinaadu",
+        "Naa Aasha Adhiye Devaa Naa Maargamu Adhiye",
+        "Nee Maatathone Nannu Brathikinchumaa Naa Yesu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అలనాడు యోబును శ్రమలన్నిటి మధ్యన",
+        "నడిపించినావా దేవా",
+        "నా ఆశ అదియే దేవా నా మార్గము అదియే",
+        "విశ్వాసముతో నన్ను చిగురింపచేయుము దేవా"
+      ],
+      "english": [
+        "Alanaadu Yobunu Shramalanniti Madhyana",
+        "Nadipinchinaavaa Devaa",
+        "Naa Aasha Adhiye Devaa Naa Maargamu Adhiye",
+        "Vishwaasamutho Nannu Chigurimpacheyumu Devaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అలనాడు పౌలును నీ రెక్కల నీడలో",
+        "కాపాడినావా దేవా",
+        "నా ఆశ అదియే దేవా",
+        "పరిశుద్దతతో నన్ను కడవరకు నడిపించు"
+      ],
+      "english": [
+        "Alanaadu Paulunu Nee Rekkala Needalo",
+        "Kaapaadinaavaa Devaa",
+        "Naa Aasha Adhiye Devaa",
+        "Parishuddhathatho Nannu Kadavaraku Nadipinchu"
+      ]
+    }
+  ]
+}

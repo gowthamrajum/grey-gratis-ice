@@ -1,0 +1,35 @@
+{
+  "song_name": "Adavi Pushpama Santhoshinchuma Kasturi Pushpama Ullasinchuma",
+  "author": {
+    "Authored by": "Anne Deborah K Mohanty",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "అడవి పుష్పమా సంతోషించుమా – కస్తురీ పుష్పమా ఉల్లసించుమా ఎండిన భూమి అరణ్యమా – సంగీతములు పాడుమా (2) || అడవి పుష్పమా ||"
+    ],
+    "english": [
+      "adavi pushpama santhoshinchuma – kasturi pushpama ullasinchuma endina bhoomi aranyama – sangeetamulu paaduma (2) || adavi pushpamaa ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లెబనోను సౌందర్యమూ – నీకు కలుగునుగా షారోను పరిమళమూ – నీకు ఉండునుగా కర్మెలు సొగసు దేవుని తేజస్సు నీకు ఇచ్చునుగా (2) || అడవి పుష్పమా ||"
+      ],
+      "english": [
+        "lebanonu saundaryamu – neeku kalugunuga sharonu parimalamu – neeku undunuga karmelu sogasu devuni tejassu neeku ichunuga (2) || adavi pushpamaa ||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సడలిన చేతులను – బలపరచిన దేవుడు తొట్రిల్లు మోకాళ్ళను – ద్రుడపరచిన నాథుడు భయము నొందకు నీ దేవుడు శక్తివంతుడు (2) || అడవి పుష్పమా ||"
+      ],
+      "english": [
+        "sadalina chetulanu – bhalaparachina devudu thotrillu mokaallanu drudaparachina naathudu bhayamu nondaku nee devudu shakthivanthudu (2) || adavi pushpamaa ||"
+      ]
+    }
+  ]
+}

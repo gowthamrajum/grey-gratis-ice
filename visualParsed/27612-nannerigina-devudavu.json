@@ -1,0 +1,63 @@
+{
+  "song_name": "Nannerigina Devudavu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Dr Paul Dhinakaran",
+      "Evangeline Dhinakara",
+      "Daniel Davidson"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరిశోధించి నన్ను ఎరిగిన దేవుడవు నా తలంపులన్నియు గ్రహింతువు…।।।",
+      "నే నడిచిన పరుండిన తోడుంటివీ",
+      "నా మార్గములన్ ఎరిగియుంటివీ ।2॥"
+    ],
+    "english": [
+      "Parishodhinchi nannu erigina Devudavu naa thalampulanniyu grahinthuvu…।।।",
+      "Ne nadichina parundina thoduntivee",
+      "Naa maargamulan erigiyuntivee ।2॥"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ ఆత్మకు మరుగై ఎటుపోదునో",
+        "నీ సన్నిధిని వీడి ఎటు పారిపోదునో ।2॥ —నే నడచినా…"
+      ],
+      "english": [
+        "Nee aathmaku marugai etupodhuno",
+        "Nee sannidhini veedi etu paaripodhuno ।2॥ —Ne nadachinaa…"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా తల్లి గర్భములో నిర్మించితివి",
+        "ఆశ్చర్య రీతి లో నను చేసితివీ ।2॥",
+        "— నే నడచినా"
+      ],
+      "english": [
+        "Naa thalli garbhamulo nirminchithivi",
+        "Aashcharya reethi lo nanu chesithivee ।2॥",
+        "— Ne nadachinaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా ఆలోచనంతయూ తెలుసు కొందువు",
+        "నిత్య మార్గమునా నడుపుదువూ ।2॥",
+        "— నే నడిచినా"
+      ],
+      "english": [
+        "Naa aalochananthayoo thelusu konduvu",
+        "Nithya maargamunaa nadupudhuvoo ।2॥",
+        "— Ne nadichinaa"
+      ]
+    }
+  ]
+}

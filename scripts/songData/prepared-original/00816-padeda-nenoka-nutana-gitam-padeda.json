@@ -1,0 +1,35 @@
+{
+  "song_name": "Padeda Nenoka Nutana Gitam Padeda",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పాడెద నేనొక నూతన గీతం పాడెద మనసారా యేసయ్య నీ నామము గాక వేరొక నామము లేదాయె"
+    ],
+    "english": [
+      "Padeda nenoka nutana gitam padeda manasara Yesayya ni namamu gaka veroka namamu ledaye"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కలుషితమైన నదియై నేను కడలియ్యేనదిలో కలసిపోతినే కలువరి దారిలో కనబడదే ఇక పాపాలరాశి"
+      ],
+      "english": [
+        "Kalushitamaina nadiyai nenu kadaliyyenadilo Kalasipotine kaluvari darilo kanabadade ika papalarasi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పోరు తరగని సిగసిగలెనియె అణచి కృపాతిశయము పాదయైన నా హృదయంలోనే పొంగెనే అభిషేక తైలం"
+      ],
+      "english": [
+        "Poru taragani sigasigaleniye anachi krupatisayamu Padayaina na hrudayamlone pomgene abisheka tailam"
+      ]
+    }
+  ]
+}

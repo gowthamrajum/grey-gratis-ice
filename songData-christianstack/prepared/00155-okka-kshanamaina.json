@@ -1,0 +1,78 @@
+{
+  "song_name": "Okka Kshanamaina",
+  "author": {
+    "Authored by": "Dr P Satish Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నువ్వులేని నన్ను ఊహించలేను",
+      "నిన్ను వీడి నేను ఉండలేనే..",
+      "నాలోనే నిన్ను నే దాచుకున్నాలే",
+      "నాకంటూ ఉన్నది నీవేలే.."
+    ],
+    "english": [
+      "Nuvvuleni nannu oohinchalenu",
+      "Ninnu veedi nenu undalelene",
+      "Naalone ninnu ne daachukunnale",
+      "Naakantu unnadi neevele"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీలోనే నన్ను చూసి",
+        "నాలోనే నిన్ను చూపే",
+        "నీలాంటి మనసు నాకు ఇచ్చావే..",
+        "ఓ ఓ ఓ ఓ..",
+        "యేసయ్యా నీకే మహిమా.. ఘనత.."
+      ],
+      "english": [
+        "Neelone nannu choosi",
+        "Naalone ninnu choope",
+        "Neelanti manasu naaku ichchaave",
+        "O oo oo oo…",
+        "Yesayya neeke mahimaa… ghanatha…"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నువ్వులేని నా జీవితాన్ని ఊహించలేనయ్యా",
+        "నువ్వులేని ఒక క్షణమైనా నేనుండలేనయ్యా",
+        "నీకోసమే నాజీవితం అంకితం యేసయ్యా",
+        "నీ ప్రేమనే జీవితాంతము చూపెదనేనయ్యా",
+        "నీవెంట నే నిత్యము నేను నడిచెదనేసయ్యా",
+        "నాకంటు ఈ లోకాన ఉన్నది నీవయ్యా ఆ ఆ ఆ.."
+      ],
+      "english": [
+        "Nuvvuleni naa jeevithaani oohinchalenayya",
+        "Nuvvuleni oka kshanamainaa nenundalenayya",
+        "Neekosame naa jeevitham ankitam Yesayya",
+        "Nee premanene jeevithaantamu choopedanennayya",
+        "Neeventa ne nithyamu nenu nadichedanesayya",
+        "Naakantu ee lokaana unnadi neevayya… aa aa aa…"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నాయెడల నీ నమ్మకాన్ని వొమ్ముచేయ్యనయ్యా",
+        "నీ చిత్తమే నాకు క్షేమము ఇలలో యేసయ్యా",
+        "నీరాకకై నా ప్రాణము వేచి వున్నదయా",
+        "నీ రాజ్యమే నా గమ్యము నిరతము యేసయ్యా",
+        "నా ఊహలకందదు నీప్రేమ యెన్నడు యేసయ్యా",
+        "నా వర్ణనకందని నీత్యాగం చేసావేసయ్యా"
+      ],
+      "english": [
+        "Naayedala nee nammakaani vommucheyyanayya",
+        "Nee chittame naaku ksheemamu ilalo Yesayya",
+        "Neeraakakai naa praanamu vechi unnadayya",
+        "Nee raajyame naa gamyamu nirathamu Yesayya",
+        "Naa oohalakandhadu nee prema ennadu Yesayya",
+        "Naa varnanakandhani neethyaagam chesaavesayya"
+      ]
+    }
+  ]
+}

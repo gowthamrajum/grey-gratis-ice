@@ -1,0 +1,97 @@
+{
+  "song_name": "Prabhu Yesunake jayamu siluvashakthiche jayamu jai jai jai jai",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభు యేసునకే జయము",
+      "సిలువశక్తిచే జయము - జై జై జై జై"
+    ],
+    "english": [
+      "Prabhu Yesunake jayamu",
+      "Siluvashakthiche jayamu - Jai jai jai jai"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసుని రక్తము జయమునిచ్చున్",
+        "సైతాను సేనలపై జయము"
+      ],
+      "english": [
+        "Yesuni rakthamu jayamunichchun",
+        "Saithaanu senalapai jayamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సిలువే మనకు జయమిచ్చున్",
+        "పాత స్వభావముపై జయము"
+      ],
+      "english": [
+        "Siluve manaku jayamichchun",
+        "Paata swabhaavamupai jayamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పునరుత్థానుడు జయమిచ్చున్",
+        "పాపమరణములపై జయము"
+      ],
+      "english": [
+        "Punarutthaanudu jayamichchun",
+        "Paapamaranamulapai jayamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఇహలోకముపై జయమిచ్చున్",
+        "తన జీవముతో జయమిచ్చున్"
+      ],
+      "english": [
+        "Ihalokamupai jayamichchun",
+        "Thana jeevamutho jayamichchun"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఆత్మద్వారా జయమొసగున్",
+        "శరీర యిచ్ఛలపై జయము"
+      ],
+      "english": [
+        "Aathmadhvaaraa jayamosagun",
+        "Shareera ichchhalapai jayamu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "తనప్రేమ మన కొసగు జయం",
+        "దుఃఖ సంకటములపై జయము"
+      ],
+      "english": [
+        "Thanaprema mana kosagu jayam",
+        "Duhkha sankatamulapai jayamu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "రాజుల రాజు జయమిచ్చున్",
+        "సర్వ శత్రులపై జయమిచ్చున్"
+      ],
+      "english": [
+        "Raajula raaju jayamichchun",
+        "Sarva shathrulapai jayamichchun"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "song_name": "Daapu jeruchu baadumu jeevapu maatalan",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "ఫిలిఫ్ బ్లిస్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "దాపుఁజేరుచుఁ బాడుము",
+      "జీవపు మాటలన్",
+      "మాధుర్యంబగు గానము",
+      "మరలఁ బాడుము",
+      "జీవమైన పాటన్",
+      "త్రోవఁజూపు మాటన్",
+      "|| సుందర మానందముగన్",
+      "సొంపుగఁ బాడుము ||"
+    ],
+    "english": [
+      "Daapu jeruchu baadumu",
+      "jeevapu maatalan",
+      "maadhuryambagu gaanamu",
+      "marala baadumu",
+      "jeevamaina paatan",
+      "throva joopu maatan",
+      "|| Sundara maanandhamugan",
+      "sompuga baadumu ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిత్యజీవము నిచ్చెడు",
+        "నిపుణుఁ డేసుఁడు",
+        "సత్యప్రేమ నొసంగెడు",
+        "సదయుఁ డేసుఁడు",
+        "మితిలేని ప్రేమ",
+        "మింటికాకర్షించున్."
+      ],
+      "english": [
+        "Nithyajeevamu nichchedu",
+        "nipunu Desudu",
+        "sathyaprema nosangedu",
+        "sadhayu Desudu",
+        "mithileni prema",
+        "mintikaakarshinchun."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రచురపర్చుఁ డెల్లడన్",
+        "ప్రభుని రక్షణన్",
+        "దాచఁగూడని సత్యమున్",
+        "పూర్ణ క్షమాపణన్",
+        "రక్షకుని చెంత",
+        "ఆశతోడ రండు"
+      ],
+      "english": [
+        "Prachuraparchu delladan",
+        "Prabhuni rakshanan",
+        "dhaacha goodani sathyamun",
+        "poorna kshamaapanan",
+        "rakshakuni chentha",
+        "aashathoda randu"
+      ]
+    }
+  ]
+}

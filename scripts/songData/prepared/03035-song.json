@@ -1,0 +1,41 @@
+{
+  "song_name": "Naa Yaathma Neeloa Maelkoni Dhayaaluni",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఎస్ మెడ్లే"
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా యాత్మ నీలో మేల్కొని దయాళుని కీర్తింపుము",
+      "ప్రియంబుతో నీరక్షకున్ ప్రపూర్ణ ప్రేమబాడుము."
+    ],
+    "english": [
+      "Naa Yaathma Neeloa Maelkoni Dhayaaluni Keerthimpumu",
+      "Priyambuthoa Neerakshakun Prapoorna Praemabaadumu."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నే పాపమందుఁ గూలగన్ కాపాడి నన్ను లేపెనే",
+        "నా పాలి పుణ్యరక్షకున్ ప్రపూర్ణ ప్రేమఁ బాడుము."
+      ],
+      "english": [
+        "Nae Paapamandhu Goolagan Kaapaadi Nannu Laepenae",
+        "Naa Paali Punyarakshakun Prapoorna Praema Baadumu."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఏ పాటి శత్రువైనను ఏపాట్లు పెట్టలే రిఁకన్",
+        "నాపుణ్య మార్గదర్శకున్ ప్రపూర్ణ ప్రేమఁబాడుము."
+      ],
+      "english": [
+        "Ae Paati Shathruvainanu Aepaatlu Pettalae Rikan",
+        "Naapunya Maargadharshakun Prapoorna Praemabaadumu."
+      ]
+    }
+  ]
+}

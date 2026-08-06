@@ -1,0 +1,73 @@
+{
+  "song_name": "Maaru manassu pondumu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మారు మనస్సు పొందుము - ప్రభుని రాజ్యము సమీపించెను"
+    ],
+    "english": [
+      "Maaru manassu pondumu - Prabhuni raajyamu sameepinchenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యెహోవా దేవుని రాజ్యము మహోన్నతమై వ్యాపించెను",
+        "తన రాజ్యప్రభావమున్ తన ప్రజలు - తన శౌర్యమునెంతో చాటెదరు"
+      ],
+      "english": [
+        "Yehovaa devuni raajyamu mahonnathamai vyaapinchenu",
+        "Thana raajyaprabhaavamun thana prajalu - Thana shauryamunentho chaatedharu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆయన రాజ్యము శాశ్వతము ఆత్మలో దీనులగువారు",
+        "ఆ రాజ్య వాసులగుదురు - ఆయనకే మా వందన స్తుతులు"
+      ],
+      "english": [
+        "Aayana raajyamu shaashwathamu aathmalo dheenulaguvaaru",
+        "Aa raajya vaasulagudhuru - Aayanake maa vandhana sthuthulu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నూతన జన్మానుభవము ద్వారా చూతురు ఆ రాజ్యంబును",
+        "ఆత్మ జన్మమును గలవారై - ఆ రాజ్యములోన చేరెదరు"
+      ],
+      "english": [
+        "Noothana janmaanubhavamu dwaaraa choothuru aa raajyambunu",
+        "Aathma janmamunu galavaarai - Aa raajyamulona cheredharu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "రక్తమాంసంబులు దానిని స్వతంత్రించు కొనజాలవు",
+        "స్వాస్థ్యం పాపులకసలే లేదు - దుష్టులకందులో భాగములేదు"
+      ],
+      "english": [
+        "Rakthamaamsambulu dhaanini swathanthrinchu konajaalavu",
+        "Swaasthyam paapulakasale ledu - Dhushtulakandhulo bhaagamuledhu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "అంధకార రాజ్యమునుండి పొందుగా తన రాజ్యంబునకు",
+        "ప్రభుదెచ్చె ప్రియమారగ మనల - ప్రశంస స్తుతి చెల్లించెదము"
+      ],
+      "english": [
+        "Andhakaara raajyamunundi pondhugaa thana raajyambunaku",
+        "Prabhudheche priyamaaraga manala - Prashamsa sthuthi chellinchedamu"
+      ]
+    }
+  ]
+}

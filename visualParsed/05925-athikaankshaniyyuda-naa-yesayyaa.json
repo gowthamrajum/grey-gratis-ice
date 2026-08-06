@@ -1,0 +1,75 @@
+{
+  "song_name": "Athikaankshaneeyudaa naa Yesayyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "అతికాంక్షణీయుడా నా యేసయ్యా",
+      "నీకే వందనము నా యేసయ్యానీకే వందనము",
+      "నీవే పూజ్యనీయుడవు స్తోత్రార్పడవు",
+      "నీవే కీర్తనీయుడవు పరిపూర్ణుడవు",
+      "నీకే స్తోత్రమయా నా యేసయ్యానీకే స్తోత్రమయా",
+      "ఎల్లవేళలా నిన్నే ఆరాధింతును ఎల్లవేళలా నిన్నే సుతించెదను",
+      "ఎల్లవేళలా నిన్నే ఆరాధింతును ఎల్లవేళలా నిన్నే సుతించెదను"
+    ],
+    "english": [
+      "Athikaankshaneeyudaa naa Yesayyaa",
+      "Neeke vandanamu naa Yesayyaa neeke vandanamu",
+      "Neeve poojyaneeyudavu sthothraarpadavu",
+      "Neeve keerthaneeyudavu paripoornudavu",
+      "Neeke sthothramayaa naa Yesayyaa neeke sthothramayaa",
+      "Ellavelalaa ninne aaraadhinthunu ellavelalaa ninne suthinchedhanu",
+      "Ellavelalaa ninne aaraadhinthunu ellavelalaa ninne suthinchedhanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ రక్తధారలతో వెలయిచ్చికొన్నావె",
+        "నీ శ్రేష్ట ప్రేమతో నన్ను పిలుచుకున్నావే 2",
+        "నీ బలియాగమే నన్ను విమోచించెనే",
+        "సిలువ త్యాగమే నాకు విలువనిచ్చెనే 2"
+      ],
+      "english": [
+        "Nee rakthadhaaralatho vela ichchikonnaave",
+        "Nee shreshta prematho nannu piluchukunnaave 2",
+        "Nee baliyaagame nannu vimochinchene",
+        "Siluva thyaagame naaku viluvanichchene 2"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆదరణ లేని నాకు అండగా నిలిచావే",
+        "నీ పరిపూర్ణతలో నన్ను మార్చుకున్నావే 2",
+        "నీ రాజ్యనియమాలలో నన్ను నిలువనిచ్చావే",
+        "నీ సంకల్పమే నెరవేర్చుకున్నావే 2"
+      ],
+      "english": [
+        "Aadarana leni naaku andagaa nilichaave",
+        "Nee paripoornathalo nannu maarchukunnaave 2",
+        "Nee raajyaniyamaalalo nannu niluvanichchaave",
+        "Nee sankalpame neraverchukunnaave 2"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిరీక్షణ లేని నాకు నిత్యజీవమిచ్చావే",
+        "నిత్యత్వములోనికి నన్ను చేర్చుకున్నావే 2",
+        "నిత్య నిబంధన నాతో చేసావే 2",
+        "నీతి సూర్యునితో నన్ను స్థిరపరచావే"
+      ],
+      "english": [
+        "Nireekshana leni naaku nithyajeevamichchaave",
+        "Nithyathvamuloniki nannu cherchukunnaave 2",
+        "Nithya nibandhana naatho chesaave 2",
+        "Neethi sooryunitho nannu sthiraparachaave"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "song_name": "Yesunadha Deva Vamdanalu Raja Vamdanalu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసునాధా దేవా వందనాలు రాజా వందనాలు",
+      "రాజాధిరాజా నీకే వందనాలు",
+      "రవికోటి తేజ నీకే వందనాలు"
+    ],
+    "english": [
+      "Yesunadha Deva Vamdanalu Raja Vamdanalu",
+      "Rajadhiraja Nike Vamdanalu",
+      "Ravikoti Teja Nike Vamdanalu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపిని కరుణించి ప్రాణదానమిచ్ఛావు",
+        "పరమ జీవమిచ్చి పరలోకరాజ్యమిచ్చి",
+        "పండ్రెండు గుమ్మముల పట్టణమే నాకు కట్టబెట్టినావా"
+      ],
+      "english": [
+        "Papini Karunimchi Pranadanamichchavu",
+        "Parama Jivamichchi Paralokarajyamichchi",
+        "Pamdremdu Gummamula Pattaname Naku Kattabettinava"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీచుని ప్రేమించి నీ ప్రాణమిచ్చావు",
+        "నీ నీతి నాకిచ్ఛి నిత్య రాజ్యమిచ్చావు",
+        "నీ నీతి నీ రాజ్యం నిండైన నా భాగ్యమే"
+      ],
+      "english": [
+        "Nichuni Premimchi Ni Pranamichchavu",
+        "Ni Niti Nakichchi Nitya Rajyamichchavu",
+        "Ni Niti Ni Rajyam Nimdaina Na Bagyame"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కన్నుమిన్ను కానకుండ నిన్ను వీడిపోయాను",
+        "చిన్నబుచ్చుకోకుండ నన్ను సమకూర్చావు",
+        "నీ మనసే వెన్నయ్యా నాకన్న తండ్రి నా యేసయ్యా"
+      ],
+      "english": [
+        "Kannuminnu Kanakumda Ninnu Vidipoyanu",
+        "Chinnabuchchukokumda Nannu Samakurchavu",
+        "Ni Manase Vennayya Nakanna Tamdri Na Yesayya"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "song_name": "Sthuthiyinchedham Keerthinchedam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తుతియించెదం కీర్తించెదం స్తుతి పాడెదం కొనియాడెదం",
+      "ప్రభు యేసునే స్తుతించెదం పరిశుద్ధాత్మనే కీర్తించెదం",
+      "రారాజుకే స్తుతి పాడెదం త్రీయేక దేవుని కొనియాడెదం"
+    ],
+    "english": [
+      "Sthuthiyinchedham keerthinchedam sthuthi paadedam koniyaadedam",
+      "Prabhu Yesune sthuthinchedham parishuddhaathmane keerthinchedam",
+      "Raaraajuke sthuthi paadedam threeyeka Devuni koniyaadedam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మనలను ఎంతో ప్రేమించిన పరమ తండ్రిని స్తుతియించెదం",
+        "మనకై ధరణిలో ఉదయించిన క్రీస్తేసునాధుని కీర్తించెదం",
+        "సత్యములోనికి నడిపించిన పరిశుద్ధాత్మను కొనియాడెదం"
+      ],
+      "english": [
+        "Manalanu entho preminchina parama thandrini sthuthiyinchedham",
+        "Manakai dharanilo udhayinchina Kreesthesunaadhuni keerthinchedam",
+        "Sathyamuloniki nadipinchina parishuddhaathmanu koniyaadedam"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మన పాపములను మన్నించిన తండ్రి దేవుని స్తుతియించెదం",
+        "మన దోషములకై మరణించిన ప్రియ కుమారుని కీర్తించెదం",
+        "మనకై విజ్ఞాపణ చేయుచున్న ఆత్మదేవుని కొనియాడెదం"
+      ],
+      "english": [
+        "Mana paapamulanu manninchina thandri Devuni sthuthiyinchedham",
+        "Mana dhoshamulakai maraninchina priya kumaaruni keerthinchedam",
+        "Manakai vijnaapana cheyuchunna Aathmadhevuni koniyaadedam"
+      ]
+    }
+  ]
+}

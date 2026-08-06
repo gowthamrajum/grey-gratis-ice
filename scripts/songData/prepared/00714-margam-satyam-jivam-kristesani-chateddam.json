@@ -1,0 +1,41 @@
+{
+  "song_name": "Margam Satyam Jivam Kristesani Chateddam",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మార్గం సత్యం జీవం క్రీస్తేసని చాటేద్దాం",
+      "చేయి చేయి కలిపి ప్రభు రాజ్యం కట్టేద్దాం (2)"
+    ],
+    "english": [
+      "Margam Satyam Jivam Kristesani Chateddam",
+      "Cheyi Cheyi Kalipi Prabu Rajyam Katteddam (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సృష్ఠికి కారకుడు జనులందరికి రక్షకుడు శాంతి స్ధాపకుడు మహా దేవుడు యేసుతడ",
+        "పదరా ఈ వార్తను చాటుతు దేశాదేశాలకు ఎదురే లేదింక మనకు ఆత్మ ఉన్నందుకు"
+      ],
+      "english": [
+        "Srushthiki Karakudu Janulamdariki Rakshakudu Samti Sdhapakudu Maha Devudu Yesutada",
+        "Padara I Vartanu Chatutu Desadesalaku Edure Ledimka Manaku Atma Unnamduku"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రాజుల రాజుతడు ప్రతి ప్రభువుకు ప్రభువతడు రానైయున్నాడు కొదమ సింహమై ఓనాడు",
+        "పదరా ఈ వార్తను చాటుతు దేశాదేశాలకు ఎదురే లేదింక మనకు ఆత్మ ఉన్నందుకు"
+      ],
+      "english": [
+        "Rajula Rajutadu Prati Prabuvuku Prabuvatadu Ranaiyunnadu Kodama Simhamai Onadu",
+        "Padara I Vartanu Chatutu Desadesalaku Edure Ledimka Manaku Atma Unnamduku"
+      ]
+    }
+  ]
+}

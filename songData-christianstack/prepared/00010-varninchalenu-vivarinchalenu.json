@@ -1,0 +1,64 @@
+{
+  "song_name": "Varninchalenu..Vivarinchalenu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "వర్ణించలేను వివరించలేను యేసయ్య నీవు నాకు చేసిన మేలు",
+      "యేసయ్యా నీవు నాకు చేసిన మేలు"
+    ],
+    "english": [
+      "Varninchalenu vivarinchalenu Yesayya neevu naaku chesina melu",
+      "Yesayya neevu naaku chesina melu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపినైన నా కొరకు ప్రాణమిచ్చినావు",
+        "పాడైపోయిన నన్ను బాగు చేసినావు",
+        "ఏమని వర్ణింతును రుణం ఎలా తీర్చును",
+        "యేసయ్యా నీవు నాకు చేసిన మేలు"
+      ],
+      "english": [
+        "Paapinaina naa koruku praanamichchinaavu",
+        "Paadaipoyina nannu baagu chesinaavu",
+        "Emani varninthunu runam ela teerchunu",
+        "Yesayya neevu naaku chesina melu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అంధకారమైన నాకు వెలుగునిచ్చినావు",
+        "ఆఖరి బొట్టు వరకు రక్తమిచ్చినావు",
+        "ఏమని వర్ణింతును రుణం ఎలా తీర్చును",
+        "యేసయ్యా నీవు నాకు చేసిన మేలు"
+      ],
+      "english": [
+        "Andhakaaramaina naaku velugunichchinaavu",
+        "Aakhari bottu varaku rakthamichchinaavu",
+        "Emani varninthunu runam ela teerchunu",
+        "Yesayya neevu naaku chesina melu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తోడు లేక నీడ లేక తిరుగుచున్న నన్ను",
+        "ఆదరించినావు ఓదార్చినావు",
+        "ఏమని వర్ణింతును రుణం ఎలా తీర్చును",
+        "యేసయ్యా నీవు నాకు చేసిన మేలు"
+      ],
+      "english": [
+        "Thodu leka needa leka thiruguchunna nannu",
+        "Aadarinchaavu odarchinaavu",
+        "Emani varninthunu runam ela teerchunu",
+        "Yesayya neevu naaku chesina melu"
+      ]
+    }
+  ]
+}

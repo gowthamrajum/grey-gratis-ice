@@ -1,0 +1,60 @@
+{
+  "song_name": "O oho kraisthavudaa ohoho vishwaasi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓఓహో క్రైస్తవుడా ఓహోహో విశ్వాసి",
+      "నిరాశ మాటలు పలుకొద్దురా నిరీక్షణతో కొనసాగరా",
+      "దేవుని వాగ్దనం నమ్ముమురా",
+      "జీవపు మాటలు పలుకుమురా"
+    ],
+    "english": [
+      "O oho kraisthavudaa ohoho vishwaasi",
+      "Niraasha maatalu palukoddhuraa nireekshanatho konasaagaraa",
+      "Devuni vaagdhaanam nammumuraa",
+      "Jeevapu maatalu palukumuraa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిరాశలో ఉన్న అబ్రాముకు",
+        "నక్షత్రములు చూపెను దేవుడు (2)",
+        "నిరాశను పారద్రోలెనురా నిరీక్షణతో కొనసాగెరా",
+        "వాగ్దానములను నమ్మెనురా",
+        "వాగ్దాన పుత్రుని పొందెనురా (2)"
+      ],
+      "english": [
+        "Niraashalo unna Abraamuku",
+        "Nakshathramulu choopenu Devudu (2)",
+        "Niraashanu paaradhrolenuraa nireekshanatho konasaageraa",
+        "Vaagdhaanamulanu nammenuraa",
+        "Vaagdhaana puthruni pondhenuraa (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిరాశలో ఉన్న పేతురు",
+        "తన దోనె యేసుకు ఇచ్చెను (2)",
+        "ఆయన మాటలు నమ్మెనురా",
+        "చేపలతో తనదోనెనిండెనురా",
+        "యేసయ్యను వెంబడించెనురా",
+        "మనుష్యుల జాలరి ఆయెనురా (2)"
+      ],
+      "english": [
+        "Niraashalo unna Pethuru",
+        "Thana done Yesuku ichchenu (2)",
+        "Aayana maatalu nammenuraa",
+        "Chepalatho thanadonenindenuraa",
+        "Yesayyanu vembadinchenuraa",
+        "Manushyula jaalari aayenuraa (2)"
+      ]
+    }
+  ]
+}

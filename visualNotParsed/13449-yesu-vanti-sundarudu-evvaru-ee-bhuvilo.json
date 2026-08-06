@@ -1,0 +1,54 @@
+{
+  "song_name": "Yesu vanti sundarudu evvaru ee bhuvilo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు వంటి సుందరుడు ఎవ్వరు ఈ భువిలో",
+      "ఎన్నడు నే చూడలేదు ఇక చూడబోనుగా",
+      "పరిపూర్ణ సుందరుడు భువిలోన జీవితమునకు",
+      "నీవే చాలు వేరేవ్వరు నాదు ప్రియ యేసయ్య",
+      "మట్టికోసం మాణిక్యమును విడిచిపెట్టెను",
+      "పాడు మట్టికోసం మాణిక్యమును విడిచిపెట్టెను",
+      "పరిపూర్ణ సుందరుడు రక్షించుకొంటివి",
+      "నన్ను సంపూర్ణముగా నన్ను నీకు అర్పించెదను ||యేసు||"
+    ],
+    "english": [
+      "Yesu vanti sundarudu evvaru ee bhuvilo",
+      "Ennadu ne choodaledhu ika choodabonugaa",
+      "Paripoorna sundarudu bhuvilona jeevithamunaku",
+      "Neeve chaalu verevvaru naadu priya Yesayya",
+      "Mattikosam maanikyamunu vidichipettenu",
+      "Paadu mattikosam maanikyamunu vidichipettenu",
+      "Paripoorna sundarudu rakshinchukontivi",
+      "Nannu sampoornamugaa nannu neeku arpinchedanu ||Yesu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యెరుషలేము కుమార్తెలు నన్ను చుట్టుముట్టిరి",
+        "నీపై నున్న ప్రేమను తొలగించబూనిరి  ||యేసు||"
+      ],
+      "english": [
+        "Erushalemu kumaarthelu nannu chuttumuttiri",
+        "Neepai nunna premanu tholaginchabooniri ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దినదినం నీపై నాప్రేమ పొంగుచున్నది",
+        "యేసయ్యా వేగమే వచ్చి నన్ను చేరుము  ||యేసు||"
+      ],
+      "english": [
+        "Dinadinam neepai naaprema ponguchunnadhi",
+        "Yesayyaa vegame vachchi nannu cherumu ||Yesu||"
+      ]
+    }
+  ]
+}

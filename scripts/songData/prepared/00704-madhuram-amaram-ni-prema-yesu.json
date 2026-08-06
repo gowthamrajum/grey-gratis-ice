@@ -1,0 +1,53 @@
+{
+  "song_name": "Madhuram Amaram Ni Prema Yesu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మధురం అమరం నీ ప్రేమ యేసు అమృత ధార నీ కరుణ",
+      "అగాధ సముద్రము ఆర్పజాలనిది నదీ ప్రవాహము ముంచి వేయనిది",
+      "రక్షణ మార్గం నీ దివ్య వాక్యం పాపికి విడుదల నీ సిలువ"
+    ],
+    "english": [
+      "Madhuram Amaram Ni Prema Yesu Amruta Dhara Ni Karuna",
+      "Agadha Samudramu Arpajalanidi Nadi Pravahamu Mumchi Veyanidi",
+      "Rakshana Margam Ni Divya Vakyam Papiki Vidudala Ni Siluva"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిన్ను నేను చేరలేని ఘెరపాపమందుండగా",
+        "నన్ను నీలో చేర్చుకొనుటకై నీ రక్తాన్నే కార్చితివే",
+        "నీ ప్రేమే మాటే కాదు అది క్రియలతోను నన్ను ఫలియింపజేయుచున్నది",
+        "నీవే మార్గం నీవే సత్యం నీవే జీవం",
+        "నిన్ను ఎల్లవేళలలో నేను స్తుతియింతును"
+      ],
+      "english": [
+        "Ninnu Nenu Cheraleni Gerapapamamdumdaga",
+        "Nannu Nilo Cherchukonutakai Ni Raktanne Karchitive",
+        "Ni Preme Mate Kadu Adi Kriyalatonu Nannu Paliyimpajeyuchunnadi",
+        "Nive Margam Nive Satyam Nive Jivam",
+        "Ninnu Ellavelalalo Nenu Stutiyimtunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా యందు నీకు ఉన్న ప్రేమ ఈ లోకాన్ ఉన్న ప్రేమ కన్న",
+        "ఈ లోక సౌఖ్యాలకన్న ఎంతో శ్రేష్ఠమైనది",
+        "ఆ ప్రియమైన ప్రేమతో జీవింపజేయుచు నన్ను నడిపించుచున్నావయ్యా",
+        "నా కీర్తన నా జీవితం నా సర్వము నీకే ఎల్లవేళలలో నేను చెల్లింతును"
+      ],
+      "english": [
+        "Na Yamdu Niku Unna Prema E Lokan Unna Prema Kanna",
+        "E Loka Saukyalakanna Emto Sreshthamainadi",
+        "A Priyamaina Premato Jivimpajeyuchu Nannu Nadipimchuchunnavayya",
+        "Na Kirtana Na Jivitam Na Sarvamu Nike Ellavelalalo Nenu Chellimtunu"
+      ]
+    }
+  ]
+}

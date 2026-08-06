@@ -1,0 +1,63 @@
+{
+  "song_name": "Rakshana nosagumu Prabhuvaa paapiki",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "రక్షణ నొసగుము ప్రభువా – పాపికి"
+    ],
+    "english": [
+      "Rakshana nosagumu Prabhuvaa – Paapiki"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పుణ్యకార్యములు నే చేయలేదు – పాపినై వ్యర్థుడనైతిన్"
+      ],
+      "english": [
+        "Punyakaaryamulu ne cheyaledhu – Paapinai vyarthudanaithin"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపరోగముచే తల్లడిల్లితిని – మరణ పాత్రుడనైతిన్"
+      ],
+      "english": [
+        "Paaparogamuche thalladillithini – Marana paathrudanaithin"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ వంటి వైద్యుడు నాకికలేడు – పాపికి స్వస్థతనియ్యన్"
+      ],
+      "english": [
+        "Nee vanti vaidhyudu naakikaledu – Paapiki swasthathaniyyan"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "గొప్ప శక్తిగల ఓ నాదు ప్రభు – పాపిని దయగను ప్రభువా"
+      ],
+      "english": [
+        "Goppa shakthigala o naadu Prabhu – Paapini dhayaganu Prabhuvaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పాపుల మిత్రుడా పరమ రక్షకుడా – పాపిని మొర నాలించు"
+      ],
+      "english": [
+        "Paapula mithrudaa parama rakshakudaa – Paapini mora naalinchu"
+      ]
+    }
+  ]
+}

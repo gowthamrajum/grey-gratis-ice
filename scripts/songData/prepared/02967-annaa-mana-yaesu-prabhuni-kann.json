@@ -1,0 +1,74 @@
+{
+  "song_name": "Annaa Mana Yaesu Prabhuni Kanna",
+  "author": {
+    "Authored by": "",
+    "రచన": "రావూరి లక్ష్మయ్య"
+  },
+  "main_stanza": {
+    "telugu": [
+      "అన్నా మన యేసు ప్రభుని కన్న రక్షకుఁడు లేఁడు",
+      "ఎన్న రాని మన యఘము లన్ని సడలించి ప్రోచు"
+    ],
+    "english": [
+      "Annaa Mana Yaesu Prabhuni Kanna Rakshakudu Laedu",
+      "Enna Raani Mana Yaghamu Lanni Sadalinchi Proachu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మన దోషములకు బదులుగ మరణావస్థల నొందెను",
+        "తన దివ్యావయముల ర క్తము చిందించెను భువిపై"
+      ],
+      "english": [
+        "Mana Dhoashamulaku Badhuluga Maranaavasthala Nondhenu",
+        "Thana Dhivyaavayamula Ra Kthamu Chindhinchenu Bhuvipai"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిజ రక్షకుఁడితఁడే మన వృజినాదులఁ బరిమార్పను",
+        "విజయం బగు నతని పాద రజయుగ్మును స్మరించు"
+      ],
+      "english": [
+        "Nija Rakshakudithade Mana Vrujinaadhula Barimaarpanu",
+        "Vijayam Bagu Nathani Paadha Rajayugmunu Smarinchu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దిక్కు మాలిన వారికి దిక్కై మార్గముఁజూపెను",
+        "చక్కనీ గుణముల సొం పెక్కి వర్తించె నహహ"
+      ],
+      "english": [
+        "Dhikku Maalina Vaariki Dhikkai Maargamujoopenu",
+        "Chakkanee Gunamula Som Pekki Varthinche Nahaha"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఈలాటి దయాసముద్రు నిల నెందైనను గానము",
+        "నీలోఁ గల దుర్గుణాది జాలంబులఁ గడఁ ద్రోయును"
+      ],
+      "english": [
+        "Eelaati Dhayaasamudhru Nila Nendhainanu Gaanamu",
+        "Neeloa Gala Dhurgunaadhi Jaalambula Gada Dhroayunu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మృతి గెల్చిన వాఁడే దు రిత జీవులఁ బ్రోవఁ దగును",
+        "మృతి నొంది నశించు లోక మూఢాత్ముల కేలఁ గల్గు"
+      ],
+      "english": [
+        "Mruthi Gelchina Vaade Dhu Ritha Jeevula Broava Dhagunu",
+        "Mruthi Nondhi Nashinchu Loaka Moodhaathmula Kaela Galgu"
+      ]
+    }
+  ]
+}

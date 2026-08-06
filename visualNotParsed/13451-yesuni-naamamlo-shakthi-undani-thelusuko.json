@@ -1,0 +1,37 @@
+{
+  "song_name": "Yesuni naamamlo shakthi undani thelusuko",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసుని నామంలో శక్తి ఉందని తెలుసుకో (3)",
+      "రక్షణకు విడుదలకు స్వస్థతకు (2) ||యేసుని||"
+    ],
+    "english": [
+      "Yesuni naamamlo shakthi undani thelusuko (3)",
+      "Rakshanaku vidudhalaku swasthathaku (2) ||Yesuni||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎనలేని ప్రేమ నాపై చూపించితివే",
+        "నీ బలియాగం నన్ను రక్షించెనే (3)",
+        "రక్షణ విడుదల స్వస్థత (2)",
+        "కుమ్మరించుము నీ ఆత్మను",
+        "వేచియున్నాము నీ రాకకై (3) ||రక్షణకు||"
+      ],
+      "english": [
+        "Enaleni prema naapai choopinchithive",
+        "Nee baliyaagam nannu rakshinchene (3)",
+        "Rakshana vidudala swasthatha (2)",
+        "Kummarinchumu nee aathmanu",
+        "Vechiyunnaamu nee raakakai (3) ||Rakshanaku||"
+      ]
+    }
+  ]
+}

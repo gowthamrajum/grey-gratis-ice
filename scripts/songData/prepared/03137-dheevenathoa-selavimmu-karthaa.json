@@ -1,0 +1,47 @@
+{
+  "song_name": "Dheevenathoa Selavimmu Karthaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దీవెనతో సెలవిమ్ము కర్తా మాకు నీ దీవెనతో సెలవిమ్ము కర్తా",
+      "దీవించి క్షేమంపు టీవులను దయచేసి",
+      "జీవ పోషణవార్త భావమున సమకూర్చి"
+    ],
+    "english": [
+      "Dheevenathoa Selavimmu Karthaa Maaku Nee Dheevenathoa Selavimmu Karthaa",
+      "DheeviMchi KShaemMpu Teevulanu Dhayachaesi",
+      "Jeeva PoaShNavaartha Bhaavamuna Samakoorchi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లోకమున నిన్ను వేఁడుకొని మేము నీ లోకమున కొనియాడుకొని",
+        "శ్రీకరం బగు దివ్య లోకంబులోఁ జేరి",
+        "యేకముగ స్తోత్రములు నీకుఁ జెల్లింపఁగ"
+      ],
+      "english": [
+        "Loakamuna Ninnu VaeAOdukoni Maemu Nee Loakamuna Koniyaadukoni",
+        "ShreekarM Bagu Dhivya LoakMbuloaAO Jaeri",
+        "Yaekamuga Sthoathramulu NeekuAO JelliMpAOga"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "స్తుతి పితృ పుత్ర శుద్ధాత్మ శుభ మిచ్చు",
+        "స్తుతి పితృ పుత్ర శుద్ధాత్మ స్తుతియించును సర్వ క్షితి",
+        "దివ్య సైన్యంబు లతులితంబగు దేవుఁడని నిన్ను స్తుతియించు"
+      ],
+      "english": [
+        "Sthuthi Pithru Puthra ShudhDhaathma Shubha Michchu",
+        "Sthuthi Pithru Puthra ShudhDhaathma SthuthiyiMchunu Sarva KShithi",
+        "Dhivya SainyMbu LathulithMbagu DhaevuAOdani Ninnu SthuthiyiMchu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "song_name": "Kreesthuni goorchi meeku emi thochuchunnadhi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "క్రీస్తుని గూర్చి మీకు ఏమి తోచుచున్నది",
+      "పరుడని నరుడని భ్రమ పడకండి (2)",
+      "దేవుని కుమారుడు",
+      "ఈయనే దేవుని కుమారుడు"
+    ],
+    "english": [
+      "Kreesthuni goorchi meeku emi thochuchunnadhi",
+      "Parudani narudani bhrama padakandi (2)",
+      "Devuni kumaarudu",
+      "Eeyane Devuni kumaarudu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఈయన నా ప్రియ కుమారుడు",
+        "ఈయన యందే ఆనందము",
+        "తండ్రియే పలికెను తనయుని గూర్చి",
+        "మీ కేమితోచు చున్నది  ||క్రీస్తుని||"
+      ],
+      "english": [
+        "Eeyana naa priya kumaarudu",
+        "Eeyana yande aanandamu",
+        "Thandriye palikenu thanayuni goorchi",
+        "Mee kemithochu chunnadhi  ||Kreesthuni||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రక్షకుడనుచు అక్షయుని చాటిరి",
+        "దూతలు గొల్లలకు",
+        "ఈ శుభవార్త వినియున్నట్టి",
+        "మీకేమీ తోచు చున్నది  ||క్రీస్తుని||"
+      ],
+      "english": [
+        "Rakshakudanuchu akshayuni chaatiri",
+        "Doothalu gollalaku",
+        "Ee shubhavaartha viniyunnatti",
+        "Meekemee thochu chunnadhi  ||Kreesthuni||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మర్మము నెరిగిన మహనీయుడు",
+        "మరుగై యండక పోవునని",
+        "సమరయ స్త్రీయే సాక్షమీయ్యగా",
+        "మీకేమితోచుచున్నది  ||క్రీస్తుని||"
+      ],
+      "english": [
+        "Marmamu nerigina mahaneeyudu",
+        "Marugai yundaka povunani",
+        "Samaraya streeye saakshamiyyagaa",
+        "Meekemithochuchunnadhi  ||Kreesthuni||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీవు దేవుని పరిశుదుడవు మా జోలికి",
+        "రావద్దనియు",
+        "దయ్యములే గుర్తించి చాటగా-",
+        "మీకేమి తోచుచున్నది  ||క్రీస్తుని||"
+      ],
+      "english": [
+        "Neevu Devuni parishuddhudavu maa joliki",
+        "Raavaddhaniyu",
+        "Dhayyamule gurthinchi chaatagaa-",
+        "Meekemi thochuchunnadhi  ||Kreesthuni||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నిజముగ ఈయన దేవుని",
+        "కుమారుడేయని సైనికుల",
+        "శతాధిపతియే సాక్షమియ్యగ",
+        "మీకేమి తోచుచున్నది  ||క్రీస్తుని||"
+      ],
+      "english": [
+        "Nijamuga eeyana Devuni",
+        "Kumaarudeyani sainikula",
+        "Shathaadhipathiye saakshamiyyaga",
+        "Meekemi thochuchunnadhi  ||Kreesthuni||"
+      ]
+    }
+  ]
+}

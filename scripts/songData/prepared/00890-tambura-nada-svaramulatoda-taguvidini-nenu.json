@@ -1,0 +1,52 @@
+{
+  "song_name": "Tambura Nada Svaramulatoda Taguvidini Nenu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "తంబుర నాద స్వరములతోడ తగువిదిని నేను భజన చేసెద",
+      "అంబురంబున కెగసే పాటలు హాయిగా హాయిగా పాడెద పాడెద"
+    ],
+    "english": [
+      "Tambura Nada Svaramulatoda Taguvidini Nenu Bajana Cheseda",
+      "Amburambuna Kegase Patalu Hayiga Hayiga Padeda Padeda"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సితార స్వరమండలములతో శ్రీకర నిను భజన చేసెద",
+        "ప్రతి దినము నీ ప్రేమ గాదను ప్రస్తుతించి పాడెద పాడెద (2)"
+      ],
+      "english": [
+        "Sitara Svaramamdalamulato Srikara Ninu Bajana Cheseda",
+        "Prati Dinamu Ni Prema Gadanu Prastutimchi Padeda Padeda (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మృదంగ తాళద్వనులతోడ మృత్యుంజయ నిను భజన చేసెద",
+        "ఉదయ సాయంత్రములాయందు హొసన్నాయని పాడెద పాడెద (2)"
+      ],
+      "english": [
+        "Mrudamga Taladvanulatoda Mrutyumjaya Ninu Bajana Cheseda",
+        "Udaya Sayamtramulayamdu Hosannayani Padeda Padeda (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పిల్లన గ్రోవి చల్లగ నుండి ఉల్లమున నిన్ను భజన చేసెద",
+        "ఉల్లమున నిను ఎల్లవేలల హల్లెలూయని పాడెద పాడెద (2)"
+      ],
+      "english": [
+        "Pillana Grovi Challaga Numdi Ullamuna Ninnu Bajana Cheseda",
+        "Ullamuna Ninu Ellavelala Halleluyani Padeda Padeda (2)"
+      ]
+    }
+  ]
+}

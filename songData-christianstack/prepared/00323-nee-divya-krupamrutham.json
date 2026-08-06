@@ -1,0 +1,48 @@
+{
+  "song_name": "Nee Divya Krupamrutham",
+  "author": {
+    "Authored by": "Symonpeter Chevuri",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కురిసెను నాలో నా యేసయ్యా",
+      "నీ దివ్య కృపామృతం",
+      "మధురాతి మధురం నీ నామగానం",
+      "నీవే నా సంగీతం",
+      "ఏరీతి పాడను నీ ఉన్నత ప్రేమను"
+    ],
+    "english": [
+      "Kurisenu naalo naa yesayyaa",
+      "nee divya krupaamrutham",
+      "madhuraathi madhuram nee naamagaanam",
+      "neeve naa sangeetham",
+      "ey reethi paadanu nee unnatha premanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నావారే నన్ను నిందించినను నీతో నేనున్నా నన్నావు",
+        "పరుల మాటలు కృంగదీసినను స్నేహించి నను ఓదార్చావు",
+        "పరిమితిలేని ప్రేమను పంచి విడువక తోడై నిలిచావు",
+        "ఎన్నడు మారని నిజ ప్రేమది నీ కృపకు సాటియేది",
+        "ఏమంచిలేని నన్నెన్నుకున్నావు నీవే నా జీవదాతవు",
+        "నా ఊహకందని నీ సేవనిచ్చావు నీవే నా జతగా నిలిచావు",
+        "నీవిచ్చినదే ఈ స్వర సంపద నీ నామం ప్రకటించెద",
+        "నిను చేరే వరకు నీ సాక్షిగా బలమైన నీ పాత్రగా"
+      ],
+      "english": [
+        "Naa vaarey nannu nindhinchinanu neetho neenunnaa nannaavu",
+        "parula maatalu krungadheesinanu snehinchi nanu odhaarchaavu",
+        "parimithi leni premanu panchi viduvaka thodai nilichaavu",
+        "ennadu maarani nija premadhi nee krupaku saati yedhi",
+        "Ey manchi leni nannennukunnaavu neeve naa jeevadhaathavu",
+        "naa oohakandhani nee sevanichaavu neeve naa jathagaa nilichaavu",
+        "neevichinadhey ee sarva sampadha nee naamam prakatinchedha",
+        "ninu cherey varaku nee saakshigaa balamaina nee paathragaa"
+      ]
+    }
+  ]
+}

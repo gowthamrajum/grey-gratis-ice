@@ -1,0 +1,76 @@
+{
+  "song_name": "Bethlehemanu Oka Chinna",
+  "author": {
+    "Authored by": "Sudharshan",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "బెత్లెహేములో ఒక చిన్న ఊరిలో",
+      "యేసురాజు పుట్టాడని",
+      "సర్వలోక పాపాలు మోసే",
+      "రక్షకుడు ఉదయించాడని",
+      "ఆ దూత గొల్లలకు",
+      "శుభవార్త చెప్పెనుగా",
+      "సంతోష సంబరాలు ప్రభుని చూడగా",
+      "పరలోక దూతలంత పరిశుద్ధ స్థలములో",
+      "సర్వాధికారినే స్తుతియించగా",
+      "ఇమ్మానుయేలుగా తోడుండగా",
+      "పరలోక రాజ్యం భూమినేలుగా"
+    ],
+    "english": [
+      "Bethlehemulo oka chinna oorilo",
+      "yesuraaju puttaadani",
+      "sarvaloka paapaalu mosai",
+      "rakshakudu udayinchaadani",
+      "aa dhootha gollalaku",
+      "subhavaartha cheppenugaa",
+      "santhosha sambaraalu prabhuni choodagaa",
+      "paraloka dhoothalantha parisuddha sthalamulo",
+      "sarvaadhikaarine sthuthiyinchagaa",
+      "immaanuyelugaa thodundagaa",
+      "paraloka raajyam bhoominelugaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిన్నే ప్రేమించి నీతోనే జీవించి",
+        "నిత్యుడవగు తండ్రిగా ఆధరించెరా",
+        "నీ స్నేహం కోరి తన మహిమను వీడి",
+        "సమాధాన కర్తగా దిగివచ్చెరా",
+        "నిత్యజీవాన్ని నీకీయగా",
+        "సత్య మార్గాన్ని చూపించగా",
+        "మన పాప భారాన్ని తొలగించెరా",
+        "పరలోకపు స్వాస్త్యాన్ని నీకిచ్చెరా",
+        "నీతిసూర్యుడు నీలోన ఉదయించి",
+        "నిజమైన వెలుగులో నడిపించెరా",
+        "కన్య మరియమ్మ గర్భాన జన్మించి",
+        "సర్వలోక పాపాన్ని పరిహరించెరా",
+        "ప్రేమ రాజ్యాన్ని స్తాపించగా",
+        "కరుణ కిరణాలు కురిపించెగా",
+        "నీ ఆత్మ దీపాన్ని వెలిగించెరా",
+        "నిత్యజీవపు మహిమగా నిన్ను మార్చెగా"
+      ],
+      "english": [
+        "Ninne preminchi neethone jeevinchi",
+        "nithyudavagu thandrigaa aadharincheraa",
+        "nee sneham kori thana mahimanu veedi",
+        "samaadhaana karthagaa digivacheraa",
+        "nithyajeevaanni neekeeyagaa",
+        "sathya maargaanni choopinchagaa",
+        "mana paapa bhaaraanni tholagincheraa",
+        "paralokapu swaasthyaanni neekicheraa",
+        "Neethisuryudu neelona udayinchi",
+        "nijamaina velugulo nadipincheraa",
+        "kanya mariyamma garbhaana janminchi",
+        "sarvaloka paapaanni pariharincheraa",
+        "prema raajyaanni sthaapinchagaa",
+        "karuna kiranaalu kuripinchegaa",
+        "nee aathma deepaanni veligincheraa",
+        "nithyajeevapu mahimagaa ninnu maarchegaa"
+      ]
+    }
+  ]
+}

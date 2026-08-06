@@ -1,0 +1,54 @@
+{
+  "song_name": "Nee jeevitham neethi budagaa vantidi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ జీవితం నీటీ బుడగా వంటిది",
+      "ఎప్పుడూ ఆగునో మనకూ తెలియదూ (2)",
+      "నేడే తెలుసుకో నిజమైన దేవుని",
+      "నిత్య జీవముకై వెంబడించు యేసుని ||నీ జీవితం||"
+    ],
+    "english": [
+      "Nee jeevitham neethi budagaa vantidi",
+      "Eppudoo aaguno manakoo theliyadoo (2)",
+      "Nede thelusuko nijamaina devuni",
+      "Nithya jeevamukai vembadinchu Yesuni ||Nee jeevitham||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎన్నాళ్ళూ ఈ వ్యర్ధపు ప్రయాసము",
+        "మనకై మరణించిన ప్రభుని చూడు (2)",
+        "ఈ క్షణమే వెదుకూ నీ హృదయముతో (2)",
+        "మనదగునూ.. ఆయన క్షమా రక్షణ (2)  ||నీ||"
+      ],
+      "english": [
+        "Ennaalloo ee vyardhapu prayaasamu",
+        "Manakai maraninchina prabhuni choodu (2)",
+        "Ee kshaname vedukoo nee hrudayamutho (2)",
+        "Manadhagunoo.. aayana kshamaa rakshana (2)  ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎన్నాళ్ళు ఈ వ్యర్ధపు ప్రయాణము",
+        "త్వరగా రానైయున్నాడు ప్రభువూ (2)",
+        "ఆయనతో పరమునకేగుటకూ (2)",
+        "నిరీక్షణ గలవారమైయుందుము (2)  ||నీ||"
+      ],
+      "english": [
+        "Ennaallu ee vyardhapu prayaanamu",
+        "Thvaragaa raanaiyunnaadu prabhuvoo (2)",
+        "Aayanatho paramunakegutakoo (2)",
+        "Nireekshana galavaaramaiyundhumu (2)  ||Nee||"
+      ]
+    }
+  ]
+}

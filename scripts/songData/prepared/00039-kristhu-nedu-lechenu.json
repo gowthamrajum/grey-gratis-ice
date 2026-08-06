@@ -1,0 +1,68 @@
+{
+  "song_name": "Kreesthu Nedu Lechenu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "క్రీస్తు నేడు లేచెను ఆ ఆ ఆ హల్లెలూయ",
+      "మర్త్య దూత సంఘమా ఆ ఆ ఆ హల్లెలూయ",
+      "భూమి నాకసంబులో ఆ ఆ ఆ హల్లెలూయ",
+      "బాడుమిందు చేతను ఆ ఆ ఆ హల్లెలూయ"
+    ],
+    "english": [
+      "Kreesthu Nedu Lechenu Aa Aa Aa Halleluya",
+      "Marthya Dhootha Sanghamaa Aa Aa Aa Halleluya",
+      "Bhoomi Naakasambulo Aa Aa Aa Halleluya",
+      "Baadumindu Chethanu Aa Aa Aa Halleluya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మోక్షమియ్య నాథుడు ఆ ఆ ఆ హల్లెలూయ",
+        "యుద్దమాడి గెల్చెను ఆ ఆ ఆ హల్లెలూయ",
+        "సూర్యుడుద్బ వింపగ ఆ ఆ ఆ హల్లెలూయ",
+        "చీకటుల్ గతించెను ఆ ఆ ఆ హల్లెలూయ"
+      ],
+      "english": [
+        "Mokshamiyya Naathudu Aa Aa Aa Halleluya",
+        "Yuddhamaadi Gelchenu Aa Aa Aa Halleluya",
+        "Sooryududba Vimpaga Aa Aa Aa Halleluya",
+        "Cheekatul Gathinchenu Aa Aa Aa Halleluya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బండ, ముద్ర, కావలి ఆ ఆ ఆ హల్లెలూయ",
+        "అన్ని వ్యర్ద మైనవి ఆ ఆ ఆ హల్లెలూయ",
+        "యేసు నరకంబును ఆ ఆ ఆ హల్లెలూయ",
+        "గెల్చి ముక్తి దెచ్చెను ఆ ఆ ఆ హల్లెలూయ"
+      ],
+      "english": [
+        "Banda, Mudhra, Kaavali Aa Aa Aa Halleluya",
+        "Anni Vyardha Mainavi Aa Aa Aa Halleluya",
+        "Yesu Narakambunu Aa Aa Aa Halleluya",
+        "Gelchi Mukthi Dhechchenu Aa Aa Aa Halleluya"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "క్రీస్తు లేచినప్పుడు ఆ ఆ ఆ హల్లెలూయ",
+        "చావుముల్లు త్రుంచెను ఆ ఆ ఆ హల్లెలూయ",
+        "ఎల్ల వారి బ్రోచును ఆ ఆ ఆ హల్లెలూయ",
+        "మ్రుత్యువింక గెల్వదు ఆ ఆ ఆ హల్లెలూయ"
+      ],
+      "english": [
+        "Kreesthu Lechinappudu Aa Aa Aa Halleluya",
+        "Chaavumullu Thrunchenu Aa Aa Aa Halleluya",
+        "Ella Vaari Brochunu Aa Aa Aa Halleluya",
+        "Mruthyuvinka Gelvadu Aa Aa Aa Halleluya"
+      ]
+    }
+  ]
+}

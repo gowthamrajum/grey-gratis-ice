@@ -1,0 +1,62 @@
+{
+  "song_name": "Theepi aashala mandaaraalu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Dr A R Stevenson"
+    ],
+    "రచన": [
+      "డాక్టర్ ఏ ఆర్ స్టీవెన్సన్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "తీపి ఆశల మందారాలు విరబూసిన ఈ వేళ",
+      "చిలిపి ఊసులు సింధూరాలు కలబోసిన శుభవేళ",
+      "అనురాగంతో ఒకటవ్వాలని",
+      "అనుకున్నవన్నీ నిజమవ్వాలని",
+      "ఆ.ప. ఆశిస్తూ పాడుతున్నా సుస్వాగతం",
+      "దీవిస్తూ శుభముగ మీ పరిణయం"
+    ],
+    "english": [
+      "Theepi aashala mandaaraalu viraboosina ee vela",
+      "Chilipi oosulu sindhooraalu kalabosina shubhavela",
+      "Anuraagantho okatavvaalani",
+      "Anukunnavannee nijamavvaalani",
+      "Aa.pa. aashisthoo paaduthunnaa suswaagatham",
+      "Dheevisthoo shubhamuga mee parinayam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇన్నినాళ్లుగా వేచిన సమయం ఎదురు నిలచింది",
+        "చిగురులు తొడిగిన కొత్త వసంతం రమ్మని పిలిచింది",
+        "కలకాలం మీరు కలసి ఉండాలని",
+        "చిరజీవం మీపై నిలిచి ఉండాలని"
+      ],
+      "english": [
+        "Inninaallugaa vechina samayam eduru nilachindhi",
+        "Chigurulu thodigina kottha vasantham rammani pilichindhi",
+        "Kalakaalam meeru kalasi undaalani",
+        "Chirajeevam meepai nilichi undaalani"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "త్రియేక దేవుని ఘన సంకల్పం ఇల నెరవేరింది",
+        "ఇరు హృదయాల సుందర స్వప్నం నిజముగ మారింది",
+        "అరమరికలు లేక ఒకటి కావాలని",
+        "పరలోక తండ్రికి మహిమ తేవాలని"
+      ],
+      "english": [
+        "Thriyeka Devuni ghana sankalpam ila neraverindhi",
+        "Iru hrudayaala sundara swapnam nijamuga maarindhi",
+        "Aramarikalu leka okati kaavaalani",
+        "Paraloka thandriki mahima thevaalani"
+      ]
+    }
+  ]
+}

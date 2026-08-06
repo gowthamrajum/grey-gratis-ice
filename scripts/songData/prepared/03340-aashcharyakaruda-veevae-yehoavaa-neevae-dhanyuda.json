@@ -1,0 +1,83 @@
+{
+  "song_name": "Aashcharyakaruda Veevae Yehoavaa Neevae Dhanyudavu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆశ్చర్యకరుడ వీవే - యెహోవా నీవే ధన్యుడవు"
+    ],
+    "english": [
+      "Aashcharyakaruda Veevae - Yehoavaa Neevae Dhanyudavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ కృప నింగినంటెను",
+        "వచ్చినవారే దయ పొందెదరు - నీవే దయాళుడవు"
+      ],
+      "english": [
+        "Nee Krupa Nimginamtenu",
+        "Vachchinavaarae Dhaya Pomdhedharu - Neevae Dhayaaludavu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ విశ్వాస్యత గొప్పది",
+        "ఉన్నతమైనది అందరి యెడల - ఎన్నడు మారనిది"
+      ],
+      "english": [
+        "Nee Vishvaasyatha Goppadhi",
+        "Unnathamainadhi Amdhari Yedala - Ennadu Maaranidhi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ నీతి స్థిరమైనది",
+        "పరిశీలించెదవు యెల్ల ప్రజలను - సరిదిద్దువాడ వీవే"
+      ],
+      "english": [
+        "Nee Neethi Sthiramainadhi",
+        "Parisheelimchedhavu Yella Prajalanu - Saridhidhdhuvaada Veevae"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "అమూల్యము నీ కరుణ",
+        "వచ్చినవారికి ఆశ్రయమిచ్చి - రెక్కలతో కప్పెదవు"
+      ],
+      "english": [
+        "Amoolyamu Nee Karuna",
+        "Vachchinavaariki Aashrayamichchi - Rekkalathoa Kappedhavu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీ యింట తృప్తిగలదు",
+        "ఆనంద జలములను త్రాగనిచ్చెదవు - నీ ప్రజలందరికి"
+      ],
+      "english": [
+        "Nee Yimta Thrupthigaladhu",
+        "Aanamdha Jalamulanu Thraaganichchedhavu - Nee Prajalamdhariki"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నీ ప్రకాశము నిలుచు",
+        "నిన్నెరిగియున్న వారిపై నిరతం - మెండైన కృపనిత్తువు"
+      ],
+      "english": [
+        "Nee Prakaashamu Niluchu",
+        "Ninnerigiyunna Vaaripai Niratham - Memdaina Krupaniththuvu"
+      ]
+    }
+  ]
+}

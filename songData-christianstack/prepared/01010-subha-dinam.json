@@ -1,0 +1,36 @@
+{
+  "song_name": "Subha Dinam",
+  "author": {
+    "Authored by": "Shoba Rani",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "శుభదినం ఈ దినం",
+      "మానవాలికే పర్వదినం",
+      "చీకటి పొరలను చీల్చుకొని",
+      "పరలోక కాంతులు విరజిమ్ముతూ",
+      "రక్షకుడు మన కొరకు ఉదయించినాడు"
+    ],
+    "english": [
+      "Subhadinam ee dinam",
+      "maanavaalike parvadinam",
+      "cheekati poralanu cheelchukoni",
+      "paraloka kaanthulu virajimmuthu",
+      "rakshakudu mana koraku udayinchinaadu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆనందించుడీ ఆనందించుడీ",
+        "ఆయన యందే ఆనందించుడీ"
+      ],
+      "english": [
+        "AanandinchuDii aanandinchuDii",
+        "aayana yandea aanandinchuDii"
+      ]
+    }
+  ]
+}

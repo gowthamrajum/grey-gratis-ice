@@ -1,0 +1,43 @@
+{
+  "song_name": "Dhahana Bali Neeku Nanishtamu",
+  "author": {
+    "Authored by": "",
+    "రచన": "మల్లెల దావీదు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "దహన బలి నీకు ననిష్టము మరియు దైవ బలులు",
+      "విరిగిన యాత్మయే యెహోవ దేవ",
+      "విరిగి నలిగిన యట్టి హృదయం బలక్ష్యంబు సేయవు"
+    ],
+    "english": [
+      "Dhahana Bali Neeku Nanishtamu Mariyu Dhaiva Balulu",
+      "Virigina Yaathmayae Yehoava Dhaeva",
+      "Virigi Naligina Yatti Hrudhayam Balakshyambu Saeyavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ కటాక్షముతో సీయోనున కిపుడే నెనరుతోడను మేలు చేయుమి",
+        "ప్రాకటంబుగను యోరూషలే మునకుఁ బ్రాకారములను గట్టించుమి"
+      ],
+      "english": [
+        "Nee Kataakshamuthoa Seeyoanuna Kipudae Nenaruthoadanu Maelu Chaeyumi",
+        "Praakatambuganu Yoarooshalae Munaku Braakaaramulanu Gattimchumi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అంతట నీతియుక్తంబు లౌ బలుల యాగముల సర్వాంగ హోమముల్",
+        "ఎంతో యిష్టంబౌ బలిపీఠము మీఁద నెన్నో కోడెల జనులర్పించుతురు"
+      ],
+      "english": [
+        "Amthata Neethiyukthambu Lau Balula Yaagamula Sarvaamga Hoamamul",
+        "Emthoa Yishtambau Balipeetamu Meedha Nennoa Koadela Janularpimchuthuru"
+      ]
+    }
+  ]
+}

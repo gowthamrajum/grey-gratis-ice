@@ -1,0 +1,47 @@
+{
+  "song_name": "Yaesuboali Manchibudhdhi Yenthoa Praemagaliginae",
+  "author": {
+    "Authored by": "",
+    "రచన": "పి విజయ చార్లెస్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసుబోలి మంచిబుద్ధి యెంతో ప్రేమగలిగినే",
+      "నేను గోరినట్టి పనుల నెపుడు చేయగోరుదున్",
+      "దయయు శాంతమమరినట్టి తనదు నడత దలచుకొనుచు"
+    ],
+    "english": [
+      "Yaesuboali Manchibudhdhi Yenthoa Praemagaliginae",
+      "Naenu Goarinatti Panula Nepudu Chaeyagoarudhun",
+      "Dhayayu Shaanthamamarinatti Thanadhu Nadatha Dhalachukonuchu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు చిన్నబాలుడై యీ ధరను దిరిగినప్పుడు",
+        "ఎల్లరతని మంచి గుణము లెంచి ప్రేమ జూపిరి",
+        "దయయు, శాంతమమరినట్టి తనదు నడత దలచుకొనుచు"
+      ],
+      "english": [
+        "Yaesu Chinnabaaludai Yee Dharanu Dhiriginappudu",
+        "Ellarathani Manchi Gunamu Lenchi Praema Joopiri",
+        "Dhayayu, Shaanthamamarinatti Thanadhu Nadatha Dhalachukonuchu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పిట్టలందు పూవులందు ప్రీతిజూపె నేసుడు",
+        "అల్పజీవులైన, తండ్రి యన్నిజేసెనంచును",
+        "దయయు, శాంతమమరినట్టి తనదు నడత దలచుకొనుచు"
+      ],
+      "english": [
+        "Pittalandhu Poovulandhu Preethijoope Naesudu",
+        "Alpajeevulaina, Thandri Yannijaesenanchunu",
+        "Dhayayu, Shaanthamamarinatti Thanadhu Nadatha Dhalachukonuchu"
+      ]
+    }
+  ]
+}

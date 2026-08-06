@@ -1,0 +1,87 @@
+{
+  "song_name": "Endhu Kae Chinthinchedhavu Naa",
+  "author": {
+    "Authored by": "",
+    "రచన": "పురుషోత్తము చౌదరి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎందు కే చింతించెదవు నా డెందమా నీ కందమా",
+      "యిందాఁక రక్షించినవాఁ డిఁకను నిన్ను విడువఁబోడు"
+    ],
+    "english": [
+      "Endhu Kae Chinthinchedhavu Naa Dendhamaa Nee Kandhamaa",
+      "Yindhaaka Rakshinchinavaa Dikanu Ninnu Viduvaboadu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తొల్లి నీ వొనరించినట్టి దోషమెంతో యరిసి చూడు",
+        "చెల్లచెదరై పఱచు తరిని చెయ్యి పట్టినాఁడు",
+        "అల్లుకొనిన నీ దుర్గణము లణఁగఁ ద్రొక్కి వేసినాఁడు",
+        "తల్లడిల్లజేయు నీ శత్రువులఁ దరిమి ప్రోచినాఁడు",
+        "నల్లగా దన్నాడా నేఁడు వద్దు సందేహంబులు వీడు"
+      ],
+      "english": [
+        "Tholli Nee Vonarinchinatti Dhoashamenthoa Yarisi Choodu",
+        "Chellachedharai Parachu Tharini Cheyyi Pattinaadu",
+        "Allukonina Nee Dhurganamu Lanaga Dhrokki Vaesinaadu",
+        "Thalladillajaeyu Nee Shathruvula Dharimi Proachinaadu",
+        "Nallagaa Dhannaadaa Naedu Vadhdhu Sandhaehambulu Veedu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తల యెత్తరాని చోటఁ గళ లిచ్చి నిలిపినాఁడు",
+        "పలుమారు నీ యక్కఱలు తెలిసి యందిచ్చినాఁడు",
+        "బలహీన మపుడు నీకు ని ర్భయ మియ్య వచ్చెడు వాఁడు",
+        "పలు విధంబు లగు బాధలఁ బారఁ దోలివేసినాఁడు",
+        "నెల విప్పుడు లేదన్నాఁడా నీతో నిఁక సరి యన్నాఁడా"
+      ],
+      "english": [
+        "Thala Yeththaraani Choata Gala Lichchi Nilipinaadu",
+        "Palumaaru Nee Yakkaralu Thelisi Yandhichchinaadu",
+        "Balaheena Mapudu Neeku Ni Rbhaya Miyya Vachchedu Vaadu",
+        "Palu Vidhambu Lagu Baadhala Baara Dhoalivaesinaadu",
+        "Nela Vippudu Laedhannaadaa Neethoa Nika Sari Yannaadaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఒక్క నీ తల వెండ్రుక యైన నూడిపడ దని చెప్పెడు వాఁడు",
+        "దిక్కు నీకిక నేనే యని తన దివ్య వాక్కులఁ దెలిపెడు వాఁడు",
+        "చిక్కు లను బెట్టెడు పగవారి చేత నినుఁ జిక్కింపని వాఁడు",
+        "ఇక్కట్టు మెట్టుల దాఁటించుట కిదిగో యని చెయి యిచ్చెడు వాఁడు",
+        "హక్కు లేదన్నాఁడ నేడు అతఁడు నిను వెలి వేయబో డు"
+      ],
+      "english": [
+        "Okka Nee Thala Vendruka Yaina Noodipada Dhani Cheppedu Vaadu",
+        "Dhikku Neekika Naenae Yani Thana Dhivya Vaakkula Dhelipedu Vaadu",
+        "Chikku Lanu Bettedu Pagavaari Chaetha Ninu Jikkimpani Vaadu",
+        "Ikkattu Mettula Dhaatinchuta Kidhigoa Yani Cheyi Yichchedu Vaadu",
+        "Hakku Laedhannaada Naedu Athadu Ninu Veli Vaeyaboa Du"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యేసు తన రక్తముతో నిన్ను నెంచి ముందే కొనుచున్నాఁడు",
+        "దోసములు వెడలించు విమలా త్ముండు నీ సాక్షిగ నున్నాఁడు",
+        "ఆశతో నీవు గొలిచెడు తండ్రి యంతటా గాపై యున్నాఁడు",
+        "నీ సురక్షణ జేయు వారు నినుఁ జుట్టి యున్నా రెల్లప్పుడు",
+        "శేషరహితానంద మల్లెదె. చేరువగుచున్నది చూడుము"
+      ],
+      "english": [
+        "Yaesu Thana Rakthamuthoa Ninnu Nenchi Mundhae Konuchunnaadu",
+        "Dhoasamulu Vedalinchu Vimalaa Thmundu Nee Saakshiga Nunnaadu",
+        "Aashathoa Neevu Golichedu Thandri Yanthataa Gaapai Yunnaadu",
+        "Nee Surakshana Jaeyu Vaaru Ninu Jutti Yunnaa Rellappudu",
+        "Shaesharahithaanandha Malledhe. Chaeruvaguchunnadhi Choodumu"
+      ]
+    }
+  ]
+}

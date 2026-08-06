@@ -1,0 +1,68 @@
+{
+  "song_name": "Chedariponi Nee Prema",
+  "author": {
+    "Authored by": "Dr John Wesly",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "చెదరిపోని నీ ప్రేమే నా ఆధారం",
+      "అంతులేని నీ కృపయే నా ఆదరణ",
+      "నా బంధువై నా గమ్యమై – నడిపావు ప్రతి బాటలో",
+      "బలియాగమై ఆ సిలువలో – తుడిచావు నా పాపము"
+    ],
+    "english": [
+      "Chedariponi nee premae naa aadhaaram",
+      "Anthuleni nee krupaye naa aadharana",
+      "Naa bandhuwai naa gamyamai – nadipaavu prathi baatalo",
+      "Baliyaagamai aa siluvalo – thudichaavu naa paapamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆరాధన ఆరాధన ఆరాధన ఆరాధన",
+        "ఆరాధన ఆరాధన ఆరాధన ఆరాధన"
+      ],
+      "english": [
+        "Aaradhana aaradhana aaradhana aaradhana",
+        "Aaradhana aaradhana aaradhana aaradhana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కనుపాపగా నన్ను కాపాడినావు",
+        "కన్నీటి లోయలో నన్ను కౌగలించినావు",
+        "శిధిలమైన నా బ్రతుకును – ఆనంద తైలముతో అభిషేకించావు",
+        "నా తలపులో నా మాటలో",
+        "నా కాపరి నా యేసయ్య"
+      ],
+      "english": [
+        "Kanu paapaga nannu kaapadinaavu",
+        "Kanniti loyalo nannu kaugalinchinaavu",
+        "Sidhilamaina naa brathukunu – aananda thailamutho abhishekinchinaavu",
+        "Naa thalapulo naa maatalo",
+        "Naa kaapari naa yesayya"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "క్షణమైనా నిన్ను మరచి ఉండలేను",
+        "గతమంతా నీవు తుడిచివేసినావు",
+        "కీర్తించకుండా నేనుండలేను – మారని ప్రేమ నాతోడుండగా",
+        "నా తలపులో నా మాటలో",
+        "నా కాపరి నా యేసయ్య"
+      ],
+      "english": [
+        "Kshanamainaa ninnu marachi undalenu",
+        "Gathamanthaa neevu thudichi vesinaavu",
+        "Keerthincha kunda nenu undalenu – maarani prema naatho undaga",
+        "Naa thalapulo naa maatalo",
+        "Naa kaapari naa yesayya"
+      ]
+    }
+  ]
+}

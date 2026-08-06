@@ -1,0 +1,38 @@
+{
+  "song_name": "Parishuddhathmuda",
+  "author": {
+    "Authored by": "Bro Philip Gariki",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరిశుద్ధాత్ముడా నీకే వందనం",
+      "ఆదరణ కర్తా సమాధాన కర్త",
+      "సర్వ సత్యములోనికి నడిపే",
+      "మా ప్రియా దైవమా"
+    ],
+    "english": [
+      "Parishuddhathmuda Neeke Vandanam",
+      "aadharana kartha samaadhana kartha",
+      "sarva sathyamuloniki nadipe",
+      "maa priya daivamaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "స గ గ గ గ మ గ రి స ని ద ప",
+        "స గ గ గ గ మ గ ని గ మ",
+        "స గ గ గ గ మ గ రి స ని ద ప",
+        "ప ద ని రి స.. రి స"
+      ],
+      "english": [
+        "sa ga ga ga ga ma ga ri sa ni da pa",
+        "sa ga ga ga ga ma ga ni ga ma",
+        "sa ga ga ga ga ma ga ri sa ni da pa",
+        "pa da ni ri sa.. ri sa"
+      ]
+    }
+  ]
+}

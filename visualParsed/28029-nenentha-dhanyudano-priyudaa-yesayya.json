@@ -1,0 +1,67 @@
+{
+  "song_name": "Nenentha dhanyudano priyudaa Yesayya",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Pastor Akshay"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేనెంత ధన్యుడనో ప్రియుడా యేసయ్య",
+      "నీ రెక్కల నీడలో ఆశ్రయమిచ్చితివి",
+      "సమృద్ధి కృపతో మారని ప్రేమతో",
+      "ఉన్నత కార్యములు నాకై చేసితివి",
+      "పరవశమే పరిమళమే నీ కౌగిలిలో",
+      "సంతసమే సంబరమే నీ సన్నిధిలో"
+    ],
+    "english": [
+      "Nenentha dhanyudano priyudaa Yesayya",
+      "Nee rekkala needalo aashrayamichchithivi",
+      "Samruddhi krupatho maarani prematho",
+      "Unnatha kaaryamulu naakai chesithivi",
+      "Paravashame parimalame nee kaugililo",
+      "Santhasame sambarame nee sannidhilo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీకు దూరమైన స్థితిలో నే గాయపడిన వేళ",
+        "నా దీనస్థితిని చూచి దాటిపోక",
+        "నా హృదినే కట్టినావే పరమ తండ్రిగా",
+        "క్షేమం బహుపదిలం నీ ఒడిలోనే",
+        "ధైర్యం సహవాసం నీ ఉపదేశం",
+        "శ్రమకు తాళలేని స్థితిలో నే తల్లడిల్లు వేళ",
+        "నీ కరము చాపి నన్ను చేరదీసి",
+        "నీ చెలిమి పంచినావే నా హితుడవై",
+        "గమనం నా గమ్యం నీ కృపలోనే",
+        "గానం నా గాత్రం నీ కొరకే",
+        "నిరాశచెందు స్థితిలో నే సాగలేని వేళ",
+        "నీ ఆత్మ వర్షమును పంపి నాకై",
+        "ఫలింపచేసినావే నాదు బ్రతుకును",
+        "సాక్ష్యం నా సర్వం నీవేనయ్యా",
+        "జీవించెద నీకై శ్రేష్ట ఫలముగా"
+      ],
+      "english": [
+        "Neeku dooramaina sthithilo ne gaayapadina vela",
+        "Naa dheenasthithini choochi dhaatipoka",
+        "Naa hrudhine kattinaave parama thandrigaa",
+        "Kshemam bahupadhilam nee odilone",
+        "Dhairyam sahavaasam nee upadhesham",
+        "Shramaku thaalaleni sthithilo ne thalladillu vela",
+        "Nee karamu chaapi nannu cheradeesi",
+        "Nee chelimi panchinaave naa hithudavai",
+        "Gamanam naa gamyam nee krupalone",
+        "Gaanam naa gaathram nee korake",
+        "Niraashachendhu sthithilo ne saagaleni vela",
+        "Nee aathma varshamunu pampi naakai",
+        "Phalimpachesinaave naadu brathukunu",
+        "Saakshyam naa sarvam neevenayya",
+        "Jeevincheda neekai shreshta phalamugaa"
+      ]
+    }
+  ]
+}

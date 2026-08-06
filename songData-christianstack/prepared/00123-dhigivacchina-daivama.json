@@ -1,0 +1,83 @@
+{
+  "song_name": "Dhigivacchina Daivama",
+  "author": {
+    "Authored by": "Pastor Israel Raju Sirra",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిత్యుడైన దేవుడవు బలమైన దేవుడవు",
+      "ఆలోచన కర్తవు సమాధాన కర్తవు"
+    ],
+    "english": [
+      "Nithyudaina Dhevudavu",
+      "Balamaina Dhevudavu",
+      "Aalochana karthavu",
+      "Samaadhaana karthavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మా మధ్యకు దిగివచ్చిన మా దైవమా",
+        "దైవత్వపు పరిపూర్ణత గల ప్రభువా"
+      ],
+      "english": [
+        "Maa madhyaku dhigivachchina",
+        "Maa Dhaivamaa",
+        "Dhaivathvapu paripoornatha gala Prabhuvaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వాక్కైన దేవుడవు శరీరము దాల్చావు",
+        "కృపా సత్య సంపూర్ణుడిగా మాకై దిగి వచ్చావు",
+        "గొల్లల స్తోత్రమును జ్ఞానుల ఆరాధనను",
+        "పొందుకున్న ఆరాధ్యుడా నీకే వందనం"
+      ],
+      "english": [
+        "Vaakkaina Dhevudavu",
+        "Sareeramu dhaalchaavu",
+        "Krupa sathya sampoornudiga",
+        "Maakai dhigi vacchaavu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దేవదూత స్తోత్రములు నక్షత్రపు సూచనలు",
+        "నీ రాకను సూచించిన మా దైవమా",
+        "ప్రవక్తల ప్రవచనములు శిష్యుల సాక్ష్యములు",
+        "నెరవేర్పుగా దిగివచ్చిన మా ప్రభువా"
+      ],
+      "english": [
+        "Gollala sthothramunu",
+        "Jnaanula aaraadhananu",
+        "Pondhukunna aaraadhyudaa",
+        "Neeke vandhanam"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [],
+      "english": [
+        "Dhevadhootha sthothramulu",
+        "Nakshathrapu soochanalu",
+        "Nee raakanu soochinchhina",
+        "Maa Dhaivamaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [],
+      "english": [
+        "Pravakthala pravachanamulu",
+        "Shishyula saakshyamulu",
+        "Neraveerpuga dhigivachchina",
+        "Maa Prabhuvaa"
+      ]
+    }
+  ]
+}

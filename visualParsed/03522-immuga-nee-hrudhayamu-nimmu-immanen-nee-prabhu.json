@@ -1,0 +1,75 @@
+{
+  "song_name": "Immuga nee hrudayamu nimmu immanen nee Prabhu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇమ్ముగ నీ హృదయము నిమ్ము - ఇమ్మనెన్ నీ ప్రభు",
+      "నావలో నిను యావల జేర్చును నాథుని నామము"
+    ],
+    "english": [
+      "Immuga nee hrudayamu nimmu - Immanen nee Prabhu",
+      "Naavalo ninu yaavala jerchunu naathuni naamamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లోక సముద్రము దాటునపుడు - దుఃఖ సంకటములకు జడియకు",
+        "నావలో నిను యావల జేర్చును - నాథుని నామము"
+      ],
+      "english": [
+        "Loka samudramu daatunapudu - Duhkha sankatamulaku jadiyaku",
+        "Naavalo ninu yaavala jerchunu - Naathuni naamamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "లోకమంతా యురులే నీకు - లోకాశలకు లొంగెద వేల",
+        "లోక రక్షకుడేసుని మాటకు - లోబడు మిప్పుడే"
+      ],
+      "english": [
+        "Lokamanthaa yurule neeku - Lokaashalaku longedha vela",
+        "Loka rakshakudesuni maataku - Lobadu mippude"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాపమును జేర కూర్చితి నీవు - పాపమును జేయ నేర్చితి నీవు",
+        "పావనమగు ప్రభు నామమును - ప్రాపుగా వేడుము"
+      ],
+      "english": [
+        "Paapamunu jera koorchithi neevu - Paapamunu jeya nerchithi neevu",
+        "Paavanamagu Prabhu naamamunu - Praapugaa vedumu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "శాంతి నియ్యని కారెడి తొట్లన్ - వాంఛతో నీవు తొలిపించితివి",
+        "పూర్ణశాంతిని ప్రభు నీ కిచ్చున్ - పూజ్యుని వేడుము"
+      ],
+      "english": [
+        "Shaanthi niyyani kaaredi thotlan - Vaanchatho neevu tholipinchithivi",
+        "Poornashaanthini Prabhu nee kichchun - Poojyuni vedumu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "లోకమును నీవు వీడవలయును - లోక మాయలో నిలిచెదవేల",
+        "జాగుచేయక జీవముండగనే - జేరుము యేసుని"
+      ],
+      "english": [
+        "Lokamunu neevu veedavalayunu - Loka maayalo nilichedhavela",
+        "Jaagucheyaka jeevamundagane - Jerumu Yesuni"
+      ]
+    }
+  ]
+}

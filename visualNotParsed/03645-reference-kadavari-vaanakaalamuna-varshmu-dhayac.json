@@ -1,0 +1,62 @@
+{
+  "song_name": "Reference: Kadavari vaanakaalamuna varshamu dhayacheyumani",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆశీర్వాదంబుల్మామీద - వర్షింపజేయు మీశ",
+        "యాశతో నమ్మి యున్నాము - నీ సత్య వాగ్దత్తము",
+        "ఇమ్మహి మీద గ్రుమ్మరించుము దేవా",
+        "క్రమ్మర ప్రేమ వర్షంబున్ గ్రుమ్మరించుము దేవా"
+      ],
+      "english": [
+        "Aaseervaadhambulmaameedha - Varshimpajeyu meesha",
+        "Yaashatho nammi yunnaamu - Nee sathya vaagdhatthamu",
+        "Immahi meeda grummarinchumu Devaa",
+        "Krammara prema varshambun grummarinchumu Devaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఓ దేవా పంపింప వయ్యా - నీ దేవెన ధారలన్",
+        "మా దాహ మెల్లను బాపు - మాధుర్యమౌ వర్షమున్"
+      ],
+      "english": [
+        "O Devaa pampimpa vayyaa - Nee dhevena dhaaralan",
+        "Maa dhaaha mellanu baapu - Maadhuryamau varshamun"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మామీద కురిపించు మీశ - ప్రేమ ప్రవాహంబులన్",
+        "సమస్త దేశంబు మీద - క్షామంబు పోవునట్లుగన్"
+      ],
+      "english": [
+        "Maameedha kuripinchu meesha - Prema pravaahambulan",
+        "Samastha dheshambu meeda - Kshaamambu povunatlugan"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఈనాడే వర్షంపు మీశ - నీ నిండు దీవెనలన్",
+        "నీ నామమందున వేడి సన్నుతి బ్రార్థింతుము"
+      ],
+      "english": [
+        "Eenaade varshampu meesha - Nee nindu dheevenalan",
+        "Nee naamamandhuna vedi sannuthi praarthinthumu"
+      ]
+    }
+  ]
+}

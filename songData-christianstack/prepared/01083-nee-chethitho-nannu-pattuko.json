@@ -1,0 +1,54 @@
+{
+  "song_name": "Nee Chethitho Nannu Pattuko",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ చేతితో నన్ను పట్టుకో",
+      "నీ ఆత్మతో నన్ను నడుపు",
+      "శిల్పి చేతిలో శిలను నేను",
+      "అనుక్షణము నన్ను చెక్కుము"
+    ],
+    "english": [
+      "Nee Chethitho Nannu Pattuko",
+      "Nee Aathmatho Nannu Nadupu",
+      "Shilpi Chethilo Shilanu Nenu",
+      "Anukshanamu Nannu Chekkumu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అంధకార లోయలోన",
+        "సంచరించినా భయములేదు",
+        "నీ వాక్యం శక్తిగలది",
+        "నా త్రోవకు నిత్యవెలుగు",
+        "ఘోరపాపిని నేను తండ్రి",
+        "పాప ఊభిలో పడియుంటిని",
+        "లేవనెత్తుము శుద్దిచేయుము",
+        "పొందనిమ్ము నీదు ప్రేమను",
+        "ఈ భువిలో రాజు నీవే",
+        "నా హృదిలో శాంతి నీవే",
+        "కుమ్మరించుము నీదు ఆత్మను",
+        "జీవితాంతము సేవ చేసెదన్"
+      ],
+      "english": [
+        "Andhakaara Loyalona",
+        "Sancharinchinaa Bhayamu Ledu",
+        "Nee Vaakyam Shakthigaladi",
+        "Naa Throvaku Nithya Velugu",
+        "Ghorapaapini Nenu Thandri",
+        "Paapa Oobhilo Padiyuntini",
+        "Levaneththumu Shudhdhi Cheyumu",
+        "Pondanimmu Needu Premanu",
+        "Ee Bhuvilo Raaju Neeve",
+        "Naa Hrudilo Shaanthi Neeve",
+        "Kummarinchumu Needu Aathmanu",
+        "Jeevithaanthamu Seva Chesedan"
+      ]
+    }
+  ]
+}

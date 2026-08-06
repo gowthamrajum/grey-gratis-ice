@@ -1,0 +1,46 @@
+{
+  "song_name": "Unnadu Devudu",
+  "author": {
+    "Authored by": "Bro Balraj",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఉన్నాడు దేవుడు నాకు తోడు",
+      "విడనాడడెన్నడు ఎడబాయడు",
+      "కష్టాలలోన నష్టాలలోన",
+      "వేదనలోన శోదనలోన"
+    ],
+    "english": [
+      "Unnaadu dhevudu naaku thodu",
+      "vidanaadadennadu edabaayadu",
+      "kashtaalalona nashtaalalona",
+      "vedhanalona shodhanalona"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గాడాంధకారములో సంచరించినా",
+        "కన్నీటిలోయలో మునిగి తేలినా",
+        "కరుణలేని లోకము కాదన్నను",
+        "కన్నీరు తుడుచును నను కొన్నవాడు",
+        "యెహోవా సన్నిధిలో నివసింతును",
+        "చిరకాలమాయనతో సంతసింతును",
+        "కృపామధుర క్షేమములే నా వెంటే ఉండును",
+        "బ్రతుకుకాలమంతయు హర్షింతును"
+      ],
+      "english": [
+        "Gaadaandha kaaramulo sancharinchinaa",
+        "kanneeti loyalo munigi thelinaa",
+        "karunaleni lokamu kaadannanu",
+        "kanneeru thuduchunu nanu konnavaadu",
+        "Yehovaa sannidhilo nivasinthunu",
+        "chirakaalam aayanatho santhasinthunu",
+        "krupaamadhura kshemamule naa vente undunu",
+        "brathuku kaalamanthayu harshinthunu"
+      ]
+    }
+  ]
+}

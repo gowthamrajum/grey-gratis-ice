@@ -1,0 +1,45 @@
+{
+  "song_name": "Endhukayya Yesayya Nannu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎందుకయ్యా యేసయ్య నన్ను ప్రేమించితివి",
+      "ఏ మంచి లేని నన్ను పిలిచితివి - నన్ను గాచితివి - నన్ను బ్రోచితివి"
+    ],
+    "english": [
+      "Endhukayyaa Yesayya Nannu Preminchithivi",
+      "Ae Manchi Leni Nannu Pilichithivi - Nannu Gaachithivi - Nannu Brochithivi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నేరము చేసిన వాడను - నేయ్యములేనివాడను (2)",
+        "నేరములేంచని వాడా - నీతిమంతుడా (2)",
+        "న్యాయమంతుడా - తీర్పు తీర్చువాడా"
+      ],
+      "english": [
+        "Neramu Chesina Vaadanu - Neyyamulenivaadanu (2)",
+        "Neramulenchani Vaadaa - Neethimanthudaa (2)",
+        "Nyaayamanthudaa - Theerpu Theerchuvaadaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మరణపు పాత్రుడనయ్య - మది నెమ్మది లేనివాడనయ్య",
+        "మరపురాని దేవా మార్పు రాని ప్రభువా (2)",
+        "కృప చూపించు నను క్షమియించు - నీ దాపున జేర్చుమయ్యా"
+      ],
+      "english": [
+        "Maranapu Paathrudanayya - Madi Nemmadi Lenivaadanayya",
+        "Marapuraani Devaa Maarpu Raani Prabhuvaa (2)",
+        "Krupa Choopinchu Nanu Kshamiyinchu - Nee Daapuna Jerchumayyaa"
+      ]
+    }
+  ]
+}

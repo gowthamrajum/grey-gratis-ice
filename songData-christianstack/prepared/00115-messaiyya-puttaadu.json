@@ -1,0 +1,81 @@
+{
+  "song_name": "Messaiyya Puttaadu",
+  "author": {
+    "Authored by": "B. Gandhi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మెస్సయ్య పుట్టాడు బెత్లెహేములో.",
+      "మా గుండెల్లో నింపాడు, సత్య వాక్యము",
+      "బ్రతికున్న జీవులకి రక్షణ వార్త",
+      "పొందుకున్న వారికే జీవకిరెటం.",
+      "పొందుకున్న వారికే జీవకిరెటం."
+    ],
+    "english": [
+      "Messayya puttaadu Bethlehemulo",
+      "Maa gundello nimpaadu, sathya vaakyamu",
+      "Brathikunna jeevulaki rakshana vaartha",
+      "Pondukunna vaarikea jeevakireetam",
+      "Pondukunna vaarikea jeevakireetam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పడిపోయినా మందిరాన్ని తిరిగి లేపెను.",
+        "రాతిమీద రాతికట్టి నిలబెట్టేను"
+      ],
+      "english": [
+        "Padipoyina mandiranni thirigi lepenu",
+        "Raathimeedha raathikatti nilabettenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మరణానికి చేరకుండా స్వస్థాపరెసెను",
+        "వేషధారి హృదయమును తరిమికొట్టేను",
+        "వెర్ధమైన దెయ్యాలను వెళ్లి గొట్టును",
+        "పరిసుద్దులుగా మార్చి ప్రాణమెట్టేను",
+        "పరిసుద్దులుగా మార్చి ప్రాణమెట్టేను"
+      ],
+      "english": [
+        "Maranaaniki chearakunda svasthaparisenu",
+        "Veshadhaari hrudhayamunu tharimikottenu",
+        "Verdhamaina dheyyaalanu velli gottunu",
+        "Parisuddhuluga maarchi pranamettenu",
+        "Parisuddhuluga maarchi pranamettenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మెస్సయ్య పుట్టాడు బెత్లెహేములో",
+        "మా గుండెల్లో నింపాడు, సత్య వాక్యమూ",
+        "బ్రతికున్న జీవులకి రక్షణ వార్త,",
+        "పొందుకున్న వారికే జీవకిరెటం",
+        "పొందుకున్న వారికే జీవకిరెటం"
+      ],
+      "english": [
+        "Messayya puttaadu Bethlehemulo",
+        "Maa gundello nimpaadu, sathya vaakyamu",
+        "Brathikunna jeevulaki rakshana vaartha",
+        "Pondukunna vaarikea jeevakireetam",
+        "Pondukunna vaarikea jeevakireetam"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మెస్సయ్య పుట్టాడు బెత్లెహేములో",
+        "మా గుండెల్లో నింపాడు, సత్య వాక్యమూ"
+      ],
+      "english": [
+        "Messayya puttaadu Bethlehemulo",
+        "Maa gundello nimpaadu, sathya vaakyamu"
+      ]
+    }
+  ]
+}

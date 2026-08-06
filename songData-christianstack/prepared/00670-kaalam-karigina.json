@@ -1,0 +1,107 @@
+{
+  "song_name": "Kaalam Karigina",
+  "author": {
+    "Authored by": "Giftson Durai",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జుంటెతేనెల కంటే",
+      "అతి మధురం అది దేవుని స్వరం",
+      "దరిచేరి నిలిచావంటే",
+      "ఈ క్షణమే నీ జయం"
+    ],
+    "english": [
+      "Juntte thenelakantte",
+      "athi madhuram adhi dhevuni swaram",
+      "dharicheri nilichaavantte",
+      "e kshaname nee jayam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కాలం కరిగినా జీవితం",
+        "కాలం మరుక్షణం అది ఓ గతం",
+        "రేపో మాపని గడపకు",
+        "నేడు నాదని తలచకు"
+      ],
+      "english": [
+        "Kaalam karigina jeevitham",
+        "Kaalam marukshanam adhi o gatham",
+        "Repo maapani gadapaku",
+        "Nedu naadhani thalachaku"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఏ క్షణమేమి జరుగునో",
+        "దేవునికే అది తెలియును",
+        "నేడే రక్షణ దినమని",
+        "నిను పిలిచెను"
+      ],
+      "english": [
+        "A kshanamemi jaruguno",
+        "dhevunike adhi theliyunu",
+        "Nede rakshana dhinamani",
+        "ninu pilichenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యవ్వనమెగసిన కెరటం",
+        "అది తిరిగి చేరును సంద్రములో",
+        "దేవుని కాడిని మోసిన",
+        "అది ఆరిన నేలై లోబడదా",
+        "మేలుతో నీ హృదయమును",
+        "తృప్తి పరచును నీ ప్రియుడు",
+        "రాజుల రాజ్యములెదుట",
+        "నిను నిలుపును దీవెనగా",
+        "పూర్ణ శక్తితో పూర్ణ బలముతో కొత్త పాట పాడు",
+        "గుండె నిండుగ యేసు నిండగా ప్రేమ పండుగేగా"
+      ],
+      "english": [
+        "Yevvanamegisina keratam",
+        "adhi thirigi cherunu sandhramulo",
+        "dhevuni kaadini mosina",
+        "adhi aarina nelai lobadadha",
+        "melutho nee hrudhayamunu",
+        "thrupthi parachunu nee priyudu",
+        "raajulu raajyamuledhuta",
+        "ninnu nilupunu dheevenagaa",
+        "purna shankthitho purna balamutho kottha paatapaadu",
+        "gunde ninduga yesu nindaga prema pandugegaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఉత్సహించి పాడుము",
+        "ఉల్లసించి వేడుము",
+        "నేడే రక్షణ దినమని ప్రకటించుము"
+      ],
+      "english": [
+        "Uthsahinchi paadumu ullasinchi vedumu",
+        "nede rakshana dhinamani ninu pilichenu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "జుంటెతేనెల కంటే",
+        "అతి మధురం అది దేవుని స్వరం",
+        "రుచిచూచి తెలుసుకుంటే",
+        "ఈ క్షణమే నీ జయం"
+      ],
+      "english": [
+        "Juntte thenelakantte",
+        "athi madhuram adhi dhevuni swaram",
+        "ruchi choochi thelusukunte",
+        "e kshaname nee jayam"
+      ]
+    }
+  ]
+}

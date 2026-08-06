@@ -1,0 +1,84 @@
+{
+  "song_name": "Elaanti vaadavainaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏలాంటి వాడవైనా",
+      "నీ వెంత ఘనుడవైనా",
+      "కనుమూసే కాలమొకరోజు",
+      "ఉన్నదని మరువబోకుమన్నా"
+    ],
+    "english": [
+      "Elaanti vaadavainaa",
+      "Nee venta ghanudavainaa",
+      "Kanumoose kaalamokaroju",
+      "Unnadhani maruvabokumannaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీకు మేడ మిద్దెలున్నా",
+        "నీవు ప్రభుని చూడలేవు",
+        "మోకాళ్లు వంచి నీవు మొఱలు బెట్టి",
+        "ప్రభునడిగి చూడమన్నా  ||ఏలాంటి||"
+      ],
+      "english": [
+        "Neeku meda midhdhelunnaa",
+        "Neevu prabhuni choodalevu",
+        "Mokaallu vanchi neevu morralu betti",
+        "Prabhunadigi choodamannaa  ||Elaanti||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీకు ధనము బలగమున్నా",
+        "నీవు విర్రవీగకన్నా",
+        "ఆ ధనము కాస్తా తరిగిపోతే",
+        "దరికెవరు రారు సున్నా  ||ఏలాంటి||"
+      ],
+      "english": [
+        "Neeku dhanamu balagamunnaa",
+        "Neevu virraveegakannaa",
+        "Aa dhanamu kaasthaa tharigipothe",
+        "Darikevaru raaru sunnaa  ||Elaanti||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాపుల కొరకు ప్రభువు",
+        "కలువరిగిరిపైన",
+        "ఆసిల్వవేసి దుర్మారులంత",
+        "బహుబాధ పెట్టిరన్నా  ||ఏలాంటి||"
+      ],
+      "english": [
+        "Paapula koraku prabhuvu",
+        "Kaluvarigiripaina",
+        "Aa silvavesi dhurmaargulantha",
+        "Bahubaadha pettirannaa  ||Elaanti||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీవు పాపరోగివయ్యా",
+        "ప్రభు పిలుచుచున్నడయ్యా",
+        "ఆ ప్రభువునే పాదాలసాక్షిగా",
+        "ఎరిగి నడువుమయ్యా  ||ఏలాంటి||"
+      ],
+      "english": [
+        "Neevu paaparogivayyaa",
+        "Prabhu piluchuchunnadayyaa",
+        "Aa prabhuvune paadhaalasaakshigaa",
+        "Erigi naduvumayyaa  ||Elaanti||"
+      ]
+    }
+  ]
+}

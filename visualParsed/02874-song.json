@@ -1,0 +1,53 @@
+{
+  "song_name": "Chinnavaari priya Yesu rakshakaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "చిన్నవారి ప్రియ యేసు రక్షకా",
+      "మాదు విన్నపంబు నాలకింపుమా"
+    ],
+    "english": [
+      "Chinnavaari priya Yesu rakshakaa",
+      "Maadu vinnapambu naalakimpumaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మా ప్రవర్తనందు జక్కపర్చుము",
+        "నీతి మార్గమందు నడువజేయుము."
+      ],
+      "english": [
+        "Maa pravarthanandhu jakkaparchumu",
+        "Neethi maargamandu naduvajeyumu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇంక పెక్కుమంది చిన్న బిడ్డలు",
+        "నిన్ను నమ్మునట్లు దయజేయుము"
+      ],
+      "english": [
+        "Inka pekkumandhi chinna biddalu",
+        "Ninnu nammunatlu dayajeyumu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నిన్ను వెంబడించి యెల్లకాలము",
+        "నీదు సముఖమందు సంతసింతుము."
+      ],
+      "english": [
+        "Ninnu vembadinchi ellakaalamu",
+        "Needu samukhamandhu santhasinthumu."
+      ]
+    }
+  ]
+}

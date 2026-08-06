@@ -1,0 +1,72 @@
+{
+  "song_name": "Chaalunayyaa nee krupa naaku chaalunayyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "చాలునయ్యా చాలునయ్యా",
+      "నీ క్రప నాకు చాలునయ్యా",
+      "ప్రేమామయుడవై ప్రేమించావు",
+      "కరుణమయుడవై కరుణించావు",
+      "తల్లిగాలాలించి తండ్రిగాప్రేమించి",
+      "ప్రేమా.. కరుణా.. నీ క్రపచాలు (2)"
+    ],
+    "english": [
+      "Chaalunayyaa chaalunayyaa",
+      "Nee krupa naaku chaalunayyaa",
+      "Premaamayudavai preminchaavu",
+      "Karunamayudavai karuninchaavu",
+      "Thalligaa laalinchi thandrigaa preminchi",
+      "Premaa.. karunaa.. nee krupa chaalu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జిగటగల ఊబిలో పడియుండగా",
+        "నీ అడుగులు స్థిరపరచి నిలిపితివి (2)",
+        "హిస్సోపుతో నన్ను కడుగుము యేసయ్య",
+        "హిమముకంటెను తెల్లగమార్చయ్య",
+        "నీకేమి చెల్లింతు నా మంచి యేసయ్య",
+        "నా జీవితమంత అర్పంతునీకయ్య",
+        "ప్రేమా.. కరుణా.. నీ క్రపచాలు (2)"
+      ],
+      "english": [
+        "Jigatagala oobhilo padiyundagaa",
+        "Nee adugulu sthiraparachi nilipithivi (2)",
+        "Hissoputho nannu kadugumu Yesayya",
+        "Himamukantenu thellagaa maarchayya",
+        "Neekemi chellinthu naa manchi Yesayya",
+        "Naa jeevithamantha arpinthu neekayya",
+        "Premaa.. karunaa.. nee krupa chaalu (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బంధువులు స్నేహితులు త్రోసేసినా",
+        "తల్లిదండ్రు లేనన్ను వెలివేసినా (2)",
+        "నన్ను నీవు విడువను లేదయా",
+        "మిన్నగ ప్రేమించి రక్షించినావయ్యా",
+        "నీకేమి చెల్లింతు నామంచి యేసయ్యా",
+        "నీకేమి చెల్లింతు నా మంచి యేసయ్యా",
+        "నీసాక్షిగా ఇల జీవింతునయ్యా",
+        "ప్రేమా.. కరుణా.. నీ క్రపచాలు (2)"
+      ],
+      "english": [
+        "Bandhuvulu snehithulu throsesinaa",
+        "Thallidhandrule nannu velivesinaa (2)",
+        "Nannu neevu viduvanu ledayaa",
+        "Minnaga preminchi rakshinchinaavayyaa",
+        "Neekemi chellinthu naa manchi Yesayyaa",
+        "Neekemi chellinthu naa manchi Yesayyaa",
+        "Nee saakshigaa ila jeevinthunayyaa",
+        "Premaa.. karunaa.. nee krupa chaalu (2)"
+      ]
+    }
+  ]
+}

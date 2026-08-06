@@ -1,0 +1,80 @@
+{
+  "song_name": "Kreesthu nedu lechenu marthya dootha sanghamaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "క్రీస్తు నేడు లేచెను - మర్త్య దూత సంఘమా",
+        "భూమి నాకాసంబులో - బాడు విందుచేతను"
+      ],
+      "english": [
+        "Kreesthu nedu lechenu - Marthya dootha sanghamaa",
+        "Bhoomi naakaasambulo - Baadu vindhuchethanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మోక్ష మియ్య నాథుదు - యుద్ధమాడి గెల్చెను",
+        "సూర్యుడుద్భవింపగ - జీకటుల్ గతించెను"
+      ],
+      "english": [
+        "Moksha miyya naathudu - Yuddhamaadi gelchenu",
+        "Sooryududbhavimpaga - Jeekatul gathinchenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బండ, ముద్ర, కావలి - అన్ని వ్యర్థమైనవి",
+        "యేసు నరకంబును - గెల్చి ముక్తి దెచ్చెను"
+      ],
+      "english": [
+        "Banda, mudra, kaavali - Anni vyarthamainavi",
+        "Yesu narakambunu - Gelchi mukthi dhechchenu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "క్రీస్తు లేచినప్పుడు - చావు ముల్లు త్రుంచెను",
+        "ఎల్లవారి బ్రోచును - మృత్యు వింక గెల్వదు"
+      ],
+      "english": [
+        "Kreesthu lechinappudu - Chaavu mullu thrunchenu",
+        "Ellavaari brochunu - Mruthyu vinka gelvadhu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యేసు మృతి గెల్చెను - మేము కూడ గెల్తుము",
+        "యేసుడుండు చోటుకు - మేము కీడబోదుము"
+      ],
+      "english": [
+        "Yesu mruthi gelchenu - Memu kooda gelthumu",
+        "Yesudundu chotuku - Memu keedabodhumu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "భూమి నాకాసంబులో - యేసు, నీకు స్తోత్రము",
+        "మృత్యు సంహారకుండ - నీకేను విజయము"
+      ],
+      "english": [
+        "Bhoomi naakaasambulo - Yesu, neeku sthothramu",
+        "Mruthyu samhaarakunda - Neekenu vijayamu"
+      ]
+    }
+  ]
+}

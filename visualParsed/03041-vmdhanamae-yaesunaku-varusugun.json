@@ -1,0 +1,77 @@
+{
+  "song_name": "Vandhaname Yesunaku varusugunodhaarunaku",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "పురుషోత్తము చౌధరి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "వందనమే యేసునకు వరుసుగుణోదారునకు సౌందర్య ప్రభువునకు సర్వేశ్వర",
+      "నీకు ||వందనమే||"
+    ],
+    "english": [
+      "Vandhaname Yesunaku varusugunodhaarunaku saundharya Prabhuvunaku sarveshwara",
+      "Neeku ||Vandhaname||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యెహోవా తనయునకు ఇమ్మానుయేలునకు బహు కరుణాభరణునకుఁ",
+        "ప్రభువుల ప్రభువునకు||వందనమే||"
+      ],
+      "english": [
+        "Yehova tanayunaku Immaanuyelunaku bahu karunaabharanunaku",
+        "Prabhuvula prabhuvunaku||Vandhaname||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆశ్రిత జనపాలునకు నకలుష వర దేహునకు ఇశ్రాయేల్ రాజునకు",
+        "యెహోవా నీకు||వందనమే||"
+      ],
+      "english": [
+        "Aashritha janapaalunaku nakalusha vara dhehunaku Ishraayel raajunaku",
+        "Yehova neeku||Vandhaname||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మరియాతనూజునకు మహిమ గంభీరునకుఁ పరిశుద్ధాచరణునకుఁ",
+        "బరమేశ్వర నీకు||వందనమే||"
+      ],
+      "english": [
+        "Mariyaathanoojunaku mahima gambheerunaku parishuddhaacharanunaku",
+        "Parameshwara neeku||Vandhaname||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "రాజులపై రాజునకు రవికోటి తేజునకుఁ పూజార్హపదాబ్జునకు",
+        "భువనావన నీకు||వందనమే||"
+      ],
+      "english": [
+        "Raajulapai raajunaku ravikoti thejunaku poojaarhapadhaabjunaku",
+        "Bhuvanaavana neeku||Vandhaname||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ప్రేమ దయా సింధునకు క్షేమామృత పూర్ణునకు ఆమే నని సాష్టాంగము",
+        "లర్పింతుము నీకు||వందనమే||"
+      ],
+      "english": [
+        "Prema dayaa sindhunaku kshemaamrutha poornunaku aame nani saashtaangamu",
+        "Larpinthumu neeku||Vandhaname||"
+      ]
+    }
+  ]
+}

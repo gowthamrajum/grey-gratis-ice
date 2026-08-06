@@ -1,0 +1,86 @@
+{
+  "song_name": "Adbhutha deevenalu - Prabhuvaa kummarinchithivi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "అద్భుత దీవెనలు - ప్రభువా కుమ్మరించితివి",
+      "నీదు ప్రేమ అపారము - ప్రభువా మాపై జూపితివి"
+    ],
+    "english": [
+      "Adbhutha deevenalu - Prabhuvaa kummarinchithivi",
+      "Needu prema apaaramu - Prabhuvaa maapai joopithivi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మానవుని చేసినావు - నీ స్వంత రూపమునకు",
+        "నీ కిష్టులముగా బ్రతికి - దీవెనలెన్నో పొందెదము"
+      ],
+      "english": [
+        "Maanavuni chesinaavu - Nee swantha roopamunaku",
+        "Nee kishtulamugaa brathiki - Deevenalenno pondedamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నూతన జన్మవలన - ఆశీర్వాదములు దొరికె",
+        "శాపమును దూరపరచి - సర్వంబు క్రొత్తజేసె"
+      ],
+      "english": [
+        "Noothana janmavalana - Aasheervaadhamulu dorike",
+        "Shaapamunu dhooraparachi - Sarvambu krotthajese"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "లోకమునుండి వేరై - సిలువను మోయవలెను",
+        "అప్పుడే ప్రభు దీవించు - స్వాస్థ్యమును గాంచుమెంతో"
+      ],
+      "english": [
+        "Lokamunundi verai - Siluvanu moyavalenu",
+        "Appude Prabhu deevinchu - Swaasthyamunu gaanchumentho"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "తన సుతులుగాను మెలిగి - తన చిత్తమందు నిలిచి",
+        "జీవజలమును పొంది - దేవెనలెన్నో పొందెదము"
+      ],
+      "english": [
+        "Thana suthulugaanu meligi - Thana chitthamandhu nilichi",
+        "Jeevajalamunu pondi - Deevenalenno pondedamu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఆత్మీయముగ నడిచి - శరీర క్రియలను విడిచి",
+        "ఆయన స్వరము వినుచు - దీవెనలెన్నో పొందెదము"
+      ],
+      "english": [
+        "Aathmeeyamuga nadichi - Shareera kriyalanu vidichi",
+        "Aayana swaramu vinuchu - Deevenalenno pondedamu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఆశీర్వాదముల కొరకు - పిలువబడియున్న మనము",
+        "ఆజ్ఞలను నెరవేర్చినతో - దీవెనలెన్నో పొందెదము"
+      ],
+      "english": [
+        "Aasheervaadhamula koraku - Piluvabadiyunna manamu",
+        "Aagnyalanu neraverchinatho - Deevenalenno pondedamu"
+      ]
+    }
+  ]
+}

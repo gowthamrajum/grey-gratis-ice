@@ -1,0 +1,134 @@
+{
+  "song_name": "Okka Kshanamaina",
+  "author": {
+    "Authored by": "Sis. Prasanna Bold",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఒక్క క్షణమైన",
+      "ఒక్క క్షణమైన నేనెనుందుకు మౌనంగుండాలే",
+      "24 గంటలు ఆరాధించాలే",
+      "ఒక్క క్షణమైన నేనెనుందుకు మౌనంగుండాలే",
+      "24 గంటలు అరెయ్ తీన్మార్ ఎయ్యాలే"
+    ],
+    "english": [
+      "Okka kshanamaina",
+      "Okka kshanamaina nenenundhuku mounamgundaale",
+      "24 gantalu aaraadhinchaalea",
+      "Okka kshanamaina neanenunduku mounamgunDaalea",
+      "24 gantalu arey theenmaar eyyaale"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వ్యర్ధమైన ఆలోచనలకు తావెందుకివ్వాలి",
+        "గంభీరుడైన యేసుపైన ధ్యానముంచాలి"
+      ],
+      "english": [
+        "Vyardhamaina aalochanalaku thaavendhukivvaali",
+        "gambheerudaina yesupaina dhyaanamunchaali"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఒక్క క్షణమైన",
+        "ఒక్క క్షణమైన క్రీస్తుకు బయట నేనెందుకుండాలి",
+        "24 గంటలు క్రీస్తులో మండాలి"
+      ],
+      "english": [
+        "Okka kshanamaina",
+        "Okka kshanamaina kreesthuku bayata nenendukundaali",
+        "24 gantalu kreesthulo mandaali"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పనికిరాని విషయాలను నేనెందుకు చూడాలి",
+        "మహిమగలిగిన యేసుడే నా కనులలో నిండాలి"
+      ],
+      "english": [
+        "Panikiraani vishayaalanu nenenduku choodaali",
+        "mahimagaligina yesude naa kanulalo nindaali"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఒక్క క్షణమైన",
+        "ఒక్క క్షణమైన నేనెందుకు వ్యర్ధం చేయాలి",
+        "24 గంటలు గంతులు వేయాలి"
+      ],
+      "english": [
+        "Okka kshanamaina",
+        "Okka kshanamaina nenenduku vyardham cheyaali",
+        "24 gantalu ganthulu veyaali"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మూర్ఖమైన మాటలు నాకు ఎందుకు రావాలి",
+        "అన్యభాషలతో నోరు నింపుకోవాలి"
+      ],
+      "english": [
+        "Moorkhamaina maatalu naaku endhuku raavaali",
+        "anyabhaashalatho noru nimpukovaali"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఒక్క క్షణమైన",
+        "ఒక్క క్షణమైన నేనెందుకు కూర్చుండిపోవాలి",
+        "24 గంటలు క్రీస్తుతో నడవాలి"
+      ],
+      "english": [
+        "Okka kshanamaina",
+        "Okka kshanamaina nenenduku kurchundi povaali",
+        "24 gantalu kreesthutho nadavaali"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "చింతపడుటకు నా మనసే ఎందుకు వాడాలి",
+        "యేసు మాటలతో గుండెను నింపుకోవాలి"
+      ],
+      "english": [
+        "chinthapadutaku naa manase enduku vaadaali",
+        "yesu maatalatho gundenu nimpukovaali"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "ఒక్క క్షణమైన",
+        "ఒక్క క్షణమైన నేనెందుకు ధుఖఃంగుండాలి",
+        "24 గంటలు అరె పక పక నవ్వాలి"
+      ],
+      "english": [
+        "Okka kshanamaina",
+        "Okka kshanamaina nenenduku dhukkamgundaali",
+        "24 gantalu arey paka paka navvaali"
+      ]
+    },
+    {
+      "stanza_number": 9,
+      "telugu": [
+        "ఒక్క క్షణమైన",
+        "ఒక్క క్షణమైన నేనెనుందుకు మౌనంగుండాలే",
+        "24 గంటలు ఆరాధించాలే"
+      ],
+      "english": [
+        "Okka kshanamaina",
+        "Okka kshanamaina nenenunduku mounamgundaale",
+        "24 gantalu aaraadhinchaale"
+      ]
+    }
+  ]
+}

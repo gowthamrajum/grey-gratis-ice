@@ -1,0 +1,59 @@
+{
+  "song_name": "Yesunu sthuthiyinchuvaaru nithyajeevamu pondedaru",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసును స్తుతియించు వారు నిత్యజీవము నొందెదరు",
+      "ఆనందముతో అనుదినము సంతోషముగా నుందురు"
+    ],
+    "english": [
+      "Yesunu sthuthiyinchu vaaru nithyajeevamu nondhedharu",
+      "Aanandamutho anudinamu santhoshamugaa nundhuru"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వాడ బారని ఆకువలె దిన దినము బలమొందెదరు",
+        "జీవజలపు నదియొడ్దునా - వృక్షమువలె పెరిగెదరు",
+        "ఆ..హ... హల్లెలూయా - ఆ ..ఆ..ఆ.హల్లెలూయా \" యేసు \""
+      ],
+      "english": [
+        "Vaada baarani aakuvale dina dinamu balamondhedharu",
+        "Jeevajalapu nadhiyoddhunaa - Vrukshamuvale perigedharu",
+        "Aa..ha... hallelooyaa - Aa ..aa..aa.hallelooyaa \" Yesu \""
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చీకుచింతలు కలిగినను- చెరలో ధు:ఖము కలిగినను",
+        "కనురెప్పవలె కాపాడి - యేసే విడిపించును",
+        "ఆ..హ..హల్లెలూయ - ఆ..ఆ...ఆ...హల్లెలూయా \"యేసు \""
+      ],
+      "english": [
+        "Cheekuchinthalu kaliginanu- Cheralo dukhamu kaliginanu",
+        "Kanureppavale kaapaadi - Yese vidipinchunu",
+        "Aa..ha..hallelooya - Aa..aa...aa...hallelooyaa \"Yesu \""
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నడి సముద్రములో పయినించినా - నట్టడవులలో నివసించినా",
+        "ఎన్నడు మరువక ఎడబాయక - యేసే తోడుండును",
+        "ఆ....హ.. హల్లేలూయా - ఆ...ఆ...ఆ..హల్లేలూయ \"యేసు \""
+      ],
+      "english": [
+        "Nadi samudhramulo payaninchinaa - Nattadavulalo nivasinchinaa",
+        "Ennadu maruvaka edabaayaka - Yese thodundunu",
+        "Aa....ha.. hallelooyaa - Aa...aa...aa..hallelooya \"Yesu \""
+      ]
+    }
+  ]
+}

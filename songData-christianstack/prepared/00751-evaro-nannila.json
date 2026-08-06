@@ -1,0 +1,36 @@
+{
+  "song_name": "Evaro Nannila",
+  "author": {
+    "Authored by": "Hosanna Ministries",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎవరో నాన్నిలా మార్చినది",
+      "ఎడబాయని కృప చూపినది",
+      "ఎవరు చూపని అనురాగమును",
+      "ఏదో తెలియని ఆప్యాయతను",
+      "చూపించినది ఇంకెవ్వరు"
+    ],
+    "english": [
+      "Evaro Ninnilaa maarchinadhi",
+      "edabaayani krupa choopinadhi",
+      "evaru choopani anuraagamunu",
+      "edo theliyani aapyaayathanu",
+      "choopinchinadhi inkevvaru"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇదే కదా ప్రేమ – యేసయ్యా ప్రేమ",
+        "మధురమైన ప్రేమ – దివ్యమైన ప్రేమ"
+      ],
+      "english": [
+        "Idey kada prema – yesayya prema",
+        "madhuramaina prema – divyamaina prema"
+      ]
+    }
+  ]
+}

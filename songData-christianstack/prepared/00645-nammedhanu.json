@@ -1,0 +1,78 @@
+{
+  "song_name": "Nammedhanu",
+  "author": {
+    "Authored by": "Pastor Reenukumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నమ్మెదను నా యేసుని మాత్రమే",
+      "నమ్మెదను నా యేసుని మాత్రమే"
+    ],
+    "english": [
+      "Nammedhanu naa yesuni mathrame",
+      "nammedhanu naa yesuni maathrame"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నే నిలచు భూమి, కంపించి కూలి పోయినా",
+        "నిరీక్షణకు ఆధారం నశించి పోయినా",
+        "నేను నమ్ముకున్న ఒక్కరైనా లేక పోయిన"
+      ],
+      "english": [
+        "Ne nilachu bhoomi, kampinchi kooli poyina",
+        "nireekshanaku aadharam nashinchi poyina",
+        "nenu nammukunna okkaraina leka poyina"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా మార్గమంత అంధకారం అయిపోయినా",
+        "జీవితమే అంతమై మరు జీవము లేకున్నా",
+        "నను ఓదార్చవారు ఒక్కరైన లేకపోయిన"
+      ],
+      "english": [
+        "Naa maargamantha andhakaram aipoyina",
+        "jeevithame anthamai maru jeevamu lekunna",
+        "nannu odhaarchuvaaru okkaraina lekapoyina"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "Bridge:",
+        "పరుగెత్తెదన్ నే గురి యొద్దకే",
+        "విశ్వాసమంతా నా యేసే"
+      ],
+      "english": [
+        "Bridge:",
+        "Parugethedhan ne guri yodhake",
+        "vishwasamantha na yese"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నాకు ఉన్నవన్ని",
+        "నీకై నే అర్పించెదను"
+      ],
+      "english": [
+        "Naaku unnavanni",
+        "neekai ne arpinchedhanu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నమ్మెదను నా యేసుని మాత్రమే"
+      ],
+      "english": [
+        "Nammedhanu na yesuni maathrame"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "song_name": "Reference: Vaaru vadhimpabadina gorrepilla, shakthiyu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆరాధనలకు యోగ్యుడవు - స్తుతి గీతంబులకు పాత్రుడవు",
+      "ప్రభుయేసు నిన్ను పూజింతును - మనసార నిన్నే కీర్తించ్తును",
+      "ఆరాధనలకు - యోగ్యుడవు"
+    ],
+    "english": [
+      "Aaraadhanalaku yogyudavu - Sthuthi geethambulaku paathrudavu",
+      "Prabhuyesu ninnu poojinthunu - Manasaara ninne keerthinthunu",
+      "Aaraadhanalaku - Yogyudavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "భరియించితివి నా రోగములన్ - భరియించితివి నా వ్యసనములన్",
+        "అరిగితివి నాకై కలువరికి - పరిహరించితివి పాప శిక్షన్"
+      ],
+      "english": [
+        "Bhariyinchithivi naa rogamulan - Bhariyinchithivi naa vyasanamulan",
+        "Arigithivi naakai Kaluvariki - Pariharinchithivi paapa shikshan"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా యతిక్రమములకై గాయపడి - నా దోషములకై కొట్టబడి",
+        "చిందిన సిలువ రక్తములో - నా దారిద్ర్యము తొలగించితివి"
+      ],
+      "english": [
+        "Naa athikramamulakai gaayapadi - Naa doshamulakai kottabadi",
+        "Chindina siluva rakthamulo - Naa daaridhryamu tholaginchithivi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నశియించిన నను వెదకితివి - నశియించిన నను లేపితివి",
+        "నా శాపమును చూపించితివి - నీ శాంతముతో క్షమించితివి"
+      ],
+      "english": [
+        "Nashiyinchina nanu vedakithivi - Nashiyinchina nanu lepithivi",
+        "Naa shaapamunu choopinchithivi - Nee shaanthamutho kshaminchithivi"
+      ]
+    }
+  ]
+}

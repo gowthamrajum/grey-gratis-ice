@@ -1,0 +1,95 @@
+{
+  "song_name": "Sreshtamu శ్రేష్ఠము",
+  "author": {
+    "Authored by": "Amara Kumari",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "బలులు అర్పించుటకంటే నీ",
+      "ఆజ్ఞను గైకొనుట శ్రేష్టము",
+      "పొట్టేళ్ళ క్రొవ్వును అర్పించుటకంటే",
+      "నీ మాటకు లోబడుట శ్రేష్టము."
+    ],
+    "english": [
+      "Balulu arpinchutakante nee",
+      "aagnanu gaikonuta sreshtamu",
+      "pottella krovvunu arpinchutakante",
+      "nee maataku lobaduta sreshtamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శ్రేష్టము శ్రేష్టము మాటవినుట శ్రేష్టము",
+        "శ్రేష్టము శ్రేష్టము లోబడుట శ్రేష్టము."
+      ],
+      "english": [
+        "Sreshtamu sreshtamu maatavinuta sreshtamu",
+        "sreshtamu sreshtamu lobaduta sreshtamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసయ్యా యేసయ్యా యేసయ్యా నా యేసయ్యా…."
+      ],
+      "english": [
+        "Yesayyaa Yesayyaa Yesayyaa naa Yesayyaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ మాటను వినిన అబ్రాహాము",
+        "విశ్వాసుల తండ్రిగా మారినాడుగా",
+        "నీ మాటను వినిన సమూయేలు",
+        "అభిషేకించు ప్రవక్త ఆయెగ…."
+      ],
+      "english": [
+        "Nee maatanu vinina abraahaamu",
+        "viswaasula thandrigaa maarinaadugaa",
+        "nee maatanu vinina samuelu",
+        "abhishekinchu pravaktha aayega.."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మాట వినుట మాకు నేర్పుము",
+        "నీ మార్గములో మమ్ము నడుపుము"
+      ],
+      "english": [
+        "Maata ninuta maaku nerpumu",
+        "nee maargamuloo mammu nadupumu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీ మాటను వినిన గిద్యోను",
+        "పరాక్రమశాలిగా మారినాడుగా",
+        "నీ మాటను వినిన దావీదు రాజు",
+        "శాశ్వత సింహాసనం పొందినాడుగా"
+      ],
+      "english": [
+        "Nee maatanu vinina gidhyonu",
+        "paraakramasaaligaa maarinaadugaa",
+        "nee maatanu vinina dhaaveedhu raaju",
+        "saaswatha simhaasanam pondhinaadugaa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "మాట వినుటను మాకు నేర్పుము",
+        "నీ మార్గములో మమ్ము నడుపుము"
+      ],
+      "english": [
+        "Maata vinutanu maaku nerpumu",
+        "nee maargamulo mammu nadupumu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "song_name": "Velugunu RakShNa Karthayunagunaa",
+  "author": {
+    "Authored by": "",
+    "రచన": "రావి జాన్ సుందరరావు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "వెలుగును రక్షణ కర్తయునగునా బలమగు దేవుని స్తోత్రింతును",
+      "వెరువను నేనిక నెవ్వరికిన్ వెలుగైన యేసే నా దుర్గము"
+    ],
+    "english": [
+      "Velugunu RakShNa Karthayunagunaa Balamagu Dhaevuni SthoathriMthunu",
+      "Veruvanu Naenika Nevvarikin Velugaina Yaesae Naa Dhurgamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అగాధ చీకటి జలముల నుండి అఖండమైన వెలుగు సృజించిన",
+        "యుగయుగంబుల నేలెడి ప్రభువు యఘముల బాపి నను వెలిగించును"
+      ],
+      "english": [
+        "AgaaDha Cheekati Jalamula NuMdi AkhMdamaina Velugu SrujiMchina",
+        "YugayugMbula Naeledi Prabhuvu Yaghamula Baapi Nanu VeligiMchunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా దీపమును వెలిగించు ప్రభువే నా దరి చీకటిన్ వెలుగుగ మార్చును",
+        "నా దోషము లెల్లను దన కాంతిలో నాదరముగ కడిగి రక్షించును"
+      ],
+      "english": [
+        "Naa Dheepamunu VeligiMchu Prabhuvae Naa Dhari Cheekatin Veluguga Maarchunu",
+        "Naa DhoaShmu Lellanu Dhana KaaMthiloa Naadharamuga Kadigi RakShiMchunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పలువిధ శోధనల్ నను జుట్టినను విలువగు సంపద లంతరించినను",
+        "వెలుగుదూత నాపై యురులొడ్డిన నలయక నిత్యము నడచెద వెల్గులో"
+      ],
+      "english": [
+        "PaluviDha ShoaDhanal Nanu Juttinanu Viluvagu SMpadha LMthariMchinanu",
+        "Velugudhootha Naapai Yuruloddina Nalayaka Nithyamu Nadachedha Velguloa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "తల్లిదండ్రులు విడచినగాని యుల్లము భీతిని భయమందినను",
+        "ఎల్ల ప్రజలు నను ద్వేషించినను ఎడబాయడునా ప్రియుడగు యేసు"
+      ],
+      "english": [
+        "ThallidhMdrulu Vidachinagaani Yullamu Bheethini BhayamMdhinanu",
+        "Ella Prajalu Nanu DhvaeShiMchinanu Edabaayadunaa Priyudagu Yaesu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "క్రీస్తు యేసుడే లోకపు వెలుగని వాస్తముగ గనుడి ప్రియులార",
+        "శాశ్వతంబగు రాజ్యము చేర సత్వరమాయన వెలుగును బొందరె"
+      ],
+      "english": [
+        "Kreesthu Yaesudae Loakapu Velugani Vaasthamuga Ganudi Priyulaara",
+        "ShaashvathMbagu Raajyamu Chaera Sathvaramaayana Velugunu BoMdhare"
+      ]
+    }
+  ]
+}

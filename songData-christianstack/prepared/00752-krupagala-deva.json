@@ -1,0 +1,42 @@
+{
+  "song_name": "Krupagala Deva",
+  "author": {
+    "Authored by": "Pastor Abraham",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కృపగల దేవా దయగల రాజా",
+      "చేరితి నిన్నే బహుఘనతేజ",
+      "నీ చరణములే నే కోరితిని",
+      "నీ వరములనే నే వేడితిని",
+      "సర్వాధికారి నీవే దేవా",
+      "నా సహకారి నీవే ప్రభువా",
+      "నా కోరికలే సఫలము చేసి",
+      "ఆలోచనలే నెరవేర్చితివి"
+    ],
+    "english": [
+      "Krupagala devaa dhayagala raajaa",
+      "cherithi ninne bahughanatheja",
+      "nee charanamule ne korithini",
+      "nee varamulane ne vedithini",
+      "sarvaadhikaari neeve devaa",
+      "naa sahakaari neeve prabhuvaa",
+      "naa korikale saphalamu chesi",
+      "aalochanale neraverchithivi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అర్పించెదను నా సర్వమును నీకే దేవా",
+        "ఆరాధించి ఆనందించెద నీలో దేవా"
+      ],
+      "english": [
+        "Arpinchedhanu naa sarvamunu neeke devaa",
+        "aaraadhinchi aanandincheda neelo devaa"
+      ]
+    }
+  ]
+}

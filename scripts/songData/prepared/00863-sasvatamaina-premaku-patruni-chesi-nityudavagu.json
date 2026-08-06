@@ -1,0 +1,53 @@
+{
+  "song_name": "Sasvatamaina Premaku Patruni Chesi Nityudavagu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "శాశ్వతమైన ప్రేమకు పాత్రుని చేసి",
+      "నిత్యుడవగు తండ్రి నీవైనావే",
+      "రక్షణ ఆనందాన్ని నా కందించి",
+      "పరలోకపు వారసుడ్ని చేసావే"
+    ],
+    "english": [
+      "Sasvatamaina Premaku Patruni Chesi",
+      "Nityudavagu Tamdri Nivainave",
+      "Rakshana Anamdanni Na Kamdimchi",
+      "Paralokapu Varasudni Chesave"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా అడుగులను క్రమపరచి నా హృదయమును స్ధిరపరచి",
+        "నీదు రక్తములో నను శుద్ధుని చేసితివే",
+        "నను నూతన సృష్టిగా చేసి నీ పాత్రగా నను మలచి",
+        "నీ దీవెన కర్హుడుగా చేసిన దేవా నీకే స్తోత్రము"
+      ],
+      "english": [
+        "Na Adugulanu Kramaparachi Na Hrudayamunu Sdhiraparachi",
+        "Nidu Raktamulo Nanu Suddhuni Chesitive",
+        "Nanu Nutana Srushtiga Chesi Ni Patraga Nanu Malachi",
+        "Ni Divena Karhuduga Chesina Deva Nike Stotramu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ వాక్యం నా యందుంచి దుష్టుడిని జయింపచేసి",
+        "సత్యమైన వెలుగులోనికి నడిపించితివే",
+        "నా మట్టుకైతే బ్రతుకుట క్రీస్తే చావైతే లాభమని",
+        "నీ సాక్షిగా సంపూర్ణ శక్తితో దేవా నన్ను నిలుపు"
+      ],
+      "english": [
+        "Ni Vakyam Na Yamdumchi Dushtudini Jayimpachesi",
+        "Satyamaina Veluguloniki Nadipimchitive",
+        "Na Mattukaite Bratukuta Kriste Chavaite Labamani",
+        "Ni Sakshiga Sampurna Saktito Deva Nannu Nilupu"
+      ]
+    }
+  ]
+}

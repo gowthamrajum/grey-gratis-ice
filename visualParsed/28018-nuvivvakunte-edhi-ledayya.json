@@ -1,0 +1,63 @@
+{
+  "song_name": "Nuvivvakunte edhi ledhayya",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "M V Ratnam"
+    ],
+    "రచన": [
+      "ఎం వి రత్నం"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నువివ్వకుంటే ఏది లేదయ్యా",
+      "నీ కృప లేనిదే ఏది రాదయ్యా",
+      "నా ప్రాణము నా జీవము",
+      "నా సర్వము నా సమస్తము",
+      "అంతయు నీదే యేసయ్య",
+      "స్తుతి చెల్లించెద నేనయ్య"
+    ],
+    "english": [
+      "Nuvivvakunte edhi ledhayya",
+      "Nee krupa lenide edhi raadhayya",
+      "Naa praanamu naa jeevamu",
+      "Naa sarvamu naa samasthamu",
+      "Anthayu neede Yesayya",
+      "Sthuthi chellinchedha nenayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నేను కలిగిన రూపము",
+        "నేను కలిగిన ఊపిరి",
+        "నేను కలిగిన ఈ స్థితి",
+        "నేను కలిగిన ధన్యత",
+        "నా ధనము ఘనము జ్ఞానం బుద్ధి నీదే యేసయ్య",
+        "స్తుతియు ఘనత మహిమ స్తోత్రం నీకే మెసయ్య",
+        "నేను పొందిన రక్షణ",
+        "నేను పొందిన స్వస్థత",
+        "నేను పొందిన విడుదల",
+        "నేను పొందిన విజయము",
+        "నా బలము ధ్వజము కొండ కోట నీదే యేసయ్య",
+        "స్తుతియు మహిమ ఘనత స్తోత్రం నీకే మెసయ్య"
+      ],
+      "english": [
+        "Nenu kaligina roopamu",
+        "Nenu kaligina oopiri",
+        "Nenu kaligina ee sthithi",
+        "Nenu kaligina dhanyatha",
+        "Naa dhanamu ghanamu gnaanam budhdhi neede Yesayya",
+        "Sthuthiyu ghanatha mahima sthothram neeke Yesayya",
+        "Nenu pondina rakshana",
+        "Nenu pondina swasthatha",
+        "Nenu pondina vidudala",
+        "Nenu pondina vijayamu",
+        "Naa balamu dhvajamu konda kota neede Yesayya",
+        "Sthuthiyu mahima ghanatha sthothram neeke Yesayya"
+      ]
+    }
+  ]
+}

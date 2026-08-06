@@ -1,0 +1,93 @@
+{
+  "song_name": "Neeve",
+  "author": {
+    "Authored by": "Vijay Kondapuram",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవే ఆశ్రయదుర్గం",
+      "నీవే నా సహాయం",
+      "నీవే కేడెము బలము",
+      "యేసు నీవే నా దాగుస్థలము"
+    ],
+    "english": [
+      "Neeve aasrayadurgam",
+      "neeve naa sahaayam",
+      "neeve kedemu balamu",
+      "yesu neeve naa dhaagusthalamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవే మార్గము సత్యం",
+        "నిత్యజీవం యేసయ్యా"
+      ],
+      "english": [
+        "neeve maargamu satyam",
+        "nityajeevam yesayyaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీవే ఆదియు అంతం",
+        "నీవే మారని దైవం",
+        "నీవే జీవాహారం",
+        "యేసు నీవే జీవనధారం"
+      ],
+      "english": [
+        "neeve aadhiyu antham",
+        "neeve maarani daivam",
+        "neeve jeevaahaaram",
+        "yeasu neeve jeevanadhaaram"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీవే రక్షణ శృంగం",
+        "నీవే పునరుద్ధాణం"
+      ],
+      "english": [
+        "neeve rakshana srungam",
+        "neeve punaruddhaanam"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పునరుద్ధాణుడా యేసయ్య",
+        "నా కొరకు బలియైన రక్షకుడా"
+      ],
+      "english": [
+        "punaruddhaanudaa yesayya",
+        "naa koraku baliyaina rakshakudaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీవంటివారే లేరు యేసయ్య",
+        "నీవులేని చోటే లేదు యేసయ్య"
+      ],
+      "english": [
+        "neevantivaare leru yesayya",
+        "neevuleni chote ledu yesayya"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నీవే హృదయ ధ్యానం",
+        "యేసు నీవే నా స్తోత్రగానం"
+      ],
+      "english": [
+        "neeve hrudhaya dhyaanam",
+        "yesu neeve naa sthothragaanam"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "song_name": "Dhavala Simhaasanam",
+  "author": {
+    "Authored by": "Prem Kodali",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ధవళ సింహాసనం",
+      "దూతల స్తుతిగానం",
+      "పరిశుద్ధుల సహవాసం",
+      "యేసయ్య నివాసం"
+    ],
+    "english": [
+      "Dhavala simhaasanam",
+      "Dhootala stutigaanam",
+      "Parishuddhula sahavaasam",
+      "Yesayya nivaasam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిత్యముందును నా తండ్రితో",
+        "నిత్యానందములో నా యేసుతో"
+      ],
+      "english": [
+        "Nityamundunu naa tandritho",
+        "Nityaanandamulo naa Yesutho"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసయ్య దరహాసం",
+        "చేతిగాయాల కరచాలనం",
+        "కౌగిలింతల సుస్వాగతం",
+        "కేరింతల కోలాహలం"
+      ],
+      "english": [
+        "Yesayya darahaasam",
+        "Chetigaayala karachaalanam",
+        "Kaugilin̄tala susvaagatam",
+        "Kerin̄tala kolaahalam"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "జీవ కిరీటం",
+        "జీవ జలపాతం",
+        "సుస్థిర నివాసం",
+        "పరలోక పురవాసం"
+      ],
+      "english": [
+        "Jeeva kireetam",
+        "Jeeva jalapaatham",
+        "Susthira nivaasam",
+        "Paraloka puravaasam"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కన్నీరు లేదు",
+        "కలత లేదు",
+        "కొరత లేదు",
+        "కష్టనష్టము లేదు"
+      ],
+      "english": [
+        "Kanniru ledu",
+        "Kalata ledu",
+        "Korata ledu",
+        "Kashta nashtamu ledu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "చీకటి లేదు",
+        "చావు లేదు",
+        "భారము లేదు",
+        "భయము లేదు"
+      ],
+      "english": [
+        "Cheekati ledu",
+        "Chaavu ledu",
+        "Bhaaramu ledu",
+        "Bhayamu ledu"
+      ]
+    }
+  ]
+}

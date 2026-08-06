@@ -1,0 +1,53 @@
+{
+  "song_name": "Hallelooya Nee Kallelooya Chal",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "హల్లెలూయ నీ కల్లెలూయ చల్లఁగా రమ్మిప్పు డేసు ||హల్లెలూయ||"
+    ],
+    "english": [
+      "hallelooya nee kallelooya challAOgaa rammippu daesu ||hallelooya||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఒప్పుకొందుము మాదు తప్పిదంబులన్ ముప్పులో నుండి మమ్ముఁ దప్పించు మయ్యా ||హల్లెలూయ||"
+      ],
+      "english": [
+        "oppukoMdhumu maadhu thappidhMbulan muppuloa nuMdi mammuAO dhappiMchu mayyaa ||hallelooya||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పిల్లల మయ్యా బీద పిల్లల మయ్యా చల్లని నీ నామమును సన్నుతింతుము ||హల్లెలూయ||"
+      ],
+      "english": [
+        "pillala mayyaa beedha pillala mayyaa challani nee naamamunu sannuthiMthumu ||hallelooya||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వందనమయ్యా నీకు వందన మయ్యా యందముగ మమ్మును నీ యందు నిల్పుమా ||హల్లెలూయ||"
+      ],
+      "english": [
+        "vMdhanamayyaa neeku vMdhana mayyaa yMdhamuga mammunu nee yMdhu nilpumaa ||hallelooya||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆడుచుందుము మేము పాడుచుందుము వేడుకతోఁ గూడి నిను వే డుకొందుము ||హల్లెలూయ||"
+      ],
+      "english": [
+        "aaduchuMdhumu maemu paaduchuMdhumu vaedukathoaAO goodi ninu vae dukoMdhumu ||hallelooya||"
+      ]
+    }
+  ]
+}

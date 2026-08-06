@@ -1,0 +1,52 @@
+{
+  "song_name": "Yehoava Gadhdhe Mumdhata Janambulaara Mrokkudi",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఐజక్ వాట్స్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవ గద్దె ముందట జనంబులార మ్రొక్కుఁడి",
+      "యెహోవ దేవుఁడే సుమీ సృజింపఁ జంపఁ గర్తయే"
+    ],
+    "english": [
+      "Yehoava Gadhdhe Mumdhata Janambulaara Mrokkudi",
+      "Yehoava Dhaevudae Sumee Srujimpa Jampa Garthayae"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "స్వశక్తిచేత నాయనే మమున్ సృజించె మట్టిచే",
+        "భ్రమించు గొఱ్ఱె రీతిగాఁ దప్పంగ మళ్లీ చేర్చెను"
+      ],
+      "english": [
+        "Svashakthichaetha Naayanae Mamun Srujimche Mattichae",
+        "Bhramimchu Gorre Reethigaa Dhappamga Mallee Chaerchenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సుకీర్తి పాడి గుంపులై ప్రసిద్ధిచేతు మాయనన్",
+        "జగత్తు వేయి నోళ్లతో స్తుతించు దివ్యమౌ ధ్వనిన్"
+      ],
+      "english": [
+        "Sukeerthi Paadi Gumpulai Prasidhdhichaethu Maayanan",
+        "Jagaththu Vaeyi Noallathoa Sthuthimchu Dhivyamau Dhvanin"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రభుత్వ ముండు నంతకున్ అగున్ నీ ప్రేమ నిత్యము",
+        "చిరంబు నీదు సత్యము వసించు నెల్లకాలము"
+      ],
+      "english": [
+        "Prabhuthva Mumdu Namthakun Agun Nee Praema Nithyamu",
+        "Chirambu Needhu Sathyamu Vasimchu Nellakaalamu"
+      ]
+    }
+  ]
+}

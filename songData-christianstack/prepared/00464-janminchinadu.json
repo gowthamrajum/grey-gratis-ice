@@ -1,0 +1,122 @@
+{
+  "song_name": "Janminchinadu",
+  "author": {
+    "Authored by": "Esther Evelyne",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆశ్చర్యకరుడు",
+      "ఆలోచనకర్త",
+      "బలవంతుడైన దేవుడు",
+      "నిత్యుడగు తండ్రి",
+      "సమాధానకర్త",
+      "అధిపతి మన దేవుడు"
+    ],
+    "english": [
+      "Ascharyakarudu",
+      "alochanakartha",
+      "balavanthudaina devudu",
+      "nithyudagu thandri",
+      "samaadhanakartha",
+      "adhipathi mana devudu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జన్మించినాడు, మన యేసు",
+        "రక్షణనిచ్చుటకు",
+        "గొప్ప ప్రేమను మనకర్పించి",
+        "ప్రాణమిచ్చుటకు"
+      ],
+      "english": [
+        "Janminchinadu, mana yesu",
+        "rakshananichutaku",
+        "goppa premanu manakarpinchi",
+        "pranamichutaku"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అను-పల్లవి:",
+        "ఏపాటి వాడను నేను",
+        "నన్ను ఎన్నుకున్నాడు",
+        "ఏ యోగ్యత లేని నన్ను",
+        "తన సొత్తుగా పిలుచుచున్నాడు"
+      ],
+      "english": [
+        "Pre-chorus:",
+        "Eypaati vadanu nenu",
+        "nannu ennukunnadu",
+        "ey yogyatha leni nannu",
+        "thana sotthuga piluchuchunnadu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాపమును జయించుటకు",
+        "నరుడిగా పుట్టి,",
+        "మన మధ్య నివసించి",
+        "మరణ ముల్లును విరచిన దేవుడు"
+      ],
+      "english": [
+        "Papamunu jayinchutaku",
+        "narudiga putti,",
+        "mana madhya nivasinchi",
+        "marana mullunu virachina devudu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "అను-పల్లవి:",
+        "పశుల పాకలో పరుండ బెట్టెను",
+        "పవిత్ర జీవమును అనుగ్రహించుటకై"
+      ],
+      "english": [
+        "Pre-chorus:",
+        "Pashula pakalo",
+        "parunda bettenu",
+        "pavitra jeevamunu",
+        "anugrahinchutakai"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పరిశుద్ధ స్థలములో పొగడ బడెను",
+        "పరమందు మనలను చేర్చుటకై"
+      ],
+      "english": [
+        "Parishudha sthalamulo",
+        "pogada badenu",
+        "paramundhu manalanu",
+        "cherchutakai"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "జయమునిచ్చు దేవుడు",
+        "బలమునిచ్చు దేవుడు",
+        "నిన్ను నన్ను ఎన్నడు విడువడు",
+        "ప్రేమించే దేవుడు",
+        "ప్రాణమిచ్చే దేవుడు",
+        "నిన్ను నన్ను ఎన్నడు మరువడు"
+      ],
+      "english": [
+        "Bridge:",
+        "Jayamunichu devudu",
+        "bhalamunicchu devudu",
+        "ninnu nannu ennadu viduvadu",
+        "preminche devudu",
+        "pranamicche devudu",
+        "ninnu nannu ennadu maruvadu"
+      ]
+    }
+  ]
+}

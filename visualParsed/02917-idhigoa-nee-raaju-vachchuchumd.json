@@ -1,0 +1,97 @@
+{
+  "song_name": "Idigo nee raaju vachchuchunde",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇదిగో నీ రాజు వచ్చుచుండె సీయోను కుమారి",
+      "సంతోషించు యెరుషలేం కుమారి ఉల్లసించు ||ఇదిగో||"
+    ],
+    "english": [
+      "Idigo nee raaju vachchuchunde Seeyonu kumaari",
+      "Santhoshinchu Erushalem kumaari ullasinchu ||Idigo||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీదురాజు నీతితో దోషమేమియు లేకయే",
+        "పాపరహితుడు ప్రభు వచ్చు చుండె  ||ఇదిగో||"
+      ],
+      "english": [
+        "Needhuraaju neethitho dhoshamemiyu lekaye",
+        "Paaparahithudu prabhu vachchu chunde  ||Idigo||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రక్షణగలవాడుగ అక్షయుండగు యేసుడు",
+        "ఇచ్చతోడ యెరుషలేం వచ్చు చుండె  ||ఇదిగో||"
+      ],
+      "english": [
+        "Rakshanagalavaaduga akshayundagu Yesudu",
+        "Ichchathoda Erushalem vachchu chunde  ||Idigo||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "స్వాతికుండు యీభువిన్ అత్యంతమగు ప్రేమతో",
+        "నిత్యరాజు నరులకై వచ్చుచుండె  ||ఇదిగో||"
+      ],
+      "english": [
+        "Svaathikundu eebhuvin athyanthamagu prematho",
+        "Nithyaraaju narulakai vachchuchunde  ||Idigo||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దీనవరుడు నీ ప్రభు ఘనత కలిగిన దేవుడు",
+        "ప్రాణమీయ పాపులకై వచ్చుచుండె  ||ఇదిగో||"
+      ],
+      "english": [
+        "Dheenavarudu nee prabhu ghanatha kaligina Devudu",
+        "Praanameeya paapulakai vachchuchunde  ||Idigo||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఇలను గాడిదనెక్కియే బాలుర స్తోత్రములతో",
+        "బలుడగు నీ ప్రభు వచ్చుచుండె  ||ఇదిగో||"
+      ],
+      "english": [
+        "Ilanu gaadidhanekkiye baalura sthothramulatho",
+        "Baludagu nee prabhu vachchuchunde  ||Idigo||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "దావీదు కుమారుడు దేవుడు పాపులకు",
+        "జయగీతములతో వచ్చుచుండె  ||ఇదిగో||"
+      ],
+      "english": [
+        "Daaveedu kumaarudu Devudu paapulaku",
+        "Jayageethamulatho vachchuchunde  ||Idigo||"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "యేసుని ప్రేమించుచు హోసన్న పాడెదము",
+        "యేసుడిల వచ్చుచుండె హల్లెలూయ వచ్చుచుండె  ||ఇదిగో||"
+      ],
+      "english": [
+        "Yesuni preminchuchu hosanna paadedamu",
+        "Yesudila vachchuchunde hallelooya vachchuchunde  ||Idigo||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "song_name": "Eguruthunnadhi Vijaya Pathaakam",
+  "author": {
+    "Authored by": "Bro  Yesanna",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎగురుతున్నది విజయ పతాకం - యేసు రక్తమే మా జీవిత విజయం",
+      "రోగ దుఃఖ వ్యసనములను తీర్చివేయును - సుఖ జీవనం చేయుటకు శక్తి నిచ్చును",
+      "రక్తమే - రక్తమే - రక్తమే - యేసు రక్తమే",
+      "రక్తమే జయం - యేసు రక్తమే జయం"
+    ],
+    "english": [
+      "Eguruthunnadhi Vijaya Pathaakam - Yesu Rakthame Maa Jeevitha Vijayam",
+      "Roga Dukha Vyasanamulanu Theerchiveyunu - Sukha Jeevanam Cheyutaku Shakthi Nichchunu",
+      "Rakthame - Rakthame - Rakthame - Yesu Rakthame",
+      "Rakthame Jayam - Yesu Rakthame Jayam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసుని నామం నుచ్చరింపగనే - సాతాను సైన్యము వణుకుచున్నది",
+        "వ్యాధుల బలము నిర్మూలమైనది - జయం పొందెడి నామము నమ్మినప్పుడే"
+      ],
+      "english": [
+        "Yesuni Naamam Nuchcharimpagane - Saathaanu Sainyamu Vanukuchunnadhi",
+        "Vyaadhula Balamu Nirmoolamainadhi - Jayam Pondedi Naamamu Namminappude"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దెయ్యపు కార్యాలను గెలిచిన రక్తం - ఎడతెగకుండగ మనము స్మరణ చేయుదం",
+        "పాపపు క్రియలన్నిటిని చెదరగొట్టిన - క్రీస్తుని సిలువను మనము అనుసరించెదం"
+      ],
+      "english": [
+        "Deyyapu Kaaryaalanu Gelichina Raktham - Edathegakundaga Manamu Smarana Cheyudam",
+        "Paapapu Kriyalannitini Chedaragottina - Kreesthuni Siluvanu Manamu Anusarinchedam"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మా ప్రేమ వైద్యుడా ప్రాణనాధుడా - ప్రీతితోను నీ హస్తము చాపుము దేవా",
+        "నీ పాద పద్మము పై చేరియున్న ప్రజలను - స్వస్థపరచుము తండ్రి ఈ క్షణమందే"
+      ],
+      "english": [
+        "Maa Prema Vaidyudaa Praananaadhudaa - Preethithonu Nee Hasthamu Chaapumu Dhevaa",
+        "Nee Paadha Padmamu Pai Cheriyunna Prajalanu - Swasthaparachumu Thandri Ee Kshanamandhe"
+      ]
+    }
+  ]
+}

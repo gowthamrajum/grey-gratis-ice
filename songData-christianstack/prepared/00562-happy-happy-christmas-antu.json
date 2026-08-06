@@ -1,0 +1,66 @@
+{
+  "song_name": "Happy Happy Christmas Antu",
+  "author": {
+    "Authored by": "P Methushelah",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "వార్త సంతోషవార్త శుభవార్త సర్వలోకనికీ",
+      "వార్త రక్షణవార్త ప్రేమసువార్త ప్రజలందరికీ",
+      "యేసు పుట్టాడని రక్షణ తెచ్చాడని",
+      "చీకటి బ్రతుకులను వెలుగుగ చేస్తాడని",
+      "ధైర్యమే మన వంతని చెప్పెను దూత"
+    ],
+    "english": [
+      "Vaartha santhoshavaartha subhavaartha sarvalokaanikee",
+      "vaartha rakshanavaartha prema suvaartha prajalandharikee",
+      "yesu puttadani rakshana thechadani",
+      "cheekati brathukulanu velugugaa chesthadani",
+      "dhairyame manavanthani cheppenu dhootha"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హ్యాపీ హ్యాపీ క్రిస్మస్ అంటూ ఆర్భటించెదం",
+        "అందరి రక్షకుడేసని చాటి చెప్పెదం",
+        "ఊరువాడ వీధుల్లోన తిరిగి చెప్పెదం",
+        "యేసే మన దేవుడని ఆరాధించెదం"
+      ],
+      "english": [
+        "Happy happy christmas antu aarbhatinchedham",
+        "andhari rakshakudesani chaaticheppedham",
+        "ooruvaada veedhullona thirigi cheppedham",
+        "yese mana dhevudani aaradhinchedham"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "హ్యాపీ హ్యాపీ క్రిస్టమస్ అంటూ ఆర్భటించెదం",
+        "అందరి రక్షకుడేసని చాటి చెప్పెదం",
+        "ఊరూవాడా వీదుల్లోన తిరిగి చెప్పెదం",
+        "యేసే మన దేవుడని ఆరాధించెదం"
+      ],
+      "english": [
+        "Happy happy christmas antu aarbhatinchedham",
+        "andhari rakshakudesani chaaticheppedham",
+        "ooruvaada veedhullona thirigi cheppedham",
+        "yese mana dhevudani aaradhinchedham"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "క్రిస్మస్ పాటలతో క్రీస్తు ప్రేమతో",
+        "ఆత్మతో సత్యముతో యేసుని ఆరాధిద్దాం"
+      ],
+      "english": [
+        "Christmas paatalatho kreesthu prematho",
+        "aathmatho sathyamutho yesuni aaraadhidhaam"
+      ]
+    }
+  ]
+}

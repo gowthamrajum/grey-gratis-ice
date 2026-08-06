@@ -1,0 +1,82 @@
+{
+  "song_name": "Sundaramaina dehaalenno shidhilam kaaledhaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సుందరమైన దేహాలెన్నో శిధిలం కాలేదా?",
+      "అంబరమంటిన రాజులెందరో అలిసిపోలేదా?",
+      "కలములు పట్టిన కవులు ఎందరో కనుమరుగవలేదా?",
+      "ధరణిలోన ధనికులెల్లరు దహనం కాలేదా?",
+      "ఏదీ శాశ్వతం కాదేది శాశ్వతం",
+      "తరచి చూడుము పరికించి చూడము (2) ||సుందరమైన||"
+    ],
+    "english": [
+      "Sundaramaina dehaalenno shidhilam kaaledhaa?",
+      "Ambaramantina raajulendharo alisipoledhaa?",
+      "Kalamulu pattina kavulu endaro kanumarugavaledhaa?",
+      "Dharanilona dhanikulellaru dhahanam kaaledhaa?",
+      "Edhee shaashwatham kaadedi shaashwatham",
+      "Tharachi choodumu parikinchi choodamu (2) ||Sundaramaina||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నెత్తుటి చారలను లిఖించిన రాజులెందరో",
+        "ఆ నెత్తురులోనే ప్రాణాలు విడిచిపోయారు",
+        "అధికార దాహంతో మదమెక్కిన వీరులు",
+        "సమాధి లోతుల్లోనే మూగబోయారు (2)",
+        "తపోబలము పొందిన ఋషులందరూ",
+        "మతాధికారులు మఠాధిపతులు",
+        "ఈ కాలగర్భంలోనే కలసిపోయారు",
+        "మరణ పిడికళ్లలో బందీలయ్యారు (2)",
+        "యేసులేని జీవితం వాడబారిన చరితం (2)",
+        "క్రీస్తు ఉన్న జీవితం భువిలో చరితార్ధం (2)  ||సుందరమైన||"
+      ],
+      "english": [
+        "Netthuti chaaralanu likhinchina raajulendharo",
+        "Aa netthurulone praanaalu vidichipoyaaru",
+        "Adhikaara dhaahantho madhamekkina veerulu",
+        "Samaadhi lothullone moogaboyaaru (2)",
+        "Thapobalamu pondina rushulandharoo",
+        "Mathaadhikaarulu mathaadhipathulu",
+        "Ee kaalagarbhamlone kalasipoyaaru",
+        "Marana pidikallalo bandheelayyaaru (2)",
+        "Yesuleni jeevitham vaadabaarina charitham (2)",
+        "Kreesthu unna jeevitham bhuvilo charithaardham (2)  ||Sundaramaina||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రాణం పోసిన దైవాన్ని కాదంటే",
+        "ఆ జీవితానికి పరమార్ధం ఉంటుందా?",
+        "పాప సంకెళ్ళలో బందీలైనవారికి",
+        "ఆ దివ్య మోక్షం చేరుకొనే భాగ్యం ఉంటుందా? (2)",
+        "శరీరాన్ని విడిచిన మనుష్యాత్మకు",
+        "మరో జీవితం లేదనుట భావ్యమా?",
+        "రక్తము కార్చిన యేసుని విస్మరించి",
+        "ఈ సృష్టిని పూజించుట మనిషికి న్యాయమా? (2)",
+        "యేసులేని జీవితం అంధకార భందురం (2)",
+        "క్రీస్తు ఉన్న జీవితం తేజోమయ మందిరం (2)  ||సుందరమైన||"
+      ],
+      "english": [
+        "Praanam posina dhaivaanni kaadhante",
+        "Aa jeevithaaniki paramaardham untundhaa?",
+        "Paapa sankellalo bandheelainavaariki",
+        "Aa divya moksham cherukone bhaagyam untundhaa? (2)",
+        "Shareeraanni vidichina manushyaathmaku",
+        "Maro jeevitham ledhanuta bhaavyamaa?",
+        "Rakthamu kaarchina Yesuni vismarinchi",
+        "Ee srushtini poojinchuta manishiki nyaayamaa? (2)",
+        "Yesuleni jeevitham andhakaara bhandhuram (2)",
+        "Kreesthu unna jeevitham thejomaya mandhiram (2)  ||Sundaramaina||"
+      ]
+    }
+  ]
+}

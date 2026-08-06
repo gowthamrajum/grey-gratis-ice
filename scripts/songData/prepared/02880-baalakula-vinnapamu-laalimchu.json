@@ -1,0 +1,74 @@
+{
+  "song_name": "Baalakula Vinnapamu Laalinchu Rakshakaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "బాలకుల విన్నపము లాలించు రక్షకా",
+      "పాలనంబు సేయుమా పరమ పోషకా"
+    ],
+    "english": [
+      "Baalakula Vinnapamu Laalinchu Rakshakaa",
+      "Paalanambu Saeyumaa Parama Poashakaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "బాలలారా రండియంచు బిలిచిన యేసూ",
+        "చాలనమ్మి జేరితిమి సరగ బ్రోవుమా"
+      ],
+      "english": [
+        "Baalalaaraa Randiyanchu Bilichina Yaesoo",
+        "Chaalanammi Jaerithimi Saraga Broavumaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మందబుద్ధి చేత నిన్ను మరచి యుంటిమి",
+        "సుందరాప్త నీదయ మా యందు జూపుమా"
+      ],
+      "english": [
+        "Mandhabudhdhi Chaetha Ninnu Marachi Yuntimi",
+        "Sundharaaptha Needhaya Maa Yandhu Joopumaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "చదువు వేదవాక్య సరణి నడువ నేర్పుమీ",
+        "మదిని బోధకుల సుబోధ మరువనీకుమీ"
+      ],
+      "english": [
+        "Chadhuvu Vaedhavaakya Sarani Naduva Naerpumee",
+        "Madhini Boadhakula Suboadha Maruvaneekumee"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ప్రకటితమగు నీదు ప్రేమ యనుభవించుచు",
+        "ఇకను నిన్ను సేవ జేతు మఖిలకాలము"
+      ],
+      "english": [
+        "Prakatithamagu Needhu Praema Yanubhavinchuchu",
+        "Ikanu Ninnu Saeva Jaethu Makhilakaalamu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పుడమి నీదు సిలువ కృపను పుణ్యలగుచును",
+        "కడను నీదు మహిమ జేర గరుణజూపుము"
+      ],
+      "english": [
+        "Pudami Needhu Siluva Krupanu Punyalaguchunu",
+        "Kadanu Needhu Mahima Jaera Garunajoopumu"
+      ]
+    }
+  ]
+}

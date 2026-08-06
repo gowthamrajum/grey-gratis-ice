@@ -1,0 +1,32 @@
+{
+  "song_name": "Aradhinthu Ninnu Deva",
+  "author": {
+    "Authored by": "pastor K Ratnam",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆరాధింతు నిన్ను దేవా",
+      "ఆనందింతు నీలో దేవా",
+      "ఆరాధనలకు యోగ్యుడా",
+      "స్తుతి పాడి నిన్ను పొగడెదను"
+    ],
+    "english": [
+      "Aaraadhinthu ninnu devaa",
+      "aanandhinthu neelo devaa",
+      "aaraadhanalaku yogyudaa",
+      "sthuthi paadi ninnu pogadedhanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆరాధన ఆరాధన ఆరాధన నీకే"
+      ],
+      "english": [
+        "aaraadhana aaraadhana aaraadhana neeke"
+      ]
+    }
+  ]
+}

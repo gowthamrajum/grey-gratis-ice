@@ -1,0 +1,58 @@
+{
+  "song_name": "Ravikaanthini minchinadhau oka deshamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "రవికాంతిని మించినదౌ",
+      "ఒక దేశము దూరమున",
+      "వరభక్తులు చూచెదరు",
+      "తండ్రి యాశ్రయ మిచ్చునటన్",
+      "||అహహా త్వరలో",
+      "మేము చేరుదు మా స్థలమున్ (2)"
+    ],
+    "english": [
+      "Ravikaanthini minchinadhau",
+      "oka deshamu dhooramuna",
+      "varabhakthulu choochedharu",
+      "thandri yaashraya michchunatan",
+      "||Ahahaa thvaralo",
+      "memu cherudhu maa sthalamun (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దుఃఖబాధలు లేక సదా",
+        "పూర్ణశాంతినిఁ బొందుచును",
+        "పరిశుద్ధుల కీర్తనలు",
+        "అందు నెప్పుడు బాడుదుము."
+      ],
+      "english": [
+        "duhkhabaadhalu leka sadaa",
+        "poornashaanthini bondhuchunu",
+        "parishuddhula keerthanalu",
+        "andu neppudu baadudhumu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రేమ సాగరుఃడౌ జనకున్",
+        "మాకు నిచ్చిన మేలులకై",
+        "మా కృతజ్ఞత జూపుచును",
+        "నిత్యమున్ స్తుతి యించెదము"
+      ],
+      "english": [
+        "Prema saagarudau janakun",
+        "maaku nichchina melulakai",
+        "maa kruthagnatha joopuchunu",
+        "nithyamun sthuthi inchedhamu"
+      ]
+    }
+  ]
+}

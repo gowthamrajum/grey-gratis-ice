@@ -1,0 +1,115 @@
+{
+  "song_name": "Sandadi 5",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Azuba Daniel kalyanapu",
+      "Dr Shalem Raj kalyanapu"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "బల్లే బల్లే యేషు తేరీ బల్లే",
+      "ఓరన్నా నీకు తెలుసా",
+      "ఎవరో ఈ ప్రభు యేసు",
+      "నీకు తెలుసా ఓరమ్మో",
+      "ఎవరో ఈ చిన్ని యేసు",
+      "అతి సుందరుడు",
+      "అతి కంక్షనీయుడు",
+      "అతి మనోహరుడు",
+      "అతి పరిశుద్ధుడు",
+      "మనవతారం ఎత్తినోడు",
+      "మనకోసం పుట్టినోడు"
+    ],
+    "english": [
+      "Balle balle Yeshu theri balle",
+      "Oranna neeku thelusaa",
+      "Evaro ee Prabhu Yesu",
+      "Neeku thelusaa orammo",
+      "Evaro ee chinni Yesu",
+      "Athi sundarudu",
+      "Athi kaankshaneeyudu",
+      "Athi manoharudu",
+      "Athi parishuddhudu",
+      "Manavathaaram etthinodu",
+      "Manakosam puttinodu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వచ్చే వచ్చే క్రిస్మస్ వచ్చే",
+        "తెచ్చే తెచ్చే సందడి తెచ్చే",
+        "వచ్చే వచ్చే పండుగ వచ్చే",
+        "తెచ్చే తెచ్చే సందడి తెచ్చే",
+        "లోక రక్షకుడు మనకై వచ్చే",
+        "మనకోసం రక్షణ తెచ్చే",
+        "పండుగ వచ్చే",
+        "సందడి తెచ్చే",
+        "రక్షకుడోచ్చే",
+        "రక్షణ తెచ్చే",
+        "నీకు తెలుసా ఓరన్నా?? ఎవరో ఈ ప్రభు యేసు"
+      ],
+      "english": [
+        "Vachche vachche Christmas vachche",
+        "Thechche thechche sandadi thechche",
+        "Vachche vachche pandaga vachche",
+        "Thechche thechche sandadi thechche",
+        "Loka rakshakudu manakai vachche",
+        "Manakosam rakshana thechche",
+        "Pandaga vachche",
+        "Sandadi thechche",
+        "Rakshakudochche",
+        "Rakshana thechche",
+        "Neeku thelusaa oranna?? Evaro ee Prabhu Yesu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మూగోనికి మాటిచ్చినోడు",
+        "గుడ్డోనికి చూపిచ్చినోడు",
+        "ఈ చిన్ని బాలుడు లోకాన్ని సృష్టించినోడు",
+        "ఈ చిన్ని బాలుడు లోకాన్ని ఏలేటోడు"
+      ],
+      "english": [
+        "Moogoniki maatichchinodu",
+        "Guddoniki choopichchinodu",
+        "Ee chinni baaludu lokaanni srushtinchinodu",
+        "Ee chinni baaludu lokaanni eletodu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కుంటోనికి నడకిచ్చినోడు",
+        "నీటి మీద నడిచేటోడు",
+        "ఒక్క మాటతోనే సముద్రాన్ని ఆపేటోడు",
+        "దేవుని కుడి పార్శ్వమున కూర్చున్నోడు ఈ యేసు"
+      ],
+      "english": [
+        "Kuntoniki nadakichchinodu",
+        "Neethi meeda nadichetodu",
+        "Okka maatathone samudraanni aapetodu",
+        "Devuni kudi paarshvamuna koorchunnodu ee Yesu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కష్టాలని పోగొట్టేటోడు",
+        "మృతుల సహితం లేపేటోడు",
+        "తండ్రి కుమారా పరిశుద్ధాత్ముడు యేసు",
+        "తండ్రి అయిన దేవుడు కుమారుని పంపినాడు"
+      ],
+      "english": [
+        "Kashtaalani pogottetodu",
+        "Mruthula sahitham lepetodu",
+        "Thandri kumaaraa parishuddhaathmudu Yesu",
+        "Thandri ayina Devudu kumaaruni pampinaadu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "song_name": "Santhasillunu mee hrudayaalu Seeyonu mahimajoochi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సంతసిల్లును మీ హృదయాలు",
+      "సీయోను మహిమజూచి (2)"
+    ],
+    "english": [
+      "Santhasillunu mee hrudayaalu",
+      "Seeyonu mahimajoochi (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సుందర వరుడు యేసు ప్రభువు - సుందరవతి సీయోను",
+        "శాశ్వత శోభాతిశయముతో - భాసిల్లుటను జూచి"
+      ],
+      "english": [
+        "Sundara varudu Yesu prabhuvu - Sundharavathi Seeyonu",
+        "Shaashwatha shobhaathishayamutho - Bhaasillutanu joochi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీలమయ నిత్య పునాదులు - మేలిమి ఛాయామణులు",
+        "సూర్యకాంత సుగంధములు - పుష్యరాగ నిర్మితము"
+      ],
+      "english": [
+        "Neelamaya nithya punaadhulu - Melimi chhaayaamanulu",
+        "Sooryakaantha sugandhamulu - Pushyaraaga nirmithamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిత్య మహిమతో వెలిగెడు - ముత్యాల గుమ్మములు",
+        "స్వచ్ఛమగు సువర్ణమయము - ఆశ్చర్య నగరము"
+      ],
+      "english": [
+        "Nithya mahimatho veligedu - Muthyaala gummamulu",
+        "Svachchhamagu suvarnamayamu - Aashcharya nagaramu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "జీవవృక్షము జీవఫలములు - జీవామృతపానము",
+        "కాంతి వంతముగా మెరిసేటి - వింతలుగొల్పు నగరము"
+      ],
+      "english": [
+        "Jeevavrukshamu jeevaphalamulu - Jeevaamruthapaanamu",
+        "Kaanthi vanthamugaa meriseti - Vinthalugolpu nagaramu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "స్వర్ణ సమము దాని ప్రజలు సంతోష సహితులు",
+        "దూతలే వింతపడునట్లు ఖ్యాతిని కలిగిన వారు"
+      ],
+      "english": [
+        "Swarna samamu daani prajalu santhosha sahithulu",
+        "Dhoothale vinthapadunatlu khyaathini kaligina vaaru"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "మందిర సమృద్ధిని వారు - తృప్తి నొందుచున్నారు",
+        "ఆనంద ప్రవాహమునందు - పానము చేయుచున్నారు"
+      ],
+      "english": [
+        "Mandira samruddhini vaaru - Thrupthi nondhuchunnaaru",
+        "Aananda pravaahamunandhu - Paanamu cheyuchunnaaru"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "దేవుడు సెలవిచ్చినయట్టి - దేవో క్తులలో నేది",
+        "జరుగకుండగ పోలేదు - వరుసగా నెరవేరెన్"
+      ],
+      "english": [
+        "Devudu selavichchinayatti - Dhevo kthulalo nedhi",
+        "Jarugakundaga poledhu - Varusagaa neraveren"
+      ]
+    }
+  ]
+}

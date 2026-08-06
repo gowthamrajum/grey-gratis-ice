@@ -1,0 +1,63 @@
+{
+  "song_name": "Arpinthu Sthuthul Nee Siluvalonaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "అర్పింతు స్తుతుల్ నీ సిలువలోనా జూపిన నీ ప్రేమకై",
+      "మరణమొంది సమాధి నుండి మరల లేచితివి"
+    ],
+    "english": [
+      "Arpinthu Sthuthul Nee Siluvalonaa Joopina Nee Premakai",
+      "Maranamondhi Samaadhi Nundi Marala Lechithivi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తలను ముండ్ల కిరీటము బొంది కాళ్ల చేతులు గ్రుచ్చబడి",
+        "బలియైతివి గొఱ్ఱెపిల్ల వలె నా కొరకే ఓ ప్రభువా"
+      ],
+      "english": [
+        "Thalanu Mundla Kireetamu Bondhi Kaalla Chethulu Gruchchabadi",
+        "Baliyaithivi Gorrepilla Vale Naa Korake O Prabhuvaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ చింతవలన నాకు శాంతి కల్గె నీ సిలువ వలన కిరీటం",
+        "నీ మరణమే నా జీవమాయె నీ ప్రేమ గొప్పదెంతో"
+      ],
+      "english": [
+        "Nee Chinthavalana Naaku Shaanthi Kalge Nee Siluva Valana Kireetam",
+        "Nee Maraname Naa Jeevamaaye Nee Prema Goppadhentho"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నేను జూచెడి మహిమ స్వర్గము నావలన కలుగదు",
+        "ఆనంద బాష్పములతోనే స్తుతింతు ఈ ధనము నా కొరకే"
+      ],
+      "english": [
+        "Nenu Joochedi Mahima Svargamu Naavalana Kalugadhu",
+        "Aanandha Baashpamulathone Sthuthinthu Ee Dhanamu Naa Korake"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీ సిలువలో తొలగె నా నీచ పాపము నే ద్వేషింతు నన్నియున్",
+        "నీ సింహాసనము నాలోన యుంచుము నిన్ను నే స్తుతించెదను"
+      ],
+      "english": [
+        "Nee Siluvalo Tholage Naa Neecha Paapamu Ne Dhveshinthu Nanniyun",
+        "Nee Simhaasanamu Naalona Yunchumu Ninnu Ne Sthuthinchedhanu"
+      ]
+    }
+  ]
+}

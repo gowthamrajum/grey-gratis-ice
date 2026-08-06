@@ -1,0 +1,60 @@
+{
+  "song_name": "Sudhooramu",
+  "author": {
+    "Authored by": "Joel Kodali",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సుదూరము ఈ పయనము ముందు ఇరుకు మార్గము",
+      "యేసు నాకు తోడుగా నాతోనే నడుచుచుండగా",
+      "నే వెంట వెల్లెదా నా రాజు వెంబడి",
+      "సుమధుర భాగ్యము యేసుతో పయనము"
+    ],
+    "english": [
+      "Sudhooramu ee payanamu mundu iruku maargamu",
+      "yesu naaku thodugaa naathone naduchuchundagaa",
+      "ne venta velledhaa naa raaju vembadi",
+      "sumadhura bhaagyamu yesutho payanamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అలలపై నే నడిచెదా తుఫానులో హుషారుగా",
+        "ఆ ఎత్తులు ఆ లోతులు ఆ మలుపులు నే తిరిగెదా",
+        "ఉల్లాసమే యేసుతో నా పయనమంతయు",
+        "ఆశ్చర్యమైనది నే నడుచు మార్గము",
+        "ఒకొక్క అడుగులో ఓ క్రొత్త అనుభవం",
+        "హోరు గాలి వీచినా అలలు పైకి లేచినా",
+        "ఏ భయము నాకు కలగదు నా పాదము తొట్రిల్లదు",
+        "నా చెంతనే ఉన్న యేసు నన్ను మోయును",
+        "ఇది నా భాగ్యము నాలోని ధైర్యము",
+        "ఏ దిగులు లేకనే నే సాగిపోదును",
+        "నా జీవితం పదిలము యేసుని చేతిలో",
+        "నా పయనము సఫలము యేసుదే భారము",
+        "నే చేరేదా నిశ్చయంబుగా నా గమ్యము",
+        "ఇది నా విశ్వాసము నాకున్న అభయము",
+        "కృపగల దేవుడు విడువడు ఎన్నడూ"
+      ],
+      "english": [
+        "Alalapai ne nadichedhaa thufaanulo hushaarugaa",
+        "aa ethulu aa lothulu aa malupulu ne thirigedhaa",
+        "ullaasame yesutho naa payanamanthayu",
+        "aascharyamainadhi ne nadhuchu maargamu",
+        "okkokka adugulo o krotha anubhavam",
+        "Horu gaali veechinaa alalu paiki lechinaa",
+        "ey bhayamu naaku kalugadhu naa paadhamu thotrilladhu",
+        "naa chenthane unna yesu nannu moyunu",
+        "idhi naa bhaagyamu naaloni dhairyamu",
+        "ey dhigulu lekane ne saagipodhunu",
+        "Naa jeevitham padhilamu yesuni chethilo",
+        "naa payanamu saphalamu yesudhe bhaaramu",
+        "ne cheredhaa nischayambugaa naa gamyamu",
+        "idhi naa viswaasamu naakuna abhayamu",
+        "krupagala dhevudu viduvadu ennadu"
+      ]
+    }
+  ]
+}

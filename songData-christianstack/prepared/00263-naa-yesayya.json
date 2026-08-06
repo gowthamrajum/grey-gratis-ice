@@ -1,0 +1,61 @@
+{
+  "song_name": "Naa Yesayya",
+  "author": {
+    "Authored by": "Dr P Satish Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా యేసయ్యా..",
+      "నీ కృపను మరువలేనయ్యా",
+      "నా యేసయ్యా..",
+      "నీ దయలేనిదే బ్రతకలేనయ్యా..",
+      "నీ నామస్మరణలో దాగిన జయము",
+      "నీ వాక్యధ్యానములో",
+      "పొందిన బలము",
+      "తలచుకొనుము నా యాత్రను",
+      "నే కొనసాగించెద..",
+      "ఆ. ఆహా.. హల్లెలూయా…",
+      "హో. ఓహో.. హోసన్న…"
+    ],
+    "english": [
+      "Naa yesayya",
+      "nee krupanu maruvalenayya",
+      "naa yesayya",
+      "nee dhayalenidhe brathakalenayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా గుమ్మముల గడియలు బలపరిచితివి",
+        "నీ చిత్తములో అడుగులు స్థిరపరిచితివి",
+        "నా సరిహద్దులలో నెమ్మదిని కలిగించి",
+        "నిన్ను వెంబడించే భాగ్యమునిచ్చితివి",
+        "ఆ. ఆహా.. హల్లెలూయా…",
+        "హో. ఓహో.. హోసన్న…",
+        "నీ వాగ్దానములెన్నో నెరవేర్చితివి",
+        "నీ రెక్కల నీడలో నను దాచితివి",
+        "నా భయభీతులలో నీ వాక్కును పంపించి",
+        "నిన్నే సేవించే గొప్ప భాగ్యమునిచ్చితివి",
+        "ఆ. ఆహా.. హల్లెలూయా…",
+        "హో. ఓహో.. హోసన్న…"
+      ],
+      "english": [
+        "Nee naamasmaranalo dhaagina jayamu",
+        "nee vaakyadhyaanamulo pondhina balamu",
+        "thalachukonumu naa yaathranu",
+        "nē konasaaginchedhā"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [],
+      "english": [
+        "aa.. ahaa.. hallelujah…",
+        "ho.. oho.. hosanna…"
+      ]
+    }
+  ]
+}

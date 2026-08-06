@@ -1,0 +1,52 @@
+{
+  "song_name": "Sharanu Naa Yaesu Prabhuvaa",
+  "author": {
+    "Authored by": "",
+    "రచన": "మిక్కిలి సమూయేలు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "శరణు నా యేసు ప్రభువా నీవెగా పరలోకమునకుఁ ద్రోవ",
+      "కరుణతో నన్నుఁ గావ నీ కన్న గర్త యెవ్వఁడు యేసువా"
+    ],
+    "english": [
+      "Sharanu Naa Yaesu Prabhuvaa Neevegaa Paralokamunaku Dhrova",
+      "Karunatho Nannu Gaava Nee Kanna Gartha Yevvadu Yaesuvaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పర సుఖము విడిచినావు కన్యక మరియగర్భమున నీవు",
+        "ధరణి నుదయించినావు నీ కన్న దాత యెవ్వఁడు యేసువా"
+      ],
+      "english": [
+        "Para Sukhamu Vidichinaavu Kanyaka Mariyagarbhamuna Neevu",
+        "Dharani Nudhayinchinaavu Nee Kanna Dhaatha Yevvadu Yaesuvaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపభారము క్రిందను బడి యున్న పాపాత్ములను నెల్లను",
+        "జేఁపట్టి రక్షింపఁగా నీ కన్న శ్రేష్ఠుఁ డెవ్వఁడు యేసువా"
+      ],
+      "english": [
+        "Paapabhaaramu Krindhanu Badi Yunna Paapaathmulanu Nellanu",
+        "Jaepatti Rakshimpagaa Nee Kanna Shraeshtu Devvadu Yaesuvaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మరణమై లేచినావు జీవింప మార్గంబుఁ జూపినావు",
+        "పరమహిమ జూపినావు నీ కన్నఁ ప్రభుఁ డెవ్వఁడు యేసువా"
+      ],
+      "english": [
+        "Maranamai Laechinaavu Jeevimpa Maargambu Joopinaavu",
+        "Paramahima Joopinaavu Nee Kanna Prabhu Devvadu Yaesuvaa"
+      ]
+    }
+  ]
+}

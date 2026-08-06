@@ -1,0 +1,58 @@
+{
+  "song_name": "Shuddha hrudayam kalugajeyumu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "శుద్దా హ్రుదాయమ్ కలుగజెయుము",
+      "ణాలొనా ణాలొనా"
+    ],
+    "english": [
+      "Shuddha hrudayam kalugajeyumu",
+      "Naalonaa naalonaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ణీ వాత్సల్యమ్ ణీ భాహుల్యమ్",
+        "ణీ క్రుపా కనికరమ్ ఛూపిన్చుము",
+        "Pఆపము ఛెసాను ఢొశినై ఊన్నాను",
+        "థెలిసియున్నడి ణా ఆతిక్రమమె",
+        "థెలిసియున్నడి ణా Pఆపములె",
+        "ణీ Sఅన్నిదిలొ Pఅరిశుద్దాత్మతొ",
+        "ణన్ను ణిమ్పుమయ్యా"
+      ],
+      "english": [
+        "Nee vaathsalyam nee baahulyam",
+        "Nee krupa kanikaram choopinchumu",
+        "Paapamu chesaanu dhoshinai unnaanu",
+        "Thelisiyunnadhi naa athikramame",
+        "Thelisiyunnadhi naa paapamule",
+        "Nee sannidhilo parishuddhaathmatho",
+        "Nannu nimpumayyaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ణీ ఙ్నానమును ణీ Sఅత్యమును",
+        "ణా ఆఅన్తర్యములొ Pఉట్టిన్చుము",
+        "ఊట్సాహ Sఅన్తొశమ్ ణీ ఱక్శనానన్డమ్",
+        "కలుగజెయుము ణా ఃరుడయములొ",
+        "ణీ Sఅన్నిదిలొ ణా Pఆపములె ఓప్పుకొన్డునయ్యా"
+      ],
+      "english": [
+        "Nee gnaanamunu nee sathyamunu",
+        "Naa antharyamulo puttinchumu",
+        "Uthsaaha santhosham nee rakshanaanandam",
+        "Kalugajeyumu naa hrudayamulo",
+        "Nee sannidhilo naa paapamule oppukondunayyaa"
+      ]
+    }
+  ]
+}

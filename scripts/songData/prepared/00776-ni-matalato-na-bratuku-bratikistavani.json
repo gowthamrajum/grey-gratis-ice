@@ -1,0 +1,49 @@
+{
+  "song_name": "Ni Matalato Na Bratuku Bratikistavani",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ మాటలతో నా బ్రతుకు బ్రతికిస్తావని",
+      "ఎంతో ఆశతో నీ సన్నిధికి నే చేరితి",
+      "ఇది నా చివరి ఇది నా కడవరి",
+      "మిగిలియున్న నిరీక్షణా. . మిగిలియున్న నిరీక్షణా. ."
+    ],
+    "english": [
+      "Ni Matalato Na Bratuku Bratikistavani",
+      "Emto Asato Ni Sannidhiki Ne Cheriti",
+      "Idi Na Chivari Idi Na Kadavari",
+      "Migiliyunna Nirikshana. . Migiliyunna Nirikshana. ."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపపు ఊబిలో పాతుకుపోయిన పాపపు తీగెలో అల్లుకుపోయిన (2)",
+        "పాత రోత జీవితాన్ని (2)",
+        "పవిత్ర పరచుము పరిశుద్ధుడా పవిత్ర పరచుము పరమాత్ముడా"
+      ],
+      "english": [
+        "Papapu Ubilo Patukupoyina Papapu Tigelo Allukupoyina (2)",
+        "Pata Rota Jivitanni (2)",
+        "Pavitra Parachumu Parisuddhuda Pavitra Parachumu Paramatmuda"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చితికిన బ్రతుకు చీదరి తనువు చిక్కులలోనా చిక్కిన నన్ను (2)",
+        "చేరదీసి సేదదీర్చుము (2)",
+        "చేతనైన పరిశుద్ధుడా చేతనైనా పరమాత్ముడా"
+      ],
+      "english": [
+        "Chitikina Bratuku Chidari Tanuvu Chikkulalona Chikkina Nannu (2)",
+        "Cheradisi Sedadirchumu (2)",
+        "Chetanaina Parisuddhuda Chetanaina Paramatmuda"
+      ]
+    }
+  ]
+}

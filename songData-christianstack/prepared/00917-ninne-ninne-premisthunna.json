@@ -1,0 +1,28 @@
+{
+  "song_name": "Ninne Ninne Premisthunna",
+  "author": {
+    "Authored by": "Raja Mandru",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిన్నే నిన్నే ప్రేమిస్తున్నా",
+      "నీ కోసమే జీవిస్తున్నా"
+    ],
+    "english": [
+      "Ninne ninne premisthunnaa",
+      "nee kosame jeevistunnaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా యేసయ్యా నా యేసయ్యా"
+      ],
+      "english": [
+        "naa yesayyaa naa yesayyaa"
+      ]
+    }
+  ]
+}

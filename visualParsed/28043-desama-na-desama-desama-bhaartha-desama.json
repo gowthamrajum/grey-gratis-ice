@@ -1,0 +1,88 @@
+{
+  "song_name": "Deshamaa naa deshamaa deshamaa Bhaaratha deshamaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Abhishek Devadas"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేశమా నా దేశమా.. దేశమా భారత దేశమా..!!",
+      "దేశమా దేశమా నా దేశమా దేశమా",
+      "ఏమి ఈ వేదన నీకేలా ఈ శోధన",
+      "నీవు తప్పిన మార్గమే నీకు శాపమై మారెనా",
+      "ప్రభు దృష్టిలో నీ పాపం బహు ఘోరమై పోయెనా..",
+      "దేశమా నా దేశమా.. దేశమా భారత దేశమా",
+      "దేశమా వినుమా నీ పాపము వీడుమా",
+      "యేసు రాకను కనుమ దైవ రక్షణ పొందుమా",
+      "దేశమా నా ప్రియ దేశమా.. దేశమా భారత దేశమా.."
+    ],
+    "english": [
+      "Deshamaa naa deshamaa.. deshamaa Bhaaratha deshamaa..!!",
+      "Deshamaa deshamaa naa deshamaa deshamaa",
+      "Emi ee vedhana neekelaa ee shodhana",
+      "Neevu thappina maargame neeku shaapamai maarenaa",
+      "Prabhu drushtilo nee paapam bahu ghoramai poyenaa..",
+      "Deshamaa naa deshamaa.. deshamaa Bhaaratha deshamaa",
+      "Deshamaa vinumaa nee paapamu veedumaa",
+      "Yesu raakanu kanuma daiva rakshana pondumaa",
+      "Deshamaa naa priya deshamaa.. deshamaa Bhaaratha deshamaa.."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీనివే పాపము బహు ఘోరమాయెను",
+        "దైవ ఉగ్రత ప్రకటించగా ప్రతి మోకాలు వంగెను..",
+        "రాజులే దీనులై ఆ దేవుని మొక్కగా దేవుని రక్షణ ఆ దేశాన్ని చేరెను..",
+        "దేశమా ఇది గమనించుమా..",
+        "నీ స్థితి మరి ఏం అవునో..",
+        "నీ పాపాన్ని విడిచి దైవ రక్షణ పొందుమా.  ||దేశమా||  ||దేశమా||"
+      ],
+      "english": [
+        "Neenive paapamu bahu ghoramaayenu",
+        "Daiva ugratha prakatinchagaa prathi mokaalu vangenu..",
+        "Raajule dheenulai aa Devuni mokkagaa Devuni rakshana aa deshaanni cherenu..",
+        "Deshamaa idhi gamaninchumaa..",
+        "Nee sthithi mari em avuno..",
+        "Nee paapaanni vidichi daiva rakshana pondumaa.  ||Deshamaa||  ||Deshamaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ ధనం నీ బలం ఎల్లప్పుడు నిలుచునా",
+        "గర్వించకు దేశమా అది శాశ్వతం కాదుగా..",
+        "ఈ కష్టము నష్టము ఈ వ్యాధులు తెగుళ్ళు",
+        "అది నీ దోషమే.. నీ పాప ఫలితమే..",
+        "దేశమా ఇక చాలించుమా.. కన్నీటితో మోకరించి వేడుమా..",
+        "ఆ ప్రభు నిన్ను క్షమియించి ఇచ్చును రక్షణ..  ||దేశమా||",
+        "దేశమా భారత  ||దేశమా||",
+        "దేశమా వినుమా నీ పాపము వీడుమా",
+        "యేసు రాకను కనుమా దైవ రక్షణ పొందుమా",
+        "దేశమా నా ప్రియ దేశమా.. దేశమా భారత  ||దేశమా||",
+        "యేసులో స్వస్థత.. శ్రీ యేసులో రక్షణ…",
+        "యేసులో విడుదల.. శ్రీ యేసులో విజయము…",
+        "యేసే మార్గము.. యేసే సత్యము.. యేసే జీవము.. యేసే సర్వము.."
+      ],
+      "english": [
+        "Nee dhanam nee balam ellappudu niluchunaa",
+        "Garvinchaku deshamaa adhi shaashwatham kaadhugaa..",
+        "Ee kashtamu nashtamu ee vyaadhulu thegullu",
+        "Adhi nee dhoshame.. nee paapa phalithame..",
+        "Deshamaa ika chaalinchumaa.. kanneetitho mokarinchi vedumaa..",
+        "Aa Prabhu ninnu kshamiyinchi ichchunu rakshana..  ||Deshamaa||",
+        "Deshamaa Bhaaratha  ||Deshamaa||",
+        "Deshamaa vinumaa nee paapamu veedumaa",
+        "Yesu raakanu kanumaa daiva rakshana pondumaa",
+        "Deshamaa naa priya deshamaa.. deshamaa Bhaaratha  ||Deshamaa||",
+        "Yesulo swasthatha.. Sree Yesulo rakshana…",
+        "Yesulo vidudala.. Sree Yesulo vijayamu…",
+        "Yese maargamu.. Yese sathyamu.. Yese jeevamu.. Yese sarvamu.."
+      ]
+    }
+  ]
+}

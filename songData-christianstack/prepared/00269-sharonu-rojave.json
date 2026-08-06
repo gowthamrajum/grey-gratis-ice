@@ -1,0 +1,45 @@
+{
+  "song_name": "Sharonu Rojave",
+  "author": {
+    "Authored by": "Pastor Nirmal Elroi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "హోసన్నా – ఉన్నత దైవమా",
+      "హోసన్నా – దావీదు తనయుడా"
+    ],
+    "english": [
+      "Hosanna unnatha daivama",
+      "hosanna davidu thanayuda"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "షారోను రోజావే – నా ప్రాణ స్నేహమే",
+        "నిర్దోష రక్తమే – దైవ గొర్రెపిల్లవే"
+      ],
+      "english": [
+        "Sharonu rojave – naa prana snehame",
+        "nirdosha rakthame – daiva gorrepillave"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సుందరుడవు – నీవు సుందరుడవు",
+        "పదివేలలో నీవు శ్రేష్టుడవు",
+        "సుందరుడవు – బహు సుందరుడవు",
+        "పదివేలలో అతిశ్రేష్టుడవు"
+      ],
+      "english": [
+        "Sundarudavu neevu sundarudavu",
+        "padivelalo neevu sreshtudavu",
+        "sundarudavu bahu sundarudavu",
+        "padivelalo athi sreshtudavu"
+      ]
+    }
+  ]
+}

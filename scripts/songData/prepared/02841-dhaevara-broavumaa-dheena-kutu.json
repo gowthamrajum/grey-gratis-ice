@@ -1,0 +1,80 @@
+{
+  "song_name": "Dhaevara Broavumaa Dheena Kutumbamun",
+  "author": {
+    "Authored by": "",
+    "రచన": "చెట్టి భానుముర్తి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవర బ్రోవుమా దీన కుటుంబమున్ దీవెన లొసగుచు ధాత్రిని నడుపుమా"
+    ],
+    "english": [
+      "Dhaevara Broavumaa Dheena Kutumbamun Dheevena Losaguchu Dhaathrini Nadupumaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పావనమగు స్వ భావము నిమ్మా పాలించర మా పాలిటిదైవమ"
+      ],
+      "english": [
+        "Paavanamagu Sva Bhaavamu Nimmaa Paalinchara Maa Paalitidhaivama"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసు ప్రభువ మా యింటికి శిరసుపై వాసముజేయు మా యందున నిలువుమ"
+      ],
+      "english": [
+        "Yaesu Prabhuva Maa Yintiki Shirasupai Vaasamujaeyu Maa Yandhuna Niluvuma"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అనుదిన భోజనం బనుగ్రహించి మా పనిపాటులలో ప్రక్కను నిలువుమ"
+      ],
+      "english": [
+        "Anudhina Bhoajanam Banugrahinchi Maa Panipaatulaloa Prakkanu Niluvuma"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పిల్లల పెద్దలన్ బెంచుమ ప్రేమతో నెల్ల సమయముల యందున గావుమ"
+      ],
+      "english": [
+        "Pillala Pedhdhalan Benchuma Praemathoa Nella Samayamula Yandhuna Gaavuma"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "అణకువ త్యాగము నతిధి సత్యార్యముల్ గణుతించుచు నిను గొలుతుము దేవ"
+      ],
+      "english": [
+        "Anakuva Thyaagamu Nathidhi Sathyaaryamul Ganuthinchuchu Ninu Goluthumu Dhaeva"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నీ పరిశుద్ధత నేర్పుము యేసువ కాపరి వీవై కాయుము మమ్ము"
+      ],
+      "english": [
+        "Nee Parishudhdhatha Naerpumu Yaesuva Kaapari Veevai Kaayumu Mammu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "క్రైస్తవ జీవము క్రమముగ నొందుచు ప్రస్తుతింతుమో ప్రభువా బ్రోవుమ"
+      ],
+      "english": [
+        "Kraisthava Jeevamu Kramamuga Nondhuchu Prasthuthinthumoa Prabhuvaa Broavuma"
+      ]
+    }
+  ]
+}

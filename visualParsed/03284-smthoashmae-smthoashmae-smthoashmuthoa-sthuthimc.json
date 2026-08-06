@@ -1,0 +1,108 @@
+{
+  "song_name": "Santhoshame santhoshame santhoshamutho sthuthinchedan",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సంతోషమే సంతోషమే - సంతోషముతో స్తుతించెదన్",
+      "క్రీస్తు యేసు రక్షించినన్ - చేర్చెను తన మందలో"
+    ],
+    "english": [
+      "Santhoshame santhoshame - Santhoshamutho sthuthinchedan",
+      "Kreesthu Yesu rakshinchinan - Cherchenu thana mandalo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఘోర దుర్మార్గుడనై - దారితప్పి యుండగా",
+        "భూరి దయతో కాపరి యేసు - దారికి నడిపెను"
+      ],
+      "english": [
+        "Ghora dhurmaargudanai - Dhaarithappi undagaa",
+        "Bhoori dayatho kaapari Yesu - Dhaariki nadipenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అక్షయమైనదియు - నిర్మలమైనదియు",
+        "రక్షకుడేసు వాడబారని స్వాస్థ్యము నా కిచ్చున్"
+      ],
+      "english": [
+        "Akshayamainadhiyu - Nirmalamainadhiyu",
+        "Rakshakudesu vaadabaarani swaasthyamu naa kichchun"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "భయమేమి లేదికను - ప్రభు చిన్న మందకు",
+        "దయ కృపతో రాజ్యమివ్వ - తండ్రికిష్టమాయెన్"
+      ],
+      "english": [
+        "Bhayamemi ledhikanu - Prabhu chinna mandaku",
+        "Daya krupatho raajyamivva - Thandrikishtamaayen"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మంటి పురుగునకు - మింట రాజ్యమివ్వ",
+        "మింటనుండి మంటి కేతెంచి - మరణ మొందె నేసు"
+      ],
+      "english": [
+        "Manti purugunaku - Minta raajyamivva",
+        "Mintanundi manti kethenchi - Marana monde Yesu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "దేవా నీ తలంపులు - నాకు ప్రియమైనవి",
+        "శోధింప నెంతో అశక్యములు - అగమ్యములు"
+      ],
+      "english": [
+        "Deva nee thalampulu - Naaku priyamainavi",
+        "Shodhimpa nentho ashakyamulu - Agamyamulu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నిజకుమారుడేసున్ - మన కనుగ్రహించెను",
+        "రాజ్యముతో బాటు సమస్తము నివ్వ - వెనుదీయునా?"
+      ],
+      "english": [
+        "Nijakumaarudesun - Mana kanugrahinchenu",
+        "Raajyamutho baatu samasthamu nivva - Venudheeyunaa?"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "మహిమ రాజ్యమునకు - మిమ్మును పిలుచుచున్న",
+        "మహిమ రాజుకు తగినట్టుగా మీరు - నడుచుకొనుడి"
+      ],
+      "english": [
+        "Mahima raajyamunaku - Mimmunu piluchuchunna",
+        "Mahima raajuku thaginattugaa meeru - Naduchukonudi"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "రాజాధిరాజు యేసే - ప్రభుల ప్రభు యేసే",
+        "పరమందు దూతలు - యిహమందు నరులు హల్లెలూయ పాడుడి"
+      ],
+      "english": [
+        "Raajaadhiraaju Yese - Prabhula prabhu Yese",
+        "Paramandu doothalu - Ihamandu narulu halleluya paadudi"
+      ]
+    }
+  ]
+}

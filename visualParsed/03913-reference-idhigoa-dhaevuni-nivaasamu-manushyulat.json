@@ -1,0 +1,99 @@
+{
+  "song_name": "Parishuddha pattanamu kroththa Yerooshalemu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరిశుద్ధ పట్టణము క్రొత్త యెరూషలేము",
+      "పరము నుండి వచ్చుట చూచితిని",
+      "భర్త కొరకు అలంకరింపబడిన",
+      "పెండ్లి కుమార్తెగా చూచితిని"
+    ],
+    "english": [
+      "Parishuddha pattanamu kroththa Yerooshalemu",
+      "Paramu nundi vachchuta choochithini",
+      "Bhartha koraku alankarimpabadina",
+      "Pendli kumaarthegaa choochithini"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సింహాసనమందు గొప్ప శబ్దముతో",
+        "బలముగ పలికిన స్వరము వింటిన్",
+        "దేవుడు నివసించు మానవులతో",
+        "తానే వారితో సదా వసించున్"
+      ],
+      "english": [
+        "Simhaasanamandhu goppa shabdhamutho",
+        "Balamuga palikina swaramu vintin",
+        "Devudu nivasinchu maanavulatho",
+        "Thaane vaaritho sadaa vasinchun"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేవుడు తానే వారితో నుండి",
+        "ఆయన వారికి తండ్రియగును",
+        "ప్రతి బాష్పబిందువుల తుడిచివేయున్",
+        "మరణము దుఃఖము ఏడ్పు నిక నుండదు"
+      ],
+      "english": [
+        "Devudu thaane vaaritho nundi",
+        "Aayana vaariki thandriyagunu",
+        "Prathi baashpabindhuvula thudichiveyun",
+        "Maranamu duhkhamu edpu nika nundadhu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మొదటి సంగతులు గతించు చుండె",
+        "పరికించుము సర్వము క్రొత్తవాయె",
+        "సింహాసన మందుండి ప్రభువే పలికె",
+        "నూతనముగా నే చేసితి ననెను"
+      ],
+      "english": [
+        "Modati sangathulu gathinchu chunde",
+        "Parikinchumu sarvamu kroththavaaye",
+        "Simhaasana mandundi Prabhuve palike",
+        "Noothanamugaa ne chesithi nanenu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఈ వాక్యము విశ్వాసులకు యోగ్యము",
+        "సత్యమై మారనిదై యుండు నెప్పుడు",
+        "ఆది యంతము అల్ఫా ఓమేగ",
+        "దప్పి గొన్న వానికి జలము లిచ్చున్"
+      ],
+      "english": [
+        "Ee vaakyamu vishwaasulaku yogyamu",
+        "Sathyamai maaranidhai yundu neppudu",
+        "Aadi yanthamu Alphaa Omega",
+        "Dhappi gonna vaaniki jalamu lichchun"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "జయించువారు వీటన్నింటిని",
+        "వారసులై స్వతంత్రించు కొందురు",
+        "ఆయన వారికి దేవుడై యుండి",
+        "వారాయనకు పుత్రులవుదురు"
+      ],
+      "english": [
+        "Jayinchuvaaru veetannintini",
+        "Vaarasulai swathanthrinchu konduru",
+        "Aayana vaariki dhevudai yundi",
+        "Vaaraayanaku puthrulavudhuru"
+      ]
+    }
+  ]
+}

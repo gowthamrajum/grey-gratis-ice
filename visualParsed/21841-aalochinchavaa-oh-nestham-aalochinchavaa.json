@@ -1,0 +1,88 @@
+{
+  "song_name": "Aalochinchaava o nestham aalochinchaava",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Joshua dean"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆలోచి౦చావ – ఓ నేస్తం ఆలోచి౦చావ",
+      "ఏ సమయంలో ఏమవుతుందో –",
+      "అని ఆలోచి౦చావ",
+      "ఆలోచి౦చావ – ఓ నేస్తం ఆలోచి౦చావ",
+      "ఏ సమయంలో ప్రభు పిలుపు౦దో –",
+      "అని ఎవరికి తెలియదుగా",
+      "ఈ సమయమ౦దే అ౦తా – కనుమరుగైపోతే",
+      "ఏ చోటికి నువ్వు వెళ్తావో – అని ఆలోచి౦చావ",
+      "ఈ సమయమ౦దే అ౦తా – విడిచి వెళ్ళ వస్తే",
+      "ఏ చోటికి నువ్వు వెళ్తావో – అని ఆలోచి౦చావ",
+      "ఏదేదో అనుకుంటాము – ఏవేవో కలగ౦టాము",
+      "వ్యర్థమైన లోకాశలకు – లోబడుతూ ఉ౦టాము ॥2॥"
+    ],
+    "english": [
+      "Aalochinchaava – O nestham aalochinchaava",
+      "E samayamlo emavuthundho –",
+      "Ani aalochinchaava",
+      "Aalochinchaava – O nestham aalochinchaava",
+      "E samayamlo Prabhu pilupundho –",
+      "Ani evariki theliyadhugaa",
+      "Ee samayamandhe anthaa – Kanumarugaipothe",
+      "E chotiki nuvvu velthaavo – Ani aalochinchaava",
+      "Ee samayamandhe anthaa – Vidichi vella vasthe",
+      "E chotiki nuvvu velthaavo – Ani aalochinchaava",
+      "Edhedho anukuntaamu – Evevo kalagantaamu",
+      "Vyarthamaina lokaashalaku – Lobaduthoo untaamu ॥2॥"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రభు నిన్ను చూచుచున్నాడని,",
+        "తన ప్రేమతో పిలచుచున్నాడని,",
+        "తెలిసి కూడా ఎ౦తో నిర్లక్ష్యం ..!",
+        "మేలుకో….. సోదరా ..!",
+        "రానైయు౦దిగా – ప్రభు రాకడ",
+        "మేలుకో ….. సోదరీ ..!",
+        "రానైయు౦దిగా – ప్రభు రాకడ",
+        "అన్నీ తెలుసనుకు౦టాము – నాకేదీ కాద౦టాము",
+        "తెలియకు౦డా సాతానుచే – మోసపోతూ ఉ౦టాము ॥2॥"
+      ],
+      "english": [
+        "Prabhu ninnu choochuchunnaadani,",
+        "Thana prematho pilachuchunnaadani,",
+        "Thelisi koodaa entho nirlakshyam ..!",
+        "Meluko….. sodaraa ..!",
+        "Raanaiyundhigaa – Prabhu raakada",
+        "Meluko ….. sodaree ..!",
+        "Raanaiyundhigaa – Prabhu raakada",
+        "Annee thelusanukuntaamu – Naakedhee kaadantaamu",
+        "Theliyakundaa Saathaanuche – Mosapothoo untaamu ॥2॥"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రభు నిన్ను చూచుచున్నాడని,",
+        "తన ప్రేమతో పిలచుచున్నాడని,",
+        "తెలిసి కూడా ఎ౦తో నిర్లక్ష్యం ..!",
+        "మేలుకో ….. సోదరా ..!",
+        "రానైయు౦దిగా – ప్రభు రాకడ",
+        "మేలుకో ….. సోదరీ ..!",
+        "రానైయు౦దిగా – ప్రభు రాకడ"
+      ],
+      "english": [
+        "Prabhu ninnu choochuchunnaadani,",
+        "Thana prematho pilachuchunnaadani,",
+        "Thelisi koodaa entho nirlakshyam ..!",
+        "Meluko ….. sodaraa ..!",
+        "Raanaiyundhigaa – Prabhu raakada",
+        "Meluko ….. sodaree ..!",
+        "Raanaiyundhigaa – Prabhu raakada"
+      ]
+    }
+  ]
+}

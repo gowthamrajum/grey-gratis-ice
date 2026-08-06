@@ -1,0 +1,54 @@
+{
+  "song_name": "Shaashvathamainadhee neetho naakunna anubandhamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "శాశ్వతమైనదీ నీతో నాకున్న అనుబంధము",
+      "మరువలేనదీ నాపై నీకున్న అనురాగము ||2||",
+      "యేసయ్యా నీ నామ స్మరణయే",
+      "నీ శ్వాస నిశ్వాసవాయెను ||2|| ||శాశ్వత||"
+    ],
+    "english": [
+      "Shaashvathamainadhee neetho naakunna anubandhamu",
+      "Maruvalenadhee naapai neekunna anuraagamu ||2||",
+      "Yesayyaa nee naama smaranaye",
+      "Nee shwaasa nishvaasavaayenu ||2|| ||Shaashwatha||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సంధ్యారాగము వినిపించినావు",
+        "నా హృదయ వీణను సవరించినావు ||2||",
+        "నా చీకటి బ్రతుకును వెలిగించినావు ||2||",
+        "నా నోట మృదువైన మాటలు పలికించినావు  ||శాశ్వతమైనదీ||"
+      ],
+      "english": [
+        "Sandhyaaraagamu vinipinchinaavu",
+        "Naa hrudaya veenanu savarinchinaavu ||2||",
+        "Naa cheekati brathukunu veliginchinaavu ||2||",
+        "Naa nota mrudhuvaina maatalu palikinchinaavu  ||Shaashvathamainadhee||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా విలాప రాగాలు నీవు విన్నావు",
+        "వేకువ చుక్కవై దర్శించినావు",
+        "అపవాది ఉరుల నుండి విడిపించినావు ||2||",
+        "శత్రువులను మిత్రులుగా నీవు మార్చియున్నావు||శాశ్వత||"
+      ],
+      "english": [
+        "Naa vilaapa raagaalu neevu vinnaavu",
+        "Vekuva chukkavai dharshinchinaavu",
+        "Apavaadi urula nundi vidipinchinaavu ||2||",
+        "Shathruvulanu mithrulugaa neevu maarchiyunnaavu||Shaashwatha||"
+      ]
+    }
+  ]
+}

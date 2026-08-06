@@ -1,0 +1,54 @@
+{
+  "song_name": "Yesu goriya pillanu nenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు గొరియ పిల్లను నేను",
+      "వధకు తేబడిన గొరియ పిల్లను (2)",
+      "దినదినము చనిపోవుచున్నాను",
+      "యేసు క్రీస్తులో బ్రతుకుతున్నాను (2) ||యేసు గొరియ||"
+    ],
+    "english": [
+      "Yesu goriya pillanu nenu",
+      "Vadhaku thebadina goriya pillanu (2)",
+      "Dinadinamu chanipovuchunnaanu",
+      "Yesu Kreesthulo brathukuthunnaanu (2) ||Yesu goriya||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా తలపై ముళ్ళు గుచ్చబడినవి",
+        "నా తలంపులు ఏడుస్తున్నవి (2)",
+        "నా మోమున ఉమ్మి వేయబడినది",
+        "నా చూపులు తల దించుకున్నవి (2)  ||యేసు||"
+      ],
+      "english": [
+        "Naa thalapai mullu guchchabadinavi",
+        "Naa thalampulu edusthunnavi (2)",
+        "Naa momuna ummi veyabadinadhi",
+        "Naa choopulu thala dhinchukunnavi (2) ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా చేతుల సంకెళ్ళు పడినవి",
+        "నా రాతలు చెరిగిపోతున్నవి (2)",
+        "నా కాళ్ళకు మేకులు దిగబడినవి",
+        "నా నడకలు రక్త సిక్తమైనవి (2)  ||యేసు||"
+      ],
+      "english": [
+        "Naa chethula sankelllu padinavi",
+        "Naa raathalu cherigipothunnavi (2)",
+        "Naa kaallaku mekulu dhigabadinavi",
+        "Naa nadakalu raktha sikthamainavi (2) ||Yesu||"
+      ]
+    }
+  ]
+}

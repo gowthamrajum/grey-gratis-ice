@@ -1,0 +1,32 @@
+{
+  "song_name": "Raja Nee Sannidhilone",
+  "author": {
+    "Authored by": "Bro. John J, Fire Gospel Ministries",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాజా నీ సన్నిధిలోనే ఉంటానయ్య",
+      "మనసారా ఆరాధిస్తు బ్రతికేస్తానయ్య"
+    ],
+    "english": [
+      "Raja nee sannidhilone untanayya",
+      "manasaara aaradhisthu brathikesthanayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నేనుండలేనయ్య నే బ్రతుకలేనయ్య",
+        "నీవే లేకుండా నేనుండలేనయ్య",
+        "నీ తోడే లేకుండా నే బ్రతుకలేనయ్య"
+      ],
+      "english": [
+        "Nenundalenayya ne brathukalenayya",
+        "neeve lekunda nenundalenayya",
+        "nee thode lekunda ne brathukalenayya"
+      ]
+    }
+  ]
+}

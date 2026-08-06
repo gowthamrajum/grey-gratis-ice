@@ -1,0 +1,52 @@
+{
+  "song_name": "Kaligiyunna Samasthamu",
+  "author": {
+    "Authored by": "Bro Sudheer Nelaturi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కలిగియున్న సమస్తము నీదేనయ్యా",
+      "పొందుకున్నది నీ దగ్గరేనయ్యా",
+      "నీదే ఆ త్యాగము నీదే మా జీవము"
+    ],
+    "english": [
+      "Kaligiyunna samasthamu needenayya",
+      "pondhukunnadhi nee daggarey nayya",
+      "needhey aa thyaagamu needhey maa jeevamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మా బలము నీ బలహీనతను వివరింపగలదా",
+        "మా ధనము నీ దీనత్వమును వర్ణింపదగునా",
+        "మాకున్న సమస్తము నీ లేమిలోనిదే",
+        "మా శక్తి బలములు బలహీనుడ నీవే",
+        "మా ధనము ఈ బలము",
+        "నిను కొలచుటకై చాలదయ్యా",
+        "మా అధికారం నీ దాసత్వమును వెక్కిరింపగలదా",
+        "ఈ అలంకార అందములు నీ గాయపడిన శరీరము సాటిదా",
+        "మాకున్న సమస్తము నీ లేమిలోనిదే",
+        "ఈ అధికారంధములు నీ పాత్రలోనిదే",
+        "మా జ్ఞానము ఈ ప్రాయము",
+        "నిను స్తుతించుటకై చాలదయ్యా"
+      ],
+      "english": [
+        "Maa balamu nee balaheenathanu vivarimpagaladhaa",
+        "maa dhanamu nee deenathwamunu varnimpadhagunaa",
+        "maakunna samasthamu nee lemilonidhey",
+        "maa shakthi balamulu balaheenuda neeve",
+        "maa dhanamu ee balamu",
+        "ninu kolachutakai chaaladayyaa",
+        "Maa adhikaaram nee daasathwamunu vekkirinpagaladaa",
+        "ee alankaara andhamulu nee gaayapadina sareeramu saatidhaa",
+        "maakunna samasthamu nee lemilonidey",
+        "ee adhikaarandhamulu nee paathralonidey",
+        "maa gnaanamu ee praayamu",
+        "ninu sthuthinchutakai chaaladhayyaa"
+      ]
+    }
+  ]
+}

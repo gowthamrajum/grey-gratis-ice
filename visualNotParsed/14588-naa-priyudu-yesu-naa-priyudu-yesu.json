@@ -1,0 +1,80 @@
+{
+  "song_name": "Naa priyudu Yesu – Naa priyudu Yesu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రియుడు యేసు – నా ప్రియుడు యేసు",
+      "వ్రేలాడే సిలువలో ప్రాణమే బలి చేసెనిల (2) ||నా ప్రియుడు||"
+    ],
+    "english": [
+      "Naa priyudu Yesu – Naa priyudu Yesu",
+      "Vrelaade siluvalo praaname bali chesenila (2) ||Naa priyudu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మెల్లని చల్లని స్వరమే వినబడెను (2)",
+        "తండ్రీ వీరేమి చేయుచున్నారో (2)",
+        "ఎరుగరు గనుక క్షమించుమనెన్",
+        "ఆ ప్రియ స్వరమే నా ప్రభు స్వరమే  ||నా||"
+      ],
+      "english": [
+        "Mellani challani swarame vinabadenu (2)",
+        "Thandree veeremi cheyuchunnaaro (2)",
+        "Erugaru ganuka kshaminchumanen",
+        "Aa priya swarame naa Prabhu swarame  ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అతని ప్రేమ మధురం మధురం",
+        "ఎన్నటికీ నే మరువలేను (2)",
+        "ధారబోసెను జీవం – నాకిచ్చె నిత్య జీవం",
+        "శాపమంతా బాపి నను దీవించెనుగా  ||నా||"
+      ],
+      "english": [
+        "Athani prema madhuram madhuram",
+        "Ennatikee ne maruvalenu (2)",
+        "Dhaarabosenu jeevam – Naakichche nithya jeevam",
+        "Shaapamanthaa baapi nanu dheevinchenugaa  ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వీపంతా దున్నబడె నాగలితో",
+        "కారె రక్త వరదల్ కనుమా (2)",
+        "యేసు రక్తంలో రక్షణ – యేసు రక్తంలో స్వస్థత",
+        "నాకై మరణించి తిరిగి లేచె సజీవునిగా  ||నా||"
+      ],
+      "english": [
+        "Veepanthaa dunnabade naagalitho",
+        "Kaare raktha varadhal kanumaa (2)",
+        "Yesu rakthamlo rakshana – Yesu rakthamlo swasthatha",
+        "Naakai maraninchi thirigi leche sajeevunigaa  ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "తండ్రి కుడి పార్శ్వమున కూర్చుండి",
+        "నాకై విన్నతి చేయుచున్నాడు (2)",
+        "రానైయున్నాడు వేగ – మేఘముపై విభుడే",
+        "నన్ను పరమ గృహమునకు తోడ్కొని వెళ్ళును  ||నా||"
+      ],
+      "english": [
+        "Thandri kudi paarshvamuna koorchundi",
+        "Naakai vinnathi cheyuchunnaadu (2)",
+        "Raanaiyunnaadu vega – Meghamupai vibhude",
+        "Nannu parama gruhamunaku thodkoni vellunu  ||Naa||"
+      ]
+    }
+  ]
+}

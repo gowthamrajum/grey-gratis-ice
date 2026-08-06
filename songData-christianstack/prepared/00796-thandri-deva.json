@@ -1,0 +1,36 @@
+{
+  "song_name": "Thandri Deva",
+  "author": {
+    "Authored by": "Tenny Jinans John",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "తండ్రి దేవా తండ్రి దేవా",
+      "నా సర్వం నీవయ్యా",
+      "నీవుంటే నాకు చాలు"
+    ],
+    "english": [
+      "Thandri devaa thandri devaa",
+      "naa sarvam neevayyaa",
+      "neevunte naaku chaalu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా ప్రియుడా నా ప్రాణమా",
+        "నిన్ ఆరాధించెదన్",
+        "నా జీవమా నా స్నేహమా",
+        "నిన్ ఆరాధించెదన్"
+      ],
+      "english": [
+        "Naa priyudaa naa praanamaa",
+        "nin aaraadhinchedhan",
+        "naa jeevamaa naa snehamaa",
+        "nin aaraadhinchedhan"
+      ]
+    }
+  ]
+}

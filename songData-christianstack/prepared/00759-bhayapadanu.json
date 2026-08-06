@@ -1,0 +1,177 @@
+{
+  "song_name": "Bhayapadanu",
+  "author": {
+    "Authored by": "Vijay Kondapuram",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "[Verse 1]",
+      "మహోన్నతుడా నీ చాటున నే నివసించెదను",
+      "సర్వశక్తుడా నీ నీడలో నే విశ్రమించెదను"
+    ],
+    "english": [
+      "[Verse 1]",
+      "Mahonnathuda Nee Chaatuna Ne Nivasinchedhanu",
+      "Sarva Shakthuda Nee Needalo Ne Vishraminchedhanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "[Pre-Chorus1]",
+        "బలవంతుడా నీ సన్నిధినే",
+        "నే ఆశ్రయించెదా అనుదినము"
+      ],
+      "english": [
+        "[Pre-Chorus1]",
+        "Balavanthuda – Nee Sannidhine",
+        "Ne Ashrayinchedha – Anudhinamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "[Chorus]",
+        "యేసయ్యా యేసయ్యా"
+      ],
+      "english": [
+        "[Chorus]",
+        "Yesayya…. Yesayya…."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "[Verse 2]",
+        "రాత్రివేళ కలుగు భయముకైనా",
+        "పగటిలో ఎగిరే బాణముకైనా",
+        "చీకటిలో సంచరించు తెగులుకైనా",
+        "దినమెల్లా వేధించు వ్యాధికైనా"
+      ],
+      "english": [
+        "[Verse 2]",
+        "Raatrivela Kalugu Bhayamukaina",
+        "Pagatilo Egire Banamukaina",
+        "Cheekatilo Sancharinchu Thegulukaina",
+        "Dinamella Vedhinche Vyaadhikaina"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "[Pre-Chorus2]",
+        "నే భయపడను నే దిగులు చెందను",
+        "యెహోవా రాఫా నా తోడు నీవే"
+      ],
+      "english": [
+        "[Pre-Chorus2]",
+        "Ne Bhayapadanu – Ne Dhiguluchendhanu",
+        "Yehova Rapha – Naa Thodu neeve"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "[Chorus]",
+        "యేసయ్యా యేసయ్యా"
+      ],
+      "english": [
+        "[Chorus]",
+        "Yesayya…. Yesayya…."
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "[Verse 3]",
+        "వేయిమంది నా ప్రక్క పడిపోయినా",
+        "పదివేలు నా చుట్టు కూలినను",
+        "అంధకారమే నన్ను చుట్టుముట్టినా",
+        "మరణ భయమే నన్ను వేధించినా"
+      ],
+      "english": [
+        "[Verse3]",
+        "Veyimandi Naa Prakka Padipoyina",
+        "Padhivelu Naa Chuttu Kulinanu",
+        "Andhakaarame Nannu Chuttumuttina",
+        "Marana Bhayame Nanu Vedhinchina"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "[Pre-Chorus3]",
+        "నే భయపడను నే దిగులు చెందను",
+        "యెహోవా నిస్సి నా తోడు నీవే"
+      ],
+      "english": [
+        "[Pre-Chorus3]",
+        "Ne Bhayapadanu – Ne Dhiguluchendhanu",
+        "Yehova Nissi – Naa Thodu neeve"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "[Chorus]",
+        "యేసయ్యా యేసయ్యా"
+      ],
+      "english": [
+        "[Chorus]",
+        "Yesayya…. Yesayya…."
+      ]
+    },
+    {
+      "stanza_number": 9,
+      "telugu": [
+        "[Bridge1]",
+        "నిను ప్రేమించువారిని తప్పించువాడా",
+        "నిన్నెరిగిన వారిని ఘనపరచువాడా"
+      ],
+      "english": [
+        "[Bridge1]",
+        "Ninu Preminchu Vaarini – Tappinchuvaada",
+        "Ninnerigina Vaarini – Ghanaparachuvaada"
+      ]
+    },
+    {
+      "stanza_number": 10,
+      "telugu": [
+        "[Bridge2]",
+        "నా యుద్ధము జయించి లేవనెత్తువాడా",
+        "కృప వెంబడి కృప చూపించువాడా"
+      ],
+      "english": [
+        "[Bridge2]",
+        "Naa Yuddhamu Jayinchi – Levanethuvaada",
+        "Krupa Vembadi Krupa – Choopinchuvaada"
+      ]
+    },
+    {
+      "stanza_number": 11,
+      "telugu": [
+        "[Chorus]",
+        "యేసయ్యా యేసయ్యా"
+      ],
+      "english": [
+        "[Chorus]",
+        "Yesayya…. Yesayya…."
+      ]
+    },
+    {
+      "stanza_number": 12,
+      "telugu": [
+        "[Tag]",
+        "నే భయపడను నే దిగులు చెందను",
+        "యెహోవా షాలోం నా తోడు నీవే"
+      ],
+      "english": [
+        "[Tag]",
+        "Ne Bhayapadanu – Ne Dhiguluchendhanu",
+        "Yehova Shalom – Naa Thodu neeve"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "song_name": "Ennaallugaa Enneellugaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎన్నాళ్ళుగా ఎన్నేళ్ళుగా నా నీరిక్షనా",
+      "ఎన్నాళ్ళుగా ఎన్నేళ్ళుగా ఈ నీరిక్షనా",
+      "యేసయ్య యేసయ్య నీ ప్రేమ పొందాలని",
+      "యేసయ్య యేసయ్య నీకు పరవసించాలని"
+    ],
+    "english": [
+      "Ennaallugaa Enneellugaa Naa Neerikshanaa",
+      "Ennaallugaa Enneellugaa Ee Neerikshanaa",
+      "Yesayya Yesayya Nee Prema Pondaalani",
+      "Yesayya Yesayya Neeku Paravasinchaalani"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అవమానాలన్ని ఆవేదనలన్ని నీతోనే పంచుకోవాలని",
+        "నీ గాయాలన్ని ముద్దాడి నేను నీ సన్నిధిలో ఉండాలని",
+        "నిను చేరాలని నిను చూడాలని నీతో నడవాలని నీతో గడపాలని"
+      ],
+      "english": [
+        "Avamaanaalanni Aavedanalanni Neethone Panchukovaalani",
+        "Nee Gaayaalanni Muddaadi Nenu Nee Sannidhilo Undaalani",
+        "Ninu Cheraalani Ninu Choodaalani Neetho Nadavaalani Neetho Gadapaalani"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కన్నీరు తుడిచి కౌగిటిలో చేర్చి వేదన బాదలు నాకింకా లేవని",
+        "బంగారు వీదుల్లో కలిసి నడవాలని నిత్య జీవంలో నేను ఉండాలని",
+        "నిను చేరాలని నిను చూడాలని నీతో నడవాలని నీతో గడపాలని"
+      ],
+      "english": [
+        "Kanneeru Thudichi Kougitilo Cherchi Vedana Baadalu Naakinkaa Levani",
+        "Bangaaru Veedullo Kalisi Nadavaalani Nithya Jeevamlo Nenu Undaalani",
+        "Ninu Cheraalani Ninu Choodaalani Neetho Nadavaalani Neetho Gadapaalani"
+      ]
+    }
+  ]
+}

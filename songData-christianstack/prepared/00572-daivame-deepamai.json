@@ -1,0 +1,36 @@
+{
+  "song_name": "Daivame Deepamai",
+  "author": {
+    "Authored by": "Prasad Nelapudi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రవికోటి తేజుడు మహిమలో నివసించు సర్వోన్నతుడు",
+      "నశియించుచున్న దానిని వెదకి రక్షించుటకు",
+      "దైవమె దీపమై ఈ లోకానికి అరుదేంచెను"
+    ],
+    "english": [
+      "Ravi koti thejudu mahimalo nivasinchu sarvonnathudu",
+      "nasiyinchuchunna dhanini vedhaki rakshinchutaku",
+      "dhaivame dheepamai ee lokaniki arudhenchenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆనందం ఆనందం క్రిస్మస్ ఆనందం",
+        "మా ఇంట వెలిగింది రక్షణ దీపం",
+        "ఆనందం ఆనందం క్రిస్మస్ ఆనందం",
+        "అవధులు దాటింది మా సంతోషం"
+      ],
+      "english": [
+        "anandam anandam christmas anandam",
+        "maa inta veligindhi rakshana dheepam",
+        "anandam anandam christmas anandam",
+        "avadhulu dhatindi maa santhosham"
+      ]
+    }
+  ]
+}

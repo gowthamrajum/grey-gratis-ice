@@ -1,0 +1,81 @@
+{
+  "song_name": "Nee Rakthame Paapa Parihaaram",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Anil Kumar"
+    ],
+    "రచన": [
+      "బ్రదర్ అనిల్ కుమార్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "లోక పాపమును మోసుకెళ్ళిన దేవుని గొర్రె పిల్ల (2)",
+      "నీ రక్తమే పాప పరిహారం నీ దేహమె జీవాహారం నీ వాక్యమే మాకు ఆధారం",
+      "నీ నామమే రక్షణకు మూలం నీ విజయమే మాకు ...... విజయం",
+      "లోక పాపమును మోసుకెళ్ళిన దేవుని గొర్రె పిల్ల"
+    ],
+    "english": [
+      "Loka paapamunu mosukellina Devuni gorre pilla (2)",
+      "Nee rakthame paapa parihaaram nee dehame jeevaahaaram nee vaakyame maaku aadhaaram",
+      "Nee naamame rakshanaku moolam nee vijayame maaku ...... vijayam",
+      "Loka paapamunu mosukellina Devuni gorre pilla"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మొదటి ఆదాముతో పాపం జనియించెను - మరణము సంక్రమించెను (2)",
+        "ఆ పాపం పోవాలంటే ఈ మరణం తొలగాలంటే మా వల్ల కానే కాదు పరిశుద్ధుడె రావాలి ....",
+        "ప్రభువా కడపటి ఆదామైనావు - కలువరి బలి పీఠము నెక్కావు",
+        "నీ ప్రాణమే బలిగా అర్పించి",
+        "మా ప్రాణాలను కాపాడావు- మరణాన్నే మ్రింగి వేసావు  ||లోక||"
+      ],
+      "english": [
+        "Modati Aadaamutho paapam janiyinchenu - Maranamu sankraminchenu (2)",
+        "Aa paapam povaalante ee maranam tholagaalante maa valla kaane kaadu parishuddhude raavaali ....",
+        "Prabhuvaa kadapati Aadaamainaavu - Kaluvari bali peethamu nekkaavu",
+        "Nee praaname baligaa arpinchi",
+        "Maa praanaalanu kaapaadaavu- Maranaanne mringi vesaavu  ||Loka||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీవు పొందిన దెబ్బలచే - మాకు స్వస్థత నిచ్చావే మా కోసం చీల్చబడినావే (2)",
+        "సూరూపమేమి లేక కురూపివైనావయ్యా - నిను నలుగగొట్టుటకు తండ్రిష్టమాయేనా .....",
+        "ప్రభువా నిశ్చయముగ మా రోగాలు - భరియించావు నీ దేహములో",
+        "మా వ్యసనములన్నిటి సహియించి",
+        "మా శాపగ్రాహి వైనావు - ఆరోగ్యము మాకు ఇచ్చావు  ||లోక||"
+      ],
+      "english": [
+        "Neevu pondina dhebbalache - Maaku swasthatha nichchaave maa kosam cheelchabadinaave (2)",
+        "Suroopamemi leka kuroopivainaavayyaa - Ninu nalugagottutaku thandrishtamaayenaa .....",
+        "Prabhuvaa nishchayamuga maa rogaalu - Bhariyinchaavu nee dehamulo",
+        "Maa vyasanamulanniti sahiyinchi",
+        "Maa shaapagraahi vainaavu - Aarogyamu maaku ichchaavu  ||Loka||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "శ్రీమంతుడవు నువ్వు సృష్టంతటిలో నువ్వు ఐనా తగ్గించుకున్నావూ (2)",
+        "నీవు సృష్టించిన ఈ భువికి దీనుడవై దిగి వచ్చావె",
+        "మము ధనవంతులుగా చేయ దారిద్ర్యత నొందావే.....",
+        "ప్రభువా నీ తగ్గింపుకు సమమేది - నీ అద్భుత కృపకు మితి ఏది",
+        "నీ ప్రేమకు ఇలలో సాటేది",
+        "నీవంటి రక్షకుడు ఏడి -నీలాంటి ప్రేమ ఘనుడేడి  ||లోక||"
+      ],
+      "english": [
+        "Sreemanthudavu nuvvu srushtanthatilo nuvvu ainaa thagginchukunnaavoo (2)",
+        "Neevu srushtinchina ee bhuviki deenudavai digi vachchaave",
+        "Mamu dhanavanthulugaa cheya daaridhryatha nondhaave.....",
+        "Prabhuvaa nee thagginpuku samamedhi - Nee adbhutha krupaku mithi edhi",
+        "Nee premaku ilalo saatedhi",
+        "Neevanti rakshakudu edi -Neelaanti prema ghanudedi  ||Loka||"
+      ]
+    }
+  ]
+}

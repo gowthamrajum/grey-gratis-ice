@@ -1,0 +1,115 @@
+{
+  "song_name": "Nannu Choochuvaada",
+  "author": {
+    "Authored by": "Father S J Berchmans",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నన్ను చూచువాడా",
+      "నిత్యం కాచువాడా"
+    ],
+    "english": [
+      "Nannu choochuvaada",
+      "nithyam kaachuvaada"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరిశోధించి తెలుసుకున్నావు",
+        "చుట్టూ నన్ను ఆవరించావు"
+      ],
+      "english": [
+        "Parishodinchi telusukunnaavu",
+        "chutu nannu aavarinchaavu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కూర్చుండుట నే",
+        "లేచియుండుట",
+        "బాగుగ యెరిగియున్నావు- రాజా"
+      ],
+      "english": [
+        "Koorchunduta ne",
+        "lechiyunduta",
+        "baaguga erigiyunnaavu – rajaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తలంపులు తపనయు అన్నీ",
+        "అన్నియు యెరిగియున్నావు",
+        "నడచిననూ పడుకున్ననూ",
+        "అయ్యా! నీవెరిగియున్నావు"
+      ],
+      "english": [
+        "Thalampulu, thapanayu anni",
+        "anniyu erigiyunnaavu",
+        "nadachinanu, padukunnanu",
+        "ayya neeverigiyunnaavu – nenu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ధన్యవాదం యేసు రాజా"
+      ],
+      "english": [
+        "Dhanyawaadam, yesu raaja"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "వెనుకను ముందును కప్పి",
+        "చుట్టూ నన్ను ఆవరించావు",
+        "(నీ) చేతులచే అనుదినము",
+        "పట్టి నీవే నడిపించావు"
+      ],
+      "english": [
+        "Venukanu, mundhunu kappi",
+        "chutu nannu aavarinchaavu",
+        "nee chethulache anudhinamu",
+        "patti neeve nadipinchaavu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ధన్యవాదం యేసు రాజా"
+      ],
+      "english": [
+        "Dhanyawaadam, yesu raaja"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "పిండమునై యుండగా నీ కన్నులకు",
+        "మరుగై నేనుండలేదయ్యా",
+        "నిర్మించితివి",
+        "ఆశ్చర్యమే కలుగుచున్నది"
+      ],
+      "english": [
+        "Pindamunai yundagaa nee kannulaku",
+        "marugai nenundaledhayya",
+        "vichitramugaa nirminchithivi",
+        "aascharyame kaluguchunnadhi"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "ధన్యవాదం యేసు రాజా"
+      ],
+      "english": [
+        "dhanyawaadam, yesu raaja"
+      ]
+    }
+  ]
+}

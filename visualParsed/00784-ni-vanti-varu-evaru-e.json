@@ -1,0 +1,55 @@
+{
+  "song_name": "Nee vanti vaaru evaru ee lokamlo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ వంటి వారు ఎవరు ఈ లోకంలో యేసయ్యా",
+      "నీవే మా దేవుడవు యేసయ్యా",
+      "యేసయ్య. . .నా యేసయ్యా"
+    ],
+    "english": [
+      "Nee vanti vaaru evaru ee lokamlo Yesayyaa",
+      "Neeve maa Devudavu Yesayyaa",
+      "Yesayya. . .naa Yesayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తీసావు నన్ను నేల నుండి చేసావు నీదు రూపంబులో ఆ. . .ఆ",
+        "నీ జీవ ఆత్మను నా కొసగినావు జీవింప జేసిన జీవాథిపతివి"
+      ],
+      "english": [
+        "Theesaavu nannu nela nundi chesaavu needu roopambulo aa. . .aa",
+        "Nee jeeva aathmanu naa kosaginaavu jeevimpa jesina jeevaadhipathivi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దీనులను పైకి లేవనెత్తువాడవు బీదలను కనికరించు దేవుడవు నీవు ఆ. . .ఆ",
+        "నీ ప్రేమ హస్తాలలో నన్ను దాచి ఆదరించు కాపాడు దేవుడవు నీవు"
+      ],
+      "english": [
+        "Deenulanu paiki levanetthuvaadavu beedhalanu kanikarinchu Devudavu neevu aa. . .aa",
+        "Nee prema hasthaalalo nannu daachi aadarinchu kaapaadu Devudavu neevu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మరణము నుండి నా ప్రాణమున్ కన్నీళ్ళు విడువకుండా నా కన్నులన్ ఆ. . .ఆ",
+        "జారి పడకుండా నా పాదములను రక్షించువాడవు నీవే యేసయ్యా"
+      ],
+      "english": [
+        "Maranamu nundi naa praanamun kanneellu viduvakundaa naa kannulan aa. . .aa",
+        "Jaari padakundaa naa paadamulanu rakshinchuvaadavu neeve Yesayyaa"
+      ]
+    }
+  ]
+}

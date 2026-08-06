@@ -1,0 +1,85 @@
+{
+  "song_name": "Aayana Thana MukhakaaMthi Maameedha PrakaashiMpajaeyunu Gaaka",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆయన తన ముఖకాంతి మామీద ప్రకాశింపజేయును గాక.",
+      "కీర్తన Psalm 67"
+    ],
+    "english": [
+      "Aayana Thana MukhakaaMthi Maameedha PrakaashiMpajaeyunu Gaaka.",
+      "Keerthana Psalm 67"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ మార్గము దేవా భూమి - మీద కనబడునట్లు",
+        "నీ రక్షణ అన్యులలో - తెలియబడు గాక"
+      ],
+      "english": [
+        "Nee Maargamu Dhaevaa Bhoomi - Meedha Kanabadunatlu",
+        "Nee RakShaNa Anyulaloa - Theliyabadu Gaaka"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేవుడు మమ్ము కరుణించి - దీవించును గాక",
+        "ప్రకాశింపజేయుము నీ - ముఖకాంతిని మాపై"
+      ],
+      "english": [
+        "Dhaevudu Mammu KaruNiMchi - DheeviMchunu Gaaka",
+        "PrakaashiMpajaeyumu Nee - MukhakaaMthini Maapai"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "స్తుతియించెదరు గాక మా - దేవా ప్రజలు నిన్ను",
+        "స్తుతియించెదరు గాక మా - దేవా ప్రజలు నిన్ను"
+      ],
+      "english": [
+        "SthuthiyiMchedharu Gaaka Maa - Dhaevaa Prajalu Ninnu",
+        "SthuthiyiMchedharu Gaaka Maa - Dhaevaa Prajalu Ninnu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యెహోవా నీతితో నీవు - న్యాయము తీర్చెదువు",
+        "ఏలెదవు భూమిమీద - నున్న జనులను"
+      ],
+      "english": [
+        "Yehoavaa Neethithoa Neevu - Nyaayamu Theerchedhuvu",
+        "Aeledhavu Bhoomimeedha - Nunna Janulanu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "జనులానంద యుత్సాహ - ధ్వని చేయుదురు గాక",
+        "జనులు దేవా నిన్ను - స్తుతియించెదదు గాక"
+      ],
+      "english": [
+        "JanulaanaMdha Yuthsaaha - Dhvani Chaeyudhuru Gaaka",
+        "Janulu Dhaevaa Ninnu - SthuthiyiMchedhadhu Gaaka"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "భూమి ఫలియించును యెహో - వా మమ్ము దీవించును",
+        "భూలోకులందరు దైవ - భక్తి కల్గి యుందురు"
+      ],
+      "english": [
+        "Bhoomi PhaliyiMchunu Yehoa - Vaa Mammu DheeviMchunu",
+        "BhooloakulaMdharu Dhaiva - Bhakthi Kalgi YuMdhuru"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "song_name": "Nanu Kalugajesina",
+  "author": {
+    "Authored by": "A.R.Stevenson",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నను కలుగ జేసిన – విధము తలపోసిన",
+      "భయము ఆశ్చర్యము పుట్టును హృదయమందున"
+    ],
+    "english": [
+      "Nanu kalugajesina – vidhamu thalaposina",
+      "bhayamu aascharyamu puttunu hrudayamandhuna"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అ.ప: స్తుతులు చెల్లించుచున్నా అందువలన"
+      ],
+      "english": [
+        "Stuthulu chellinchuchunnaa andhuvalana"
+      ]
+    }
+  ]
+}

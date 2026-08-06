@@ -1,0 +1,57 @@
+{
+  "song_name": "Yesuni Kutumbhamokatunnadhi",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసుని కుటుంబమొకటున్నది ప్రేమతో నిండిన స్థలమొకటున్నది రాజాధిరాజైన యేసు నిరంతరం పాలించును (2)"
+    ],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హెచ్చు తగ్గుల్‌ అక్కడసలె లేవు పేద గొప్ప బేధములే లేవు ||రా||"
+      ],
+      "english": []
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపం లేదు అక్కడ, శాపం లేదు వ్యాధిలేదు, ఆకలసలే లేదు ||రా||"
+      ],
+      "english": []
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సంతోషము, సమాధానముంది విజయముంది, స్తుతి గీతముంది ||రా|| Yēsuni kuṭumbamokaṭunnadi prēmatō niṇḍina sthalamokaṭunnadi rājādhirājaina yēsu nirantaraṁ pālin̄cunu (2)"
+      ],
+      "english": []
+    },
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "Heccu taggul‌ akkaḍasale lēvu pēda goppa bēdhamulē lēvu ||rā||"
+      ],
+      "english": []
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "Pāpaṁ lēdu akkaḍa, śāpaṁ lēdu vyādhilēdu, ākalasalē lēdu ||rā||"
+      ],
+      "english": []
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "Santōṣamu, samādhānamundi vijayamundi, stuti gītamundi ||rā||"
+      ],
+      "english": []
+    }
+  ]
+}

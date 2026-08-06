@@ -1,0 +1,77 @@
+{
+  "song_name": "Yesayya Janminche",
+  "author": {
+    "Authored by": "Padala Suresh Babu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "Lyrics:-",
+      "యేసయ్య జన్మించే ఈ నేలపై",
+      "సంబరాలు చేసేద్దాం ఏకమై…",
+      "లోకమును ప్రేమించి వచ్చిన",
+      "ప్రియ కుమారునికై…",
+      "ఊరూరా వెళ్లేదాం సువార్త చేసెదం",
+      "లోకాన చాటేద్దాం"
+    ],
+    "english": [
+      "Yesayya janminchea ee nealapai",
+      "Sambaraalu cheaseaddaam eakamai",
+      "Lookamunu preaminchi vacchina",
+      "Priya kumaarunikai…",
+      "Ooruuraa velleadaam suvaarta cheasedaam",
+      "Lookaana chaatteadaam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కన్నె మరియా గర్భమున",
+        "దైవసుతుడే జన్మించెను",
+        "జనన వార్తతో లోకమంతా",
+        "శుభ దినాలే మొదలాయెను",
+        "రక్షకుడే ఇలకొచ్చెను రక్షణతో",
+        "మనలను నడిపెను",
+        "మనతో ఒకరిగా ఉండెను",
+        "ఊరూరా వెళ్లేదాం సువార్త చేసెదం",
+        "లోకాన చాటేద్దాం"
+      ],
+      "english": [
+        "Kanne mariyaa garbhamuna",
+        "Daivasuthudea janmincheanu",
+        "Janana vaartathoo lookamanthaa",
+        "Subha dinaalea modalaayenu",
+        "Rakshakudea ilakocchenu rakshannthoo",
+        "Manalanu nadipenu",
+        "Manathoo okarigaa undenu",
+        "Ooruuraa velleadaam suvarta cheasedaam",
+        "Lookaana chaatteaddaam"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సంతోషాలను పంచుకునే",
+        "దూత శుభవార్తనే తెచ్చెను",
+        "అవధులు లేని ఆనందంతో",
+        "ధరణియె ఉప్పొంగెను",
+        "ప్రవచనాలే నెరవేరేను",
+        "శ్రమదినాలే ఇక పోయెను",
+        "మనలో శాంతినే నింపెను",
+        "ఊరూరా వెళ్లేదాం సువార్త చేసెదం",
+        "లోకాన చాటేద్దాం"
+      ],
+      "english": [
+        "Santhooshaalanu panchukunea",
+        "Duutha subhavaartanea thecchenu",
+        "Avadhulu leani aanamdamthoo",
+        "Dharanniye uppongenu",
+        "Sramadinaalea ika pooyenu",
+        "Manaloo saanthinea ninpenu",
+        "Ooruuraa velleadaam suvarta cheasedaam",
+        "Lookaana chaatteaddaam"
+      ]
+    }
+  ]
+}

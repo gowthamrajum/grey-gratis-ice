@@ -1,0 +1,75 @@
+{
+  "song_name": "Naa praanamaa naa sarvamaa - Aayana parishuddha naamamunaku",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రాణమా నా సర్వమా - ఆయన పరిశుద్ధ నామమునకు",
+      "సదా స్తుతులను చెల్లించుమా - మరువకు ఆయన మేలులను"
+    ],
+    "english": [
+      "Naa praanamaa naa sarvamaa - Aayana parishuddha naamamunaku",
+      "Sadaa sthuthulanu chellinchumaa - Maruvaku aayana melulanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "క్షమించును నీ పాపములను - కుదుర్చును నీ రోగములను",
+        "కీడు నుండి నీ ప్రాణమును రక్షించి - కరుణా కిరీటము దయచేయును"
+      ],
+      "english": [
+        "Kshaminchunu nee paapamulanu - Kudhurchunu nee rogamulanu",
+        "Keedu nundi nee praanamunu rakshinchi - Karunaa kireetamu dhayacheyunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పడమటికి తూర్పెంత దూరమో - పాపములన్నియు దూరపరచెను",
+        "తండ్రి తన తనయులపై జాలిపడునట్లు - భక్తుల యెడల జాలిపడును"
+      ],
+      "english": [
+        "Padamatiki thoorpentha dhooramo - Paapamulanniyu dhooraparachenu",
+        "Thandri thana thanayulapai jaalipadunatlu - Bhakthula edala jaalipadunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిన్ను మేలులతో తృప్తి పరచున్ - నీ యౌవనము నూతన పరచును",
+        "బాధితులకు బహున్యాయము తీర్చు - యెహోవా యెంతో దయాళుడు"
+      ],
+      "english": [
+        "Ninnu melulatho thrupthi parachun - Nee yauvanamu noothana parachunu",
+        "Baadhithulaku bahunyaayamu theerchu - Yehova entho dayaaludu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మనము నిర్మింప బడినరీతి - మంటి వారమని ప్రభు యెరుగును",
+        "గడ్డి పువ్వువలె నున్నది మన బ్రతుకు - గాలి వీచగ అది యెగిరిపోవున్"
+      ],
+      "english": [
+        "Manamu nirminpa badinareethi - Manti vaaramani prabhu erugunu",
+        "Gaddi puvvuvale nunnadhi mana brathuku - Gaali veechaga adhi egiripovun"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "స్థిరపరచె తన సింహాసనము - సర్వలోకమును యేలు చుండె",
+        "నీ యాజ్ఞలను పాలించెదము - నా ప్రాణమా ప్రభున్ స్తుతించుమా"
+      ],
+      "english": [
+        "Sthiraparache thana simhaasanamu - Sarvalokamunu yelu chunde",
+        "Nee yaagnalanu paalinchedhamu - Naa praanamaa prabhun sthuthinchumaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "song_name": "Paapiga nanu choodaleka paapamugaa maarinaavaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "పాపిగ నను చూడలేక – పాపముగా మారినావా",
+      "దోషిగ నను చూడలేక – నా శిక్ష నీవు పొందినావా (2)",
+      "నా తల యెత్తుటకు – నీవు తల వంచితివే",
+      "అర్హత నాకిచ్చుటకు – అవమాన-మొందితివే",
+      "తండ్రితో నను చేర్చుటకు – విడనాడబడితివే",
+      "జీవము నాకిచ్చుటకు – మరణము-నొందితివే",
+      "నీవే నీవే – నీవే దేవా",
+      "నీవే నీవే – నా యేసయ్యా (2)",
+      "పరమును వీడి ఈ భువికి",
+      "దిగి వచ్చిన రక్షకుడా",
+      "మహిమను వీడి నా వెలని",
+      "చెల్లించిన ప్రేమామయుడా",
+      "నే వెదకి రాలేనని సత్యమునెరిగి",
+      "నీవే నా దరికి పరుగెత్తితివి",
+      "దాసత్వము నుండి నను విడిపించి",
+      "తండ్రి అని పిలిచే భాగ్యము నిచ్చితివి ||నీవే||"
+    ],
+    "english": [
+      "Paapiga nanu choodaleka – Paapamugaa maarinaavaa",
+      "Doshiga nanu choodaleka – Naa shiksha neevu pondhinaavaa (2)",
+      "Naa thala etthutaku – Neevu thala vanchithive",
+      "Arhatha naakichchutaku – Avamaana-mondhithive",
+      "Thandritho nanu cherchutaku – Vidanaadabadithive",
+      "Jeevamu naakichchutaku – Maranamu-nondhithive",
+      "Neeve neeve – Neeve Devaa",
+      "Neeve neeve – Naa Yesayyaa (2)",
+      "Paramunu veedi ee bhuviki",
+      "Digi vachchina rakshakudaa",
+      "Mahimanu veedi naa velani",
+      "Chellinchina premaamayudaa",
+      "Ne vedaki raalenani sathyamunerigi",
+      "Neeve naa dariki parugetthithivi",
+      "Dhaasathwamu nundi nanu vidipinchi",
+      "Thandri ani piliche bhaagyamu nichchithivi ||Neeve||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా స్థానములో నీవే నిలిచి",
+        "నీ స్థానమే నాకిచ్చితివి",
+        "సౌందర్యవంతునిగా నన్నే చేసి",
+        "సొగసంతా కోల్పోయితివి",
+        "నీ బలమంతా నాకే ఇచ్చి",
+        "బలియాగముగా నీవు మారితివి",
+        "ఐశ్వర్యవంతునిగా నన్నే చేసి",
+        "దీనతనే హత్తుకొంటివి ||నీవే||"
+      ],
+      "english": [
+        "Naa sthaanamulo neeve nilichi",
+        "Nee sthaaname naakichchithivi",
+        "Saundharyavanthunigaa nanne chesi",
+        "Sogasanthaa kolpoyithivi",
+        "Nee balamanthaa naake ichchi",
+        "Baliyaagamugaa neevu maarithivi",
+        "Aishwaryavanthunigaa nanne chesi",
+        "Dheenathane hatthukontivi ||Neeve||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా బలమంతా నీవే – నా సౌందర్యము నీవే",
+        "నా ఐశ్వర్యము నీవే – నీవే నీవే",
+        "నా అతిశయము నీవే – నా ఆనందం నీవే",
+        "నా ఆధారం నీవే – నీవే నీవే (2)",
+        "యేసయ్యా యేసయ్యా యేసయ్యా",
+        "యేసయ్యా యేసయ్యా నా యేసయ్యా (2)  ||పాపిగ||"
+      ],
+      "english": [
+        "Naa balamanthaa neeve – Naa saundharyamu neeve",
+        "Naa aishwaryamu neeve – Neeve neeve",
+        "Naa athishayamu neeve – Naa aanandam neeve",
+        "Naa aadhaaram neeve – Neeve neeve (2)",
+        "Yesayyaa Yesayyaa Yesayyaa",
+        "Yesayyaa Yesayyaa naa Yesayyaa (2)  ||Paapiga||"
+      ]
+    }
+  ]
+}

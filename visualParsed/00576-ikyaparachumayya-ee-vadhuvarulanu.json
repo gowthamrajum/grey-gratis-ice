@@ -1,0 +1,75 @@
+{
+  "song_name": "Aikyaparachumayya ee vadhoovarulanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro AR Stevenson"
+    ],
+    "రచన": [
+      "బ్రదర్ ఏ ఆర్ స్టీవెన్సన్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఐక్యపరచుమయ్యా ఈ వధూవరులను",
+      "సౌఖ్యమిచ్చికాయుము నవదంపతులను",
+      "మధుర ప్రేమతో మనసులు కలువ",
+      "హృదయ సీమలే ఒకటిగ నిలువ",
+      "నీ దీవెనలే పంపుమా"
+    ],
+    "english": [
+      "Aikyaparachumayya ee vadhoovarulanu",
+      "Saukhyamichchikaayumu navadhampathulanu",
+      "Madhura prematho manasulu kaluva",
+      "Hrudaya seemale okatiga niluva",
+      "Nee dheevenale pampumaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆనందముతోడ దు:ఖమునే గెల్వ",
+        "చిరునవ్వుతోడ కష్టముల నోర్వ",
+        "సంసార నావను సరిగా నడిపించ",
+        "నీవే సహాయమీయుమా"
+      ],
+      "english": [
+        "Aanandhamuthoda dhukhamune gelva",
+        "Chirunavvuthoda kashtamula norva",
+        "Samsaara naavanu sarigaa nadipincha",
+        "Neeve sahaayameeyumaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రార్ధనా జీవితము సమాధనము",
+        "భక్తి విశ్వాసము నీతి న్యాయము",
+        "నీవు చేపిన కనికరం నీవు నేర్పిన సాత్వికం",
+        "అనుగ్రహించి నడిపించుమా"
+      ],
+      "english": [
+        "Praardhanaa jeevithamu samaadhanamu",
+        "Bhakthi vishwaasamu neethi nyaayamu",
+        "Neevu choopina kanikaram neevu nerpina saathwikam",
+        "Anugrahinchi nadipinchumaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇహలోకభోగముపై మనసుంచక",
+        "పరలోక భాగ్యముపై క్ష్యముంచగ",
+        "నీకెంతో ఇష్టులై ధరలో నీ సాక్షులై",
+        "సాగే కృప దయచేయుమా"
+      ],
+      "english": [
+        "Ihalokabhogamupai manasunchaka",
+        "Paraloka bhaagyamupai lakshyamunchaga",
+        "Neekentho ishtulai dharalo nee saakshulai",
+        "Saage krupa dayacheyumaa"
+      ]
+    }
+  ]
+}

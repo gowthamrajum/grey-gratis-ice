@@ -1,0 +1,50 @@
+{
+  "song_name": "Yesu okkade ee loka rakshakudu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు ఒక్కడే ఈ లోక రక్షకుడు",
+      "క్రీస్తు ఒక్కడే సజీవ దేవుడు – (2)",
+      "నమ్మదగిన దేవుడు రక్షించే దేవుడు (2)",
+      "ప్రాణ మిత్రుడు మనతో ఉండే దేవుడు",
+      "హల్లెలూయా హల్లెలూయా",
+      "హల్లెలూయా హల్లెలూయా (2) ||యేసు||"
+    ],
+    "english": [
+      "Yesu okkade ee loka rakshakudu",
+      "Kreesthu okkade sajeeva devudu – (2)",
+      "Nammadagina devudu rakshinche devudu (2)",
+      "Praana mithrudu manatho unde devudu",
+      "Halleluya halleluya",
+      "Halleluya halleluya (2) ||Yesu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరలోక తండ్రికి ప్రియమైన పుత్రుడు",
+        "కన్య మరియ గర్భాన జన్మించిన రక్షకుడు (2) ||హల్లెలూయా||"
+      ],
+      "english": [
+        "Paraloka thandriki priyamaina puthrudu",
+        "Kanya mariya garbhaana janminchina rakshakudu (2) ||Halleluya||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేవుని చెంతనున్న ఆదిలోన వాక్యము",
+        "ఈ భువిలో వెలసిన మానవ రూపము (2) ||హల్లెలూయా||"
+      ],
+      "english": [
+        "Devuni chenthanunna aadhilona vaakyamu",
+        "Ee bhuvilo velasina maanava roopamu (2) ||Halleluya||"
+      ]
+    }
+  ]
+}

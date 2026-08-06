@@ -1,0 +1,43 @@
+{
+  "song_name": "Viswasam",
+  "author": {
+    "Authored by": "Stella Ramola & Daniel Davidson",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "చిరునవ్వులతో వస్తాడు",
+      "ఉత్తమమైనది ఇస్తాడు"
+    ],
+    "english": [
+      "Chirunavvulatho vasthaadu",
+      "utthamamainadhi isthaadu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎన్నటికీ విశ్వాసాన్ని వదలివేయవద్దు",
+        "మీరు విశ్వసిస్తే అన్నీ సాధ్యమే"
+      ],
+      "english": [
+        "Ennatiki visvaasaanni vadhali veyavaddhu",
+        "meeru visvasisthe anni saadhyame"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "Pre-Chorus:",
+        "ఆవగింజంత విశ్వాసం మీకుంటే చాలు",
+        "ఆశించే కార్యాలు అన్నీ జరుగును"
+      ],
+      "english": [
+        "Pre-Chorus:",
+        "Aavaginjantha visvaasam meekunte chaalu",
+        "aashinche kaaryaalu anni jarugunu"
+      ]
+    }
+  ]
+}

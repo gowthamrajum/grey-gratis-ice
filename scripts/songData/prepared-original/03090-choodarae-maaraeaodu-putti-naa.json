@@ -1,0 +1,53 @@
+{
+  "song_name": "Choodarae Maaraeaodu Putti Naa",
+  "author": {
+    "Authored by": "",
+    "రచన": "జాన్ చౌధరి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "చూడరే మాఱేఁడు పుట్టి నాఁడు బెత్లెహేములో నేఁడీ భూమి వాసులకు నిండు రక్షణబ్బెను ||చూడరే||"
+    ],
+    "english": [
+      "choodarae maaRaeAOdu putti naaAOdu bethlehaemuloa naeAOdee bhoomi vaasulaku niMdu rakShNabbenu ||choodarae||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎన్నరాని దేవ దీప్తి మున్ను మిన్ను గ్రమ్మెను పన్నుగా రేయెండ కాంతి కన్ననది మించెను ||చూడరే||"
+      ],
+      "english": [
+        "ennaraani dhaeva dheepthi munnu minnu grammenu pannugaa raeyeMda kaaMthi kannanadhi miMchenu ||choodarae||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దూత తెల్పె వ్రేల కొక ప్రీతియగు ముచ్చటన్ ఖ్యాతిగ దావీదు పురిని కర్తయేసు పుట్టుటన్ ||చూడరే||"
+      ],
+      "english": [
+        "dhootha thelpe vraela koka preethiyagu muchchatan khyaathiga dhaaveedhu purini karthayaesu puttutan ||choodarae||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తూరుపున జ్ఞానులొక్క తార దివిని గాంచిరి వారు వీరు వచ్చి సేవ వరుసగాను జేసిరి ||చూడరే||"
+      ],
+      "english": [
+        "thoorupuna jnYaanulokka thaara dhivini gaaMchiri vaaru veeru vachchi saeva varusagaanu jaesiri ||choodarae||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మక్కువతో మనమెల్ల మ్రొక్కి సేవఁ జేతుము మిక్కుటముగ మనకు శాంతిఁ గ్రక్కున నొసంగును ||చూడరే||"
+      ],
+      "english": [
+        "makkuvathoa manamella mrokki saevAO jaethumu mikkutamuga manaku shaaMthiAO grakkuna nosMgunu ||choodarae||"
+      ]
+    }
+  ]
+}

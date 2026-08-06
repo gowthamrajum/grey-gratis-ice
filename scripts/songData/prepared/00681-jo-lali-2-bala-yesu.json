@@ -1,0 +1,53 @@
+{
+  "song_name": "Jo Jo Lali Bala Yesu Lali",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జో జో లాలి (2)",
+      "బాల యేసు లాలి నను గన్న నా తండ్రి లాలి",
+      "నా గారాల తనయా లాలి",
+      "జో జో"
+    ],
+    "english": [
+      "Jo Jo Lali (2)",
+      "Bala Yesu Lali Nanu Ganna Na Tamdri Lali",
+      "Na Garala Tanaya Lali",
+      "Jo Jo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జగతిని ఏలే నీవు జననిగనను ఎంచితివి",
+        "పేదరాలిని నేను పొత్తిబట్టలు పరచితివి",
+        "తల దాచు చోటులేక తల్లడిల్లిపోతిని",
+        "వాడ వాడ వెదకినను పశులపాకె నెల వాయె"
+      ],
+      "english": [
+        "Jagatini Ele Nivu Jananigananu Emchitivi",
+        "Pedaralini Nenu Pottibattalu Parachitivi",
+        "Tala Dachu Chotuleka Talladillipotini",
+        "Vada Vada Vedakinanu Pasulapake Nela Vaye"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నింగినేల నీ సొంతమైన ఇసుమంతా చోటు నీకు లేదాయే",
+        "తారపు వెలుగులు యిచ్చిన నీకే చిరుదీపమేనాడు కరువాయె",
+        "ఎవరి కొరకు నీవస్తావో వారెవరికి కానరా రాయె",
+        "అన్ని ఉన్న దేవుడవు లేనివానిగా జన్మించితివి"
+      ],
+      "english": [
+        "Nimginela Ni Somtamaina Isumamta Chotu Niku Ledaye",
+        "Tarapu Velugulu Yichchina Nike Chirudipamenadu Karuvaye",
+        "Evari Koraku Nivastavo Varevariki Kanara Raye",
+        "Anni Unna Devudavu Lenivaniga Janmimchitivi"
+      ]
+    }
+  ]
+}

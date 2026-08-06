@@ -1,0 +1,69 @@
+{
+  "song_name": "Modhata nee sthithi konchame ainanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మొదట నీ స్థితి కొంచెమే అయినను",
+      "తుదకు నీవు మహాభివృద్ది నొందెదవు",
+      "నీ ప్రయాస ప్రభువు నందు",
+      "వ్యర్ధము కాదులే మనతో ప్రభువుండగా"
+    ],
+    "english": [
+      "Modhata nee sthithi konchame ainanu",
+      "Thudaku neevu mahaabhivruddhi nondhedavu",
+      "Nee prayaasa Prabhuvu nandu",
+      "Vyardhamu kaadhule manatho Prabhuvundagaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జాగ్రత్తగా నీవు దేవుని వెదకిన",
+        "సర్వశక్తుని నీవు బ్రతిమాలుకొనిన",
+        "నిశ్చయం నీ యందు శ్రద్దను నిలిపి",
+        "వర్ధిల్లజేయును నీ నివాసము"
+      ],
+      "english": [
+        "Jaagratthagaa neevu Devuni vedakina",
+        "Sarvashakthuni neevu brathimaalukonina",
+        "Nishchayam nee yandu shraddhanu nilipi",
+        "Vardhillajeyunu nee nivaasamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యెహోషువా చేత పంపబడినవారు",
+        "పాపము లేని వారై తిరిగి వచ్చినారు",
+        "రక్షణ ద్వారము తెరచి విజయంబు నిచ్చి",
+        "సేవకుని మాట స్థిరపరిచినావు"
+      ],
+      "english": [
+        "Yehoshuvaa chetha pampabadinavaaru",
+        "Paapamu leni vaarai thirigi vachchinaaru",
+        "Rakshana dwaaramu therachi vijayambu nichchi",
+        "Sevakuni maata sthiraparichinaavu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యోర్దాను నీళ్ళు ఏకరాసి ఆయనే",
+        "కటినమైన పరిస్థితులు బ్రద్దలై పోయెనే",
+        "నా అడుగులు స్థిరపరిచి కార్యము సఫలము చేసి",
+        "సేవకుని మాట నెరవేర్చినావు"
+      ],
+      "english": [
+        "Yordaanu neellu ekaraasi aayane",
+        "Kathinamaina paristhithulu braddhalai poyene",
+        "Naa adugulu sthiraparichi kaaryamu saphalamu chesi",
+        "Sevakuni maata neraverchinaavu"
+      ]
+    }
+  ]
+}

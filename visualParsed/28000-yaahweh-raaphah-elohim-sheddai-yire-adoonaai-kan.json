@@ -1,0 +1,52 @@
+{
+  "song_name": "Yaahweh Raaphah Elohim Sheddai Yire Adoonaai kanaparachunu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యావెహ్ రాఫా ఎలోహిం షడ్డాయ్ యీరె అదోనాయ్ కనపరచును",
+      "యావెహ్ … రాఫ… ఎలోహిం… షడ్డాయ్…",
+      "యీరె …అదోనాయ్…. కనపరచును.",
+      "నీ మహిమే ఈ స్థలములో అనుభవిస్తున్నా",
+      "నీవు గొప్ప కార్యాములు చేస్తున్నావ్",
+      "పురికొల్పు నా విశ్వాసమ్..||4||"
+    ],
+    "english": [
+      "Yaaveh Raapha Elohim Shaddaay Yire Adhonaay kanaparachunu",
+      "Yaaveh … Raapha… Elohim… Shaddaay…",
+      "Yire …Adhonaay…. kanaparachunu.",
+      "Nee mahime ee sthalamulo anubhavisthunnaa",
+      "Neevu goppa kaaryamulu chesthunnaav",
+      "Purikolpu naa vishwaasam..||4||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "(యావెహ్)",
+        "ఆరాధనలో దర్శిసించును…",
+        "వెతుకుచున్నచో కనపరచును…",
+        "తట్టుచుండగ నీకు తెరచును…||4||"
+      ],
+      "english": [
+        "(Yaaveh)",
+        "Aaraadhanalo dharshinchunu…",
+        "Vethukuchunnacho kanaparachunu…",
+        "Thattuchundaga neeku therachunu…||4||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "(యావెహ్)"
+      ],
+      "english": [
+        "(Yaaveh)"
+      ]
+    }
+  ]
+}

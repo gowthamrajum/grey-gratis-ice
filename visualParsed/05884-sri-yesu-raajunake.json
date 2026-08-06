@@ -1,0 +1,46 @@
+{
+  "song_name": "Sri Yesu raajunake",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "శ్రీ యేసు రాజునకే..... ఎల్లప్పుడు మహిమా....",
+      "నీ జీవితము ద్వారా కలుగునుగాక....... \"2\"",
+      "హల్లెలూయ ఆమేన్‌....హల్లెలూయ ఆమేన్‌. \"2\"",
+      "నీ జీవితము ద్వారా ఎల్లప్పుడు మహిమా.. \"2\""
+    ],
+    "english": [
+      "Sri Yesu raajunake..... ellappudu mahimaa....",
+      "Nee jeevithamu dwaaraa kalugunugaaka....... \"2\"",
+      "Hallelooya aamen....Hallelooya aamen. \"2\"",
+      "Nee jeevithamu dwaaraa ellappudu mahimaa.. \"2\""
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సంవత్సరాది మొదలుకొని సంవత్సరాంతము వరకు\"2\"",
+        "యెహోవ కన్నులు నీ పైన ఉండునుగాక \"2\" \"హల్లెలూయ\""
+      ],
+      "english": [
+        "Samvathsaraadhi modhalukoni samvathsaraanthamu varaku\"2\"",
+        "Yehova kannulu nee paina undunugaaka \"2\" \"Hallelooya\""
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అందకార లోకములో దివిటీవలె నీవు వెలగాలనీ \"2\"",
+        "వెలుగైయున్న దేవుడు కోరుచున్నాడు \"2\" \"హల్లెలూయ\""
+      ],
+      "english": [
+        "Andhakaara lokamulo dhiviteevale neevu velagaalanee \"2\"",
+        "Velugaiyunna Devudu koruchunnaadu \"2\" \"Hallelooya\""
+      ]
+    }
+  ]
+}

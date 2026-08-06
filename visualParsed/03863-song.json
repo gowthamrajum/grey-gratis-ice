@@ -1,0 +1,83 @@
+{
+  "song_name": "Balamu nichchu Yesuche",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "బలము నిచ్చు యేసుచే",
+      "చేతునెల్ల పనులను"
+    ],
+    "english": [
+      "Balamu nichchu Yesuche",
+      "Chethunella panulanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కృపను పొందు వానిచే"
+      ],
+      "english": [
+        "Krupanu pondu vaaniche"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "జ్ఞానము నిచ్చు వానిచే"
+      ],
+      "english": [
+        "Gnaanamu nichchu vaaniche"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సుఖంబు నిచ్చువానిచే"
+      ],
+      "english": [
+        "Sukhambu nichchuvaaniche"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మన్నింపు నిచ్చువానిచే"
+      ],
+      "english": [
+        "Mannimpu nichchuvaaniche"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "రక్షణ నిచ్చు వానిచే"
+      ],
+      "english": [
+        "Rakshana nichchu vaaniche"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "నీతిని యిచ్చు వానిచే"
+      ],
+      "english": [
+        "Neethini ichchu vaaniche"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "ప్రేమను పోయు వానిచే"
+      ],
+      "english": [
+        "Premanu poyu vaaniche"
+      ]
+    }
+  ]
+}

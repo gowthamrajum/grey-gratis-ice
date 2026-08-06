@@ -1,0 +1,34 @@
+{
+  "song_name": "Shalemu Raja",
+  "author": {
+    "Authored by": "Philip Gariki",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "షాలేము రాజా శాంతికి రాజా",
+      "షాలేము రాజా",
+      "సర్వోన్నతుడా నా దేవా",
+      "కృపామయుడవు నీవయ్యా"
+    ],
+    "english": [
+      "Shaalemu raajaa shaanthiki raajaa",
+      "shaalemu raajaa",
+      "sarvonnathudaa naa devaa",
+      "krupaamayudavu neevayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రాజా రాజా రాజా యేసు రాజా",
+        "దేవా దేవా నిత్యుడగు దేవా"
+      ],
+      "english": [
+        "Raajaa raajaa raajaa yesu raajaa",
+        "devaa devaa nithyudagu devaa"
+      ]
+    }
+  ]
+}

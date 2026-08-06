@@ -1,0 +1,75 @@
+{
+  "song_name": "Entho vintha entho chintha",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎంతో వింత ఎంతో చింత -యేసునాధున్ మరణమంత=",
+      "పంతముతోఁ జేసిరంతా-సొంత ప్రజలూ యేసునంత !!ఎంతో!!"
+    ],
+    "english": [
+      "Entho vintha entho chintha -Yesunaadhun maranamantha=",
+      "Panthamuthon jesiranthaa-Sontha prajaloo Yesunantha !!Entho!!"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పట్టి కట్టి నెట్టి కొట్టి-తిట్టి రేసునాధు నకటా=అట్టి శ్రమల",
+        "నొంది పలుక-డాయె యేసు రేడునాడు !!ఎంతో!!"
+      ],
+      "english": [
+        "Patti katti netti kotti-Thittiri Yesunaadhun akataa=atti shramala",
+        "Nondi paluka-Daaye Yesu redunaadu !!Entho!!"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మొయ్యలేని మ్రాను నొకటి-మోపిరేసు వీపుపైని =మొయ్య",
+        "లేక మ్రానితోడ-మూర్చబోయేఁ నేసు తండ్రి !!ఎంతో!!"
+      ],
+      "english": [
+        "Moyyaleni mraanu nokati-Mopiri Yesu veepupaini =moyya",
+        "Leka mraanithoda-Moorchaboyen Yesu thandri !!Entho!!"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కొయ్యపై నేసయ్యను బెట్టి-కాలు సేతులలోఁ జీలల్=కఠిను",
+        "లంతగూడి కొట్టిరి-ఘోరముగ క్రీస్తేసున్ బట్టి !!ఎంతో!!"
+      ],
+      "english": [
+        "Koyyapaina Yesayyanu betti-Kaalu sethulalon jeelal=kathinu",
+        "Lanthagoodi kottiri-Ghoramuga Kreesthesun batti !!Entho!!"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దాహముగొనఁ జేదుచిరకఁ-ద్రావ నిడిరి ద్రోహులకటా=",
+        "ధాత్రిఁ ప్రజల బాధకోర్చి -ధన్యుడా దివికేగె నహహా!!ఎంతో!!"
+      ],
+      "english": [
+        "Dhaahamugonan jeduchirakan-Dhraava nidiri dhrohulakataa=",
+        "Dhaathrin prajala baadhakorchi -Dhanyudaa dhivikege nahahaa!!Entho!!"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "బల్లెముతోఁ బ్రక్కన్ బొడవన్ - బారె నీరు రక్త మహహా",
+        "=యేరై పారె యేసు రక్త-మెల్ల ప్రజల కెలమి నొసగు!!ఎంతో!!"
+      ],
+      "english": [
+        "Ballemuthon brakkan bodavan - Baare neeru raktha mahahaa",
+        "=Yerai paare Yesu raktha-Mella prajala kelami nosagu!!Entho!!"
+      ]
+    }
+  ]
+}

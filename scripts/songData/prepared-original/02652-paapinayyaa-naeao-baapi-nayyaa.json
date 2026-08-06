@@ -1,0 +1,62 @@
+{
+  "song_name": "Paapinayyaa Naeao Baapi Nayyaa",
+  "author": {
+    "Authored by": "",
+    "రచన": "బేతాళ జాన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "పాపినయ్యా నేఁ బాపి నయ్యా కాపాడ వయ్యా పాపభారము నుండి పాపు మయ్యా నన్నుఁ పాపభారమునుండి పాపు మయ్యా ||పాపి||"
+    ],
+    "english": [
+      "paapinayyaa naeAO baapi nayyaa kaapaada vayyaa paapabhaaramu nuMdi paapu mayyaa nannuAO paapabhaaramunuMdi paapu mayyaa ||paapi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కాపుమయ్యా ననుఁ గావు మయ్య నా పావ నయ్యా జీవమైన యేసు నీ వే నయ్యా నా జీవమైన యేసు నీవే నయ్యా ||పాపి||"
+      ],
+      "english": [
+        "kaapumayyaa nanuAO gaavu mayya naa paava nayyaa jeevamaina yaesu nee vae nayyaa naa jeevamaina yaesu neevae nayyaa ||paapi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రాపు నీవు నా ప్రాపు నీవు న న్నోపినావు నా పాలిదైవమా నన్ను ఁ గావు మో నా పాలి దైవమా నన్ను ఁ గావు ||పాపి||"
+      ],
+      "english": [
+        "praapu neevu naa praapu neevu na nnoapinaavu naa paalidhaivamaa nannu AO gaavu moa naa paali dhaivamaa nannu AO gaavu ||paapi||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఏల వయ్యా న న్నేల వయ్యా మేలియ్య వయ్యా చాల నమ్మితిఁ గరుణా శాలి వయ్యా నేఁ జాల నమ్మతిఁ గరుణా శాలి వయ్యా ||పాపి||"
+      ],
+      "english": [
+        "aela vayyaa na nnaela vayyaa maeliyya vayyaa chaala nammithiAO garuNaa shaali vayyaa naeAO jaala nammathiAO garuNaa shaali vayyaa ||paapi||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మంటివాఁడ నే మంటివాఁడ న న్నొంటి వీడ కె న్నంటి కైన ని న్నంటువాఁడ నే నె న్నంటికైన ని న్నంటువాఁడ ||పాపి||"
+      ],
+      "english": [
+        "mMtivaaAOda nae mMtivaaAOda na nnoMti veeda ke nnMti kaina ni nnMtuvaaAOda nae ne nnMtikaina ni nnMtuvaaAOda ||paapi||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "శాంతివాఁడ నను శాంతిపరచు నీ శాంత మిడుచు నా సొంత మగు దనుక చెంత నునుచు నే నా సాంత మగు దనుక చెంత నునుచు ||పాపి||"
+      ],
+      "english": [
+        "shaaMthivaaAOda nanu shaaMthiparachu nee shaaMtha miduchu naa soMtha magu dhanuka cheMtha nunuchu nae naa saaMtha magu dhanuka cheMtha nunuchu ||paapi||"
+      ]
+    }
+  ]
+}

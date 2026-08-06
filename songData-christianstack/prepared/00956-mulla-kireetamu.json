@@ -1,0 +1,58 @@
+{
+  "song_name": "Mulla Kireetamu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సన్నుతింతుము సత్యవంతుడా",
+      "నిండు భక్తితో ఉప్పొంగు కృతజ్ఞతతో",
+      "యేసు నీ త్యాగము మరువలేనిది",
+      "మా జీవితాలకు విలువ నిచ్చినది"
+    ],
+    "english": [
+      "Mulla Kireetamu raktha dhaaralu",
+      "pondhina gaayamulu jaali choopulu",
+      "challani chethulu parishuddha paadhamulu",
+      "dhigina mekulu vedhana kekalu",
+      "entha goppadhi Yesu nee hrudhyamu",
+      "maa kosame inni baadhalaa",
+      "intha prema eylano"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మా విమోచకా మా రక్షణాధారమా",
+        "అందుకోవయా మా స్తుతి అర్పణములు",
+        "వందనం ప్రభు వందనం నీకు",
+        "నీ ప్రాణదానముకై సదా వందనం"
+      ],
+      "english": [
+        "Sannuthinthumu sathyavanthudaa",
+        "nindu bhakthitho uppongu kruthagnathatho",
+        "Yesu nee thyaagamu maruvalenidhi",
+        "maa jeevithaalaku viluvanichinadhi",
+        "Loka paapamu siluva bhaaramu",
+        "janula pakshamu ghora maranamu",
+        "thandri kaaryamu punaruddhaanamu",
+        "uchitha dhaanamu nithya jeevamu",
+        "Yesu nee krupa maaku chaalunu",
+        "nee neethiye maaku sampadhaa",
+        "ninnu keerthinchuta dheevena"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [],
+      "english": [
+        "Maa vimochakaa maa rakshanaadhaaramaa",
+        "andhukovayyaa maa sthuthi arpanamulu",
+        "vandhanam prabhu vandhanam neeku",
+        "nee praana dhaanamukai sadhaa vandhanam"
+      ]
+    }
+  ]
+}

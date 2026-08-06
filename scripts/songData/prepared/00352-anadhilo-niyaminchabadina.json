@@ -1,0 +1,51 @@
+{
+  "song_name": "Anadhilo Niyaminchabadina",
+  "author": {
+    "Authored by": "Bro  Yesanna",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "అనాదిలో నియమించబడిన గొర్రెపిల్ల",
+      "ఆదిలో వధియించబడిన గొర్రెపిల్ల",
+      "ఇస్సాకుకు ప్రతిగా బలియైన ఆ గొర్రెపిల్ల",
+      "గొల్గతాలో యేసు రూపమైన వధియించబడిన గొర్రెపిల్ల"
+    ],
+    "english": [
+      "Anaadilo Niyaminchabadina Gorrepilla",
+      "Aadilo Vadhiyinchabadina Gorrepilla",
+      "Issaakuku Prathigaa Baliyaina Aa Gorrepilla",
+      "Golgathaalo Yesu Roopamaina Vadhiyinchabadina Gorrepilla"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వధకు తేబడిన గొర్రెపిల్ల వోలె మౌని యాయెను",
+        "బలియాగమాయెను తన రుధిరముతో నన్ను కొనెను",
+        "అదియే అనాది సంకల్పమాయెను"
+      ],
+      "english": [
+        "Vadhaku Thebadina Gorrepilla Vole Mauni Yaayenu",
+        "Baliyaagamaayenu Thana Rudhiramutho Nannu Konenu",
+        "Adiye Anaadi Sankalpamaayenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తండ్రి చిత్తమును నెరవేర్చుట కొరకై",
+        "శరీరధారి యాయెను సజీవయాగమాయెను",
+        "మరణమును గెలిచి లేచెను",
+        "అదియే అనాది సంకల్పమాయెను"
+      ],
+      "english": [
+        "Thandri Chitthamunu Neraverchuta Korakai",
+        "Shareeradhaari Yaayenu Sajeevayaagamaayenu",
+        "Maranamunu Gelichi Lechenu",
+        "Adiye Anaadi Sankalpamaayenu"
+      ]
+    }
+  ]
+}

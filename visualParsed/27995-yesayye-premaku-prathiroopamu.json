@@ -1,0 +1,73 @@
+{
+  "song_name": "Yesayye premaku prathiroopamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Sharon Philip"
+    ],
+    "రచన": [
+      "షారోన్ ఫిలిప్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసయ్యే ప్రేమకు ప్రతిరూపం",
+      "యేసయ్యే జగతికి నిజ దైవము"
+    ],
+    "english": [
+      "Yesayye premaku prathiroopam",
+      "Yesayye jagathiki nija daivamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆ మాటల్లో ఆశ్చర్యకార్యాలు",
+        "ఆ చూపుల్లో అద్భుతాలు ఎన్నో"
+      ],
+      "english": [
+        "Aa maatallo aashcharyakaaryaalu",
+        "Aa choopullo adbhuthaalu enno"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేలీషాదాయ్ – సర్వశక్తిమంతుడా",
+        "అడోనాయ్ – ప్రభువుల ప్రభువా",
+        "ఎలోహిమ్ – సర్వ సృష్టికర్త",
+        "ఎలోలాం – నిత్యుడగు దేవా"
+      ],
+      "english": [
+        "Yeleeshaadaay - Sarvashakthimanthudaa",
+        "Adonaay - Prabhuvula prabhuvaa",
+        "Elohim - Sarva srushtikartha",
+        "Elolaam - Nithyudagu Deva"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కాలం తిరిగి రాదు – సమయం ఇంకా లేదు",
+        "నీవు క్రీస్తుని ప్రభువుగా ఒప్పుకో హృదయంలో",
+        "ప్రేమామయుడే నా యేసయ్య",
+        "ప్రేమించి రక్షించును",
+        "ఈ లోకం అశాశ్వతం – పరలోకమే నిత్య జీవం",
+        "ప్రభు యేసునందే నిత్యము ఆనందం",
+        "యుగయుగములు పరమ తండ్రితో",
+        "కలకాలం జీవింతుము"
+      ],
+      "english": [
+        "Kaalam thirigi raadu - Samayam inkaa ledu",
+        "Neevu Kreesthuni prabhuvugaa oppuko hrudayamlo",
+        "Premaamayude naa Yesayya",
+        "Preminchi rakshinchunu",
+        "Ee lokam ashaashvatham - Paralokame nithya jeevam",
+        "Prabhu Yesunande nithyamu aanandam",
+        "Yugayugamulu parama thandritho",
+        "Kalakaalam jeevinthumu"
+      ]
+    }
+  ]
+}

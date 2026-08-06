@@ -1,0 +1,87 @@
+{
+  "song_name": "Etu choochinaa yuddha samaachaaraalu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎటు చూచినా యుద్ధ సమాచారాలు",
+      "ఎటు చూచినా కరువూ భూకంపాలు",
+      "ఎటు చూచినా దోపిడీ దౌర్జన్యాలు",
+      "ఎటు చూచినా ఎన్నో అత్యాచారాలు",
+      "ఓ సోదరా ఓ సోదరీ (2)",
+      "రాకడ గురుతులని తెలుసుకోవా",
+      "తినుటకు త్రాగుటకు ఇది సమయమా ||ఎటు||"
+    ],
+    "english": [
+      "Etu choochinaa yuddha samaachaaraalu",
+      "Etu choochinaa karuvoo bhookampaalu",
+      "Etu choochinaa dhopidee dhaurjanyaalu",
+      "Etu choochinaa enno athyaachaaraalu",
+      "O sodaraa o sodaree (2)",
+      "Raakada guruthulani thelusukovaa",
+      "Thinutaku thraagutaku idhi samayamaa ||Etu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మందసము నీ ప్రజలు – గుడారములో నివసిస్తుండగ",
+        "యోవాబుని సేవకులు దండులో నుండగను (2)",
+        "తినుటకు త్రాగుటకు భార్యతో నుండుటకు (2)",
+        "ఇది సమయమా.. ఇది సమయమా.. అని",
+        "ఆనాడు ఊరియా దావీదునడిగాడు",
+        "ఈనాడు నిన్ను కూడా ప్రభువు అడుగుచున్నాడు  ||ఎటు||"
+      ],
+      "english": [
+        "Mandhasamu nee prajalu – Gudaaramulo nivasisthundaga",
+        "Yovaabuni sevakulu dandulo nundaganu (2)",
+        "Thinutaku thraagutaku bhaaryatho nundutaku (2)",
+        "Idhi samayamaa.. idhi samayamaa.. ani",
+        "Aanaadu Ooriyaa Dhaaveedunadigaadu",
+        "Eenaadu ninnu koodaa Prabhuvu aduguchunnaadu  ||Etu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా పితరుల యొక్క – సమాధులుండు పట్టణము",
+        "పాడైపోయెను పాడైపోయెను (2)",
+        "యెరూషలేము గుమ్మములు అగ్ని చేత కాల్చబడగా (2)",
+        "సంతోషముగ నుండుటకు ఇది సమయమా.. అని",
+        "ఆనాడు నెహెమ్యా పర రాజునడిగాడు",
+        "ఈనాడు నిన్ను కూడా ప్రభువు అడుగుచున్నాడు  ||ఎటు||"
+      ],
+      "english": [
+        "Naa pitharula yokka – Samaadhulundu pattanamu",
+        "Paadaipoyenu paadaipoyenu (2)",
+        "Yerooshalemu gummamulu agni chetha kaalchabadagaa (2)",
+        "Santhoshamuga nundutaku idhi samayamaa.. ani",
+        "Aanaadu Nehemyaa para raajunadigaadu",
+        "Eenaadu ninnu koodaa Prabhuvu aduguchunnaadu  ||Etu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఈనాడు దేశంలో ఎన్నో ఎన్నో దౌర్జన్యాలు",
+        "సజీవ దహనాలు స్త్రీల మానభంగాలు (2)",
+        "ఎన్నో గుడులు నేల మట్టం చేయబడుచుండగా (2)",
+        "తినుటకు త్రాగుటకు ఇది సమయమా అని",
+        "నీ సృష్టికర్తగు యేసు నిన్ను అడుగుచున్నాడు",
+        "ఈనాడు దేశం కొరకు ప్రార్ధించమన్నాడు  ||ఎటు||"
+      ],
+      "english": [
+        "Eenaadu dhesamlo enno enno dhaurjanyaalu",
+        "Sajeeva dhahanaalu streela maanabhangaalu (2)",
+        "Enno gudulu nela mattam cheyabaduchundagaa (2)",
+        "Thinutaku thraagutaku idhi samayamaa ani",
+        "Nee srushtikarthagu Yesu ninnu aduguchunnaadu",
+        "Eenaadu dhesam koraku praardhinchamannaadu  ||Etu||"
+      ]
+    }
+  ]
+}

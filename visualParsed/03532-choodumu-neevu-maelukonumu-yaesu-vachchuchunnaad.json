@@ -1,0 +1,75 @@
+{
+  "song_name": "Choodumu neevu melukonumu Yesu vachchuchunnaadu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "చూడుము నీవు మేలుకొనుము యేసు వచ్చుచున్నాడు",
+      "అంధకార రాజ్యమున కా రాజు మహిమతో వచ్చును"
+    ],
+    "english": [
+      "Choodumu neevu melukonumu Yesu vachchuchunnaadu",
+      "Andhakaara raajyamuna kaa raaju mahimatho vachchunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హృదయ ద్వారమును తెరువు యేసు తట్టుచున్నాడు",
+        "నేడే నిన్ను పిలుచుచుండె ఆలస్యము చేయకుము"
+      ],
+      "english": [
+        "Hrudaya dhvaaramunu theruvu Yesu thattuchunnaadu",
+        "Nede ninnu piluchuchunde aalasyamu cheyakumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేడే వినుము సువార్తను పొందు గొప్పరక్షణ",
+        "రాదు తరుణము లేదు మరల - మరణము నిన్ను కొనిపోవున్"
+      ],
+      "english": [
+        "Nede vinumu suvaarthanu pondu gopparakshana",
+        "Raadu tharunamu ledu marala - Maranamu ninnu konipovun"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "విడువుము అంధకార త్రోవ విడువుము నీ చెడు జీవితము",
+        "నేడే యేసును విశ్వసించి - నడువ నాయత్తపడుము"
+      ],
+      "english": [
+        "Viduvumu andhakaara throva viduvumu nee chedu jeevithamu",
+        "Nede Yesunu vishvasinchi - Naduva naayaththapadumu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పాపడాగులనేకములు అపాయ మతి నీచములు",
+        "పాపములేని యేసురక్తము - పాపములన్ని కడుగును"
+      ],
+      "english": [
+        "Paapadaagulanekamulu apaaya mathi neechamulu",
+        "Paapamuleni Yesurakthamu - Paapamulanni kadugunu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "కల్వరి సిలువపై చూడుమా జీవమైన రక్షకుని",
+        "నీవు పొందుము నిత్యజీవము - లేచి పాడుము హల్లెలూయ"
+      ],
+      "english": [
+        "Kalvari siluvapai choodumaa jeevamaina rakshakuni",
+        "Neevu pondumu nithyajeevamu - Lechi paadumu hallelooya"
+      ]
+    }
+  ]
+}

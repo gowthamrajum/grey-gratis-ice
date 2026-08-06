@@ -1,0 +1,51 @@
+{
+  "song_name": "Sri Yesundu janminche",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "శ్రీ యేసుండు జన్మించె నిశీధ (2) రాత్రియందు బెత్లెహేము యూరిలో (2)"
+    ],
+    "english": [
+      "Sri Yesundu janminche nisheedha (2) raathriyandhu Bethlehemu yoorilo (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గొల్ల కాపరులు కొందరితో మెల్లగ (2)",
+        "శుభవార్త దెల్పె దూత చల్లగ (2)  ||శ్రీ||"
+      ],
+      "english": [
+        "Golla kaaparulu kondharitho mellaga (2)",
+        "Shubhavaartha dhelpe dootha challaga (2)  ||Sri||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కన్నియ మరియమ్మ గర్భమందున (2)",
+        "ఇమ్మానుయేలనెడి నామమందున (2)  ||శ్రీ||"
+      ],
+      "english": [
+        "Kanniya Mariyamma garbhamanduna (2)",
+        "Immaanuyelanedi naamamandhuna (2)  ||Sri||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పట్టునార బట్టలతోడ జుట్టబడి (2)",
+        "పశుల తొట్టిలో పరుండ బెట్టబడె (2)  ||శ్రీ||"
+      ],
+      "english": [
+        "Pattunaara battalathoda juttabadi (2)",
+        "Pashula thottilo parunda bettabade (2)  ||Sri||"
+      ]
+    }
+  ]
+}

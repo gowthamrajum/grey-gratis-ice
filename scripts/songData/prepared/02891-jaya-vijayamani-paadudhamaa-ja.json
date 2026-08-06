@@ -1,0 +1,41 @@
+{
+  "song_name": "Jaya Vijayamani Paadudhamaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జయ విజయమని పాడుదమా జయ విజయుడగు యేసునకు",
+      "అపజయమెరుగని దేవునకు జయస్తోత్రం స్తుతిచేయుదమా"
+    ],
+    "english": [
+      "Jaya Vijayamani Paadudhamaa Jaya Vijayudagu Yaesunaku",
+      "Apajayamerugani Dhaevunaku Jayasthoathram Sthuthichaeyudhamaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇహమందు పలు ఆపదలు ఎన్నో కలిగినను",
+        "నా హస్తములు పట్టుకొని వడివడిగా నన్ను నడిపించును"
+      ],
+      "english": [
+        "Ihamandhu Palu Aapadhalu Ennoa Kaliginanu",
+        "Naa Hasthamulu Pattukoni Vadivadigaa Nannu Nadipinchunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మహా దయాళుడు యెహోవా నన్నిల కరుణించి",
+        "నా పాపముల అన్నింటి మన్నించి మలినము తొలగించును"
+      ],
+      "english": [
+        "Mahaa Dhayaaludu Yehoavaa Nannila Karuninchi",
+        "Naa Paapamula Anninti Manninchi Malinamu Tholaginchunu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "song_name": "Yesuni vaagdhaanamul jnaapakamunandhunchukoni",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసుని వాగ్దానముల్ - జ్ఞాపకమునందుంచుకొని",
+      "తుఫాను వీచిన శ్రమలున్న - నా చాటున నేనుండెద"
+    ],
+    "english": [
+      "Yesuni vaagdhaanamul - Jnaapakamunandhunchukoni",
+      "Thuphaanu veechina shramalunna - Naa chaatuna nenundedha"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ద్వేషము ఈర్ష్యలోకములో - అత్యధిక ప్రేమ నీలో",
+        "అంధకారపు లోకములో - నీవే దివ్యజ్యోతివి",
+        "అంధకార పాపమందు - నీవే సత్యమార్గము",
+        "భరియింపరాని మరణపు బాధలో - నీవే సత్యదేవుడవు"
+      ],
+      "english": [
+        "Dhveshamu eershyalokamulo - Athyadhika prema neelo",
+        "Andhakaarapu lokamulo - Neeve dhivyajyothivi",
+        "Andhakaara paapamandu - Neeve sathyamaargamu",
+        "Bhariyimparaani maranapu baadhalo - Neeve sathyadhevudavu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శక్తిహీనుడనై యుంటి - నీవే నాదు సహాయుడవు",
+        "కృంగియున్న సమయములో - తండ్రిగ కౌగిట చేర్చితివి",
+        "నిత్యజీవిత వసరములను - తీర్చువాడవు నీవేగా",
+        "బాధలోహింస శ్రమలయందు - నిత్యము ఆనందింతును"
+      ],
+      "english": [
+        "Shakthiheenudanai yunti - Neeve naadu sahaayudavu",
+        "Krungiyunna samayamulo - Thandriga kaugita cherchithivi",
+        "Nithyajeevitha avasaramulanu - Theerchuvaadavu neevegaa",
+        "Baadhalo himsa shramalayandhu - Nithyamu aanandinthunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "జగమున యుద్ధ కలహములు - శాంతిలేనే లేదచట",
+        "యేసు ప్రభువా నీ ద్వారా - ఆనందభరితుడ నైతిని",
+        "ఘోరమౌ తుఫాను లేవ - హృదయము కంపించెను భీతిన్",
+        "భయపడకుడని ప్రభువే పల్క - నిమ్మళించెను తుఫాను"
+      ],
+      "english": [
+        "Jagamuna yuddha kalahamulu - Shaanthilene ledhachata",
+        "Yesu Prabhuvaa nee dwaaraa - Aanandhabharithuda naithini",
+        "Ghoramau thuphaanu leva - Hrudayamu kampinchenu bheethin",
+        "Bhayapadakudani Prabhuve palka - Nimmalinchenu thuphaanu"
+      ]
+    }
+  ]
+}

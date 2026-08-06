@@ -1,0 +1,37 @@
+{
+  "song_name": "Emivvagalanu Nee Premaku",
+  "author": {
+    "Authored by": "Bro. Vasanth Bandela",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "వి గివ్ గ్లోరి టు యు",
+      "వి గివ్ ప్రేస్ అంటు యు",
+      "హనర్ బిలాగ్స్ టు యు",
+      "అవర్ లార్డ్ జీసస్"
+    ],
+    "english": [
+      "We give glory to you,",
+      "we give praise unto you,",
+      "honor belongs to you,",
+      "our Lord JESUS."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏమివ్వగలను నీ ప్రేమకు",
+        "ఏమిచ్చిన తీరునా నీ రుణము",
+        "కాచి కాపాడినావు గడచిన కాలమంతా",
+        "నను కాచి కాపాడినావు గడచిన కాలమంతా"
+      ],
+      "english": [
+        "Emivvagalanu nee premaku",
+        "emichina theerunaa nee runam",
+        "kaachi kaapaadinaavu gadachina kaalamantha"
+      ]
+    }
+  ]
+}

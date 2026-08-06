@@ -1,0 +1,64 @@
+{
+  "song_name": "Viluvainadi Ee Jeevitham",
+  "author": {
+    "Authored by": "Joel Kodali",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "విలువైనది ఈ జీవీతం",
+      "అన్నివేళల ఆనందించెదం",
+      "సంపూర్ణ సంతోషమిచ్చువాడు",
+      "సకల సమృద్దుడేసు బహు సంపన్నుడు",
+      "మనలను పిలచె వారసులుగా",
+      "వాజ్యెముతోను సంగీత శబ్దములతో",
+      "పండుగ చేద్దాం రండి నేడు"
+    ],
+    "english": [
+      "Viluvainadi ee jeevitham",
+      "annivelala aanandinchedam",
+      "sampoorna santhoshamichuvaadu",
+      "sakala samvrudhudesu bahu sampannudu",
+      "manalanu pilache vaarasulugaa",
+      "vaajyamuthonu sangeetha shabdamulatho",
+      "panduga cheddaam randi nedu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు ఒక్కడే మనకు మాదిరి",
+        "మన జీవిత సారధి",
+        "లేరు లోకంలో యేసుకు సాటి",
+        "ఆయనే మన ఊపిరి",
+        "మదిలోని ఆశలు ఎరిగిన దేవుడు",
+        "అడుగక ముందుగ బదులిచ్చుచుండగా",
+        "మనకేమి లేమి లేదు",
+        "యేసు మరువడు మనలనెన్నడు",
+        "గమ్యము వరుకు చేర్చును",
+        "కనిన కలలన్ని నెరవేర్చునాయనే",
+        "మనకింకేమి కలవరము",
+        "నిన్న ఇక రాదు రేపటి దిగులొద్దు",
+        "ఈనాడే మనకున్న అనుకూల సమయము",
+        "జీవితాన్నే ఒక వేడుక చేద్దాం"
+      ],
+      "english": [
+        "Yesu okkade manaku maadiri",
+        "mana jeevitha saaradhi",
+        "leru lokamlo yesuku saati",
+        "aayane mana oopiri",
+        "madiloni aasalu erigina devudu",
+        "adugaka munduga badulichuchundagaa",
+        "manakemi lemi ledu",
+        "Yesu maruvadu manalanennadu",
+        "gamyamu varuku cherchunu",
+        "kanina kalalanni neraverchunaayane",
+        "manakinkemi kalavaramu",
+        "ninna ika raadu repati diguloddu",
+        "eenaade manakunna anukoola samayamu",
+        "jeevithaanne oka veduka cheddam"
+      ]
+    }
+  ]
+}

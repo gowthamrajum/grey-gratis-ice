@@ -1,0 +1,86 @@
+{
+  "song_name": "Neeku kaligina dhaanini - Chepattumu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీకు కలిగిన దానిని - చేపట్టుము",
+      "జారవిడచెదవేమో - జాగ్రత్తపడు (2)"
+    ],
+    "english": [
+      "Neeku kaligina dhaanini - chepattumu",
+      "Jaaravidachedhavemo - jaagratthapadu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరమునకు విజయోత్సవముతో - మనము వెళ్ళెదము",
+        "పూర్ణ ఫలమును సంతసములో - మనము పొందెదము"
+      ],
+      "english": [
+        "Paramunaku vijayothsavamutho - manamu velledamu",
+        "Poorna phalamunu santhasamulo - manamu pondedamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "క్రీస్తు యేసుని స్వీకరించి - ప్రభులో నడచెదము",
+        "వేరుపారి స్థిరతనొంది - విస్తరించెదము"
+      ],
+      "english": [
+        "Kreesthu Yesuni sweekarinchi - Prabhulo nadachedhamu",
+        "Verupaari sthirathanondhi - vistharinchedhamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "లోక ఇచ్చలనన్ని మనము - విడచి పెట్టెదము",
+        "ప్రభుని చిత్తము నెరిగి లోబడి - నిలిచియుండెదము"
+      ],
+      "english": [
+        "Loka ichchalananni manamu - vidachi pettedhamu",
+        "Prabhuni chitthamu nerigi lobadi - nilichiyundedhamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఓపికతో పందెములో మనము - పాలు పొందెదము",
+        "యేసువైపే దృష్టియుంచి - సాగి పోయెదము"
+      ],
+      "english": [
+        "Opikatho pandhemulo manamu - paalu pondedamu",
+        "Yesuvaipe drushtiyunchi - saagi poyedhamu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "చింతలన్నియు ప్రభుని మీదే - మనము వేసెదము",
+        "ఆయనే నిరతంబు మనపై - చింతగలవాడు"
+      ],
+      "english": [
+        "Chinthalanniyu Prabhuni meedhe - manamu vesedhamu",
+        "Aayane nirathambu manapai - chinthagalavaadu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "బహు శీఘ్రముగా శ్రీ యేసు - మరల వచ్చును",
+        "మనకు కలిగిన నిరీక్షణను - విడువ కుండెదము"
+      ],
+      "english": [
+        "Bahu sheeghramugaa Sree Yesu - marala vachchunu",
+        "Manaku kaligina nireekshananu - viduva kundedhamu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "song_name": "Sarvonnathudu sarvaadhikaari sarvashakthimanthudu aayane",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సర్వోన్న - తుడు సర్వాధికారి",
+      "సర్వశక్తిమంతుడు - ఆయనే",
+      "సర్వజ్ఞా - నము మనకు",
+      "నిచ్చున్ - పాడుడల్లెలూయ",
+      "యధార్థమైనది - దైవమార్గ",
+      "మిల - సంపూర్ణమైనది",
+      "నాథుడేసు నీకై - చేయుచున్నది",
+      "ఇప్పుడు నీకు తెలియదు",
+      "మననాథు డమర్త్యుని మాటనమ్ము",
+      "మిక - మీదట తెలిసి కొందువు"
+    ],
+    "english": [
+      "Sarvonna - Thudu sarvaadhikaari",
+      "Sarvashakthimanthudu - Aayane",
+      "Sarvajnaa - Namu manaku",
+      "Nichchun - Paadudallelooya",
+      "Yadhaarthamainadi - Dhaivamaarga",
+      "Mila - Sampoornamainadhi",
+      "Naathudesu neekai - Cheyuchunnadhi",
+      "Ippudu neeku theliyadu",
+      "Mananaathu damarthyuni maatanammu",
+      "Mika - Meedata thelisi kondhuvu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆశ్చర్యకరుడు యోసేపున్ నెట్టి",
+        "తెచ్చె నైగుప్తునకు - రాజుగా",
+        "చేసి తన ప్రజల అక్కరన్ తీర్చె",
+        "పాడు డల్లెలూయ"
+      ],
+      "english": [
+        "Aashcharyakarudu Yosepun netti",
+        "Thechche naiguptunaku - Raajugaa",
+        "Chesi thana prajala akkaran theerche",
+        "Paadu dallelooya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆలోచనకర్త మోషేను లేపె",
+        "పాలకుడైన ఫరో నెదిరింపన్",
+        "బలపరచి తన ప్రజలన్ విడిపించె",
+        "పాడు డల్లెలూయ"
+      ],
+      "english": [
+        "Aalochanakartha Moshenu lepe",
+        "Paalakudaina Pharo nedhirimpan",
+        "Balaparachi thana prajalan vidipinche",
+        "Paadu dallelooya"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మహోన్నతుడు దానియేలున్ గాచె",
+        "మహాబాబెలునందు ఆయనే",
+        "మహారాజుగా మహిమ నొందెను",
+        "పాడు డల్లెలూయ"
+      ],
+      "english": [
+        "Mahonnathudu Dhaaniyelun gaache",
+        "Mahaabaabelunandhu aayane",
+        "Mahaaraajugaa mahima nondenu",
+        "Paadu dallelooya"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "బలవంతుడేసు పేతురున్ గాచి",
+        "పౌలును బట్టి తెచ్చి సంఘమున్",
+        "కల్తీలేకుండ కట్టె సత్యాత్మతో",
+        "పాడు డల్లెలూయ"
+      ],
+      "english": [
+        "Balavanthudesu Pethurun gaachi",
+        "Paulunu batti thechchi sanghamun",
+        "Kaltheelekunda katte sathyaathmatho",
+        "Paadu dallelooya"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఆది అంతము లేని మన యేసు",
+        "నాథుడు వచ్చుచున్నా డిదిగో",
+        "సిద్ధముగా నుండి సుస్వాగత మిమ్ము",
+        "ఆమెన్ హల్లెలూయా"
+      ],
+      "english": [
+        "Aadi anthamu leni mana Yesu",
+        "Naathudu vachchuchunnaa didhigo",
+        "Siddhamugaa nundi suswaagatha mimmu",
+        "Aamen hallelooyaa"
+      ]
+    }
+  ]
+}

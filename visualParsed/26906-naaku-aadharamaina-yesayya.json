@@ -1,0 +1,73 @@
+{
+  "song_name": "Naaku aadhaaramaina Yesayya",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Pastor K Solomon Raju"
+    ],
+    "రచన": [
+      "పాస్టర్ కే సొలొమోన్ రాజు"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నాకు ఆధారామైన, యేసయ్య",
+      "ఆనుకొందును నీపై అనుక్షణము",
+      "ఆనుకొందును నీపై అనుక్షణము",
+      "నాకు ఆధారామైన, యేసయ్య"
+    ],
+    "english": [
+      "Naaku aadhaaramaina, Yesayya",
+      "Aanukondunu neepai anukshanamu",
+      "Aanukondunu neepai anukshanamu",
+      "Naaku aadhaaramaina, Yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా దుఃఖములో ఓదార్పు నీవై",
+        "విశ్వాసమునకు ఆధారమైన",
+        "మితిలేని కనికరం, నాపై చూపి",
+        "నా రక్షణకు ఆధారమైతివి  ||నాకు||"
+      ],
+      "english": [
+        "Naa dukhamulo odaarpu neevai",
+        "Vishvaasamunaku aadhaaramaina",
+        "Mithileni kanikaram, naapai choopi",
+        "Naa rakshanaku aadhaaramaithivi  ||Naaku||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా ధీన స్థితిపై జాలి చూపి",
+        "నీరీక్షణకు ఆధారమైన",
+        "హద్దులేని నీ ప్రేమ, నా హృది తాకగా",
+        "నే పరుగిడిదును నీ ఆజ్ఞలందున  ||నాకు||"
+      ],
+      "english": [
+        "Naa deena sthithipai jaali choopi",
+        "Nireekshanaku aadhaaramaina",
+        "Haddhuleni nee prema, naa hrudhi thaakagaa",
+        "Ne parugididhunu nee aajnalandhuna  ||Naaku||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా హృదయ భారం నీవు మోసి",
+        "వాగ్దానములకు ఆధారమైన",
+        "పరిశుద్దాత్మతో అభిషేకించి",
+        "నా జ్ఞానమునకు ఆధారమైతివి  ||నాకు||"
+      ],
+      "english": [
+        "Naa hrudaya bhaaram neevu mosi",
+        "Vaagdhaanamulaku aadhaaramaina",
+        "Parishuddhaathmatho abhishekinchi",
+        "Naa jnaanamunaku aadhaaramaithivi  ||Naaku||"
+      ]
+    }
+  ]
+}

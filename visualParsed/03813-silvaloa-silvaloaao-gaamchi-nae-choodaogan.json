@@ -1,0 +1,64 @@
+{
+  "song_name": "Silvalo silvalo gaanchi ne choodagan",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా యేసు నొప్పుకొనను నే సిగ్గునొందను",
+        "నా యేసుకై పోరాడను నే వెన్కదీయను",
+        "సిల్వలో సిల్వలోఁ గాంచి నే చూడఁగన్",
+        "చింతలన్ భారమెల్లఁ బోయనే - విల్వలేనట్టి",
+        "రక్తమున్నమ్మన్ - విశ్వంబైన ముక్తి గల్గెనే"
+      ],
+      "english": [
+        "Naa Yesu noppukonanu ne siggunondanu",
+        "Naa Yesukai poraadanu ne venkadheeyanu",
+        "Silvalo silvalo gaanchi ne choodagan",
+        "Chinthalan bhaaramella boyane - Vilvalenatti",
+        "Rakthamunnamman - Vishwambaina mukthi galgene"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా దేవుని పేరేసుండు నా కేమి లోపము",
+        "ఇదే నా సునిరీక్షణ యింకేమి భయము"
+      ],
+      "english": [
+        "Naa Devuni Peresundu naa kemi lopamu",
+        "Idhe naa sunireekshana inkemi bhayamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బాహాటమై నా భారము భరింపనాయెనే",
+        "మహాత్ముని వాగ్దానము మార్పొంద దెన్నడు"
+      ],
+      "english": [
+        "Baahaatamai naa bhaaramu bharimpanaayene",
+        "Mahaathmuni vaagdhaanamu maarponda dhennadu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "న్యాయంపు తీర్పు నాటిలో నన్నొప్పుకొంచును",
+        "నా యేసు తండ్రి యానతిన్ నాకంబుఁజేర్చును"
+      ],
+      "english": [
+        "Nyaayampu theerpu naatilo nannoppukonchunu",
+        "Naa Yesu thandri yaanathin naakambujerchunu"
+      ]
+    }
+  ]
+}

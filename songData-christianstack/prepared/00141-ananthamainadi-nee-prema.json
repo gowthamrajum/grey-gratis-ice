@@ -1,0 +1,52 @@
+{
+  "song_name": "Ananthamainadi Nee Prema",
+  "author": {
+    "Authored by": "KR John",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ ప్రేమను నే వర్ణింపలేను",
+      "నీ కరుణను నే వివరించలేను",
+      "అనంతమైనది నీ ప్రేమ",
+      "ఆశ్చర్యమైనది నీ కరుణ",
+      "లోకములో దేనితో సరిపోల్చలేను",
+      "నిన్ను సరిపోల్చలేను"
+    ],
+    "english": [
+      "Nee premanu ne varnimpa lenu",
+      "nee karunanu ne vivarincha lenu",
+      "ananthamainadhi nee prema",
+      "aascharyamainadhi nee karuna",
+      "lokamulo denitho saripolchalenu",
+      "ninnu saripolchalenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ తలంపులు నేను లెక్కించలేను",
+        "విస్తారమైన యోచనలను గ్రహియింపలేను",
+        "భూమికి పునాదులు వేయబడక ముందే",
+        "నీ చిత్తములో నన్ను ఎరిగిన నా దేవా",
+        "నీ మహిమను నేను కనపరచలేను",
+        "పరిశుద్ధుడైన నీ యెదుట నేను నిలువలేను",
+        "పాపపు చీకటిలో మునిగిన నా జీవితమున",
+        "రక్తముతో కడిగి నను మార్చిన నా దేవా",
+        "నీ రక్తముతో కడిగి నను మార్చిన నా దేవా"
+      ],
+      "english": [
+        "Nee thalampulu nenu lekkincha lenu",
+        "visthaaramainaa yochanalanu grahiyincha lenu",
+        "bhoomiki punadhulu veyabadaka mundhe",
+        "nee chittamulo nannu erigina naa deva",
+        "Nee mahimanu nenu kanaparacha lenu",
+        "parishuddhudaina nee edhuta nenu nilavalenu",
+        "paapapu cheekatilo munigina naa jeevithamuna",
+        "raktamutho kadigi nanu maarchina naa deva",
+        "nee rakthamutho kadigi nanu maarchina naa deva"
+      ]
+    }
+  ]
+}

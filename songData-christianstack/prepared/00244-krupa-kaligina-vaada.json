@@ -1,0 +1,30 @@
+{
+  "song_name": "Krupa Kaligina Vaada",
+  "author": {
+    "Authored by": "Bro.T.Vijayanand",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కృప కలిగిన వాడా నీలో నిలిచెదను",
+      "దయగల యేసయ్య నీతో నడిచెదను"
+    ],
+    "english": [
+      "Krupa Kaligina Vaadaa Neelo Nilichedanu",
+      "Dayagala Yesayya Neetho Nadichedanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా జీవితకాలము పాటలు పాడెదను",
+        "నా బ్రతుకు దినమంతా ఆరాధించెద"
+      ],
+      "english": [
+        "Naa Jeevitakaalamu Paatalu Paadedanu",
+        "Naa Brathuku Dinamantaa Aaraadhincheda"
+      ]
+    }
+  ]
+}

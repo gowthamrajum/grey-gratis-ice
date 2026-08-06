@@ -1,0 +1,68 @@
+{
+  "song_name": "Nee Bahu Balamu Ennadaina",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ బాహుబలము ఎన్నడైన దూరమాయెనా",
+      "నిత్య జీవమిచ్చు నీదు వాక్కు ఎపుడైనా మూగబోయెనా",
+      "నిర్మల హృదయుడా నా దీపము వెలిగించితివి",
+      "యేసయ్య అపారమైనది నాపై నీకున్న అత్యున్నత ప్రేమ"
+    ],
+    "english": [
+      "Nee Baahubalamu Ennadaina Dooramaayenaa",
+      "Nithya Jeevamichchu Needu Vaakku Epudainaa Moogaboyenaa",
+      "Nirmala Hrudayudaa Naa Deepamu Veliginchithivi",
+      "Yesayya Apaaramainadi Naapai Neekunna Athyunnatha Prema"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇంత గొప్ప రక్షణ కోటలో నను నిలిపితివి",
+        "దహించు అగ్నిగా నిలిచి విరోధి బాణములను తప్పించితివి",
+        "అవమానించినవారే అభిమానమును పంచగా",
+        "ఆనంద సంకేతమే ఈ రక్షణ గీతం"
+      ],
+      "english": [
+        "Intha Goppa Rakshana Kotalo Nanu Nilipithivi",
+        "Dahinchu Agnigaa Nilichi Virodhi Baanamulanu Thappinchithivi",
+        "Avamaaninchinavaare Abhimaanamunu Panchagaa",
+        "Aananda Sanketame Ee Rakshana Geetham"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సారవంతమైన తోటలో నను నాటితివి",
+        "సర్వాదికారిగా తోడై రోగ మరణ భీతినే తొలగించితివి",
+        "చీకటి కమ్మిన మబ్బులే కురిసెను దీవెన వర్షమై",
+        "ఇంత గొప్ప కృపను గూర్చి ఏమని వివరింతును"
+      ],
+      "english": [
+        "Saaravanthamaina Thotalo Nanu Naatithivi",
+        "Sarvaadikaarigaa Thodai Roga Marana Bheethine Tholaginchithivi",
+        "Cheekati Kammina Mabbule Kurisenu Deevena Varshamai",
+        "Intha Goppa Krupanu Goorchi Emani Vivarinthunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వీశ్వాస వీరుల జాడలో నను నడిపించుచూ",
+        "పుటము వేసి యున్నావు సంపూర్ణ పరిశుద్ధత నేనొందుటకు",
+        "శ్రమనొందిన యేండ్ల కొలది సమృద్ధిని నాకిచ్చెదవు",
+        "గొప్ప సాక్షి సంఘమై సిలువను ప్రకటింతును"
+      ],
+      "english": [
+        "Veeshvaasa Veerula Jaadalo Nanu Nadipinchuchoo",
+        "Putamu Vesi Yunnaavu Sampoorna Parishuddhatha Nenondutaku",
+        "Shramanondina Yendla Koladi Samruddhini Naakichchedavu",
+        "Goppa Saakshi Sanghamai Siluvanu Prakatinthunu"
+      ]
+    }
+  ]
+}

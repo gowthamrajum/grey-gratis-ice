@@ -1,0 +1,86 @@
+{
+  "song_name": "Yessaiah Puttadu Manakosam",
+  "author": {
+    "Authored by": "Bro. Rajesh",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాజులకు రాజు పుట్టాడయ్యా",
+      "ప్రభువుల ప్రభువు పుట్టాడయ్యా",
+      "రారాజు యేసు పుట్టాడయ్యా",
+      "పాపము బాపా వచ్చాడయ్యా"
+    ],
+    "english": [
+      "Raajulaku Raaju puttaadayyaa",
+      "Prabhuvula Prabhuvu puttaadayyaa",
+      "Raaraju Yesu puttaadayyaa",
+      "Paapamu baapa vacchaadayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆనందమే సంతోషమే",
+        "సంబరమే ఎంతో ఆర్బాటమే"
+      ],
+      "english": [
+        "Aanandhamea santhoshamea",
+        "Sambaramea entho aarbaatamea"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరమును విడిచి వచ్చాడయ్యా",
+        "ఇహమందు యేసు రారాజుగా",
+        "సంతోషం సమాధానము",
+        "ఈ మహిలో మనకు ఇవ్వాలని"
+      ],
+      "english": [
+        "Paramunu vidichi vacchaadayyaa",
+        "Ihamandu Yesu raarajugaa",
+        "Santhosham samaadhaanamu",
+        "Ee mahilo manaku ivvaalani"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాప దోషములు తొలగించుటకు",
+        "నూతన జీవం మనకు ఇచ్చుటకు"
+      ],
+      "english": [
+        "Paapa doshamulu tholaginchutaku",
+        "Noothana jeevam manaku icchutaku"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "జ్ఞానులు కనుగొన్నారు",
+        "యూదుల రాజు పుట్టాడని",
+        "దేవదూతలు ప్రకటించారు",
+        "లోకరక్షకుడు ఉదయించాడని"
+      ],
+      "english": [
+        "Jnaanulu kanugonnaaru",
+        "Yoodula Raaju puttaadani",
+        "Dhevadhoothalu prakatincharu",
+        "Loka rakshakudu udhayinchaadani"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "గొర్రెకాపర్లు వార్త విన్నారు",
+        "ఆటపాటలతో స్తుతించారు"
+      ],
+      "english": [
+        "Gorrekaparlu vaartha vinnaru",
+        "Aatapaatalatho sthuthincharu"
+      ]
+    }
+  ]
+}

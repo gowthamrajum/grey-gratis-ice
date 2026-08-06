@@ -1,0 +1,52 @@
+{
+  "song_name": "Oa Dhaeva RakShkaa Nae VishvaasMbuthoa",
+  "author": {
+    "Authored by": "",
+    "రచన": "రే పామర్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ దేవ రక్షకా నే విశ్వాసంబుతో నిన్ జూతును",
+      "నా మొఱ్ఱాలించుము నా పాప మార్పుము నన్నింక నీ దరిన్ సదా యుంచు."
+    ],
+    "english": [
+      "Oa Dhaeva RakShkaa Nae VishvaasMbuthoa Nin Joothunu",
+      "Naa MoRRaaliMchumu Naa Paapa Maarpumu NanniMka Nee Dharin Sadhaa YuMchu."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మూర్ఛల్లు నాత్మకు బలం బొసంగుము భవత్కృఋపన్",
+        "నాకై చావొందిన నిన్నెల్లకాలము ఆసక్తి శుద్ధితోఁ బ్రేమింప నీ."
+      ],
+      "english": [
+        "MoorChallu Naathmaku BalM BosMgumu Bhavathkrurupan",
+        "Naakai ChaavoMdhina Ninnellakaalamu Aasakthi ShudhDhithoa BraemiMpa Nee."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నే హాని నొందిన నన్ జింత క్రమ్మ్రినఁ గాపాడుము",
+        "పోఁగొట్టు చీఁకటి కన్నీళ్లఁ దుడ్వుము దొలంగ నీకునన్ నీ సన్నిధి."
+      ],
+      "english": [
+        "Nae Haani NoMdhina Nan JiMtha Krammrina Gaapaadumu",
+        "Poagottu Cheekati KanneeLla Dhudvumu DholMga Neekunan Nee SanniDhi."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా యాయు వంతమై మృత్యూగ్ర బాధలు నన్నొందుచో",
+        "సంశయ భీతులు తొలగఁ బ్రేమతో నా దేవ, యాత్మకు మోక్షం బిమ్ము."
+      ],
+      "english": [
+        "Naa Yaayu VMthamai Mruthyoogra BaaDhalu NannoMdhuchoa",
+        "SMshaya Bheethulu Tholaga Braemathoa Naa Dhaeva, Yaathmaku MoakShM Bimmu."
+      ]
+    }
+  ]
+}

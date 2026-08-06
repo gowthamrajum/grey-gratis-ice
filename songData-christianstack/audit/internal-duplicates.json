@@ -1,0 +1,952 @@
+[
+ {
+  "dup_index": 14,
+  "dup_name": "Nee Vaakyame Nannu Brathikinchenu",
+  "first_index": 5,
+  "first_name": "Nee Vaakyame Nannu",
+  "title": 0.682,
+  "c3": 0.933,
+  "wd": 0.86,
+  "same_song": true
+ },
+ {
+  "dup_index": 22,
+  "dup_name": "Entho Sundharudamma Thaanu",
+  "first_index": 10,
+  "first_name": "Entho Sundarudamma Thanu",
+  "title": 0.909,
+  "c3": 0.994,
+  "wd": 0.992,
+  "same_song": true
+ },
+ {
+  "dup_index": 57,
+  "dup_name": "Ninu Matrame Ne Nammanaya",
+  "first_index": 16,
+  "first_name": "Ninu Matrame Ne Nammanaya",
+  "title": 1.0,
+  "c3": 1.0,
+  "wd": 1.0,
+  "same_song": true
+ },
+ {
+  "dup_index": 58,
+  "dup_name": "Paralokame Na Swasthyamu",
+  "first_index": 46,
+  "first_name": "Paralokame Naa Swasthyamu",
+  "title": 0.977,
+  "c3": 0.518,
+  "wd": 0.268,
+  "same_song": false
+ },
+ {
+  "dup_index": 70,
+  "dup_name": "Enni Kastalaina",
+  "first_index": 61,
+  "first_name": "Enni Kastalaina",
+  "title": 1.0,
+  "c3": 0.499,
+  "wd": 0.479,
+  "same_song": false
+ },
+ {
+  "dup_index": 106,
+  "dup_name": "Varamu",
+  "first_index": 68,
+  "first_name": "Varamu 2",
+  "title": 0.909,
+  "c3": 0.191,
+  "wd": 0.007,
+  "same_song": false
+ },
+ {
+  "dup_index": 130,
+  "dup_name": "Christmas Aaradhana",
+  "first_index": 124,
+  "first_name": "Nija Christmas Aaradhana",
+  "title": 0.895,
+  "c3": 0.17,
+  "wd": 0.132,
+  "same_song": false
+ },
+ {
+  "dup_index": 159,
+  "dup_name": "Yudhula Raju 2",
+  "first_index": 69,
+  "first_name": "Yudhula Raja",
+  "title": 0.857,
+  "c3": 0.085,
+  "wd": 0.074,
+  "same_song": false
+ },
+ {
+  "dup_index": 173,
+  "dup_name": "Ninu Matrame Ne Nammanaya",
+  "first_index": 16,
+  "first_name": "Ninu Matrame Ne Nammanaya",
+  "title": 1.0,
+  "c3": 1.0,
+  "wd": 1.0,
+  "same_song": true
+ },
+ {
+  "dup_index": 190,
+  "dup_name": "Meriseti Taarala",
+  "first_index": 182,
+  "first_name": "Meriseti Taarala",
+  "title": 1.0,
+  "c3": 1.0,
+  "wd": 1.0,
+  "same_song": true
+ },
+ {
+  "dup_index": 194,
+  "dup_name": "Nee Sannidhi",
+  "first_index": 144,
+  "first_name": "Nee Sannidhilo",
+  "title": 0.909,
+  "c3": 0.153,
+  "wd": 0.0,
+  "same_song": false
+ },
+ {
+  "dup_index": 228,
+  "dup_name": "Oka Kshanamaina",
+  "first_index": 154,
+  "first_name": "Okka Kshanamaina",
+  "title": 0.963,
+  "c3": 0.239,
+  "wd": 0.032,
+  "same_song": false
+ },
+ {
+  "dup_index": 235,
+  "dup_name": "Nee Sannidhi Chalu",
+  "first_index": 194,
+  "first_name": "Nee Sannidhi",
+  "title": 0.8,
+  "c3": 0.162,
+  "wd": 0.034,
+  "same_song": false
+ },
+ {
+  "dup_index": 238,
+  "dup_name": "Sameepimparaani",
+  "first_index": 229,
+  "first_name": "Sameepimparaani",
+  "title": 1.0,
+  "c3": 0.639,
+  "wd": 0.63,
+  "same_song": false
+ },
+ {
+  "dup_index": 259,
+  "dup_name": "Thappipoyina Gorrenu Nenu",
+  "first_index": 168,
+  "first_name": "Thappipoyina Gorrenu Nenu",
+  "title": 1.0,
+  "c3": 1.0,
+  "wd": 1.0,
+  "same_song": true
+ },
+ {
+  "dup_index": 292,
+  "dup_name": "Christmas Subhavelalo 2",
+  "first_index": 152,
+  "first_name": "Christmas Subhavelalo-3",
+  "title": 0.927,
+  "c3": 0.16,
+  "wd": 0.0,
+  "same_song": false
+ },
+ {
+  "dup_index": 333,
+  "dup_name": "Kantipaapala Kaachinaavayyaa",
+  "first_index": 171,
+  "first_name": "Kantipaapalaa Kaachinaavayyaa",
+  "title": 0.981,
+  "c3": 0.507,
+  "wd": 0.456,
+  "same_song": false
+ },
+ {
+  "dup_index": 388,
+  "dup_name": "Ye Reethiga",
+  "first_index": 239,
+  "first_name": "Ye Reethiga",
+  "title": 1.0,
+  "c3": 0.153,
+  "wd": 0.056,
+  "same_song": false
+ },
+ {
+  "dup_index": 407,
+  "dup_name": "Ye Reethiga",
+  "first_index": 239,
+  "first_name": "Ye Reethiga",
+  "title": 1.0,
+  "c3": 0.261,
+  "wd": 0.188,
+  "same_song": false
+ },
+ {
+  "dup_index": 447,
+  "dup_name": "Sandhadi 6 (Joyful Noise)",
+  "first_index": 103,
+  "first_name": "Sandhadi 7 (Joyful Noise)",
+  "title": 0.905,
+  "c3": 0.171,
+  "wd": 0.104,
+  "same_song": false
+ },
+ {
+  "dup_index": 463,
+  "dup_name": "Janminchinadu",
+  "first_index": 462,
+  "first_name": "Janiyinchinadu",
+  "title": 0.8,
+  "c3": 0.16,
+  "wd": 0.036,
+  "same_song": false
+ },
+ {
+  "dup_index": 464,
+  "dup_name": "Nee Raktham",
+  "first_index": 264,
+  "first_name": "Nee Raktam",
+  "title": 0.824,
+  "c3": 0.083,
+  "wd": 0.017,
+  "same_song": false
+ },
+ {
+  "dup_index": 466,
+  "dup_name": "Puttinadu Raraju",
+  "first_index": 146,
+  "first_name": "Puttinadu Rajularaju",
+  "title": 0.875,
+  "c3": 0.158,
+  "wd": 0.028,
+  "same_song": false
+ },
+ {
+  "dup_index": 474,
+  "dup_name": "Nee Chitthamu",
+  "first_index": 143,
+  "first_name": "Nee Chithame",
+  "title": 0.857,
+  "c3": 0.118,
+  "wd": 0.103,
+  "same_song": false
+ },
+ {
+  "dup_index": 477,
+  "dup_name": "Velasenule",
+  "first_index": 98,
+  "first_name": "Velasenu",
+  "title": 0.875,
+  "c3": 0.158,
+  "wd": 0.0,
+  "same_song": false
+ },
+ {
+  "dup_index": 483,
+  "dup_name": "Naannaa",
+  "first_index": 452,
+  "first_name": "Nanna",
+  "title": 0.8,
+  "c3": 0.154,
+  "wd": 0.052,
+  "same_song": false
+ },
+ {
+  "dup_index": 488,
+  "dup_name": "Yesayya Janminche",
+  "first_index": 440,
+  "first_name": "Janminche Yesayya",
+  "title": 0.933,
+  "c3": 0.106,
+  "wd": 0.029,
+  "same_song": false
+ },
+ {
+  "dup_index": 496,
+  "dup_name": "Sadha Neevu Naa Thoduga",
+  "first_index": 443,
+  "first_name": "Naa Thodugaa Neevu",
+  "title": 0.824,
+  "c3": 0.095,
+  "wd": 0.045,
+  "same_song": false
+ },
+ {
+  "dup_index": 513,
+  "dup_name": "Jeevapradatha",
+  "first_index": 410,
+  "first_name": "Jeevadaatha",
+  "title": 0.818,
+  "c3": 0.234,
+  "wd": 0.079,
+  "same_song": false
+ },
+ {
+  "dup_index": 520,
+  "dup_name": "Athi Parishudduda",
+  "first_index": 369,
+  "first_name": "Athi Parisudhudu",
+  "title": 0.828,
+  "c3": 0.189,
+  "wd": 0.015,
+  "same_song": false
+ },
+ {
+  "dup_index": 537,
+  "dup_name": "Sarvonatha",
+  "first_index": 386,
+  "first_name": "Sarvonathuda",
+  "title": 0.8,
+  "c3": 0.065,
+  "wd": 0.0,
+  "same_song": false
+ },
+ {
+  "dup_index": 548,
+  "dup_name": "Telugu Christmas Mashup 3",
+  "first_index": 456,
+  "first_name": "Telugu Christmas Mashup 4",
+  "title": 0.952,
+  "c3": 0.269,
+  "wd": 0.065,
+  "same_song": false
+ },
+ {
+  "dup_index": 554,
+  "dup_name": "Randi Rarandoy",
+  "first_index": 406,
+  "first_name": "Randi Raarandi",
+  "title": 0.833,
+  "c3": 0.151,
+  "wd": 0.042,
+  "same_song": false
+ },
+ {
+  "dup_index": 559,
+  "dup_name": "Christmas Subhavelalo",
+  "first_index": 152,
+  "first_name": "Christmas Subhavelalo-3",
+  "title": 0.95,
+  "c3": 0.227,
+  "wd": 0.0,
+  "same_song": false
+ },
+ {
+  "dup_index": 577,
+  "dup_name": "Yeasayya Janminche",
+  "first_index": 440,
+  "first_name": "Janminche Yesayya",
+  "title": 0.839,
+  "c3": 0.085,
+  "wd": 0.061,
+  "same_song": false
+ },
+ {
+  "dup_index": 596,
+  "dup_name": "Ninnu Nenu Keerthinthunu",
+  "first_index": 12,
+  "first_name": "Keerthinthunu Ninne",
+  "title": 0.842,
+  "c3": 0.148,
+  "wd": 0.046,
+  "same_song": false
+ },
+ {
+  "dup_index": 597,
+  "dup_name": "Raja Nee Sannidhilone",
+  "first_index": 144,
+  "first_name": "Nee Sannidhilo",
+  "title": 0.8,
+  "c3": 0.109,
+  "wd": 0.0,
+  "same_song": false
+ },
+ {
+  "dup_index": 601,
+  "dup_name": "Na Snehithuda",
+  "first_index": 494,
+  "first_name": "Nija Snehithuda",
+  "title": 0.833,
+  "c3": 0.103,
+  "wd": 0.025,
+  "same_song": false
+ },
+ {
+  "dup_index": 604,
+  "dup_name": "Nee Sannidhilo",
+  "first_index": 144,
+  "first_name": "Nee Sannidhilo",
+  "title": 1.0,
+  "c3": 0.143,
+  "wd": 0.034,
+  "same_song": false
+ },
+ {
+  "dup_index": 613,
+  "dup_name": "Naaku Adharamaina Yesayya",
+  "first_index": 339,
+  "first_name": "Adhaarama Naa Yesayya",
+  "title": 0.8,
+  "c3": 0.087,
+  "wd": 0.068,
+  "same_song": false
+ },
+ {
+  "dup_index": 615,
+  "dup_name": "Nee Pilupu",
+  "first_index": 614,
+  "first_name": "Nee Pilupe",
+  "title": 0.875,
+  "c3": 0.192,
+  "wd": 0.022,
+  "same_song": false
+ },
+ {
+  "dup_index": 627,
+  "dup_name": "Prema Prema",
+  "first_index": 487,
+  "first_name": "Prema O Prema",
+  "title": 0.842,
+  "c3": 0.276,
+  "wd": 0.149,
+  "same_song": false
+ },
+ {
+  "dup_index": 654,
+  "dup_name": "Sthuthi Paadutake",
+  "first_index": 128,
+  "first_name": "Stuthi Paadutake",
+  "title": 0.897,
+  "c3": 0.232,
+  "wd": 0.088,
+  "same_song": false
+ },
+ {
+  "dup_index": 656,
+  "dup_name": "Vagdanamulu",
+  "first_index": 118,
+  "first_name": "Vagdanamu",
+  "title": 0.889,
+  "c3": 0.209,
+  "wd": 0.045,
+  "same_song": false
+ },
+ {
+  "dup_index": 665,
+  "dup_name": "Telugu Christmas Mashup 2",
+  "first_index": 456,
+  "first_name": "Telugu Christmas Mashup 4",
+  "title": 0.952,
+  "c3": 0.211,
+  "wd": 0.088,
+  "same_song": false
+ },
+ {
+  "dup_index": 671,
+  "dup_name": "Naa Snehithuda",
+  "first_index": 494,
+  "first_name": "Nija Snehithuda",
+  "title": 0.8,
+  "c3": 0.043,
+  "wd": 0.0,
+  "same_song": false
+ },
+ {
+  "dup_index": 685,
+  "dup_name": "Varama",
+  "first_index": 106,
+  "first_name": "Varamu",
+  "title": 0.8,
+  "c3": 0.088,
+  "wd": 0.011,
+  "same_song": false
+ },
+ {
+  "dup_index": 701,
+  "dup_name": "Oohinchalenu Prabhu",
+  "first_index": 617,
+  "first_name": "Oohinchalenu Prabhu",
+  "title": 1.0,
+  "c3": 1.0,
+  "wd": 1.0,
+  "same_song": true
+ },
+ {
+  "dup_index": 734,
+  "dup_name": "Nee Krupaye",
+  "first_index": 383,
+  "first_name": "Nee Krupaye",
+  "title": 1.0,
+  "c3": 0.194,
+  "wd": 0.119,
+  "same_song": false
+ },
+ {
+  "dup_index": 741,
+  "dup_name": "Maranapu Mullu",
+  "first_index": 42,
+  "first_name": "Maranapu Mullu",
+  "title": 1.0,
+  "c3": 0.115,
+  "wd": 0.034,
+  "same_song": false
+ },
+ {
+  "dup_index": 758,
+  "dup_name": "Bhayapadanu",
+  "first_index": 439,
+  "first_name": "Bhayapadaku",
+  "title": 0.8,
+  "c3": 0.219,
+  "wd": 0.03,
+  "same_song": false
+ },
+ {
+  "dup_index": 760,
+  "dup_name": "Krupa Kshemamu",
+  "first_index": 591,
+  "first_name": "Krupayu Kshemamu",
+  "title": 0.846,
+  "c3": 0.179,
+  "wd": 0.082,
+  "same_song": false
+ },
+ {
+  "dup_index": 771,
+  "dup_name": "Na Hrudayaana Koluvaina",
+  "first_index": 76,
+  "first_name": "Naa Hrudayana",
+  "title": 0.71,
+  "c3": 0.952,
+  "wd": 0.886,
+  "same_song": true
+ },
+ {
+  "dup_index": 775,
+  "dup_name": "Neeve Naku Chalunu Yesu",
+  "first_index": 247,
+  "first_name": "Neeve Chalunu Yesu",
+  "title": 0.824,
+  "c3": 0.116,
+  "wd": 0.088,
+  "same_song": false
+ },
+ {
+  "dup_index": 777,
+  "dup_name": "Ammanu Minchina Preme",
+  "first_index": 216,
+  "first_name": "Nee Premanu Minchina",
+  "title": 0.8,
+  "c3": 0.241,
+  "wd": 0.133,
+  "same_song": false
+ },
+ {
+  "dup_index": 778,
+  "dup_name": "Bahu Balavanthuda",
+  "first_index": 240,
+  "first_name": "Balavanthuda",
+  "title": 0.846,
+  "c3": 0.089,
+  "wd": 0.076,
+  "same_song": false
+ },
+ {
+  "dup_index": 790,
+  "dup_name": "Kreesthu Nedu Puttene",
+  "first_index": 543,
+  "first_name": "Kreesthu Nedu Puttenu",
+  "title": 0.944,
+  "c3": 0.182,
+  "wd": 0.125,
+  "same_song": false
+ },
+ {
+  "dup_index": 796,
+  "dup_name": "Aa Ha Hallelujah",
+  "first_index": 93,
+  "first_name": "Hallelujah",
+  "title": 0.818,
+  "c3": 0.049,
+  "wd": 0.0,
+  "same_song": false
+ },
+ {
+  "dup_index": 799,
+  "dup_name": "Bethlehemu Puramulo",
+  "first_index": 459,
+  "first_name": "Bethlahemu Puramulo",
+  "title": 0.882,
+  "c3": 0.127,
+  "wd": 0.065,
+  "same_song": false
+ },
+ {
+  "dup_index": 800,
+  "dup_name": "Nakshatrama",
+  "first_index": 672,
+  "first_name": "Nakshatrama 2",
+  "title": 0.952,
+  "c3": 0.109,
+  "wd": 0.055,
+  "same_song": false
+ },
+ {
+  "dup_index": 802,
+  "dup_name": "Pasuvula Pakalo",
+  "first_index": 155,
+  "first_name": "Pashuvula Paakalo",
+  "title": 0.857,
+  "c3": 0.205,
+  "wd": 0.045,
+  "same_song": false
+ },
+ {
+  "dup_index": 809,
+  "dup_name": "Raaraju Puttinadu",
+  "first_index": 466,
+  "first_name": "Puttinadu Raraju",
+  "title": 0.897,
+  "c3": 0.153,
+  "wd": 0.02,
+  "same_song": false
+ },
+ {
+  "dup_index": 830,
+  "dup_name": "Okka Kshanamaina",
+  "first_index": 154,
+  "first_name": "Okka Kshanamaina",
+  "title": 1.0,
+  "c3": 0.095,
+  "wd": 0.012,
+  "same_song": false
+ },
+ {
+  "dup_index": 833,
+  "dup_name": "Thandri Na Deva",
+  "first_index": 795,
+  "first_name": "Thandri Deva",
+  "title": 0.818,
+  "c3": 0.128,
+  "wd": 0.194,
+  "same_song": false
+ },
+ {
+  "dup_index": 841,
+  "dup_name": "Naa Balamantha",
+  "first_index": 433,
+  "first_name": "Kaalamantha",
+  "title": 0.818,
+  "c3": 0.019,
+  "wd": 0.0,
+  "same_song": false
+ },
+ {
+  "dup_index": 856,
+  "dup_name": "Nee Aatmatho Nannu",
+  "first_index": 4,
+  "first_name": "Nee Aatmatho",
+  "title": 0.8,
+  "c3": 0.442,
+  "wd": 0.281,
+  "same_song": false
+ },
+ {
+  "dup_index": 858,
+  "dup_name": "Ninne Ninne Sthuthiyincheda",
+  "first_index": 694,
+  "first_name": "Ninne Sthuthinchedan",
+  "title": 0.81,
+  "c3": 0.282,
+  "wd": 0.108,
+  "same_song": false
+ },
+ {
+  "dup_index": 868,
+  "dup_name": "Parishuddhathmuda",
+  "first_index": 187,
+  "first_name": "Parishudhathmuda",
+  "title": 0.968,
+  "c3": 0.052,
+  "wd": 0.0,
+  "same_song": false
+ },
+ {
+  "dup_index": 874,
+  "dup_name": "Kalvari Prema",
+  "first_index": 341,
+  "first_name": "Kaluvari Premanu",
+  "title": 0.8,
+  "c3": 0.059,
+  "wd": 0.038,
+  "same_song": false
+ },
+ {
+  "dup_index": 875,
+  "dup_name": "Maruvalenayya",
+  "first_index": 412,
+  "first_name": "Maruvalenaya",
+  "title": 0.957,
+  "c3": 0.179,
+  "wd": 0.0,
+  "same_song": false
+ },
+ {
+  "dup_index": 907,
+  "dup_name": "Naa Jeevitham",
+  "first_index": 71,
+  "first_name": "Idigo Naa Jeevitham",
+  "title": 0.815,
+  "c3": 0.236,
+  "wd": 0.042,
+  "same_song": false
+ },
+ {
+  "dup_index": 908,
+  "dup_name": "Naa Praanama",
+  "first_index": 679,
+  "first_name": "Naa Praanamaa",
+  "title": 0.952,
+  "c3": 0.149,
+  "wd": 0.038,
+  "same_song": false
+ },
+ {
+  "dup_index": 917,
+  "dup_name": "Nuvivvakuntey",
+  "first_index": 38,
+  "first_name": "Nuvvivakuntey Na Yesayya",
+  "title": 0.727,
+  "c3": 0.942,
+  "wd": 0.916,
+  "same_song": true
+ },
+ {
+  "dup_index": 922,
+  "dup_name": "Hosanna",
+  "first_index": 409,
+  "first_name": "Hosanna",
+  "title": 1.0,
+  "c3": 0.124,
+  "wd": 0.111,
+  "same_song": false
+ },
+ {
+  "dup_index": 932,
+  "dup_name": "Aaradhinchedam",
+  "first_index": 688,
+  "first_name": "Aaradhinchedham",
+  "title": 0.889,
+  "c3": 0.198,
+  "wd": 0.0,
+  "same_song": false
+ },
+ {
+  "dup_index": 944,
+  "dup_name": "Kanipettu Chuntini",
+  "first_index": 924,
+  "first_name": "Kanipettuchuntini",
+  "title": 0.875,
+  "c3": 1.0,
+  "wd": 1.0,
+  "same_song": true
+ },
+ {
+  "dup_index": 948,
+  "dup_name": "Shathakoti Vandanalu",
+  "first_index": 576,
+  "first_name": "Sathakoti Vandhanaalu",
+  "title": 0.865,
+  "c3": 0.207,
+  "wd": 0.167,
+  "same_song": false
+ },
+ {
+  "dup_index": 963,
+  "dup_name": "Hallelujah",
+  "first_index": 93,
+  "first_name": "Hallelujah",
+  "title": 1.0,
+  "c3": 0.067,
+  "wd": 0.0,
+  "same_song": false
+ },
+ {
+  "dup_index": 966,
+  "dup_name": "Naa Hrudayamantha",
+  "first_index": 37,
+  "first_name": "Naa Hrudayamaa",
+  "title": 0.815,
+  "c3": 0.175,
+  "wd": 0.039,
+  "same_song": false
+ },
+ {
+  "dup_index": 967,
+  "dup_name": "Nee Kantipaapanu",
+  "first_index": 792,
+  "first_name": "Nee Kantipaapavale",
+  "title": 0.8,
+  "c3": 0.092,
+  "wd": 0.0,
+  "same_song": false
+ },
+ {
+  "dup_index": 991,
+  "dup_name": "Yesayya Naa Yesayya",
+  "first_index": 249,
+  "first_name": "Yesayya Yesayya",
+  "title": 0.897,
+  "c3": 0.161,
+  "wd": 0.071,
+  "same_song": false
+ },
+ {
+  "dup_index": 1000,
+  "dup_name": "Seethakalamlo",
+  "first_index": 682,
+  "first_name": "Seethaakalamlo",
+  "title": 0.96,
+  "c3": 0.098,
+  "wd": 0.057,
+  "same_song": false
+ },
+ {
+  "dup_index": 1006,
+  "dup_name": "Mahima Neekey",
+  "first_index": 172,
+  "first_name": "Mahima Neeke",
+  "title": 0.952,
+  "c3": 0.131,
+  "wd": 0.089,
+  "same_song": false
+ },
+ {
+  "dup_index": 1016,
+  "dup_name": "Hrudayama",
+  "first_index": 37,
+  "first_name": "Naa Hrudayamaa",
+  "title": 0.8,
+  "c3": 0.153,
+  "wd": 0.018,
+  "same_song": false
+ },
+ {
+  "dup_index": 1019,
+  "dup_name": "Rajula Raju",
+  "first_index": 147,
+  "first_name": "Raajula Raju",
+  "title": 0.947,
+  "c3": 0.21,
+  "wd": 0.065,
+  "same_song": false
+ },
+ {
+  "dup_index": 1026,
+  "dup_name": "Na Jeevitha Kaalamantha",
+  "first_index": 214,
+  "first_name": "Naa Jeevithakaalamantha",
+  "title": 0.878,
+  "c3": 0.216,
+  "wd": 0.03,
+  "same_song": false
+ },
+ {
+  "dup_index": 1035,
+  "dup_name": "Prema Prema",
+  "first_index": 487,
+  "first_name": "Prema O Prema",
+  "title": 0.842,
+  "c3": 0.213,
+  "wd": 0.218,
+  "same_song": false
+ },
+ {
+  "dup_index": 1040,
+  "dup_name": "Andaala Thaara",
+  "first_index": 815,
+  "first_name": "Andhaala Thaara",
+  "title": 0.88,
+  "c3": 0.076,
+  "wd": 0.073,
+  "same_song": false
+ },
+ {
+  "dup_index": 1044,
+  "dup_name": "Na Jeevithamu",
+  "first_index": 907,
+  "first_name": "Naa Jeevitham",
+  "title": 0.909,
+  "c3": 0.155,
+  "wd": 0.0,
+  "same_song": false
+ },
+ {
+  "dup_index": 1072,
+  "dup_name": "Idigo Deva Naa Jeevitham",
+  "first_index": 71,
+  "first_name": "Idigo Naa Jeevitham",
+  "title": 0.833,
+  "c3": 0.221,
+  "wd": 0.051,
+  "same_song": false
+ },
+ {
+  "dup_index": 1079,
+  "dup_name": "Athyunnatha Simhasanamupai",
+  "first_index": 962,
+  "first_name": "Athynnatha Simhasanamupai",
+  "title": 0.936,
+  "c3": 0.676,
+  "wd": 0.581,
+  "same_song": false
+ },
+ {
+  "dup_index": 1081,
+  "dup_name": "Naa Jeevam Naa Sarvam",
+  "first_index": 732,
+  "first_name": "Naa Jeevam",
+  "title": 0.64,
+  "c3": 0.763,
+  "wd": 0.8,
+  "same_song": true
+ },
+ {
+  "dup_index": 1083,
+  "dup_name": "Ninne Preminthunu",
+  "first_index": 65,
+  "first_name": "Ninne Preminthunu",
+  "title": 1.0,
+  "c3": 0.071,
+  "wd": 0.03,
+  "same_song": false
+ },
+ {
+  "dup_index": 1092,
+  "dup_name": "Najareyudaa Naa Yesayya",
+  "first_index": 1064,
+  "first_name": "Najareyudaa Naa Yesayya",
+  "title": 1.0,
+  "c3": 0.936,
+  "wd": 0.961,
+  "same_song": true
+ },
+ {
+  "dup_index": 1094,
+  "dup_name": "Neeve Naa Praanamu",
+  "first_index": 574,
+  "first_name": "Neeve Naa Pranamu",
+  "title": 0.966,
+  "c3": 0.28,
+  "wd": 0.182,
+  "same_song": false
+ }
+]

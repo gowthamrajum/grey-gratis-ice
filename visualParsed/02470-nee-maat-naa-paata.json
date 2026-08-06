@@ -1,0 +1,69 @@
+{
+  "song_name": "Nee maata naa paatagaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ మాట నా పాటగా - అనుక్షణం పాడనీ",
+      "లోకాన నిను చాటగా - నా స్వరం వాడనీ",
+      "నా గీతం.. ఆత్మలను - నీవైపే ఆకర్షించనీ",
+      "ఆదరణ.. కలిగించి - నీలోనే ప్రహర్షించనీ.."
+    ],
+    "english": [
+      "Nee maata naa paatagaa - Anukshanam paadanee",
+      "Lokaana ninu chaatagaa - Naa swaram vaadanee",
+      "Naa geetham.. aathmalanu - Neevaipe aakarshinchanee",
+      "Aadarana.. kaliginchi - Neelone praharshinchanee.."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏ చోట గళమెత్తినా - నీ ప్రేమ ధ్వనియించనీ",
+        "పాడేటి ప్రతి పాటలో - నీ రూపు కనిపించనీ = 2",
+        "వినిపించుచున్నప్పుడే - ఉద్రేకమును రేపక",
+        "స్థిరమైన ఉజ్జీవము - లోలోన రగిలించనీ  ||నీ||"
+      ],
+      "english": [
+        "E chota galameththinaa - Nee prema dhwaniyinchanee",
+        "Paadeti prathi paatalo - Nee roopu kanipinchanee = 2",
+        "Vinipinchuchunnappude - Udrekamunu repaka",
+        "Sthiramaina ujjeevamu - Lolona ragilinchanee  ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ దివ్య గానామృతం - జలధారలుగా పొంగనీ",
+        "తాకేటి ప్రతి వారినీ - ఫలవంతముగా మార్చనీ = 2",
+        "శృతిలయలు లోపించక - విసిగింపు కలిగించక",
+        "నిజమైన ఉల్లాసమై - నిలువెల్లా కదిలించనీ  ||నీ||"
+      ],
+      "english": [
+        "Nee divya gaanaamrutham - Jaladhaaralugaa ponganee",
+        "Thaaketi prathi vaarinee - Phalavanthamugaa maarchanee = 2",
+        "Shruthilayalu lopinchaka - Visigimpu kaliginchaka",
+        "Nijamaina ullaasamai - Niluvellaa kadhilinchanee  ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆత్మీయ గీతాలతో - తనువంతా పులకించనీ",
+        "సంగీతమే భోధయై - కనువిప్పు కలిగించనీ = 2",
+        "కాలక్షేపం కోసమే - పరిమితము కాకుండగా",
+        "హృదయాల్లో నివసించుచూ - కార్యాలు జరిగించనీ  ||నీ||"
+      ],
+      "english": [
+        "Aathmeeya geethaalatho - Thanuvanthaa pulakinchanee",
+        "Sangeethame bodhayai - Kanuvippu kaliginchanee = 2",
+        "Kaalakshepam kosame - Parimithamu kaakundagaa",
+        "Hrudhayaallo nivasinchuchoo - Kaaryaalu jariginchanee  ||Nee||"
+      ]
+    }
+  ]
+}

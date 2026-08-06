@@ -1,0 +1,41 @@
+{
+  "song_name": "Adi Devudu Avatharinchenu",
+  "author": {
+    "Authored by": "Pastor Freddy Paul, Hosanna Ministries",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సర్వోన్నతమైన స్థలములలో దేవునికి మహిమయు",
+      "ఆయనకు ఇష్టులైన ప్రజలకు భూమిమీద",
+      "సమాధానము కలుగును గాక"
+    ],
+    "english": [
+      "Sarvonnathamaina sthalamulalo devuniki mahimayu",
+      "aayanaku ishtulaina prajalaku bhoomimeedha",
+      "samaadhaanamu kalugunu gaaka"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హల్లెలుయా హల్లెలుయా హల్లెలుయా"
+      ],
+      "english": [
+        "Hallelujah Hallelujah Hallelujah"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆది దేవుడవతరించెను ఈ అవనిలో ఆది దేవుడవతరించెను",
+        "అఖిల లోక రక్షకుడై రారాజు యేసు జన్మించెను"
+      ],
+      "english": [
+        "Aadi devudavatharinchenu ee avanilo aadi devudavatharinchenu",
+        "akhila loka rakshakudai raaraaju yesu janminchenu"
+      ]
+    }
+  ]
+}

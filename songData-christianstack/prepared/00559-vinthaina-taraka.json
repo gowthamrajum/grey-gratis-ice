@@ -1,0 +1,37 @@
+{
+  "song_name": "Vinthaina Taraka",
+  "author": {
+    "Authored by": "Pastor Mani Prakash Deverapalli",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "వింతైన తారక వెలసింది గగనాన",
+      "యేసయ్య జన్మ స్థలము చూపించు కార్యాన",
+      "జ్ఞానులకే తప్పలేదు ఆ తార అనుసరణ",
+      "దైవమే పంపెనని గ్రహియించు హృదయాన",
+      "మనమంతా జగమంతా తారవలె క్రీస్తుని చాటుదాం"
+    ],
+    "english": [
+      "Vinthaina thaaraka velisindi gaganaana",
+      "yesayya janma sthalamu choopinchu kaaryaana",
+      "gnanulake thappaledhu aa thaara anusarana",
+      "daivame pampenani grahiyinchu hrudhaayana",
+      "manamantha..jagamanthaa..",
+      "thaara vale kreesthuni chaatudhaam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "Happy Christmas – Merry Christmas –",
+        "We wish you Happy Christmas"
+      ],
+      "english": [
+        "happy christmas merry christmas",
+        "we wish you happy christmas"
+      ]
+    }
+  ]
+}

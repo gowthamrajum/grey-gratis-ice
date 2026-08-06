@@ -1,0 +1,60 @@
+{
+  "song_name": "Yae Sosange Goppa Yaagnanu",
+  "author": {
+    "Authored by": "",
+    "రచన": "పులిపాక జగన్నాధము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యే సొసంగె గొప్ప యాజ్ఞను తన శిష్యులకును",
+      "యేసొసంగె గొప్ప యాజ్ఞను దాసులునుగఁ జేయ బోయి",
+      "ధరణిమీఁది రాష్ట్రములకు ఆ సను బాప్తిస్మ మిచ్చి నా సుబోధ నేర్పుఁడనుచు"
+    ],
+    "english": [
+      "Yae Sosange Goppa Yaagnanu Thana Shishyulakunu",
+      "Yaesosange Goppa Yaagnanu Dhaasulunuga Jaeya Boayi",
+      "Dharanimeedhi Raashtramulaku Aa Sanu Baapthisma Michchi Naa Suboadha Naerpudanuchu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జనక కుమారాత్మల పేర బాప్తిస్మ మియ్యఁ",
+        "చనుడు మీరు సకల దిశలను తనయు లైనఁ తల్లులైనఁ తండ్రులైనఁ",
+        "బొందవచ్చుఁ దగిన రీతి దాని నిపుడు తండ్రియైన దైవ కృపను"
+      ],
+      "english": [
+        "Janaka Kumaaraathmala Paera Baapthisma Miyya",
+        "Chanudu Meeru Sakala Dhishalanu Thanayu Laina Thallulaina Thandrulaina",
+        "Bondhavachchu Dhagina Reethi Dhaani Nipudu Thandriyaina Dhaiva Krupanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బాలు రెల్ల బొందవచ్చును బాప్తిస్మ మిపుడు",
+        "జాలిఁ జూపు క్రీస్తు సెలవున బాలు రందుఁ బ్రేమ నుంచి",
+        "ప్రభువు పిలుచు వారి నెల్లఁ జాల మేలు సేయ గోరి సకల కాలముల యందు"
+      ],
+      "english": [
+        "Baalu Rella Bondhavachchunu Baapthisma Mipudu",
+        "Jaali Joopu Kreesthu Selavuna Baalu Randhu Braema Nunchi",
+        "Prabhuvu Piluchu Vaari Nella Jaala Maelu Saeya Goari Sakala Kaalamula Yandhu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పొందవలయు బాప్తిస్మము శుద్ధాత్మ చేత విందుఁ గలుగు మనుజు లందరు",
+        "మంద బుద్ధి విడిచి పెట్టి మహిమ గల్గు దేవు గొల్వ",
+        "నందము గను లేచి రండి హర్ష పూర్ణు లగుచు మీరు"
+      ],
+      "english": [
+        "Pondhavalayu Baapthismamu Shuddhaathma Chaetha Vindhu Galugu Manuju Landharu",
+        "Mandha Buddhi Vidichi Petti Mahima Galgu Dhaevu Golva",
+        "Nandhamu Ganu Laechi Randi Harsha Poornu Laguchu Meeru"
+      ]
+    }
+  ]
+}

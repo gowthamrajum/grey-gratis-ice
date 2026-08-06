@@ -1,0 +1,49 @@
+{
+  "song_name": "సిల్వ చెంత నేసువా చేర్చి నన్న",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఫ్రాన్సెస్ జేన్వేన్ ఆల్స్టీన్"
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సిల్వ చెంత నేసువా చేర్చి నన్ను నుంచు కల్వరిన్ స్రవించెడు కల్వలో నన్నుంచు. ||సిల్వకే సిల్వకే చెల్లునా విముక్తి చెల్వ మొప్ప నద్దరిన్ జేర నాకు ముక్తి ||"
+      ],
+      "english": [
+        "silva cheMtha naesuvaa chaerchi nannu nuMchu kalvarin sraviMchedu kalvaloa nannuMchu. ||silvakae silvakae chellunaa vimukthi chelva moppa nadhdharin jaera naaku mukthi ||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కంపితాత్ము నంధునై కానలేక యుండ సొంపు మీరఁ బ్రోచితి సూర్యతేజ స్కుండ"
+      ],
+      "english": [
+        "kMpithaathmu nMDhunai kaanalaeka yuMda soMpu meerAO broachithi sooryathaeja skuMda"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దేవ గొఱ్ఱె పిల్ల ఈన దీప్తి నాకుఁ జూపు నీ వధా ప్రభావముల్ పావనుండ నేర్పు."
+      ],
+      "english": [
+        "dhaeva goRRe pilla eena dheepthi naakuAO joopu nee vaDhaa prabhaavamul paavanuMda naerpu."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నే నిరీక్షణంబుతో నెప్డు వేచి యుందున్ భూ నితాంత వారధిన్ బూని యీది మందున్"
+      ],
+      "english": [
+        "nae nireekShNMbuthoa nepdu vaechi yuMdhun bhoo nithaaMtha vaaraDhin booni yeedhi mMdhun"
+      ]
+    }
+  ]
+}

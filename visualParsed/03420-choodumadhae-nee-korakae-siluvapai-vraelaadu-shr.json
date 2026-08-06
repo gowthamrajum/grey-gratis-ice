@@ -1,0 +1,72 @@
+{
+  "song_name": "Choodumadhe nee korake siluvapai vrelaadu Shreeyesu rakshakun",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "చూడుమదే నీ కొరకే",
+      "సిలువపై వ్రేలాడు శ్రీయేసు రక్షకున్"
+    ],
+    "english": [
+      "Choodumadhe nee korake",
+      "Siluvapai vrelaadu Shreeyesu rakshakun"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నలుగ గొట్టబడి నీకై - పలుకకుండె మారుగా",
+        "శిరస్సున రక్తధారలు విరిచె రెక్కలను గ్రుచ్చ",
+        "నీ పాపమే, పాదములను - చీల్చెను, బల్లెమై ప్రక్కన్ బొడిచె"
+      ],
+      "english": [
+        "Naluga gottabadi neekai - Palukakunde maarugaa",
+        "Shirassuna rakthadhaaralu viriche rekkalanu gruchcha",
+        "Nee paapame, paadamulanu - Cheelchenu, ballemai prakkan bodiche"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రక్తసిక్తమై మోము - ఎఱ్ఱనయ్యె కొయ్యపై",
+        "చూడు వీపున దున్నెను - దీనునిగా జేసె నీ పాపమే",
+        "ప్రభు రక్తము ఏరులై - పారెను, నీ కొరకే సిలువపై"
+      ],
+      "english": [
+        "Rakthasikthamai momu - Erranayye koyyapai",
+        "Choodu veepuna dunnenu - Dheenunigaa jese nee paapame",
+        "Prabhu rakthamu erulai - Paarenu, nee korake siluvapai"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "గాయమైన చేతులన్ - దినమెల్ల చాపెనో పాపీ",
+        "చూచుచుండె ప్రేమతో - నీకై కన్నెటిని కార్చుచు",
+        "తన కృపతో, సంధించును - పాపి నిను, చేరుచెంతన్ నీక్షణమే"
+      ],
+      "english": [
+        "Gaayamaina chethulan - Dinamella chaapeno paapee",
+        "Choochuchunde prematho - Neekai kanneetini kaarchuchu",
+        "Thana krupatho, sandhinchunu - Paapi ninu, cheruchenthan nee kshaname"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఎంతకాల మేడ్పించి - వెలుపలనుంతు వతనిని",
+        "తెరువు హృదయ ద్వారమున్ - పొందు మారుమనస్సును",
+        "ఈ దినమే, నీ పాపముల్ క్షమియించును - నీకిచ్చు సురక్షణను"
+      ],
+      "english": [
+        "Enthakaala medpinchi - Velupalanunthu vathanini",
+        "Theruvu hrudaya dwaaramun - Pondu maarumanassunu",
+        "Ee diname, nee paapamul kshamiyinchunu - Neekichchu surakshananu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "song_name": "Athi Parishudduda",
+  "author": {
+    "Authored by": "Hosanna Ministries featuring Pastor John Wesley, Pastor Abraham & Pastor Ramesh",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "అతి పరిశుద్ధుడా స్తుతి నైవేద్యము నీకే అర్పించి కీర్తింతును",
+      "నీవు నా పక్షమై నను దీవించగా నీవు నా తోడువై నను నడిపించగా",
+      "జీవింతును నీకోసమే ఆశ్రయమైన నా యేసయ్యా"
+    ],
+    "english": [
+      "Athi Parishuddhudaa stuthi naivaidyamu neeke arpinchi keerthinthunu",
+      "neevu naa pakshamai nanu dheevinchagaa neevu naa thoduvai nanu nadipinchagaa",
+      "jeevinthunu neekosame aasrayamaina naa yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సర్వోన్నతమైన స్థలములయందు నీ మహిమ వివరింపగా",
+        "ఉన్నతమైన నీ సంకల్పము ఎన్నడు ఆశ్చర్యమే",
+        "ముందెన్నడూ చవిచూడని సరిక్రొత్తదైన ప్రేమామృతం",
+        "నీలోనే దాచావు ఈనాటికై నీ ఋణం తీరదు ఏనాటికి",
+        "సద్గుణరాశి నీ జాడలను నా యెదుట నుంచుకొని",
+        "గడిచిన కాలం సాగిన పయనం నీ కృపకు సంకేతమే",
+        "కృప వెంబడి కృప పొందగా మారాను మధురముగా నే పొందగా",
+        "నాలోన ఏ మంచి చూసావయ్యా నీ ప్రేమ చూపితివి నా యేసయ్యా",
+        "సారెపైనున్న పాత్రగ నన్ను చేజారిపోనివ్వక",
+        "శోధనలెన్నో ఎదిరించినను నను సోలిపోనివ్వక",
+        "ఉన్నావులే ప్రతిక్షణమునా కలిసి ఉన్నావులే ప్రతిఅడుగున",
+        "నీవేగా యేసయ్యా నా ఊపిరి నీవేగా యేసయ్యా నా కాపరి"
+      ],
+      "english": [
+        "Sarvonnathamaina sthalamulayandhu nee mahima vivarimpagaa",
+        "unnathamaina nee sankalpamu ennadu aascharyame",
+        "mundhennadu chavichoodani sarikrotthadaina premaamrutham",
+        "neelone dhaachaavu eenaatikai nee runam theeradhu ey naatiki",
+        "Sadhgunaraasi nee jaadalanu naa edhuta nunchukoni",
+        "gadichina kaalam saagina payanam nee krupaku sankethame",
+        "krupa vembadi krupa pondhagaa maaraanu madhuramugaa ne pondhagaa",
+        "naalona ey manchi choosaavayya nee prema choopithivi na yesayya",
+        "Saarepai nunna paathraga nannu chejaariponivvaka",
+        "shodhanalenno edhirinchinanu nanu soliponivvaka",
+        "unnaavule prathi kshanamuna kalisi unnaavule prathi aduguna",
+        "neevegaa yesayya naa oopiri neevegaa yesayya naa kaapari"
+      ]
+    }
+  ]
+}

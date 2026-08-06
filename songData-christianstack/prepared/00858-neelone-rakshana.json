@@ -1,0 +1,44 @@
+{
+  "song_name": "Neelone Rakshana",
+  "author": {
+    "Authored by": "Kripal Mohan",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీలోనే రక్షణ నీలోనే నీరీక్షణ",
+      "నీ వెలుగులో నే నడచెద",
+      "నీ మార్గములో నే నిలిచెద",
+      "క్షణకాలం ఈ లోకం",
+      "చిరకాలం పరలోకం",
+      "కలువరియే నా మార్గం",
+      "పయనించెద నే ప్రభు కోసం"
+    ],
+    "english": [
+      "Neelone rakshana neelone neerikshana",
+      "nee velugulo ne nadachedha",
+      "nee maargamulo ne nilichedha",
+      "kshanakaalam ee lokam",
+      "chirakaalam paralokam",
+      "kaluvariye naa maargam",
+      "payanincheda ne prabhu kosam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హల్లేలూయా నే పాడెదా",
+        "ఆనందముతో ఆడెదా",
+        "ప్రతిదినము స్తుతియించెదా",
+        "ప్రభుయేసుని నే ఘనపరచెదా"
+      ],
+      "english": [
+        "Hallelujah ne paadedhaa",
+        "aanandamutho aadedhaa",
+        "prathidinamu sthuthiyinchedaa",
+        "prabhuyesuni ne ghanaparachedaa"
+      ]
+    }
+  ]
+}

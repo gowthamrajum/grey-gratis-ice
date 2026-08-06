@@ -1,0 +1,72 @@
+{
+  "song_name": "Daivakumarudu Lokanki Vachadu",
+  "author": {
+    "Authored by": "James Narukurthi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దైవకుమారుడు లోకానికి వచ్చాడు",
+      "అతిసుందరుడు మనకొరకై పుట్టాడు",
+      "నీకోసం నాకోసమే పరమును విడిచి భువికొచ్చినాడు",
+      "పరమును విడిచి భువికొచ్చినాడు",
+      "ఆనందమే ఆనందమే ఆ నింగిలోన",
+      "సంతోషమే సంతోషమే ఈ భువిలోన"
+    ],
+    "english": [
+      "Dhaiva Kumaarudu lokaaniki vachchaadu",
+      "Athi sundarudu manakorakai puttaadu",
+      "Neekosam naakosamea paramunu vidichi bhuvikochchinaadu",
+      "Paramunu vidichi bhuvikochchinaadu",
+      "Aanandame aanandame aa ningilona",
+      "Santhoshamayee santhoshamee ee bhuvilona"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపాత్ములమైన మన అందరి కొరకు",
+        "పరలోక రక్షణను తీసుకొచ్చినాడు",
+        "అంధకారం తొలగించుతాడు",
+        "భయమే లేదు మనకెన్నటికి"
+      ],
+      "english": [
+        "Paapaathmulamaina mana andhari koraku",
+        "Paraloka rakshananu theesukochchinaadu",
+        "Andhakaaram tholaginchuthaadu",
+        "Bhayamea ledhu manakennatiki"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నశించిపోతున్న ఆత్మాలన్నిటిని",
+        "వెదకి వచ్చి రక్షించుతాడు",
+        "నిన్ను నన్ను క్షమియించువాడు",
+        "హృదయ వాంఛలను తీర్చే మహనీయుడు"
+      ],
+      "english": [
+        "Nashinchipothunna aathmaalannitini",
+        "Vedhaki vachi rakshinchuthaadu",
+        "Ninnu nannu kshamiyinchuvaadu",
+        "Hrudhaya vaanchhalanu theerchea mahaneeyudu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అనుదినము మాట్లాడుతాడు",
+        "నిరంతరం మనకు తోడై ఉంటాడు",
+        "పరమునకు వారధిగా మారి",
+        "తండ్రి చెంతకు నడిపించుతాడు"
+      ],
+      "english": [
+        "Anudhinamu maatladuthaadu",
+        "Nirantharam manaku thodaai untadu",
+        "Paramunaku vaaradhigaa maari",
+        "Thandri chenthaku nadipinchuthaadu"
+      ]
+    }
+  ]
+}

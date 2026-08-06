@@ -1,0 +1,75 @@
+{
+  "song_name": "Noothana geethamu paadedanu naa priya Yesuni",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నూతన గీతము పాడెదను - నా ప్రియ యేసుని -",
+      "హల్లెలూయా ||3|| ఆమేన్‌"
+    ],
+    "english": [
+      "Noothana geethamu paadedanu - Naa priya Yesuni -",
+      "Hallelooyaa ||3|| aamen"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆత్మతోనే పాడెదను ఆర్భటించి పాడెదను -",
+        "అభినయించి పాడెదను",
+        "అనుభవించి పాడెదను -",
+        "అనుదినము పాడెదను -",
+        "అందరిలోనె పాడెదను||నూతనగీతము||"
+      ],
+      "english": [
+        "Aathmathone paadedanu aarbhatinchi paadedanu -",
+        "Abhinayinchi paadedanu",
+        "Anubhavinchi paadedanu -",
+        "Anudinamu paadedanu -",
+        "Andharilone paadedanu||Noothanageethamu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసు నా మంచి కాపరి -",
+        "యేసే నా గొప్ప కాపరి -",
+        "యేసే నా ప్రధాన కాపరి",
+        "యేసే నా ఆత్మ, కాపరి,",
+        "యేసే నాకున్న కాపరి",
+        "యేసే నాలో ఉన్న కాపరి||నూతనగీతము||"
+      ],
+      "english": [
+        "Yesu naa manchi kaapari -",
+        "Yese naa goppa kaapari -",
+        "Yese naa pradhaana kaapari",
+        "Yese naa aathma, kaapari,",
+        "Yese naakunna kaapari",
+        "Yese naalo unna kaapari||Noothanageethamu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "శత్రుసేనలు ఎదురైన -",
+        "దుష్టులంత ఒక్కటైన -",
+        "అజేయుడేసుని చేరెదము",
+        "విజయగీతము పాడెదము -",
+        "ద్వజమునెత్తి పాడెదము -",
+        "భజన చేయుచు పాడెదము||నూతనగీతము||"
+      ],
+      "english": [
+        "Shathrusenalu eduraina -",
+        "Dushtulantha okkataina -",
+        "Ajeyudesuni cheredhamu",
+        "Vijayageethamu paadedamu -",
+        "Dhvajamunetthi paadedamu -",
+        "Bhajana cheyuchu paadedamu||Noothanageethamu||"
+      ]
+    }
+  ]
+}

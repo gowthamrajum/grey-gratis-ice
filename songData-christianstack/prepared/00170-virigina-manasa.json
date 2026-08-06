@@ -1,0 +1,88 @@
+{
+  "song_name": "Virigina Manasa",
+  "author": {
+    "Authored by": "Paul Moses",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "విరిగిన మనసా నీకు గాయమాయాన",
+      "కోరినవన్నీ నీకు దూరమాయాన"
+    ],
+    "english": [
+      "Virigina manasa Neku gaayamayenaa",
+      "Koorina vanni Neku dhuramayena"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "స్థితిని మార్చేది యేసే",
+        "కలతలు తీర్చేది క్రీస్తే"
+      ],
+      "english": [
+        "Sthithini marchedhi yese",
+        "Kalathalu tirchedhi kristhe"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా అన్నవారే నిన్ను వెలివేసిన",
+        "నీకున్నవారే నిను విడిచి వెళ్ళిన",
+        "అంధకారములో ఆగిపోయిన",
+        "అనాథగా నీవు మిగిలిపోయిన"
+      ],
+      "english": [
+        "Naa anna vaare ninu velivesina",
+        "Nekunna varey ninu vidichi vellina",
+        "Adhakaram lo Agipooyenaa",
+        "Anadhaga neevu Migilipoyina"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "స్థితిని మార్చేది యేసే",
+        "కలతలు తీర్చేది క్రీస్తే"
+      ],
+      "english": [
+        "Sthithini marchedhi yese",
+        "Kalathalu tirchedhi kristhe"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పలుమార్లు నీవు మోసపోతివే",
+        "పగిలిన పాత్రగా మిగిలిపోతివే"
+      ],
+      "english": [
+        "Palumarulu neevu mosapothive",
+        "Pagilina pathraga Migilipothive",
+        "Chaavu Neku sarikaadhule",
+        "Kastam kadadhaka Nilichipodhule"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "చావు నీకు సరికాదులే",
+        "కష్టము కడదాక నిలిచిపొదులే"
+      ],
+      "english": [
+        "Sthithini marchedhi yese",
+        "Kalathalu tirchedhi kristhe"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "స్థితిని మార్చేది యేసే",
+        "కలతలు తీర్చేది క్రీస్తే"
+      ],
+      "english": []
+    }
+  ]
+}

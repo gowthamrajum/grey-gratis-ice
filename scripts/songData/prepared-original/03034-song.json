@@ -1,0 +1,40 @@
+{
+  "song_name": "పాపల్ హోసన్నా పాటల్ పాడిన రీత",
+  "author": {
+    "Authored by": "",
+    "రచన": "తియోడల్ప్ అర్లియన్స్"
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపల్ హోసన్నా పాటల్ పాడిన రీతిగన్ నృపాలస్తుతి కీర్తుల్ నీకుఁ జెల్లింతుము దావీదు పుత్రకుండా యిశ్రాయేల్ పాలకా దేవుని పేర వచ్చు ధీరుండా ధన్యాత్మ."
+      ],
+      "english": [
+        "paapal hoasannaa paatal paadina reethigan nrupaalasthuthi keerthul neekuAO jelliMthumu dhaaveedhu puthrakuMdaa yishraayael paalakaa dhaevuni paera vachchu DheeruMdaa Dhanyaathma."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దూత లాకాశమందు దొడ్డగఁ గొల్తురు భూతలమందు సృష్టి పూజించును నిన్ను హెబ్రీయుల్ ఖర్జూరంపు శాఖల్ చేఁబూనుచు హెచ్చించి మొక్కినట్లు నిను స్తోత్రింతుము."
+      ],
+      "english": [
+        "dhootha laakaashamMdhu dhoddagAO golthuru bhoothalamMdhu sruShti poojiMchunu ninnu hebreeyul kharjoorMpu shaakhal chaeAOboonuchu hechchiMchi mokkinatlu ninu sthoathriMthumu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ శ్రమలకు ముందు, నిన్ గౌరవించిరి నీ జయమొందువెన్న మా కీర్తన స్తుతి అవ్వారి స్తుతుల్ నీవు అంగీకరించితి మా కీర్తంబుగూడ మన్నన జేయుమీ."
+      ],
+      "english": [
+        "nee shramalaku muMdhu, nin gauraviMchiri nee jayamoMdhuvenna maa keerthana sthuthi avvaari sthuthul neevu aMgeekariMchithi maa keerthMbugooda mannana jaeyumee."
+      ]
+    }
+  ]
+}

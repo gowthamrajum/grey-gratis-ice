@@ -1,0 +1,74 @@
+{
+  "song_name": "Bhayamaela Kraisthavundaa Neevika",
+  "author": {
+    "Authored by": "",
+    "రచన": "జి జాన్ తాతయ్య"
+  },
+  "main_stanza": {
+    "telugu": [
+      "భయమేల క్రైస్తవుండా నీవిక నపజయమున బ్రతుకనేల",
+      "జయ శూరుడగు ప్రభువు యిలనీకు జయము నిచ్చుచు నుండగ"
+    ],
+    "english": [
+      "Bhayamaela Kraisthavundaa Neevika Napajayamuna Brathukanaela",
+      "Jaya Shoorudagu Prabhuvu Yilaneeku Jayamu Nichchuchu Nundaga"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "భూతపీడితుల నెల్ల విడిపించుదాత మన రక్షకుండు",
+        "సాతాను వల నుండియు విడిపించిప నీతితో మనుపలేడా"
+      ],
+      "english": [
+        "Bhoothapeedhithula Nella Vidipinchudhaatha Mana Rakshakundu",
+        "Saathaanu Vala Nundiyu Vidipinchipa Neethithoa Manupalaedaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మరణ పాశములనుండి లాజరును కరుణతో లేపలేదా",
+        "ధరణిమిమ్ముల నూతన బలముతో గుఱికి నడిపించలేడా"
+      ],
+      "english": [
+        "Marana Paashamulanundi Laajarunu Karunathoa Laepalaedhaa",
+        "Dharanimimmula Noothana Balamuthoa Guriki Nadipinchalaedaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ద్రాక్షరసముగ నీళ్లను మార్చిన మహిమగల రక్షకుండు",
+        "అక్షయ సంతసంబు నిలమీకు దీక్షతో నివ్వలేడా"
+      ],
+      "english": [
+        "Dhraaksharasamuga Neellanu Maarchina Mahimagala Rakshakundu",
+        "Akshaya Santhasambu Nilameeku Dheekshathoa Nivvalaedaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఐదు చిన్న రొట్టెలు మరి రెండు చిన్న చేపలతోడును",
+        "ఐదువేల మందిని బలపర్చినట్టి రక్షకుడుండగ"
+      ],
+      "english": [
+        "Aidhu Chinna Rottelu Mari Rendu Chinna Chaepalathoadunu",
+        "Aidhuvaela Mandhini Balaparchinatti Rakshakudundaga"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "విజయకరముగ బ్రతుకు ప్రభువుండు నిజవాగ్దత్తము లివ్వ",
+        "నీ వృజినము గెలువంగను ముదముతో నిజముగ నెరవేర్చడా"
+      ],
+      "english": [
+        "Vijayakaramuga Brathuku Prabhuvundu Nijavaagdhaththamu Livva",
+        "Nee Vrujinamu Geluvanganu Mudhamuthoa Nijamuga Neravaerchadaa"
+      ]
+    }
+  ]
+}

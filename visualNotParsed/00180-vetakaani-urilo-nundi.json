@@ -1,0 +1,65 @@
+{
+  "song_name": "Vetakaani urilo nundi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "వేటకాని ఉరిలో నుండి",
+      "నా ప్రాణాన్ని రక్షించావు",
+      "బలమైన రెక్కల క్రింద",
+      "నాకు ఆశ్రయమిచ్చావు",
+      "లేనే లేదయ్యా వేరే ఆధారం",
+      "నా శృంగామా నా కేడెమా ||2||"
+    ],
+    "english": [
+      "Vetakaani urilo nundi",
+      "Naa praanaanni rakshinchaavu",
+      "Balamaina rekkala krinda",
+      "Naaku aashrayamichchaavu",
+      "Lene ledayyaa vere aadhaaram",
+      "Naa shrungaamaa naa kedemaa ||2||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆరాధన ఆరాధన",
+        "నా తండ్రి నీకే ఆరాధన",
+        "ఆరాధన ఆరాధన",
+        "నా యేసు నీకే ఆరాధన ||2||"
+      ],
+      "english": [
+        "Aaraadhana aaraadhana",
+        "Naa thandri neeke aaraadhana",
+        "Aaraadhana aaraadhana",
+        "Naa Yesu neeke aaraadhana ||2||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రాత్రి వేళ భయముకైననూ",
+        "పగటి వేళ బానమైననూ ||2||"
+      ],
+      "english": [
+        "Raathri vela bhayamukainanoo",
+        "Pagati vela baanamainanoo ||2||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రోగము నన్నేమి చేయదు",
+        "నా గుడారాన్ని సమీపించదు ||2|| ||లేనే లేదయ్యా||"
+      ],
+      "english": [
+        "Rogamu nannemi cheyadu",
+        "Naa gudaaraanni sameepinchadhu ||2|| ||Lene ledayyaa||"
+      ]
+    }
+  ]
+}

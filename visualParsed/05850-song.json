@@ -1,0 +1,49 @@
+{
+  "song_name": "Dhinthakku dhinthakku dhinthakku thayyaare",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ధింతక్కు ధింతక్కు ధింతక్కు తయ్యారె /2/",
+      "ఏటిలోన గులకరాళ్ళు ఐదు ఏరెను"
+    ],
+    "english": [
+      "Dhinthakku dhinthakku dhinthakku thayyaare /2/",
+      "Etilona gulakaraallu aidu erenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వడిసెలోన ఒకటిపెట్టి త్వరగ తిప్పెను"
+      ],
+      "english": [
+        "Vadiselona okatipetti thvaraga thippenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "స్పీడు పెంచెను సూపర్ స్పీడు పెంచెను"
+      ],
+      "english": [
+        "Speedu penchenu soopar speedu penchenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యెహొవాదె యుద్ధమని రాయి విసిరెను",
+        "శత్రువైన గొల్యాతు కుప్ప కూలెను /ధింతక్కు/"
+      ],
+      "english": [
+        "Yehovaade yuddhamani raayi visirenu",
+        "Shathruvaina Golyaathu kuppa koolenu /Dhinthakku/"
+      ]
+    }
+  ]
+}

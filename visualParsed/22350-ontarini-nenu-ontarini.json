@@ -1,0 +1,89 @@
+{
+  "song_name": "Ontarini nenu ontarini",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "John Libni Bathuka"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "వారిలో ఒంటరియైన వాడు వెయ్యిమందియగును, ఎన్నిక లేనివాడు",
+      "బలమైన జనమగును..! - యెషయా 60 : 22",
+      "ఒంటరిని నేను ఒంటరిని",
+      "ఓడిపోయి నేను ఒంటరినై",
+      "ఓదార్పులేక ఓరిమిలేక",
+      "మరణమే ఇక శరణం అనుచు",
+      "అంతమవ్వాలని ఆశపడితి || ఒంటరిని ||"
+    ],
+    "english": [
+      "Vaarilo ontariyaina vaadu veyyimandhiyagunu, ennika lenivaadu",
+      "Balamaina janamagunu..! - Eshayaa 60 : 22",
+      "Ontarini nenu ontarini",
+      "Odipoyi nenu ontarinai",
+      "Odhaarpuleka orimileka",
+      "Maraname ika sharanam anuchu",
+      "Anthamavvaalani aashapadithi || Ontarini ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దావీదు వలె నేను శ్రమలనొందుచు",
+        "నిందకు వేదనకు వేడుకనైతిని",
+        "ఒంటరినై నేను నిను వెదకుచుండగా",
+        "నీ వాక్యముచే నను ఆదరించి",
+        "ఇదిగో నేను ఉన్నాను అని నీవు",
+        "అభయము ఇచ్చితివి యేసు దేవా! || ఒంటరిని ||"
+      ],
+      "english": [
+        "Daaveedu vale nenu shramalanondhuchu",
+        "Nindhaku vedhanaku vedukanaithini",
+        "Ontarinai nenu ninu vedhakuchundagaa",
+        "Nee vaakyamuche nanu aadarinchi",
+        "Idigo nenu unnaanu ani neevu",
+        "Abhayamu ichchithivi Yesu Deva! || Ontarini ||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తప్పిపోయిన తనయుని వలె నేను",
+        "తండ్రికి దూరమై ఒంటరినైతిని",
+        "తప్పు తెలిసి క్షమీయించుమని",
+        "నీ చెంతకు నే చేరితి తండ్రి",
+        "నీవు నన్ను కౌగిలించి",
+        "క్షమియించిన ఓ కరుణామయుడా! || ఒంటరిని ||"
+      ],
+      "english": [
+        "Thappipoyina thanayuni vale nenu",
+        "Thandriki dooramai ontarinaithini",
+        "Thappu thelisi kshamiyinchumani",
+        "Nee chenthaku ne cherithi thandri",
+        "Neevu nannu kaugilinchi",
+        "Kshamiyinchina o karunaamayudaa! || Ontarini ||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యాకోబు వలె నేను భయముతో వణకుచు",
+        "ఒంటరినై నీతో పోరాడుచుండగా",
+        "పేరు పెట్టి పిలిచినా దేవా",
+        "నీదు మోమును చూపించితివి",
+        "భయపడక నీవు సాగిపొమ్మని",
+        "దీవించితివి ఓ యేసు దేవా! || ఒంటరిని ||"
+      ],
+      "english": [
+        "Yaakobu vale nenu bhayamutho vanakuchu",
+        "Ontarinai neetho poraaduchundagaa",
+        "Peru petti pilichinaa Deva",
+        "Needu momunu choopinchithivi",
+        "Bhayapadaka neevu saagipommani",
+        "Dheevinchithivi o Yesu Deva! || Ontarini ||"
+      ]
+    }
+  ]
+}

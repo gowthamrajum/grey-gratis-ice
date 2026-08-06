@@ -1,0 +1,61 @@
+{
+  "song_name": "Jayasheeludaa maa Yesayya jeevinchu vaadaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "జయశీలుడా మా యేసయ్యా జీవించు వాడా మెస్సయ్యా",
+      "జయమిచ్చు వాడా స్తోత్రముల్‌ నా ప్రాణప్రియుడా వందనం",
+      "ఆ. . ఆ. . ఆ. . ఆ. . హల్లెలుయా (2) ఆ. . హల్లెలూయా"
+    ],
+    "english": [
+      "Jayasheeludaa maa Yesayyaa jeevinchu vaadaa Messayyaa",
+      "Jayamichchu vaadaa sthothramul naa praanapriyudaa vandanam",
+      "Aa. . aa. . aa. . aa. . halleluya (2) aa. . hallelooya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "బలమిచ్చు వాడా బలవంతుడాశక్తి నిచ్చు వాడా శక్తి మంతుడా",
+        "తృప్తినిచ్చు వాడా తనయులకు ముక్తి నిచ్చు వాడా మృత్యుంజయుడా",
+        "మాకై మరల రానుంటివా యేసు (2)"
+      ],
+      "english": [
+        "Balamichchu vaadaa balavanthudaa shakthi nichchu vaadaa shakthi manthudaa",
+        "Thrupthinichchu vaadaa thanayulaku mukthi nichchu vaadaa mruthyunjayudaa",
+        "Maakai marala raanuntivaa Yesu (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆదియు అంతము నీవేగా ఆరాద్యుండవు నీవేగా",
+        "అత్యున్నతుడా అతి ప్రియుడా ఆత్మస్వరూపి ఆశ్రయుడా",
+        "అనిశం నిన్నే కీర్తింతును యేసు (2)"
+      ],
+      "english": [
+        "Aadiyu anthamu neevegaa aaraadhyundavu neevegaa",
+        "Athyunnathudaa athi priyudaa aathmaswaroopi aashrayudaa",
+        "Anisham ninne keerthinthunu Yesu (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీవే దిక్కని నమ్మితిని నిన్నే గురిగా ఎంచితిని",
+        "నీవే మాకు తండ్రివి నీకు సమస్తము సాద్యమే",
+        "నీపై సర్వం మోపితిని యేసు (2)"
+      ],
+      "english": [
+        "Neeve dhikkani nammithini ninne gurigaa enchithini",
+        "Neeve maaku thandrivi neeku samasthamu saadhyame",
+        "Neepai sarvam mopithini Yesu (2)"
+      ]
+    }
+  ]
+}

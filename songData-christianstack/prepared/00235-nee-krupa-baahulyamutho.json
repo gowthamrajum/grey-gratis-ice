@@ -1,0 +1,34 @@
+{
+  "song_name": "Nee Krupa Baahulyamutho",
+  "author": {
+    "Authored by": "P J Stephen Paul",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ కృపా బాహుళ్యముతో",
+      "నీ సేవలో మమ్ము నడిపితివి",
+      "నీ కృప చూపించితివి",
+      "నీ ప్రేమతో దీవించితివి"
+    ],
+    "english": [
+      "Nee krupaa baahulyamutho",
+      "Nee sevalo mammu nadipithivi",
+      "Nee krupa choopinchithivi",
+      "Nee prematho dheevinchithivi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "స్త్రోత్తము నీకే స్తోత్రము",
+        "నా యేసయ్య"
+      ],
+      "english": [
+        "Sthothramu neeke sthothramu",
+        "Naa Yesayya"
+      ]
+    }
+  ]
+}

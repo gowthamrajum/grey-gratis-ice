@@ -1,0 +1,63 @@
+{
+  "song_name": "Shaashvathudaa Vismayamondhi Naenu",
+  "author": {
+    "Authored by": "",
+    "రచన": "కార్ల్ బోబెర్గ్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ రక్షకా! నీ స్తుతి పాడెదన్ నూరంతలన్ మహాదేవా",
+      "నా రక్షకా! నమస్కరింతునిన్ మారని యో మహాదేవా"
+    ],
+    "english": [
+      "Oa Rakshakaa! Nee Sthuthi Paadedhan Nooranthalan Mahaadhaevaa",
+      "Naa Rakshakaa! Namaskarinthunin Maarani Yoa Mahaadhaevaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శాశ్వతుడా! విస్మయమొంది నేను నీ స్వంతహస్త సృష్టిజూడగా",
+        "నీ స్వరం విందున్ ఉరుములయందు యేసు ప్రభూ నిన్నారాధింతును"
+      ],
+      "english": [
+        "Shaashvathudaa! Vismayamondhi Naenu Nee Svanthahastha Srushtijoodagaa",
+        "Nee Svaram Vindhun Urumulayandhu Yaesu Prabhoo Ninnaaraadhinthunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వృక్షంబులందున్, అడవులలోనే పక్షుల పాటలాలకింతును",
+        "తక్షణ మగ్రపర్వతంబు నుండి అక్షులతో నీ మహిమ గందున్."
+      ],
+      "english": [
+        "Vrukshambulandhun, Adavulaloanae Pakshula Paatalaalakinthunu",
+        "Thakshana Magraparvathambu Nundi Akshulathoa Nee Mahima Gandhun."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మహాదేవా! నీయేక పుత్రుండిలన్ నా హేయపాపముల్ భరించి,",
+        "నా సహాయుడై తా మరణించె నంచు ఓహో! యాశ్చర్యపడి స్మరింతున్."
+      ],
+      "english": [
+        "Mahaadhaevaa! Neeyaeka Puthrundilan Naa Haeyapaapamul Bharinchi,",
+        "Naa Sahaayudai Thaa Maraninche Nanchu Oahoa! Yaashcharyapadi Smarinthun."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "క్రీస్తు విజయార్భాటముతో వచ్చి నీ స్థలమందు నన్ను జేర్చగా",
+        "నే స్థిరతుష్టితో సాష్టాంగపడి నీ స్తుతి జేతునో మహాదేవా."
+      ],
+      "english": [
+        "Kreesthu Vijayaarbhaatamuthoa Vachchi Nee Sthalamandhu Nannu Jaerchagaa",
+        "Nae Sthirathushtithoa Saashtaangapadi Nee Sthuthi Jaethunoa Mahaadhaevaa."
+      ]
+    }
+  ]
+}

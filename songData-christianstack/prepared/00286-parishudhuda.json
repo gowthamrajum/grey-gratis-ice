@@ -1,0 +1,44 @@
+{
+  "song_name": "Parishudhuda",
+  "author": {
+    "Authored by": "Dr Jayapaul",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరిశుద్ధుడా పరిపూర్ణుడా",
+      "దవళవర్ణుడా రత్నవర్ణుడా",
+      "నిర్మించావయ్యా నియమించావయ్యా",
+      "నడిపించావయ్యా నిలబెట్టావయ్యా",
+      "నా దేవా నీ సాక్షిగా నీ సేవకై పిలిచావు"
+    ],
+    "english": [
+      "Parishudhuda paripoornuda",
+      "dhavala varnuda rathna varnuda",
+      "nirminchaavayya niyaminchaavayaa",
+      "nadipinchaavayyaa nilabettaavayyaa",
+      "naa deva nee saakshigaa nee sevakai pilichaavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరిశుద్ధుడా పరిపూర్ణుడా",
+        "దవళ వర్ణుడా రత్నవర్ణుడా",
+        "నిర్మించావయ్యా నియమించావయ్యా",
+        "నడిపించావయ్యా నిలబెట్టావయ్యా",
+        "నా దేవా నీ సాక్షిగా నీ సేవలో నే సాగెదను",
+        "నా దేవా నీ సాక్షిగా నీ సేవలో కొనసాగెదను"
+      ],
+      "english": [
+        "Parishudhuda paripoornuda",
+        "dhavala varnuda rathna varnuda",
+        "nirminchaavayya niyaminchaavayaa",
+        "nadipinchaavayyaa nilabettaavayyaa",
+        "naa deva nee saakshigaa nee sevalo ne saagedhanu",
+        "naa deva nee saakshigaa nee sevalo konasaagedhanu"
+      ]
+    }
+  ]
+}

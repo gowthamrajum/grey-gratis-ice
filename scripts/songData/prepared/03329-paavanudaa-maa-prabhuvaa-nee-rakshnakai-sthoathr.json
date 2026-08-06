@@ -1,0 +1,85 @@
+{
+  "song_name": "Paavanudaa Maa Prabhuvaa Nee Rakshnakai Sthoathramulu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పావనుడా మా ప్రభువా - నీ రక్షణకై స్తోత్రములు",
+      "నీ రక్షణకై స్తోత్రములు"
+    ],
+    "english": [
+      "Paavanudaa Maa Prabhuvaa - Nee RakShNakai Sthoathramulu",
+      "Nee RakShNakai Sthoathramulu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అత్యున్నతమైన దేవా - సింహాసనాసీనుడవు",
+        "ఎంతో గొప్పది నీ మహిమ - వర్ణింపజాలను నేను"
+      ],
+      "english": [
+        "Athyunnathamaina Dhaevaa - SiMhaasanaaseenudavu",
+        "EMthoa Goppadhi Nee Mahima - VarNiMpajaalanu Naenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపపు కుష్ఠుతో పడి చెడిన - ఈపాపిని కరుణించితివి",
+        "నా పాపపు డాగులు కడిగి - పరిశుద్ధుని చేసిన విభుడా"
+      ],
+      "english": [
+        "Paapapu KuShTuthoa Padi Chedina - Eepaapini KaruNiMchithivi",
+        "Naa Paapapu Daagulu Kadigi - ParishudhDhuni Chaesina Vibhudaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అపవిత్రమగు పెదవులతో - కపటముగా జీవించితిని",
+        "అపరాధి నోటిని తెరచి - స్తుతి గీతము నొసగిన ప్రభువా"
+      ],
+      "english": [
+        "Apavithramagu Pedhavulathoa - Kapatamugaa JeeviMchithini",
+        "AparaaDhi Noatini Therachi - Sthuthi Geethamu Nosagina Prabhuvaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీ క్రయధన మధికము ఎంతో - నా కర్త నిను ప్రణుతింతు",
+        "నా కందరి కంటె ఘనుడా - ఓ కల్వరి నాథా యేసు"
+      ],
+      "english": [
+        "Nee KrayaDhana MaDhikamu EMthoa - Naa Kartha Ninu PraNuthiMthu",
+        "Naa KMdhari KMte Ghanudaa - Oa Kalvari NaaThaa Yaesu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మహిమ పరతును ప్రభు యేసు - మహదానందముతో నిరతం",
+        "మహోన్నతుడా ప్రభు నిన్ను - మహిమలో ఆరాధించెదను"
+      ],
+      "english": [
+        "Mahima Parathunu Prabhu Yaesu - MahadhaanMdhamuthoa NirathM",
+        "Mahoannathudaa Prabhu Ninnu - Mahimaloa AaraaDhiMchedhanu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నా కనులతో నిను చూచెదను - ఆకసమున దూతల మధ్య",
+        "రక్షక త్వరగా రారమ్ము - అక్షయుడా నీకే స్తుతులు"
+      ],
+      "english": [
+        "Naa Kanulathoa Ninu Choochedhanu - Aakasamuna Dhoothala MaDhy",
+        "RakShka Thvaragaa Raarammu - AkShyudaa Neekae Sthuthulu"
+      ]
+    }
+  ]
+}

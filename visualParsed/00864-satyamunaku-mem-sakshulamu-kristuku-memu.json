@@ -1,0 +1,56 @@
+{
+  "song_name": "Sathyamunaku mem saakshulamu Kreesthuku memu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సత్యమునకు మేం సాక్షులము క్రీస్తుకు మేము సాక్షులము",
+      "రోషముగల దేవుని ప్రజలం సత్యము కలిగి జీవిస్తాం",
+      "రోషముగల దేవుని ప్రజలం సత్యము కొరకు మరణిస్తాం",
+      "హోసన్నా హోసన్నా హోసన్నా హోసన్నా",
+      "హోసన్నా. . హోసన్నా. . హోసన్నా. ."
+    ],
+    "english": [
+      "Sathyamunaku mem saakshulamu Kreesthuku memu saakshulamu",
+      "Roshamugala Devuni prajalam sathyamu kaligi jeevisthaam",
+      "Roshamugala Devuni prajalam sathyamu koraku maranisthaam",
+      "Hosannaa hosannaa hosannaa hosannaa",
+      "Hosannaa. . hosannaa. . hosannaa. ."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఉమ్ములూసినా మొఖము త్రిప్పము",
+        "ముళ్ళు గ్రుచ్చినా తలను వొంచము",
+        "కొరడ విసిరినా వెనుక తిరుగము",
+        "బల్లెము పొడిచినా భయపడము  ||సత్యమునకు||"
+      ],
+      "english": [
+        "Ummulu oosinaa mokhamu thrippamu",
+        "Mullu gruchchinaa thalanu vonchamu",
+        "Korada visirinaa venuka thirugamu",
+        "Ballemu podichinaa bhayapadamu  ||Sathyamunaku||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మాకు మేము తగ్గించుకొంటాం",
+        "మోకాళ్ళ కన్నీళ్ళ ప్రార్ధన చేస్తాం",
+        "సిలువ సంకెళ్ళ సమర్పణ చేస్తాం",
+        "దేవుని రాజ్యము రగిలిస్తాం  ||సత్యమునకు||"
+      ],
+      "english": [
+        "Maaku memu thagginchukontaam",
+        "Mokaalla kanneella praardhana chesthaam",
+        "Siluva sankella samarpana chesthaam",
+        "Devuni raajyamu ragilisthaam  ||Sathyamunaku||"
+      ]
+    }
+  ]
+}

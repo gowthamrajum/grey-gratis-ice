@@ -1,0 +1,50 @@
+{
+  "song_name": "Neeve naa aakarshana neeve naa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవే నా ఆకర్షణ నీవే నా నిరీక్షణ నీవే నా భాగం యేసయ్య",
+      "నీవే నా సంరక్షణ నీవే నా అదరణ నీవే సమస్తం యేసయ్యా",
+      "నీవే నీవే యేసు నీవే విడిపోని ప్రేమయు నీవే",
+      "నీవే నీవే యేసు నీవే మారిపోని స్నేహము నీవే"
+    ],
+    "english": [
+      "Neeve naa aakarshana neeve naa nireekshana neeve naa bhaagam Yesayya",
+      "Neeve naa samrakshana neeve naa adharana neeve samastham Yesayyaa",
+      "Neeve neeve Yesu neeve vidiponi premayu neeve",
+      "Neeve neeve Yesu neeve maariponi snehamu neeve"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శ్రమలలో నే పడినను బాధలలో మునిగినా",
+        "నిందలెన్నో కలిగిన ఊబిలోన చిక్కుకున్న",
+        "అదరణే కరువైన ఆశ్రయమే లేకున్న (2)"
+      ],
+      "english": [
+        "Shramalalo ne padinanu baadhalalo muniginaa",
+        "Nindhalenno kaligina oobilona chikkukunna",
+        "Adharane karuvaina aashrayame lekunna (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వ్యాధులు నను చుట్టిన మరణమే వెంటాడిన",
+        "వేదనులె పడినను అవమానమే ఎదురైనా",
+        "సాతాను శోధించిన అగాధమే ఎదురైన (2)"
+      ],
+      "english": [
+        "Vyaadhulu nanu chuttina maraname ventaadina",
+        "Vedhanule padinanu avamaaname edurainaa",
+        "Saathaanu shodhinchina agaadhame eduraina (2)"
+      ]
+    }
+  ]
+}

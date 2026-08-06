@@ -1,0 +1,82 @@
+{
+  "song_name": "Ye roopamu leni nannu pindamunai ne unna",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Uday Kanthi Shanmukha"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యే రూపము లేని నన్ను, పిండమునై నే ఉన్నా",
+      "నా అంతరంగమును చెక్కిన, శిల్పివి నీవే",
+      "బందీనై ఉన్నా, నాకు తోడు గా నీవు నిలచి",
+      "నీ మార్గము నాకు చూపించి, నన్ను నడిపించితివే"
+    ],
+    "english": [
+      "Ye roopamu leni nannu, pindamunai ne unnaa",
+      "Naa antharangamunu chekkina, shilpivi neeve",
+      "Bandheenai unnaa, naaku thodu gaa neevu nilachi",
+      "Nee maargamu naaku choopinchi, nannu nadipinchithive"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యెంత అద్భుతమో నీ కార్యములు",
+        "మనోహరమో నీ తలంపులు"
+      ],
+      "english": [
+        "Entha adbhuthamo nee kaaryamulu",
+        "Manoharamo nee thalampulu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చీకటి లో ఉన్న, నా జీవితానికి",
+        "విమోచన నీవైతివే….",
+        "నీ బాహువు చాపి, నను ఆదరించి,",
+        "నీ సొత్తు గా నను మార్చినావు…"
+      ],
+      "english": [
+        "Cheekati lo unna, naa jeevithaaniki",
+        "Vimochana neevaithive….",
+        "Nee baahuvu chaapi, nanu aadarinchi,",
+        "Nee sotthu gaa nanu maarchinaavu…"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ కనుద్రుష్టితో కరుణించి నావు",
+        "నీ గ్రంధములో లిఖించితివే….",
+        "నీదు ప్రేమను నా పై చూపించి",
+        "నీదు కృపతో కాచినావు……"
+      ],
+      "english": [
+        "Nee kanudhrushtitho karuninchi naavu",
+        "Nee grandhamulo likhinchithive….",
+        "Needu premanu naa pai choopinchi",
+        "Needu krupatho kaachinaavu……"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీ సేవకై నా హృదయమును",
+        "అర్పించుకొందునయ….",
+        "నీ సాక్షిగనై నే నీ కాడి మోసి,",
+        "నీ జీవ మార్గము ప్రకటించెద"
+      ],
+      "english": [
+        "Nee sevakai naa hrudayamunu",
+        "Arpinchukondhunaya….",
+        "Nee saakshiganai ne nee kaadi mosi,",
+        "Nee jeeva maargamu prakatincheda"
+      ]
+    }
+  ]
+}

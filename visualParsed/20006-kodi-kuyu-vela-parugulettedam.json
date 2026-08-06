@@ -1,0 +1,52 @@
+{
+  "song_name": "Kodi Kuyu Vela Parugulettedam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "కోడి కూయు వేళ పరుగులెత్తెదం",
+      "కోడి కూయు వేళ పరుగులెత్తెదం – బైబిల్ చేతపట్టుకుని సండేస్కూలుకు /2/",
+      "జూమ్ లలా ఉ…. జూమ్ లలా ఉ…. /2/"
+    ],
+    "english": [
+      "Kodi kooyu vela parugulettedam",
+      "Kodi kooyu vela parugulettedam – Bible chethapattukuni sandeskooluku /2/",
+      "Joom lalaa oo…. Joom lalaa oo…. /2/"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కమ్మనైన మాటలు ఎన్నో ఉంటాయి",
+        "తీయనైన పాటలు ఎన్నెన్నో వస్తాయి /2/",
+        "అక్క అన్న తమ్ముడు చెల్లి …",
+        "మనం కలసిపోదామా… యేసుని చెంతకు మనం కలసిపోదామా…  ||కోడి||"
+      ],
+      "english": [
+        "Kammanaina maatalu enno untaayi",
+        "Theeyanaina paatalu ennenno vasthaayi /2/",
+        "Akka anna thammudu chelli …",
+        "Manam kalasipodaamaa… Yesuni chenthaku manam kalasipodaamaa…  ||Kodi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కొత్త కొత్త కధలు ఎన్నో చెబుతారు",
+        "బైబిల్ వాక్యములు మరెన్నో నేర్పిస్తారు /2/",
+        "అక్క అన్న తమ్ముడు చెల్లి …",
+        "మనం కలసిపోదామా… యేసుని చెంతకు మనం కలసిపోదామా…  ||కోడి||"
+      ],
+      "english": [
+        "Kotha kotha kadhalu enno chebuthaaru",
+        "Bible vaakyamulu marenno nerpisthaaru /2/",
+        "Akka anna thammudu chelli …",
+        "Manam kalasipodaamaa… Yesuni chenthaku manam kalasipodaamaa…  ||Kodi||"
+      ]
+    }
+  ]
+}

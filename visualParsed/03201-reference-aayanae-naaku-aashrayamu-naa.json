@@ -1,0 +1,130 @@
+{
+  "song_name": "Aayane naaku aashrayamu naa kota",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మహోన్నతుని చాటున వసియించువాడే ధన్యుండు",
+      "సర్వశక్తుని నీడను విశ్రమించు వాడే ధన్యుండు"
+    ],
+    "english": [
+      "Mahonnathuni chaatuna vasiyinchuvaade dhanyundu",
+      "Sarvashakthuni needanu vishraminchu vaade dhanyundu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆయనే నా కోట ఆశ్రయము నే నమ్ముకొను దేవుడు",
+        "రక్షించు వేటకాని ఉరి నుండి - పాడు తెగులు నుండి"
+      ],
+      "english": [
+        "Aayane naa kota aashrayamu ne nammukonu devudu",
+        "Rakshinchu vetakaani uri nundi - Paadu thegulu nundi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తన రెక్కలతో నిను కప్పును నీకు ఆశ్రయంబగును",
+        "ఆయన సత్యంబు నీ కేడెమును డాలునై యున్నది"
+      ],
+      "english": [
+        "Thana rekkalatho ninu kappunu neeku aashrayambagunu",
+        "Aayana sathyambu nee kedemunu daalunai yunnadi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రేయి భయమునకైనా పగటిలో నెగురు బాణమునకైనా",
+        "చీకటిలో తిరుగు తెగులునకైనా - నీవు భయపడవు"
+      ],
+      "english": [
+        "Reyi bhayamunakainaa pagatilo neguru baanamunakainaa",
+        "Cheekatilo thirugu thegulunakainaa - Neevu bhayapadavu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మధ్యాహ్నములో పాడుచేయు రోగమునకు భయపడవు",
+        "నీ ప్రక్కను వేయి మంది పడినను నీవు భయపడవు"
+      ],
+      "english": [
+        "Madhyaahnamulo paaducheyu rogamunaku bhayapadavu",
+        "Nee prakkanu veyi mandi padinanu neevu bhayapadavu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీ కుడిప్రక్కను పదివేల మంది కూలిపోయినను - నీవు భయపడవు",
+        "అపాయము నీ దాపున కేమాత్రము రాదు భయపడవు"
+      ],
+      "english": [
+        "Nee kudiprakkanu padivela mandi koolipoyinanu - Neevu bhayapadavu",
+        "Apaayamu nee daapuna kemaathramu raadu bhayapadavu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "భక్తిహీనులకు కల్గు ప్రతిఫలము నీవు చూచెదవు",
+        "మహోన్నతునే ఆశ్రయముగా చేసి వసించు చున్నావు"
+      ],
+      "english": [
+        "Bhakthiheenulaku kalgu prathiphalamu neevu choochedavu",
+        "Mahonnathune aashrayamugaa chesi vasinchu chunnaavu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "నీ గుడారమున కపాయము తెగులు సమీపించదు",
+        "నీ మార్గంబులలో నిను కాపాడను దూతలకు చెప్పున్"
+      ],
+      "english": [
+        "Nee gudaaramuna kapaayamu thegulu sameepinchadhu",
+        "Nee maargambulalo ninu kaapaadanu dhoothalaku cheppun"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "నీ పాదములకు రాయి తగుల నీక నిన్నెత్తు కొందురు",
+        "సింహములను నాగుల భుజంగములను అణగ ద్రొక్కెదవు"
+      ],
+      "english": [
+        "Nee paadamulaku raayi thagula neeka ninnetthu konduru",
+        "Simhamulanu naagula bhujangamulanu anaga drokkedavu"
+      ]
+    },
+    {
+      "stanza_number": 9,
+      "telugu": [
+        "నన్నెరిగి ప్రేమించె గాన నేను వాని ఘనపరతున్",
+        "నా నామమున మొఱ్ఱపెట్టగా నేను ఉత్తరమిచ్చెదను"
+      ],
+      "english": [
+        "Nannerigi preminche gaana nenu vaani ghanaparathun",
+        "Naa naamamuna morrapettagaa nenu uttharamichchedhanu"
+      ]
+    },
+    {
+      "stanza_number": 10,
+      "telugu": [
+        "శ్రమలో తోడై విడిపించి వాని గొప్ప చేసెదను",
+        "దీర్ఘాయువుతో తృప్తిపరచి - నా రక్షణ చూపెదను"
+      ],
+      "english": [
+        "Shramalo thodai vidipinchi vaani goppa chesedanu",
+        "Dheerghaayuvutho thrupthiparachi - Naa rakshana choopedhanu"
+      ]
+    }
+  ]
+}

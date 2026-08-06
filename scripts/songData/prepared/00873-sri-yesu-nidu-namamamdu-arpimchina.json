@@ -1,0 +1,58 @@
+{
+  "song_name": "Sri Yesu Nidu Namamamdu Arpimchina",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "శ్రీ యేసు నీదు నామమందు అర్పించిన మా విన్నపం",
+      "ఆలకించి ఆశీర్వదించుమా అందుకొనుము మా వందనం"
+    ],
+    "english": [
+      "Sri Yesu Nidu Namamamdu Arpimchina Ma Vinnapam",
+      "Alakimchi Asirvadimchuma Amdukonumu Ma Vamdanam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ నామమందు ప్రార్ధించి పొందినాము గొప్ప రక్షణ",
+        "రక్షింపబడిన హృదయమందు ముద్రించినావు ఆత్మను",
+        "బలపరచుము బలముతో నింపు నీతితో నీవు నన్ను నిరతంబు"
+      ],
+      "english": [
+        "Ni Namamamdu Prardhimchi Pomdinamu Goppa Rakshana",
+        "Rakshimpabadina Hrudayamamdu Mudrimchinavu Atmanu",
+        "Balaparachumu Balamuto Nimpu Nitito Nivu Nannu Niratambu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విశ్వాససహితమైన ప్రార్ధన విజయమిచ్చునన్నావయా",
+        "తండ్రి సముఖమునకు చేర ప్రార్ధన నీ నామముంచినావయా",
+        "బలపరచుము బలముతో నింపు నీతితో నీవు నన్ను నిరతంబు"
+      ],
+      "english": [
+        "Visvasasahitamaina Prardhana Vijayamichchunannavaya",
+        "Tamdri Samukamunaku Chera Prardhana Ni Namamumchinavaya",
+        "Balaparachumu Balamuto Nimpu Nitito Nivu Nannu Niratambu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాపంబు స్వార్ధంబు లేక మొర్రపెట్టనేర్పినావయా",
+        "సందేహపడక విధేయతతో ప్రార్ధింపజూపినావయా",
+        "బలపరచుము బలముతో నింపు నీతితో నీవు నన్ను నిరతంబు"
+      ],
+      "english": [
+        "Papambu Svardhambu Leka Morrapettanerpinavaya",
+        "Samdehapadaka Vidheyatato Prardhimpajupinavaya",
+        "Balaparachumu Balamuto Nimpu Nitito Nivu Nannu Niratambu"
+      ]
+    }
+  ]
+}

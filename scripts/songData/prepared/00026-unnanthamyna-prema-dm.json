@@ -1,0 +1,51 @@
+{
+  "song_name": "Unnathamaina Prema Dm",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఉన్నతమైన ప్రేమ - అత్యున్నతమైన ప్రేమ",
+      "శాశ్వతమైన ప్రేమ - పరిపూర్ణమైన ప్రేమ",
+      "యేసుని ప్రేమా - ఆ కలువరి ప్రేమ - ఆ కలువరి ప్రేమా"
+    ],
+    "english": [
+      "Unnathamaina Prema - Athyunnathamaina Prema",
+      "Shaashwathamaina Prema - Paripoornamaina Prema",
+      "Yesuni Premaa - Aa Kaluvari Prema - Aa Kaluvari Premaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నింగి నుండి నేలకు దిగివచ్చిన ప్రేమా",
+        "నేల నుండి నన్ను లేవనెత్తిన ప్రేమ (2X)",
+        "మంటి నుండి మహిమకు నను మార్చిన ప్రేమ (2X)",
+        "ఆ కలువరి ప్రేమ - ఆ కలువరి ప్రేమా"
+      ],
+      "english": [
+        "Ningi Nundi Nelaku Digivachchina Premaa",
+        "Nela Nundi Nannu Levanetthina Prema (2X)",
+        "Manti Nundi Mahimaku Nanu Maarchina Prema (2X)",
+        "Aa Kaluvari Prema - Aa Kaluvari Premaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీదు ప్రేమ నాకు జీవం - నా సమస్తమును",
+        "నీవు పొందిన శ్రమలన్నియును నాదుడెందములో (2X)",
+        "నీవు కార్చిన రక్తమే నా - ముక్తి మార్గమై (2X)",
+        "ఆ కలువరి ప్రేమ - ఆ కలువరి ప్రేమా"
+      ],
+      "english": [
+        "Needu Prema Naaku Jeevam - Naa Samasthamunu",
+        "Neevu Pondina Shramalanniyunu Naadudendamulo (2X)",
+        "Neevu Kaarchina Rakthame Naa - Mukthi Maargamai (2X)",
+        "Aa Kaluvari Prema - Aa Kaluvari Premaa"
+      ]
+    }
+  ]
+}

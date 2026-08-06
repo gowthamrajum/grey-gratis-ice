@@ -1,0 +1,89 @@
+{
+  "song_name": "Nee CharaNamulae Nammithi",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ చరణములే నమ్మితి నీ పాదములే పట్టితిఁ బట్టితిఁ బట్టితి"
+    ],
+    "english": [
+      "Nee CharaNamulae Nammithi Nee Paadhamulae Pattithi Battithi Battithi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దిక్కిఁక నీవే చక్కఁగ రావే మిక్కిలి మ్రొక్కుదు మ్రొక్కుదు మ్రొక్కుదు"
+      ],
+      "english": [
+        "Dhikkika Neevae Chakkaga Raavae Mikkili Mrokkudhu Mrokkudhu Mrokkudhu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఐహిక సుఖము నరసితి నిత్యము ఆహాహా ద్రోహిని ద్రోహిని ద్రోహిని"
+      ],
+      "english": [
+        "Aihika Sukhamu Narasithi Nithyamu Aahaahaa Dhroahini Dhroahini Dhroahini"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "న్యాయము గాని నా క్రియ లన్ని రోయుచుఁ ద్రోయకు త్రోయకు త్రోయకు"
+      ],
+      "english": [
+        "Nyaayamu Gaani Naa Kriya Lanni Roayuchu Dhroayaku Throayaku Throayaku"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "భావము మార్చి నావెతఁ దీర్చి దేవర ప్రోవవే ప్రోవవే ప్రోవవే"
+      ],
+      "english": [
+        "Bhaavamu Maarchi Naavetha Dheerchi Dhaevara Proavavae Proavavae Proavavae"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "చంచల బుద్ధి వంచన యెద్ది ఉంచక త్రుంచవే త్రుంచవే త్రుంచవే"
+      ],
+      "english": [
+        "ChMchala BudhDhi VMchana Yedhdhi UMchaka ThruMchavae ThruMchavae ThruMchavae"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "చుట్టుకొని యున్న శోధన లున్నఁ పట్టు విడఁ గొట్టవే కొట్టవే కొట్టవే"
+      ],
+      "english": [
+        "Chuttukoni Yunna ShoaDhana Lunna Pattu Vida Gottavae Kottavae Kottavae"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "నాచు పిశాచి నరుకుట గాచి కాచుకో దాఁచవే దాఁచవే దాఁచవే"
+      ],
+      "english": [
+        "Naachu Pishaachi Narukuta Gaachi Kaachukoa Dhaachavae Dhaachavae Dhaachavae"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "యేసుని తోడ నెన్వరు సాటి దోసముఁ బాపును బాపును బాపును"
+      ],
+      "english": [
+        "Yaesuni Thoada Nenvaru Saati Dhoasamu Baapunu Baapunu Baapunu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "song_name": "Prabhu Yesuni Vadhanamulo",
+  "author": {
+    "Authored by": "Rev. Acharya Dr. A B Masilamani",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభుయేసుని వదనములో – నా దేవుడు కనిపించె",
+      "పాపాత్ముల బ్రోచుటకై – కృపలొలికిన కలువరిలో",
+      "పరలోకముకై – చిరజీవముకై",
+      "ప్రార్ధించెను నా హృదయం"
+    ],
+    "english": [
+      "Prabhu yesuni vadhanamulo – naa devudu kanipinche",
+      "paapatmula brochutakai – krupalolikina kaluvari lo",
+      "paralokamu kai – chirajeevamu kai",
+      "prardinchenu naa hrudayam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దిశలన్నియు తిరిగితిని – నా పాపపు దాహముతో",
+        "దౌష్ట్యములో మసలుచును – దౌర్జన్యము చేయుచును",
+        "ధనపీడనతో – మృగవాంఛలతో",
+        "దిగాజారితి చావునకు || ప్రభుయేసుని ||",
+        "యేసు నీ రాజ్యములో – భువికేతెంచెడి రోజు",
+        "ఈ పాపిని క్షమియించి – జ్ఞాపకముతో బ్రోవుమని (2)",
+        "ఇల వేడితిని – విలపించుచును (2)",
+        "ఈడేరెను నా వినతి || ప్రభుయేసుని ||",
+        "కలువరి ఆవరణములో కరుణత్ముని చేరువనే",
+        "కను మూసిన కాలములో వెలుగుదయించిన వేళ",
+        "కనుగొంటిని నా దౌర్బగ్య స్తితి",
+        "కంపించెను నా తనువు || ప్రభుయేసుని ||",
+        "పరదైసున ఈ దినమే – నా ఆనందములోను (2)",
+        "పాల్గొందువు నీవనుచు – వాగ్ధానము చేయగనే (2)",
+        "పరలోకమే నా – తుది ఊపిరిగా (2)",
+        "పయనించితి ప్రభు కడకు || ప్రభుయేసుని ||"
+      ],
+      "english": [
+        "Disalanniyu thirigithini – naa paapapu dhaahamutho",
+        "doushtyamulo masaluchunu – dourjanyamu cheyuchunu",
+        "dhanapeedanatho – mrugavaanchalatho",
+        "dhigajaarithi chaavunaku || Prabhu yesuni ||",
+        "Yesu nee raajyamulo – bhuvikethenchedi roju",
+        "ee paapini kshamiyinchi – gnapakamutho brovumani",
+        "ila vedithini – vilapinchuchunu",
+        "eederenu naa vinathi || Prabhu yesuni ||",
+        "Kaluvari aavaranamulo karunathmuni cheruvane",
+        "kanu moosina kaalamulo velugudhayinchina vela",
+        "kanugontini naa dourbagya sththi",
+        "kampinchenu naa thanuvu || Prabhu yesuni ||",
+        "Paradaisuna ee diname – naa aanandamulonu",
+        "paalgondhuvu neevanuchu – vaagdhaanamu cheyagane",
+        "paralokame na thudi oopiriga",
+        "payaninchithi prabhu kadaku || Prabhu yesuni ||"
+      ]
+    }
+  ]
+}

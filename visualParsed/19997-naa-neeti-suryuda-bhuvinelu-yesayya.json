@@ -1,0 +1,87 @@
+{
+  "song_name": "Naa neethi sooryudaa bhuvinelu Yesayyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "John Wesley"
+    ],
+    "రచన": [
+      "జాన్ వెస్లీ"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా నీతి సూర్యుడా – భువినేలు యేసయ్యా",
+      "సరిపోల్చలేను నీతో – ఘనులైన వారిని /2/",
+      "రాజులకే రారాజువు – కృపచూపే దేవుడవు",
+      "నడిపించే నజరేయుడా – కాపాడే కాపరివి /నా నీతి/"
+    ],
+    "english": [
+      "Naa neethi sooryudaa - Bhuvinelu Yesayyaa",
+      "Saripolchalenu neetho - Ghanulaina vaarini /2/",
+      "Raajulake raaraajuvu - Krupachoope Devudavu",
+      "Nadipinche Najareyudaa - Kaapaade kaaparivi /Naa neethi/"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శ్రమలలో బహు శ్రమలలో – ఆదరణ కలిగించెను",
+        "వాక్యమే కృపా వాక్యమే – నను వీడని అనుబంధమై /2/",
+        "నీ మాటలే జల ధారాలై – సంతృప్తి నిచ్చెను",
+        "నీ మాటలే ఔషధమై గాయములు కట్టెను",
+        "నీ మాటే మధురమ్! / రాజులకే /"
+      ],
+      "english": [
+        "Shramalalo bahu shramalalo - Aadarana kaliginchenu",
+        "Vaakyame krupaa vaakyame - Nanu veedani anubandhamai /2/",
+        "Nee maatale jala dhaaraalai - Santhrupthi nichchenu",
+        "Nee maatale aushadhamai gaayamulu kattenu",
+        "Nee maate madhuram! / Raajulake /"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మేలుకై సమస్తమును జరిగించుచున్నావు నీవు",
+        "యేదియు కొదువ చేయవు నిన్నాశ్రయించిన వారిని /2/",
+        "భీకరమైన కార్యములు చేయుచున్నవాడ",
+        "సజీవుడవై అధికస్తోత్రము పొందుచున్న వాడ",
+        "ఘనపరతును నిన్నే!",
+        "ప్రేమించే యేసయ్యా – నీవుంటే చాలునయ",
+        "నడిపించే నజరేయుడా – కాపాడే కాపరివి  ||నా||"
+      ],
+      "english": [
+        "Melukai samasthamunu jariginchuchunnaavu neevu",
+        "Ediyu koduva cheyavu ninnaashrayinchina vaarini /2/",
+        "Bheekaramaina kaaryamulu cheyuchunnavaada",
+        "Sajeevudavai adhikasthothramu pondhuchunna vaada",
+        "Ghanaparathunu ninne!",
+        "Preminche Yesayyaa - Neevunte chaalunaya",
+        "Nadipinche Najareyudaa - Kaapaade kaaparivi  ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సంఘమై నీ స్వాస్థ్యమై నను నీయెదుట నిలపాలని",
+        "ఆత్మతో మహిమాత్మతో నను ముద్రించియున్నావు నీవు /2/",
+        "వరములతో ఫలములతో నీకై బ్రతకాలని…",
+        "తుదిశ్వాశ నీసన్నిధిలో విజయం చూడాలని…",
+        "ఆశతో వున్నానయ!",
+        "కరుణించే యేసయ్యా – నీకోసమే నాజీవితం",
+        "నినుచేరే ఆశయం తీరాలని – నిను చూసే ఆక్షణం రావాలయ్యా  ||నా||"
+      ],
+      "english": [
+        "Sanghamai nee swaasthyamai nanu nee eduta nilapaalani",
+        "Aathmatho mahimaathmatho nanu mudhrinchiyunnaavu neevu /2/",
+        "Varamulatho phalamulatho neekai brathakaalani…",
+        "Thudhishwaasa neesannidhilo vijayam choodaalani…",
+        "Aashatho vunnaanaya!",
+        "Karuninche Yesayyaa - Neekosame naajeevitham",
+        "Ninuchere aashayam theeraalani - Ninu choose aakshanam raavaalayyaa  ||Naa||"
+      ]
+    }
+  ]
+}

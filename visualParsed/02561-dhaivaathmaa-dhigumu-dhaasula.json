@@ -1,0 +1,63 @@
+{
+  "song_name": "Dhaivaathmaa dhigumu daasula",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "మామిళ్ల యెషయా"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "దైవాత్మా దిగుము దాసుల పైని నీ దయా దృష్టిఁ పారజేయుము",
+      "ప్రేమన్ నింపు దేవా యాత్ముండ దిగుము మమ్ముల శుద్ధీకరించుము",
+      "దయారసముచే ||దైవాత్మా||"
+    ],
+    "english": [
+      "Dhaivaathmaa dhigumu daasula paini nee dayaa drushti paarajeyumu",
+      "Preman nimpu Devaa yaathmunda dhigumu mammula shuddheekarinchumu",
+      "Dhayaarasamuche ||Dhaivaathmaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దైవాత్మా దిగుము ప్రవక్తలు పూర్వంబు నీదు ప్రేరణవలనఁ బ్రవచించిరి",
+        "పావురమా దిగి మాలో వసించుము పాపుము చీఁకటి వెలుఁగుచు",
+        "మాలో  ||దైవాత్మా||"
+      ],
+      "english": [
+        "Dhaivaathmaa dhigumu pravakthalu poorvambu needu preranavalana bravachinchiri",
+        "Paavuramaa digi maalo vasinchumu paapumu cheekati veluguchu",
+        "Maalo  ||Dhaivaathmaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రమ్ము ఓ యున్నతంపు ఆత్మా నాలుగు దెసల నుండి మమ్ముల నావ",
+        "రించు రమ్ము రమ్ము దిగి యెండిన యెముకలు గానగు లోకుల మీదికి",
+        "ముదమున  ||దైవాత్మా||"
+      ],
+      "english": [
+        "Rammu o yunnathampu Aathmaa naalugu dhesala nundi mammula naava",
+        "Rinchu rammu rammu digi endina emukalu gaanagu lokula meediki",
+        "Mudamuna  ||Dhaivaathmaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మే మజ్ఞానాంధకారమునను మునిఁగితిమి గాన చెదరఁగఁజేయు",
+        "మంధకారము పామర జనులకుఁ బేర్మితో నొసఁగు ను జ్ఞాన ప్రకా శము",
+        "నిల్పుము మాలో  ||దైవాత్మా||"
+      ],
+      "english": [
+        "Me majnaanaandhakaaramunanu munigithimi gaana chedharagajeyu",
+        "Mandhakaaramu paamara janulaku bermitho nosagu nu jnaana prakaa shamu",
+        "Nilpumu maalo  ||Dhaivaathmaa||"
+      ]
+    }
+  ]
+}

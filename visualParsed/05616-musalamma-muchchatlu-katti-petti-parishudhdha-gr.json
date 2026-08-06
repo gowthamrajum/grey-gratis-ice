@@ -1,0 +1,67 @@
+{
+  "song_name": "Musalamma muchchatlu katti petti - Parishuddha grandhaanni chethapatti",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ముసలమ్మ ముచ్చట్లు కట్టి పెట్టి - పరిశుద్ధ గ్రంధాన్ని చేతపట్టి",
+      "దీక్షతో నడుంకట్టి - ఇంటింటి తలుపు తట్టి",
+      "యేసయ్య మాట (ఊసి) చెప్పవమ్మా ఊరకునే ఉంటే తప్పమ్మా ||ముస||"
+    ],
+    "english": [
+      "Musalamma muchchatlu katti petti - Parishuddha grandhaanni chethapatti",
+      "Deekshatho nadumkatti - Intinti thalupu thatti",
+      "Yesayya maata (oosi) cheppavammaa oorakune unte thappammaa ||Musa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆ ఇంటి సంగతులన్నీ - ఈ ఇంటికి మోసావమ్మా",
+        "పొరిగింటి విషయాలన్నీ - చాటింపు వేసావమ్మా",
+        "ఇక్కడ మాటలు అక్కడ చెప్పి-మంచిని చెడుగా (తిప్పి)",
+        "కొండాలు చెప్పవదమ్మా- జగడాలు పెట్టకు పెద్దమ్మా  ||ముసలమ్మ||"
+      ],
+      "english": [
+        "Aa inti sangathulannee - Ee intiki mosaavammaa",
+        "Poriginti vishayaalannee - Chaatimpu vesaavammaa",
+        "Ikkada maatalu akkada cheppi-Manchini chedugaa (thippi)",
+        "Kondaalu cheppavaddhammaa- Jagadaalu pettaku peddhammaa ||Musalamma||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కల్పించిన కథలకంటే - చెవి కోసుకొంటావమ్మా",
+        "చెడుమాటల సభలంటే - నువ్వే ముందాటవమ్మా",
+        "విన్నదానికి కొసరు వేసి - ఉన్నదాన్ని మార్చివేసి",
+        "రెచ్చగొట్టే పనులు మానమ్మా- చిచ్చుబెట్టకే చిన్నమ్మా  ||ముసలమ్మ||"
+      ],
+      "english": [
+        "Kalpinchina kathalakante - Chevi kosukontaavammaa",
+        "Chedumaatala sabhalante - Nuvve mundaatavammaa",
+        "Vinnadhaaniki kosaru vesi - Unnadhaanni maarchivesi",
+        "Rechchagotte panulu maanammaa- Chichchubettake chinnammaa ||Musalamma||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మంచిగ ఉన్నాళ్ళని చూస్తే - కన్నెర్ర చేస్తావమ్మా",
+        "హెచ్చరింపబడుతూ వుంటే - అపనిందలు వేస్తావమ్మా",
+        "వ్యంగ్యపు మాటలు కత్తులు దూసి - చల్లగ గుండెను కోసి",
+        "గాయాలు చేయ్యవద్దమ్మా- నోటికి వుండాలి హద్దమ్మా  ||ముసలమ్మ||"
+      ],
+      "english": [
+        "Manchiga unnaallani choosthe - Kannerra chesthaavammaa",
+        "Hechcharimpabaduthoo vunte - Apanindhalu vesthaavammaa",
+        "Vyangyapu maatalu katthulu dhoosi - Challaga gundenu kosi",
+        "Gaayaalu cheyyavaddhammaa- Notiki vundaali haddhammaa ||Musalamma||"
+      ]
+    }
+  ]
+}

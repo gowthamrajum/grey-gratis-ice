@@ -1,0 +1,85 @@
+{
+  "song_name": "Nammavadhdhu Nammavadhdhu Ee MaayaloakM",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నమ్మవద్దు నమ్మవద్దు ఈ మాయలోకం నమ్మవద్దు",
+      "ఇది ఆశజూపి మోసం జేయు ఈ మాయలోకం గనుక"
+    ],
+    "english": [
+      "Nammavadhdhu Nammavadhdhu Ee MaayaloakM Nammavadhdhu",
+      "Idhi Aashajoopi MoasM Jaeyu Ee MaayaloakM Ganuka"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మిమునుగన్న తల్లి యేది మిమ్మునుగన్న తండ్రియేడి",
+        "నాతోడబుట్టిన తోడులు యేరి వార్ని కాటికి మోసిన కోటప్ప లేరి గనుక"
+      ],
+      "english": [
+        "Mimunuganna Thalli Yaedhi Mimmunuganna ThMdriyaedi",
+        "Naathoadabuttina Thoadulu Yaeri Vaarni Kaatiki Moasina Koatappa Laeri Ganuka"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మీరు కట్టిన యిండ్లు ఏవి మీరు కట్టిన కోటలు ఏవి",
+        "కొట్టి తిన్న పొట్టలు ఉన్నవా? మెట్టలు పల్లాలవ్వక మానునా గనుక"
+      ],
+      "english": [
+        "Meeru Kattina YiMdlu Aevi Meeru Kattina Koatalu Aevi",
+        "Kotti Thinna Pottalu Unnavaa? Mettalu Pallaalavvaka Maanunaa Ganuka"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మీరు త్రవ్విన బావులు ఏవి మీరు త్రాగిన నదులు ఏవి",
+        "ఏరులు ఎండకుండునా? కారులు మరచెడకుండునా గనుక"
+      ],
+      "english": [
+        "Meeru Thravvina Baavulu Aevi Meeru Thraagina Nadhulu Aevi",
+        "Aerulu EMdakuMdunaa? Kaarulu MarachedakuMdunaa Ganuka"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మీరు కట్టిన బట్టలు ఏవి చుట్టి త్రాగిన చుట్టలు ఏవి",
+        "కట్టినబట్ట మట్టికెకదా? చుట్టిన చుట్ట అగ్గికి కదా గనుక"
+      ],
+      "english": [
+        "Meeru Kattina Battalu Aevi Chutti Thraagina Chuttalu Aevi",
+        "Kattinabatta Mattikekadhaa? Chuttina Chutta Aggiki Kadhaa Ganuka"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మనం మట్టినుండి తీయబడితిమి మట్టితో పుట్టబడితిమి",
+        "ఎట్టి బ్రతుకు బ్రతికినగాని కట్టెకాటికి పదపదరన్నా గనుక"
+      ],
+      "english": [
+        "ManM MattinuMdi Theeyabadithimi Mattithoa Puttabadithimi",
+        "Etti Brathuku Brathikinagaani Kattekaatiki Padhapadharannaa Ganuka"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "యేసు ప్రభుని నమ్మండిప్పుడే మోసపోకుడి ఈ ధరణిలో",
+        "ప్రయాసపడి భారమును మోసెడి ఓ ప్రజలారా గనుక"
+      ],
+      "english": [
+        "Yaesu Prabhuni NammMdippudae Moasapoakudi Ee DharaNiloa",
+        "Prayaasapadi Bhaaramunu Moasedi Oa Prajalaaraa Ganuka"
+      ]
+    }
+  ]
+}

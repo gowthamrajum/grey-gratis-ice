@@ -1,0 +1,39 @@
+{
+  "song_name": "Doothalu Digivache",
+  "author": {
+    "Authored by": "Pastor Sundar Paul",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దూతలు దిగివచ్చే భువిలో – ప్రభువుని స్తుతియింపా",
+      "కాంతులు వెదజల్లే దివిలో – తారొకటుదయించే",
+      "మనకై ప్రభువే దీనుడై ఉదయించే"
+    ],
+    "english": [
+      "Dhoothalu digivache bhuvilo – prabhuvuni sthuthiyimpaa",
+      "kaanthulu vedhajalle dhivilo – thaarokatudhayinche",
+      "manakai prabhave dheenudai udhayinche"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మహిమ ఘనతయు – ప్రభుకే చెల్లునూ"
+      ],
+      "english": [
+        "Mahima ghanathayu – prabhuke chellunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మహిమ ఘనతయు – ప్రభుకే చెల్లునూ"
+      ],
+      "english": [
+        "Mahima ghanathayu – prabhuke chellunu"
+      ]
+    }
+  ]
+}

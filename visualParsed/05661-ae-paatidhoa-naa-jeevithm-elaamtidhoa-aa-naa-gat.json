@@ -1,0 +1,60 @@
+{
+  "song_name": "E paatidho naa jeevitham elaantidho aa naa gatham",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏ పాటిదో నా జీవితం ఎలాంటిదో ఆ నా గతం",
+      "ప్రభు యేసులో నా జీవితం మారిపోయేగా ఆ నా గతం",
+      "నన్ను ప్రేమించినా నాకై మరణించినా",
+      "నన్ను విడిపించినా యేసుకే... (2)",
+      "ప్రభుయేసు నీకే స్వాగతం మారిపోయేగా ఆ నా గతం (2)"
+    ],
+    "english": [
+      "E paatidho naa jeevitham elaantidho aa naa gatham",
+      "Prabhu Yesulo naa jeevitham maaripoyegaa aa naa gatham",
+      "Nannu preminchinaa naakai maraninchinaa",
+      "Nannu vidipinchinaa Yesuke... (2)",
+      "Prabhu Yesu neeke swaagatham maaripoyegaa aa naa gatham (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎందుకో పుట్టానని నా బ్రతుకే దండగని (2)",
+        "పనికిరాని వాడనని పైకి అసలే రాలేనని",
+        "పదిమంది ననుచూసి గేలి చేయువేళ. ఆ. ఆ..",
+        "పనికొచ్చే పాత్రగా నను చేసినా పరిశుద్ధునిగా నను మార్చినా",
+        "యేసయ్యానీకే స్తోత్రము మెస్సయ్యానీకే స్తోత్రము (2)"
+      ],
+      "english": [
+        "Enduko puttaanani naa brathuke dandagani (2)",
+        "Panikiraani vaadanani paiki asale raalenani",
+        "Padhimandhi nanu choosi geli cheyuvela. aa. aa..",
+        "Panikochche paathragaa nanu chesinaa parishuddhunigaa nanu maarchinaa",
+        "Yesayya neeke sthothramu Messayya neeke sthothramu (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అందచందాలు లేవని చదువు సంధ్యలే అబ్బని (2)",
+        "తెలివి తక్కువ వాడనని లోక జ్ఞానమే లేదని",
+        "పదిమంది నను చూసి గేలి చేయువేళ. ఆ..ఆ..",
+        "పరిశుద్ధాత్మతో నను నింపినా సిలువ సాక్షిగా నను మార్చినా",
+        "యేసయ్యానీకే స్తోత్రము మెస్సయ్యానీకే స్తోత్రము (2)"
+      ],
+      "english": [
+        "Andhachandhaalu levani chadhuvu sandhyale abbani (2)",
+        "Telivi thakkuva vaadanani loka gnaaname ledani",
+        "Padhimandhi nanu choosi geli cheyuvela. aa..aa..",
+        "Parishuddhaathmatho nanu nimpinaa siluva saakshigaa nanu maarchinaa",
+        "Yesayya neeke sthothramu Messayya neeke sthothramu (2)"
+      ]
+    }
+  ]
+}

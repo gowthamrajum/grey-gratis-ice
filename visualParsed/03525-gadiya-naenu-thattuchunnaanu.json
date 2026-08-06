@@ -1,0 +1,99 @@
+{
+  "song_name": "Ghadiya nenu thattuchunnaanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "రెవెలేషన్ 3:20",
+      "గడియ నేను తట్టుచున్నాను",
+      "మూఢముగా నుండక మనసు తెరువుము"
+    ],
+    "english": [
+      "Revelation 3:20",
+      "Ghadiya nenu thattuchunnaanu",
+      "Moodhamugaa nundaka manasu theruvumu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "భోజనము చేయనై శాంతిగా నిల్చుచున్నాను",
+        "ఆసనమునిచ్చిన ప్రేమను రుచింతువు"
+      ],
+      "english": [
+        "Bhojanamu cheyanai shaanthigaa nilchuchunnaanu",
+        "Aasanamunichchina premanu ruchinthuvu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆనందము పొందును నీ హృదయము నాకిమ్ము",
+        "కష్టదుఃఖముల నెల్ల పారద్రోలెదను"
+      ],
+      "english": [
+        "Aanandamu pondhunu nee hrudayamu naakimmu",
+        "Kashtadhuhkhamula nella paaradhroledhanu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నేనే మృతి పొందితిని నీ నాథుడను యేసు రాజును",
+        "పైన వెళ్ళి తండ్రితో మాటలాడుదు నీకై"
+      ],
+      "english": [
+        "Nene mruthi pondithini nee naathudanu Yesu raajunu",
+        "Paina velli thandritho maatalaadudhu neekai"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నా శిరస్సునందు ముండ్ల మకుటము ధరియించితిన్",
+        "హేమమకుత మీయను త్రోసినట్టి నీకై"
+      ],
+      "english": [
+        "Naa shirassunandhu mundla makutamu dhariyinchithin",
+        "Hemamakuta meeyanu throsinatti neekai"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "తామసము చేయక హృదయమును తెరువుము",
+        "తెల్లని వస్త్రములతో నిన్నలంకరింతును"
+      ],
+      "english": [
+        "Thaamasamu cheyaka hrudayamunu theruvumu",
+        "Thellani vasthramulatho ninnalankarinthunu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "సైతాను దూతలను పారద్రోలెదను నేను",
+        "నాతాను ద్వారా నీకు పశ్చాత్తాపమిత్తును"
+      ],
+      "english": [
+        "Saithaanu dhoothalanu paaradhroledhanu nenu",
+        "Naathaanu dwaaraa neeku paschaaththaapamiththunu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "హల్లెలూయ పాడి నీ హృదయమును కిమ్ము",
+        "ప్రయుడనై నేను త్వరగా నీకై వత్తును"
+      ],
+      "english": [
+        "Hallelooya paadi nee hrudayamunu kimmu",
+        "Priyudanai nenu thvaragaa neekai vaththunu"
+      ]
+    }
+  ]
+}

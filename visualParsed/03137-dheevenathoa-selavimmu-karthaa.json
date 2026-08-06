@@ -1,0 +1,48 @@
+{
+  "song_name": "Dheevenatho selavimmu karthaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దీవెనతో సెలవిమ్ము కర్తా మాకు నీ దీవెనతో సెలవిమ్ము కర్తా దీవించి",
+      "క్షేమంపు టీవులను దయచేసి జీవ పోషణవార్త భావమున సమకూర్చి",
+      "||దీవెనతో||"
+    ],
+    "english": [
+      "Dheevenatho selavimmu karthaa maaku nee dheevenatho selavimmu karthaa deevinchi",
+      "Kshemampu teevulanu dayachesi jeeva poshanavaartha bhaavamuna samakoorchi",
+      "||Dheevenatho||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లోకమున నిన్ను వేఁడుకొని మేము నీ లోకమున కొనియాడుకొని",
+        "శ్రీకరం బగు దివ్య లోకంబులోఁ జేరి యేకముగ స్తోత్రములు నీకుఁ",
+        "జెల్లింపఁగ  ||దీవెనతో||"
+      ],
+      "english": [
+        "Lokamuna ninnu vedukoni memu nee lokamuna koniyaadukoni",
+        "Shreekaram bagu divya lokambulo jeri ekamuga sthothramulu neeku",
+        "Jellimpaga ||Dheevenatho||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "స్తుతి పితృ పుత్ర శుద్ధాత్మ శుభ మిచ్చు స్తుతి పితృ పుత్ర శుద్ధాత్మ",
+        "స్తుతియించును సర్వ క్షితి దివ్య సైన్యంబు లతులితంబగు దేవుఁడని నిన్ను",
+        "స్తుతియించు  ||దీవెనతో||"
+      ],
+      "english": [
+        "Sthuthi pithru puthra shuddhaathma shubha michchu sthuthi pithru puthra shuddhaathma",
+        "Sthuthiyinchunu sarva kshithi divya sainyambu lathulithambagu Devudani ninnu",
+        "Sthuthiyinchu ||Dheevenatho||"
+      ]
+    }
+  ]
+}

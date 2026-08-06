@@ -1,0 +1,77 @@
+{
+  "song_name": "Naa edala neekunna thalampulanni",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా యెడల నీకున్న తలంపులన్ని (2)",
+      "ఎంతో ఎంతో విస్తారమైనవి యేసయ్య (2)",
+      "అవి రమ్యమైనవి అమూల్యమైనవి(2)",
+      "నిత్యము నన్నే చూచుచున్నావా యేసయ్య",
+      "నాకై నీవు తలంచుచున్నావా (2) ||నా యెడల||"
+    ],
+    "english": [
+      "Naa edala neekunna thalampulanni (2)",
+      "Entho entho visthaaramainavi Yesayya (2)",
+      "Avi ramyamainavi amoolyamainavi(2)",
+      "Nithyamu nanne choochuchunnaavaa Yesayya",
+      "Naakai neevu thalanchuchunnaavaa (2) ||Naa edala||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రాజువైన నీవు దాసుడవయ్యావా",
+        "దాసుడనైన నన్ను రాజుగా చేయుటకే (2)",
+        "అభిషేకించావు అధికారం ఇచ్చావు (2)",
+        "పరలోకంలో పరిశుద్ధులతొ సావాసం ఇచ్చావు",
+        "నీకే స్తోత్రము యేసయ్య (2)  ||నా||"
+      ],
+      "english": [
+        "Raajuvaina neevu dhaasudavayyaavaa",
+        "Dhaasudanaina nannu raajugaa cheyutake (2)",
+        "Abhishekinchaavu adhikaaram ichchaavu (2)",
+        "Paralokamlo parishuddhulatho saavaasam ichchaavu",
+        "Neeke sthothramu Yesayya (2)  ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ధనవంతుడవై ఉండి దరిద్రుడవయ్యావా",
+        "దరిద్రుడనైన నన్ను ధనవంతునిగా చేయుటకే (2)",
+        "ఐశ్వర్యమిచ్చావు నను ఆశీర్వదించావు (2)",
+        "సుఖశాంతులతో నింపి కాపాడుచున్నావు (2)",
+        "నీకే స్తోత్రము యేసయ్య (2)  ||నా||"
+      ],
+      "english": [
+        "Dhanavanthudavai undi dharidrudavayyaavaa",
+        "Dharidrudanaina nannu dhanavanthunigaa cheyutake (2)",
+        "Aishwaryamichchaavu nanu aasheervadhinchaavu (2)",
+        "Sukhashaanthulatho nimpi kaapaaduchunnaavu (2)",
+        "Neeke sthothramu Yesayya (2)  ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బలవంతుడవై ఉండి బలహీనుడవయ్యావా",
+        "బలహీనుడనైన నన్ను బలవంతునిగా చేయుటకే (2)",
+        "నా స్తానము నిలిచావు నా శిక్ష భరించావు (2)",
+        "నీతిమంతుల సభలో నన్ను నిలబెట్టుచున్నావు",
+        "నీకే స్తోత్రము యేసయ్య (2)  ||నా||"
+      ],
+      "english": [
+        "Balavanthudavai undi balaheenudavayyaavaa",
+        "Balaheenudanaina nannu balavanthunigaa cheyutake (2)",
+        "Naa sthaanamu nilichaavu naa shiksha bharinchaavu (2)",
+        "Neethimanthula sabhalo nannu nilabettuchunnaavu",
+        "Neeke sthothramu Yesayya (2)  ||Naa||"
+      ]
+    }
+  ]
+}

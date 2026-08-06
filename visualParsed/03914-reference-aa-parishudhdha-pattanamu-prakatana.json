@@ -1,0 +1,87 @@
+{
+  "song_name": "Noothanamaina Yerushalemu parishuddha pattanamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నూతనమైన యెరుషలేము పరిశుద్ధ పట్టణము",
+      "దానికి మనలను పాత్రుల జేసిన",
+      "మన ప్రభు యేసుకే వందన స్తుతులు"
+    ],
+    "english": [
+      "Noothanamaina Yerushalemu parishuddha pattanamu",
+      "Dhaaniki manalanu paathrula jesina",
+      "Mana Prabhu Yesuke vandhana sthuthulu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సమాధాన సంతోషము పరిపూర్ణముగా నిండియున్నది",
+        "శాంతి దాత యేసు ప్రభువు యేలుచున్న రాజ్యములో",
+        "మనలను పాలివారిగ జేసిన రారాజునకే స్తోత్రములు"
+      ],
+      "english": [
+        "Samaadhaana santhoshamu paripoornamugaa nindiyunnadhi",
+        "Shaanthi daatha Yesu Prabhuvu yeluchunna raajyamulo",
+        "Manalanu paalivaariga jesina raaraajunake sthothramulu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మన పాపములను క్షమియించెనుగా కల్వరిసిలువ రక్తము ద్వారా",
+        "తన పరిశుద్ధతయందు మనల జేసె",
+        "మహిమాపూర్ణుడ మాదేవ మనసార నిను పాడెదను"
+      ],
+      "english": [
+        "Mana paapamulanu kshamiyinchenugaa Kalvari siluva rakthamu dwaaraa",
+        "Thana parishuddhathayandhu manala jese",
+        "Mahimaapoornuda maa Deva manasaara ninu paadedanu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరిశుద్ధ పట్టణము యెంతో సౌందర్యము కలిగియున్నది",
+        "భర్త కొరకు సిద్ధపడిన పెండ్లి కుమార్తెగా నుండెనుగా",
+        "తన వధువుగా జేసిన ప్రభుకే స్తుతిచెల్లించెదము నిరతం"
+      ],
+      "english": [
+        "Parishuddha pattanamu entho saundharyamu kaligiyunnadhi",
+        "Bhartha koraku siddhapadina pendli kumaarthegaa nundenugaa",
+        "Thana vadhuvugaa jesina Prabhuke sthuthichellinchedhamu niratham"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దేవుడే మనతో నివసించును - కాపురముండును మనతో నిత్యము",
+        "దేవుడే మనకు తోడై యుండి - నడుపును మనల పరమునకు",
+        "మనలను ప్రేమించిన ప్రభునే ఆరాధించి మ్రొక్కెదము"
+      ],
+      "english": [
+        "Devude manatho nivasinchunu - Kaapuramundunu manatho nithyamu",
+        "Devude manaku thodai yundi - Nadupunu manala paramunaku",
+        "Manalanu preminchina Prabhune aaraadhinchi mrokkedamu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మనకన్నుల ప్రతి భాష్పములను తుడిచివేయును మన ప్రభు యేసు",
+        "మరణము దుఃఖము వేదనయుండదు పరిశుద్ధ నగరములో",
+        "మరణము లోకము సాతానున్ - గెలిచిన ప్రభునే పూజింతుము"
+      ],
+      "english": [
+        "Manakannula prathi bhaashpamulanu thudichiveyunu mana Prabhu Yesu",
+        "Maranamu duhkhamu vedhanayundadhu parishuddha nagaramulo",
+        "Maranamu lokamu Saathaanun - Gelichina Prabhune poojinthumu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "song_name": "Nee melulu vivarimpatharamaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Suresh Nittala"
+    ],
+    "రచన": [
+      "సురేష్ నిట్టల"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ మేలులు వివరింపతరమా",
+      "నీ మేలులు వివరింపతరమా ప్రభువా",
+      "నీ కృపలను నే మరువగలనా",
+      "ఆదరించావు అగాపే ప్రేమతో",
+      "ఆదుకున్నావు నీ జాలి మనసుతో - నీ జాలి మనసుతో"
+    ],
+    "english": [
+      "Nee melulu vivarimpatharamaa",
+      "Nee melulu vivarimpatharamaa Prabhuvaa",
+      "Nee krupalanu ne maruvagalanaa",
+      "Aadarinchaavu agaape prematho",
+      "Aadukunnaavu nee jaali manasutho - Nee jaali manasutho"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శోధనలే నన్ను వెన్నంటిఉన్నా",
+        "బహు శ్రమలతో నేను సతమతమవుతున్నా",
+        "నను ధైర్యపరచి నడిపించినావే",
+        "నా హృదయవేధన తొలగించినావే | ఆదరించావు|"
+      ],
+      "english": [
+        "Shodhanale nannu vennantiunnaa",
+        "Bahu shramalatho nenu sathamathamavuthunnaa",
+        "Nanu dhairyaparachi nadipinchinaave",
+        "Naa hrudayavedhana tholaginchinaave | Aadarinchaavu|"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఊహించలేని కార్యాలు ఎన్నో",
+        "లెక్కించలేని పర్యాయములలో",
+        "నా జీవితంలో జరిగించినావే",
+        "నీ క్రుపతో నిత్యము దీవించినావే |ఆదరించావు|"
+      ],
+      "english": [
+        "Oohinchaleni kaaryaalu enno",
+        "Lekkinchaleni paryaayamulalo",
+        "Naa jeevithamlo jariginchinaave",
+        "Nee krupatho nithyamu deevinchinaave |Aadarinchaavu|"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మరచిపోలేని నీ మేలులెన్నో",
+        "దయచేసినావు నా జీవితములో",
+        "నీ ప్రేమకు సాటి లేదేది ఇలలో",
+        "నీ కరుణకు బదులు ఏముంది ధరలో",
+        "|ఆదరించావు|"
+      ],
+      "english": [
+        "Marachipoleni nee melulenno",
+        "Dayachesinaavu naa jeevithamulo",
+        "Nee premaku saati ledhedhi ilalo",
+        "Nee karunaku badulu emundi dharalo",
+        "|Aadarinchaavu|"
+      ]
+    }
+  ]
+}

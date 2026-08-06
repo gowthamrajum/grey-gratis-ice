@@ -1,0 +1,30 @@
+{
+  "song_name": "Kalyaana Raagam",
+  "author": {
+    "Authored by": "A.R.Stevenson",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కళ్యాణరాగం సాగింది మంగళవాద్యం మ్రోగింది",
+      "పరమందలి నిర్ణయం ఇల నేటి పరిణయం"
+    ],
+    "english": [
+      "Thalithandrula vidachina veeriruvuru",
+      "hatthukoni okkate sareeramaiyundhuru"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అ.ప. : తలిదండ్రుల విడచిన వీరిరువురు",
+        "హత్తుకొని ఒక్కటే శరీరమైయుందురు"
+      ],
+      "english": [
+        "Kalyaana raagam saagindhi mangalavaadhyam mrogindhi",
+        "paramandhali nirnnayam ila neti parinnayam"
+      ]
+    }
+  ]
+}

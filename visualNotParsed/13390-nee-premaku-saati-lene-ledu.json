@@ -1,0 +1,52 @@
+{
+  "song_name": "Nee premaku saati lene ledu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ ప్రేమకు సాటి లేనే లేదు",
+      "ప్రేమారూపా యేసురాజా (2)",
+      "నింగియందునా – నేల యందునా",
+      "పాతాళమందునా – ఎందైన గాని (2)",
+      "నీకన్నా అధికులు ఎవరు లేనే లేరు ||నీ ప్రేమకు||"
+    ],
+    "english": [
+      "Nee premaku saati lene ledu",
+      "Premaaroopaa Yesuraajaa (2)",
+      "Ningiyandhunaa - nela yandhunaa",
+      "Paathaalamandhunaa - endaina gaani (2)",
+      "Neekannaa adhikulu evaru lene leru ||Nee premaku||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపినైన నా కొరకు – పరలోకం విడచినదెవరు",
+        "నా పాపముల కొరకై – సిలువలో మరణించినదెవరు (2)",
+        "క్షమియించి రక్షించిన నా తండ్రి నీవే  ||నీ||"
+      ],
+      "english": [
+        "Paapinaina naa koraku - paralokam vidachinadhevaru",
+        "Naa paapamula korakai - siluvalo maraninchinadhevaru (2)",
+        "Kshamiyinchi rakshinchina naa thandri neeve ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ధరలోని ధన ధాన్యములు – నన్ను వీడినా",
+        "ఇలలో నా సరివారు – త్రోసివేసినా (2)",
+        "ఇహమందు పరమందు నా ధనము నీవే  ||నీ||"
+      ],
+      "english": [
+        "Dharaloni dhana dhaanyamulu - nannu veedinaa",
+        "Ilalo naa sarivaaru - throsivesinaa (2)",
+        "Ihamandu paramandu naa dhanamu neeve ||Nee||"
+      ]
+    }
+  ]
+}

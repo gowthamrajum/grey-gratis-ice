@@ -1,0 +1,72 @@
+{
+  "song_name": "Oa Yehoavaa Neevae Nannu Shoadhinchi Yerigithivi",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ యెహోవా నీవే నన్ను - శోధించి యెరిగితివి"
+    ],
+    "english": [
+      "Oa Yehoavaa Neevae Nannu - Shoadhinchi Yerigithivi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నేను కూర్చుండుట నిలుచుట నీకు బాగుగా తెలియును",
+        "నా తలంపులు నీకు తెలిసెన్ నాలో కలుగక పూర్వమే"
+      ],
+      "english": [
+        "Naenu Koorchunduta Niluchuta Neeku Baagugaa Theliyunu",
+        "Naa Thalampulu Neeku Thelisen Naaloa Kalugaka Poorvamae"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాదు నడక, నాదు పడక నీవే పరిశోధింతువు",
+        "నా ప్రవర్తన యంతా నీకే సంపూర్ణముగా తెలియును"
+      ],
+      "english": [
+        "Naadhu Nadaka, Naadhu Padaka Neevae Parishoadhinthuvu",
+        "Naa Pravarthana Yanthaa Neekae Sampoornamugaa Theliyunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీదు చేతిన్ నాపై నుంచి నన్ను ఆవరించితివి",
+        "నీదు యెడమ కుడిచేతులలో నన్ను భద్రపరతువు"
+      ],
+      "english": [
+        "Needhu Chaethin Naapai Nunchi Nannu Aavarinchithivi",
+        "Needhu Yedama Kudichaethulaloa Nannu Bhadhraparathuvu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీదు యాత్మకు మరుగైయిలలో నెచ్చటికి నే వెళ్ళెదన్",
+        "యెక్కడికి వెళ్ళినను అక్కడున్నావు ప్రభూ"
+      ],
+      "english": [
+        "Needhu Yaathmaku Marugaiyilaloa Nechchatiki Nae Velledhan",
+        "Yekkadiki Vellinanu Akkadunnaavu Prabhoo"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నాదు అంతరంగమును నాదు ఆలోచనలను",
+        "నీవే పరిశీలించి నాకు నిమ్ము శుద్ధ హృదయమున్"
+      ],
+      "english": [
+        "Naadhu Antharangamunu Naadhu Aaloachanalanu",
+        "Neevae Parisheelinchi Naaku Nimmu Shudhdha Hrudhayamun"
+      ]
+    }
+  ]
+}

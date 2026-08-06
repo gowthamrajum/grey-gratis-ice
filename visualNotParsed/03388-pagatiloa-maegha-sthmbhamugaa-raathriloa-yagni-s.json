@@ -1,0 +1,82 @@
+{
+  "song_name": "Pagatilo megha sthambhamugaa - Raathrilo agni sthambhamugaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పగటిలో మేఘ స్తంభముగా",
+        "రాత్రిలో యగ్ని స్తంభముగా",
+        "రక్షకుడవుగా నుండి ప్రభువా",
+        "సుఖశాంతితో గాచితివి",
+        "ధన్య ధన్య ధన్య ప్రభుకు",
+        "తానే రక్షణ మన కొసగే",
+        "నీ సన్నిధికి నడిపి ప్రభువా",
+        "రాత్రింబవళ్ళు గాచితివి"
+      ],
+      "english": [
+        "Pagatilo megha sthambhamugaa",
+        "Raathrilo agni sthambhamugaa",
+        "Rakshakudavugaa nundi Prabhuvaa",
+        "Sukhashaanthitho gaachithivi",
+        "Dhanya dhanya dhanya Prabhuku",
+        "Thaane rakshana mana kosage",
+        "Nee sannidhiki nadipi Prabhuvaa",
+        "Raathrimbavallu gaachithivi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వాక్యమన్నాతో పోషించి",
+        "బండ నీళ్ళను త్రాగించితివి",
+        "ఆత్మకు తృప్తి నిచ్చి ప్రభువా",
+        "శాంతిని నా కిచ్చితివి"
+      ],
+      "english": [
+        "Vaakyamannaatho poshinchi",
+        "Banda neellanu thraaginchithivi",
+        "Aathmaku thrupthi nichchi Prabhuvaa",
+        "Shaanthini naa kichchithivi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆత్మీయ సుందర హృదయములో",
+        "ఆత్మ ప్రాణ శరీరములో",
+        "ఆత్మీయజీవ మొసగి ప్రభువా",
+        "ఆత్మను మేల్కొలిపితివి"
+      ],
+      "english": [
+        "Aathmeeya sundara hrudayamulo",
+        "Aathma praana shareeramulo",
+        "Aathmeeyajeeva mosagi Prabhuvaa",
+        "Aathmanu melkolipithivi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కానానులోనికి తెచ్చితివి",
+        "పరశుధ్ధులతో జేర్చితివి",
+        "ప్రణుతించెదను నిన్ను ప్రభువా",
+        "సాగిలపడి పూజింతున్"
+      ],
+      "english": [
+        "Kaanaanuloniki thechchithivi",
+        "Parashudhdhulatho jerchithivi",
+        "Pranuthinchedhanu ninnu Prabhuvaa",
+        "Saagilapadi poojinthun"
+      ]
+    }
+  ]
+}

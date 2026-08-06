@@ -1,0 +1,50 @@
+{
+  "song_name": "Halleluya Sthotram",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కృప చాలును నీ కృప చాలును కలిమిలో ఉన్నను వేదనలో ఉన్నను"
+    ],
+    "english": [
+      "Krupa Chaalunu Nee Krupa Chaalunu Kalimilo Unnanu Vedanalo Unnanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అవమాన నిందలు నను వెంబడించినను నీ కృప నను విడిపించున్",
+        "యేసయ్య నీ కృప నను హెచ్చించున్"
+      ],
+      "english": [
+        "Avamaana Nindalu Nanu Vembadinchinanu Nee Krupa Nanu Vidipinchun",
+        "Yesayya Nee Krupa Nanu Hecchinchun"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎర్ర సంద్రము ఎదురై నిలిచినను నీ కృప నను విడిపించున్",
+        "యేసయ్య నీ కృప నను నడిపించున్"
+      ],
+      "english": [
+        "Erra Sandramu Edurai Nilichinanu Nee Krupa Nanu Vidipinchun",
+        "Yesayya Nee Krupa Nanu Nadipinchun"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కన్నీటి సమయము వేదన బాధలలో నీ కృప నను విడిపించున్",
+        "యేసయ్య నీ కృప ఆదరించును"
+      ],
+      "english": [
+        "Kanneeti Samayamu Vedana Baadhalalo Nee Krupa Nanu Vidipinchun",
+        "Yesayya Nee Krupa Aadarinchunu"
+      ]
+    }
+  ]
+}

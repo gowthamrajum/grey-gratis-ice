@@ -1,0 +1,84 @@
+{
+  "song_name": "Mahonnathuda",
+  "author": {
+    "Authored by": "A R Stevenson",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మహోన్నతుడా మా దేవా",
+      "సహాయకుడా యెహోవా",
+      "ఉదయకాలపు నైవేద్యము",
+      "హృదయపూర్వక అర్పణము"
+    ],
+    "english": [
+      "Mahonnathudaa maa Devaa",
+      "Sahaayakudaa Yehovaa",
+      "Udhayakaalapu naivedhyamu",
+      "Hrudhayapoorvaka arpanamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అ.ప. : నా స్తుతి నీకేనయా – ఆరాధింతునయా"
+      ],
+      "english": [
+        "A.P.: Naa sthuthi neekenayaa – aaradhinthunayaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అగ్నిని పోలిన నేత్రములు",
+        "అపరంజివంటి పాదములు",
+        "అసమానమైన తేజోమహిమ",
+        "కలిగిన ఓ ప్రభువా"
+      ],
+      "english": [
+        "Agnini polina nethramulu",
+        "Aparanjivantii paadamulu",
+        "Asamaanamaina thejomahima",
+        "Kaligina O Prabhuvaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "జలముల ధ్వనివంటి కంఠస్వరం",
+        "నోటను రెండంచుల ఖడ్గం",
+        "ఏడు నక్షత్రములు ఏడాత్మలు",
+        "చేత కలిగిన ఓ ప్రభువా"
+      ],
+      "english": [
+        "Jalamula dhvanivantii kanttasvaram",
+        "Notanu rendanchula khadgam",
+        "Edu nakshathramulu edaathmalu",
+        "Chetha kaligina O Prabhuvaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆదియు అంతము లేనివాడా",
+        "యుగయుగములు జీవించువాడా",
+        "పాతాళలోకపు తాళపు చెవులు కలిగిన ఓ ప్రభువా",
+        "హల్లెలూయా హల్లెలూయా హల్లెలూయా ఆమెన్"
+      ],
+      "english": [
+        "Aadhiyu anthamu lenivaadaa",
+        "Yugayugamulu jeevinchuvadaa",
+        "Paathaalalokapu thaalapu chevulu",
+        "Kaligina O Prabhuvaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [],
+      "english": [
+        "Hallelujah, Hallelujah, Hallelujah, Amen"
+      ]
+    }
+  ]
+}

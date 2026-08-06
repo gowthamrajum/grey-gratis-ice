@@ -1,0 +1,86 @@
+{
+  "song_name": "Sthothram sthothramu Dhevaadhi Deva paathralanugaa maarchithivi Devuni paathralanuga",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తోత్రం స్తోత్రము దేవాది - దేవా",
+      "పాత్రలనుగా - మార్చితివి దేవుని పాత్రలనుగ"
+    ],
+    "english": [
+      "Sthothram sthothramu Dhevaadhi - Deva",
+      "Paathralanugaa - maarchithivi Devuni paathralanuga"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శుద్ధీకరింప - బడిన పాత్రలు విజ్ఞాపన - చేయునవి",
+        "సరిగ పుటము - వేయబడిన తగిన బలము - కలిగినవి"
+      ],
+      "english": [
+        "Shudhdheekarimpa - badina paathralu vijnaapana - cheyunavi",
+        "Sariga putamu - veyabadina thagina balamu - kaliginavi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఏర్పరచ - బడిన పాత్రలు విజ్ఞాపన - చేయునవి",
+        "కదలక - స్థిరముగ నున్నవి ప్రభువును పొందినవి"
+      ],
+      "english": [
+        "Erparacha - badina paathralu vijnaapana - cheyunavi",
+        "Kadalaka - sthiramuga nunnavi Prabhuvunu pondhinavi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఘనపరచ - బడిన పాత్రలు స్తుతులు - చెల్లించునవి",
+        "మరకలేని - కారణమున కొలతలో తగ్గనివి"
+      ],
+      "english": [
+        "Ghanaparacha - badina paathralu sthuthulu - chellinchunavi",
+        "Marakaleni - kaaranamuna kolathalo thagganivi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఉపయోగింప - బడెడి పాత్రలు సాక్ష్యము నిచ్చును - భువిలో",
+        "లోక - శ్రమకెప్పుడు జడియనివి దాచిన ధనముకలవి"
+      ],
+      "english": [
+        "Upayogimpa - badedi paathralu saakshyamu nichchunu - bhuvilo",
+        "Loka - shramakeppudu jadiyanivi daachina dhanamukalavi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "సత్యముతో - నిండిన పాత్రలు తెల్లని రంగు - కలవి",
+        "స్వర్ణమువలె - కాంతి కలవి వెనుకంజ వేయనివి"
+      ],
+      "english": [
+        "Sathyamutho - nindina paathralu thellani rangu - kalavi",
+        "Swarnamuvale - kaanthi kalavi venukanja veyanivi"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "కష్టములకు - తగిన పాత్రలు సకలము - సహించునవి",
+        "నొక్కినను - వంకరకానివి జయధ్వని - చేయునవి"
+      ],
+      "english": [
+        "Kashtamulaku - thagina paathralu sakalamu - sahinchunavi",
+        "Nokkinanu - vankarakaanivi jayadhwani - cheyunavi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "song_name": "Janminchenu Sree Yesudu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "జన్మించెను శ్రీ యేసుడు",
+      "రారండి పూజింతుము",
+      "జగమంతట ఉదయించెను ॥2॥"
+    ],
+    "english": [
+      "Janminchenu Sree Yesudu",
+      "Raarandi poojinthumu",
+      "Jagamanthata udayinchenu ॥2॥"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆ విభుని సేవింతుము",
+        "పరలోక సైన్యమంతా",
+        "ప్రణుతించె ఆ యేసుని ॥2॥"
+      ],
+      "english": [
+        "Aa vibhuni sevinthumu",
+        "Paraloka sainyamanthaa",
+        "Pranuthinche aa Yesuni ॥2॥"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సమాధానమును తెలిపిరి",
+        "స్తోత్రము చెల్లించిరి  ||జన్మించెను||"
+      ],
+      "english": [
+        "Samaadhaanamunu telipiri",
+        "Sthothramu chellinchiri  ||Janminchenu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆరాధించగ వచ్చిరి",
+        "తూర్పునుండి జ్ఞానులు ॥2॥"
+      ],
+      "english": [
+        "Aaraadhinchaga vachchiri",
+        "Thoorpunundi gnaanulu ॥2॥"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సంతసించి గొల్లలు",
+        "పూజించను వచ్చిరి  ||జన్మించెను||"
+      ],
+      "english": [
+        "Santhasinchi gollalu",
+        "Poojinchanu vachchiri  ||Janminchenu||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పాపాలు తొలగించను",
+        "పరలోకమును వీడెను ॥2॥"
+      ],
+      "english": [
+        "Paapaalu tholaginchanu",
+        "Paralokamunu veedenu ॥2॥"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నమ్మిన ప్రతివారికీ",
+        "కలుగును మోక్షము  ||జన్మించెను||"
+      ],
+      "english": [
+        "Nammina prathivaarikee",
+        "Kalugunu mokshamu  ||Janminchenu||"
+      ]
+    }
+  ]
+}

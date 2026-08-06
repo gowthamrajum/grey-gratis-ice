@@ -1,0 +1,53 @@
+{
+  "song_name": "Naadhu Praana Moaprabhoa Naenu Neekarpinthunu",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఫ్రాన్సెస్ రిడ్లీ హవగ్గల్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "నాదు ప్రాణ మోప్రభో, నేను నీకర్పింతును.",
+      "నాదు చేతు లెప్పుడు నీదు సేవఁ జేయనీ",
+      "నాదు కాళ్లు లెస్సగా నీదు త్రోవఁ బోవనీ",
+      "నాదు స్వర మెన్నఁడు నీదు స్తుతిఁ బాడనీ"
+    ],
+    "english": [
+      "Naadhu Praana Moaprabhoa, Naenu Neekarpinthunu.",
+      "Naadhu Chaethu Leppudu Needhu Saeva Jaeyanee",
+      "Naadhu Kaallu Lessagaa Needhu Throava Boavanee",
+      "Naadhu Svara Mennadu Needhu Sthuthi Baadanee"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నాదు నోరు నిత్యము నీదు బోధఁ బల్క నీ",
+        "నాదు సొమ్ము సొత్తులు నీకు నిత్తు నెప్పుడు",
+        "నాదు కాల మంతయు నిన్నుఁ బ్రస్తుతింపనీ",
+        "బుద్ధి పూర్వకంబు నిన్ను నేను కొల్వనీ."
+      ],
+      "english": [
+        "Naadhu Noaru Nithyamu Needhu Boadha Balka Nee",
+        "Naadhu Sommu Soththulu Neeku Niththu Neppudu",
+        "Naadhu Kaala Manthayu Ninnu Brasthuthimpanee",
+        "Buddhi Poorvakambu Ninnu Naenu Kolvanee."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సొంత మేలుఁ గోరక నీదు కీర్తిఁ గోరుదు",
+        "నాదు నంతరంగము స్వీకరించి యేలుము",
+        "నాదు నిండు ప్రేమను నీకర్పింతు నెప్పుడు",
+        "నన్ను నీదు సొత్తుగా నీ వంగీకరించుము."
+      ],
+      "english": [
+        "Sontha Maelu Goaraka Needhu Keerthi Goarudhu",
+        "Naadhu Nantharangamu Sveekarinchi Yaelumu",
+        "Naadhu Nindu Praemanu Neekarpinthu Neppudu",
+        "Nannu Needhu Soththugaa Nee Vangeekarinchumu."
+      ]
+    }
+  ]
+}

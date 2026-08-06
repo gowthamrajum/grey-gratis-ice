@@ -1,0 +1,77 @@
+{
+  "song_name": "Yaesunaathaa Thriloakanaathaa Loakoadhdhaaraka Kreesthu Dhaevaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసునాథా త్రిలోకనాథా - లోకోద్ధారక క్రీస్తు దేవా",
+        "చక్కగ దాసుల బ్రోచి రక్షించుము"
+      ],
+      "english": [
+        "Yaesunaathaa Thriloakanaathaa - Loakoadhdhaaraka Kreesthu Dhaevaa",
+        "Chakkaga Dhaasula Broachi Rakshimchumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అబ్దిమీద నడచిన దేవా - ఐదు రొట్టెల నైదువేలకునతిశయముగను పంచిన దేవా"
+      ],
+      "english": [
+        "Abdhimeedha Nadachina Dhaevaa - Aidhu Rottela Naidhuvaelakunathishayamuganu Pamchina Dhaevaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కానా లోని వివాహ విందున - నీళ్ళను ద్రాక్షరసముగ మార్చిన",
+        "కరుణానిథీ నను ప్రేమించు నిత్యము"
+      ],
+      "english": [
+        "Kaanaa Loani Vivaaha Vimdhuna - Neellanu Dhraaksharasamuga Maarchina",
+        "Karunaanithee Nanu Praemimchu Nithyamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నాథా నాదు గతియు నీవే - పాదారవింద శరణమిమ్ము",
+        "ఆధారమీవే దీనోపకారా"
+      ],
+      "english": [
+        "Naathaa Naadhu Gathiyu Neevae - Paadhaaravimdha Sharanamimmu",
+        "Aadhaarameevae Dheenoapakaaraa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "కృపాసముద్ర దయామయుండా - తలను ముండ్ల మకుటధారివై",
+        "సిలువయందు మరణించితివి"
+      ],
+      "english": [
+        "Krupaasamudhra Dhayaamayumdaa - Thalanu Mumdla Makutadhaarivai",
+        "Siluvayamdhu Maranimchithivi"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నీదు రాజ్యము వచ్చునుగాక - సాధుగ మోక్షసౌఖ్యము చేర",
+        "నీదు దాసుల నాశీర్వదించుము"
+      ],
+      "english": [
+        "Needhu Raajyamu Vachchunugaaka - Saadhuga Moakshasaukhyamu Chaera",
+        "Needhu Dhaasula Naasheervadhimchumu"
+      ]
+    }
+  ]
+}

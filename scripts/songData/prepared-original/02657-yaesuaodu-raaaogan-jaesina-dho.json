@@ -1,0 +1,80 @@
+{
+  "song_name": "Yaesuaodu Raaaogan Jaesina Dho",
+  "author": {
+    "Authored by": "",
+    "రచన": "మిక్కిలి ఫ్రెడరిక్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసుఁడు రాఁగన్ జేసిన దోషము నాశన మాయెన్ ||యేసుఁడు||"
+    ],
+    "english": [
+      "yaesuAOdu raaAOgan jaesina dhoaShmu naashana maayen ||yaesuAOdu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చింతలు పోయెన్ వింతగ నాకున్ జెంతకుఁ జేర్పఁగ సంతస మాయెన్ ||యేసుఁడు||"
+      ],
+      "english": [
+        "chiMthalu poayen viMthaga naakun jeMthakuAO jaerpAOga sMthasa maayen ||yaesuAOdu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సిలువను మోసెన్ గలువరి మెట్టన్ చెలువుగఁ బాపపు బలువును దించెన్ ||యేసుఁడు||"
+      ],
+      "english": [
+        "siluvanu moasen galuvari mettan cheluvugAO baapapu baluvunu dhiMchen ||yaesuAOdu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "శిరమున ముండ్లున్ గరమున మేకులున్ స్థిరముగ నాటఁగ బరమును జూపెన్ ||యేసుఁడు||"
+      ],
+      "english": [
+        "shiramuna muMdlun garamuna maekulun sThiramuga naatAOga baramunu joopen ||yaesuAOdu||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పదముల మేకులున్ జెదరఁగ రక్తము ఎద నిఁకఁ బ్రేమతో ముదము నొసంగెన్ ||యేసుఁడు||"
+      ],
+      "english": [
+        "padhamula maekulun jedharAOga rakthamu edha niAOkAO braemathoa mudhamu nosMgen ||yaesuAOdu||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "రక్షణ జూపెన్ దక్షుఁడు నాకున్ పక్షముతో నిఁక మోక్షము జూపెన్ ||యేసుఁడు||"
+      ],
+      "english": [
+        "rakShNa joopen dhakShuAOdu naakun pakShmuthoa niAOka moakShmu joopen ||yaesuAOdu||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "రక్తిగ వేఁడన్ శక్తి నొసంగెన్ రక్తము జల్లియు ముక్తిని జూపెన్ ||యేసుండు||"
+      ],
+      "english": [
+        "rakthiga vaeAOdan shakthi nosMgen rakthamu jalliyu mukthini joopen ||yaesuMdu||"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "గురువును నమ్ముదున్ భారము వెడలెన్ ధీరునిఁ జేయుచు దారిని జూపెన్ ||యేసుఁడు||"
+      ],
+      "english": [
+        "guruvunu nammudhun bhaaramu vedalen DheeruniAO jaeyuchu dhaarini joopen ||yaesuAOdu||"
+      ]
+    }
+  ]
+}

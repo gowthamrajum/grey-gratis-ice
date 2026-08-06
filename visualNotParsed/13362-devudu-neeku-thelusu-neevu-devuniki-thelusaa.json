@@ -1,0 +1,64 @@
+{
+  "song_name": "Devudu neeku thelusu neevu devuniki thelusaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవుడు నీకు తెలుసు – నీవు దేవునికి తెలుసా",
+      "నీవు దేవుని నమ్మినా – నిన్ను దేవుడు నమ్మాలి (2)",
+      "అవసరాలకు దేవుని నమ్మక",
+      "ఆత్మకు తండ్రని నమ్మాలి (2)",
+      "నీ ఆత్మకు తండ్రని నమ్మాలి ||దేవుడు||"
+    ],
+    "english": [
+      "Devudu neeku thelusu – Neevu devuniki thelusaa",
+      "Neevu devuni namminaa – Ninnu devudu nammaali (2)",
+      "Avasaraalaku devuni nammaka",
+      "Aathmaku thandhrani nammaali (2)",
+      "Nee aathmaku thandhrani nammaali ||Devudu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నాలుగు గోడల మధ్య నీవు నలిగిపోక",
+        "నలు దిక్కులకు సువార్తను ప్రకటించు (2)",
+        "ప్రభువా ప్రభువని పిలువక – ప్రార్ధనతో విసిగించక",
+        "పాపిని రక్షించు పరలోకానికి నడిపించు",
+        "నా నిమిత్తము ఎవడు పోవునని అడుగుచున్నాడు దేవుడు",
+        "నా అవసరత తీర్చమని అడుగుచున్నాడు క్రైస్తవుడు  ||దేవుడు||"
+      ],
+      "english": [
+        "Naalugu godala madhya neevu naligipoka",
+        "Nalu dhikkulaku suvaarthanu prakatinchu (2)",
+        "Prabhuvaa prabhuvani piluvaka – Praardhanatho visiginchaka",
+        "Paapini rakshinchu paralokaaniki nadipinchu",
+        "Naa nimitthamu evadu povunani aduguchunnaadu devudu",
+        "Naa avasaratha theerchamani aduguchunnaadu kraisthavudu  ||Devudu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నామకార్ధ భక్తి దేవునికే అది విరక్తి",
+        "సువార్త భారం కలిగి నీవు బ్రతికితేనే ముక్తి (2)",
+        "ప్రజలందరికి ఇదే బైబిల్ సూక్తి (2)",
+        "దేవుని చేయి వెతకకుంటే అగ్నితోనే శాస్తి (2)",
+        "దేవునికిష్టమైనది తెలుసుకోవాలి ముందు",
+        "దేహానికిష్టమైనది అడగకూడదు ముందు  ||దేవుడు||"
+      ],
+      "english": [
+        "Naamakaardha bhakthi devunike adhi virakthi",
+        "Suvaartha bhaaram kaligi neevu brathikithene mukthi (2)",
+        "Prajalandhariki idhe baibil sookthi (2)",
+        "Devuni cheyi vethakakunte agnithone shaasthi (2)",
+        "Dhevunikishtamainadhi thelusukovaali mundu",
+        "Dhehaanikishtamainadhi adagakoodadhu mundu  ||Devudu||"
+      ]
+    }
+  ]
+}

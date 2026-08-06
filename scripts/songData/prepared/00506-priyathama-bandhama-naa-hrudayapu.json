@@ -1,0 +1,57 @@
+{
+  "song_name": "Priyathama Bandhama Naa Hrudayapu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రియతమా బంధమ నా హృదయపు ఆశ్రయ దుర్గమ,",
+      "అనుదినం అనుక్షణం నీ వొడిలో జీవితం ధన్యము,",
+      "కృతజ్ఞతతో పాడెదను నిరంతరము స్తుతించేదను",
+      "వందనం వందనం దేవా వందనం వందనం,",
+      "అనుదినం అనుక్షణం నీకే నా వందనం వందనం",
+      "కడవరకూ కాయుమయా నీ కృపతో కాయుమయా"
+    ],
+    "english": [
+      "Priyathama Bandhama Naa Hrudayapu Aasraya Durgama,",
+      "Anudhinam Anukshanam Nee Vodilo Jeevitham Dhanyamu,",
+      "Kruthagnatha Tho Paadedhanu Nirantharamu Stuthinchedanu",
+      "Vandanam Vandanam Deva Vandanam Vandanam,",
+      "Anudhinam Anukshanam Neeke Naa Vandanam Vandanam",
+      "Kada Varaku Kaayumaya Nee Krupa Tho Kaayumaya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అందకారపు సమయములోన నీతి సూర్యుడై ఉదయించావు",
+        "గమ్యమెరుగని పయనములోన సత్యసముడై నడిపించావు",
+        "నా నీరీక్షణ ఆధారం నీవు, నమ్మదగిన దేవుడనీవు",
+        "కరుణ చూపి రక్షించినావు కరుణమూర్తి యేసునాద"
+      ],
+      "english": [
+        "Andhakarapu Samayamu Lona Neethi Suryudai Vudayinchaavu",
+        "Gamyam Yerugani Payanamu Lona Satya Samudai Nadipinchaavu",
+        "Naa Neerikshana Aadharam Neevu, Nammadagina Devuda Neevu",
+        "Karuna Choopi Rakshinchi Naavu Karunamurthy Yesu Naadha"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరమ తండ్రివి నీవేనని పూర్ణ మనసుతో ప్రణుతిoచెధను",
+        "పరిశుధుడవు నీవేనని ప్రానార్పనతో ప్రణమిల్లెదను",
+        "విశ్వసించినవారందరికి నిత్యజీవము నొసగే దేవా",
+        "దీనుడను నీ శరణు వేడితి ధన్యుడను నీ కృపను పొందితి (x2)"
+      ],
+      "english": [
+        "Parama Thandrivi Neevenani Poorna Manasutho Pranuthinchedanu",
+        "Parishudhudavu Neevenani Pranarpana Tho Pranamilledhanu",
+        "Viswasinchina Varandhariki Nitya Jeevamu Nosage Deva",
+        "Deenudanu Nee Sharanu Vedithi Dhanyudanu Nee Krupanu Pondhiti (x2)"
+      ]
+    }
+  ]
+}

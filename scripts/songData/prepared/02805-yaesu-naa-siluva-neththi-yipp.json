@@ -1,0 +1,77 @@
+{
+  "song_name": "Yaesu Naa Siluva Neththi Yippudu",
+  "author": {
+    "Authored by": "",
+    "రచన": "వంతగాని పరదేశి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు! నా సిలువ నెత్తి యిప్పుడు నే నీ సుమార్గముఁ బట్టితి",
+      "నా స్వజనము లనాదరంబునఁ త్రోసినను పగజేసిన",
+      "నా సమస్తము నీవెగా యిక నే సరకుగొన నేమియున్"
+    ],
+    "english": [
+      "Yaesu! Naa Siluva Neththi Yippudu Nae Nee Sumaargamun Battithi",
+      "Naa Svajanamu Lanaadharambunan Throasinanu Pagajaesina",
+      "Naa Samasthamu Neevegaa Yika Nae Sarakugona Naemiyun"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎన్ని శ్రమలు వచ్చిన లోకపు టాశ లన్ని",
+        "భిన్నము నొందిన నన్ను ఖిన్నునిజేయ నేరవు",
+        "సన్నుతుండును స్వర్గము నన్ని నావైయున్న విగ",
+        "నిఁక నన్నుఁ గదుపున దెవ్వరు"
+      ],
+      "english": [
+        "Enni Shramalu Vachchina Loakapu Taasha Lanni",
+        "Bhinnamu Nondhina Nannu Khinnunijaeya Naeravu",
+        "Sannuthundunu Svargamu Nanni Naavaiyunna Viga",
+        "Ninka Nannun Gadhupuna Dhevvaru"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆపదల్ ననుఁ జుట్టినఁ జేరుదు నే నో పరాత్పర",
+        "రొమ్మునఁ బ్రావ కుండవు పతితుఁడై నీ దాపు జేరిన వానికిన్",
+        "దాప మాపుచు సంతసంబిడి ధన్యుఁ జేయుదు వీవెగా"
+      ],
+      "english": [
+        "Aapadhal Nanun Juttinan Jaerudhu Nae Noa Paraathpara",
+        "Rommunan Braava Kundavu Pathithundai Nee Dhaapu Jaerina Vaanikin",
+        "Dhaapa Maapuchu Santhasambidi Dhanyun Jaeyudhu Veevegaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నినుఁ బ్రేమించెడు తండ్రిని నా యాత్మా",
+        "నిను రక్షించిన క్రీస్తును గనుమునిన్నుఁ జొ చ్చిన",
+        "ప్రియాత్మను ఘన త్ర్యేకుని నిత్యమున్ గొనుము రక్షణ,",
+        "పాపము చింతను విడిచి యిం కెన్నఁడున్"
+      ],
+      "english": [
+        "Ninun Braeminchedu Thandrini Naa Yaathmaa",
+        "Ninu Rakshinchina Kreesthunu Ganumuninnun Jo Chchina",
+        "Priyaathmanu Ghana Thryaekuni Nithyamun Gonumu Rakshana,",
+        "Paapamu Chinthanu Vidichi Yim Kennandun"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "విశ్వాస కవచంబును మేను నిడి విజ్ఞాపనము చేయుము",
+        "శాశ్వతంబగు రాజ్యమునకును సదయుఁడౌ ప్రభువు నడుపు",
+        "విశ్వసితము లభించునట నీ విన్నపము స్తుతి యౌనుగా"
+      ],
+      "english": [
+        "Vishvaasa Kavachambunu Maenu Nidi Vijnyaapanamu Chaeyumu",
+        "Shaashvathambagu Raajyamunakunu Sadhayundau Prabhuvu Nadupu",
+        "Vishvasithamu Labhinchunata Nee Vinnapamu Sthuthi Yaunugaa"
+      ]
+    }
+  ]
+}

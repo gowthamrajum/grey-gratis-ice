@@ -1,0 +1,44 @@
+{
+  "song_name": "Dhaivaathmaa Dhigumu Dhaasula",
+  "author": {
+    "Authored by": "",
+    "రచన": "మామిళ్ల యెషయా"
+  },
+  "main_stanza": {
+    "telugu": [
+      "దైవాత్మా దిగుము దాసుల పైని నీ దయా దృష్టిఁ పారజేయుము ప్రేమన్ నింపు దేవా యాత్ముండ దిగుము మమ్ముల శుద్ధీకరించుము దయారసముచే ||దైవాత్మా||"
+    ],
+    "english": [
+      "dhaivaathmaa dhigumu dhaasula paini nee dhayaa dhruShtiAO paarajaeyumu praeman niMpu dhaevaa yaathmuMda dhigumu mammula shudhDheekariMchumu dhayaarasamuchae ||dhaivaathmaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దైవాత్మా దిగుము ప్రవక్తలు పూర్వంబు నీదు ప్రేరణవలనఁ బ్రవచించిరి పావురమా దిగి మాలో వసించుము పాపుము చీఁకటి వెలుఁగుచు మాలో ||దైవాత్మా||"
+      ],
+      "english": [
+        "dhaivaathmaa dhigumu pravakthalu poorvMbu needhu praeraNavalanAO bravachiMchiri paavuramaa dhigi maaloa vasiMchumu paapumu cheeAOkati veluAOguchu maaloa ||dhaivaathmaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రమ్ము ఓ యున్నతంపు ఆత్మా నాలుగు దెసల నుండి మమ్ముల నావ రించు రమ్ము రమ్ము దిగి యెండిన యెముకలు గానగు లోకుల మీదికి ముదమున ||దైవాత్మా||"
+      ],
+      "english": [
+        "rammu oa yunnathMpu aathmaa naalugu dhesala nuMdi mammula naava riMchu rammu rammu dhigi yeMdina yemukalu gaanagu loakula meedhiki mudhamuna ||dhaivaathmaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మే మజ్ఞానాంధకారమునను మునిఁగితిమి గాన చెదరఁగఁజేయు మంధకారము పామర జనులకుఁ బేర్మితో నొసఁగు ను జ్ఞాన ప్రకా శము నిల్పుము మాలో ||దైవాత్మా||"
+      ],
+      "english": [
+        "mae majnYaanaaMDhakaaramunanu muniAOgithimi gaana chedharAOgAOjaeyu mMDhakaaramu paamara janulakuAO baermithoa nosAOgu nu jnYaana prakaa shamu nilpumu maaloa ||dhaivaathmaa||"
+      ]
+    }
+  ]
+}

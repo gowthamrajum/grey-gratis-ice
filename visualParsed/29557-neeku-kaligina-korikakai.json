@@ -1,0 +1,86 @@
+{
+  "song_name": "Neevu kaligina korikakai",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Praveen Paul"
+    ],
+    "రచన": [
+      "ప్రవీణ్ పాల్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవు కలిగిన కోరికకై",
+      "వేలాది వందనాలయ్య",
+      "నీవు చేసిన త్యాగముకై",
+      "శతకోటి స్తోత్రములయ్యా",
+      "అయ్యా బలియైనవా నా బ్రతుకు కోసం",
+      "నీ ప్రాణం పెట్టావా నాపాపం కొరకు",
+      "నీ త్యాగమే మహా అద్భుతం",
+      "అయ్యా నీ త్యాగమే వర్ణించలేం"
+    ],
+    "english": [
+      "Neevu kaligina korikakai",
+      "Velaadi vandhanaalayya",
+      "Neevu chesina thyaagamukai",
+      "Shathakoti sthothramulayyaa",
+      "Ayyaa baliyainavaa naa brathuku kosam",
+      "Nee praanam pettaavaa naapaapam koraku",
+      "Nee thyaagame mahaa adbhutham",
+      "Ayyaa nee thyaagame varninchalem"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "విలువలేని నాజీవితాన్నే",
+        "మార్చుటకు నీవు బలియైయ్యవా",
+        "మోడు బారిన నాజీవితన్నే",
+        "చిగురింపజేయుటకు వెలియైయావా",
+        "గొప్ప రక్షణ నాకివ్వాలని",
+        "శుద్ధ రక్తాన్నే ధారబోసావా",
+        "నీ శుద్ధ రక్తాన్నే ధారబోసావా",
+        "నీ ఆశలకే వందనాలేసయ్యా",
+        "నీ యాగానికే స్తోత్రాలేసయ్యా  ||నీవు||"
+      ],
+      "english": [
+        "Viluvaleni naajeevithaanne",
+        "Maarchutaku neevu baliyaiyyavaa",
+        "Modu baarina naajeevithaanne",
+        "Chigurimpajeyutaku veliyaiyaavaa",
+        "Goppa rakshana naakivvaalani",
+        "Shudhdha rakthaanne dhaarabosaavaa",
+        "Nee shudhdha rakthaanne dhaarabosaavaa",
+        "Nee aashalake vandhanaalesayyaa",
+        "Nee yaagaanike sthothraalesayyaa ||Neevu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ ముఖము మీద ఉమ్మి వేసిన",
+        "నీ నిర్ణయాన్నే మార్చుకోలేదయ్యా",
+        "మోయలేని భారాన్ని మోసిన",
+        "ఇచ్చిన మాట తప్పలేదయ్య",
+        "చిత్రహింసలే అనుభవించినా",
+        "చావుకు నీవు తలవంచలేదయ్యా",
+        "చావుకె నీవు తలవంచలేదయ్యా",
+        "నా కోసమే కదా ఈ సిలువ యాగం",
+        "నీ నిర్ణయమే గొప్ప సమర్పణ అయ్యా  ||నీవు||"
+      ],
+      "english": [
+        "Nee mukhamu meeda ummi vesina",
+        "Nee nirnayaanne maarchukoledhayyaa",
+        "Moyaleni bhaaraanni mosina",
+        "Ichchina maata thappaledhayya",
+        "Chithrahimsale anubhavinchinaa",
+        "Chaavuku neevu thalavanchaledhayyaa",
+        "Chaavuke neevu thalavanchaledhayyaa",
+        "Naa kosame kadaa ee siluva yaagam",
+        "Nee nirnayame goppa samarpana ayyaa ||Neevu||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "song_name": "Stuti Aradhana Parisuddunake Jivadhipatiyaina Yesunake",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తుతి ఆరాధన పరిశుద్దునకే జీవాధిపతియైన యేసునకే (2)",
+      "మనసార పూజింతును నా రక్షకా నా ఆధారం నీవే నా ప్రేమమయుడా (2)"
+    ],
+    "english": [
+      "Stuti Aradhana Parisuddunake Jivadhipatiyaina Yesunake (2)",
+      "Manasara Pujimtunu Na Rakshaka Na Adharam Nive Na Premamayuda (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మహిమ ప్రభావము నీకే చెల్లింతు మహిమ ప్రభావములు నీకే అర్పింతు (2)",
+        "మనసార పూజింతును నా రక్షకా నా ఆధారం నీవే నా ప్రేమమయుడా (2)"
+      ],
+      "english": [
+        "Mahima Prabavamu Nike Chellimtu Mahima Prabavamulu Nike Arpimtu (2)",
+        "Manasara Pujimtunu Na Rakshaka Na Adharam Nive Na Premamayuda (2)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "song_name": "Laechi Sthuthimpa Boonudi Loakaeshvaruni",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "లేచి స్తుతింపఁ బూనుఁడి లోకేశ్వరుని",
+      "లేచి స్తుతింపఁ బూనుఁడి లేచి స్తుతించెదము",
+      "చూచుచు మనలను బ్రోచి ప్రేమతోఁ గరము జాచి కాపాడు విభుని"
+    ],
+    "english": [
+      "Laechi Sthuthimpa Boonudi Loakaeshvaruni",
+      "Laechi Sthuthimpa Boonudi Laechi Sthuthinchedhamu",
+      "Choochuchu Manalanu Broachi Praemathoa Garamu Jaachi Kaapaadu Vibhuni"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రాత్రి జాముల యందున రంజిలఁదన నేత్రము తెరచినందున",
+        "మైత్రితో దేవ దయకు పాత్రులమైతిమి",
+        "శ్రోత్రముల కింపుసఁబ విత్ర గీతము పాడుచు"
+      ],
+      "english": [
+        "Raathri Jaamula Yandhuna Ranjiladhana Naethramu Therachinandhuna",
+        "Maithrithoa Dhaeva Dhayaku Paathrulamaithimi",
+        "Shroathramula Kimpusaba Vithra Geethamu Paaduchu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిదురఁభోయిన వేళను నిర్మలమైన హృదయము మనకు నియ్యను",
+        "ముదముతో నిదురఁబొంది యుదయాన లేచితిమి",
+        "సదయుఁడైన క్రీస్తు పదముల దరిఁజేర"
+      ],
+      "english": [
+        "Nidhurabhoayina Vaelanu Nirmalamaina Hrudhayamu Manaku Niyyanu",
+        "Mudhamuthoa Nidhurabondhi Yudhayaana Laechithimi",
+        "Sadhayudaina Kreesthu Padhamula Dharijaera"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిగమ వేద్యుఁడు మనలనుఁ దనలోన నీ పగలు కాపాడఁబూనెను",
+        "దిగులు బొందక పనులు తెగువతోఁ జరుపుకొనుచు",
+        "వగపుతో లేచి మ్రొక్కి మిగుల శుద్ధాత్మనడిగి"
+      ],
+      "english": [
+        "Nigama Vaedhyudu Manalanu Dhanaloana Nee Pagalu Kaapaadaboonenu",
+        "Dhigulu Bondhaka Panulu Theguvathoa Jarupukonuchu",
+        "Vagaputhoa Laechi Mrokki Migula Shuddhaathmanadigi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నేటి పాఠములయందు నిర్భయముగ దాటివెలసి యుందు",
+        "సూటిగ నీదు ఱెక్కల చాటుగను నిలుపు మనుచు",
+        "నీటుగా నెల్లవార నిత్యము ప్రేమనేల"
+      ],
+      "english": [
+        "Naeti Paatamulayandhu Nirbhayamuga Dhaativelasi Yundhu",
+        "Sootiga Needhu Rekkala Chaatuganu Nilupu Manuchu",
+        "Neetugaa Nellavaara Nithyamu Praemanaela"
+      ]
+    }
+  ]
+}

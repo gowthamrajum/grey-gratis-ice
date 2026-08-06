@@ -1,0 +1,40 @@
+{
+  "song_name": "Chukkallo",
+  "author": {
+    "Authored by": "Pastor Pandu Prem Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "చుక్కల్లో చక్కని చుక్క పుట్టింది..హే…హే..హే…",
+      "రాజుల్లో రారాజు పుట్టాడు..హే…హే",
+      "యూదులకు రాజుగా యేసురాజు",
+      "అందరికీ ప్రభువుగా ఉదయించెన్..",
+      "హే..హే..హే.."
+    ],
+    "english": [
+      "Chukkallo chakkani chukka puttindi hey hey hey",
+      "raajullo raaraaju puttaadu hey hey",
+      "yoodhulaku raajugaa yesuraaju",
+      "andhariki prabhuvugaa udhayinchen",
+      "hey hey hey"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హ్యాపీ క్రిస్మస్",
+        "వి విష్ యు ఎ హ్యాపీ క్రిస్మస్",
+        "మెర్రీ క్రిస్మస్",
+        "వి విష్ యు ఎ మెర్రీ క్రిస్మస్"
+      ],
+      "english": [
+        "Happy Christmas",
+        "We wish you a happy Christmas",
+        "Merry Christmas",
+        "We wish you a merry Christmas"
+      ]
+    }
+  ]
+}

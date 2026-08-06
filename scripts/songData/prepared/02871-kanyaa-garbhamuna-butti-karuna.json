@@ -1,0 +1,73 @@
+{
+  "song_name": "Kanyaa Garbhamuna Butti Karunagalgu",
+  "author": {
+    "Authored by": "",
+    "రచన": "మిక్కిలి దేవసహాయము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "కన్యా గర్భమున బుట్టి కరుణగల్గు బాలుఁడవైన",
+      "కన్యా సుతుండ నిన్నే నమ్మితి నో యేసునాధ",
+      "కన్ను లెత్తి మమ్ముఁ జూడుము"
+    ],
+    "english": [
+      "Kanyaa Garbhamuna Butti Karunagalgu Baaludavaina",
+      "Kanyaa Suthumda Ninnae Nammithi Noa Yaesunaadha",
+      "Kannu Leththi Mammu Joodumu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "బాల ప్రాయమున నేను బాగుగా నీ పాద సేవఁ",
+        "జాలజేసి యున్న వా డనుగా యో యేసు నాధ",
+        "చాల దయతో మేలు చేయుమి"
+      ],
+      "english": [
+        "Baala Praayamuna Naenu Baagugaa Nee Paadha Saeva",
+        "Jaalajaesi Yunna Vaa Danugaa Yoa Yaesu Naadha",
+        "Chaala Dhayathoa Maelu Chaeyumi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇంపైనట్టి మరియ తనయ యిహము పరము నేలు బాల",
+        "సొంపుగా నీ ప్రాపే గోరితి నో యేసునాధ",
+        "చెంపఁ గొట్టి బుద్ధి చెప్పుము"
+      ],
+      "english": [
+        "Impainatti Mariya Thanaya Yihamu Paramu Naelu Baala",
+        "Sompugaa Nee Praapae Goarithi Noa Yaesunaadha",
+        "Chempa Gotti Budhdhi Cheppumu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తుంటతనము చేత జగము తంటాచేసి తిరుగుచుంటి",
+        "నంటిన మాయల బాధల నో యేసు నాధ",
+        "యంటుఁ బాపి జంటజేయుము"
+      ],
+      "english": [
+        "Thumtathanamu Chaetha Jagamu Thmtaachaesi Thiruguchumti",
+        "Nmtina Maayala Baadhala Noa Yaesu Naadha",
+        "Ymtu Baapi Jmtajaeyumu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మింట నుండి నీవు వచ్చి మంటి పైని బాలుఁడ వగుచుఁ",
+        "గంటి కింపు గాను నడిచితి వో యేసు నాధ",
+        "కానుపర్చి తోవు త్రోవను"
+      ],
+      "english": [
+        "Mimta Numdi Neevu Vachchi Mmti Paini Baaluda Vaguchu",
+        "Gmti Kimpu Gaanu Nadichithi Voa Yaesu Naadha",
+        "Kaanuparchi Thoavu Throavanu"
+      ]
+    }
+  ]
+}

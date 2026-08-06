@@ -1,0 +1,82 @@
+{
+  "song_name": "Vinthaina prema idhegaa Yesayya prema nijangaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Joshua Shaik"
+    ],
+    "రచన": [
+      "జాషువా షేక్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "వింతైన ప్రేమ ఇదేగా – యేసయ్య ప్రేమ నిజంగా",
+      "ఇలాగే జయించి, వరించే ఆ ప్రేమలోనే – నే సాగిపోనా",
+      "ఇంతగా చేరువై పిలిచెనే – అంతగా సొంతమై నిలిచెనే",
+      "నన్ను గెలిచెనే",
+      "యూర్ మై మేకర్ – యూ ఆర్ మై లైఫ్",
+      "యూర్ మై సేవియర్ – యూ ఆర్ మై స్ట్రెంగ్త్",
+      "యూర్ మై ఫాదర్ – యూ ఆర్ మై కింగ్",
+      "ఫరెవర్ అండ్ ఎవర్ , మై జీసస్"
+    ],
+    "english": [
+      "Vinthaina prema idhegaa – Yesayya prema nijangaa",
+      "Ilaage jayinchi, varinche aa premalone – ne saagiponaa",
+      "Inthagaa cheruvai pilichene – anthagaa sonthamai nilichene",
+      "Nannu gelichene",
+      "You're my Maker – You are my Life",
+      "You're my Savior – You are my Strength",
+      "You're my Father – You are my King",
+      "Forever and ever , My Jesus"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ మాటతోనే జగాన దీపమే",
+        "ఆ కాంతిలోనే అనంత జీవమే",
+        "ఆదియు, అంతము – మార్గము, సత్యము",
+        "వీడనీ బంధము, స్నేహము",
+        "నీవెగా తియ్యనీ భావము",
+        "ఎంతటీ ఆనందము"
+      ],
+      "english": [
+        "Nee maatathone jagaana dheepame",
+        "Aa kaanthilone anantha jeevame",
+        "Aadiyu, anthamu – maargamu, sathyamu",
+        "Veedanee bandhamu, snehamu",
+        "Neevegaa thiyyanee bhaavamu",
+        "Enthatee aanandamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ సేవలోనే తపించే భాగ్యమే",
+        "నీ ప్రేమలోనే తరించే యోగమే",
+        "తోడుగా, నీడగా – ఉన్నదే నీవుగా",
+        "ఎన్నడూ మారనీ దైవము",
+        "నీవెగా తీరము, గమ్యము",
+        "ఎంతటీ ఆనందము",
+        "ఇదిగో యేసుని చూడగ రావా – ఆయన చెంతకు రావేలా ?",
+        "వీడని ప్రేమను చేరగ నీవు – ప్రేమతో తాను వేచేగా",
+        "మారని ప్రేమ, తీయని ప్రేమ – యేసుని ప్రేమే చాలునుగా",
+        "యేసుని ప్రేమే చాలునుగా"
+      ],
+      "english": [
+        "Nee sevalone thapinche bhaagyame",
+        "Nee premalone tharinche yogame",
+        "Thodugaa, needagaa – unnadhe neevugaa",
+        "Ennadoo maaranee daivamu",
+        "Neevegaa theeramu, gamyamu",
+        "Enthatee aanandamu",
+        "Idigo Yesuni choodaga raavaa – aayana chenthaku raavelaa ?",
+        "Veedani premanu cheraga neevu – prematho thaanu vechegaa",
+        "Maarani prema, theeyani prema – Yesuni preme chaalunugaa",
+        "Yesuni preme chaalunugaa"
+      ]
+    }
+  ]
+}

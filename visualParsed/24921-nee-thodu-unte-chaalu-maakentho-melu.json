@@ -1,0 +1,60 @@
+{
+  "song_name": "Nee thodu unte chaalu maakentho melu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Pastor Prasad Nelapudi"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీతోడు ఉంటే చాలు మాకెంతో మేలు",
+      "నీ నీడ ఉంటే చాలు ఎకొదువ మాకు లేదు (2)",
+      "కలతలన్ని తీర్చి కలసి మాతో నడచి",
+      "మారని ప్రేమచూపిన మంచి యేసయ్యా(2)",
+      "చాలునయా నీ కృప ప్రతి దినము పోషించుచున్నదయా",
+      "చాలునయా నీ కృప ప్రతి క్షణము ఆదరించుచున్నదయా (2)"
+    ],
+    "english": [
+      "Neethodu unte chaalu maakentho melu",
+      "Nee needa unte chaalu e koduva maaku ledu (2)",
+      "Kalathalanni theerchi kalasi maatho nadachi",
+      "Maarani premachoopina manchi Yesayyaa(2)",
+      "Chaalunayaa nee krupa prathi dinamu poshinchuchunnadhayaa",
+      "Chaalunayaa nee krupa prathi kshanamu aadharinchuchunnadhayaa (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మా కష్టకాలములో నీదయను మాపై చూపి",
+        "బీడులాంటి మా బ్రతుకులను నీటి ఊటగా మార్చావయా (2)",
+        "ఆపదలన్నీ మము చుట్టూముట్టిన ఆప్తులందరు దూరమైన",
+        "అనురాగాలు మాపై కురిపించి నీ మధుర ప్రేమను చూపావయా (2)  ||నీతోడు||"
+      ],
+      "english": [
+        "Maa kashtakaalamulo needhayanu maapai choopi",
+        "Beedulaanti maa brathukulanu neethi ootagaa maarchaavayaa (2)",
+        "Aapadhalannee mamu chuttoomuttina aapthulandharu dooramaina",
+        "Anuraagaalu maapai kuripinchi nee madhura premanu choopaavayaa (2)  ||Neethodu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మా హృదయ వేదనలో నీ జాలి మాపై చూపి",
+        "కన్నీటి దుఃఖమును నాట్యముగా మార్చావయా (2)",
+        "గాయాలెన్నో కలవరపరచిన కారుమబ్బులే కమ్ముకొన్నాను",
+        "అనుబంధాలే మాపై చూపించి నీ ప్రేమ కౌగిలిలో దాచవయా (2)  ||నీతోడు||"
+      ],
+      "english": [
+        "Maa hrudaya vedhanalo nee jaali maapai choopi",
+        "Kanneeti duhkhamunu naatyamugaa maarchaavayaa (2)",
+        "Gaayaalenno kalavaraparachina kaarumabbule kammukonnaanu",
+        "Anubandhaale maapai choopinchi nee prema kaugililo dhaachavayaa (2)  ||Neethodu||"
+      ]
+    }
+  ]
+}

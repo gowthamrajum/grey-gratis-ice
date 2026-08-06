@@ -1,0 +1,72 @@
+{
+  "song_name": "Ninu namminacho",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిను నమ్మినచో సిగ్గుపడనీయవు",
+      "నను నెమ్మదితో నీవే ఉంచెదవు",
+      "ఆపత్కాలమున నమ్ముకొనదగిన",
+      "అ.ప: యేసూ నీవే ఆధారము",
+      "యేసూ నీవే నా ప్రాణము"
+    ],
+    "english": [
+      "Ninu namminacho siggupadaneeyavu",
+      "Nanu nemmadhitho neeve unchedhavu",
+      "Aapathkaalamuna nammukonadhagina",
+      "A.pa: Yesoo neeve aadhaaramu",
+      "Yesoo neeve naa praanamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తెలివిని నమ్ముకొని తూలి పడ్డాను",
+        "బుద్ధి జ్ఞానము నీ దానమని నీ చెంతకు చేరాను"
+      ],
+      "english": [
+        "Thelivini nammukoni thooli paddaanu",
+        "Buddhi gnaanamu nee dhaanamani nee chenthaku cheraanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బలమును నమ్ముకొని భంగపడ్డాను",
+        "శక్తిమంతుడా నా కోటవని నీ చెంతకు చేరాను"
+      ],
+      "english": [
+        "Balamunu nammukoni bhangapaddaanu",
+        "Shakthimanthudaa naa kotavani nee chenthaku cheraanu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ధనమును నమ్ముకొని దగాపడ్డాను",
+        "సుఖసంపద నీ దీవెనని నీ చెంతకు చేరాను"
+      ],
+      "english": [
+        "Dhanamunu nammukoni dhagaapaddaanu",
+        "Sukhasampadha nee dheevenani nee chenthaku cheraanu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మనుష్యుల నమ్ముకొని మభ్యపడ్డాను",
+        "సత్యవంతుడా ఆశ్రయుడవని",
+        "నీ చెంతకు చేరాను"
+      ],
+      "english": [
+        "Manushyula nammukoni mabhyapaddaanu",
+        "Sathyavanthudaa aashrayudavani",
+        "Nee chenthaku cheraanu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "song_name": "Dharaniloani Dhanamu Lella Dharanipaalai Poavunu",
+  "author": {
+    "Authored by": "",
+    "రచన": "పులిపాక జగన్నాధము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ధరణిలోని ధనము లెల్ల ధరణిపాలై పోవును",
+      "గరిమతోడ నీవు గైకొను నిరత ముండెడి ధనమును"
+    ],
+    "english": [
+      "Dharaniloani Dhanamu Lella Dharanipaalai Poavunu",
+      "Garimathoada Neevu Gaikonu Niratha Mundedi Dhanamunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు నందు నిత్యజీవం బిపుడు దేవుఁ డిచ్చును",
+        "తీసికొనుము దాని వేగము దివ్య వరముగ నమ్మికన్"
+      ],
+      "english": [
+        "Yaesu Nandhu Nithyajeevam Bipudu Dhaevu Dichchunu",
+        "Theesikonumu Dhaani Vaegamu Dhivya Varamuga Nammikan"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విడుపు నీదు పాపములను తడవుఁజేయుఁ బోకుమీ",
+        "విడువ కున్న నీకుఁ గల్గు వేద నాధికంబుపో"
+      ],
+      "english": [
+        "Vidupu Needhu Paapamulanu Thadavujaeyu Boakumee",
+        "Viduva Kunna Neeku Galgu Vaedha Naadhikambupoa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరుల మాటలఁ బట్టి నీవు పడకు మోస మందున",
+        "నరుల కొఱకు జీవ మిచ్చిన పరమధాముని నమ్ముమీ"
+      ],
+      "english": [
+        "Parula Maatala Batti Neevu Padaku Moasa Mandhuna",
+        "Narula Koraku Jeeva Michchina Paramadhaamuni Nammumee"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "తలఁచుకొనుమీ ధరణిలోన నిలుచు కాల మంతట",
+        "విలువలేని యేసు ప్రేమ విధము చక్కఁగ నెఱుఁగుచు"
+      ],
+      "english": [
+        "Thalachukonumee Dharaniloana Niluchu Kaala Manthata",
+        "Viluvalaeni Yaesu Praema Vidhamu Chakkaga Neruguchu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "దేవ కృపను బోలునట్టి దివ్య భాగ్య మొకటియున్",
+        "నీవు చూడ బోవు మిత్ర నేట నెచట వెదకినన్"
+      ],
+      "english": [
+        "Dhaeva Krupanu Boalunatti Dhivya Bhaagya Mokatiyun",
+        "Neevu Chooda Boavu Mithra Naeta Nechata Vedhakinan"
+      ]
+    }
+  ]
+}

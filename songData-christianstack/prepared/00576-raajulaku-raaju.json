@@ -1,0 +1,34 @@
+{
+  "song_name": "Raajulaku Raaju",
+  "author": {
+    "Authored by": "John Kennedy Bethapudi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాజులకు రాజు ప్రభువులకు ప్రభువు",
+      "రక్షకునిగ అరుదెంచిన రోజు",
+      "మహోన్నతుడు సర్వశక్తుడు",
+      "పుడమిపై పుట్టిన రోజు"
+    ],
+    "english": [
+      "Rajulaku raju prabhuvulaku prabhuvu",
+      "rakshakuniga arudhenchina roju",
+      "mahonnathudu sarvasakthudu",
+      "pudamipai puttina roju"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అదే అదే క్రిస్మస్ రోజు",
+        "అదే అదే క్రిస్మస్ రోజు"
+      ],
+      "english": [
+        "Adhe adhe christmas roju",
+        "adhe adhe christmas roju"
+      ]
+    }
+  ]
+}

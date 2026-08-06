@@ -1,0 +1,44 @@
+{
+  "song_name": "Dhaasula Praarthana Dhappaka Y",
+  "author": {
+    "Authored by": "",
+    "రచన": "పురుషోత్తము చౌదరి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "దాసుల ప్రార్థన దప్పక యెసఁగెడు యేసు నాయకుఁడై మా వేల్పు దోసములు సేయు దుర్జనుఁడైనను దోసి లొగ్గఁ బర వాసి జేయునఁట ||దాసుల||"
+    ],
+    "english": [
+      "dhaasula praarThana dhappaka yesAOgedu yaesu naayakuAOdai maa vaelpu dhoasamulu saeyu dhurjanuAOdainanu dhoasi loggAO bara vaasi jaeyunAOta ||dhaasula||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జన రహిత స్థల మున జని వేఁడెడి మనుజుల ప్రార్థన వినుచుండున్ తన పాదము న మ్మిన సాధూత్తమ జనులను జూచిన సంతస మిడునఁట ||దాసుల||"
+      ],
+      "english": [
+        "jana rahitha sThala muna jani vaeAOdedi manujula praarThana vinuchuMdun thana paadhamu na mmina saaDhooththama janulanu joochina sMthasa midunAOta ||dhaasula||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మది విశ్వాసము గూడిన ప్రార్థన సదయత వినుటకుఁ జెవు లొగ్గున్ హృదయము కనుఁగొని యుచిత సమయమున గుదురుగ భక్తుల కోర్కె లిచ్చునట ||దాసుల||"
+      ],
+      "english": [
+        "madhi vishvaasamu goodina praarThana sadhayatha vinutakuAO jevu loggun hrudhayamu kanuAOgoni yuchitha samayamuna gudhuruga bhakthula koarke lichchunata ||dhaasula||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ముదమున నిద్దరు ముగ్గురు నొకచోఁ బదిలముగాఁ దనుఁ బ్రార్ధింపన్ వదలక దానట వచ్చి యుందు నని మృదువుగఁ బలికిన కృత రక్షణు(డట ||దాసుల||"
+      ],
+      "english": [
+        "mudhamuna nidhdharu mugguru nokachoaAO badhilamugaaAO dhanuAO braarDhiMpan vadhalaka dhaanata vachchi yuMdhu nani mrudhuvugAO balikina krutha rakShNu(data ||dhaasula||"
+      ]
+    }
+  ]
+}

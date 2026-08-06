@@ -1,0 +1,38 @@
+{
+  "song_name": "Entha Madhuram",
+  "author": {
+    "Authored by": "KR John",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్వచ్చమైన తల్లి ప్రేమలా",
+      "కమ్మనైన తల్లి పాలలా",
+      "మధురం యేసు వాక్యము"
+    ],
+    "english": [
+      "Swachamaina thalli premalaa",
+      "kammanaina thalli paalalaa",
+      "madhuram yesu vaakyamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎంత మధురం మధురాతి మధురం",
+        "యేసుని వాక్యం సర్వదా మధురం",
+        "నిన్న నేడు ఒక్కటే రీతిగా",
+        "నిరతము ఒకే మాటగా",
+        "మారని మార్పులేని యేసు మాట మధురం"
+      ],
+      "english": [
+        "Entha madhuram madhuraathi madhuram",
+        "yesuni vaakyam sarvadaa madhuram",
+        "ninna nedu okkate reethigaa",
+        "nirathamu oke maatagaa",
+        "maarani maarpuleni yesu maata madhuram"
+      ]
+    }
+  ]
+}

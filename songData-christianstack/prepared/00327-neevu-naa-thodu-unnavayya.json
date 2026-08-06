@@ -1,0 +1,58 @@
+{
+  "song_name": "Neevu Naa Thodu Unnavayya",
+  "author": {
+    "Authored by": "Father Deva",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవు నా తోడు ఉన్నావయ్యా",
+      "నాకు భయమేల నా యేసయ్యా",
+      "నీవు నాలోనే ఉన్నావయ్యా",
+      "నాకు దిగులేల నా మెస్సయ్యా",
+      "నాకు భయమేల నాకు దిగులేల",
+      "నాకు చింతేల నాకు భీతి ఏల"
+    ],
+    "english": [
+      "Neevu naa thodu unnaavayyaa",
+      "naaku bhayamela naa yesayyaa",
+      "neevu naalone unnaavayyaa",
+      "naaku digulela naa messayyaa",
+      "naaku bhayamela naaku digulela",
+      "naaku chinthela naaku bheethi ela"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కష్టములో నష్టములో నా తోడు ఉన్నావు",
+        "వేదనలో ఆవేదనలో నా చెంత ఉన్నావు",
+        "అడిగిన వారికి ఇచ్చేవాడవు",
+        "వెదకిన వారికి దొరికేవాడవు",
+        "తట్టిన వారికి తలుపులు తెరిచే దేవుడవు",
+        "దేవా దేవా నీకే స్తోత్రం",
+        "వ్యాధులలో బాధలలో ఊరటనిచ్చావు",
+        "రక్షణలో సంరక్షకుడై ధైర్యము పంచావు",
+        "నేనే సత్యం అన్న దేవా",
+        "నేనే మార్గం అన్న దేవా",
+        "నేనే జీవము అని పలికిన దేవా",
+        "దేవా దేవా నీకే స్తోత్రం"
+      ],
+      "english": [
+        "Kashtamulo nashtamulo naa thodu unnaavu",
+        "vedhanalo aavedhanalo naa chentha unnaavu",
+        "adigina vaariki ichchevaadavu",
+        "vedakina vaariki dorikevaadavu",
+        "thattina vaariki thalupulu theriche devudavu",
+        "devaa devaa neeke sthothram",
+        "Vyaadhulalo baadhalalo ooratanichchaavu",
+        "rakshanalo samrakshakudai dhairyamu panchaavu",
+        "nene sathyam anna devaa",
+        "nene maargam anna devaa",
+        "nene jeevamu ani palikina devaa",
+        "devaa devaa neeke sthothram"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "song_name": "Yehova maa prabhuvaa bhoomi aakaashamulo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవా మా ప్రభువా భూమి ఆకాశములో",
+      "మహిమగల నీ నామము గొప్పది"
+    ],
+    "english": [
+      "Yehova maa prabhuvaa bhoomi aakaashamulo",
+      "Mahimagala nee naamamu goppadi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పగతీర్చుకొను శత్రువును మాన్పివేయ",
+        "బాలుర స్తుతి స్తోత్రములతో",
+        "స్థాపించితివి నీవొక దుర్గము",
+        "నేదాగునట్లు ఆశ్రయ దుర్గము"
+      ],
+      "english": [
+        "Pagatheerchukonu shathruvunu maanpiveya",
+        "Baalura sthuthi sthothramulatho",
+        "Sthaapinchithivi neevoka durgamu",
+        "Ne dhaagunatlu aashraya durgamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ చేతి పనియైన ఆకాశమును",
+        "చంద్ర నక్షత్రములనే చూడగా",
+        "వాని దర్శించి జ్ఞాపకము చేయ",
+        "మానవుండు ఏపాటివాడు"
+      ],
+      "english": [
+        "Nee chethi paniyaina aakaashamunu",
+        "Chandhra nakshathramulane choodagaa",
+        "Vaani darshinchi gnaapakamu cheya",
+        "Maanavundu epaativaadu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీకంటె మానవుని కొంచెముగా",
+        "తక్కువ వానిగా చేసితివి",
+        "మహిమ ప్రభావ కిరీటమును",
+        "వానికి ధరింపజేసితివి"
+      ],
+      "english": [
+        "Neekante maanavuni konchemugaa",
+        "Thakkuva vaanigaa chesithivi",
+        "Mahima prabhaava kireetamunu",
+        "Vaaniki dharimpajesithivi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "అడవి మృగములు ఆకాశపక్షులు",
+        "సముద్ర మత్స్యములు పశువులు",
+        "వాని పాదముల క్రిందనుంచి",
+        "అధికారము వానికిచ్చితివి"
+      ],
+      "english": [
+        "Adavi mrugamulu aakaashapakshulu",
+        "Samudra mathsyamulu pashuvulu",
+        "Vaani paadamula krindhanunchi",
+        "Adhikaaramu vaanikichchithivi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీ నామము మా ప్రభువా యెహోవా",
+        "ఎంతో ఘనత ప్రభావము గలది",
+        "ఆ నామమును బట్టి మా కిచ్చితివి",
+        "నీ రూపమును మాకు హల్లెలూయ"
+      ],
+      "english": [
+        "Nee naamamu maa prabhuvaa Yehova",
+        "Entho ghanatha prabhaavamu galadi",
+        "Aa naamamunu batti maa kichchithivi",
+        "Nee roopamunu maaku halleluya"
+      ]
+    }
+  ]
+}

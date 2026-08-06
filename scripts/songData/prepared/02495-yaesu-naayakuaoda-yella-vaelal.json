@@ -1,0 +1,74 @@
+{
+  "song_name": "Yaesu Naayakuda Yella Vaelalanu",
+  "author": {
+    "Authored by": "",
+    "రచన": "గొల్లపల్లి సతానియేలు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు నాయకుఁడ యెల్ల వేళలను నీ దాసుల నేలుమయ్యా",
+      "మోసములన్నిటి మునగఁద్రోతునని బాసలు జేసిన ప్రభుఁడవు నీవెగా"
+    ],
+    "english": [
+      "Yaesu Naayakuda Yella Vaelalanu Nee Dhaasula Naelumayyaa",
+      "Moasamulanniti Munagadhroathunani Baasalu Jaesina Prabhudavu Neevegaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రేయింబవలు మా న్యాయము చెరిపెడి మాయ పిశచిని త్రోయుమి దూరము",
+        "బాయక భక్తుల చేయి విడువని బహుశ్రేష్టుఁడ నీవెగా"
+      ],
+      "english": [
+        "Raeyimbavalu Maa Nyaayamu Cheripedi Maaya Pishachini Throayumi Dhooramu",
+        "Baayaka Bhakthula Chaeyi Viduvani Bahushraeshtuda Neevegaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "హృదయము లోకము మది పాపము మమ్ము సతతము శ్రమ పెట్టును",
+        "సదయుఁడ మమ్మును వదలక నిత్యము మది తలపులలో మహిమగనేలుమీ"
+      ],
+      "english": [
+        "Hrudhayamu Loakamu Madhi Paapamu Mammu Sathathamu Shrama Pettunu",
+        "Sadhayuda Mammunu Vadhalaka Nithyamu Madhi Thalapulaloa Mahimaganaelumee"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కాపాడుమి మమ్ము మాపు రేపు నీ శ్రీ పాదము లొద్దను",
+        "ఏ పాపములును ఏలకుండగ నీ ప్రాపునఁబెంచుము మాపాలకుఁడవో"
+      ],
+      "english": [
+        "Kaapaadumi Mammu Maapu Raepu Nee Shree Paadhamu Lodhdhanu",
+        "Ae Paapamulunu Aelakumdaga Nee Praapunabemchumu Maapaalakudavoa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మా కొరకై నీ మేనును మ్రానున మేకులతోఁగొట్టగ",
+        "మానము మహిమలు మనుజుల కియ్యను భానుఁడ రాజుగ బ్రతికిలేచితివి"
+      ],
+      "english": [
+        "Maa Korakai Nee Maenunu Mraanuna Maekulathoagottaga",
+        "Maanamu Mahimalu Manujula Kiyyanu Bhaanuda Raajuga Brathikilaechithivi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "చెఱను చెఱనుగా మరి పట్టుక నీవు పరమున కరిగితివే",
+        "వరముల నిడితివి ధరలో నరులకు పరముఁడ నీ దయ మరువశక్యమా"
+      ],
+      "english": [
+        "Cheranu Cheranugaa Mari Pattuka Neevu Paramuna Karigithivae",
+        "Varamula Nidithivi Dharaloa Narulaku Paramuda Nee Dhaya Maruvashakyamaa"
+      ]
+    }
+  ]
+}

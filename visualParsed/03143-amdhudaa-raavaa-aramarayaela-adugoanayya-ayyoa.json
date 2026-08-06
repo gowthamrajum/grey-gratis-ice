@@ -1,0 +1,88 @@
+{
+  "song_name": "Andhudaa raavaa aramarayela adugonayya",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "అంధుడా రావా అరమరయేల అడుగోనయ్య! అయ్యో అడుగో యేసయ్య..."
+    ],
+    "english": [
+      "Andhudaa raavaa aramarayela adugonayya! Ayyo adugo Yesayya..."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీతిసూర్యుడు నిర్మలజ్యోతి నిను వెలిగింపను నరుదెంచె",
+        "ఖ్యాతిగ సిలువలో కరములు జూచి కన్నీనరొలుకుచు నినుపిలిచె...||అ||"
+      ],
+      "english": [
+        "Neethisooryudu nirmalajyothi ninu veligimpanu narudhenche",
+        "Khyaathiga siluvalo karamulu joochi kanneerolukuchu ninupiliche...||A||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మరణపుశక్తిని మార్కొనియేసు మరణమునుండి జయ",
+        "మొందే పరమందలి తండ్రియు దూతలుగని కరములెత్తి",
+        "జయధ్వనులిడిరె ||అ||"
+      ],
+      "english": [
+        "Maranapushakthini maarkoni Yesu maranamunundi jaya",
+        "Mondhe paramandhali thandriyu dhoothalugani karamuletthi",
+        "Jayadhwanulidire ||A||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ధైర్యముచెడెను సృష్టికిని ఆ దైవ మరణమును తిలకించా",
+        "ధైర్యము చెడెను అధికారులకును దాతను చేరను గఠినంబా ||"
+      ],
+      "english": [
+        "Dhairyamuchedenu srushtikini aa daiva maranamunu thilakinchaa",
+        "Dhairyamu chedenu adhikaarulakunu dhaathanu cheranu gathinambaa ||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "లోకపు జ్ఞానము వ్యర్థమని యిక శోక మొందడి దినములని",
+        "జాగినయేల యేసును చేరి జయమని పాడుము అభయమని ||"
+      ],
+      "english": [
+        "Lokapu gnaanamu vyarthamani ika shoka mondadi dhinamulani",
+        "Jaaginayela Yesunu cheri jayamani paadumu abhayamani ||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పావనయేసుని పదముల చేరుము పాపములను తొలగించు",
+        "నిదే జీవము నిచ్చును భావము మార్చును దేవ దేవుని",
+        "కరుణ యిదే ||అ||"
+      ],
+      "english": [
+        "Paavana Yesuni padhamula cherumu paapamulanu tholaginchu",
+        "Nide jeevamu nichchunu bhaavamu maarchunu Deva Devuni",
+        "Karuna idhe ||A||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "హల్లెలూయ పాటలు పాడుదము ఆనందముతో ప్రభు",
+        "చాటుదము అలరాకడకై తలలెత్తుదము ఆ ప్రభురాగా వెళ్ళుదము ||అ||"
+      ],
+      "english": [
+        "Hallelooya paatalu paadudhamu aanandamutho Prabhu",
+        "Chaatudhamu ala raakadakai thalaletthudhamu aa Prabhu raagaa velludhamu ||A||"
+      ]
+    }
+  ]
+}

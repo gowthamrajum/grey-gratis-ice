@@ -1,0 +1,97 @@
+{
+  "song_name": "Parishuddha Prabhu Yesu - Sthuthi sthothram",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరిశుద్ధ ప్రభు యేసు - స్తుతి స్తోత్రం",
+      "నన్ను రక్షించినట్టి - నా ప్రభువా"
+    ],
+    "english": [
+      "Parishuddha Prabhu Yesu - Sthuthi sthothram",
+      "Nannu rakshinchinatti - Naa Prabhuvaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గొప్ప దేవుడవని - నే నెరిగితిని",
+        "తప్పకుండ నీ నామము - స్మరియింతును"
+      ],
+      "english": [
+        "Goppa Devudavani - Ne nerigithini",
+        "Thappakunda nee naamamu - Smariyinthunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తండ్రివైతివి నీవు - పరమునందు",
+        "దండి ప్రియుదవు నీవు - నా రక్షకా"
+      ],
+      "english": [
+        "Thandrivaithivi neevu - Paramunandhu",
+        "Dandi priyudavu neevu - Naa rakshakaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బహు విశ్వాస హీనుడ - నగు నాకు",
+        "మహా ప్రభువై నన్నున్ - మోసెదవా!"
+      ],
+      "english": [
+        "Bahu vishwaasa heenuda - Nagu naaku",
+        "Mahaa Prabhuvai nannun - Mosedhavaa!"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సజీవుడవైన - విమోచకుడా",
+        "ఉజ్జీవము నొసగి - లేపితివే"
+      ],
+      "english": [
+        "Sajeevudavaina - Vimochakudaa",
+        "Ujjeevamu nosagi - Lepithive"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మంచి కాపరి నీవే - మా యేసు ప్రభూ",
+        "కొంచెమైనను కొదువ - లేదికను"
+      ],
+      "english": [
+        "Manchi kaapari neeve - Maa Yesu Prabhoo",
+        "Konchemainanu koduva - Ledhikanu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "పరలోక ప్రధాన - యాజకుడా",
+        "ఏ రీతిగా నిను నే పూజింతును?"
+      ],
+      "english": [
+        "Paraloka pradhaana - Yaajakudaa",
+        "E reethigaa ninu ne poojinthunu?"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "పరలోకములో నుండి - వరుడేసు",
+        "అరుదెంచు నాకై - హల్లెలూయ"
+      ],
+      "english": [
+        "Paralokamulo nundi - Varudesu",
+        "Arudhenchu naakai - Hallelooya"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "song_name": "Shaaronu polamulo poochina pushpamaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "షారొను పొలములో పూచిన పుష్పమా",
+      "అగాధలోయలో దాగిన పద్మమా",
+      "ప్రియ సంఘమా ప్రియ సంఘమా ||షా||"
+    ],
+    "english": [
+      "Shaaronu polamulo poochina pushpamaa",
+      "Agaadha loyalo daagina padhmamaa",
+      "Priya sanghamaa priya sanghamaa ||Shaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆనంద భరితం నీ హృదయం",
+        "నీ ప్రేమ అపారము - యేసునాధుడు",
+        "నిన్ను పిలువగా సిద్దపడుమా ఓ సంఘమా నా సంఘమా"
+      ],
+      "english": [
+        "Aananda bharitham nee hrudayam",
+        "Nee prema apaaramu - Yesunaadhudu",
+        "Ninnu piluvagaa siddhapadumaa o sanghamaa naa sanghamaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కొండలు దాటి బండలు దాటి",
+        "యేసునాధుడు నిను చేరగా (2)",
+        "నీ హృదయమునా",
+        "నివసింప నియుమా",
+        "సిద్దపడుమా ఓ సంఘమా నా సంఘమా ||షా||"
+      ],
+      "english": [
+        "Kondalu daati bandalu daati",
+        "Yesunaadhudu ninu cheragaa (2)",
+        "Nee hrudhayamunaa",
+        "Nivasimpa neeyumaa",
+        "Siddhapadumaa o sanghamaa naa sanghamaa ||Shaa||"
+      ]
+    }
+  ]
+}

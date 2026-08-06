@@ -1,0 +1,96 @@
+{
+  "song_name": "Sthoathramu Sthoathramu Sthoathramu Yaesu Dhaevaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తోత్రము స్తోత్రము స్తోత్రము యేసు దేవా",
+      "పాత్రుల జేసి నేటివరకు మమ్ము కాచినదేవా"
+    ],
+    "english": [
+      "Sthoathramu Sthoathramu Sthoathramu Yaesu Dhaevaa",
+      "Paathrula Jaesi Naetivaraku Mammu Kaachinadhaevaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పొత్తిగుడ్డల చేత చుట్టబడిన తండ్రి",
+        "పాపుకై జీవమిడి గొల్లలకు నిజహర్ష మిచ్చితివే"
+      ],
+      "english": [
+        "Poththiguddala Chaetha Chuttabadina Thandri",
+        "Paapukai Jeevamidi Gollalaku Nijaharsha Michchithivae"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "హేమకిరీటము తెల్లంగినే నే ధరింప",
+        "హీనకిరీటము ముండ్లతో పొందిరి - నన్ను రక్షింప"
+      ],
+      "english": [
+        "Haemakireetamu Thellanginae Nae Dharimpa",
+        "Heenakireetamu Mundlathoa Pondhiri - Nannu Rakshimpa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పాపినై చేసెడు పాపములను తీర్చను",
+        "ఏపుగ కల్వరి యందున నాకై పాట్లుపడితివి"
+      ],
+      "english": [
+        "Paapinai Chaesedu Paapamulanu Theerchanu",
+        "Aepuga Kalvari Yandhuna Naakai Paatlupadithivi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పాప నివారణ బలియగు గొఱ్ఱెపిల్ల",
+        "పాపమృతులమౌ మమ్మురక్షింప ప్రాణమిచ్చితివే"
+      ],
+      "english": [
+        "Paapa Nivaarana Baliyagu Gorrepilla",
+        "Paapamruthulamau Mammurakshimpa Praanamichchithivae"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "సైతానును జయింప శక్తినిచ్చిన దేవా",
+        "బుద్ధితో పోరాడి యుద్ధమున గెల్వ జ్ఞానమీయుము"
+      ],
+      "english": [
+        "Saithaanunu Jayimpa Shakthinichchina Dhaevaa",
+        "Budhdhithoa Poaraadi Yudhdhamuna Gelva Gnaanameeyumu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "ఈలాటి ప్రేమను ఏలాగు తెల్పుదును",
+        "జీవమార్గమున చ్క్కగ నడుతు నాయన శక్తిచే"
+      ],
+      "english": [
+        "Eelaati Praemanu Aelaagu Thelpudhunu",
+        "Jeevamaargamuna Chkkaga Naduthu Naayana Shakthichae"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "దూతలు కొనియాడు జ్ఞానుడవగు తండ్రి",
+        "దానములిమ్ము దయతోడ నిత్యము దయగల మా తండ్రి"
+      ],
+      "english": [
+        "Dhoothalu Koniyaadu Gnaanudavagu Thandri",
+        "Dhaanamulimmu Dhayathoada Nithyamu Dhayagala Maa Thandri"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "song_name": "Ishraayelu Devaa Naa Sthuthula Meeda Aaseenudaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇశ్రాయేలు దేవా నా స్తుతులమీద ఆసీనుడా",
+      "నిరంతరము స్తోత్రములకు పూజార్హుడా (2)",
+      "ఏమని నిన్ను నేను కీర్తింతును",
+      "ఏమని నిన్ను నేను పూజింతును (2)",
+      "ఏమని నిన్ను నేను ఆరాధింతును (2)",
+      "ఆరాధనా నీకే ఆరాధనా – ఆరాధనా నీకే ఆరాధనా",
+      "ఆరాధనా నీకు ఆరాధనా – ఆరాధనా నీకే ఆరాధనా",
+      "ఆరాధనా నీకే ఆరాధనా – ఆరాధనా నీకే ఆరాధనా ||ఇశ్రాయేలు||"
+    ],
+    "english": [
+      "Ishraayelu Devaa naa sthuthulameedha aaseenudaa",
+      "Nirantharamu sthothramulaku poojaarhudaa (2)",
+      "Emani ninnu nenu keerthinthunu",
+      "Emani ninnu nenu poojinthunu (2)",
+      "Emani ninnu nenu aaraadhinthunu (2)",
+      "Aaraadhanaa neeke aaraadhanaa – Aaraadhanaa neeke aaraadhanaa",
+      "Aaraadhanaa neeku aaraadhanaa – Aaraadhanaa neeke aaraadhanaa",
+      "Aaraadhanaa neeke aaraadhanaa – Aaraadhanaa neeke aaraadhanaa ||Ishraayelu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా పితరులెందరో నిన్ను ఘనపరచి",
+        "దహనబలులు నీకు అర్పించగా (2)",
+        "ఇంపైన సువాసనగా అంగీకరించి",
+        "దీవెన వర్షము కురిపించితివే (2) ||ఆరాధనా||"
+      ],
+      "english": [
+        "Naa pitharulendharo ninnu ghanaparachi",
+        "Dhahanabalulu neeku arpinchagaa (2)",
+        "Impaina suvaasanagaa angeekarinchi",
+        "Deevena varshamu kuripinchithive (2) ||Aaraadhanaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా హృదయ క్షేత్రములో నిన్నారాధించి",
+        "స్తుతుల సింహాసనము నీకు వేయగా (2)",
+        "ఆనంద తైలముతో నన్నభిషేకించి",
+        "స్తోత్రగీతముతో నన్ను నింపితివే (2) ||ఆరాధనా||"
+      ],
+      "english": [
+        "Naa hrudaya kshethramulo ninnaaraadhinchi",
+        "Sthuthula simhaasanamu neeku veyagaa (2)",
+        "Aananda thailamutho nannabhishekinchi",
+        "Sthothrageethamutho nannu nimpithive (2) ||Aaraadhanaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా కొరకు సీయోనును సిద్ధపరచి",
+        "మహిమతో తిరిగి రానైయుంటివే (2)",
+        "ఆనంద ధ్వనులతో నన్నూరేగించి",
+        "శాశ్వత జీవము నాకిచ్చితివే (2) ||ఆరాధనా||"
+      ],
+      "english": [
+        "Naa koraku Seeyonunu siddhaparachi",
+        "Mahimatho thirigi raanaiyuntive (2)",
+        "Aananda dhvanulatho nannooreginchi",
+        "Shaashwatha jeevamu naakichchithive (2) ||Aaraadhanaa||"
+      ]
+    }
+  ]
+}

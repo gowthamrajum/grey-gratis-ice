@@ -1,0 +1,35 @@
+{
+  "song_name": "Kaachithivi Gathakaalam",
+  "author": {
+    "Authored by": "Nazaresh",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కాచితివి గతకాలం నీ కృపలో నా దేవా ఊహించలేని మేలులు చేసి నీ సన్నిథిలో సాక్షిగా నిలిపితివి"
+    ],
+    "english": [
+      "kaachithivi gathakaalam nee krupalo naa dhevaa oohinchaleni melulu chesi nee sannidhilo saakshigaa nilipithivi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అంజూర చెట్లు పూయకుండిననూ ద్రాక్ష చెట్లు ఫలింపక పోయిననూ నీయందే నేను ఆనందించెదను నీలోనే నేను అతిశయించెదను యేసయ్యా యేసయ్యా నా క్షేమం నీవయ్యా యేసయ్యా యేసయ్యా నా సర్వం నీవయ్యా"
+      ],
+      "english": [
+        "anjoora chetlu pooyakundinanu dhraaksha chetlu phaliyimpaka poyinanu nee yandey nenu aanandhinchedhanu neelone nenu athisayinchedhanu yesayya yesayya naa kshemam neevayyaa yesayya yesayya naa sarvam neevayyaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పైరు పంటకు రాకపోయినను శాలలో పశువులు లేకపోయినను నీయందే నేను ఆనందించెదను నీలోనే నేను నిలచి ఉండెదను యేసయ్యా యేసయ్యా నా క్షేమం నీవయ్యా యేసయ్యా యేసయ్యా నా సర్వం నీవయ్యా"
+      ],
+      "english": [
+        "pairu pantaku raakapoyinanu saalalo pasuvulu lekapoyinanu nee yandey nenu aanandhinchedhanu neelone nenu nilachi undedhanu yesayya yesayya naa kshemam neevayyaa yesayya yesayya naa sarvam neevayyaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "song_name": "Aashcharyakarudu aalochanakartha balavanthudaina Devudu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆయన నామము ఆశ్చర్యుడు ఆయన పేరాలోచనకర్త",
+        "బలమైన నిత్యుడునగు తండ్రి సమాధానకర్త నాయేసు",
+        "బలమైన నిత్యుడునగు తండ్రి ఇమ్మానుయేల్ రక్షకుడేసు"
+      ],
+      "english": [
+        "Aayana naamamu aashcharyudu aayana peraalochanakartha",
+        "Balamaina nithyudunagu thandri samaadhaanakartha naayesu",
+        "Balamaina nithyudunagu thandri Immaanuyel rakshakudesu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "song_name": "Jayinchenu",
+  "author": {
+    "Authored by": "Dr. Jaya Paul Ravela",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మరణము జయించెను",
+      "మహిమ తేజ ప్రభుయేసు",
+      "హలెలూయా హలెలూయా",
+      "హలెలూయా హలే…లూయా"
+    ],
+    "english": [
+      "Maranamu jayinchenu",
+      "mahima theja prabhuyesu",
+      "haleluyaa haleluyaa",
+      "haleluyaa hale…luuyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మరణ ముళ్ళు విరిచెను",
+        "మరణమోడిపోయెను",
+        "మానవాళికి రక్షణ",
+        "నిత్యజీవమిచ్చెను",
+        "సర్వశక్తి యేసుక్రీస్తు",
+        "విశ్వమేలను",
+        "జయం జయం అని పాడుము",
+        "విజయ స్తోత్ర గీతము",
+        "ఆత్మతో సేవించుము",
+        "ఆర్భటముతో సాగుము",
+        "సర్వశక్తి యేసుక్రీస్తు",
+        "విశ్వమేలను"
+      ],
+      "english": [
+        "Marana mullu virichenu",
+        "maranamodipoyenu",
+        "maanavaaliki rakshana",
+        "nithya jeevamichenu",
+        "sarvashakthi yesu kreesthu",
+        "viswamelanu",
+        "Jayam jayam ani paadumu",
+        "vijaya sthothra geethamu",
+        "aathmatho sevinchumu",
+        "aarbhatamutho saagumu",
+        "sarvashakthi yesu kreesthu",
+        "viswamelanu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "song_name": "Ne padipothini nee premaku ilalo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Prudhvi Raj"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నే పడిపోతిని నీ ప్రేమకు ఇలలో",
+      "మైమరచితిని నా మదిని దేవా",
+      "నా ప్రతికూలతలో నా చెయ్యిపట్టి",
+      "నన్నాధరించి నడిపించితివే"
+    ],
+    "english": [
+      "Ne padipothini nee premaku ilalo",
+      "Maimarachithini naa madini Deva",
+      "Naa prathikoolathalo naa cheyyipatti",
+      "Nannaadarinchi nadipinchithive"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఈ లోక స్నేహముతో నేను కలిసి",
+        "రక్షణ జీవితం విడచితినే",
+        "మేలులెన్నో పొందిన క్షణమే",
+        "సత్యాన్ని విడచి నడిచితినే",
+        "నీ రక్తముతో నను కడిగితివే",
+        "నీ సహనముతో నను నడిపితివే"
+      ],
+      "english": [
+        "Ee loka snehamutho nenu kalisi",
+        "Rakshana jeevitham vidachithine",
+        "Melulenno pondina kshaname",
+        "Sathyaanni vidachi nadichithine",
+        "Nee rakthamutho nanu kadigithive",
+        "Nee sahanamutho nanu nadipithive"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా పాప భారమంత నీవు భరియించి",
+        "ఆ సిలువ భారము మోసితివే",
+        "నా ప్రాణమునకు నీ ప్రాణము బలియిచ్చి",
+        "ఎనలేని ప్రేమను చూపితివే",
+        "శుద్ధుడవు పరిశుద్ధుడవు",
+        "శుద్ధాహృదయం నాకు ఇచ్చితివే  ||నే||  ||నే||"
+      ],
+      "english": [
+        "Naa paapa bhaaramantha neevu bhariyinchi",
+        "Aa siluva bhaaramu mosithive",
+        "Naa praanamunaku nee praanamu baliyichchi",
+        "Enaleni premanu choopithive",
+        "Shuddhudavu parishuddhudavu",
+        "Shuddhaahrudhayam naaku ichchithive  ||Ne||  ||Ne||"
+      ]
+    }
+  ]
+}

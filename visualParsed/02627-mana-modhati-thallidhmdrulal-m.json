@@ -1,0 +1,55 @@
+{
+  "song_name": "Mana modati thallidhandrulal maayaku lonairi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "పురుషోత్తము చౌదరి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "మన మొదటి తల్లిదండ్రులల్ మాయకు లోనైరి అన్నలారా వారి",
+      "కనుగొనలకు సిగ్గు గదుర మోములు వంచి రన్నలారా ||మన||"
+    ],
+    "english": [
+      "Mana modati thallidhandrulal maayaku lonairi annalaaraa vaari",
+      "Kanugonalaku siggu gadhura momulu vanchi rannalaaraa ||Mana||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తమ నగ్నతను జూడఁ దా మొప్ప లేరైరి అన్నలారా కొన్ని యమరిన",
+        "మఱ్ఱాకు లంగంబులను గట్టి రన్నలారా  ||మన||"
+      ],
+      "english": [
+        "Thama nagnathanu jooda dhaa moppa lerairi annalaaraa konni yamarina",
+        "Marraaku langambulanu gatti rannalaaraa ||Mana||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరమాత్ముఁ డిడు నాజ్ఞఁ పాలింప లేరైరి అన్నలారా పూర్వ పరి",
+        "శుద్ధత నెడబాసి పాపాత్ములై పోయి రన్నలారా  ||మన||"
+      ],
+      "english": [
+        "Paramaathmu didu naajna paalimpa lerairi annalaaraa poorva pari",
+        "Shuddhatha nedabaasi paapaathmulai poyi rannalaaraa ||Mana||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నరవంశజుల కెల్లఁ తరలెఁ దద్దురవస్థ అన్నలారా క్రీస్తు మర",
+        "ణంబు మన పాప హరణంబుఁ గావించు నన్నలారా  ||మన||"
+      ],
+      "english": [
+        "Naravamshajula kella tharale dhaddhuravastha annalaaraa Kreesthu mara",
+        "Nambu mana paapa haranambu gaavinchu nannalaaraa ||Mana||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "song_name": "Yesu naamame paavanamu maaku",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "పురుషోత్తమ చౌధరి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు నామమే పావనము మాకు యేసు గద నిత్య జీవనము దాస",
+      "జన హృద్వికాసమైయెల్ల దోసములకు వి నాశకరమైన ||యేసు||"
+    ],
+    "english": [
+      "Yesu naamame paavanamu maaku Yesu gada nithya jeevanamu dhaasa",
+      "Jana hrudhvikaasamaiyella dhosamulaku vi naashakaramaina ||Yesu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సాధు మానసోల్లాసములు యేసు నాధు గుణ చిద్విలాసములు బోధఁ",
+        "గొను వారి బాధ వెడలించి మాధుర్యమగు ముక్తి సాధనములిచ్చు.  ||యేసు||"
+      ],
+      "english": [
+        "Saadhu maanasollaasamulu Yesu naadu guna chidhvilaasamulu bodha",
+        "Gonu vaari baadha vedalinchi maadhuryamagu mukthi saadhanamulichchu.  ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "భక్త జన లోక పూజ్యములు రక్త సిక్త పాదపయోజములు ముక్త",
+        "రాజ్యాభి షిక్తుఁడౌ సర్వ శక్తి యుతుఁడైన సామియగు క్రీస్తు  ||యేసు||"
+      ],
+      "english": [
+        "Bhaktha jana loka poojyamulu raktha siktha paadhapayojamulu muktha",
+        "Raajyaabhi shikthudau sarva shakthi yuthudaina saamiyagu Kreesthu  ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దీన జన నిత్య తోషణము సిల్వ మ్రాని ప్రభు మృత్యు ఘోషణము",
+        "పానకము జుంటి తేనియల స్వాదు వీనులను గ్రోలు మానవుల కెల్ల  ||యేసు||"
+      ],
+      "english": [
+        "Deena jana nithya thoshanamu silva mraani prabhu mruthyu ghoshanamu",
+        "Paanakamu junti theniyala svaadhu veenulanu grolu maanavula kella  ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పాపులకు మంచి పక్షములు ముక్తిఁ జూపు క్రీస్తు కటాక్షములు పాప",
+        "సందోహ కూపమునఁ గూలు కాపురుషు నన్నుఁగాచుకొనిప్రోచు  ||యేసు||"
+      ],
+      "english": [
+        "Paapulaku manchi pakshamulu mukthi joopu Kreesthu kataakshamulu paapa",
+        "Sandhoha koopamuna goolu kaapurushu nannugaachukoniprochu  ||Yesu||"
+      ]
+    }
+  ]
+}

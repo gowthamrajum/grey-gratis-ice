@@ -1,0 +1,64 @@
+{
+  "song_name": "Intinta Christmas",
+  "author": {
+    "Authored by": "Joshua Gariki",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సంతోష సంబరాలురో",
+      "యేసయ్య జననమాయేరో",
+      "జగమంతా పండుగాయేరో",
+      "రక్షకుడుదయించినాడురో"
+    ],
+    "english": [
+      "Santhosha sambaraaluro",
+      "yesayya jananamaayero",
+      "jagamantaa pandugaayero",
+      "rakshakududayinchinaaduro"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇంటింటా ప్రతిఇంటా రక్షణ తెచ్చిందిరో",
+        "ఊరంతా వాడంతా పండుగ వచ్చిందిరో"
+      ],
+      "english": [
+        "Intintaa prati intaa rakshanna tecchindiro",
+        "uurantaa vaadantaa panduga vacchindiro"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నమ్మదగిన గొప్ప దేవుడు – నరుడై భువికి వచ్చినాడు",
+        "బేదమేమి లేని దేవుడు – బేత్లేహేములో పుట్టినాడు",
+        "రక్షణ దినమిదే యేసుని చేరుకో",
+        "ఈ క్షణమే యేసుని చేరి వేడుకో"
+      ],
+      "english": [
+        "Nammadagina goppa devudu – narudai bhuviki vacchinaadu",
+        "bedamemi leni devudu – betlehemulo puttinnadu",
+        "rakshanna dinamide yesuni cheruko",
+        "ee kshanname yesuni cheri veduko"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మార్పు లేని గొప్ప దేవుడు – మహిమను విడిచి వచ్చినాడు",
+        "శక్తిగలిగిన గొప్ప దేవుడు – శాపమంతా తీసివేయును",
+        "రక్షణ దినమిదే యేసుని చేరుకో",
+        "ఈ క్షణమే యేసుని చేరి వేడుకో"
+      ],
+      "english": [
+        "Maarpu leni goppa devudu – mahimanu vidichi vacchinaadu",
+        "skthigaligina goppa devudu – saapamantaa tisiveyunu",
+        "rakshannna dinamide yesuni cheruko",
+        "ee kshanname yesuni cheri veduko"
+      ]
+    }
+  ]
+}

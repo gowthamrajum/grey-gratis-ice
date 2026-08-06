@@ -1,0 +1,66 @@
+{
+  "song_name": "Sthothra gaanam chesindi praanam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తోత్ర గానం చేసింది ప్రాణం",
+      "క్రొత్త రాగం తీసింది హృదయం",
+      "నా యేసు ప్రేమ నా మదంతా నిండగా",
+      "ధన్యమే ఈ జీవితం",
+      "యేసుతో మరింత రమ్యమే",
+      "భూమిపై చిన్ని స్వర్గమే",
+      "యేసుతో నా ప్రయాణమే",
+      "నా తోడై నా నీడై నాతో ఉన్నాడులే ||ధన్యమే||"
+    ],
+    "english": [
+      "Sthothra gaanam chesindi praanam",
+      "Krotta raagam theesindhi hrudayam",
+      "Naa Yesu prema naa madhanthaa nindagaa",
+      "Dhanyame ee jeevitham",
+      "Yesutho marintha ramyame",
+      "Bhoomipai chinni swargame",
+      "Yesutho naa prayaaname",
+      "Naa thodai naa needai naatho unnaadhule ||Dhanyame||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా గతం విషాదం – అనంతమైన ఓ అగాధం",
+        "కోరితి సహాయం – నా యేసు చేసెనే ఆశ్చర్యం",
+        "లేనిపోని నిందలన్ని పూలదండలై మారెనే",
+        "ఇన్నినాళ్ళు లేని సంతసాలు నా వెంటనే వచ్చెనే",
+        "యేసులో నిత్యమే  ||స్తోత్ర||"
+      ],
+      "english": [
+        "Naa gatham vishaadham – Ananthamaina o agaadham",
+        "Korithi sahaayam – Naa Yesu chesene aashcharyam",
+        "Leniponi nindalanni pooladhandalai maarene",
+        "Inninaallu leni santhasaalu naa ventane vachchene",
+        "Yesulo nithyame ||Sthothra||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఊహకే సుదూరం – నా యేసు చేసిన ప్రమాణం",
+        "నా జయం విశ్వాసం – కాదేది యేసుకు అసాధ్యం",
+        "లేనివన్ని ఉండునట్లు చేసే యేసుతో నా జీవితం",
+        "పాడలేను ఏ భాషలోనూ ఆనందమానందమే",
+        "యేసులో నిత్యమే  ||స్తోత్ర||"
+      ],
+      "english": [
+        "Oohake sudhooram – Naa Yesu chesina pramaanam",
+        "Naa jayam vishwaasam – Kaadedi Yesuku asaadhyam",
+        "Lenivanni undunatlu chese Yesutho naa jeevitham",
+        "Paadalenu e bhaashalonoo aanandamaanandame",
+        "Yesulo nithyame ||Sthothra||"
+      ]
+    }
+  ]
+}

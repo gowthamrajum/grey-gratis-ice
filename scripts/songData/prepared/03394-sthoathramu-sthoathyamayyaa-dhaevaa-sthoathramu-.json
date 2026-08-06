@@ -1,0 +1,98 @@
+{
+  "song_name": "Sthoathramu Sthoathyamayyaa Dhaevaa - Sthoathramu Sthoathyamayyaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తోత్రము స్తోత్యమయ్యా దేవా - స్తోత్రము స్తోత్యమయ్యా",
+      "నేత్రమువలె గత వత్సరము - మిత్రుడా బ్రోచితివి",
+      "స్తోత్రము స్తోత్యమయ్యా"
+    ],
+    "english": [
+      "Sthoathramu Sthoathyamayyaa Dhaevaa - Sthoathramu Sthoathyamayyaa",
+      "Naethramuvale Gatha Vathsaramu - Mithrudaa Broachithivi",
+      "Sthoathramu Sthoathyamayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎన్నో గొప్ప కీడులు మాకు - పెన్నుగా కలిగినన్",
+        "అన్నియు మా చెంత చేరకుండునట్లు - మన్నాధిపా బ్రోచితి"
+      ],
+      "english": [
+        "Ennoa Goppa Keedulu Maaku - Pennugaa Kaliginan",
+        "Anniyu Maa Chentha Chaerakundunatlu - Mannaadhipaa Broachithi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పేరాశ పాపంబుల నీవు - ధారాళముగ మన్నించి",
+        "ఈ వత్సరమందు పాపమున పడకుండ - నోవత్సా కాపాడుము"
+      ],
+      "english": [
+        "Paeraasha Paapambula Neevu - Dhaaraalamuga Manninchi",
+        "Ee Vathsaramandhu Paapamuna Padakunda - Noavathsaa Kaapaadumu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆనందారంభంతో నిండు - ఆశతో ప్రేమించి",
+        "భూమియందు రక్షకుడుగ జన్మించిన స్వామి నిన్ను కొల్తుము"
+      ],
+      "english": [
+        "Aanandhaarambhanthoa Nindu - Aashathoa Praeminchi",
+        "Bhoomiyandhu Rakshakuduga Janminchina Svaami Ninnu Kolthumu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఈ క్రొత్త యేడునందు మా అక్కర మేళ్ళన్నియు",
+        "సతతము మాకు దయతోడ తీర్చుమో - వింత యేసు రక్షకా"
+      ],
+      "english": [
+        "Ee Kroththa Yaedunandhu Maa Akkara Maellanniyu",
+        "Sathathamu Maaku Dhayathoada Theerchumoa - Vintha Yaesu Rakshakaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "గద్దియ జీవితము నీతో ముదముతో సల్పుటకు",
+        "నిత్యము యేసును ప్రేమతో వెంబడింప - నన్ను కనికరింపుము"
+      ],
+      "english": [
+        "Gaddhiya Jeevithamu Neethoa Mudhamuthoa Salputaku",
+        "Nithyamu Yaesunu Praemathoa Vembadimpa - Nannu Kanikarimpumu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "దేశకీడు తొల్గను - ఇంక - దోషములు వీడను",
+        "హోసన్నా ఏకంబుగా పాడుటకు - దాసుల కరుణింపుము"
+      ],
+      "english": [
+        "Dhaeshakeedu Tholganu - Inka - Dhoashamulu Veedanu",
+        "Hoasannaa Aekambugaa Paadutaku - Dhaasula Karunimpumu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "హల్లెలూయ పాటను నీ ఏట నెక్కువగా పాడన్",
+        "దిక్కులవారికి సువార్త ప్రకటింప - గ్రక్కున వరములిమ్ము"
+      ],
+      "english": [
+        "Hallelooya Paatanu Nee Aeta Nekkuvagaa Paadan",
+        "Dhikkulavaariki Suvaartha Prakatimpa - Grakkuna Varamulimmu"
+      ]
+    }
+  ]
+}

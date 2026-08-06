@@ -1,0 +1,34 @@
+{
+  "song_name": "Samarpana",
+  "author": {
+    "Authored by": "Pastor Ravinder Vottepu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "అర్పణ సమర్పణ – అర్పణ నీకే",
+      "నా స్తుతి ఆరాధన – నా హృదయ అర్పణ"
+    ],
+    "english": [
+      "Arpana samarpana – arpana neeke",
+      "naa sthuthi aaraadhana – naa hrudhaya arpana"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కన్నీటితో పాదాలనే కడిగి – నిన్ను వెంబడించెదను",
+        "నా హృదయం నీకర్పింతును – సంపూర్ణంగా సమర్పింతును",
+        "నీ రక్తముతో నా జీవితమును – శుద్దీకరించు ప్రభు",
+        "నీ కృపచే నే బ్రతికి ఉన్నా – నీ దయతో నే పావనుడను"
+      ],
+      "english": [
+        "Kanneetitho paadhaalane kadigi – ninnu vembadinchedhanu",
+        "naa hrudhayam neekarpinthunu – sampoornamgaa samarpinthunu",
+        "Nee rakthamutho naa jeevithamunu – shuddikarinchu prabhu",
+        "nee krupache ne brathiki unnaa – nee dhayatho ne paavanudanu"
+      ]
+    }
+  ]
+}

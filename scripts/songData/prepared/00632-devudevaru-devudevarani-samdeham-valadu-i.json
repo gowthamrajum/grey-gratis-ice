@@ -1,0 +1,51 @@
+{
+  "song_name": "Devudevaru? Devudevarani Samdeham Valadu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవుడెవరు? దేవుడెవరు? దేవుడెవరని సందేహం వలదు",
+      "ఈ సృష్టి దేవుడు కాదని సృష్టిని త్రిప్పే శక్తి ఉన్నాదని",
+      "ఆ శక్తే దేవాది దేవుడని"
+    ],
+    "english": [
+      "Devudevaru? Devudevaru? Devudevarani Samdeham Valadu",
+      "I Srushti Devudu Kadani Srushtini Trippe Sakti Unnadani",
+      "A Sakte Devadi Devudani"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తిరిగే ఈ భూమిని పరిభ్రమించే అనంత విశ్వాన్ని",
+        "త్రిప్పే శక్తి మనిషికి లేదని కనిపించని శక్తి కలిగించెనని",
+        "ఆ శక్తే దేవాది దేవుడని"
+      ],
+      "english": [
+        "Tirige I Bumini Paribramimche Anamta Visvanni",
+        "Trippe Sakti Manishiki Ledani Kanipimchani Sakti Kaligimchenani",
+        "A Sakte Devadi Devudani"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేవుడు మనిషిని చేశాడు మనిషి దేవునిని చేయలేడు",
+        "తండ్రి కుమారుని కనగలడు కుమారుడు తండ్రిని కనలేడు",
+        "తండ్రి ఎవరో తల్లి చెబితే నమ్ముతున్నావు నీ తల్లి మాట",
+        "శక పురుషుడైన క్రీస్తుమాట నమ్మగలిగితే",
+        "నీ తండ్రి దేవాదిదేవుడని"
+      ],
+      "english": [
+        "Devudu Manishini Chesadu Manishi Devunini Cheyaledu",
+        "Tamdri Kumaruni Kanagaladu Kumarudu Tamdrini Kanaledu",
+        "Tamdri Evaro Talli Chebite Nammutunnavu Ni Talli Mata",
+        "Saka Purushudaina Kristumata Nammagaligite",
+        "Ni Tamdri Devadidevudani"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "song_name": "Jolaa Prabhu Yesayya odilona jola",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "John Kunapo"
+    ],
+    "రచన": [
+      "జాన్ కునపో"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "జోలా ప్రభు యేసయ్య ఒడిలోన జోల",
+      "జోలా దేవ దేవుని నీడలో జోల",
+      "పరలోక తండ్రిని పరిశుద్ధుడని పలుకు",
+      "దూత గణములు పాడు వేళ"
+    ],
+    "english": [
+      "Jolaa Prabhu Yesayya odilona jola",
+      "Jolaa Deva Devuni needalo jola",
+      "Paraloka thandrini parishuddhudani paluku",
+      "Dootha ganamulu paadu vela"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిదురలో యేసయ్యతో ఆటాడు కుంటావు",
+        "ఆటలో ఎల్లప్పుడూ నువు నవ్వుతుంటావు",
+        "నీ నవ్వులు మాకు కనపడినా",
+        "దానికి తోరణము మాకు తెలిసేనా",
+        "ఇదే ఇదే దైవ లీల",
+        "ఊయలలో ఊహల్లో విహరిస్తూ వుంటావు",
+        "విహరిలో వేసారితే ఏడుస్తు వుంటావు",
+        "నీ ఏడుపు మాకు వినపడినా",
+        "దానికి కారణము మాకు కనపడునా",
+        "ఇదే ఇదే దైవ లీల",
+        "నీ యేసు తోడులో నిండుగ జీవించు",
+        "నీ జీవన గమనంలో శ్రీయేసుని సేవించు",
+        "దీవెనలు మాకు కనపడినా",
+        "దానికి నడిపింపు మాకు వెలువడునా",
+        "ఇదే ఇదే దైవ లీల"
+      ],
+      "english": [
+        "Nidhuralo Yesayyatho aataadu kuntaavu",
+        "Aatalo ellappudoo nuvu navvuthuntaavu",
+        "Nee navvulu maaku kanapadinaa",
+        "Dhaaniki thoranamu maaku thelisenaa",
+        "Idhe idhe daiva leela",
+        "Ooyalalo oohallo viharisthoo vuntaavu",
+        "Viharilo vesaarithe edusthu vuntaavu",
+        "Nee edupu maaku vinapadinaa",
+        "Dhaaniki kaaranamu maaku kanapadunaa",
+        "Idhe idhe daiva leela",
+        "Nee Yesu thodulo ninduga jeevinchu",
+        "Nee jeevana gamanamlo Shreeyesuni sevinchu",
+        "Deevenalu maaku kanapadinaa",
+        "Dhaaniki nadipimpu maaku veluvadunaa",
+        "Idhe idhe daiva leela"
+      ]
+    }
+  ]
+}

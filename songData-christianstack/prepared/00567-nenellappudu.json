@@ -1,0 +1,33 @@
+{
+  "song_name": "Nenellappudu",
+  "author": {
+    "Authored by": "Dr P Satish Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేనెల్లప్పుడు యెహోవాను సన్నుతించెదను",
+      "ఆత్మతో సత్యముతో మనస్సుతో నా హృదయముతో",
+      "నా జీవితాంతము నా యేసుని ఇలలో",
+      "నే వెంబడించెదను",
+      "ఓ…ఓ..ఓ..ఓ"
+    ],
+    "english": [
+      "Nenellappudu yehovanu sannuthinchedhanu",
+      "aathmatho sathyamutho manassutho naa pranamutho",
+      "naa jeevithanthamu naa yesuni ilalo",
+      "ne vembadinchedhanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హల్లెలూయ హల్లెలూయ హల్లెలూయ"
+      ],
+      "english": [
+        "Hallelujah hallelujah hallelujah"
+      ]
+    }
+  ]
+}

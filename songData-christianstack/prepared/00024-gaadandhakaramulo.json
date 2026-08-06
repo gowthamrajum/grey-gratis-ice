@@ -1,0 +1,62 @@
+{
+  "song_name": "Gaadandhakaramulo",
+  "author": {
+    "Authored by": "Phebe Joseph",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జడియను బెదరను నా యేసు నాతోనుండగా",
+      "గాఢాంధకారములో నే నడచిన వేళలలో",
+      "కంటిపాపవలె నన్ను కునుకాక కాపాడును",
+      "ప్రభువైన యేసునకు జీవితమంతా పాడెదన్"
+    ],
+    "english": [
+      "Jadiyanu bedaranu naa Yesu naathonundaga",
+      "Gaadandhakaramulo ne nadachina velalalo",
+      "Kanti paapa vale nannu kunukaaka kaapaadunu",
+      "Prabhuvaina Yesunaku jeevithamantha paadedan"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అలలతో కొట్టబడిన నా నావలో నీవుండగా",
+        "ప్రభు యేసు కృప నన్ను ఎడబాయక కాపాడును",
+        "అభయమిచ్చి నన్ను ఒడ్డుకు చేర్చును"
+      ],
+      "english": [
+        "Alalatho kottabadina naa naavalo neevundaga",
+        "Prabhu Yesu krupa nannu edabaayaka kaapaadunu",
+        "Abhayamichhi nannu odduku cherchunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మరణపు లోయలలో నే నడచిన వేళలలో",
+        "నీ హస్తము నన్ను ఆదరించును",
+        "పరిశుద్ధాత్మతో నన్ను నింపి నడిపించును"
+      ],
+      "english": [
+        "Maranapu loyalalo ne nadachina velalalo",
+        "Nee hasthamu nannu aadharinchunu",
+        "Parishuddhathmatho nannu nimpi nadipinchunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పర్వతాలు తొలగినను మెట్టలు తత్తరిల్లినను",
+        "నీ కృప నన్ను విడువదు నీ నిబంధన మారదు",
+        "నీ నిత్య సమాధానము నన్ను నడిపించును"
+      ],
+      "english": [
+        "Parvathaalu tholaginanu mettalu thaththarillinanu",
+        "Nee krupa nannu viduvadu nee nibandhana maaradu",
+        "Nee nithya samaadhaanamu nannu nadipinchunu"
+      ]
+    }
+  ]
+}

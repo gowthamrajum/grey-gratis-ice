@@ -1,0 +1,50 @@
+{
+  "song_name": "Manche leni naa painaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మంచే లేని నా పైనా ఏంతో ప్రేమ చూపావు 2",
+      "ఆది ఆంతమయిన వాడవు మానవుని రూపమెత్తావు 2",
+      "పరలోకమును విడిచి దిగి వచ్చినావు భువికి 2",
+      "ఎంతగా స్తుతులు పాడిన యేసు నీ ఋణము తీరునా 2"
+    ],
+    "english": [
+      "Manche leni naa painaa entho prema choopaavu 2",
+      "Aadi anthamayina vaadavu maanavuni roopametthaavu 2",
+      "Paralokamunu vidichi digi vachchinaavu bhuviki 2",
+      "Enthagaa sthuthulu paadina Yesu nee runamu theerunaa 2"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లోకాలన్నీ ఏలే రారాజువైన నీవు",
+        "సామాన్యుల ఇంట నీ కాలు పెట్టినావు",
+        "నీ దెంత దీన మనసు నా కెంత ఘనత యేసు"
+      ],
+      "english": [
+        "Lokaalannee ele raaraajuvaina neevu",
+        "Saamaanyula intha nee kaalu pettinaavu",
+        "Nee dhentha deena manasu naa kentha ghanatha Yesu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చీకటిలో కూర్చున్న నా స్థితిని చూసి నీవు",
+        "వేకువ వెలుగు వంటి దర్శనము నిచ్చినావు",
+        "నీ సాటి లేని త్యాగం నా పాలి గొప్ప భాగ్యం"
+      ],
+      "english": [
+        "Cheekatilo koorchunna naa sthithini choosi neevu",
+        "Vekuva velugu vanti darshanamu nichchinaavu",
+        "Nee saati leni thyaagam naa paali goppa bhaagyam"
+      ]
+    }
+  ]
+}

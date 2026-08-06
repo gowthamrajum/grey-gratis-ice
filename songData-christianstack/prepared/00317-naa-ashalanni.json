@@ -1,0 +1,56 @@
+{
+  "song_name": "Naa Ashalanni",
+  "author": {
+    "Authored by": "John J",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ఆశలన్నీ తీర్చువాడా",
+      "నిన్నే నే నమ్మితినయ్య",
+      "నాకున్న ఆధారం నీవేనయ్య",
+      "నా క్షేమమంతయు నీలోనయ్య",
+      "ఏదైన నీ వల్లె జరుగునయ్య"
+    ],
+    "english": [
+      "Naa ashalanni theerchuvaadaa",
+      "ninne ne nammithinayya",
+      "naakunna aadhaaram neevenayya",
+      "naa kshemamanthayu neelonayya",
+      "edhaina nee valle jarugunayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఊహించలేదు నేనెప్పుడు",
+        "నేనంటే నీకు ఇంత ప్రేమనీ",
+        "పగిలిపోయిన నా హృదయమును",
+        "నీ గాయాల చేతితో బాగుచేసావే",
+        "ఇక ఈ బ్రతుకు ఐపోయిందని",
+        "నిర్థారించిన వారు ఎందరో",
+        "విసిగిపోయిన నా ప్రాణమును",
+        "ప్రతి రోజు క్రొత్తగా బ్రతికించుచున్నావే",
+        "ఆశించితి నేను నీ చెలిమిని",
+        "కడవరకు నీతోనే బ్రతకాలని",
+        "మిగిలిపోయిన ఈ అధముడను",
+        "నీ సేవ చేసే భాగ్యమిచ్చావే"
+      ],
+      "english": [
+        "Oohinchaledhu neneppudu",
+        "nenante neeku intha premani",
+        "pagilipoyina naa hrudhayamunu",
+        "nee gaayaala chethitho baagu chesaave",
+        "Ika ee brathuku aipoyindhani",
+        "nirdhaarinchina vaaru endharo",
+        "visigipoyina naa praanamunu",
+        "prathi roju krothagaa brathikinchu chunnaave",
+        "Aasinchithi nenu nee chelimini",
+        "kada varaku neethone brathakaalani",
+        "migilipoyina ee adhamudanu",
+        "nee seva chese baagyamichaave"
+      ]
+    }
+  ]
+}

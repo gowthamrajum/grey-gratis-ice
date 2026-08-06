@@ -1,0 +1,56 @@
+{
+  "song_name": "Naa Nireekshana Neelo Undagaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "B Ezra Sastri",
+      "Nirmala Sastri"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా నిరీక్షణ నీలో ఉండగా",
+      "నేనెన్నడు సిగ్గుపడకుందును",
+      "నా ఆశలు ఫలియించెనే",
+      "సీయోనులో ఆనందమే",
+      "నిత్య సంతోషమే"
+    ],
+    "english": [
+      "Naa nireekshana neelo undagaa",
+      "Nenennadu siggupadakundhunu",
+      "Naa aashalu phaliyinchene",
+      "Seeyonulo aanandame",
+      "Nithya santhoshame"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "భూమి మీద భక్తులు శ్రేష్ఠులు",
+        "వారు నీకు ఎంతో ఇష్టులు",
+        "గాలి రెక్కల మీద ప్రత్యక్షమైతివి",
+        "విశాల స్థలములకు తోడుకొని వచ్చితివి",
+        "నా ఆశ్రయమైతివి",
+        "పరిశుద్ధ పర్వతం ఎక్కించితివి",
+        "నీ గుడారములో అతిధులమైతిమే",
+        "నూనెతో నా తల అంటబడెను",
+        "నా గిన్నె నిండి పొంగి పొర్లెను",
+        "నాకు ధన్యమాయెను"
+      ],
+      "english": [
+        "Bhoomi meeda bhakthulu shreshthulu",
+        "Vaaru neeku entho ishtulu",
+        "Gaali rekkala meeda prathyakshamaithivi",
+        "Vishaala sthalamulaku thodukoni vachchithivi",
+        "Naa aashrayamaithivi",
+        "Parishuddha parvatham ekkinchithivi",
+        "Nee gudaaramulo athidhulamaithime",
+        "Noonetho naa thala antabadenu",
+        "Naa ginne nindi pongi porlenu",
+        "Naaku dhanyamaayenu"
+      ]
+    }
+  ]
+}

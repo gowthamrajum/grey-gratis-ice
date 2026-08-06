@@ -1,0 +1,84 @@
+{
+  "song_name": "Chinni Yesu Raju",
+  "author": {
+    "Authored by": "Samy Pachigalla",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జ్ఞానులు చూడవెళ్ళిరి బెత్లెహేము పురమునకు",
+      "పశువుల పాకలో పరుండిన యేసుని చూచి",
+      "సంతోషించి ఆరాధించిరి"
+    ],
+    "english": [
+      "Gnaanulu choodavelliri bethlehemu puramunaku",
+      "pasuvula paakalo parundina yesuni choochi",
+      "santhoshinchi aaraadhinchiri"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చిన్ని యేసు దేవుడని చాటి చెప్పిరి",
+        "చిన్ని యేసు దేవుడని చాటి చెప్పిరి"
+      ],
+      "english": [
+        "Chinni yesu devudani chaati cheppiri",
+        "chinni yesu devudani chaati cheppiri"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రేమను ఇచ్చి విమోచన తెచ్చి",
+        "మానవాళి స్థితిని మార్చుటకై",
+        "జీవ మార్గమును బహుకరించిన",
+        "చిన్ని యేసు రాజు జన్మించే"
+      ],
+      "english": [
+        "Premanu ichi vimochana thechi",
+        "maanavaali sthithini maarchutakai",
+        "jeeva maargamunu bahukarinchina",
+        "chinni yesu raaju janminche"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సర్వోన్నత స్థలములలో దేవునికి మహిమ",
+        "ఆయనకిష్టులైన వారికి ఇల సమాధానం"
+      ],
+      "english": [
+        "Sarvonnatha sthalamulalo devuniki mahima",
+        "aayanakishtulaina vaariki ila samaadhaanam"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "రాజుల రాజుగా భువిపైకరుదెంచి",
+        "ఇమ్మానుయేలుగా జన్మించెనే",
+        "లోకమునకు వెలుగును ప్రసాదించి",
+        "మనకు ఆనందం తెచ్చెనే"
+      ],
+      "english": [
+        "Raajula raajugaa bhuvipaikarudhenchi",
+        "immaanuyelugaa janminchene",
+        "lokamunaku velugunu prasaadhinchi",
+        "manaku aanandam thechene"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "చిన్ని యేసు దేవుడని చాటి చెప్పిరి",
+        "క్రీస్తుయేసు దేవుడని చాటి చెప్పిరి"
+      ],
+      "english": [
+        "Chinni yesu devudani chaati cheppiri",
+        "kreesthu yesu devudani chaati cheppiri"
+      ]
+    }
+  ]
+}

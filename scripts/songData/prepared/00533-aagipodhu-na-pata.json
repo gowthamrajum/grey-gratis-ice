@@ -1,0 +1,54 @@
+{
+  "song_name": "Aagipodhu Na Pata",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆగిపోదు నా పాట - గమ్యం చేరేదాక",
+      "సాగుతుంది ప్రతిపూట - నా పరుగు ముగిసేదాక"
+    ],
+    "english": [
+      "Aagipodu Naa Paata - Gamyam Cheredaaka",
+      "Saagutundi Prathipoota - Naa Parugu Mugisedaaka"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లోకాశలు లాగినా వెనుదిరిగి చూడను అలసటతో జోగినా శృతి తగ్గనీయను",
+        "ఎదురైన అవరోధం యేసే తొలగించును స్థిరమైన విశ్వాసం నాలో కలిగించును"
+      ],
+      "english": [
+        "Lokaashalu Laaginaa Venudirigi Choodanu Alasatatho Joginaa Shruthi Thagganeeyanu",
+        "Eduraina Avarodham Yese Tholaginchunu Sthiramaina Vishwaasam Naalo Kaliginchunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా అడుగు జారినా కలవరము చెందను నా బలము పోయినా లయ తగ్గనీయను",
+        "ఎదురైన అవరోధం యేసే తొలగించును స్థిరమైన విశ్వాసం నాలో కలిగించును"
+      ],
+      "english": [
+        "Naa Adugu Jaarinaa Kalavaramu Chendanu Naa Balamu Poyinaa Laya Thagganeeyanu",
+        "Eduraina Avarodham Yese Tholaginchunu Sthiramaina Vishwaasam Naalo Kaliginchunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "శత్రువు ఎదురొచ్చిన ధైర్యమును వీడను",
+        "మిత్రులు నను గుచ్చినా శ్రావ్యత పొనీయను",
+        "ఎదురైన అవరోధం యేసే తొలగించును స్థిరమైన విశ్వాసం నాలో కలిగించును"
+      ],
+      "english": [
+        "Shatruvu Edurocchina Dhairyamunu Veedanu",
+        "Mithrulu Nanu Gucchinaa Shraavyatha Poneeyanu",
+        "Eduraina Avarodham Yese Tholaginchunu Sthiramaina Vishwaasam Naalo Kaliginchunu"
+      ]
+    }
+  ]
+}

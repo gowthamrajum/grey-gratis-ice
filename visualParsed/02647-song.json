@@ -1,0 +1,64 @@
+{
+  "song_name": "O Yesu rakshakaa nee pilpu vindunu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "లూయిన్ హార్టాస్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ యేసు, రక్షకా",
+      "నీ పిల్పు విందును",
+      "కల్వరి పై నా పాపము",
+      "నివృత్తి చేసితి.",
+      "||యేసు, వచ్చెదన్",
+      "నన్ను ఁ జేర్చుము",
+      "నన్ నీ రక్తమందున",
+      "పవిత్ర పర్చుము ||"
+    ],
+    "english": [
+      "O Yesu, rakshakaa",
+      "Nee pilpu vindunu",
+      "Kalvari pai naa paapamu",
+      "Nivrutthi chesithi.",
+      "||Yesu, vachchedhan",
+      "Nannu jerchumu",
+      "Nan nee rakthamandhuna",
+      "Pavithra parchumu ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేనైతే పాపిని",
+        "నీవే నా ప్రాపపు",
+        "నా దోష మెల్ల కడిగి",
+        "పవిత్రపర్చుము"
+      ],
+      "english": [
+        "Nenaithe paapini",
+        "Neeve naa praapavu",
+        "Naa dosha mella kadigi",
+        "Pavithraparchumu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అశక్తుఁ డనౌ నన్",
+        "నీవే స్థాపించుము",
+        "విశ్వాస ధైర్య బలముల్",
+        "నాలో ఁ బుట్టించుము"
+      ],
+      "english": [
+        "Ashakthu danau nan",
+        "Neeve sthaapinchumu",
+        "Vishwaasa dhairya balamul",
+        "Naalo buttinchumu"
+      ]
+    }
+  ]
+}

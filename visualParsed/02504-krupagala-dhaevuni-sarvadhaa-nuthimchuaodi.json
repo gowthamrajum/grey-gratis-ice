@@ -1,0 +1,77 @@
+{
+  "song_name": "Krupagala Devuni sarvadaa nuthimchudi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "జాన్ మిల్టన్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "కృపగల దేవుని సర్వదా నుతించుఁడి",
+      "దివ్య కృపా ప్రేమలు ఎల్లకాల ముండును."
+    ],
+    "english": [
+      "Krupagala Devuni sarvadaa nuthimchudi",
+      "Divya krupaa premalu ellakaala mundunu."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సర్వశక్తుఁడాయనే సర్వదా చాటించుఁడి",
+        "దివ్య కృపా ప్రేమలు ఎల్లకాల ముండును"
+      ],
+      "english": [
+        "Sarvashakthudaayane sarvadaa chaatimchudi",
+        "Divya krupaa premalu ellakaala mundunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పగటి నేలునట్లు సూర్యునిన్ సృజించెను",
+        "దివ్య కృపా ప్రేమలు ఎల్లకాల ముండును."
+      ],
+      "english": [
+        "Pagati nelunatlu sooryunin srujimchenu",
+        "Divya krupaa premalu ellakaala mundunu."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సర్వజీవకోటిని బ్రోచు దేవుఁ డెన్నఁడు",
+        "దివ్య కృపా ప్రేమలు ఎల్లకాల ముండును."
+      ],
+      "english": [
+        "Sarvajeevakotini brochu Devu dennadu",
+        "Divya krupaa premalu ellakaala mundunu."
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "కర్త మనయందును కనికర ముంచెను",
+        "దివ్య కృపా ప్రేమలు ఎల్లకాల ముండును."
+      ],
+      "english": [
+        "Kartha manayandhunu kanikara mumchenu",
+        "Divya krupaa premalu ellakaala mundunu."
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "దైవ ఘన మహిమన్ జాటుచుండుఁడి యిలన్",
+        "దివ్య కృపా ప్రేమలు ఎల్లకాల ముండును."
+      ],
+      "english": [
+        "Daiva ghana mahiman jaatuchundudi ilan",
+        "Divya krupaa premalu ellakaala mundunu."
+      ]
+    }
+  ]
+}

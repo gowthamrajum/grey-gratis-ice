@@ -1,0 +1,74 @@
+{
+  "song_name": "Jeevapu Maarga Jyoathivi - Siluva Moasina Yaesu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జీవపు మార్గ జ్యోతివి - సిలువ మోసిన యేసు",
+      "మహిమ పూర్ణుడగు నీవే - సిలువ మోసిన యేసు"
+    ],
+    "english": [
+      "Jeevapu Maarga Jyoathivi - Siluva Moasina Yaesu",
+      "Mahima Poornudagu Neevae - Siluva Moasina Yaesu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శరీరధారివైతివి - నీ ప్రేమను కనుపరచితివి",
+        "దీనుల నుద్ధరించితివి - సిలువ మోసిన యేసు"
+      ],
+      "english": [
+        "Shareeradhaarivaithivi - Nee Praemanu Kanuparachithivi",
+        "Dheenula Nuddharinchithivi - Siluva Moasina Yaesu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీవే మార్గ సత్యమని - నీకు పేరు కలిగెను",
+        "నిత్యజీవపు దాతవు - పునరుత్థానుడవు నీవే"
+      ],
+      "english": [
+        "Neevae Maarga Sathyamani - Neeku Paeru Kaligenu",
+        "Nithyajeevapu Dhaathavu - Punarutthaanudavu Neevae"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అర్పణ చేసితివి బలిగా - సిలువపై నీ ప్రాణమును",
+        "కడిగితివి నీ రక్తముతో - సిలువ మోసిన యేసు"
+      ],
+      "english": [
+        "Arpana Chaesithivi Baligaa - Siluvapai Nee Praanamunu",
+        "Kadigithivi Nee Rakthamuthoa - Siluva Moasina Yaesu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీ ద్వారమున జేరితిమి - నీచులము అయోగ్యులము",
+        "నీకే మహిమ స్తుతి ఘనత - సిలువ మోసిన యేసు"
+      ],
+      "english": [
+        "Nee Dhvaaramuna Jaerithimi - Neechulamu Ayoagyulamu",
+        "Neekae Mahima Sthuthi Ghanatha - Siluva Moasina Yaesu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "కల్వరి మార్గ యాత్రికులం - నీకే జయమని పాడెదము",
+        "సర్వద నిను స్తుతియించెదము - సిలువ మోసిన యేసు"
+      ],
+      "english": [
+        "Kalvari Maarga Yaathrikulam - Neekae Jayamani Paadedhamu",
+        "Sarvadha Ninu Sthuthiyinchedhamu - Siluva Moasina Yaesu"
+      ]
+    }
+  ]
+}

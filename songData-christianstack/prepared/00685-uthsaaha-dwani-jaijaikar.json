@@ -1,0 +1,50 @@
+{
+  "song_name": "Uthsaaha Dwani (Jaijaikar)",
+  "author": {
+    "Authored by": "Dr Amit Kamle",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సమస్త దేశములారా యెహోవాకు ఉత్సాహధ్వని చేయుడి",
+      "సంతోషముతో యెహోవాను మీరు సేవించుడి",
+      "ఉత్సాహగానము చేయుచు ఆయన సన్నిధికి రండి",
+      "యెహోవాయే దేవుడని మీరు తెలిసికొనుడి"
+    ],
+    "english": [
+      "Samastha desamulaaraa yehovaaku utsaahadhwani cheyudi",
+      "santhoshamutho yehovaanu meeru sevinchudi",
+      "utsaahagaanamu cheyuchu aayana sannidhiki randi",
+      "yehovaaye devudani meeru thelisikonudi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆయనే మనలను పుట్టించెను",
+        "మనము ఆయన వారము",
+        "మనము ఆయన ప్రజలము",
+        "ఆయన మేపు గొర్రెలము",
+        "కృతజ్ఞతార్పణతో ఆయన గుమ్మములో ప్రవేశించుడి",
+        "ఆయనను స్తుతించుడి",
+        "ఆయన నామం ఘనపరచుడి",
+        "మన యెహోవా దయాలుడు",
+        "ఆయన కృప నిత్యముండును",
+        "ఆయన సత్యము మరియు ప్రేమ తరతరములుండును"
+      ],
+      "english": [
+        "Aayane manalanu puttinchenu",
+        "manamu aayana vaaramu",
+        "manamu aayana prajalamu",
+        "aayana mepu gorrelamu",
+        "kruthagnathaarpanatho aayana gummamulo pravesinchudi",
+        "Aayananu sthuthinchudi",
+        "aayana naamam ghanaparachudi",
+        "mana yehovaa dhayaaludu",
+        "aayana krupa nithyamundunu",
+        "aayana sathyamu mariyu prema tharatharamulundunu"
+      ]
+    }
+  ]
+}

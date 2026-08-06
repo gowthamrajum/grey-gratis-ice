@@ -1,0 +1,98 @@
+{
+  "song_name": "SuMdhara RakShkudaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సుందర రక్షకుడా మాదు స్వతంత్రమైన దేవా",
+      "అను ఎల్లపుడు మేము నిన్నే స్తోత్రించుచుండు",
+      "స్తుతి యిదియే సుందర రక్షకుడా"
+    ],
+    "english": [
+      "SuMdhara RakShkudaa Maadhu SvathMthramaina Dhaevaa",
+      "Anu Ellapudu Maemu Ninnae SthoathriMchuchuMdu",
+      "Sthuthi Yidhiyae SuMdhara RakShkudaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రాజాధిరాజా నీవే - మా - షారోను రోజ నీవే",
+        "త్వరగా వత్తుననిన గొప్ప దేవా - నరుల మమ్ము జూడుమా"
+      ],
+      "english": [
+        "RaajaaDhiraajaa Neevae - Maa - Shaaroanu Roaja Neevae",
+        "Thvaragaa Vaththunanina Goppa Dhaevaa - Narula Mammu Joodumaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వ్యాధిగ్రస్తుల వైద్యుడా - యూద - గోత్రమున బుట్టితి",
+        "నార్తురాలైన నాయీను విధవ - కుమారుని లేపితివి"
+      ],
+      "english": [
+        "VyaaDhigrasthula Vaidhyudaa - Yoodha - Goathramuna Buttithi",
+        "Naarthuraalaina Naayeenu ViDhava - Kumaaruni Laepithivi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రత్నవర్ణ వదనుడా - యూద - కన్య మరియ కాత్మజా",
+        "మన్నించి పరమున జేర్చువాడా - మమ్ము బ్రేమజూడు మా"
+      ],
+      "english": [
+        "RathnavarNa Vadhanudaa - Yoodha - Kanya Mariya Kaathmajaa",
+        "ManniMchi Paramuna Jaerchuvaadaa - Mammu Braemajoodu Maa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నాకము పట్టలేని - వాడా - లోకమునకు వచ్చితీ",
+        "జీవప్రాణమిచ్చి దాహము తీర్చితివి - హీనునిలో నుండుమా"
+      ],
+      "english": [
+        "Naakamu Pattalaeni - Vaadaa - Loakamunaku Vachchithee",
+        "JeevapraaNamichchi Dhaahamu Theerchithivi - Heenuniloa NuMdumaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మార్గం సత్యం జీవమై - మమ్ము - కున్కక కాపాడుచు",
+        "అరచేతిలో మమ్ము చెక్కియున్నవడా - మంచిగొల్ల బోయుడా"
+      ],
+      "english": [
+        "MaargM SathyM Jeevamai - Mammu - Kunkaka Kaapaaduchu",
+        "Arachaethiloa Mammu Chekkiyunnavadaa - MMchigolla Boayudaa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఆశ్చర్యకరుడ నీవే - మంచి - ఆలోచన కర్తయు",
+        "బలుడైన దేవుడు నిత్యుడగు తండ్రి సమాధాన ప్రభువు"
+      ],
+      "english": [
+        "Aashcharyakaruda Neevae - MMchi - Aaloachana Karthayu",
+        "Baludaina Dhaevudu Nithyudagu ThMdri SamaaDhaana Prabhuvu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "హల్లెలూయ పాడను - మహా - సత్యాత్మ వరమీయను",
+        "న్యాయము తీర్చుట కేతెంచువాడా - నిల్వక రారమ్మయా"
+      ],
+      "english": [
+        "Hallelooya Paadanu - Mahaa - Sathyaathma Varameeyanu",
+        "Nyaayamu Theerchuta KaetheMchuvaadaa - Nilvaka Raarammayaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "song_name": "Yesayya janminche ee nelapai",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "లిరిక్స్:-",
+      "యేసయ్య జన్మించే ఈ నేలపై",
+      "సంబరాలు చేసేద్దాం ఏకమై…",
+      "లోకమును ప్రేమించి వచ్చిన",
+      "ప్రియ కుమారునికై…",
+      "ఊరూరా వెళ్లేదాం సువార్త చేసెదం",
+      "లోకాన చాటేద్దాం"
+    ],
+    "english": [
+      "Lyrics:-",
+      "Yesayya janminche ee nelapai",
+      "Sambaraalu chesedhdhaam ekamai…",
+      "Lokamunu preminchi vachchina",
+      "Priya kumaarunikai…",
+      "Oorooraa velledhaam suvaartha chesedam",
+      "Lokaana chaatedhdhaam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కన్నె మరియా గర్భమున",
+        "దైవసుతుడే జన్మించెను",
+        "జనన వార్తతో లోకమంతా",
+        "శుభ దినాలే మొదలాయెను",
+        "రక్షకుడే ఇలకొచ్చెను రక్షణతో",
+        "మనలను నడిపెను",
+        "మనతో ఒకరిగా ఉండెను  ||||"
+      ],
+      "english": [
+        "Kanne Mariyaa garbhamuna",
+        "Dhaivasuthude janminchenu",
+        "Janana vaarthatho lokamanthaa",
+        "Shubha dhinaale modhalaayenu",
+        "Rakshakude ilakochchenu rakshanatho",
+        "Manalanu nadipenu",
+        "Manatho okarigaa undenu  ||||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సంతోషాలను పంచుకునే",
+        "దూత శుభవార్తనే తెచ్చెను",
+        "అవధులు లేని ఆనందంతో",
+        "ధరణియె ఉప్పొంగెను",
+        "ప్రవచనాలే నెరవేరేను",
+        "శ్రమదినాలే ఇక పోయెను",
+        "మనలో శాంతినే నింపెను  ||||"
+      ],
+      "english": [
+        "Santhoshaalanu panchukune",
+        "Dootha shubhavaarthane thechchenu",
+        "Avadhulu leni aanandhantho",
+        "Dharaniye uppongenu",
+        "Pravachanaale neraverenu",
+        "Shramadhinaale ika poyenu",
+        "Manalo shaanthine nimpenu  ||||"
+      ]
+    }
+  ]
+}

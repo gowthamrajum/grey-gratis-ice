@@ -1,0 +1,30 @@
+{
+  "song_name": "Ninne Ne Aaradinthunu",
+  "author": {
+    "Authored by": "Pastor Ravinder Vottepu, Adimalla Sudheer Kumar, Suresh Garugula",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిన్నే నే ఆరాధింతును",
+      "నా యేసయ్య",
+      "నిన్నే నే కొనియాడెదా"
+    ],
+    "english": [
+      "Ninne ne aaraadhinthunu",
+      "naa yesayya",
+      "ninne ne koniyaadedha"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కష్టాలలో కన్నీళ్లలో"
+      ],
+      "english": [
+        "kashtaalalo kannillalo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "song_name": "Mahima Mahima Mana",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మహిమ మహిమ మన యేసు రాజు కే మహిమ (2)",
+      "ఘనత ఘనత మన క్రీస్తు రాజుకే ఘనత (2)",
+      "హల్లె, హల్లె, హల్లె, హల్లులుయః (4)"
+    ],
+    "english": [
+      "Mahima mahima mana Yesu raaju ke mahima (2)",
+      "Ghanatha ghanatha mana Kreesthu raajuke ghanatha (2)",
+      "Halle, halle, halle, halleluyah (4)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "భూమ్యాకాశాముల్ సృజించిన",
+        "మన యేసు రాజుకే మహిమ",
+        "సూర్యచంద్ర తారలను చేసిన - క్రీస్తు రాజుకే ఘనత"
+      ],
+      "english": [
+        "Bhoomyaakaashaamul srujinchina",
+        "Mana Yesu raajuke mahima",
+        "Sooryachandra thaaralanu chesina - Kreesthu raajuke ghanatha"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేల మంటి నుండి నరుని చేసిన యేసు రాజు కే మహిమ",
+        "నశించిన దానిని వెదకి రక్షించిన క్రీస్తు రాజుకే మహిమ"
+      ],
+      "english": [
+        "Nela manti nundi naruni chesina Yesu raaju ke mahima",
+        "Nashinchina daanini vedaki rakshinchina Kreesthu raajuke mahima"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అపవాది బలమును సిలువలో కూల్చిన యేసు రాజు కే మహిమ",
+        "సమాదిని గెలిచి తిరిగి లేచిన క్రీస్తు రాజుకే మహిమ"
+      ],
+      "english": [
+        "Apavaadi balamunu siluvalo koolchina Yesu raaju ke mahima",
+        "Samaadhini gelichi thirigi lechina Kreesthu raajuke mahima"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పరమున స్థలమును సిద్ధపరచిన యేసురాజుకే మహిమ",
+        "తానుండు స్థాలముకు మనలను కొనిపోవు క్రీస్తు రాజుకే మహిమ ."
+      ],
+      "english": [
+        "Paramuna sthalamunu siddhaparachina Yesuraajuke mahima",
+        "Thaanundu sthalamuku manalanu konipovu Kreesthu raajuke mahima ."
+      ]
+    }
+  ]
+}

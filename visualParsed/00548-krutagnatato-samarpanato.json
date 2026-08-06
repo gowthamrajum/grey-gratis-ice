@@ -1,0 +1,63 @@
+{
+  "song_name": "Kruthagnathatho samarpanatho",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "కృతజ్ఞతతో సమర్పణతో ఆయన సన్నిది చేరెదము",
+      "ప్రధమ ఫలము ప్రతిష్టర్పన పదియవ బాగము ఆయనదే",
+      "మనసార సమర్పించెదము వెనుకాడకు ఇచ్చుటలో",
+      "ఆ .....ఆ"
+    ],
+    "english": [
+      "Kruthagnathatho samarpanatho aayana sannidhi cheredhamu",
+      "Pradhama phalamu prathishtarpana padhiyava bhaagamu aayanadhe",
+      "Manasaara samarpinchedhamu venukaadaku ichchutalo",
+      "Aa .....aa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆయన ఆలయము దీవెనలకు నిలయం",
+        "ఆకాశ వాకిళ్ళు తెరువగను పట్టజాలని దీవెన నీకుండును",
+        "ఆ .....ఆ"
+      ],
+      "english": [
+        "Aayana aalayamu dheevenalaku nilayam",
+        "Aakaasha vaakillu theruvaganu pattajaalani deevena neekundunu",
+        "Aa .....aa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కలిగినదంతయు అపోస్తులుల చెంత",
+        "వదిలిరి శిష్యులు దేవునికి సిరిసంపదలన్ని",
+        "ఆ .....ఆ"
+      ],
+      "english": [
+        "Kaliginadhanthayu aposthulula chentha",
+        "Vadhiliri shishyulu Devuniki sirisampadhalanni",
+        "Aa .....aa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరలోక నిదిని సంపాదించితివా",
+        "పరముకు చేరే గవిని ఇది సమర్పణ చేయుము కానుకలు",
+        "ఆ .....ఆ"
+      ],
+      "english": [
+        "Paraloka nidhini sampaadhinchithivaa",
+        "Paramuku chere gavini idhi samarpana cheyumu kaanukalu",
+        "Aa .....aa"
+      ]
+    }
+  ]
+}

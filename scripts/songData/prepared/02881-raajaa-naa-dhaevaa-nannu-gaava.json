@@ -1,0 +1,61 @@
+{
+  "song_name": "Raajaa Naa Dhaevaa Nannu Gaava Raavae Prabhu",
+  "author": {
+    "Authored by": "",
+    "రచన": "జి పెద సమూయేలు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాజా నా దేవా నన్ను గావ రావే ప్రభు"
+    ],
+    "english": [
+      "Raajaa Naa Dhaevaa Nannu Gaava Raavae Prabhu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తల్లి గర్భంబు బయలు వెళ్లిన దినమునుండి",
+        "కొల్లగా సేవింపఁ జల్లనైన మోక్ష మియ్య"
+      ],
+      "english": [
+        "Thalli Garbhambu Bayalu Vellina Dhinamunundi",
+        "Kollagaa Saevimpa Jallanaina Moaksha Miyya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బాలప్రాయమునుండి బ్రతికిన కాలమంత",
+        "నీలాగు జీవించి నిత్యమైన మోక్ష మొంద"
+      ],
+      "english": [
+        "Baalapraayamunundi Brathikina Kaalamantha",
+        "Neelaagu Jeevinchi Nithyamaina Moaksha Monda"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మాకొఱకై వచ్చి మా పాపములకు",
+        "మాయ లోకములోన మృతికి లోనై లేచితి వయ్య"
+      ],
+      "english": [
+        "Maakorakai Vachchi Maa Paapamulaku",
+        "Maaya Loakamuloana Mruthiki Loanai Laechithi Vayya"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దండి ప్రభుండు యే సండఁ జేరఁగ మాకు",
+        "నిండు వేడుకతోను నిత్య మోక్షంబు నియ్య"
+      ],
+      "english": [
+        "Dhandi Prabhundu Yae Sanda Jaeraga Maaku",
+        "Nindu Vaedukathoanu Nithya Moakshambu Niyya"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "song_name": "Na Jeevithamu",
+  "author": {
+    "Authored by": "John Vittney Kalavala",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "Pre-Chorus 1:",
+      "జయమే జయమే నీ మాటలో",
+      "జయమే జయమే నీ ప్రేమలో",
+      "జయమే జయమే నీ మాటలో",
+      "జయమే జయమే"
+    ],
+    "english": [
+      "Pre-Chorus 1:",
+      "jayame jayame ne maatalo",
+      "jayame jayame ne premalo",
+      "jayame jayame ne maatalo",
+      "jayame jayame"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా జీవితము నీ మాటతోనే ఆరంభించెదన్",
+        "సమాప్తమన్న నీ మాటతోనే ఆరంభించెదన్"
+      ],
+      "english": [
+        "Na jeevithamu ne maata thone aarambhinchedan",
+        "samaaptamanna ne maata thone aarambhinchedan"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఓ ఓ ఓ ఓ యేసయ్య (4)"
+      ],
+      "english": [
+        "oo oo oo oo yesayya (4)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా చింతలన్ని నీ కౌగిలిలో మరచిపొయేదన్",
+        "నా ఆశలన్ని నీ సన్నిదిలో సమర్పించెదన్"
+      ],
+      "english": [
+        "na chinthalanni ne kaugililo",
+        "marachipoyedan na aashalanni",
+        "ne sannidhilo samarpinchedan"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "Pre-Chorus 2:",
+        "ఆనందమే నందమే నీ కౌగిలిలో",
+        "ఆనందమే నందమే నీ సన్నిధిలో",
+        "ఆనందమే నందమే నీ కౌగిలిలో",
+        "ఆనందమే నందమే"
+      ],
+      "english": [
+        "Pre-Chorus 2:",
+        "aanandame nandame ne kaugililo",
+        "aanandame nandame ne sannidhilo",
+        "aanandame nandame ne kaugililo",
+        "aanandame nandame"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఓ ఓ ఓ ఓ యేసయ్య (4)"
+      ],
+      "english": [
+        "oo oo oo oo yesayya (4)"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "Bridge:",
+        "నీలోనే విజయము",
+        "నీలోనే ఆనందము"
+      ],
+      "english": [
+        "Bridge:",
+        "neelone vijayamu",
+        "neelone aanandamu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "ఓ ఓ ఓ ఓ యేసయ్య (8)"
+      ],
+      "english": [
+        "oo oo oo oo yesayya (8)"
+      ]
+    }
+  ]
+}

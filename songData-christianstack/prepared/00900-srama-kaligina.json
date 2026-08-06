@@ -1,0 +1,72 @@
+{
+  "song_name": "Srama Kaligina",
+  "author": {
+    "Authored by": "A.R.Stevenson",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "శ్రమ కలిగినా భయపడకు",
+      "శ్రమ పెరిగినా బెదిరిపోకు",
+      "శ్రమలందు దేవుని ప్రేమించినా",
+      "సమకూడును మేలు కొరకు",
+      "అన్ని సమకూడును మేలు కొరకు"
+    ],
+    "english": [
+      "Srama kaliginaa bhayapadaku",
+      "srama periginaa bedhiripoku",
+      "sramalandhu devuni preminchinaa",
+      "samakoodunu melu koraku",
+      "anni samakoodunu melu koraku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శ్రమ ఓర్పును కలిగించును",
+        "నీరీక్షణ పెంపొందించును",
+        "శ్రమలందునా అతిశయించినా",
+        "సమకూడును మేలు కొరకు",
+        "అన్ని సమకూడును మేలు కొరకు",
+        "శ్రమ పూర్ణులనుగా చేయును",
+        "స్థిరపరచి బలముతో నింపును",
+        "శ్రమలందునా సంతసించినా",
+        "సమకూడును మేలు కొరకు",
+        "అన్ని సమకూడును మేలు కొరకు",
+        "శ్రమ మహిమను కొనితెచ్చును",
+        "విదేయత నేర్పించును",
+        "శ్రమలందునా ప్రార్ధించినా",
+        "సమకూడును మేలు కొరకు",
+        "అన్ని సమకూడును మేలు కొరకు",
+        "శ్రమ దేవునివైపు త్రిప్పును",
+        "ఆదరణతో వెలిగించును",
+        "శ్రమలందునా స్తుతియించినా",
+        "సమకూడును మేలు కొరకు",
+        "అన్ని సమకూడును మేలు కొరకు"
+      ],
+      "english": [
+        "Srama orpunu kaliginchunu",
+        "neereekshana pempondinchunu",
+        "sramalandhunaa athisayinchinaa",
+        "samakoodunu melu koraku",
+        "anni samakoodunu melu koraku",
+        "Srama poornulanugaa cheyunu",
+        "sthiraparachi balamutho nimpunu",
+        "sramalandhunaa santhasinchinaa",
+        "samakoodunu melu koraku",
+        "anni samakoodunu melu koraku",
+        "Srama mahimanu konithechunu",
+        "vidheyatha nerpinchunu",
+        "sramalandhunaa praardhinchinaa",
+        "samakoodunu melu koraku",
+        "anni samakoodunu melu koraku",
+        "Srama devunivaipu thrippunu",
+        "aadharanatho veliginchunu",
+        "sramalandhunaa sthuthiyinchinaa",
+        "samakoodunu melu koraku",
+        "anni samakoodunu melu koraku"
+      ]
+    }
+  ]
+}

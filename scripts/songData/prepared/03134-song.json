@@ -1,0 +1,73 @@
+{
+  "song_name": "Dhaevumdu Praema Rakshimche Nannu",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఎ రిస్పీ"
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవుండు ప్రేమ రక్షించె నన్ను దేవుండు ప్రేమ ప్రేమించెనన్",
+      "||రెట్టించి పాడుదున్ దేవుండు ప్రేమ ప్రేమించెనన్ను నటంచును||"
+    ],
+    "english": [
+      "Dhaevumdu Praema Rakshimche Nannu Dhaevumdu Praema Praemimchenan",
+      "||Rettimchi Paadudhun Dhaevumdu Praema Praemimchenannu Natamchunu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నన్నొందె జావు సైతాను భీతి నన్నెందె జావు నా జీతము."
+      ],
+      "english": [
+        "Nannomdhe Jaavu Saithaanu Bheethi Nannemdhe Jaavu Naa Jeethamu."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాకై సుయేసు నాయప్పు దీర్ప నాకై సుయేసు చావొందెను."
+      ],
+      "english": [
+        "Naakai Suyaesu Naayappu Dheerpa Naakai Suyaesu Chaavomdhenu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "న్బిల్చినాడు వాక్యంబుచేత న్బిల్చినాడు శుద్ధాత్మచే."
+      ],
+      "english": [
+        "Nbilchinaadu Vaakyambuchaetha Nbilchinaadu Shudhdhaathmachae."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఈ ప్రీతి వాక్కు నాయాత్మ భుక్తి ఈ ప్రీతి వాక్కు నా పానమున్"
+      ],
+      "english": [
+        "Ee Preethi Vaakku Naayaathma Bhukthi Ee Preethi Vaakku Naa Paanamun"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఓ దివ్య ప్రేమ! నా ముక్తిధార! ఓ దివ్య ప్రేమ! ఓదార్పునన్."
+      ],
+      "english": [
+        "Oa Dhivya Praema! Naa Mukthidhaara! Oa Dhivya Praema! Oadhaarpunan."
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నిన్నే స్తుతింతు నో నిత్యప్రేమ! నిన్నే స్తుతింతు నెల్లప్పుడున్."
+      ],
+      "english": [
+        "Ninnae Sthuthimthu Noa Nithyapraema! Ninnae Sthuthimthu Nellappudun."
+      ]
+    }
+  ]
+}

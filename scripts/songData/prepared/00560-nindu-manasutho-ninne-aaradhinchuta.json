@@ -1,0 +1,60 @@
+{
+  "song_name": "Nindu Manasutho Ninne Aaraadinchuta",
+  "author": {
+    "Authored by": "Bro  Yesanna",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిండు మనసుతో నిన్నే ఆరాదించుట నీ సంకల్పం",
+      "మేలు చేయు నీ వలనే బలమొందుట నా బాగ్యం",
+      "మనోహరమే నిను స్తుతించుట మాధుర్యమే నీ కృప ధ్యానించుట"
+    ],
+    "english": [
+      "Nindu Manasutho Ninne Aaraadinchuta Nee Sankalpam",
+      "Melu Cheyu Nee Valane Balamonduta Naa Baagyam",
+      "Manoharame Ninu Sthuthinchuta Maadhuryame Nee Krupa Dhyaaninchuta"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ పరాక్రమ కార్యములు ఎన్నెన్నో అనుభవించాను",
+        "దివారాత్రులు నను కాయుటకు నాకు కేడెమై నిలిచావు",
+        "అందుకో నా దీన స్తుతి పాత్రను సర్వ శక్తుడా నా యేసయ్య"
+      ],
+      "english": [
+        "Nee Paraakrama Kaaryamulu Ennenno Anubhavinchaanu",
+        "Divaaraathrulu Nanu Kaayutaku Naaku Kedemai Nilichaavu",
+        "Anduko Naa Deena Sthuthi Paathranu Sarva Shakthudaa Naa Yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ కృపలోనే నిలుచుటకు నేనొక వరమును అడిగితిని",
+        "నా మనవులు మానక అంగీకరించి దీవెన ద్వారము తెరచితివి",
+        "నీకోసమే నా స్తుతుల హృదయార్పణ ఆరాద్యుడా నా యేసయ్య"
+      ],
+      "english": [
+        "Nee Krupalone Niluchutaku Nenoka Varamunu Adigithini",
+        "Naa Manavulu Maanaka Angeekarinchi Deevena Dvaaramu Terachithivi",
+        "Neekosame Naa Sthuthula Hrudayaarpana Aaraadhyudaa Naa Yesayya"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సర్వ సృష్టి సౌందర్యమంతయు నీ కీర్తినే ప్రకటించుచుండగా",
+        "వేలాది దూతల సైన్యములు నీ మహిమను కొనియాడుచుండగా",
+        "నా స్తుతి సింహసనమునే కోరితివి పరిశుద్దుడా నా యేసయ్య"
+      ],
+      "english": [
+        "Sarva Srushti Soundaryamanthayu Nee Keerthine Prakatinchuchundagaa",
+        "Velaadi Doothala Sainyamulu Nee Mahimanu Koniyaaduchundagaa",
+        "Naa Sthuthi Simhasanamune Korithivi Parishuddudaa Naa Yesayya"
+      ]
+    }
+  ]
+}

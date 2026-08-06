@@ -1,0 +1,58 @@
+{
+  "song_name": "Anthya Dhinamandhu Dhootha Boora Noodhu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేను కూడ చేరియుందున్ నేను కూడ చేరియుందున్",
+      "నేను కూడ చేరియుందున్ నేను కూడ చేరి యుందు నచ్చ టన్"
+    ],
+    "english": [
+      "Naenu Kooda Chaeriyundhun Naenu Kooda Chaeriyundhun",
+      "Naenu Kooda Chaeriyundhun Naenu Kooda Chaeri Yundhu Nachcha Tan"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అంత్య దినమందు దూత బూర నూదు చుండగా నిత్యవాసరంబు",
+        "తెల్లవారగా రక్షణందుకొన్నవారి పేళ్లు పిల్చుచుండగా",
+        "నేను కూడ చేరియుందునచ్చటన్"
+      ],
+      "english": [
+        "Anthya Dhinamandhu Dhootha Boora Noodhu Chundagaa Nithyavaasarambu",
+        "Thellavaaragaa Rakshanandhukonnavaari Paellu Pilchuchundagaa",
+        "Naenu Kooda Chaeriyundhunachchatan"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "క్రీస్తునందు మృతులైన వారు లేచి క్రీస్తుతో",
+        "పాలుపొందునట్టి యుదయంబునన్ భక్తులార కూడిరండి యంచు",
+        "బిల్చుచుండగా నేను కూడ చేరియుందు నచ్చటన్"
+      ],
+      "english": [
+        "Kreesthunandhu Mruthulaina Vaaru Laechi Kreesthuthoa",
+        "Paalupondhunatti Yudhayambunan Bhakthulaara Koodirandi Yanchu",
+        "Bilchuchundagaa Naenu Kooda Chaeriyundhu Nachchatan"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కాన యేసుసేవ ప్రత్య హంబు చేయుచుండి నే",
+        "క్రీస్తునద్భుతంపు ప్రేమచాటున్ కృప నొందు వారి పేళ్లు యేసు",
+        "పిల్చుచుండగా నేను కూడ చేరియుందునచ్చటన్"
+      ],
+      "english": [
+        "Kaana Yaesusaeva Prathya Hambu Chaeyuchundi Nae",
+        "Kreesthunadhbhuthampu Praemachaatun Krupa Nondhu Vaari Paellu Yaesu",
+        "Pilchuchundagaa Naenu Kooda Chaeriyundhunachchatan"
+      ]
+    }
+  ]
+}

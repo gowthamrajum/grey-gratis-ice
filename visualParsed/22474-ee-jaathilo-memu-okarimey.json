@@ -1,0 +1,116 @@
+{
+  "song_name": "Ee jaathilo memu okarime",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Pastor Sandeep Dasari"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఈ జాతిలో మేము ఒకరిమే",
+      "మన దేశమును ప్రేమిస్తునం",
+      "నిజ స్వేచ్చకై ప్రార్దిస్తున్నాం",
+      "క్రీస్తు కై బ్రతుకుచున్నం"
+    ],
+    "english": [
+      "Ee jaathilo memu okarime",
+      "Mana dheshamunu premisthunnaam",
+      "Nija svechchakai praardhisthunnaam",
+      "Kreesthu kai brathukuchunnaam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జనగణమునకై ప్రాతి జాతికి నిరంతరం ప్రార్దిస్తున్నం",
+        "మా దేశముకై ప్రతి పౌరునికి మరింతగా ప్రార్దిస్తున్నాం (2 )"
+      ],
+      "english": [
+        "Janaganamunakai prathi jaathiki nirantharam praardhisthunnaam",
+        "Maa dheshamukai prathi pauruniki marinthagaa praardhisthunnaam (2 )"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వందే మాతరం మాతరం యేసుకే ఈ తరం",
+        "వందే మాతరం మాతరం యేసుకే అంకితం  ||ఈ||"
+      ],
+      "english": [
+        "Vandhe maatharam maatharam Yesuke ee tharam",
+        "Vandhe maatharam maatharam Yesuke ankitham  ||Ee||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీతిని బోధించే సేవకులను",
+        "హింసించేవారికై ప్రార్దిస్తున్నాం",
+        "సువార్తను మతమని తలచి క్రీస్తు ప్రేమను",
+        "నిందించేవారికి దుకిస్తున్నం",
+        "దుషించినా - ద్వేశించినా",
+        "క్రీస్తు ప్రేమనే ప్రకటిస్తున్నాం",
+        "బాధించినా గాయపరచిన",
+        "కల్వరి ప్రేమను చూపిస్తున్నాం"
+      ],
+      "english": [
+        "Neethini bodhinche sevakulanu",
+        "Himsinchevaarikai praardhisthunnaam",
+        "Suvaarthanu mathamani thalachi Kreesthu premanu",
+        "Nindhinchevaariki dhukhisthunnaam",
+        "Dhooshinchinaa - Dhveshinchinaa",
+        "Kreesthu premane prakatisthunnaam",
+        "Baadhinchinaa gaayaparachina",
+        "Kalvari premanu choopisthunnaam"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దేవా నా దేశమును రక్షించవా",
+        "దేవా నా జాతిని దర్శించవా (2 ) ......వందేమాతరం ...."
+      ],
+      "english": [
+        "Deva naa dheshamunu rakshinchavaa",
+        "Deva naa jaathini dharshinchavaa (2 ) ......Vandhemaatharam ...."
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "కుల మత ద్వేషములు విధ్రోహచర్యలు",
+        "నసియించుపోవుటకై ప్రార్దిస్తున్నాం",
+        "ఉగ్రవాధదాడులు అంధకార ఆలోచనలు",
+        "అంతరించిపోవుటకై ప్రార్దిస్తున్నాం",
+        "సుఖజీవము - సౌభాగ్యము",
+        "దేశములో వుండాలని కోరుచున్నం",
+        "ఆనందము - అనురాగము",
+        "దేశములో ఉండుటకై ఆశిస్తున్నాం"
+      ],
+      "english": [
+        "Kula matha dhveshamulu vidhrohacharyalu",
+        "Nashiyinchipovutakai praardhisthunnaam",
+        "Ugravaadhadhaadulu andhakaara aalochanalu",
+        "Antharinchipovutakai praardhisthunnaam",
+        "Sukhajeevamu - Saubhaagyamu",
+        "Deshamulo vundaalani koruchunnaam",
+        "Aanandamu - Anuraagamu",
+        "Deshamulo undutakai aashisthunnaam"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "దేవా నా దేశమును రక్షించవా",
+        "దేవా నా జాతిని దర్శించవా (2 ) ......వందేమాతరం ...."
+      ],
+      "english": [
+        "Deva naa dheshamunu rakshinchavaa",
+        "Deva naa jaathini dharshinchavaa (2 ) ......Vandhemaatharam ...."
+      ]
+    }
+  ]
+}

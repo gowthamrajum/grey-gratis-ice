@@ -1,0 +1,72 @@
+{
+  "song_name": "Vachchaadu mahaaraaju mari manakosame andagaa thodugaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Sangeetha Rao"
+    ],
+    "రచన": [
+      "సంగీత రావు"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "వచ్చాడు మహారాజు మరి మనకోసమే అండగా తోడుగా",
+      "శకపురుషుడు మహిమాన్వితుడు",
+      "మా రారాజతడు.. ఓహో.."
+    ],
+    "english": [
+      "Vachchaadu mahaaraaju mari manakosame andagaa thodugaa",
+      "Shakapurushudu mahimaanvithudu",
+      "Maa raaraajathadu.. oho.."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వేవేల దూతల స్తుతులతో",
+        "నిత్యము కొనియాడబడుచు",
+        "పరిశుద్ధుడు అతి పరిశుద్దుడు అని",
+        "నిత్యము కీర్తీంచబడుచు",
+        "మహిమాన్వితుడు మహనీయుడు",
+        "మారని నిజదేవుడు",
+        "మన కోసమే మహిమను విడిచి",
+        "భువికే రక్షణను తెచ్చాడు"
+      ],
+      "english": [
+        "Vevela doothala sthuthulatho",
+        "Nithyamu koniyaadabaduchu",
+        "Parishuddhudu athi parishuddhudu ani",
+        "Nithyamu keerthinchabaduchu",
+        "Mahimaanvithudu mahaneeyudu",
+        "Maarani nija Devudu",
+        "Mana kosame mahimanu vidichi",
+        "Bhuvike rakshananu thechchaadu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మాట తోనే సృష్టిని చేసిన ఎంతో గొప్ప దేవుడు",
+        "మంటి తోనే మనిషిని చేసిన ఎంతో మహనియుడవు",
+        "తన స్వహస్తాలతో తన స్వాస్తముగా",
+        "మము కాచి పెంచి ప్రేమిస్తున్న ఏకైక దేవుడు",
+        "నరులను ప్రేమించి పరమును విడిచి మనిషిగా పుట్టినాడు",
+        "మరణము గెలిచి రక్షణనిచ్చి మార్గము చూపినాడు",
+        "నీ హృదయము కోరాడు మరి ఏమి అడగలేదు",
+        "మారుమనసు పొంది మనము మోక్షమే చేరేదము"
+      ],
+      "english": [
+        "Maata thone srushtini chesina entho goppa Devudu",
+        "Manti thone manishini chesina entho mahaneeyudavu",
+        "Thana svahasthaalatho thana svaasthamugaa",
+        "Mamu kaachi penchi premisthunna ekaika Devudu",
+        "Narulanu preminchi paramunu vidichi manishigaa puttinaadu",
+        "Maranamu gelichi rakshananichchi maargamu choopinaadu",
+        "Nee hrudayamu koraadu mari emi adagaledhu",
+        "Maarumanasu pondi manamu mokshame cheredhamu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "song_name": "Bhajiyimpa randi Prabhuyesuni",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "భజియింప రండి ప్రభుయేసుని",
+      "ఆత్మసత్యములతో ప్రేమామయుని పరమ తండ్రిని"
+    ],
+    "english": [
+      "Bhajiyimpa randi Prabhuyesuni",
+      "Aathmasathyamulatho premaamayuni parama thandrini"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాప క్షమాపణ మనకిచ్చెను",
+        "మనల విమోచించె రక్తముతో",
+        "జయము జయము మన ప్రభుకే"
+      ],
+      "english": [
+        "Paapa kshamaapana manakichchenu",
+        "Manala vimochinche rakthamutho",
+        "Jayamu jayamu mana Prabhuke"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆత్మమందిర ప్రత్యక్షత నొసగెన్",
+        "నేత్రము తెరచెను యేసుని చూడ",
+        "ఆశ్చర్యకరుడు సదాకాలము"
+      ],
+      "english": [
+        "Aathmamandhira prathyakshatha nosagen",
+        "Nethramu therachenu Yesuni chooda",
+        "Aashcharyakarudu sadaakaalamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఘనత పొంద సదా రాజ్యము నిచ్చె",
+        "స్వాస్థ్యము పొంద వారసులమైతిమి",
+        "హోసన్న హోసన్న విజయునికే"
+      ],
+      "english": [
+        "Ghanatha ponda sadaa raajyamu nichche",
+        "Swaasthyamu ponda vaarasulamaithimi",
+        "Hosanna hosanna vijayunike"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "జగమును జయించే జీవితమునిచ్చె",
+        "సిలువ శక్తిచే మనలను గాచెగా",
+        "స్తుతులర్పింతుము ముక్తిదాతకే"
+      ],
+      "english": [
+        "Jagamunu jayinche jeevithamunichche",
+        "Siluva shakthiche manalanu gaachegaa",
+        "Sthuthularpinthumu mukthidhaathake"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "సంఘము ప్రభుని చేర తేరిచూచెగా",
+        "సదాకాల మాయనతో నుండ నెప్పుడు",
+        "సాగిలపడెదము సృష్ఠికర్తకే"
+      ],
+      "english": [
+        "Sanghamu Prabhuni chera therichoochegaa",
+        "Sadhaakaala maayanatho nunda neppudu",
+        "Saagilapadedhamu srushtikarthake"
+      ]
+    }
+  ]
+}

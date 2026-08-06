@@ -1,0 +1,65 @@
+{
+  "song_name": "Yese naaku samasthamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసే నాకు సమస్తము",
+      "యేసు క్రీస్తే నాకు సర్వశ్వము",
+      "బ్రతుకంత యేసుకై జీవింతును",
+      "సర్వ సృష్టికి ప్రభువని చాటింతును"
+    ],
+    "english": [
+      "Yese naaku samasthamu",
+      "Yesu Kreesthe naaku sarvasvamu",
+      "Brathukantha Yesukai jeevinthunu",
+      "Sarva srushtiki prabhuvani chaatinthunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హల్లేలూయా అని పాడి నేను స్తుతియింతును",
+        "హల్లేలూయా అని పాడి నేను ఘనపరతును",
+        "ఎల్లప్పుడు…"
+      ],
+      "english": [
+        "Hallelooyaa ani paadi nenu sthuthiyinthunu",
+        "Hallelooyaa ani paadi nenu ghanaparathunu",
+        "Ellappudu…"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసుతో నేను నడవాలని",
+        "నా జీవిత ఆశ అదియే గద",
+        "అబ్బా తండ్రని నేను పిలవాలని",
+        "తన ప్రేమను నేను పొందాలని"
+      ],
+      "english": [
+        "Yesutho nenu nadavaalani",
+        "Naa jeevitha aasha adiye gada",
+        "Abbaa thandrani nenu pilavaalani",
+        "Thana premanu nenu pondaalani"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "హల్లేలూయా అని పాడి నేను స్తుతియింతును",
+        "హల్లేలూయా అని పాడి నేను ఘనపరతును",
+        "ఎల్లప్పుడు…"
+      ],
+      "english": [
+        "Hallelooyaa ani paadi nenu sthuthiyinthunu",
+        "Hallelooyaa ani paadi nenu ghanaparathunu",
+        "Ellappudu…"
+      ]
+    }
+  ]
+}

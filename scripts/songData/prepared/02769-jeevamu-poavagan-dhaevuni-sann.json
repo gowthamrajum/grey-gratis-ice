@@ -1,0 +1,62 @@
+{
+  "song_name": "Jeevamu Poavagan Dhaevuni Sannidhi",
+  "author": {
+    "Authored by": "",
+    "రచన": "బర్నార్డ్ లూకాస్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "జీవము పోవగన్ దేవుని సన్నిధి జీవుడు చేరున్"
+    ],
+    "english": [
+      "Jeevamu Poavagan Dhaevuni Sannidhi Jeevudu Chaerun"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పుష్పము రాలగన్ బాష్పము లేలన్ ఋష్పమువాడిన ఋష్కల ఫలమగున్"
+      ],
+      "english": [
+        "Pushpamu Raalagan Baashpamu Laelan Rushpamuvaadina Rushkala Phalamagun"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిధన మొందగ నిద్దుర పోవుటే రోదనముండదు బాధముగించెన్"
+      ],
+      "english": [
+        "Nidhana Mondhaga Nidhdhura Poavutae Roadhanamundadhu Baadhamuginchen"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నష్టము భావమై కష్టము దీరున్ ఇష్టముతో ప్రభు యింటను జేర్చును"
+      ],
+      "english": [
+        "Nashtamu Bhaavamai Kashtamu Dheerun Ishtamuthoa Prabhu Yintanu Jaerchunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పరమున జొరగన్ హర్షమునొందన్ మరణము గెల్చిన సర్వదా"
+      ],
+      "english": [
+        "Paramuna Joragan Harshamunondhan Maranamu Gelchina Sarvadhaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యేసుఁడు లేచెన్ దాసుఁడు లేచున్ భాసుర గృహమున వాసము చేయున్"
+      ],
+      "english": [
+        "Yaesundu Laechen Dhaasundu Laechun Bhaasura Gruhamuna Vaasamu Chaeyun"
+      ]
+    }
+  ]
+}

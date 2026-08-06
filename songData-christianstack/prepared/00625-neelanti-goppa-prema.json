@@ -1,0 +1,48 @@
+{
+  "song_name": "Neelanti Goppa Prema",
+  "author": {
+    "Authored by": "Pastor Jyothi Raju",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ లాంటి గొప్ప ప్రేమ",
+      "నీ లాంటి జాలి మనసు",
+      "నే నెన్నడు చూడలేదు",
+      "ఎక్కడ చూడలేదు",
+      "మాటలు చాలని మధురానుభవము"
+    ],
+    "english": [
+      "Neelanti goppa prema",
+      "neelanti jaali manasu",
+      "ne nennadu choodaledhu",
+      "ekkada choodaledhu",
+      "maatalu chaalani madhuraanubhavamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దావీదు కుమారుడా కరుణిoచమనిన",
+        "అంధుని ఆక్రంధనను ఆలకించినావు",
+        "నీకు ఇష్టమైతే శుద్ధి చేయమనిన",
+        "కుష్ట రోగి కష్టమంతా తీసివేసినావు",
+        "యేసుని రాజ్యములో……చేర్చుమని వేడిన",
+        "ప్రక్కనున్న పాపి ప్రార్ధనాలాకించినావు",
+        "నేడు నీవు నాతో పరదైసులోన",
+        "ఉందువని దొంగతో క్షమించి చెప్పినావు"
+      ],
+      "english": [
+        "Dhaaveedhu kumaarudaa karunichamaanina",
+        "andhuni aakrandhananu aalakinchinaavu",
+        "neeku istamaithe shuddhi cheyamanina",
+        "kusta rogi kastamanthaa theesivesinaavu",
+        "Yesuni raajyamulo cherchumani vedinaa",
+        "prakkanunna paapi praardhanaalakinchinaavu",
+        "nedu neevu naatho paradhaisulona",
+        "undhuvani dhongatho kshaminchi cheppinaavu"
+      ]
+    }
+  ]
+}

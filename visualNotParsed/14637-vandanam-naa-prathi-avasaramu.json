@@ -1,0 +1,92 @@
+{
+  "song_name": "Vandanam Naa Prathi Avasaramu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రతి అవసరము",
+      "తీర్చువాడవు నీవే… యేసయ్యా",
+      "నా ప్రతి ఆశ",
+      "నెరవేర్చువాడవు నీవే… యేసయ్యా"
+    ],
+    "english": [
+      "Naa prathi avasaramu",
+      "Theerchuvaadavu neeve… Yesayyaa",
+      "Naa prathi aasha",
+      "Neraverchuvaadavu neeve… Yesayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆకలితో నే అలమటించినప్పుడు",
+        "అక్కరనెరిగి ఆదుకొన్నావు (2)",
+        "వందనం యేసయ్యా",
+        "నీకే వందనం యేసయ్యా  ||నా||  ||నా||"
+      ],
+      "english": [
+        "Aakalitho ne alamatinchinappudu",
+        "Akkaranerigi aadukonnaavu (2)",
+        "Vandanam Yesayyaa",
+        "Neeke vandanam Yesayyaa  ||Naa||  ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఊహించలేని ఆశ్చర్య కార్యములతో",
+        "ఏ కొదువ లేక నను కాచుచుంటివి (2)",
+        "కష్టాలెన్ని వచ్చినా – కరువులెన్ని కలిగినా",
+        "నీ చేతి నీడ ఎప్పుడూ నను దాటిపోదు ||వందనం||"
+      ],
+      "english": [
+        "Oohinchaleni aashcharya kaaryamulatho",
+        "E koduva leka nanu kaachuchuntivi (2)",
+        "Kashtaalenni vachchinaa – Karuvulenni kaliginaa",
+        "Nee chethi needa eppudoo nanu daatipodu ||Vandanam||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తప్పిపోయినా త్రోవ మరచినా",
+        "నీ కృప నన్ను విడచి వెళ్ళదు (2)",
+        "నీ కృప – విడచి వెళ్ళదు నన్నెప్పుడు (2)",
+        "యేసయ్యా..",
+        "నా ప్రతి విన్నపం",
+        "నీ చెంత చేరునేసయ్యా – యేసయ్యా",
+        "నా ప్రతి ప్రార్థనకు",
+        "జవాబు నీవే యేసయ్యా – యేసయ్యా (2)"
+      ],
+      "english": [
+        "Thappipoyinaa throva marachinaa",
+        "Nee krupa nannu vidachi velladu (2)",
+        "Nee krupa – Vidachi velladu nanneppudu (2)",
+        "Yesayyaa..",
+        "Naa prathi vinnapam",
+        "Nee chentha cherunesayyaa – Yesayyaa",
+        "Naa prathi praarthanaku",
+        "Javaabu neeve Yesayyaa – Yesayyaa (2)"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "వందనం యేసయ్యా",
+        "నీకే వందనం యేసయ్యా",
+        "ఏమివ్వగలను ఎనలేని ప్రేమకై",
+        "యేసయ్యా… వందనం"
+      ],
+      "english": [
+        "Vandanam Yesayyaa",
+        "Neeke vandanam Yesayyaa",
+        "Emivvagalanu enaleni premakai",
+        "Yesayyaa… vandanam"
+      ]
+    }
+  ]
+}

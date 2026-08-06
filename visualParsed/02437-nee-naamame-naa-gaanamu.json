@@ -1,0 +1,92 @@
+{
+  "song_name": "Nee naamame naa gaanamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ నామమే నా గానము - నీవే నా ప్రాకారము",
+      "నీ వాక్యమే - నా భాగ్యము - నా త్రోవలకు దీపము ( నీ )"
+    ],
+    "english": [
+      "Nee naamame naa gaanamu - Neeve naa praakaaramu",
+      "Nee vaakyame - Naa bhaagyamu - Naa throvalaku deepamu ( Nee )"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రేమ కురిసింది దివి నుండి భువికి",
+        "పలుకరించింది ఇల నన్ను వెదకి",
+        "ధరణి తడిసింది - నీ రక్త బలికి",
+        "పరువాన తను వెళ్ళ - ప్రవహిన్చునీ",
+        "పరిపూరిత దుదిరంబు బహుమానమే ( నీ )"
+      ],
+      "english": [
+        "Prema kurisindi divi nundi bhuviki",
+        "Palukarinchindhi ila nannu vedaki",
+        "Dharani thadisindhi - Nee raktha baliki",
+        "Paruvaana thanu vella - Pravahinchunee",
+        "Paripooritha rudhirambu bahumaaname ( Nee )"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నెమ్మి నా నెయ్యమును కోరి చేరి",
+        "నోవ్వులను సిల్వలో పొందగోరి",
+        "దేవ కొమరుండా దిగివచ్చి నావా",
+        "పరిచారకుని రూపు ధరియిన్చినావా",
+        "పరిశుద చరితుండ - పరిపోషకా ( నీ )"
+      ],
+      "english": [
+        "Nemmi naa neyyamunu kori cheri",
+        "Novvulanu silvalo pondhagori",
+        "Deva komarundaa dhigivachchi naavaa",
+        "Parichaarakuni roopu dhariyinchinaavaa",
+        "Parishuddha charithunda - Pariposhakaa ( Nee )"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "థారునిని నీకు సమరూపుడేవాడు?",
+        "నాకు పది వేళలో ప్రాజ్ఞు డెవడు ?",
+        "పాలనుడ నన్ను ప్రేమించినావా",
+        "పాలకుడ నాదు, నజరేతువాడా",
+        "మాలిన్యా కూపాన నా మొర్రను",
+        "ఆలించి లాలించి - నను చేరినావా ( నీ )"
+      ],
+      "english": [
+        "Dhaarunini neeku samaroopudevaadu?",
+        "Naaku padi velalo praagnu devadu ?",
+        "Paalanuda nannu preminchinaavaa",
+        "Paalakuda naadu, Najarethuvaadaa",
+        "Maalinyaa koopaana naa morranu",
+        "Aalinchi laalinchi - Nanu cherinaavaa ( Nee )"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సిల్వలో నిన్ను మనసార చూచి",
+        "నియుడు కృప నేను మననంబు చేసి",
+        "పలువ - పరిశుద్ధుడను తీర్పుబడసి",
+        "చేరితిని నిన్ను స్తుతియింప దలచి",
+        "కారుణ్యమున నాదు కలుశాలను",
+        "పరిమార్జనము చేయు - పరిపోషకా ( నీ )"
+      ],
+      "english": [
+        "Silvalo ninnu manasaara choochi",
+        "Niyudu krupa nenu mananambu chesi",
+        "Paluva - Parishuddhudanu theerpubadasi",
+        "Cherithini ninnu sthuthiyimpa dalachi",
+        "Kaarunyamuna naadu kalushaalanu",
+        "Parimaarjanamu cheyu - Pariposhakaa ( Nee )"
+      ]
+    }
+  ]
+}

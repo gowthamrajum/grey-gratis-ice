@@ -1,0 +1,44 @@
+{
+  "song_name": "Emta Mamchi Devudavayya (2) Chimta",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎంత మంచి దేవుడవయ్యా (2) చింత లన్ని తీరేనయ్యా నిన్ను చేరగా. . ఎంత మంచి దేవుడవేసయ్యా"
+    ],
+    "english": [
+      "Emta mamchi devudavayya (2) chimta lanni tirenayya Ninnu cheraga. . Emta mamchi devudavesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గోర పాపినై నేను దూరంగా పారిపోగా నీ ప్రేమతో నను క్షమియించి నను హత్తుకున్నావయ్యా (2)"
+      ],
+      "english": [
+        "Gora papinai nenu duramga paripoga Ni premato nanu kshamiyimchi Nanu hattukunnavayya (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా కున్న వారందరూ నను విడచి పోయినను నన్నెన్నో ఇబ్బందులకు గురిచేసినను నను నీవు విడువలేదయ్యా (2)"
+      ],
+      "english": [
+        "Na kunna varamdaru nanu vidachi poyinanu Nannenno ibbamdulaku gurichesinanu Nanu nivu viduvaledayya (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీవు లేకుండా నేను ఈ లోకలో బ్రతుకులేనయ్యా నీతో కూడ ఈలోకలో నుండి పరలోకంలో చేరెదనేసయ్యా (2)"
+      ],
+      "english": [
+        "Nivu lekumda nenu e lokalo bratukulenayya Nito kuda ilokalo numdi Paralokamlo cheredanesayya (2)"
+      ]
+    }
+  ]
+}

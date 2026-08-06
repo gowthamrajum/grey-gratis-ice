@@ -1,0 +1,44 @@
+{
+  "song_name": "Itharula Saakshyamu Lemthoa Ga",
+  "author": {
+    "Authored by": "",
+    "రచన": "పురుషోత్తము చౌదరి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇతరుల సాక్ష్యము లెంతో గలిగియున్న మరి సాక్ష్యమే మంచిది మృతిబొందిలేచియు న్నతమోక్ష రాజ్యాధి పతియై యున్న యేసు ప్రభువే మా విభుఁడైన ||నితరుల||"
+    ],
+    "english": [
+      "itharula saakShyamu leMthoa galigiyunna mari saakShyamae mMchidhi mruthiboMdhilaechiyu nnathamoakSh raajyaaDhi pathiyai yunna yaesu prabhuvae maa vibhuAOdaina ||nitharula||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గురి సిలువ దెస మాకు స్థిరమై నిలిచియున్న దురితము తలయెత్తునే మరి యేసు ప్రక్కలో చొరఁబారి యందున్న కరుణారసము గ్రోలు టెఱిఁగి యుండిన చాలు ||నితరుల||"
+      ],
+      "english": [
+        "guri siluva dhesa maaku sThiramai nilichiyunna dhurithamu thalayeththunae mari yaesu prakkaloa chorAObaari yMdhunna karuNaarasamu groalu teRiAOgi yuMdina chaalu ||nitharula||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తలవాల్చుటకు తనకు స్థలము లే దనునట్టి పలుకే మా కైశ్వర్యము బలమిచ్చి యెదిగించు ప్రభు వాగ్దత్తములే మా కిలలో పంచభక్ష్య ములుగా నుండిన చాలు ||నితరుల||"
+      ],
+      "english": [
+        "thalavaalchutaku thanaku sThalamu lae dhanunatti palukae maa kaishvaryamu balamichchi yedhigiMchu prabhu vaagdhaththamulae maa kilaloa pMchabhakShya mulugaa nuMdina chaalu ||nitharula||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బెదిరించి సైతాను కదిలింపలేనట్టి కుదురైన విశ్వాసము బొదలుచు మాలో నిం పొదవుచుండిన చాలు మదిలో నెమ్మది యిచ్చు మా యేసు కృప గల్గ ||నితరుల||"
+      ],
+      "english": [
+        "bedhiriMchi saithaanu kadhiliMpalaenatti kudhuraina vishvaasamu bodhaluchu maaloa niM podhavuchuMdina chaalu madhiloa nemmadhi yichchu maa yaesu krupa galga ||nitharula||"
+      ]
+    }
+  ]
+}

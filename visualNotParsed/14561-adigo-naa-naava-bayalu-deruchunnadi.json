@@ -1,0 +1,60 @@
+{
+  "song_name": "Adigo naa naava bayalu dheruchunnadhi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "అదిగో నా నావ బయలు దేరుచున్నది",
+      "అందులో యేసు ఉన్నాడు",
+      "నా నావలో క్రీస్తు ఉన్నాడు (2)",
+      "వరదలెన్ని వచ్చినా వణకను",
+      "అలలెన్ని వచ్చినా అదరను (2)",
+      "ఆగిపోయే అడ్డులొచ్చినా",
+      "సాగిపోయే సహాయం మనకు ఆయనే (2) ||అదిగో||"
+    ],
+    "english": [
+      "Adigo naa naava bayalu dheruchunnadhi",
+      "Andulo Yesu unnaadu",
+      "Naa naavalo Kreesthu unnaadu (2)",
+      "Varadhalenni vachchinaa vanakanu",
+      "Alalenni vachchinaa adharanu (2)",
+      "Aagipoye addulochchinaa",
+      "Saagipoye sahaayam manaku aayane (2) ||Adigo||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నడిరాత్రి జాములో నడచినా",
+        "నది సముద్ర మధ్యలో నిలచినా (2)",
+        "నడిపించును నా యేసు",
+        "నన్నూ అద్దరికి చేర్చును (2)  ||అదిగో||"
+      ],
+      "english": [
+        "Nadiraathri jaamulo nadachinaa",
+        "Nadi samudra madhyalo nilachinaa (2)",
+        "Nadipinchunu naa Yesu",
+        "Nannoo addariki cherchunu (2)  ||Adigo||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "లోతైన దారిలో పోవుచున్నది",
+        "సుడిగుండాలెన్నో తిరుగుచున్నది (2)",
+        "సూర్యుడైన ఆగిపోవును",
+        "చుక్కాని మాత్రం సాగిపోవును (2)  ||అదిగో||"
+      ],
+      "english": [
+        "Lothaina daarilo povuchunnadhi",
+        "Sudigundaalenno thiruguchunnadhi (2)",
+        "Sooryudaina aagipovunu",
+        "Chukkaani maathram saagipovunu (2)  ||Adigo||"
+      ]
+    }
+  ]
+}

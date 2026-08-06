@@ -1,0 +1,58 @@
+{
+  "song_name": "Ammanu Minchina Preme",
+  "author": {
+    "Authored by": "Samuel Karmoji",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "అమ్మను మించిన ప్రేమే నీదయ్యా",
+      "నిను వర్ణించగా నే సరిపోనయ్య",
+      "పాపికి శరణమా ప్రేమకు రూపమా",
+      "అక్కున చేర్చిన ఆశ్రయా దుర్గమా"
+    ],
+    "english": [
+      "Ammanu minchina preme needhayya",
+      "ninu varninchagaa ne sariponayya",
+      "paapiki saranamaa premaku roopamaa",
+      "akkuva cherchina aasrayaa durgamaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మంటితో నన్ను మలచినావు",
+        "నీదు పోలికలో చేసినావు",
+        "ఏదేనులో నను ఉంచావు",
+        "ఆదామని నను పిలచినావు",
+        "తినవద్దన్నది నే తింటిని",
+        "పాపము అన్నదే నే కంటిని",
+        "ఎందుకో ఇంత జాలి చూపావు",
+        "మాటవినక పాపినైతిన్",
+        "ఆ తోట నుండి త్రోయబడితిన్",
+        "నీ మధుర సహవాసం కోల్పోయినాను",
+        "నిను చేరలేనని నే తలచినను",
+        "యేసు అను యాగమే చేసావే",
+        "నిన్ను చేరు మార్గమే చేసావే",
+        "ప్రేమతో నీ దరి చేర్చావే"
+      ],
+      "english": [
+        "Mantitho nannu malachinaavu",
+        "needhu polikalo chesinaavu",
+        "eydhenulo nanu unchaavu",
+        "aadhaamani nanu pilachinaavu",
+        "thinavaddhannadhi ne thintini",
+        "paapamu annadhe ne kantini",
+        "endhuko intha jaali choopaavu",
+        "Maata vinaka paapinaithini",
+        "aa thota nundi throyabadithin",
+        "nee madhura sahavaasam kolpoyinaanu",
+        "ninu cheraledhani ne thalachinanu",
+        "yesu anu yaagame chesaave",
+        "ninnu cheru maargame chesaave",
+        "prematho nee dhari cherchaave"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "song_name": "Naa Priyudaa Yesayyaa",
+  "author": {
+    "Authored by": "Bro  Yesanna",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రియుడా యెసయ్యా - నీ కృప లేనిదే",
+      "నే బ్రతుకలేను క్షణమైనా - నే బ్రతుకలేను -2",
+      "ఆ ఆ అ అ"
+    ],
+    "english": [
+      "Naa Priyudaa Yesayyaa - Nee Krupa Lenide",
+      "Ne Brathukalenu Kshanamainaa - Ne Brathukalenu -2",
+      "Aa Aa A A"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ చేతితోనే నను లేపినావు - నీ చేతిలోనే నను చెక్కుకొంటివి -2",
+        "నీ చేతి నీడలో నను దాచుకొంటివి -2"
+      ],
+      "english": [
+        "Nee Chethithone Nanu Lepinaavu - Nee Chethilone Nanu Chekkukontivi -2",
+        "Nee Chethi Needalo Nanu Daachukontivi -2"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ వాక్కులన్ని వాగ్దానములై - నా వాక్కు పంపి స్వస్థత నిచ్చితివి -2",
+        "నీ వాగ్దానములు మార్పులేనివి -2"
+      ],
+      "english": [
+        "Nee Vaakkulanni Vaagdaanamulai - Naa Vaakku Pampi Swasthatha Nichchithivi -2",
+        "Nee Vaagdaanamulu Maarpulenivi -2"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ముందెన్నడూ నేను వెళ్ళనీ - నూతనమైన మార్గములన్నిటిలో -2",
+        "నా తోడు నీవై నన్ను నడిపినావు -2"
+      ],
+      "english": [
+        "Mundennadoo Nenu Vellanee - Noothanamaina Maargamulannitilo -2",
+        "Naa Thodu Neevai Nannu Nadipinaavu -2"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సర్వోన్నతుడా సర్వకృపానిధి - సర్వసంపదలు నీలోనే యున్నవి -2",
+        "నీవు నా పక్షమై నిలిచి యున్నావు -2"
+      ],
+      "english": [
+        "Sarvonnathudaa Sarvakrupaanidhi - Sarvasampadalu Neelone Yunnavi -2",
+        "Neevu Naa Pakshamai Nilichi Yunnaavu -2"
+      ]
+    }
+  ]
+}

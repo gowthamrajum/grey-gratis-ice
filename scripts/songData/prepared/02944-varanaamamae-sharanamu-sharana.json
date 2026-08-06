@@ -1,0 +1,81 @@
+{
+  "song_name": "Varanaamamae Sharanamu Sharanamu",
+  "author": {
+    "Authored by": "",
+    "రచన": "విలియం డాసన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "వరనామమే శరణము శరణము క్రీస్తు వరనామమే శరణము శరణం"
+    ],
+    "english": [
+      "Varanaamamae Sharanamu Sharanamu Kreesthu Varanaamamae Sharanamu Sharanam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరమభక్త వ్రాత దురిత సంఘాత",
+        "దు స్తర వన జాత భీ కరకీలి యౌ క్రీస్తు"
+      ],
+      "english": [
+        "Paramabhaktha Vraatha Dhuritha Sanghaatha",
+        "Dhu Sthara Vana Jaatha Bhee Karakeeli Yau Kreesthu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సారహీన సం సార పారావార తారణ కారణ తరణి యైన క్రీస్తు"
+      ],
+      "english": [
+        "Saaraheena Sam Saara Paaraavaara Thaarana Kaarana Tharani Yaina Kreesthu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యూద దేశమునందు నుండు బేత్లేహేమున",
+        "యూదు లను జనులలో పాదుకొన్న క్రీస్తు"
+      ],
+      "english": [
+        "Yoodha Dhaeshamunandhu Nundu Baethlaehaemuna",
+        "Yoodhu Lanu Janulaloa Paadhukonna Kreesthu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఇలలో పాపపు మాన వుల నెల్ల",
+        "మోక్ష సం కలితులఁ జేయుఁగ సిలువ నొందిన క్రీస్తు"
+      ],
+      "english": [
+        "Ilaloa Paapapu Maana Vula Nella",
+        "Moaksha Sam Kalithula Jaeyuga Siluva Nondhina Kreesthu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఏచియున్నట్టి పి శాచభారపు కాడి మోసి",
+        "దుఃఖించెడు నీచులకును క్రీస్తు"
+      ],
+      "english": [
+        "Aechiyunnatti Pi Shaachabhaarapu Kaadi Moasi",
+        "Duhkhinchedu Neechulakunu Kreesthu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "కొల్లగాను బాప మెల్లఁ జేసి దాని",
+        "కుల్లములోఁదల్ల డిల్లువారికిఁ క్రీస్తు"
+      ],
+      "english": [
+        "Kollagaanu Baapa Mella Jaesi Dhaani",
+        "Kullamuloadhalla Dilluvaariki Kreesthu"
+      ]
+    }
+  ]
+}

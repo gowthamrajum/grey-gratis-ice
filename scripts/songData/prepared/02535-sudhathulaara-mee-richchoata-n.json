@@ -1,0 +1,56 @@
+{
+  "song_name": "Sudhathulaara Mee Richchoata Nevvari",
+  "author": {
+    "Authored by": "",
+    "రచన": "పురుషోత్తము చౌధరి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "సుదతులార మీ రిచ్చోట నెవ్వరి వెదుకుచునున్నారు",
+      "మృదువుగాను జీ వించు వాని పెద్ద నిదుర బోయినటు లెదలందు భావించి"
+    ],
+    "english": [
+      "Sudhathulaara Mee Richchoata Nevvari Vedhukuchununnaaru",
+      "Mrudhuvugaanu Jee Vinchu Vaani Pedhdha Nidhura Boayinatu Ledhalandhu Bhaavinchi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇచట లేఁడు లేచి యున్నాఁడు ప్రభు క్రీస్తు యేసు స్వతంత్రుఁడై",
+        "ప్రచురంబుగఁ దన పాట్లు లేచుటయును వచియించె గలిలయ్య వర దేశమున మీతో"
+      ],
+      "english": [
+        "Ichata Laedu Laechi Yunnaadu Prabhu Kreesthu Yaesu Svathanthrudai",
+        "Prachurambuga Dhana Paatlu Laechutayunu Vachiyinche Galilayya Vara Dhaeshamuna Meethoa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మనుజ కుమారుఁ డె క్కుడు పాపిష్ఠులచేత మరణ మొందుట",
+        "సిల్వ పైఁ దనకుఁ దానె మూఁడవ దినమందు లేచుట యును",
+        "దెల్పెఁ గద మీరు వినుచుండఁగఁ దొల్లి"
+      ],
+      "english": [
+        "Manuja Kumaaru De Kkudu Paapishthulachaetha Marana Mondhuta",
+        "Silva Pai Dhanaku Dhaane Moodava Dhinamandhu Laechuta Yunu",
+        "Dhelpe Gadha Meeru Vinuchundaga Dholli"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఎదలలోన జ్ఞాప కము చేసికొనుఁడింక యేసు తెల్పిన మాటలు",
+        "ముదముతో జీవముఁ గని లేచె నను వార్త",
+        "సుదతు లాలకించి రది నిక్కముగఁ దోఁచఁ"
+      ],
+      "english": [
+        "Edhalaloana Jnyaapa Kamu Chaesikonudinka Yaesu Thelpina Maatalu",
+        "Mudhamuthoa Jeevamu Gani Laeche Nanu Vaartha",
+        "Sudhathu Laalakinchi Radhi Nikkamuga Dhoacha"
+      ]
+    }
+  ]
+}

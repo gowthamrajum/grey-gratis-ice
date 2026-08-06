@@ -1,0 +1,69 @@
+{
+  "song_name": "Leru Evaru Neela",
+  "author": {
+    "Authored by": "Raja Mandru & Bro. Bharath Mandru",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "లేరు ఎవరు నీలా నను ప్రేమించటకు",
+      "లేరు ఎవరు నీలా నను పలుకరించుటకు",
+      "ప్రతి ఉదయం నూతన కృపతో",
+      "నను పలుకరించిన నా దేవా",
+      "ఎన్నో మేలులు చేసి",
+      "తృప్తి పరచి నడిపిన నా తండ్రీ",
+      "మనసే బలిగా నా హృదయమే కానుకగా",
+      "అర్పించానయా నీ పాదము చెంతా",
+      "నే వేచియున్నానయా నీ కొరకై నా తండ్రీ"
+    ],
+    "english": [
+      "Leru evaru neela nanu preminchataku",
+      "leru evaru neela nanu palukarinchutaku",
+      "prathi udayam noothana krupatho",
+      "nanu palukarinchina naa devaa",
+      "enno melulu chesi",
+      "thrupthi parachi nadipina naa thandri",
+      "manase baligaa naa hrudhayame kaanukagaa",
+      "arpinchaanayaa nee paadhamu chenthaa",
+      "nee vechiyunnaanayaa nee korakai naa thandri"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఒంటరిని నేను కాననీ",
+        "నా తోడై నీ ఉన్నావని",
+        "నా కలలను కలలుగా కానీయక",
+        "నా ఆశను నిరాశ కానీయక",
+        "నా తండ్రిల నా తోడువై",
+        "నను నడిపిన యేసయ్యా"
+      ],
+      "english": [
+        "1: Ontarini nenu kaanani",
+        "naa thodai nee unnaavani",
+        "naa kalalanu kalalugaa kaaniyaka",
+        "naa aashanu niraasha kaaniyaka",
+        "naa thandrila naa thoduvai",
+        "nannu nadipina yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మంటిని నేను కాననీ",
+        "నీ ఊపిరి నాలో ఉందని",
+        "నీ రూపము లోనే నన్ను సృజించి",
+        "నీ పోలికలోనే నన్ను చేసి",
+        "నీ ప్రేమతో నన్ను – బ్రతికించిన దేవా"
+      ],
+      "english": [
+        "2: Mantini nenu kaanani",
+        "nee oopiri naalo undhani",
+        "nee roopamuloone nannu srujinchi",
+        "nee polikaloone nannu chesi",
+        "nee prematho nannu – brathikinchina devaa"
+      ]
+    }
+  ]
+}

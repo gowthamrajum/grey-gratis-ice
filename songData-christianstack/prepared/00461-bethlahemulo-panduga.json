@@ -1,0 +1,34 @@
+{
+  "song_name": "Bethlahemulo Panduga",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "బేత్లహేములో పండుగ పండుగ",
+      "పశులపాకలో పండుగ పండుగ"
+    ],
+    "english": [
+      "Bethelehemulo panduga panduga",
+      "pasulapaakalo panduga panduga"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆనందం ఆశ్చర్యం ఈ గొప్ప వార్త",
+        "రాజు పుట్టడాని రారాజు పుట్టడాని",
+        "లోకమంత సందడి చేద్దాం",
+        "ఈ లోకమంత సందడి చేద్దాం"
+      ],
+      "english": [
+        "Aanandham aascharyam ee goppa vaartha",
+        "raaju puttaadani raaraaju puttaadani",
+        "lokamantha sandhadi cheddaam",
+        "ee lokamantha sandhadi cheddam"
+      ]
+    }
+  ]
+}

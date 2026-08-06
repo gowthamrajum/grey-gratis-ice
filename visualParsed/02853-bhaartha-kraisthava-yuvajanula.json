@@ -1,0 +1,70 @@
+{
+  "song_name": "Bhaaratha Kraisthava yuvajanulaaraa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "చెట్టి భానుమూర్తి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "భార్త క్రైస్తవ యువజనులారా ప్రభుకై నిలువండీ భారతరక్షక",
+      "భటవరులారా ప్రభువును జూపుటకై లెండి ఫలితము గనరండీ ||భారత||"
+    ],
+    "english": [
+      "Bhaaratha Kraisthava yuvajanulaaraa Prabhukai niluvandee Bhaaratharakshaka",
+      "Bhatavarulaaraa Prabhuvunu jooputakai lendi phalithamu ganarandee ||Bhaaratha||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "బాలప్రాయమున్ మీరలెల్ల భక్తి జీవితాసక్తిపరులై అలయోసేపును",
+        "బోలినవారై బలతర సామర్ధ్యము జూపి ఫలితముగనరండీ ||భారత||"
+      ],
+      "english": [
+        "Baalapraayamun meeralella bhakthi jeevithaasakthiparulai ala Yosepunu",
+        "Bolinavaarai balathara saamarthyamu joopi phalithamuganarandee ||Bhaaratha||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శోధనాధికము చుట్టునున్న సకల యాశలును నెట్టుచున్న బాధించుచు",
+        "మరి సాధించెడి యా సైతానుని గెలువగ లెండి ఫలితము గనరండీ",
+        "||భారత||"
+      ],
+      "english": [
+        "Shodhanaadhikamu chuttununna sakala yaashalunu nettuchunna baadhinchuchu",
+        "Mari saadhinchedi yaa Saithaanuni geluvaga lendi phalithamu ganarandee",
+        "||Bhaaratha||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నమ్మకంబు మదియందు బూని నేర్పుతోడ ప్రభు సేవజేయ రమ్మిదె",
+        "యేసుని రక్షణ సేవకు రాజితమగు జీవమునొందున్ ఫలితము గనరండీ",
+        "||భారత||"
+      ],
+      "english": [
+        "Nammakambu madhiyandhu booni nerputhoda Prabhu sevajeya rammidhe",
+        "Yesuni rakshana sevaku raajithamagu jeevamunondhun phalithamu ganarandee",
+        "||Bhaaratha||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "విజయ కాంక్షగలవారలెల్ల వినయ భూషణాసక్తిపరులై నిజమగు క్రైస్తవ",
+        "నీతిని జూపి నిరతముగ వెలుగుదు రండీ నిజమిది గనుగొనుడీ ||భారత||"
+      ],
+      "english": [
+        "Vijaya kaankshagalavaaralella vinaya bhooshanaasakthiparulai nijamagu Kraisthava",
+        "Neethini joopi nirathamuga veluguthu randee nijamidhi ganugonudee ||Bhaaratha||"
+      ]
+    }
+  ]
+}

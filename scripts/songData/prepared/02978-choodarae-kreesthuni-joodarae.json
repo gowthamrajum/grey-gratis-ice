@@ -1,0 +1,64 @@
+{
+  "song_name": "Choodarae Kreesthuni Joodarae",
+  "author": {
+    "Authored by": "",
+    "రచన": "పురుషోత్తమ చౌధరి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "చూడరే క్రీస్తుని జూడరే నా సఖులార చూడరే క్రీస్తుని జూడరే",
+      "చూడరే నాముక్తి పదవికి ఱేఁడు యేదశఁ గూడినాఁడో"
+    ],
+    "english": [
+      "Choodarae Kreesthuni Joodarae Naa Sakhulaara Choodarae Kreesthuni Joodarae",
+      "Choodarae Naamukthi Padhaviki Raedu Yaedhasha Goodinaadoa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మించి పొంతి పిలాతు సత్య మొ కించుకైనఁ దలంప కక్కట",
+        "వంచనను గొట్టించి యూదుల మంచితనమే కోరి యప్ప గించెనా",
+        "మేలు గ ణించెనా ఇతనిఁ గాంచి కాంచి భక్తులెట్లు స హించిరో",
+        "పరికించి మీరిది"
+      ],
+      "english": [
+        "Minchi Ponthi Pilaathu Sathya Mo Kinchukaina Dhalampa Kakkata",
+        "Vanchananu Gottinchi Yoodhula Manchithanamae Koari Yappa Ginchenaa",
+        "Maelu Ga Ninchenaa Ithani Gaanchi Kaanchi Bhakthuletlu Sa Hinchiroa",
+        "Parikinchi Meeridhi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మంటికిని నాకాశమునకును మధ్యమున వ్రేలాడుచుండఁగ",
+        "నంటఁ గొట్టఁగ సిలువ మ్రాని కప్పగించుటకొరకు",
+        "నిన్నుఁ గాంచెనా యిది మది నెంచెనా",
+        "హా నా కంట నే నిటువంటి యాపదఁ గంటిఁ బ్రాణము లుండునే యిఁకఁ"
+      ],
+      "english": [
+        "Mantikini Naakaashamunakunu Madhyamuna Vraelaaduchundaga",
+        "Nanta Gottaga Siluva Mraani Kappaginchutakoraku",
+        "Ninnu Gaanchenaa Yidhi Madhi Nenchenaa",
+        "Haa Naa Kanta Nae Nituvanti Yaapadha Ganti Braanamu Lundunae Yika"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఊటగా రక్తంబు కారుచు నుండ బల్లెపుఁ బ్రక్కపోటు",
+        "మాటిమాటికిఁ జూడ దుఃఖము మరలునే",
+        "తలమీఁద ముళ్లకి రీటమా యితనికి వాటమా",
+        "యూదులు మోటులై బాహాటమున నీ పాటులను గాటముగఁ జేసిరి"
+      ],
+      "english": [
+        "Ootagaa Rakthambu Kaaruchu Nunda Ballepu Brakkapoatu",
+        "Maatimaatiki Jooda Dhuhkhamu Maralunae",
+        "Thalameedha Mullaki Reetamaa Yithaniki Vaatamaa",
+        "Yoodhulu Moatulai Baahaatamuna Nee Paatulanu Gaatamuga Jaesiri"
+      ]
+    }
+  ]
+}

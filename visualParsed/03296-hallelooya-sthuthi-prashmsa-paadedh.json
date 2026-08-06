@@ -1,0 +1,81 @@
+{
+  "song_name": "Hallelooya sthuthi prashamsa paadeda",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "హల్లెలూయ స్తుతి ప్రశంస పాడెద"
+    ],
+    "english": [
+      "Hallelooya sthuthi prashamsa paadeda"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సిలువలో నాకై రక్తము కార్చి - నన్ను రక్షించిన ఓ ప్రభువా"
+      ],
+      "english": [
+        "Siluvalo naakai rakthamu kaarchi - Nannu rakshinchina o Prabhuvaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిర్దోషమైన యేసుని రక్తము - నా పాపదోషమంత కడిగె"
+      ],
+      "english": [
+        "Nirdhoshamaina Yesuni rakthamu - Naa paapadhoshamantha kadige"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీవు గావించిన బలియాగముకై - సాగిలపడి పూజించెదను"
+      ],
+      "english": [
+        "Neevu gaavinchina baliyaagamukai - Saagilapadi poojinchedhanu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నా యడుగులను బండపై నిలిపి - స్థిరపరచి కాపాడితివి"
+      ],
+      "english": [
+        "Naa yadugulanu bandapai nilipi - Sthiraparachi kaapaadithivi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "సువార్త ప్రకటింప నిచ్చిన కృపకై - నిన్ను శ్లాఘింతు నేను ప్రభువా"
+      ],
+      "english": [
+        "Suvaartha prakatimpa nichchina krupakai - Ninnu shlaaghinthu nenu Prabhuvaa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "యెట్లుండగలను నీ పాట పాడక - పొంది యున్నట్టి మేలులకై"
+      ],
+      "english": [
+        "Ettlundagalanu nee paata paadaka - Pondi yunnatti melulakai"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "సంతోష హృదయ ఉత్సాహ ధ్వనితో - ఆరాదించెద నిన్ను ప్రభువా"
+      ],
+      "english": [
+        "Santhosha hrudaya uthsaaha dhwanitho - Aaraadhincheda ninnu Prabhuvaa"
+      ]
+    }
+  ]
+}

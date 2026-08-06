@@ -1,0 +1,35 @@
+{
+  "song_name": "Mahimonnatudu Mahimanvitudu Maranam Gelchina Mrutyumjayudu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మహిమోన్నతుడు మహిమాన్వితుడు మరణం గెల్చిన మృత్యుంజయుడు అద్వితీయుడు అతి సుందరుడు అధిక జ్జానసంపన్నుడు ఆరాధనా ఆరాధనా ప్రభు యేసు క్రీస్తుకే ఆరాధన హల్లెలూయ హల్లెలూయ రాజుల రాజుకే హల్లెలూయ"
+    ],
+    "english": [
+      "Mahimonnatudu mahimanvitudu maranam gelchina mrutyumjayudu Advitiyudu ati sumdarudu adhika jjanasampannudu Aradhana aradhana prabu yesu kristuke aradhana Halleluya halleluya rajula rajuke halleluya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సర్వము నెరిగిన సర్వాధికారి సర్వము చేసిన సర్వోపకారి నీతిమంతుని ప్రేమించువాడు ఇశ్రాయేలును కాపాడువాడు"
+      ],
+      "english": [
+        "Sarvamu nerigina sarvadhikari sarvamu chesina sarvopakari Nitimamtuni premimchuvadu israyelunu kapaduvadu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిత్యం వశియించువాడు అమరుడు ఆయనే మారం, సత్యం, జీవము ఆయనే నమ్మినవారిని రక్షించువాడు నిత్యజీవం దయచేయువాడు"
+      ],
+      "english": [
+        "Nityam vasiyimchuvadu amarudu ayane maram, satyam, jivamu ayane Namminavarini rakshimchuvadu nityajivam dayacheyuvadu"
+      ]
+    }
+  ]
+}

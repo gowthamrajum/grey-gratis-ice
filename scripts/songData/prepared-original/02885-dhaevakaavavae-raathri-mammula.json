@@ -1,0 +1,44 @@
+{
+  "song_name": "Dhaevakaavavae Raathri Mammula",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవకావవే రాత్రి మమ్ములన్ నీవె నేడు కాచినావు నీకు స్తోత్రము ||దేవ||"
+    ],
+    "english": [
+      "dhaevakaavavae raathri mammulan neeve naedu kaachinaavu neeku sthoathramu ||dhaeva||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆపదలు మమున్ అంటకుండను కాపుగాచి మంచి నిద్ర కలుగ జేయుమీ ||దేవ||"
+      ],
+      "english": [
+        "aapadhalu mamun aMtakuMdanu kaapugaachi mMchi nidhra kaluga jaeyumee ||dhaeva||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పండియుండగా పాము తేలులున్ గండములను తొలగజేసి కాయుమో ప్రభో ||దేవ||"
+      ],
+      "english": [
+        "pMdiyuMdagaa paamu thaelulun gMdamulanu tholagajaesi kaayumoa prabhoa ||dhaeva||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దుష్ట స్వప్నముల్ దొగ భయమును కష్టములను తొలగజేసి కాయుమో ప్రభో ||దేవ||"
+      ],
+      "english": [
+        "dhuShta svapnamul dhoga bhayamunu kaShtamulanu tholagajaesi kaayumoa prabhoa ||dhaeva||"
+      ]
+    }
+  ]
+}

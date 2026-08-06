@@ -1,0 +1,52 @@
+{
+  "song_name": "Vinayavidheyatha bhakthi streeki alankaaram",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "వినయవిధేయత భక్తి స్త్రీకి అలంకారం",
+      "యోగ్యత కలిగిన భార్య భర్తకే కొరిటం",
+      "సంఘానికి ప్రతిరూపం సంతోషానికి మూలం"
+    ],
+    "english": [
+      "Vinayavidheyatha bhakthi streeki alankaaram",
+      "Yogyatha kaligina bhaarya bharthake kireetam",
+      "Sanghaaniki prathiroopam santhoshaaniki moolam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పురుషుని పక్కనుండి తీయబడిన నారి",
+        "సరియగు సహాయమై ఉండాలని కోరి",
+        "స్త్రీనిగ నిర్మించి పురుషునితో కలిగెను",
+        "మేలు కలుగునట్లు జంటగా నిలిపెను"
+      ],
+      "english": [
+        "Purushuni pakkanundi theeyabadina naari",
+        "Sariyagu sahaayamai undaalani kori",
+        "Streeniga nirminchi purushunitho kaligenu",
+        "Melu kalugunatlu jantagaa nilipenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సృష్టిని కలిగించి మనుష్యుని నిర్మించి",
+        "సంతోషించుమని సర్వమును గ్రహించి",
+        "వివాహబంధముతో కుటుంబమును కట్టెను",
+        "ఇంటికి దీపముగా ఇల్లాలిని నిలబెట్టెన"
+      ],
+      "english": [
+        "Srushtini kaliginchi manushyuni nirminchi",
+        "Santhoshinchumani sarvamunu grahinchi",
+        "Vivaahabandhamutho kutumbamunu kattenu",
+        "Intiki deepamugaa illaalini nilabettena"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "song_name": "Prabhu Ninu Keerthimchuchunnaamu Yaesu Ninu Keerthimchuchunnaamu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభు నిను కీర్తించుచున్నాము యేసు నిను కీర్తించుచున్నాము",
+      "నిను కీర్తించుచున్నాము"
+    ],
+    "english": [
+      "Prabhu Ninu Keerthimchuchunnaamu Yaesu Ninu Keerthimchuchunnaamu",
+      "Ninu Keerthimchuchunnaamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపములోన చచ్చిన నన్ను ప్రభువా ప్రేమించితివి"
+      ],
+      "english": [
+        "Paapamuloana Chachchina Nannu Prabhuvaa Praemimchithivi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తప్పిన నన్ను వెదకి రక్షింప తనయుడవై వచ్చితివి"
+      ],
+      "english": [
+        "Thappina Nannu Vedhaki Rakshimpa Thanayudavai Vachchithivi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా యాశ్రయము కూలిపోగ నను రక్షింప నేగితివి"
+      ],
+      "english": [
+        "Naa Yaashrayamu Koolipoaga Nanu Rakshimpa Naegithivi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సిలువలో చిందిన రక్తముతో నాకలుషములు కడిగితివి"
+      ],
+      "english": [
+        "Siluvaloa Chimdhina Rakthamuthoa Naakalushamulu Kadigithivi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మరణించి మరణపు ముల్లును విరచి మరల లేచితివి"
+      ],
+      "english": [
+        "Maranimchi Maranapu Mullunu Virachi Marala Laechithivi"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "తండ్రి కుడి ప్రక్కన కూర్చుండి తనయా తోడ్పడితివి"
+      ],
+      "english": [
+        "Thamdri Kudi Prakkana Koorchumdi Thanayaa Thoadpadithivi"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "నాకై మరల వచ్చుచున్నావు సంకీర్తించెద నిన్ను"
+      ],
+      "english": [
+        "Naakai Marala Vachchuchunnaavu Samkeerthimchedha Ninnu"
+      ]
+    }
+  ]
+}

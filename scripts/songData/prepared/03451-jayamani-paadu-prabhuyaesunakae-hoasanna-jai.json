@@ -1,0 +1,73 @@
+{
+  "song_name": "Jayamani Paadu Prabhuyaesunakae Hoasanna Jai",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జయమని పాడు ప్రభుయేసునకే హోసన్న జై",
+      "ప్రభు వచ్చుచుండె యెంతో సంతసము",
+      "మధ్యాకాశమందు సంధించెదము"
+    ],
+    "english": [
+      "Jayamani Paadu Prabhuyaesunakae Hoasanna Jai",
+      "Prabhu Vachchuchunde Yenthoa Santhasamu",
+      "Madhyaakaashamandhu Sandhinchedhamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మనము మారెదము మర్మమిది గొప్పదే",
+        "బూరధ్వని మ్రోగగానే మన మెత్తబడెదము",
+        "ప్రియ యేసుని సంధింప, మనమాయనవారమే"
+      ],
+      "english": [
+        "Manamu Maaredhamu Marmamidhi Goppadhae",
+        "Booradhvani Mroagagaanae Mana Meththabadedhamu",
+        "Priya Yaesuni Sandhimpa, Manamaayanavaaramae"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రభుని పోలియుందుము ప్రభుని సంతతిగా",
+        "ప్రభువు ప్రత్యక్షమైనప్పుడు అమర్త్యత ధరింతుము",
+        "పొందెదము ప్రభువునే, మనమాయనవారమే"
+      ],
+      "english": [
+        "Prabhuni Poaliyundhumu Prabhuni Santhathigaa",
+        "Prabhuvu Prathyakshamainappudu Amarthyatha Dharinthumu",
+        "Pondhedhamu Prabhuvunae, Manamaayanavaaramae"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మన నిరీక్షణయే ప్రభుని చూతుమని",
+        "తృప్తి చెంది నింపబడెదం వాంఛలు తీరును",
+        "ప్రభుని రుచించెదము, మనమాయనవారమే"
+      ],
+      "english": [
+        "Mana Nireekshanayae Prabhuni Choothumani",
+        "Thrupthi Chendhi Nimpabadedham Vaanchalu Theerunu",
+        "Prabhuni Ruchinchedhamu, Manamaayanavaaramae"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దైవ సంకల్పమే ప్రభువుతో నుండుటే",
+        "దేవుని గృహ మానంద మహిమతో నిండియుండును",
+        "ప్రభువు మనవాడు, మనమాయనవారమే"
+      ],
+      "english": [
+        "Dhaiva Sankalpamae Prabhuvuthoa Nundutae",
+        "Dhaevuni Gruha Maanandha Mahimathoa Nindiyundunu",
+        "Prabhuvu Manavaadu, Manamaayanavaaramae"
+      ]
+    }
+  ]
+}

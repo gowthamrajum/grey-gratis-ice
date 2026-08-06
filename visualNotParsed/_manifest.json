@@ -1,0 +1,3574 @@
+{
+ "movedFrom": "visualParsed",
+ "checkedAgainst": "grey-gratis-ice /songs, 1739 songs",
+ "moved": 700,
+ "leftBehind": 2180,
+ "reasons": {
+  "already in the database": 280,
+  "no English transliteration": 336,
+  "a different song of this name is already in the database": 18,
+  "the same song as 00361-sooryuni-dharinchi.json": 1,
+  "no Telugu": 3,
+  "the same song as 00596-chalina-devudavu-yesu-chalina-devuda-nivu.json": 1,
+  "the same song as 00593-chalu-chalu.json": 1,
+  "the same song as 00595-chirudipamalle-veligimdi-lokam-aa-velugu-korake-.json": 1,
+  "the same song as 00597-chirunagavu-momu.json": 1,
+  "the same song as 00599-chudalani-undi-yesuni-cheralani.json": 1,
+  "the same song as 00601-dahamu-gonnavaralara.json": 1,
+  "the same song as 00603-deva-nikemittunu-e-dinuralanu-asahayuralanu.json": 1,
+  "the same song as 00604-devudamte-nikishtama.json": 1,
+  "the same song as 00344-naa-vedhanalo-vedhikithini.json": 1,
+  "the same song as 00091-srustipitha-sarvonatha.json": 1,
+  "the same song as 00751-nammavaddu-e-mayalokam-nammavaddu-idi.json": 1,
+  "the same song as 02932-evani-athikramamulu-mannimpaba.json": 1,
+  "the same song as 03187-reference-dhaevaa-nee-krupachoppuna-nannu.json": 1,
+  "the same song as 03196-reference-nee-mmdhiramunmdhu-nivasimchuvaaru-dha.json": 1,
+  "the same song as 03206-reference-yehoavaa-meedha-paadudi-aayana.json": 1,
+  "the same song as 03217-reference-yehoavaa-mmdhiramunaku-velludhamani-ja.json": 1,
+  "the same song as 03226-reference-yehoavaa-amdhariki-upakaari-aayana.json": 1,
+  "the same song as 03231-reference-yauvanulu-kanyalu-vrudhdhulu-baaluru.json": 1,
+  "the same song as 03251-reference-yugayugamulu-jeevimchuchunna-vaaniki-m.json": 1,
+  "the same song as 02507-shudhdhi-shudhdhi-shudhdhi-sarvashaktha-prabhu.json": 1,
+  "the same song as 03325-yaesu-nmgeekarimchithi-dhaivaputhruda-naithini.json": 1,
+  "the same song as 03366-naa-praanamemthoa-ninnu-paadunu-goppa-dhaevaa-go.json": 1,
+  "the same song as 03387-dhanya-dhanya-dhanya-prabhuku-thaanae-rakshna-ma.json": 1,
+  "the same song as 03459-praanapriyudaa-praanapriyudaa-rammu-maa-yaesu-pa.json": 1,
+  "the same song as 03464-dhaeva-gorrepilla-siluvaloa-samasinapudu-paapa-p.json": 1,
+  "the same song as 03500-mahaavaidhyumdu-vachchenu-brajaali-broachu-yaesu.json": 1,
+  "the same song as 03503-immaanuyaeluni-rakthamu-nimdina-ootayae.json": 1,
+  "the same song as 03505-daagunaedhi-maapunu-vaegayaesu-rakthadhaarae.json": 1,
+  "the same song as 03516-maayaloaka-maayaloa-naela-mumgi-thirigedhavu.json": 1,
+  "the same song as 03523-oapaapi-jeevapu-yootakuraa-paapabhaaramu-thoadar.json": 1,
+  "the same song as 03539-choochi-jeevimchu-yaesunaathuni-gaayamulanu-choo.json": 1,
+  "the same song as 03541-nammirammu-nammirammu-immuga-brathukumu.json": 1,
+  "the same song as 03564-aakaashamu-bhuviloa-nella-yaesu-unnathudu.json": 1,
+  "the same song as 03566-paapabhaaramu-dhushtaguna-samaethumdanai-dhuhkha.json": 1,
+  "the same song as 03587-reference-yehoavaa-chaesina-kaaryamulanu-poorvam.json": 1,
+  "the same song as 03595-reference-nishchayamugaa-naa-prabhuvaina-yaesukr.json": 1,
+  "the same song as 03605-reference-imtha-goppa-saakshi-samoohamu.json": 1,
+  "the same song as 03639-reference-naenu-elugeththi-dhaevuniki-morra.json": 1,
+  "the same song as 03641-reference-naenu-choodagaa-mmdhirapu-gadapakrimdh.json": 1,
+  "the same song as 03647-reference-yehoavaa-smvathsaramulu-jaruguchumdaga.json": 1,
+  "the same song as 03650-reference-yehoavaa-naa-kuththaramimmu-keerthana.json": 1,
+  "the same song as 03671-bhaagyamau-dhinamu-prabhun-gaikonna-dhinamu.json": 1,
+  "the same song as 03675-paramu-dhigenu-mahima-nimdenaaloa-siluva-yodhdha.json": 1,
+  "the same song as 03704-aanmdhimchedhamu-prabhu-yaesuloa-amthayu-maralaa.json": 1,
+  "the same song as 03712-jayaraaju-jemdaa-eththi-choopuchu-yudhdhamuchaey.json": 1,
+  "the same song as 03734-nae-bhramimchi-nilchithi-praema-pravaahamu-thaer.json": 1,
+  "the same song as 03752-yaesu-maaradu-yaesu-maaradu-vishvammtha-maarinan.json": 1,
+  "the same song as 03770-idhae-naaku-aanmdhamu-aanmdhamu-aanmdhamu.json": 1,
+  "the same song as 03792-siluvanu-veedanu-siluvanu-veedanu-siluvanu-veeda.json": 1,
+  "the same song as 03813-silvaloa-silvaloaao-gaamchi-nae-choodaogan.json": 1,
+  "the same song as 02659-song.json": 2,
+  "the same song as 03838-reference-veeru-aposthalula-boadhaymdhunu-sahava.json": 3,
+  "the same song as 03908-reference-priyulaaraa-veetikoraku-meeru-kanipett.json": 1,
+  "the same song as 03872-reference-yaesukreesthu-ninna-naedu-okkataereeth.json": 1,
+  "the same song as 03955-reference-nee-vaakyamae-sathyamu-yoahaanu.json": 1,
+  "the same song as 03971-reference-nadhivale-samaadhaanamunu-paarajaeyudh.json": 1,
+  "the same song as 03981-reference-rakshna-baavulu-yeshyaa-isaiah.json": 1,
+  "the same song as 00750-naloni-asha-jyoti-nive-na.json": 1,
+  "the same song as 00777-ni-mukamu-manoharamu-ni-svaramu.json": 1
+ },
+ "files": [
+  {
+   "file": "00006-aadedhan-paadehan.json",
+   "song_name": "Aadedhan paadedhan",
+   "why": "already in the database — 45% of #1165 Aadedhan Paadedhan"
+  },
+  {
+   "file": "00040-prema-kaligi-sathyamu-palukuchu.json",
+   "song_name": "Prema Kaligi Sathyamu Palukuchu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "00066-pradhana-vinedi-pavanuda.json",
+   "song_name": "Praardhana vinedi paavanudaa",
+   "why": "already in the database — 17% of #1306 Praardhana Vinedi Paavanudaa"
+  },
+  {
+   "file": "00071-yehova-na-kapari.json",
+   "song_name": "Yehova naa kaapari",
+   "why": "a different song of this name is already in the database"
+  },
+  {
+   "file": "00073-yesu-rakthamu-rakthamu.json",
+   "song_name": "Yesu rakthamu rakthamu rakthamu",
+   "why": "already in the database — 48% of #502 Yesu Rakthamu Rakthamu"
+  },
+  {
+   "file": "00081-lekhimpaleni-sthotramul.json",
+   "song_name": "Lekkimpaleni sthothramul",
+   "why": "already in the database — 15% of #365 Lekkinchaleni Sthothramul"
+  },
+  {
+   "file": "00108-abrahamu-devuda.json",
+   "song_name": "Abrahaamu dhevudavu",
+   "why": "already in the database — 14% of #265 Yese Daivamu"
+  },
+  {
+   "file": "00114-deva-nee-yavaranam.json",
+   "song_name": "Dheva nee yaavaranam",
+   "why": "already in the database — 19% of #1624 Devaa Nee Aavaranam"
+  },
+  {
+   "file": "00117-dhevuni-sthuthiyinchudi-ellapudu.json",
+   "song_name": "Dhevuni sthuthiyinchudi ellaappudu",
+   "why": "already in the database — 23% of #811 Devuni Sthuthiyinchudi"
+  },
+  {
+   "file": "00126-varninchaleni-thyaagam-oodaarpu-nondhani-vainam.json",
+   "song_name": "Varninchaleni Thyaagam Oodaarpu Nondhani Vainam",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "00133-kummari-o-kummari.json",
+   "song_name": "Kummari o kummari",
+   "why": "already in the database — 13% of #129 Kummari O Kummari"
+  },
+  {
+   "file": "00134-kuthuhala-marbhatame.json",
+   "song_name": "Kuthoohala maarbhaatame",
+   "why": "already in the database — 33% of #1018 Kuthoohalam Aarbhaatame"
+  },
+  {
+   "file": "00136-mahima-neeke-prabhu.json",
+   "song_name": "Mahima neeke Prabhu",
+   "why": "already in the database — 22% of #1402 Mahima Neeke Prabhu"
+  },
+  {
+   "file": "00152-o-prabhuva-neeve.json",
+   "song_name": "O Prabhuvaa neeve naa manchi kaaparivi",
+   "why": "already in the database — 31% of #1575 O Prabhuvaa O Prabhuvaa"
+  },
+  {
+   "file": "00154-prabhuva-neelo-jeevinchuta-ab.json",
+   "song_name": "Prabhuvaa neelo jeevinchuta krupaa baahulyame",
+   "why": "already in the database — 100% of #1381 Prabhuvaa Neelo Jeevinchuta"
+  },
+  {
+   "file": "00157-rakshakundudhayinchi-nadata.json",
+   "song_name": "Rakshakundudhayinchi naadata",
+   "why": "already in the database — 24% of #845 Rakshakundudayinchinaadata"
+  },
+  {
+   "file": "00158-randi-yuchahinchi-paadudhamu.json",
+   "song_name": "Randi utsaahinchi paadudamu",
+   "why": "a different song of this name is already in the database"
+  },
+  {
+   "file": "00180-vetakaani-urilo-nundi.json",
+   "song_name": "Vetakaani urilo nundi",
+   "why": "already in the database — 19% of #150 Vetagaani Urilo Nundi"
+  },
+  {
+   "file": "00188-aakaashamandunna-aaseenudaa.json",
+   "song_name": "Aakaashamandunna aaseenudaa",
+   "why": "already in the database — 11% of #213 Aakaashamandunna Aaseenudaa"
+  },
+  {
+   "file": "00190-aananda-yaathra.json",
+   "song_name": "Aanandha yaathra",
+   "why": "already in the database — 11% of #626 Aananda Yaathra"
+  },
+  {
+   "file": "00213-kalyaanam-kamaneeyam.json",
+   "song_name": "Kalyaanam kamaneeyam",
+   "why": "already in the database — 99% of #1321 Kalyaanam Kamaneeyam"
+  },
+  {
+   "file": "00315-naa-jeevitha-kalamantha.json",
+   "song_name": "Naa jeevitha kaalamantha",
+   "why": "already in the database — 34% of #815 Naa Jeevitha Kaalamantha"
+  },
+  {
+   "file": "00365-nanu-viduvaka-dhachithivi.json",
+   "song_name": "Nanu Viduvaka Edabaayaka Daachithivaa",
+   "why": "already in the database — 12% of #1166 Nanu Viduvaka Edabaayaka"
+  },
+  {
+   "file": "00372-yeguruthunnandhi-vijaya.json",
+   "song_name": "Eguruthunnadhi vijaya pathaakam",
+   "why": "already in the database — 27% of #1670 Eguruchunnadi Vijayapathaakam"
+  },
+  {
+   "file": "00387-maargam-satyam-jeevam.json",
+   "song_name": "Maargam sathyam jeevam",
+   "why": "a different song of this name is already in the database"
+  },
+  {
+   "file": "00502-halleluya-sthotram.json",
+   "song_name": "Halleluya sthothram",
+   "why": "a different song of this name is already in the database"
+  },
+  {
+   "file": "00506-priyathama-bandhama-naa-hrudayapu.json",
+   "song_name": "Priyathamaa bandhamaa naa hrudhayapu",
+   "why": "already in the database — 52% of #130 Priyathama Bandhamaa"
+  },
+  {
+   "file": "00514-suryuni-dharinchi.json",
+   "song_name": "Sooryuni dharinchi",
+   "why": "the same song as 00361-sooryuni-dharinchi.json"
+  },
+  {
+   "file": "00515-sthuthiki-paathruda.json",
+   "song_name": "Sthuthiki paathrudaa",
+   "why": "a different song of this name is already in the database"
+  },
+  {
+   "file": "00538-halleluya-sthotram.json",
+   "song_name": "Halleluya sthotram",
+   "why": "a different song of this name is already in the database"
+  },
+  {
+   "file": "00583-brathikeda-ni-kosame.json",
+   "song_name": "Brathikedha nee kosame",
+   "why": "already in the database — 12% of #515 Brathikeda Nee Kosame"
+  },
+  {
+   "file": "00602-deyyama-daivama-deyyama-daivama-telusuko-nestama.json",
+   "song_name": "Deyyama Daivama Deyyama Daivama Telusuko Nestama",
+   "why": "no Telugu"
+  },
+  {
+   "file": "00609-emta-mamchi-devudavayya-2-chimta.json",
+   "song_name": "Entha manchi dhevudavayyaa",
+   "why": "already in the database — 36% of #246 Entha Manchi Devudavesayyaa"
+  },
+  {
+   "file": "00616-chalina-devudavu-yesu-chalina-devuda.json",
+   "song_name": "Chaalina Dhevudavu Yesu chaalina Dhevuda",
+   "why": "the same song as 00596-chalina-devudavu-yesu-chalina-devuda-nivu.json"
+  },
+  {
+   "file": "00617-chalu-naku-yesu-chalu-2.json",
+   "song_name": "Chaalu naaku Yesu chaalu",
+   "why": "the same song as 00593-chalu-chalu.json"
+  },
+  {
+   "file": "00618-chalunayya-ni-krupa-naku-chalunayya.json",
+   "song_name": "Chaalunayyaa nee krupa naaku chaalunayyaa",
+   "why": "already in the database — 14% of #1280 Chaalunayyaa Chaalunayyaa"
+  },
+  {
+   "file": "00621-chirakala-snehituda-na-hrudayana-sannihituda.json",
+   "song_name": "Chirakaala snehithudaa naa hrudhayaana sannihithudaa",
+   "why": "already in the database — 27% of #1019 Chirakaala Snehithudaa"
+  },
+  {
+   "file": "00622-chirudipamalle-veligimdi-lokam-aa-velugu.json",
+   "song_name": "Chirudheepamalle veligindhi lokam aa velugu",
+   "why": "the same song as 00595-chirudipamalle-veligimdi-lokam-aa-velugu-korake-.json"
+  },
+  {
+   "file": "00623-chirunagavu-momu-toda-bava-divya.json",
+   "song_name": "Chirunagavu momu thodaa bhava dhivya",
+   "why": "the same song as 00597-chirunagavu-momu.json"
+  },
+  {
+   "file": "00624-chudalani-undi-yesuni-cheralani-umdi.json",
+   "song_name": "Choodaalani undi Yesuni cheraalani undi",
+   "why": "the same song as 00599-chudalani-undi-yesuni-cheralani.json"
+  },
+  {
+   "file": "00625-dahamu-gonnavaralara-dahamu-tirchukonamdi-devude.json",
+   "song_name": "Dhaahamu gonnavaaralaaraa dhaahamu theerchukonandi",
+   "why": "the same song as 00601-dahamu-gonnavaralara.json"
+  },
+  {
+   "file": "00628-deva-nikemittunu-e-dinuralanu-asahayuralanu.json",
+   "song_name": "Deva neekemitthunu ee deenuraalanu asahaayuraalanu",
+   "why": "the same song as 00603-deva-nikemittunu-e-dinuralanu-asahayuralanu.json"
+  },
+  {
+   "file": "00630-devudamte-nikishtama-e-kashtanikaina-siddhama.json",
+   "song_name": "Dhevudante neekishtamaa e kashtaanikaina siddhamaa",
+   "why": "the same song as 00604-devudamte-nikishtama.json"
+  },
+  {
+   "file": "00682-jo-lali-jo-mariyatanayuda-jo.json",
+   "song_name": "Jo laali jo Mariyathanayudaa",
+   "why": "already in the database — 10% of #235 Hallelooya Hallelooya"
+  },
+  {
+   "file": "00689-kalvarigiripai-siluva-baramu-barimchitiva-o.json",
+   "song_name": "Kalvarigiripai siluva bhaaramu bharinchithivaa O",
+   "why": "already in the database — 45% of #178 Kalvari Giripai Siluva"
+  },
+  {
+   "file": "00723-na-hrudayamu-vimtaga-marenu-3.json",
+   "song_name": "Naa hrudhayamu vinthaga maarenu",
+   "why": "already in the database — 21% of #821 Santhoshame Samaadhaaname"
+  },
+  {
+   "file": "00734-na-prananiki-pranam-nive-yesayya.json",
+   "song_name": "Naa praanaaniki praanam neeve Yesayya",
+   "why": "already in the database — 49% of #14 Naa Praanaaniki Praanam"
+  },
+  {
+   "file": "00738-na-vedanalo-vedakitini-sriyesuni-padalanu.json",
+   "song_name": "Naa vedhanalo vedakithini Sree Yesuni paadaalanu",
+   "why": "the same song as 00344-naa-vedhanalo-vedhikithini.json"
+  },
+  {
+   "file": "00760-navanni-amgikarimchumi-deva-nannepudu-nivu.json",
+   "song_name": "Naavanni angeekarinchumee Deva nannepudu neevu",
+   "why": "already in the database — 71% of #1380 Naavanni Yangeekarinchumee Devaa"
+  },
+  {
+   "file": "00780-ni-prema-ni-karuna.json",
+   "song_name": "Nee prema nee karuna chaalunayaa",
+   "why": "already in the database — 54% of #1085 Nee Premaa Nee Karunaa"
+  },
+  {
+   "file": "00787-nijamaina-devudu-ennadu-viduvadu-cheyi.json",
+   "song_name": "Nijamaina Dhevudu ennadu viduvadu",
+   "why": "already in the database — 13% of #363 Parama Thandri Neeke Sthothram"
+  },
+  {
+   "file": "00792-nimgiloni-chamduruda-mamdagache-imduruda-nimdale.json",
+   "song_name": "Ningiloni chanduruda mandagaache induruda",
+   "why": "already in the database — 44% of #1669 Ningiloni Chandurudaa - Manda Kaache Indurudaa"
+  },
+  {
+   "file": "00807-o-ho-o-o-hailessa.json",
+   "song_name": "O ho ho o hailessaa hailo hailessaa",
+   "why": "already in the database — 51% of #1224 Naa Chinni Donelo"
+  },
+  {
+   "file": "00822-podamu-payanamodamu-suvarta-cheppa-podamu.json",
+   "song_name": "Podaamu payanamodaamu suvaartha cheppa podaamu",
+   "why": "already in the database — 81% of #1715 Podaamu Podaamu Paina Podaamu"
+  },
+  {
+   "file": "00829-prardhana-vinedi-pavanuda-prardhana-maku.json",
+   "song_name": "Praardhana vinedi paavanudaa praardhana maaku",
+   "why": "already in the database — 40% of #1306 Praardhana Vinedi Paavanudaa"
+  },
+  {
+   "file": "00844-randi-yutsahimchi-padudumu-rakshana-durgamu.json",
+   "song_name": "Randi yuthsahinchi paadudumu rakshana dhurgamu mana Prabhuve",
+   "why": "already in the database — 30% of #346 Randi Uthsaahinchi Paadudamu"
+  },
+  {
+   "file": "00845-ravayya-yesunadha-ma-rakshana-margamu.json",
+   "song_name": "Raavayya Yesunaadhaa maa rakshana maargamu",
+   "why": "already in the database — 56% of #218 Raavayya Yesunaadhaa"
+  },
+  {
+   "file": "00850-sageti-e-jiva-yatraloregeti-penu.json",
+   "song_name": "Saageti ee jeeva yaathraloregeti penu thuphaanulenno",
+   "why": "already in the database — 55% of #1154 Saageti Ee Jeeva Yaathralo"
+  },
+  {
+   "file": "00905-viduvani-devuda-nive-ma-mamchi.json",
+   "song_name": "Viduvani Dhevuda neeve maa manchi Yesayya",
+   "why": "already in the database — 11% of #1276 Nee Prema Entho Madhuram"
+  },
+  {
+   "file": "00912-yehova-na-mora-lalichenu-dana.json",
+   "song_name": "Yehova naa mora laalinchenu",
+   "why": "already in the database — 24% of #1492 Yehova Naa Moralaalinchenu"
+  },
+  {
+   "file": "00917-yese-satyam-yese-nityam-yese.json",
+   "song_name": "Yese sathyam Yese nithyam Yese sarvam jagathiki",
+   "why": "already in the database — 33% of #781 Yese Sathyam"
+  },
+  {
+   "file": "00920-yesu-na-somtam-netiki-enatiki.json",
+   "song_name": "Yesu Na Somtam Netiki Enatiki",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "00923-yesu-sami-niku-nenu-na.json",
+   "song_name": "Yesu saami neeku nenu naa samastha mitthunu",
+   "why": "already in the database — 35% of #514 Naa Samasthamu"
+  },
+  {
+   "file": "00926-yesunadha-deva-vamdanalu-raja-vamdanalu.json",
+   "song_name": "Yesunaadhaa Dheva vandhanaalu Raajaa vandhanaalu",
+   "why": "already in the database — 21% of #758 Yesu Naathaa Devaa"
+  },
+  {
+   "file": "00933-yuddhamu-yehovade-4.json",
+   "song_name": "Yuddhamu Yehovaadhe (4)",
+   "why": "already in the database — 33% of #640 Yuddhamu Yehovaade"
+  },
+  {
+   "file": "01791-aaraadhanalanduko.json",
+   "song_name": "Aaraadhanalandhuko",
+   "why": "already in the database — 10% of #1109 Aaraadhana Anduko"
+  },
+  {
+   "file": "02391-thallikunnadhaa-thandrikunnadhaa.json",
+   "song_name": "Thallikunnadhaa Thandrikunnadhaa",
+   "why": "already in the database — 10% of #993 Ihaloka Paapi Koraku"
+  },
+  {
+   "file": "02403-aaraadhanalandhuko.json",
+   "song_name": "Aaraadhanaalandhuko",
+   "why": "already in the database — 11% of #1109 Aaraadhana Anduko"
+  },
+  {
+   "file": "02410-rammu-rammu.json",
+   "song_name": "Rammu Rammu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "02431-o-kristhavuda-sinikuda.json",
+   "song_name": "O Kraisthavudaa sainikudaa",
+   "why": "already in the database — 18% of #186 Kraisthavudaa Sainikudaa"
+  },
+  {
+   "file": "02459-sathuva-bhoomilo.json",
+   "song_name": "Satthuva bhoomilo",
+   "why": "already in the database — 63% of #883 Phalamulanaashinchina Paraloka Thandri"
+  },
+  {
+   "file": "02479-yehoavaa-naa-kaapari-lae-maemi.json",
+   "song_name": "Yehova naa kaapari",
+   "why": "a different song of this name is already in the database"
+  },
+  {
+   "file": "02491-rmdi-yuthsahimchi-paadudhamu-r.json",
+   "song_name": "Randi yuthsahinchi paadudhamu",
+   "why": "already in the database — 53% of #346 Randi Uthsaahinchi Paadudamu"
+  },
+  {
+   "file": "02517-neethigala-yehoavaa-sthuthi-me.json",
+   "song_name": "Neethigala Yehova sthuthi meeyaathmatho",
+   "why": "already in the database — 26% of #135 Neethigala Yehovaa Sthuthi"
+  },
+  {
+   "file": "02632-thraahi-maam-kreesthu-naadha-d.json",
+   "song_name": "Thraahi Maam Kreesthu Naadha",
+   "why": "already in the database — 12% of #1460 Thraahimaam Kreesthu Naatha"
+  },
+  {
+   "file": "02634-raavayya-yaesunaadhaa-maa-raks.json",
+   "song_name": "Raavayya Yesunaadhaa",
+   "why": "a different song of this name is already in the database"
+  },
+  {
+   "file": "02682-saakshya-michchedha-svaami-yae.json",
+   "song_name": "Saakshya michcheda swaami Yesu",
+   "why": "already in the database — 18% of #714 Saakshyamichcheda"
+  },
+  {
+   "file": "02707-song.json",
+   "song_name": "O praarthanaa supraarthanaa",
+   "why": "already in the database — 35% of #343 O Praardhanaa Supraardhanaa"
+  },
+  {
+   "file": "02709-song.json",
+   "song_name": "Aasheervaadhambul maameedha varshimpajeyu",
+   "why": "already in the database — 21% of #1482 Aasheervaadambul Maa Meeda"
+  },
+  {
+   "file": "02724-nee-charanamulae-nammithi-nee.json",
+   "song_name": "Nee charanamule nammithi",
+   "why": "already in the database — 33% of #613 Nee Charanamule Nammithi"
+  },
+  {
+   "file": "02799-song.json",
+   "song_name": "Yesusaami neeku nenu naa samastha mitthunu",
+   "why": "already in the database — 33% of #514 Naa Samasthamu"
+  },
+  {
+   "file": "02806-srushtipithaa-sarvoannathaa-sa.json",
+   "song_name": "Srushtipithaa sarvonnathaa",
+   "why": "the same song as 00091-srustipitha-sarvonatha.json"
+  },
+  {
+   "file": "02845-naenunu-naa-yimtivaarunu-neeth.json",
+   "song_name": "Naenunu Naa Yintivaarunu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "02846-rammu-rammu-maa-yimtiki-thmdre.json",
+   "song_name": "Rammu Rammu Maa Yintiki Thandree",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "02847-emthoa-ramymbainadhi-bhoothala.json",
+   "song_name": "Enthoa Ramyambainadhi Bhoothalamandhu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "02887-vijayageethamul-paadarae-krees.json",
+   "song_name": "Vijayageethamul paadare Kreesthunaku jaya",
+   "why": "already in the database — 18% of #521 Vijaya Geethamul Paadare"
+  },
+  {
+   "file": "02902-nammavadhdhu-nammavadhdhu-ee-m.json",
+   "song_name": "Nammavadhdhu nammavadhdhu ee maayalokam",
+   "why": "the same song as 00751-nammavaddu-e-mayalokam-nammavaddu-idi.json"
+  },
+  {
+   "file": "02916-prabhu-yaesuni-vadhanamuloa-na.json",
+   "song_name": "Prabhu Yesuni vadhanamulo naa Dhevuni raajyamulo",
+   "why": "already in the database — 37% of #1326 Prabhu Yesuni Vadanamulo"
+  },
+  {
+   "file": "02931-ella-vaelalmdhu-kashtalammdhu-vallabhumdaa-yaesu.json",
+   "song_name": "Ella velalandu kashtalamandu vallabhundaa",
+   "why": "already in the database — 10% of #192 Ella Velalandu"
+  },
+  {
+   "file": "02947-dhaevuni-praema-yidhigoa-janul.json",
+   "song_name": "Dhevuni prema idhigo janulaara",
+   "why": "already in the database — 14% of #202 Devuni Prema Idigo"
+  },
+  {
+   "file": "03006-raajulaku-raajaina-yee-mana-vi.json",
+   "song_name": "Raajulaku raajaina ee mana vibhuni",
+   "why": "already in the database — 35% of #1256 Raajulaku Raajaina Ee"
+  },
+  {
+   "file": "03108-koniyaada-dharame-ninnu-koama.json",
+   "song_name": "Koniyaada dharame ninnu komala hrudhaya",
+   "why": "already in the database — 14% of #245 Koniyaada Tharame Ninnu"
+  },
+  {
+   "file": "03127-song.json",
+   "song_name": "Pithaa Suthaa Varaathmaka",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03128-song.json",
+   "song_name": "Sthoathrinchudi Srushtikarthan Thandri",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03129-yehoava-ninnu-aasheervadhimchi-kaa-paa.json",
+   "song_name": "Yehoava Ninnu Aasheervadhimchi Kaa Paa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03139-maa-dhaevunakunu-sthoathamulu-mahimayu.json",
+   "song_name": "Maa Dhaevunakunu Sthoathamulu Mahimayu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03141-song.json",
+   "song_name": "MaeLlanni Yichchu Dhaevunin SthuthiMchu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03142-song.json",
+   "song_name": "Pithru Puthra ShudhDhaathmalai",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03152-kummaree-oa-kummaree-jagadhuth.json",
+   "song_name": "Kummaree o kummaree",
+   "why": "already in the database — 38% of #129 Kummari O Kummari"
+  },
+  {
+   "file": "03174-reference-thana-athikramamulaku-parihaaramunomdh.json",
+   "song_name": "Thana athikramamulaku parihaaramunondhinavaadu thana",
+   "why": "the same song as 02932-evani-athikramamulu-mannimpaba.json"
+  },
+  {
+   "file": "03188-reference-dhaevaa-nee-krupachoppuna-nannu.json",
+   "song_name": "Dhevaa nee krupachoppuna nannu karunimpumu",
+   "why": "the same song as 03187-reference-dhaevaa-nee-krupachoppuna-nannu.json"
+  },
+  {
+   "file": "03197-reference-nee-mmdhiramunmdhu-nivasimchuvaaru-dha.json",
+   "song_name": "Reference: Nee mandhiramunandhu nivasinchuvaaru dhanyulu.",
+   "why": "the same song as 03196-reference-nee-mmdhiramunmdhu-nivasimchuvaaru-dha.json"
+  },
+  {
+   "file": "03203-reference-aayana-thana-rekkalathoa-ninnu.json",
+   "song_name": "Aayana thana rekkalatho ninnu",
+   "why": "already in the database — 100% of #1592 Sarvannathuni chaatuna"
+  },
+  {
+   "file": "03207-reference-yehoavaa-meedha-paadudi-aayana.json",
+   "song_name": "Yehova meedha krottha keerthana paadudi",
+   "why": "the same song as 03206-reference-yehoavaa-meedha-paadudi-aayana.json"
+  },
+  {
+   "file": "03218-reference-yehoavaa-mmdhiramunaku-velludhamani-ja.json",
+   "song_name": "Yehova mandhiramunaku nadichedhamu",
+   "why": "the same song as 03217-reference-yehoavaa-mmdhiramunaku-velludhamani-ja.json"
+  },
+  {
+   "file": "03223-reference-yehoavaa-dhayaaludu-aayanaku-kruthajny.json",
+   "song_name": "Yehovaanu sthuthinchudi aayana dhayaaludu",
+   "why": "already in the database — 12% of #452 Yehovaa Dayaaludu (Aayanake Kruthagnatha)"
+  },
+  {
+   "file": "03227-reference-yehoavaa-amdhariki-upakaari-aayana.json",
+   "song_name": "Yehova andharikini mahopakaarundu",
+   "why": "the same song as 03226-reference-yehoavaa-amdhariki-upakaari-aayana.json"
+  },
+  {
+   "file": "03232-reference-yauvanulu-kanyalu-vrudhdhulu-baaluru.json",
+   "song_name": "Sthuthiyinchudi shudhdhudehovaanu sthuthiyinchudi",
+   "why": "the same song as 03231-reference-yauvanulu-kanyalu-vrudhdhulu-baaluru.json"
+  },
+  {
+   "file": "03252-reference-yugayugamulu-jeevimchuchunna-vaaniki-m.json",
+   "song_name": "Yugayugamulu jeevinchuchunna vaaniki mahimayu",
+   "why": "the same song as 03251-reference-yugayugamulu-jeevimchuchunna-vaaniki-m.json"
+  },
+  {
+   "file": "03323-shudhdhi-shudhdhi-shudhdhi-sarvashakthi-prabhu-p.json",
+   "song_name": "Shudhdhi shudhdhi shudhdhi Sarvashakthi Prabhu praathahkaala sthuthi neeke chellinthumu",
+   "why": "the same song as 02507-shudhdhi-shudhdhi-shudhdhi-sarvashaktha-prabhu.json"
+  },
+  {
+   "file": "03326-vmdhana-marpimthu-krupanomdhithi-thana-raajyammd.json",
+   "song_name": "Vandhana marpinthu krupanondhithi thana raajyamandhuna cherithini",
+   "why": "the same song as 03325-yaesu-nmgeekarimchithi-dhaivaputhruda-naithini.json"
+  },
+  {
+   "file": "03363-yaesu-prabhunu-sthuthimchuta-yemthoa-yemthoa-mmc.json",
+   "song_name": "Yesu prabhunu sthuthinchuta entho entho manchidhi",
+   "why": "already in the database — 22% of #822 Yesu Prabhuni Sthuthinchuta"
+  },
+  {
+   "file": "03367-prabhu-naa-dhaevaa-nee-chaethi-kaaryamulanu.json",
+   "song_name": "Prabhu naa Deva nee chethi kaaryamulanu",
+   "why": "the same song as 03366-naa-praanamemthoa-ninnu-paadunu-goppa-dhaevaa-go.json"
+  },
+  {
+   "file": "03388-pagatiloa-maegha-sthmbhamugaa-raathriloa-yagni-s.json",
+   "song_name": "Pagatilo megha sthambhamugaa - Raathrilo agni sthambhamugaa",
+   "why": "the same song as 03387-dhanya-dhanya-dhanya-prabhuku-thaanae-rakshna-ma.json"
+  },
+  {
+   "file": "03436-raajaadhiraajaa-raavae-raaju-yaesu-raajyamaela-r.json",
+   "song_name": "Raajaadhiraajaa raave - Raaju Yesu raajyamela raave",
+   "why": "already in the database — 10% of #675 Raajaadhi Raajaa Raaraa"
+  },
+  {
+   "file": "03460-boora-shabdhmbu-dhvanimpa-gaamchedhamaesun-maa-e.json",
+   "song_name": "Boora shabdhambu dhvanimpa gaanchedhamesun maa edhuta",
+   "why": "the same song as 03459-praanapriyudaa-praanapriyudaa-rammu-maa-yaesu-pa.json"
+  },
+  {
+   "file": "03465-rakthammdhu-rakthammdhu-paapi-neevu-aa-rakthammd.json",
+   "song_name": "Rakthamandhu rakthamandhu paapi neevu aa rakthamandhu nilichiyunnaavaa",
+   "why": "the same song as 03464-dhaeva-gorrepilla-siluvaloa-samasinapudu-paapa-p.json"
+  },
+  {
+   "file": "03501-maadhurympu-naamamu-moadhamichchugaanamu.json",
+   "song_name": "Maadhuryampu naamamu modhamichchugaanamu",
+   "why": "the same song as 03500-mahaavaidhyumdu-vachchenu-brajaali-broachu-yaesu.json"
+  },
+  {
+   "file": "03504-hallelooyaa-yaesuvaa-kalvaripaina-mruthudaa.json",
+   "song_name": "Hallelooyaa Yesuvaa kalvaripaina mruthudaa",
+   "why": "the same song as 03503-immaanuyaeluni-rakthamu-nimdina-ootayae.json"
+  },
+  {
+   "file": "03506-haa-dhivya-rakthamu-emthoa-yamoolyamu.json",
+   "song_name": "Haa dhivya rakthamu entho yamoolyamu",
+   "why": "the same song as 03505-daagunaedhi-maapunu-vaegayaesu-rakthadhaarae.json"
+  },
+  {
+   "file": "03517-maranamu-vachchun-maranamu-vachchun.json",
+   "song_name": "Maranamu Vachchun Maranamu Vachchun",
+   "why": "the same song as 03516-maayaloaka-maayaloa-naela-mumgi-thirigedhavu.json"
+  },
+  {
+   "file": "03524-thaamasamu-chaeyakumu-tharunamunu-veedakumu.json",
+   "song_name": "Thaamasamu cheyakumu tharunamunu veedakumu",
+   "why": "the same song as 03523-oapaapi-jeevapu-yootakuraa-paapabhaaramu-thoadar.json"
+  },
+  {
+   "file": "03540-yaesunaathuni-gaayamulanu-choodumu-nithyajeevamu.json",
+   "song_name": "Yesunaathuni gaayamulanu choodumu nithyajeevamu pondhedhavu",
+   "why": "the same song as 03539-choochi-jeevimchu-yaesunaathuni-gaayamulanu-choo.json"
+  },
+  {
+   "file": "03542-rakshnmpu-vaarthanu-vini-rakshkumdagu-yaesuni.json",
+   "song_name": "Rakshanampu vaarthanu vini rakshakundagu Yesuni",
+   "why": "the same song as 03541-nammirammu-nammirammu-immuga-brathukumu.json"
+  },
+  {
+   "file": "03565-nae-nammudhu-nae-nammudhu-yaesu-naakai-maranimch.json",
+   "song_name": "Ne nammudhu ne nammudhu Yesu naakai maraninchenani",
+   "why": "the same song as 03564-aakaashamu-bhuviloa-nella-yaesu-unnathudu.json"
+  },
+  {
+   "file": "03567-silvaloa-silvaloa-paapamella-boaye-silvaymdhun.json",
+   "song_name": "Silvalo silvalo - Paapamella boye silvayandhuna",
+   "why": "the same song as 03566-paapabhaaramu-dhushtaguna-samaethumdanai-dhuhkha.json"
+  },
+  {
+   "file": "03588-reference-yehoavaa-chaesina-kaaryamulanu-poorvam.json",
+   "song_name": "Reference: Yehova chesina kaaryamulanu, poorvamu",
+   "why": "the same song as 03587-reference-yehoavaa-chaesina-kaaryamulanu-poorvam.json"
+  },
+  {
+   "file": "03596-reference-nishchayamugaa-naa-prabhuvaina-yaesukr.json",
+   "song_name": "Nishchayamugaa naa prabhuvaina Yesukreesthunu",
+   "why": "the same song as 03595-reference-nishchayamugaa-naa-prabhuvaina-yaesukr.json"
+  },
+  {
+   "file": "03606-reference-imtha-goppa-saakshi-samoohamu.json",
+   "song_name": "Intha goppa saakshi samoohamu",
+   "why": "the same song as 03605-reference-imtha-goppa-saakshi-samoohamu.json"
+  },
+  {
+   "file": "03640-reference-naenu-elugeththi-dhaevuniki-morra.json",
+   "song_name": "Yesu Yesu morranaalinchu",
+   "why": "the same song as 03639-reference-naenu-elugeththi-dhaevuniki-morra.json"
+  },
+  {
+   "file": "03642-reference-naenu-choodagaa-mmdhirapu-gadapakrimdh.json",
+   "song_name": "Reference: Nenu choodagaa mandhirapu gadapakrindha",
+   "why": "the same song as 03641-reference-naenu-choodagaa-mmdhirapu-gadapakrimdh.json"
+  },
+  {
+   "file": "03645-reference-kadavari-vaanakaalamuna-varshmu-dhayac.json",
+   "song_name": "Reference: Kadavari vaanakaalamuna varshamu dhayacheyumani",
+   "why": "already in the database — 50% of #1482 Aasheervaadambul Maa Meeda"
+  },
+  {
+   "file": "03648-reference-yehoavaa-smvathsaramulu-jaruguchumdaga.json",
+   "song_name": "Yehova, samvatsaramulu jaruguchundagaa nee",
+   "why": "the same song as 03647-reference-yehoavaa-smvathsaramulu-jaruguchumdaga.json"
+  },
+  {
+   "file": "03649-reference-edathegaka-praarthana-chaeyudi-1.json",
+   "song_name": "O praarthanaa su praarthanaa",
+   "why": "already in the database — 47% of #343 O Praardhanaa Supraardhanaa"
+  },
+  {
+   "file": "03651-reference-yehoavaa-naa-kuththaramimmu-keerthana.json",
+   "song_name": "Yesoo naa Prabhuvaa nee prema lekunna",
+   "why": "the same song as 03650-reference-yehoavaa-naa-kuththaramimmu-keerthana.json"
+  },
+  {
+   "file": "03672-haayaanmdha-sudhinamu-naa-yaesun-nammudhinamu.json",
+   "song_name": "Haayaanandha sudhinamu naa Yesun nammudhinamu",
+   "why": "the same song as 03671-bhaagyamau-dhinamu-prabhun-gaikonna-dhinamu.json"
+  },
+  {
+   "file": "03676-haa-emtha-adhbhuthaashcharya-dhinamu-ennadu-maru.json",
+   "song_name": "Haa entha adhbhuthaashcharya dhinamu ennadu maruvani dhinam",
+   "why": "the same song as 03675-paramu-dhigenu-mahima-nimdenaaloa-siluva-yodhdha.json"
+  },
+  {
+   "file": "03705-nashtamu-nmthatini-marala-maa-yaesuniloa-aarjimc.json",
+   "song_name": "Nashtamu nanthatini marala maa Yesunilo aarjinchithimi",
+   "why": "the same song as 03704-aanmdhimchedhamu-prabhu-yaesuloa-amthayu-maralaa.json"
+  },
+  {
+   "file": "03713-velludhaam-gelichedhm-rakshkuni-naamamunanu.json",
+   "song_name": "Velludhaam gelichedham rakshakuni naamamunanu",
+   "why": "the same song as 03712-jayaraaju-jemdaa-eththi-choopuchu-yudhdhamuchaey.json"
+  },
+  {
+   "file": "03715-shoadhanaku-meeru-choateeyakudi-dhairyamu-vahimc.json",
+   "song_name": "Shoadhanaku Meeru Choateeyakudi Dhairyamu Vahinchi Poaraatamunu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03716-yaesu-shakthini-goari-yella-kaalamu-vaedu-yaesud.json",
+   "song_name": "Yaesu Shakthini Goari Yella Kaalamu Vaedu Yaesudaashathoa Mimmu Daasi Nadupunu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03717-adhikaaramu-pomdhi-yumtini-prabhoo.json",
+   "song_name": "Adhikaaramu Pondhi Yuntini Prabhoo",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03735-pavithra-rakthamuchaetha-naa-paapamella-theere.json",
+   "song_name": "Pavithra rakthamuchetha naa paapamella theere",
+   "why": "the same song as 03734-nae-bhramimchi-nilchithi-praema-pravaahamu-thaer.json"
+  },
+  {
+   "file": "03753-yaesuni-nithyamu-sthuthiyimchedhamu-bhoomi-aakaa.json",
+   "song_name": "Yesuni nithyamu sthuthiyinchedhamu bhoomi aakaashamu srujinchinaadu",
+   "why": "the same song as 03752-yaesu-maaradu-yaesu-maaradu-vishvammtha-maarinan.json"
+  },
+  {
+   "file": "03771-shrmgaara-dhaeshamu-chaeragaanae-naa-dhuhkha-baa.json",
+   "song_name": "Shrungaara dheshamu cheragaane naa dhukha baadhalanniyupovun",
+   "why": "the same song as 03770-idhae-naaku-aanmdhamu-aanmdhamu-aanmdhamu.json"
+  },
+  {
+   "file": "03793-naa-yaesu-maargammdhuna-vella-naayaththamaa.json",
+   "song_name": "Naa Yesu maargamandhuna vella naayaththamaa",
+   "why": "the same song as 03792-siluvanu-veedanu-siluvanu-veedanu-siluvanu-veeda.json"
+  },
+  {
+   "file": "03809-yaesu-prabhoa-neeku-naenu-naa-samasthamiththunu.json",
+   "song_name": "Yesu Prabho neeku nenu naa samasthamiththunu",
+   "why": "already in the database — 11% of #514 Naa Samasthamu"
+  },
+  {
+   "file": "03814-naa-yaesu-noppukonanu-nae-siggunomdhanu.json",
+   "song_name": "Naa Yesu noppukonanu ne siggunondanu",
+   "why": "the same song as 03813-silvaloa-silvaloaao-gaamchi-nae-choodaogan.json"
+  },
+  {
+   "file": "03815-silvachemtha-naesuvaa-chaerchi-nannu-numchu.json",
+   "song_name": "Silvachentha Nesuvaa cherchi nannu nunchu",
+   "why": "the same song as 02659-song.json"
+  },
+  {
+   "file": "03816-silvakae-silvakae-chellu-naa-vimukthi.json",
+   "song_name": "Silvake silvake chellu naa vimukthi",
+   "why": "the same song as 02659-song.json"
+  },
+  {
+   "file": "03834-grmtha-vaagdhaanamulanni-naavi.json",
+   "song_name": "Grmtha Vaagdhaanamulanni Naavi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03839-patmpa-shraeshtagrmthamu-baibil.json",
+   "song_name": "Pathimpa shreshtagranthamu Baibil",
+   "why": "the same song as 03838-reference-veeru-aposthalula-boadhaymdhunu-sahava.json"
+  },
+  {
+   "file": "03841-snaehimpa-shraeshta-mithrudaesu-kreesthu.json",
+   "song_name": "Snehimpa shreshta mithrudesu Kreesthu",
+   "why": "the same song as 03838-reference-veeru-aposthalula-boadhaymdhunu-sahava.json"
+  },
+  {
+   "file": "03842-chaeyanu-shraeshta-pani-dhaiva-saevayae.json",
+   "song_name": "Cheyanu shreshta pani daiva sevaye",
+   "why": "the same song as 03838-reference-veeru-aposthalula-boadhaymdhunu-sahava.json"
+  },
+  {
+   "file": "03843-ch-aanmdhm-naa-kaanmdhm-aanmdhm-paramaanmdhmch-a.json",
+   "song_name": "Aanmdhm Naa Kaanmdhm Aanmdhm Paramaanmdhm",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03845-ch-vimthayaina-yaesu-rakshkumdu-thaanae.json",
+   "song_name": "Vimthayaina Yaesu Rakshkumdu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03847-ch-sthuthi-ghanatha-mahima-needhae-mahima.json",
+   "song_name": "Sthuthi Ghanatha Mahima Needhae",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03848-ch-halle-looya-aa-aamen.json",
+   "song_name": "Halle Looya Aa - Aamen",
+   "why": "already in the database — 23% of #292 Rakshakudaa Yesu Prabho"
+  },
+  {
+   "file": "03849-ch-naakaanmdhm-kaaranmbidhae-paapabhaarammtha-po.json",
+   "song_name": "Naakaanandam Kaaranambidhae Paapabhaaramantha Poayenu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03850-ch-adhbhutha-shakthikaladhu-rakthamuloa-gorrepil.json",
+   "song_name": "Adhbhutha Shakthikaladhu Rakthamuloa - Gorrepilla",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03851-ch-nee-jeevitha-naavaloa-kreesthunu.json",
+   "song_name": "Nee Jeevitha Naavaloa Kreesthunu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03852-ch-yaesu-theerche-naa-appunmthayuch-paapadaagu.json",
+   "song_name": "Ch:yaesu Theerche Naa - AppunMthayuch:paapadaagu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03853-ch-krupachaetha-rakshimchenu-krupachaetha-rakshi.json",
+   "song_name": "Krupachaetha Rakshinchenu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03854-ch-poayenu-poayenu-naa-paapa-bhaaramella.json",
+   "song_name": "Poayenu Poayenu Naa Paapa Bhaaramella",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03857-ch-emtha-adhbhutha-dhanamu-anmtha-dhaivavaramuch.json",
+   "song_name": "Entha Adhbhutha Dhanamu Anantha Dhaivavaramu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03859-ch-paapamun-dhuhkhamunu-vemtanae.json",
+   "song_name": "Paapamun Duhkhamunu - Ventanae",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03860-ch-dhaagiyumdhu-nee-aashrayammdhunch-keedu-thaak.json",
+   "song_name": "Dhaagiyundhu Nee Aashrayamandhun",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03862-ch-nithya-dhaeva-jeevaathma-naa-pai.json",
+   "song_name": "Nithya Dhaeva Jeevaathma Naa Pai",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03865-ch-aathmala-chemthaku-nadupu-boadhimpanu-naerpum.json",
+   "song_name": "Aathmala Chenthaku Nadupu Boadhimpanu Naerpumu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03867-ch-chaethun-adhbhutha-manenu-chaethun-adhbhutha.json",
+   "song_name": "Chaethun Adhbhutha Manenu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03868-ch-sthuthimchu-naa-praanamaa-mahima.json",
+   "song_name": "Sthuthinchu Naa Praanamaa",
+   "why": "already in the database — 17% of #1656 Naa Praanamaa Prabhune Sthuthiyinchumaa"
+  },
+  {
+   "file": "03869-ch-mahima-ghanatha-sthuthi-sthoathramu.json",
+   "song_name": "Mahima Ghanatha Sthuthi Sthoathramu",
+   "why": "already in the database — 13% of #669 Elohim Elohim"
+  },
+  {
+   "file": "03870-reference-aashcharyakarudu-aaloachanakartha-bala.json",
+   "song_name": "Aashcharyakarudu aalochanakartha balavanthudaina Dhevudu",
+   "why": "already in the database — 22% of #1048 Christmas Aanandam"
+  },
+  {
+   "file": "03871-ch-aashcharya-maashcharya-maesu-naakuch-aaloacha.json",
+   "song_name": "Aashcharya Maashcharya Maesu Naaku",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03873-ch-aanmdhaanmdhamu-mahadhaanmdhamuch-yaesu-prabh.json",
+   "song_name": "Aanandaanandamu Mahadhaanandamu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03874-ch-aashcharya-aashcharya-yaesu.json",
+   "song_name": "Aashcharya Aashcharya Yaesu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03875-reference-aa-ayidhu-rottelanu-remdu.json",
+   "song_name": "Hallelooyaa Yesuku",
+   "why": "already in the database — 13% of #363 Parama Thandri Neeke Sthothram"
+  },
+  {
+   "file": "03879-ch-yaesuni-sannidhi-emthoa-aanmdhmch-emthoa-aanm.json",
+   "song_name": "Ch:yaesuni SanniDhi EMthoa AanMdhMch:eMthoa AanMdhM,",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03880-ch-thoorpuna-padamara-uththara-dhakshinamuch-kre.json",
+   "song_name": "Thoorpuna Padamara Uththara Dhakshinamu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03881-ch-naa-yedhaloan-naa-yedhaloan.json",
+   "song_name": "Naa Yedhaloan Naa Yedhaloan",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03882-ch-nallanidhi-naa-paapa-hrudhaym.json",
+   "song_name": "Nallanidhi Naa Paapa Hrudhayam",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03883-ch-yaesu-kreesthu-aayanae-naa-sarva.json",
+   "song_name": "Yaesu Kreesthu Aayanae Naa Sarva Maayanae",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03884-ch-aahaa-aahaa-idhigoa-marala-vasthimich-aahaa.json",
+   "song_name": "Ch:aahaa Aahaa Idhigoa Marala Vasthimich:aahaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "03894-pomdhithini-naenu-prabhuvaa-nee-numdi-prathi-shr.json",
+   "song_name": "Pondhithini nenu Prabhuvaa nee nundi prathi shreshtayeevini ee bhuviyandhu",
+   "why": "already in the database — 48% of #1184 Pondithini Nenu"
+  },
+  {
+   "file": "03909-reference-priyulaaraa-veetikoraku-meeru-kanipett.json",
+   "song_name": "Choodumadhe choodumadhe nee varudu vachchuchunde",
+   "why": "the same song as 03908-reference-priyulaaraa-veetikoraku-meeru-kanipett.json"
+  },
+  {
+   "file": "03942-reference-yaesukreesthu-ninna-naedu-okkataereeth.json",
+   "song_name": "Yesukreesthu ninna nedu ekareethigane",
+   "why": "the same song as 03872-reference-yaesukreesthu-ninna-naedu-okkataereeth.json"
+  },
+  {
+   "file": "03956-reference-nee-vaakyamae-sathyamu-yoahaanu.json",
+   "song_name": "Mangalamuga paadudee - Krupa sathyambunu",
+   "why": "the same song as 03955-reference-nee-vaakyamae-sathyamu-yoahaanu.json"
+  },
+  {
+   "file": "03972-reference-nadhivale-samaadhaanamunu-paarajaeyudh.json",
+   "song_name": "Nadhivale samaadhaanamunu paarajeyudhunu - Yeshayaa 66:12",
+   "why": "the same song as 03971-reference-nadhivale-samaadhaanamunu-paarajaeyudh.json"
+  },
+  {
+   "file": "03982-reference-rakshna-baavulu-yeshyaa-isaiah.json",
+   "song_name": "Rakshanampu Baavulellanu",
+   "why": "the same song as 03981-reference-rakshna-baavulu-yeshyaa-isaiah.json"
+  },
+  {
+   "file": "03986-reference-anyadhaevathalanu-paaravaeyumu-aadhika.json",
+   "song_name": "Aakaashamaa aalakinchumaa",
+   "why": "a different song of this name is already in the database"
+  },
+  {
+   "file": "04028-reference-ayinanu-modhata-neekumdina-praemanu.json",
+   "song_name": "Raajulaku raajaina Yesu Prabhu raanai yunnaadu",
+   "why": "already in the database — 13% of #363 Parama Thandri Neeke Sthothram"
+  },
+  {
+   "file": "04029-reference-koatha-visthaaramae-gaani-panivaaru.json",
+   "song_name": "Nee saakshyamu edhi? - Nee bali arpana edhi?",
+   "why": "already in the database — 39% of #1062 Nee Saakshyamu Edi"
+  },
+  {
+   "file": "04051-reference-dhaasuni-roopamu-dharimchukoni-thannu.json",
+   "song_name": "Yesu naamam manoharam",
+   "why": "already in the database — 13% of #882 Devaa Nee Naamam (Kripal Mohan)"
+  },
+  {
+   "file": "05536-e-reethi-ni-runam.json",
+   "song_name": "E reethi nee runam theerchukondhu Yesuvaa",
+   "why": "already in the database — 16% of #194 Ae Reethi Nee Runam"
+  },
+  {
+   "file": "05549-ibaadhath-karoa.json",
+   "song_name": "Ibaadhath karo",
+   "why": "already in the database — 56% of #187 Ibaadath Karo"
+  },
+  {
+   "file": "05565-kallumdi-choodalaeni-emdharoa-unnaaru.json",
+   "song_name": "Kallundi choodaleni endharo unnaaru",
+   "why": "already in the database — 99% of #1510 Kallundi Choodaleni"
+  },
+  {
+   "file": "05581-thraahi-maam-kreesthu-naadhadhayaojooda-raavae-n.json",
+   "song_name": "Thraahi maam Kreesthu naadha dhaya jooda raave nenu dhehi yanuchu nee",
+   "why": "already in the database — 20% of #1460 Thraahimaam Kreesthu Naatha"
+  },
+  {
+   "file": "05593-naaloani-aashaajyoathineevae-naa-prabhuvaa.json",
+   "song_name": "Naaloni aashaajyothineeve naa Prabhuvaa",
+   "why": "the same song as 00750-naloni-asha-jyoti-nive-na.json"
+  },
+  {
+   "file": "05597-ninnae-ninnae-koluthunayaa.json",
+   "song_name": "Ninne ninne koluthunayaa",
+   "why": "already in the database — 25% of #1438 Ninne Ninne Ne Koluthunayyaa"
+  },
+  {
+   "file": "05640-sthuthi-chaesi-naepaadanaasthoathrageethm.json",
+   "song_name": "Sthuthi chesi nepaadanaa sthothrageetham",
+   "why": "already in the database — 24% of #679 Shruthi Chesi Ne Paadanaa"
+  },
+  {
+   "file": "05646-shaaronu-polamuloa-poochina-pushpamaa.json",
+   "song_name": "Shaaronu polamulo poochina pushpamaa",
+   "why": "already in the database — 57% of #625 Shaaronu Polamulo"
+  },
+  {
+   "file": "05649-hallelooya-ani-paadisthuthimpanu.json",
+   "song_name": "Hallelooya ani paadisthuthimpanu",
+   "why": "already in the database — 14% of #1219 Hallelooyaa Ani Paadi"
+  },
+  {
+   "file": "05656-innaellu-ilaloa-unnaamu-manamu-challani-dhaevuni.json",
+   "song_name": "Innellu ilalo unnaamu manamu challani Dhevuni needalo",
+   "why": "already in the database — 26% of #309 Innellu Ilalo"
+  },
+  {
+   "file": "05712-dhaevaathidhaevudu-mahoapakaarudu.json",
+   "song_name": "Dhevaathidhevudu, mahopakaarudu",
+   "why": "already in the database — 21% of #1559 Devaadhi Devudu"
+  },
+  {
+   "file": "05741-sarva-srushtaloani-jeevaraashi-ymtha-needhu.json",
+   "song_name": "Sarva srushtiloni jeevaraashi yantha needhu",
+   "why": "already in the database — 21% of #340 Sarva Srushtiloni"
+  },
+  {
+   "file": "05745-aadhaarm-naaku-aadhaarm-naaku-thoadu-needaiyunna.json",
+   "song_name": "Aadhaaram naaku aadhaaram - Naaku thodu needaiyunna",
+   "why": "already in the database — 20% of #1149 Aadhaaram Naaku Aadhaaram"
+  },
+  {
+   "file": "05749-innaallu-thoadugaa-maathoa-nadichaavu.json",
+   "song_name": "Innaallu thodugaa maatho nadichaavu",
+   "why": "already in the database — 12% of #1236 Innaallu Thodugaa"
+  },
+  {
+   "file": "05756-raajaa-nee-bhavanamuloa-raeyimbagalu-vaechiyumdh.json",
+   "song_name": "Raajaa nee bhavanamulo reyimbagalu vechiyundhunu",
+   "why": "already in the database — 11% of #1131 Raajaa Nee Bhavanamulo"
+  },
+  {
+   "file": "05759-ninnu-vidichi-nee-praema-marachi.json",
+   "song_name": "Ninnu vidichi nee prema marachi",
+   "why": "already in the database — 11% of #265 Yese Daivamu"
+  },
+  {
+   "file": "05789-thalavanchaku-nesthama.json",
+   "song_name": "Thalavanchaku nesthamaa",
+   "why": "a different song of this name is already in the database"
+  },
+  {
+   "file": "05800-song.json",
+   "song_name": "Inti meedanunna ontari pichchukanu nenu naa balamaa aalakinchumaa",
+   "why": "already in the database — 29% of #1430 Inti Meeda Nunna"
+  },
+  {
+   "file": "05801-song.json",
+   "song_name": "Koriti Nee Sannidaanam Cheriti Nee Sannidaanam",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "05807-lechinadayya-maranapu-mullu.json",
+   "song_name": "Lechinaadayya maranapu mullu",
+   "why": "already in the database — 30% of #721 Lechinaadayyaa"
+  },
+  {
+   "file": "05811-ninu-choodani-kanulela-naku.json",
+   "song_name": "Ninu choodani kanulela naaku",
+   "why": "already in the database — 11% of #1276 Nee Prema Entho Madhuram"
+  },
+  {
+   "file": "05812-sarveswaruda-sthothrarhuda.json",
+   "song_name": "Sarveshwaraa sthothraarhudaa",
+   "why": "already in the database — 11% of #1276 Nee Prema Entho Madhuram"
+  },
+  {
+   "file": "05845-song.json",
+   "song_name": "Sri Yesundu janminche",
+   "why": "a different song of this name is already in the database"
+  },
+  {
+   "file": "05853-velisindi-gaganaana-o-vintha-thaara.json",
+   "song_name": "Velisindi Gaganaana O Vintha Thaara",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "05857-song.json",
+   "song_name": "Idhae Dhinam Idhae Dhinam",
+   "why": "already in the database — 48% of #1674 This is the day"
+  },
+  {
+   "file": "05858-idu-rottelu-rendu-chinni-chepalu.json",
+   "song_name": "Aidhu rottelu rendu chinni chepalu",
+   "why": "already in the database — 27% of #1471 Cheppalenu Baaboi"
+  },
+  {
+   "file": "05860-keertintunu-aaraadhintunu.json",
+   "song_name": "Keerthinthunu Aaraadhinthunu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "05865-song.json",
+   "song_name": "Naa Talli Kantenu Naa Tandri Kantenu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "05867-nenu-loapala-bhayata-paina-krimdha.json",
+   "song_name": "NEnu Loapala Bhayata Paina KriMdha",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "05868-song.json",
+   "song_name": "Novahu Vodanu Tvaraga Cheyumu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "05895-yehova-ninnu-sthuthiyinchuta-yentho-yentho-manch.json",
+   "song_name": "Yehovaanu sthuthinchuta entho entho manchidhi",
+   "why": "already in the database — 13% of #822 Yesu Prabhuni Sthuthinchuta"
+  },
+  {
+   "file": "05924-manche-leni-na-paina-entho-prema.json",
+   "song_name": "Manche leni naa painaa",
+   "why": "already in the database — 31% of #471 Manche Leni Naa Paina"
+  },
+  {
+   "file": "05928-yesayya-ninnu-chudalani.json",
+   "song_name": "Yesayya ninu choodaalani",
+   "why": "a different song of this name is already in the database"
+  },
+  {
+   "file": "05946-prabhuva-ninu-keerthinchutaku.json",
+   "song_name": "Prabhuvaa Ninu Keerthinchutaku",
+   "why": "already in the database — 82% of #861 Prabhuvaa Ninu Keerthinchutaku"
+  },
+  {
+   "file": "05977-nee-krupa-leni-kshanamu-nee-daya-leni-kshanamu.json",
+   "song_name": "Nee krupa leni kshanamu nee dhaya leni kshanamu",
+   "why": "already in the database — 11% of #1361 Nee Krupa Leni Kshanamu"
+  },
+  {
+   "file": "05979-aa-halleluyaa.json",
+   "song_name": "Aa Halleluyaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "05984-adhaaram-neevenayyaa.json",
+   "song_name": "Aadhaaram neevenayya",
+   "why": "already in the database — 18% of #755 Aadhaaram Neevenayyaa"
+  },
+  {
+   "file": "05986-anandame-paramaanandame.json",
+   "song_name": "Aanandhame paramaanandhame",
+   "why": "already in the database — 13% of #363 Parama Thandri Neeke Sthothram"
+  },
+  {
+   "file": "05996-hrudini-marchu-deva.json",
+   "song_name": "Hrudini Marchu Deva",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "06085-nee-mukhamu-manoharamu-s.json",
+   "song_name": "Nee mukhamu manoharamu",
+   "why": "the same song as 00777-ni-mukamu-manoharamu-ni-svaramu.json"
+  },
+  {
+   "file": "06107-arambamayindhi-restoration-restoration.json",
+   "song_name": "Aarambhamayyindhi Restoration Restoration",
+   "why": "already in the database — 25% of #634 Aarambhamayyindi Restoration"
+  },
+  {
+   "file": "06110-saswathamyna-prematho-annu-preminchavayya.json",
+   "song_name": "Shaashwathamaina Prematho Nanu Preminchaavayya",
+   "why": "already in the database — 28% of #926 Shaashwathamaina Prematho"
+  },
+  {
+   "file": "11122-yahovaa-maaku-thodugaa-yesayya-maa-inta-undagaa.json",
+   "song_name": "Yahovaa Maaku Thodugaa - Yesayya Maa Inta Undagaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "11571-naa-jeevithaana-maro-noothana-samvathsaramunu.json",
+   "song_name": "Naa Jeevithaana Maro Noothana Samvathsaramunu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "12406-sahodarulu-aikyatha-kaligi-nivasinchuta-p.json",
+   "song_name": "Sahodharulu aikyatha kaligi nivasinchuta",
+   "why": "already in the database — 100% of #127 Sahodarulu Aikyatha Kaligi"
+  },
+  {
+   "file": "12434-kallalo-kanneeru-endhuku.json",
+   "song_name": "Kallallo kanneeru enduku",
+   "why": "already in the database — 24% of #1446 Kallallo Kanneerenduku"
+  },
+  {
+   "file": "12476-nuvvevaro-yesu-nuvvevaro.json",
+   "song_name": "Nuvvevaro Yesu nuvvevaro",
+   "why": "already in the database — 100% of #1509 Nuvvevaro Yesu"
+  },
+  {
+   "file": "12506-sundharamaina-dehaalenno-shithilam-kaaledhaa.json",
+   "song_name": "Sundharamaina dehaalenno shidhilam kaaledhaa",
+   "why": "already in the database — 98% of #1536 Sundaramaina Dhehaalenno"
+  },
+  {
+   "file": "12529-hosannaa-hosannaa-daaveedu-thanayaa-hosannaa.json",
+   "song_name": "Hosannaa hosannaa Dhaaveedhu thanayaa hosannaa",
+   "why": "already in the database — 32% of #777 Daaveedu Thanayaa Hosannaa"
+  },
+  {
+   "file": "13259-anudinam-aa-prabhuni-varame.json",
+   "song_name": "Anudhinam aa Prabhuni varame",
+   "why": "already in the database — 49% of #1075 Anudinam Aa Prabhuni Varame"
+  },
+  {
+   "file": "13262-ayyaa-naa-kosam-kalvarilo.json",
+   "song_name": "Ayyaa naa kosam Kalvarilo",
+   "why": "already in the database — 100% of #257 Ayyaa Naa Kosam Kalvarilo"
+  },
+  {
+   "file": "13264-andaalu-chinde-shubha-vela-anduko-ee-vela.json",
+   "song_name": "Andaalu chinde shubha vela anduko ee vela",
+   "why": "already in the database — 100% of #1420 Andaalu Chinde"
+  },
+  {
+   "file": "13269-aakashaana-thaara-okati-velasindi.json",
+   "song_name": "Aakaashaana thaara okati velasindhi",
+   "why": "already in the database — 100% of #410 Aakashaana Thaara Okati"
+  },
+  {
+   "file": "13279-isuka-meeda-illu-kattaku-adi-koolipothundi.json",
+   "song_name": "Isuka Meeda Illu Kattaku Adi Koolipothundi",
+   "why": "already in the database — 100% of #746 Isuka Meeda Illu Kattaku"
+  },
+  {
+   "file": "13280-unnaadu-devudu-naaku-thodu.json",
+   "song_name": "Unnaadu Dhevudu naaku thodu",
+   "why": "already in the database — 100% of #935 Unnaadu Devudu Naaku Thodu"
+  },
+  {
+   "file": "13281-ullaasa-jeevitham-adi-oohaku-andanidi.json",
+   "song_name": "Ullaasa Jeevitham Adi Oohaku Andanidi",
+   "why": "already in the database — 100% of #928 Ullaasa Jeevitham"
+  },
+  {
+   "file": "13284-etu-choochinaa-yuddha-samaachaaraalu.json",
+   "song_name": "Etu choochinaa yuddha samaachaaraalu",
+   "why": "already in the database — 100% of #786 Etu Choochinaa"
+  },
+  {
+   "file": "13287-evari-kosamo-ee-praana-thyaagamu.json",
+   "song_name": "Evari kosamo ee praana thyaagamu",
+   "why": "already in the database — 100% of #1534 Evari Kosame Ee Praana Thyaagamu"
+  },
+  {
+   "file": "13292-entha-dooramainaa-adi-entha-bhaaramainaa.json",
+   "song_name": "Entha dooramainaa adhi entha bhaaramainaa",
+   "why": "already in the database — 100% of #1234 Entha Dooramainaa"
+  },
+  {
+   "file": "13294-enthati-vaadanu-nenu-yesayyaa.json",
+   "song_name": "Enthati vaadanu nenu Yesayyaa",
+   "why": "already in the database — 100% of #674 Enthati Vaadani Nenu"
+  },
+  {
+   "file": "13295-enthentha-bhaaramaaye-aa-siluva.json",
+   "song_name": "Enthentha bhaaramaaye aa siluva",
+   "why": "already in the database — 100% of #975 Enthentha Bhaaramaaye Aa Siluva"
+  },
+  {
+   "file": "13296-entho-bhaagyambu-shree-yesu-dorikenu.json",
+   "song_name": "Entho bhaagyambu Shree Yesu dorikenu",
+   "why": "already in the database — 43% of #1348 Entho Bhaagyambu"
+  },
+  {
+   "file": "13297-entho-madhuram-naa-yesu-prema.json",
+   "song_name": "Entho madhuram naa Yesu prema",
+   "why": "already in the database — 100% of #704 Entho Madhuram"
+  },
+  {
+   "file": "13300-enduko-devaa-inthati-premaa.json",
+   "song_name": "Enduko Devaa inthati premaa",
+   "why": "already in the database — 100% of #305 Enduko Devaa Inthati Premaa"
+  },
+  {
+   "file": "13301-ae-yogyathaa-leni-nannu-neevu-preminchinaavu-dev.json",
+   "song_name": "E yogyathaa leni nannu neevu preminchinaavu Deva",
+   "why": "already in the database — 100% of #1453 Ae Yogyathaa Leni Nannu"
+  },
+  {
+   "file": "13302-emani-ne-paadedan-etlu-ninnu-sthuthiyinthunu.json",
+   "song_name": "Emani Ne Paadedan Etlu Ninnu Sthuthiyinthunu",
+   "why": "already in the database — 100% of #1220 Emani Ne Paadedan"
+  },
+  {
+   "file": "13305-okasaari-nee-swaramu-vinagaane.json",
+   "song_name": "Okasaari nee swaramu vinagaane",
+   "why": "already in the database — 100% of #250 Okasaari Nee Swaramu"
+  },
+  {
+   "file": "13307-oke-oka-maargamu.json",
+   "song_name": "Oke oka maargamu",
+   "why": "already in the database — 100% of #220 Oke Oka Maargamu"
+  },
+  {
+   "file": "13308-o-prabhuvaa-o-prabhuvaa.json",
+   "song_name": "O Prabhuvaa O Prabhuvaa",
+   "why": "already in the database — 100% of #1575 O Prabhuvaa O Prabhuvaa"
+  },
+  {
+   "file": "13317-kanta-neerela-kalathalu-aela.json",
+   "song_name": "Kanta neerela? Kalathalu ela?",
+   "why": "already in the database — 100% of #1225 Kanta Neerela"
+  },
+  {
+   "file": "13323-krungina-velalo-aapada-samayamulo.json",
+   "song_name": "Krungina Velalo Aapada Samayamulo",
+   "why": "already in the database — 100% of #121 Krungina Velalo"
+  },
+  {
+   "file": "13327-khaamosh-raatho-ki-thandi-hawaao-se.json",
+   "song_name": "Khaamosh raatho ki thandee havaao se",
+   "why": "already in the database — 100% of #76 Khaamosh Raatho Ki"
+  },
+  {
+   "file": "13328-gatha-kaalamantha-ninu-kaachina-devudu.json",
+   "song_name": "Gatha kaalamantha ninu kaachina Dhevudu",
+   "why": "already in the database — 12% of #532 Gatha Kaalamantha"
+  },
+  {
+   "file": "13332-goodu-leni-guvvanai-koodu-leni-biddanai.json",
+   "song_name": "Goodu leni guvvanai koodu leni biddanai",
+   "why": "already in the database — 100% of #1020 Goodu Leni Guvvanai"
+  },
+  {
+   "file": "13333-chaalaa-goppodu-chaalaa-chaalaa-goppodu.json",
+   "song_name": "Chaalaa goppodu chaalaa chaalaa goppodu",
+   "why": "already in the database — 100% of #421 Chaalaa Goppodu"
+  },
+  {
+   "file": "13334-chali-raathiri-eduru-choose.json",
+   "song_name": "Chali raathiri eduru choose",
+   "why": "already in the database — 100% of #347 Chali Raathiri Eduru Choose"
+  },
+  {
+   "file": "13345-jeeva-naadha-mukthi-daatha.json",
+   "song_name": "Jeeva naadha mukthi dhaatha",
+   "why": "already in the database — 98% of #1011 Jeeva Naadha Mukthi Daatha"
+  },
+  {
+   "file": "13349-tharachi-tharachi-chooda-tharamaa.json",
+   "song_name": "Tharachi tharachi chooda tharamaa",
+   "why": "already in the database — 100% of #396 Tharachi Tharachi"
+  },
+  {
+   "file": "13350-thalli-thana-biddanu-marachinaa-gaani.json",
+   "song_name": "Thalli thana biddanu marachinaa gaani",
+   "why": "already in the database — 100% of #1523 Thalli Thana Biddanu Marachinaa Gaani"
+  },
+  {
+   "file": "13362-devudu-neeku-thelusu-neevu-devuniki-thelusaa.json",
+   "song_name": "Dhevudu neeku thelusu neevu dhevuniki thelusaa",
+   "why": "already in the database — 100% of #683 Devudu Neeku Thelusu"
+  },
+  {
+   "file": "13371-naa-devuni-gudaaramulo-naa-yesuni-nivaasamulo.json",
+   "song_name": "Naa dhevuni gudaaramulo naa Yesuni nivaasamulo",
+   "why": "already in the database — 100% of #964 Naa Devuni Gudaaramulo"
+  },
+  {
+   "file": "13372-naa-naanna-intiki-nenu-vellaali.json",
+   "song_name": "Naa naanna intiki nenu vellaali",
+   "why": "already in the database — 100% of #108 Naa Naanna Intiki"
+  },
+  {
+   "file": "13373-naa-praanamaa-aelane-krunginaavu-nireekshanaa-ne.json",
+   "song_name": "Naa praanamaa elane krunginaavu nireekshanaa neevunchumaa",
+   "why": "already in the database — 100% of #306 Naa Praanamaa Aelane"
+  },
+  {
+   "file": "13374-naa-yedala-neekunna-thalampulanni.json",
+   "song_name": "Naa edala neekunna thalampulanni",
+   "why": "already in the database — 100% of #212 Naa Yedala Neekunna"
+  },
+  {
+   "file": "13375-naaku-jeevamai-unna-naa-jeevamaa.json",
+   "song_name": "Naaku jeevamai unna naa jeevamaa",
+   "why": "already in the database — 100% of #438 Naaku Jeevamai Unna"
+  },
+  {
+   "file": "13376-naaku-balamu-unnantha-varaku.json",
+   "song_name": "Naaku Balamu Unnantha Varaku",
+   "why": "already in the database — 100% of #678 Naaku Balamu Unnantha Varaku"
+  },
+  {
+   "file": "13380-nenu-chesina-paapamukai.json",
+   "song_name": "Nenu Chesina Paapamukai",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "13382-ninnu-thalachi-nanu-nenu-marachi.json",
+   "song_name": "Ninnu thalachi nanu nenu marachi",
+   "why": "already in the database — 100% of #979 Ninnu Thalachi"
+  },
+  {
+   "file": "13384-ningilo-devudu-ninu-chooda-vachchaadu.json",
+   "song_name": "Ningilo Dhevudu ninu chooda vachchaadu",
+   "why": "already in the database — 100% of #878 Ningilo Devudu"
+  },
+  {
+   "file": "13386-nee-jeevitham-neetee-budagaa-vantidi.json",
+   "song_name": "Nee jeevitham neeti budagaa vantidi",
+   "why": "already in the database — 100% of #770 Nee Jeevitham Neeti Budagaa"
+  },
+  {
+   "file": "13388-nee-dayalo-nenunna-intha-kaalam.json",
+   "song_name": "Nee dhayalo nenunna intha kaalam",
+   "why": "already in the database — 100% of #172 Nee Dayalo Nenunna"
+  },
+  {
+   "file": "13389-nee-paadam-mrokkedan-nithyamu-sthuthinchi.json",
+   "song_name": "Nee paadham mrokkedhan nithyamu sthuthinchi",
+   "why": "already in the database — 100% of #742 Nee Paadam Mrokkedan"
+  },
+  {
+   "file": "13390-nee-premaku-saati-lene-ledu.json",
+   "song_name": "Nee premaku saati lene ledu",
+   "why": "already in the database — 100% of #193 Nee Premaku Saati"
+  },
+  {
+   "file": "13392-neeku-entha-chesinaa-runamu-theeradayyaa.json",
+   "song_name": "Neeku entha chesinaa runamu theeradhayyaa",
+   "why": "already in the database — 100% of #1359 Neeku Entha Chesinaa"
+  },
+  {
+   "file": "13393-neeku-saati-evaru-leru-yesayyaa.json",
+   "song_name": "Neeku saati evaru leru Yesayyaa",
+   "why": "already in the database — 100% of #339 Neeku Saati Evaru Leru"
+  },
+  {
+   "file": "13397-vekuvane-naa-devuni-aaraadhinthunu.json",
+   "song_name": "Vekuvane naa Dhevuni aaraadhinthunu",
+   "why": "already in the database — 100% of #1210 Neethone Gadipeyaalani"
+  },
+  {
+   "file": "13398-nedu-ikkada-repu-ekkado.json",
+   "song_name": "Nedu ikkada repu ekkado",
+   "why": "already in the database — 100% of #1072 Nedu Ikkada Repu Ekkado"
+  },
+  {
+   "file": "13400-nenunu-naa-inti-vaarunu.json",
+   "song_name": "Nenunoo naa inti vaarunu",
+   "why": "already in the database — 100% of #1413 Nenunu Naa Inti Vaarunu"
+  },
+  {
+   "file": "13404-paralokamlo-unnaa-maa-yesu.json",
+   "song_name": "Paralokamlo unna maa Yesu",
+   "why": "already in the database — 100% of #371 Paralokamlo Unna Maa Yesu"
+  },
+  {
+   "file": "13408-prabhu-hastham-naapai-nundi.json",
+   "song_name": "Prabhu hastham naapai nundi",
+   "why": "already in the database — 100% of #1512 Prabhu Hastham Naapai Nundi"
+  },
+  {
+   "file": "13421-pailam-kodukaa-paapam-cheyyakuraa.json",
+   "song_name": "Pailam kodukaa paapam cheyakuraa",
+   "why": "already in the database — 100% of #968 Pailam Kodukaa"
+  },
+  {
+   "file": "13424-baala-yesuni-janma-dinam.json",
+   "song_name": "Baala Yesuni Janma Dinam",
+   "why": "already in the database — 100% of #1300 Baala Yesuni Janma Dinam"
+  },
+  {
+   "file": "13426-mana-desham-bhaaratha-desham.json",
+   "song_name": "Mana Desham Bhaaratha Desham",
+   "why": "already in the database — 100% of #107 Mana Desham"
+  },
+  {
+   "file": "13427-mana-madhyane-unnadi-paraloka-raajyam.json",
+   "song_name": "Mana Madhyane Unnadhi Paraloka Raajyam",
+   "why": "already in the database — 100% of #1204 Mana Madhyane Unnadi"
+  },
+  {
+   "file": "13434-manchi-snehithudaa-manchi-kaaparivi.json",
+   "song_name": "Manchi Snehithudaa Manchi Kaaparivi",
+   "why": "already in the database — 100% of #559 Manchi Snehithudaa"
+  },
+  {
+   "file": "13438-maate-chaalayyaa-yesu-naaku.json",
+   "song_name": "Maate chaalayyaa Yesu naaku",
+   "why": "already in the database — 100% of #1338 Maate Chaalayyaa"
+  },
+  {
+   "file": "13443-mukthi-dhilaaye-yeeshu-naam.json",
+   "song_name": "Mukthi dhilaaye Eeshu naam",
+   "why": "already in the database — 100% of #698 Mukthi Dhilaaye Yeeshu Naam"
+  },
+  {
+   "file": "13444-meghaala-paina-mana-yesu.json",
+   "song_name": "Meghaala paina mana Yesu",
+   "why": "already in the database — 100% of #908 Meghaala Paina Mana Yesu"
+  },
+  {
+   "file": "13445-yesu-rakthame-jayam-yesu-rakthame-jayam.json",
+   "song_name": "Yesu Rakthame Jayam",
+   "why": "already in the database — 100% of #838 Yesu Rakthame Jayam"
+  },
+  {
+   "file": "13449-yesu-vanti-sundarudu-evvaru-ee-bhuvilo.json",
+   "song_name": "Yesu vanti sundarudu evvaru ee bhuvilo",
+   "why": "already in the database — 100% of #636 Yesu Vanti Sundarudu"
+  },
+  {
+   "file": "13451-yesuni-naamamlo-shakthi-undani-thelusuko.json",
+   "song_name": "Yesuni naamamlo shakthi undhani thelusuko",
+   "why": "already in the database — 100% of #417 Yesuni Naamamlo Shakthi"
+  },
+  {
+   "file": "13453-randi-randi-randayo-rakshakudu-puttenu.json",
+   "song_name": "Randi randi randayo rakshakudu puttenu",
+   "why": "already in the database — 100% of #33 Randi Randi Randayo"
+  },
+  {
+   "file": "13455-raakadane-railu-bandi-vasthunnadi.json",
+   "song_name": "Raakadane Railu Bandi Vasthunnadhi",
+   "why": "already in the database — 65% of #1540 Raakadane Railu Bandi"
+  },
+  {
+   "file": "13457-raajulaku-raajaina-ee-mana-vibhuni.json",
+   "song_name": "Raajulaku Raajaina Ee Mana Vibhuni",
+   "why": "already in the database — 100% of #1256 Raajulaku Raajaina Ee"
+  },
+  {
+   "file": "13460-medi-chettu-paiki-evvarekkaaru.json",
+   "song_name": "Medi Chettu Paiki Evvarekkaaru",
+   "why": "already in the database — 100% of #1312 Medi Chettu Paiki Evvarekkaaru"
+  },
+  {
+   "file": "13469-yesayyaa-praana-naatha-entho-manchodivayyaa.json",
+   "song_name": "Yesayyaa Praana Naathaa Entho Manchodivayyaa",
+   "why": "already in the database — 100% of #1147 Yesayyaa Praana Naathaa"
+  },
+  {
+   "file": "13472-yesu-okkade-ee-loka-rakshakudu.json",
+   "song_name": "Yesu okkade ee loka rakshakudu",
+   "why": "already in the database — 100% of #1411 Yesu Okkade"
+  },
+  {
+   "file": "13474-yesu-goriya-pillanu-nenu.json",
+   "song_name": "Yesu goriya pillanu nenu",
+   "why": "already in the database — 100% of #1574 Yesu Goriya Pillani Nenu"
+  },
+  {
+   "file": "13480-varsha-dhaaragaa-raavaa-naa-yesayyaa.json",
+   "song_name": "Varsha dhaaragaa raavaa naa Yesayya",
+   "why": "already in the database — 100% of #1330 Varsha Dhaaragaa Raava"
+  },
+  {
+   "file": "13491-shatha-koti-raagaalu-vallinchina.json",
+   "song_name": "Shatha koti raagaalu vallinchina",
+   "why": "already in the database — 100% of #1077 Shatha Koti Raagaalu Vallinchina"
+  },
+  {
+   "file": "13492-shiramu-meeda-mulla-saakshigaa.json",
+   "song_name": "Shiramu meedha mulla saakshigaa",
+   "why": "already in the database — 100% of #702 Shiramu Meeda Mulla Saakshigaa"
+  },
+  {
+   "file": "13503-adi-thala-meeda-poyabadi.json",
+   "song_name": "Adhi thala meedha poyabadi",
+   "why": "already in the database — 100% of #127 Sahodarulu Aikyatha Kaligi"
+  },
+  {
+   "file": "13506-siluva-saakshigaa-yesu-siluvanu.json",
+   "song_name": "Siluva saakshigaa Yesu siluvanu",
+   "why": "already in the database — 100% of #1282 Siluva Saakshigaa"
+  },
+  {
+   "file": "13514-sthothra-gaanam-chesindi-praanam.json",
+   "song_name": "Sthothra gaanam chesindhi praanam",
+   "why": "already in the database — 100% of #136 Sthothra Gaanam Chesindi Praanam"
+  },
+  {
+   "file": "14561-adigo-naa-naava-bayalu-deruchunnadi.json",
+   "song_name": "Adhigo naa naava bayalu dheruchunnadhi",
+   "why": "already in the database — 96% of #489 Adigo Naa Naava"
+  },
+  {
+   "file": "14575-oka-kshanamaina-neevu-marachina-ne-brathakagalan.json",
+   "song_name": "Oka kshanamaina neevu marachina ne brathakagalanaa Yesayyaa",
+   "why": "already in the database — 100% of #1496 Oka Kshanamaina"
+  },
+  {
+   "file": "14576-oka-kshanamainaa-ninu-veedi.json",
+   "song_name": "Oka kshanamainaa ninnu veedi",
+   "why": "already in the database — 100% of #196 Oka Kshanamainaa Ninnu"
+  },
+  {
+   "file": "14585-nanu-cherina-nee-prema.json",
+   "song_name": "Nanu cherina nee prema",
+   "why": "already in the database — 100% of #44 Nanu Cherina Nee Prema"
+  },
+  {
+   "file": "14586-naa-chinni-hrudayamu-ninne-preminchanee.json",
+   "song_name": "Naa chinni hrudhayamu ninne preminchanee",
+   "why": "already in the database — 100% of #434 Naa Chinni Hrudayamu"
+  },
+  {
+   "file": "14587-naa-praanapriyudaa-naa-yesuraajaa.json",
+   "song_name": "Naa praanapriyudaa naa Yesuraajaa",
+   "why": "already in the database — 100% of #884 Naa Praanapriyudaa Naa Yesu Raajaa"
+  },
+  {
+   "file": "14588-naa-priyudu-yesu-naa-priyudu-yesu.json",
+   "song_name": "Naa priyudu Yesu – Naa priyudu Yesu",
+   "why": "already in the database — 76% of #64 Naa Priyudu Yesu"
+  },
+  {
+   "file": "14589-naa-sthuthula-paina-nivasinchuvaadaa.json",
+   "song_name": "Naa sthuthula paina nivasinchuvaadaa",
+   "why": "already in the database — 100% of #469 Naa Stuthula Paina"
+  },
+  {
+   "file": "14591-naalo-undi-nanu-nadipincheti-naa-antharangamaa.json",
+   "song_name": "Naalo undi nanu nadipincheti naa antharangamaa",
+   "why": "already in the database — 100% of #419 Naalo Undi Nanu Nadipincheti"
+  },
+  {
+   "file": "14592-naaloni-aasha-naaloni-korika-ninnu-choodaalani.json",
+   "song_name": "Naaloni aasha naaloni korika ninnu choodaalani",
+   "why": "already in the database — 100% of #796 Naaloni Aasha Naaloni Korika"
+  },
+  {
+   "file": "14593-nee-challanaina-needalo-nannu-nivasinchanee-prab.json",
+   "song_name": "Nee challanaina needalo nannu nivasinchanee Prabhu",
+   "why": "already in the database — 97% of #72 Nee Challanaina Needalo"
+  },
+  {
+   "file": "14594-nee-pada-sevaye-chaalu.json",
+   "song_name": "Nee padha sevaye chaalu",
+   "why": "already in the database — 100% of #1423 Nee Pada Sevaye Chaalu"
+  },
+  {
+   "file": "14595-nee-raktha-dhaarale-maa-jeevanaadhaaraamu.json",
+   "song_name": "Nee raktha dhaarale – Maa jeevanaadhaaraamu",
+   "why": "already in the database — 100% of #513 Nee Raktha Dhaarale"
+  },
+  {
+   "file": "14598-nee-sannidhilo-nenunna-chaalu-chaalu.json",
+   "song_name": "Nee sannidhilo nenunna chaalu – Chaalu",
+   "why": "already in the database — 100% of #1155 Nee Sannidhilo Nenunna"
+  },
+  {
+   "file": "14599-needu-premaku-haddu-ledayaa.json",
+   "song_name": "Needhu premaku haddhu ledhayaa",
+   "why": "already in the database — 100% of #162 Needu Premaku Haddu Ledayaa"
+  },
+  {
+   "file": "14603-neevu-thadithe-thalupu-theeyanaa-prabhu.json",
+   "song_name": "Neevu thadithe thalupu theeyanaa Prabhu",
+   "why": "already in the database — 100% of #778 Neevu Thadithe Thalupu Theeyanaa"
+  },
+  {
+   "file": "14604-neevu-thodundagaa-naaku-digulundunaa.json",
+   "song_name": "Neevu thodundagaa naaku digulundunaa",
+   "why": "already in the database — 96% of #863 Neevu Thodundagaa"
+  },
+  {
+   "file": "14605-neevu-leni-chotedi-yesayyaa.json",
+   "song_name": "Neevu leni chotedi Yesayyaa",
+   "why": "already in the database — 100% of #1529 Neevu Leni Chotedi"
+  },
+  {
+   "file": "14606-neevu-leni-kshanamainaa-oohinchalenu.json",
+   "song_name": "Neevu leni kshanamainaa oohinchalenu",
+   "why": "already in the database — 100% of #923 Neevu Leni Kshanamainaa"
+  },
+  {
+   "file": "14607-neevu-lenide-nenu-lenu-prabhuvaa.json",
+   "song_name": "Neevu lenidhe nenu lenu Prabhuvaa",
+   "why": "already in the database — 100% of #1447 Neevu Lenide Nenu Lenu Prabhuvaa"
+  },
+  {
+   "file": "14609-nuvvu-leni-nannu-oohinchalenu.json",
+   "song_name": "Nuvvu leni nannu oohinchalenu",
+   "why": "already in the database — 100% of #1519 Nuvvu Leni Nannu Oohinchalenu"
+  },
+  {
+   "file": "14612-nemmadi-ledaa-nemmadi-ledaa-ontarivainaavaa.json",
+   "song_name": "Nemmadhi ledhaa nemmadhi ledhaa – Ontarivainaavaa",
+   "why": "already in the database — 100% of #699 Nemmadi Ledaa"
+  },
+  {
+   "file": "14617-prathi-roju-choodaalani-naa-prabhuvaina-yesayyan.json",
+   "song_name": "Prathi roju choodaalani naa Prabhuvaina Yesayyanu",
+   "why": "already in the database — 71% of #1137 Prathi Roju Choodaalani"
+  },
+  {
+   "file": "14618-prabhuvaa-neeve-naadu-sharanam.json",
+   "song_name": "Prabhuvaa neeve naadhu sharanam",
+   "why": "a different song of this name is already in the database"
+  },
+  {
+   "file": "14619-putte-yesudu-nedu-manaku-punya-maargamu-joopanu.json",
+   "song_name": "Putte Yesudu nedu – Manaku punya maargamu joopanu",
+   "why": "already in the database — 100% of #166 Putte Yesudu Nedu"
+  },
+  {
+   "file": "14626-maaraa-gayaa-sulee-par.json",
+   "song_name": "Maaraa gayaa sulee par",
+   "why": "already in the database — 100% of #491 Maaraa Gayaa Sulee Par"
+  },
+  {
+   "file": "14627-mosithivaa-naa-korakai-siluva-vedananu.json",
+   "song_name": "Mosithivaa naa korakai siluva vedhananu",
+   "why": "already in the database — 97% of #907 Mosithivaa Naa Korakai"
+  },
+  {
+   "file": "14628-yehovaa-nissy-yehovaa-nissy.json",
+   "song_name": "Yehovaa nissee – Yehovaa nissee",
+   "why": "already in the database — 100% of #1233 Yehovaa Nissy"
+  },
+  {
+   "file": "14632-yese-daivamu-yese-jeevamu.json",
+   "song_name": "Yese dhaivamu – Yese jeevamu",
+   "why": "already in the database — 100% of #265 Yese Daivamu"
+  },
+  {
+   "file": "14636-raath-andheri-door-kahi.json",
+   "song_name": "Raath andheri dhoor kahee",
+   "why": "already in the database — 100% of #1384 Raath Andheri"
+  },
+  {
+   "file": "14637-vandanam-naa-prathi-avasaramu.json",
+   "song_name": "Vandanam Naa Prathi Avasaramu",
+   "why": "already in the database — 99% of #886 Vandanam"
+  },
+  {
+   "file": "14639-sari-raarevvaru-naa-priyudaina-yesayyaku-2.json",
+   "song_name": "Sari Raarevvaru – Naa Priyudaina Yesayyaku",
+   "why": "already in the database — 100% of #1248 Sari Raarevvaru"
+  },
+  {
+   "file": "16765-ee-loka-yatralo.json",
+   "song_name": "Ee loka yaathralo",
+   "why": "a different song of this name is already in the database"
+  },
+  {
+   "file": "18857-yenduko-nanninthaga-neevu.json",
+   "song_name": "Enduko nanninthaga neevu",
+   "why": "already in the database — 12% of #22 Enduko Nanninthagaa Neevu"
+  },
+  {
+   "file": "20767-raajugaa-raaraajugaa.json",
+   "song_name": "Raajugaa Raaraajugaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "20768-bethlehemu-puramulo-oka-vintha-jarigenu.json",
+   "song_name": "Bethlehemu Puramulo Oka Vintha Jarigenu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "20769-bethlehemu-puramunandhuna.json",
+   "song_name": "Bethlehemu Puramunandhuna",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "20770-nakai-dheenuniga-bhuviki-vacchinavaiya.json",
+   "song_name": "Nakai Dheenuniga Bhuviki Vacchinavaiya",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21746-paralokamu-nundi-bhuvikarudhenchenu-loka-rakshak.json",
+   "song_name": "Paralokamu Nundi Bhuvikarudhenchenu Loka Rakshakudu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21747-jeevamai-ethenchina-yesu-daivamaa.json",
+   "song_name": "Jeevamai Ethenchina Yesu Daivamaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21748-jagamantha-divyakaanthitho.json",
+   "song_name": "Jagamantha Divyakaanthitho",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21786-raajulaku-raajaina-yesayya.json",
+   "song_name": "Raajulaku Raajaina Yesayya",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21795-bethlehemulo-oka-chinna-oorilo.json",
+   "song_name": "Bethlehemulo Oka Chinna Oorilo",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21797-yesaiah-puttinaade.json",
+   "song_name": "Yesaiah Puttinaade",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21798-gaganame-murisenu.json",
+   "song_name": "Gaganame Murisenu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21799-ela-ela-vivarinthunu-ela-ela-varninthunu.json",
+   "song_name": "Ela Ela Vivarinthunu Ela Ela Varninthunu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21810-sanghamaa-saagumaa.json",
+   "song_name": "Sanghamaa Saagumaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21811-ninna-nedu-maarani-prema-needhai.json",
+   "song_name": "Ninna Nedu Maarani Prema Needhai",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21812-ninne-ne-aaraadhinthunu.json",
+   "song_name": "Ninne Ne Aaraadhinthunu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21815-naalugu-dhikkula-cheekati-cheelchi.json",
+   "song_name": "Naalugu Dhikkula Cheekati Cheelchi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21819-ninnu-vidachi-kshanamaina-ne-manalenu.json",
+   "song_name": "Ninnu Vidachi Kshanamaina Ne Manalenu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21820-dushtula-aalochanalo-naduvaka.json",
+   "song_name": "Dushtula Aalochanalo Naduvaka",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21825-we-give-glory-to-you.json",
+   "song_name": "We Give Glory To You",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21827-naa-chenthanundumu-o-yesayya.json",
+   "song_name": "Naa Chenthanundumu O Yesayya",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21840-vendi-bangaarukantey-sreshtamainadhi.json",
+   "song_name": "Vendi Bangaarukantey Sreshtamainadhi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21860-kaalamokati-raabothundi-ippude-adi-vacheyundi.json",
+   "song_name": "Kaalamokati Raabothundi Ippude Adi Vacheyundi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21868-sthuthiyincheda-ninne-poojincheda.json",
+   "song_name": "Sthuthiyincheda Ninne Poojincheda",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21875-nee-thyaagame-ne-dhyaaninchuchuu.json",
+   "song_name": "Nee Thyaagame Ne Dhyaaninchuchuu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21876-deva-nannela-vidichinaavayaa.json",
+   "song_name": "Deva Nannela Vidichinaavayaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21884-nee-naavalo-yesu-undagaa-bhayamelaraa-sodharaa.json",
+   "song_name": "Nee Naavalo Yesu Undagaa Bhayamelaraa Sodharaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21905-parishuddame-yesuni-raktham-pravahinchenu-kalvar.json",
+   "song_name": "Parishuddame Yesuni Raktham Pravahinchenu Kalvarilo",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21907-yesuni-neevu-nammuko-rakshana-pondhuko.json",
+   "song_name": "Yesuni Neevu Nammuko Rakshana Pondhuko",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "21908-yesaiah-entho-entho-manchivadu.json",
+   "song_name": "Yesaiah Entho Entho Manchivadu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22081-annivelala-vinuvaadu.json",
+   "song_name": "Annivelala Vinuvaadu",
+   "why": "already in the database — 55% of #1118 Anni Velala Vinuvaadu"
+  },
+  {
+   "file": "22083-suvaartha-andhani-ooru-undaney-koodadu.json",
+   "song_name": "Suvaartha Andhani Ooru Undaney Koodadu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22103-nannelu-nazareyuda-nanu-preminchu-pranapriyudaa.json",
+   "song_name": "Nannelu Nazareyuda Nanu Preminchu Pranapriyudaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22106-o-yesu-nee-naama-sankeerthana.json",
+   "song_name": "O Yesu Nee Naama Sankeerthana",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22107-aaraadhinchedanu-aatmathoa-nirathamu.json",
+   "song_name": "Aaraadhinchedanu Aatmathoa Nirathamu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22119-ah-ah-ah-ahahah.json",
+   "song_name": "Sokam Nindina Lokamlo - Yesey Javaabu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22153-ashirwadam-ashirvadham-yehova-dheevinchi-kaapadu.json",
+   "song_name": "Aashirvaadham Yehova dheevinchi kaapaadunugaaka",
+   "why": "already in the database — 11% of #354 Aasheervaadam"
+  },
+  {
+   "file": "22155-ratnavarnudaa-karunaa-sampannudaa.json",
+   "song_name": "Ratnavarnudaa Karunaa Sampannudaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22156-yesulo-aanandam-yesulo-santhosham.json",
+   "song_name": "Yesulo Aanandam Yesulo Santhosham",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22157-prardhane-balamainadhi-vijayamutho-nadipinchedi.json",
+   "song_name": "Prardhane Balamainadhi Vijayamutho Nadipinchedi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22158-aa-silvalo-ee-paapikai-nee-sareeramu-baliyaayane.json",
+   "song_name": "Aa Silvalo Ee Paapikai Nee Sareeramu Baliyaayane",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22168-naakantu-ee-jagaana-neeve-kada-na-yesayya.json",
+   "song_name": "Naakantu Ee Jagaana Neeve Kada Na Yesayya",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22170-vandanam-vandanam-vandanam-deva-vandanam.json",
+   "song_name": "Vandanam Vandanam Vandanam Deva Vandanam",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22171-yesayya-neeve-naaku-aadhaaramu.json",
+   "song_name": "Yesayya Neeve Naaku Aadhaaramu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22172-noothana-geethamu-ne-paadedha-manoharudaa-yesayy.json",
+   "song_name": "Noothana Geethamu Ne Paadedha Manoharudaa Yesayyaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22176-sthuthi-aaraadhana-parishuddhunake.json",
+   "song_name": "Sthuthi Aaraadhana Parishuddhunake",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22198-okasaari-choodaalani.json",
+   "song_name": "Okasaari Choodaalani",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22200-yesu-nee-premakai-vandhanam.json",
+   "song_name": "Yesu Nee Premakai Vandhanam",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22201-paralokam-naa-dhesam.json",
+   "song_name": "Paralokam Naa Dhesam",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22203-naa-jeevithamulo-velugai-nilichinaa.json",
+   "song_name": "Naa Jeevithamulo Velugai Nilichinaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22204-devude-naa-aasrayam-rakshana-durgamu.json",
+   "song_name": "Devude Naa Aasrayam Rakshana Durgamu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22210-sthuthiyinchedaa-ninnu-keerthinchedaa.json",
+   "song_name": "Sthuthiyinchedaa Ninnu Keerthinchedaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22212-nee-aathmatho-nannu-nadipinchayaa.json",
+   "song_name": "Nee Aathmatho Nannu Nadipinchayaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22216-neetipainaa-nadichenu.json",
+   "song_name": "Neetipainaa Nadichenu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22219-keerthaneeyamainadhi-kreesthu-gaanasudhaa.json",
+   "song_name": "Keerthaneeyamainadhi Kreesthu Gaanasudhaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22220-enthadooramaina-yesutho-nee-payanam.json",
+   "song_name": "Enthadooramaina Yesutho Nee Payanam",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22222-swaramethi-paadedhan-yesayya.json",
+   "song_name": "Swaramethi Paadedhan Yesayya",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22225-paadedha-paadedha-paadedha-yesayya.json",
+   "song_name": "Paadedha Paadedha Paadedha Yesayya",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22230-devudu-ledani-vaadhamu-lendhuku.json",
+   "song_name": "Devudu Ledani Vaadhamu Lendhuku",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22235-manninchina-aa-preme-naa-sonthamaa.json",
+   "song_name": "Manninchina Aa Preme Naa Sonthamaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22236-madhuramaina-prematho-nannu-preminchithivi.json",
+   "song_name": "Madhuramaina Prematho Nannu Preminchithivi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22253-booradhwanikai-yesuni-raakakai.json",
+   "song_name": "Booradhwanikai Yesuni Raakakai",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22254-parishuddhaathmudaa-naa-manchi-snehithudaa.json",
+   "song_name": "Parishuddhaathmudaa Naa Manchi Snehithudaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22255-deva-ninu-aaraadhincheydamu.json",
+   "song_name": "Deva Ninu Aaraadhincheydamu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22265-maargamai-unna-yesu.json",
+   "song_name": "Maargamai Unna Yesu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22272-bolo-kreesthu-maharaaj-ki-jai.json",
+   "song_name": "Bolo Kreesthu Maharaaj Ki Jai",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22337-okka-kshanamaina.json",
+   "song_name": "Okka Kshanamaina",
+   "why": "a different song of this name is already in the database"
+  },
+  {
+   "file": "22352-swachamaina-thalli-premalaa.json",
+   "song_name": "Swachamaina Thalli Premalaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22353-naakunnaadu-oka-snehithudu.json",
+   "song_name": "Naakunnaadu Oka Snehithudu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22358-ben-and-holly-ishtamaa.json",
+   "song_name": "Ben And Holly Ishtamaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22359-lali-jo-naa-chinni-thandri-paraloka-raajaa.json",
+   "song_name": "Lali Jo Naa Chinni Thandri Paraloka Raajaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22360-thalli-mariya-vadilonaa-pavalinchagaa.json",
+   "song_name": "Thalli Mariya Vadilonaa Pavalinchagaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22361-kaluvari-naadhaa-karunanu-choopi.json",
+   "song_name": "Kaluvari Naadhaa Karunanu Choopi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22362-kotha-visthaarathanu-kanalevaa.json",
+   "song_name": "Kotha Visthaarathanu Kanalevaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22367-idi-kamaneeya-kalyaana-raagam.json",
+   "song_name": "Idi Kamaneeya Kalyaana Raagam",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22374-naa-yesu-raajaa-sthothramu.json",
+   "song_name": "Naa Yesu Raajaa Sthothramu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22380-thandrine-vidachi-intine-marachi.json",
+   "song_name": "Thandrine Vidachi Intine Marachi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22385-rajaadhi-raaju-prabhuvulaku-prabhuvu.json",
+   "song_name": "Rajaadhi Raaju Prabhuvulaku Prabhuvu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22387-chorus.json",
+   "song_name": "Palle Pallello Pattanaala Veedhullo",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22388-nakshathramaa-vekuva-nakshathramaa.json",
+   "song_name": "Nakshathramaa Vekuva Nakshathramaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22389-christmas-nijamaina-christmas.json",
+   "song_name": "Christmas Nijamaina Christmas",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22401-evaro-ninnilaa-maarchinadhi.json",
+   "song_name": "Evaro Ninnilaa Maarchinadhi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22408-naa-yeduta-neevu-therachina-thalupulu.json",
+   "song_name": "Naa Yeduta Neevu Therachina Thalupulu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22416-neeve-hrudhaya-saaradhi-pragathiki-vaaradhi.json",
+   "song_name": "Neeve Hrudhaya Saaradhi Pragathiki Vaaradhi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22417-amarudavu-neevu-naa-yesayya-aadhiyu-anthamu-neev.json",
+   "song_name": "Amarudavu Neevu Naa Yesayya",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22419-o-prema-moorthy-o-thyaaga-moorthy.json",
+   "song_name": "O Prema Moorthy O Thyaaga Moorthy",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22439-maranapu-mullunu-virachi-jayinchina.json",
+   "song_name": "Maranapu Mullunu Virachi Jayinchina",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22441-pasuvula-paakalo-deva-kumaarudu.json",
+   "song_name": "Pasuvula Paakalo Deva Kumaarudu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22442-thaara-choopina-maargamadey.json",
+   "song_name": "Thaara Choopina Maargamadey",
+   "why": "already in the database — 47% of #756 Aahaa Hallelujah"
+  },
+  {
+   "file": "22444-sthothrarhudavu-maa-prabhuva-deva.json",
+   "song_name": "Sthothrarhudavu Maa Prabhuva Deva",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22449-oohakandani-upakaaramulu-krupa-vembadi-krupalu.json",
+   "song_name": "Oohakandani Upakaaramulu Krupa Vembadi Krupalu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22460-snehamai-praanamai-varinche-daivamai.json",
+   "song_name": "Snehamai Praanamai Varinche Daivamai",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22466-okapari-thalachina-yesuni-prema-amrutham-kadhaa.json",
+   "song_name": "Okapari Thalachina Yesuni Prema Amrutham Kadhaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22469-prabhuvaa-hithavathsaram-maaku-ichaavayyaa.json",
+   "song_name": "Prabhuvaa Hithavathsaram Maaku Ichaavayyaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22483-nee-krupayu-kanikaramu.json",
+   "song_name": "Nee Krupayu Kanikaramu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22486-gnanulu-aaradhinchirayya-ninu-karunagala-yesuvaa.json",
+   "song_name": "Gnanulu Aaradhinchirayya Ninu Karunagala Yesuvaa",
+   "why": "already in the database — 11% of #151 Aaraadhincheda Ninu Madi Pogadeda"
+  },
+  {
+   "file": "22487-aalanavai-paalanavai.json",
+   "song_name": "Aalanavai Paalanavai",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22492-rando-raarando-yesuni-choodaganu.json",
+   "song_name": "Rando Raarando Yesuni Choodaganu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22493-kreesthu-nedu-puttene-rakshana-dhorikene.json",
+   "song_name": "Kreesthu Nedu Puttene Rakshana Dhorikene",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22495-neethone-nadichedhanayyaa.json",
+   "song_name": "Neethone Nadichedhanayyaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22498-dhinamulu-jaruguchundagaa.json",
+   "song_name": "Dhinamulu Jaruguchundagaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22500-krupa-vembadi-krupa-nichina-devaa.json",
+   "song_name": "Krupa Vembadi Krupa Nichina Devaa",
+   "why": "already in the database — 14% of #265 Yese Daivamu"
+  },
+  {
+   "file": "22505-vande-mataram-vande-mataram-vande-mataram.json",
+   "song_name": "Vande Mataram Vande Mataram Vande Mataram",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22512-nammutha-yesunu-nammuthaanu-yesunu.json",
+   "song_name": "Nammutha Yesunu Nammuthaanu Yesunu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22515-nannu-pilichina-devaa.json",
+   "song_name": "Nannu Pilichina Devaa",
+   "why": "already in the database — 16% of #484 Nannu Pilachina Devaa"
+  },
+  {
+   "file": "22516-na-priyuniki-oka-thota-unnadhi.json",
+   "song_name": "Na Priyuniki Oka Thota Unnadhi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22525-naadhu-rakshakaa-vimochakaa-prabhuvaa.json",
+   "song_name": "Naadhu Rakshakaa Vimochakaa Prabhuvaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22526-thalli-thandrulla-kannaa-minna-ayina-prema-naa-y.json",
+   "song_name": "Thalli Thandrulla Kannaa Minna Ayina Prema Naa Yesuni Prema",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22527-vivaaham-ghanamainadhi.json",
+   "song_name": "Vivaaham Ghanamainadhi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22529-paapame-aahaaramugaa.json",
+   "song_name": "Paapame Aahaaramugaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22547-naatho-unnadu-nannu-viduvadu.json",
+   "song_name": "Naatho Unnadu Nannu Viduvadu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22559-ninne-ne-nammithi.json",
+   "song_name": "Ninne Ne Nammithi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22570-vadhimpabadina-devuni-gorrepilla.json",
+   "song_name": "Vadhimpabadina Devuni Gorrepilla",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22572-manchi-hrudayam-naaku-dhayacheyi.json",
+   "song_name": "Manchi Hrudayam Naaku Dhayacheyi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22582-kanche-vesaavu-maa-intiki.json",
+   "song_name": "Kanche Vesaavu Maa Intiki",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22597-naa-thodu-neeve-devaa.json",
+   "song_name": "Naa thodu neeve Deva",
+   "why": "already in the database — 12% of #1635 Naa Thodu Neeve Devaa"
+  },
+  {
+   "file": "22607-kalla-yerugani-thella-paavuramaa-paipaikegiraava.json",
+   "song_name": "Kalla Yerugani Thella Paavuramaa Paipaikegiraavaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22638-na-aashrayam-na-aadharam-na-aanandham-neevenaya.json",
+   "song_name": "Na Aashrayam Na Aadharam Na Aanandham Neevenaya",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22657-naa-premikudaa-naa-praana-naadhudaa.json",
+   "song_name": "Naa Premikudaa Naa Praana Naadhudaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22658-dhevuni-sevakulaara-prabhu-yesuni-yaajakulaaraa.json",
+   "song_name": "Dhevuni Sevakulaara Prabhu Yesuni Yaajakulaaraa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22670-samastha-desamulaaraa-yehovaaku-utsaahadhwani-ch.json",
+   "song_name": "Samastha Desamulaaraa Yehovaaku Utsaahadhwani Cheyudi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22676-yehovah-yireh-samasthamu-neeve.json",
+   "song_name": "Yehovah Yireh Samasthamu Neeve",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22679-juntte-thenelakantte.json",
+   "song_name": "Juntte Thenelakantte",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22680-ghaadaandha-kaaramulo-neeve-naa-gudaaramu-neeve-.json",
+   "song_name": "Ghaadaandha Kaaramulo Neeve Naa Gudaaramu Neeve Aasrayamu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22682-nee-challani-chooputho-karuninchinandhuna.json",
+   "song_name": "Nee Challani Chooputho Karuninchinandhuna",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22710-song.json",
+   "song_name": "Ninnaaraadhinchedhanu Naa Poorna Hrudhayamutho",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22721-emi-leni-nannu-korukunnaa.json",
+   "song_name": "Emi Leni Nannu Korukunnaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22723-dhivine-vidachi-bhuvike-vachina-naa-yesayya.json",
+   "song_name": "Dhivine Vidachi Bhuvike Vachina Naa Yesayya",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22726-mruthyunjayudaa-naa-vimochakaa.json",
+   "song_name": "Mruthyunjayudaa Naa Vimochakaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22727-pasibaalude-raajugaa-janminchenu.json",
+   "song_name": "Pasibaalude Raajugaa Janminchenu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22728-niseedhi-reyilo.json",
+   "song_name": "Niseedhi Reyilo",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22729-naalo-unnavaadu-naakai-nilachuvaadu.json",
+   "song_name": "Naalo Unnavaadu Naakai Nilachuvaadu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22730-ningi-nela-murisipoye.json",
+   "song_name": "Ningi Nela Murisipoye",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22744-hrudhayam-loniki-thongi-choosi.json",
+   "song_name": "Hrudhayam Loniki Thongi Choosi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22762-gurine-nilupu-gamyam-koraku.json",
+   "song_name": "Gurine Nilupu Gamyam Koraku",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "22763-evaru-leru-ilalo-prabhuva.json",
+   "song_name": "Evaru Leru Ilalo Prabhuva",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24823-ne-nilachu-bhoomi-kampinchi-kooli-poyina-nammedh.json",
+   "song_name": "Ne Nilachu Bhoomi Kampinchi Kooli Poyina Nammedhanu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24831-mahadhaanandhamaina-needhu-sannidhi.json",
+   "song_name": "Mahadhaanandhamaina Needhu Sannidhi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24832-preme-saaswathamaina-parishuddhamaina-podharillu.json",
+   "song_name": "Preme Saaswathamaina Parishuddhamaina Podharillu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24834-krupaa-krupaa-sajeevulatho.json",
+   "song_name": "Krupaa Krupaa Sajeevulatho",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24835-athi-sundharudavu-yesayya-manoharudavu-neevayya.json",
+   "song_name": "Athi Sundharudavu Yesayya Manoharudavu Neevayya",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24843-praardhanalu-aalakinchu-deva.json",
+   "song_name": "Praardhanalu Aalakinchu Deva",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24849-ninu-chere-prathi-kshanam-prabhaathame-naalo.json",
+   "song_name": "Ninu Chere Prathi Kshanam Prabhaathame Naalo",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24901-neeve-yesu-desamula-yokka-korika-yokka-korika.json",
+   "song_name": "Neeve Yesu Desamula Yokka Korika Yokka Korika",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24916-ravikoti-thejudu-naa-devude-naaku-praana-snehith.json",
+   "song_name": "Ravikoti thejudu naa Dhevude naaku praana snehithudu",
+   "why": "already in the database — 100% of #474 Ravikoti Thejudu"
+  },
+  {
+   "file": "24925-kanna-kalale-dhooramai-nenippudu.json",
+   "song_name": "Kanna Kalale Dhooramai Nenippudu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24930-sathakoti-vandhanaalu-na-yesayya.json",
+   "song_name": "Sathakoti Vandhanaalu Na Yesayya",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24931-yesayya-janminche-nee-korake.json",
+   "song_name": "Yesayya Janminche Nee Korake",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24933-nannedhiyu-kadhapaledhayya.json",
+   "song_name": "Nannedhiyu Kadhapaledhayya",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24934-eththana-paer-ennai-thuraththinaalum.json",
+   "song_name": "Neeku Neevugaa Nannu Choodagaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24936-ningi-nela-yekamayenu-raaraajuni-chooda.json",
+   "song_name": "Ningi Nela Yekamayenu Raaraajuni Chooda",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24937-chettunaku-manchu-unnatlugaa.json",
+   "song_name": "Chettunaku Manchu Unnatlugaa",
+   "why": "already in the database — 13% of #363 Parama Thandri Neeke Sthothram"
+  },
+  {
+   "file": "24939-ravi-koti-thejudu-mahimalo-nivasinchu-sarvonnath.json",
+   "song_name": "Ravi Koti Thejudu Mahimalo Nivasinchu Sarvonnathudu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24941-mahimonnathudu-sarvasakthimanthudu.json",
+   "song_name": "Mahimonnathudu Sarvasakthimanthudu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24942-naa-yesu-naadha-neeve.json",
+   "song_name": "Naa Yesu Naadha Neeve",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24943-aadhilo-emi-lenappudu.json",
+   "song_name": "Aadhilo Emi Lenappudu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24945-happy-happy-christmas-antu-aarbhatinchedham.json",
+   "song_name": "Happy Happy Christmas Antu Aarbhatinchedham",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24952-yesuraju-puttinadule-halleluya-paadeddhama.json",
+   "song_name": "Yesuraju Puttinadule Halleluya Paadeddhama",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24960-telugu-christmas-mashup-nara-janmamethi.json",
+   "song_name": "Telugu Christmas Mashup Nara Janmamethi",
+   "why": "already in the database — 23% of #527 Christmas Medley 2"
+  },
+  {
+   "file": "24965-neevenayya-neevenayya-na-sarwamu-neevenayya.json",
+   "song_name": "Neevenayyaa neevenayyaa naa sarvamu neevenayyaa",
+   "why": "already in the database — 11% of #1276 Nee Prema Entho Madhuram"
+  },
+  {
+   "file": "24970-srushtikartha-devudu-manakai-ila-srushtigaa-maar.json",
+   "song_name": "Srushtikartha Devudu Manakai Ila Srushtigaa Maarenu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24974-na-sarwamu-nevenaya.json",
+   "song_name": "Naa sarvamu neevenayya",
+   "why": "already in the database — 11% of #1276 Nee Prema Entho Madhuram"
+  },
+  {
+   "file": "24981-sarvonnathamaina-sthalamulalo-devuniki-mahimayu.json",
+   "song_name": "Sarvonnathamaina Sthalamulalo Devuniki Mahimayu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24984-janminchinaadu-sri-yesuraaju-bethlehemandhuna.json",
+   "song_name": "Janminchinaadu Sri Yesuraaju Bethlehemandhuna",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24986-chukkallo-chakkani-chukka-puttindi-hey-hey-hey.json",
+   "song_name": "Chukkallo Chakkani Chukka Puttindi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24991-ooru-vaada-sambaramenanta.json",
+   "song_name": "Ooru Vaada Sambaramenanta",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "24993-sandhadi-5.json",
+   "song_name": "Sandhadi 5",
+   "why": "a different song of this name is already in the database"
+  },
+  {
+   "file": "25002-puttinadammaa-yesayya-puttinadammaa.json",
+   "song_name": "Puttinadammaa Yesayya Puttinadammaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "25005-alankarinchunu-naa-manassaa-aayana-marachunaa.json",
+   "song_name": "Alankarinchunu - Naa Manassaa Aayana Marachunaa",
+   "why": "already in the database — 100% of #161 Alankarinchunu"
+  },
+  {
+   "file": "26848-devaa-neevu-chesina-melulenno.json",
+   "song_name": "Devaa Neevu Chesina Melulenno",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "26849-daya-choopumayaa-ee-dhaatripaina.json",
+   "song_name": "Daya Choopumayaa Ee Dhaatripaina",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "26851-devaa-maa-praarthana-vinavaa.json",
+   "song_name": "Devaa Maa Praarthana Vinavaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "26909-anni-saadhyame-yesulo-nannu-balaparachu-yesu-nan.json",
+   "song_name": "Anni saadhyame Yesulo - Nannu balaparachu Yesunande nenu",
+   "why": "already in the database — 100% of #79 Anni Saadhyame Yesulo"
+  },
+  {
+   "file": "26926-nen-emathramu-inthavaraku-neevu-nannu-nadipinchu.json",
+   "song_name": "Nenemaathramu - Inthavaraku neevu nannu nadipinchutaku",
+   "why": "already in the database — 100% of #705 Inthavaraku Neevu"
+  },
+  {
+   "file": "26932-nija-snehithuda-naa-chelimi-kori-nee-kalimi-veed.json",
+   "song_name": "Nija snehithudaa - Naa chelimi kori nee kalimi veedi",
+   "why": "already in the database — 100% of #1507 Nija Snehithudaa"
+  },
+  {
+   "file": "26948-naa-pourasthithi-paramandhunnadhi.json",
+   "song_name": "Naa Pourasthithi Paramandhunnadhi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "26949-kantiki-reppalaa-nanu-kaachinaavayyaa.json",
+   "song_name": "Kantiki Reppalaa Nanu Kaachinaavayyaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "26950-ye-bhayamu-naku-lene-ledhu-ga-neevu-thodundaga.json",
+   "song_name": "Ye Bhayamu Naku Lene Ledhuga Neevu Thodundaga",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27529-saripodhu-aradhana.json",
+   "song_name": "Saripodhu Aaraadhana",
+   "why": "already in the database — 54% of #518 Saripodu Aaraadhana"
+  },
+  {
+   "file": "27535-ebenejaru-ebenesare-ebinejare-ebinesare-nenu-naa.json",
+   "song_name": "Nenu Naa Illu Naa Intivaarandharu",
+   "why": "already in the database — 16% of #1196 Ebinejare"
+  },
+  {
+   "file": "27553-ninu-poli-nenu.json",
+   "song_name": "Ninu Poli Nenu",
+   "why": "already in the database — 100% of #961 Ninu Poli Nenu"
+  },
+  {
+   "file": "27570-nii-chitthamu-sampuurthigaa-naalo.json",
+   "song_name": "Nii Chitthamu Sampuurthigaa Naaloo",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27573-veladi-duuthalathoo-nithyamu-ninu-stuthinthunu.json",
+   "song_name": "Veladi Duuthalathoo Nithyamu Ninu Stuthinthunu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27575-chakkani-baaludamma-chuudachakkangaa-unnaadammaa.json",
+   "song_name": "Chakkani Baaludamma",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27588-bethelehemulo-panduga-panduga.json",
+   "song_name": "Bethelehemulo Panduga Panduga",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27590-samrakshakaa-vimochakaa.json",
+   "song_name": "Samrakshakaa Vimochakaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27594-asalaina-christmas-mana-jeevithamey.json",
+   "song_name": "Asalaina Christmas Mana Jeevithamey",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27597-ninu-vidichi-na-hrudhayam-parithapinche-nee-kosa.json",
+   "song_name": "Ninu Vidichi Naa Hrudhayam Parithapinche",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27602-aa-madhya-raathrilo-bethlehemu-puramulo.json",
+   "song_name": "Aa Madhya Raathrilo Bethlehemu Puramulo",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27603-mary-thelusa-ni-kumaarudu.json",
+   "song_name": "Mary Thelusa Ni Kumaarudu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27606-nuuthanaparachumu-mamu-nadipinchumu.json",
+   "song_name": "Nuuthanaparachumu Mamu Nadipinchumu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27607-janminchea-yeasayya-naa-loonaa.json",
+   "song_name": "Janminche Yesayya naa lonaa",
+   "why": "already in the database — 11% of #609 Aaraadhana Aaraadhana"
+  },
+  {
+   "file": "27613-sambaramaascharyaalatho-bhoomi-oopiri-bigabatten.json",
+   "song_name": "Sambaramaascharyaalatho Bhoomi Oopiri Bigabatteney",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27615-naa-thodugaa-neevu-nee-needalo-nenu.json",
+   "song_name": "Naa Thodugaa Neevu Nee Needalo Nenu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27646-aagadhu-naa-payanam-siyonu-cherakundaa.json",
+   "song_name": "Aagadhu Naa Payanam Siyonu Cherakundaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27648-mahoopakaaryamulu-ennoo-cheysina-mahoonnthudaa-n.json",
+   "song_name": "Mahoopakaaryamulu Ennoo Cheysina Mahoonnthudaa Naa Yesayya",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27650-phaliyinchuta-nerpayya-naa-yesayyaa.json",
+   "song_name": "Phaliyinchuta Nerpayya Naa Yesayyaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27653-yehovaa-naa-devaa-nee-dhayalo-kaayumaa.json",
+   "song_name": "Yehovaa Naa Devaa Nee Dhayalo Kaayumaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27654-maruvalenayaa-nee-madhurapremanu-mahoopakaari.json",
+   "song_name": "Maruvalenayaa Nee Madhurapremanu Mahoopakaari",
+   "why": "already in the database — 11% of #265 Yese Daivamu"
+  },
+  {
+   "file": "27655-pathi-udhayamu-nee-krupapondhi.json",
+   "song_name": "Pathi Udhayamu Nee Krupapondhi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27660-kunukavu-nidurapovu.json",
+   "song_name": "Kunukavu Nidurapovu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27663-ne-namme-nammakamu-eppatiki-neeve.json",
+   "song_name": "Ne Namme Nammakamu Eppatiki Neeve",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27664-kaapaadunu-nannu-kaapaadunu.json",
+   "song_name": "Kaapaadunu Nannu Kaapaadunu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27665-andam-soundaryam-sirisampadhalu.json",
+   "song_name": "Andam Soundaryam Sirisampadhalu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27667-prathi-dhinamu-noothana-vaathsalyam-choope-yesay.json",
+   "song_name": "Prathi Dhinamu Noothana Vaathsalyam Choope Yesayya",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27672-veyyendloka-yugamaina-gadichindhi-kshannamegaa.json",
+   "song_name": "Veyyendloka Yugamaina Gadichindhi Kshannamegaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27679-vinare-narularaa-vinthaina-dhevuni-prema.json",
+   "song_name": "Vinare Narularaa Vinthaina Dhevuni Prema",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27680-nanu-kalugajesina-vidhamu-thalaposina.json",
+   "song_name": "Nanu Kalugajesina Vidhamu Thalaposina",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27691-sarvonathuda-vijayaveeruda.json",
+   "song_name": "Sarvonnathuda Vijayaveeruda",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27692-parishuddhudu-athiparishuddhudu-nannu-nadupuchun.json",
+   "song_name": "Parishuddhudu Athiparishuddhudu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27693-chudaali-ninne-nenu-yesayyaa.json",
+   "song_name": "Chudaali Ninne Nenu Yesayyaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27694-chaalayyaa-chaalayyaa-nee-krupa-chaalayyaa.json",
+   "song_name": "Chaalayyaa Chaalayyaa Nee Krupa Chaalayyaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27698-kalyaana-raagam-saagindhi-mangalavaadhyam-mrogin.json",
+   "song_name": "Kalyaana Raagam Saagindhi Mangalavaadhyam Mrogindhi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27704-taragani-nee-prema-virivigi-naloo-sirulukuripich.json",
+   "song_name": "Taragani Nee Prema Virivigi Naloo Sirulukuripichene",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27707-neelaa-nenuntaanayyaa-naalo-nee-vuntenayyaa.json",
+   "song_name": "Neelaa Nenuntaanayyaa Naalo Nee Vuntenayyaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27709-dheva-dheva-dheva-dhivinunna-dhevaa.json",
+   "song_name": "Dheva Dheva Dheva Dhivinunna Dhevaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27710-ninnu-nenu-viduvannayya-dhevaanannu-dheevinchuva.json",
+   "song_name": "Ninnu Nenu Viduvanayya Dhevaa Nannu Dheevinchuvarakoo",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27715-preminchi-nannu-naa-priya-yesu.json",
+   "song_name": "Preminchi Nannu Naa Priya Yesu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27716-siluva-veeruda-suvartha-yodhuda.json",
+   "song_name": "Siluva Veeruda Suvartha Yodhuda",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27717-chethakaakapoyinaa-phalithamemi-thekunnaa.json",
+   "song_name": "Chethakaakapoyinaa Phalithamemi Thekunnaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27720-oh-krottha-paatapaadi-naa-yesayya-edhuta.json",
+   "song_name": "Oh Krottha Paatapaadi Naa Yesayya Edhuta",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27725-amruthamu-nee-prema-abhisakthudaa.json",
+   "song_name": "Amruthamu Nee Prema Abhisakthudaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27728-siluvalo-vrelaade-nee-korake.json",
+   "song_name": "Siluvalo Vrelaade Nee Korake",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27729-sthuthi-sthrotham-yesayya.json",
+   "song_name": "Sthuthi Sthrotham Yesayya",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27730-manchi-snehithudu-manchi-snehithudu.json",
+   "song_name": "Manchi Snehithudu Manchi Snehithudu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27731-parimala-thailam-neeve.json",
+   "song_name": "Parimala Thailam Neeve",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27732-neeve-sraavya-sadhanamu.json",
+   "song_name": "Neeve Sraavya Sadhanamu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27733-neeke-naa-sthuthi-maalika.json",
+   "song_name": "Neeke Naa Sthuthi Maalika",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27734-karunaasaagara-yesayya.json",
+   "song_name": "Karunaasaagara Yesayya",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27735-ontari-vela-naaku-thodai-nilichaavu.json",
+   "song_name": "Ontari Vela Naaku Thodai Nilichaavu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27738-naa-praaname-neevaina-vela-nee-thalapule-madhilo.json",
+   "song_name": "Naa Praaname Neevaina Vela Nee Thalapule Madhilo Medhilene",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27743-neelone-labhimchindi-jeevam.json",
+   "song_name": "Neelone Labhimchindi Jeevam",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27744-nee-krupa-naaku-aadhaaramai.json",
+   "song_name": "Nee Krupa Naaku Aadhaaramai",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27745-ennallu-ennallu-ee-parugulu.json",
+   "song_name": "Ennallu Ennallu Ee Parugulu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27752-kaluvari-premanu-kanugonavela.json",
+   "song_name": "Kaluvari Premanu Kanugonavela",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27757-bhayamelaa-oh-sodharaa-dhigulela-oh-sodhari.json",
+   "song_name": "Bhayamelaa Oh Sodharaa Dhigulela Oh Sodhari",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27767-nee-swarame-vinnaa-nee-mamathe-kannaa.json",
+   "song_name": "Nee Swarame Vinnaa Nee Mamathe Kannaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27769-saranamu-neeve-yesayya-naa-aadhaaramainaavayyaa.json",
+   "song_name": "Saranamu Neeve Yesayya Naa Aadhaaramainaavayyaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27775-neevanti-vaaru-naaku-evaru-lerayya.json",
+   "song_name": "Neevanti Vaaru Naaku Evaru Lerayya",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27779-aadhainchumayyaa-aadhukonevaadaa.json",
+   "song_name": "Aadharinchumayyaa Aadhukonevaadaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27781-madhuramu-yesuni-naamamu.json",
+   "song_name": "Madhuramu Yesuni Naamamu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27782-ninne-namminaa-nee-sannidhi-cherinaa.json",
+   "song_name": "Ninne Namminaa Nee Sannidhi Cherinaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27783-nee-vasamoudhunu-swaadheenamoudhunu.json",
+   "song_name": "Nee Vasamoudhunu Swaadheenamoudhunu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27784-neelanti-dhaivam-evaru-viswamuna-lene-leru.json",
+   "song_name": "Neelanti Dhaivam Evaru Viswamuna Lene Leru",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27790-oohinchani-kaaryamulu-choochedhanu.json",
+   "song_name": "Oohinchani Kaaryamulu Choochedhanu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27791-aaraadhanaku-yogyudaa-neeve-maa-sthuthula-sthoth.json",
+   "song_name": "Aaraadhanaku Yogyudaa Neeve Maa Sthuthula Sthothraarhudaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27794-nee-dhayalo-ne-jeevinthunu.json",
+   "song_name": "Nee Dhayalo Ne Jeevinthunu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27797-neeve-aasa-neeve-swaasa-neevegaa-athisreshtudaa.json",
+   "song_name": "Neeve Aasa Neeve Swaasa Neevegaa Athisreshtudaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27798-nee-sannidhi-naatho-ventarani.json",
+   "song_name": "Nee Sannidhi Naatho Ventaraani",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27799-dhuramayyaanani-dhaari-thappanani-padipoyaananee.json",
+   "song_name": "Dhuramayyaanani Dhaari Thappanani Padipoyaananee",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "27803-mana-madhyana-dooram-entho-etthainadi.json",
+   "song_name": "Mana madhyana dhooram entho etthainadhi",
+   "why": "already in the database — 100% of #1034 Living Hope (Telugu)"
+  },
+  {
+   "file": "27804-paapiga-nanu-choodaleka-paapamugaa.json",
+   "song_name": "Paapiga nanu choodaleka paapamugaa maarinaavaa",
+   "why": "already in the database — 100% of #509 Paapiga Nanu Choodaleka"
+  },
+  {
+   "file": "27805-yoodhaa-raaja-simham-thirigi-lechenu.json",
+   "song_name": "Yoodhaa raaja simham thirigi lechenu",
+   "why": "already in the database — 100% of #1277 Easter Medley"
+  },
+  {
+   "file": "27961-siluvalo-naa-kosamu-baliyaina-naa-yesayya.json",
+   "song_name": "Siluvalo naa kosamu baliyaina naa Yesayya",
+   "why": "already in the database — 11% of #1276 Nee Prema Entho Madhuram"
+  },
+  {
+   "file": "27962-sarva-sakthimanthudu-advithiyadhevudu.json",
+   "song_name": "Sarvashakthimanthudu adhvitheeyadhevudu",
+   "why": "already in the database — 13% of #363 Parama Thandri Neeke Sthothram"
+  },
+  {
+   "file": "27984-vaakyamey-shareeradhari-ayye.json",
+   "song_name": "Vaakyame shareeradhaari ayye",
+   "why": "already in the database — 16% of #1087 Chukka Puttindi"
+  },
+  {
+   "file": "27992-yeasu-vaipu-choochuchu.json",
+   "song_name": "Yeasu Vaipu Choochuchu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "28002-muttedan-ninu-muttedan.json",
+   "song_name": "Muttedan Ninu Muttedan",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "28019-neevuleni-kshanamaina.json",
+   "song_name": "Neevuleni kshanamainaa",
+   "why": "a different song of this name is already in the database"
+  },
+  {
+   "file": "28023-ninupolina-vaarevaru.json",
+   "song_name": "Ninupolina vaarevaru",
+   "why": "already in the database — 28% of #223 Ninu Polina Vaarevaru"
+  },
+  {
+   "file": "28027-ninupolina-varevaru.json",
+   "song_name": "Ninnu polina vaarevaru",
+   "why": "a different song of this name is already in the database"
+  },
+  {
+   "file": "28738-etthaina-konda-paina-ekaanthamuga-cheri.json",
+   "song_name": "Eththaina kondapaina ekaanthamuga cheri",
+   "why": "already in the database — 100% of #272 Etthaina Konda Paina"
+  },
+  {
+   "file": "29536-jeevaadhipathivi-neeve-naa.json",
+   "song_name": "Jeevaadhipathivi neeve naa",
+   "why": "already in the database — 100% of #658 Jeevaadhipathivi Neeve"
+  },
+  {
+   "file": "29537-jeevithamante-maata.json",
+   "song_name": "Jeevithamante maatalu kaadu",
+   "why": "already in the database — 100% of #593 Jeevithamante Maatalu Kaadu"
+  },
+  {
+   "file": "29549-jai-jai-yesu-raajaa.json",
+   "song_name": "Jai Jai Yesu Raajaa",
+   "why": "already in the database — 100% of #1297 Jai Jai Yesu"
+  },
+  {
+   "file": "29550-jai-jai-jai-yesayyaa.json",
+   "song_name": "Jai Jai Jai Yesayyaa",
+   "why": "already in the database — 100% of #1383 Jai Jai Jai Yesayyaa"
+  },
+  {
+   "file": "29554-ishraayelu-devaa-naa.json",
+   "song_name": "Ishraayelu Dhevaa Naa Sthuthula Meedha Aaseenudaa",
+   "why": "already in the database — 100% of #1179 Ishraayelu Devaa"
+  },
+  {
+   "file": "29555-immaanuye.json",
+   "song_name": "Immaanuyelu dhevudaa",
+   "why": "already in the database — 100% of #913 Immaanuyelu Devudaa"
+  },
+  {
+   "file": "29556-innaallu-thodugaa-maatho.json",
+   "song_name": "Innaallu thodugaa maatho nadichaavu",
+   "why": "already in the database — 100% of #1236 Innaallu Thodugaa"
+  },
+  {
+   "file": "29559-idigo-nenuoka-noothana.json",
+   "song_name": "Idigo Nenoka Noothana Kriyanu",
+   "why": "already in the database — 100% of #595 Idhigo Nenoka Noothana Kriyanu"
+  },
+  {
+   "file": "29561-idi-shubhodayam.json",
+   "song_name": "Idi Shubhodayam",
+   "why": "already in the database — 100% of #956 Idhi Shubhodayam"
+  },
+  {
+   "file": "29564-inthavaraku-neevu.json",
+   "song_name": "Inthavaraku neevu",
+   "why": "already in the database — 100% of #705 Inthavaraku Neevu"
+  },
+  {
+   "file": "29566-inti-meeda-nunna-ontari.json",
+   "song_name": "Inti meedha nunna ontari pichchukanu",
+   "why": "already in the database — 100% of #1430 Inti Meeda Nunna"
+  },
+  {
+   "file": "29576-neetho-unte-jeevitham.json",
+   "song_name": "Neetho unte jeevitham",
+   "why": "already in the database — 19% of #1616 Neetho Unte Jeevitham"
+  },
+  {
+   "file": "29583-neevu-thodaiyundagaa-yesu-bhayamu-ledu-ilalo.json",
+   "song_name": "Neevu Thodaiyundagaa Yesu",
+   "why": "already in the database — 100% of #1651 Neevu Thodaiyundagaa"
+  },
+  {
+   "file": "29595-visheshamaina-krupa-naa-yedala-choopuchunnavaa-p.json",
+   "song_name": "Visheshamaina krupa naa edala choopuchunnaavaa Prabhuvaa",
+   "why": "already in the database — 100% of #1619 Visheshamaina Krupa"
+  },
+  {
+   "file": "29596-balavanthudaa-dhanavanthudaa.json",
+   "song_name": "Balavanthudaa dhanavanthudaa",
+   "why": "already in the database — 11% of #1496 Oka Kshanamaina"
+  },
+  {
+   "file": "29601-oo-oo-oo-oo-oo.json",
+   "song_name": "Oo oo oo oo oo",
+   "why": "already in the database — 54% of #1604 Devudu Choosthunnaadu"
+  },
+  {
+   "file": "29709-sthiraparachuvaadavu-balaparachuvaadavu.json",
+   "song_name": "Sthiraparachuvaadavu Balaparachuvaadavu",
+   "why": "already in the database — 100% of #1636 Emainaa Cheyagalavu"
+  },
+  {
+   "file": "29769-neetho-naduthumu-ninne-koluthumu.json",
+   "song_name": "Neetho naduthumu ninne koluthumu",
+   "why": "already in the database — 100% of #1633 Neetho Naduthumu"
+  },
+  {
+   "file": "29773-e-reethi-sthuthinthunu.json",
+   "song_name": "E reethi sthuthiyinthunu",
+   "why": "already in the database — 100% of #565 Ae Reethi Sthuthiyinthunu"
+  },
+  {
+   "file": "29809-abraham-gari-viswasam.json",
+   "song_name": "O Abrahaamaa Vishwaasa Girishikharamaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "29816-jeevahaaramu-kreesthe-kreesthe-jeevadhipathi.json",
+   "song_name": "Jeevahaaramu Kreesthe Jeevadhipathi Shree Yese",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "29823-neevu-leka-kshanamaina.json",
+   "song_name": "Neevu leka kshanamainaa",
+   "why": "already in the database — 11% of #1276 Nee Prema Entho Madhuram"
+  },
+  {
+   "file": "29832-dharanilo-velasindu-la.json",
+   "song_name": "Dharanilo Velasinaadu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "29875-0.json",
+   "song_name": "లోకమునకు వెలుగుగా 0",
+   "why": "no Telugu"
+  },
+  {
+   "file": "29893-song.json",
+   "song_name": "Chakkanivaadammaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "29908-nuthana-samvatsaramulo-naidoinchu-prabhuva.json",
+   "song_name": "Nuthana Samvatsaramulo Naidoinchu Prabhuva",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "29918-song.json",
+   "song_name": "Chepa Kadupulo Yonaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "29925-viswadhipathi-vani-pogadi.json",
+   "song_name": "Viswadhipathi Vani Pogadi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "29926-gathinchina-kaalamantha.json",
+   "song_name": "Gathinchina Kaalamantha",
+   "why": "already in the database — 13% of #363 Parama Thandri Neeke Sthothram"
+  },
+  {
+   "file": "29929-yesu-raju-janminchinadu-nee-kosam.json",
+   "song_name": "Yesu Raju Janminchinadu Nee Kosam",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "29932-bhayamesthunchi-yessaya.json",
+   "song_name": "Bhayamestondi Yesayya",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "29933-lokanike-shubavartha.json",
+   "song_name": "Lokanike Shubavartha",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "29934-neelanti-prema-evvaru-chupaleru.json",
+   "song_name": "Neelanti Prema Evvaru Chupaleru",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "29935-aaradhananku-arhuda.json",
+   "song_name": "Aaradhanaku Arhuda",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "29939-dhevude-yesu-dhevude-nazareyudaina-yesu.json",
+   "song_name": "Dhevude Yesu Dhevude Nazareyudaina Yesu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "29940-yesu-kristhu-prabhuvu-andhariki-prabhuvu.json",
+   "song_name": "Yesu Kristhu Prabhuvu Andhariki Prabhuvu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "29966-inthakaalam-mammunu.json",
+   "song_name": "Inthakaalam Mammunu",
+   "why": "already in the database — 19% of #265 Yese Daivamu"
+  },
+  {
+   "file": "29971-naa-vijaya-saaradhi-neeve.json",
+   "song_name": "Naa Vijaya Saaradhi Neeve",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "29979-vachindhi-kotha-samvacharam.json",
+   "song_name": "Vachindhi Kotha Samvatsaram",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "29988-aadharanakartha.json",
+   "song_name": "AADHARANAKARTHA",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30008-na-gaanam-neevaiah.json",
+   "song_name": "Na Gaanam Neevaiah",
+   "why": "no Telugu"
+  },
+  {
+   "file": "30009-nee-krupa-lenidhe-ne-brathukagalana.json",
+   "song_name": "Nee Krupa Lenidhe Ne Brathukagalana",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30024-song.json",
+   "song_name": "నా పక్షమందు",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30067-i-naresh-rapaka.json",
+   "song_name": "Nee Maate Naaku Praanam",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30084-song.json",
+   "song_name": "పిలచిన వాడవు",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30125-song.json",
+   "song_name": "Virigina Nannu Viluvagaa Maarchina Yesayyaa",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30133-song.json",
+   "song_name": "Daaveedu valene naatyamaadi",
+   "why": "already in the database — 20% of #835 Daaveedu Vale Naatyamaadi"
+  },
+  {
+   "file": "30155-song.json",
+   "song_name": "Siluva Varaku Vachchina Prema",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30166-song.json",
+   "song_name": "పరిశుద్ధాత్మునిచే రేపబడుదాం రారాజు సైన్యమా మేల్కొనుము",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30168-song.json",
+   "song_name": "ఎన్ని తలచినా ఏదిఅడిగినా కన్నీరు తెప్పించే ఆరాధన గీతం",
+   "why": "already in the database — 27% of #1115 Enni Thalachinaa"
+  },
+  {
+   "file": "30169-song.json",
+   "song_name": "Neeve Naa Dikku",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30170-song.json",
+   "song_name": "Nee Siluve Naa Aasha",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30185-song.json",
+   "song_name": "Emundi Naalo Ye Parishuddhatha Lede",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30186-song.json",
+   "song_name": "Devuni Kanthaswaramu Sanghamaa Gurthupattaali",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30196-song.json",
+   "song_name": "యోగ్యుడనా నేను అర్హుడనా☦",
+   "why": "already in the database — 11% of #1276 Nee Prema Entho Madhuram"
+  },
+  {
+   "file": "30201-song.json",
+   "song_name": "కలువరి గిరిలోన",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30230-song.json",
+   "song_name": "మానవ జాతికి మనసుననీతి",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30231-song.json",
+   "song_name": "పస్కాబలియాగం",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30232-song.json",
+   "song_name": "మా నిధులు నీ మహిమలో",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30233-song.json",
+   "song_name": "Yesayya o naa Yesayya",
+   "why": "already in the database — 16% of #1027 Thallilaa Laalinchunu"
+  },
+  {
+   "file": "30236-song.json",
+   "song_name": "Kanikara Kaapari Kreesthu Kanikaramu Koraku Kanipettuchu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30242-song.json",
+   "song_name": "Antharanga Purushudu Saadhugunam",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30243-song.json",
+   "song_name": "Pampumu Devaa Panivaaralanu – Pantanu Koyutaku",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30244-song.json",
+   "song_name": "Yesayya Nee Prema Goppadi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30257-song.json",
+   "song_name": "Gadachina Kaalam Krupalo Mammu",
+   "why": "already in the database — 16% of #160 Gadachina Kaalamu"
+  },
+  {
+   "file": "30258-song.json",
+   "song_name": "ఏ క్షణమున ఏమౌనో",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30263-song.json",
+   "song_name": "Elohim Elshaddaayi Adonai",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30270-song.json",
+   "song_name": "ఆనంద గీతాలు నే పాడుతు",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30271-song.json",
+   "song_name": "Aa Pasipillalu Chesina Thappenti",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30275-song.json",
+   "song_name": "నీవే కావాలేసయ్యా",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30277-song.json",
+   "song_name": "యేసయ్య నన్ను కనికరించావా",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30278-song.json",
+   "song_name": "దావీదు కుమారుడా",
+   "why": "already in the database — 36% of #200 Neevu Thappa Naakee Lokamlo"
+  },
+  {
+   "file": "30283-song.json",
+   "song_name": "Jeevajalapu Ootavu Neeve",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30284-song.json",
+   "song_name": "దేవుని వారసులము క్రీస్తులో నిత్యజీవ రాజ్య వారసులము",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30291-song.json",
+   "song_name": "లోకాన్ని మోసింది యేసయ్య సిలువ",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30298-song.json",
+   "song_name": "Naa Bhaaraanni Nee Paadaala Daggara Unchaanu Yesayya",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30305-song.json",
+   "song_name": "క్షమించుమో ప్రభో",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30306-song.json",
+   "song_name": "సిలువ పై నివేదన",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30321-song.json",
+   "song_name": "పరవశమై సర్వశక్తుని దర్శన భాగ్యము పొందుము",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30322-song.json",
+   "song_name": "Adbhutha Krupa Nannu Kaapaadenu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30323-song.json",
+   "song_name": "Samastha Janulaaraa Yehovaaku Uthsaahadhwani Cheyudi",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30326-song.json",
+   "song_name": "నా సహాయకుడు",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30335-song.json",
+   "song_name": "Devuni Ugratha - Naa Mahimanu Dochukunnavaadaa Meluko",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30350-song.json",
+   "song_name": "Jagamulanele paripaalaka Telugu kristiyan saang",
+   "why": "already in the database — 11% of #1276 Nee Prema Entho Madhuram"
+  },
+  {
+   "file": "30358-yesulone-sampoornatha.json",
+   "song_name": "Yesulone sampoornatha",
+   "why": "already in the database — 13% of #363 Parama Thandri Neeke Sthothram"
+  },
+  {
+   "file": "30362-song.json",
+   "song_name": "Maranaanni Gelichinodu",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30371-song.json",
+   "song_name": "Ishraayelu Kaapari",
+   "why": "no English transliteration"
+  },
+  {
+   "file": "30388-song.json",
+   "song_name": "Divya Tejomaya Yesayya",
+   "why": "no English transliteration"
+  }
+ ]
+}

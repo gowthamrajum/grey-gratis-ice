@@ -1,0 +1,76 @@
+{
+  "song_name": "Balavanthuda",
+  "author": {
+    "Authored by": "A.R.Stevenson",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "బలవంతుడా ధనవంతుడా",
+      "గుణవంతుడా నా యేసయ్యా",
+      "నీవంటివాడు లేనేలేడు",
+      "నీ సాటి ఎవడు రానేరాడు",
+      "నాకున్న ఆధారం – నాలోని ఆనందం నీవే"
+    ],
+    "english": [
+      "Balavanthudaa dhanavanthudaa",
+      "Gunavanthudaa naa Yesayya",
+      "Neenantivaadu lenelēdu",
+      "Nee saati evadu raanēraadu",
+      "Naakunna aadhaaram – naaloni aanandam neeve"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అ.ప.",
+        "యేసయ్యా, యేసయ్యా, యేసయ్యా",
+        "నా యేసయ్యా"
+      ],
+      "english": [
+        "Yesayya, Yesayya, Yesayya",
+        "Naa Yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఏదియు నీవు లేకుండా కలుగలేదుకదా",
+        "దీవెనలు దయచేయగల మహిమ నీదికదా",
+        "నాకున్న ఉజ్జీవం – నాలోని ఉత్సాహం నీవే"
+      ],
+      "english": [
+        "Edhiyu neevu lekunda kalugalēdu kada",
+        "Deevenalu dayacheyagala mahima needikada",
+        "Naakunna ujjeevam – naaloni utsaaham neeve"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "లోపమన్నది నీయందు కానరాదుకదా",
+        "పాపములు క్షమియించగల మనసు నీదికదా",
+        "నాకున్న వైభోగం – నాలోని విశ్వాసం నీవే"
+      ],
+      "english": [
+        "Lopamannadi neeyandu kaanaradukada",
+        "Paapamulu kshamiyinchagala manasu needikada",
+        "Naakunna vaibhogam – naaloni vishwasam neeve"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "శూరుడా నీముందెవడు నిలువలేడుకదా",
+        "కార్యములు నెరవేర్చగల ఘనత నీదికదా",
+        "నాకున్న సౌందర్యం – నాలోని సామర్ధ్యం నీవే"
+      ],
+      "english": [
+        "Shoorudaa neemuṇḍevadu niluvalēdukada",
+        "Kaaryamulu neravērchagala ghanata needikada",
+        "Naakunna soundaryam – naaloni saamardhyam neeve"
+      ]
+    }
+  ]
+}

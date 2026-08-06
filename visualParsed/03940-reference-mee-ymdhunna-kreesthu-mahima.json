@@ -1,0 +1,74 @@
+{
+  "song_name": "Kreesthese mana mahima nireekshana",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "క్రీస్తేసే మన మహిమ నిరీక్షణయై యున్నాడు",
+      "ఆ నిరీక్షణ పరలోకమందు",
+      "మన కొరకై ఉంచబడి యున్నది"
+    ],
+    "english": [
+      "Kreesthese mana mahima nireekshanayai yunnaadu",
+      "Aa nireekshana paralokamandu",
+      "Mana korakai unchabadi yunnadi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సంపూర్ణము చేయబడిన - సిలువ కార్యమునందు",
+        "విశ్వాసము ద్వార మనలను - ఆయనే ఆయన యందు",
+        "నిరీక్షించు నటుల జేసెను"
+      ],
+      "english": [
+        "Sampoornamu cheyabadina - Siluva kaaryamunandhu",
+        "Vishwaasamu dvaara manalanu - Aayane aayana yandu",
+        "Nireekshinchu natula jesenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సూర్యచంద్రుల కాంతి - తేజోహీనమై పోగా",
+        "నక్షత్రముల కాంతియును - తరిగిపోయిన దినము",
+        "తానే నిరీక్షణ యగును"
+      ],
+      "english": [
+        "Sooryachandhrula kaanthi - Thejoheenamai pogaa",
+        "Nakshathramula kaanthiyunu - Tharigipoyina dinamu",
+        "Thaane nireekshana yagunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అన్యుడెవడును సీయోను నందు - వాసము చేయగలేడు",
+        "పరిశుద్ధ శిఖరమందున్న - దేవుడెహోవ యనియు",
+        "పరికించు నటుల జేసెను"
+      ],
+      "english": [
+        "Anyudevadunu Seeyonu nandu - Vaasamu cheyagaledu",
+        "Parishuddha shikharamandhunna - Dhevudehova yaniyu",
+        "Parikinchu natula jesenu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "తుదమట్టుకు నిరీక్షణను - మనముంచిన యెడల",
+        "మందిర మందుండి పారుచు - ఉబికెడి ఊటగనుండి",
+        "నిరీక్షించు తన రాకడను"
+      ],
+      "english": [
+        "Thudamattuku nireekshananu - Manamunchina edala",
+        "Mandira mandhundi paaruchu - Ubikedi ootaganundi",
+        "Nireekshinchu thana raakadanu"
+      ]
+    }
+  ]
+}

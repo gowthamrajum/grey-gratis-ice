@@ -1,0 +1,38 @@
+{
+  "song_name": "Unnaanaya Nenunnaanaya",
+  "author": {
+    "Authored by": "Sister Nissy Paul, wife of Bro Paul Emmanuel",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఉన్నానయా నేనున్నానయ్యా",
+      "నీ ప్రేమ వలనే ఇలా ఉన్నానయా",
+      "ఉంటానయా నే ఉంటానయ్యా",
+      "నా బ్రతుకంతా నీ కొరకే ఉంటానయా"
+    ],
+    "english": [
+      "Unnaanayaa nenunnaanayya",
+      "nee prema valaney ila unnaanayaa",
+      "untaanayaa ne untaanayyaa",
+      "naa brathukantha nee korakey untaanayaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా మనసంతా నీవే",
+        "నా బ్రతుకంతా నీవే",
+        "నా ప్రతి శ్వాస నీవే",
+        "నా ప్రతి ధ్యాస నీవే"
+      ],
+      "english": [
+        "Naa manasanthaa neeve",
+        "naa brathukanthaa neeve",
+        "naa prathi swaasa neeve",
+        "naa prathi dhyaasa neeve"
+      ]
+    }
+  ]
+}

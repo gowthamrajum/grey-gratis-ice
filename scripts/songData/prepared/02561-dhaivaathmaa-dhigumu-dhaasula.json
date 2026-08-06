@@ -1,0 +1,52 @@
+{
+  "song_name": "Dhaivaathmaa Dhigumu Dhaasula",
+  "author": {
+    "Authored by": "",
+    "రచన": "మామిళ్ల యెషయా"
+  },
+  "main_stanza": {
+    "telugu": [
+      "దైవాత్మా దిగుము దాసుల పైని నీ దయా దృష్టిఁ పారజేయుము",
+      "ప్రేమన్ నింపు దేవా యాత్ముండ దిగుము మమ్ముల శుద్ధీకరించుము దయారసముచే"
+    ],
+    "english": [
+      "Dhaivaathmaa Dhigumu Dhaasula Paini Nee Dhayaa Dhrushti Paarajaeyumu",
+      "Praeman Nimpu Dhaevaa Yaathmunda Dhigumu Mammula Shudhdheekarinchumu Dhayaarasamuchae"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దైవాత్మా దిగుము ప్రవక్తలు పూర్వంబు నీదు ప్రేరణవలనఁ బ్రవచించిరి",
+        "పావురమా దిగి మాలో వసించుము పాపుము చీఁకటి వెలుఁగుచు మాలో"
+      ],
+      "english": [
+        "Dhaivaathmaa Dhigumu Pravakthalu Poorvambu Needhu Praeranavalana Bravachinchiri",
+        "Paavuramaa Dhigi Maaloa Vasinchumu Paapumu Cheekati Veluguchu Maaloa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రమ్ము ఓ యున్నతంపు ఆత్మా నాలుగు దెసల నుండి మమ్ముల నావ రించు",
+        "రమ్ము రమ్ము దిగి యెండిన యెముకలు గానగు లోకుల మీదికి ముదమున"
+      ],
+      "english": [
+        "Rammu Oa Yunnathampu Aathmaa Naalugu Dhesala Nundi Mammula Naava Rinchu",
+        "Rammu Rammu Dhigi Yendina Yemukalu Gaanagu Loakula Meedhiki Mudhamuna"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మే మజ్ఞానాంధకారమునను మునిఁగితిమి గాన చెదరఁగఁజేయు మంధకారము",
+        "పామర జనులకుఁ బేర్మితో నొసఁగు ను జ్ఞాన ప్రకా శము నిల్పుము మాలో"
+      ],
+      "english": [
+        "Mae Majnyaanaandhakaaramunanu Munigithimi Gaana Chedharagajaeyu Mandhakaaramu",
+        "Paamara Janulaku Baermithoa Nosagu Nu Jnyaana Prakaa Shamu Nilpumu Maaloa"
+      ]
+    }
+  ]
+}

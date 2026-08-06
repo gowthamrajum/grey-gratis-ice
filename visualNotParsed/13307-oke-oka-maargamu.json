@@ -1,0 +1,45 @@
+{
+  "song_name": "Oke oka maargamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఒకే ఒక మార్గము",
+      "ఒకే ఆధారము",
+      "ఒకే పరిహారము",
+      "లేదు వేరే మార్గం",
+      "క్రీస్తేసే మార్గం (2)",
+      "విడువుము నీ మార్గం ||ఒకే ఒక||"
+    ],
+    "english": [
+      "Oke oka maargamu",
+      "Oke aadhaaramu",
+      "Oke parihaaramu",
+      "Ledu vere maargam",
+      "Kreesthese maargam (2)",
+      "Viduvumu nee maargam ||Oke oka||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లోకం మాయరా",
+        "పాపం వీడరా (2)",
+        "నీ హృదయమెంతో బలహీనమంతా",
+        "పెడ దారి చూపురా (2)",
+        "పరికించి చూడుమా  ||ఒకే||"
+      ],
+      "english": [
+        "Lokam maayaraa",
+        "Paapam veedaraa (2)",
+        "Nee hrudayamentho balaheenamanthaa",
+        "Peda daari choopuraa (2)",
+        "Parikinchi choodumaa ||Oke||"
+      ]
+    }
+  ]
+}

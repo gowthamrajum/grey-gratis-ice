@@ -1,0 +1,58 @@
+{
+  "song_name": "Neeku saati evaru leru Yesayyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీకు సాటి ఎవరు లేరు (యేసయ్యా)",
+      "ఇలలో నీవే ఏకైక దేవుడవు (2)",
+      "ఆత్మతో సత్యముతో ఆరాధింతును",
+      "నీదు క్రియలు కొనియాడెదను (2)",
+      "అత్యున్నతుడా నా యేసయ్యా",
+      "నీవే నాకు నిజ రక్షకుడవు (2) ||నీకు||"
+    ],
+    "english": [
+      "Neeku saati evaru leru (Yesayyaa)",
+      "Ilalo neeve ekaika devudavu (2)",
+      "Aathmatho sathyamutho aaraadhinthunu",
+      "Needu kriyalu koniyaadedanu (2)",
+      "Athyunnathudaa naa Yesayyaa",
+      "Neeve naaku nija rakshakudavu (2) ||Neeku||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరమందు దూతలు నిను పొగడుచుందురు",
+        "నీవే ప్రభువుల ప్రభువని (2)",
+        "నీ ఘన కీర్తిని వివరించగలనా",
+        "నా ప్రియుడా నా యేసయ్యా (2) ||అత్యున్నతుడా||"
+      ],
+      "english": [
+        "Paramandu doothalu ninu pogaduchundhuru",
+        "Neeve prabhuvula prabhuvani (2)",
+        "Nee ghana keerthini vivarinchagalanaa",
+        "Naa priyudaa naa Yesayyaa (2) ||Athyunnathudaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆకాశమనాడు ఆసీనుడైనవాడా",
+        "నీ తట్టు కన్నులెత్తుచున్నాను (2)",
+        "ఊహించువాటి కంటే అత్యధికముగా",
+        "దయచేయువాడవు నీకే స్తోత్రం (2) ||అత్యున్నతుడా||"
+      ],
+      "english": [
+        "Aakaashamandu aaseenudainavaadaa",
+        "Nee thattu kannuletthuchunnaanu (2)",
+        "Oohinchuvaati kante athyadhikamugaa",
+        "Dayacheyuvaadavu neeke sthothram (2) ||Athyunnathudaa||"
+      ]
+    }
+  ]
+}

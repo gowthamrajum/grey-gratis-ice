@@ -1,0 +1,93 @@
+{
+  "song_name": "Paradheshi punyakshethra yaathra bovuchundhuvaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరదేశి, పుణ్యక్షేత్ర",
+      "యాత్రఁ బోవుచుందువా?",
+      "యేసు నాజ్ఞ తల పోసి",
+      "మోక్ష మొందఁ బోదును.",
+      "కొండ లెక్కి యేళ్లు దాఁటి",
+      "మోక్ష రాజ్యం చేరుదాఁక",
+      "ముందు పోవుచుందును."
+    ],
+    "english": [
+      "Paradheshi, punyakshethra",
+      "yaathra bovuchundhuvaa?",
+      "Yesu naagna thala posi",
+      "moksha mondha bodhunu.",
+      "Konda lekki yellu daati",
+      "moksha raajyam cherudhaaka",
+      "mundu povuchundhunu."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఒంటిగాను బోవుదువే",
+        "నీకు భయ ముండదా?",
+        "లేదు నాకు భయమేల?",
+        "స్వామి నన్ను ఁ గాచును;",
+        "మోక్ష రాజ్యం చేరుదాఁక",
+        "యేసు నాకుఁ దోవచూప",
+        "ముందు పోవుచుందును."
+      ],
+      "english": [
+        "Ontigaanu bovudhuve",
+        "neeku bhaya mundadaa?",
+        "Ledu naaku bhayamela?",
+        "Swaami nannu gaachunu;",
+        "moksha raajyam cherudhaaka",
+        "Yesu naaku dhovachoopa",
+        "mundu povuchundhunu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరదేశి, మోక్షమందు",
+        "నీకు లాభ ముండునా?",
+        "నిత్యానంద సువిశ్రాంతి",
+        "యందు నుండు లాభము.",
+        "జీవనది నీళ్లు త్రాగి",
+        "యేసుతో సదా వసింప",
+        "ముందు పోవుచుందును"
+      ],
+      "english": [
+        "Paradheshi, mokshamandhu",
+        "neeku laabha mundunaa?",
+        "Nithyaanandha suvishraanthi",
+        "yandu nundu laabhamu.",
+        "Jeevanadhi neellu thraagi",
+        "Yesutho sadaa vasimpa",
+        "mundu povuchundhunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పరదేశి, నీతో నేను",
+        "యాత్ర చేయ వచ్చునా?",
+        "రమ్ము నాతోఁ గూడ రమ్ము",
+        "యేసు నిన్ను రమ్మనెన్",
+        "మార్గాయాసమైన నేమి",
+        "మాకు మోక్షం చిక్కు వేళ",
+        "సువిశ్రాంతి కల్గును."
+      ],
+      "english": [
+        "Paradheshi, neetho nenu",
+        "yaathra cheya vachchunaa?",
+        "Rammu naatho gooda rammu",
+        "Yesu ninnu rammanen",
+        "maargaayaasamaina nemi",
+        "maaku moksham chikku vela",
+        "suvishraanthi kalgunu."
+      ]
+    }
+  ]
+}

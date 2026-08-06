@@ -1,0 +1,59 @@
+{
+  "song_name": "Reference: aayana dhanavanthudai yundiyu meeru",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "క్రీస్తు యేసు దయాళు ప్రభు - నీవే సృష్టికర్తవు",
+      "నీవే మా రక్షకుడవని హల్లెలూయ పాడెదం"
+    ],
+    "english": [
+      "Kreesthu Yesu dayaalu prabhu - Neeve srushtikarthavu",
+      "Neeve maa rakshakudavani hallelooya paadedam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాప జగాన - జన్మించితివి - పేద గృహాన - పెరిగితివి",
+        "సంకట కష్టములనుభవించి మమ్మును రక్షించితివి - ప్రియ యేసు",
+        "మమ్మును రక్షించితివి - మమ్ము"
+      ],
+      "english": [
+        "Paapa jagaana - Janminchithivi - Pedha gruhaana - Perigithivi",
+        "Sankata kashtamulanubhavinchi mammunu rakshinchithivi - Priya Yesu",
+        "Mammunu rakshinchithivi - Mammu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జీవిత నావా - తుఫాను చేత - తల్లడిల్లగ - ఒక్క మాటతో",
+        "ఆజ్ఞాపించి తుఫాను నాపి - దరికి జేర్చితివి - ప్రియ యేసు",
+        "దరికి జేర్చితివి - దరికి"
+      ],
+      "english": [
+        "Jeevitha naavaa - Thuphaanu chetha - Thalladillaga - Okka maatatho",
+        "Aagnaapinchi thuphaanu naapi - Dariki jerchithivi - Priya Yesu",
+        "Dariki jerchithivi - Dariki"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఎన్నో విధాల - పోనట్టి నాదు - పాప రోగము - నీ వస్త్రమును",
+        "ముట్టినంతనే - అద్భుతముగ - నివారణాయెను",
+        "ప్రియ యేసు నివారణాయెను - నివార"
+      ],
+      "english": [
+        "Enno vidhaala - Ponatti naadu - Paapa rogamu - Nee vasthramunu",
+        "Muttinanthane - Adbhuthamuga - Nivaaranaayenu",
+        "Priya Yesu nivaaranaayenu - Nivaara"
+      ]
+    }
+  ]
+}

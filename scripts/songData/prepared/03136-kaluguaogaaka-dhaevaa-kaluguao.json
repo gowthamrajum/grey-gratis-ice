@@ -1,0 +1,52 @@
+{
+  "song_name": "KaluguAOgaaka Dhaevaa KaluguAOgaaka",
+  "author": {
+    "Authored by": "",
+    "రచన": "పులిపాక జగన్నాధము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "కలుగుఁగాక దేవా కలుగుఁగాక కలుగుఁగాక",
+      "మా కిలలో నిప్పుడు విలువ లేని దయ గల నీ దీవెన"
+    ],
+    "english": [
+      "KaluguAOgaaka Dhaevaa KaluguAOgaaka KaluguAOgaaka",
+      "Maa Kilaloa Nippudu Viluva Laeni Dhaya Gala Nee Dheevena"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తనయుని కరుణయుఁ దండ్రి దేవు దయ",
+        "తనరు నాత్మ కృప తప్పక మాకుఁ"
+      ],
+      "english": [
+        "Thanayuni KaruNayuAO DhMdri Dhaevu Dhaya",
+        "Thanaru Naathma Krupa Thappaka MaakuAO"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మనమున భక్తులు మరువక యైక్యము",
+        "ఘనముగఁ బెంపఁగ ఘన సహాయము"
+      ],
+      "english": [
+        "Manamuna Bhakthulu Maruvaka Yaikyamu",
+        "GhanamugAO BeMpAOga Ghana Sahaayamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇట్టి యైక్యమును యేసునితో మరి",
+        "గట్టిగఁ బెంచిన ఘన సౌఖ్యంబు"
+      ],
+      "english": [
+        "Itti Yaikyamunu Yaesunithoa Mari",
+        "GattigAO BeMchina Ghana SaukhyMbu"
+      ]
+    }
+  ]
+}

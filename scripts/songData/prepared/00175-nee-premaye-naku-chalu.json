@@ -1,0 +1,49 @@
+{
+  "song_name": "Nee Premaye Naku Chalu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ణీ ప్రెమయె నకు చలు ణీ తొడు నకున్టె చలు",
+      "ణా జీవితన ఒన్టరి పయనన ణీ నీడలొ నన్ను నడిపిన్చుమ Yఎసయ్య."
+    ],
+    "english": [
+      "Nee Premaye Naku Chalu Nee Thodu Nakunte Chalu",
+      "Naa Jeevithana Ontari Payanana Nee Needalo Nannu Nadipinchuma Yesayya."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ ప్రెమతొను నీ వక్కుతొను నిట్యము నను నిమ్పుమయ్య",
+        "నీ అత్మతొను నీ సట్యముతొను నిట్యము నను కపడుమయ్య",
+        "నీ సెవలొ నీ సన్నిదిలొ నీ మటలొ నీ బటలొ",
+        "నిట్యము నను నడిపిన్చుమయ్య"
+      ],
+      "english": [
+        "Nee Premathonu Nee Vakkuthonu Nityamu Nanu Nimpumayya",
+        "Nee Athmathonu Nee Satyamuthonu Nityamu Nanu Kapadumayya",
+        "Nee Sevalo Nee Sannidhilo Nee Matalo Nee Batalo",
+        "Nityamu Nanu Nadipinchumayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నువ్లెక నెను జీవిన్చలెను నీ రకకై వెచి ఉన్న",
+        "నువ్లెని నన్ను ఉహిన్చలెను నలొన నివసిన్చుమన్న",
+        "నా ఊహలొ నీ రూపమె నా డ్యసలొ నీ డ్యనమె",
+        "నీ రూపులొ మర్చెనయ్య"
+      ],
+      "english": [
+        "Nuvleka Nenu Jeevinchalenu Nee Rakakai Vechi Unna",
+        "Nuvleni Nannu Uhinchalenu Nalona Nivasinchumanna",
+        "Naa Oohalo Nee Roopame Naa Dyasalo Nee Dyaname",
+        "Nee Roopulo Marchenayya"
+      ]
+    }
+  ]
+}

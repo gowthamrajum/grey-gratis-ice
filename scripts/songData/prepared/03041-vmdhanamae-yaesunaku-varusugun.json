@@ -1,0 +1,74 @@
+{
+  "song_name": "Vandhanamae Yaesunaku Varusugunoadhaarunaku",
+  "author": {
+    "Authored by": "",
+    "రచన": "పురుషోత్తము చౌధరి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "వందనమే యేసునకు వరుసుగుణోదారునకు",
+      "సౌందర్య ప్రభువునకు సర్వేశ్వర నీకు"
+    ],
+    "english": [
+      "Vandhanamae Yaesunaku Varusugunoadhaarunaku",
+      "Saundharya Prabhuvunaku Sarvaeshvara Neeku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యెహోవా తనయునకు ఇమ్మానుయేలునకు",
+        "బహు కరుణాభరణునకుఁ ప్రభువుల ప్రభువునకు"
+      ],
+      "english": [
+        "Yehoavaa Thanayunaku Immaanuyaelunaku",
+        "Bahu Karunaabharanunaku Prabhuvula Prabhuvunaku"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆశ్రిత జనపాలునకు నకలుష వర దేహునకు",
+        "ఇశ్రాయేల్ రాజునకు యెహోవా నీకు"
+      ],
+      "english": [
+        "Aashritha Janapaalunaku Nakalusha Vara Dhaehunaku",
+        "Ishraayael Raajunaku Yehoavaa Neeku"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మరియాతనూజునకు మహిమ గంభీరునకుఁ",
+        "పరిశుద్ధాచరణునకుఁ బరమేశ్వర నీకు"
+      ],
+      "english": [
+        "Mariyaathanoojunaku Mahima Gambheerunaku",
+        "Parishudhdhaacharanunaku Baramaeshvara Neeku"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "రాజులపై రాజునకు రవికోటి తేజునకుఁ",
+        "పూజార్హపదాబ్జునకు భువనావన నీకు"
+      ],
+      "english": [
+        "Raajulapai Raajunaku Ravikoati Thaejunaku",
+        "Poojaarhapadhaabjunaku Bhuvanaavana Neeku"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ప్రేమ దయా సింధునకు క్షేమామృత పూర్ణునకు",
+        "ఆమే నని సాష్టాంగము లర్పింతుము నీకు"
+      ],
+      "english": [
+        "Praema Dhayaa Sindhunaku Kshaemaamrutha Poornunaku",
+        "Aamae Nani Saashtaangamu Larpinthumu Neeku"
+      ]
+    }
+  ]
+}

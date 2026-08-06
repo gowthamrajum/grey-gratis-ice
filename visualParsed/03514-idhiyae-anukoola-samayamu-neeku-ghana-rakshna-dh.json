@@ -1,0 +1,99 @@
+{
+  "song_name": "Idiye anukoola samayamu neeku",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "6:2",
+      "ఇదియే అనుకూల సమయము నీకు - ఘన రక్షణ దినము",
+      "ఆటంకము లేక యేసు నంగీకరించి - చాటెద మెల్లడలన్"
+    ],
+    "english": [
+      "6:2",
+      "Idiye anukoola samayamu neeku - Ghana rakshana dinamu",
+      "Aatankamu leka Yesu nangeekarinchi - Chaateda melladalan"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆయన రాకడ బహు సమీపమని - వాక్యము వ్రాసియున్నది",
+        "వంచకుల దుష్టకార్యములప్పుడు - బహిరంగ పరచబడున్"
+      ],
+      "english": [
+        "Aayana raakada bahu sameepamani - Vaakyamu vraasiyunnadhi",
+        "Vanchakula dhushtakaaryamulappudu - Bahiranga parachabadun"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మత్తయి యిరువది నాలుగవ అధ్యాయము మార్కు పదమూడును",
+        "లూకా యిరువదియొకట వధ్యాయము - చూడ ముగింపు తెలియున్"
+      ],
+      "english": [
+        "Matthayi iruvadi naalugava adhyaayamu Maarku padhamoodunu",
+        "Lookaa iruvadhiyokata vadhyaayamu - Chooda mugimpu theliyun"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యుద్ధములు భువి జరుగుచు నున్నవి - దైవచిత్తము జరుగున్",
+        "మరణముల సంఖ్య హెచ్చుచున్నది - నగరులు వణికెడును"
+      ],
+      "english": [
+        "Yuddhamulu bhuvi jaruguchu nunnavi - Dhaivachitthamu jarugun",
+        "Maranamula sankhya hechchuchunnadhi - Nagarulu vanikedunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దేవుడు రాగా నాకము మారును - భూమి దహనమగును",
+        "నీళ్ళు సముద్రము లింకిపోవు - యేసు తిరిగి రాగన్"
+      ],
+      "english": [
+        "Devudu raagaa naakamu maarunu - Bhoomi dhahanamagunu",
+        "Neellu samudramu linkipovu - Yesu thirigi raagan"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "విశ్వాసులందరు నిల్చుట నిజము - దేవుడేసుని వాక్యము",
+        "వెలలేని రక్షణ కల్గు సంపాద్యము - సంశయులకు లేదు"
+      ],
+      "english": [
+        "Vishwaasulandharu nilchuta nijamu - Dhevudesuni vaakyamu",
+        "Velaleni rakshana kalgu sampaadhyamu - Sanshayulaku ledu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "కాలము వ్యర్థము చేయకు ధరలో - కర్మముపట్టుకొనకు",
+        "పాపమున్ ప్రేమతో పట్టియుంచకు - శాపము కౌగిలింపకు"
+      ],
+      "english": [
+        "Kaalamu vyarthamu cheyaku dharalo - Karmamupattukonaku",
+        "Paapamun premathо pattiyunchaku - Shaapamu kaugilimpaku"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "హల్లెలూయా పాడియెల్లరకు తెలుప - నెల్లరతో కూడను",
+        "త్వరగా రాబోవు యేసును సంధింప - ఆయత్త పడుము వేగ"
+      ],
+      "english": [
+        "Hallelooyaa paadiyellaraku thelupa - Nellaratho koodanu",
+        "Thvaragaa raabovu Yesunu sandhimpa - Aayattha padumu vega"
+      ]
+    }
+  ]
+}

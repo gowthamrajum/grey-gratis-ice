@@ -1,0 +1,49 @@
+{
+  "song_name": "శ్రీ యేసు స్వామి తిరిగి మోక్ష",
+  "author": {
+    "Authored by": "",
+    "రచన": "హేరియట్ ఆబర్"
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శ్రీ యేసు స్వామి తిరిగి మోక్షంబుఁ జేరగా ఒక్కాదరణకర్తను ఒసంగెను."
+      ],
+      "english": [
+        "shree yaesu svaami thirigi moakShMbuAO jaeragaa okkaadharaNakarthanu osMgenu."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆ దేవునాత్మ ప్రీతిగా మదిన్ వసించుచు విధేయులైన మనల పాలించును."
+      ],
+      "english": [
+        "aa dhaevunaathma preethigaa madhin vasiMchuchu viDhaeyulaina manala paaliMchunu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సద్గుణ మున్న మనకు ఆ యాత్మ దానము శోధించు దుష్టుని సహా జయించును."
+      ],
+      "english": [
+        "sadhguNa munna manaku aa yaathma dhaanamu shoaDhiMchu dhuShtuni sahaa jayiMchunu."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఓ దేవునాత్మ, మమ్మును విశుద్ధిపర్చుము మా హృదయంబులో సదా వసించుము."
+      ],
+      "english": [
+        "oa dhaevunaathma, mammunu vishudhDhiparchumu maa hrudhayMbuloa sadhaa vasiMchumu."
+      ]
+    }
+  ]
+}

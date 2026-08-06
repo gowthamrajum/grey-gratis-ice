@@ -1,0 +1,83 @@
+{
+  "song_name": "Kanneere Keerthanalaaye",
+  "author": {
+    "Authored by": "Dr.Asher Andrew",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కన్నీళ్లే కీర్తనలాయే గాయాలే గానాలాయే…",
+      "కాచినావు కాపాడేదవు, మోసినావు మోయుదువు",
+      "మారని దేవా మహోన్నత ఇదియే మా కృతజ్ఞత",
+      "ఎలా తీర్చగలను నీ ఋణమును"
+    ],
+    "english": [
+      "Kanneere keerthanalaaye gaayaale gaanaalaaye…",
+      "Kaachinaavu kaapaadedavu, mosinaavu moyuduvu",
+      "Maaran destaca mahonnatha idiye maa kruthagnatha",
+      "Ela theerchagalanu nee runamunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అర్హతే లేని నాపై అంతులేని కృపను చూపి..",
+        "ప్రేమతో పిలచితివి తండ్రీవై మోసితివి",
+        "నే తూలిన ప్రతి క్షణాన భుజములపై మోసితివి",
+        "నమ్మకమే లేని నన్ను నమ్మిన ప్రేమవు నీవు"
+      ],
+      "english": [
+        "Arhathe leni naapai antholeni krupanu choopi..",
+        "Prematho pilachithivi thandrivai mosithivi",
+        "Ne thoolina prathi kshanaana bhujamulai mosithivi",
+        "Nammakame leni nannu nammina premavu neevu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నే చూడని యుద్దాలు నీవే పోరాడితివి",
+        "తెలియని ఆపద నుండి నీవే కాపాడితివి",
+        "నేనడుగని దీవెనలు మెండుగా నొసగితివి",
+        "నాదు బలహీనతకంటే కృపయే బలమైనది"
+      ],
+      "english": [
+        "Ne choodani yuddhaalu neeve poraadithivi",
+        "Teliyani aapada nundi neeve kaapaadithivi",
+        "Nenadugani deevenalu mendugaa nosagithivi",
+        "Naadu balaheenathakante krupaye balamainadi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వాగ్దానములనిచ్చి జీవాలయము కట్టి",
+        "నీ స్పర్శ తాకిన వారే సాక్షులుగా నిలిచినారే",
+        "నీదు సమృద్ధి చేత పోషించుచున్నావే",
+        "మా ప్రేమ మారినా నీ ప్రేమ మారదు"
+      ],
+      "english": [
+        "Vaagdaanamulanichi jeevaalayamu katti",
+        "Nee sparsha thaakina vaare saakshuluga nilichinaare",
+        "Needu samruddhi chetha poshinchuchunnaave",
+        "Maa prema maarina nee prema maaradu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మహిమయే లేని చోట మహిమను రప్పించావే",
+        "ఇంతవరకు సహాయకుడవై ఎబినేజరువైనావే",
+        "గొర్రె పిల్ల రక్తముతో మా కథనే వ్రాసావే",
+        "నీ పిలుపు మారదు ఎన్నడూ ఓడిపోదు"
+      ],
+      "english": [
+        "Mahimaye leni chota mahimanu rappinchaave",
+        "Inthavaraku sahaayakudavai ebinejaruvainaave",
+        "Gorre pilla rakthamutho maa kathane vraasaave",
+        "Nee pilupu maaradu ennadoo odipodu"
+      ]
+    }
+  ]
+}

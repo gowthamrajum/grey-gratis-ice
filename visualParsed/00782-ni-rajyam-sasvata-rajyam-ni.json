@@ -1,0 +1,46 @@
+{
+  "song_name": "Nee raajyam shaashwatha raajyam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ రాజ్యం శాశ్వాత రాజ్యం నీ పరిపాలన తర తరములు నిలుచును",
+      "అది యేసు రాజ్యం పరలోక రాజ్యం నిత్యజీవం దొరుకును అది మోక్షమార్గం"
+    ],
+    "english": [
+      "Nee raajyam shaashwatha raajyam nee paripaalana thara tharamulu niluchunu",
+      "Adhi Yesu raajyam paraloka raajyam nithyajeevam dorukunu adhi mokshamaargam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆత్మవిషయమై దీనులైన వారు ధన్యులు ధన్యులు ధన్యులు",
+        "నీతి నిమిత్తం హింసింహబడువారు ధన్యులు ధన్యులు",
+        "పరలోక రాజ్యం వారిది పరిశుద్దరాజ్యం వారిది (2)"
+      ],
+      "english": [
+        "Aathmavishayamai deenulaina vaaru dhanyulu dhanyulu dhanyulu",
+        "Neethi nimittham himsimpabaduvaaru dhanyulu dhanyulu",
+        "Paraloka raajyam vaaridhi parishuddharaajyam vaaridhi (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆకలే లేదు ధాహమూలేదు పరలోక మన్నాను యేసు మనకు దయచేయును",
+        "ధుంఖమూ లేదు ఇక మరణమూ లేదు నిత్యజీవాన్ని మనకు ఇచ్చును",
+        "ఇక చింత ఏల మానవా ప్రభుయేసు నే చేరుమా (2)"
+      ],
+      "english": [
+        "Aakale ledu dhaahamooledhu paraloka mannaanu Yesu manaku dhayacheyunu",
+        "Dhukkhamoo ledu ika maranamoo ledu nithyajeevaanni manaku ichchunu",
+        "Ika chintha ela maanavaa Prabhuyesu ne cherumaa (2)"
+      ]
+    }
+  ]
+}

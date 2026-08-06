@@ -1,0 +1,47 @@
+{
+  "song_name": "Yedabaayani Devaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎడబాయని దేవా - ఇమ్మానుయేలు ప్రభువా",
+      "మరువక విడువక నీ జనాంగమును నిత్యము కాచెడి దేవా",
+      "స్తుతులను చెల్లింతును - స్తోత్రములర్పింతును"
+    ],
+    "english": [
+      "Yedabaayani Devaa - Immaanuyelu Prabhuvaa",
+      "Maruvaka Viduvaka Nee Janaangamunu Nityamu Kaachedi Devaa",
+      "Sthuthulanu Chellinthunu - Sthothramularpinthunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీదు మాటను లక్ష్యము చేయక ఎంతగానో విసికించినా",
+        "నీకు విరోధముగా తిరుగబడి బహుకోపము పుట్టించినా",
+        "నలువది ఏండ్లు నీ జనాంగమును ప్రేమతో కాచిన దేవా"
+      ],
+      "english": [
+        "Needu Maatanu Lakshyamu Cheyaka Enthagaano Visikinchinaa",
+        "Neeku Virodhamugaa Thirugabadi Bahukopamu Puttinchinaa",
+        "Naluvadi Endlu Nee Janaangamunu Prematho Kaachina Devaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ సహాయము మాకు లేనిచో ఎపుడో నశించియుందుము",
+        "నీదు హస్తము మాతో రానిచో మౌనములో దిగియుందుము",
+        "గడచిన ఏండ్లు నీ జనుల మమ్ము దయతో కాచిన దేవా"
+      ],
+      "english": [
+        "Nee Sahaayamu Maaku Lenicho Epudo Nashinchiyundumu",
+        "Needu Hasthamu Maatho Raanicho Maunamulo Digiyundumu",
+        "Gadachina Endlu Nee Janula Mammu Dayatho Kaachina Devaa"
+      ]
+    }
+  ]
+}

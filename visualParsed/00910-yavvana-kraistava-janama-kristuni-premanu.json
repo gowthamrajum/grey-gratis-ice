@@ -1,0 +1,53 @@
+{
+  "song_name": "Yauvana kraisthava janamaa Kreesthuni premanu ganumaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యవ్వన క్రైస్తవ జనమా క్రీస్తుని ప్రేమను గనుమా",
+      "యేసుని పిలుపు వినుమా ఆయన వాక్కును గైకొనుమా"
+    ],
+    "english": [
+      "Yauvana kraisthava janamaa Kreesthuni premanu ganumaa",
+      "Yesuni pilupu vinumaa aayana vaakkunu gaikonumaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యొవనకాలమందే యేసు యొవన రుధిరం చిందించె",
+        "సిల్వకెక్కి ప్రాణమిచ్చె ఆ ప్రేమను రుచి చూచినావా"
+      ],
+      "english": [
+        "Yauvanakaalamande Yesu yauvana rudhiram chindinche",
+        "Silvakekki praanamichche aa premanu ruchi choochinaavaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యొవనప్రాయపు మిడిసిపాటు కేవలం క్షణభంగురము",
+        "వాక్యముతో సరిచూసుకో నీ నడతను సరిదిద్దుకో"
+      ],
+      "english": [
+        "Yauvanapraayapu midisipaatu kevalam kshanabhanguramu",
+        "Vaakyamutho sarichoosuko nee nadathanu saridhiddhuko"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యొవనకాలమందే యేసుని కాడి మోయుట ఎంతో మేలు",
+        "జీవితం ప్రభుకీయుమా దీవన లెన్నో పొందుమా"
+      ],
+      "english": [
+        "Yauvanakaalamande Yesuni kaadi moyuta entho melu",
+        "Jeevitham Prabhukeeyumaa dheevana lenno pondumaa"
+      ]
+    }
+  ]
+}

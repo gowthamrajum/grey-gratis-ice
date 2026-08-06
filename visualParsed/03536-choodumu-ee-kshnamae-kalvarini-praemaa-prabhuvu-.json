@@ -1,0 +1,84 @@
+{
+  "song_name": "Choodumu ee kshaname Kalvarini premaa Prabhuvu neekai niluchundenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "చూడుము ఈ క్షణమే కల్వరిని",
+      "ప్రేమా ప్రభువు నీకై నిలుచుండెను",
+      "గొప్ప రక్షణనివ్వ శ్రీ యేసుడు",
+      "సిలువలో వ్రేలాడు చున్నాడుగా"
+    ],
+    "english": [
+      "Choodumu ee kshaname Kalvarini",
+      "Premaa Prabhuvu neekai niluchundenu",
+      "Goppa rakshananivva Sree Yesudu",
+      "Siluvalo vrelaadu chunnaadugaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మానవు లెంతో చెడిపోయిరి",
+        "మరణించెదమని తలపోయక",
+        "ఎరుగరు మరణము నిక్కమని",
+        "నరకమున్నదని వారెరుగరు"
+      ],
+      "english": [
+        "Maanavu lentho chedipoyiri",
+        "Maraninchedhamani thalapoyaka",
+        "Erugaru maranamu nikkamani",
+        "Narakamunnadani vaarerugaru"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇహమందు నీకు కలవన్నియు",
+        "చనిపోవు సమయాన వెంటరావు",
+        "చనిపోయినను నీవు లేచెదవు",
+        "తీర్పున్నదని ఎరుగు ఒక దినమున"
+      ],
+      "english": [
+        "Ihamandu neeku kalavanniyu",
+        "Chanipovu samayaana ventaraavu",
+        "Chanipoyinanu neevu lechedhavu",
+        "Theerpunnadani erugu oka dinamuna"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మనలను ధనవంతులుగా చేయను",
+        "దరిద్రుడాయెను మన ప్రభువు",
+        "రక్తము కార్చెను పాపులకై",
+        "అంగీకరించుము శ్రీ యేసుని"
+      ],
+      "english": [
+        "Manalanu dhanavanthulugaa cheyanu",
+        "Dharidrudaayenu mana Prabhuvu",
+        "Rakthamu kaarchenu paapulakai",
+        "Angeekarinchumu Sree Yesuni"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సిలువపై చూడుము ఆ ప్రియుని",
+        "ఆ ప్రేమకై నీవు యేమిత్తువు",
+        "అర్పించుకో నీదు జీవితము",
+        "ఆయన కొరకై జీవించుము"
+      ],
+      "english": [
+        "Siluvapai choodumu aa priyuni",
+        "Aa premakai neevu emitthuvu",
+        "Arpinchuko needu jeevithamu",
+        "Aayana korakai jeevinchumu"
+      ]
+    }
+  ]
+}

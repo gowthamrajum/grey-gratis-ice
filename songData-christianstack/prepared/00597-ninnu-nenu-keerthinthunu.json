@@ -1,0 +1,50 @@
+{
+  "song_name": "Ninnu Nenu Keerthinthunu",
+  "author": {
+    "Authored by": "Methushelah P, Viswasa Prardhana Mandiram, Gandigunta Post, Vuyyuru mandalam, Krishna district",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిన్ను నేను కీర్తింతును యేసయ్యా",
+      "నీ నామమును ప్రకటింతును",
+      "నిన్నా నేడు ఏకరీతిగా ఉన్నావని",
+      "నాకు తోడు నీడగ నీవే ఉంటావని"
+    ],
+    "english": [
+      "Ninnu nenu keerthinthunu yesayya",
+      "nee naamamunu prakatinthunu",
+      "ninna nedu ekareethigaa unnaavani",
+      "naaku thodu needaga neeve untaavani"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శూన్యము నుండి సృష్టిని చేసినావని",
+        "సృష్టిని పాలించ మమ్ము చేసినావని",
+        "పాలించే అధికారం కోల్పోయిన వేళలో",
+        "పాలించే అధికారం మాకిచ్చుట కొరకై",
+        "పరలోకము విడచి మాకై ధరకే ఏతెంచినావని",
+        "మా స్వస్థతకై నలుగగొట్టబడినావని",
+        "ఆఖరి రక్తపు బొట్టును కార్చినావని",
+        "మా రక్షణ కై ప్రాణం పెట్టినావని",
+        "మరణమును గెలిచి తిరిగి లేచినావని",
+        "సదా కాలం మాతో ఉండ ఆత్మరూపిగానే నీవు ఉన్నావని"
+      ],
+      "english": [
+        "Shoonyamu nundi srushtini chesinaavani",
+        "srushtini paalincha mammu chesinaavani",
+        "paalinche adhikaaram kolpoyina velalo",
+        "paalinche adhikaaram maakichuta korakai",
+        "paralokamu vidachi maakai dharakai ethenchinaavani",
+        "Maa swasthathakai nalugagottabadinaavani",
+        "aakhari rakthapu bottunu kaarchinaavani",
+        "maa rakshanakai praanam pettinaavani",
+        "maranamunu gelichi thirigi lechinaavani",
+        "sadhaa kaalam maatho unda aathmaroopigaane neevu unnaavani"
+      ]
+    }
+  ]
+}

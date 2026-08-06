@@ -1,0 +1,40 @@
+{
+  "song_name": "క్రీస్తు యోధులారా యుద్ధ మాడుఁ",
+  "author": {
+    "Authored by": "",
+    "రచన": "నబీన్ చారింగ్ కూల్డ్"
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "క్రీస్తు యోధులారా యుద్ధ మాడుఁడీ క్రీస్తు సిల్వ మీరు పట్టి గెల్వుఁడీ మన రాజు క్రీస్తు దండు నడ్పును చూడు మాకు ముందు క్రీస్తు ధ్వజము. || క్రీస్తు వీరులారా యుద్ధ మాడుఁడీ క్రీస్తు ధ్వజ మెత్తి జయ మొందుఁడీ ||"
+      ],
+      "english": [
+        "kreesthu yoaDhulaaraa yudhDha maaduAOdee kreesthu silva meeru patti gelvuAOdee mana raaju kreesthu dhMdu nadpunu choodu maaku muMdhu kreesthu Dhvajamu. || kreesthu veerulaaraa yudhDha maaduAOdee kreesthu Dhvaja meththi jaya moMdhuAOdee ||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "లోక రాజ్య కీర్తి వాడిపోవును క్రీస్తు రాజ్యమైన నిత్య ముండును సాతా నాధిపత్య మాఁగిపోవును క్రీస్తు దివ్య సభ జయ మొందును."
+      ],
+      "english": [
+        "loaka raajya keerthi vaadipoavunu kreesthu raajyamaina nithya muMdunu saathaa naaDhipathya maaAOgipoavunu kreesthu dhivya sabha jaya moMdhunu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఓ జనంబులారా వచ్చి చేరుఁడీ జయ కీర్తనంబు లెత్తి పాడుఁడీ కీర్తి, స్తుతి, ఘవ మెన్నఁ డుండును మన క్రీస్తు రాజు నిత్య మేలును."
+      ],
+      "english": [
+        "oa janMbulaaraa vachchi chaeruAOdee jaya keerthanMbu leththi paaduAOdee keerthi, sthuthi, ghava mennAO duMdunu mana kreesthu raaju nithya maelunu."
+      ]
+    }
+  ]
+}

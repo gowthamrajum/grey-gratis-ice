@@ -1,0 +1,83 @@
+{
+  "song_name": "Ne neevaadanai yunda goredhan Yesu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "ఫ్రాన్సెస్ జేన్వేన్ ఆల్స్టీన్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నే నీవాఁడనై యుండఁ గోరెదన్",
+      "యేసు ప్రియ రక్షకా",
+      "నీవు చూపు ప్రేమను గాంచితిన్",
+      "నన్నుఁ జేర్చు నీదరిన్",
+      "|| నన్నుఁ జేర్చు చేర్చు చేర్చు",
+      "రక్షకా",
+      "నీవు పడ్డ సిల్వకున్",
+      "నన్నుఁ జేర్చు చేర్చు చేర్చు",
+      "రక్షకా",
+      "గాయపడ్డ ప్రక్కకున్ ||"
+    ],
+    "english": [
+      "Ne neevaadanai yunda goredhan",
+      "Yesu priya rakshakaa",
+      "Neevu choopu premanu gaanchithin",
+      "Nannu jerchu needharin",
+      "||Nannu jerchu cherchu cherchu",
+      "Rakshakaa",
+      "Neevu padda silvakun",
+      "Nannu jerchu cherchu cherchu",
+      "Rakshakaa",
+      "Gaayapadda prakkakun||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నన్నుఁ బ్రతిష్ఠపర్చుమీ నాధా",
+        "నీదు కృపవల్లనే",
+        "నాదు నాత్మ నిన్ను నిరీక్షించు",
+        "నీ చిత్తంబు నాదగున్"
+      ],
+      "english": [
+        "Nannu brathishthaparchumee naadhaa",
+        "Needu krupavallane",
+        "Naadu naathma ninnu nireekshinchu",
+        "Nee chitthambu naadhagun"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీదు సన్నిధిలో నిఁక నుండ",
+        "నెంత తుష్టి నాకగున్",
+        "స్నేహితుని మాటలాడెదన్",
+        "సర్వశక్త ప్రభుతో"
+      ],
+      "english": [
+        "Needu sannidhilo nika nunda",
+        "Nentha thushti naakagun",
+        "Snehithuni maatalaadedhan",
+        "Sarvashaktha Prabhutho"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీదు దివ్య ప్రేమాతిశయము",
+        "ఇహ బుద్ధి కందదు",
+        "పరమందున దాని శ్రేష్ఠత",
+        "నే ననుభవించెదన్"
+      ],
+      "english": [
+        "Needu divya premaathishayamu",
+        "Iha buddhi kandhadhu",
+        "Paramanduna daani shreshthatha",
+        "Ne nanubhavinchedhan"
+      ]
+    }
+  ]
+}

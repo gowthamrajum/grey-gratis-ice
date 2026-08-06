@@ -1,0 +1,50 @@
+{
+  "song_name": "Nee Velugu Nee Sathyamu Bayalu Dheranimmu Dhevaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ వెలుగు నీ సత్యము బయలు దేరనిమ్ము దేవా . . దేవా"
+    ],
+    "english": [
+      "Nee Velugu Nee Sathyamu Bayalu Dheranimmu Dhevaa . . Dhevaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నాకు త్రోవచూపునూ - అది నీ నివాస స్థలముకు",
+        "నన్ను తోడుకొని వచ్చును - దేవా నా దేవా"
+      ],
+      "english": [
+        "Naaku Throvachoopunoo - Adhi Nee Nivaasa Sthalamuku",
+        "Nannu Thodukoni Vachchunu - Dhevaa Naa Dhevaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అప్పుడు నీకు సితారతో - స్తుతి గీతము చెల్లింతును",
+        "ఓ . . హోసన్నా - దేవా నా దేవా"
+      ],
+      "english": [
+        "Appudu Neeku Sithaaratho - Sthuthi Geethamu Chellinthunu",
+        "O . . Hosannaa - Dhevaa Naa Dhevaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఏల క్రుంగిపోతివి - భీతిన్ విడు నా ప్రాణమా",
+        "ప్రీతిన్ ప్రభుని గనుమా - దేవా నా దేవా"
+      ],
+      "english": [
+        "Ela Krungipothivi - Bheethin Vidu Naa Praanamaa",
+        "Preethin Prabhuni Ganumaa - Dhevaa Naa Dhevaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "song_name": "O Prabhuvaa O Prabhuvaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ ప్రభువా… ఓ ప్రభువా…",
+      "నీవే నా మంచి కాపరివి (4) ||ఓ ప్రభువా||"
+    ],
+    "english": [
+      "O Prabhuvaa… O Prabhuvaa…",
+      "Neeve naa manchi kaaparivi (4) ||O Prabhuvaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దారి తప్పిన నన్నును నీవు",
+        "వెదకి వచ్చి రక్షించితివి (2)",
+        "నిత్య జీవము నిచ్చిన దేవా (2)",
+        "నీవే నా మంచి కాపరివి (4)  ||ఓ||"
+      ],
+      "english": [
+        "Daari thappina nannunu neevu",
+        "Vedaki vachchi rakshinchithivi (2)",
+        "Nithya jeevamu nichchina Deva (2)",
+        "Neeve naa manchi kaaparivi (4) ||O||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీవు ప్రేమించిన గొర్రెలన్నిటిని",
+        "ఎల్లపుడు చేయి విడువక (2)",
+        "అంతము వరకు కాపాడు దేవా (2)",
+        "నీవే నా మంచి కాపరివి (4)  ||ఓ||"
+      ],
+      "english": [
+        "Neevu preminchina gorrelannitini",
+        "Ellapudu cheyi viduvaka (2)",
+        "Anthamu varaku kaapaadu Deva (2)",
+        "Neeve naa manchi kaaparivi (4) ||O||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రధాన కాపరిగా నీవు నాకై",
+        "ప్రత్యక్షమగు ఆ ఘడియలలో (2)",
+        "నన్ను నీవు మరువని దేవా (2)",
+        "నీవే నా మంచి కాపరివి (4)  ||ఓ||"
+      ],
+      "english": [
+        "Pradhaana kaaparigaa neevu naakai",
+        "Prathyakshamagu aa ghadiyalalo (2)",
+        "Nannu neevu maruvani Deva (2)",
+        "Neeve naa manchi kaaparivi (4) ||O||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "song_name": "Cherithi Ninne",
+  "author": {
+    "Authored by": "Joshua Shaik",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "చేరితి నిన్నే యేసునాధ – నీవే నా దైవం",
+      "కోరితి నిన్నే ఆశతీరా – మనసే నీ సొంతం",
+      "ఉన్నతమైన నీ ఘన నామం – జీవము నింపే ఆశాదీపం",
+      "నీవే నా గానం – నాలో ఆనందం",
+      "నీవే రాగం – నీవే ధ్యానం – నా ప్రాణం నీవేగా"
+    ],
+    "english": [
+      "Cherithi ninne yesunaadha – neeve naa daivam",
+      "Korithi ninne aasatheeraa – manase nee sontham",
+      "Unnathamaina nee ghana naamam – jeevamu nimpe aasadeepam",
+      "Neeve naa gaanam – naalo anandam",
+      "Neeve raagam – neeve dhyaanam – naa praanam neevegaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రేమకు రూపం – నీ అనురాగం – పాడి కీర్తింతును",
+        "జీవితమంతా నీ ఘనకార్యం – నేను వివరింతును",
+        "నా తోడుగా నీవుండగా – నీ ప్రేమతో దీవించగా",
+        "సాగాలి ఈ స్నేహము – ఇదే నాకు ఆధారము",
+        "చూపావు నీ మార్గము – సదా నీవే నా క్షేమము"
+      ],
+      "english": [
+        "Premaku roopam – nee anuraagam – paadi keerthinthunu",
+        "Jeevathamantha nee ghana kaaryam – nenu vivarinthunu",
+        "Naa thoduga neevundaga – nee prematho deevinchaga",
+        "Saagali ee snehamu – idhe naaku aadharamu",
+        "Choopvau nee maargamu – sadaa neeve naa kshemamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా శ్రమలోన వేదనలోన – నన్ను చూసావుగా",
+        "నీ కృపలోన నా దరి చేరి – నీలో దాచావుగా",
+        "నీ ఆత్మతో నింపావుగా – కనుపాపగా కాచావుగా",
+        "ఏనాటి అనుబంధమో – ఇదే నాకు సౌభాగ్యము",
+        "వేవేల స్తోత్రాలతో – సదా నీకే నా గీతము"
+      ],
+      "english": [
+        "Naa sramalona vedanalona – nannu choosavugaa",
+        "Nee krupalona naa dari cheri – neelo daachaavuga",
+        "Nee athmatho nimpaavuga – kanupapaga kaachaavuga",
+        "Yenaati anubandhamo – idhe naaku soubhagyamu",
+        "Vevela sthothraalatho – sadhaa neeke naa geethamu"
+      ]
+    }
+  ]
+}

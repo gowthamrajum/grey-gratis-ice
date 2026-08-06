@@ -1,0 +1,49 @@
+{
+  "song_name": "Asalaina Christmas",
+  "author": {
+    "Authored by": "Jonah Samuel",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "అసలైన క్రిస్మస్ మన జీవితమే",
+      "ఆరాధన అంటే జీవన విధానమే"
+    ],
+    "english": [
+      "Asalaina christmas mana jeevithamey",
+      "aaraadhana antey jeevana vidhaanamey"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "క్రిస్మస్ అంటే క్రీస్తు కోసం బ్రతకడమే",
+        "ఇంటా బయట క్రీస్తును ప్రతిబింబించడమే",
+        "క్రిస్మస్ అంటే క్రీస్తులా జీవించడమే",
+        "ఏదేమైన దేవుని చిత్తం చేయడమే"
+      ],
+      "english": [
+        "Christmas antey kreestu kosam brathakadamey",
+        "intaa bayata kreesthunu prathibimbimchadamey",
+        "christmas antey kreesthulaa jeevinchadamey",
+        "eydheymaina devuni chittam cheyadamey"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మాటల్లో ఆరాధన",
+        "చేతల్లో ఆరాధన",
+        "బ్రతుకంతా ఆరాధన",
+        "అదేగా మనకు దీవెన"
+      ],
+      "english": [
+        "Maatallo aaraadhana",
+        "chethallo aaraadhana",
+        "brathukanthaa aaraadhana",
+        "adheygaa manaku dheevena"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "song_name": "Aadedhan Paadehan",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆడెదన్ పాడెదన్ ఆడెదన్, పాడెదన్, యేసుని సన్నిధిలో యేసుని సన్నిధిలో స్తుతింతును ఆరాధింతున్ యేసుని సన్నిధిలో ఉజ్జీవ మిచ్చిన దేవుని సన్నిధిలో ఆడెదన్, పాడెదన్, యేసుని సన్నిధిలో నను బలపరచిన దేవుని సన్నిధిలో స్తుతింతును ఆరాధింతున్ యేసుని సన్నిధిలో ఉజ్జీవ మిచ్చిన దేవుని సన్నిధిలో"
+    ],
+    "english": [
+      "aadedhan paadedhan.. yesuni sannidhilo nanu balaparachina devuni sannidhilo sthuthinthunu aaraadhinthunu.. yesuni sannidhilo ujjeevamichchina devuni sannidhilo ||aadedan|| nanu darshinchi noothana jeevam… ichchina sannidhilo nanu balaparchi aadarinchina.. yesuni sannidhilo (2) aadedhan paadedhan devuni sannidhilo sthuthinchedan aaradhinchedan devuni sannidhilo ||aadedhan|| parishuddhaathma jwaalalo ragilinchi nannu… mandinchina sannidhilo parishuddhathmalo nanu abhishekinchina.. yesuni sannidhilo (2) aadedhan paadedhan devuni sannidhilo sthuthinchedan aaradhinchedan devuni sannidhilo ||aadedhan||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నను దర్శించి నూతన జీవం యిచ్చిన సన్నిధిలో నను బలపరచి ఆదరించిన యేసుని సన్నిధిలో (2X) ఆడెదన్, పాడెదన్ దేవుని సన్నిధిలో స్తుతించెదన్ స్తుతించెదన్ ఆరధించెదన్ ఆరధించెదన్ దేవుని సన్నిధిలో ఆడెదన్, పాడెదన్, యేసుని సన్నిధిలో నను బలపరచిన దేవుని సన్నిధిలో స్తుతింతును ఆరాధింతున్ యేసుని సన్నిధిలో ఉజ్జీవ మిచ్చిన దేవుని సన్నిధిలో"
+      ],
+      "english": []
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరిశుద్దాత్మజ్వాల రగిలించి నన్ను మండించిన సన్నిధిలో పరిశుద్దాత్మలో నను అభిషేకించిన యేసుని సన్నిధిలో (2X) ఆడెదన్, పాడెదన్ దేవుని సన్నిధిలో స్తుతించెదన్ స్తుతించెదన్ ఆరధించెదన్ ఆరధించెదన్ దేవుని సన్నిధిలో ఆడెదన్, పాడెదన్, యేసుని సన్నిధిలో యేసుని సన్నిధిలో స్తుతింతును ఆరాధింతున్ యేసుని సన్నిధిలో ఉజ్జీవ మిచ్చిన దేవుని సన్నిధిలో ఆడెదన్, పాడెదన్, యేసుని సన్నిధిలో నను బలపరచిన దేవుని సన్నిధిలో స్తుతింతును ఆరాధింతున్ యేసుని సన్నిధిలో ఉజ్జీవ మిచ్చిన దేవుని సన్నిధిలో"
+      ],
+      "english": []
+    }
+  ]
+}

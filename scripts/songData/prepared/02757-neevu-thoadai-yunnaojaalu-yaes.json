@@ -1,0 +1,73 @@
+{
+  "song_name": "Neevu Thoadai Yunnajaalu Yaesu Nithyamu",
+  "author": {
+    "Authored by": "",
+    "రచన": "పులిపాక జగన్నాధము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవు తోడై యున్నఁజాలు యేసు నిత్యము నాకది మేలు",
+      "నీవు ధరణినుండు నీచపాపుల నెల్లఁగావఁ",
+      "బ్రేమ వచ్చి ఘన ప్రాణ మిడినట్టి"
+    ],
+    "english": [
+      "Neevu Thoadai Yunnajaalu Yaesu Nithyamu Naakadhi Maelu",
+      "Neevu Dharaninundu Neechapaapula Nellagaava",
+      "Braema Vachchi Ghana Praana Midinatti"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నినుఁ బోలు రక్షకుం డేడి క్రీస్తు ననుఁ బోలు పాతకుం డేడి",
+        "నిను నమ్ము వారలకు నీ వొసఁగుచుందువు",
+        "తనరఁ పాపక్షమ దయచేత నిలలోన"
+      ],
+      "english": [
+        "Ninu Boalu Rakshakun Daedi Kreesthu Nanu Boalu Paathakun Daedi",
+        "Ninu Nammu Vaaralaku Nee Vosaguchundhuvu",
+        "Thanara Paapakshama Dhayachaetha Nilaloana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ పాటి బలవంతుఁ డేడి ప్రభు నాపాటి దుర్బలుం డేడి",
+        "కాపాడు చుందువు కలకాలమును నీవు",
+        "నీ పాద సేవకుల నీనేర్పురంజిల్ల"
+      ],
+      "english": [
+        "Nee Paati Balavanthu Daedi Prabhu Naapaati Dhurbalun Daedi",
+        "Kaapaadu Chundhuvu Kalakaalamunu Neevu",
+        "Nee Paadha Saevakula Neenaerpuranjilla"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీవంటి యుపకారి యేడి కర్త నావంటి కడు దీనుఁ డేడి",
+        "జీవుల కును గల్గు జీవంబు లిచ్చుచు",
+        "జీవాధారము లొసఁగి జీవులఁ బ్రోచెడి"
+      ],
+      "english": [
+        "Neevanti Yupakaari Yaedi Kartha Naavanti Kadu Dheenu Daedi",
+        "Jeevula Kunu Galgu Jeevambu Lichchuchu",
+        "Jeevaadhaaramu Losagi Jeevula Broachedi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీవంటి ధనవంతుఁడేడి యేసు నా వంటి ధనహీనుఁ డేడి",
+        "ప్రోవులై యున్నవి యీవులు నీయందు",
+        "నీవువాని నొసంగి నిరతంబు ననుఁ గావు"
+      ],
+      "english": [
+        "Neevanti Dhanavanthudaedi Yaesu Naa Vanti Dhanaheenu Daedi",
+        "Proavulai Yunnavi Yeevulu Neeyandhu",
+        "Neevuvaani Nosangi Nirathambu Nanu Gaavu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "song_name": "Yaesoo Naa Prabhuvaa Nee Praema Laekunna",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఒక్కొక్క గంట నేను - నిన్నాశించుకొందు",
+      "నీ యాశీర్వాదమిమ్ము - నా రక్షకా"
+    ],
+    "english": [
+      "Okkokka Ganta Naenu - Ninnaashinchukondhu",
+      "Nee Yaasheervaadhamimmu - Naa Rakshakaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసూ నా ప్రభువా - నీ ప్రేమ లేకున్న",
+        "నా యాత్మ కేదియు - విశ్రాంతి నియ్యదు"
+      ],
+      "english": [
+        "Yaesoo Naa Prabhuvaa - Nee Praema Laekunna",
+        "Naa Yaathma Kaedhiyu - Vishraanthi Niyyadhu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసూ, రేబగళ్ళు - నాయొద్ద నుండుము",
+        "నాతో నీ వుండిన - ఏ భయముండదు"
+      ],
+      "english": [
+        "Yaesoo, Raebagallu - Naayodhdha Nundumu",
+        "Naathoa Nee Vundina - Ae Bhayamundadhu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సుఖంబు బొందగా - నిన్నే యాశింతును",
+        "దుఃఖంబు నొందగా నీవే శరణ్యము"
+      ],
+      "english": [
+        "Sukhambu Bondhagaa - Ninnae Yaashinthunu",
+        "Dhuhkhambu Nondhagaa Neevae Sharanyamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీదు మార్గమందున - నే నడ్వనేర్పుము",
+        "నీ మాట చొప్పున - నన్నున్ దీవించుము"
+      ],
+      "english": [
+        "Needhu Maargamandhuna - Nae Nadvanaerpumu",
+        "Nee Maata Choppuna - Nannun Dheevinchumu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నిన్నే యాశింతును - యేసూ నా ప్రభువా",
+        "నీ వంటి వాడనై - నన్నుండ జేయుము"
+      ],
+      "english": [
+        "Ninnae Yaashinthunu - Yaesoo Naa Prabhuvaa",
+        "Nee Vanti Vaadanai - Nannunda Jaeyumu"
+      ]
+    }
+  ]
+}

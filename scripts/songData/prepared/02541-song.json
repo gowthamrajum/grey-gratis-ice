@@ -1,0 +1,41 @@
+{
+  "song_name": "Yaesu Samaadhiloa Parundiyundi",
+  "author": {
+    "Authored by": "",
+    "రచన": "రాబర్ట్ లౌరీ"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు సమాధిలో పరుండియుండి వాసిగ మూఁడవ నాఁడు లేచెన్.",
+      "లేచెన్ సమాధినుండి మృత్యువుపై విజయమొంది",
+      "శత్రువు నోడించి జయశాలియై నాత్యముం జీవించ మధ్యవర్తియై;",
+      "లేచెను! లేచెను హల్లెలూయ! లేచెను"
+    ],
+    "english": [
+      "Yaesu Samaadhiloa Parundiyundi Vaasiga Moodava Naadu Laechen.",
+      "Laechen Samaadhinundi Mruthyuvupai Vijayamondhi",
+      "Shathruvu Noadinchi Jayashaaliyai Naathyamum Jeevincha Madhyavarthiyai;",
+      "Laechenu! Laechenu Hallelooya! Laechenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వ్యర్థమే కావలి సమాధియొద్ద వ్యర్థంబు ముద్రయు యేసూప్రభూ!"
+      ],
+      "english": [
+        "Vyarthamae Kaavali Samaadhiyodhdha Vyarthambu Mudhrayu Yaesooprabhoo!"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మృత్యుబంధంబులన్ నిత్యుండు త్రెంచెన్ స్తుత్యుండు జయించెన్ జయం! జయం!"
+      ],
+      "english": [
+        "Mruthyubandhambulan Nithyundu Threnchen Sthuthyundu Jayinchen Jayam! Jayam!"
+      ]
+    }
+  ]
+}

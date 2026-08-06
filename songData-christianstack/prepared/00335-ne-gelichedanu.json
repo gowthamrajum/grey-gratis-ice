@@ -1,0 +1,124 @@
+{
+  "song_name": "Ne Gelichedanu",
+  "author": {
+    "Authored by": "Esther Evelyne, Narsinga Bobbili & Prabhu Pammi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "[చరణం 1]",
+      "నీ నామములోనే పొందెదను రక్షణ",
+      "పాపములనుండి విమోచన",
+      "నీ శక్తితోనే, నిలిచియున్నాను",
+      "నీ ప్రేమలోనే జీవింతును"
+    ],
+    "english": [
+      "[Verse 1]",
+      "Nee naamamulone pondedhanu rakshana",
+      "paapamulanundi vimochana",
+      "nee shakthithone, nilichiyunnaanu",
+      "nee premaloney jeevinthunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "[అను-పల్లవి]",
+        "అంధులకు వెలుగునిచ్చావు",
+        "నీ మహిమతో అభిషేకించావు",
+        "వ్యాధులనుండి స్వస్థపరిచావు",
+        "నా బలము, ఆశ్రయము నీవైతివి"
+      ],
+      "english": [
+        "[Pre-chorus]",
+        "Andhulaku velugunichaavu",
+        "nee mahimatho abhishekinchaavu",
+        "vyaadhulanundi swasthaparichaavu",
+        "na balamu aashrayamu neevaithivi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "[పల్లవి]",
+        "నే గెలిచెదను జీవించెదను",
+        "నీ నీడలో నిలిచెదను",
+        "శోధనలు సహించెదను",
+        "నా తోడు నీవే ఉండగా"
+      ],
+      "english": [
+        "[Chorus]",
+        "Ne gelichedhanu jeevinchedhanu",
+        "nee needalo nilichedhanu",
+        "shodhanalu sahinichedhanu",
+        "naa thodu neeve undaga"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "[వెర్సె 2]",
+        "నీ రూపములోనే నన్ను సృజియించితివి",
+        "నీ ఆత్మతో నన్ను నింపితివి",
+        "నీ ప్రాణమునర్పించి నన్ను రక్షించితివి",
+        "నీ సొత్తుగా నన్ను చేసితివి"
+      ],
+      "english": [
+        "[Verse 2]",
+        "Nee roopamuloney nannu srujiyinchithivi",
+        "nee aathmatho nannu nimpithivi",
+        "nee praanamunarpinchi nannu rakshinchithivi",
+        "nee sothuga nannu chesitivi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "[అను-పల్లవి]",
+        "అంధులకు వెలుగునిచ్చావు",
+        "నీ మహిమతో అభిషేకించావు",
+        "వ్యాధులనుండి స్వస్థపరిచావు",
+        "నా బలము, ఆశ్రయము నీవైతివి"
+      ],
+      "english": [
+        "[Pre-chorus]",
+        "Andhulaku velugunichaavu",
+        "nee mahimatho abhishekinchaavu",
+        "vyaadhulanundi swasthaparichaavu",
+        "na balamu aashrayamu neevaithivi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "[పల్లవి]",
+        "నే గెలిచెదను జీవించెదను",
+        "నీ నీడలో నిలిచెదను",
+        "శోధనలు సహించెదను",
+        "నా తోడు నీవే ఉండగా"
+      ],
+      "english": [
+        "[Chorus]",
+        "Ne gelichedhanu jeevinchedhanu",
+        "nee needalo nilichedhanu",
+        "shodhanalu sahinichedhanu",
+        "naa thodu neeve undagaa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఆకాశముకాన్నా ఎత్తైనది నీ నామము",
+        "సముద్రముకన్నా లోతైనది నీ ప్రేమ",
+        "తారలకన్నా సమృద్ధి గలది నీ కృప"
+      ],
+      "english": [
+        "[Bridge]",
+        "Aakashamukannaa yethainadhi nee naamamu",
+        "samudhramukannaa lothainadhi nee prema",
+        "thaaralakannaa samruddhi galadhi nee krupa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "song_name": "Jayamani paadudi sarva janamaa mukthidhaatha Yesunaku",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "జయమని పాడుడి సర్వ జనమా ముక్తిదాత యేసునకు",
+      "సోదర సోదరి పిల్లలు పెద్దలు జయమని పాడుడి యేసునకు - జై"
+    ],
+    "english": [
+      "Jayamani paadudi sarva janamaa mukthidhaatha Yesunaku",
+      "Sodhara sodhari pillalu peddalu jayamani paadudi Yesunaku - Jai"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సిలువలో చిందిన రక్తమున పాప క్షమాపణ కలిగించె"
+      ],
+      "english": [
+        "Siluvalo chindina rakthamuna paapa kshamaapana kaliginche"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసురక్తమున నీతికల్గె అగ్ని శిక్ష తొలగెను"
+      ],
+      "english": [
+        "Yesurakthamuna neethikalge agni shiksha tholagenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రక్తాన ఆశ్చర్య క్రియజేసె పాపపు బంధము ద్రుంచెను"
+      ],
+      "english": [
+        "Rakthaana aashcharya kriyajese paapapu bandhamu dhrunchenu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "రక్త విలువచే ముక్తి గల్గె - ప్రభుని దాసుడనైతిని"
+      ],
+      "english": [
+        "Raktha viluvache mukthi galge - Prabhuni dhaasudanaithini"
+      ]
+    }
+  ]
+}

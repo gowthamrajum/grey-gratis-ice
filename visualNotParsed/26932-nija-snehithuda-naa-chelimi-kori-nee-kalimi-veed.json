@@ -1,0 +1,71 @@
+{
+  "song_name": "Nija snehithudaa - Naa chelimi kori nee kalimi veedi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Joshua Katta"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా చెలిమి కోరి – నీ కలిమి వీడి",
+      "నా చెంత చేరావు శ్రీమంతుడా",
+      "నా రక్షణ కొరకై – ఆ శిక్షను పొంది",
+      "బలియాగమైన నిజ స్నేహితుడా ||నా చెలిమి||"
+    ],
+    "english": [
+      "Naa chelimi kori - Nee kalimi veedi",
+      "Naa chentha cheraavu shreemanthudaa",
+      "Naa rakshana korakai - Aa shikshanu pondi",
+      "Baliyaagamaina nija snehithudaa ||Naa chelimi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ద్రోహినై దూరమైతిని – పాపినై పరుగులెడితిని",
+        "గమ్యమే ఎరుగనైతిని – మరణమే శరణమాయెను",
+        "ఎంతో ప్రేమించితివి – నా స్థానమందు నిలిచితివి",
+        "కృపతో నన్ రక్షించితివి – నా దోషశిక్ష భరించితివి  ||నా||"
+      ],
+      "english": [
+        "Dhrohinai dooramaithini - Paapinai paruguledithini",
+        "Gamyame eruganaithini - Maraname sharanamaayenu",
+        "Entho preminchithivi - Naa sthaanamandu nilichithivi",
+        "Krupatho nan rakshinchithivi - Naa dhoshashiksha bharinchithivi ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిందలు అవమానములు – హేళనలు చీత్కారములు",
+        "కఠిన దెబ్బలు ముళ్లపోటులు – సిలువ భారం కాయమంతా గాయం",
+        "హృదినే బాధించినా – భరియించావు వేదన మౌనముగా",
+        "తనువే తల్లడిల్లినా – తృప్తినొందావు నను తలచుకొని  ||నా||"
+      ],
+      "english": [
+        "Nindalu avamaanamulu - Helanalu cheethkaaramulu",
+        "Katina debbalu mullapotulu - Siluva bhaaram kaayamanthaa gaayam",
+        "Hrudhine baadhinchinaa - Bhariyinchaavu vedhana maunamugaa",
+        "Thanuve thalladhillinaa - Thrupthinondhaavu nanu thalachukoni ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఏ రీతి నిన్ను – కీర్తించగలను",
+        "నా నీతి నీవే ఓ యేసుదేవా",
+        "నీ సాక్షిగ నిలిచి – నీ ప్రేమను చాటి",
+        "ఘనపరతును నిన్నే ప్రియ స్నేహితుడా"
+      ],
+      "english": [
+        "E reethi ninnu - Keerthinchagalanu",
+        "Naa neethi neeve o Yesudhevaa",
+        "Nee saakshiga nilichi - Nee premanu chaati",
+        "Ghanaparathunu ninne priya snehithudaa"
+      ]
+    }
+  ]
+}

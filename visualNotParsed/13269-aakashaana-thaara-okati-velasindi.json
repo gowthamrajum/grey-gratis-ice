@@ -1,0 +1,66 @@
+{
+  "song_name": "Aakaashaana thaara okati velasindhi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆకశాన తార ఒకటి వెలసింది",
+      "ఉదయించెను రక్షకుడని తెలిపింది (2)",
+      "ఇదే క్రిస్మస్ – హ్యాపీ హ్యాపీ క్రిస్మస్",
+      "మెర్రి మెర్రి క్రిస్మస్ – హ్యాపీ క్రిస్మస్ ||ఆకాశాన||"
+    ],
+    "english": [
+      "Aakaashaana thaara okati velasindhi",
+      "Udayinchenu rakshakudani thelipindhi (2)",
+      "Idhe Christmas – Happy happy Christmas",
+      "Merry merry Christmas – Happy Christmas ||Aakaashaana||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యూద దేశపు బెత్లెహేములో",
+        "కన్య మరియ గర్బమున జన్మించె",
+        "తూర్పు దేశపు గొప్ప జ్ఞానులు",
+        "యూదుల రాజు ఎక్కడని వెతికారు",
+        "తూరుపు దిక్కున చుక్కను కనుగొని",
+        "ఆనందభరితులై యేసుని చేరిరి",
+        "కానుకలిచ్చిరి పూజించిరి ||ఇదే||"
+      ],
+      "english": [
+        "Yooda deshapu Bethlehemulo",
+        "Kanya Mariya garbhamuna janminche",
+        "Thoorpu deshapu goppa gnaanulu",
+        "Yoodula raaju ekkadani vethikaaru",
+        "Thoorupu dikkuna chukkanu kanugoni",
+        "Aanandhabharithulai Yesuni cheriri",
+        "Kaanukalichchiri poojinchiri ||Idhe||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రాత్రివేళలో మంద కాసెడి",
+        "కాపరులకు ప్రభువు దూత ప్రకటించే",
+        "లోక ప్రజలకు మిగుల సంతసం",
+        "కలిగించెడి వర్తమానమందించే",
+        "క్రీస్తే శిశువుగా యేసుని పేరట",
+        "ముక్తిని గూర్చెడి రక్షకుడాయెగా",
+        "సంతోషగానముతో స్తుతియింతుము ||ఇదే||"
+      ],
+      "english": [
+        "Raathrivelalo manda kaasedi",
+        "Kaaparulaku prabhuvu dootha prakatinche",
+        "Loka prajalaku migula santhasam",
+        "Kaliginchedi varthamaanamandhinche",
+        "Kreesthe shishuvugaa Yesuni perata",
+        "Mukthini goorchedi rakshakudaayegaa",
+        "Santhoshagaanamutho sthuthiyinthumu ||Idhe||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "song_name": "Nee chiththam benu nee chiththambe nenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "ఎ ఎ పొల్లార్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ చిత్తం బేను నీ చిత్తంబే",
+      "నేను మట్టిని ఓ కుమ్మరీ!",
+      "నీ కోర్కెదీర నన్ దీర్చుమా",
+      "నీకు లొంగెదన్ ఓ ప్రభువా ||"
+    ],
+    "english": [
+      "Nee chiththam benu nee chiththambe",
+      "Nenu mattini o kummaree!",
+      "Nee korkedheera nan dheerchumaa",
+      "Neeku longedhan o Prabhuvaa ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ మార్గంబేను నీ మార్గంబే",
+        "నేడు నన్ను పరిశోధించు",
+        "శుద్ధిజేయుమో యేసూ నన్ను",
+        "నీ సన్నిధిలో మోకరింతున్ ||"
+      ],
+      "english": [
+        "Nee maargambenu nee maargambe",
+        "Nedu nannu parishodhinchu",
+        "Shuddhijeyumo Yesoo nannu",
+        "Nee sannidhilo mokarinthun ||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ కోర్కె యేసు నీ కోర్కెయే",
+        "నే గాయంబొంది అలసితిన్",
+        "బాగుచేయు నన్ ముట్టిప్రభో",
+        "నీకే సమస్త శక్తి నొప్పున్ ||"
+      ],
+      "english": [
+        "Nee korke Yesu nee korkeye",
+        "Ne gaayambondhi alasithin",
+        "Baagucheyu nan muttiprabho",
+        "Neeke samastha shakthi noppun"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీ యిష్టంబేను నీ యిష్టంబే",
+        "నీ యాత్మతోడ నన్ నింపుమా",
+        "నాయందెల్లరు క్రీస్తుంజూడన్",
+        "నీ యాధీనంబు నన్నుంచుకో"
+      ],
+      "english": [
+        "Nee ishtambenu nee ishtambe",
+        "Nee yaathmathoda nan nimpumaa",
+        "Naayandhellaru Kreesthunjoodan",
+        "Nee yaadheenambu nannunchuko"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "అప్పుడు నేను నీ రీతిగాన్",
+        "తప్పకజేతు నో ప్రభువా",
+        "ఇప్పుడే నీదు సేవ జేయున్",
+        "అప్పగింతు నా సమస్తంబు ||"
+      ],
+      "english": [
+        "Appudu nenu nee reethigaan",
+        "Thappakajethu no Prabhuvaa",
+        "Ippude needu seva jeyun",
+        "Appaginthu naa samasthambu ||"
+      ]
+    }
+  ]
+}

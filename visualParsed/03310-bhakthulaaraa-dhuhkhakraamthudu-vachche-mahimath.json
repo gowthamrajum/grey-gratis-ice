@@ -1,0 +1,70 @@
+{
+  "song_name": "Bhakthulaaraa duhkhakraanthudu vachche mahimathoda",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సంతోషకరము. పరమ గీతము సాంగ్ ఆఫ్ సాంగ్స్ 3:11"
+    ],
+    "english": [
+      "Santhoshakaramu. parama geethamu Song of Songs 3:11"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "భక్తులారా దుఃఖక్రాంతుడు - వచ్చె మహిమతోడ",
+        "విజయుడగాన మోక - రించుటకు పూజ్యుడు",
+        "మకుటము తలనుంచి - అభిషిక్తున్ జేయుడు - మకుటము"
+      ],
+      "english": [
+        "Bhakthulaaraa duhkhakraanthudu - Vachche mahimathoda",
+        "Vijayudagaana moka - Rinchutaku poojyudu",
+        "Makutamu thalanunchi - Abhishikthun jeyudu - Makutamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరలోక మార్భటింప - దూతలారా కొల్వుడి",
+        "సింహాసనమునందు రాజు - నభిషక్తున్ చేయుడి",
+        "మకుటము తలనుంచి - రాజరికమీయుడి - మకుటము"
+      ],
+      "english": [
+        "Paraloka maarbhatimpa - Doothalaaraa kolvudi",
+        "Simhaasanamunandhu raaju - Nabhishikthun cheyudi",
+        "Makutamu thalanunchi - Raajarikameeyudi - Makutamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాపుల్ ముండ్ల మకుట మీయ - గరక్షితు లెల్లరు",
+        "చుట్టు నిల్చి స్తుతిపాడి - యేసు పేరుపొందుడి",
+        "మకుటము తలనుంచి - జయము ప్రకటించుడి - మకుటము"
+      ],
+      "english": [
+        "Paapul mundla makuta meeya - Garakshithu lellaru",
+        "Chuttu nilchi sthuthipaadi - Yesu perupondudi",
+        "Makutamu thalanunchi - Jayamu prakatinchudi - Makutamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యేసు మహోన్నతు డాయెన్ - హా! మహాసంతోషము",
+        "ఆర్భటించు పాట న్విని - గొప్పగా స్తుతించుడి",
+        "మకుటము తలనుంచి - డీ రాజాధిరాజుకు - మకుటము"
+      ],
+      "english": [
+        "Yesu mahonnathu daayen - Haa! mahaasanthoshamu",
+        "Aarbhatinchu paata nvini - Goppagaa sthuthinchudi",
+        "Makutamu thalanunchi - Ee raajaadhiraajuku - Makutamu"
+      ]
+    }
+  ]
+}

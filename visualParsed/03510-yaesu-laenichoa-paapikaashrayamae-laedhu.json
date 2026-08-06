@@ -1,0 +1,70 @@
+{
+  "song_name": "Yesu lenicho paapikaashrayame ledu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు లేనిచో పాపికాశ్రయమే లేదు"
+    ],
+    "english": [
+      "Yesu lenicho paapikaashrayame ledu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లోకము నాలుగు దినముల నటనే నికరము గాదెవరికిని",
+        "దారిని తప్పి తిరిగెదవేల",
+        "ఎరిగితివా నీ గురిని కడకీలోకము వదలెదవు"
+      ],
+      "english": [
+        "Lokamu naalugu dinamula natane nikaramu gaadhevarikini",
+        "Daarini thappi thirigedhavela",
+        "Erigithivaa nee gurini kadakeelokamu vadhaledhavu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కూర్చుకొంటివి పాపము నిలలో కాలము వ్యర్థంబాయె",
+        "ప్రభువును నీవు మరచిపోతివి",
+        "పాడైపోయె నీ రూపం కడకీలోకము వదలెదవు"
+      ],
+      "english": [
+        "Koorchukontivi paapamu nilalo kaalamu vyarthambaaye",
+        "Prabhuvunu neevu marachipothivi",
+        "Paadaipoye nee roopam kadakeelokamu vadhaledhavu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రభుయేసు సిలువలో వ్రేలాడె పాపిని రక్షించుటకు",
+        "పాట్లిపడె తనరక్తము కార్చె",
+        "పాపపు ముల్లును విరిచె కడకీలోకము వదలెదవు"
+      ],
+      "english": [
+        "Prabhuyesu siluvalo vrelaade paapini rakshinchutaku",
+        "Paatlipade thanarakthamu kaarche",
+        "Paapapu mullunu viriche kadakeelokamu vadhaledhavu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ప్రేమతో క్రీస్తు నిన్ను పిలిచెను ప్రియుడా త్వరపడి రమ్ము",
+        "ఆయన యందు నమ్మికయుంచిన",
+        "ఆయనే నీ శరణగును కడకీలోకము వదలెదవు"
+      ],
+      "english": [
+        "Prematho Kreesthu ninnu pilichenu priyudaa thvarapadi rammu",
+        "Aayana yandu nammikayunchina",
+        "Aayane nee sharanagunu kadakeelokamu vadhaledhavu"
+      ]
+    }
+  ]
+}

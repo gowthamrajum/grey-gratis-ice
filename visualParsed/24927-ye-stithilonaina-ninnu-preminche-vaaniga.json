@@ -1,0 +1,68 @@
+{
+  "song_name": "E sthithilonainaa ninnu preminche vaanigaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Pastor Vinod Kumar"
+    ],
+    "రచన": [
+      "పాస్టర్ వినోద్ కుమార్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏ స్థితిలోనైనా నిన్ను ప్రేమించేవానిగా",
+      "ఏ స్థితిలోనైనా నీకు మొరపెట్టెవానిగా",
+      "చేయుము నా దేవా, చేయుము నా దేవా ౹౹ 2 ౹౹",
+      "అది మరణమైనను జీవమైనను శ్రమయైనను...",
+      "అది బాధయైనను వేదనైనను కరువైనను..."
+    ],
+    "english": [
+      "E sthithilonainaa ninnu preminchevaanigaa",
+      "E sthithilonainaa neeku morapettevaanigaa",
+      "Cheyumu naa Deva, cheyumu naa Deva || 2 ||",
+      "Adhi maranamainanu jeevamainanu shramayainanu...",
+      "Adhi baadhayainanu vedhanainanu karuvainanu..."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా తల్లే నన్ను మరిచిపోయినా, నా తండ్రే నన్ను విడచివెళ్లిన",
+        "నా స్నేహితులే నన్ను త్రొసేసిన, నే ప్రేమించేవారికి దూరమైనా ౹౹ 2 ౹౹",
+        "విడువవు ఎడబాయవని సెలవిచ్చిన యేసయ్య",
+        "తల్లి మరచినా మరచును,నన్ను మరువని యేసయ్య ౹౹ 2 ౹౹"
+      ],
+      "english": [
+        "Naa thalle nannu marichipoyinaa, naa thandre nannu vidachivellina",
+        "Naa snehithule nannu throsesina, ne preminchevaariki dooramainaa || 2 ||",
+        "Viduvavu edabaayavani selavichchina Yesayya",
+        "Thalli marachinaa marachunu, nannu maruvani Yesayya || 2 ||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా సొంతవారినే నే కోల్పోయిన,నా ఆరోగ్యం నన్ను వదిలివెళ్లిన",
+        "నాకున్న ఆశే నెరవేరకపోయిన,నా హృదయంలో కలవరమే ఉన్నాను ౹౹ 2 ౹౹",
+        "దేనికి భయపడక నే ముందుకే సాగేదా...",
+        "నీ మాట తప్పక నెరవేరునని నమ్మెద... ౹౹ 2 ౹౹",
+        "విడువవు ఎడబాయవని సెలవిచ్చిన యేసయ్యా",
+        "తల్లి మరచినా మరచును,నన్ను మరువని యేసయ్యా ౹౹ 2 ౹౹",
+        "నన్ను మరువని యేసయ్యా",
+        "నన్ను మరువని ...................యేసయ్యా"
+      ],
+      "english": [
+        "Naa sonthavaarine ne kolpoyina, naa aarogyam nannu vadhilivellina",
+        "Naakunna aashe neraverakapoyina, naa hrudayamlo kalavarame unnaanu || 2 ||",
+        "Deniki bhayapadaka ne munduke saagedaa...",
+        "Nee maata thappaka neraverunani nammedha... || 2 ||",
+        "Viduvavu edabaayavani selavichchina Yesayyaa",
+        "Thalli marachinaa marachunu, nannu maruvani Yesayyaa || 2 ||",
+        "Nannu maruvani Yesayyaa",
+        "Nannu maruvani ...................Yesayyaa"
+      ]
+    }
+  ]
+}

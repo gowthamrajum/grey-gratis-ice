@@ -1,0 +1,44 @@
+{
+  "song_name": "Seeyonu kumaari praakaarama nadi pravaahamu valenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Anne Deborah K Mohanty"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సీయోను కుమారి ప్రాకారమ – నది ప్రవాహము వలెను",
+      "దివారాత్రములు యెడతెగక – కన్నీరు పారనిమ్ము (2)"
+    ],
+    "english": [
+      "Seeyonu kumaari praakaarama - Nadi pravaahamu valenu",
+      "Divaaraathramulu edathegaka - Kanneeru paaranimmu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ కంటి పాపను – విశ్రమింపనీయకుము (2)",
+        "విరామము కలుగక – ప్రార్దించుము ప్రభు యేసుని (2) (సీయోను)"
+      ],
+      "english": [
+        "Nee kanti paapanu - Vishramimpaneeyakumu (2)",
+        "Viraamamu kalugaka - Praardhinchumu Prabhu Yesuni (2) (Seeyonu)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రేయి మొదటి జామున – లేచి మొర పెట్టుము (2)",
+        "నీరు కుమ్మరించునట్లు – కుమ్మరించు నీ హ్రుదయం (2) (సీయోను)"
+      ],
+      "english": [
+        "Reyi modati jaamuna - Lechi mora pettumu (2)",
+        "Neeru kummarinchunatlu - Kummarinchu nee hrudayam (2) (Seeyonu)"
+      ]
+    }
+  ]
+}

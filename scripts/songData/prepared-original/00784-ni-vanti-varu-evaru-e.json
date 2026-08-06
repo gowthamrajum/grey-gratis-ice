@@ -1,0 +1,44 @@
+{
+  "song_name": "Ni Vanti Varu Evaru E",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ వంటి వారు ఎవరు ఈ లోకంలో యేసయ్యా నీవే మా దేవుడవు యేసయ్యా యేసయ్య. . .నా యేసయ్యా"
+    ],
+    "english": [
+      "Ni vanti varu evaru e lokamlo yesayya Nive ma devudavu yesayya Yesayya. . .Na yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తీసావు నన్ను నేల నుండి చేసావు నీదు రూపంబులో ఆ. . .ఆ నీ జీవ ఆత్మను నా కొసగినావు జీవింప జేసిన జీవాథిపతివి"
+      ],
+      "english": [
+        "Tisavu nannu nela numdi chesavu nidu rupambulo aa. . .aa Ni jiva atmanu na kosaginavu jivimpa jesina jivathipativi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దీనులను పైకి లేవనెత్తువాడవు బీదలను కనికరించు దేవుడవు నీవు ఆ. . .ఆ నీ ప్రేమ హస్తాలలో నన్ను దాచి ఆదరించు కాపాడు దేవుడవు నీవు"
+      ],
+      "english": [
+        "Dinulanu paiki levanettuvadavu bidalanu kanikarimchu devudavu nivu aa. . .aa Ni prema hastalalo nannu dachi adarimchu kapadu devudavu nivu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మరణము నుండి నా ప్రాణమున్ కన్నీళ్ళు విడువకుండా నా కన్నులన్ ఆ. . .ఆ జారి పడకుండా నా పాదములను రక్షించువాడవు నీవే యేసయ్యా"
+      ],
+      "english": [
+        "Maranamu numdi na pranamun kannillu viduvakumda na kannulan aa. . .aa Jari padakumda na padamulanu rakshimchuvadavu nive yesayya"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "song_name": "Gethsemane thotalo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "గెత్సేమనే తోటలో - ప్రార్ధింప నేర్పితివా",
+      "ఆ ప్రార్దనే మాకునిలా - రక్షణను కలిగించెను",
+      "ఆ...ఆ...ఆ...ఆ... || గెత్సేమనే||"
+    ],
+    "english": [
+      "Gethsemane thotalo - Praardhimpa nerpithivaa",
+      "Aa praardhane maakunilaa - Rakshananu kaliginchenu",
+      "Aa...aa...aa...aa... || Gethsemane||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ చిత్తమైతే ఈ గిన్నెను - నా యెద్ద నుండి తొలగించుమని",
+        "దు:ఖంబులో భారంబుతో ప్రార్ధించితివా తండ్రి  ||గెత్సేమనే||"
+      ],
+      "english": [
+        "Nee chiththamaithe ee ginnenu - Naa yodda nundi tholaginchumani",
+        "Dukhambulo bhaarambutho praardhinchithivaa thandri  ||Gethsemane||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆ ప్రార్దనే మాకు నిలా - నీ రక్షణ భాగ్యంబు కలిగించెను",
+        "నీ సిలువే మాకు శరణం - నిన్న నేడు రేపు మాకు  ||గెత్సేమనే||"
+      ],
+      "english": [
+        "Aa praardhane maaku nilaa - Nee rakshana bhaagyambu kaliginchenu",
+        "Nee siluve maaku sharanam - Ninna nedu repu maaku  ||Gethsemane||"
+      ]
+    }
+  ]
+}

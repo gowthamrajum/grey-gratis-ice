@@ -1,0 +1,64 @@
+{
+  "song_name": "Noothanamainadi",
+  "author": {
+    "Authored by": "Dasari Sundeep",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నూతనమైనది నీ వాత్సల్యము..",
+      "ప్రతి దినము నన్ను దర్శించేను",
+      "ఏడాబాయనిది నీ కనికరము",
+      "నన్నెంతో ప్రేమించెను తరములు మారుచున్నను",
+      "దినములు గడుచుచున్నను నీ ప్రేమలో మార్పులేదు",
+      "సన్నుతించెదను నా యేసయ్య",
+      "సన్నుతించెదను నీ నామమును"
+    ],
+    "english": [
+      "Noothanamainadi nee vaathsalyamu..",
+      "prathi dhinamu nannu dharchinchenu",
+      "edabaayanidhi nee kanikaramu",
+      "nannentho preminchenu tharamulu maaruchunnanu",
+      "dhinamulu gadhuchuchunnanu nee premalo maarpuledu",
+      "sannuthinchedhanu naa yesayya",
+      "sannuthinchedhanu nee naamamunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గడచిన కాలమంత",
+        "నీ కృపచూపి ఆదరించినావు జరుగబోయే కాలమంత",
+        "నీ కృపలోన నన్ను దాచెదవు",
+        "విడువని దేవుడవు యెడబాయలేదు",
+        "నన్ను క్షణమైనా త్రోసివేయవు",
+        "నా హీనదశలో నీ ప్రేమ చూపి పైకి లేపినావు",
+        "ఉన్నత స్థలములలో నన్ను నిలువబెట్టి ధైర్యపరచినావు",
+        "మరువని దేవుడవు నన్ను మరువలేదు",
+        "నీవు ఏ సమయమందైనను చేయి విడువవు",
+        "నీ రెక్కల క్రింద నన్ను దాచినావు",
+        "ఆశ్రయమైనావు నా దాగు స్థలముగా",
+        "నీవుండినావు సంరక్షించావు",
+        "ప్రేమించే దేవుడవు తృప్తిపరచినావు నన్ను",
+        "సమయోచితముగా ఆదరించినావు"
+      ],
+      "english": [
+        "Gadachina kaalamantha",
+        "nee krupa choopi aadharinchinaavu jaragaboye kaalamantha",
+        "nee krupalona nannu dhaachedhavu",
+        "viduvani dhevudavu yedabaayaledhu",
+        "nannu kshanamainaa throsiveyavu",
+        "Naa heena dashalo nee prema choopi paiki lepinaavu",
+        "unnatha sthalamulalo nannu niluvabetti dhairyaparachinaavu",
+        "maruvani dhevudavu nannu maruvaledu",
+        "neevu ey samayamandainanu cheyi viduvavu",
+        "Nee rekkala krindha nannu dhaachinaavu",
+        "aasrayamainaavu naa dhaagu sthalamugaa",
+        "neevundinaavu samrakshinchaavu",
+        "preminche dhevudavu thrupthiparachinaavu nannu",
+        "samayochithamugaa aadharinchinaavu"
+      ]
+    }
+  ]
+}

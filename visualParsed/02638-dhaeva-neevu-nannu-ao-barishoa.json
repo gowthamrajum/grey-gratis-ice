@@ -1,0 +1,110 @@
+{
+  "song_name": "Deva neevu nannu barisho dhinchi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "మల్లెల దావీదు"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవ నీవు నన్ను ఁ బరిశో ధించి బాగుగఁ దెలిసికొంటివి నీ వెఱుఁగు",
+      "దువు నేను కూర్చుండుటయును నే లేచుటయును ||దేవ||"
+    ],
+    "english": [
+      "Deva neevu nannu barisho dhinchi baaguga dhelisikontivi nee verugu",
+      "Dhuvu nenu koorchundutayunu ne lechutayunu ||Deva||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నాకుఁ దలఁపులు పుట్టినపుడే నా మనస్సు గ్రహించి నాఁడవు",
+        "ప్రాకటంబుగ నా నడక నా పడకను బరిశీలించితి  ||దేవ||"
+      ],
+      "english": [
+        "Naaku dhalapulu puttinapude naa manassu grahinchi naadavu",
+        "Praakatambuga naa nadaka naa padakanu barisheelinchithi ||Deva||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీకు నా సమస్త చర్యల నిజము తెలియును, మాట నాల్కకు రాకపూర్వము",
+        "దేవ సర్వముఁ బూర్తిగా నీకే తెలియును  ||దేవ||"
+      ],
+      "english": [
+        "Neeku naa samastha charyala nijamu theliyunu, maata naalkaku raakapoorvamu",
+        "Deva sarvamu boorthigaa neeke theliyunu ||Deva||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా వెనుకను ముందు నుండి నన్ను నావరిఁచి నీ చెయ్యి నీవు నాపయి",
+        "నుంచితివి నా మది కది కేవల మందదు  ||దేవ||"
+      ],
+      "english": [
+        "Naa venukanu mundu nundi nannu naavarinchi nee cheyyi neevu naapayi",
+        "Nunchithivi naa madi kadhi kevala mandhadhu ||Deva||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "అరుగుదెంచెద నెచ్చటికి నీ యాత్మ యొద్ద నుండి యింక నీ పరమ",
+        "సన్నిధి నుండి నే నెచ్చోటికిఁ బారిపోవుదు  ||దేవ||"
+      ],
+      "english": [
+        "Arugudhencheda nechchatiki nee yaathma yodda nundi inka nee parama",
+        "Sannidhi nundi ne nechchotiki baaripovudhu ||Deva||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఏను వేకువ టెక్కలను ధరి యించి కడలిలో నున్న నీ చెయి మానక",
+        "నడిపించు నీ కుడి చేయియు మరి నను గైకొను  ||దేవ||"
+      ],
+      "english": [
+        "Enu vekuva tekkalanu dari yinchi kadalilo nunna nee cheyi maanaka",
+        "Nadipinchu nee kudi cheyiyu mari nanu gaikonu ||Deva||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నను సృజించిన తెఱఁగెఱుంగఁగ నాకు భయ మాశ్చర్య మొదవును",
+        "గనుక నీకును నేఁ గృతజ్ఞతాస్తుతులను జెల్లింతును  ||దేవ||"
+      ],
+      "english": [
+        "Nanu srujinchina theragerungaga naaku bhaya maashcharya modhavunu",
+        "Ganuka neekunu ne kruthagnathaasthuthulanu chellinthunu ||Deva||"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "నేను పిండం బైనయప్పుడు నీవు నను వీ క్షించినాఁడవు నేను బ్రతుకుట",
+        "ముందె లిఖితంబాయెను నీ గ్రంథంబులో  ||దేవ||"
+      ],
+      "english": [
+        "Nenu pindam bainayappudu neevu nanu vee kshinchinaadavu nenu brathukuta",
+        "Munde likhithambaayenu nee granthambulo ||Deva||"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "నిక్కముగ దేవా నీ తలఁపు లెక్కువ ప్రియ మగును నాకును లెక్కకు",
+        "నెక్కువౌ  ||దేవ||"
+      ],
+      "english": [
+        "Nikkamuga Devaa nee thalapu lekkuva priya magunu naakunu lekkaku",
+        "Nekkuvau ||Deva||"
+      ]
+    }
+  ]
+}

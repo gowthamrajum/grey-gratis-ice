@@ -1,0 +1,79 @@
+{
+  "song_name": "Daagu nedhi maapunu vega Yesu raktha daare",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "జేకబ్ చేంబర్లేస్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "డాగు నేది మాపును",
+      "వేగ యేసు రక్త ధారే",
+      "రోగి కేయౌషథము",
+      "బాగుగా నా రక్త ధారె",
+      "|| హా దివ్య రక్తము",
+      "ఆ బుగ్గ వినహా",
+      "యేదియు లేదుగా",
+      "యేసు యొక్క రక్త ధారె ||"
+    ],
+    "english": [
+      "Daagu nedhi maapunu",
+      "Vega Yesu raktha daare",
+      "Rogi keyaushadhamu",
+      "Baagugaa naa raktha daare",
+      "|| Haa divya rakthamu",
+      "Aa bugga vinahaa",
+      "Yedhiyu ledugaa",
+      "Yesu yokka raktha daare ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాప పరిహారము",
+        "ప్రాపు యేసు రక్త ధారె",
+        "శాపపు సంహారము",
+        "స్వామి యేసు రక్త ధారె"
+      ],
+      "english": [
+        "Paapa parihaaramu",
+        "Praapu Yesu raktha daare",
+        "Shaapapu samhaaramu",
+        "Swaami Yesu raktha daare"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇదే నా సుతీర్థము",
+        "యేసు యొక్క రక్తధారె",
+        "నాదు క్షమాపణము",
+        "సాధు వేసు రక్త ధారె"
+      ],
+      "english": [
+        "Idhe naa sutheerthamu",
+        "Yesu yokka rakthadhaare",
+        "Naadu kshamaapanamu",
+        "Saadhu Yesu raktha daare"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నాకు సమాధానము",
+        "నాధుఁ డేసు రక్త ధారె",
+        "సాకు నేను గానను",
+        "జయ యేసు రక్త ధారె"
+      ],
+      "english": [
+        "Naaku samaadhaanamu",
+        "Naadu Yesu raktha daare",
+        "Saaku nenu gaananu",
+        "Jaya Yesu raktha daare"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "song_name": "Hosanna",
+  "author": {
+    "Authored by": "Pastor Vinod Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా చిన్ని హృదయముతో నా గొప్ప దేవుని",
+      "నే ఆరాధించేదన్",
+      "పగిలిన నా కుండను నా కుమ్మరి యొద్దకు తెచ్చి",
+      "బాగు చేయమని కోరెదన్"
+    ],
+    "english": [
+      "Naa chinni hrudayamtho naa goppa devunine",
+      "aaradinchedan",
+      "pagilina na kundanu",
+      "naa kummari yoddaku thechi",
+      "baagucheyamani koredan"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హోసన్న… హోసన్న… యుదుల రాజుకే",
+        "హోసన్న… హోసన్న… రానున్న రారాజుకే"
+      ],
+      "english": [
+        "Hosanna.. Hosannaa.. yudhula raajuke",
+        "Hosanna.. Hosannaa.. raanunna raaraajuke"
+      ]
+    }
+  ]
+}

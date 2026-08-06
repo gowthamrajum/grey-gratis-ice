@@ -1,0 +1,53 @@
+{
+  "song_name": "Daivam Prema Swaroopam",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దైవం ప్రేమ స్వరూపం - ప్రేమకు భాష్యం - శ్రీయేసుడే – అవనిలో",
+      "దైవం ప్రేమ స్వరూపం - ప్రేమకు భాష్యం – శ్రీయేసుడే",
+      "ఆ .. ప్రేమే త్యాగ భరితం - సిలువలో దివ్య చరితం",
+      "ఆ …. ప్రేమే త్యాగ భరితం - సిలువలో దివ్య చరితం"
+    ],
+    "english": [
+      "Daivam Prema Swaroopam - Premaku Bhaashyam - Shreeyesude – Avanilo",
+      "Daivam Prema Swaroopam - Premaku Bhaashyam – Shreeyesude",
+      "Aa .. Preme Thyaaga Bharitham - Siluvalo Divya Charitham",
+      "Aa …. Preme Thyaaga Bharitham - Siluvalo Divya Charitham"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఈ ధరలో ప్రేమ శూన్యం - ఆదరణలేని గమ్యం",
+        "ఈ ధరలో ప్రేమ శూ న్యం - ఆదరణలేని గమ్యం",
+        "మధురంపు యేసు ప్రేమ - మదినింపు మధుర శాంతి",
+        "మధురంపు యేసు ప్రేమా - మదినింపు మధుర శాంతి"
+      ],
+      "english": [
+        "Ee Dharalo Prema Shoonyam - Aadaranaleni Gamyam",
+        "Ee Dharalo Prema Shoo Nyam - Aadaranaleni Gamyam",
+        "Madhurampu Yesu Prema - Madinimpu Madhura Shaanthi",
+        "Madhurampu Yesu Premaa - Madinimpu Madhura Shaanthi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కరుణించి క్రీస్తు నీకై - మరణించే సిలువ బలియై",
+        "కరుణించి క్రీస్తు నీ కై - మరణించే సిలువ బలియై",
+        "పరలోక దివ్య ప్రేమన్ - ధరనిచ్చె నిన్ను బ్రోవన్",
+        "పరలోక దివ్య ప్రేమాన్ - ధరనిచ్చె నిన్ను బ్రోవన్"
+      ],
+      "english": [
+        "Karuninchi Kreesthu Neekai - Maraninche Siluva Baliyai",
+        "Karuninchi Kreesthu Nee Kai - Maraninche Siluva Baliyai",
+        "Paraloka Divya Preman - Dharaniche Ninnu Brovan",
+        "Paraloka Divya Premaan - Dharaniche Ninnu Brovan"
+      ]
+    }
+  ]
+}

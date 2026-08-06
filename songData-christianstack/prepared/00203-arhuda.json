@@ -1,0 +1,160 @@
+{
+  "song_name": "Arhuda",
+  "author": {
+    "Authored by": "Vijay Kondapuram",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆరాధనా ఆరాధనా నీకే",
+      "హల్లెలూయా హల్లెలూయా నీకే"
+    ],
+    "english": [
+      "Aradhana aradhana neeke",
+      "Hallelujah hallelujah neeke"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆరాధనకు అర్హుడా",
+        "నీకే నా ఆరాధనా",
+        "స్తుతులపై ఆసీనుడా",
+        "నీకే నా స్తుతి కీర్తనా"
+      ],
+      "english": [
+        "Aradhanaku arhuda",
+        "Neeke naa Aradhana",
+        "Stuthulapai aseenuda",
+        "Neeke naa sthuthi keerthana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అను-పల్లవి 1:",
+        "మహిమ ఘనత ప్రభావములకు యోగ్యుడా"
+      ],
+      "english": [
+        "Pre-Chorus 1",
+        "Mahima ghanatha prabhavamulaku yogyuda"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "విరిగిన మనసు నీ బలిపీఠముపై",
+        "పరిమళముగా అర్పింతును",
+        "సిలువనేతుకుని నన్ను నీవు ఉపేక్షించి",
+        "వెనుతిరుగక వెంబడింతు"
+      ],
+      "english": [
+        "Virigina manasu nee balipeetamupai",
+        "Parimilamuga arpinthunu",
+        "Siluvanethukoni nanu ne upekshinchi",
+        "Venuthirugaka vembadinthu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "అను-పల్లవి 2:",
+        "నా శరీరమును సజీవ యాగముగ అర్పింతును"
+      ],
+      "english": [
+        "Pre-Chorus 2",
+        "Naa shareeramunu sajeeva yaagamugarpinthunu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఆరాధనా ఆరాధనా నీకే",
+        "హల్లెలూయా హల్లెలూయా నీకే"
+      ],
+      "english": [
+        "Aradhana aradhana neeke",
+        "Hallelujah hallelujah neeke"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఆలలెన్నో నాపైకి ఎగిసినను",
+        "శత్రువులే నన్ను చుట్టినను",
+        "బలమంత నా లో క్షీణించినను",
+        "విశ్వాసమే నా లో కొడువైనను"
+      ],
+      "english": [
+        "Alalenno naapaiki egisinanu",
+        "Shatruvule nannu chuttinanu",
+        "Balamantha naalo ksheeninchinanu",
+        "Viswasame naalo koduvainanu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "అను-పల్లవి 3:",
+        "ఆరాధనే నా ఆయుధమై జయింతును"
+      ],
+      "english": [
+        "Pre-Chorus 3",
+        "Aradhane naa ayudhamai jayinthunu"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "ఆరాధనా ఆరాధనా నీకే",
+        "హల్లెలూయా హల్లెలూయా నీకే"
+      ],
+      "english": [
+        "Aradhana aradhana neeke",
+        "Hallelujah hallelujah neeke"
+      ]
+    },
+    {
+      "stanza_number": 9,
+      "telugu": [
+        "బ్రిడ్జ్ 1:",
+        "సిలువకై పునరుత్థానకై",
+        "నా విమోచనకై ఆరాధనా",
+        "నీ మేలులకై విశ్వాస్యతకై",
+        "శాశ్వత ప్రేమకై ఆరాధనా"
+      ],
+      "english": [
+        "Bridge 1",
+        "Siluvakai punaruthanikai",
+        "Naa vimochanakai aradhana",
+        "Nee melulakai viswasyathakai",
+        "Sashwatha premakai aradhana"
+      ]
+    },
+    {
+      "stanza_number": 10,
+      "telugu": [
+        "బ్రిడ్జ్ 2:",
+        "పరిశుద్ధుడా గొర్రెపిల్లా",
+        "యూదా సింహమా నీకే ఆరాధనా"
+      ],
+      "english": [
+        "Bridge 2",
+        "Parishudhuda gorrepilla",
+        "Yuda simhama neeke aradhana"
+      ]
+    },
+    {
+      "stanza_number": 11,
+      "telugu": [
+        "ఆరాధనా ఆరాధనా నీకే",
+        "హల్లెలూయా హల్లెలూయా నీకే"
+      ],
+      "english": [
+        "Aradhana aradhana neeke",
+        "Hallelujah hallelujah neeke"
+      ]
+    }
+  ]
+}

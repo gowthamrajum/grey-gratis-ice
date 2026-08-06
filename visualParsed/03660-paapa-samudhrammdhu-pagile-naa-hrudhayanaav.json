@@ -1,0 +1,64 @@
+{
+  "song_name": "Paapa samudhramandhu pagile naa hrudhayanaava",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "పాప సముద్రమందు - పగిలె నా హృదయనావ",
+      "నావను దరికి యేసు - నడిపించు చక్కజేసి"
+    ],
+    "english": [
+      "Paapa samudhramandhu - Pagile naa hrudhayanaava",
+      "Naavanu dariki Yesu - Nadipinchu chakkajesi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రక్కలో కారిన రక్త - చుక్కల దర్శనమిమ్ము",
+        "నా తండ్రి నడుపు సత్య - నూతన మార్గమందు"
+      ],
+      "english": [
+        "Prakkalo kaarina raktha - Chukkala dharshanamimmu",
+        "Naa thandri nadupu sathya - Noothana maargamandu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నజరేయుడా యేసు నీదు - నాణ్యంపు ముఖమును జూపి",
+        "స్వస్థపర్చు రోగుల - సర్వజనుల బ్రతికించు"
+      ],
+      "english": [
+        "Najareyudaa Yesu needu - Naanyampu mukhamunu joopi",
+        "Svasthaparchu rogula - Sarvajanula brathikinchu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సీయోను పర్వత మహిమ - చూపించుము ఎల్లరికి",
+        "నా హృదయముపైనున్న - నల్ల తెరను చింపుము"
+      ],
+      "english": [
+        "Seeyonu parvatha mahima - Choopinchumu ellariki",
+        "Naa hrudhayamupainunna - Nalla theranu chimpumu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నా ప్రాణ ప్రియుడా యేసు - నా ప్రార్థన వినుమా",
+        "సంపూర్ణునిగా చేయు - నీ చక్కని దర్శనమిచ్చి"
+      ],
+      "english": [
+        "Naa praana priyudaa Yesu - Naa praarthana vinumaa",
+        "Sampoornunigaa cheyu - Nee chakkani dharshanamichchi"
+      ]
+    }
+  ]
+}

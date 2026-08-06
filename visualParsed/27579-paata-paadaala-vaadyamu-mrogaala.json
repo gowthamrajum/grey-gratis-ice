@@ -1,0 +1,75 @@
+{
+  "song_name": "Paata paadaalaa vaadyamulu mrogaala",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "A R Stevenson"
+    ],
+    "రచన": [
+      "ఏ ఆర్ స్టీవెన్సన్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "పాట పాడాలా వాద్యములు మ్రాగాల",
+      "వేడుకలు చేసుకోవాలా",
+      "అందరూ ఒక్కటై ఉత్సహించాల",
+      "రాజుల రాజునకు భజన చేయాలా",
+      "కారణ జన్మునికి మహిమ చెందాల"
+    ],
+    "english": [
+      "Paata paadaalaa vaadyamulu mrogaala",
+      "Vedukalu chesukovaalaa",
+      "Andharoo okkatai uthsahinchaala",
+      "Raajula raajunaku bhajana cheyaalaa",
+      "Kaarana janmuniki mahima chendhaala"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పొందిన మేళ్లను మరుగు చేయక",
+        "అందరి ముందర సాక్ష్యమివ్వాలా",
+        "మానవుని ప్రేమించి నాశనము తప్పించే",
+        "రక్షకుని స్వంతమవ్వాలా"
+      ],
+      "english": [
+        "Pondina mellanu marugu cheyaka",
+        "Andari mundara saakshyamivvaalaa",
+        "Maanavuni preminchi naashanamu thappinche",
+        "Rakshakuni svanthamavvaalaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేనిని గూర్చియు దిగులు చెందక",
+        "భారము యేసుకు అప్పగించాల",
+        "ధైర్యమును రప్పించి ప్రాణమును దక్కించే",
+        "భీకరుని ఆశ్రయించాలా"
+      ],
+      "english": [
+        "Denini goorchiyu digulu chendaka",
+        "Bhaaramu Yesuku appaginchaala",
+        "Dhairyamunu rappinchi praanamunu dhakkinche",
+        "Bheekaruni aashrayinchaalaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "లోకము వైపుకు కనులు త్రిప్పక",
+        "దేవుని నీతిపై దృష్టి ఉంచాలా",
+        "వాక్యముతో సంధించి క్షేమముతో పంపించే",
+        "శ్రీకరుని సన్నుతించాల"
+      ],
+      "english": [
+        "Lokamu vaipuku kanulu thrippaka",
+        "Devuni neetipai drushti unchaalaa",
+        "Vaakyamutho sandhinchi kshemamutho pampinche",
+        "Shreekaruni sannuthinchaala"
+      ]
+    }
+  ]
+}

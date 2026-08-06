@@ -1,0 +1,85 @@
+{
+  "song_name": "Maaraa gayaa sulee par",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మారా గయా సులీ పర్",
+      "మేరా యీషు మసీహ్ (2)",
+      "మేరా యీషు మసీహ్ (2)",
+      "మారా గయా సులీ పర్",
+      "మేరా యీషు మసీహ్ (2)",
+      "మేరా యీషు మసీహ్ ||మారా||"
+    ],
+    "english": [
+      "Maaraa gayaa sulee par",
+      "Meraa Yeeshu Maseeh (2)",
+      "Meraa Yeeshu Maseeh (2)",
+      "Maaraa gayaa sulee par",
+      "Meraa Yeeshu Maseeh (2)",
+      "Meraa Yeeshu Maseeh ||Maaraa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యీషు సులీ చడా హై",
+        "మేరే గుణా కే ఖాతిర్ (2)",
+        "ఉస్నే దీ జాన్ అప్ నీ",
+        "మేరే గుణా కే ఖాతిర్ (2)",
+        "లాఖో మే ఏక్ హై వో",
+        "మేరా యీషు మసీహ్ (2)  ||మారా||"
+      ],
+      "english": [
+        "Yeeshu sulee chadaa hai",
+        "Mere gunaa ke khaathir (2)",
+        "Usne dhee jaan ap nee",
+        "Mere gunaa ke khaathir (2)",
+        "Laakho me ek hai vo",
+        "Meraa Yeeshu Maseeh (2)  ||Maaraa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మేరే గుణావో కా భోజ్",
+        "యీషు తూ నే లియా హై (2)",
+        "మేరే లియే సభీ దర్ద్",
+        "యీషు తూ నే సహా హై (2)",
+        "ఏక్ నామ్ అనోఖా హై వో",
+        "మేరా యీషు మసీహ్ (2)  ||మారా||"
+      ],
+      "english": [
+        "Mere gunaavo kaa bhoj",
+        "Yeeshu thoo ne liyaa hai (2)",
+        "Mere liye sabhee dhardh",
+        "Yeeshu thoo ne sahaa hai (2)",
+        "Ek naam anokhaa hai vo",
+        "Meraa Yeeshu Maseeh (2)  ||Maaraa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యీషు తేరే లాహూ సే",
+        "ముజ్కో మిలీ హై ముక్తి (2)",
+        "పాపోన్ సే దూర్ కే రెహ్కర్",
+        "ముజ్కో మిలీ హై శాంతి (2)",
+        "ముక్తి కా దాతా హై వో",
+        "మేరా యీషు మసీహ్ (2)  ||మారా||"
+      ],
+      "english": [
+        "Yeeshu there laahoo se",
+        "Mujko milee hai mukthi (2)",
+        "Paapon se dhoor ke rehkar",
+        "Mujko milee hai shaanthi (2)",
+        "Mukthi kaa dhaathaa hai vo",
+        "Meraa Yeeshu Maseeh (2)  ||Maaraa||"
+      ]
+    }
+  ]
+}

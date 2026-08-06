@@ -1,0 +1,62 @@
+{
+  "song_name": "Oka kshanamainaa ninnu veedi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఒక క్షణమైనా నిన్ను వీడి",
+      "ఉండలేనయ్య నా యేసయ్యా (2)",
+      "యేసయ్యా యేసయ్యా",
+      "యేసయ్యా యేసయ్యా (2) ||ఒక క్షణమైనా||"
+    ],
+    "english": [
+      "Oka kshanamainaa ninnu veedi",
+      "Undalenayya naa Yesayyaa (2)",
+      "Yesayyaa Yesayyaa",
+      "Yesayyaa Yesayyaa (2) ||Oka kshanamainaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నశియించిపోతున్న నన్ను",
+        "బ్రతికించినావయ్యా యేసు",
+        "కృశించిపోతున్న నాలో",
+        "వేంచేసినావయ్యా యేసు (2)",
+        "నీ కార్యములెంతో ఆశ్చర్యకరములయ్యా",
+        "నీ వాగ్దానములెంతో నమ్మదగినవయ్యా ||యేసయ్యా||"
+      ],
+      "english": [
+        "Nashiyinchipothunna nannu",
+        "Brathikinchinaavayyaa Yesu",
+        "Krushinchipothunna naalo",
+        "Venchesinaavayyaa Yesu (2)",
+        "Nee kaaryamulentho aashcharyakaramulayyaa",
+        "Nee vaagdhaanamulentho nammadhaginavayyaa ||Yesayyaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మతిలేక తిరిగిన నన్ను",
+        "నీ దరి చేర్చినావయ్యా యేసు",
+        "శ్రమ చేత నలిగిన నాకు",
+        "వరమిచ్చినావయ్యా యేసు (2)",
+        "నీ ఆలోచనలెంతో లోతైన దీవెనయ్యా",
+        "నీ తలపులు ఎంతో మధురము నా యేసయ్యా ||యేసయ్యా||"
+      ],
+      "english": [
+        "Mathileka thirigina nannu",
+        "Nee dari cherchinaavayyaa Yesu",
+        "Shrama chetha naligina naaku",
+        "Varamichchinaavayyaa Yesu (2)",
+        "Nee aalochanalentho lothaina dheevenayyaa",
+        "Nee thalapulu entho madhuramu naa Yesayyaa ||Yesayyaa||"
+      ]
+    }
+  ]
+}

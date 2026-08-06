@@ -1,0 +1,86 @@
+{
+  "song_name": "Dhashamu Bhaagamu Lella Dhaevunivi",
+  "author": {
+    "Authored by": "",
+    "రచన": "కూచిపూడి రాజరత్నము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "దశము భాగము లెల్ల దేవునివి ధారాళముగ నియ్య సమకూడుఁడి",
+      "పశువులు పైరులు దేవునివి పసిఁడి లోహపుగనులు దేవునివి",
+      "భాగ్యభోగ్యము లెల్ల దేవునివి భావించి కానుకలను నియ్యుఁడి"
+    ],
+    "english": [
+      "Dhashamu Bhaagamu Lella Dhaevunivi Dhaaraalamuga Niyya Samakoodudi",
+      "Pashuvulu Pairulu Dhaevunivi Pasidi Loahapuganulu Dhaevunivi",
+      "Bhaagyabhoagyamu Lella Dhaevunivi Bhaavinchi Kaanukalanu Niyyudi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేవునివి దొంగలించెదరా దేవదేవుని మోసపుచ్చెదరా",
+        "భావించి మది నెంచి భయము నెంచి ప్రార్ధింపఁ దలవంచి ప్రభు భాగమున్",
+        "దేవాలయంబును పూర్ణంబుగా దేదీప్యముగా నుండ సమకూర్చుఁడీ"
+      ],
+      "english": [
+        "Dhaevunivi Dhongalinchedharaa Dhaevadhaevuni Moasapuchchedharaa",
+        "Bhaavinchi Madhi Nenchi Bhayamu Nenchi Praardhimpa Dhalavanchi Prabhu Bhaagamun",
+        "Dhaevaalayambunu Poornambugaa Dhaedheepyamugaa Nunda Samakoorchudee"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరిశుద్ధ దేవుని మందిరముఁ పరిపూర్ణముగాను యోచించుఁడీ",
+        "పరిశుద్ధ భాగము విడఁదీయుఁడీ పాడిపంటలు నాస్తి దేవునిని",
+        "పదియవ భాగంబు దేవునివి పరమాత్మ దీవెనలను బొందుఁడీ"
+      ],
+      "english": [
+        "Parishudhdha Dhaevuni Mandhiramu Paripoornamugaanu Yoachinchudee",
+        "Parishudhdha Bhaagamu Vidadheeyudee Paadipantalu Naasthi Dhaevunini",
+        "Padhiyava Bhaagambu Dhaevunivi Paramaathma Dheevenalanu Bondhudee"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రథమ ఫలంబులు దేవునివి విదితంబుగా నీయ మది నెంచుఁడీ",
+        "సదమల హృదయములను బొందియుఁ ప్రథమ భాగము నెల్ల విడఁదీసియు",
+        "ముదమున దేవునికర్పించుఁడీ సదయు దీవెనలొంద సమకూర్చుఁడీ"
+      ],
+      "english": [
+        "Prathama Phalambulu Dhaevunivi Vidhithambugaa Neeya Madhi Nenchudee",
+        "Sadhamala Hrudhayamulanu Bondhiyu Prathama Bhaagamu Nella Vidadheesiyu",
+        "Mudhamuna Dhaevunikarpinchudee Sadhayu Dheevenalondha Samakoorchudee"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆకసపు వాకిండ్ల విప్పుదును అధిక కృపలను గుమ్మరించుదును",
+        "మీ కష్టఫలములను దీవింతును భీకర నాశంబుఁ దొలఁగింతును",
+        "మీ కానంద దేశ మిత్తు నని శ్రీకరుం డెహోవా సెల విచ్చెను"
+      ],
+      "english": [
+        "Aakasapu Vaakindla Vippudhunu Adhika Krupalanu Gummarinchudhunu",
+        "Mee Kashtaphalamulanu Dheevinthunu Bheekara Naashambu Dholaginthunu",
+        "Mee Kaanandha Dhaesha Miththu Nani Shreekarum Dehoavaa Sela Vichchenu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "దినభోజనం బిచ్చు దేవునిని ఘన సౌఖ్యముల నిచ్చు దేవునిని",
+        "వినయంబుతో మదిని ధ్యానించుచు దినభోజనంబులను భాగించుచు",
+        "మానక దేవుని కర్పించు డీ ఘనసేవ జయమొందు పని బూనడీ"
+      ],
+      "english": [
+        "Dhinabhoajanam Bichchu Dhaevunini Ghana Saukhyamula Nichchu Dhaevunini",
+        "Vinayambuthoa Madhini Dhyaaninchuchu Dhinabhoajanambulanu Bhaaginchuchu",
+        "Maanaka Dhaevuni Karpinchu Dee Ghanasaeva Jayamondhu Pani Boonadee"
+      ]
+    }
+  ]
+}

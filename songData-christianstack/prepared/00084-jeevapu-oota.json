@@ -1,0 +1,48 @@
+{
+  "song_name": "Jeevapu Oota",
+  "author": {
+    "Authored by": "Ambati Cherubim",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కృప వెంబడి కృప చూపించిన",
+      "కృపామయుడవు నా యేసయ్య",
+      "ప్రేమతో నన్నిల జీవింపచేసే",
+      "జీవపు ఊటవు నీవేనయ్యా"
+    ],
+    "english": [
+      "Krupa vembadi krupa choopinchina",
+      "krupaamayudavu naa yesayya",
+      "prematho nannila jeevimpachese",
+      "jeevapu ootavu neeveenayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గతకాలమంతయును నన్ను దాచితివే",
+        "నీ రెక్కల చాటున",
+        "భద్రముగా నన్ను నడిపితివే",
+        "నా అన్న వారెవ్వరు… లేరు నాకిలలో",
+        "నీవేగా ఆశ్రయము…",
+        "కోటయు, దుర్గము, నా కేడెము",
+        "నా అక్కరలన్నియును ఎరిగిన వారెవరు",
+        "నీవేగా నా ప్రభువా… అక్కరలన్నియు ఎరిగితివి",
+        "నీవేగా నా ప్రభువా… అక్కరలన్నియు తీర్చితివి"
+      ],
+      "english": [
+        "Gathakaalamanthayunu nannu dhaachithive",
+        "nee rekkala chaatuna",
+        "bhadramgaa nannu nadipithive",
+        "Naa anna vaarevvaru… leru naakilalo",
+        "neevegaa aashrayamu…",
+        "kotayu, durgamu, naa kedemu",
+        "Naa akkaralanniyunu erigina vaarevaru",
+        "neevegaa naa prabhuvaa… akkaralanniyunu erigithivi",
+        "neevegaa naa prabhuvaa… akkaralanniyunu theerchithivi"
+      ]
+    }
+  ]
+}

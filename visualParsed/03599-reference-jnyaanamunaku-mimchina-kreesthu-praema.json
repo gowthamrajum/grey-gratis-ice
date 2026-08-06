@@ -1,0 +1,59 @@
+{
+  "song_name": "Daiva prema pruthviloni - Yannitini minchunu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దైవ ప్రేమ పృథ్విలోని - యన్నిటిని మించును",
+        "ఏసు మాలో నివసించు - మది మా విముక్తియే",
+        "నీ కమూల్య ప్రేమయుండు - నీవు ప్రేమమూర్తివే",
+        "నీ దాసులమైన మమ్ముఁ గృపతో రక్షించుము"
+      ],
+      "english": [
+        "Daiva prema pruthviloni - Yannitini minchunu",
+        "Esu maalo nivasinchu - Madi maa vimukthiye",
+        "Nee kamoolya premayundu - Neevu premamoorthive",
+        "Nee daasulamaina mammu grupatho rakshinchumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మమ్ము సమ్రక్షించు శక్తి - నీకుండు మా ప్రభువా",
+        "యెన్నఁ డెన్నఁ డేని నీదు - సన్నిధిని బాయము",
+        "నిన్ స్తుతించుచుండి మేము - సర్వదా సేవింతుము",
+        "నిన్ బ్రార్థించి పూర్ణ ప్రేమ - మే మతిశయింతుము"
+      ],
+      "english": [
+        "Mammu samrakshinchu shakthi - Neekundu maa prabhuvaa",
+        "Ennan dennan deni needu - Sannidhini baayamu",
+        "Nin sthuthinchuchundi memu - Sarvadaa sevinthumu",
+        "Nin braarthinchi poorna prema - Me mathishayinthumu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "క్రొత్తగా మమ్ము సృజించి పాపమెల్లఁ బాపుము",
+        "మాకు స్వస్థత నొసంగి - గొప్ప రక్షణ జూపుము",
+        "భక్తి యభివృద్ధి పొంది - స్వర్గమందుఁ జేరఁగా",
+        "వింతనొంది ప్రేమ స్తుతి - నీ కర్పింతు మెపుడు"
+      ],
+      "english": [
+        "Krotthagaa mammu srujinchi paapamella baapumu",
+        "Maaku swasthatha nosangi - Goppa rakshana joopumu",
+        "Bhakthi yabhivruddhi pondi - Svargamandhu jeragaa",
+        "Vinthanondhi prema sthuthi - Nee karpinthu mepudu"
+      ]
+    }
+  ]
+}

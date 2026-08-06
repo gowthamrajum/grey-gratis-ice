@@ -1,0 +1,81 @@
+{
+  "song_name": "Ninne Premimtunu Ne Venutiruga Ni",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిన్నే ప్రేమింతును నే వెనుతిరుగా నీ సన్నిదిలో మోకరించి నీ మార్గములో సాగెదా నీరసించక సాగెదా నే వెనుతిరుగా (2)"
+    ],
+    "english": [
+      "Ninne premimtunu ne venutiruga Ni sannidilo mokarimchi ni margamulo sageda Nirasimchaka sageda ne venutiruga (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిన్నే ఆరాధింతును నే వెనుతిరుగా నీ సన్నిదిలో మోకరించి నీ మార్గములో సాగెదా నీరసించక సాగెదా నే వెనుతిరుగా (2)"
+      ],
+      "english": [
+        "Ninne aradhimtunu ne venutiruga Ni sannidilo mokarimchi ni margamulo sageda Nirasimchaka sageda ne venutiruga (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిన్నే కీర్తింతును నే వెనుతిరుగా నీ సన్నిదిలో మోకరించి నీ మార్గములో సాగెదా నీరసించక సాగెదా నే వెనుతిరుగా (2)"
+      ],
+      "english": [
+        "Ninne kirtimtunu ne venutiruga Ni sannidilo mokarimchi ni margamulo sageda Nirasimchaka sageda ne venutiruga (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిన్నే ప్రార్ధింతును నే వెనుతిరుగా నీ సన్నిదిలో మోకరించి నీ మార్గములో సాగెదా నీరసించక సాగెదా నే వెనుతిరుగా (2)"
+      ],
+      "english": [
+        "Ninne prardhimtunu ne venutiruga Ni sannidilo mokarimchi ni margamulo sageda Nirasimchaka sageda ne venutiruga (2)"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "హల్లేలూయా హల్లేలూయా హల్లేలూయా హల్లేలూయా నీ సన్నిదిలో మోకరించి నీ మార్గములో సాగెదా నీరసించక సాగెదా నే వెనుతిరుగా (2)"
+      ],
+      "english": [
+        "Halleluya halleluya halleluya halleluya Ni sannidilo mokarimchi ni margamulo sageda Nirasimchaka sageda ne venutiruga (2)Ninne premimtunu ne venutiruga Ni sannidilo mokarimchi ni margamulo sageda Nirasimchaka sageda ne venutiruga (2)"
+      ]
+    },
+    {
+      "stanza_number": 1,
+      "telugu": [],
+      "english": [
+        "Ninne aradhimtunu ne venutiruga Ni sannidilo mokarimchi ni margamulo sageda Nirasimchaka sageda ne venutiruga (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [],
+      "english": [
+        "Ninne kirtimtunu ne venutiruga Ni sannidilo mokarimchi ni margamulo sageda Nirasimchaka sageda ne venutiruga (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [],
+      "english": [
+        "Ninne prardhimtunu ne venutiruga Ni sannidilo mokarimchi ni margamulo sageda Nirasimchaka sageda ne venutiruga (2)"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [],
+      "english": [
+        "Halleluya halleluya halleluya halleluya Ni sannidilo mokarimchi ni margamulo sageda Nirasimchaka sageda ne venutiruga (2)"
+      ]
+    }
+  ]
+}

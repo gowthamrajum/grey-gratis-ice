@@ -1,0 +1,70 @@
+{
+  "song_name": "Prema O Prema",
+  "author": {
+    "Authored by": "Chandra Mohan",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రేమ ఓ ప్రేమ",
+      "ప్రభు యేసుని ప్రేమ",
+      "నిను వర్ణింపను నా తరమా"
+    ],
+    "english": [
+      "Prema O Prema",
+      "Prabhu yesuni prema",
+      "ninu varnnimpanu naa taramaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ ప్రేమకై వందనం",
+        "యేసయ్య వందనం"
+      ],
+      "english": [
+        "nee preamakai vandanam",
+        "yesayya vandana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆశ్చర్యమైన ప్రేమ",
+        "అద్భుతాలు చేయు ప్రేమ",
+        "హద్దులే లేని ప్రేమ యేసు ప్రేమ",
+        "నన్నే కోరిన ప్రేమ",
+        "నాతో నడిచిన ప్రేమ",
+        "నన్నే విడువని ప్రేమ యేసు ప్రేమ"
+      ],
+      "english": [
+        "aascharyamaina prema",
+        "adbhutaalu cheayu prema",
+        "haddulea leani prema yesu prema",
+        "nannea korina prema",
+        "naatho nadichina prema",
+        "nannea viduvani prema yesu prema"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరలోకం వీడిన ప్రేమ",
+        "పరిశుద్ధత నిచ్చిన ప్రేమ",
+        "నీతిగా మార్చిన ప్రేమ యేసు ప్రేమ",
+        "నాకై తపియించె ప్రేమ",
+        "నాకై జన్మించే ప్రేమ",
+        "నాకై మరణించే ప్రేమ యేసు ప్రేమ"
+      ],
+      "english": [
+        "paralookam veedina prema",
+        "parishuddata nicchhina prema",
+        "neetigaa maarchina prema yesu prema",
+        "naakai tapiyinchea prema",
+        "naakai janmincheaa prema",
+        "naakai marannincheaa prema yesu prema"
+      ]
+    }
+  ]
+}

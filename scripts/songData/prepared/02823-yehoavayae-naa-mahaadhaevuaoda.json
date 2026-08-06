@@ -1,0 +1,96 @@
+{
+  "song_name": "Yehoavayae Naa Mahaadhaevudani",
+  "author": {
+    "Authored by": "",
+    "రచన": "జుటికె దావీదు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవయే నా మహాదేవుఁడని బహుగ నెఱిఁగి మన నావంతు",
+      "సహదాసులతో మహి నొకఁడనని సహాయ మిడుటే నీవంతు"
+    ],
+    "english": [
+      "Yehoavayae Naa Mahaadhaevudani Bahuga Nerigi Mana Naavanthu",
+      "Sahadhaasulathoa Mahi Nokadanani Sahaaya Midutae Neevanthu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మితిమిఱిన దు రిత సమూహముల క్షత మొనర్ప మన నావంతు",
+        "పతితపావనుని క్షతజనములో నను నుతికి కడుగుటె నీవంతు"
+      ],
+      "english": [
+        "Mithimirina Dhuritha Samoohamula Kshatha Monarpa Mana Naavanthu",
+        "Pathithapaavanuni Kshathajanamuloa Nanu Nuthiki Kadugute Neevanthu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రతిదిన బ్రతుకును మతి నుంచుచు నిను స్తుతి యొనర్చుటే నావంతు",
+        "క్షితినేఁబడుదు ర్వెతల నుండ శా శ్వతముఁ బ్రోచుటె నీవంతు"
+      ],
+      "english": [
+        "Prathidhina Brathukunu Mathi Nunchuchu Ninu Sthuthi Yonarchutae Naavanthu",
+        "Kshithinaebadu Dhurvethala Nunda Shaashvathamu Broachute Neevanthu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "చంచల మతిఁదొల గించుమంచుఁ బ్రా ర్థించుచుండుటే నావంతు",
+        "అంచి తాత్మనిఁకఁ బంచి స్ధిరతను బెంచుచుండుటే నీవంతు"
+      ],
+      "english": [
+        "Chanchala Mathidhola Ginchumanchu Praarthinchuchundutae Naavanthu",
+        "Anchi Thaathmanika Banchi Sdhirathanu Benchuchundutae Neevanthu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యేసు సిలువలో నే సంధించి గాసి సహించుట నావంతు",
+        "భాసురమోక్ష ని వాసమునకు నను దీసుకపోవుటే నీవంతు"
+      ],
+      "english": [
+        "Yaesu Siluvaloa Nae Sandhinchi Gaasi Sahinchuta Naavanthu",
+        "Bhaasuramoaksha Nivaasamunaku Nanu Dheesukapoavutae Neevanthu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మేటి వార్త నా బోటి జనాళికి ఁ జాటించుటయే నావంతు",
+        "చాటిన దానిని గాటముగ మది నాటించుటయే నీవంతు"
+      ],
+      "english": [
+        "Maeti Vaartha Naa Boati Janaaliki Jaatinchutayae Naavanthu",
+        "Chaatina Dhaanini Gaatamuga Madhi Naatinchutayae Neevanthu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "అనుదిన మబలుఁడ నని మదినిం గనుఁ గొని బ్రదుకుటయే నా వంతు",
+        "ననుఁ బదాబ్జప జ్జనుఁ జేర్చియు బల మును గృప నిచ్చుటే నీవంతు"
+      ],
+      "english": [
+        "Anudhina Mabaluda Nani Madhinin Ganugoni Bradhukutayae Naa Vanthu",
+        "Nanu Badhaabja Pajjanu Jaerchiyu Balamunu Grupa Nichchutae Neevanthu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "ముదముతోడ నీ తుదిరాక కొఱకు నెదురు చూచుటే నావంతు",
+        "సదమలాత్మచే హృదయమును సదా పదిలపఱచునటే నీవంతు"
+      ],
+      "english": [
+        "Mudhamuthoada Nee Thudhiraaka Koraku Nedhuru Choochutae Naavanthu",
+        "Sadhamalaathmachae Hrudhayamunu Sadhaa Padhilaparachunatae Neevanthu"
+      ]
+    }
+  ]
+}

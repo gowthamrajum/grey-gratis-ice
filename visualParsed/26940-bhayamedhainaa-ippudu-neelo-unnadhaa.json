@@ -1,0 +1,66 @@
+{
+  "song_name": "Bhayamedhainaa ippudu neelo unnadaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Susanna Esther Geddam"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "భయమేదైనా ఇప్పుడు నీలో ఉన్నదా",
+      "యేసయ్యతోనే ఇక విజయము నీదేగా",
+      "విజయమే విజయమే",
+      "విజయమే విజయమే",
+      "నా యేసులో ఎల్లప్పుడు",
+      "విజయమే విజయమే"
+    ],
+    "english": [
+      "Bhayamedhainaa ippudu neelo unnadaa",
+      "Yesayyathone ika vijayamu needhegaa",
+      "Vijayame vijayame",
+      "Vijayame vijayame",
+      "Naa Yesulo ellappudu",
+      "Vijayame vijayame"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శోధనలో నాకు భయమే లేదు",
+        "సమస్యలలో నాకు బెదురే లేదు",
+        "యేసు నాతో ఉండగా",
+        "విజయం విజయం విజయం"
+      ],
+      "english": [
+        "Shodhanalo naaku bhayame ledu",
+        "Samasyalalo naaku bedhure ledu",
+        "Yesu naatho undagaa",
+        "Vijayam vijayam vijayam"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వ్యాధి నన్ను వదిలి పారిపోవును",
+        "సైతాను నన్ను చూసి వణికిపోవును",
+        "యేసు నాతో ఉండగా",
+        "విజయం విజయం విజయం",
+        "ఏ పరిస్తితియైనా ఎంత కష్టమైన",
+        "యేసు నాతో ఉండగా",
+        "విజయమే ఓ ఓ విజయమే"
+      ],
+      "english": [
+        "Vyaadhi nannu vadhili paaripovunu",
+        "Saithaanu nannu choosi vanikipovunu",
+        "Yesu naatho undagaa",
+        "Vijayam vijayam vijayam",
+        "E paristhithiyainaa entha kashtamaina",
+        "Yesu naatho undagaa",
+        "Vijayame o o vijayame"
+      ]
+    }
+  ]
+}

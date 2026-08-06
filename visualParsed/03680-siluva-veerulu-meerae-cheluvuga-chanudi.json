@@ -1,0 +1,66 @@
+{
+  "song_name": "Siluva veerulu meere cheluvuga chanudi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సిలువ వీరులు మీరే చెలువుగ చనుడి",
+      "బలుడైన సైతానును జయించను",
+      "విలువైన సత్యవార్త ప్రకటించుడి - మహా"
+    ],
+    "english": [
+      "Siluva veerulu meere cheluvuga chanudi",
+      "Baludaina saithaanunu jayinchanu",
+      "Viluvaina sathyavaartha prakatinchudi - Mahaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇండియా దేశము చీకటిగా నుండగ మందునిగ నుండెదవా",
+        "తంతివలె నేగి నరులను వెదకి - తండ్రి శక్తితో రక్షించు నంచు"
+      ],
+      "english": [
+        "Indiyaa deshamu cheekatigaa nundaga mandhuniga nundedavaa",
+        "Thanthivale negi narulanu vedaki - Thandri shakthitho rakshinchu nanchu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇల్లు ఇల్లు త్వరగ వెదకి ఎల్ల గొఱ్ఱెలను జయింప",
+        "పడెను పాట్లను శ్రీ యేసనుచు - కూడిన వారల కెరుక పరచ"
+      ],
+      "english": [
+        "Illu illu thvaraga vedaki ella gorrelanu jayimpa",
+        "Padenu paatlanu Sree Yesanuchu - Koodina vaarala keruka paracha"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆయన త్వరగా వచ్చును భువికి - ఆయెడ కృపకాలము ముగియున్",
+        "కరిగించును మనసుల నన్నిటిని - కరములతో నేసుకడ లాగ"
+      ],
+      "english": [
+        "Aayana thvaragaa vachchunu bhuviki - Aayeda krupakaalamu mugiyun",
+        "Kariginchunu manasula nannitini - Karamulatho nesukada laaga"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "హల్లెలూయ గీతము పాడి ఎల్లరకు ప్రకటించి",
+        "ఆత్మల నెల్ల నాదాయపరచ - అఖిలమెల్లను నాకై పరుగిడి"
+      ],
+      "english": [
+        "Hallelooya geethamu paadi ellaraku prakatinchi",
+        "Aathmala nella naadhaayaparacha - Akhilamellanu naakai parugidi"
+      ]
+    }
+  ]
+}

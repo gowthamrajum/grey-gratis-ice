@@ -1,0 +1,78 @@
+{
+  "song_name": "Nee krupatho nimpina naa jeevitham",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Pr William Carey",
+      "Esther"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ కృపతో నింపిన నా జీవితం…..",
+      "మహోన్నత సేవకే అంకితం..",
+      "నా ఊహకు అందని నీ త్యాగమే",
+      "నన్ను నీలో స్థిరపరచెను….",
+      "సరిహద్దులు లేని శాశ్వత ప్రేమను నాపై చూపావు",
+      "అవధులు లేని ఆనందముతో అనుదినము స్తుతి పాడెద…"
+    ],
+    "english": [
+      "Nee krupatho nimpina naa jeevitham…..",
+      "Mahonnatha sevake ankitham..",
+      "Naa oohaku andani nee thyaagame",
+      "Nannu neelo sthiraparachenu….",
+      "Sarihaddhulu leni shaashwatha premanu naapai choopaavu",
+      "Avadhulu leni aanandamutho anudinamu sthuthi paadeda…"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఉన్నత స్థలములలో నన్ను నడిపించే నీదు సంకల్పము….",
+        "ఊహకు మించిన కార్యము చేయుటయే నీకే సాధ్యము…",
+        "నా మధుర గీతిక నీవేనయ్యా….",
+        "నీ మహిమతో నన్ను నింపుమయా…."
+      ],
+      "english": [
+        "Unnatha sthalamulalo nannu nadipinche needu sankalpamu….",
+        "Oohaku minchina kaaryamu cheyutaye neeke saadhyamu…",
+        "Naa madhura geethika neevenayyaa….",
+        "Nee mahimatho nannu nimpumayaa…."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పిలుపుకు తగినట్లు జీవించుటయే నీదు చిత్తము…..",
+        "నీతిమంతులమై మొవ్వవేయుదము",
+        "నీదు సన్నిధిలో……",
+        "నా స్తుతిమాలిక నీవేనయ్యా",
+        "నీ సిలువ నీడలో దాచుమయా…."
+      ],
+      "english": [
+        "Pilupuku thaginatlu jeevinchutaye needu chitthamu…..",
+        "Neethimanthulamai movvaveyudhamu",
+        "Needu sannidhilo……",
+        "Naa sthuthimaalika neevenayyaa",
+        "Nee siluva needalo dhaachumayaa…."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అందని శిఖరముపై నన్ను నింపుటకు యాగమైతివి …..",
+        "ఆకాంక్షతో నేను కనిపెట్టుకొందును నీదు రాకకై…..",
+        "నా ప్రతి ఆశ సీయోనుకే",
+        "నీ ఆలోచనతో నడుపుమయా"
+      ],
+      "english": [
+        "Andani shikharamupai nannu nimputaku yaagamaithivi …..",
+        "Aakaankshatho nenu kanipettukondhunu needu raakakai…..",
+        "Naa prathi aasha Seeyonuke",
+        "Nee aalochanatho nadupumayaa"
+      ]
+    }
+  ]
+}

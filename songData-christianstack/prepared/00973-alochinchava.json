@@ -1,0 +1,77 @@
+{
+  "song_name": "Alochinchava",
+  "author": {
+    "Authored by": "Joshua dean",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆలోచి౦చావ – ఓ నేస్తం ఆలోచి౦చావ",
+      "ఏ సమయంలో ఏమవుతుందో –",
+      "అని ఆలోచి౦చావ",
+      "ఆలోచి౦చావ – ఓ నేస్తం ఆలోచి౦చావ",
+      "ఏ సమయంలో ప్రభు పిలుపు౦దో –",
+      "అని ఎవరికి తెలియదుగా",
+      "ఈ సమయమ౦దే అ౦తా – కనుమరుగైపోతే",
+      "ఏ చోటికి నువ్వు వెళ్తావో – అని ఆలోచి౦చావ",
+      "ఈ సమయమ౦దే అ౦తా – విడిచి వెళ్ళ వస్తే",
+      "ఏ చోటికి నువ్వు వెళ్తావో – అని ఆలోచి౦చావ"
+    ],
+    "english": [
+      "Aalochinchavaa oh nestham aalochinchavaa",
+      "ey samayamlo emauthundo ani aalochinchavaa",
+      "Aalochinchavaa oh nestham aalochinchavaa",
+      "ey samayamlo prabhu pilupundho",
+      "ani evariki theliyadhu gaa",
+      "ee samayamandey antha kanumarugaipothe",
+      "ey chotiki nuvvu velthaavo ani aalochinchavaa",
+      "ee samayamandey antha vidichi vella vasthey",
+      "ey chotiki nuvvu velthaavo ani aalochinchavaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏదేదో అనుకుంటాము – ఏవేవో కలగ౦టాము",
+        "వ్యర్థమైన లోకాశలకు – లోబడుతూ ఉ౦టాము ॥2॥",
+        "ప్రభు నిన్ను చూచుచున్నాడని,",
+        "తన ప్రేమతో పిలచుచున్నాడని,",
+        "తెలిసి కూడా ఎ౦తో నిర్లక్ష్యం ..!",
+        "మేలుకో….. సోదరా ..!",
+        "రానైయు౦దిగా – ప్రభు రాకడ",
+        "మేలుకో ….. సోదరీ ..!",
+        "రానైయు౦దిగా – ప్రభు రాకడ",
+        "అన్నీ తెలుసనుకు౦టాము – నాకేదీ కాద౦టాము",
+        "తెలియకు౦డా సాతానుచే – మోసపోతూ ఉ౦టాము ॥2॥",
+        "ప్రభు నిన్ను చూచుచున్నాడని,",
+        "తన ప్రేమతో పిలచుచున్నాడని,",
+        "తెలిసి కూడా ఎ౦తో నిర్లక్ష్యం ..!",
+        "మేలుకో ….. సోదరా ..!",
+        "రానైయు౦దిగా – ప్రభు రాకడ",
+        "మేలుకో ….. సోదరీ ..!",
+        "రానైయు౦దిగా – ప్రభు రాకడ"
+      ],
+      "english": [
+        "Edhedho anukuntaamu – evevo kalagantaamu",
+        "vardhamaina lokaasalaku – lobaduthu untaamu",
+        "prabhu ninnu choochuchunnaadani",
+        "thana prematho pilachuchunnadani",
+        "thelisi kuda entho nirlakshyam",
+        "meluko…… sodharaa..!",
+        "raanaiyundhi gaa prabhu raakada",
+        "meluko…… sodhari..!",
+        "raanaiyundhi gaa prabhu raakada",
+        "Anni thelusanukuntaamu – naakedhi kaadhantaamu",
+        "theliyakundaa saathaanuche – mosapothu untaamu",
+        "prabhu ninnu choochuchunnaadani",
+        "thana prematho pilachuchunnaadani",
+        "thelisi kuda entho nirlakshyam",
+        "meluko…… sodharaa..!",
+        "raanaiyundhi gaa prabhu raakada",
+        "meluko…… sodhari..!",
+        "raanaiyundhi gaa prabhu raakada"
+      ]
+    }
+  ]
+}

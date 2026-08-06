@@ -1,0 +1,53 @@
+{
+  "song_name": "Naa thalampanthaa neeve Yesayyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా తలంపంతా నీవే యేసయ్యా నే కోరెదంతా నీతోడెకదయ్యా (2)",
+      "ఉప్పొంగుతుంది నాలో నీ ప్రేమ - నీ సేవయే నాభాగ్యం యేసయ్యా"
+    ],
+    "english": [
+      "Naa thalampanthaa neeve Yesayyaa ne koredhanthaa neethodekadhayyaa (2)",
+      "Uppongutundhi naalo nee prema - Nee sevaye naabhaagyam Yesayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అణువణువు నా ప్రాణమంతా వేచియున్నది నీకై నిరతము (2)",
+        "నీవే నాకు సర్వము ప్రభువా (2)"
+      ],
+      "english": [
+        "Anuvanuvu naa praanamanthaa vechiyunnadhi neekai nirathamu (2)",
+        "Neeve naaku sarvamu prabhuvaa (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిన్ను ఎరుగక నశించిపోతున్న - ఆత్మలభారం నాలోరగిలే (2)",
+        "నీకై నేను ముందుకు సాగెద (2)"
+      ],
+      "english": [
+        "Ninnu erugaka nashinchipothunna - Aathmalabhaaram naaloragile (2)",
+        "Neekai nenu munduku saageda (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నలిగిపోతుంది నాప్రియ దేశం - శాంతిసమాధనం దయచేయుమయ్యా (2)",
+        "రక్షణ ఆనందం నింపుము దేవా (2)"
+      ],
+      "english": [
+        "Naligipothundhi naapriya desham - Shaanthisamaadhaanam dhayacheyumayyaa (2)",
+        "Rakshana aanandam nimpumu Devaa (2)"
+      ]
+    }
+  ]
+}

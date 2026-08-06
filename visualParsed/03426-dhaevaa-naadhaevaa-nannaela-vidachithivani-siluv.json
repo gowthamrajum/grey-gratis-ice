@@ -1,0 +1,90 @@
+{
+  "song_name": "Deva naadheva nannela vidachithivani siluvalo baliyaina naa Yesuvaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవా నాదేవా నన్నేల విడచితివని",
+      "సిలువలో బలియైన నా యేసువా",
+      "పలుబాధ లొందితివి నా శైలమా"
+    ],
+    "english": [
+      "Deva naadheva nannela vidachithivani",
+      "Siluvalo baliyaina naa Yesuvaa",
+      "Palubaadha londhithivi naa shailamaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా తండ్రి నీకిది సాధ్యమైతే",
+        "ఈ గిన్నె నానుండి తొలగింపుమని",
+        "నా నాథా తండ్రిని వేడితివా",
+        "నే మోయలేని ఈ భారమంత",
+        "నీవు గాక యెవరు భరింతురు"
+      ],
+      "english": [
+        "Naa thandri neekidhi saadhyamaithe",
+        "Ee ginne naanundi tholagimpumani",
+        "Naa naathaa thandrini vedithivaa",
+        "Ne moyaleni ee bhaaramantha",
+        "Neevu gaaka evaru bharinthuru"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ శిష్యులంతా యేమైపోయిరి",
+        "నీవు స్వస్థపరచిన రోగులేరి",
+        "నీ తండ్రికూడా నిను విడనాడెనా",
+        "నా దోషమంతా నీపై మోపెనా",
+        "నిను నలుగగొట్టుట కప్పగించెనా"
+      ],
+      "english": [
+        "Nee shishyulanthaa emaipoyiri",
+        "Neevu svasthaparachina roguleri",
+        "Nee thandrikoodaa ninu vidanaadenaa",
+        "Naa dhoshamanthaa neepai mopenaa",
+        "Ninu nalugagottuta kappaginchenaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిన్ను రచ్చకీడ్చను నా రక్షకా",
+        "నీ నేరమేమిటి ఓ నా ప్రభువా",
+        "మానవులు దేవుని చంపుటయా?",
+        "ఏ చరితంబులోనూ కలదా ప్రభూ?",
+        "ఈ ఘోరమరణము నాకై నొందితివా?"
+      ],
+      "english": [
+        "Ninnu rachchakeedchanu naa rakshakaa",
+        "Nee neramemiti o naa prabhuvaa",
+        "Maanavulu Devuni champutayaa?",
+        "E charithambuloonoo kaladhaa Prabhoo?",
+        "Ee ghoramaranamu naakai nondhithivaa?"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సొగసైన షారోను ఓ పుష్పమా",
+        "సురూపమంతా కోల్పోయితివా",
+        "వ్యసనా క్రాంతుడవైతివా నా కై",
+        "వ్యాధిని అనుభవించితివి నాకై",
+        "వధియింప బడితివి బలి పశువుగా"
+      ],
+      "english": [
+        "Sogasaina Shaaronu o pushpamaa",
+        "Suroopamanthaa kolpoyithivaa",
+        "Vyasanaa kraanthudavaithivaa naa kai",
+        "Vyaadhini anubhavinchithivi naakai",
+        "Vadhiyimpa badithivi bali pashuvugaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "song_name": "Yehoava Yandhu Bhakthi Bahuga Galigiyundi",
+  "author": {
+    "Authored by": "",
+    "రచన": "వేశపోగు గుల్బానమ్మ"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవ యందు భక్తి బహుగ గలిగియుండి",
+      "మహిమాఢ్యుని మార్గంబులయందు గృహముల నడుపు నరులే ధన్యులు"
+    ],
+    "english": [
+      "Yehoava Yandhu Bhakthi Bahuga Galigiyundi",
+      "Mahimaadhyuni Maargambulayandhu Gruhamula Nadupu Narulae Dhanyulu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేవుని యందలి భయము దీనుల దీవించున్",
+        "నీవు నీ జేతుల కష్టార్జితమును నిత్యము ననుభవంతువు నిజముగ"
+      ],
+      "english": [
+        "Dhaevuni Yandhali Bhayamu Dheenula Dheevinchun",
+        "Neevu Nee Jaethula Kashtaarjithamunu Nithyamu Nanubhavanthuvu Nijamuga"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఉల్లమలర భార్య ద్రాక్షా వల్లివలె ఫలించు",
+        "పిల్లలొలీవ మొక్కల చందము పెంపొందుదు రెంతయు సొంపుగను"
+      ],
+      "english": [
+        "Ullamalara Bhaarya Dhraakshaa Vallivale Phalinchu",
+        "Pillaloleeva Mokkala Chandhamu Pempondhudhu Renthayu Sompuganu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దేవుని భక్తియే నీ కిల దీర్ఘాయువు నిచ్చు(",
+        "గావున నీ పిల్లల పిల్లలను గాంతువు ప్రభు కృపతోఁ వెలగుదువు"
+      ],
+      "english": [
+        "Dhaevuni Bhakthiyae Nee Kila Dheerghaayuvu Nichchu(",
+        "Gaavuna Nee Pillala Pillalanu Gaanthuvu Prabhu Krupathoa Velagudhuvu"
+      ]
+    }
+  ]
+}

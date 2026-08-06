@@ -1,0 +1,34 @@
+{
+  "song_name": "Rajaadhi Raju",
+  "author": {
+    "Authored by": "Sharon philip",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాజాధి రాజు ప్రభువులకు ప్రభువు",
+      "నీకోసం నాకోసం పుట్టాడోయమ్మా",
+      "పరలోకం విడచి నరరూపాన్నేదాల్చి",
+      "సిలువలో తన ప్రాణం పెట్టాడోరన్న"
+    ],
+    "english": [
+      "Rajaadhi raaju prabhuvulaku prabhuvu",
+      "neekosam naakosam puttaadoyamma",
+      "paralokam vidachi nararoopanney dhaalchi",
+      "siluvalo thana praanam pettaadoranna"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "త్వరపడదామా యేసయ్య చెంతకు",
+        "వేగిరపడదామా సువార్త చాటింపుకు"
+      ],
+      "english": [
+        "Twarapadumaa yesayya chenthaku",
+        "vegirapadadhaamaa suvartha chaatinpuku"
+      ]
+    }
+  ]
+}

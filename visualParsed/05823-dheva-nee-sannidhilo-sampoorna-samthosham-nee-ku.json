@@ -1,0 +1,60 @@
+{
+  "song_name": "Devaa nee sannidhilo sampoorna santhosham",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవా నీ సన్నిధిలో సంపూర్ణ సంతోషం నీ కుడి హస్తములో",
+      "నిత్య సుఖములు కలదు",
+      "నాకు క్షేమాధారం కాపాడే నా దేవా",
+      "నీకేనా వందనము నీకేనా స్తోత్రములు",
+      "స్తోత్రరూపమగు నా క్రొత్త గీతములు",
+      "నా నోటనుంచావు నా యేసయ్యా ॥2॥"
+    ],
+    "english": [
+      "Devaa nee sannidhilo sampoorna santhosham nee kudi hasthamulo",
+      "Nithya sukhamulu kaladu",
+      "Naaku kshemaadhaaram kaapaade naa Devaa",
+      "Neekenaa vandanamu neekenaa sthothramulu",
+      "Sthothraroopamagu naa krottha geethamulu",
+      "Naa notanunchaavu naa Yesayyaa ||2||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేవా నీ కృపలోనే వర్ధిల్లే నా జీవం",
+        "అనుదినము నీకొరకే సాక్షిగనేనుండెదను",
+        "నాకు విరోధముగా రూపింపబడిన",
+        "ఏ విధ ఆయుధము వర్ధిల్లనేరదు",
+        "॥ స్తోత్రరూపమగు॥"
+      ],
+      "english": [
+        "Devaa nee krupalone vardhille naa jeevam",
+        "Anudinamu neekorake saakshiganenundedhanu",
+        "Naaku virodhamugaa roopimpabadina",
+        "E vidha aayudhamu vardhillaneradhu",
+        "||Sthothraroopamagu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేవా నీ వాక్యము వెల్లడియగుతోడనే",
+        "జీవితమంతయు వెలుగు కలుగుచుండ",
+        "దినదినము నా భారం",
+        "భరియించు నా దేవా  ||దేవా||"
+      ],
+      "english": [
+        "Devaa nee vaakyamu velladiyaguthodane",
+        "Jeevithamanthayu velugu kaluguchunda",
+        "Dinadinamu naa bhaaram",
+        "Bhariyinchu naa Devaa ||Devaa||"
+      ]
+    }
+  ]
+}

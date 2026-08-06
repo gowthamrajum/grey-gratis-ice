@@ -1,0 +1,59 @@
+{
+  "song_name": "Phalamulu kaligina shishyunigaa nannu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఫలములు కలిగిన శిష్యునిగా నన్ను మార్చితివా",
+      "నీ రూపానికి మార్చుటకు నన్ను పిలిచితివా",
+      "జీవమా దైవమా స్తుతులకు కారణ భుతుడా"
+    ],
+    "english": [
+      "Phalamulu kaligina shishyunigaa nannu maarchithivaa",
+      "Nee roopaaniki maarchutaku nannu pilichithivaa",
+      "Jeevamaa daivamaa sthuthulaku kaarana bhoothudaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మధ్యాహ్నకాల తేజస్సుగా నన్ను మార్చితివా",
+        "చీకటి పోయెనే వెలుగు కలిగినే"
+      ],
+      "english": [
+        "Madhyaahnakaala thejassugaa nannu maarchithivaa",
+        "Cheekati poyene velugu kaligine"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరిశోధించి శుద్ధ సువర్ణము చేసితివా",
+        "శోధన పరీక్షలో నాకు విజయము నిచ్చితివా"
+      ],
+      "english": [
+        "Parishodhinchi shuddha suvarnamu chesithivaa",
+        "Shodhana pareekshalo naaku vijayamu nichchithivaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా శ్రమలలో ఉపద్రవములలో కన్నీళ్ళలో",
+        "సంతోషించుచూ నేను సిలువను మోసెదను",
+        "నా గమ్య స్థానం సీయోనేనని సిద్దమైతిని",
+        "పరిశుద్ద రెక్కలు ధరించి నీతో ఆరోహనమయ్యేద"
+      ],
+      "english": [
+        "Naa shramalalo upadravamulalo kanneellalo",
+        "Santhoshinchuchoo nenu siluvanu mosedanu",
+        "Naa gamya sthaanam Seeyonenani siddhamaithini",
+        "Parishuddha rekkalu dharinchi neetho aarohanamayyeda"
+      ]
+    }
+  ]
+}

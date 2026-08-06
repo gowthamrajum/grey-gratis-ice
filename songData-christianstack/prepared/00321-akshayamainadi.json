@@ -1,0 +1,54 @@
+{
+  "song_name": "Akshayamainadi",
+  "author": {
+    "Authored by": "Jasper Kunapo",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "అక్షయ మైనది – యేసుని రక్తము (1 Peter 1:4)",
+      "అమరము నందున – పొందుగ నున్నది (Hebrews 9:12)",
+      "డెందము నందున – ప్రభువును పొందిన",
+      "అందలమున ప్రభు మహిమలో నుందుము"
+    ],
+    "english": [
+      "Akshayamainadhi – yesuni rakthamu (1 Peter 1:4)",
+      "amaramu nandhuna – pondhuga nunnadhi (Hebrews 9:12)",
+      "dendhamu nandhuna – prabhuvunu pondhina",
+      "andhalamandhuna prabhu mahimalo nundhumu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కలిగియుంటిమి – కలుషిత రక్తము",
+        "కడతేర్చు చివరకు – క్షయమగు రక్తము",
+        "జీవికి రక్తము – మూలాధారము (Deut 12:23, Lev 17:11)",
+        "అక్షయ రక్తమే – నిత్య జీవముకు (Hebrews 9:12 & 22, 1 Corinth 15:54)",
+        "మూడవ దినమున – మరణము గెలిచి",
+        "మరియను వారించే – తను తాక వద్దని (John 20:17)",
+        "మరు క్షణమేగా – పరమును చేరి (Psalm 24:9)",
+        "మందసమున తన రక్తము నుంచెను (Hebrews 9:12)",
+        "నిర్మలమైనది – వాడ బారనిది (1 Peter 1:4,18,19)",
+        "నిర్దోష మైనది – యేసుని రక్తము",
+        "పాప రహితము – పరలోక స్వాస్త్యము",
+        "నిత్య జీవముకు – మూలాధారము (1 Peter 1:18,19, 1 Corinth 15:54)"
+      ],
+      "english": [
+        "Kaligiyuntimi – kalushitha rakthamu",
+        "kada therchu chivaraku – kshayamagu rakthamu",
+        "jeeviki rakthamu – moolaadhaaramu (Deut 12:23, Lev 17:11)",
+        "akshaya rakthame – nithya jeevamuku (Hebrews 9:12 & 22, 1 Corinth 15:54)",
+        "Moodava dhinamuna – maranamu gelichi",
+        "mariyanu vaarinche – thanu thaaka vaddhani (John 20:17)",
+        "maru kshanamegaa – paramunu cheri (Psalm 24:9)",
+        "mandhasamuna thana rakthamu nunchenu (Hebrews 9:12)",
+        "Nirmalamainadhi – vaada baaranidhi (1 Peter 1:4,18,19)",
+        "nirdhoshamainadhi – yesuni rakthamu",
+        "paapa rahithamu – paraloka swaasthyamu",
+        "nithya jeevamuku – moolaadhaaramu (1 Peter 1:18,19, 1 Corinth 15:54)"
+      ]
+    }
+  ]
+}

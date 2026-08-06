@@ -1,0 +1,97 @@
+{
+  "song_name": "Raarammu raarammu saathveekudaina Yesuni",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "రారమ్ము రారమ్ము సాత్వీకుడైన యేసుని యొద్దకు రారమ్ము",
+      "రారమ్ము - ప్రభుని యొద్ద నేర్చుకొన నేర్చుకొన"
+    ],
+    "english": [
+      "Raarammu raarammu saathveekudaina Yesuni yoddaku raarammu",
+      "Raarammu - Prabhuni yodda nerchukona nerchukona"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సర్వమునకు సృష్టికర్త - సర్వాధికారియగు",
+        "దేవుని కుడి పార్శ్వమున - నుండి నీతో మాట్లాడును"
+      ],
+      "english": [
+        "Sarvamunaku srushtikartha - sarvaadhikaariyagu",
+        "Devuni kudi paarshvamuna - nundi neetho maatlaadunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపభారము వలన నీవు - కృంగిపోయి ఉంటివా",
+        "లోక చింతవలన నీవు - కలవరము కలిగియుంటివా"
+      ],
+      "english": [
+        "Paapabhaaramu valana neevu - Krungipoyi untivaa",
+        "Loka chinthavalana neevu - Kalavaramu kaligiyuntivaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దీనుడవై నీ పాపమును - నేడే ఒప్పుకొనుము",
+        "క్రీస్తు నందు విశ్వసించిన - కడుగు తనదు రక్తముతో"
+      ],
+      "english": [
+        "Deenudavai nee paapamunu - Nede oppukonumu",
+        "Kreesthu nandu vishwasinchina - Kadugu thanadu rakthamutho"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీకు ఆయన సమాధాన విశ్రాంతి దయచేయును",
+        "నిన్ను పవిత్రునిగ చేసి - నిన్ను తృప్తిపరచును"
+      ],
+      "english": [
+        "Neeku aayana samaadhaana vishraanthi dhayacheyunu",
+        "Ninnu pavithruniga chesi - Ninnu thrupthiparachunu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యేసు ప్రభునే వెంబడించుము - నిన్ను విడువడెన్నడు",
+        "ప్రభునిచిత్తము నెరవేర్చుచు ఆయననే సేవించుము"
+      ],
+      "english": [
+        "Yesu Prabhune vembadinchumu - Ninnu viduvadennadu",
+        "Prabhunichitthamu neraverchuchu aayanane sevinchumu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ప్రభునియందు నిలిచియుండిన - ప్రాపుగ ఫలియింతువు",
+        "ప్రభువునకే మహిమ కలుగు - మంచి ఫలముల ఫలియించుము"
+      ],
+      "english": [
+        "Prabhuniyandhu nilichiyundina - Praapuga phaliyinthuvu",
+        "Prabhuvunake mahima kalugu - Manchi phalamula phaliyinchumu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "యౌవనజనమా ప్రభుని వాక్యము - విని విధేయత చూపుమా",
+        "యౌవన జీవిత మర్పించుటకు యేసు నొద్దకు రారమ్ము"
+      ],
+      "english": [
+        "Yauvanajanamaa Prabhuni vaakyamu - Vini vidheyatha choopumaa",
+        "Yauvana jeevitha marpinchutaku Yesu noddaku raarammu"
+      ]
+    }
+  ]
+}

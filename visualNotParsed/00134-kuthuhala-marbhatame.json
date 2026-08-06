@@ -1,0 +1,66 @@
+{
+  "song_name": "Kuthoohala maarbhaatame",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "కుతూహల మార్భాటమే - నా యేసుని సన్నిధిలో",
+      "ఆనంద మానందమే - నా యేసుని సన్నిధిలో",
+      "...కుతూహల..."
+    ],
+    "english": [
+      "Kuthoohala maarbhaatame - Naa Yesuni sannidhilo",
+      "Aananda maanandhame - Naa Yesuni sannidhilo",
+      "...Kuthoohala..."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపమంత పోయెను - రోగమంత తొలగెను యేసుని రక్తములో",
+        "క్రీస్తునందు జీవితం - కృప ద్వార రక్షణ పరిశుద్ధాత్మలో (2)  ||కుతూహల||"
+      ],
+      "english": [
+        "Paapamantha poyenu - Rogamantha tholagenu Yesuni rakthamulo",
+        "Kreesthunandu jeevitham - Krupa dhwaara rakshana parishuddhaathmalo (2)  ||Kuthoohala||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేవాది దేవుడు ప్రతిరోజు నివసించె దేవాలయం నేనే",
+        "ఆత్మలోన దేవుడు - గుర్తించె నన్ను అద్భుత మద్భుతమే (2)  ||కుతూహల||"
+      ],
+      "english": [
+        "Dhevaadhi Devudu prathiroju nivasinche dhevaalayam nene",
+        "Aathmalona Devudu - Gurthinche nannu adbhutha madbhuthame (2)  ||Kuthoohala||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "శక్తినిచ్చు యేసు - జీవమిచ్చు యేసు జయంపై జయమిచ్చును",
+        "ఏకముగా కూడి, హోసన్న పాడి - ఊరంత చాటెదము (2)  ||కుతూహల||"
+      ],
+      "english": [
+        "Shakthinichchu Yesu - Jeevamichchu Yesu jayampai jayamichchunu",
+        "Ekamugaa koodi, hosanna paadi - Oorantha chaatedhamu (2)  ||Kuthoohala||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "భూరధ్వనితో పరిశుద్ధులతో - యేసు రానైయుండె",
+        "ఒక్క క్షణములోనె, రూపాంతరము పొంది - మహిమలో ప్రవేశిద్దాం (2)  ||కుతూహల||"
+      ],
+      "english": [
+        "Booradhwanitho parishuddhulatho - Yesu raanaiyunde",
+        "Okka kshanamulone, roopaantharamu pondi - Mahimalo praveshiddhaam (2)  ||Kuthoohala||"
+      ]
+    }
+  ]
+}

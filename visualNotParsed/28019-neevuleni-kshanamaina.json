@@ -1,0 +1,76 @@
+{
+  "song_name": "Neevuleni kshanamainaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవులేని క్షణమైనా",
+      "నీవులేని క్షణమైనా ఊహించలేను",
+      "నీ కృప లేనిదే నేను బ్రతుకలేను (2)",
+      "నీవే నా కాపరి – నీవే నా ఊపిరి",
+      "నీవే నా సర్వము యేసయ్య",
+      "నీతోనే జీవితం – నేనే నీకంకితం",
+      "గైకొనుమో నన్ను ఓ దేవా… ||నీవు లేని||"
+    ],
+    "english": [
+      "Neevuleni kshanamainaa",
+      "Neevuleni kshanamainaa oohinchalenu",
+      "Nee krupa lenide nenu brathukalenu (2)",
+      "Neeve naa kaapari – Neeve naa oopiri",
+      "Neeve naa sarvamu Yesayya",
+      "Neethone jeevitham – Nene neekankitham",
+      "Gaikonumo nannu o Deva… ||Neevu leni||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శ్రమలెన్నో వచ్చినా – శోధనలే బిగిసినా",
+        "నను ధైర్యపరిచె నీ వాక్యం",
+        "సంద్రాలే పొంగినా – అలలే ఎగసినా",
+        "నను మునగనీయక లేవనెత్తిన (2)",
+        "నీవే నా కండగా – నాతో నీవుండగా",
+        "భయమన్నదే నాకు లేదూ",
+        "సర్వలోక నాధుడా – కాపాడే దేవుడా",
+        "వందనము నీకే ఓ దేవా… ||నీవు లేని||"
+      ],
+      "english": [
+        "Shramalenno vachchinaa – Shodhanale bigisinaa",
+        "Nanu dhairyapariche nee vaakyam",
+        "Sandraale ponginaa – Alale egasinaa",
+        "Nanu munaganeeyaka levanetthina (2)",
+        "Neeve naa kandagaa – Naatho neevundagaa",
+        "Bhayamannadhe naaku ledhoo",
+        "Sarvaloka naadhudaa – Kaapaade Devudaa",
+        "Vandanamu neeke o Deva… ||Neevu leni||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శత్రువులే లేచినా – అగ్ని ఆవరించినా",
+        "అవి నన్ను కాల్చజాలవుగా",
+        "దుష్టులే వచ్చినా – సింహాలై గర్జించినా",
+        "నాకేమాత్రం హాని చేయవుగా (2)",
+        "వెన్నుతట్టి బలపరచిన – చేయిపట్టి నడిపించిన",
+        "వేదనలే తొలగించిన యేసయ్యా",
+        "సర్వలోక నాధుడా – కాపాడే దేవుడా",
+        "వందనము నీకే ఓ దేవా… ||నీవు లేని||"
+      ],
+      "english": [
+        "Shathruvule lechinaa – Agni aavarinchinaa",
+        "Avi nannu kaalchajaalavugaa",
+        "Dhushtule vachchinaa – Simhaalai garjinchinaa",
+        "Naakemaathram haani cheyavugaa (2)",
+        "Vennutatti balaparachina – Cheyipatti nadipinchina",
+        "Vedhanale tholaginchina Yesayyaa",
+        "Sarvaloka naadhudaa – Kaapaade Devudaa",
+        "Vandanamu neeke o Deva… ||Neevu leni||"
+      ]
+    }
+  ]
+}

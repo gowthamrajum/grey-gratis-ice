@@ -1,0 +1,38 @@
+{
+  "song_name": "Vachindi Vachindi Christmas",
+  "author": {
+    "Authored by": "P Methuselah, GRACE TIME CHURCH, khammam",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "వచ్చింది వచ్చింది క్రిస్మస్ పండుగ",
+      "తెచ్చింది తెచ్చింది సంతోషం మెండుగ",
+      "పరలోక మహిమంత భూమిమీది కొచ్చెను",
+      "భూలోకవాసులను పరలోకము చేర్చను"
+    ],
+    "english": [
+      "Vachindi vachindi christmas panduga",
+      "thechindhi thechindhi santhosham menduga",
+      "paraloka mahimantha bhoomimeedhi kochenu",
+      "bhuloka vaasulanu paralokamu cherchanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆడి పాడి కొనియాడుతు",
+        "ఆరాధింతును యేసునాధుని",
+        "యేసే దేవుడు మనందరి రక్షకుడంటూ",
+        "సర్వలోకములో చాటిచెప్పెదం"
+      ],
+      "english": [
+        "Aadi paadi koniyaaduthu",
+        "aaraadhinthunu yesunaadhuni",
+        "yesey dhevudu manandhari rakshakudantu",
+        "sarvalokamulo chaaticheppedham"
+      ]
+    }
+  ]
+}

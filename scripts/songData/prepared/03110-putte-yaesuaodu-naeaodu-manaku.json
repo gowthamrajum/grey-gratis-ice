@@ -1,0 +1,52 @@
+{
+  "song_name": "Putte Yaesudu Naedu Manaku",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఫేలిక్స్ ఆండ్రు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "పుట్టె యేసుఁడు నేఁడు మనకు పుణ్యమార్గము జూపను",
+      "పట్టి యయ్యెఁ బరమ గురుఁడు ప్రాయశ్చిత్తుఁడు యేసుడు"
+    ],
+    "english": [
+      "Putte Yaesudu Naedu Manaku Punyamaargamu Joopanu",
+      "Patti Yayye Barama Gurudu Praayashchiththudu Yaesudu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ధరఁ బిశాచిని వేఁడిన దు ర్నరులఁ బ్రొచుటకై యా",
+        "పరమవాసి పాపహరుఁడు వరభక్త జన పోషుఁడు"
+      ],
+      "english": [
+        "Dhara Bishaachini Vaedina Dhu Rnarula Brochutakai Yaa",
+        "Paramavaasi Paapaharudu Varabhaktha Jana Poashudu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యూద దేశములోను బేత్లె హేమను గ్రామమున",
+        "నాదరింప నుద్భవించె నధములమైన మనలఁ"
+      ],
+      "english": [
+        "Yoodha Dhaeshamuloanu Baethle Haemanu Graamamuna",
+        "Naadharimpa Nudhbhavinche Nadhamulamaina Manala"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తూర్పు జ్ఞానులు కొందఱు పూర్వ దిక్కు చుక్కను గాంచి",
+        "సర్వోన్నతుని మరియు కొమరుని కర్పణము లిచ్చిరి"
+      ],
+      "english": [
+        "Thoorpu Gnaanulu Kondharu Poorva Dhikku Chukkanu Gaanchi",
+        "Sarvoannathuni Mariyu Komaruni Karpanamu Lichchiri"
+      ]
+    }
+  ]
+}

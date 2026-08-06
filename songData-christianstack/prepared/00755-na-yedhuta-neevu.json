@@ -1,0 +1,34 @@
+{
+  "song_name": "Na Yedhuta Neevu",
+  "author": {
+    "Authored by": "Pastor John Wesley",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా యెదుట నీవు తెరచిన తలుపులు",
+      "వేయ లేరుగా ఎవ్వరు వేయలేరుగా",
+      "నీవు తెరచిన తలుపులు"
+    ],
+    "english": [
+      "Naa yeduta neevu therachina thalupulu",
+      "veya lerugaa evvaru veyalerugaa",
+      "neevu therachina thalupulu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా యెదుట నీవు తెరచిన తలుపులు",
+        "వేయ లేరుగా ఎవ్వరు వేయలేరుగా",
+        "నీవు తెరచిన తలుపులు"
+      ],
+      "english": [
+        "Naa yeduta neevu therachina thalupulu",
+        "veya lerugaa evvaru veyalerugaa",
+        "neevu therachina thalupulu"
+      ]
+    }
+  ]
+}

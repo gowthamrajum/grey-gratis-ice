@@ -1,0 +1,52 @@
+{
+  "song_name": "O Neethi Sooryudaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ నీతి సూర్యుడా - క్రీస్తేసు నాథుడా",
+      "నీ దివ్య కాంతిని - నాలో వుదయింప జేయుమా ప్రభూ",
+      "నన్ను వెలిగించుమా .. ఓ నీతి.."
+    ],
+    "english": [
+      "O neethi sooryudaa - Kreesthesu naathudaa",
+      "Nee divya kaanthini - Naalo vudhayimpa jeyumaa prabhoo",
+      "Nannu veliginchumaa .. O neethi.."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నేనే లోకానికి - వెలుగై యున్నానని",
+        "మీరు లోకానికి - వెలుగై యుండాలని",
+        "ఆదేశమిచ్చినావుగావున - నాలో వుదయించుమా ప్రభూ",
+        "నన్ను వెలిగించుమా  ||ఓ||"
+      ],
+      "english": [
+        "Nene lokaaniki - Velugai yunnaanani",
+        "Meeru lokaaniki - Velugai yundaalani",
+        "Aadheshamichchinaavugaavuna - Naalo vudhayinchumaa prabhoo",
+        "Nannu veliginchumaa  ||O||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా జీవితమునే - తూకంబు వేసిన",
+        "నీ నీతి త్రాసులో - సరితూగ బోనని",
+        "నే నెరిగియింటిగావున - నాలో వుదయించుమా ప్రభూ",
+        "నన్ను వెలిగించుమా  ||ఓ||"
+      ],
+      "english": [
+        "Naa jeevithamune - Thookambu vesina",
+        "Nee neethi thraasulo - Sarithooga bonani",
+        "Ne nerigi intigaavuna - Naalo vudhayinchumaa prabhoo",
+        "Nannu veliginchumaa  ||O||"
+      ]
+    }
+  ]
+}

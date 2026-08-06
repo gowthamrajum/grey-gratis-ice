@@ -1,0 +1,64 @@
+{
+  "song_name": "Sooda sakkanodammaa Yesu naadhudu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సూడ సక్కనోడమ్మా యేసు నాధుడు",
+      "చూసినా సాలమ్మా యేసు నాధునీ ॥2॥"
+    ],
+    "english": [
+      "Sooda sakkanodammaa Yesu naadhudu",
+      "Choosinaa saalammaa Yesu naadhunee ||2||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జీవితం మారుతుంది",
+        "పాపం పోతుంది ॥2॥  ||సూడ||"
+      ],
+      "english": [
+        "Jeevitham maaruthundhi",
+        "Paapam pothundhi ||2||  ||Sooda||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పదివేలలో అతి సుందరుడు యేసు ॥2॥",
+        "ధవళ వర్ణుడు రత్న వర్ణుడు ॥2॥  ||సూడ||"
+      ],
+      "english": [
+        "Padivelalo athi sundarudu Yesu ||2||",
+        "Davala varnudu rathna varnudu ||2||  ||Sooda||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మనోహరుడు యేసు మహిమ స్వరూపుడు ॥2॥",
+        "మారనివాడు మన యేసురాజు ॥2॥  ||సూడ||"
+      ],
+      "english": [
+        "Manoharudu Yesu mahima swaroopudu ||2||",
+        "Maaranivaadu mana Yesuraaju ||2||  ||Sooda||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నజరేతూవాడు నా యేసూ ప్రభువు ॥2॥",
+        "నరులను రక్షింప భువికేతెంచినాడు ॥2॥  ||సూడ||"
+      ],
+      "english": [
+        "Najarethoovaadu naa Yesoo prabhuvu ||2||",
+        "Narulanu rakshimpa bhuvikethenchinaadu ||2||  ||Sooda||"
+      ]
+    }
+  ]
+}

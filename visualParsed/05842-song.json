@@ -1,0 +1,53 @@
+{
+  "song_name": "Lendi lendi meeru kraisthavulaaraa dandiyau Prabhundu butte",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "లెండి లెండి మీరు క్రైస్తవులారా! దండియౌ ప్రభుండు బుట్టె",
+      "ధరణిలో నేడు-దావీదు పురమున"
+    ],
+    "english": [
+      "Lendi lendi meeru kraisthavulaaraa! Dandiyau Prabhundu butte",
+      "Dharanilo nedu-Daaveedu puramuna"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అవతార రూపధారుడుగా నవతరించెను-అండజేరియున్నవారి నాదరించెను",
+        "పండియుండె పాకలోన పాపగ నేడు పాపముల బాపను  ||లెండి||"
+      ],
+      "english": [
+        "Avathaara roopadhaarudugaa navatharinchenu-Andajeriyunnavaari naadharinchenu",
+        "Pandiyunde paakalona paapaga nedu paapamula baapanu  ||Lendi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆహా! దూత దెల్పె గొల్లలకును చల్లని వార్త - ప్రీతితోడ ప్రభుని జూడ బయలుదేరిరి",
+        "యాతురతతో మందలను పొలమున విడచి యావేళను వారు  ||లెండి||"
+      ],
+      "english": [
+        "Aahaa! Dootha delpe gollalakunu challani vaartha - Preethithoda Prabhuni jooda bayaludheriri",
+        "Yaathurathatho mandalanu polamuna vidachi yaavelanu vaaru  ||Lendi||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆహా! తారబుట్టె నాకశమున - ఆదినంబున ఆ తారగాంచి జ్ఞానులంత తరలి వెళ్లిరి",
+        "బోళము బంగారములను బాలయేసుకు అర్పించిరి నాడు  ||లెండి||"
+      ],
+      "english": [
+        "Aahaa! Thaarabutte naakaashamuna - Aadhinambuna aa thaaragaanchi gnaanulantha tharali velliri",
+        "Bolamu bangaaramulanu baala Yesuku arpinchiri naadu  ||Lendi||"
+      ]
+    }
+  ]
+}

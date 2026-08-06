@@ -1,0 +1,71 @@
+{
+  "song_name": "Seeyoanuraaju Vachchunu Madhin Sidhdhapadu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సీయోనురాజు వచ్చును మదిన్ సిద్ధపడు",
+      "మీ తనువుల్ శుద్ధిచేయుడి మీ రాజుకొరకే"
+    ],
+    "english": [
+      "Seeyoanuraaju Vachchunu Madhin Sidhdhapadu",
+      "Mee Thanuvul Shudhdhichaeyudi Mee Raajukorakae"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లోకస్తులు ప్రశ్నింతురు మరి మీ రాజు యెవరని",
+        "తన శక్తిని విన్నవారు చూడ నాశింతురుగా",
+        "క్రీస్తే మన రారాజని ఉత్సహించెదము"
+      ],
+      "english": [
+        "Loakasthulu Prashninthuru Mari Mee Raaju Yevarani",
+        "Thana Shakthini Vinnavaaru Chooda Naashinthurugaa",
+        "Kreesthae Mana Raaraajani Uthsahinchedhamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వాహనములు ఎన్నియున్న గార్ధభమును యెక్కెను",
+        "తా నెవరియింట నుండునో వారిని యుద్ధరించును",
+        "పరీక్షించ ఆయనను చేర్చుకో నీయందు"
+      ],
+      "english": [
+        "Vaahanamulu Enniyunna Gaardhabhamunu Yekkenu",
+        "Thaa Nevariyinta Nundunoa Vaarini Yudhdharinchunu",
+        "Pareekshincha Aayananu Chaerchukoa Neeyandhu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యేసుని స్వీకరించెడు వారేగుదు రాయనతో",
+        "తృణీకరించువారలు నశింతురు నిక్కంబుగ",
+        "ప్రాముఖ్యమౌ ప్రశ్నయిది యోచించి చూచుకో"
+      ],
+      "english": [
+        "Yaesuni Sveekarinchedu Vaaraegudhu Raayanathoa",
+        "Thruneekarinchuvaaralu Nashinthuru Nikkambuga",
+        "Praamukhyamau Prashnayidhi Yoachinchi Choochukoa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "రాజుల రాజు ఆయనే ప్రభుల ప్రభువాయనే",
+        "న్యాయవంతుడు ఆయనే మహాత్ముడైన దేవుడు",
+        "సదా రాజ్యంబాయనదే ఆనంద మొందుడి"
+      ],
+      "english": [
+        "Raajula Raaju Aayanae Prabhula Prabhuvaayanae",
+        "Nyaayavanthudu Aayanae Mahaathmudaina Dhaevudu",
+        "Sadhaa Raajyambaayanadhae Aanandha Mondudi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "song_name": "Neeve Naa Pranamu",
+  "author": {
+    "Authored by": "Shyam Joseph",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవు లేక నేను లేను",
+      "నీవు లేక బ్రతుకలేను",
+      "నీవే నా ప్రాణము నా యేసయ్య",
+      "నీవే నా వెలుగు నా యేసయ్య",
+      "నీవే నా దేవుడవు నా యేసయ్య",
+      "యేసయ్య నా యేసయ్య"
+    ],
+    "english": [
+      "Neevu leka nenu lenu",
+      "neevu leka brathukalenu",
+      "neeve naa praanamu naa yesayya",
+      "neeve naa velugu naa yesayya",
+      "neeve naa devudavu naa yesayya",
+      "yesayya naa yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవు లేనిదే నేను లేనయ్య",
+        "నీవు లేక నేను లేను",
+        "నీవు లేక బ్రతుకలేను",
+        "నీవే నా ప్రాణము నా యేసయ్య"
+      ],
+      "english": [
+        "Neevu lenidhe nenu lenayya",
+        "neevu leka nenu lenu",
+        "neevu leka brathukalenu",
+        "neeve naa praanamu naa yesayya"
+      ]
+    }
+  ]
+}

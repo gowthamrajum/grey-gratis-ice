@@ -1,0 +1,63 @@
+{
+  "song_name": "Noru theruvani prema",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "కోరస్:-",
+      "ఘోర శ్రమలను పొందితివా యేసయ్యా",
+      "సిలువను మోస్తూ సొమ్మసిల్లి అలసిపోతివా ||2||"
+    ],
+    "english": [
+      "Chorus:-",
+      "Ghora shramalanu pondhithivaa Yesayyaa",
+      "Siluvanu mosthoo sommasilli alasipothivaa ||2||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేహమంతయు చీలిపోయేను కొరడాలతో కొట్టగా (2)",
+        "నోరు తెరువలేదు ప్రేమ బదులు పలుకలేదు ప్రేమ (2)",
+        "మౌనియైతివ యేసయ్య కరుణ గల యేసయ్యా (2) ||ఘోర శ్రమలను ||"
+      ],
+      "english": [
+        "Dhehamanthayu cheelipoyenu koradaalatho kottagaa (2)",
+        "Noru theruvaledhu prema badulu palukaledhu prema (2)",
+        "Mauniyaithiva Yesayya karuna gala Yesayyaa (2) ||Ghora shramalanu ||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చెల్లుమని కొట్టారు ఉమ్మిని ఊసారు ముఖముపై (2)",
+        "నోరు తెరువలేదు ప్రేమ బదులు పలుకలేదు ప్రేమ (2)",
+        "బాధనొందినావ జాలిగల యేసయ్యా (2) ||ఘోర శ్రమలను ||"
+      ],
+      "english": [
+        "Chellumani kottaaru ummini oosaaru mukhamupai (2)",
+        "Noru theruvaledhu prema badulu palukaledhu prema (2)",
+        "Baadhanondhinaava jaaligala Yesayyaa (2) ||Ghora shramalanu ||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బల్లెముతో పొడిచిరి రక్తమంతయు ధారపోసితివి (2)",
+        "నోరు తెరువలేదు ప్రేమ బదులు పలుకలేదు ప్రేమ (2)",
+        "ప్రాణమిచ్చినావ యేసయ్య నా ప్రాణ ప్రియుడా (2) ||ఘోర శ్రమలను ||",
+        "యేసయ్యా.. యేసయ్యా.. యేసయ్యా.. యేసయ్యా.."
+      ],
+      "english": [
+        "Ballemutho podichiri rakthamanthayu dhaaraposithivi (2)",
+        "Noru theruvaledhu prema badulu palukaledhu prema (2)",
+        "Praanamichchinaava Yesayya naa praana priyudaa (2) ||Ghora shramalanu ||",
+        "Yesayyaa.. Yesayyaa.. Yesayyaa.. Yesayyaa.."
+      ]
+    }
+  ]
+}

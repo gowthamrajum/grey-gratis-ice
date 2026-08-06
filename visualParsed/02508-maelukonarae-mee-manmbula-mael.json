@@ -1,0 +1,77 @@
+{
+  "song_name": "Melukonare mee manambula melimiga",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "మిక్కిలి సమూయేలు"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "మేలుకొనరే మీ మనంబుల మేలిమిగ మీ మేరఁ దప్పక",
+      "పాలు మాలక లేచి దేవుని పాదములు పూజింప గ్రక్కున ||మేలుకొనరే||"
+    ],
+    "english": [
+      "Melukonare mee manambula melimiga mee meran dhappaka",
+      "Paalu maalaka lechi Devuni paadamulu poojimpa grakkuna ||Melukonare||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దిక్కు లెల్లను దేజరిల్లెను దినకరుండుదయింపనయ్యెను",
+        "మ్రొక్కులకు ప్రతిఫలము నిచ్చెడు మూల కర్తకుఁ గొలువసేయఁగ  ||మేలుకొనరే||"
+      ],
+      "english": [
+        "Dikku lellanu dhejarillenu dhinakarundudhayimpanayyenu",
+        "Mrokkulaku prathiphalamu nichchedu moola karthakun goluvaseyaga ||Melukonare||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పక్షులెల్లను గిలకిలంచును బ్రభుని మహిమలు బల్కఁ దొడఁగెను",
+        "రక్షకుని సకలోపకృతులను రమ్యముగ నుతియించి పాడఁగ  ||మేలుకొనరే||"
+      ],
+      "english": [
+        "Pakshulellanu gilakilanchunu Prabhuni mahimalu balkan dhodangenu",
+        "Rakshakuni sakalopakruthulanu ramyamuga nuthiyinchi paadaga ||Melukonare||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిదుర బోయిన వేళ మిమ్మొక నిమిషమైనను బాసియుండక",
+        "పదిలముగ రక్షించు దేవునిఁ బ్రస్తుతింప మహాముదంబున  ||మేలుకొనరే||"
+      ],
+      "english": [
+        "Nidura boyina vela mimmoka nimishamainanu baasiyundaka",
+        "Padhilamuga rakshinchu Dhevunin prasthuthimpa mahaamudhambuna ||Melukonare||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మేటియౌ హృదయాబ్జములలో మీ కృతాజ్ఞతా భూషణంబులు",
+        "నేటుగా ధరియించుకొని యిటు నిర్మలాత్మునిఁ బూజసేయఁగ  ||మేలుకొనరే||"
+      ],
+      "english": [
+        "Metiyau hrudhayaabjamulalo mee kruthaajnathaa bhooshanambulu",
+        "Netugaa dhariyinchukoni itu nirmalaathmunin poojaseyaga ||Melukonare||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "తెల్లవారఁగఁ దెలియరే యిది తెలివిగల మానవ సమాజము",
+        "యల్లసిల్లుచు నీతి భాస్కరుఁడుదయ మయ్యెను హృదయముల పై  ||మేలుకొనరే||"
+      ],
+      "english": [
+        "Thellavaaragan dheliyare idhi thelivigala maanava samaajamu",
+        "Allasilluchu neethi bhaaskarundudhaya mayyenu hrudhayamula pai ||Melukonare||"
+      ]
+    }
+  ]
+}

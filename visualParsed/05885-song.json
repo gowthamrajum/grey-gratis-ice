@@ -1,0 +1,64 @@
+{
+  "song_name": "Sarvashakthudu naa sonthamayyenu mruthyunjayudu naa jeevamayyenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సర్వశక్తుడు నా సొంతమయ్యెను - మృత్యుంజయుడు నా జీవమయ్యెను",
+      "ఆహహో... ఇది అద్భుతమేగా - ఓహొహో... ఇది నిజమేగా"
+    ],
+    "english": [
+      "Sarvashakthudu naa sonthamayyenu - Mruthyunjayudu naa jeevamayyenu",
+      "Aahaho... idhi adbhuthamegaa - Ohoho... idhi nijamegaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కనుగొంటిని ఐశ్వర్యము - చేపట్టితీ ఒక గనినీ",
+        "యేసుడే నా రక్షకుడు - యేసుడే నా రా రాజు"
+      ],
+      "english": [
+        "Kanugontini aishwaryamu - Chepattithee oka ganinee",
+        "Yesude naa rakshakudu - Yesude naa raa raaju"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సంతోషము సమాధానము - నా మధిలో పొంగునయా",
+        "పాపమంతా పెకలించే - భయమంతా తొలగించే"
+      ],
+      "english": [
+        "Santhoshamu samaadhaanamu - Naa madilo pongunayaa",
+        "Paapamanthaa pekalinche - Bhayamanthaa tholaginche"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరలోకంలో నాపేరు - వ్రాశాడు నాయేసు",
+        "బ్రతుకంతా ఒక ఆశా - యేసునికై నే జీవిస్తా"
+      ],
+      "english": [
+        "Paralokamlo naaperu - Vraashaadu naa Yesu",
+        "Brathukanthaa oka aashaa - Yesunikai ne jeevisthaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఊరంతా చాటెదను - లోకమంతా ప్రకటింతును",
+        "జీవించే మన యేసు - త్వరలోనే వస్తాడు"
+      ],
+      "english": [
+        "Ooranthaa chaatedanu - Lokamanthaa prakatinthunu",
+        "Jeevinche mana Yesu - Thvaralone vasthaadu"
+      ]
+    }
+  ]
+}

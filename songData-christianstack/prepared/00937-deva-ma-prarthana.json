@@ -1,0 +1,58 @@
+{
+  "song_name": "Deva Ma Prarthana",
+  "author": {
+    "Authored by": "Pastor John Wesley",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవా మా ప్రార్థన వినవా",
+      "ఆవేదన ఆలకించవా",
+      "నీ ప్రజల కన్నీరు చూచి",
+      "దాటి వెళ్లకు ప్రభువా",
+      "మా దేశ క్షేమము చూసే",
+      "ఆశ్రయమైన దేవుడవు"
+    ],
+    "english": [
+      "Devaa maa praarthana vinavaa",
+      "aavedhana aalakinchavaa",
+      "nee prajala kanneeru choochi",
+      "daati vellaku prabhuvaa",
+      "maa dhesha kshemamu choose",
+      "aasrayamaina devudavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సుర్యుడే లేక వేకువ రాదే",
+        "కెరటాలు లేక సాగరము కాదే",
+        "నీవు లేక జీవించగలమా",
+        "కానరాక వ్యాధి మూలం",
+        "దేశమంత శిలగ మారే",
+        "కనులకాంతి చీకటాయే",
+        "దేశశాంతి మూగబోయే",
+        "జనులఘోష గగనమంతే",
+        "ఘోర శిక్ష బారమాయే",
+        "నీవే రావా కన్నీరు చూసి",
+        "రక్షింపుము మా దేశమును",
+        "దయ చూపవా యేసయ్య"
+      ],
+      "english": [
+        "Suryude leka vekuva raade",
+        "kerataalu leka saagaramu kaade",
+        "neevu leka jeevinchagalamaa",
+        "kaanaraaka vyaadhi moolam",
+        "deshamantha silaga maare",
+        "kanulakaanthi cheekataaye",
+        "deshashanthi moogaboye",
+        "janulaghosha gaganamanthe",
+        "ghora siksha baaramaaye",
+        "neeve raavaa kanneeru choosi",
+        "rakshinpumu maa deshamunu",
+        "daya choopavaa yesayya"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "song_name": "Christmas Kaanthulatho",
+  "author": {
+    "Authored by": "Sis. Hepsiba David",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "బెత్లెహేము పురములో ఒక వింత జరిగెను",
+      "పశులపాకలో రారాజు పుట్టెను",
+      "ఆ రాజు రాకతో ధన్యమాయే",
+      "భువి అంతా ఆ బాలుని జన్మతో",
+      "రక్షణయే మనకింకా"
+    ],
+    "english": [
+      "Bethlehemu puramulo oka vintha jarigenu",
+      "pasulapaakalo raaraaju puttenu",
+      "aa raaju raakatho dhanyamaaye",
+      "bhuvi anthaa aa baaluni janmatho",
+      "rakshanaye manakinkaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆనందం పొంగింది పరిశుద్ధుని రాకతో",
+        "పుడమంతా నిండింది క్రిస్మస్ కాంతులతో",
+        "క్రిస్మస్ కాంతులతో…."
+      ],
+      "english": [
+        "Aanandam pongindi parisuddhuni raakatho",
+        "pudamanthaa nindindhi Christmas kaanthulatho",
+        "Christmas kaanthulatho…."
+      ]
+    }
+  ]
+}

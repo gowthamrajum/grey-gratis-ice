@@ -1,0 +1,86 @@
+{
+  "song_name": "Idigo Naa Jeevitham",
+  "author": {
+    "Authored by": "Pastor John Wesley featuring Pastor Ramesh & Pastor Abraham",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇదిగో నా జీవితం దేవా నీకంకితం",
+      "బ్రతుకైనా చావైనా నీ కోసమే",
+      "నాకున్నది నీ ఒక్కడివే",
+      "నే బ్రతికేందుకు నీ ప్రేమ చాలయ్యా",
+      "ఆరాధింతును నా పూర్ణ హృదయముతో",
+      "నిను ఘనపరతును నా జీవితాంతము",
+      "యేసయ్యా యేసయ్యా యేసయ్యా",
+      "నా యేసయ్యా యేసయ్యా యేసయ్యా"
+    ],
+    "english": [
+      "Idigo naa jeevitham dheva neekankitham",
+      "Brathukaina chaavaina nee kosame",
+      "Naakunnadhi nee okkadive",
+      "Ne brathikenduku nee prema chaalayya",
+      "Aaradhinthunu naa poorna hrudhayamutho",
+      "Ninu ghanaparathunu naa jeevithaanthamu",
+      "Yesayya Yesayya Yesayya",
+      "Naa Yesayya Yesayya Yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవైపే నే చూడక – నీ ప్రేమే నేనెరుగక",
+        "శిధిలమైన శిలనై నేనుండగా",
+        "నను ప్రేమించగా వెంటాడితివి",
+        "నీ కౌగిట చేర్చి మనిషిగా మార్చితివి",
+        "ఎన్నాళ్ళుగ నాకై వేచి యున్నావు",
+        "ఎందుకని ఇంత ప్రేమించితివి"
+      ],
+      "english": [
+        "Neevaipe ne choodaka – nee preme nenerugaka",
+        "Shidhilamaina shilanai nenundaga",
+        "Nanu preminchaga ventaadithivi",
+        "Nee kaugita cherchi manishiga maarchithivi",
+        "Ennaalluga naakai vechi yunnavu",
+        "Endukani intha preminchithivi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దివ్యమైన స్నేహము నా మదిలోని కావ్యము పరిమళించు పద్మము నీవేనయ్యా",
+        "ఊహలరేఖలకు ఊపిరి పోసితివి",
+        "ఊహకు మించిన స్థానము నిచ్చితివి",
+        "ఏమి చూచితివి యోగ్యత నాలో",
+        "ఏమిచ్చి నీఋణము నే తీర్చెదను"
+      ],
+      "english": [
+        "Divyamaina snehamu naa madiloni kaavyamu",
+        "Parimalinchu padmamu neeve nayya",
+        "Oohala rekhalaku oopiri posithivi",
+        "Oohaku minchina sthanamu nichchithivi",
+        "Emi choochithivi yogyatha naalo",
+        "Emichchi nee runamu ne theerchedhanu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "స్తుతులపై ఆసీనుడా పరిశుద్ధతలో మహనీయుడా స్వరమండలము సితారతో నిను కీర్తింతును",
+        "సద్గుణములకు నిలయము నీవే",
+        "సర్వాధిపతులకు సారధి నీవే",
+        "దైవములనబడిన వారికి నీవే",
+        "దేవుడవు మహాదేవుడవు"
+      ],
+      "english": [
+        "Sthuthulapai aaseenuda parishuddhathalo mahaneeyuda",
+        "Swaramandalamu sithaaratho ninu keerthinthunu",
+        "Sadhgunamulaku nilayamu neeve",
+        "Sarvaadhipathulaku saaradhi neeve",
+        "Dhaivamulanabadina vaariki neeve",
+        "Dhevudavu Mahadhevudavu"
+      ]
+    }
+  ]
+}

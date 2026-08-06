@@ -1,0 +1,38 @@
+{
+  "song_name": "Nee Dayalo",
+  "author": {
+    "Authored by": "Pastor Sammy Thangiah & Pastor Paul Thangiah featuring Benji PK, Sudheer Daniel & Jyotsna",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ దయలో నే జీవింతును",
+      "నీ దయ నన్ను నిలబెట్టెను",
+      "నన్ను కాపడెను నన్ను హత్తుకొనెను",
+      "నా సమస్తము నీ దయయే"
+    ],
+    "english": [
+      "Nee dhayalo ne jeevinthunu",
+      "nee dhaya nannu nilabettenu",
+      "nannu kaapadenu nannu hathukonenu",
+      "na samasthamu nee dayaye"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ దయలో నే జీవింతును",
+        "నీ దయ నన్ను నిలబెట్టెను",
+        "నన్ను కాపడెను నన్ను హత్తుకొనెను",
+        "నా సమస్తము నీ దయయే"
+      ],
+      "english": [
+        "Nee dhayalo ne jeevinthunu",
+        "nee dhaya nannu nilabettenu",
+        "nannu kaapadenu nannu hathukonenu",
+        "na samasthamu nee dayaye"
+      ]
+    }
+  ]
+}

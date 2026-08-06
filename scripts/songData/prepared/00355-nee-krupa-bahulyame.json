@@ -1,0 +1,43 @@
+{
+  "song_name": "Nee Krupa Bahulyame",
+  "author": {
+    "Authored by": "Bro  Yesanna",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ కృప బాహుళ్యమే - నా జీవిత ఆధారమే -2",
+      "నీ కృపా - నీ కృపా - నీ కృపా - నీ కృపా -2"
+    ],
+    "english": [
+      "Nee Krupa Baahulyame - Naa Jeevitha Aadhaarame -2",
+      "Nee Krupaa - Nee Krupaa - Nee Krupaa - Nee Krupaa -2"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శృతులు లేని - వీణనై",
+        "మతి - తప్పినా వేళ -2",
+        "నీ కృప వీడక - నన్ను వెంబడించెనా -2"
+      ],
+      "english": [
+        "Shruthulu Leni - Veenanai",
+        "Mathi - Thappinaa Vela -2",
+        "Nee Krupa Veedaka - Nannu Vembadinchenaa -2"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శ్రమలలో - పుటమువేయ బడిన వేళ -2",
+        "నీ కృప నాలో - నిత్యజీవ మాయెనా -2"
+      ],
+      "english": [
+        "Shramalalo - Putamuveya Badina Vela -2",
+        "Nee Krupa Naalo - Nithyajeeva Maayenaa -2"
+      ]
+    }
+  ]
+}

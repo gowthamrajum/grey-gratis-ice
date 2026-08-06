@@ -1,0 +1,31 @@
+{
+  "song_name": "Aidu rottelu rendu chinni chepalu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఐదు రొట్టెలు రెండు చిన్ని చేపలు – ఐదు వేల పీపుల్స్ కి పంచిపెట్టారు /2/",
+      "చెప్పలేను బాబోయ్ ప్రభు గొప్పతనాలు – నేను చెప్పలేను బాబోయ్ ప్రభు గొప్పతనాలు /2/"
+    ],
+    "english": [
+      "Aidu rottelu rendu chinni chepalu - Aidu vela peeples ki panchipettaaru /2/",
+      "Cheppalenu baaboy Prabhu goppathanaalu - Nenu cheppalenu baaboy Prabhu goppathanaalu /2/"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చెప్పి చెప్పి చేస్తాడు చిత్రమైన పనులెన్నో /2/ చెప్పలేను/",
+        "2. కానానులో పెండ్లివిందులో వాటర్ని వైన్ గా మార్చివేసాడు /2/చెప్పలేను/"
+      ],
+      "english": [
+        "Cheppi cheppi chesthaadu chithramaina panulenno /2/ cheppalenu/",
+        "2. Kaanaanulo pendlivindhulo vaatarni vain gaa maarchivesaadu /2/cheppalenu/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "song_name": "Parisaraana Sasyamantha Hymnal",
+  "author": {
+    "Authored by": "Translated : Kollkapu gopal Rao | Original Lyrics: O J Thompson",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరిసరాన సస్యమంత పండె పనల నిండను పసిడి వర్ణ మలరునట్లు దేశమంత నిండెను ||కోఁతప్రభువా కోయువారం బంపుమాదు మొఱవిని పనలఁగూర్చిఁ బంపువారిఁ గోఁతసమయమప్పుడే ||"
+      ],
+      "english": []
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రాతఃకాల ప్రజ్వలమున సాయంకాల కాంతులన్ సంధ్యరాగ సమయమపుడు కూర్పన్ ఆనతీయుము ॥కోత॥"
+      ],
+      "english": []
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రభువు పంపు వారలార పసిడి పనలఁ కూర్చుఁడి ప్రొద్దు గ్రుంకు వేళమీరు పరముఁజేరు కొనెదరు ॥కోత॥"
+      ],
+      "english": []
+    }
+  ]
+}

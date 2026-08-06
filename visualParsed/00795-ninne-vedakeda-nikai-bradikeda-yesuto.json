@@ -1,0 +1,54 @@
+{
+  "song_name": "Ninne vedhakedha neekai bradhikedhaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిన్నె వెదకెద నీకై బ్రదికెదా",
+      "యేసుతో యీ జీవితం ఆనందమే ఇది సత్యం (2)"
+    ],
+    "english": [
+      "Ninne vedhakedha neekai bradhikedhaa",
+      "Yesutho ee jeevitham aanandame idhi sathyam (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చీకటి లోఐనా చింతలు ఎన్నో ఉన్నా (2)",
+        "కన్నీరు తుడిచే యేసు నాతో ఉండగా",
+        "నా గుండె గాయాలన్ని తానే మాన్పగా (2)",
+        "యేసుతో యీ జీవితం",
+        "ఆనందమే ఇది సత్యం (2)"
+      ],
+      "english": [
+        "Cheekati lonainaa chinthalu enno unnaa (2)",
+        "Kanneeru thudiche Yesu naatho undagaa",
+        "Naa gunde gaayaalanni thaane maanpagaa (2)",
+        "Yesutho ee jeevitham",
+        "Aanandame idhi sathyam (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా కొరకై ప్రాణ మిచ్చినా నీకొరకే జీవిస్తున్నా (2)",
+        "నా ఆత్మ ప్రాణం సర్వం నిన్నే తలచగా",
+        "నా గుండె శబ్దం నిత్యం యేసే యేసేగా (2)",
+        "యేసుతో యీ జీవితం",
+        "ఆనందమే ఇది సత్యం (2)"
+      ],
+      "english": [
+        "Naa korakai praana michchinaa neekorake jeevisthunnaa (2)",
+        "Naa aathma praanam sarvam ninne thalachagaa",
+        "Naa gunde shabdham nithyam Yese Yesegaa (2)",
+        "Yesutho ee jeevitham",
+        "Aanandame idhi sathyam (2)"
+      ]
+    }
+  ]
+}

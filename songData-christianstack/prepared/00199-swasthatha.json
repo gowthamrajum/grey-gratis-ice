@@ -1,0 +1,137 @@
+{
+  "song_name": "Swasthatha",
+  "author": {
+    "Authored by": "Merlyn Salvadi, Kenny Salvadi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "[చరణం 1]",
+      "చూపు లేని వారికి",
+      "చూపునిచ్చే దేవుడవు",
+      "మాట రాని మనిషికి",
+      "మాటలనిచ్చే దేవుడవు",
+      "ప్రాణము లేని వారికి",
+      "జీవము పోసే దేవుడవు",
+      "అపవిత్ర ఆత్మలను బంధించే దేవుడవు"
+    ],
+    "english": [
+      "[Verse 1]",
+      "Choopu leni vaariki",
+      "choopunu icche devudavu",
+      "maata raani manishiki",
+      "maatalanicche devudavu",
+      "praanamu leni vaariki",
+      "jeevamu pose devudavu",
+      "apavithra aathmalanu bandhinche devudavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "[అను పల్లవి]",
+        "ఎన్నో గొప్ప కార్యములు",
+        "చేసేవాడవు యేసయ్యా"
+      ],
+      "english": [
+        "[Pre-chorus]",
+        "Enno goppa kaaryamulu",
+        "chese vaadavu Yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "[పల్లవి]",
+        "స్వస్థత నాకు కలుగును",
+        "నా నమ్మకం నీయందే ఉండెను",
+        "నీ రక్తము నన్ను శుద్ధి పరచును",
+        "నీవు పొందిన దెబ్బల చేత",
+        "నాకు స్వస్థత కలుగును"
+      ],
+      "english": [
+        "[Chorus]",
+        "Swasthatha naku kalugunu",
+        "na nammakam nee yande undenu",
+        "nee rakthamu nannu shuddhiparachunu",
+        "neevu pondhina debbala chetha",
+        "naku swasthatha kalugunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "[చరణం 2]",
+        "ఒంటరిగా ఉన్న వారికి",
+        "తోడుగా నిలిచే దేవుడవు",
+        "వ్యసనములో ఉన్న వారికి",
+        "విడుదలనిచ్చే దేవుడవు",
+        "మనశ్శాంతి లేని వారికి",
+        "నెమ్మదినిచ్చే దేవుడవు",
+        "కృంగి ఉన్న వారికి",
+        "ధైర్యము నిచ్చే దేవుడవు"
+      ],
+      "english": [
+        "[Verse 2]",
+        "Ontarigaa unna vaariki",
+        "thoduga niliche devudavu",
+        "vyasanamulo unna vaariki",
+        "vidudhala nicche devudavu",
+        "manashanthi leni vaariki",
+        "nemmadhi nicche devudavu",
+        "krungi unna vaariki",
+        "dhairyamu nicche devudavu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "[అను పల్లవి]",
+        "ఎన్నో గొప్ప కార్యములు",
+        "చేసేవాడవు యేసయ్యా"
+      ],
+      "english": [
+        "[Pre-chorus]",
+        "Enno goppa kaaryamulu",
+        "chese vaadavu Yesayya"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "[పల్లవి]",
+        "స్వస్థత నాకు కలుగును",
+        "నా నమ్మకం నీయందే ఉండెను",
+        "నీ రక్తము నన్ను శుద్ధి పరచును",
+        "నీవు పొందిన దెబ్బల చేత",
+        "నాకు స్వస్థత కలుగును"
+      ],
+      "english": [
+        "[Chorus]",
+        "Swasthatha naku kalugunu",
+        "na nammakam nee yande undenu",
+        "nee rakthamu nannu shuddhiparachunu",
+        "neevu pondhina debbala chetha",
+        "naku swasthatha kalugunu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "[Bridge]",
+        "యేసయ్యా యేసయ్యా",
+        "నీకే మొర పెట్టుచున్నాన్ యేసయ్యా",
+        "యేసయ్యా యేసయ్యా",
+        "నీ సాక్షిగా నను నిలుపుము యేసయ్యా"
+      ],
+      "english": [
+        "[Bridge]",
+        "Yesayya yesayya",
+        "neeke morrapettuchunnanu yesayya",
+        "Yesayya yesayya",
+        "nee saakshiga nanu nilupumu yesayya"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "song_name": "Nannu srujiyinchina aa Devudu ekkada unnaado",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నన్ను సృజియించిన ఆదేవుడు",
+      "ఎక్కడఉన్నాడో",
+      "అని ఊరూ వాడా చెట్టూపుట్టా అన్నీ",
+      "వెదికాను ॥2॥"
+    ],
+    "english": [
+      "Nannu srujiyinchina aa Devudu",
+      "Ekkada unnaado",
+      "Ani ooroo vaadaa chettoo puttaa annee",
+      "Vedikaanu ॥2॥"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సృష్టినే దేవుడని నేను పూజించాను",
+        "సృష్టికర్తను మరచీ నేనెంతో వగచాను",
+        "॥నను॥"
+      ],
+      "english": [
+        "Srushtine Devudani nenu poojinchaanu",
+        "Srushtikarthanu marachee nenentho vagachaanu",
+        "॥Nanu॥"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వెదకిన దేవుడు దొరకగపోగా",
+        "నేనే దేవుడని సరిపెట్టుకున్నాను ॥2॥",
+        "రక్తము కార్చిన వాడె దేవుడని ॥2॥",
+        "తెలిసిన క్షణమున సిలువను చేరితిని ॥2॥",
+        "॥నను॥"
+      ],
+      "english": [
+        "Vedakina Devudu dhorakagapogaa",
+        "Nene Devudani saripettukunnaanu ॥2॥",
+        "Rakthamu kaarchina vaade Devudani ॥2॥",
+        "Thelisina kshanamuna siluvanu cherithini ॥2॥",
+        "॥Nanu॥"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మత ఛట్రములో దేవుని బంధించి",
+        "విదేశీయతను క్రీస్తుకు ఆపాదించి ॥2॥",
+        "నిజరక్షకునీ అంగీకరించక ॥2॥",
+        "నిష్ఠగ నరకాన చేరుట న్యాయమా ॥2॥"
+      ],
+      "english": [
+        "Matha chhatramulo Devuni bandhinchi",
+        "Vidhesheeyathanu Kreesthuku aapaadhinchi ॥2॥",
+        "Nijarakshakunee angeekarinchaka ॥2॥",
+        "Nishthaga narakaana cheruta nyaayamaa ॥2॥"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నను సృజియించిన ఆదేవుడు",
+        "యేసులో ఉన్నాడు",
+        "అని ఊరు వాడ పల్లే వెళ్ళీ ॥2॥",
+        "తిరిగీ చెబుతాను"
+      ],
+      "english": [
+        "Nanu srujiyinchina aa Devudu",
+        "Yesulo unnaadu",
+        "Ani ooru vaada palle vellee ॥2॥",
+        "Thirigee chebuthaanu"
+      ]
+    }
+  ]
+}

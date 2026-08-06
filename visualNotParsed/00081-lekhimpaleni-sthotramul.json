@@ -1,0 +1,53 @@
+{
+  "song_name": "Lekkimpaleni sthothramul",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "లెక్కింపలేని స్తోత్రముల్ దేవా ఎల్లప్పుడు నే పాడెదన్",
+      "ఇంతవరకు నా బ్రతుకులో నివు చేసిన మేళ్ళకై"
+    ],
+    "english": [
+      "Lekkimpaleni sthothramul Deva ellappudu ne paadedan",
+      "Inthavaraku naa brathukulo neevu chesina mellakai"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆకాశ మహాకాశముల్ దాని క్రిందున్న ఆకాశము",
+        "భూమిలో కనబడునవన్నీ దేవా నిన్నే కీర్తించున్  ||లెక్కింపలేని||"
+      ],
+      "english": [
+        "Aakaasha mahaakaashamul daani krindhunna aakaashamu",
+        "Bhoomilo kanabadunavannee Deva ninne keerthinchun  ||Lekkimpaleni||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అడవిలో నివసించునవన్నీ సుడి గాలియు మంచును",
+        "భూమిపై నున్న వన్నీ దేవా నిన్నే పొగుడును  ||లెక్కింపలేని||"
+      ],
+      "english": [
+        "Adavilo nivasinchunavannee sudi gaaliyu manchunu",
+        "Bhoomipai nunna vannee Deva ninne pogudunu  ||Lekkimpaleni||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీటిలో నివసించు ప్రాణుల్ ఈ భువిలోని జీవ రాశులు",
+        "ఆకాశమున ఎగురునవన్నీ ప్రభువా నిన్నే కీర్తించున్  ||లెక్కింపలేని||"
+      ],
+      "english": [
+        "Neetilo nivasinchu praanul ee bhuviloni jeeva raashulu",
+        "Aakaashamuna egurunavannee Prabhuvaa ninne keerthinchun  ||Lekkimpaleni||"
+      ]
+    }
+  ]
+}

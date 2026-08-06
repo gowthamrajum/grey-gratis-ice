@@ -1,0 +1,58 @@
+{
+  "song_name": "Rojantha",
+  "author": {
+    "Authored by": "Joel Kodali",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రోజంతా నీ పాద చెంత",
+      "నేనుండ నా కోరిక",
+      "దినమెల్ల నా తోడుగా",
+      "నీవుంటే ఓ వేడుక"
+    ],
+    "english": [
+      "Rojantha nee paadha chentha",
+      "nenunda naa korika",
+      "dinamella naa thoduga",
+      "neevunte oh veduka"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జీవితాంతము నీ వాడిగానే",
+        "నేనుండ నా కోరిక",
+        "ప్రతి నిత్యం నీ రూపమే",
+        "నా మదిలో మెదలాలిక ll రోజంతా ll"
+      ],
+      "english": [
+        "ninu choose kanulu sthuthinche galamu",
+        "preminche hrudayam spandinche manasu",
+        "deva neeve dayacheyumu",
+        "ninnu keerthinpa nerpu prabhu (2)jeevithaantham nee vaadi gaane",
+        "nenunda naa korika",
+        "prathi nityam nee roopame",
+        "na madhilo medhalaalika || Rojantha ||",
+        "nee sainukudanai ne poradedhanu",
+        "na shakthanthayu na yukthanthayu",
+        "neekai vechinppa samsiddhudanu",
+        "nannu deevinpa pampu prabhu (2)athi twaralo janulellaru",
+        "ninneruga na korika",
+        "okamaaru vaarandharu",
+        "ninnu pogada choodaaligaa || Rojantha ||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అతి త్వరలో జనులెల్లరు",
+        "నిన్నెరుగ నా కోరిక",
+        "ఒకమారు వారందరును",
+        "నిను పొగడ చూడాలిగా ll రోజంతా ll"
+      ],
+      "english": []
+    }
+  ]
+}

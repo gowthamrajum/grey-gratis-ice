@@ -1,0 +1,35 @@
+{
+  "song_name": "Stutiki Patruda Stotrarhuda Ganata Nikenaya",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తుతికి పాత్రుడా స్తొత్రార్హుడా ఘనత నీకెనయా మహొన్నతుడైన రాజు ఆరాధన . . (2) హల్లెలూయ . . (2) సదా పాడెద నా యేసుకే ఆరాధన స్తుతి పాడుచు కొనసాగెదన్ జీవితాంతము"
+    ],
+    "english": [
+      "Stutiki patruda stotrarhuda Ganata nikenaya mahonnatudaina raju Aradhana . . (2) Hallellujah . . (2) Sada padeda na yesuke aradhana Stuti paduchu konasagedan jivitamtamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యుగముల పూర్వము నుండి సర్వయుగముల వరకు ఆది అంతము లేని ఆద్యంత రహితుడవు ఉన్నవాడనువాడవు మారని ప్రేమకు వందనము"
+      ],
+      "english": [
+        "Yugamula purvamu numdi sarvayugamula varaku Adi amtamu leni adyamta rahitudavu Unnavadanuvadavu marani premaku vamdanamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కన్నీళ్ళు నాట్యముగా మార్చి మోడును చిగురింప జేసావు క్షుద్బాధ తీర్చుట కొరకై జీవాహారమైనావు నిర్ధొషులుగ మమ్ము చేయుటకు మా దోష శిక్షను పొందావు"
+      ],
+      "english": [
+        "Kannillu natyamuga marchi modunu chigurimpa jesavu Kshudbadha tirchuta korakai jivaharamainavu Nirdhoshuluga mammu cheyutaku ma dosha sikshanu pomdavu"
+      ]
+    }
+  ]
+}

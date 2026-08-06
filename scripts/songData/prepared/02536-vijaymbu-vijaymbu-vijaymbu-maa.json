@@ -1,0 +1,67 @@
+{
+  "song_name": "Vijayambu Vijayambu Vijayambu Maa Yaesu",
+  "author": {
+    "Authored by": "",
+    "రచన": "జాన్ ఫ్రాన్సిస్ స్పెన్సర్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "విజయంబు విజయంబు విజయంబు మా యేసు నిజమె మృత్యువు గెల్చి నేఁడు వేంచేసె",
+      "యజమానుఁ డెల్ల ప్ర యాసము లెడఁబాప స్వజనుల రక్షింప సమసె సిలువమీఁద"
+    ],
+    "english": [
+      "Vijayambu Vijayambu Vijayambu Maa Yaesu Nijame Mruthyuvu Gelchi Naedu Vaenchaese",
+      "Yajamaanu Della Pra Yaasamu Ledabaapa Svajanula Rakshimpa Samase Siluvameedha"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "విజయంబు విజయంబు విజయంబు మానవుల వృజిన నివృత్తిని విభుఁ డొనరింపన్",
+        "గుజనులచే నతఁడు క్రూర మరణము నొంది విజిత మృత్యువు నుండి విజయుండై వేంచేసె"
+      ],
+      "english": [
+        "Vijayambu Vijayambu Vijayambu Maanavula Vrujina Nivruththini Vibhu Donarimpan",
+        "Gujanulachae Nathadu Kroora Maranamu Nondhi Vijitha Mruthyuvu Nundi Vijayundai Vaenchaese"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విజయంబు విజయంబు విజయంబు మా యేసు భుజము మీఁదను మోయుఁ బరిపాలనంబు",
+        "కుజము మీఁదను బ్రాణ త్యజనము జేసెను ధ్వజము మోయుచు సిల్వ పాప మోడింతము"
+      ],
+      "english": [
+        "Vijayambu Vijayambu Vijayambu Maa Yaesu Bhujamu Meedhanu Moayu Baripaalanambu",
+        "Kujamu Meedhanu Braana Thyajanamu Jaesenu Dhvajamu Moayuchu Silva Paapa Moadinthamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "విజయంబు విజయంబు విజయం బిఁకను మా క పజయము కాకుండఁ",
+        "బ్రభు యేసు క్రీస్తు సుజనత్వమున వైరి వ్రజము",
+        "గెల్వఁగఁజేసి నిజముగఁ బరలోక నిలయంబులో నిల్పు"
+      ],
+      "english": [
+        "Vijayambu Vijayambu Vijayam Bikanu Maa Ka Pajayamu Kaakunda",
+        "Brabhu Yaesu Kreesthu Sujanathvamuna Vairi Vrajamu",
+        "Gelvagajaesi Nijamuga Baraloaka Nilayambuloa Nilpu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "విజయంబు విజయంబు విజయం బనెడి పాట నిజభక్తితో",
+        "మనము నేర్చిన వాని భజియించుదము భూన భములు తాఁ బాలించు",
+        "అజిత జీవ ప్రదుఁ డమరత్వ మిడు మనకు"
+      ],
+      "english": [
+        "Vijayambu Vijayambu Vijayam Banedi Paata Nijabhakthithoa",
+        "Manamu Naerchina Vaani Bhajiyinchudhamu Bhoona Bhamulu Thaa Baalinchu",
+        "Ajitha Jeeva Pradhu Damarathva Midu Manaku"
+      ]
+    }
+  ]
+}

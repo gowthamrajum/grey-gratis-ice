@@ -1,0 +1,74 @@
+{
+  "song_name": "Yesu ― nene maargamunu,",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "లేరు లేరు - జగతిన్ న్నీ సమము",
+      "భాసుర తేజ - యేసురాజ"
+    ],
+    "english": [
+      "Leru leru - Jagathin nee samamu",
+      "Bhaasura theja - Yesuraaja"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రేమతో నేపాడెద - మార్గము నీవే - సత్యం నీవే",
+        "జీవం నీవే - జ్యోతివి నీవే ప్రభువా",
+        "నీదు కృప - రసాంబుధిలోన - నిరతము పానము చేసెద"
+      ],
+      "english": [
+        "Prematho nepaadedha - Maargamu neeve - Sathyam neeve",
+        "Jeevam neeve - Jyothivi neeve Prabhuvaa",
+        "Needu krupa - Rasaambudhilona - Nirathamu paanamu cheseda"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఈ ధర పరదేశమే - కపట సహోదర - కుట్రల మయము",
+        "స్వార్థం ద్రోహం - పక్షపాత మయం - పక్షపాత మయం -",
+        "బాబెలు - వేశ్యాసామ్రాజ్యం - ఈ ధరన్ - న్యాయమే - లేదు ప్రభూ"
+      ],
+      "english": [
+        "Ee dhara paradheshame - Kapata sahodhara - Kutrala mayamu",
+        "Svaartham droham - Pakshapaatha mayam - Pakshapaatha mayam -",
+        "Baabelu - Veshyaasaamraajyam - Ee dharan - Nyaayame - Ledu Prabhoo"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఈ భువి - సైతాను వశం - అబద్ధ ప్ర - వక్తల మయము",
+        "క్రీస్తు విరోధి - దుర్మార్గమయము",
+        "ఇచ్చోట - నీ సంఘంభునకు - నీవే - ప్రభువా ఆధారము - ఆశ్రయము"
+      ],
+      "english": [
+        "Ee bhuvi - Saithaanu vasham - Abadhdha pra - Vakthala mayamu",
+        "Kreesthu virodhi - Dhurmaargamayamu",
+        "Ichchota - Nee sanghambunaku - Neeve - Prabhuvaa aadhaaramu - Aashrayamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీవేగా నా దిక్కు ప్రభూ - దినదినమున నీ వాక్యబలమున",
+        "నేనీ ధరలో - పయనించెద ప్రియుడా",
+        "యేసుప్రభూ - నీ రాకడ ఎపుడో - త్వరపడి - త్వరపడి",
+        "రా ప్రియుడా - రా ప్రియుడా"
+      ],
+      "english": [
+        "Neevegaa naa dikku Prabhoo - Dhinadhinamuna nee vaakyabalamuna",
+        "Nenee dharalo - Payaninchedha priyudaa",
+        "Yesuprabhoo - Nee raakada epudo - Thvarapadi - Thvarapadi",
+        "Raa priyudaa - Raa priyudaa"
+      ]
+    }
+  ]
+}

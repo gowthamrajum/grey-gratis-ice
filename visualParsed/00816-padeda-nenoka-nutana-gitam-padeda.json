@@ -1,0 +1,42 @@
+{
+  "song_name": "Paadeda nenoka noothana geetham paadeda",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "పాడెద నేనొక నూతన గీతం పాడెద మనసారా",
+      "యేసయ్య నీ నామము గాక వేరొక నామము లేదాయె"
+    ],
+    "english": [
+      "Paadeda nenoka noothana geetham paadeda manasaaraa",
+      "Yesayya nee naamamu gaaka veroka naamamu ledaaye"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కలుషితమైన నదియై నేను కడలియ్యేనదిలో",
+        "కలసిపోతినే కలువరి దారిలో కనబడదే ఇక పాపాలరాశి"
+      ],
+      "english": [
+        "Kalushithamaina nadhiyai nenu kadaliyye nadhilo",
+        "Kalasipothine Kaluvari daarilo kanabadadhe ika paapaalaraashi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పోరు తరగని సిగసిగలెనియె అణచి కృపాతిశయము",
+        "పాదయైన నా హృదయంలోనే పొంగెనే అభిషేక తైలం"
+      ],
+      "english": [
+        "Poru tharagani sigasigaleniye anachi krupaathishayamu",
+        "Paadhayaina naa hrudhayamlone pongene abhisheka thailam"
+      ]
+    }
+  ]
+}

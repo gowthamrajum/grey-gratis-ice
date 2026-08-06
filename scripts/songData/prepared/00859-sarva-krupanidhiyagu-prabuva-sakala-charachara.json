@@ -1,0 +1,56 @@
+{
+  "song_name": "Sarva Krupanidhiyagu Prabuva Sakala Charachara",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సర్వ క్రుపానిధీయగు ప్రభువా సకల చరాచర స౦తోషమా",
+      "స్తొత్రముచేసి స్తుతి౦చెదను స౦తసమున నిను పొగడెదను",
+      "హల్లెలూయా హల్లెలూయా హల్లెలూయా యని పాడెదను",
+      "ఆన౦దముతో సాగెదను నే నాన౦దముతో సాగెదను"
+    ],
+    "english": [
+      "Sarva Krupanidhiyagu Prabuva Sakala Charachara Satoshama",
+      "Stotramuchesi Stutichedanu Satasamuna Ninu Pogadedanu",
+      "Hallelujah Hallelujah Hallelujah Yani Padedanu",
+      "Anadamuto Sagedanu Ne Nanadamuto Sagedanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రేమి౦చి నన్ను వెదకితివి ప్రీతితో నను రక్షి౦చితివి",
+        "పరిశుద్ద జీవితము చేయుటకై పాపిని నను కరుణి౦చితివి"
+      ],
+      "english": [
+        "Premichi Nannu Vedakitivi Pritito Nanu Rakshichitivi",
+        "Parisudda Jivitamu Cheyutakai Papini Nanu Karunichitivi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అల్పకాల శ్రమలనుభవి౦ప అనుదినము క్రుప నిచ్చితివి",
+        "నాధుని అడుగుజాడలలో నడచుటకు నను పిలచితివి"
+      ],
+      "english": [
+        "Alpakala Sramalanubavipa Anudinamu Krupa Nichchitivi",
+        "Nadhuni Adugujadalalo Nadachutaku Nanu Pilachitivi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మరణ శరీరము మార్పునో౦ది మహిమ శరీరము పొ౦ధుటకై",
+        "మహిమాత్మతో నను ని౦పితివి మరణ భయములను తీర్చీతివి"
+      ],
+      "english": [
+        "Marana Sariramu Marpunodi Mahima Sariramu Podhutakai",
+        "Mahimatmato Nanu Nipitivi Marana Bayamulanu Tirchitivi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "song_name": "Idhi Yehova kaliginchina dinamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "పురుషోత్తమ చౌధరి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇది యెహోవా కలిగించిన దినము సుదివసంబునను జొప్పడు గడియలు",
+      "కొదువలేని దయ గుల్కెడు వానివి ||యిది||"
+    ],
+    "english": [
+      "Idhi Yehova kaliginchina dinamu sudhivasambunanu joppadu gadiyalu",
+      "Kodhuvaleni daya gulkedu vaanivi ||Idhi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మోక్షము భూమియు సమ్మోద మంది నుతులక్షరు గద్దె చుట్టు",
+        "నాక్రమింతురు గాక ||నిది||"
+      ],
+      "english": [
+        "Mokshamu bhoomiyu sammodha mandi nuthulaksharu gadde chuttu",
+        "Naakraminthuru gaaka ||Idhi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అతఁడీ దినమంచంత మొందు నర వితతి నుండి వే వేగ వచ్చెను  ||ఇది||"
+      ],
+      "english": [
+        "Athadee dhinamanchantha mondhu nara vithathi nundi ve vega vachchenu ||Idhi||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆ పిశాచ రా రాజ్యంబు కూలినది ఆ పరేశు విజయము లీ దినమున ||నిది||"
+      ],
+      "english": [
+        "Aa pishaacha raa raajyambu koolinadhi aa Pareshu vijayamu lee dinamuna ||Idhi||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సేవక వరులు విలసింపఁగఁ జేసి యా పావనాద్భుతములఁ",
+        "బ్రచురముఁ జేయుదు ||యిది||"
+      ],
+      "english": [
+        "Sevaka varulu vilasimpaga jesi yaa paavanaadbhuthamula",
+        "Prachuramu jeyudhu ||Idhi||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "దావీదుని వర తనయుఁడై యభిషేకావృతుఁడౌ రాజా గ్రణికి",
+        "హోసన్నా ||యిది||"
+      ],
+      "english": [
+        "Daaveedhuni vara thanayudai yabhishekaavruthudau raajaa graniki",
+        "Hosannaa ||Idhi||"
+      ]
+    }
+  ]
+}

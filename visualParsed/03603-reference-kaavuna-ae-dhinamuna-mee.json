@@ -1,0 +1,75 @@
+{
+  "song_name": "Melkonumaa melkonumaa Yese nudivenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మేల్కొనుమా మేల్కొనుమా",
+      "యేసే నుడివెను ఓ ప్రియుడా మేల్కొనుమా మేల్కొనుమా"
+    ],
+    "english": [
+      "Melkonumaa melkonumaa",
+      "Yese nudivenu o priyudaa melkonumaa melkonumaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తెలిసికొనుము వివేచించి విభుని యొక్క చిత్తంబేమో",
+        "కాలవిలువను యెరిగి మేల్కొనుమా"
+      ],
+      "english": [
+        "Thelisikonumu vivechinchi vibhuni yokka chitthambemo",
+        "Kaalaviluvanu erigi melkonumaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నమ్మజాల మీ లోకమును నీ జీవమేపాటిది",
+        "సమస్తంబు వ్యర్థంబేగా ప్రార్థించుమా"
+      ],
+      "english": [
+        "Nammajaala mee lokamunu nee jeevamepaatidhi",
+        "Samasthambu vyarthambegaa praarthinchumaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తప్పుడు బోధలనుండి భద్రపరచు కొనుము నీవు",
+        "ఎప్పుడు ప్రభు యిష్టమును నెరవేర్చుమా"
+      ],
+      "english": [
+        "Thappudu bodhalanundi bhadhraparachu konumu neevu",
+        "Eppudu Prabhu ishtamunu neraverchumaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆవేశము వ్యర్థంబేగా ప్రవర్తింపకు డంబముగా",
+        "అహంకార గర్వమునుండి తప్పించుకో"
+      ],
+      "english": [
+        "Aaveshamu vyarthambegaa pravarthimpaku dambamugaa",
+        "Ahankaara garvamunundi thappinchuko"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యేసు శీఘ్రముగావచ్చు యెదురు చూడవలెను నీవు",
+        "భాసురముగా తనతో వెళ్ళ సిద్ధపడుమా"
+      ],
+      "english": [
+        "Yesu sheeghramugaavachchu eduru choodavalenu neevu",
+        "Bhaasuramugaa thanatho vella siddhapadumaa"
+      ]
+    }
+  ]
+}

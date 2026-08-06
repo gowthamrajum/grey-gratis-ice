@@ -1,0 +1,70 @@
+{
+  "song_name": "Yesu samaadhilo parundiyundi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "రాబర్ట్ లౌరీ"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు సమాధిలో",
+      "పరుండియుండి",
+      "వాసిగ మూఁడవ",
+      "నాఁడు లేచెన్.",
+      "|| లేచెన్ సమాధినుండి",
+      "మృత్యువుపై విజయమొంది",
+      "శత్రువు నోడించి జయశాలియై",
+      "నాత్యముం జీవించ",
+      "మధ్యవర్తియై;",
+      "లేచెను! లేచెను",
+      "హల్లెలూయ! లేచెను ||"
+    ],
+    "english": [
+      "Yesu samaadhilo",
+      "Parundiyundi",
+      "Vaasiga moodava",
+      "Naadu lechen.",
+      "|| Lechen samaadhinundi",
+      "Mruthyuvupai vijayamondhi",
+      "Shathruvu nodinchi jayashaaliyai",
+      "Nithyamum jeevincha",
+      "Madhyavarthiyai;",
+      "Lechenu! lechenu",
+      "Hallelooya! lechenu ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వ్యర్థమే కావలి",
+        "సమాధియొద్ద",
+        "వ్యర్థంబు ముద్రయు",
+        "యేసూప్రభూ!"
+      ],
+      "english": [
+        "Vyarthame kaavali",
+        "Samaadhiyodda",
+        "Vyarthambu mudrayu",
+        "Yesooprabhoo!"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మృత్యుబంధంబులన్",
+        "నిత్యుండు త్రెంచెన్",
+        "స్తుత్యుండు జయించెన్",
+        "జయం! జయం!"
+      ],
+      "english": [
+        "Mruthyubandhambulan",
+        "Nithyundu threnchen",
+        "Sthuthyundu jayinchen",
+        "Jayam! jayam!"
+      ]
+    }
+  ]
+}

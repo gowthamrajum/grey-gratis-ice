@@ -1,0 +1,34 @@
+{
+  "song_name": "Madhuramainadi Na Yesu Prema",
+  "author": {
+    "Authored by": "Pastor G Devadas",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మధురమైనది నా యేసు ప్రేమ",
+      "మరపురానిది నా తండ్రి ప్రేమ",
+      "మరువలేనిది నా యేసుని ప్రేమ",
+      "మధురాతి మధురం నా ప్రియుని ప్రేమ"
+    ],
+    "english": [
+      "Madhuramainadhi naa yesu prema",
+      "marapuraanidhi nee thandri prema",
+      "madhuramainadhi naa yesu prema",
+      "madhuraathi madhuram naa priyuni prema"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రేమా… ప్రేమా…",
+        "ప్రేమా… నా యేసు ప్రేమా"
+      ],
+      "english": [
+        "Premaa… premaa",
+        "premaa… naa Yesu premaa"
+      ]
+    }
+  ]
+}

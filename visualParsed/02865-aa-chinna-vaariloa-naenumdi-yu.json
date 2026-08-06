@@ -1,0 +1,74 @@
+{
+  "song_name": "Aa chinna vaarilo nenundi yunna",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "తూపిలి యోహాను"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆ చిన్న వారిలో నేనుండి యున్న నహాహా మా యేసును నేఁ జూచి",
+      "యుందు ||నా చిన్న||"
+    ],
+    "english": [
+      "Aa chinna vaarilo nenundi yunna nahaahaa maa Yesunu ne joochi",
+      "Yundu ||Naa chinna||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రభు యేసు ప్రపంచమం దుండినపుడు పసి బాలకులఁ బిల్చి ప్రార్థించె",
+        "ననెడు ప్రాచీన కథను నేఁ జదువుచున్నప్పుడు వారిలో నే నున్న నెంతో",
+        "బాగుండు ||నా చిన్న||"
+      ],
+      "english": [
+        "Prabhu Yesu prapanchamam dhundinapudu pasi baalakula bilchi praarthinche",
+        "Nanedu praacheena kathanu ne jaduvuchunnappudu vaarilo nenunna nentho",
+        "Baagundu ||Naa chinna||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆ కరుణ కరము నా తలపైని వ్రాలి యాకాశ బాహువు నా చుట్టు నిలిచి",
+        "య నేక బాలకుల రానిమ్మను జాలి తోఁ గర్త పిలుపు విన నాకెంతో",
+        "మేల్మి ||యా చిన్న||"
+      ],
+      "english": [
+        "Aa karuna karamu naa thalapaini vraali yaakaasha baahuvu naa chuttu nilichi",
+        "Yaneka baalakula raanimmanu jaali tho gartha pilupu vina naakentho",
+        "Melmi ||Yaa chinna||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇ కమీఁదఁ బ్రార్థన ద్వారా దర్శింతున్ బ్రకటిత ప్రభు ప్రేమ పంచి",
+        "యియ్యమందు న మ్మకముతో యేసుని వెదకుచు నుందు సుఖ",
+        "లోకమందునఁ జూచి వినుచుందు ||నా చిన్న||"
+      ],
+      "english": [
+        "Ika meeda braarthana dwaaraa dharshinthun brakatitha Prabhu prema panchi",
+        "Iyyamandhu nammakamutho Yesuni vedakuchu nundu sukha",
+        "Lokamanduna joochi vinuchundhu ||Naa chinna||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "శుద్ధుల కొఱకు రాజ్యము నేలన్ సిద్ధము చేయఁ బ్రభు యేసు వెళ్లెన్",
+        "ముద్దు పాపలు వత్తు రందున విను మ శ్రద్ధ సేయకు వారి దాకాశ రాజ్య",
+        "||మా చిన్న||"
+      ],
+      "english": [
+        "Shudhdhula koraku raajyamu nelan siddhamu cheya Prabhu Yesu vellen",
+        "Muddu paapalu vatthuru andhuna vinuma ashradhdha seyaku vaaridhaakaasha raajya",
+        "||Maa chinna||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "song_name": "Haayaanandha sudhinamu naa Yesun nammudhinamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సామ్ 126:3"
+    ],
+    "english": [
+      "Psalm 126:3"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హాయానంద సుదినము - నా యేసున్ నమ్ముదినము",
+        "ప్రయాసమెల్ల బోయిన - దయారక్షణ్యదినము",
+        "భాగ్యమౌ దినము - ప్రభున్ గైకొన్న దినము",
+        "భక్తి ప్రార్థన లేసుడు - ప్రఖ్యాతి నాకు నేర్పిన",
+        "భాగ్యమౌ దినము - ప్రభున్ గైకొన్న దినము"
+      ],
+      "english": [
+        "Haayaanandha sudhinamu - Naa Yesun nammudhinamu",
+        "Prayaasamella boyina - Dhayaarakshanyadhinamu",
+        "Bhaagyamau dinamu - Prabhun gaikonna dinamu",
+        "Bhakthi praarthanal Yesudu - Prakhyaathi naaku nerpina",
+        "Bhaagyamau dinamu - Prabhun gaikonna dinamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రభునితో నిరంతరమౌ - నిబంధన జేసికొంటి",
+        "నేబట్టితి నింపొందగ - విభుని పాదపద్మము"
+      ],
+      "english": [
+        "Prabhunitho nirantharamau - Nibandhana jesikonti",
+        "Nebattithi nimpondhaga - Vibhuni paadhapadhmamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నాయాత్మ శాంత మొందుము - నీ యేసే నీ యాధారము",
+        "భయంబులేక రక్షణన్ - పాలిభాగంబు పొందుము"
+      ],
+      "english": [
+        "Naayaathma shaantha mondhumu - Nee Yese nee yaadhaaramu",
+        "Bhayambuleka rakshanan - Paalibhaagambu pondumu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నే నేసువాడ నేసుడు - నిత్యంబు నా వాడయ్యెను",
+        "నా దెంత గొప్ప భాగ్యము - నే నేసుయొక్క మిత్రుడన్"
+      ],
+      "english": [
+        "Ne Yesuvaada Yesudu - Nithyambu naa vaadayyenu",
+        "Naa dhentha goppa bhaagyamu - Ne Yesuyokka mithrudan"
+      ]
+    }
+  ]
+}

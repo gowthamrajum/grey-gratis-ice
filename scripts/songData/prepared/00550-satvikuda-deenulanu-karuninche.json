@@ -1,0 +1,53 @@
+{
+  "song_name": "Satvikuda Deenulanu Karuninche",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సాత్వీకుడా దీనులను కరుణించే నా యేసయ్య",
+      "సమ్మతి కలిగిన మనస్సుతో నిమ్మళముగా నేను బ్రతుకుటకు",
+      "సమృద్ది అయిన కృపతో నింపుము",
+      "నిత్యము నీ సన్నిధిలో నన్ను నిలుపుము"
+    ],
+    "english": [
+      "Saathveekudaa Deenulanu Karuninche Naa Yesayya",
+      "Sammathi Kaligina Manassutho Nimmalamugaa Nenu Brathukutaku",
+      "Samruddi Ayina Krupatho Nimpumu",
+      "Nithyamu Nee Sannidhilo Nannu Nilupumu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఈర్షా ద్వేషాలతో పాడైన పుడమిపై",
+        "నిలువ నీడ కరువై శిలువపై ఒంటరయ్యావు",
+        "అల్పకాల శ్రమలకే అలసిన నా హృదయములో",
+        "సహనము కలిగించి నడుపుము నను తుది వరకు"
+      ],
+      "english": [
+        "Eershaa Dveshaalatho Paadaina Pudamipai",
+        "Niluva Needa Karuvai Siluvapai Ontarayyaavu",
+        "Alpakaala Shramalake Alasina Naa Hrudayamulo",
+        "Sahanamu Kaliginchi Nadupumu Nanu Thudi Varaku"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కలతల కెరటాలలో నా తోడుగా నిలిచావు",
+        "ఉప్పొంగిన సంద్రమే నిమ్మలమై మౌనమూనింది",
+        "గుండెలో నిండిన స్తుతి నొందే పూజ్యుడా",
+        "మమకారపు గుడిలో నిన్నే కొలిచెదనయ్య"
+      ],
+      "english": [
+        "Kalathala Keratalalo Naa Thodugaa Nilichaavu",
+        "Uppongina Sandrame Nimmalamai Maunamoonindi",
+        "Gundelo Nindina Sthuthi Nonde Poojyudaa",
+        "Mamakaarapu Gudilo Ninne Kolichedanayya"
+      ]
+    }
+  ]
+}

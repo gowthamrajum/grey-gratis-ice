@@ -1,0 +1,54 @@
+{
+  "song_name": "Evarunnaaru ee lokamlo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Yesanna"
+    ],
+    "రచన": [
+      "బ్రదర్ యేసన్న"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎవరున్నారు ఈ లోకంలో",
+      "ఎవరున్నారు నా యాత్రలో (2)",
+      "నీవే యేసయ్యా ఆనందము నా",
+      "నీవే యేసయ్యా ఆశ్రయము (2)"
+    ],
+    "english": [
+      "Evarunnaaru ee lokamlo",
+      "Evarunnaaru naa yaathralo (2)",
+      "Neeve Yesayyaa aanandamu naa",
+      "Neeve Yesayyaa aashrayamu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎన్నిక లేని నన్ను నీవు - ఎన్నిక చేసితివే (2)",
+        "ఏ దరి కానక తిరిగిన నన్ను - నీ దరి చేర్చితివే",
+        "నీ దరి చేర్చితివే (2)  ||ఎవరున్నారు||"
+      ],
+      "english": [
+        "Ennika leni nannu neevu - Ennika chesithive (2)",
+        "E dari kaanaka thirigina nannu - Nee dari cherchithive",
+        "Nee dari cherchithive (2)  ||Evarunnaaru||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శోధనలో వేదనలో - కుమిలి నేనుండగా (2)",
+        "నాదరి చేరి నన్నాదరించి - నన్నిల బ్రోచితివే",
+        "నన్నిల బ్రోచితివే (2)  ||ఎవరున్నారు||"
+      ],
+      "english": [
+        "Shodhanalo vedhanalo - Kumili nenundagaa (2)",
+        "Naadhari cheri nannaadarinchi - Nannila brochithive",
+        "Nannila brochithive (2)  ||Evarunnaaru||"
+      ]
+    }
+  ]
+}

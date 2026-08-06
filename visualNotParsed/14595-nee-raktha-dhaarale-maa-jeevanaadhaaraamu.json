@@ -1,0 +1,50 @@
+{
+  "song_name": "Nee raktha dhaarale – Maa jeevanaadhaaraamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ రక్త ధారలే – మా జీవనాధారాము",
+      "నీ సిల్వ మార్గమే – మా మోక్ష భాగ్యము",
+      "ఓ సిల్వ రాజ – క్రీస్తు రాజ",
+      "నీతి రాజ – యేసు రాజ (2)",
+      "మాలోన పలికించు జీవన రాగము – నీ ఆర్తనాదములే",
+      "మాలోన వెలిగించు జీవన జ్యోతులు – నీ సిల్వ రూపమే ||ఓ సిల్వ||"
+    ],
+    "english": [
+      "Nee raktha dhaarale – Maa jeevanaadhaaraamu",
+      "Nee silva maargame – Maa moksha bhaagyamu",
+      "O silva raaja – Kreesthu raaja",
+      "Neethi raaja – Yesu raaja (2)",
+      "Maalona palikinchu jeevana raagamu – Nee aarthanaadhamule",
+      "Maalona veliginchu jeevana jyothulu – Nee silva roopame ||O silva||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మమ్మును నడిపించు పరలోకమునకు – నీ సత్య వాక్యమే",
+        "పాపపు చీకట్లు పారద్రోలెను – నీ నీతి ప్రభావమే ||ఓ సిల్వ||"
+      ],
+      "english": [
+        "Mammunu nadipinchu paralokamunaku – Nee sathya vaakyame",
+        "Paapapu cheekatlu paaradhrolenu – Nee neethi prabhaavame ||O silva||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ సిలువ మరణము మనుజాళికంత – కలిగించె రక్షణ",
+        "నీ మరణ విజయము జగమందు వెలుగొందు – క్రైస్తవ విజయమై ||ఓ సిల్వ||"
+      ],
+      "english": [
+        "Nee siluva maranamu manujaalikantha – Kaliginche rakshana",
+        "Nee marana vijayamu jagamandhu velugondhu – Kraisthava vijayamai ||O silva||"
+      ]
+    }
+  ]
+}

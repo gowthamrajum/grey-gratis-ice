@@ -1,0 +1,77 @@
+{
+  "song_name": "Sakalaasheervaadhamula kaaranabhoothudaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "A R Stevenson"
+    ],
+    "రచన": [
+      "ఏ ఆర్ స్టీవెన్సన్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "సకలాశీర్వాదముల కారణభూతుడా",
+      "యేసూ నా ప్రియుడా",
+      "నీ మేలుల తలంచుచుండ",
+      "స్తుతి గానమే పెదవుల నిండా",
+      "జయశీలుడా విభుడా",
+      "పరిపూర్ణుడా హితుడా"
+    ],
+    "english": [
+      "Sakalaasheervaadhamula kaaranabhoothudaa",
+      "Yesoo naa priyudaa",
+      "Nee melula thalanchuchunda",
+      "Sthuthi gaaname pedhavula nindaa",
+      "Jayasheeludaa vibhudaa",
+      "Paripoornudaa hithudaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అన్నపానం లోటు రానీకుండా",
+        "కార్యము చేసిన పోషకుడా",
+        "ఆరోగ్యములను కుదుటపరచి",
+        "ఆయుష్షు పెంచేవాడా"
+      ],
+      "english": [
+        "Annapaanam lothu raaneekundaa",
+        "Kaaryamu chesina poshakudaa",
+        "Aarogyamulanu kudutaparachi",
+        "Aayushshu penchevaadaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జీవమార్గం తప్పిపోనీకుండా",
+        "జ్ఞానము నేర్పిన ప్రాపకుడా",
+        "ఆటంకములను అనువుపరచి",
+        "ఆకాంక్ష తీర్చేవాడా"
+      ],
+      "english": [
+        "Jeevamaargam thappiponeekundaa",
+        "Gnaanamu nerpina praapakudaa",
+        "Aatankamulanu anuvuparachi",
+        "Aakaanksha theerchevaadaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కాయకష్టం పాడు కానీకుండా",
+        "లాభము కూర్చిన శ్రీకరుడా",
+        "ఆదాయములను పదిలపరచి",
+        "ఆధిక్యమిచ్చేవాడా"
+      ],
+      "english": [
+        "Kaayakashtam paadu kaaneekundaa",
+        "Laabhamu koorchina shreekarudaa",
+        "Aadhaayamulanu padhilaparachi",
+        "Aadhikyamichchevaadaa"
+      ]
+    }
+  ]
+}

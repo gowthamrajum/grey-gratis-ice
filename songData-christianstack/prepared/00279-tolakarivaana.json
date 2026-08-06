@@ -1,0 +1,85 @@
+{
+  "song_name": "Tolakarivaana",
+  "author": {
+    "Authored by": "Hosanna Ministries featuring Pastor Freddy Paul",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కురిసింది తొలకరి వాన నా గుండెలోన",
+      "చిరుజల్లులా ఉపదేశమై నీ వాక్యమే వర్షమై",
+      "నీ నిత్య కృపయే వాత్సల్యమై",
+      "నీ దయయే హెర్మోను మంచువలే"
+    ],
+    "english": [
+      "Kurisindhi tolakari vaana naa gundelona",
+      "chirujallula upadheshamai nee vaakyame varshamai",
+      "nee nithya krupaye vaathsalyamai",
+      "nee dhayaye hermonu manchuvale"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పొంగి పొరలి ప్రవహించే నా జీవితాన",
+        "ఆనందించి ఆరాధించెద నా యేసయ్య"
+      ],
+      "english": [
+        "Pongi porali pravahince naa jeevithaana",
+        "aanandhinchi aaradhincheda naa yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దూలినై పాడైన ఎడారిగా నను చేయక",
+        "జీవజల ఊటలు ప్రవహింపజేశావు",
+        "కలతల కన్నీళ్లలో కనుమరుగైపోనీయక",
+        "సాక్షి మేఘమై నిరీక్షణగా నిలిచావు",
+        "స్తుతులు స్తోత్రం నీకేనయ్యా దయాసాగరా"
+      ],
+      "english": [
+        "Dhoolinai paadaina edariga nanu cheyaka",
+        "jeevajala ootalu pravahimpajeshavu",
+        "kalathala kannillalo kanumarugaiponiyaka",
+        "saakshi meghamai nireekshanaga nilichavu",
+        "sthuthulu sthothram neekenayya dhayaasaagara"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ మందిర గుమ్మములోని ఊటలతో శుద్ధి చేసి",
+        "నా చీల మండలమునకు సౌందర్యమిచ్చితివి",
+        "నీ సన్నిధిలో నిలిచే భాగ్యము కోల్పోనీయక",
+        "నీ ప్రభావ మేఘముతో సాక్షిగ నను నడిపితివి",
+        "తడిసి మునిగి తేలెదనయ్యా ప్రేమ సాగరా"
+      ],
+      "english": [
+        "Nee mandhira gummamoloni ootalatho shuddhi chesi",
+        "naa cheela mandalamunaku soundharyamichithivi",
+        "nee sannidhilo niliche bhaagyamu kolponiyaka",
+        "nee prabhava meghamutho saakshiga nanu nadipithivi",
+        "tadisi munigi teledhanayya prema saagara"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నా తొలకరి వర్షము నీవై చిగురింపజేసావు",
+        "నా ఆశల ఊహలలో విహరింపజేశావు",
+        "నా కడవరి వర్షము నీవై ఫలింపజేసావు",
+        "నీ మహిమ మేఘములో నన్ను కొనిపోయెదవు",
+        "హర్షధ్వనులతో హర్షించెదను కరుణా సాగర"
+      ],
+      "english": [
+        "Naa tolakari varshamu neevai chigurimpajesaavu",
+        "naa aashala oohalalo viharinpajesaavu",
+        "naa kadavari varshamu neevai phalimpajesaavu",
+        "nee mahima meghamulo nannu konipoyedavu",
+        "harshadhwanulatho harshinchedhanu karunaa saagara"
+      ]
+    }
+  ]
+}

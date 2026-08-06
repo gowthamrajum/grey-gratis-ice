@@ -1,0 +1,91 @@
+{
+  "song_name": "Hosannaa hosannaa Daaveedu thanayaa hosannaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "హోసన్నా హోసన్నా దావీదు తనయా హోసన్నా",
+      "హోసన్నా…",
+      "హోసన్నా హోసన్నా హోసన్నా (3)",
+      "అయ్యా.. దావీదు తనయా హోసన్నా",
+      "యూదుల రాజా యేసన్నా (2)",
+      "హోసన్నా హోసన్నా – యేసన్నా యేసన్నా ||దావీదు||"
+    ],
+    "english": [
+      "Hosannaa hosannaa Daaveedu thanayaa hosannaa",
+      "Hosannaa…",
+      "Hosannaa hosannaa hosannaa (3)",
+      "Ayyaa.. Daaveedu thanayaa hosannaa",
+      "Yoodula raajaa Yesannaa (2)",
+      "Hosannaa hosannaa – Yesannaa Yesannaa ||Daaveedu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గిరులు తరులు సాగరులు",
+        "నీకై వీచెను వింధ్యామరలు",
+        "హోసన్నా హోసన్నా – యేసన్నా యేసన్నా",
+        "గిరులు తరులు సాగరులు",
+        "నీకై వీచెను వింధ్యామరలు",
+        "పిల్లలు పెద్దలు జగమంతా (2)",
+        "నీకై వేచెను బ్రతుకంతా ||దావీదు||"
+      ],
+      "english": [
+        "Girulu tharulu saagarulu",
+        "Neekai veechenu vindhyaamaralu",
+        "Hosannaa hosannaa – Yesannaa Yesannaa",
+        "Girulu tharulu saagarulu",
+        "Neekai veechenu vindhyaamaralu",
+        "Pillalu peddalu jagamanthaa (2)",
+        "Neekai vechenu brathukanthaa ||Daaveedu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కరుణా రసమయ నీ నయనాలు",
+        "సమతా మమతల సంకేతాలు",
+        "హోసన్నా హోసన్నా – యేసన్నా యేసన్నా",
+        "కరుణా రసమయ నీ నయనాలు",
+        "సమతా మమతల సంకేతాలు",
+        "కంచర వాహన నీ పయనాలు (2)",
+        "జనావాహినికే సుబోధకాలు ||దావీదు||"
+      ],
+      "english": [
+        "Karunaa rasamaya nee nayanaalu",
+        "Samathaa mamathala sankethaalu",
+        "Hosannaa hosannaa – Yesannaa Yesannaa",
+        "Karunaa rasamaya nee nayanaalu",
+        "Samathaa mamathala sankethaalu",
+        "Kanchara vaahana nee payanaalu (2)",
+        "Janaavaahinike subodhakaalu ||Daaveedu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పేదల పాలిటి పెన్నిధివై",
+        "పాపుల రక్షకుడైనావు",
+        "హోసన్నా హోసన్నా – యేసన్నా యేసన్నా",
+        "పేదల పాలిటి పెన్నిధివై",
+        "పాపుల రక్షకుడైనావు",
+        "మకుటము లేని ఓ మహరాజా (2)",
+        "పరిచితిమివిగో మా హృదయాలు ||దావీదు||"
+      ],
+      "english": [
+        "Pedhala paaliti pennidhivai",
+        "Paapula rakshakudainaavu",
+        "Hosannaa hosannaa – Yesannaa Yesannaa",
+        "Pedhala paaliti pennidhivai",
+        "Paapula rakshakudainaavu",
+        "Makutamu leni o maharaajaa (2)",
+        "Parachithimivigo maa hrudayaalu ||Daaveedu||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "song_name": "Sthoathra Geethamulanu Paaduchu Priya Prabhuni Poojimchudi",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తోత్ర గీతములను పాడుచు - ప్రియ ప్రభుని పూజించుడి",
+      "హల్లెలూయ - హల్లెలూయ - హల్లెలూయ",
+      "హల్లెలూయ - హల్లెలూయ - హల్లెలూయ",
+      "స్తోత్ర గీతములను పాడుచు - ప్రియ ప్రభుని పూజించుడి"
+    ],
+    "english": [
+      "Sthoathra Geethamulanu Paaduchu - Priya Prabhuni Poojimchudi",
+      "Hallelooya - Hallelooya - Hallelooya",
+      "Hallelooya - Hallelooya - Hallelooya",
+      "Sthoathra Geethamulanu Paaduchu - Priya Prabhuni Poojimchudi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రారండి సంతసించుచు - రారాజును కీర్తించను",
+        "రాజులకు రాజని - ప్రభువులకు ప్రభువని",
+        "రమ్యమైన రాజును స్తుతించెదం"
+      ],
+      "english": [
+        "Raaramdi Samthasimchuchu - Raaraajunu Keerthimchanu",
+        "Raajulaku Raajani - Prabhuvulaku Prabhuvani",
+        "Ramyamaina Raajunu Sthuthimchedham"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సిలువలో బలియాయెను - విలువైన రక్తము కార్చెను",
+        "ఎంత శ్రమనొందెను - ఎంత బాధ నోర్చెను",
+        "తన రక్తముతో మనల కొనెగదా"
+      ],
+      "english": [
+        "Siluvaloa Baliyaayenu - Viluvaina Rakthamu Kaarchenu",
+        "Emtha Shramanomdhenu - Emtha Baadha Noarchenu",
+        "Thana Rakthamuthoa Manala Konegadhaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "విందు శాలకు తెచ్చెను - ప్రేమ ధ్వజము పైకెత్తెను",
+        "వింత సుందరుడని - వేలలో శ్రేష్ఠుడని",
+        "ఎంతైన జేయు సామర్థ్యుడని"
+      ],
+      "english": [
+        "Vimdhu Shaalaku Thechchenu - Praema Dhvajamu Paikeththenu",
+        "Vimtha Sumdharudani - Vaelaloa Shraeshtudani",
+        "Emthaina Jaeyu Saamarthyudani"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మన ఆత్మ ప్రాణ - దేహముల్ - సజీవముగ నర్పింతుము",
+        "అత్తరును పూసిన - మరియ వలె మనమును",
+        "పరిమళంబులన్ ప్యాపింప జేయుదం"
+      ],
+      "english": [
+        "Mana Aathma Praana - Dhaehamul - Sajeevamuga Narpimthumu",
+        "Attharunu Poosina - Mariya Vale Manamunu",
+        "Parimalambulan Pyaapimpa Jaeyudham"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ప్రశంసించె ప్రభువు మరియను - మంచి కార్యము చేసెనని",
+        "ప్రభువు కొరకు చేయుము - ప్రాణము నర్పించుము",
+        "ప్రభువే సర్వము మనకు"
+      ],
+      "english": [
+        "Prashamsimche Prabhuvu Mariyanu - Mamchi Kaaryamu Chaesenani",
+        "Prabhuvu Koraku Chaeyumu - Praanamu Narpimchumu",
+        "Prabhuvae Sarvamu Manaku"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "మరణమున్ తానే గెల్చెను - సైతానును ఓడించెను",
+        "మరణమున్ మ్రింగెను - మరణముల్లు విరిచెను",
+        "జయము జయమటంచు ఆర్భటించెదం"
+      ],
+      "english": [
+        "Maranamun Thaanae Gelchenu - Saithaanunu Oadimchenu",
+        "Maranamun Mrimgenu - Maranamullu Virichenu",
+        "Jayamu Jayamatamchu Aarbhatimchedham"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "ఆర్భాటముగా ప్రభువు - మేఘారూఢుడై వచ్చును",
+        "నిశ్చయముగా మనలను కొనిపోవు వేగమే",
+        "మహిమ దేహములను పొంది యుందుము"
+      ],
+      "english": [
+        "Aarbhaatamugaa Prabhuvu - Maeghaaroodhudai Vachchunu",
+        "Nishchayamugaa Manalanu Konipoavu Vaegamae",
+        "Mahima Dhaehamulanu Pomdhi Yumdhumu"
+      ]
+    }
+  ]
+}

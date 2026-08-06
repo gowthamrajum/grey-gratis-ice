@@ -1,0 +1,63 @@
+{
+  "song_name": "Daagu Naedhi Maapunu Vaega Yaesu Raktha Dhaarae",
+  "author": {
+    "Authored by": "",
+    "రచన": "జేకబ్ చేంబర్లేస్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "హా దివ్య రక్తము ఆ బుగ్గ వినహా",
+      "యేదియు లేదుగా యేసు యొక్క రక్త ధారె"
+    ],
+    "english": [
+      "Haa Dhivya Rakthamu Aa Bugga Vinahaa",
+      "Yaedhiyu Laedhugaa Yaesu Yokka Raktha Dhaare"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "డాగు నేది మాపును వేగ యేసు రక్త ధారే",
+        "రోగి కేయౌషథము బాగుగా నా రక్త ధారె"
+      ],
+      "english": [
+        "Daagu Naedhi Maapunu Vaega Yaesu Raktha Dhaarae",
+        "Roagi Kaeyaushathamu Baagugaa Naa Raktha Dhaare"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాప పరిహారము ప్రాపు యేసు రక్త ధారె",
+        "శాపపు సంహారము స్వామి యేసు రక్త ధారె"
+      ],
+      "english": [
+        "Paapa Parihaaramu Praapu Yaesu Raktha Dhaare",
+        "Shaapapu Samhaaramu Svaami Yaesu Raktha Dhaare"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇదే నా సుతీర్థము యేసు యొక్క రక్తధారె",
+        "నాదు క్షమాపణము సాధు వేసు రక్త ధారె"
+      ],
+      "english": [
+        "Idhae Naa Sutheerthamu Yaesu Yokka Rakthadhaare",
+        "Naadhu Kshamaapanamu Saadhu Vaesu Raktha Dhaare"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నాకు సమాధానము నాధుఁ డేసు రక్త ధారె",
+        "సాకు నేను గానను జయ యేసు రక్త ధారె"
+      ],
+      "english": [
+        "Naaku Samaadhaanamu Naadhu Daesu Raktha Dhaare",
+        "Saaku Naenu Gaananu Jaya Yaesu Raktha Dhaare"
+      ]
+    }
+  ]
+}

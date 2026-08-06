@@ -1,0 +1,40 @@
+{
+  "song_name": "శుభవార్త వింటిమి యేసు రక్షించ",
+  "author": {
+    "Authored by": "",
+    "రచన": "ప్రిసిల్లా జేన్ ఓవెన్స్"
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శుభవార్త వింటిమి యేసు రక్షించును ఎల్లవారు విననీ యేసు రక్షించును ప్రభు మాట వింటిరా పర్వతంబుల్ దాటుచు వార్త ప్రకటింపుడి యేసు రక్షించును."
+      ],
+      "english": [
+        "shubhavaartha viMtimi yaesu rakShiMchunu ellavaaru vinanee yaesu rakShiMchunu prabhu maata viMtiraa parvathMbul dhaatuchu vaartha prakatiMpudi yaesu rakShiMchunu."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "స్వరమెత్తి పాడుడీ యేసు రక్షించును దైవభ్రష్టు లెల్లరిన్ యేసు రక్షించును ద్వీపవాసు లందఱు వినునట్లు చాటుఁడి దివ్యవర్తమానము యేసు రక్షించును"
+      ],
+      "english": [
+        "svarameththi paadudee yaesu rakShiMchunu dhaivabhraShtu lellarin yaesu rakShiMchunu dhveepavaasu lMdhaRu vinunatlu chaatuAOdi dhivyavarthamaanamu yaesu rakShiMchunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇహ బాధనుండియు యేసు రక్షించును పరభాగ్యమిచ్చును యేసు రక్షించును దీనుజను లెల్లరు భూనివాసులందఱు ఈ సువార్త వినుఁడీ యేసు రక్షించును."
+      ],
+      "english": [
+        "iha baaDhanuMdiyu yaesu rakShiMchunu parabhaagyamichchunu yaesu rakShiMchunu dheenujanu lellaru bhoonivaasulMdhaRu ee suvaartha vinuAOdee yaesu rakShiMchunu."
+      ]
+    }
+  ]
+}

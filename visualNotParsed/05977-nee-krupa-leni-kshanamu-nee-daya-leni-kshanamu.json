@@ -1,0 +1,66 @@
+{
+  "song_name": "Nee krupa leni kshanamu nee daya leni kshanamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసయ్యా నీ కృప నాకు చాలయ్యా",
+      "నీ కృప లేనిదే నే బ్రతుకలేనయ్యా",
+      "నీ కృప లేని క్షణము – నీ దయ లేని క్షణము",
+      "నేనూహించలేను యేసయ్యా (2)",
+      "యేసయ్యా నీ కృప నాకు చాలయ్యా",
+      "నీ కృప లేనిదే నేనుండలేనయ్యా (2) ||నీ కృప||"
+    ],
+    "english": [
+      "Yesayya nee krupa naaku chaalayya",
+      "Nee krupa lenide ne brathukalenayya",
+      "Nee krupa leni kshanamu – Nee daya leni kshanamu",
+      "Nenoohinchalenu Yesayya (2)",
+      "Yesayya nee krupa naaku chaalayya",
+      "Nee krupa lenide nenundalenayya (2) ||Nee krupa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మహిమను విడిచి మహిలోకి దిగి వచ్చి",
+        "మార్గముగా మారి మనిషిగా మార్చావు",
+        "మహిని నీవు మాధుర్యముగా మార్చి",
+        "మాదిరి చూపి మరో రూపమిచ్చావు (2)",
+        "మహిమలో నేను మహిమను పొంద",
+        "మహిమగా మార్చింది నీ కృప (2)  ||యేసయ్యా||"
+      ],
+      "english": [
+        "Mahimanu vidichi mahiloki digi vachchi",
+        "Maargamugaa maari manishigaa maarchaavu",
+        "Mahini neevu maadhuryamugaa maarchi",
+        "Maadiri choopi maro roopamichchaavu (2)",
+        "Mahimalo nenu mahimanu ponda",
+        "Mahimagaa maarchindi nee krupa (2)  ||Yesayya||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆజ్ఞల మార్గమున ఆశ్రయమును ఇచ్చి",
+        "ఆపత్కాలమున ఆదుకొన్నావు",
+        "ఆత్మీయులతో ఆనందింప చేసి",
+        "ఆనంద తైలముతో అభిషేకించావు (2)",
+        "ఆశ తీర ఆరాధన చేసే",
+        "అదృష్టమిచ్చింది నీ కృప (2)  ||యేసయ్యా||"
+      ],
+      "english": [
+        "Aagnala maargamuna aashrayamunu ichchi",
+        "Aapathkaalamuna aadhukonnaavu",
+        "Aathmeeyulatho aanandhimpa chesi",
+        "Aananda thailamutho abhishekinchaavu (2)",
+        "Aasha theera aaraadhana chese",
+        "Adhrushtamichchindhi nee krupa (2)  ||Yesayya||"
+      ]
+    }
+  ]
+}

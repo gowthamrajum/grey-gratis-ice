@@ -1,0 +1,73 @@
+{
+  "song_name": "Nee Naamame Naa Gaanamu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ నామమే నా గానము - నీవే నా ప్రాకారము",
+      "నీ వాక్యమే - నా భాగ్యము - నా త్రోవలకు దీపము"
+    ],
+    "english": [
+      "Nee Naamame Naa Gaanamu - Neeve Naa Praakaaramu",
+      "Nee Vaakyame - Naa Bhaagyamu - Naa Throvalaku Deepamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రేమ కురిసింది దివి నుండి భువికి పలుకరించింది ఇల నన్ను వెదకి",
+        "ధరణి తడిసింది - నీ రక్త బలికి పరువాన తను వెళ్ళ - ప్రవహిన్చునీ",
+        "పరిపూరిత దుదిరంబు బహుమానమే"
+      ],
+      "english": [
+        "Prema Kurisindi Divi Nundi Bhuviki Palukarinchindi Ila Nannu Vedaki",
+        "Dharani Thadisindi - Nee Raktha Baliki Paruvaana Thanu Vella - Pravahinchunee",
+        "Paripooritha Dudhirambu Bahumaaname"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నెమ్మి నా నెయ్యమును కోరి చేరి నోవ్వులను సిల్వలో పొందగోరి",
+        "దేవ కొమరుండా దిగివచ్చి నావా పరిచారకుని రూపు ధరియిన్చినావా",
+        "పరిశుద చరితుండ - పరిపోషకా"
+      ],
+      "english": [
+        "Nemmi Naa Neyyamunu Kori Cheri Novvulanu Silvalo Pondhagori",
+        "Deva Komarundaa Digivachchi Naavaa Parichaarakuni Roopu Dhariyinchinaavaa",
+        "Parishuda Charithunda - Pariposhakaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "థారునిని నీకు సమరూపుడేవాడు? నాకు పది వేళలో ప్రాజ్ఞు డెవడు ?",
+        "పాలనుడ నన్ను ప్రేమించినావా పాలకుడ నాదు, నజరేతువాడా",
+        "మాలిన్యా కూపాన నా మొర్రను ఆలించి లాలించి - నను చేరినావా"
+      ],
+      "english": [
+        "Thaarunini Neeku Samaroopudevaadu? Naaku Padi Velalo Praagnu Devadu ?",
+        "Paalanuda Nannu Preminchinaavaa Paalakuda Naadu, Najarethuvaadaa",
+        "Maalinyaa Koopaana Naa Morranu Aalinchi Laalinchi - Nanu Cherinaavaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సిల్వలో నిన్ను మనసార చూచి నియుడు కృప నేను",
+        "మననంబు చేసి పలువ - పరిశుద్ధుడను తీర్పుబడసి",
+        "చేరితిని నిన్ను స్తుతియింప దలచి కారుణ్యమున నాదు కలుశాలను",
+        "పరిమార్జనము చేయు - పరిపోషకా"
+      ],
+      "english": [
+        "Silvalo Ninnu Manasaara Choochi Niyudu Krupa Nenu",
+        "Mananambu Chesi Paluva - Parishuddhudanu Theerpubadasi",
+        "Cherithini Ninnu Sthuthiyimpa Dalachi Kaarunyamuna Naadu Kalushaalanu",
+        "Parimaarjanamu Cheyu - Pariposhakaa"
+      ]
+    }
+  ]
+}

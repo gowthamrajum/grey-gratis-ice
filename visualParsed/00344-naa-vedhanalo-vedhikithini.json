@@ -1,0 +1,62 @@
+{
+  "song_name": "Naa vedhanalo vedakithini",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Yesanna"
+    ],
+    "రచన": [
+      "బ్రదర్ యేసన్న"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా వేదనలో - వెదకితిని",
+      "శ్రీ యేసుని -పాదాలను",
+      "నా మనస్సులో - కోరితిని",
+      "నీ రూపమునే - దీనుడనై",
+      "నీ రూపమునే - దీనుడనై",
+      "నా వేదనలో - వెదకితిని"
+    ],
+    "english": [
+      "Naa vedhanalo - Vedakithini",
+      "Sree Yesuni - Paadaalanu",
+      "Naa manassulo - Korithini",
+      "Nee roopamune - Deenudanai",
+      "Nee roopamune - Deenudanai",
+      "Naa vedhanalo - Vedakithini"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వేకు జాములో - విలపించితిని",
+        "నా పాపములో - వ్యసనములో (2)",
+        "ఓదార్చుము - విసుగొందక",
+        "నీ కృపలో - నా ప్రభువా (2)  ||నా||"
+      ],
+      "english": [
+        "Veku jaamulo - Vilapinchithini",
+        "Naa paapamulo - Vyasanamulo (2)",
+        "Odhaarchumu - Visugondaka",
+        "Nee krupalo - Naa prabhuvaa (2)  ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ హస్తములో - నిదురింప జేయుమా",
+        "నీ ప్రేమలో - లాలించుమా (2)",
+        "ఓదార్చుము - విసుగొందక",
+        "నీ కృపలో - నా ప్రభువా (2)  ||నా||"
+      ],
+      "english": [
+        "Nee hasthamulo - Nidhurimpa jeyumaa",
+        "Nee premalo - Laalinchumaa (2)",
+        "Odhaarchumu - Visugondaka",
+        "Nee krupalo - Naa prabhuvaa (2)  ||Naa||"
+      ]
+    }
+  ]
+}

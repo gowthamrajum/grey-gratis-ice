@@ -1,0 +1,106 @@
+{
+  "song_name": "Mamun Srujinchina Devundu Praanamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "చార్లెస్ వెస్లీ"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "మమున్ సృజించిన",
+      "దేవుండు ప్రాణము",
+      "నొసంగి యెప్పుడు",
+      "కాపాడు మమ్మును",
+      "సంతోష స్వర మెత్తుచు",
+      "స్తుతించుచుండుఁడాయనన్."
+    ],
+    "english": [
+      "Mamun srujinchina",
+      "devundu praanamu",
+      "nosangi eppudu",
+      "kaapaadu mammunu",
+      "santhosha svara metthuchu",
+      "sthuthinchuchundudaayanan."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పలువిధాలుగ",
+        "బాధించు రోగముల్",
+        "పోఁగొట్టి మీఁదకు",
+        "రాకుండఁ జేసెను",
+        "సంతోష స్వర మెత్తుచు",
+        "స్తుతించుచుండుఁ డాయనన్."
+      ],
+      "english": [
+        "Paluvidhaaluga",
+        "baadhinchu rogamul",
+        "pogotti meedhaku",
+        "raakunda jesenu",
+        "santhosha svara metthuchu",
+        "sthuthinchuchundu daayanan."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దేవుండు మాత్రమే",
+        "రక్షణ మార్గము",
+        "ఆయత్తపఱచి",
+        "చూపించె మాకును",
+        "సంతోష స్వర మెత్తుచు",
+        "స్తుతించుచుండుఁ డాయనన్."
+      ],
+      "english": [
+        "Devundu maathrame",
+        "rakshana maargamu",
+        "aayatthaparachi",
+        "choopinche maakunu",
+        "santhosha svara metthuchu",
+        "sthuthinchuchundu daayanan."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మా నిత్యబాధలు",
+        "వారించుకొరకుఁ",
+        "దా సొంత పుత్రుని",
+        "పంపెన్ సుప్రేమతో",
+        "సంతోష స్వర మెత్తుచు",
+        "స్తుతించుచుండుఁ డాయనన్."
+      ],
+      "english": [
+        "Maa nithyabaadhalu",
+        "vaarinchukoraku",
+        "dhaa sontha puthruni",
+        "pampen suprematho",
+        "santhosha svara metthuchu",
+        "sthuthinchuchundu daayanan."
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఆనంద మొందుఁడి",
+        "శ్రీ యేసు మోక్షము",
+        "స్వసేవకాళికి",
+        "అనుగ్రహించును",
+        "సంతోష స్వర మెత్తుచు",
+        "స్తుతించుచుండుఁ డాయనన్."
+      ],
+      "english": [
+        "Aananda mondudi",
+        "Shree Yesu mokshamu",
+        "svasevakaaliki",
+        "anugrahinchunu",
+        "santhosha svara metthuchu",
+        "sthuthinchuchundu daayanan."
+      ]
+    }
+  ]
+}

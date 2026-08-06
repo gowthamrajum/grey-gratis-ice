@@ -1,0 +1,35 @@
+{
+  "song_name": "Nannu Kaapaadu Naa Dhaevudu Kunukadu Kunukadu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నన్ను కాపాడు నా దేవుడు కునుకడు కునుకడు నన్ను రక్షించు నా యేసుడు నిద్రపోడు నిద్రపోడు స్తుతులకు పాత్రుడు స్తోత్రార్కుడు మృత్యుంజయుడు నిత్యముండువాడు"
+    ],
+    "english": [
+      "nannu kaapaadu naa dhaevudu kunukadu kunukadu nannu rakShiMchu naa yaesudu nidhrapoadu nidhrapoadu sthuthulaku paathrudu sthoathraarkudu mruthyuMjayudu nithyamuMduvaadu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వేటగాని ఉరినుండి విడిపించువాడు ఏ తెగులు రాకుండా రక్షించువాడు తన రెక్కల చాటున నన్ను దాచువాడు తన మార్గములన్నిటిలో నన్ను నడిపించువాడు"
+      ],
+      "english": [
+        "vaetagaani urinuMdi vidipiMchuvaadu ae thegulu raakuMdaa rakShiMchuvaadu thana rekkala chaatuna nannu dhaachuvaadu thana maargamulannitiloa nannu nadipiMchuvaadu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గాఢాంధకారములో తోడుండువాడు ఏకీడు రాకుండా కాపాడువాడు నా కన్నీరంతటిని తుడిచివేయువాడు ప్రార్థనలన్నిటిని ఆలకించువాడు"
+      ],
+      "english": [
+        "gaaDaaMDhakaaramuloa thoaduMduvaadu aekeedu raakuMdaa kaapaaduvaadu naa kanneerMthatini thudichivaeyuvaadu praarThanalannitini aalakiMchuvaadu"
+      ]
+    }
+  ]
+}

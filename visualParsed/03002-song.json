@@ -1,0 +1,126 @@
+{
+  "song_name": "Gaayambutho nindaaru o shudhdha shirassaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "బెర్నార్డ్ క్లైర్ వాక్స్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "గాయంబుతో నిండారు",
+      "ఓ శుద్ధ శిరస్సా!",
+      "హా! ముండ్ల కిరీటంబు",
+      "భరించు శిరస్సా!",
+      "నీకిప్పుడు డపకీర్తి",
+      "హాస్యంబు గల్గెఁగా",
+      "కర్తా! ఘనంబు కీర్తి",
+      "ఎన్నడు గల్గుఁగా"
+    ],
+    "english": [
+      "Gaayambutho nindaaru",
+      "O shudhdha shirassaa!",
+      "Haa! mundla kireetambu",
+      "Bharinchu shirassaa!",
+      "Neekippudu apakeerthi",
+      "haasyambu galgegaa",
+      "Karthaa! ghanambu keerthi",
+      "ennadu galgugaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "లోకంబు భీతి నొందు",
+        "ప్రకాశపూర్ణుడా!",
+        "ఆ యూదులైన వారు",
+        "నీ మొము మీఁదను!",
+        "నాఁడుమ్మి వేసినారా?",
+        "నీ ముఖకాంతికి",
+        "సమాన కాంతి లేదు",
+        "కురూపి వైతివా."
+      ],
+      "english": [
+        "Lokambu bheethi nondu",
+        "prakaashapoornudaa!",
+        "Aa Yoodhulaina vaaru",
+        "nee momu meedanu!",
+        "Naadummi vesinaaraa?",
+        "Nee mukhakaanthiki",
+        "samaana kaanthi ledu",
+        "kuroopi vaithivaa."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీవోర్చినట్టి బాధ",
+        "నా క్రూర పాపమే!",
+        "నాకోస మింత బాధ",
+        "వహించినావుగా!",
+        "దైవోగ్ర బాధ కేను",
+        "పాత్రుండ నైతిని",
+        "దృష్టించి నన్నుఁ జూఁచి",
+        "కటాక్ష ముంచుమీ."
+      ],
+      "english": [
+        "Neevorchinatti baadha",
+        "naa kroora paapame!",
+        "Naakosa minta baadha",
+        "vahinchinaavugaa!",
+        "Dhaivogra baadha kenu",
+        "paathrunda naithini",
+        "Dhrushtinchi nannu joochi",
+        "kataaksha munchumee."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నేఁ బాపి నైతి గాని",
+        "నన్ నీవు చేర్చుము!",
+        "నీ నిత్యయూటనుండి",
+        "మేళ్లన్ని పారును!",
+        "నీ నోరు మాధుర్యంపు",
+        "సుబోధఁ జెప్పెను",
+        "నీ పావనాత్మ మోక్ష",
+        "సుఖంబు లిచ్చును."
+      ],
+      "english": [
+        "Ne baapi naithi gaani",
+        "nan neevu cherchumu!",
+        "Nee nithyayootanundi",
+        "mellanni paarunu!",
+        "Nee noru maadhuryampu",
+        "subodha jeppenu",
+        "Nee paavanaathma moksha",
+        "sukhambu lichchunu."
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నా కోస మింత బాధ",
+        "వహించి నందుకు!",
+        "యధార్థమైన స్తుతి",
+        "నిత్యంబు నీదగున్",
+        "నీ నామమందు నేను",
+        "విశ్వాస ముంతును",
+        "నా యంత్యకాలమందు",
+        "నా యొద్దనుండుము."
+      ],
+      "english": [
+        "Naa kosa minta baadha",
+        "vahinchi nandhuku!",
+        "Yathaarthamaina sthuthi",
+        "nithyambu needhagun",
+        "Nee naamamandhu nenu",
+        "vishwaasa munthunu",
+        "Naa yanthyakaalamandhu",
+        "naa yodhdhanundumu."
+      ]
+    }
+  ]
+}

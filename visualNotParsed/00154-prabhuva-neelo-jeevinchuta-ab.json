@@ -1,0 +1,84 @@
+{
+  "song_name": "Prabhuvaa neelo jeevinchuta krupaa baahulyame",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Yesanna"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభువా నీలో జీవించుట",
+      "కృపా బాహుల్యమే",
+      "నా యెడ కృపా బాహుల్యమే ||ప్రభువా||"
+    ],
+    "english": [
+      "Prabhuvaa neelo jeevinchuta",
+      "Krupaa baahulyame",
+      "Naa eda krupaa baahulyame ||Prabhuvaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సంగీతములాయె",
+        "పెను తుఫానులన్నియు (2)",
+        "సమసిపోవునే నీ నామ స్మరణలో (2)",
+        "సంతసమొందె నా మది యెంతో (2)  ||ప్రభువా||"
+      ],
+      "english": [
+        "Sangeethamulaaye",
+        "Penu thuphaanulanniyu (2)",
+        "Samasipovune nee naama smaranalo (2)",
+        "Santhasamonde naa madi entho (2)  ||Prabhuvaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాప నియమమును",
+        "బహు దూరముగా చేసి (2)",
+        "పావన ఆత్మతో పరిపూర్ణమైన (2)",
+        "పాద పద్మము హత్తుకొనెదను (2)  ||ప్రభువా||"
+      ],
+      "english": [
+        "Paapa niyamamunu",
+        "Bahu dooramugaa chesi (2)",
+        "Paavana aathmatho paripoornamaina (2)",
+        "Paada padhmamu hatthukonedhanu (2)  ||Prabhuvaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీలో దాగినది",
+        "కృప సర్వోన్నతముగా (2)",
+        "నీలో నిలిచి కృపలనుభవించి (2)",
+        "నీతోనే యుగయుగములు నిల్చెద (2)  ||ప్రభువా||"
+      ],
+      "english": [
+        "Neelo dhaaginadhi",
+        "Krupa sarvonnathamugaa (2)",
+        "Neelo nilichi krupalanubhavinchi (2)",
+        "Neethone yugayugamulu nilcheda (2)  ||Prabhuvaa||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నూతన వధువునై",
+        "శుద్ధ వస్త్రములు ధరించి (2)",
+        "నూతనమైన శుభాకాంక్షలతో (2)",
+        "నూతన షాలేమై సిద్దమౌదు నీకై (2)  ||ప్రభువా||"
+      ],
+      "english": [
+        "Noothana vadhuvunai",
+        "Shuddha vasthramulu dharinchi (2)",
+        "Noothanamaina shubhaakaankshalatho (2)",
+        "Noothana shaalemai siddhamaudhu neekai (2)  ||Prabhuvaa||"
+      ]
+    }
+  ]
+}

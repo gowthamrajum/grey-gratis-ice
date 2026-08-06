@@ -1,0 +1,30 @@
+{
+  "song_name": "Maranapu Mullu",
+  "author": {
+    "Authored by": "Pastor Kamala Timothy Mallipudi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మరణపు ముల్లును విరచి జయించిన",
+      "జీవాధిపతి జయశీలుడు"
+    ],
+    "english": [
+      "Maranapu mullunu virachi jayinchina",
+      "jeevaadhipathi jayaseeludu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మరణపు ముల్లును విరచి జయించిన",
+        "జీవాధిపతి జయశీలుడు"
+      ],
+      "english": [
+        "Maranapu mullunu virachi jayinchina",
+        "jeevaadhipathi jayaseeludu"
+      ]
+    }
+  ]
+}

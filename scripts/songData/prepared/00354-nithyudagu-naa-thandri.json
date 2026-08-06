@@ -1,0 +1,64 @@
+{
+  "song_name": "Nithyudagu Naa Thandri",
+  "author": {
+    "Authored by": "Bro  Yesanna",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిత్యుడగు నా తండ్రి నీకే స్తోత్రము",
+      "తరతరముల నుండి ఉన్నవాడవు",
+      "ఆది అంతము లేని ఆత్మా రూపుడా",
+      "ఆత్మతో సత్యముతో అరాధింతును",
+      "నిత్యుడగు నా తండ్రి"
+    ],
+    "english": [
+      "Nithyudagu Naa Thandri Neeke Sthothramu",
+      "Tharatharamula Nundi Unnavaadavu",
+      "Aadi Anthamu Leni Aathmaa Roopudaa",
+      "Aathmatho Sathyamutho Araadhinthunu",
+      "Nithyudagu Naa Thandri"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "భూమి ఆకాశములు గతించినా",
+        "మారనే మారని నా యేసయ్యా",
+        "నిన్న నేడు ఏకరీతిగా ఉన్నవాడా"
+      ],
+      "english": [
+        "Bhoomi Aakaashamulu Gathinchinaa",
+        "Maarane Maarani Naa Yesayyaa",
+        "Ninna Nedu Ekareethigaa Unnavaadaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సిలువలో నీవు కార్చిన రుధిరధారలే",
+        "నా పాపములకు పరిహారముగా మారెనులే",
+        "కొనియాడి పాడి నేను నాట్యం చేసెద"
+      ],
+      "english": [
+        "Siluvalo Neevu Kaarchina Rudhiradhaarale",
+        "Naa Paapamulaku Parihaaramugaa Maarenule",
+        "Koniyaadi Paadi Nenu Naatyam Cheseda"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నూతన యెరూషలేముకై సిద్ధపదెదను",
+        "నూతన సృష్టిగ నేను మారెదను",
+        "నా తండ్రి యేసయ్యా ఆత్మదేవ స్తోత్రము"
+      ],
+      "english": [
+        "Noothana Yerooshalemukai Siddhapadedanu",
+        "Noothana Srushtiga Nenu Maaredanu",
+        "Naa Thandri Yesayyaa Aathmadeva Sthothramu"
+      ]
+    }
+  ]
+}

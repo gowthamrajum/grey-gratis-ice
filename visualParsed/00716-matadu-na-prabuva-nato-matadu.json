@@ -1,0 +1,42 @@
+{
+  "song_name": "Maataadu naa prabhuvaa naatho maataadu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మాటాడు నా ప్రభువా నాతో మాటాడు నా ప్రభువా",
+      "నీ మాటలే జీవపు ఊటలు నీ పలుకులే ప్రాణాధారాలు"
+    ],
+    "english": [
+      "Maataadu naa prabhuvaa naatho maataadu naa prabhuvaa",
+      "Nee maatale jeevapu ootalu nee palukule praanaadhaaraalu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సమరయ స్త్రీతో మాటాడావు సకల పాపములు హరియించావు",
+        "జీవ జలములు త్రాగనిచ్చావు జీవితమునే మార్చివేసావు"
+      ],
+      "english": [
+        "Samaraya streetho maataadaavu sakala paapamulu hariyinchaavu",
+        "Jeeva jalamulu thraaganichchaavu jeevithamune maarchivesaavu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చచ్చిన లాజరును చక్కగ పిలిచావు బయటకు రమ్మని ఆదేశించావు",
+        "కుళ్ళిన శవముకు జీవమునిచ్చావు మళ్ళీ బ్రతుకును దయచేసావు"
+      ],
+      "english": [
+        "Chachchina Laajarunu chakkaga pilichaavu bayataku rammani aadheshinchaavu",
+        "Kullina shavamuku jeevamunichchaavu mallee brathukunu dayachesaavu"
+      ]
+    }
+  ]
+}

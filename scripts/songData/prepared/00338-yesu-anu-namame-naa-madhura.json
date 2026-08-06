@@ -1,0 +1,52 @@
+{
+  "song_name": "Yesu Anu Naamame Naa Madhura",
+  "author": {
+    "Authored by": "Bro  Yesanna",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు అను నామమే - నా మధుర గానమే -2",
+      "నా హృదయ ధ్యానమే - యేసు అను నామమే"
+    ],
+    "english": [
+      "Yesu Anu Naamame - Naa Madhura Gaaname -2",
+      "Naa Hrudaya Dhyaaname - Yesu Anu Naamame"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా అడుగులు జార సిద్ధమాయెను -2",
+        "అంతలోన నా ప్రియుడు -2 నన్ను కౌగలించెను -1"
+      ],
+      "english": [
+        "Naa Adugulu Jaara Siddhamaayenu -2",
+        "Anthalona Naa Priyudu -2 Nannu Kougalinchenu -1"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అగాధజలములలోన - అలమటించు వేళ -2",
+        "జాలి వీడి విడువక -2 నన్ను ఆదరించెను -1"
+      ],
+      "english": [
+        "Agaadhajalamulalona - Alamatinchu Vela -2",
+        "Jaali Veedi Viduvaka -2 Nannu Aadarinchenu -1"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అడవి చెట్లలోన - జల్దరు వృక్షంబు వలె -2",
+        "పురుషులలో నా ప్రియుడు -2 అధిక కాంక్షనీయుడు -1"
+      ],
+      "english": [
+        "Adavi Chettlalona - Jaldaru Vrukshambu Vale -2",
+        "Purushulalo Naa Priyudu -2 Adhika Kaankshaneeyudu -1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "song_name": "Jeevanadini Naa Hrudayamulo",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జీవనదిని నా హృదయములో ప్రవహింప చేయుమయా"
+    ],
+    "english": [
+      "Jeevanadini Naa Hrudhayamulo",
+      "Pravahimpa Cheyumayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శరీరక్రియులన్నియు",
+        "నాలో నశియించేయుమయు",
+        "బలహీన సమయుములో",
+        "నీ బలము ప్రసాదించుము",
+        "ఆత్మీయవరములతో",
+        "నన్ను అభిషేకం చేయుమయ",
+        "ఎండిన ఎముకలన్నియు",
+        "తిరిగి జీవింపచేయుమయ"
+      ],
+      "english": [
+        "Shareera Kriyalanniyu",
+        "Naalo Nashiyimpa Cheyumayyaa",
+        "Balaheena Samayamulo",
+        "Nee Balamu Prasaadinchumu",
+        "Aathmeeya Varamulatho",
+        "Nannu Abhishekam Cheyumayyaa",
+        "Endina Yemukalanniyu",
+        "Thirigi Jeevimpacheyumaya"
+      ]
+    }
+  ]
+}

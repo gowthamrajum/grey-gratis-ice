@@ -1,0 +1,30 @@
+{
+  "song_name": "Samaadhini Gelchenu",
+  "author": {
+    "Authored by": "Bro Suresh Nittala",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సమాధిని గెల్చెను – సజీవుడై లేచెను",
+      "సాతానుని జయించెను – మరణపు ముల్లును విరిచెను"
+    ],
+    "english": [
+      "Samaadhini Gelchenu – sajeevudai lechenu",
+      "saathanuni jayinchenu – maranapu mullunu virichenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "క్రీస్తు లేచెను హల్లేలూయ క్రీస్తు నేడు లేచెను",
+        "క్రీస్తు లేచెను హల్లేలూయ పునరుద్ధానుడై లేచెను"
+      ],
+      "english": [
+        "Kreesthu lechenu hallelujah kreesthu nedu lechenu",
+        "Kreesthu lechenu hallelujah punaruddhanudai lechenu"
+      ]
+    }
+  ]
+}

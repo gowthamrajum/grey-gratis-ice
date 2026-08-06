@@ -1,0 +1,65 @@
+{
+  "song_name": "Yaesu Sheeghramuga Thirigivachchun Sathyadhaevuni Vaakyamidhae",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు శీఘ్రముగ తిరిగివచ్చున్ - సత్యదేవుని వాక్యమిదే",
+      "ఆయన రాకడ అంత్య గుర్తులు - అన్నియు నెరవేరుచున్నవి",
+      "యేసు శీఘ్రముగ తిరిగివచ్చున్"
+    ],
+    "english": [
+      "Yaesu Sheeghramuga Thirigivachchun - Sathyadhaevuni Vaakyamidhae",
+      "Aayana Raakada Amthya Gurthulu - Anniyu Neravaeruchunnavi",
+      "Yaesu Sheeghramuga Thirigivachchun"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపదుఃఖములు పెరుగుచున్నవి - యుద్దకలహములు వృద్ధియాయెను",
+        "జనముపై జనము లేచుచున్నది - రాజ్యముపై రాజ్యము లేచుచున్నది"
+      ],
+      "english": [
+        "Paapadhuhkhamulu Peruguchunnavi - Yudhdhakalahamulu Vrudhdhiyaayenu",
+        "Janamupai Janamu Laechuchunnadhi - Raajyamupai Raajyamu Laechuchunnadhi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "భూకంపములు భువిని జరుగుచుండె - లోకమున తెగులు కరువు లున్నవి",
+        "ఆకసమున భయసూచనలు - వీక్షింతురు వింత సూచనలు"
+      ],
+      "english": [
+        "Bhookampamulu Bhuvini Jaruguchumde - Loakamuna Thegulu Karuvu Lunnavi",
+        "Aakasamuna Bhayasoochanalu - Veekshimthuru Vimtha Soochanalu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "విశ్వాసులు పైకి ఎత్తబడన్ - యేసు పరమునుండి దిగివచ్చును",
+        "యేసునితో వెయ్యేండ్లు ఏలెదురు - ఆశతో కనిపెట్టుకొనువారలు"
+      ],
+      "english": [
+        "Vishvaasulu Paiki Eththabadan - Yaesu Paramunumdi Dhigivachchunu",
+        "Yaesunithoa Veyyaemdlu Aeledhuru - Aashathoa Kanipettukonuvaaralu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మారుమనస్సు నొందుమీ క్షణమే - కోరు యేసు రక్తాన కడుగుమని",
+        "ఈ రోజున నీవు సిద్ధపడుము - పరలోకమున ప్రవేశింతువు"
+      ],
+      "english": [
+        "Maarumanassu Nomdhumee Kshanamae - Koaru Yaesu Rakthaana Kadugumani",
+        "Ee Roajuna Neevu Sidhdhapadumu - Paraloakamuna Pravaeshimthuvu"
+      ]
+    }
+  ]
+}

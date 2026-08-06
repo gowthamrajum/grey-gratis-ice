@@ -1,0 +1,56 @@
+{
+  "song_name": "Thalli marachina maruvani Deva thandri",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "తల్లి మరచిన మరువని దేవా తండ్రి విడచిన విఢువనిదేవ",
+      "ఏమని వర్ణింతును నీప్రేమను ఏమని వివరింతును",
+      "వెకువనె నిను వెదకెదను ప్రభు నీ నామము స్తుతియించుటకు"
+    ],
+    "english": [
+      "Thalli marachina maruvani Deva thandri vidachina viduvani Deva",
+      "Emani varninthunu nee premanu emani vivarinthunu",
+      "Vekuvane ninu vedhakedhanu Prabhu nee naamamu sthuthiyinchutaku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవు చేసితివి నాకేన్నో మేలులు",
+        "నాపై చూపితివి నీఫ్రేమను",
+        "తొలగిపొయేను నాకష్టాలన్నీ",
+        "ఆగిపొయేను నా కన్నీరు",
+        "తొడుగ నా నీడగ నడిపించును నజరేయుడు"
+      ],
+      "english": [
+        "Neevu chesithivi naakenno melulu",
+        "Naapai choopithivi nee premanu",
+        "Tholagipoyenu naa kashtaalannee",
+        "Aagipoyenu naa kanneeru",
+        "Thoduga naa needaga nadipinchunu Nazareyudu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తేలుసుకున్నాను నా శ్రమల ద్వార",
+        "ఏంతో మధురమైన నీ ప్రేమను",
+        "నీవున్న ఇంటిలొ ఏంతో ఆనందం",
+        "నీవు లేని ఇంటిలొ ఏంతో నరకము",
+        "విడువక ఎడబాయక నడిపించును నజరేయుడు"
+      ],
+      "english": [
+        "Thelusukunnaanu naa shramala dhwaara",
+        "Entho madhuramaina nee premanu",
+        "Neevunna intilo entho aanandam",
+        "Neevu leni intilo entho narakamu",
+        "Viduvaka edabaayaka nadipinchunu Nazareyudu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "song_name": "Sowndaryapurnudaa",
+  "author": {
+    "Authored by": "Pastor Ramesh",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సౌందర్యపూర్ణుడా సర్వలోకానాథుడా",
+      "రమ్యమైన పాలకా గొప్ప రక్షణా కారకా",
+      "యేసయ్యా నా ప్రాణ స్నేహిత",
+      "మనస్సంతా నిండిన మధురాను బంధమా అతిప్రియుడా నా ప్రాణేశ్వరా",
+      "అపురూపమే నీ ముఖదర్శనం"
+    ],
+    "english": [
+      "Soundharya poornuda sarvaloka naathuda",
+      "Ramyamaina paalaka goppa rakshana kaaraka",
+      "Yesayya naa prana snehitha",
+      "Manassantha nindina madhuraanubandhama",
+      "Athipriyuda naa praaneshwara",
+      "Apuroopame nee mukha dharshanam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మనసారా నిన్నే చేరి",
+        "ప్రియమారా నిన్నే కొలిచి",
+        "ప్రణుతింతును ఆశతీరా అతికాంక్షణీయుడా"
+      ],
+      "english": [
+        "Manasaara ninne cheri",
+        "Priyamaara ninne kolichi",
+        "Pranuthinthunu aasa theera",
+        "Athikaankshaneeyuda"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సద్భక్తితో బ్రతుక ఆశించగా",
+        "వాగ్ధాన ధ్వనులే బలపరచెను",
+        "విశ్వాసయాత్ర కడగండ్ల పాలైననూ",
+        "కన్నీటి కడలి చెలరేగి పొంగిననూ",
+        "నీవే నిమ్మళపరచినావు"
+      ],
+      "english": [
+        "Sadbhakthitho brathuka aasinchaga",
+        "Vaagdhaana dhwanule balaparachenu",
+        "Vishwaasa yaathra kadagandla paalainanu",
+        "Kanneethi kadali chelaregi ponginanu",
+        "Neeve nimmalaparachinaavu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మరిశ్రేష్ఠమైన యీవులను దయచేయ",
+        "నీ కరుణచూపి నా కొసగినావు",
+        "సమృద్ధి జీవము నా కొరకే తెచ్చితివి",
+        "సమీపించలేని నీ మహిమకై పిలిచిన",
+        "మహిమోన్నతుడా యేసయ్యా"
+      ],
+      "english": [
+        "Mari shreshtamaina eevulanu dhayacheya",
+        "Nee karuna choopi naa kosaginaavu",
+        "Samruddhi jeevamu naa korake thechchithivi",
+        "Sameepinchaleni nee mahimakai pilichina",
+        "Mahimonnathuda Yesayya"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "త్వరలో రానైయున్న నా ప్రియుడవు",
+        "కను రెప్పపాటున నిను చేరెదను",
+        "కనులార నిను చూసి మైమరిచిపోయే",
+        "కనువిందు చేసే మహిమానగరిలో",
+        "పరవశమే ప్రతినిత్యము"
+      ],
+      "english": [
+        "Thvaralo raanaiyunna naa priyudavu",
+        "Kanu reppapaatuna ninu cheredhanu",
+        "Kanulaara ninu choosi maimarachipoye",
+        "Kanuvindhu chese mahima nagarilo",
+        "Paravashame prathinithyamu"
+      ]
+    }
+  ]
+}

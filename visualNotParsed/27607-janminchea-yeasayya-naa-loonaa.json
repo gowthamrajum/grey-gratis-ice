@@ -1,0 +1,71 @@
+{
+  "song_name": "Janminche Yesayya naa lonaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Jyothi Manohar"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "జన్నించే యేసయ్య – నా లోనా",
+      "జన్నించాలి యేసయ్య – నీ లోనా",
+      "ఇది సంతోష సమయం – ఆనంద సమయం",
+      "ఆర్బాట సమయం – ఆరాధన సమయం",
+      "ఆరాధన ఆరాధన ఆరాధన ఆరాధన"
+    ],
+    "english": [
+      "Janminche Yesayya – Naa lonaa",
+      "Janminchaali Yesayya – Nee lonaa",
+      "Idhi santhosha samayam – Aananda samayam",
+      "Aarbaata samayam – Aaraadhana samayam",
+      "Aaraadhana aaraadhana aaraadhana aaraadhana"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇమ్మానేయులు మన తోడు చూడు",
+        "వాగ్దానం ఇచ్చి నెరవేర్చచుతాడు",
+        "ఆరాధన ఆరాధన ఆరాధన ఆరాధన"
+      ],
+      "english": [
+        "Immaanuyelu mana thodu choodu",
+        "Vaagdhaanam ichchi neraverchuthaadu",
+        "Aaraadhana aaraadhana aaraadhana aaraadhana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసయ్యే వెలుగు మనలో నింపాడు",
+        "ఆ వెలుగే మనము ఈ లోకమునకు",
+        "ఆరాధన ఆరాధన ఆరాధన ఆరాధన"
+      ],
+      "english": [
+        "Yesayye velugu manalo nimpaadu",
+        "Aa veluge manamu ee lokamunaku",
+        "Aaraadhana aaraadhana aaraadhana aaraadhana"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఒక దినమున యేసయ్య రాకడ",
+        "ఆర్బాటముతో పరముకు చేరెదం",
+        "ఆరాధన ఆరాధన ఆరాధన ఆరాధన  ||జన్నించే||",
+        "హల్లెలూయా హల్లెలూయా",
+        "హల్లెలూయా ఆరాధన  ||జన్నించే||"
+      ],
+      "english": [
+        "Oka dinamuna Yesayya raakada",
+        "Aarbhaatamutho paramuku cheredham",
+        "Aaraadhana aaraadhana aaraadhana aaraadhana  ||Janminche||",
+        "Hallelooyaa hallelooyaa",
+        "Hallelooyaa aaraadhana  ||Janminche||"
+      ]
+    }
+  ]
+}

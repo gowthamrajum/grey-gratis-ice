@@ -1,0 +1,34 @@
+{
+  "song_name": "Bhayamela",
+  "author": {
+    "Authored by": "Sumanth Gudivada",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవే మాకు తోడుగా, నీవే మాకు నీడగా",
+      "మాతో ఉండగా భయమేల"
+    ],
+    "english": [
+      "Neeve maku thoduga, neeve maku needaga",
+      "maatho undaga bhayamela."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అబ్రహము దేవుడవు నీవే యేసయ్య",
+        "దేవ కుమారుడవు నీవే మెస్సయ్య",
+        "ధావన పావన బావా నిరంతర",
+        "చింత తీర్చి శాంతి నిచ్చు ప్రేమ పావనుడా"
+      ],
+      "english": [
+        "Abrahamu devudavu neeve yesayya",
+        "deva kumarudavu neeve messiah",
+        "dhavana pavana baava niranthara",
+        "chintha theerchi shanthi nicchu prema pavanuda"
+      ]
+    }
+  ]
+}

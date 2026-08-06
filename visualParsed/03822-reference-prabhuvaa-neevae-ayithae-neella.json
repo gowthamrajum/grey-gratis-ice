@@ -1,0 +1,64 @@
+{
+  "song_name": "Prabhuvaa! neeve ayithe neella",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సిలువే నీ గురిగా - నడువు యౌవనుడా",
+      "వెనుకంజ వేయకయే - నిలువు యేసు బండ పై"
+    ],
+    "english": [
+      "Siluve nee gurigaa - Naduvu yauvanudaa",
+      "Venukanja veyakaye - Niluvu Yesu banda pai"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మునుగు చుండె - నీ జీవనావ దాటించు వారెవ్వరు?",
+        "యేసు ప్రభుండే - దాటించువాడు నీదు చుక్కాని యేసే"
+      ],
+      "english": [
+        "Munugu chunde - Nee jeevanaava daatinchu vaarevvaru?",
+        "Yesu prabhunde - Daatinchuvaadu needu chukkaani Yese"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వచ్చెను యేసు - ఈ లోకమునకు తెచ్చె నీకు రక్షణ",
+        "అక్షయుడు తెరచె - నిశ్చయముగ మోక్షద్వారము నీకే"
+      ],
+      "english": [
+        "Vachchenu Yesu - Ee lokamunaku thechche neeku rakshana",
+        "Akshayudu terache - Nishchayamuga mokshadwaaramu neeke"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సిలువలో యేసు నీ పాపములకై రక్తము కార్చెను",
+        "విమోచించును విశ్వసించిన - ముక్తిని పొందెదవు"
+      ],
+      "english": [
+        "Siluvalo Yesu nee paapamulakai rakthamu kaarchenu",
+        "Vimochinchunu vishwasinchina - Mukthini pondedavu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ప్రేమవార్త ప్రకటింప బడెను ప్రియులారా రండి నేడే",
+        "మీ ఉల్లములకు ప్రియమైన యేసే శాంతి నిచ్చెడి రాజు"
+      ],
+      "english": [
+        "Premavaartha prakatimpa badenu priyulaaraa randi nede",
+        "Mee ullamulaku priyamaina Yese shaanthi nichchedi raaju"
+      ]
+    }
+  ]
+}

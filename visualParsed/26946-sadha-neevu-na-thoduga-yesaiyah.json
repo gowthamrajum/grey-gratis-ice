@@ -1,0 +1,84 @@
+{
+  "song_name": "Sadaa neevu naa thodugaa Yesayya",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Joshua Shaik"
+    ],
+    "రచన": [
+      "జాషువా షేక్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "సదా నీవు నా తోడుగా యేసయ్య",
+      "పదే ప్రేమ చూపావుగా",
+      "ప్రతీ చోట నీ సాక్షిగా యేసయ్య",
+      "సదా నేను జీవించనా",
+      "తరాలెన్నో దాటించు నీ బలం",
+      "యుగాలైన నీ ప్రేమయే శాశ్వతం",
+      "వరాలెన్నో వర్షించు నీ గుణం",
+      "నివాళై సమర్పింతు నా జీవితం",
+      "విధాతై ఇలా కోరుకున్నావుగా నన్నే ఆదరించావుగా",
+      "సదా నీవు నా తోడుగా యేసయ్య",
+      "పదే ప్రేమ చూపావుగా"
+    ],
+    "english": [
+      "Sadaa neevu naa thodugaa Yesayya",
+      "Padhe prema choopaavugaa",
+      "Prathee chota nee saakshigaa Yesayya",
+      "Sadaa nenu jeevinchanaa",
+      "Tharaalenno daatinchu nee balam",
+      "Yugaalaina nee premaye shaashwatham",
+      "Varaalenno varshinchu nee gunam",
+      "Nivaalai samarpinthu naa jeevitham",
+      "Vidhaathai ilaa korukunnaavugaa nanne aadharinchaavugaa",
+      "Sadaa neevu naa thodugaa Yesayya",
+      "Padhe prema choopaavugaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తేనె వంటి – స్వరము నీది – పిలిచె నన్ను – నా యేసయ్య",
+        "అంతులేని – మమత చూపి – తీర్చినావు – నా దాహమే",
+        "ప్రాణ నాధా – జీవదాత – మధురమైన నీ ప్రేమనే",
+        "ఆత్మతోను మనసుతోను ఆలపించి నే పాడనా",
+        "విమలమైన – నీ స్నేహమే – మారిపోని – సంబంధమే",
+        "ప్రబలమైన – నీ నామమే – ప్రాణమైన – నీ ధ్యానమే",
+        "కరముచాపి – జాలిచూపి – కాచినావు – నా దైవమా  ||సదా||  ||సదా||"
+      ],
+      "english": [
+        "Thene vanti – Swaramu needi – Piliche nannu – Naa Yesayya",
+        "Anthuleni – Mamatha choopi – Theerchinaavu – Naa dhaahame",
+        "Praana naadhaa – Jeevadhaatha – Madhuramaina nee premane",
+        "Aathmathonu manasuthonu aalapinchi ne paadanaa",
+        "Vimalamaina – Nee snehame – Maariponi – Sambandhame",
+        "Prabalamaina – Nee naamame – Praanamaina – Nee dhyaaname",
+        "Karamuchaapi – Jaalichoopi – Kaachinaavu – Naa daivamaa  ||Sadaa||  ||Sadaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆరిపోని – తరిగిపోని – మరచిపోని – నీ ప్రేమతో",
+        "లోకమందు – వీడిపోని – నీడ నీవే – నా యేసయ్య",
+        "ఎండమావి – తీరమందు – ఊరడించే – నీ వాక్యమే",
+        "చేరదీసి – కరుణచూపి – తల్లడిల్లె – నాకోసమే",
+        "పలకరించె – నీ మాటలే – దీపమాయె – నా బాటలో",
+        "పరితపించె – వాత్సల్యమే – నాలో పొంగే – ఆనందమే",
+        "అనిశమైన – నీదు ప్రేమ – చాలు నాకు – నా దైవమా"
+      ],
+      "english": [
+        "Aariponi – Tharigiponi – Marachiponi – Nee prematho",
+        "Lokamandu – Veediponi – Needa neeve – Naa Yesayya",
+        "Endamaavi – Theeramandhu – Ooradhinche – Nee vaakyame",
+        "Cheradeesi – Karunachoopi – Thalladille – Naakosame",
+        "Palakarinche – Nee maatale – Dheepamaaye – Naa baatalo",
+        "Parithapinche – Vaathsalyame – Naalo ponge – Aanandame",
+        "Anishamaina – Needu prema – Chaalu naaku – Naa daivamaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "song_name": "Yahova Maaku Thodugaa",
+  "author": {
+    "Authored by": "Dr P Satish Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవా మాకు తోడుగా – యేసయ్యా మా ఇంట ఉండగా",
+      "శుద్ధాత్మ మాకు నీడగా – త్రిత్వాత్మ మాకుండగా"
+    ],
+    "english": [
+      "Yahovaa maaku thodugaa – Yesayya maa inta undagaa",
+      "shuddaathma maaku needagaa – thrithwaathma maakundagaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎడబాయలేదే నీ కృప మమ్ము – విడనాడ లేదెన్నడు",
+        "వివరించలేము వర్ణించలేము – నీ ఆశ్చర్య కార్యాలను",
+        "బహు వింతైన ప్రేమన్ – చూపావు మాపై",
+        "చాలయ్య మా ఇంట – నీ సన్నిధి",
+        "కమనీయమైన నీ ప్రేమ బంధం – కాచింది కనుపాపలా",
+        "కృపవెంబడి కృపతో నింపావు మమ్ము – కష్టాల కన్నీళ్ళలో",
+        "మా ప్రతి బంధకమును – విడిపించినావు",
+        "చాలయ్య మా ఇంట – ఈ దీవెన"
+      ],
+      "english": [
+        "Edabaayaledhe nee krupa mammu – vidanaada ledhennadu",
+        "vivarinchalemu varninchalemu – nee aascharya kaaryaalanu",
+        "bahu vinthaina preman – choopaavu maapai",
+        "chaalayya maa inta – nee sannidhi",
+        "Kamaneeyamaina nee krupa bandham – kaachindhi kanupaapalaa",
+        "krupa vembadi krupatho nimpaavu mammu – kashtaala kanneellalo",
+        "maa prathi bandhakamunu – vidipinchinaavu",
+        "chaalayya maa inta – ee dheevena"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "song_name": "Naaku jeevamai unna naa jeevamaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నాకు జీవమై ఉన్న నా జీవమా",
+      "నాకు ప్రాణమై ఉన్న నా ప్రాణమా",
+      "నాకు బలమై ఉన్న నా బలమా",
+      "నాకు సర్వమై ఉన్న నా సర్వమా",
+      "నీ నామమే పాడెదన్ నా జీవిత కాలమంతా",
+      "నీ ధ్యానమే చేసెద నా ఊపిరి ఉన్నంత వరకు ||నాకు జీవమై||"
+    ],
+    "english": [
+      "Naaku jeevamai unna naa jeevamaa",
+      "Naaku praanamai unna naa praanamaa",
+      "Naaku balamai unna naa balamaa",
+      "Naaku sarvamai unna naa sarvamaa",
+      "Nee naamame paadedan naa jeevitha kaalamanthaa",
+      "Nee dhyaaname cheseda naa oopiri unnantha varaku ||Naaku jeevamai||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పూజ్యుడవు… ఉన్నత దేవుడవు",
+        "యోగ్యుడవు… పరిశుద్ధ రాజువు (2)",
+        "నా ఆరాధన నా ఆలాపన",
+        "నా స్తుతి కీర్తన నీవే",
+        "నా ఆలోచన నా ఆకర్షణ",
+        "నా స్తోత్రార్పణ నీకే  ||నాకు||"
+      ],
+      "english": [
+        "Poojyudavu… unnatha devudavu",
+        "Yogyudavu… parishuddha raajuvu (2)",
+        "Naa aaraadhana naa aalaapana",
+        "Naa sthuthi keerthana neeve",
+        "Naa aalochana naa aakarshana",
+        "Naa sthothraarpana neeke ||Naaku||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాయకుడా… నా మంచి స్నేహితుడా",
+        "రక్షకుడా… నా ప్రాణ నాథుడా (2)",
+        "నా ఆనందము నా ఆలంబన",
+        "నా అతిశయము నీవే",
+        "నా ఆదరణ నా ఆశ్రయము",
+        "నా పోషకుడవు నీవే  ||నాకు||"
+      ],
+      "english": [
+        "Naayakudaa… naa manchi snehithudaa",
+        "Rakshakudaa… naa praana naathudaa (2)",
+        "Naa aanandamu naa aalambana",
+        "Naa athishayamu neeve",
+        "Naa aadarana naa aashrayamu",
+        "Naa poshakudavu neeve ||Naaku||"
+      ]
+    }
+  ]
+}

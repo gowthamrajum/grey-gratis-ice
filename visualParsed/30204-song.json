@@ -1,0 +1,56 @@
+{
+  "song_name": "Davala varnudu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro.Murali"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ధవళ వర్ణుడా నీవే నా యేసయ్యా",
+      "సత్య దేవుడా నీవే నా ప్రభువా\" 2\"",
+      "నీకే స్తుతి స్తుతి స్తుతి స్తుతి దేవా",
+      "మహిమ ఘనత నీకే చెల్లింతును \"2\""
+    ],
+    "english": [
+      "Davala varnudaa neeve naa Yesayyaa",
+      "Sathya Devudaa neeve naa prabhuvaa\" 2\"",
+      "Neeke sthuthi sthuthi sthuthi sthuthi Deva",
+      "Mahima ghanatha neeke chellinthunu \"2\""
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చీకటి మార్గంలో.. నడిచిన నన్ను వెలుగుగా నీవై నడిపించితివి",
+        "పాపపు అంచులలో.. ఉండిన నన్ను నీ రక్తముతో కడిగితివి''2\"",
+        "ధవళ వర్ణుడా యేసయ్యా నీవే నాకు ఆశ్రయము\"2\"",
+        "*నీకే స్తుతి స్తుతి స్తుతి స్తుతి దేవా మహిమ ఘనత నీకే చెల్లింతును*"
+      ],
+      "english": [
+        "Cheekati maargamlo.. nadichina nannu veluguga neevai nadipinchithivi",
+        "Paapapu anchulalo.. undina nannu nee rakthamutho kadigithivi''2\"",
+        "Davala varnudaa Yesayyaa neeve naaku aashrayamu\"2\"",
+        "*Neeke sthuthi sthuthi sthuthi sthuthi Deva mahima ghanatha neeke chellinthunu*"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా శ్వాసలోన నీవే యేసయ్యా జీవితాంతము.. దేవా నిన్నే స్తుతియించెదను",
+        "పరలోక రాజ్యపు ఆశతో నీ మార్గములో నడిచేదను \"2\"",
+        "*ధవళ వర్ణుడా యేసయ్యా నీవే నాకు ఆశ్రయము\"2\"*",
+        "నీకే స్తుతి స్తుతి స్తుతి స్తుతి దేవా మహిమ ఘనత నీకే చెల్లింతును  ||ధవళ||"
+      ],
+      "english": [
+        "Naa shvaasalona neeve Yesayyaa jeevithaanthamu.. Deva ninne sthuthiyinchedanu",
+        "Paraloka raajyapu aashatho nee maargamulo nadichedanu \"2\"",
+        "*Davala varnudaa Yesayyaa neeve naaku aashrayamu\"2\"*",
+        "Neeke sthuthi sthuthi sthuthi sthuthi Deva mahima ghanatha neeke chellinthunu  ||Davala||"
+      ]
+    }
+  ]
+}

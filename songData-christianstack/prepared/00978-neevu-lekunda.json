@@ -1,0 +1,54 @@
+{
+  "song_name": "Neevu Lekunda",
+  "author": {
+    "Authored by": "Pastor G. Vijay kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవు లేకుండా నేనుండలేను",
+      "నాకున్నవన్నీ నీవే యేసయ్య",
+      "నా ప్రాణమా నా ధ్యానమా",
+      "నా ఊపిరి నీవే యేసయ్య"
+    ],
+    "english": [
+      "Neevu lekundaa nenundalenu",
+      "naakunnavanni neevey yesayya",
+      "naa praanamaa naa dhyaanamaa",
+      "naa oopiri neevey yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జాలిలేనిది ఈ మాయలోకము",
+        "కలతచెందెను నా దీన హృదయము",
+        "నను కాపాడుటకు నా దరి నిలచితివా",
+        "హస్తము చాపితివా నను బలపరచితివా",
+        "నను ప్రేమించేవారు ఎందరు ఉన్నను",
+        "అంతము వరుకు నాతో ఉండరు",
+        "నాలో ఉన్నవాడా నాతో ఉన్నవాడా",
+        "నా ప్రాణము నీవే యేసయ్య",
+        "కన్నులు మూసిన కన్నులు తెరచిన",
+        "నా చూపులలో నీ రూపమే",
+        "కనికరించితివా కరుణామయుడా",
+        "కృప చూపించితివా నాకు చాలిన దేవుడా"
+      ],
+      "english": [
+        "Jaalilenidhi ee maayalokamu",
+        "kalathachendenu naa deena hrudayamu",
+        "nanu kaapaadutaku naa dhari nilachithivaa",
+        "hasthamu chaapithivaa nanu balaparachithivaa",
+        "Nanu preminchevaaru endharu unnanu",
+        "anthamu varuku naatho undaru",
+        "naalo unnavaadaa naatho unnavaadaa",
+        "naa praanamu neevey yesayya",
+        "Kannulu moosina kannulu therachina",
+        "naa choopulalo nee roopamey",
+        "kanikarinchithivaa karunaamayudaa",
+        "krupa choopinchithivaa naaku chaalina devudaa"
+      ]
+    }
+  ]
+}

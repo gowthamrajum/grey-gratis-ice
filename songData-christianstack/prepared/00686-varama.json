@@ -1,0 +1,56 @@
+{
+  "song_name": "Varama",
+  "author": {
+    "Authored by": "Arun Nethala",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "వరమా ప్రభు కీర్తన",
+      "తపమా నీ క్రతవు ఘనత",
+      "నేడు నే పాడెద నవ్య రాగం",
+      "స్తుతి ఆరాధన",
+      "ప్రభు నీ పేరున"
+    ],
+    "english": [
+      "Varama prabhu keerthana",
+      "thapamaa nee krathavu ghanatha",
+      "nedu ne paadedha navya raagam",
+      "stuthi aaradhana",
+      "prabhu nee peruna"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రియుడా హితుడా దైవ సుతుడా",
+        "పలికేద కూహూ గీతిక",
+        "స్వర సప్తకాలే కెరటాలుగా",
+        "పలికేద నీ గీతిక",
+        "సంగీత గగనాన జాబిల్లిని తుంచనా",
+        "రాగాల సిగలోన సిరిమల్లి నేనల్లనా",
+        "వరుడా నరుడా త్యాగజనుడా",
+        "నే మీటేద వీణ రాగం",
+        "స్వర రాగ ఝరి తరంగాలుగా",
+        "పలికెద నీ గీతిక",
+        "తాకేనా పూలన్నీ ప్రభు యేసుని స్పర్శని",
+        "మనసారా కొలిచేనా కడవరకు యేసుని"
+      ],
+      "english": [
+        "Priyuda hithuda daiva suthudaa",
+        "palikedha kuhu geethika",
+        "swara sapthakaale kerataalugaa",
+        "palikeda nee geethika",
+        "sangeetha gaganaana jaabillini thunchanaa",
+        "raagaala sigalona sirimalli nenallaanaa",
+        "Varudaa narudaa thyaagajanudaa",
+        "ne meetedha veena raagam",
+        "swara raaga jari tharangaalugaa",
+        "palikedha nee geethika",
+        "thaakenaa poolanni prabhu yesuni sparsani",
+        "manasaara kolichenaa kadavaraku yesuni"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "song_name": "NiMpumu Oa Prabhuvaa Sarva SMpoorNathathoa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నింపుము ఓ ప్రభువా! సర్వ సంపూర్ణతతో",
+      "మేము నిండియుండెదము - పరిపూర్ణత నొందెదము"
+    ],
+    "english": [
+      "NiMpumu Oa Prabhuvaa! Sarva SMpoorNathathoa",
+      "Maemu NiMdiyuMdedhamu - ParipoorNatha NoMdhedhamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాప క్షమాపణ నిచ్చి - జీవముతో నింపుము",
+        "ఆత్మీయ వరమిచ్చిన - బలముతో నిండెదము"
+      ],
+      "english": [
+        "Paapa KShamaapaNa Nichchi - Jeevamuthoa NiMpumu",
+        "Aathmeeya Varamichchina - Balamuthoa NiMdedhamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరమ సంతోషమిచ్చి - సమాధానంబిమ్ము",
+        "చూపించు పరలోకమహిమ - ప్రకాశముతో నింపు"
+      ],
+      "english": [
+        "Parama SMthoaShamichchi - SamaaDhaanMbimmu",
+        "ChoopiMchu Paraloakamahima - Prakaashamuthoa NiMpu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆత్మ ఫలములతో నింపి - ప్రేమ సంతోషము",
+        "మంచితనము సాత్వీకము విశ్వాసముతో నింపు"
+      ],
+      "english": [
+        "Aathma Phalamulathoa NiMpi - Praema SMthoaShamu",
+        "MMchithanamu Saathveekamu Vishvaasamuthoa NiMpu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నింపు సత్యముతో మమ్ము నిల్పు - ప్రత్యక్షతలో",
+        "నీ జ్ఞానముతో నింపిన స్తుతితో నిండెదము"
+      ],
+      "english": [
+        "NiMpu Sathyamuthoa Mammu Nilpu - PrathyakShathaloa",
+        "Nee JnYaanamuthoa NiMpina Sthuthithoa NiMdedhamu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పరమాశీర్వాదమిచ్చి - తప్పించు యిహమునుండి",
+        "అర్హులుగ చేయు పరమునకై - ఆశించుచున్నాము"
+      ],
+      "english": [
+        "Paramaasheervaadhamichchi - ThappiMchu YihamunuMdi",
+        "Arhuluga Chaeyu Paramunakai - AashiMchuchunnaamu"
+      ]
+    }
+  ]
+}

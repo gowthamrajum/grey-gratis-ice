@@ -1,0 +1,73 @@
+{
+  "song_name": "Naa kosam praanam pettina",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Pastor Paul Raju"
+    ],
+    "రచన": [
+      "పాస్టర్ పాల్ రాజు"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా కోసం ప్రాణం పెట్టిన నా స్నేహితుడా",
+      "ప్రేమతో నన్ను పిలిచినా నా యేసయ్య",
+      "నీకే స్తోత్రము – నీకే వందనం",
+      "నీకే స్తోత్రము – నీకే వందనం"
+    ],
+    "english": [
+      "Naa kosam praanam pettina naa snehithudaa",
+      "Prematho nannu pilichinaa naa Yesayya",
+      "Neeke sthothramu – Neeke vandanam",
+      "Neeke sthothramu – Neeke vandanam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎవరు లేక ఒంటరినై తిరిగే సమయంలో",
+        "నేనున్నానని పిలిచినా నా స్నేహితుడా",
+        "నీకే స్తోత్రము",
+        "నీకే వందనం"
+      ],
+      "english": [
+        "Evaru leka ontarinai thirige samayamlo",
+        "Nenunnaanani pilichinaa naa snehithudaa",
+        "Neeke sthothramu",
+        "Neeke vandanam"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అంధకార లోయలో నే తిరిగే సమయంలో",
+        "నేనున్నా అని పిలిచినా నా స్నేహితుడా",
+        "నీకే స్తోత్రము",
+        "నీకే వందనం"
+      ],
+      "english": [
+        "Andhakaara loyalo ne thirige samayamlo",
+        "Nenunnaa ani pilichinaa naa snehithudaa",
+        "Neeke sthothramu",
+        "Neeke vandanam"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా యేసయ్య నా ప్రభువా నీవున్నావని",
+        "నీలో ఐక్యత కలిగి నడువ కృప చూపించితివి",
+        "నీకే స్తోత్రము",
+        "నీకే వందనం"
+      ],
+      "english": [
+        "Naa Yesayya naa Prabhuvaa neevunnaavani",
+        "Neelo aikyatha kaligi naduva krupa choopinchithivi",
+        "Neeke sthothramu",
+        "Neeke vandanam"
+      ]
+    }
+  ]
+}

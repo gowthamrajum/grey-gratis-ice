@@ -1,0 +1,56 @@
+{
+  "song_name": "Rakshakaa Nan Marvaboaku Morra Naalinchu",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఫ్రాన్సెస్ జేన్వేన్ ఆల్ష్టీన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "రక్షకా, నన్ మర్వఁబోకు మొఱ్ఱ నాలించు",
+      "అన్యులైనవారిఁ బిల్వన్ మర్వఁబోకు నన్",
+      "యేసు, యేసు మొఱ్ఱ నాలించు",
+      "అన్యులైన వారిఁ బిల్వన్ మర్వఁబోకు నన్"
+    ],
+    "english": [
+      "Rakshakaa, Nan Marvaboaku Morra Naalinchu",
+      "Anyulainavaari Bilvan Marvaboaku Nan",
+      "Yaesu, Yaesu Morra Naalinchu",
+      "Anyulaina Vaari Bilvan Marvaboaku Nan"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ కృపాసనంబు నొద్ద శాంత మియ్యుము",
+        "పశ్చాత్తాప పడు నిన్ను నాదరించుము."
+      ],
+      "english": [
+        "Nee Krupaasanambu Nodhdha Shaantha Miyyumu",
+        "Pashchaaththaapa Padu Ninnu Naadharinchumu."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీదు పుణ్య మేను నమ్మి యా శ యింతు నిన్",
+        "క్రుంగినట్టి నాదు నాత్మఁ బ్రోవు ప్రేమతో"
+      ],
+      "english": [
+        "Needhu Punya Maenu Nammi Yaa Sha Yinthu Nin",
+        "Krunginatti Naadhu Naathma Broavu Praemathoa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నాకు సుఖదాత వీవె జీవదాతవే",
+        "యిహపరలములయందు దిక్కు నీవెగా"
+      ],
+      "english": [
+        "Naaku Sukhadhaatha Veeve Jeevadhaathavae",
+        "Yihaparalamulayandhu Dhikku Neevegaa"
+      ]
+    }
+  ]
+}

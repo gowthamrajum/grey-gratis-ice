@@ -1,0 +1,54 @@
+{
+  "song_name": "AanMdhM AanMdhM DhinadhinM AanMdhM",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆనందం ఆనందం దినదినం ఆనందం",
+      "యేసురాజు నా స్వంతమాయెనే యీ లోకమందు స్వంతవాడాయెనే",
+      "నా మదిలో స్వంతమాయెను(2)"
+    ],
+    "english": [
+      "AanMdhM AanMdhM DhinadhinM AanMdhM",
+      "Yaesuraaju Naa SvMthamaayenae Yee LoakamMdhu SvMthavaadaayenae",
+      "Naa Madhiloa SvMthamaayenu(2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తొలి బాల్యవయసులో నన్ను గుర్తించినాడు దూరంపోయిన కనుగొన్నాడు(2)",
+        "తన ప్రాణమును నాకర్పించి జీవం పొందుకొనుమని చెప్పెను"
+      ],
+      "english": [
+        "Tholi Baalyavayasuloa Nannu GurthiMchinaadu DhoorMpoayina Kanugonnaadu(2)",
+        "Thana PraaNamunu NaakarpiMchi JeevM PoMdhukonumani Cheppenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఏ స్థితిలోనైనా ప్రభు ప్రేమతో నన్ను విడువక కాపాడును",
+        "నన్ను నమ్మి యిచ్చిన బాధ్య తను ప్రభువు వచ్చువరకు కాచుకొందును"
+      ],
+      "english": [
+        "Ae SThithiloanainaa Prabhu Praemathoa Nannu Viduvaka Kaapaadunu",
+        "Nannu Nammi Yichchina BaaDhya Thanu Prabhuvu Vachchuvaraku KaachukoMdhunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రభువు వచ్చుదినమున తనచేయి చాచిప్రేమతో పిలిచి చేర్చుకొనును",
+        "ప్రభువు సమూహమందు అచ్చటాయనతో ఆడిపాడి సంతోషించెదన్"
+      ],
+      "english": [
+        "Prabhuvu Vachchudhinamuna Thanachaeyi Chaachipraemathoa Pilichi Chaerchukonunu",
+        "Prabhuvu SamoohamMdhu Achchataayanathoa Aadipaadi SMthoaShiMchedhan"
+      ]
+    }
+  ]
+}

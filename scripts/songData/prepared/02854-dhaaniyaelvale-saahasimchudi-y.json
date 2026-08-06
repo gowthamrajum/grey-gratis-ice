@@ -1,0 +1,60 @@
+{
+  "song_name": "Dhaaniyaelvale Saahasinchudi",
+  "author": {
+    "Authored by": "",
+    "రచన": "బూదాల లైమన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "దానియేల్వలె సాహసించుడి యొంటరిగా నిల్వ దానియేల్వలె సాహసించుడి",
+      "దానియేల్వలె సాహసించుచు జ్ఞానులై దృఢ కార్యముఁ గలిగి దీనులై",
+      "యా దృఢ కార్యం బిఁకఁ బూని తెల్పను సాహసించుడి"
+    ],
+    "english": [
+      "Dhaaniyaelvale Saahasinchudi Yontarigaa Nilva Dhaaniyaelvale Saahasinchudi",
+      "Dhaaniyaelvale Saahasinchuchu Gnaanulai Dhrudha Kaaryamu Galigi Dheenulai",
+      "Yaa Dhrudha Kaaryam Bika Booni Thelpanu Saahasinchudi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిక్కమగు కార్యమునందు నిలిచి దైవాజ్ఞ లెలఁ గ్రక్కున",
+        "గైకొను జనములగాంచి చక్కఁగ వారిని ఘనపర్చుచు",
+        "సంతతము నెనరుఁ పించుచు మిక్కిలి దానియేల్సంఘమును మెచ్చుచు నంగీకరించుఁడీ"
+      ],
+      "english": [
+        "Nikkamagu Kaaryamunandhu Nilichi Dhaivaagna Lela Grakkuna",
+        "Gaikonu Janamulagaanchi Chakkaga Vaarini Ghanaparchuchu",
+        "Santhathamu Nenaru Pinchuchu Mikkili Dhaaniyaelsanghamunu Mechchuchu Nangeekarinchudee"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ధారుణిపైని నగరములలో మరణించిరిగా కడు శూరులనఁబడువా రనేకులు",
+        "వారు దానియేల్సంఘమును గని కోరి యేకీభవించినమది",
+        "వారలే ప్రభుదేవుని భట పరి వారమునఁబడి యుందురు నిజ మిఁక"
+      ],
+      "english": [
+        "Dhaarunipaini Nagaramulaloa Maraninchirigaa Kadu Shoorulanabaduvaa Ranaekulu",
+        "Vaaru Dhaaniyaelsanghamunu Gani Koari Yaekeebhavinchinamadhi",
+        "Vaaralae Prabhudhaevuni Bhata Pari Vaaramunabadi Yundhuru Nija Mika"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కాన నీ సువిశేషమును జెండ పైకెత్తుఁడీ సై తానుని నెదిరించను రండి",
+        "దీనిని దీని శ్రేణులను యు ద్ధానికి రారమ్మని పిలిచి",
+        "దానియేల్సంఘము పక్షమునఁ బూని జయధ్వనులనుఁ జేయుటకై"
+      ],
+      "english": [
+        "Kaana Nee Suvishaeshamunu Jenda Paikeththudee Sai Thaanuni Nedhirinchanu Randi",
+        "Dheenini Dheeni Shraenulanu Yu Dhdhaaniki Raarammani Pilichi",
+        "Dhaaniyaelsanghamu Pakshamuna Booni Jayadhvanulanu Jaeyutakai"
+      ]
+    }
+  ]
+}

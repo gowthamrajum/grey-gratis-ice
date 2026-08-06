@@ -1,0 +1,49 @@
+{
+  "song_name": "పరదేశి పుణ్యక్షేత్ర యాత్రఁ బ",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరదేశి, పుణ్యక్షేత్ర యాత్రఁ బోవుచుందువా? యేసు నాజ్ఞ తల పోసి మోక్ష మొందఁ బోదును. కొండ లెక్కి యేళ్లు దాఁటి మోక్ష రాజ్యం చేరుదాఁక ముందు పోవుచుందును."
+      ],
+      "english": [
+        "paradhaeshi, puNyakShaethra yaathrAO boavuchuMdhuvaa? yaesu naajnY thala poasi moakSh moMdhAO boadhunu. koMda lekki yaeLlu dhaaAOti moakSh raajyM chaerudhaaAOka muMdhu poavuchuMdhunu."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఒంటిగాను బోవుదువే నీకు భయ ముండదా? లేదు నాకు భయమేల? స్వామి నన్ను ఁ గాచును; మోక్ష రాజ్యం చేరుదాఁక యేసు నాకుఁ దోవచూప ముందు పోవుచుందును."
+      ],
+      "english": [
+        "oMtigaanu boavudhuvae neeku bhaya muMdadhaa? laedhu naaku bhayamaela? svaami nannu AO gaachunu; moakSh raajyM chaerudhaaAOka yaesu naakuAO dhoavachoopa muMdhu poavuchuMdhunu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరదేశి, మోక్షమందు నీకు లాభ ముండునా? నిత్యానంద సువిశ్రాంతి యందు నుండు లాభము. జీవనది నీళ్లు త్రాగి యేసుతో సదా వసింప ముందు పోవుచుందును"
+      ],
+      "english": [
+        "paradhaeshi, moakShmMdhu neeku laabha muMdunaa? nithyaanMdha suvishraaMthi yMdhu nuMdu laabhamu. jeevanadhi neeLlu thraagi yaesuthoa sadhaa vasiMpa muMdhu poavuchuMdhunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పరదేశి, నీతో నేను యాత్ర చేయ వచ్చునా? రమ్ము నాతోఁ గూడ రమ్ము యేసు నిన్ను రమ్మనెన్ మార్గాయాసమైన నేమి మాకు మోక్షం చిక్కు వేళ సువిశ్రాంతి కల్గును."
+      ],
+      "english": [
+        "paradhaeshi, neethoa naenu yaathra chaeya vachchunaa? rammu naathoaAO gooda rammu yaesu ninnu rammanen maargaayaasamaina naemi maaku moakShM chikku vaeLa suvishraaMthi kalgunu."
+      ]
+    }
+  ]
+}

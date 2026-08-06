@@ -1,0 +1,59 @@
+{
+  "song_name": "Jagela Yuvaka Ravela Tvaraga Niraka",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జాగెల యువక రావేల త్వరగ",
+      "నీరాక కోసం ప్రభు వేచెనుగా",
+      "కరములు చాచి కలువరిలో శిరమును వంచెను చూడు",
+      "నేరము లేమియు చేయకనే నింద భరించెను చూడుము",
+      "కారణం . . నీవేగా . ."
+    ],
+    "english": [
+      "Jagela Yuvaka Ravela Tvaraga",
+      "Niraka Kosam Prabu Vechenuga",
+      "Karamulu Chachi Kaluvarilo Siramunu Vamchenu Chudu",
+      "Neramu Lemiyu Cheyakane Nimda Barimchenu Chudumu",
+      "Karanam . . Nivega . ."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఉండునో పోవునో తెలియని ప్రాణము",
+        "గాలిలో మాయమౌ ఆవిరంటి రూపము",
+        "దాచుకున్నదోషమే చేయుచుండె రాజ్యము",
+        "నిన్ను నీలో ఉంచని ఆశల లోకము",
+        "నిజమిది కాదనే . . మాయల మార్గము"
+      ],
+      "english": [
+        "Umduno Povuno Teliyani Pranamu",
+        "Galilo Mayamau Aviramti Rupamu",
+        "Dachukunnadoshame Cheyuchumde Rajyamu",
+        "Ninnu Nilo Umchani Asala Lokamu",
+        "Nijamidi Kadane . . Mayala Margamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎరిగియో ఎరుగకో చేసిన నేరము",
+        "చెరగని పోయెను తాళలేని లోకము",
+        "దయాగల దైవమే చేసిన త్యాగము",
+        "నమ్మిన తోడనే కలుగును జీవము",
+        "జాలము చేయకా . . చేరిక యేసుని"
+      ],
+      "english": [
+        "Erigiyo Erugako Chesina Neramu",
+        "Cheragani Poyenu Talaleni Lokamu",
+        "Dayagala Daivame Chesina Tyagamu",
+        "Nammina Todane Kalugunu Jivamu",
+        "Jalamu Cheyaka . . Cherika Yesuni"
+      ]
+    }
+  ]
+}

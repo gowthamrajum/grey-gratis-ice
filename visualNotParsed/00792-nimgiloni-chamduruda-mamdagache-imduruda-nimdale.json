@@ -1,0 +1,75 @@
+{
+  "song_name": "Ningiloni chanduruda mandagaache induruda",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నింగిలోని చందురుడా మందగాచే ఇందురుడా",
+      "నిందలేని సుందరుడా గంధమొలికె చందరుడా",
+      "ఓ...... వెన్నెలంటి చల్లని రాజా",
+      "వెన్నలాంటి మనసు నీదయ్యా"
+    ],
+    "english": [
+      "Ningiloni chanduruda mandagaache induruda",
+      "Nindhaleni sundharuda gandhamolike chandaruda",
+      "O...... vennelanti challani raajaa",
+      "Vennalaanti manasu needayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎర్రటి ఎండ కాల్చేస్తున్నా గాయాలు నిన్ను బాధిస్తున్నా",
+        "దాహంతో నోరు ఎండిపోతున్ననాలుక అంగిట అంటిపోతున్న",
+        "ప్రేమతో పెంచిన మమతలు పంచిన నీ శ్రమ చూడలేక గుండెపగిలినా",
+        "తల్లిని శిష్యుని కప్పగించి నీ బాధ్యతను నెరవేర్చినావా",
+        "ఓ . . వెన్నెలంటి చల్లని రాజా ఎంత ప్రేమ మూర్తి నీవయ్యా"
+      ],
+      "english": [
+        "Errati enda kaalchesthunnaa gaayaalu ninnu baadhisthunnaa",
+        "Dhaahantho noru endipothunna naaluka angita antipothunna",
+        "Prematho penchina mamathalu panchina nee shrama choodaleka gundepagilinaa",
+        "Thallini shishyuni kappaginchi nee baadhyathanu neraverchinaavaa",
+        "O . . vennelanti challani raajaa entha prema moorthi neevayyaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అందాల మోముపై ఉమ్మి వేయగా నీదు గెడ్డము పట్టి లాగగా",
+        "యూదుల రాజని అపహసించగా సిలువ దిగి రమ్మని పరిహసించగా",
+        "అంతా సహించి మౌనంవ్ వహించి బాధించువారిపై ప్రేమ చూపించి",
+        "ఏమి చేస్తున్నారో యెరుగరు క్షమియించుమని ప్రార్థించినావా",
+        "ఓ . . వెన్నెలంటి చల్లని రాజా ఎంత సహనం చూపినావయ్యా"
+      ],
+      "english": [
+        "Andaala momupai ummi veyagaa needu geddamu patti laagagaa",
+        "Yoodula raajani apahasinchagaa siluva digi rammani parihasinchagaa",
+        "Anthaa sahinchi maunam vahinchi baadhinchuvaaripai prema choopinchi",
+        "Emi chesthunnaaro erugaru kshamiyinchumani praarthinchinaavaa",
+        "O . . vennelanti challani raajaa entha sahanam choopinaavayyaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "లేత మొగ్గలాంటి నీ దేహముపై కొరడాలెన్నో నాట్యము చేయగా",
+        "మేలే చేసినా కరుణను పంచినా కాళ్ళు చేతులలో చీలలు కొట్టగా",
+        "అంతటి శ్రమలో చెంతను నిలచి చింతలో వున్నా అతివల చూచి",
+        "నా కోసం ఎడ్వవలదని పలికి వారిని ఓదార్చినావా",
+        "ఓ . . వెన్నెలంటి చల్లని రాజా ఎంత కరుణామయుడ నీవయ్యా"
+      ],
+      "english": [
+        "Letha moggalaanti nee dhehamupai koradaalenno naatyamu cheyagaa",
+        "Mele chesinaa karunanu panchinaa kaallu chethulalo cheelalu kottagaa",
+        "Anthati shramalo chenthanu nilachi chinthalo vunnaa athivala choochi",
+        "Naa kosam edvavaladhani paliki vaarini odhaarchinaavaa",
+        "O . . vennelanti challani raajaa entha karunaamayuda neevayyaa"
+      ]
+    }
+  ]
+}

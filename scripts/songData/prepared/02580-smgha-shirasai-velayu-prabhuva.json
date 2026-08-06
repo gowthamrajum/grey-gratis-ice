@@ -1,0 +1,74 @@
+{
+  "song_name": "Sangha Shirasai Velayu Prabhuvaa",
+  "author": {
+    "Authored by": "",
+    "రచన": "చెట్టి భానుమూర్తి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "సంఘ శిరసై వెలయు ప్రభువా సత్యకృప సంపూర్ణ ప్రభావా",
+      "సర్వ క్రైస్తవ సంఘ మహి మా స్త్రోత్రగీతల్ స్వీకరింపుమా"
+    ],
+    "english": [
+      "Sangha Shirasai Velayu Prabhuvaa Sathyakrupa Sampoorna Prabhaavaa",
+      "Sarva Kraisthava Sangha Mahi Maa Sthroathrageethal Sveekarimpumaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సంఘ యస్థిభారము వీవే సంఘ జీవాధారము నీవే",
+        "సర్వ జనరక్షణము నీవే సర్వలోక నిరీక్షణ నీవే"
+      ],
+      "english": [
+        "Sangha Yasthibhaaramu Veevae Sangha Jeevaadhaaramu Neevae",
+        "Sarva Janarakshanamu Neevae Sarvaloaka Nireekshana Neevae"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తరణి చుట్టు తారాగ్రహములు పరివృత్తంబై తిరుగు రీతిని",
+        "తల యె క్రీస్తయ తనువే భక్తులై తగిన సఖ్యత నైక్యత నుందురు"
+      ],
+      "english": [
+        "Tharani Chuttu Thaaraagrahamulu Parivruththambai Thirugu Reethini",
+        "Thala Ye Kreesthaya Thanuvae Bhakthulai Thagina Sakhyatha Naikyatha Nundhuru"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నూతనాత్మ నూతన జన్మ నీతి సేవా నిరతియు గలిగి",
+        "నిత్య మాతనియందు నిలచి నెగడు వారే నిజక్రైస్తవులు"
+      ],
+      "english": [
+        "Noothanaathma Noothana Janma Neethi Saevaa Nirathiyu Galigi",
+        "Nithya Maathaniyandhu Nilachi Negadu Vaarae Nijakraisthavulu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆత్మశుద్ధి అనుపమబుద్ధి అమలవర్తన మనిశము గలిగి",
+        "ఆత్మఫలములు జాపన నేర్చిన యను భవంబే క్రైస్తవంబు"
+      ],
+      "english": [
+        "Aathmashudhdhi Anupamabudhdhi Amalavarthana Manishamu Galigi",
+        "Aathmaphalamulu Jaapana Naerchina Yanu Bhavambae Kraisthavambu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "విశ్వసింతుము నిన్నే మేము విమల జీవ ప్రదాయకుండ",
+        "వరుడనీవై వరదుడ వీవై విశ్వ భారతి నుద్ధరింపుమా"
+      ],
+      "english": [
+        "Vishvasinthumu Ninnae Maemu Vimala Jeeva Pradhaayakunda",
+        "Varudaneevai Varadhuda Veevai Vishva Bhaarathi Nudhdharimpumaa"
+      ]
+    }
+  ]
+}

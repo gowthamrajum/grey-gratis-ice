@@ -1,0 +1,85 @@
+{
+  "song_name": "Letha mokkalaa thandri sannidhilo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "లేత మొక్కలా తండ్రి సన్నిధిలో",
+      "నిత్య మహిమలో ఎదిగావు",
+      "లోక పాపములే నీ బుజముపై",
+      "కల్వరి సిలువలో ఒదిగావు",
+      "1॰",
+      "సొగసైననూ లేక సురూపమూ లేక",
+      "బలియైతివా నా యేసయ్యా ॥2॥"
+    ],
+    "english": [
+      "Letha mokkalaa thandri sannidhilo",
+      "Nithya mahimalo edigaavu",
+      "Loka paapamule nee bujamupai",
+      "Kalvari siluvalo odigaavu",
+      "1॰",
+      "Sogasainanoo leka suroopamoo leka",
+      "Baliyaithivaa naa Yesayyaa ॥2॥"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ ప్రేమనే రక్తముగా మార్చితివే",
+        "నా కొరకే యేసయ్యా ॥2॥"
+      ],
+      "english": [
+        "Nee premane rakthamugaa maarchithive",
+        "Naa korake Yesayyaa ॥2॥"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మృత్యుంజయుడా పునరుద్ధానుడవై",
+        "ఆఖరి శత్రువునే గెలిచావు ॥2॥"
+      ],
+      "english": [
+        "Mruthyunjayudaa punaruddhaanudavai",
+        "Aakhari shathruvune gelichaavu ॥2॥"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరలోక రాజ్యంలా ఈ భువినంతటిని",
+        "నీ మహిమతో నింపావు ॥2॥"
+      ],
+      "english": [
+        "Paraloka raajyamlaa ee bhuvinanthatini",
+        "Nee mahimatho nimpaavu ॥2॥"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సమాధి సంకెళ్ళయినా మరణపు మళ్ళైన జయించితివా నా యేసయ్యా ॥2॥"
+      ],
+      "english": [
+        "Samaadhi sankellayinaa maranapu mullaina jayinchithivaa naa Yesayyaa ॥2॥"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీ ఆత్మతో నను ముద్రించితివే",
+        "నీ రాజ్యముకే యేసయ్యా ॥2॥",
+        "యేసయ్యా యేసయ్యా యేసయ్యా"
+      ],
+      "english": [
+        "Nee aathmatho nanu mudrinchithive",
+        "Nee raajyamuke Yesayyaa ॥2॥",
+        "Yesayyaa Yesayyaa Yesayyaa"
+      ]
+    }
+  ]
+}

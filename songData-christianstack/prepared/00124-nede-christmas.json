@@ -1,0 +1,128 @@
+{
+  "song_name": "Nede Christmas",
+  "author": {
+    "Authored by": "Yesu Babu Ayyanki",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేడే క్రిస్మస్ జగమంతా నిండుగా",
+      "ఇంటింటా కాంతులు చిన్నారుల చిందులు ప్రతివారి నవ్వులు",
+      "వాడంతా విందులు",
+      "శుభవార్త విన్నామని",
+      "యేసు జనియించాడని"
+    ],
+    "english": [
+      "Nede Christmas jagamanthaa nindugaa",
+      "Intinta kaanthulu",
+      "Chinnaarula chindhulu",
+      "Prathivari navvulu",
+      "Vaadanthaa vindhulu",
+      "Shubhavaartha vinnaamani",
+      "Yesu janiyinchaadani"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆకాశమె పట్టనోడు యేసు",
+        "మనకోసమె వచ్చినాడు"
+      ],
+      "english": [
+        "Aakaashame pattanoodu Yesu",
+        "Manakosame vachchinaadu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "హృదయాలనేలె రాజుగా",
+        "గొప్పరక్షణను తెచ్చినాడుగా"
+      ],
+      "english": [
+        "Hrudayaala neale raajugaa",
+        "Goppa rakshananu thechchinaadugaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "భయపడకనిచెప్పి",
+        "ధైర్యము నీకిచ్చి",
+        "చీకట్లను చీల్చి",
+        "వెలుగులు పంచె"
+      ],
+      "english": [
+        "Bhayapadakani cheppi",
+        "Dhairyamu neekichchi",
+        "Cheekatlanu cheelchi",
+        "Velugulu panche"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యూదులరాజుగా పుట్టినాడు",
+        "ఇమ్మానుయేలుగా వచ్చినాడు"
+      ],
+      "english": [
+        "Yoodula raajugaa puttinaadu",
+        "Immanuelugaa vachchinaadu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "బాలయేసు బోసినవ్వులు ఎదలో",
+        "వెదజల్లే నవకాంతులు",
+        "అద్వితీయ నయనాలతో",
+        "ఇలలో విరజిమ్మే ప్రేమకాంతులు"
+      ],
+      "english": [
+        "Baala Yesu bosinavvulu edhalo",
+        "Vedhajalle navakaanthulu",
+        "Adhvithiya nayanaalatho",
+        "Ilalo virajimme prema kaanthulu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "లోకభారాన్ని మోసె",
+        "కారణజన్ముడు",
+        "లోకాపాపాన్ని బాపె",
+        "ఆశ్చర్యకరుడు"
+      ],
+      "english": [
+        "Lokabhaaraanni mose",
+        "Kaarana janmudu",
+        "Lokaa paapanni baape",
+        "aaschryakarudu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "యూదులరాజుగా పుట్టినాడు",
+        "ఇమ్మానుయేలుగా",
+        "వచ్చినాడు"
+      ],
+      "english": [
+        "Yoodula raajugaa puttinaadu",
+        "Immanuelugaa vachchinaadu"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "హ్యాపీ హ్యాపీ హ్యాపీ హ్యాపీ హ్యాపీ క్రిస్ మస్",
+        "మేరీ మేరీ మేరీ మేరీ మేరీ క్రిస్ మస్"
+      ],
+      "english": [
+        "Happy happy happy happy happy Christmas",
+        "Merry merry merry merry merry Christmas"
+      ]
+    }
+  ]
+}

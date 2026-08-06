@@ -1,0 +1,107 @@
+{
+  "song_name": "Prabhu Maargamulayande Bhayabhakthi",
+  "author": {
+    "Authored by": "",
+    "రచన": "బేతాళ జాన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభు మార్గములయందె భయభక్తి నిందు",
+      "శుభరీతి నడిచే పురుషుండే ధన్యుండు"
+    ],
+    "english": [
+      "Prabhu Maargamulayande Bhayabhakthi Nindhu",
+      "Shubhareethi Nadichae Purushundae Dhanyundu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అపుడు నీచే కష్టం బారగించుదువు",
+        "ఎపుడు ధన్చుడవు నీ కిలమేలౌ గాక"
+      ],
+      "english": [
+        "Apudu Neechae Kashtam Baaraginchudhuvu",
+        "Epudu Dhanchudavu Nee Kilamaelau Gaaka"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నెలవు ప్రక్కలనున్న సఫలమౌ ద్రాక్షతీ",
+        "గెల పోలి నీ భార్య ఫలమిచ్చును గాక"
+      ],
+      "english": [
+        "Nelavu Prakkalanunna Saphalamau Dhraakshathee",
+        "Gela Poali Nee Bhaarya Phalamichchunu Gaaka"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పిల్లలిప్ప మొక్క పెంపువలె నీదు",
+        "బల్లజుట్టుకొని శో భిల్లుదురు గాక"
+      ],
+      "english": [
+        "Pillalippa Mokka Pempuvale Needhu",
+        "Ballajuttukoni Shoa Bhilludhuru Gaaka"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ప్రభున కిదిగో భీతి పడువాడీరీతి",
+        "విభవంపు దయనొంది వికసించునుగాక"
+      ],
+      "english": [
+        "Prabhuna Kidhigoa Bheethi Paduvaadeereethi",
+        "Vibhavampu Dhayanondhi Vikasinchunugaaka"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ప్రభు సీయోనునుండి ప్రశస్త కృపను",
+        "ప్రబలంబుగా నిచ్చి బ్రతికించునుగాక"
+      ],
+      "english": [
+        "Prabhu Seeyoanunundi Prashastha Krupanu",
+        "Prabalambugaa Nichchi Brathikinchunugaaka"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "అరయ బ్రతికెడు రోజు లన్నిట నీవు",
+        "యెరుషలేము క్షేమంబు నెపుడు జూచెదవు"
+      ],
+      "english": [
+        "Araya Brathikedu Roaju Lannita Neevu",
+        "Yerushalaemu Kshaemambu Nepudu Joochedhavu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "నీదు పిల్లల పిల్లలు నిజామిశ్రాయేలు",
+        "మీది క్షేమముజూచి మోదమొందెదరు"
+      ],
+      "english": [
+        "Needhu Pillala Pillalu Nijaamishraayaelu",
+        "Meedhi Kshaemamujoochi Moadhamondhedharu"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "తండ్రి కుమార శుద్ధాత్మునకు మహిమ మెండై",
+        "యుగయుగములం దుండుగా కామేన్"
+      ],
+      "english": [
+        "Thandri Kumaara Shuddhaathmunaku Mahima Mendai",
+        "Yugayugamulan Dhundugaa Kaamaen"
+      ]
+    }
+  ]
+}

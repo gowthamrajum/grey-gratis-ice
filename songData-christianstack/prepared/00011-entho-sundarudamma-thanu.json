@@ -1,0 +1,116 @@
+{
+  "song_name": "Entho Sundarudamma Thanu",
+  "author": {
+    "Authored by": "M. Prasanth Raju",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎంతో సుందరుడమ్మ తాను…",
+      "ఎంతో సుందరుడమ్మ తాను",
+      "నేనెంతో మురిసిపోయినాను"
+    ],
+    "english": [
+      "Entho sundarudamma thanu…",
+      "Entho sundarudamma thanu",
+      "Ne nentho murisipoyinaanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ధవళవర్ణుడు రత్న వర్ణుడు నా ప్రియుడు",
+        "అవని పదివేలందు అతి శ్రేష్ఠుడాతండు",
+        "ధవళవర్ణుడు రత్న వర్ణుడు నా ప్రియుడు",
+        "అవని పదివేలందు బహు శ్రేష్ఠుడాతండు",
+        "ఎవరు ఆయనకిలలో సమరూప పురుషుండు",
+        "అవలీలగా నతని గురితింపగలనమ్మా"
+      ],
+      "english": [
+        "Dhavalavarnudu rathna varnudu naa priyudu",
+        "Avani padhivelandhu athi shreshthudathandu",
+        "Dhavalavarnudu rathna varnudu naa priyudu",
+        "Avani padhivelandhu bahu shreshthudathandu",
+        "Evaru aayanakilalo samaroopa purushundu",
+        "Avaleelagaa nathani gurithimpagalanamma"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కురులు నొక్కులు కల్గి స్ఫురద్రూపియగు విభుడు",
+        "మరులు మనసున నింపు మహనీయుడాతండు",
+        "కురులు నొక్కులు కల్గి స్ఫురద్రూపియగు విభుడు",
+        "మరులు మనసున నింపు మహనీయుడాతండు",
+        "సిరులు కురిపించేను వర దేవ తనయుండు",
+        "విరబూయు పరలోక షారోను విరజాజి"
+      ],
+      "english": [
+        "Kurulu nokkulu kalgi sphuradhroopiyagu vibhudu",
+        "Marulu manasuna nimpu mahaneeyudathandu",
+        "Kurulu nokkulu kalgi sphuradhroopiyagu vibhudu",
+        "Marulu manasuna nimpu mahaneeyudathandu",
+        "Sirulu kuripinchenu vara deva thanayundu",
+        "Virabooyu paraloka shaaronu virajaaji"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాలతో కడిగిన నయనాలు గలవాడు",
+        "విలువగు రతనాల వలె పొదిగిన కనులు",
+        "పాలతో కడిగిన నయనాలు గలవాడు",
+        "విలువగు రతనాల వలె పొదిగిన కనులు",
+        "కలుషము కడిగిన కమలాల కనుదోయి",
+        "విలువైన చూపొసఁగె వరమేరి తనయుండు"
+      ],
+      "english": [
+        "Paalatho kadigina nayanaalu galavaadu",
+        "Viluvagu rathanaala vale podhigina kanulu",
+        "Paalatho kadigina nayanaalu galavaadu",
+        "Viluvagu rathanaala vale podhigina kanulu",
+        "Kalushamu kadigina kamalaala kanudoyi",
+        "Viluvaina chooposage varameeri thanayundu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మేలిమి బంగారు స్థలమందు నిలిపిన",
+        "చలువ రాతిని బోలు బలమైన పాదాలు",
+        "మేలిమి బంగారు స్థలమందు నిలిచినా",
+        "చలువ రాతిని బోలు బలమైన పాదాలు",
+        "ఆ లెబానోను సమారూప వైఖరి ఆ.. ఆ..",
+        "బలవంతుడగువాడు బహుప్రియుడాతండు"
+      ],
+      "english": [
+        "Melimi bangaaru sthalamandhu nilipina",
+        "Chaluva raathini bolu balamaina paadaalu",
+        "Melimi bangaaru sthalamandhu nilichina",
+        "Chaluva raathini bolu balamaina paadaalu",
+        "Aa lebaanonu samaroopa vaikhari aa.. aa..",
+        "Balavanthudaguvaadu bahupriyudathandu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "అతడతికాంక్షానీయుండు తనయుండు",
+        "అతడే నా ప్రియుడు అతడే నా హితుడు",
+        "అతడతికాంక్షానీయుండు తనయుండు",
+        "అతడే నా ప్రియుడు అతడే నా హితుడు",
+        "ఆతని నొరతి మధురంబు మధురంబు",
+        "ఆతని పలు వరుస ముత్యాల సరి వరుస"
+      ],
+      "english": [
+        "Athadathikaankshaaneeyundu thanayundu",
+        "Athade naa priyudu athade naa hithudu",
+        "Athadathikaankshaaneeyundu thanayundu",
+        "Athade naa priyudu athade naa hithudu",
+        "Aathani norathi madhurambu madhurambu",
+        "Aathani palu varusa muthyaala sari varusa"
+      ]
+    }
+  ]
+}

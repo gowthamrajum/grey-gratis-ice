@@ -1,0 +1,47 @@
+{
+  "song_name": "Nee Preme Nanu Aadarinchenu",
+  "author": {
+    "Authored by": "Bro  Yesanna",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ ప్రేమే నను ఆదరించేను -2",
+      "సమయోచితమైన నీ కృపయే నన్ను దాచి కాపాడెను -2"
+    ],
+    "english": [
+      "Nee Preme Nanu Aadarinchenu -2",
+      "Samayochithamaina Nee Krupaye Nannu Daachi Kaapaadenu -2"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చీకటి కెరటాలలో కృంగిన వేళలో -1",
+        "ఉదయించెను నీ కృప నా యెదలో - చెదరిన మనసే నూతనమాయెనా -2",
+        "మనుగడయే మరో మలుపు తిరిగేనా -2"
+      ],
+      "english": [
+        "Cheekati Keratalalo Krungina Velalo -1",
+        "Udayinchenu Nee Krupa Naa Yedalo - Chedarina Manase Noothanamaayenaa -2",
+        "Manugadaye Maro Malupu Thirigenaa -2"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బలసూచకమైనా మందసమా నీకై -1",
+        "సజీవ యాగమై యుక్తమైన సేవకై - ఆత్మాభిషేకముతో నను నింపితివా -2",
+        "సంఘ క్షేమమే నా ప్రాణమాయెనా -2",
+        "నీ కృపయే దాచి కాపాడెను"
+      ],
+      "english": [
+        "Balasoochakamainaa Mandasamaa Neekai -1",
+        "Sajeeva Yaagamai Yukthamaina Sevakai - Aathmaabhishekamutho Nanu Nimpithivaa -2",
+        "Sangha Kshemame Naa Praanamaayenaa -2",
+        "Nee Krupaye Daachi Kaapaadenu"
+      ]
+    }
+  ]
+}

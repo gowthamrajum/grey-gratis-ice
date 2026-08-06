@@ -1,0 +1,71 @@
+{
+  "song_name": "Dhaivaathma parishuddhudaa dhaaraala premanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "ఐజక్ వాట్స్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "దైవాత్మ పరిశుద్ధుడా",
+      "ధారాళ ప్రేమను",
+      "దండిగ నిచ్చి మమ్మును",
+      "దయన్ దీవించుము."
+    ],
+    "english": [
+      "Dhaivaathma parishuddhudaa",
+      "Dhaaraala premanu",
+      "Dandiga nichchi mammunu",
+      "Dhayan dheevinchumu."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మా యజ్ఞానాంధకారము",
+        "వ్రయము జేయుము",
+        "నీ యెక్కువైన తేజము",
+        "మా యందు పోయుము."
+      ],
+      "english": [
+        "Maa yagnaanaandhakaaramu",
+        "Vyayamu jeyumu",
+        "Nee ekkuvaina thejamu",
+        "Maa yandu poyumu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మా దర్గుణంబు లెల్లను",
+        "చెదరఁ గొట్టుము",
+        "మా పాప మణుపుటకై",
+        "నీ శక్తిఁ జూపుము."
+      ],
+      "english": [
+        "Maa dhurgunambu lellanu",
+        "Chedhara gottumu",
+        "Maa paapa manuputakai",
+        "Nee shakthi joopumu."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సన్మార్గమందు నిత్యము",
+        "మమ్ము నడుపుము",
+        "నీ మోక్షమందు పిమ్మట",
+        "మమ్మాదరింపుము."
+      ],
+      "english": [
+        "Sanmaargamandhu nithyamu",
+        "Mammu nadupumu",
+        "Nee mokshamandhu pimmata",
+        "Mammaadharimpumu."
+      ]
+    }
+  ]
+}

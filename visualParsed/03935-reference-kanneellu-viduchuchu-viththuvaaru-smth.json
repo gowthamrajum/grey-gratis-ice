@@ -1,0 +1,63 @@
+{
+  "song_name": "Kanneellu viduchuchu viththuvaaru santhoshagaanamutho",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సీయోనుకు తిరిగి చెరలో నుండి విడిపించి",
+      "యెహోవా రప్పించినప్పుడు ఆ - ఆ (2)",
+      "మనము కలకన్న వారివలె నుంటిమి",
+      "నోటి నిండ నవ్వుండెను ఆ - ఆ (2)"
+    ],
+    "english": [
+      "Seeyonuku thirigi cheralo nundi vidipinchi",
+      "Yehova rappinchinappudu aa - Aa (2)",
+      "Manamu kalakanna vaarivale nuntimi",
+      "Noti ninda navvundenu aa - Aa (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యెహోవా వీరి కొరకు గొప్ప కార్యములు చేసెనని",
+        "అన్యజనులు చెప్పుకొనిరి",
+        "సంతోషభరితులమైతిమి ఆ - ఆ (2)"
+      ],
+      "english": [
+        "Yehova veeri koraku goppa kaaryamulu chesenani",
+        "Anyajanulu cheppukoniri",
+        "Santhoshabharithulamaithimi aa - Aa (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దక్షిణ దేశమునందు ప్రవాహములు పారునట్లు",
+        "యెహోవా చెరపట్టబడిన",
+        "మా వారిని రప్పించుము ఆ - ఆ"
+      ],
+      "english": [
+        "Dakshina dheshamunandhu pravaahamulu paarunatlu",
+        "Yehova cherapattabadina",
+        "Maa vaarini rappinchumu aa - Aa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కన్నీటితో పిడికెడు - విత్తనములు విత్తువారు",
+        "సంతోషగానముతో పంటను",
+        "యుక్తకాలమున కోసెదరు ఆ - ఆ"
+      ],
+      "english": [
+        "Kanneetitho pidikedu - Viththanamulu viththuvaaru",
+        "Santhoshagaanamutho pantanu",
+        "Yukthakaalamuna kosedharu aa - Aa"
+      ]
+    }
+  ]
+}

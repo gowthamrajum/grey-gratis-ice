@@ -1,0 +1,106 @@
+{
+  "song_name": "Vyartham vyartham sarvamu vyartham",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "వ్యర్థం, వ్యర్థం, సర్వము వ్యర్థం - నశించు లోకం నాశము తధ్యం"
+    ],
+    "english": [
+      "Vyartham, vyartham, sarvamu vyartham - Nashinchu lokam naashamu thadhyam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దుష్టలోకములో సర్వము చెడెను",
+        "దీని యందంవాడి పోవుచున్నది - పోవుచున్నది"
+      ],
+      "english": [
+        "Dhushtalokamulo sarvamu chedenu",
+        "Dheeni yandam vaadi povuchunnadhi - Povuchunnadhi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చూడన్ మనసేలాగు నాశనమైపోయెన్",
+        "నిండియున్నదిపుడే పాపపుపాత్ర, పాపపుపాత్ర"
+      ],
+      "english": [
+        "Choodan manaselaagu naashanamaipoyen",
+        "Nindiyunnadhipude paapapupaathra, paapapupaathra"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నలుదిశల చూడుమా పాపము కలదు",
+        "కలహ కలవరములో నిండియున్నది, నిండియున్నది"
+      ],
+      "english": [
+        "Naludhishala choodumaa paapamu kaladu",
+        "Kalaha kalavaramulo nindiyunnadhi, nindiyunnadhi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "లోకంలో నన్ని గతించి పోవునవి",
+        "లోకం యెంతో అయోగ్యంబైయున్నది, అయోగ్యంబదే"
+      ],
+      "english": [
+        "Lokamlo nanni gathinchi povunavi",
+        "Lokam entho ayogyambaiyunnadhi, ayogyambadhe"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యిద్ధరలో మనకేమియు లేదు",
+        "స్వార్థము, శతృత్వము, ఈర్ష్యమయము, ఈర్ష్యమయము"
+      ],
+      "english": [
+        "Iddharalo manakemiyu ledu",
+        "Swaarthamu, shathruthvamu, eershyamayamu, eershyamayamu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఒకనాడీ మహిని ప్రభువు దహించును",
+        "సకలంబును నాశనంబుచేయును, నాశనముచేయును"
+      ],
+      "english": [
+        "Okanaadee mahini prabhuvu dahinchunu",
+        "Sakalambunu naashanambucheyunu, naashanamucheyunu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "ఒక రాజ్యము వచ్చునందు దీవెన కలదు",
+        "సకల శాంతి సంతోషమందు కలదు, అందునగలదు"
+      ],
+      "english": [
+        "Oka raajyamu vachchunandhu deevena kaladu",
+        "Sakala shaanthi santhoshamandhu kaladu, andhunagaladhu"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "ఆ రాజ్యంలో నీవు ప్రవేశించుటకు",
+        "మారు మనసునొంది యేసుని నమ్ము, యేసుని నమ్ము"
+      ],
+      "english": [
+        "Aa raajyamlo neevu praveshinchutaku",
+        "Maaru manasunondhi Yesuni nammu, Yesuni nammu"
+      ]
+    }
+  ]
+}

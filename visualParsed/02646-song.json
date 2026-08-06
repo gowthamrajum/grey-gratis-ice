@@ -1,0 +1,91 @@
+{
+  "song_name": "Unnattu nenu vachchedhan",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "చార్లెట్ ఇలియట్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఉన్నట్టు నేను వచ్చెదన్",
+      "పాపిష్ఠు న్నీవు పిల్వఁగన్",
+      "నీ నెత్రుచేతఁ గడ్గుమా",
+      "యో గొఱ్ఱె పిల్ల దేవుఁడా!"
+    ],
+    "english": [
+      "Unnattu nenu vachchedhan",
+      "Paapishthun neevu pilvagan",
+      "Nee netthuru chetha gadugumaa",
+      "Yo gorre pilla Devudaa!"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నే నొప్పుకొందుఁ దప్పులన్",
+        "నీ మాటతో హరించుమా",
+        "యో గొఱ్ఱె పిల్ల దేవుఁడా!"
+      ],
+      "english": [
+        "Ne noppukondu dhappulan",
+        "Nee maatatho harinchumaa",
+        "Yo gorre pilla Devudaa!"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దుఃఖంబు బాధపర్చఁగన్",
+        "బాపంబుఁ జేయనీకుమా",
+        "యో గొఱ్ఱె పిల్ల దేవుఁడా!"
+      ],
+      "english": [
+        "Dhuhkhambu baadhaparchagan",
+        "Baapambu jeyaneekumaa",
+        "Yo gorre pilla Devudaa!"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యేసూ, కబోది నుండగన్",
+        "ఆత్మీయదృష్టి నీయుమా",
+        "యో గొఱ్ఱె పిల్ల దేవుఁడా!"
+      ],
+      "english": [
+        "Yesoo, kabodhi nundagan",
+        "Aathmeeya drushti neeyumaa",
+        "Yo gorre pilla Devudaa!"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీ మాట నమ్మునట్టి నన్",
+        "మన్నించి చేర్చుకొమ్మయా",
+        "యో గొఱ్ఱె పిల్ల దేవుఁడా!"
+      ],
+      "english": [
+        "Nee maata nammunatti nan",
+        "Manninchi cherchukommayaa",
+        "Yo gorre pilla Devudaa!"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నీ ప్రేమ నన్నుఁ బిల్వగన్",
+        "నీ వాఁడ నౌదు సర్వదా",
+        "యో గొఱ్ఱె పిల్ల దేవుఁడా!"
+      ],
+      "english": [
+        "Nee prema nannu bilvagan",
+        "Nee vaada naudhu sarvadaa",
+        "Yo gorre pilla Devudaa!"
+      ]
+    }
+  ]
+}

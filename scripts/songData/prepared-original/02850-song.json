@@ -1,0 +1,40 @@
+{
+  "song_name": "రేగత్వరపడకు ఓర్చుకో కోపి గోడ",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రేగత్వరపడకు ఓర్చుకో కోపి గోడుజెందును ఓర్చుకో నీ కన్యాయమయినను కన్ను లెర్రజేయకు శాంత మొందు మెప్పుడు ఓర్చుకో."
+      ],
+      "english": [
+        "raegathvarapadaku oarchukoa koapi goadujeMdhunu oarchukoa nee kanyaayamayinanu kannu lerrajaeyaku shaaMtha moMdhu meppudu oarchukoa."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎవ్వఁడేని తిట్టిన ఓర్చుకో మేలుఁజేయు కీడుకు ఓర్చుకో లోకమందు సుఖము కొంతసేపు నుండును కోపమేలఁ జేతువు? ఓర్చుకో."
+      ],
+      "english": [
+        "evvAOdaeni thittina oarchukoa maeluAOjaeyu keeduku oarchukoa loakamMdhu sukhamu koMthasaepu nuMdunu koapamaelAO jaethuvu? oarchukoa."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీవు కీడునొందఁగా ఓర్చుకో ప్రతి కీడుఁ జేయకు ఓర్చుకొనియుండుము అంత సరియగును నీకు జయముండును ఓర్చుకో."
+      ],
+      "english": [
+        "neevu keedunoMdhAOgaa oarchukoa prathi keeduAO jaeyaku oarchukoniyuMdumu aMtha sariyagunu neeku jayamuMdunu oarchukoa."
+      ]
+    }
+  ]
+}

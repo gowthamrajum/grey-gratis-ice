@@ -1,0 +1,101 @@
+{
+  "song_name": "Edhen vanambunandhu aadi vivaahamun",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "జాన్ కెబిల్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏదేన్ వనంబునందు",
+      "ఆది వివాహమున్",
+      "విధించినట్టి వాక్కు",
+      "వర్థిల్లు నిప్పుడున్."
+    ],
+    "english": [
+      "Edhen vanambunandhu",
+      "Aadi vivaahamun",
+      "Vidhinchinatti vaakku",
+      "Varthillu nippudun."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పవిత్ర కల్యాణంబున్",
+        "పదిలపర్చుచు",
+        "దైవ త్రిత్వంబు నేఁడున్",
+        "దీవింప వత్తురు."
+      ],
+      "english": [
+        "Pavithra kalyaanambun",
+        "Padhilaparchuchu",
+        "Daiva thrithvambu nedun",
+        "Deevimpa vatthuru."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సంతాన వరమును",
+        "సంతోష ప్రేమయు",
+        "వింతైన యైక్యత్వంబు",
+        "నెంతయు నిత్తురు."
+      ],
+      "english": [
+        "Santhaana varamunu",
+        "Santhosha premayu",
+        "Vinthaina yaikyathvambu",
+        "Nenthayu nitthuru."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆదామునకుఁ దండ్రీ,",
+        "హవ్వ నొ సంగితి",
+        "వాదరముగ నీమె",
+        "నీ ధన్యున కిమ్ము"
+      ],
+      "english": [
+        "Aadhaamunaku dhandree,",
+        "Havva nosangithi",
+        "Vaadharamuga neeme",
+        "Nee dhanyuna kimmu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీ ఱెక్క క్రింద వీరిఁ",
+        "బరిగ్రహించుచు",
+        "వైరి తంత్రంబునుండి",
+        "దూరంబుఁ జేయుము."
+      ],
+      "english": [
+        "Nee rekka krinda veeri",
+        "Barigrahinchuchu",
+        "Vairi thanthrambunundi",
+        "Dhoorambu cheyumu."
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఈ రీతిన్ బ్రత్కి యంత",
+        "క్రీస్తేసు పెండ్లికి",
+        "వీరిద్దరును జేరి",
+        "బరంగఁ జేయుమి."
+      ],
+      "english": [
+        "Ee reethin brathiki yantha",
+        "Kreesthesu pendliki",
+        "Veeriddharunu cheri",
+        "Baranga cheyumi."
+      ]
+    }
+  ]
+}

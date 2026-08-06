@@ -1,0 +1,53 @@
+{
+  "song_name": "Viluvainadi E Jivitam Anni Velala",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "విలువైనది ఈ జీవితం అన్ని వేళల ఆనందించెదం",
+      "సంపూర్ణ సంతోషమిచ్చువాడు సకల సమృద్ధుడేసు బహు సంపన్నుడు",
+      "మనలను పిలచే వారసులుగా",
+      "నాట్యముతోను సంగీత సబ్దములతో పండుగ చేద్దాం రండీ నేడు"
+    ],
+    "english": [
+      "Viluvainadi E Jivitam Anni Velala Anamdimchedam",
+      "Sampurna Samtoshamichchuvadu Sakala Samruddhudesu Bahu Sampannudu",
+      "Manalanu Pilache Varasuluga",
+      "Natyamutonu Samgita Sabdamulato Pamduga Cheddam Ramdi Nedu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు ఒక్కడే మనకు మాదిరి మన జీవిత సారధి",
+        "లేరు లోకంలో యేసుకు సాటి ఆయనే మన ఊపిరి",
+        "మదిలోని ఆశలు యెరిగిన దేవుడు అడుగక ముందుగ బదులిచ్చుచుండగా",
+        "మనకేమి లేమి లేదు"
+      ],
+      "english": [
+        "Yesu Okkade Manaku Madiri Mana Jivita Saradhi",
+        "Leru Lokamlo Yesuku Sati Ayane Mana Upiri",
+        "Madiloni Asalu Yerigina Devudu Adugaka Mumduga Badulichchuchumdaga",
+        "Manakemi Lemi Ledu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసు మరువడు మనలనెన్నడు గమ్యము వరకు చేర్చును",
+        "కనిన కలలన్ని నెరవేర్చునాయనే మనకింకేమి కలవరము",
+        "నిన్న ఇకరాదు రేపటి దిగులొద్దు ఈనాడే మనకున్న అనుకూల సమయము",
+        "జీవితాన్ని ఒక వేడుక చేద్దాం"
+      ],
+      "english": [
+        "Yesu Maruvadu Manalanennadu Gamyamu Varaku Cherchunu",
+        "Kanina Kalalanni Neraverchunayane Manakimkemi Kalavaramu",
+        "Ninna Ikaradu Repati Diguloddu Inade Manakunna Anukula Samayamu",
+        "Jivitanni Oka Veduka Cheddam"
+      ]
+    }
+  ]
+}

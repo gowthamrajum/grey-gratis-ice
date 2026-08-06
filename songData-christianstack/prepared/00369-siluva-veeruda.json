@@ -1,0 +1,30 @@
+{
+  "song_name": "Siluva Veeruda",
+  "author": {
+    "Authored by": "Dr. Issac Raj Alanka",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సిలువ వీరుడా – సువార్త యోధుడా",
+      "క్రీస్తు రాజ్య పౌరుడా – పరలోక వారసుడా"
+    ],
+    "english": [
+      "Siluva veeruda – suvartha yodhuda",
+      "kreesthu rajya pauruda – para loka vaarasuda"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లెమ్ము తేజరిల్లుమా – వెలుగు వచ్చి యున్నది",
+        "లెమ్ము ప్రజ్వరిల్లుమా – అగ్ని మండుచున్నది (2)"
+      ],
+      "english": [
+        "Lemmu thejarillumaa – velugu vachi yunnadhi",
+        "lemmu prajvarillumaa – agni manduchunnadhi (2)"
+      ]
+    }
+  ]
+}

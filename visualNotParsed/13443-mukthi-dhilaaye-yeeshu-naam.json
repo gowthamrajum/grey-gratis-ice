@@ -1,0 +1,68 @@
+{
+  "song_name": "Mukthi dhilaaye Eeshu naam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ముక్తి దిలాయే యీషు నామ్",
+      "శాంతి దిలాయే యీషు నామ్ (2)",
+      "ధరణి మే తూనే జన్మ లియా యీషు (2)",
+      "సూలి పర్ హువాఁ విశ్రామ్ (2) ||ముక్తి||"
+    ],
+    "english": [
+      "Mukthi dhilaaye Eeshu naam",
+      "Shaanthi dhilaaye Eeshu naam (2)",
+      "Dharani me thoone janma liyaa Eeshu (2)",
+      "Sooli par huvaan vishraam (2) ||Mukthi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "క్రూస్ పర్ అప్నా కోన్ బహాయ (2)",
+        "సారా చుకాయ దామ్ (2)  ||ముక్తి||"
+      ],
+      "english": [
+        "Kroos par apnaa khoon bahaaya (2)",
+        "Saaraa chukaay dhaam (2)  ||Mukthi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యీషు దయాక బెహతా సాగర్ (2)",
+        "యీషు హై దాత మహాన్ (2)  ||ముక్తి||"
+      ],
+      "english": [
+        "Eeshu dhayaaka behathaa saagar (2)",
+        "Eeshu hai daatha mahaan (2)  ||Mukthi||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "హమ్ సబ్ కే పాపోంకో మిటానే (2)",
+        "యీషు హువాఁ బలిదాన్ (2)  ||ముక్తి||"
+      ],
+      "english": [
+        "Ham sab ke paaponko mitaane (2)",
+        "Eeshu huvaan balidhaan (2)  ||Mukthi||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "హమ్ పర్ భీ యీషు క్రిపా కర్ నా (2)",
+        "హమ్ హై పాపి నాదాన్ (2)  ||ముక్తి||"
+      ],
+      "english": [
+        "Ham par bhee Eeshu kripaa kar naa (2)",
+        "Ham hai paapi naadhaan (2)  ||Mukthi||"
+      ]
+    }
+  ]
+}

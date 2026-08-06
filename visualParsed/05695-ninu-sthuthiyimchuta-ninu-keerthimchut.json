@@ -1,0 +1,62 @@
+{
+  "song_name": "Ninu stuthiyinchuta ninu keerthinchuta",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిను స్తుతియించుట - నిను కీర్తించుట",
+      "నా జీవిత ధన్యము - యేసయ్యా",
+      "ఉదయాస్తమములు – అనుదినము (2)",
+      "ఆరాధించి పొగడద – యేసయ్యా(2)"
+    ],
+    "english": [
+      "Ninu stuthiyinchuta - Ninu keerthinchuta",
+      "Naa jeevitha dhanyamu - Yesayyaa",
+      "Udhayaasthamamulu – Anudinamu (2)",
+      "Aaraadhinchi pogadeda – Yesayyaa(2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ దివ్య నామ స్మరణను చేయుటకై - పేరు పెట్టి నను పిలిచావా",
+        "నీ సత్యమార్గము ప్రకటించుటకై - నను ఏర్పరచుకొన్నావా",
+        "పాపుల పాలిట పెన్నిది నీవే - పాపుల రక్షకుడవు యేసయ్యా (2)",
+        "పాపికి మోక్ష మార్గము నీవే (2)",
+        "సర్వజ్ఞాన సంపూర్ణుడా - సర్వకృపా సాగరా",
+        "సర్వము నీవై ఉన్నవాడా - సర్వదా కాపాడువాడాIIనినుII"
+      ],
+      "english": [
+        "Nee divya naama smarananu cheyutakai - Peru petti nanu pilichaavaa",
+        "Nee sathyamaargamu prakatinchutakai - Nanu erparachukonnaavaa",
+        "Paapula paalita pennidhi neeve - Paapula rakshakudavu Yesayyaa (2)",
+        "Paapiki moksha maargamu neeve (2)",
+        "Sarvagnaana sampoornudaa - Sarvakrupaa saagaraa",
+        "Sarvamu neevai unnavaadaa - Sarvadaa kaapaaduvaadaa||Ninu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నరవణ పుణ్య శీలుడ నీవు - నరరూపుదాల్చి జన్మించావు",
+        "నలుబది దినములు ప్రా ర్థ్దించావు - నా పాపములను తొలగించావు",
+        "మరణపు ముల్లును విరిచినవాడా- మృతాసారా మృత్యుంజయుడా (2)",
+        "మరలా రానై యున్నవాడా (2)",
+        "సర్వజ్ఞాన సంపూర్ణుడా - సర్వకృపా సాగరా",
+        "సర్వము నీవై ఉన్నవాడా - సర్వదా కాపాడువాడాIIనినుII"
+      ],
+      "english": [
+        "Naravana punya sheeluda neevu - Nararoopudhaalchi janminchaavu",
+        "Nalubadhi dinamulu praarthinchaavu - Naa paapamulanu tholaginchaavu",
+        "Maranapu mullunu virichinavaadaa- Mruthaasaaraa mruthyunjayudaa (2)",
+        "Maralaa raanai yunnavaadaa (2)",
+        "Sarvagnaana sampoornudaa - Sarvakrupaa saagaraa",
+        "Sarvamu neevai unnavaadaa - Sarvadaa kaapaaduvaadaa||Ninu||"
+      ]
+    }
+  ]
+}

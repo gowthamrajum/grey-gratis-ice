@@ -1,0 +1,67 @@
+{
+  "song_name": "Parishudhaparachumu Deva",
+  "author": {
+    "Authored by": "Saladi Sam Nehemiah",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరిశుద్ధపరచుము దేవా పరిశుద్ధపరచుము ప్రభువా",
+      "పరిశుద్ధపరచుము దేవా పరిశుద్ధపరచుము ప్రభువా",
+      "దేవా నను కరుణింపుము నా అతిక్రమము తుడిచివేయుము",
+      "నా దోషం పోవునట్టు కడుగుము నా హృదయమును శుద్ధి చేయుము",
+      "నా అతిక్రమము నాకు తెలుపుము నన్ను క్షమించుము"
+    ],
+    "english": [
+      "Parishudhaparachumu Deva parishudhaparachumu Prabhuva",
+      "Parishudhaparachumu Deva parishudhaparachumu Prabhuva",
+      "Deva nanu karunimpumu naa athikramamu thudichiveyummu",
+      "Naa dhosham povunattu kadugumu naa hrudhayamunu shuddhi cheyumu",
+      "Naa athikramamu naaku thelupumu nannu kshaminchumu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీకే విరోధముగా పాపము చేసియున్నాను నేను పాపములో పుట్టియున్నాను",
+        "అంతరంగమున సత్యమును కోరుచున్నావు అంతరంగమున జ్ఞానము కలుగజేయుము",
+        "హిసోపుతో నను కడుగుము హిమము కంటే తెల్లగా చేయుము"
+      ],
+      "english": [
+        "Neeke virodhamugaa paapamu chesiyunnaanu nenu paapamulo puttiyunnaanu",
+        "Antharangamuna sathyamunu koruchunnaavu antharangamuna gnaanamu kalugajeyumu",
+        "Hisoputho nanu kadugumu himamu kante thellagaa cheyumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా హృదయం ఎంతో మోసకరమైనది అది ఘోరమైన వ్యాధితో నిండినది",
+        "దాని ఎవరు గ్రహింపగలరు? నేను పవిత్రుడను అని చెప్పగలనా?",
+        "నేను చేయగోరిన మేలు చేయక చేయగోరని కీడు చేయుచున్నాను",
+        "అయ్యో ఎంత దౌర్భాగ్యుడను మరణ శరీరము నుండి ఎవరు విడిపింతురు?",
+        "క్రిస్తు యేసు ద్వారా దెవునికి వందనములు",
+        "ఆయన నమ్మదగినవాడు, నీతిమంతుడు గనుక",
+        "నేను పాపమును ఒప్పుకొనినపుదు ఆయన",
+        "రక్తము ప్రతి పాపము నుండి విడిపించి, పవిత్రపరచి శుద్ధిచేసెను"
+      ],
+      "english": [
+        "Naa hrudhayam entho mosakaramainadhi",
+        "adhi ghoramaina vyaadhitho nindinadhi",
+        "Dhaani evaru grahimpagalaru?",
+        "Nenu pavithrudanu ani cheppagalanaa?",
+        "Nenu cheyagorina melu cheyaka",
+        "cheyagorani keedu cheyuchunnaanu",
+        "Ayyo entha dhourbhagyudanu marana",
+        "shareeramu nundi evaru vidipinthuru?",
+        "Kreesthu Yesu dhwaaraa Dhevuniki vandhanamulu",
+        "Aayana nammadhaginavaadu, neethimanthudu ganuka",
+        "Nenu paapamunu oppukoninapudu",
+        "Aayana rakthamu prathi paapamu nundi",
+        "Vidipinchi, pavithraparachi",
+        "Shuddhi chesenu"
+      ]
+    }
+  ]
+}

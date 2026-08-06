@@ -1,0 +1,32 @@
+{
+  "song_name": "Athynnatha Simhasanamupai",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "అత్యున్నత సింహాసనముపై – ఆసీనుడవైన మా దేవా",
+      "అత్యంత ప్రేమా స్వరూపివి నీవే",
+      "ఆరాధింతును నిన్నే"
+    ],
+    "english": [
+      "Athyunnatha Simhaasanamupai – Aaseenudavaina Devaa",
+      "Athyantha Premaa Swaroopivi Neeve",
+      "Aaraadhinthunu Ninne"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆహాహా.. హల్లేలూయా – ఆహాహా.. హల్లేలూయా",
+        "ఆహాహా.. హల్లేలూయా – ఆహాహా.. ఆమెన్"
+      ],
+      "english": [
+        "Aahaahaa.. Hallelujah – Aahaahaa.. Hallelujah",
+        "Aahaahaa.. Hallelujah – Aahaahaa.. Aamen"
+      ]
+    }
+  ]
+}

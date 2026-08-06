@@ -1,0 +1,44 @@
+{
+  "song_name": "Koti Koti Sthothram Daddy",
+  "author": {
+    "Authored by": "S J Berchmans",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తోత్రబలి స్తోత్రబలి – మంచిదేవా నీకేనయ్యా",
+      "శుభవేళ ఆనందమే – నా తండ్రి నీ చిరుపాదమే",
+      "కోటి కోటి స్తోత్రం డాడి"
+    ],
+    "english": [
+      "Sthothra bali sthothra bali – manchi deva neekenayyaa",
+      "subhavela aanandhame – naa thandri nee chirupaadhame",
+      "koti koti sthothram daddy"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిన్నటి బాధలంతా నేటికి మాయమయ్యే",
+        "నెమ్మది ఉదయించె అది శాశ్వతమైనదయ్యా",
+        "రేయంతా కాచితివి మరు దినమిచ్చితివి",
+        "మరువని నా స్నేహమా నీతో కలసి సంతోషింతును",
+        "నీ సేవ మార్గంలో ఉత్సాహం నొసగితివి",
+        "ఉరికురికి పనిచేయ నాకు ఆరోగ్యమిచ్చితివి",
+        "వేదన దుఃఖమైన ఎన్నడు విడదీయదు",
+        "యేసయ్య నీ నీడలో దినదినం జీవింతును"
+      ],
+      "english": [
+        "Ninnati baadhalantha netiki maayamayye",
+        "nemmadhi udhayinche adhi saaswathamainadhayya",
+        "Reyanthaa kaachithivi maru dhinamichithivi",
+        "maruvani naa snehamaa neetho kalisi santhoshinthunu",
+        "Nee seva maargamlo utsaaham nosagithivi",
+        "urikuriki panicheya naaku aarogyamichithivi",
+        "Vedhana dhukkamaina ennadu vidadheeyadhu",
+        "yesayyaa nee needalo dinadinam jeevinthunu"
+      ]
+    }
+  ]
+}

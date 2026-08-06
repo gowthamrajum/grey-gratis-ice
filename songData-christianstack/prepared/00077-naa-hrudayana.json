@@ -1,0 +1,74 @@
+{
+  "song_name": "Naa Hrudayana",
+  "author": {
+    "Authored by": "Bro Yesanna garu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా హృదయాన కొలువైన యేసయ్యా",
+      "నా అణువణువు నిన్నే – ప్రస్తుతించెనే కీర్తనీయుడా",
+      "నా హృదయార్పణతో – ప్రణమిల్లెదనే",
+      "నీ సన్నిధిలో పూజార్హుడా"
+    ],
+    "english": [
+      "Naa hrudhayaana koluvaina Yesayya",
+      "Naa anuvaṇuvu ninne – prasthuthinchene keerthaneeyuda",
+      "Naa hrudhayaarpanatho – pranamilledhane",
+      "Nee sannidhilo poojarhuda"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అగ్ని ఏడంతలై – మండుచుండినను",
+        "అగ్ని జ్వాలలు తాకలేదులే – నీ ప్రియుల దేహాలను",
+        "అగ్ని బలము చల్లారెనే – శత్రు సమూహము అల్లాడెనే",
+        "నేను నీ స్వాస్థ్యమే – నీవు నా సొంతమే",
+        "నా స్తోత్రబలులన్ని నీకేనయ్యా"
+      ],
+      "english": [
+        "Agni edanthalai – manduchundinanu",
+        "Agni jvaalalu thaakaledule – nee priyula dhehaalanu",
+        "Agni balamu challaarene – shathru samoohamu allaadene",
+        "Nenu nee swaasthyame – neevu naa sonthame",
+        "Naa sthothrabalulanni neekenayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అంతా వ్యర్థమని – వ్యర్థులైరెందరో",
+        "నా గురి నీపై నిల్పినందుకే – నా పరుగు సార్థకమాయెనే",
+        "నీయందు పడిన ప్రయాసము – శాశ్వత కృపగా నాయందు నిలిచెనే",
+        "నీపై విశ్వాసమే – నన్ను బలపరచెనే",
+        "నా స్వరమెత్తి నిన్నే కీర్తింతును"
+      ],
+      "english": [
+        "Anthaa vyarthamani – vyarthulairendharo",
+        "Naa guri neepai nilpinandhuke – naa parugu saarthakamayene",
+        "Neeyandhu padina prayaasamu – shaashvatha krupaga naayandhu nilichene",
+        "Neepai vishvaasame – nannu balaparachene",
+        "Naa svarametthi ninne keerthinthunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "విత్తినది ఒకరు – నీరు పోసింది వేరొకరు",
+        "ఎరువు వేసింది ఎవ్వరైననూ – వృద్ధి చేసింది నీవే కదా",
+        "సంఘక్షేమాభివృద్ధికే – పరిచర్య ధర్మము నియమించినావే",
+        "నీ ఉపదేశమే – నన్ను స్థిరపరచెనే",
+        "నా సర్వము నీకే అర్పింతును"
+      ],
+      "english": [
+        "Vitthinadhi okaru – neeru posindhi verokaru",
+        "Eruvu vesindhi evvarainanu – vruddhi chesindhi neeve kadha",
+        "Sangha kshemabhivruddhike – paricharya dharmamu niyaminchinaave",
+        "Nee upadhesame – nannu sthiraparachene",
+        "Naa sarvamu neeke arpinthunu"
+      ]
+    }
+  ]
+}

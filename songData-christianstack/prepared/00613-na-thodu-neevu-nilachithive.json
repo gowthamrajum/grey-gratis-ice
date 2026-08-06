@@ -1,0 +1,32 @@
+{
+  "song_name": "Na Thodu Neevu Nilachithive",
+  "author": {
+    "Authored by": "Pastor D. Chrisostam",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నాతోడు నీవు నిలచితివే",
+      "నీ ప్రేమ నాపై చూపితివే",
+      "నను వెంటాడే నీ కృప క్షేమములే",
+      "నను కాచే నీ కరుణ కటాక్షములే"
+    ],
+    "english": [
+      "Na thodu neevu nilachithive",
+      "nee prema naapai choopithive",
+      "nanu ventaade nee krupa kshemamule",
+      "nanu kaache nee karuna katakshamule"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసయ్య నీకే స్తోత్రము…"
+      ],
+      "english": [
+        "Yesayya neeke stothramu…"
+      ]
+    }
+  ]
+}

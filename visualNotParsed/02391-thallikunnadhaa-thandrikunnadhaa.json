@@ -1,0 +1,50 @@
+{
+  "song_name": "Thallikunnadhaa Thandrikunnadhaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "తల్లికున్నదా - తండ్రికున్నదా - నీ ప్రేమ జాలి యేసయ్యా..",
+      "అన్నదమ్ములకైనా - కన్నబిడ్డలకైనా - నీ ప్రేమ లేదు యేసయ్యా..",
+      "యేసయ్యా యేసయ్యా - మంచి యేసయ్యా..",
+      "యేసయ్యా యేసయ్యా - నా మంచి యేసయ్యా.."
+    ],
+    "english": [
+      "Thallikunnadhaa - Thandrikunnadhaa - Nee prema jaali Yesayyaa..",
+      "Annadhammulakainaa - Kannabiddalakainaa - Nee prema ledu Yesayyaa..",
+      "Yesayyaa Yesayyaa - Manchi Yesayyaa..",
+      "Yesayyaa Yesayyaa - Naa manchi Yesayyaa.."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏ యోగ్యత లేదనుచూ నా అనువారే - ఇంటినుండి వెలివేసితిరొకనాడయ్యా..",
+        "రోగముతో రోధిస్తూ వేదనపడుచున్ననూ - అవహేళన చేసితిరి బంధువులయ్యా..",
+        "నేను ప్రేమించకయే నన్ను ప్రేమించితివే - నా పరమవైద్యుడ నీవయ్యా..  ||తల్లికున్నదా||"
+      ],
+      "english": [
+        "E yogyatha ledhanuchoo naa anuvaare - Intinundi velivesithirokanaadayyaa..",
+        "Rogamutho rodhisthoo vedhanapaduchunnanoo - Avahelana chesithiri bandhuvulayyaa..",
+        "Nenu preminchakaye nannu preminchithive - Naa paramavaidhyuda neevayyaa..  ||Thallikunnadhaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఏ మంచి లేని నన్ను మంచిగా ప్రేమించి - నీ ఇంటికి చేర్చితివి ఈనాడయ్యా..",
+        "జ్ఞానము ఐశ్వర్యమును ఇచ్చితివయ్యా - మనిషిగా నిలిపితివి మనుగడనిచ్చి..",
+        "నేను ప్రేమించకయే నన్ను ప్రేమించితివే - నా మంచి కాపరి నీవయ్యా..  ||తల్లికున్నదా||"
+      ],
+      "english": [
+        "E manchi leni nannu manchigaa preminchi - Nee intiki cherchithivi eenaadayyaa..",
+        "Gnaanamu aishwaryamunu ichchithivayyaa - Manishigaa nilipithivi manugadanichchi..",
+        "Nenu preminchakaye nannu preminchithive - Naa manchi kaapari neevayyaa..  ||Thallikunnadhaa||"
+      ]
+    }
+  ]
+}

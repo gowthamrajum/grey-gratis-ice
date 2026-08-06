@@ -1,0 +1,2186 @@
+[
+ {
+  "app_index": 5,
+  "song_name": "Nee Vaakyame Nannu",
+  "duplicate_of_song_id": 1039,
+  "duplicate_of_name": "Nee Vaakyame Nannu Brathikinchenu",
+  "title_score": 0.682,
+  "lyric_similarity": 0.905
+ },
+ {
+  "app_index": 16,
+  "song_name": "Ninu Matrame Ne Nammanaya",
+  "duplicate_of_song_id": 2025,
+  "duplicate_of_name": "Ninu maathrame ne nammaanayaa",
+  "title_score": 0.609,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 23,
+  "song_name": "Gaadandhakaramulo",
+  "duplicate_of_song_id": 1187,
+  "duplicate_of_name": "Gaadaandhakaaramulo Ne Nadachina",
+  "title_score": 0.711,
+  "lyric_similarity": 0.787
+ },
+ {
+  "app_index": 24,
+  "song_name": "Kalavarapadi Ne Kondala Vaipu",
+  "duplicate_of_song_id": 2860,
+  "duplicate_of_name": "Kalavara padi ne kondala vaipu",
+  "title_score": 0.76,
+  "lyric_similarity": 0.69
+ },
+ {
+  "app_index": 38,
+  "song_name": "Nuvvivakuntey Na Yesayya",
+  "duplicate_of_song_id": 2125,
+  "duplicate_of_name": "Nuvivvakunte edhi ledhayya",
+  "title_score": 0.636,
+  "lyric_similarity": 0.942
+ },
+ {
+  "app_index": 51,
+  "song_name": "Adigadigo Alladigo",
+  "duplicate_of_song_id": 375,
+  "duplicate_of_name": "Adhigadhigo Alladhigo",
+  "title_score": 0.743,
+  "lyric_similarity": 0.951
+ },
+ {
+  "app_index": 56,
+  "song_name": "Needu Premaku",
+  "duplicate_of_song_id": 162,
+  "duplicate_of_name": "Needu Premaku Haddu Ledayaa",
+  "title_score": 0.72,
+  "lyric_similarity": 0.967
+ },
+ {
+  "app_index": 57,
+  "song_name": "Ninu Matrame Ne Nammanaya",
+  "duplicate_of_song_id": 2025,
+  "duplicate_of_name": "Ninu maathrame ne nammaanayaa",
+  "title_score": 0.609,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 60,
+  "song_name": "DivyaSakhudaa",
+  "duplicate_of_song_id": 1755,
+  "duplicate_of_name": "Sakhudaa divya sakhudaa",
+  "title_score": 0.625,
+  "lyric_similarity": 0.708
+ },
+ {
+  "app_index": 61,
+  "song_name": "Enni Kastalaina",
+  "duplicate_of_song_id": 767,
+  "duplicate_of_name": "Devaa Ee Jeevitham",
+  "title_score": 0.519,
+  "lyric_similarity": 0.786
+ },
+ {
+  "app_index": 70,
+  "song_name": "Enni Kastalaina",
+  "duplicate_of_song_id": 767,
+  "duplicate_of_name": "Devaa Ee Jeevitham",
+  "title_score": 0.519,
+  "lyric_similarity": 0.604
+ },
+ {
+  "app_index": 76,
+  "song_name": "Naa Hrudayana",
+  "duplicate_of_song_id": 475,
+  "duplicate_of_name": "Naa Hrudayaana Koluvaina",
+  "title_score": 0.769,
+  "lyric_similarity": 0.964
+ },
+ {
+  "app_index": 91,
+  "song_name": "Geethamul Paadudi",
+  "duplicate_of_song_id": 2322,
+  "duplicate_of_name": "Geethamulu paadudee Yesuniki",
+  "title_score": 0.667,
+  "lyric_similarity": 0.67
+ },
+ {
+  "app_index": 102,
+  "song_name": "Nee Krupaye Naa Jeevithamu",
+  "duplicate_of_song_id": 1788,
+  "duplicate_of_name": "Nee krupaye naa jeevithamu",
+  "title_score": 0.727,
+  "lyric_similarity": 0.776
+ },
+ {
+  "app_index": 115,
+  "song_name": "Mundhuke Velledhanu",
+  "duplicate_of_song_id": 2698,
+  "duplicate_of_name": "Munduke velledanu",
+  "title_score": 0.688,
+  "lyric_similarity": 0.812
+ },
+ {
+  "app_index": 160,
+  "song_name": "Bhayamu Chendhaku Bhakthudaa",
+  "duplicate_of_song_id": 1351,
+  "duplicate_of_name": "Bhayamu Chendaku",
+  "title_score": 0.718,
+  "lyric_similarity": 0.765
+ },
+ {
+  "app_index": 165,
+  "song_name": "Mahonnathuda",
+  "duplicate_of_song_id": 175,
+  "duplicate_of_name": "Mahonnathudaa Maa Devaa",
+  "title_score": 0.786,
+  "lyric_similarity": 0.809
+ },
+ {
+  "app_index": 170,
+  "song_name": "Bhajana Cheyuchu",
+  "duplicate_of_song_id": 441,
+  "duplicate_of_name": "Bhajana Cheyuchu Bhaktha Paalaka",
+  "title_score": 0.667,
+  "lyric_similarity": 0.949
+ },
+ {
+  "app_index": 173,
+  "song_name": "Ninu Matrame Ne Nammanaya",
+  "duplicate_of_song_id": 2025,
+  "duplicate_of_name": "Ninu maathrame ne nammaanayaa",
+  "title_score": 0.609,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 182,
+  "song_name": "Meriseti Taarala",
+  "duplicate_of_song_id": 2073,
+  "duplicate_of_name": "Meriseti thaaralaa nanu veliginchu",
+  "title_score": 0.545,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 190,
+  "song_name": "Meriseti Taarala",
+  "duplicate_of_song_id": 2073,
+  "duplicate_of_name": "Meriseti thaaralaa nanu veliginchu",
+  "title_score": 0.545,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 191,
+  "song_name": "Na Kosam Pranam Pettina",
+  "duplicate_of_song_id": 2286,
+  "duplicate_of_name": "Naa kosam praanam pettina",
+  "title_score": 0.65,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 195,
+  "song_name": "Nireekshana",
+  "duplicate_of_song_id": 1975,
+  "duplicate_of_name": "Yese nee aadhaaramu digulu chendaku",
+  "title_score": 0.667,
+  "lyric_similarity": 0.714
+ },
+ {
+  "app_index": 199,
+  "song_name": "ఎల్ షద్దాయ్ (Elshaddai)",
+  "duplicate_of_song_id": 2020,
+  "duplicate_of_name": "Naa balamugaa Kreesthu naakundagaa",
+  "title_score": 0.0,
+  "lyric_similarity": 0.918
+ },
+ {
+  "app_index": 200,
+  "song_name": "Adonai (Suryodayamu Modhalokuni)",
+  "duplicate_of_song_id": 3838,
+  "duplicate_of_name": "Adonai Sooryodhayamu Modhalukoni",
+  "title_score": 0.655,
+  "lyric_similarity": 0.946
+ },
+ {
+  "app_index": 201,
+  "song_name": "Antha Nee Krupa",
+  "duplicate_of_song_id": 2704,
+  "duplicate_of_name": "Anthaa nee krupa",
+  "title_score": 0.64,
+  "lyric_similarity": 0.815
+ },
+ {
+  "app_index": 203,
+  "song_name": "Asamanudainavadu",
+  "duplicate_of_song_id": 1847,
+  "duplicate_of_name": "Asamaanudu Avamaanaparachadu Ninnu",
+  "title_score": 0.621,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 206,
+  "song_name": "Kaaparivai",
+  "duplicate_of_song_id": 1814,
+  "duplicate_of_name": "Kaaparivai nannu kaachave",
+  "title_score": 0.581,
+  "lyric_similarity": 0.984
+ },
+ {
+  "app_index": 207,
+  "song_name": "Kruthagnatha",
+  "duplicate_of_song_id": 3844,
+  "duplicate_of_name": "Kruthagnatha sthothraarpanalu neeke chellinthunu",
+  "title_score": 0.647,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 210,
+  "song_name": "Anduko Naa Upavasa",
+  "duplicate_of_song_id": 1898,
+  "duplicate_of_name": "Susaadhyamegaa",
+  "title_score": 0.0,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 217,
+  "song_name": "Sthiraparachuvaadavu",
+  "duplicate_of_song_id": 1636,
+  "duplicate_of_name": "Emainaa Cheyagalavu",
+  "title_score": 0.522,
+  "lyric_similarity": 0.586
+ },
+ {
+  "app_index": 220,
+  "song_name": "Dhavala Simhaasanam",
+  "duplicate_of_song_id": 1946,
+  "duplicate_of_name": "Davala simhaasanam",
+  "title_score": 0.788,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 221,
+  "song_name": "Gauravaneeyuda Galaliyavada",
+  "duplicate_of_song_id": 2803,
+  "duplicate_of_name": "Gauravaneeyudaa Galileeyavaada Yesayya ninnu ghanaparachedhanayya",
+  "title_score": 0.518,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 227,
+  "song_name": "Neevunte Chalayya",
+  "duplicate_of_song_id": 3843,
+  "duplicate_of_name": "Evarunna lekunna naakemunna lekunna",
+  "title_score": 0.634,
+  "lyric_similarity": 0.838
+ },
+ {
+  "app_index": 231,
+  "song_name": "Idhe Kadha Jeevitham",
+  "duplicate_of_song_id": 1974,
+  "duplicate_of_name": "Idhe kadaa jeevitham",
+  "title_score": 0.647,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 235,
+  "song_name": "Nee Sannidhi Chalu",
+  "duplicate_of_song_id": 1587,
+  "duplicate_of_name": "Megha sthambamaina sannidhini",
+  "title_score": 0.667,
+  "lyric_similarity": 0.834
+ },
+ {
+  "app_index": 236,
+  "song_name": "Nee Udayakanthilo",
+  "duplicate_of_song_id": 2016,
+  "duplicate_of_name": "Nee udaya kaanthilo ne nadachivelleda",
+  "title_score": 0.667,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 237,
+  "song_name": "Nyaayamuga",
+  "duplicate_of_song_id": 2017,
+  "duplicate_of_name": "Nyaayamugaa naduchukoni",
+  "title_score": 0.6,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 240,
+  "song_name": "Balavanthuda",
+  "duplicate_of_song_id": 3976,
+  "duplicate_of_name": "Balavanthudaa dhanavanthudaa",
+  "title_score": 0.595,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 241,
+  "song_name": "Evaremanukuntunna",
+  "duplicate_of_song_id": 2018,
+  "duplicate_of_name": "Evaremanukuntunnaa nin aaraadhisthunna",
+  "title_score": 0.627,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 242,
+  "song_name": "Jaalari Jaalari Jaalarivo",
+  "duplicate_of_song_id": 2739,
+  "duplicate_of_name": "Jaalari jaalari jaalarivaa Yesu",
+  "title_score": 0.694,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 245,
+  "song_name": "Naa Baagaswamini",
+  "duplicate_of_song_id": 1781,
+  "duplicate_of_name": "Naa bhaagaswaamini Yeshua Jerusha",
+  "title_score": 0.579,
+  "lyric_similarity": 0.994
+ },
+ {
+  "app_index": 246,
+  "song_name": "Nee Krupa Lenidhe Nee Daya",
+  "duplicate_of_song_id": 2355,
+  "duplicate_of_name": "Nee krupa lenide nee daya lenide",
+  "title_score": 0.667,
+  "lyric_similarity": 0.977
+ },
+ {
+  "app_index": 248,
+  "song_name": "Yela Padanu",
+  "duplicate_of_song_id": 1860,
+  "duplicate_of_name": "Elaa paadanoo emi cheppanoo",
+  "title_score": 0.545,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 255,
+  "song_name": "Nadipisthaadu",
+  "duplicate_of_song_id": 1294,
+  "duplicate_of_name": "Nadipisthaadu Naa Devudu",
+  "title_score": 0.727,
+  "lyric_similarity": 0.937
+ },
+ {
+  "app_index": 260,
+  "song_name": "Maruvanu Deva",
+  "duplicate_of_song_id": 3836,
+  "duplicate_of_name": "E reethigaa ninu paadedanu",
+  "title_score": 0.516,
+  "lyric_similarity": 0.624
+ },
+ {
+  "app_index": 264,
+  "song_name": "Nee Raktam",
+  "duplicate_of_song_id": 1783,
+  "duplicate_of_name": "Nee raktham challindhi o Deva",
+  "title_score": 0.5,
+  "lyric_similarity": 0.994
+ },
+ {
+  "app_index": 265,
+  "song_name": "Nee Thyagam",
+  "duplicate_of_song_id": 2481,
+  "duplicate_of_name": "Nee Thyaagam Naa Viluvanu Penchindhi",
+  "title_score": 0.0,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 266,
+  "song_name": "Pindamunai Nenu",
+  "duplicate_of_song_id": 2290,
+  "duplicate_of_name": "Pindamunai nenu naa thalli garbhamuna",
+  "title_score": 0.0,
+  "lyric_similarity": 0.737
+ },
+ {
+  "app_index": 267,
+  "song_name": "Rare Chuthamu",
+  "duplicate_of_song_id": 400,
+  "duplicate_of_name": "Raare Choothamu",
+  "title_score": 0.75,
+  "lyric_similarity": 0.837
+ },
+ {
+  "app_index": 268,
+  "song_name": "Sharonu Rojave",
+  "duplicate_of_song_id": 1591,
+  "duplicate_of_name": "Sharoonu Rojaave Naa Praana Snehame",
+  "title_score": 0.714,
+  "lyric_similarity": 0.624
+ },
+ {
+  "app_index": 270,
+  "song_name": "Baliinava",
+  "duplicate_of_song_id": 1856,
+  "duplicate_of_name": "Neevu kaligina korikakai",
+  "title_score": 0.545,
+  "lyric_similarity": 0.907
+ },
+ {
+  "app_index": 271,
+  "song_name": "Inneluga Matho",
+  "duplicate_of_song_id": 2140,
+  "duplicate_of_name": "Innellugaa Maatho Undi Nadipinchavayyaa",
+  "title_score": 0.511,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 273,
+  "song_name": "Minnayaina Prema",
+  "duplicate_of_song_id": 2023,
+  "duplicate_of_name": "Minnayaina Prema Choopina Yesayya",
+  "title_score": 0.651,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 275,
+  "song_name": "Paadana Kaneeti Swaram",
+  "duplicate_of_song_id": 2071,
+  "duplicate_of_name": "Paadanaa Sthothra Keerthana",
+  "title_score": 0.514,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 276,
+  "song_name": "Rudhiram",
+  "duplicate_of_song_id": 2744,
+  "duplicate_of_name": "Siluva Baruvayenaa Rudhiram Dhaaralayenaa",
+  "title_score": 0.526,
+  "lyric_similarity": 0.988
+ },
+ {
+  "app_index": 277,
+  "song_name": "Siddhapadudham",
+  "duplicate_of_song_id": 3808,
+  "duplicate_of_name": "Siddhapadudhaam siddhapadudhaam",
+  "title_score": 0.619,
+  "lyric_similarity": 0.85
+ },
+ {
+  "app_index": 281,
+  "song_name": "Ashrayuda Naa",
+  "duplicate_of_song_id": 3832,
+  "duplicate_of_name": "Aashrayudaa naa Yesayya",
+  "title_score": 0.625,
+  "lyric_similarity": 0.935
+ },
+ {
+  "app_index": 286,
+  "song_name": "Sukumaaruda",
+  "duplicate_of_song_id": 2070,
+  "duplicate_of_name": "Sukumaarudaa jagamulanele paripaalaka",
+  "title_score": 0.632,
+  "lyric_similarity": 0.991
+ },
+ {
+  "app_index": 288,
+  "song_name": "Yesayye Naa Praanam",
+  "duplicate_of_song_id": 3833,
+  "duplicate_of_name": "Yesayya naa praanamaa – Ghanamaina sthuthigaanamaa",
+  "title_score": 0.722,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 291,
+  "song_name": "Bangaramu Veedhulunna",
+  "duplicate_of_song_id": 1897,
+  "duplicate_of_name": "Bangaaramu Veedhulunna Nagaramulona",
+  "title_score": 0.745,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 293,
+  "song_name": "Devude Maanavunigaa",
+  "duplicate_of_song_id": 2067,
+  "duplicate_of_name": "Devude maanavunigaa janminchenu",
+  "title_score": 0.667,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 294,
+  "song_name": "Jagamantha Panduga",
+  "duplicate_of_song_id": 2352,
+  "duplicate_of_name": "Aakaashaveedhilo oka thaara velisindi",
+  "title_score": 0.545,
+  "lyric_similarity": 0.617
+ },
+ {
+  "app_index": 297,
+  "song_name": "Raajula Raaju Puttenu",
+  "duplicate_of_song_id": 1925,
+  "duplicate_of_name": "Raajula Raaju Puttenu Bethelehemulo",
+  "title_score": 0.78,
+  "lyric_similarity": 0.944
+ },
+ {
+  "app_index": 304,
+  "song_name": "Naa Pakshamai Saakshyam",
+  "duplicate_of_song_id": 1840,
+  "duplicate_of_name": "Nindalalo nispruhalo",
+  "title_score": 0.5,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 307,
+  "song_name": "Neeve Naku Thandrivani",
+  "duplicate_of_song_id": 3831,
+  "duplicate_of_name": "Neeve Naaku Thandrivani Neeve Naa Devudani",
+  "title_score": 0.691,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 313,
+  "song_name": "Jeeva Naava",
+  "duplicate_of_song_id": 2011,
+  "duplicate_of_name": "Raavaa Yesudhevaa neeve naa varamuga",
+  "title_score": 0.643,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 320,
+  "song_name": "Akshayamainadi",
+  "duplicate_of_song_id": 2273,
+  "duplicate_of_name": "Akshaya mainadhi Yesuni rakthamu",
+  "title_score": 0.6,
+  "lyric_similarity": 0.873
+ },
+ {
+  "app_index": 336,
+  "song_name": "Neeve Deva",
+  "duplicate_of_song_id": 509,
+  "duplicate_of_name": "Paapiga Nanu Choodaleka",
+  "title_score": 0.64,
+  "lyric_similarity": 0.912
+ },
+ {
+  "app_index": 355,
+  "song_name": "Nuthanamaina Krupa",
+  "duplicate_of_song_id": 3821,
+  "duplicate_of_name": "Noothanamaina krupa nava noothanamaina krupa",
+  "title_score": 0.684,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 359,
+  "song_name": "Aaraadhinchu Naa Snehithudaa",
+  "duplicate_of_song_id": 3817,
+  "duplicate_of_name": "Yesayya neeve aashrayapuramu",
+  "title_score": 0.684,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 366,
+  "song_name": "Sannidhiye",
+  "duplicate_of_song_id": 2281,
+  "duplicate_of_name": "Sannidhi sannidhiye",
+  "title_score": 0.75,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 367,
+  "song_name": "Silipi",
+  "duplicate_of_song_id": 2127,
+  "duplicate_of_name": "Ye roopamu leni nannu pindamunai ne unna",
+  "title_score": 0.0,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 380,
+  "song_name": "Daiva Istame Gaalike",
+  "duplicate_of_song_id": 1970,
+  "duplicate_of_name": "Daiva ishtame gaalike undi thelusunaa",
+  "title_score": 0.0,
+  "lyric_similarity": 0.918
+ },
+ {
+  "app_index": 388,
+  "song_name": "Ye Reethiga",
+  "duplicate_of_song_id": 1852,
+  "duplicate_of_name": "E reethigaa kolicheda - Nee premalo nilicheda",
+  "title_score": 0.519,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 395,
+  "song_name": "Sreshtamu శ్రేష్ఠము",
+  "duplicate_of_song_id": 2062,
+  "duplicate_of_name": "Balulu arpinchutakante nee",
+  "title_score": 0.0,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 404,
+  "song_name": "Neelone Anandham",
+  "duplicate_of_song_id": 2782,
+  "duplicate_of_name": "Neelone aanandam naa Deva",
+  "title_score": 0.714,
+  "lyric_similarity": 0.987
+ },
+ {
+  "app_index": 405,
+  "song_name": "One In Christ",
+  "duplicate_of_song_id": 3814,
+  "duplicate_of_name": "Shreemanthudaa shreekarunda shree Yesu raajaa",
+  "title_score": 0.5,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 407,
+  "song_name": "Ye Reethiga",
+  "duplicate_of_song_id": 1846,
+  "duplicate_of_name": "E reethigaa ninnu sthuthinchagalanu",
+  "title_score": 0.519,
+  "lyric_similarity": 0.921
+ },
+ {
+  "app_index": 410,
+  "song_name": "Jeevadaatha",
+  "duplicate_of_song_id": 1816,
+  "duplicate_of_name": "Jeevadhaatha Sthuthipaathrudaa",
+  "title_score": 0.625,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 414,
+  "song_name": "Nenentha Dhanyudano",
+  "duplicate_of_song_id": 1971,
+  "duplicate_of_name": "Nenentha dhanyudano priyudaa Yesayya",
+  "title_score": 0.612,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 415,
+  "song_name": "Ontari Payanamlo",
+  "duplicate_of_song_id": 2134,
+  "duplicate_of_name": "Ontari payanamlo evaru lekunnaa",
+  "title_score": 0.585,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 420,
+  "song_name": "Anni Velalandu",
+  "duplicate_of_song_id": 2427,
+  "duplicate_of_name": "Anni velalandu mammu kaapaadu Deva",
+  "title_score": 0.667,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 424,
+  "song_name": "Neeve Neeve",
+  "duplicate_of_song_id": 2010,
+  "duplicate_of_name": "Neeve neeve neeve maa praanam",
+  "title_score": 0.692,
+  "lyric_similarity": 0.991
+ },
+ {
+  "app_index": 427,
+  "song_name": "Prananaadha",
+  "duplicate_of_song_id": 2061,
+  "duplicate_of_name": "Nannu inthagaa preminchina naa Yesu raajaa",
+  "title_score": 0.643,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 429,
+  "song_name": "Aaradhana Neekai Aalapana",
+  "duplicate_of_song_id": 2425,
+  "duplicate_of_name": "Dinamulu gaduchuchundagaa nee melutho thrupthi parachithivi",
+  "title_score": 0.75,
+  "lyric_similarity": 0.561
+ },
+ {
+  "app_index": 431,
+  "song_name": "Dheenudu",
+  "duplicate_of_song_id": 1768,
+  "duplicate_of_name": "Naakai dheenunigaa bhuviki vachchinaavayaa",
+  "title_score": 0.5,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 432,
+  "song_name": "Inthakalam Nee Krupalo",
+  "duplicate_of_song_id": 3809,
+  "duplicate_of_name": "Inthakaalam nee krupalo",
+  "title_score": 0.769,
+  "lyric_similarity": 0.991
+ },
+ {
+  "app_index": 434,
+  "song_name": "Manne Kadhayya",
+  "duplicate_of_song_id": 1056,
+  "duplicate_of_name": "Mannegadayyaa Mannegadayyaa",
+  "title_score": 0.0,
+  "lyric_similarity": 0.944
+ },
+ {
+  "app_index": 435,
+  "song_name": "Nanu Yedabaayak",
+  "duplicate_of_song_id": 2117,
+  "duplicate_of_name": "Nanu edabaayaka padiponeeyaka podiginchithivi naa jeevamu",
+  "title_score": 0.588,
+  "lyric_similarity": 0.973
+ },
+ {
+  "app_index": 436,
+  "song_name": "Paiki Egiredhavu",
+  "duplicate_of_song_id": 2424,
+  "duplicate_of_name": "Devuni aanandam ninu kammunu",
+  "title_score": 0.0,
+  "lyric_similarity": 0.803
+ },
+ {
+  "app_index": 440,
+  "song_name": "Janminche Yesayya",
+  "duplicate_of_song_id": 3968,
+  "duplicate_of_name": "Janminche Yesayya naa lonaa",
+  "title_score": 0.789,
+  "lyric_similarity": 0.875
+ },
+ {
+  "app_index": 449,
+  "song_name": "Aa Raatrilo Ningilo Oka",
+  "duplicate_of_song_id": 2342,
+  "duplicate_of_name": "Aa raathrilo ningilo oka thaara goppa thejamutho prabhavinchenu aa reyi",
+  "title_score": 0.0,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 453,
+  "song_name": "Oka Aasa Undayyaa",
+  "duplicate_of_song_id": 2270,
+  "duplicate_of_name": "Oka aasha undayyaa naa korika theerchayyaa",
+  "title_score": 0.0,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 461,
+  "song_name": "Gollalu Vacchiri",
+  "duplicate_of_song_id": 3810,
+  "duplicate_of_name": "Aanandam aanandame raaraaju puttenani",
+  "title_score": 0.0,
+  "lyric_similarity": 0.843
+ },
+ {
+  "app_index": 465,
+  "song_name": "Paata Paadaala",
+  "duplicate_of_song_id": 2187,
+  "duplicate_of_name": "Paata paadaalaa vaadyamulu mrogaala",
+  "title_score": 0.595,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 470,
+  "song_name": "Chandhamama",
+  "duplicate_of_song_id": 3811,
+  "duplicate_of_name": "Chandhamaama chandhamaama",
+  "title_score": 0.643,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 473,
+  "song_name": "Mariya Thanayudai",
+  "duplicate_of_song_id": 2695,
+  "duplicate_of_name": "Mariyaa thanayudai manujaavathaarudai",
+  "title_score": 0.615,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 475,
+  "song_name": "Sakalaaseervaadhamula",
+  "duplicate_of_song_id": 2118,
+  "duplicate_of_name": "Sakalaasheervaadhamula kaaranabhoothudaa",
+  "title_score": 0.655,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 477,
+  "song_name": "Velasenule",
+  "duplicate_of_song_id": 1583,
+  "duplicate_of_name": "Velasenule Gaganaana Thoorpu Thaara",
+  "title_score": 0.5,
+  "lyric_similarity": 0.571
+ },
+ {
+  "app_index": 480,
+  "song_name": "Akaasa Veedhullo",
+  "duplicate_of_song_id": 2012,
+  "duplicate_of_name": "Aakaasha veedhullo aanandam",
+  "title_score": 0.526,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 486,
+  "song_name": "Oohakandhanantha",
+  "duplicate_of_song_id": 2119,
+  "duplicate_of_name": "Oohakandhanantha unnatham",
+  "title_score": 0.789,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 488,
+  "song_name": "Yesayya Janminche",
+  "duplicate_of_song_id": 1973,
+  "duplicate_of_name": "Yesayya janminche ee nelapai",
+  "title_score": 0.737,
+  "lyric_similarity": 0.885
+ },
+ {
+  "app_index": 489,
+  "song_name": "Ebenejaru",
+  "duplicate_of_song_id": 3967,
+  "duplicate_of_name": "Nenu Naa Illu Naa Intivaarandharu",
+  "title_score": 0.625,
+  "lyric_similarity": 0.763
+ },
+ {
+  "app_index": 496,
+  "song_name": "Sadha Neevu Naa Thoduga",
+  "duplicate_of_song_id": 1862,
+  "duplicate_of_name": "Sadaa neevu naa thodugaa Yesayya",
+  "title_score": 0.611,
+  "lyric_similarity": 0.948
+ },
+ {
+  "app_index": 497,
+  "song_name": "Srikarunda Sri Yesunadha",
+  "duplicate_of_song_id": 1730,
+  "duplicate_of_name": "Shreekarunda Shreeyesunaadhaa - Shreemanthudavu Srujanaathmudaa",
+  "title_score": 0.0,
+  "lyric_similarity": 0.953
+ },
+ {
+  "app_index": 500,
+  "song_name": "Endhukani",
+  "duplicate_of_song_id": 2276,
+  "duplicate_of_name": "Endhukanee nenante intha prema",
+  "title_score": 0.0,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 501,
+  "song_name": "Jayinchenu",
+  "duplicate_of_song_id": 3804,
+  "duplicate_of_name": "Maranamu jayinchenu",
+  "title_score": 0.615,
+  "lyric_similarity": 0.811
+ },
+ {
+  "app_index": 504,
+  "song_name": "Siluvapaina",
+  "duplicate_of_song_id": 2478,
+  "duplicate_of_name": "Siluvapaina prema choopa maranamaayenu",
+  "title_score": 0.615,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 507,
+  "song_name": "Vijayame",
+  "duplicate_of_song_id": 2188,
+  "duplicate_of_name": "Bhayamedhainaa ippudu neelo unnadaa",
+  "title_score": 0.5,
+  "lyric_similarity": 0.664
+ },
+ {
+  "app_index": 508,
+  "song_name": "Yehova Ruah",
+  "duplicate_of_song_id": 2009,
+  "duplicate_of_name": "Yehovaa Raaphaa soukhyamichchuvaadu",
+  "title_score": 0.526,
+  "lyric_similarity": 0.936
+ },
+ {
+  "app_index": 510,
+  "song_name": "Andhaala Chinni Gootilona",
+  "duplicate_of_song_id": 2577,
+  "duplicate_of_name": "Andaala chinni gootilona puttina pichchukanu",
+  "title_score": 0.525,
+  "lyric_similarity": 0.618
+ },
+ {
+  "app_index": 511,
+  "song_name": "Dayaa Samkalpam",
+  "duplicate_of_song_id": 321,
+  "duplicate_of_name": "Gaganamu Cheelchukoni",
+  "title_score": 0.571,
+  "lyric_similarity": 0.922
+ },
+ {
+  "app_index": 512,
+  "song_name": "Edho Aasha Naalo",
+  "duplicate_of_song_id": 2282,
+  "duplicate_of_name": "Edho aasha naalo neethone jeevinchanee",
+  "title_score": 0.0,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 513,
+  "song_name": "Jeevapradatha",
+  "duplicate_of_song_id": 2182,
+  "duplicate_of_name": "Jeevapradhaathavu nanu roopinchina shilpivi neeve Prabhu",
+  "title_score": 0.529,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 514,
+  "song_name": "Krupa Kaligina Deva",
+  "duplicate_of_song_id": 2574,
+  "duplicate_of_name": "Krupa kaligina Devaa naa Yehovaa",
+  "title_score": 0.651,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 515,
+  "song_name": "Nen Emathramu",
+  "duplicate_of_song_id": 705,
+  "duplicate_of_name": "Inthavaraku Neevu",
+  "title_score": 0.0,
+  "lyric_similarity": 0.58
+ },
+ {
+  "app_index": 516,
+  "song_name": "Pelli Kuthuru",
+  "duplicate_of_song_id": 3805,
+  "duplicate_of_name": "Pelli kuthuru - Andamayina manasuku nenoka chakkani roopam",
+  "title_score": 0.0,
+  "lyric_similarity": 0.933
+ },
+ {
+  "app_index": 517,
+  "song_name": "Premantu Edhaina Unte",
+  "duplicate_of_song_id": 2015,
+  "duplicate_of_name": "Premantoo edainaa unte Yesele adhi Yesele",
+  "title_score": 0.5,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 518,
+  "song_name": "Soundarya Seeyonulo",
+  "duplicate_of_song_id": 3801,
+  "duplicate_of_name": "Bahu saundharya Seeyonulo sthuthi simhaasanaaseenudaa",
+  "title_score": 0.571,
+  "lyric_similarity": 0.992
+ },
+ {
+  "app_index": 520,
+  "song_name": "Athi Parishudduda",
+  "duplicate_of_song_id": 1613,
+  "duplicate_of_name": "Athi Parishuddhudaa Sthuthi Naivedyamu",
+  "title_score": 0.667,
+  "lyric_similarity": 0.942
+ },
+ {
+  "app_index": 521,
+  "song_name": "Kanyaka Garbhamu",
+  "duplicate_of_song_id": 1805,
+  "duplicate_of_name": "Kanyaka garbhamu dharinchunanumaata pravachanamu",
+  "title_score": 0.0,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 522,
+  "song_name": "Manasu Marchu",
+  "duplicate_of_song_id": 1963,
+  "duplicate_of_name": "Neethi Soorya Thejomayudaa",
+  "title_score": 0.56,
+  "lyric_similarity": 0.591
+ },
+ {
+  "app_index": 523,
+  "song_name": "Merry Christmas",
+  "duplicate_of_song_id": 2114,
+  "duplicate_of_name": "Eduruchoosina kaalam – Pratyaksha parichenu daivam",
+  "title_score": 0.643,
+  "lyric_similarity": 0.957
+ },
+ {
+  "app_index": 524,
+  "song_name": "Poorna Hrudhayamutho",
+  "duplicate_of_song_id": 1893,
+  "duplicate_of_name": "Poorna hrudayamutho poorna aathmatho",
+  "title_score": 0.706,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 527,
+  "song_name": "Saricheyunu",
+  "duplicate_of_song_id": 2183,
+  "duplicate_of_name": "Saricheyunu - Kanumarugu cheyudhunanevaaredhuta",
+  "title_score": 0.0,
+  "lyric_similarity": 0.715
+ },
+ {
+  "app_index": 528,
+  "song_name": "Sramalalo Krungavaladhu",
+  "duplicate_of_song_id": 3779,
+  "duplicate_of_name": "Shramalalo krungavaladu",
+  "title_score": 0.762,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 530,
+  "song_name": "Chinni Yesu Raju",
+  "duplicate_of_song_id": 2184,
+  "duplicate_of_name": "Gnaanulu choodavelliri Bethlehemu puramunaku",
+  "title_score": 0.583,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 539,
+  "song_name": "Anandam Arbhatame",
+  "duplicate_of_song_id": 2277,
+  "duplicate_of_name": "Aanandam aarbhaatame ilalo",
+  "title_score": 0.632,
+  "lyric_similarity": 0.912
+ },
+ {
+  "app_index": 541,
+  "song_name": "Dhoothalu Paadiri",
+  "duplicate_of_song_id": 2116,
+  "duplicate_of_name": "Sainyamulaku adhipathivi raajulake raajuvu",
+  "title_score": 0.5,
+  "lyric_similarity": 0.663
+ },
+ {
+  "app_index": 542,
+  "song_name": "Intinta Christmas",
+  "duplicate_of_song_id": 4009,
+  "duplicate_of_name": "Santhosha Sambaraaluro",
+  "title_score": 0.621,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 544,
+  "song_name": "Loka Rakshakudu",
+  "duplicate_of_song_id": 3806,
+  "duplicate_of_name": "Loka rakshakudu mana korakudhayinchenu",
+  "title_score": 0.571,
+  "lyric_similarity": 0.951
+ },
+ {
+  "app_index": 545,
+  "song_name": "Na Sarwamu Neevenayya",
+  "duplicate_of_song_id": 3966,
+  "duplicate_of_name": "Neevenayyaa neevenayyaa naa sarvamu neevenayyaa",
+  "title_score": 0.625,
+  "lyric_similarity": 0.687
+ },
+ {
+  "app_index": 548,
+  "song_name": "Telugu Christmas Mashup 3",
+  "duplicate_of_song_id": 646,
+  "duplicate_of_name": "Christmas Medley 3",
+  "title_score": 0.737,
+  "lyric_similarity": 0.91
+ },
+ {
+  "app_index": 549,
+  "song_name": "Anukshanam Nee Krupalo",
+  "duplicate_of_song_id": 2422,
+  "duplicate_of_name": "Anukshanam nee krupalo prathidhinam nee sannidhilo",
+  "title_score": 0.632,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 551,
+  "song_name": "Nee Chethilo",
+  "duplicate_of_song_id": 2426,
+  "duplicate_of_name": "Nee Chethilo Oka Kalamuga Chithrinche Kunchega",
+  "title_score": 0.588,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 554,
+  "song_name": "Randi Rarandoy",
+  "duplicate_of_song_id": 1942,
+  "duplicate_of_name": "Randi raarandoy Yesayyanu choosoddhaam",
+  "title_score": 0.571,
+  "lyric_similarity": 0.651
+ },
+ {
+  "app_index": 555,
+  "song_name": "Udayinchinaadu Chudu Nesthamaa",
+  "duplicate_of_song_id": 2419,
+  "duplicate_of_name": "Udayinchinaadu choodu nesthamaa",
+  "title_score": 0.764,
+  "lyric_similarity": 0.994
+ },
+ {
+  "app_index": 557,
+  "song_name": "Vachaavayyaa Velugulu",
+  "duplicate_of_song_id": 2115,
+  "duplicate_of_name": "Vachchaavayyaa Bhuvikethenchaavayyaa",
+  "title_score": 0.5,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 559,
+  "song_name": "Christmas Subhavelalo",
+  "duplicate_of_song_id": 2692,
+  "duplicate_of_name": "Aanandhageetham ne paadeda Krismas shubhavelalo",
+  "title_score": 0.632,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 560,
+  "song_name": "Deevinchumu Deva",
+  "duplicate_of_song_id": 1939,
+  "duplicate_of_name": "Nee aasheervaadam pondina kutumbam",
+  "title_score": 0.667,
+  "lyric_similarity": 0.615
+ },
+ {
+  "app_index": 562,
+  "song_name": "Maaranivaada",
+  "duplicate_of_song_id": 3802,
+  "duplicate_of_name": "Mahonnathuda maaranivaada",
+  "title_score": 0.647,
+  "lyric_similarity": 0.938
+ },
+ {
+  "app_index": 568,
+  "song_name": "Yesu Puttenu",
+  "duplicate_of_song_id": 2413,
+  "duplicate_of_name": "Yesu puttenu rakshanochchenu",
+  "title_score": 0.692,
+  "lyric_similarity": 0.619
+ },
+ {
+  "app_index": 572,
+  "song_name": "Kadhalira Suvartha Chaataga",
+  "duplicate_of_song_id": 3807,
+  "duplicate_of_name": "Ningilona thaaraka cheya vachchindi veduka",
+  "title_score": 0.565,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 585,
+  "song_name": "Sarwesvaruni Darshanamukai",
+  "duplicate_of_song_id": 2112,
+  "duplicate_of_name": "Sarveshvaruni dharshanamukai",
+  "title_score": 0.76,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 586,
+  "song_name": "Vellipove Gathama",
+  "duplicate_of_song_id": 2635,
+  "duplicate_of_name": "Vellipove gathamaa chellubaatu kaavu neevika",
+  "title_score": 0.0,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 587,
+  "song_name": "Ye Stithilonaina",
+  "duplicate_of_song_id": 2186,
+  "duplicate_of_name": "E sthithilonainaa ninnu preminche vaanigaa",
+  "title_score": 0.0,
+  "lyric_similarity": 0.91
+ },
+ {
+  "app_index": 588,
+  "song_name": "Yelo Yelo Sambaralu 5",
+  "duplicate_of_song_id": 501,
+  "duplicate_of_name": "Yelo Yelo Yelo Antu",
+  "title_score": 0.0,
+  "lyric_similarity": 0.94
+ },
+ {
+  "app_index": 589,
+  "song_name": "Bhayamela",
+  "duplicate_of_song_id": 2415,
+  "duplicate_of_name": "Abrahamu devudavu neeve Yesayya",
+  "title_score": 0.556,
+  "lyric_similarity": 0.606
+ },
+ {
+  "app_index": 590,
+  "song_name": "El Elohe",
+  "duplicate_of_song_id": 2272,
+  "duplicate_of_name": "Ninnu nammi vachchi ne siggu chendhaledhu",
+  "title_score": 0.0,
+  "lyric_similarity": 0.874
+ },
+ {
+  "app_index": 595,
+  "song_name": "Neevanti Vaaru Leru",
+  "duplicate_of_song_id": 3819,
+  "duplicate_of_name": "Neevantivaaru leru",
+  "title_score": 0.75,
+  "lyric_similarity": 0.62
+ },
+ {
+  "app_index": 603,
+  "song_name": "Nee Melulu",
+  "duplicate_of_song_id": 2113,
+  "duplicate_of_name": "Nee melulu vivarimpatharamaa",
+  "title_score": 0.727,
+  "lyric_similarity": 0.947
+ },
+ {
+  "app_index": 605,
+  "song_name": "Samarpinchedanu",
+  "duplicate_of_song_id": 2477,
+  "duplicate_of_name": "Samarpinchedhanu samasthamu",
+  "title_score": 0.667,
+  "lyric_similarity": 0.564
+ },
+ {
+  "app_index": 606,
+  "song_name": "Sthuthi Geethamu",
+  "duplicate_of_song_id": 3803,
+  "duplicate_of_name": "Yesu nee adbhutha prema nenela marichedha Deva",
+  "title_score": 0.743,
+  "lyric_similarity": 0.884
+ },
+ {
+  "app_index": 608,
+  "song_name": "Yesu Kosame",
+  "duplicate_of_song_id": 563,
+  "duplicate_of_name": "Yesu Kosame Jeeviddaam",
+  "title_score": 0.643,
+  "lyric_similarity": 0.964
+ },
+ {
+  "app_index": 610,
+  "song_name": "Dhavalavarnuda Ratnavarnuda",
+  "duplicate_of_song_id": 599,
+  "duplicate_of_name": "Davalavarnudaa",
+  "title_score": 0.579,
+  "lyric_similarity": 0.937
+ },
+ {
+  "app_index": 611,
+  "song_name": "Emmanuelu Deva",
+  "duplicate_of_song_id": 2690,
+  "duplicate_of_name": "Immaanuyelu Deva naatho unnavaadaa",
+  "title_score": 0.621,
+  "lyric_similarity": 0.742
+ },
+ {
+  "app_index": 617,
+  "song_name": "Oohinchalenu Prabhu",
+  "duplicate_of_song_id": 2269,
+  "duplicate_of_name": "Oohinchalenu prabhoo nee mamathanu",
+  "title_score": 0.596,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 618,
+  "song_name": "Vechiyunnanu",
+  "duplicate_of_song_id": 1653,
+  "duplicate_of_name": "Kondala Thattu Naa Kannuletthi",
+  "title_score": 0.556,
+  "lyric_similarity": 0.995
+ },
+ {
+  "app_index": 626,
+  "song_name": "Oddu Cheri Nee Yedhuta",
+  "duplicate_of_song_id": 1878,
+  "duplicate_of_name": "Odducheri nee eduta nilpunapudu",
+  "title_score": 0.0,
+  "lyric_similarity": 0.988
+ },
+ {
+  "app_index": 631,
+  "song_name": "Karuna Sampannuda",
+  "duplicate_of_song_id": 3796,
+  "duplicate_of_name": "Karunaasampannudaa dheerudaa sukumaarudaa",
+  "title_score": 0.706,
+  "lyric_similarity": 0.947
+ },
+ {
+  "app_index": 634,
+  "song_name": "Oohinchaledhayya",
+  "duplicate_of_song_id": 2571,
+  "duplicate_of_name": "Oohinchaledhayya dheevisthaavani",
+  "title_score": 0.667,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 635,
+  "song_name": "Paadedha Stuthi Gaanamu",
+  "duplicate_of_song_id": 2111,
+  "duplicate_of_name": "Paadeda sthuthigaanamu koniyaadeda nee naamamu",
+  "title_score": 0.634,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 637,
+  "song_name": "Sthuthiye Na Aayudham",
+  "duplicate_of_song_id": 1764,
+  "duplicate_of_name": "Ne Paadeda Hallelooyaa Naa Shathruvula Eduta",
+  "title_score": 0.5,
+  "lyric_similarity": 0.831
+ },
+ {
+  "app_index": 643,
+  "song_name": "Naa Jeevithana",
+  "duplicate_of_song_id": 3813,
+  "duplicate_of_name": "Shaashwathamainadi ennadu maaranidi",
+  "title_score": 0.759,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 645,
+  "song_name": "Nannu Diddumu",
+  "duplicate_of_song_id": 1190,
+  "duplicate_of_name": "Nannu Diddumu Chinna Praayamu",
+  "title_score": 0.611,
+  "lyric_similarity": 0.922
+ },
+ {
+  "app_index": 648,
+  "song_name": "Mattilona Muthyamalle",
+  "duplicate_of_song_id": 2265,
+  "duplicate_of_name": "Mattilona muthyamalle puttaaduro",
+  "title_score": 0.708,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 652,
+  "song_name": "Prakashinchenu",
+  "duplicate_of_song_id": 1842,
+  "duplicate_of_name": "Prakaashinchenu o divya thaara",
+  "title_score": 0.688,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 653,
+  "song_name": "Shaka Purushuni Jananam",
+  "duplicate_of_song_id": 2065,
+  "duplicate_of_name": "Vachchaadu mahaaraaju mari manakosame andagaa thodugaa",
+  "title_score": 0.0,
+  "lyric_similarity": 0.631
+ },
+ {
+  "app_index": 655,
+  "song_name": "Sudhooramu",
+  "duplicate_of_song_id": 1271,
+  "duplicate_of_name": "Sudhooramu Ee Payanamu",
+  "title_score": 0.643,
+  "lyric_similarity": 0.957
+ },
+ {
+  "app_index": 656,
+  "song_name": "Vagdanamulu",
+  "duplicate_of_song_id": 1208,
+  "duplicate_of_name": "Vaagdhaanamulanni Neraverchuchunnaadu",
+  "title_score": 0.667,
+  "lyric_similarity": 0.814
+ },
+ {
+  "app_index": 665,
+  "song_name": "Telugu Christmas Mashup 2",
+  "duplicate_of_song_id": 527,
+  "duplicate_of_name": "Christmas Medley 2",
+  "title_score": 0.737,
+  "lyric_similarity": 0.863
+ },
+ {
+  "app_index": 667,
+  "song_name": "Yesayya Katha",
+  "duplicate_of_song_id": 1491,
+  "duplicate_of_name": "Daaveedu Vamshamlo",
+  "title_score": 0.64,
+  "lyric_similarity": 0.632
+ },
+ {
+  "app_index": 682,
+  "song_name": "Seethaakalamlo",
+  "duplicate_of_song_id": 1841,
+  "duplicate_of_name": "Sheethakaalamlo shree Yesuni shubhavaartha",
+  "title_score": 0.606,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 683,
+  "song_name": "Toorpu Nundi Padamaraku",
+  "duplicate_of_song_id": 2560,
+  "duplicate_of_name": "Thoorpu nundi padamaraku entha dhooramo",
+  "title_score": 0.556,
+  "lyric_similarity": 0.88
+ },
+ {
+  "app_index": 684,
+  "song_name": "Uthsaaha Dwani (Jaijaikar)",
+  "duplicate_of_song_id": 3260,
+  "duplicate_of_name": "Samastha dheshamulaaraa andaru paadudi",
+  "title_score": 0.0,
+  "lyric_similarity": 0.627
+ },
+ {
+  "app_index": 686,
+  "song_name": "Yesayya Nee",
+  "duplicate_of_song_id": 473,
+  "duplicate_of_name": "Yesayya Nee Prema",
+  "title_score": 0.783,
+  "lyric_similarity": 0.974
+ },
+ {
+  "app_index": 691,
+  "song_name": "Naamamu",
+  "duplicate_of_song_id": 888,
+  "duplicate_of_name": "Ae Naamamulo",
+  "title_score": 0.75,
+  "lyric_similarity": 0.737
+ },
+ {
+  "app_index": 696,
+  "song_name": "Viraboosina Pushpama",
+  "duplicate_of_song_id": 3798,
+  "duplicate_of_name": "Viraboosina pushpamaa jathakalise bandhamaa nedu santhasinchumaa",
+  "title_score": 0.556,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 701,
+  "song_name": "Oohinchalenu Prabhu",
+  "duplicate_of_song_id": 2269,
+  "duplicate_of_name": "Oohinchalenu prabhoo nee mamathanu",
+  "title_score": 0.596,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 703,
+  "song_name": "Parugethi Ninnu Cheri",
+  "duplicate_of_song_id": 1837,
+  "duplicate_of_name": "Parugetthi ninu cheri",
+  "title_score": 0.722,
+  "lyric_similarity": 0.637
+ },
+ {
+  "app_index": 705,
+  "song_name": "Prabhuva Ma Deva",
+  "duplicate_of_song_id": 2568,
+  "duplicate_of_name": "Prabhuvaa maa Devaa krupa choopumayyaa",
+  "title_score": 0.786,
+  "lyric_similarity": 0.64
+ },
+ {
+  "app_index": 708,
+  "song_name": "Aada Janmanu Devudenduku",
+  "duplicate_of_song_id": 1838,
+  "duplicate_of_name": "Aada janmanu Devudu enduku chesaadu",
+  "title_score": 0.706,
+  "lyric_similarity": 0.651
+ },
+ {
+  "app_index": 711,
+  "song_name": "Kaliseti Andhaala",
+  "duplicate_of_song_id": 1844,
+  "duplicate_of_name": "Kaliseti andaala anubandhame",
+  "title_score": 0.65,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 727,
+  "song_name": "Vinthaina Prema",
+  "duplicate_of_song_id": 3797,
+  "duplicate_of_name": "Vinthaina prema idhegaa Yesayya prema nijangaa",
+  "title_score": 0.581,
+  "lyric_similarity": 0.902
+ },
+ {
+  "app_index": 732,
+  "song_name": "Naa Jeevam",
+  "duplicate_of_song_id": 1084,
+  "duplicate_of_name": "Naa Jeevam Naa Sarvam",
+  "title_score": 0.64,
+  "lyric_similarity": 0.737
+ },
+ {
+  "app_index": 742,
+  "song_name": "Neethodu Chaalayya",
+  "duplicate_of_song_id": 2351,
+  "duplicate_of_name": "Neethodu chaalayya naa balamu neevayya",
+  "title_score": 0.595,
+  "lyric_similarity": 0.593
+ },
+ {
+  "app_index": 744,
+  "song_name": "Oka Mata Chaalu",
+  "duplicate_of_song_id": 2278,
+  "duplicate_of_name": "Okamaata chaalu thandri",
+  "title_score": 0.5,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 746,
+  "song_name": "Siluvalo Naa Kosamu",
+  "duplicate_of_song_id": 3972,
+  "duplicate_of_name": "Siluvalo naa kosamu baliyaina naa Yesayya",
+  "title_score": 0.595,
+  "lyric_similarity": 0.616
+ },
+ {
+  "app_index": 759,
+  "song_name": "Egasipade Thufanullo",
+  "duplicate_of_song_id": 1525,
+  "duplicate_of_name": "Sudigaalainanu",
+  "title_score": 0.0,
+  "lyric_similarity": 0.921
+ },
+ {
+  "app_index": 767,
+  "song_name": "Aadharinchaga Raava",
+  "duplicate_of_song_id": 1405,
+  "duplicate_of_name": "Aagani Parugulo",
+  "title_score": 0.556,
+  "lyric_similarity": 0.629
+ },
+ {
+  "app_index": 770,
+  "song_name": "Koti Koti Sthothram Daddy",
+  "duplicate_of_song_id": 1140,
+  "duplicate_of_name": "Sthothrabali Sthothrabali",
+  "title_score": 0.0,
+  "lyric_similarity": 0.844
+ },
+ {
+  "app_index": 773,
+  "song_name": "Nadavaleni Velalo",
+  "duplicate_of_song_id": 2689,
+  "duplicate_of_name": "Naduvaleni Velalo Endinaa Edaarilo",
+  "title_score": 0.622,
+  "lyric_similarity": 0.923
+ },
+ {
+  "app_index": 774,
+  "song_name": "Neela Preminchevaarevaru",
+  "duplicate_of_song_id": 1865,
+  "duplicate_of_name": "Neelaa preminchevaarevaru ilalo leru",
+  "title_score": 0.741,
+  "lyric_similarity": 0.495
+ },
+ {
+  "app_index": 777,
+  "song_name": "Ammanu Minchina Preme",
+  "duplicate_of_song_id": 2138,
+  "duplicate_of_name": "Ammanu minchina preme needayyaa",
+  "title_score": 0.622,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 780,
+  "song_name": "Lekkimpa Sakyamu Kaavu",
+  "duplicate_of_song_id": 2480,
+  "duplicate_of_name": "Lekkimpa shakyamu kaavu Deva nee kaaryamulu",
+  "title_score": 0.536,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 782,
+  "song_name": "Neepai Velugu Virajille",
+  "duplicate_of_song_id": 1944,
+  "duplicate_of_name": "Neepai velugu virajille samvathsaram",
+  "title_score": 0.615,
+  "lyric_similarity": 0.874
+ },
+ {
+  "app_index": 786,
+  "song_name": "Christmas Vela",
+  "duplicate_of_song_id": 1843,
+  "duplicate_of_name": "Poddhugooke Bethlemulo",
+  "title_score": 0.692,
+  "lyric_similarity": 0.575
+ },
+ {
+  "app_index": 787,
+  "song_name": "Gathakaalam Antha",
+  "duplicate_of_song_id": 2014,
+  "duplicate_of_name": "Gathakaalam Anthaa Kaachaavu Nee Krupalo",
+  "title_score": 0.733,
+  "lyric_similarity": 0.574
+ },
+ {
+  "app_index": 798,
+  "song_name": "Aha Anandame",
+  "duplicate_of_song_id": 360,
+  "duplicate_of_name": "Aahaa Aanandame",
+  "title_score": 0.696,
+  "lyric_similarity": 0.932
+ },
+ {
+  "app_index": 806,
+  "song_name": "Janminche",
+  "duplicate_of_song_id": 1917,
+  "duplicate_of_name": "Janminche lokarakshakudu",
+  "title_score": 0.696,
+  "lyric_similarity": 0.836
+ },
+ {
+  "app_index": 807,
+  "song_name": "Kaligiyunna Samasthamu",
+  "duplicate_of_song_id": 2353,
+  "duplicate_of_name": "Kaligiyunna samasthamu needhenayya",
+  "title_score": 0.706,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 808,
+  "song_name": "Prabhu Athma",
+  "duplicate_of_song_id": 2482,
+  "duplicate_of_name": "Prabhu aathma naalo nindiporlinappudu",
+  "title_score": 0.571,
+  "lyric_similarity": 0.883
+ },
+ {
+  "app_index": 813,
+  "song_name": "Yerugani Reethiga",
+  "duplicate_of_song_id": 2349,
+  "duplicate_of_name": "Erugani reethigaa",
+  "title_score": 0.733,
+  "lyric_similarity": 0.579
+ },
+ {
+  "app_index": 814,
+  "song_name": "Yesey Naaku Samasthamu",
+  "duplicate_of_song_id": 2428,
+  "duplicate_of_name": "Yese naaku samasthamu",
+  "title_score": 0.757,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 829,
+  "song_name": "Nee Mandhiraana",
+  "duplicate_of_song_id": 2785,
+  "duplicate_of_name": "Nee Mandhiraanaa Nenundiponaa",
+  "title_score": 0.667,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 831,
+  "song_name": "Ontarini",
+  "duplicate_of_song_id": 1861,
+  "duplicate_of_name": "Ontarini nenu ontarini",
+  "title_score": 0.538,
+  "lyric_similarity": 0.905
+ },
+ {
+  "app_index": 834,
+  "song_name": "Aagipodhu Naa Paata",
+  "duplicate_of_song_id": 2369,
+  "duplicate_of_name": "Aagipodhu naa paata",
+  "title_score": 0.75,
+  "lyric_similarity": 0.93
+ },
+ {
+  "app_index": 865,
+  "song_name": "Na Praanam Na Sarvam",
+  "duplicate_of_song_id": 2813,
+  "duplicate_of_name": "Naa praanam naa sarvam antharangamuna",
+  "title_score": 0.789,
+  "lyric_similarity": 0.942
+ },
+ {
+  "app_index": 869,
+  "song_name": "Sthuthi Aaradhana Parishuddunake",
+  "duplicate_of_song_id": 2814,
+  "duplicate_of_name": "Sthuthi aaraadhana parishuddhunake jeevaadhipathiyaina Yesunake",
+  "title_score": 0.636,
+  "lyric_similarity": 0.749
+ },
+ {
+  "app_index": 870,
+  "song_name": "Thandri Kumaara Shuddathmuda",
+  "duplicate_of_song_id": 2818,
+  "duplicate_of_name": "Thandri kumaara shuddhaathmudaa thriyeka Devudaa",
+  "title_score": 0.618,
+  "lyric_similarity": 0.919
+ },
+ {
+  "app_index": 882,
+  "song_name": "Gnapakam Chesuko",
+  "duplicate_of_song_id": 2283,
+  "duplicate_of_name": "Gnaapakam chesuko Yesayyaa",
+  "title_score": 0.649,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 885,
+  "song_name": "Neeve Maa Dhikku",
+  "duplicate_of_song_id": 2479,
+  "duplicate_of_name": "Yehovaa Raaphaa swasthaparachu Devaa",
+  "title_score": 0.0,
+  "lyric_similarity": 0.715
+ },
+ {
+  "app_index": 888,
+  "song_name": "Unnadu Devudu",
+  "duplicate_of_song_id": 935,
+  "duplicate_of_name": "Unnaadu Devudu Naaku Thodu",
+  "title_score": 0.667,
+  "lyric_similarity": 0.903
+ },
+ {
+  "app_index": 890,
+  "song_name": "Yesayya Naakantu Evaru Lerayya",
+  "duplicate_of_song_id": 1141,
+  "duplicate_of_name": "Yesayyaa Naakantu",
+  "title_score": 0.683,
+  "lyric_similarity": 0.567
+ },
+ {
+  "app_index": 892,
+  "song_name": "Deshama Na Deshama",
+  "duplicate_of_song_id": 3828,
+  "duplicate_of_name": "Deshamaa naa deshamaa deshamaa Bhaaratha deshamaa",
+  "title_score": 0.5,
+  "lyric_similarity": 0.968
+ },
+ {
+  "app_index": 896,
+  "song_name": "Nedaina Nijamaina",
+  "duplicate_of_song_id": 2129,
+  "duplicate_of_name": "Nedainaa nijamaina rakshakuni cherumaa",
+  "title_score": 0.645,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 897,
+  "song_name": "O Deva",
+  "duplicate_of_song_id": 165,
+  "duplicate_of_name": "O Devaa Daya Choopumayyaa",
+  "title_score": 0.0,
+  "lyric_similarity": 0.967
+ },
+ {
+  "app_index": 898,
+  "song_name": "Prardinchu",
+  "duplicate_of_song_id": 2124,
+  "duplicate_of_name": "Praardhinchu neevu praardhinchu",
+  "title_score": 0.727,
+  "lyric_similarity": 0.967
+ },
+ {
+  "app_index": 899,
+  "song_name": "Srama Kaligina",
+  "duplicate_of_song_id": 1864,
+  "duplicate_of_name": "Shrama kaliginaa bhayapadaku",
+  "title_score": 0.56,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 901,
+  "song_name": "Vignapana",
+  "duplicate_of_song_id": 2643,
+  "duplicate_of_name": "Maa ooru maa veedi",
+  "title_score": 0.0,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 902,
+  "song_name": "Adbhutha Vijayam Manadhe",
+  "duplicate_of_song_id": 2137,
+  "duplicate_of_name": "Adbhutha vijayam manade manade Yesuni naamamlo",
+  "title_score": 0.512,
+  "lyric_similarity": 0.617
+ },
+ {
+  "app_index": 903,
+  "song_name": "Ashirwadam",
+  "duplicate_of_song_id": 354,
+  "duplicate_of_name": "Aasheervaadam",
+  "title_score": 0.0,
+  "lyric_similarity": 0.542
+ },
+ {
+  "app_index": 908,
+  "song_name": "Naa Praanama",
+  "duplicate_of_song_id": 338,
+  "duplicate_of_name": "Naa Praanamaa Naa Samasthamaa",
+  "title_score": 0.741,
+  "lyric_similarity": 0.851
+ },
+ {
+  "app_index": 910,
+  "song_name": "Sagam Lokam",
+  "duplicate_of_song_id": 1854,
+  "duplicate_of_name": "Sagam lokam sagam sangham",
+  "title_score": 0.5,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 917,
+  "song_name": "Nuvivvakuntey",
+  "duplicate_of_song_id": 2125,
+  "duplicate_of_name": "Nuvivvakunte edhi ledhayya",
+  "title_score": 0.629,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 919,
+  "song_name": "Saadhyam",
+  "duplicate_of_song_id": 1157,
+  "duplicate_of_name": "Cheekatilo Kaanthivi",
+  "title_score": 0.6,
+  "lyric_similarity": 0.645
+ },
+ {
+  "app_index": 921,
+  "song_name": "Tharinchiponi",
+  "duplicate_of_song_id": 2279,
+  "duplicate_of_name": "Tharinchiponi Nee Premalone",
+  "title_score": 0.667,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 923,
+  "song_name": "Jolaa",
+  "duplicate_of_song_id": 2066,
+  "duplicate_of_name": "Jolaa Prabhu Yesayya odilona jola",
+  "title_score": 0.0,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 924,
+  "song_name": "Kanipettuchuntini",
+  "duplicate_of_song_id": 2420,
+  "duplicate_of_name": "Kanipettuchuntini Prabhuvaa nee sannidhini",
+  "title_score": 0.593,
+  "lyric_similarity": 0.612
+ },
+ {
+  "app_index": 928,
+  "song_name": "Neevu Leni Brathukunu",
+  "duplicate_of_song_id": 2284,
+  "duplicate_of_name": "Neevu leni brathukunu oohinchalenu",
+  "title_score": 0.632,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 939,
+  "song_name": "Neeve",
+  "duplicate_of_song_id": 1358,
+  "duplicate_of_name": "Neeve Aashrayadurgam",
+  "title_score": 0.5,
+  "lyric_similarity": 0.781
+ },
+ {
+  "app_index": 941,
+  "song_name": "Yegedhanu",
+  "duplicate_of_song_id": 167,
+  "duplicate_of_name": "Egedanu Ne Cheredanu",
+  "title_score": 0.0,
+  "lyric_similarity": 0.943
+ },
+ {
+  "app_index": 944,
+  "song_name": "Kanipettu Chuntini",
+  "duplicate_of_song_id": 2420,
+  "duplicate_of_name": "Kanipettuchuntini Prabhuvaa nee sannidhini",
+  "title_score": 0.519,
+  "lyric_similarity": 0.612
+ },
+ {
+  "app_index": 947,
+  "song_name": "Saageda Nenu Yesunilo",
+  "duplicate_of_song_id": 1728,
+  "duplicate_of_name": "Saageda Nenu Yesunilo - Shramayaina Karuvainaa",
+  "title_score": 0.686,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 961,
+  "song_name": "Sundaruda Athiysheyuda",
+  "duplicate_of_song_id": 322,
+  "duplicate_of_name": "Sundarudaa Athishayudaa",
+  "title_score": 0.78,
+  "lyric_similarity": 0.881
+ },
+ {
+  "app_index": 972,
+  "song_name": "Alochinchava",
+  "duplicate_of_song_id": 1826,
+  "duplicate_of_name": "Aalochinchaava o nestham aalochinchaava",
+  "title_score": 0.625,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 975,
+  "song_name": "Naa Hrudhayam",
+  "duplicate_of_song_id": 3789,
+  "duplicate_of_name": "Naa hrudayam paadene nee premane",
+  "title_score": 0.769,
+  "lyric_similarity": 0.814
+ },
+ {
+  "app_index": 981,
+  "song_name": "Yesayya Nee Krupalo",
+  "duplicate_of_song_id": 2109,
+  "duplicate_of_name": "Yesayya nee krupalo nenundute dhanyamu",
+  "title_score": 0.706,
+  "lyric_similarity": 0.945
+ },
+ {
+  "app_index": 1003,
+  "song_name": "Emauthano Ani",
+  "duplicate_of_song_id": 2261,
+  "duplicate_of_name": "Emauthaano ani neekemi chesaanani",
+  "title_score": 0.0,
+  "lyric_similarity": 0.934
+ },
+ {
+  "app_index": 1004,
+  "song_name": "Kannitini Thudiche Daivama",
+  "duplicate_of_song_id": 1768,
+  "duplicate_of_name": "Naakai dheenunigaa bhuviki vachchinaavayaa",
+  "title_score": 0.0,
+  "lyric_similarity": 0.548
+ },
+ {
+  "app_index": 1006,
+  "song_name": "Mahima Neekey",
+  "duplicate_of_song_id": 1284,
+  "duplicate_of_name": "Mahima Neeke Ghanatha Neeke",
+  "title_score": 0.741,
+  "lyric_similarity": 0.882
+ },
+ {
+  "app_index": 1009,
+  "song_name": "Subha Dinam",
+  "duplicate_of_song_id": 2348,
+  "duplicate_of_name": "Shubhadinam ee dinam",
+  "title_score": 0.571,
+  "lyric_similarity": 0.655
+ },
+ {
+  "app_index": 1010,
+  "song_name": "Thaara Velisenu Choodu",
+  "duplicate_of_song_id": 2484,
+  "duplicate_of_name": "Thaara Velisenu Choodu Aakaasamlona",
+  "title_score": 0.76,
+  "lyric_similarity": 0.558
+ },
+ {
+  "app_index": 1012,
+  "song_name": "Baaludu Kaadammo Balavanthudu",
+  "duplicate_of_song_id": 1472,
+  "duplicate_of_name": "Baaludu Kaadammo",
+  "title_score": 0.7,
+  "lyric_similarity": 0.974
+ },
+ {
+  "app_index": 1014,
+  "song_name": "Ee Reyi Challanidhi",
+  "duplicate_of_song_id": 3827,
+  "duplicate_of_name": "Ee reyi challanidi",
+  "title_score": 0.645,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 1016,
+  "song_name": "Hrudayama",
+  "duplicate_of_song_id": 2285,
+  "duplicate_of_name": "Hrudayamaa naa hrudayamaa",
+  "title_score": 0.696,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 1021,
+  "song_name": "Sandhade Sandhadi",
+  "duplicate_of_song_id": 1389,
+  "duplicate_of_name": "Sandadi 3",
+  "title_score": 0.581,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 1022,
+  "song_name": "Digivachenu",
+  "duplicate_of_song_id": 1919,
+  "duplicate_of_name": "Dhigivachchenu maraninchutakai",
+  "title_score": 0.0,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 1024,
+  "song_name": "Kanti Paapavale",
+  "duplicate_of_song_id": 1967,
+  "duplicate_of_name": "Nee kanti paapavale nannu kaachutaku",
+  "title_score": 0.75,
+  "lyric_similarity": 0.917
+ },
+ {
+  "app_index": 1025,
+  "song_name": "Lerevaru",
+  "duplicate_of_song_id": 1777,
+  "duplicate_of_name": "Vedhana tholaginchuvaadu Yese",
+  "title_score": 0.5,
+  "lyric_similarity": 0.942
+ },
+ {
+  "app_index": 1027,
+  "song_name": "Nee Premanu",
+  "duplicate_of_song_id": 1966,
+  "duplicate_of_name": "Nee Premanu Nee Karunanu",
+  "title_score": 0.667,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 1032,
+  "song_name": "Adiyu Neeve",
+  "duplicate_of_song_id": 1675,
+  "duplicate_of_name": "Aadiyu Neeve Anthamu Neeve",
+  "title_score": 0.516,
+  "lyric_similarity": 0.797
+ },
+ {
+  "app_index": 1033,
+  "song_name": "Nindu Manasutho",
+  "duplicate_of_song_id": 1984,
+  "duplicate_of_name": "Nindu manasutho ninnu preminthunu",
+  "title_score": 0.625,
+  "lyric_similarity": 0.886
+ },
+ {
+  "app_index": 1034,
+  "song_name": "Ninnu Kolicheda",
+  "duplicate_of_song_id": 2576,
+  "duplicate_of_name": "Ninnu kolicheda raavayya naa Yesanna",
+  "title_score": 0.56,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 1035,
+  "song_name": "Prema Prema",
+  "duplicate_of_song_id": 2148,
+  "duplicate_of_name": "Prema prema naa Yesuni prema",
+  "title_score": 0.667,
+  "lyric_similarity": 0.617
+ },
+ {
+  "app_index": 1036,
+  "song_name": "Rojantha",
+  "duplicate_of_song_id": 1664,
+  "duplicate_of_name": "Rojanthaa Nee Paada Chentha",
+  "title_score": 0.636,
+  "lyric_similarity": 0.674
+ },
+ {
+  "app_index": 1037,
+  "song_name": "Sajeevudu",
+  "duplicate_of_song_id": 1807,
+  "duplicate_of_name": "Lokaanaa unnadi okade devudu",
+  "title_score": 0.0,
+  "lyric_similarity": 0.63
+ },
+ {
+  "app_index": 1042,
+  "song_name": "Deva Vembadinchithi",
+  "duplicate_of_song_id": 3037,
+  "duplicate_of_name": "Deva vembadinchithi nee naamamun",
+  "title_score": 0.667,
+  "lyric_similarity": 0.995
+ },
+ {
+  "app_index": 1043,
+  "song_name": "Manchivada",
+  "duplicate_of_song_id": 1972,
+  "duplicate_of_name": "Manchivaadaa manchivaadaa",
+  "title_score": 0.562,
+  "lyric_similarity": 0.994
+ },
+ {
+  "app_index": 1052,
+  "song_name": "Naa Gaanam",
+  "duplicate_of_song_id": 2647,
+  "duplicate_of_name": "Naa gaanam neevayya naa hrudayapu pilupu neeve Deva",
+  "title_score": 0.64,
+  "lyric_similarity": 0.989
+ },
+ {
+  "app_index": 1053,
+  "song_name": "Premagala Thandri",
+  "duplicate_of_song_id": 3818,
+  "duplicate_of_name": "Premagala thandri krupagala prabhuva sthuthimahimalu neeke",
+  "title_score": 0.774,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 1057,
+  "song_name": "Vesaarina",
+  "duplicate_of_song_id": 27,
+  "duplicate_of_name": "Vesaarina Manase",
+  "title_score": 0.727,
+  "lyric_similarity": 0.95
+ },
+ {
+  "app_index": 1058,
+  "song_name": "Yepati Dhananaya",
+  "duplicate_of_song_id": 986,
+  "duplicate_of_name": "Epaati Daananayaa",
+  "title_score": 0.69,
+  "lyric_similarity": 0.958
+ },
+ {
+  "app_index": 1059,
+  "song_name": "Aayana Ikkada Ledu",
+  "duplicate_of_song_id": 2189,
+  "duplicate_of_name": "Sajeevudaina vaarini meerela mruthulalo vedakuchunnaaru",
+  "title_score": 0.0,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 1060,
+  "song_name": "Adavi Pushapama",
+  "duplicate_of_song_id": 3826,
+  "duplicate_of_name": "Adavi pushpamaa santhoshinchumaa kasthuree pushpamaa ullasinchumaa",
+  "title_score": 0.0,
+  "lyric_similarity": 0.968
+ },
+ {
+  "app_index": 1061,
+  "song_name": "Anudinamu",
+  "duplicate_of_song_id": 2822,
+  "duplicate_of_name": "Anudinamu noothanamugaa vaathsalyatha neeku kalugunu",
+  "title_score": 0.667,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 1062,
+  "song_name": "Hosanna Ministries",
+  "duplicate_of_song_id": 100,
+  "duplicate_of_name": "Agni Mandinchu",
+  "title_score": 0.0,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 1066,
+  "song_name": "Okka Punya Kaaryamuche",
+  "duplicate_of_song_id": 2786,
+  "duplicate_of_name": "Okka punya kaaryamuche maanavuniki krupaadaaname",
+  "title_score": 0.511,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 1068,
+  "song_name": "Siyonu Kumari",
+  "duplicate_of_song_id": 2821,
+  "duplicate_of_name": "Seeyonu kumaari praakaarama nadi pravaahamu valenu",
+  "title_score": 0.0,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 1069,
+  "song_name": "Alasithiva Prabhu",
+  "duplicate_of_song_id": 2790,
+  "duplicate_of_name": "Alasithivaa Prabhu mokarinchithivaa",
+  "title_score": 0.643,
+  "lyric_similarity": 1.0
+ },
+ {
+  "app_index": 1074,
+  "song_name": "Naa Praana Priyuda Yesu",
+  "duplicate_of_song_id": 795,
+  "duplicate_of_name": "Naa Praanapriyudaa Yesu Raajaa",
+  "title_score": 0.756,
+  "lyric_similarity": 0.952
+ },
+ {
+  "app_index": 1090,
+  "song_name": "Jayamunichu Devuniki",
+  "duplicate_of_song_id": 3730,
+  "duplicate_of_name": "Jayamunichchu Devuniki kotla kotla sthothram",
+  "title_score": 0.684,
+  "lyric_similarity": 0.884
+ }
+]

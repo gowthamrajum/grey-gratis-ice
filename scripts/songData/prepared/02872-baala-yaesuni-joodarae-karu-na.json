@@ -1,0 +1,74 @@
+{
+  "song_name": "Baala Yaesuni Joodarae",
+  "author": {
+    "Authored by": "",
+    "రచన": "చెట్టి భానుమూర్తి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "బాల యేసుని జూడరే కరు ణాల వాలని బాడరే",
+      "కాల పూర్ణత జూచి దేవుడు కొమరుడై జన్మించెనే"
+    ],
+    "english": [
+      "Baala Yaesuni Joodarae Karu Naala Vaalani Baadarae",
+      "Kaala Poornatha Joochi Dhaevudu Komarudai Janmimchenae"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దూతలారా రండి రండి బేతలేమున బుట్టిన",
+        "నూతనాద్భుత శిశువు జూచి స్తోత్రగీతముల్ పాడరే"
+      ],
+      "english": [
+        "Dhoothalaaraa Rmdi Rmdi Baethalaemuna Buttina",
+        "Noothanaadhbhutha Shishuvu Joochi Sthoathrageethamul Paadarae"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గొల్లలారా రండి రండి గొప్ప యుత్సవ మొందరే",
+        "ఎల్ల జనులకు రక్షణంబని యంతటను చాటించరే"
+      ],
+      "english": [
+        "Gollalaaraa Rmdi Rmdi Goppa Yuthsava Momdharae",
+        "Ella Janulaku Rakshnmbani Ymthatanu Chaatimcharae"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "జ్ఞానులారా రండి రండి కానుకల నర్పించరె",
+        "దీనులను రక్షించ దేవుడు మానవుండై బుట్టెను"
+      ],
+      "english": [
+        "Jnyaanulaaraa Rmdi Rmdi Kaanukala Narpimchare",
+        "Dheenulanu Rakshimcha Dhaevudu Maanavumdai Buttenu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "భక్తులారా రండి రండి భజన పాటలు పాడరే",
+        "ముక్తిరాజగు యేసు ప్రభు మన మధ్యనే జన్మించెను"
+      ],
+      "english": [
+        "Bhakthulaaraa Rmdi Rmdi Bhajana Paatalu Paadarae",
+        "Mukthiraajagu Yaesu Prabhu Mana Madhyanae Janmimchenu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "లోకుందరు రండి రండి ఏకమై కీర్తించరే",
+        "శ్రీకరుండౌ యేసు క్రీస్తుడు శ్రీ లొసంగగ వచ్చెను"
+      ],
+      "english": [
+        "Loakumdharu Rmdi Rmdi Aekamai Keerthimcharae",
+        "Shreekarumdau Yaesu Kreesthudu Shree Losmgaga Vachchenu"
+      ]
+    }
+  ]
+}

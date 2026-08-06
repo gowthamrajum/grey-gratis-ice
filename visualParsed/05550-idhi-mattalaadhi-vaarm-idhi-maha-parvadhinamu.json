@@ -1,0 +1,75 @@
+{
+  "song_name": "Idhi mattalaadhi vaaram idhi maha parvadhinamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇది మట్టలాది వారం - ఇది మహ పర్వదినము",
+      "ఇది మధురమైన దినము - ఇది మరపురాని దినము"
+    ],
+    "english": [
+      "Idhi mattalaadhi vaaram - Idhi maha parvadhinamu",
+      "Idhi madhuramaina dinamu - Idhi marapuraani dinamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యోరూషలేము ప్రజలు స్వాగతంబిచ్చినారు",
+        "జయోత్సహంబుతోను ఆహ్వానించి రేసున్  ||ఇది||"
+      ],
+      "english": [
+        "Yerooshalemu prajalu svaagathambichchinaaru",
+        "Jayothsahambuthonu aahvaaninchiri Yesun  ||Idhi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "¬సన్న పాడినారు బట్టను పరచినారు",
+        "చిన్న గార్ధంబు తెచ్చి కూర్చుడ రిచ్చిరేసున్‌  ||ఇది||"
+      ],
+      "english": [
+        "Hosanna paadinaaru battanu parachinaaru",
+        "Chinna gaardhambu thechchi koorchuda richchiri Yesun  ||Idhi||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యూదుల రాజు యేసు నీకు స్వాగతంబునుచు",
+        "జేజేలు పలికినారు మారాజునీ వనుచు  ||ఇది||"
+      ],
+      "english": [
+        "Yoodula raaju Yesu neeku svaagathambunuchu",
+        "Jejelu palikinaaru maa raaju neevanuchu  ||Idhi||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఈత ఖర్జూర మట్టలు చేత పట్టి నిల్చి ప్రజలు",
+        "హల్లెలూయ పాడినారు జయం జయం పల్కినారు  ||ఇది||"
+      ],
+      "english": [
+        "Eetha kharjoora mattalu chetha patti nilchi prajalu",
+        "Hallelooya paadinaaru jayam jayam palkinaaru  ||Idhi||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మరి నీవును ఈ నాడు నీ రాజుగా యేసున్‌",
+        "ఆహ్వానించి చూడు సంతోష మబ్బు నీకు  ||ఇది||"
+      ],
+      "english": [
+        "Mari neevunu ee naadu nee raajugaa Yesun",
+        "Aahvaaninchi choodu santhosha mabbu neeku  ||Idhi||"
+      ]
+    }
+  ]
+}

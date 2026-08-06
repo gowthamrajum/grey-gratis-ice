@@ -1,0 +1,80 @@
+{
+  "song_name": "Yaesudu Raagan Jaesina Dhoshamu",
+  "author": {
+    "Authored by": "",
+    "రచన": "మిక్కిలి ఫ్రెడరిక్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసుఁడు రాఁగన్ జేసిన దోషము నాశన మాయెన్"
+    ],
+    "english": [
+      "Yaesudu Raagan Jaesina Dhoshamu Naashana Maayen"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చింతలు పోయెన్ వింతగ నాకున్ జెంతకుఁ జేర్పఁగ సంతస మాయెన్"
+      ],
+      "english": [
+        "Chinthalu Poayen Vinthaga Naakun Jenthaku Jaerpaga Santhasa Maayen"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సిలువను మోసెన్ గలువరి మెట్టన్ చెలువుగఁ బాపపు బలువును దించెన్"
+      ],
+      "english": [
+        "Siluvanu Moasen Galuvari Mettan Cheluvuga Baapapu Baluvunu Dhinchen"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "శిరమున ముండ్లున్ గరమున మేకులున్ స్థిరముగ నాటఁగ బరమును జూపెన్"
+      ],
+      "english": [
+        "Shiramuna Mundlun Garamuna Maekulun Sthiramuga Naataga Baramunu Joopen"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పదముల మేకులున్ జెదరఁగ రక్తము ఎద నిఁకఁ బ్రేమతో ముదము నొసంగెన్"
+      ],
+      "english": [
+        "Padhamula Maekulun Jedharaga Rakthamu Edha Nika Braemathoa Mudhamu Nosangen"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "రక్షణ జూపెన్ దక్షుఁడు నాకున్ పక్షముతో నిఁక మోక్షము జూపెన్"
+      ],
+      "english": [
+        "Rakshana Joopen Dhakshudu Naakun Pakshamuthoa Nika Moakshamu Joopen"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "రక్తిగ వేఁడన్ శక్తి నొసంగెన్ రక్తము జల్లియు ముక్తిని జూపెన్"
+      ],
+      "english": [
+        "Rakthiga Vaedan Shakthi Nosangen Rakthamu Jalliyu Mukthini Joopen"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "గురువును నమ్ముదున్ భారము వెడలెన్ ధీరునిఁ జేయుచు దారిని జూపెన్"
+      ],
+      "english": [
+        "Guruvunu Nammudhun Bhaaramu Vedalen Dheeruni Jaeyuchu Dhaarini Joopen"
+      ]
+    }
+  ]
+}

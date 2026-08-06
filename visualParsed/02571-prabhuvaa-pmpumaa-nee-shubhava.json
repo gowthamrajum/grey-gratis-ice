@@ -1,0 +1,55 @@
+{
+  "song_name": "Prabhuvaa pampumaa nee shubhavarshamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "ఆల్ఫ్రెడ్ త్యాగరాజు పామర్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభువా పంపుమా నీ శుభవర్షము నిమ్మా ప్రబలంబుగ నీ వాక్యం",
+      "బనెడి విభవామృతము కురియఁజేసి ||ప్రభువా||"
+    ],
+    "english": [
+      "Prabhuvaa pampumaa nee shubhavarshamu nimmaa prabalambuga nee vaakyam",
+      "Banedi vibhavaamruthamu kuriyajesi ||Prabhuvaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వాడియున్నట్టి యీ మోడు వృక్షములే వడిగాఁ జిగురు పెట్టి",
+        "వూచి గాఢంబుగను ఫలము లియ్యఁ  ||ప్రభువా||"
+      ],
+      "english": [
+        "Vaadiyunnatti ee modu vrukshamule vadigaa jiguru petti",
+        "Voochi gaadhambuganu phalamu liyya  ||Prabhuvaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ వాక్యానల శ్రీ దేవా పంపుము భావాఘముల మాడ్చి మనముల్",
+        "పావనంబు బొందునటులఁ  ||ప్రభువా||"
+      ],
+      "english": [
+        "Nee vaakyaanala shree Deva pampumu bhaavaaghamula maadchi manamul",
+        "Paavanambu bondhunatula  ||Prabhuvaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ధరఁ జీకటి కిదియే వే గురుఁ చుక్క ప్రభువా సరళంబుగా యాత్రికులు",
+        "నడచి పరమపదంబును బొందఁగఁ జేయుచుఁ  ||ప్రభువా||"
+      ],
+      "english": [
+        "Dhara jeekati kidhiye ve guru chukka Prabhuvaa saralambugaa yaathrikulu",
+        "Nadachi paramapadhambunu bondhaga jeyuchu  ||Prabhuvaa||"
+      ]
+    }
+  ]
+}

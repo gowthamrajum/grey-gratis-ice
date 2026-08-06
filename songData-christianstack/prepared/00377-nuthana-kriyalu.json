@@ -1,0 +1,34 @@
+{
+  "song_name": "Nuthana Kriyalu",
+  "author": {
+    "Authored by": "Pastor Praveen",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నూతన క్రియలు చేయుచున్నావని నీవు సెలవియ్యగా",
+      "నూతన మనసుతో నను నింపెదవని నీవు సెలవియ్యగా",
+      "నా అరణ్యరోధనయే ఉల్లాసముగా మారెనె",
+      "నా యెడారి జీవితమే సుఖసౌక్యముగా మారెనె"
+    ],
+    "english": [
+      "Noothana Kriyalu cheyuchunnaavani neevu selaviyyagaa",
+      "noothana manasutho nanu nimpedhavani neevu selaviyyagaa",
+      "naa aranya rodhanye ullaasamugaa maarene",
+      "naa edaari jeevithame sukha soukyamugaa maarene"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హల్లెలూయ గానాలతో హోసన్న గీతాలతో – 2",
+        "నిన్ను ఆరాధింతును ఘనపరతును నిన్ను కీర్తింతును – 2 ॥ నూతన ॥"
+      ],
+      "english": [
+        "Hallelujah gaanaalatho hosanna geethaalatho – 2",
+        "ninnu aaraadhinthunu ghanaparathunu ninnu keerthinthunu – 2 ॥ Noothana ॥"
+      ]
+    }
+  ]
+}

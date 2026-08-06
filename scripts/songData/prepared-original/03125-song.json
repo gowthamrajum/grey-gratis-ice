@@ -1,0 +1,58 @@
+{
+  "song_name": "జనగణ మన అధినాయక జయహే భారత భాగ",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జనగణ మన అధినాయక జయహే భారత భాగ్యవిధాత"
+      ],
+      "english": [
+        "janagaNa mana aDhinaayaka jayahae bhaaratha bhaagyaviDhaatha"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పంజాబ సింధు గుజరాత మరాట ద్రావిడ ఉత్కళ వంగ"
+      ],
+      "english": [
+        "pMjaaba siMDhu gujaraatha maraata dhraavida uthkaLa vMga"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వింధ్య హిమాచల యమునా గంగ ఉచ్ఛల జలధి తరంగ"
+      ],
+      "english": [
+        "viMDhya himaachala yamunaa gMga uchChala jalaDhi tharMga"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "తవశుభనామే జాగే తవశుభ ఆశిషమాగే గాహే తవ జయ గాథ"
+      ],
+      "english": [
+        "thavashubhanaamae jaagae thavashubha aashiShmaagae gaahae thava jaya gaaTha"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "జనగణ మంగళ దాయక జయహే భారత భాగ్య విధాత జయహే జయహే జయహే జయ జయ జయ జయహే"
+      ],
+      "english": [
+        "janagaNa mMgaLa dhaayaka jayahae bhaaratha bhaagya viDhaatha jayahae jayahae jayahae jaya jaya jaya jayahae"
+      ]
+    }
+  ]
+}

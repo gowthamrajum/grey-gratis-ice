@@ -1,0 +1,82 @@
+{
+  "song_name": "Khandimpavalenu Dhurgunamulu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఖండింపవలెను దుర్గుణములు ఖండింపవలెను",
+      "ఖండింపవలెఁ బాప ముండఁజూచి యేసు నండఁజేరి మన గుండె పదిలముఁ జేసి"
+    ],
+    "english": [
+      "Khandimpavalenu Dhurgunamulu Khandimpavalenu",
+      "Khandimpavale Baapa Mundajoochi Yaesu Nandajaeri Mana Gunde Padhilamu Jaesi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అంధత్వమునను రక్షణమార్గ మందుఁ జేరకయు",
+        "ఎందెందుఁ జూ చిన సందులేక పాప మందు మునిఁగి",
+        "నరలా నందమోందక చెడిరి"
+      ],
+      "english": [
+        "Andhathvamunanu Rakshanamaarga Mandhu Jaerakayu",
+        "Endhendhu Joo China Sandhulaeka Paapa Mandhu Munigi",
+        "Naralaa Nandhamoandhaka Chediri"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎందు కీ భ్రమలు నీ యందుండు సందేహము వీడు",
+        "పొందుగ యేసు సం బంధు డవై యున్న",
+        "నందమైన మోక్ష మందుఁ జేరుట కొఱకు"
+      ],
+      "english": [
+        "Endhu Kee Bhramalu Nee Yandhundu Sandhaehamu Veedu",
+        "Pondhuga Yaesu Sam Bandhu Davai Yunna",
+        "Nandhamaina Moaksha Mandhu Jaeruta Koraku"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బెదరక నీవు సాతానుని నెదిరింపవలెను",
+        "కుదురుగ నీ యేసు చదరునఁ జేరిన",
+        "వదరుబోతు లెల్ల నెదురాడ లేరిఁక"
+      ],
+      "english": [
+        "Bedharaka Neevu Saathaanuni Nedhirimpavalenu",
+        "Kudhuruga Nee Yaesu Chadharuna Jaerina",
+        "Vadharuboathu Lella Nedhuraada Laerika"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆసింపబోకు లోకభోగములు మోసమై యుండు",
+        "వాసిగ యేసుని దాసుఁడవైయున్న గాసిఁ జెందక మోక్ష దాసుఁడ వౌదువు"
+      ],
+      "english": [
+        "Aasimpaboaku Loakabhoagamulu Moasamai Yundu",
+        "Vaasiga Yaesuni Dhaasudavaiyunna Gaasi Jendhaka Moaksha Dhaasuda Vaudhuvu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నమ్మి జీవించు యేసుని యందు నెమ్మదిఁ బొందు",
+        "రమ్ము యేసుని యొద్ద సొమ్ము నీకున్నది",
+        "సమ్మతించి మదిని నెమ్మదిగాఁ జూచి"
+      ],
+      "english": [
+        "Nammi Jeevinchu Yaesuni Yandhu Nemmadhi Bondhu",
+        "Rammu Yaesuni Yodhdha Sommu Neekunnadhi",
+        "Sammathinchi Madhini Nemmadhigaa Joochi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "song_name": "Nee kanti paapavale nannu kaachutaku",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Joel Kodali"
+    ],
+    "రచన": [
+      "జోయెల్ కొడాలి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ కంటి పాపవలె నన్ను కాచుటకు",
+      "నేను అర్హుడనా నేను అర్హుడనా",
+      "ఘోరపాపినైన నన్ను మన్నించుటకు",
+      "నేను అర్హుడనా నేను అర్హుడనా"
+    ],
+    "english": [
+      "Nee kanti paapavale nannu kaachutaku",
+      "Nenu arhudanaa nenu arhudanaa",
+      "Ghorapaapinaina nannu manninchutaku",
+      "Nenu arhudanaa nenu arhudanaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వేదనను భరియించి",
+        "అవమానం సహియించి",
+        "నా కొరకు సిలువలో",
+        "ప్రాణమును అర్పించుటకు",
+        "నేను అర్హుడనా"
+      ],
+      "english": [
+        "Vedananu bhariyinchi",
+        "Avamaanam sahiyinchi",
+        "Naa koraku siluvalo",
+        "Praanamunu arpinchutaku",
+        "Nenu arhudanaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నన్ను పరమున చేర్చుటకు – నీవే నా దరి చేరితివి",
+        "నాకు విడుదల నిచ్చుటకు – నా దోషములను మోసితివి",
+        "నా శాపము తొలగించుటకు – నీవే పాపముగా మారి",
+        "నన్ను శుద్ధుని చేయుటకు – నీ రక్తము చిందించితివి",
+        "నాలో ఊపిరి నిలుపుటకు – నీ తుది శ్వాస వీడితివి",
+        "ఇంత ప్రేమ చూపుటకు – నే అర్హుడనా",
+        "అల్పుడను నను కరుణించి – రక్షణ కవచము నాకిచ్చి",
+        "యోగ్యుడవంటు నను పిలచి – నీ వారసునిగా చేసితివి",
+        "అర్పింతును దేవా నీకే – సర్వ ఘనత ప్రభావములు",
+        "నా జీవిత పరియంతము – నీ దాసుడనై బ్రతికెదను",
+        "నీ లను హత్తుకుని – అద్దరి చేరుకుందునయా",
+        "నీ మహిమా కాంతులలో – నివసింతునయా"
+      ],
+      "english": [
+        "Nannu paramuna cherchutaku - Neeve naa dari cherithivi",
+        "Naaku vidudala nichchutaku - Naa doshamulanu mosithivi",
+        "Naa shaapamu tholaginchutaku - Neeve paapamugaa maari",
+        "Nannu shuddhuni cheyutaku - Nee rakthamu chindhinchithivi",
+        "Naalo oopiri niluputaku - Nee thudi shwaasa veedithivi",
+        "Intha prema chooputaku - Ne arhudanaa",
+        "Alpudanu nanu karuninchi - Rakshana kavachamu naakichchi",
+        "Yogyudavantu nanu pilachi - Nee vaarasunigaa chesithivi",
+        "Arpinthunu Deva neeke - Sarva ghanatha prabhaavamulu",
+        "Naa jeevitha pariyanthamu - Nee daasudanai brathikedanu",
+        "Nee lanu hatthukuni - Addhari cherukundhunayaa",
+        "Nee mahimaa kaanthulalo - Nivasinthunayaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "song_name": "Shree rakshakuni naamamu keerthinchi kolvudi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శ్రీ రక్షకుని నామము - కీర్తించి కొల్వుడి",
+        "కిరీటముంచి చాటుడి - శ్రీ రాజా, రాజా, రాజా, రాజాధిరాజా!"
+      ],
+      "english": [
+        "Shree rakshakuni naamamu - Keerthinchi kolvudi",
+        "Kireetamunchi chaatudi - Shree raajaa, raajaa, raajaa, raajaadhiraajaa!"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శ్రీ యేసుని హత సాక్షులారా - మీ రాజు యీయనే",
+        "కిరీటముంచి చాటుడి - శ్రీ రాజా, రాజా, రాజా, రాజాధిరాజా!"
+      ],
+      "english": [
+        "Shree Yesuni hatha saakshulaaraa - Mee raaju eeyane",
+        "Kireetamunchi chaatudi - Shree raajaa, raajaa, raajaa, raajaadhiraajaa!"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నరులారా మీ కొరకు - మరణంబు నొందెను",
+        "కిరీటముంచి చాటుడి - శ్రీ రాజా, రాజా, రాజా, రాజాధిరాజా!"
+      ],
+      "english": [
+        "Narulaaraa mee koraku - Maranambu nondenu",
+        "Kireetamunchi chaatudi - Shree raajaa, raajaa, raajaa, raajaadhiraajaa!"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సర్వ జనాంగములారా - శరణ్యు డీయనే",
+        "కిరీటముంచి చాటుడి - శ్రీ రాజా, రాజా, రాజా, రాజాధిరాజా!"
+      ],
+      "english": [
+        "Sarva janaangamulaaraa - Sharanyu deeyane",
+        "Kireetamunchi chaatudi - Shree raajaa, raajaa, raajaa, raajaadhiraajaa!"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పరంబునందు యేసుకు గిరీటముంచుచు",
+        "హర్షంబుతో గీర్తింతుము - శ్రీ రాజా, రాజా, రాజా, రాజాధిరాజా!"
+      ],
+      "english": [
+        "Parambunandhu Yesuku gireetamunchuchu",
+        "Harshambutho geerthinthumu - Shree raajaa, raajaa, raajaa, raajaadhiraajaa!"
+      ]
+    }
+  ]
+}

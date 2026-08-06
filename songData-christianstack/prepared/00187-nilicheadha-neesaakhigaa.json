@@ -1,0 +1,66 @@
+{
+  "song_name": "Nilicheadha Neesaakhigaa",
+  "author": {
+    "Authored by": "Swarna",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవంటి వారు లేరు నా యేసయ్య నీకంటే ఎవరూ లేరు",
+      "నా తోడు నీవే కదా నా యేసయ్య నా బ్రతుకు నీవే కదా"
+    ],
+    "english": [
+      "Nee vanti varu leru naa yesayya,",
+      "Nee kante evaru leru,",
+      "Na thodu neeve kadha naa yesayya,",
+      "Na brathuku neeve kadha,"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నాకోసం నీవే నీకోసం నేనే మనసంతా నీవే బ్రతుకంతా నీకే",
+        "నా స్థితిగతిని మార్చిన దేవా నీకై సాక్షిగా నిలిపిన దేవా"
+      ],
+      "english": [
+        "Na kosam nevve, nee kosam nene",
+        "Manasantha neevey, brathukantha neekey,",
+        "Na sthithi gathini maarchina deva",
+        "Neekai sakshiga nilipina deva"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "-",
+        "ఎన్నెన్నో ఆశలయ్య , అయినాయి దూరముగా",
+        "ఏవేవో కలలయ , పోయాయి వ్యర్థముగా",
+        "చేరాను నిన్ను దేవా నిలిచావు నాకు సదా",
+        "ముగిసిన నాదు కదా చేసావు గొప్ప కథ"
+      ],
+      "english": [
+        "Ennenno ashalayya, ainayi dhooramuga",
+        "Evevo kalalayya, poyayo vyardhamooga",
+        "Cheraanu ninnu deva, nilichaavu naaku sadha",
+        "Mugisina naadhu kadha, cheasaavu goppa kaddha"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "-",
+        "ఎన్నెన్నో భాషలను చేశారు అడి ఆశలుగా",
+        "నే నమ్మిన వారంతా త్రుంచారు బ్రతుకంతా",
+        "చేరావు నన్ను నీవు దాచావు నన్ను నీలో",
+        "విన్నాను నీదు స్వరం పొందాను గొప్ప వరం"
+      ],
+      "english": [
+        "Ennenno bhashalanu cheasaaru adi aasalugaaa",
+        "Nea nammina vaarantha thrunchaaru brathukantha",
+        "Cheasaavu nannu neevu dhaachaavu nannu neelo",
+        "Vinnaanu needhu swaram pondhaanu goppa varam"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "song_name": "Nee Kantipaapavale",
+  "author": {
+    "Authored by": "Joel Kodali",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ కంటి పాపవలె నన్ను కాచుటకు",
+      "నేను అర్హుడనా నేను అర్హుడనా",
+      "ఘోరపాపినైన నన్ను మన్నించుటకు",
+      "నేను అర్హుడనా నేను అర్హుడనా"
+    ],
+    "english": [
+      "Nee kantipaapavale nannu kaachutaku",
+      "nenu arhudanaa nenu arhudanaa",
+      "ghorapaapinaina nannu manninchutaku",
+      "nenu arhudanaa nenu arhudanaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వేదనను భరియించి",
+        "అవమానం సహియించి",
+        "నా కొరకు సిలువలో",
+        "ప్రాణమును అర్పించుటకు",
+        "నేను అర్హుడనా"
+      ],
+      "english": [
+        "Vedhananu bariyinchi",
+        "avamaanam sahiyinchi",
+        "naa koraku siluvalo",
+        "praanamunu arpinchutaku",
+        "nenu arhudanaa"
+      ]
+    }
+  ]
+}

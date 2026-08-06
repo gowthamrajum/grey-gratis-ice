@@ -1,0 +1,54 @@
+{
+  "song_name": "Ni Mukamu Manoharamu Ni Svaramu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ ముఖము మనోహరము నీ స్వరము మాధుర్యము",
+      "నీ పాదాలు అపరంజి మయము",
+      "యేసయ్యా నా ప్రాణ ప్రియుడా మనగలనా నిను వీడి క్షణమైన"
+    ],
+    "english": [
+      "Ni Mukamu Manoharamu Ni Svaramu Madhuryamu",
+      "Ni Padalu Aparamji Mayamu",
+      "Yesayya Na Prana Priyuda Managalana Ninu Vidi Kshanamaina"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవే నాతోడువై నీవే నాజీవమై నా హృదిలోన నిలిచిన జ్ణాపికవై",
+        "అణువణువున నీకృప నిక్షిప్తమై నను ఎన్నడు వీడని అనుబంధమై"
+      ],
+      "english": [
+        "Nive Natoduvai Nive Najivamai Na Hrudilona Nilichina Jnapikavai",
+        "Anuvanuvuna Nikrupa Nikshiptamai Nanu Ennadu Vidani Anubamdhamai"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీవే నా శైలమై నీవే నాశృంగమై నా విజయానికే నీవు భుజబలమై",
+        "అనుక్షణమున శత్రువుకు ప్రత్యక్షమై నను వెనుదీయనీయక వెన్ను తట్టినావు"
+      ],
+      "english": [
+        "Nive Na Sailamai Nive Nasrumgamai Na Vijayanike Nivu Bujabalamai",
+        "Anukshanamuna Satruvuku Pratyakshamai Nanu Venudiyaniyaka Vennu Tattinavu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీవే వెలుగువై నీవే ఆలయమై నా నిత్యత్వమునకు ఆద్యంతమై",
+        "అమరలోకాన శుద్ధులతో పరిచయమై నను మైమరచి నేనేమి చేసేదనో"
+      ],
+      "english": [
+        "Nive Veluguvai Nive Alayamai Na Nityatvamunaku Adyamtamai",
+        "Amaralokana Suddhulato Parichayamai Nanu Maimarachi Nenemi Chesedano"
+      ]
+    }
+  ]
+}

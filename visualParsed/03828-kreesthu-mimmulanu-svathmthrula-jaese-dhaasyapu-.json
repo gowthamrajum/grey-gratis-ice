@@ -1,0 +1,64 @@
+{
+  "song_name": "Kreesthu mimmulanu svathanthrula jese dhaasyapu kaadiki chikkukonaku",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "క్రీస్తు మిమ్ములను స్వతంత్రుల జేసె",
+      "దాస్యపు కాడికి చిక్కుకొనకు"
+    ],
+    "english": [
+      "Kreesthu mimmulanu svathanthrula jese",
+      "Dhaasyapu kaadiki chikkukonaku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవు ఈ లోకములో నున్నను - కాని ఈ లోకమునకు జెందవు",
+        "లోకముతో ఏకీభవించకు లోకపు కాడికి చేరకుము"
+      ],
+      "english": [
+        "Neevu ee lokamulo nunnanu - Kaani ee lokamunaku jendhavu",
+        "Lokamutho ekeebhavinchaku lokapu kaadiki cherakumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ శరీరేచ్ఛ దురాశలను సిలువపైన అంత మొందించు",
+        "పరిశుద్ధాత్మచే నడిపింపబడి శరీర ఆశల నెరవేర్చకు"
+      ],
+      "english": [
+        "Nee shareerechcha dhuraashalanu siluvapaina antha mondhinchu",
+        "Parishudhdhaathmache nadipimpabadi shareera aashala neraverchaku"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దేవుని వాత్సల్యమును పరిశుద్ధముగా మీ శరీరములన్",
+        "అనుకూల సజీవ యాగముగ అర్పించుకొనుడి ప్రభువునకే"
+      ],
+      "english": [
+        "Devuni vaathsalyamunu parishuddhamugaa mee shareeramulan",
+        "Anukoola sajeeva yaagamuga arpinchukonudi Prabhuvunake"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మీరు క్రీస్తుతో లేపబడిన పైనున్న వాటినే వెదకుడి",
+        "లోకమునకు మీరు మరణించి పరలోక వాటినే ప్రేమించుడి"
+      ],
+      "english": [
+        "Meeru Kreesthutho lepabadina painunna vaatine vedhakudi",
+        "Lokamunaku meeru maraninchi paraloka vaatine preminchudi"
+      ]
+    }
+  ]
+}

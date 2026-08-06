@@ -1,0 +1,53 @@
+{
+  "song_name": "Aamen halleluyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆమెన్ హల్లెలుయా – యేసు క్రీస్తు కల్లెలుయా",
+      "ఆమెన్ హల్లెలుయా – యేసున కానంద స్తోత్రము"
+    ],
+    "english": [
+      "Aamen halleluyaa – Yesu Kreesthu kalleluyaa",
+      "Aamen halleluyaa – Yesuna kaanandha sthothramu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చుక్క బుట్టెను – సూర్యుని వెలుగు గలిగెను",
+        "అక్షయ క్రీస్తుడు – మనకు రక్షణ నిచ్చెను  ||ఆమెన్||"
+      ],
+      "english": [
+        "Chukka buttenu – Sooryuni velugu galigenu",
+        "Akshaya Kreesthudu – Manaku rakshana nichchenu  ||Aamen||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గొల్ల లేగిరి – ముందు గొల్ల లేగిరి",
+        "కృతజ్ఞత స్తుతులు – యేసుకు చెల్లించి వెళ్ళిరి  ||ఆమెన్||"
+      ],
+      "english": [
+        "Golla legiri – Mundu golla legiri",
+        "Kruthajnatha sthuthulu – Yesuku chellinchi velliri  ||Aamen||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "జ్ఞాను లేగిరి – తూర్పు జ్ఞాను లేగిరి",
+        "సాంబ్రాణి బోళము – బంగారు సమర్పించిరి  ||ఆమెన్||"
+      ],
+      "english": [
+        "Jnaanu legiri – Thoorpu jnaanu legiri",
+        "Saambraani bolamu – Bangaaru samarpinchiri  ||Aamen||"
+      ]
+    }
+  ]
+}

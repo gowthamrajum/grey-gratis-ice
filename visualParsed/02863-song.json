@@ -1,0 +1,44 @@
+{
+  "song_name": "Thandri vantivaadu manaku dharanini boshinchuvaadu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "దేవుఁడు బలే మంచివాఁడు ధరణిని బాలించువాఁడు ఈవుల నిచ్చువా"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "తండ్రి వంటివాఁడు మనకు ధరణిని బోషించువాఁడు దండ్రి ప్రియుఁ",
+      "డు నందరికిఁ దగినవాని నొసగువాఁడు ||దేవుఁడు||"
+    ],
+    "english": [
+      "Thandri vantivaadu manaku dharanini boshinchuvaadu dhandri priyu",
+      "du nandhariki dhaginavaani nosaguvaadu ||Devudu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అన్నవస్త్రములనే గాక యన్నిఁటిని నిచ్చువాడు మన్ననతోఁ బ్రోచు",
+        "వాడు మనతో నెప్పుడు మెలఁగువాఁడు ||దేవుఁడు||"
+      ],
+      "english": [
+        "Annavasthramulane gaaka yannitini nichchuvaadu mannanatho brochu",
+        "vaadu manatho neppudu melaguvaadu ||Devudu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కష్టబాధలందు మనలఁ గనికరముతోఁ గాచువాఁడు దుష్టమనసు తీసివేసి",
+        "యిష్టముతో నుండువాఁడు ||దేవుఁడు||"
+      ],
+      "english": [
+        "Kashtabaadhalandhu manala ganikaramutho gaachuvaadu dhushtamanasu theesivesi",
+        "ishtamutho nunduvaadu ||Devudu||"
+      ]
+    }
+  ]
+}

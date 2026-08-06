@@ -1,0 +1,53 @@
+{
+  "song_name": "Sarihaddhulu Leni Prema",
+  "author": {
+    "Authored by": "Pr.William Carey & Esther",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ కృపతో నింపిన నా జీవితం…..",
+      "మహోన్నత సేవకే అంకితం..",
+      "నా ఊహకు అందని నీ త్యాగమే",
+      "నన్ను నీలో స్థిరపరచెను…."
+    ],
+    "english": [
+      "Nee krupatho nimpina naa jeevitham",
+      "mahoonnatha sevakey ankitham",
+      "naa oohaku andhani nee thaagamey",
+      "nannu neelo sthiraparachenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సరిహద్దులు లేని శాశ్వత ప్రేమను నాపై చూపావు",
+        "అవధులు లేని ఆనందముతో అనుదినము స్తుతి పాడెద…"
+      ],
+      "english": [
+        "Sarihaddhulu leyni saasvatha premanu naapai choopaavu",
+        "avadhulu leyni aanandhamutho anudhinamu sthuthi paadedha"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [],
+      "english": [
+        "Unnatha sthalamulalo nannu nadipinchey needhu sankalpamu",
+        "oohaku minchina kaaryamu cheyutaye neekey saadhyamu",
+        "naa madhura geethika neeveynayyaa",
+        "nee mahimathoo nannu nimpumayaa",
+        "Pilupuku thaginatlu jeevinchutaye needhu chitthamu",
+        "neethimanthulamai movvaveyudhamu",
+        "needhu sannidhilo",
+        "naa sthuthimaalika neevenayyaa",
+        "nee siluva needalo dhachumayaa",
+        "Andani sikharamupai nannu nimputaku yaagamaithivi",
+        "aakaankshatho nenu kanipettukondhunu needhu raakakai",
+        "naa prathi aasa seeyonukey",
+        "nee aalochanatho nadupumayaa"
+      ]
+    }
+  ]
+}

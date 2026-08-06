@@ -1,0 +1,57 @@
+{
+  "song_name": "Aascharyakarudaa needu krupa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Yesanna"
+    ],
+    "రచన": [
+      "బ్రదర్ యేసన్న"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆశ్చర్యకరుడా నీదు కృపా - అనుదినం అనుభవించెద",
+      "ఆది అంతము లేనిది - నీ కృప శాశ్వతమైనది"
+    ],
+    "english": [
+      "Aascharyakarudaa needu krupaa - Anudinam anubhavinchedha",
+      "Aadi anthamu lenidi - Nee krupa shaashwathamainadi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రేమతో పిలిచి నీతితో నింపి - రక్షించినది కృపయే (2)",
+        "జయ జీవితమును చేసెదను - అమూల్యమైన కృపతో (2)  ||ఆశ్చర్యకరుడా||"
+      ],
+      "english": [
+        "Prematho pilichi neethitho nimpi - Rakshinchinadi krupaye (2)",
+        "Jaya jeevithamunu chesedanu - Amoolyamaina krupatho (2)  ||Aascharyakarudaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆకాశము కంటె ఉన్నతమైనది - నీ దివ్యమైన కృపయే (2)",
+        "పలు మార్గములలో స్థిరపరచినది - నవనూతన కృపయే (2)  ||ఆశ్చర్యకరుడా||"
+      ],
+      "english": [
+        "Aakaashamu kante unnathamainadi - Nee divyamaina krupaye (2)",
+        "Palu maargamulalo sthiraparachinadhi - Navanoothana krupaye (2)  ||Aascharyakarudaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యేసయ్యా - నీ కృపాతిశయము నిత్యము కీర్తించెదను (2)",
+        "నీ కృపను గూర్చి పాడెదను - ఆత్మానందముతో (2)  ||ఆశ్చర్యకరుడా||"
+      ],
+      "english": [
+        "Yesayyaa - Nee krupaathishayamu nithyamu keerthinchedanu (2)",
+        "Nee krupanu goorchi paadedanu - Aathmaanandhamutho (2)  ||Aascharyakarudaa||"
+      ]
+    }
+  ]
+}

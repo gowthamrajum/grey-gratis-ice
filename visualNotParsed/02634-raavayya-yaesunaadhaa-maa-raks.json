@@ -1,0 +1,75 @@
+{
+  "song_name": "Raavayya Yesunaadhaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "రావయ్య యేసునాధా మా రక్షణమార్గము నీ సేవఁ జేయ మమ్ముఁ",
+      "జేపట్టుటకు ||రావయ్య||"
+    ],
+    "english": [
+      "Raavayya Yesunaadhaa maa rakshanamaargamu nee sevan jeya mammun",
+      "Jepattutaku ||Raavayya||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హద్దు లేక మేము ఇల మొద్దులమై యుంటిమి మా కొద్ది బుద్ధులన్ని",
+        "దిద్ది రక్షింపను  ||రావయ్య||"
+      ],
+      "english": [
+        "Haddu leka memu ila moddhulamai yuntimi maa koddi buddhulanni",
+        "Dhiddhi rakshimpanu ||Raavayya||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిండు వేడుకతోను మమ్ము బెండువడక చేసి మా గండంబు",
+        "లన్నియు ఖండించుటకు  ||రావయ్య||"
+      ],
+      "english": [
+        "Nindu vedukathonu mammu benduvadaka chesi maa gandambu",
+        "Lanniyu khandinchutaku ||Raavayya||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మేర లేని పాపము మాకు భారమైన మోపు నీవు దూరంబుగాఁ",
+        "జేసి దారిఁ జూపుటకు  ||రావయ్య||"
+      ],
+      "english": [
+        "Mera leni paapamu maaku bhaaramaina mopu neevu dhoorambugaan",
+        "Jesi dhaarin jooputaku ||Raavayya||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పాపుల మయ్య మేము పరమ తండ్రిని గానకను మా పాపంబు",
+        "లన్నియుఁ పారఁ దోలుటకు  ||రావయ్య||"
+      ],
+      "english": [
+        "Paapula mayya memu parama thandrini gaanakanu maa paapambu",
+        "Lanniyun paaran dholutaku ||Raavayya||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "అందమైన నీదు పరమానంద పురమందు మే మందరముజేరి",
+        "ఆనందించుటకు  ||రావయ్య||"
+      ],
+      "english": [
+        "Andamaina needu paramaananda puramandhu me mandharamujeri",
+        "Aanandhinchutaku ||Raavayya||"
+      ]
+    }
+  ]
+}

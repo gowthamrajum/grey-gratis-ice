@@ -1,0 +1,86 @@
+{
+  "song_name": "Manamu kanikarimpabadi samayochithamaina sahaayamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "వెళ్ళెదము మరి ధైర్యముతో కృపాసనము చేరను",
+      "తన కనికరము కృపలను పొంద తానె సహాయకుడు"
+    ],
+    "english": [
+      "Velledamu mari dhairyamutho krupaasanamu cheranu",
+      "Thana kanikaramu krupalanu ponda thaane sahaayakudu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మన ప్రార్థన ప్రభువాలకించి - అత్యధికముగా మనకిచ్చును",
+        "మేల్కొని మనము ప్రార్థించిన - ఆశీర్వదించునుగా"
+      ],
+      "english": [
+        "Mana praarthana prabhuvaalakinchi - Athyadhikamugaa manakichchunu",
+        "Melkoni manamu praarthinchina - Aasheervadhinchunugaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆత్మలనెల్ల ప్రభు రక్షించి - తన మందిరమునకు తెచ్చి",
+        "తన ఆలయములో మేలుపొంద - వేడెదము మనము"
+      ],
+      "english": [
+        "Aathmalanella Prabhu rakshinchi - Thana mandhiramunaku thechchi",
+        "Thana aalayamulo melupondha - Vededhamu manamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అందరికి రక్షణ కలుగ - రాజులకు అధికారులలో",
+        "సర్వలోకుల ఉజ్జీవముకై - వేడెదము ప్రభునే"
+      ],
+      "english": [
+        "Andariki rakshana kaluga - Raajulaku adhikaarulalo",
+        "Sarvalokula ujjeevamukai - Vededhamu Prabhune"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "వాక్యము వర్ధిల్లి వ్యాపింపను - శత్రుని రాజ్యము కూలునట్లు",
+        "సేవకులాత్మతో నింపబడ - వేడెదము మనము"
+      ],
+      "english": [
+        "Vaakyamu vardhilli vyaapimpanu - Shathruni raajyamu koolunatlu",
+        "Sevakulaathmatho nimpabada - Vededhamu manamu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఆత్మతో ప్రభుయింటిని కట్టి - దాని యందు ప్రభు మహిమనిండి",
+        "తన ఘనత వర్ధిల్లునట్లు - వేడెదమాయనను"
+      ],
+      "english": [
+        "Aathmatho Prabhu intini katti - Daani yandu Prabhu mahimanindi",
+        "Thana ghanatha vardhillunatlu - Vededhamaayananu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "సజీవ రాళ్ళతో యిల్లుకట్టి - నీ అధికారము నిలుచునట్లు",
+        "దేవా నీ హృదయానుసారులను - లేపమని వేడెదం"
+      ],
+      "english": [
+        "Sajeeva raallatho illukatti - Nee adhikaaramu niluchunatlu",
+        "Devaa nee hrudhayaanusaarulanu - Lepamani vededham"
+      ]
+    }
+  ]
+}

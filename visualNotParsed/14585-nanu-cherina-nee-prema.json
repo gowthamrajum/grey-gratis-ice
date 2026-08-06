@@ -1,0 +1,66 @@
+{
+  "song_name": "Nanu cherina nee prema",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నను చేరిన నీ ప్రేమ",
+      "తొలగించని నీ ప్రేమ",
+      "జీవితానికి చాలిన – యేసు నీ ప్రేమ",
+      "నిను నేను విసిగించినా",
+      "నిను విడచి పారిపోయినా",
+      "నిను నేను హింసించినా – వీడని ప్రేమ",
+      "నన్ను ఓర్చి దరికి చేర్చి",
+      "స్నేహించి నను ప్రేమించి",
+      "జీవమునిచ్చి నను దీవించి",
+      "నీ పాత్రగ మలిచావు (2) ||నను చేరిన||"
+    ],
+    "english": [
+      "Nanu cherina nee prema",
+      "Tholaginchani nee prema",
+      "Jeevithaaniki chaalina - Yesu nee prema",
+      "Ninu nenu visiginchinaa",
+      "Ninu vidachi paaripoyinaa",
+      "Ninu nenu himsinchinaa - Veedani prema",
+      "Nannu orchi dariki cherchi",
+      "Snehinchi nanu preminchi",
+      "Jeevamunichchi nanu deevinchi",
+      "Nee paathraga malichaavu (2) ||Nanu cherina||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ ప్రేమ నన్ను మార్చింది",
+        "నీ రక్తం నన్ను కడిగింది",
+        "నీ వాక్యం నన్ను నిలిపింది",
+        "నీ మరణం జీవమునిచ్చింది (2) ||నన్ను ఓర్చి||"
+      ],
+      "english": [
+        "Nee prema nannu maarchindi",
+        "Nee raktham nannu kadigindhi",
+        "Nee vaakyam nannu nilipindhi",
+        "Nee maranam jeevamunichchindhi (2) ||Nannu orchi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ మాట నాకు ధైర్యంగా",
+        "నీ స్పర్శ నాకు నెమ్మదిగా",
+        "నీ ప్రేమ నాకు ఊపిరిగా",
+        "నీ స్వరము నాకు శాంతిగా (2) ||నన్ను ఓర్చి||"
+      ],
+      "english": [
+        "Nee maata naaku dhairyangaa",
+        "Nee sparsha naaku nemmadhigaa",
+        "Nee prema naaku oopirigaa",
+        "Nee swaramu naaku shaanthigaa (2) ||Nannu orchi||"
+      ]
+    }
+  ]
+}

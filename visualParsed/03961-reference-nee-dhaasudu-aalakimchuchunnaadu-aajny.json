@@ -1,0 +1,66 @@
+{
+  "song_name": "Naathaa Samooyelu Reethi - Neeyaamodha Shabdamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నాథా! సమూయేలు రీతి - నీయామోద శబ్దము",
+        "సేవకుడనైన నన్ను - నిప్పుడాలకింపని",
+        "నాతో నీవేమందువో - నేనాలించువాడనే"
+      ],
+      "english": [
+        "Naathaa! Samooyelu reethi - Neeyaamodha shabdamu",
+        "Sevakudanaina nannu - Nippudaalakimpani",
+        "Naatho neevemandhuvo - Nenaalinchuvaadane"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ మాట గ్రహించునట్లు - దాని దేటపర్చుము",
+        "నిన్ను వెంబడించునట్లు - నిబ్బరింప జేయుము",
+        "నేను నీదు గొఱ్ఱెను - బండనీడల్ మేపుము"
+      ],
+      "english": [
+        "Nee maata grahinchunatlu - Daani dhetaparchumu",
+        "Ninnu vembadinchunatlu - Nibbarimpa jeyumu",
+        "Nenu needu gorrenu - Bandaneedal mepumu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నేను స్వల్ప శిష్యుడను - నన్ నిరాకరింపకు",
+        "నిన్నాలింప ఎంతయాశ - నీ వెరింగియుందువు",
+        "ఆత్మ యక్కరల్ తీర్చు - ధన్యుడన్ నే నౌదును"
+      ],
+      "english": [
+        "Nenu swalpa shishyudanu - Nan niraakarimpaku",
+        "Ninnaalimpa enthayaasha - Nee veringiyundhuvu",
+        "Aathma yakkaral theerchu - Dhanyudan ne naudhunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నాథా! నీ శబ్దమాలింప - నన్ను సిద్ధపర్చుము",
+        "నీదు మాట లక్ష్యపెట్టి - నిత్య సేవ జేయనీ",
+        "నాతో నీవే మందువో - నేనాలించువాడనే"
+      ],
+      "english": [
+        "Naathaa! Nee shabdhamaalimpa - Nannu sidhdhaparchumu",
+        "Needu maata lakshyapetti - Nithya seva jeyanee",
+        "Naatho neeve mandhuvo - Nenaalinchuvaadane"
+      ]
+    }
+  ]
+}

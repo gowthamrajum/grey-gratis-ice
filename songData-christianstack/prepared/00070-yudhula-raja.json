@@ -1,0 +1,38 @@
+{
+  "song_name": "Yudhula Raja",
+  "author": {
+    "Authored by": "Benny Joshua",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పాడెదను నా యేసుకై,",
+      "నే జీవించు చివరి శ్వాస వరకు",
+      "చాటెదన్ నీ సత్యమును",
+      "నే బ్రతుకు దినముల్ ముగిసే వరకు"
+    ],
+    "english": [
+      "Paadedanu naa Yesukai,",
+      "ne jeevinchu chivari shwasa varaku",
+      "Chaatedanu nee sathyamunu,",
+      "naa brathuku dinamulu mugisevaraku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యూదుల రాజా శారోను రోజా",
+        "నీ నామము గొప్పది",
+        "సరిపోల్చలేని దైవము నీవు",
+        "నీ నామము ఉన్నతం"
+      ],
+      "english": [
+        "Yudhula Raja, Sharonu Roja,",
+        "nee naamamu goppadi",
+        "Saripolchaleni daivamu neevu,",
+        "nee naamamu unnatham"
+      ]
+    }
+  ]
+}

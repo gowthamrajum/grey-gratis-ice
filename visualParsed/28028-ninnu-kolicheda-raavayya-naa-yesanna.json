@@ -1,0 +1,51 @@
+{
+  "song_name": "Ninnu kolicheda raavayya naa Yesanna",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Devadas Mungamuri"
+    ],
+    "రచన": [
+      "దేవదాస్ ముంగమూరి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిన్ను కొలిచెద రావయ్యా నా యేసన్నా",
+      "నిన్ను కొలిచెద రావయ్యా",
+      "హృదయ దేవళమందు ముదమున నిన్ను నిల్పి",
+      "భక్తి పుష్పములచే భజియించి పూజించి"
+    ],
+    "english": [
+      "Ninnu kolicheda raavayya naa Yesanna",
+      "Ninnu kolicheda raavayya",
+      "Hrudaya dhevalamandhu mudamuna ninnu nilpi",
+      "Bhakthi pushpamulache bhajiyinchi poojinchi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చెప్పు కొందును రావయ్యా నా పాపంబుల్",
+        "ఒప్పు కొందును రావయ్యా",
+        "పాప క్షమాపణ శాప విమోచన",
+        "పాప బంధితు నాకు చూపిన ప్రేమకై",
+        "దాచుకొందును రావయ్యా నీ రూపము",
+        "చూచుకొందును రావయ్యా",
+        "దోషాత్ముడను నాదు దోషమంతయు బాపి",
+        "రూపమేర్పరచినా దాపునుండిన రాజా"
+      ],
+      "english": [
+        "Cheppu kondhunu raavayya naa paapambul",
+        "Oppu kondhunu raavayya",
+        "Paapa kshamaapana shaapa vimochana",
+        "Paapa bandhithu naaku choopina premakai",
+        "Dhaachukondhunu raavayya nee roopamu",
+        "Choochukondhunu raavayya",
+        "Dhoshaathmudanu naadu dhoshamanthayu baapi",
+        "Roopamerparachinaa daapunundina raajaa"
+      ]
+    }
+  ]
+}

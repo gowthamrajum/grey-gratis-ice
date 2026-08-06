@@ -1,0 +1,66 @@
+{
+  "song_name": "O dhayaanilayaa Prabhuvaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "మొలతాటి విద్యానందము"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ దయానిలయా! ప్రభువా! మా కున్న స్వనీతి బలముగాక నీ",
+      "దయాహృదయంబె నమ్ముచు నీదగు బల్లను జేరఁదెగించితి ||మో దయా||"
+    ],
+    "english": [
+      "O dhayaanilayaa! Prabhuvaa! Maa kunna svaneethi balamugaaka nee",
+      "Dhayaahrudhayambe nammuchu needhagu ballanu jeradheginchithi ||O dayaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లేదు యోగ్యత బల్లకు దిగువ లేకిని నేరుకొనఁగనయినన్ మాదుగతిఁ",
+        "గరుణించియు నెపుడు మార్పునులేని ప్రభుండవైతివి  ||ఓ||"
+      ],
+      "english": [
+        "Ledu yogyatha ballaku dhiguva lekini nerukonaganayinan maadhugathi",
+        "Garuninchiyu nepudu maarpunuleni prabhundavaithivi ||O||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఓ ప్రభుండా! కావున మా పా పోద్భూతంబగు శారీరాత్మల నీ ప్రియంబగు",
+        "క్రీస్తుతనువున నెత్తుటఁ బరిశుద్ధంబగునటుల  ||ఓ||"
+      ],
+      "english": [
+        "O Prabhundaa! Kaavuna maa paa podbhoothambagu shaareeraathmala nee priyambagu",
+        "Kreesthuthanuvuna netthuta barishuddhambagunatula ||O||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆయన మాలోఁబరగను మే మాయనలో జీవింపగను నీ యుగాం",
+        "తముదాఁ క నేకత నీతో జీవించులాగుననో  ||ఓ||"
+      ],
+      "english": [
+        "Aayana maalobaraganu me maayanalo jeevimpaganu nee yugaam",
+        "Thamudhaa ka nekatha neetho jeevinchulaagunano ||O||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యుక్తముగా నాయన మాంసమును నోరెముగా భుజియింపను దన దగు",
+        "రక్తము మేమందఱమును ద్రావను రాగంబడరఁగ దయ చేయుము ప్రభు  ||ఓ||"
+      ],
+      "english": [
+        "Yukthamugaa naayana maamsamunu noremugaa bhujiyimpanu dhana dhagu",
+        "Rakthamu memandaramunu dhraavanu raagambadaraga daya cheyumu prabhu ||O||"
+      ]
+    }
+  ]
+}

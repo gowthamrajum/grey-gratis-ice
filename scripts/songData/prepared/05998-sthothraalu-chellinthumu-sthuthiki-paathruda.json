@@ -1,0 +1,44 @@
+{
+  "song_name": "Sthothraalu Chellinthumu Sthuthiki Paathruda",
+  "author": {
+    "Authored by": "Rev  G Samuel",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తొత్రాలు చెల్లింతుము స్తుతికి పాత్రుడా నా జీవితాంతము అర్పింతును యేసు నాధుడా నీవు చూపిన ప్రేమను నీవు చేసిన మెళ్ళను ఎలుగెత్తి చటన ఈ విస్వమందున"
+    ],
+    "english": [
+      "sthothraalu chelliMthumu sthuthiki paathrudaa naa jeevithaaMthamu arpiMthunu yEsu naaDhudaa neevu chUpina prEmanu neevu chEsina meLLanu elugeththi chatana ee visvamaMdhuna"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మా పట్ల నీకున్న తలంపులు వేరయ్య నీవు చేసిన కార్యములు వర్ణింపలెనయ్య కంటికి కనబడవు చెవికి వినబడవు హ్రుదయానికి గోచరము కానెరవయ్య"
+      ],
+      "english": [
+        "maa patla neekunna thalaMpulu vErayya neevu chEsina kaaryamulu varNiMpalenayya kMtiki kanabadavu cheviki vinabadavu hrudhayaaniki gOcharamu kaaneravayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆత్మియులే అవమానపరచిరే అర్హతలేదని మము తోసివేసిరే నా ప్రభువా ప్రేమిచ్చావే- నీ క్రుపతో బలపరచావే సంఘాన్ని స్థిరపరచి మము ఆదరించావే నా జీవిత యాత్రలో నాతోడు నీవెనయ్య"
+      ],
+      "english": [
+        "aathmiyulE avamaanaparachirE arhathalEdhani mamu thOsivEsirE naa praBhuvaa prEmichchaavE- nee krupathO balaparachaavE saMghaanni sThiraparachi mamu aadhariMchaavE naa jeevitha yaathralO naathOdu neevenayya"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఎవరున్న లేకున్న నీ ప్రేముంటె చాలయ్య బ్రతుకుట నీ కొరకే-చావైన లాభము నీ పాద సేవయే- నా రక్శణ భాగ్యం"
+      ],
+      "english": [
+        "evarunna lEkunna nee prEmuMte chaalayya brathukuta nee korakE-chaavaina laabhamu nee paadha sEvayE- naa rakshaNa BhaagyaM"
+      ]
+    }
+  ]
+}

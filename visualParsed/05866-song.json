@@ -1,0 +1,46 @@
+{
+  "song_name": "Nee vishwaasa naavalo Yesu unnaadaa – Aayana koorchunna naavalo neevu unnaava",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ విశ్వాస నావలో యేసు వున్నాడా -ఆయన కూర్చున్న నావలో నీవు వున్నావ",
+      "తెలుసుకొనుము ఓమనసా తెలుసుకొనుము",
+      "ఇదే అనుకూల సమయము యేసుద్వార"
+    ],
+    "english": [
+      "Nee vishwaasa naavalo Yesu unnaadaa - Aayana koorchunna naavalo neevu unnaava",
+      "Thelusukonumu o manasaa thelusukonumu",
+      "Idhe anukoola samayamu Yesudhvaara"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాప లోకంలో! పాప లోకంలో",
+        "యేసు తప్ప దేవుడున్నాడా",
+        "మన పాపాలు క్షమియించే దేవుడున్నాడా  ||నీ||"
+      ],
+      "english": [
+        "Paapa lokamlo! paapa lokamlo",
+        "Yesu thappa dhevudunnaadaa",
+        "Mana paapaalu kshamiyinche dhevudunnaadaa  ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆహా పరలోకం! ఓహో పరలోకం మనకు యిచ్చే యేసువుండగా",
+        "పాపాన్నే విడిచిపెట్టు యేసు ముందర  ||నీ||"
+      ],
+      "english": [
+        "Aahaa paralokam! oho paralokam manaku ichche Yesuvundagaa",
+        "Paapaanne vidichipettu Yesu mundara  ||Nee||"
+      ]
+    }
+  ]
+}

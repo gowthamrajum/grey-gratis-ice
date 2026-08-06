@@ -1,0 +1,72 @@
+{
+  "song_name": "Inthakaalam nee krupalo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Sampath Kareti"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇంతకాలం నీ కృపలో",
+      "కాచినావు మా దేవా( 2)",
+      "తల్లిలాగా తండ్రిలాగా నీ కౌగిలో",
+      "దాచినావు (2)",
+      "మా ప్రాణ ప్రియుడా మా యేసయ్య",
+      "స్తుతిపాడెదం మా జీవితమంతా(2)"
+    ],
+    "english": [
+      "Inthakaalam nee krupalo",
+      "Kaachinaavu maa Devaa( 2)",
+      "Thallilaagaa thandrilaagaa nee kaugilo",
+      "Daachinaavu (2)",
+      "Maa praana priyudaa maa Yesayya",
+      "Sthuthipaadedam maa jeevithamanthaa(2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కష్టాలలోన నష్టాలలోన",
+        "నడిపించినావు చేయివిడువక",
+        "శోధనలోన క్రుంగియున్న సమయమున",
+        "లేవనెత్తి మమ్ము నిలబెట్టిన దేవ",
+        "మా చేతిలో నీ చేయివేసినావు",
+        "చక్కనైన త్రోవలో సాగిపోమ్మన్నావు...(2)",
+        "నేనున్నానని వాగ్దానమిచ్చావు (2)"
+      ],
+      "english": [
+        "Kashtaalalona nashtaalalona",
+        "Nadipinchinaavu cheyividuvaka",
+        "Shodhanalona krungiyunna samayamuna",
+        "Levanetthi mammu nilabettina Deva",
+        "Maa chethilo nee cheyivesinaavu",
+        "Chakkanaina throvalo saagipommannaavu...(2)",
+        "Nenunnaanani vaagdhaanamichchaavu (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మా స్థితి గతులన్నీ ఎరిగియున్నవాడవు",
+        "క్షణమైనా ఏనాడూ యెడ బాయని దేవా",
+        "మా రక్షణ కర్తవై మా చెంత నిలిచావు",
+        "నీ పిల్లలమైన మమ్ము కాపాడుము దేవా",
+        "పిలచిన మరు క్షణమే పలుకరించువాడవే",
+        "సజీవుడవైన దేవా ఉన్నవాడవే (2",
+        "మా స్తుతికి పాత్రుడా వందనాలయ్య (2)"
+      ],
+      "english": [
+        "Maa sthithi gathulannee erigiyunnavaadavu",
+        "Kshanamainaa enaadoo eda baayani Devaa",
+        "Maa rakshana karthavai maa chentha nilichaavu",
+        "Nee pillalamaina mammu kaapaadumu Devaa",
+        "Pilachina maru kshaname palukarinchuvaadave",
+        "Sajeevudavaina Devaa unnavaadave (2",
+        "Maa sthuthiki paathrudaa vandhanaalayya (2)"
+      ]
+    }
+  ]
+}

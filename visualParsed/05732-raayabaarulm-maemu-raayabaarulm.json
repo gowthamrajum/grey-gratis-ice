@@ -1,0 +1,82 @@
+{
+  "song_name": "Raayabaarulam memu raayabaarulam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాయబారులం మేము రాయబారులం -",
+      "రాయబారులం క్రీస్తు రాయబారులం"
+    ],
+    "english": [
+      "Raayabaarulam memu raayabaarulam -",
+      "Raayabaarulam Kreesthu raayabaarulam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సువార్తను చాటుటయే మేము మా ధ్యేయం -",
+        "సర్వ జనుల రక్షణయే మా భారం",
+        "చాటుతూ సువార్తను చాటుదాం సరిహద్దులు",
+        "చాటుతూ సహరిద్దులు దాటుదాం  ||రాయబారులం||"
+      ],
+      "english": [
+        "Suvaarthanu chaatutaye memu maa dhyeyam -",
+        "Sarva janula rakshanaye maa bhaaram",
+        "Chaatuthoo suvaarthanu chaatudaam sarihaddhulu",
+        "Chaatuthoo sarihaddhulu daatudaam  ||Raayabaarulam||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కల్వరి గిరి కష్టాలే మా ధ్యేయం -",
+        "కన్నీళ్లు కష్టాలే మా గమ్యం",
+        "చాటుతూ సువార్తను దావటుదాం సరిహద్దులు -",
+        "చాటుతూ సరిహద్దులు దాటుదాం  ||రాయబారులం||"
+      ],
+      "english": [
+        "Kalvari giri kashtaale maa dhyeyam -",
+        "Kanneellu kashtaale maa gamyam",
+        "Chaatuthoo suvaarthanu daatudaam sarihaddhulu -",
+        "Chaatuthoo sarihaddhulu daatudaam  ||Raayabaarulam||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నశించుచున్న ఆత్మలయే మా ధ్యేయం -",
+        "నలుమూలల చాటుటయే మా గమ్యం",
+        "చాటుతూ సువార్తను దాటుదాం సరిహద్దులు -",
+        "చాటుతూ సరిహద్దులు దాటుదాం  ||రాయబారులం||"
+      ],
+      "english": [
+        "Nashinchuchunna aathmalaye maa dhyeyam -",
+        "Nalumoolala chaatutaye maa gamyam",
+        "Chaatuthoo suvaarthanu daatudaam sarihaddhulu -",
+        "Chaatuthoo sarihaddhulu daatudaam  ||Raayabaarulam||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పాపము పై పొందెదము ఘన విజయం -",
+        "సాతానును పోరాడి గెలిచెదము",
+        "చాటుదాం...సువార్తను దాటుదాం సరిహద్దులు -",
+        "చాటుతూ సరిహద్దులు",
+        "దాటుదాం రాయబారులం మేము రాయబారులం  ||రాయబారులం||"
+      ],
+      "english": [
+        "Paapamu pai pondedamu ghana vijayam -",
+        "Saathaanunu poraadi gelichedhamu",
+        "Chaatudaam...suvaarthanu daatudaam sarihaddhulu -",
+        "Chaatuthoo sarihaddhulu",
+        "Daatudaam raayabaarulam memu raayabaarulam  ||Raayabaarulam||"
+      ]
+    }
+  ]
+}

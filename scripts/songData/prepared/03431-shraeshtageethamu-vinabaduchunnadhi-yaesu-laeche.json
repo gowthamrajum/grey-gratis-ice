@@ -1,0 +1,96 @@
+{
+  "song_name": "Shraeshtageethamu Vinabaduchunnadhi Yaesu Laechenu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "శ్రేష్టగీతము వినబడుచున్నది యేసు లేచెను",
+      "ఈ కష్టలోకమందు మనకు మిత్రు - డాయనే"
+    ],
+    "english": [
+      "Shraeshtageethamu Vinabaduchunnadhi Yaesu Laechenu",
+      "Ee Kashtaloakamandhu Manaku Mithru - Daayanae"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మాయక్షితిని రక్షింప వచ్చిన పరమ నాయకుడు",
+        "ఈభయంకర చీకటి పోగొట్ట వచ్చిన ప్రభువు"
+      ],
+      "english": [
+        "Maayakshithini Rakshimpa Vachchina Parama Naayakudu",
+        "Eebhayankara Cheekati Poagotta Vachchina Prabhuvu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ముండ్ల కిరీటమును ధరించి ముఖమున గొట్టబడెన్",
+        "ఆగండుదొంగను సిలువలో వ్రేలాడి రక్షించెన్"
+      ],
+      "english": [
+        "Mundla Kireetamunu Dharinchi Mukhamuna Gottabaden",
+        "Aagandudhonganu Siluvaloa Vraelaadi Rakshinchen"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "హీనమైన ఈటెతోడ ప్రక్కన గ్రుచ్చబడెను",
+        "ఆపావనమగు రక్త ఊట ప్రవహించెన్"
+      ],
+      "english": [
+        "Heenamaina Eetethoada Prakkana Gruchchabadenu",
+        "Aapaavanamagu Raktha Oota Pravahinchen"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మూడవ దినమున సమాధి నుండి కర్త లేచెను",
+        "తనతోడిశిష్యులు చూచుచుండ నారోహణమాయెన్"
+      ],
+      "english": [
+        "Moodava Dhinamuna Samaadhi Nundi Kartha Laechenu",
+        "Thanathoadishishyulu Choochuchunda Naaroahanamaayen"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "జయము జయము అనుచు నీవు ప్రకటించుము",
+        "నీజన్మమెల్ల యేసుని గూర్చి సాక్ష్యమీయుము"
+      ],
+      "english": [
+        "Jayamu Jayamu Anuchu Neevu Prakatinchumu",
+        "Neejanmamella Yaesuni Goorchi Saakshyameeyumu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఆరోహణమైనట్లు మరల వచ్చెద ననెను",
+        "ఈధరణికి వేంచేయు కాలము సమీపించెను"
+      ],
+      "english": [
+        "Aaroahanamainatlu Marala Vachchedha Nanenu",
+        "Eedharaniki Vaenchaeyu Kaalamu Sameepinchenu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "హల్లెలూయ పాడుచు నార్భాటముగ నాడు",
+        "ఆవల్లభుడేసు నెదుట నిలువ నాయత్తపడుము"
+      ],
+      "english": [
+        "Hallelooya Paaduchu Naarbhaatamuga Naadu",
+        "Aavallabhudaesu Nedhuta Niluva Naayaththapadumu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "song_name": "Naa Paapa Bhaaram",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా పాప భారం – ప్రభు భుజము పైన",
+      "ఆ సిలువ మోసెను – నా స్థానమందు",
+      "నా దోషములను – ప్రభు వీపు పైన",
+      "కొరడా దెబ్బలతో – చీల్చిరి దేహమును",
+      "అయ్యో….. ఓ ఓ ఓ…. అయ్యయ్యో…"
+    ],
+    "english": [
+      "Naa paapa bhaaram – prabhu bhujamu paina",
+      "aa siluva mosenu – naa sthaanamandhu",
+      "naa dhoshamulanu – prabhu veepu paina",
+      "koradaa dhebbalatho – cheelchiri dhehamunu",
+      "ayyo….. o o o…. ayyayyoo…."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా రక్షణ కొరకై ప్రభువూ…..",
+        "చిందించెను తన రక్తమును",
+        "నా పాపములను కడుగా….",
+        "వెల చెల్లించెను రుధిరమును",
+        "నిర్లక్ష్యము చేయుదురేలా",
+        "రక్షణ పొందుట జాగేలా"
+      ],
+      "english": [
+        "Naa rakshana korakai prabhuvu…",
+        "chindhinchenu thana rakthamunu",
+        "naa paapamulanu kadugaa…",
+        "vela chellinchenu rudhiramunu",
+        "nirlakshyamu cheyudhurēla",
+        "rakshana pondhuta jaagelā"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిలువెల్ల నలుగ కొట్టబడీ….",
+        "ప్రేమించెను తన సంతతిగా",
+        "తనువంత నలిగిన స్థితిలో….",
+        "సహించెను శ్రమలు నా కొరకు"
+      ],
+      "english": [
+        "Niluvella naluga kottabadee…",
+        "preminchenu thana santhathigaa",
+        "thanuvantha naligina sthithilō…",
+        "sahinchenu shramalu naa koraku"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా అతిక్రమముల కొరకూ….",
+        "గాయములను పొందితివి",
+        "నా సమాధాన శిక్షను భరియించీ….",
+        "రక్షణ నోసుగుట కోర్చితివి"
+      ],
+      "english": [
+        "Naa athikramamula korakoo…",
+        "gaayamulanu pondhithivi",
+        "naa samaadhaana shikshanu bhariyinchee…",
+        "rakshana nosuguta korchithivi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దౌర్జన్యము నొందితివి…..",
+        "భాధించినా నోరు తెరువ కుంటివి",
+        "వదకు తేబడు గొఱ్ఱె పిల్ల వోలె",
+        "మౌనముగా శిక్ష భరించితివి"
+      ],
+      "english": [
+        "Daurjanyamu nondhithivi…",
+        "baadhinchinaa nooru theruvakuntivi",
+        "vadaku thebadu gorre pilla vole",
+        "maunamugaa shiksha bharinchithivi"
+      ]
+    }
+  ]
+}

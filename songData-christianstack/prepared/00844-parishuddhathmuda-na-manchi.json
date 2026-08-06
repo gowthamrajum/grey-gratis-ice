@@ -1,0 +1,52 @@
+{
+  "song_name": "Parishuddhathmuda Na Manchi",
+  "author": {
+    "Authored by": "John Kennedy Bethapudi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరిశుద్ధాత్ముడా.. నా మంచి స్నేహితుడా",
+      "నడిపించుము నీ త్రోవలో",
+      "కాపాడుము నీ నీడలో"
+    ],
+    "english": [
+      "Parishuddhaathmudaa.. naa manchi snehithudaa",
+      "nadipinchumu nee throvalo",
+      "kaapaadumu nee needalo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు పేరున జగతికి ఏతెంచితివి",
+        "సర్వ సత్యమందు మమ్ము స్థాపించితివి",
+        "నీ కృపలో నిత్యము బలపరచుమా",
+        "జ్ఞానాత్మవై మమ్ము నడిపించుమా",
+        "దీనులను ఆదరించు దైవాత్మవు",
+        "కన్నీటిని తొలగించు కనికరాత్మవు",
+        "అపవాది క్రియలను లయపరచుమా",
+        "జీవాత్మవై మమ్ము బ్రతికించుమా",
+        "పాపులను రక్షించు పవిత్రాత్మవు",
+        "పాపమును కాల్చెడి దహించు ఆత్మవు",
+        "నీ శక్తి ధైర్యము మా కొసగుమా",
+        "విజ్ఞాపన ఆత్మతో మమ్ము నింపుమా"
+      ],
+      "english": [
+        "Yesu peruna jagathiki ethenchithivi",
+        "sarva sathyamandhu mammu sthaapinchithivi",
+        "nee krupalo nithyamu balaparachumaa",
+        "gnaanaathmavai mammu nadipinchumaa",
+        "Dheenulanu aadharinchu daivaathmavu",
+        "kanneetini tholaginchu kanikaraathmavu",
+        "apavaadhi kriyalanu layaparachumaa",
+        "jeevaathmavai mammu brathikinchumaa",
+        "Paapulanu rakshinchu pavithraathmavu",
+        "paapamunu kaalchedi dhahinchu aathmavu",
+        "nee shakthi dhairyamu maa kosagumaa",
+        "vignaapana aathmatho mammu nimpumaa"
+      ]
+    }
+  ]
+}

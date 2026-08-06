@@ -1,0 +1,87 @@
+{
+  "song_name": "Yesu mammu nadipinchu needu kaapu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "ఓకబ్ చేంబర్లేన్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు, మమ్ము నడిపించు",
+      "నీదు కాపు కావలెన్",
+      "నీవు మమ్మును బోషించు",
+      "మమ్ముఁ జేర్చు మందలోన్",
+      "యేసునాధా, ప్రియనాధా!",
+      "మిమ్ము విమోచించుమా."
+    ],
+    "english": [
+      "Yesu, mammu nadipinchu",
+      "needu kaapu kaavalen",
+      "neevu mammunu boshinchu",
+      "mammu jerchu mandhalon",
+      "Yesunaadhaa, priyanaadhaa!",
+      "mimmu vimochinchumaa."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మమ్ము నాదరించు యేసూ",
+        "మాకు పాలకుండవు",
+        "పాప మార్గమందు నుండి",
+        "ప్రేమతో! దప్పించుమీ",
+        "యేసునాధా, ప్రియనాధా!",
+        "మొఱ్ఱ నాలకించుమా."
+      ],
+      "english": [
+        "Mammu naadharinchu Yesoo",
+        "maaku paalakundavu",
+        "paapa maargamandu nundi",
+        "prematho! dhappinchumee",
+        "Yesunaadhaa, priyanaadhaa!",
+        "morra naalakinchumaa."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బీద పాపు లైన మమ్ము",
+        "నీ వంగీకరింతువు",
+        "మమ్మును బవిత్రపర్చి",
+        "మమ్ము విడిపించుమీ",
+        "యేసునాధా, ప్రియనాధా!",
+        "నిన్ను నాశ్రయింతుము"
+      ],
+      "english": [
+        "Beeda paapu laina mammu",
+        "nee vangeekarinthuvu",
+        "mammunu bavithraparchi",
+        "mammu vidipinchumee",
+        "Yesunaadhaa, priyanaadhaa!",
+        "ninnu naashrayinthumu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "బాల్యమందు నిన్నుఁ జేరి",
+        "నిన్ను హత్తుకొందుము",
+        "ప్రియ రక్షకుండ, యేసూ",
+        "నీ ప్రేమఁ జూపుమా",
+        "యేసునాధా, ప్రియనాధా!",
+        "మమ్మింకఁ బ్రేమించుమా."
+      ],
+      "english": [
+        "Baalyamandhu ninnu jeri",
+        "ninnu hatthukondhumu",
+        "priya rakshakunda, Yesoo",
+        "nee prema joopumaa",
+        "Yesunaadhaa, priyanaadhaa!",
+        "mamminka breminchumaa."
+      ]
+    }
+  ]
+}

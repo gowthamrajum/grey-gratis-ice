@@ -1,0 +1,69 @@
+{
+  "song_name": "Enduko Devaa inthati premaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎందుకో దేవా ఇంతటి ప్రేమా",
+      "ఎన్నిక లేని నరుని మీద (2)",
+      "మమతకు ప్రేమకు అర్హత లేని (2)",
+      "మంటిపై ఎందుకు ఇంత ప్రేమ ||ఎందుకో||"
+    ],
+    "english": [
+      "Enduko Devaa inthati premaa",
+      "Ennika leni naruni meeda (2)",
+      "Mamathaku premaku arhatha leni (2)",
+      "Mantipai enduku intha prema ||Enduko||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎందుకు పనికిరాని నన్ను",
+        "ఎన్నుకొంటివి ఎందుకయ్యా (2)",
+        "ఎంచితివి నీ పుత్రికగా నన్",
+        "పెంచితివి నీ కృపతో నన్ను  ||ఎందుకో||"
+      ],
+      "english": [
+        "Enduku panikiraani nannu",
+        "Ennukontivi endukayyaa (2)",
+        "Enchithivi nee puthrikagaa nan",
+        "Penchithivi nee krupatho nannu ||Enduko||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సర్వ పాపముల పరిహారి",
+        "సర్వ జనులకు ఉపకారి (2)",
+        "శాపము నొందిన దోషి మీద",
+        "శాశ్వత ప్రేమను చూపితివా  ||ఎందుకో||"
+      ],
+      "english": [
+        "Sarva paapamula parihaari",
+        "Sarva janulaku upakaari (2)",
+        "Shaapamu nondina doshi meeda",
+        "Shaashwatha premanu choopithivaa ||Enduko||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నాశ మార్గములో బ్రతికిన నన్ను",
+        "నీతి మార్గముకు పిలిచితివా (2)",
+        "నిత్యము నీతో యుండుటకు",
+        "పాపిని నన్ను పిలచితివా  ||ఎందుకో||"
+      ],
+      "english": [
+        "Naasha maargamulo brathikina nannu",
+        "Neethi maargamuku pilichithivaa (2)",
+        "Nithyamu neetho yundutaku",
+        "Paapini nannu pilachithivaa ||Enduko||"
+      ]
+    }
+  ]
+}

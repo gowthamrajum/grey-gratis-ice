@@ -1,0 +1,88 @@
+{
+  "song_name": "Saadhyam",
+  "author": {
+    "Authored by": "John Erry & Swathi John",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు నీ సన్నిధిలో సాధ్యం",
+      "సమస్తము నీ సన్నిధిలో సాధ్యం"
+    ],
+    "english": [
+      "Yesu Nee Sannidhilo Saadhyam",
+      "Samasthamu Nee Sannidhilo Saadhyam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చీకటిలో కాంతివి",
+        "వేదనలో శాంతివి"
+      ],
+      "english": [
+        "Cheekatilo Kaanthivi",
+        "Vedhanalo Shanthivi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "Pre-chorus:",
+        "స్తితిగతులన్నిటిని మార్చువాడా",
+        "జీవితాలన్నిటిని కట్టువాడా"
+      ],
+      "english": [
+        "Pre-chorus:",
+        "Sthithigathulannitini Maarchuvada",
+        "Jeevithalannitini Kattuvada"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సమస్తము సాధ్యం",
+        "నీయందే నా విశ్వాసం"
+      ],
+      "english": [
+        "Samasthamu Saadhyam",
+        "Nee Yandhe Na Vishwasam"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "Bridge:",
+        "అతిక్రమమంతా తుడచువాడా",
+        "ఎల్లప్పుడు కరుణించు",
+        "మంచితనము కనపరచువాడా",
+        "ఎల్లప్పుడు దీవించువాడా"
+      ],
+      "english": [
+        "Bridge:",
+        "Athikramamantha Thudachuvada",
+        "Yellapudu Karuninchu",
+        "Manchithanamu kanaparachuvada",
+        "Yellapudu deevinchuvada"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "Tag:",
+        "సమస్తము సాధ్యం యేసయ్య",
+        "నీతో సమస్తము సాధ్యం యేసయ్య",
+        "సమస్తము సాధ్యం యేసయ్య",
+        "నీలో సమస్తము సాధ్యం యేసయ్య"
+      ],
+      "english": [
+        "Tag:",
+        "Samasthamu sadhyam yessaiya",
+        "Nitho Samasthamu sadhyam yessaiya",
+        "Samasthamu sadhyam yessaiya",
+        "Nilo Samasthamu sadhyam yessaiya"
+      ]
+    }
+  ]
+}

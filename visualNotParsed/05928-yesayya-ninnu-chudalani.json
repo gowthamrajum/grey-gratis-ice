@@ -1,0 +1,54 @@
+{
+  "song_name": "Yesayya ninu choodaalani",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసయ్య నిను చూడాలని యేసయ్య నిను చేరాలని",
+      "యేసయ్యనీతో ఉండాలని యేసయ్య నీలా నిలవాలని",
+      "ఆశగొనియున్నది నా మనస్సు",
+      "తృష్ణగొనియున్నది నా హృదయం"
+    ],
+    "english": [
+      "Yesayya ninu choodaalani Yesayya ninu cheraalani",
+      "Yesayya neetho undaalani Yesayya neelaa nilavaalani",
+      "Aashagoniyunnadhi naa manassu",
+      "Thrushnagoniyunnadhi naa hrudayam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎటు చూసిన పాపమే చీకటి కమ్మిన లోకములో",
+        "ఎటుపోయిన వేదనే పాపము నిండిన పుడమిలో",
+        "నీలా బ్రతకాలని నీతో ఉండాలని  ||యేసయ్య||"
+      ],
+      "english": [
+        "Etu choosina paapame cheekati kammina lokamulo",
+        "Etupoyina vedhane paapamu nindina pudamilo",
+        "Neelaa brathakaalani neetho undaalani  ||Yesayya||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యదవాకిట శోదనే ద్వేషము నిండినా మనుషులతో",
+        "హృదిలోపట శోకమే కపటమైన మనస్సులతో",
+        "నీలా బ్రతకాలని నీతో ఉండాలని",
+        "ఆశగొనియున్నది నా మనస్సు",
+        "తృష్ణగినియున్నది నా హృదయం"
+      ],
+      "english": [
+        "Edavaakita shodhane dhveshamu nindinaa manushulatho",
+        "Hrudhilopata shokame kapatamaina manassulatho",
+        "Neelaa brathakaalani neetho undaalani",
+        "Aashagoniyunnadhi naa manassu",
+        "Thrushnagoniyunnadhi naa hrudayam"
+      ]
+    }
+  ]
+}

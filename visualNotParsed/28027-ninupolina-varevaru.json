@@ -1,0 +1,70 @@
+{
+  "song_name": "Ninnu polina vaarevaru",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నినుపోలిన వారెవరు"
+    ],
+    "english": [
+      "Ninu polina vaarevaru"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిన్ను పోలిన వారెవరు -మేలు చేయు దేవుడవు",
+        "నిన్నే నే నమ్మితినిన్ మా దేవా",
+        "నిన్నే నా జీవితమునకు ఆధారము చేసుకుంటిని",
+        "నీవు లేని జీవితమంతా వ్యర్థము గా పోవునయ్య (2)"
+      ],
+      "english": [
+        "Ninnu polina vaarevaru - Melu cheyu devudavu",
+        "Ninne ne nammithinin maa Deva",
+        "Ninne naa jeevithamunaku aadhaaramu chesukuntini",
+        "Neevu leni jeevithamanthaa vyarthamu gaa povunayya (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎల్ష దా-ఆరాధన",
+        "ఎలో హిమ్-ఆరాధన",
+        "అడోనాయ్-ఆరాధన",
+        "యే షువా -ఆరాధన"
+      ],
+      "english": [
+        "Elshadaa - Aaraadhana",
+        "Elohim - Aaraadhana",
+        "Adonaay - Aaraadhana",
+        "Yeshuvaa - Aaraadhana"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కృంగి ఉన్న నన్ను చూచి కన్నీటిని తుడిచితివయ్యా",
+        "కంటిపాప వలె కాచి కరుణతో నడిపితివయ్య (2) (ఎల్ష దా-ఆరాధన)"
+      ],
+      "english": [
+        "Krungi unna nannu choochi kanneetini thudichithivayyaa",
+        "Kantipaapa vale kaachi karunatho nadipithivayya (2) (Elshadaa - Aaraadhana)"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మరణపు మార్గమందు నడిచిన వేళ యందు",
+        "వైద్యునిగా వచ్చి నాకు మరో జన్మ నిచ్చితివయ్యా (2) (ఎల్ష దా-ఆరాధన)"
+      ],
+      "english": [
+        "Maranapu maargamandu nadichina vela yandu",
+        "Vaidhyunigaa vachchi naaku maro janma nichchithivayyaa (2) (Elshadaa - Aaraadhana)"
+      ]
+    }
+  ]
+}

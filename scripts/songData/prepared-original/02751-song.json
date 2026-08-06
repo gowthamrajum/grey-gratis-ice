@@ -1,0 +1,40 @@
+{
+  "song_name": "ఓ దివ్యకాంతి మబ్బు కమ్మఁగా న",
+  "author": {
+    "Authored by": "",
+    "రచన": "జాన్ హెన్రీ న్యూమేన్"
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఓ దివ్యకాంతి, మబ్బు కమ్మఁగా నన్నడ్పుము నాయింటి త్రోవ దప్పిపోతిని నన్నడ్పుము నాకాళ్ల జారకుండఁ గాచుచు ఒక్కొక్క మెట్టు భద్ర పర్చుమా"
+      ],
+      "english": [
+        "oa dhivyakaaMthi, mabbu kammAOgaa nannadpumu naayiMti throava dhappipoathini nannadpumu naakaaLla jaarakuMdAO gaachuchu okkokka mettu bhadhra parchumaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇన్నాళ్లు నేను కోరకుంటిని నీ శరణు స్వబుద్ధి నమ్మి తప్పిపోతిని సదా. నన్నడ్పుము గర్వము యేలె నా హృదయము మన్నించు నా గత జీవితము"
+      ],
+      "english": [
+        "innaaLlu naenu koarakuMtini nee sharaNu svabudhDhi nammi thappipoathini sadhaa. nannadpumu garvamu yaele naa hrudhayamu manniMchu naa gatha jeevithamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇన్నాళ్లుఁ గాచియుంట వింకను నన్నడ్పుము నా నష్ట కష్ట దుఃఖ బాధలు పోఁగొట్టుము నీవల్ల నేను జయ మొందుచు నిన్ను స్తుతించి పాడుదున్ సదా"
+      ],
+      "english": [
+        "innaaLluAO gaachiyuMta viMkanu nannadpumu naa naShta kaShta dhuHkha baaDhalu poaAOgottumu neevalla naenu jaya moMdhuchu ninnu sthuthiMchi paadudhun sadhaa"
+      ]
+    }
+  ]
+}

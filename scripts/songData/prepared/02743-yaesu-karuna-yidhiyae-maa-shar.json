@@ -1,0 +1,53 @@
+{
+  "song_name": "Yaesu Karuna Yidhiyae Maa Sharanu",
+  "author": {
+    "Authored by": "",
+    "రచన": "మిక్కిలి సమూయేలు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు కరుణ యిదియే మా శరణు యేసు కరుణ"
+    ],
+    "english": [
+      "Yaesu Karuna Yidhiyae Maa Sharanu Yaesu Karuna"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసుని కరుణ యిదే మాకు శర ణని యాసతో నమ్మిన యధముల కెల్ల"
+      ],
+      "english": [
+        "Yaesuni Karuna Yidhae Maaku Shara Nani Yaasathoa Nammina Yadhamula Kella"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎన్నిక సేయక యే పాపి నైనను మన్నించి బ్రోచెడు మా దేవుఁడైన"
+      ],
+      "english": [
+        "Ennika Saeyaka Yae Paapi Nainanu Mannimchi Broachedu Maa Dhaevudaina"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పశ్చాత్తాపము నొందు పాపుల నెల్లను నిశ్చయముగఁ బ్రోవ నిపుణుఁ డై యున్న"
+      ],
+      "english": [
+        "Pashchaaththaapamu Nomdhu Paapula Nellanu Nishchayamuga Broava Nipunu Dai Yunna"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దిక్కు లేకున్నటి దీన జనాత్ములఁ జక్కఁగఁ బ్రోచెడు సదయుఁ డైయున్న"
+      ],
+      "english": [
+        "Dhikku Laekunnati Dheena Janaathmula Jakkaga Broachedu Sadhayu Daiyunna"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "song_name": "Naa priyudaa Yesayyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Yesanna"
+    ],
+    "రచన": [
+      "బ్రదర్ యేసన్న"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రియుడా యెసయ్యా - నీ కృప లేనిదే నే బ్రతుకలేను",
+      "క్షణమైనా -నే బ్రతుకలేను (2) నా ప్రియుడా.... ఆ ఆ అ అ"
+    ],
+    "english": [
+      "Naa priyudaa Yesayyaa - Nee krupa lenide ne brathukalenu",
+      "Kshanamainaa - Ne brathukalenu (2) naa priyudaa.... aa aa a a"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ చేతితోనే నను లేపినావు - నీ చేతిలోనే నను చెక్కుకొంటివి (2)",
+        "నీ చేతి నీడలో నను దాచుకొంటివి (2)  ||నా||"
+      ],
+      "english": [
+        "Nee chethithone nanu lepinaavu - Nee chethilone nanu chekkukontivi (2)",
+        "Nee chethi needalo nanu dhaachukontivi (2) ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ వాక్కులన్ని వాగ్దానములై - నా వాక్కు పంపి స్వస్థత నిచ్చితివి (2)",
+        "నీ వాగ్దానములు మార్పులేనివి (2)  ||నా||"
+      ],
+      "english": [
+        "Nee vaakkulanni vaagdhaanamulai - Naa vaakku pampi swasthatha nichchithivi (2)",
+        "Nee vaagdhaanamulu maarpulenivi (2) ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ముందెన్నడూ నేను వెళ్ళనీ - నూతనమైన మార్గములన్నిటిలో (2)",
+        "నా తోడు నీవై నన్ను నడిపినావు (2)  ||నా||"
+      ],
+      "english": [
+        "Mundhennadoo nenu vellanee - Noothanamaina maargamulannitilo (2)",
+        "Naa thodu neevai nannu nadipinaavu (2) ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సర్వోన్నతుడా సర్వకృపానిధి - సర్వసంపదలు నీలోనే యున్నవి (2)",
+        "నీవు నా పక్షమై నిలిచి యున్నావు (2)  ||నా||"
+      ],
+      "english": [
+        "Sarvonnathudaa sarvakrupaanidhi - Sarvasampadalu neelone yunnavi (2)",
+        "Neevu naa pakshamai nilichi yunnaavu (2) ||Naa||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "song_name": "Immaanuyelu devudaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇమ్మానుయేలు దేవుడా – మము కన్న దేవుడా (2)",
+      "ఇస్సాకు దేవుడా ఇశ్రాయేలు దేవుడా (4)",
+      "మాతో ఉండగ వచ్చిన మరియ తనయుడా (2)",
+      "లాలి లాలి లాలమ్మ లాలి (2)",
+      "మా పాపము బాపి పరమును మము చేర్చగ",
+      "దివిని విడిచి భువికి దిగిన దైవ తనయుడా (2) ||ఇస్సాకు||"
+    ],
+    "english": [
+      "Immaanuyelu devudaa – Mamu kanna devudaa (2)",
+      "Issaaku devudaa Ishraayelu devudaa (4)",
+      "Maatho undaga vachchina Mariya thanayudaa (2)",
+      "Laali laali laalamma laali (2)",
+      "Maa paapamu baapi paramunu mamu cherchaga",
+      "Divini vidichi bhuviki digina daiva thanayudaa (2) ||Issaaku||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అశాంతిని తొలగించి శాంతిని నెలకొల్పగ",
+        "ప్రేమ రూపివై వెలసిన బాల యేసువా (2) ||ఇస్సాకు||"
+      ],
+      "english": [
+        "Ashaanthini tholaginchi shaanthini nelakolpaga",
+        "Prema roopivai velasina baala Yesuvaa (2) ||Issaaku||"
+      ]
+    }
+  ]
+}

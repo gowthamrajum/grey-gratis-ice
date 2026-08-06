@@ -1,0 +1,86 @@
+{
+  "song_name": "Choodumu Gethsemane",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "చూడుము గెత్సెమనె - తోటలో నా ప్రియుడు",
+      "పాపి నాకై విజ్ఞాపన చేసెడి - ధ్వని వినబడుచున్నది"
+    ],
+    "english": [
+      "Choodumu Gethsemane - Thotalo naa priyudu",
+      "Paapi naakai vignaapana chesedi - Dhvani vinabaduchunnadi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేహమంతయు నలిగి - శోకము నొందినవాడై",
+        "దేవాది దేవుని ఏకసుతుడు పడు - వేదనలు నా కొరకే  ||చూడుము||"
+      ],
+      "english": [
+        "Dhehamanthayu naligi - Shokamu nondinavaadai",
+        "Dhevaadi Devuni ekasuthudu padu - Vedanalu naa korake  ||Choodumu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తండ్రి యీ పాత్ర తొలగన్ - నీ చిత్తమైన యెడల",
+        "ఎట్లయినను నీ చిత్తము చేయుటకు - నన్నప్పగించితివనెను  ||చూడుము||"
+      ],
+      "english": [
+        "Thandri ee paathra tholagan - Nee chitthamaina edala",
+        "Etlayinanu nee chitthamu cheyutaku - Nannappaginchithivanenu  ||Choodumu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రక్తపు చెమట వలన - మిక్కిలి బాధనొంది",
+        "రక్షకుడేసు హృదయము పగులగ - విజ్ఞాపనము జేసెనే  ||చూడుము||"
+      ],
+      "english": [
+        "Rakthapu chemata valana - Mikkili baadhanondi",
+        "Rakshakudesu hrudayamu pagulaga - Vignaapanamu jesene  ||Choodumu||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ముమ్మారు భూమి మీద - పడి మిక్కిలి వేదనచే - మన",
+        "యేసు ప్రభువు తానే వేడుకొనెను - పాపుల విమోచన కొరకే  ||చూడుము||"
+      ],
+      "english": [
+        "Mummaaru bhoomi meeda - Padi mikkili vedhanache - Mana",
+        "Yesu Prabhuvu thaane vedukonenu - Paapula vimochana korake  ||Choodumu||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ప్రేమతో కూడిన వాక్కులచే - ఆదరించెడి ప్రభువు",
+        "వేదన సమయమున ఆదరించువారు - లేక బాధనొందెను  ||చూడుము||"
+      ],
+      "english": [
+        "Prematho koodina vaakkulache - Aadarinchedi Prabhuvu",
+        "Vedhana samayamuna aadarinchuvaaru - Leka baadhanondenu  ||Choodumu||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నన్ను తన వలె మార్చెడి - ఈ మహా ప్రేమను",
+        "తలచి తలచి హృదయము కరుగగా - నే సదా కీర్తించెదను"
+      ],
+      "english": [
+        "Nannu thana vale maarchedi - Ee mahaa premanu",
+        "Thalachi thalachi hrudayamu karugagaa - Ne sadaa keerthinchedanu"
+      ]
+    }
+  ]
+}

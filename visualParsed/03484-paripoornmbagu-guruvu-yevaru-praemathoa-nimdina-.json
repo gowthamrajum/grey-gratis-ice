@@ -1,0 +1,62 @@
+{
+  "song_name": "Paripoornambagu guruvu evaru? Prematho nindina hrudayunde",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరిపూర్ణంబగు గురువు యెవరు? ప్రేమతో నిండిన హృదయుండె"
+    ],
+    "english": [
+      "Paripoornambagu guruvu evaru? Prematho nindina hrudayunde"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపులు మరి పేరాశ హృదయులు - ప్రాపంచ గురువులు",
+        "నీ సొమ్మును హృదయము నడిగెదరు - దాసుని హెచ్చరిక యిదే"
+      ],
+      "english": [
+        "Paapulu mari peraasha hrudayulu - Praapancha guruvulu",
+        "Nee sommunu hrudayamu nadigedaru - Daasuni hechcharika idhe"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇహమును విడచిన త్యాగియె గాదా - మహాసత్య సద్గురువు",
+        "కపటము డాగులేని సుబుద్ధి - కరుణమయ హృదయుడు"
+      ],
+      "english": [
+        "Ihamunu vidachina thyaagiye gaadaa - Mahaasathya sadhguruvu",
+        "Kapatamu daaguleni subudhdhi - Karunamaya hrudayudu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కనుగొంటిమి అటువంటి గురువును - ఘనుడగు యేసు ప్రభువులో",
+        "ప్రేమానంద సమాధానముతో - పూర్తిగ నింపును మనలన్"
+      ],
+      "english": [
+        "Kanugontimi atuvanti guruvunu - Ghanudagu Yesu prabhuvulo",
+        "Premaananda samaadhaanamutho - Poorthiga nimpunu manalan"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సిలువపై మన పాపము మోసి - తొలగించెను స్వార్థమును",
+        "తనపై మన పాపములనుమోసి - మన కొసగెను విడుదలను"
+      ],
+      "english": [
+        "Siluvapai mana paapamu mosi - Tholaginchenu swaarthamunu",
+        "Thanapai mana paapamulanumosi - Mana kosagenu vidudalanu"
+      ]
+    }
+  ]
+}

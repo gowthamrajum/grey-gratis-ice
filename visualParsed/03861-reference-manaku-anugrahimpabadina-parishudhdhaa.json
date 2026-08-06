@@ -1,0 +1,31 @@
+{
+  "song_name": "Manaku anugrahimpabadina parishuddhaathma dwaaraa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "కుమ్మరింపబడియున్నది. రోమీయులకు రోమన్స్ 5:5"
+    ],
+    "english": [
+      "Kummarimpabadiyunnadhi. Romeeyulaku Romans 5:5"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దైవ ప్రేమ నిత్యము - కుమ్మరించుము",
+        "కల్వరి ప్రేమ మాత్రమే - కోరుచున్నాను",
+        "నింపి పొర్లి పారజేయుము"
+      ],
+      "english": [
+        "Daiva prema nithyamu - Kummarinchumu",
+        "Kalvari prema maathrame - Koruchunnaanu",
+        "Nimpi porli paarajeyumu"
+      ]
+    }
+  ]
+}

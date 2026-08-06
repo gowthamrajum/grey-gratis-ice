@@ -1,0 +1,67 @@
+{
+  "song_name": "Annivelalaa aanandame",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Pastor P.V. Moses Rao"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "అన్నివేళలా ఆనందమే యేసులో ఉన్నవారికి",
+      "అన్నివేళలా ఆదరణయే యేసుతో ఉన్నవారికి"
+    ],
+    "english": [
+      "Annivelalaa aanandame Yesulo unnavaariki",
+      "Annivelalaa aadharanaye Yesutho unnavaariki"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిన్నటి బాదలు నేటికి లేవు",
+        "రేపటి గూర్చిన చింతయు లేదు",
+        "తనమహిమలో ప్రతి అక్కర తీరును",
+        "తన రెక్కలతో నను కాపాడును"
+      ],
+      "english": [
+        "Ninnati baadhalu netiki levu",
+        "Repati goorchina chinthayu ledu",
+        "Thanamahimalo prathi akkara theerunu",
+        "Thana rekkalatho nanu kaapaadunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అనుక్షణము నా ప్రాణము కాయుచు",
+        "అను దినము నా భారము మోయుచు",
+        "అంగలార్పును నాట్యము చేసెను",
+        "ఆనందముతో నా మదినింపెను"
+      ],
+      "english": [
+        "Anukshanamu naa praanamu kaayuchu",
+        "Anu dinamu naa bhaaramu moyuchu",
+        "Angalaarpunu naatyamu chesenu",
+        "Aanandamutho naa madhininpenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అదిగదిగో నా కొరకు దిగివచ్చుచున్నది",
+        "పండ్రెండు గుమ్మముల ఆ మహానగరం",
+        "వేదన రోదన ఇక నాకుండదు",
+        "ప్రియుని వడిలోనే ఆనందింతును"
+      ],
+      "english": [
+        "Adhigadhigo naa koraku dhigivachchuchunnadhi",
+        "Pandrendu gummamula aa mahaanagaram",
+        "Vedhana rodana ika naakundadhu",
+        "Priyuni vadilone aanandinthunu"
+      ]
+    }
+  ]
+}

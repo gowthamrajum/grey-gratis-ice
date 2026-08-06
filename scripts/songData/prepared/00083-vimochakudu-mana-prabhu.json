@@ -1,0 +1,45 @@
+{
+  "song_name": "Vimochakudu Mana Yesu Prabhuvu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "విమోచకుడు మన యేసు ప్రభువు - అవతరించిన శుభ దినమే",
+      "సకల లోకములు సంతోషముతో గంతులు వేయు నేడే (2X)",
+      "ఆనందమే ఈ దినం - ఆశ్చర్యమే అనుక్షణం",
+      "ఆత్మీయమే ఆనుభవం - ఆనంద మానందమే (2X)"
+    ],
+    "english": [
+      "Vimochakudu Mana Yesu Prabhuvu - Avatharinchina Shubha Diname",
+      "Sakala Lokamulu Santhoshamutho Ganthulu Veyu Nede (2X)",
+      "Aanandame Ee Dinam - Aashcharyame Anukshanam",
+      "Aathmeeyame Aanubhavam - Aananda Maanandame (2X)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆకాశ తారలు కాంతి విరియగా - ప్రకృతి రవళిoచే ఈ జగాన (2X)",
+        "ముదమార గాంచిరి గొల్లలూ జ్ఞానులూ"
+      ],
+      "english": [
+        "Aakaasha Thaaralu Kaanthi Viriyagaa - Prakruthi Ravalinche Ee Jagaana (2X)",
+        "Mudamaara Gaanchiri Gollaloo Gnaanuloo"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాడు పండుగ నేడు కనిపించే - లోకమా సిద్ద పడుమా (2X)",
+        "ప్రభు యేసు చెంతకు పరలోక విందుకూ"
+      ],
+      "english": [
+        "Naadu Panduga Nedu Kanipinche - Lokamaa Sidda Padumaa (2X)",
+        "Prabhu Yesu Chenthaku Paraloka Vindukoo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "song_name": "Deva kaavave nedu mammulan",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవ కావవే నేడు మమ్ములన్ నీవెరాత్రి కాచినావు నీకు స్తోత్రము ||దేవ||"
+    ],
+    "english": [
+      "Deva kaavave nedu mammulan neeve raathri kaachinaavu neeku sthothramu ||Deva||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆపదలు మమున్ అంటకుండను కావుమయ్య నేడు నీదు కఱుణ",
+        "తోడను  ||దేవ||"
+      ],
+      "english": [
+        "Aapadalu mammun antakundanu kaavumayya nedu needu karuna",
+        "Thodanu ||Deva||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేటి కార్యముల్ నేడె చేయగా సూటియైన త్రోవ మాకు చూపుమోప్రభో  ||దేవ||"
+      ],
+      "english": [
+        "Neti kaaryamul nede cheyagaa sootiyaina throva maaku choopumo prabho ||Deva||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "చెడ్డ కార్యముల్ చేయకుండను దొడ్డబుద్ధి నిచ్చి మమ్ము నుద్ధరించుము",
+        "దేవ  ||దేవ||"
+      ],
+      "english": [
+        "Chedda kaaryamul cheyakundanu dhoddabuddhi nichchi mammu nuddharinchumu",
+        "Deva ||Deva||"
+      ]
+    }
+  ]
+}

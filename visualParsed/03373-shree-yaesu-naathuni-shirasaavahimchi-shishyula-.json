@@ -1,0 +1,86 @@
+{
+  "song_name": "Shree Yesu naathuni shirasaavahinchi shishyulame Yesunu ghanaparachedhamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "శ్రీ యేసు నాథుని శిరసావహించి",
+      "శిష్యుల మేసును ఘనపరచెదము"
+    ],
+    "english": [
+      "Shree Yesu naathuni shirasaavahinchi",
+      "Shishyulame Yesunu ghanaparachedhamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపుల రక్షింఫ నవనికి వచ్చెను",
+        "ఏపుగ కౌగలించి సన్నుతించెదము"
+      ],
+      "english": [
+        "Paapula rakshimpa navaniki vachchenu",
+        "Epuga kaugalinchi sannuthinchedhamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "డెంద మేసునిచేత హర్షము బొందె",
+        "అందమగు యేసుని స్తుతించెదము"
+      ],
+      "english": [
+        "Dendhame Yesunichetha harshamu ponde",
+        "Andhamagu Yesuni sthuthinchedamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాపకూపము నుండి ఎత్తి రక్షించెను",
+        "భీకర ధ్వనితోడ భజియించెదము"
+      ],
+      "english": [
+        "Paapakoopamu nundi etthi rakshinchenu",
+        "Bheekara dhvanithoda bhajiyinchedhamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మరణపు ముల్లును విరచి జయించిన",
+        "కరుణాబ్ధి యేసుని స్మరియించెదము"
+      ],
+      "english": [
+        "Maranapu mullunu virachi jayinchina",
+        "Karunaabdhi Yesuni smariyinchedhamu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "దూరస్థులగు వారలను చెంత చేర్చెను",
+        "నిరతము యేసుని సన్నుతించెదము"
+      ],
+      "english": [
+        "Dhoorasthulagu vaaralanu chentha cherchenu",
+        "Nirathamu Yesuni sannuthinchedhamu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "రక్తితో హల్లెలూయ ఆనందముతో పాడి",
+        "శక్తిగల యేసుని స్తుతియించెదము"
+      ],
+      "english": [
+        "Rakthitho hallelooya aanandamutho paadi",
+        "Shakthigala Yesuni sthuthiyinchedhamu"
+      ]
+    }
+  ]
+}

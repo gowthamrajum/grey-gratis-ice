@@ -1,0 +1,50 @@
+{
+  "song_name": "Jayahe Jayahe",
+  "author": {
+    "Authored by": "Rev. Acharya Dr. A B Masilamani",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జయహే జయహే జయహే జయహే – జయ జయ దేవ సుథ",
+      "జయ జయ విజయ సుథ – జయహే జయహే జయహే జయహే"
+    ],
+    "english": [
+      "Jayahe Jayahe Jayahe Jayahe – jaya jaya devasudha",
+      "jaya jaya vijayasudha – jayahe jayahe jayahe jayahe"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సిలువలో పాపికి విడుదల కలిగెను, విడుదల కలిగెను",
+        "కలువరిలో నవ జీవన మొదవిను, జీవన మొదవిను",
+        "సిలువ పతాకకు జయమును గూర్చెను – సిలువ పతాకకు జయమును గూర్చెను",
+        "జయమని పాడెదను – నీ విజయము పాడెదను .. నా విజయము పాడెదను || జయహే ||",
+        "శోధనలలో ప్రభు సన్నిధి దొరికెను, సన్నిధి దొరికెను",
+        "వేదనలే తన భూమిగా మారెను, భూమిగా మారెను",
+        "శోధన భాధలు బలమును గూల్చెను – శోధన భాధలు బలమును గూల్చెను",
+        "జయమని పాడెదను – నీ విజయము పాడెదను .. నా విజయము పాడెదను || జయహే ||",
+        "స్వాన్తములో నిజ శాంతి లభించెను, శాంతి లభించెను",
+        "భ్రాంతులు వింతగా ప్రభు పర మాయెను, ప్రభు పర మాయెను",
+        "స్వాన్తమే సిలువకు సాక్షిగా వెలిసెను – స్వాన్తమే సిలువకు సాక్షిగా వెలిసెను",
+        "జయమని పాడెదను – నీ విజయము పాడెదను .. నా విజయము పాడెదను || జయహే ||"
+      ],
+      "english": [
+        "siluvalo paapiki vidudhala kaligenu, vidudhala kaligenu",
+        "kaluvarilo nava jeevana modhavenu, jeevana modhavenu",
+        "siluva pathakaku jayamunu goorchenu – siluva pathakaku jayamunu goorchenu",
+        "jayamani paadedhanu – nee vijayamu paadedhanu … naa vijayamu paadedhanu || jayahe ||",
+        "shodhanalo prabhu sannidhi dhorikenu, sannidhi dhorikenu",
+        "vedhanale thana bhoomiga maarenu, bhoomiga maarenu",
+        "Shodhana bhaadhalu balamunu goolchenu -Shodhana bhaadhalu balamunu goolchenu",
+        "jayamani paadedhanu – nee vijayamu paadedhanu … naa vijayamu paadedhanu || jayahe ||",
+        "swanthamulo nija shanthi labinchenu, shanthi labinchenu",
+        "branthulu vinthaga prabhu paramayenu, prabhu paramayenu",
+        "swanthame siluvaku sakshiga velisenu – swanthame siluvaku sakshiga velisenu",
+        "jayamani paadedhanu – nee vijayamu paadedhanu … naa vijayamu paadedhanu || jayahe ||"
+      ]
+    }
+  ]
+}

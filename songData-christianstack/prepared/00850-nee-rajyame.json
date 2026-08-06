@@ -1,0 +1,100 @@
+{
+  "song_name": "Nee Rajyame",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరలోకమందున్న తండ్రి నీ నామము",
+      "పరిశుద్ధ పరచబడుగాక",
+      "పరలోకమందున్న తండ్రి నీ నామము",
+      "సన్నుతింపబడునుగాక"
+    ],
+    "english": [
+      "Paralokamandhunna thandri nee naamamu",
+      "parisuddha paracha badugaaka",
+      "paralokamandhunna thandri nee naamamu",
+      "sannuthinpa badunugaaka"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ రాజ్యమే వచ్చునుగాక",
+        "నీ చిత్తమే జరుగునుగాక",
+        "పరమందు ఉన్నట్లు భూమిపై నెరవేర్చు"
+      ],
+      "english": [
+        "Nee raajyame vachunugaaka",
+        "nee chitthame jarugunugaaka",
+        "paramandhu unnatlu bhoomipai neraverchu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మా అనుదిన ఆహారము మాకు దయచేయుము",
+        "శోదనలో తేక దుష్టుని నుండి",
+        "మమ్మును తప్పించుము"
+      ],
+      "english": [
+        "Maa anudhina aahaaramu maaku dayacheyumu",
+        "shodanalo theka dushtuni nundi",
+        "mammunu thappinchumu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ రాజ్యమే వచ్చునుగాక",
+        "నీ చిత్తమే జరుగునుగాక",
+        "పరమందు ఉన్నట్లు భూమిపై నెరవేర్చు"
+      ],
+      "english": [
+        "Nee raajyame vachunugaaka",
+        "nee chitthame jarugunugaaka",
+        "paramandhu unnatlu bhoomipai neraverchu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీదే రాజ్యము నీదే శక్తి",
+        "నీదే మహిమ నిరంతరము",
+        "పరమందు ఉన్నట్లు భూమిపై నెరవేర్చు"
+      ],
+      "english": [
+        "Neede raajyamu neede shakthi",
+        "neede mahima nirantharamu",
+        "paramandhu unnatlu bhoomipai neraverchu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యేసయ్యా – నెరవేర్చు",
+        "భూమియందు – నీ చిత్తమే",
+        "మాలో యేసయ్యా నెరవేర్చు"
+      ],
+      "english": [
+        "Yesayyaa – neraverchu",
+        "bhoomiyandu – nee chitthame",
+        "maalo yesayyaa neraverchu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నీ రాజ్యమే వచ్చునుగాక – యేసయ్య",
+        "నీ చిత్తమే జరుగునుగాక – జరిగించు",
+        "పరమందు ఉన్నట్లు భూమిపై నెరవేర్చు"
+      ],
+      "english": [
+        "Nee raajyame vachchunugaaka – yesayya",
+        "nee chittame jarugunugaaka – jariginchu"
+      ]
+    }
+  ]
+}

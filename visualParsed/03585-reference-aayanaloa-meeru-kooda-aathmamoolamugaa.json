@@ -1,0 +1,75 @@
+{
+  "song_name": "Reference: Aayanalo meeru kooda aathmamoolamugaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిర్మింపబడితిమి మనము దైవగృహముగా",
+      "తన కృపచే స్థిరపరచబడితిమి"
+    ],
+    "english": [
+      "Nirmimpabadithimi manamu dhaivagruhamugaa",
+      "Thana krupache sthiraparachabadithimi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కార్చెను యేసు రక్తము మనకై - కూర్చెను సంఘముగా",
+        "కృతజ్ఞతలు చెల్లించెదము - మనప్రభు యేసునకే"
+      ],
+      "english": [
+        "Kaarchenu Yesu rakthamu manakai - Koorchenu sanghamugaa",
+        "Kruthagnathalu chellinchedamu - Manaprabhu Yesunake"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరిశుద్ధుల సహవాసమునిచ్చి పరలోకమునిచ్చే",
+        "పూజనీయుని పూజించెదము - మనసార మనము"
+      ],
+      "english": [
+        "Parishudhdhula sahavaasamunichchi paralokamunichche",
+        "Poojaneeyuni poojinchedhamu - Manasaara manamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరదేశులమై యున్న మనల - తన ఇంటికి జేర్చె",
+        "ప్రాపుగ మనము ప్రస్తుతింతుము - భక్తపాలకుని"
+      ],
+      "english": [
+        "Paradheshulamai yunna manala - Thana intiki jerche",
+        "Praapuga manamu prasthuthinthumu - Bhakthapaalakuni"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "తన కార్యమును మనలో జేసి - తన సేవకు పిలిచె",
+        "తనివి తీరగ స్తుతులర్పింతము - వినయముగా మనము"
+      ],
+      "english": [
+        "Thana kaaryamunu manalo jesi - Thana sevaku piliche",
+        "Thanivi theeraga sthuthularpinthamu - Vinayamugaa manamu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "సంఘంబునకు శిరస్సైయున్న శ్రీ యేసు ప్రభునే",
+        "సర్వకాలము జయశబ్దముతో - సన్నుతించెదము"
+      ],
+      "english": [
+        "Sanghambunaku shirassaiyunna Shree Yesu prabhune",
+        "Sarvakaalamu jayashabdhamutho - Sannuthinchedhamu"
+      ]
+    }
+  ]
+}

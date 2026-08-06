@@ -1,0 +1,70 @@
+{
+  "song_name": "Prematho Nanu Pilachina",
+  "author": {
+    "Authored by": "Bro Praveen D",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రేమతో నను పిలిచినా",
+      "కృపతో నను నడిపినా",
+      "యేసయ్య నీవే కదా",
+      "నను సృష్టించిన దేవుడు",
+      "యేసయ్య నీవే కదా",
+      "నను నడిపించిన నాయకుడు"
+    ],
+    "english": [
+      "Prematho nanu pilichinaa",
+      "krupatho nanu nadipinaa",
+      "yesayya neeve kadaa",
+      "nanu srushtinchina dhevudu",
+      "yesayya neeve kadaa",
+      "nanu nadipinchina naayakudu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వెలుగు కమ్మని పలుకగా",
+        "వెలుగు కలిగెనుగా",
+        "వెలుగులో నన్ను పిలిచినా",
+        "ఆ వెలుగులో నను నడిపినా",
+        "యేసయ్య నీవే కదా",
+        "నను రక్షించిన దేవుడు",
+        "నా పేరు నీవు పిలువగా",
+        "జీవితం మారెనుగా",
+        "జీవములో నన్ను నడిపినా",
+        "ఆ జీవం నాలో నింపినా",
+        "యేసయ్య నీవే కదా",
+        "నను మార్చిన దేవుడు",
+        "సిలువలో పాపాన్ని కడుగగా",
+        "మార్గము తెరిచెనుగా",
+        "ఆత్మతో నను నడిపినా",
+        "పరిశుద్దాత్మతో నను నింపినా",
+        "యేసయ్య నీవే కదా",
+        "నను ప్రేమించిన దేవుడు"
+      ],
+      "english": [
+        "Velugu kammani palukagaa",
+        "velugu kaligenugaa",
+        "velugulo nannu pilichinaa",
+        "aa velugulo nanu nadipinaa",
+        "yesayya neeve kadaa",
+        "nanu rakshinchina dhevudu",
+        "Naa peru neevu piluvagaa",
+        "jeevitham maarenugaa",
+        "jeevamulo nannu nadipinaa",
+        "aa jeevam naalo nimpinaa",
+        "yesayya neeve kadaa",
+        "nanu maarchina dhevudu",
+        "Siluvalo paapaanni kadugagaa",
+        "maargamu therichenugaa",
+        "aathmatho nanu nadipinaa",
+        "parishuddaathmatho nanu nimpinaa",
+        "yesayya neeve kadaa",
+        "nanu preminchina dhevudu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "song_name": "Yesundagaa neekandagaa digulela nosodharaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసుండగా నీకండగా దిగులేల నోసోదరా",
+      "యేసుండగా నీకండగా దిగులేల నోసోదరీ ॥2॥",
+      "నిను కాపాడి నిను రక్షించుటకు ॥2॥",
+      "తన ప్రాణాన్నే అర్పించినాడు ॥యేసుండగా॥"
+    ],
+    "english": [
+      "Yesundagaa neekandagaa digulela nosodharaa",
+      "Yesundagaa neekandagaa digulela nosodharee ||2||",
+      "Ninu kaapaadi ninu rakshinchutaku ||2||",
+      "Thana praanaanne arpinchinaadu ||Yesundagaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ నావలో తుఫానులే చెలరేగినా",
+        "ఎర్ర సంద్రమే ఎదురు వచ్చినా ॥2॥"
+      ],
+      "english": [
+        "Nee naavalo thuphaanule chelaregina",
+        "Erra sandhrame eduru vachchinaa ||2||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఫరో సైన్యమే తరుముతు ఉన్నా",
+        "పగవారే నిన్ను నిందించినా ॥2॥  ||యేసుండగా||"
+      ],
+      "english": [
+        "Pharo sainyame tharumuthu unnaa",
+        "Pagavaare ninnu nindinchinaa ||2||  ||Yesundagaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ యాత్రలో దుఃఖములు ఎన్ని జరిగినా",
+        "వేధనలే నిన్ను చుట్టి వేసినా ॥2॥"
+      ],
+      "english": [
+        "Nee yaathralo duhkhamulu enni jarigina",
+        "Vedhanale ninnu chutti vesinaa ||2||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "స్నేహితులే తోసి వేసినా",
+        "బంధువులే వదిలి వేసినా ॥2॥  ||యేసుండగా||"
+      ],
+      "english": [
+        "Snehithule thosi vesinaa",
+        "Bandhuvule vadhili vesinaa ||2||  ||Yesundagaa||"
+      ]
+    }
+  ]
+}

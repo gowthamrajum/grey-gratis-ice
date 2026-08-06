@@ -1,0 +1,73 @@
+{
+  "song_name": "Randi utsaahinchi paadudamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "రండి యుత్చాహించి పాడుదము - రక్షణదుర్గము మన ప్రభువే"
+    ],
+    "english": [
+      "Randi utsaahinchi paadudamu - Rakshanadhurgamu mana Prabhuve"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రండి కృతజ్ఞత స్తో్త్రముతో - రారాజు సన్నిధి కేగుదము",
+        "సత్ప్రభునామము కీర్తనలన్ - సంతోష గానము చేయుదము  ||రండి||"
+      ],
+      "english": [
+        "Randi kruthagnatha sthothramutho - Raaraaju sannidhi kegudamu",
+        "Sathprabhunaamamu keerthanalan - Santhosha gaanamu cheyudamu  ||Randi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మన ప్రభువే మహదేవుండు - ఘన మహత్మ్యము గల రాజు",
+        "భూమ్యాగాధపు లోయలును - భూతల శిఖరములాయనవే  ||రండి||"
+      ],
+      "english": [
+        "Mana Prabhuve mahadhevundu - Ghana mahathmyamu gala raaju",
+        "Bhoomyaagaadhapu loyalunu - Bhoothala shikharamulaayanave  ||Randi||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సముద్రము సృష్టించె నాయననే - సత్యుని హస్తమే భువిఁ జేసెన్",
+        "ఆయన దైవము పాలితుల - ఆయన మేపెడి గొఱ్ఱెలము  ||రండి||"
+      ],
+      "english": [
+        "Samudramu srushtinche naayanane - Sathyuni hasthame bhuvi jesen",
+        "Aayana daivamu paalithula - Aayana mepedi gorrelamu  ||Randi||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆ ప్రభు సన్నిధి మోకరించి - ఆయన ముందర మ్రొక్కుదము",
+        "ఆయన మాటలు గైకొనిన - నయ్యవి మీకెంత మేలగును  ||రండి||"
+      ],
+      "english": [
+        "Aa Prabhu sannidhi mokarinchi - Aayana mundara mrokkudhamu",
+        "Aayana maatalu gaikonina - Nayyavi meekentha melagunu  ||Randi||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "తండ్రికుమార శద్ధాత్మకును - దగుస్తుతి మహిమలు కల్గుగాక",
+        "ఆదిని ఇప్పుడు నెల్లప్పుడు - నయినట్లు యుగములనౌను ఆమేన్  ||రండి||"
+      ],
+      "english": [
+        "Thandrikumaara shuddhaathmakunu - Dhagusthuthi mahimalu kalgugaaka",
+        "Aadhini ippudu nellappudu - Nayinatlu yugamulanaunu aamen  ||Randi||"
+      ]
+    }
+  ]
+}

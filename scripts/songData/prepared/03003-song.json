@@ -1,0 +1,67 @@
+{
+  "song_name": "Silvayodhdha Jaerudhun Beedha Heenayandhudan",
+  "author": {
+    "Authored by": "",
+    "రచన": "డబల్యు మెక్డోనాల్డ్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "సిల్వయొద్దఁ జేరుదున్ బీద హీనయంధుఁడన్",
+      "లోకమున్ త్యజింతును పూర్ణముక్తి నొందుదున్",
+      "కర్త, నిన్నె నమ్ముదున్ కల్వరీ గొఱ్ఱెపిల్లా",
+      "మోకరించి వేఁడెదన్ నన్నుఁ గావుమో ప్రభో!"
+    ],
+    "english": [
+      "Silvayodhdha Jaerudhun Beedha Heenayandhudan",
+      "Loakamun Thyajinthunu Poornamukthi Nondhudhun",
+      "Kartha, Ninne Nammudhun Kalvaree Gorrepillaa",
+      "Moakarinchi Vaededhan Nannu Gaavumoa Prabhoa!"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిన్ నేఁజేరఁ గోరఁగా నన్ను ఁబాయు పాపము",
+        "శుద్ధిఁజేతునంచును యేసు మాటనిచ్చెను."
+      ],
+      "english": [
+        "Nin Naejaera Goaragaa Nannu Baayu Paapamu",
+        "Shudhdhijaethunanchunu Yaesu Maatanichchenu."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నన్ను ను నా మిత్రులన్ లోక యాస్తిఁ గాలమున్",
+        "దేహయాత్మయంతయు నీకర్పింతునిప్పుడు."
+      ],
+      "english": [
+        "Nannu Nu Naa Mithrulan Loaka Yaasthi Gaalamun",
+        "Dhaehayaathmayanthayu Neekarpinthunippudu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యేసుమాట నమ్మెదన్ క్రీస్తు రక్త పుణ్యముఁ జూచి",
+        "మ్రొక్కి యేసుతో నేను మృతినొందితిన్."
+      ],
+      "english": [
+        "Yaesumaata Nammedhan Kreesthu Raktha Punyamu Joochi",
+        "Mrokki Yaesuthoa Naenu Mruthinondhithin."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యేసు తాను వచ్చును నాకు నిచ్చు పూర్ణతన్",
+        "శుద్ధ సౌఖ్య మొందుదున్ జయస్తోత్ర మేసుకు."
+      ],
+      "english": [
+        "Yaesu Thaanu Vachchunu Naaku Nichchu Poornathan",
+        "Shudhdha Saukhya Mondhudhun Jayasthoathra Maesuku."
+      ]
+    }
+  ]
+}

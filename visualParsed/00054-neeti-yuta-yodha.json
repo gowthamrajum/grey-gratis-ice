@@ -1,0 +1,53 @@
+{
+  "song_name": "Neethi yoota yodda",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీటి యూట యొద్ద నాట బడితిమి - వేరుతన్ని ఎదిగి ఫలియింతుము",
+      "చింత పడము మాకాపుమానము - యేసు కృప చాలును .. నీటి.."
+    ],
+    "english": [
+      "Neethi yoota yodda naatha badithimi - Verutanni edhigi phaliyinthumu",
+      "Chintha padamu maa kaapumaanamu - Yesu krupa chaalunu .. Neethi.."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపం పోయెను హల్లెలూయ - యేసు లేచెను హల్లెలూయ",
+        "యేసు వచ్చెను హల్లెలూయ - స్తుతి గీతం పాడుదము  ||నీటి||"
+      ],
+      "english": [
+        "Paapam poyenu halleluya - Yesu lechenu halleluya",
+        "Yesu vachchenu halleluya - Sthuthi geetham paadudhamu  ||Neethi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసే మార్గము హల్లెలూయ - యేసే సత్యము హల్లెలూయ",
+        "యేసే జీవము హల్లెలూయ - యేసు వార్తను చాటుదము  ||నీటి||"
+      ],
+      "english": [
+        "Yese maargamu halleluya - Yese sathyamu halleluya",
+        "Yese jeevamu halleluya - Yesu vaarthanu chaatudhamu  ||Neethi||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వాక్య ధ్యానము హల్లెలూయ - ప్రార్థనాత్మతో హల్లెలూయ",
+        "ఏకత్వముతో హల్లెలూయ - సహవాసం కోరుదమా  ||నీటి||"
+      ],
+      "english": [
+        "Vaakya dhyaanamu halleluya - Praarthanaathmatho halleluya",
+        "Ekathvamutho halleluya - Sahavaasam korudhamaa  ||Neethi||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "song_name": "Viduvani Devuda neeve maa manchi Yesayya",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "విడువని దేవుడ నీవే మా మంచి యేసయ్యా",
+      "పాపికి ఆశ్రయపురము నీవే మెస్సయ్యా",
+      "ప్రేమించుటకు క్షమియించుటకు",
+      "రక్షించుటకు అర్హుడ నీవే (2)",
+      "యేసయ్యా యేసయ్యా యేసయ్యా యేసయ్యా"
+    ],
+    "english": [
+      "Viduvani Devuda neeve maa manchi Yesayyaa",
+      "Paapiki aashrayapuramu neeve Messayyaa",
+      "Preminchutaku kshamiyinchutaku",
+      "Rakshinchutaku arhuda neeve (2)",
+      "Yesayyaa Yesayyaa Yesayyaa Yesayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నలువది సంవత్రరములు మా పితరుల నడిపిన దేవా",
+        "అరణ్య మార్గమైనా అన్నీ నీవైనావు (2)",
+        "జీవాహారమై ఆకలి తీర్చావు",
+        "కదిలే బండవై దాహము తీర్చావు (2)",
+        "యేసయ్యా యేసయ్యా యేసయ్యా యేసయ్యా"
+      ],
+      "english": [
+        "Naluvadi samvathsaramulu maa pitharula nadipina Deva",
+        "Aranya maargamainaa annee neevainaavu (2)",
+        "Jeevaahaaramai aakali theerchaavu",
+        "Kadhile bandavai daahamu theerchaavu (2)",
+        "Yesayyaa Yesayyaa Yesayyaa Yesayyaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇత్తడి సర్పమువోలే పైకెత్తబడినావు",
+        "నిన్ను చూచినవారు ఆనాడు బ్రతికారు (2)",
+        "సిలువపై వ్రేలాడే నీ దరి చేరిన",
+        "జనులందరు నేడునిత్యము బ్రతుకుదురు (2)",
+        "యేసయ్యా యేసయ్యా యేసయ్యా యేసయ్యా"
+      ],
+      "english": [
+        "Itthadi sarpamuvole paiketthabadinaavu",
+        "Ninnu choochinavaaru aanaadu brathikaaru (2)",
+        "Siluvapai vrelaade nee dari cherina",
+        "Janulandharu nedunithyamu brathukudhuru (2)",
+        "Yesayyaa Yesayyaa Yesayyaa Yesayyaa"
+      ]
+    }
+  ]
+}

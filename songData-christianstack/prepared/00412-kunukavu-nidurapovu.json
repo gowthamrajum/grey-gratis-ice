@@ -1,0 +1,93 @@
+{
+  "song_name": "Kunukavu Nidurapovu",
+  "author": {
+    "Authored by": "Pastor Jyothi Raju",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పాదములకు రాయి తగులకుండా కాపాడు దేవుడవు",
+      "తెగులు గుడారము రానియ్యక కాచేది నాధుడవు",
+      "కునుకవవూ నిధురపోవూ",
+      "ఇశ్రాయేలు కాపరి మా మంచి యేసయ్యా",
+      "ఆరాధన యేసు ఆరాధన",
+      "ఆరధన స్తుతి ఆరధనా",
+      "ఆరాధన యేసు ఆరాధన",
+      "ఆరాధన నీకే ఆరాధనా …"
+    ],
+    "english": [
+      "Paadhamulaku raayi thagalakundaa kaapaadu dhevudavu",
+      "thegulu gudaaramu raaniyyaka kaachedi naadhudavu",
+      "kunukavu nidhurapovu",
+      "Israelu kaapari maa manchi yesayyaa",
+      "aaraadhana yesu aaraadhana",
+      "aaraadhana sthuthi aaraadhana",
+      "aaraadhana yesu aaraadhana",
+      "aaraadhana neeke aaraadhana"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రెక్కల క్రింద కోడి తన పిల్లల దాచునట్లు",
+        "దాచితివీ కాచితివి నీ కౌగిలిలో మము చేర్చితివీ",
+        "కునుకవు నిదురపోవు",
+        "ఇజ్రాయేలు కాపరి మా మంచి యేసయ్యా",
+        "ఆరాధన యేసు ఆరాధన",
+        "ఆరాధన స్తుతి ఆరాధన",
+        "ఆరాధన యేసు ఆరాధన",
+        "ఆరాధన నీకే ఆరాధన",
+        "సొమ్మసిల్లిన వేల బలమిచ్చు వాడవు నీవే",
+        "బలపరచీ స్థిరపరచీ నీ సన్నిధిలో మము నిలిపితివే",
+        "కునుకవూ నిదురపోవు",
+        "ఇశ్రయేలు కాపరి మా మంచి యేసయ్యా",
+        "ఆరాధన యేసు ఆరాధన",
+        "ఆరాధన స్తుతి ఆరాధన",
+        "ఆరాధన యేసు ఆరాధన",
+        "ఆరాధన నీకే ఆరాధన"
+      ],
+      "english": [
+        "Rekkala krindha kodi thana pillala dhaachunatlu",
+        "dhaachithivee kaachithivi nee kaugililo mamu cherchithivee",
+        "kunukavu nidhurapovu",
+        "Israelu kaapari maa manchi yesayyaa",
+        "aaraadhana yesu aaraadhana",
+        "aaraadhana sthuthi aaraadhana",
+        "aaraadhana yesu aaraadhana",
+        "aaraadhana neeke aaraadhana",
+        "Sommasillina vela balamicchu vaadavu neeve",
+        "balaparachee sthiraparachee nee sannidhiloo mamu nilipithive",
+        "kunukavu nidhurapovu",
+        "Israelu kaapari maa manchi yesayyaa",
+        "aaraadhana yesu aaraadhana",
+        "aaraadhana sthuthi aaraadhana",
+        "aaraadhana yesu aaraadhana",
+        "aaraadhana neeke aaraadhana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాదములకు రాయి తగులకుండా కాపాడు దేవుడవు",
+        "తెగులు గుడారము రానియ్యక కాచేది నాధుడవు",
+        "కునుకవవూ నిధురపోవూ",
+        "ఇశ్రాయేలు కాపరి మా మంచి యేసయ్యా",
+        "ఆరాధన యేసు ఆరాధన",
+        "ఆరధన స్తుతి ఆరధనా",
+        "ఆరాధన యేసు ఆరాధన",
+        "ఆరాధన నీకే ఆరాధనా …"
+      ],
+      "english": [
+        "Paadhamulaku raayi thagalakundaa kaapaadu dhevudavu",
+        "thegulu gudaaramu raaniyyaka kaachedi naadhudavu",
+        "kunukavu nidhurapovu",
+        "Israelu kaapari maa manchi yesayyaa",
+        "aaraadhana yesu aaraadhana",
+        "aaraadhana sthuthi aaraadhana",
+        "aaraadhana yesu aaraadhana",
+        "aaraadhana neeke aaraadhana"
+      ]
+    }
+  ]
+}

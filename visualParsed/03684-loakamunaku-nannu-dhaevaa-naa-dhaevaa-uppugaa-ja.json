@@ -1,0 +1,99 @@
+{
+  "song_name": "Lokamunaku nannu Deva naa Deva uppugaa jesithivi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "లోకమునకు నన్ను - దేవా నా దేవా",
+      "ఉప్పుగా జేసితివి - అద్భుత దేవా నా దేవా",
+      "ఉప్పుగా జేసితివి"
+    ],
+    "english": [
+      "Lokamunaku nannu - Deva naa Deva",
+      "Uppugaa jesithivi - adbhutha Deva naa Deva",
+      "Uppugaa jesithivi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నరరూపధారి - పరలోక ఉప్పయి",
+        "ఘోరపాపినైన నన్ను - శుద్ధీకరించితివి"
+      ],
+      "english": [
+        "Nararoopadhaari - Paraloka uppayi",
+        "Ghorapaapinaina nannu - Shuddheekarinchithivi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యెరికో నీళ్ళ - వలె నా జీవం",
+        "మరణచేదై యుండ నీవు - రుచిగా మార్చితివి"
+      ],
+      "english": [
+        "Yeriko neella - vale naa jeevam",
+        "Maranachedhai yunda neevu - Ruchigaa maarchithivi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా రోతహృదయం - నూతన పరచి",
+        "పరమ ఉప్పుతోడ నీవు - నింపిన దేవుండవు"
+      ],
+      "english": [
+        "Naa rothahrudhayam - Noothana parachi",
+        "Parama upputhoda neevu - Nimpina Dhevundavu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పరులకు యిలలో - ప్రభు క్రీస్తు రుచిన్",
+        "నిరతమునే జూపునట్లు - కుమ్మరించుము నన్ను"
+      ],
+      "english": [
+        "Parulaku ilalo - Prabhu Kreesthu ruchin",
+        "Nirathamune joopunatlu - Kummarinchumu nannu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీ నిత్యజీవం - నీ సంతోషం",
+        "నిత్య సమధానమిచ్చి - భద్రపరచితివి"
+      ],
+      "english": [
+        "Nee nithyajeevam - Nee santhosham",
+        "Nithya samaadhaanamichchi - Bhadhraparachithivi"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "దీనుడనై నే - బహుదుఃఖపడిన",
+        "ఎన్నడైన విడువక శ్రేష్ట - ఉప్పుగా మర్చుచున్న"
+      ],
+      "english": [
+        "Deenudanai ne - Bahudhukhapadina",
+        "Ennadaina viduvaka shreshta - Uppugaa maarchuchunna"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "జనులు నన్ను హింసించినపుడు",
+        "ఎన్ని చెడ్డమాటలన్న - హల్లెలూయ పాడెదన్"
+      ],
+      "english": [
+        "Janulu nannu himsinchinapudu",
+        "Enni cheddamaatalanna - Hallelooya paadedan"
+      ]
+    }
+  ]
+}

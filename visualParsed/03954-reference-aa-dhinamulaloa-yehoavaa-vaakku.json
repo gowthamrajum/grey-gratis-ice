@@ -1,0 +1,90 @@
+{
+  "song_name": "Aadhinamulalo dhevokthi - Arudhaayenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆదినములలో దేవోక్తి - అరుదాయెను - దేవునివార్త",
+      "ఆదినములలో దేవోక్తి",
+      "దైవోక్తి ప్రత్యక్షత - దొరుకునదే - అరుదాయెనట",
+      "ఆదినములలో దేవోక్తి"
+    ],
+    "english": [
+      "Aadhinamulalo dhevokthi - Arudhaayenu - Dhevunivaartha",
+      "Aadhinamulalo dhevokthi",
+      "Dhaivokthi prathyakshatha - Dhorukunadhe - Arudhaayenata",
+      "Aadhinamulalo dhevokthi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇశ్రాయేలీయుల కానాడు - యే రాజు లేకపోయె",
+        "తనయిష్టానుసారముగా తిరుగుచుండెను ప్రతివాడు"
+      ],
+      "english": [
+        "Ishraayeleeyula kaanaadu - Ye raaju lekapoye",
+        "Thanayishtaanusaaramugaa thiruguchundenu prathivaadu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరమ తండ్రి మందసము - చెరపట్టినందున",
+        "ప్రభావము పోయెను - ప్రభుని ప్రజలలో నుండి"
+      ],
+      "english": [
+        "Parama thandri mandhasamu - Cherapattinandhuna",
+        "Prabhaavamu poyenu - Prabhuni prajalalo nundi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దావీదంతకంతకు - దినదినము వర్థిల్లెను",
+        "సైన్యములధిపతి యెహోవా - సర్వదా తనతోడై యుండెను"
+      ],
+      "english": [
+        "Dhaaveedhanthakanthaku - Dinadinamu varthillenu",
+        "Sainyamuladhipathi Yehova - Sarvadaa thanathodai yundenu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సొలమోనర్పించిన - బలుల నగ్ని కాల్చగనే",
+        "ప్రభుని ఆలయమంతయు - ప్రభావముతో నిండెను"
+      ],
+      "english": [
+        "Solamonarpinchina - Balula nagni kaalchagane",
+        "Prabhuni aalayamanthayu - Prabhaavamutho nindenu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "లెమ్ము తేజరిల్లుము - నీకు వెలుగు కలిగెను",
+        "యెహోవా తండ్రి మహిమ - నీ మీద నుదయించెను"
+      ],
+      "english": [
+        "Lemmu thejarillumu - Neeku velugu kaligenu",
+        "Yehova thandri mahima - Nee meeda nudhayinchenu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "యెహోవా పట్టణమని - ఇశ్రాయేలు పరిశుద్ధ",
+        "దేవుని సీయోనని - నీకు పేరు పెట్టెదరు"
+      ],
+      "english": [
+        "Yehova pattanamani - Ishraayelu parishuddha",
+        "Devuni Seeyonani - Neeku peru pettedharu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "song_name": "Dhaevaadhi Dhaevaathmajaa Mammu Dheevinchu",
+  "author": {
+    "Authored by": "",
+    "రచన": "పురుషోత్తము చౌదరి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవాది దేవాత్మజా మమ్ము దీవించు ప్రభురాజా",
+      "దేవాదిదైవ మానుషాభవ్య దేదీప్యగుణతేజా"
+    ],
+    "english": [
+      "Dhaevaadhi Dhaevaathmajaa Mammu Dheevinchu Prabhuraajaa",
+      "Dhaevaadhidhaiva Maanushaabhavya Dhaedheepyagunathaejaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చెదరిన నీ గొఱ్ఱెల కదుపు వెదుకవచ్చితివియ్యల",
+        "సదయా హృదయాభ్యుదయా సాధు జన నిత్య పరిపాలా"
+      ],
+      "english": [
+        "Chedharina Nee Gorrela Kadhupu Vedhukavachchithiviyyala",
+        "Sadhayaa Hrudhayaabhyudhayaa Saadhu Jana Nithya Paripaalaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దురితాలవాలమునం బుట్టు నరకీటముల మన్నా",
+        "కరుణారసమనిశము మాపై విరఁజల్లవే చల్లగా"
+      ],
+      "english": [
+        "Dhurithaalavaalamunam Buttu Narakeetamula Mannaa",
+        "Karunaarasamanishamu Maapai Virajallavae Challagaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నరకంబు నిధియొడ్డున మేము దిరుగుచు పడబోయిన తఱి",
+        "నీ వెఱిఁగి త్వరగా మమ్ము మరలించి నావన్నా"
+      ],
+      "english": [
+        "Narakambu Nidhiyodduna Maemu Dhiruguchu Padaboayina Thari",
+        "Nee Verigi Thvaragaa Mammu Maralinchi Naavannaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యేసు నీ దాసులము నీకు దోసిలి యొగ్గినాము",
+        "దోషా రోషా భ్యాసములను దూరముఁ దొలఁగించుము"
+      ],
+      "english": [
+        "Yaesu Nee Dhaasulamu Neeku Dhoasili Yogginaamu",
+        "Dhoashaa Roashaa Bhyaasamulanu Dhooramu Dholaginchumu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ప్రాణేశ నీ సిలువఁ జిందు శోణితంపు విలువ",
+        "త్రాణకరము స్ధిరము దాని దర్శించుటే జీవము"
+      ],
+      "english": [
+        "Praanaesha Nee Siluva Jindhu Shoanithampu Viluva",
+        "Thraanakaramu Sdhiramu Dhaani Dharshinchutae Jeevamu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "బాలుర మజ్ఞులము మమ్ము బాలింపవే నిత్యము",
+        "నీ లోపలి జాలి మాకు నిజముగాఁ జూపించుము"
+      ],
+      "english": [
+        "Baalura Magnulamu Mammu Baalimpavae Nithyamu",
+        "Nee Loapali Jaali Maaku Nijamugaa Joopinchumu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "ఆనందమగు నీ కృప మేము ధ్యానించుటకు నేర్పుమా",
+        "జ్ఞానోజ్వలము బలము శిశువుల మైన మా కవి యిమ్ము"
+      ],
+      "english": [
+        "Aanandhamagu Nee Krupa Maemu Dhyaaninchutaku Naerpumaa",
+        "Gnaanoajvalamu Balamu Shishuvula Maina Maa Kavi Yimmu"
+      ]
+    }
+  ]
+}

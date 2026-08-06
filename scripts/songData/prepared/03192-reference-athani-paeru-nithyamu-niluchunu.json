@@ -1,0 +1,88 @@
+{
+  "song_name": "Athani Paeru Nithyamu Niluchunu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "అతని పేరు నిత్యము నిలుచును.",
+      "అతని నామము సూర్యుడున్నంత కాలము చిగుర్చు చుండును.",
+      "అతనినిబట్టి మనుష్యులు దీవింపబడుదురు.",
+      "అన్యజనులందరును అతడు ధన్యుడని చెప్పుకొందురు.",
+      "కీర్తన Psalm 72:17-19"
+    ],
+    "english": [
+      "Athani Paeru Nithyamu Niluchunu.",
+      "Athani Naamamu SooryudunnaMtha Kaalamu Chigurchu ChuMdunu.",
+      "Athaninibatti ManuShyulu DheeviMpabadudhuru.",
+      "AnyajanulaMdharunu Athadu Dhanyudani CheppukoMdhuru.",
+      "Keerthana Psalm 72:17-19"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "క్రీస్తుని నామము నిత్యము నిల్చున్ సూర్యుడున్నంత కాలము చిగుర్చున్"
+      ],
+      "english": [
+        "Kreesthuni Naamamu Nithyamu Nilchun SooryudunnaMtha Kaalamu Chigurchun"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అతనినిబట్టి మానవులెల్లరు తథ్యముగానే దీవించబడెదరు"
+      ],
+      "english": [
+        "Athaninibatti Maanavulellaru ThaThyamugaanae DheeviMchabadedharu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అన్యజనులందరును అతని ధన్యుడని చెప్పుకొను చుందురు"
+      ],
+      "english": [
+        "AnyajanulaMdharunu Athani Dhanyudani Cheppukonu ChuMdhuru"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఇశ్రాయేలు దేవుడైన యెహోవా దేవుడు స్తుతింపబడును గాక"
+      ],
+      "english": [
+        "Ishraayaelu Dhaevudaina Yehoavaa Dhaevudu SthuthiMpabadunu Gaaka"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఆయనే బహు ఆశ్చర్యకార్యములు చేయువాడు గాన స్తోత్రార్హుండు"
+      ],
+      "english": [
+        "Aayanae Bahu Aashcharyakaaryamulu Chaeyuvaadu Gaana SthoathraarhuMdu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఆయన మహిమగల నామము నిత్యమును స్తుతింపబడును గాక"
+      ],
+      "english": [
+        "Aayana Mahimagala Naamamu Nithyamunu SthuthiMpabadunu Gaaka"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "సర్వభూమి ఆయన మహిమచే నిండియుండును గాక ఆమెన్‌ ఆమెన్‌"
+      ],
+      "english": [
+        "Sarvabhoomi Aayana Mahimachae NiMdiyuMdunu Gaaka Aamen Aamen"
+      ]
+    }
+  ]
+}

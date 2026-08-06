@@ -1,0 +1,114 @@
+{
+  "song_name": "Aashalanni",
+  "author": {
+    "Authored by": "Giftson Durai",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నే తెరిచే తలుపులు అన్నీ , తరచుగా మూసితివి",
+      "కోపించి పగనుంచినా నవ్వుతూ చూసితివి",
+      "నే తలిచే మార్గములన్నీ తరచుగా మూసితివి",
+      "కన్నీళ్లతో దుఃఖించినా కౌగిలిలొ దాచితివి",
+      "మూయుటకు కారణం ఈ మూర్ఖునికి తెలిసినదే",
+      "అడిగిన దానికంటే అధికమే పొందితినే",
+      "మూయుటకు కారణం ఇప్పుడే తెలిసినదే",
+      "అడిగిన దానికంటే ఎక్కువే పొందితినే"
+    ],
+    "english": [
+      "Na chinna chinna ashalanni erigithivi",
+      "Korikalanni thirchithivi",
+      "Murkhunani neverigina kaugililo bandhinchithivi",
+      "Ashalanni erigithivi korikalanni thirchithivi",
+      "Mududai nenundaga etthukuni nadipinchithivi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా చిన్న చిన్న ఆశలన్నీ ఎరిగితివి కోరికలన్నీ తీర్చితివి",
+        "మూర్ఖునని నీవెరిగినా కౌగిలిలొ బంధించితివి",
+        "ఆశలన్నీ ఎరిగితివి కోరికలన్నీ తీర్చితివి",
+        "మూఢుడై నేనుండగా ఎత్తుకుని నడిపించితివి"
+      ],
+      "english": [
+        "Ne theriche thalupulu anni, tharachuga musithivi",
+        "Kopinchi paganunchina navvuthu chusithivi",
+        "Ne thaliche margamulanni tharachuga musithivi",
+        "Kannillatho dukhinchina kaugililo dachithivi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తండ్రులెవరైననూ చేపనడిగితే పామునిచ్చునా",
+        "తండ్రీ నిన్ను దయ మాత్రమే వేడితిని",
+        "నీకు వేరుగా నేను ఏదియు కోరలేను",
+        "ఆశలే నా ఊసై తాకనీ జనుల మనసును",
+        "తప్పుగా అడగను నీ చిత్తమే కోరెదను",
+        "జీవముకు అర్ధము నీ వాక్యమే తెలిపెను"
+      ],
+      "english": [
+        "Muyutaku karanam ee murkhuniki thelisinade",
+        "Adigina danikante adhikame pondithine",
+        "Muyutaku karanam ippude thelisinade",
+        "Adigina danikante ekkuve pondithine"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మది లోతులన్నీ నీవు మాత్రమే ఎరిగితివి",
+        "కలవరములన్నీ నీవే గ్రహియించితివి",
+        "ఏది ఏమైనగాని నీ సన్నిధి నేను చేరెదను",
+        "ఎవరి ఎగతాళి మించినా నీ చిత్తమే చేయ సాగెదను",
+        "ఎవ్వరికి తెలియని సంగతులు ఎరిగితివి",
+        "లోతైన గాయము నీ ప్రేమతో మాన్పితివి",
+        "నే తెరుచు తలుపులు అన్నీ తరచుగా మూసితివి"
+      ],
+      "english": [
+        "Thandrulavarainanu chepanadigithe pamunichchuna",
+        "Thandri ninnu daya maathrame vedithini",
+        "Neeku veruga nenu edhiyu koralenu",
+        "Ashale naa oosai thaakani janula manasunu",
+        "Thappuga adaganu nee chitthame koredhanu",
+        "Jivamuku arthamu nee vaakyame thelipenu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కోపించి పగనుంచినా యేసు నిలిచితివి",
+        "నే తలచు మార్గములన్నీ తరచుగా మూసితివి",
+        "కన్నీళ్లతో దుఃఖించినా కౌగిలిలొ దాచితివి",
+        "మూయుటకు కారణం ఈ మూర్ఖునికి తెలిసినదే",
+        "అడిగిన దానికంటే అధికమే పొందితినే",
+        "మూయుటకు కారణం ఇప్పుడే తెలిసినదే",
+        "అడిగిన దానికంటే ఎక్కువే పొందితినే"
+      ],
+      "english": [
+        "Madhi lothulanni neevu maathrame erigithivi",
+        "Kalavaramulanni neeve grahiyinchithivi",
+        "Edhi emainagani nee sannidhi nenu cheredhanu",
+        "Evari egathali minchina nee chitthame cheya sagedhanu",
+        "Evariki theliyani sangathulu erigithivi",
+        "Lothaina gayamu nee prematho manpithivi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [],
+      "english": [
+        "Ne theruchu thalupulu anni, tharachuga musithivi",
+        "Kopinchi paganunchina Yesu nilichithivi",
+        "Ne thalachu margamulanni tharachuga musithivi",
+        "Kannillatho dukhinchina kaugililo dachithivi",
+        "Muyutaku karanam ee murkhuniki thelisinade",
+        "Adigina danikante adhikame pondithine",
+        "Muyutaku karanam ippude thelisinade",
+        "Adigina danikante ekkuve pondithine"
+      ]
+    }
+  ]
+}

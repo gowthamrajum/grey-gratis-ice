@@ -1,0 +1,79 @@
+{
+  "song_name": "Entha manchivaadavu entha goppa devudavu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎంతమంచివాడవు ఎంత గొప్ప దేవుడవు",
+      "నీకు సాటి ఎవ్వరు లేరయ్యా",
+      "దేవాధి దేవుడవు రాజాధిరాజువు",
+      "నీవుంటె నాకు చాలయ్యా",
+      "యోహెూవా. యహెూవా. యోహెూవా నా కాపరి",
+      "యోహెూవా. యహెూవా. యోహెూవా నా ఊపిరి"
+    ],
+    "english": [
+      "Entha manchivaadavu entha goppa devudavu",
+      "Neeku saati evvaru lerayyaa",
+      "Dhevaadhi devudavu raajaadhiraajuvu",
+      "Neevunte naaku chaalayyaa",
+      "Yehova. Yehova. Yehova naa kaapari",
+      "Yehova. Yehova. Yehova naa oopiri"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పేరుపెట్టి పిలిచావు లాజరు రమ్మన్నావు",
+        "కన్నీటిని తుడిచావు కష్టాలే తీర్చావు",
+        "నీ మాటలో గొప్ప శక్తుందిలే",
+        "ఆ పిలుపు లాజరును లేపిందిలే",
+        "నీలాంటి దేవుడు (ఏ) లోకాన లేడులే (2)"
+      ],
+      "english": [
+        "Perupetti pilichaavu Laajaru rammannaavu",
+        "Kanneetini thudichaavu kashtaale theerchaavu",
+        "Nee maatalo goppa shakthundhile",
+        "Aa pilupu Laajarunu lepindhile",
+        "Neelaanti devudu (e) lokaana ledule (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సంద్రాన్ని శాసించి శాంతింప జేసావే",
+        "పాపులను స్నేహించి పవిత్రులుగా మార్చివే",
+        "నీ పేరంటే దయ్యాలు వణికాయిలే",
+        "నీవంటే రోగాలు జడిసాయిలే",
+        "నీలాంటి దేవుడు (ఏ) లోకాన లేడులే (2)"
+      ],
+      "english": [
+        "Sandhraanni shaasinchi shaanthimpa jesaave",
+        "Paapulanu snehinchi pavithrulugaa maarchive",
+        "Nee peraante dayyaalu vanikaayile",
+        "Neevante rogaalu jadisaayile",
+        "Neelaanti devudu (e) lokaana ledule (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నశించిపోతున్న పాపాత్ములను పిలిచావే",
+        "నీతిగా జీవించే బోధలెన్నో చేశావే",
+        "కల్వరిలో నీ ప్రేమ చూపావులే",
+        "కలుషాత్ములెందరినో మార్చావులే",
+        "నీలాంటి దేవుడు (ఏ) లోకాన లేడులే (2)"
+      ],
+      "english": [
+        "Nashinchipothunna paapaathmulanu pilichaave",
+        "Neethigaa jeevinche bodhalenno cheshaave",
+        "Kalvarilo nee prema choopaavule",
+        "Kalushaathmulendharino maarchaavule",
+        "Neelaanti devudu (e) lokaana ledule (2)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "song_name": "Sudhathulaara Mee Richchoata N",
+  "author": {
+    "Authored by": "",
+    "రచన": "పురుషోత్తము చౌధరి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "సుదతులార మీ రిచ్చోట నెవ్వరి వెదుకుచునున్నారు మృదువుగాను జీ వించు వాని పెద్ద నిదుర బోయినటు లెదలందు భావించి ||సుదతులార||"
+    ],
+    "english": [
+      "sudhathulaara mee richchoata nevvari vedhukuchununnaaru mrudhuvugaanu jee viMchu vaani pedhdha nidhura boayinatu ledhalMdhu bhaaviMchi ||sudhathulaara||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇచట లేఁడు లేచి యున్నాఁడు ప్రభు క్రీస్తు యేసు స్వతంత్రుఁడై ప్రచురంబుగఁ దన పాట్లు లేచుటయును వచియించె గలిలయ్య వర దేశమున మీతో ||సుదతులార||"
+      ],
+      "english": [
+        "ichata laeAOdu laechi yunnaaAOdu prabhu kreesthu yaesu svathMthruAOdai prachurMbugAO dhana paatlu laechutayunu vachiyiMche galilayya vara dhaeshamuna meethoa ||sudhathulaara||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మనుజ కుమారుఁ డె క్కుడు పాపిష్ఠులచేత మరణ మొందుట సిల్వ పైఁ దనకుఁ దానె మూఁడవ దినమందు లేచుట యును దెల్పెఁ గద మీరు వినుచుండఁగఁ దొల్లి ||సుదతులార||"
+      ],
+      "english": [
+        "manuja kumaaruAO de kkudu paapiShTulachaetha maraNa moMdhuta silva paiAO dhanakuAO dhaane mooAOdava dhinamMdhu laechuta yunu dhelpeAO gadha meeru vinuchuMdAOgAO dholli ||sudhathulaara||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఎదలలోన జ్ఞాప కము చేసికొనుఁడింక యేసు తెల్పిన మాటలు ముదముతో జీవముఁ గని లేచె నను వార్త సుదతు లాలకించి రది నిక్కముగఁ దోఁచఁ ||సుదతులార||"
+      ],
+      "english": [
+        "edhalaloana jnYaapa kamu chaesikonuAOdiMka yaesu thelpina maatalu mudhamuthoa jeevamuAO gani laeche nanu vaartha sudhathu laalakiMchi radhi nikkamugAO dhoaAOchAO ||sudhathulaara||"
+      ]
+    }
+  ]
+}

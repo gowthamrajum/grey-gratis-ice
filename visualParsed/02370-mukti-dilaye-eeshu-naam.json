@@ -1,0 +1,72 @@
+{
+  "song_name": "Mukthi dhilaaye Eeshu naam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ముక్తి దిలాయె ఈషు నామ్",
+      "శాంతి దిలాయె ఈషు నామ్"
+    ],
+    "english": [
+      "Mukthi dhilaaye Eeshu naam",
+      "Shaanthi dhilaaye Eeshu naam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఈషు దయా క బెహత సాగర్",
+        "ఈషు హె ధాత మహన్",
+        "ఈషు హె ధాత మహన్"
+      ],
+      "english": [
+        "Eeshu dayaa ka behatha saagar",
+        "Eeshu he daatha mahan",
+        "Eeshu he daatha mahan"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చర్న్ మే తు నే జనమ్ లియ ఈషు",
+        "సూలి పె కియ విష్రామ్",
+        "సూలి పె కియ విష్రామ్"
+      ],
+      "english": [
+        "Charn me thu ne janam liya Eeshu",
+        "Sooli pe kiya vishraam",
+        "Sooli pe kiya vishraam"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "హమ్ పర్ భి ఈషు క్రీపా కర్ణ",
+        "హమ్ హే పాపి నదాన్",
+        "హమ్ హే పాపి నదాన్"
+      ],
+      "english": [
+        "Ham par bhi Eeshu krupaa karna",
+        "Ham he paapi nadaan",
+        "Ham he paapi nadaan"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "హమ్ సబ్ కె పాపొ కొ మిట్టానె",
+        "ఈషు హువ బలిధాన్",
+        "ఈషు హువ బలిధాన్"
+      ],
+      "english": [
+        "Ham sab ke paapo ko mittaane",
+        "Eeshu huva balidhaan",
+        "Eeshu huva balidhaan"
+      ]
+    }
+  ]
+}

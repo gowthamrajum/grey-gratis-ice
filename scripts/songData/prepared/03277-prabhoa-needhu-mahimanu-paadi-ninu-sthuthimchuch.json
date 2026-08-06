@@ -1,0 +1,53 @@
+{
+  "song_name": "Prabhoa Needhu Mahimanu Paadi Ninu Sthuthimchuchunnaamu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభో నీదు మహిమను పాడి నిను స్తుతించుచున్నాము"
+    ],
+    "english": [
+      "Prabhoa Needhu Mahimanu Paadi Ninu Sthuthimchuchunnaamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మాదు హృదయ కానుకలను - సమర్పించుచున్నాము"
+      ],
+      "english": [
+        "Maadhu Hrudhaya Kaanukalanu - Samarpimchuchunnaamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసు సుందర శీలము గల్గి - నీ సన్నిధి కేతెంచితిమి"
+      ],
+      "english": [
+        "Yaesu Sumdhara Sheelamu Galgi - Nee Sannidhi Kaethemchithimi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ దివ్య వాక్య బలముచే - నూతన జీవము నొందితిమి"
+      ],
+      "english": [
+        "Nee Dhivya Vaakya Balamuchae - Noothana Jeevamu Nomdhithimi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీ వాక్యము నే చాటించుటకు - నొసగుము సోదర ప్రేమను"
+      ],
+      "english": [
+        "Nee Vaakyamu Nae Chaatimchutaku - Nosagumu Soadhara Praemanu"
+      ]
+    }
+  ]
+}

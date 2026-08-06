@@ -1,0 +1,44 @@
+{
+  "song_name": "Dhaivaathma Parishudhdhudaa Dhaaraala Praemanu",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఐజక్ వాట్స్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "దైవాత్మ పరిశుద్ధుడా ధారాళ ప్రేమను దండిగ నిచ్చి మమ్మును దయన్ దీవించుము."
+    ],
+    "english": [
+      "Dhaivaathma Parishudhdhudaa Dhaaraala Praemanu Dhandiga Nichchi Mammunu Dhayan Dheevinchumu."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మా యజ్ఞానాంధకారము వ్రయము జేయుము నీ యెక్కువైన తేజము మా యందు పోయుము."
+      ],
+      "english": [
+        "Maa Yajnyaanaandhakaaramu Vrayamu Jaeyumu Nee Yekkuvaina Thaejamu Maa Yandhu Poayumu."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మా దర్గుణంబు లెల్లను చెదరఁ గొట్టుము మా పాప మణుపుటకై నీ శక్తిఁ జూపుము."
+      ],
+      "english": [
+        "Maa Dhargunambu Lellanu Chedhara Gottumu Maa Paapa Manuputakai Nee Shakthi Joopumu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సన్మార్గమందు నిత్యము మమ్ము నడుపుము నీ మోక్షమందు పిమ్మట మమ్మాదరింపుము."
+      ],
+      "english": [
+        "Sanmaargamandhu Nithyamu Mammu Nadupumu Nee Moakshamandhu Pimmata Mammaadharimpumu."
+      ]
+    }
+  ]
+}

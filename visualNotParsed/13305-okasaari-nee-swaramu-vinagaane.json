@@ -1,0 +1,62 @@
+{
+  "song_name": "Okasaari nee swaramu vinagaane",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఒకసారి నీ స్వరము వినగానే",
+      "ఓ దేవా నా మనసు నిండింది",
+      "ఒకసారి నీ ముఖము చూడగానే",
+      "యేసయ్య నా మనసు పొంగింది (2)",
+      "నా ప్రతి శ్వాసలో నువ్వే",
+      "ప్రతి ధ్యాసలో నువ్వే",
+      "ప్రతి మాటలో నువ్వే",
+      "నా ప్రతి బాటలో నువ్వే (2) ||ఒకసారి||"
+    ],
+    "english": [
+      "Okasaari nee swaramu vinagaane",
+      "O Deva naa manasu nindindi",
+      "Okasaari nee mukhamu choodagaane",
+      "Yesayya naa manasu pongindhi (2)",
+      "Naa prathi shwaasalo nuvve",
+      "Prathi dhyaasalo nuvve",
+      "Prathi maatalo nuvve",
+      "Naa prathi baatalo nuvve (2) ||Okasaari||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ సిలువ నుండి కురిసింది ప్రేమ",
+        "ఏ ప్రేమ అయినా సరితూగునా (2)",
+        "నీ దివ్య రూపం మెరిసింది ఇలలో",
+        "తొలగించె నాలోని ఆవేదన ||నా ప్రతి||"
+      ],
+      "english": [
+        "Nee siluva nundi kurisindi prema",
+        "E prema ayinaa sarithoogunaa (2)",
+        "Nee divya roopam merisindhi ilalo",
+        "Tholaginche naaloni aavedana ||Naa prathi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇలలోన ప్రతి మనిషి నీ రూపమే కదా",
+        "బ్రతికించు మమ్ములను నీ కోసమే (2)",
+        "తొలగాలి చీకట్లు వెలగాలి ప్రతి హృదయం",
+        "నడిపించు మమ్ములను నీ బాటలో ||నా ప్రతి||"
+      ],
+      "english": [
+        "Ilalona prathi manishi nee roopame kadaa",
+        "Brathikinchu mammulanu nee kosame (2)",
+        "Tholagaali cheekatlu velagaali prathi hrudayam",
+        "Nadipinchu mammulanu nee baatalo ||Naa prathi||"
+      ]
+    }
+  ]
+}

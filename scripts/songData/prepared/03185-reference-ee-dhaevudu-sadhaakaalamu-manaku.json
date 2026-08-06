@@ -1,0 +1,96 @@
+{
+  "song_name": "Ee Dhaevudu Sadhaakaalamu Manaku",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మన దేవుని పట్టణమందాయన - పరిశుద్ధ పర్వతమందు",
+      "యెహోవా గొప్పవాడును - బహు కీర్తనీయుడై యున్నాడు"
+    ],
+    "english": [
+      "Mana Dhaevuni Pattanamandhaayana - Parishuddha Parvathamandhu",
+      "Yehoavaa Goppavaadunu - Bahu Keerthaneeyudai Yunnaadu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఉత్తర దిక్కున మహారాజు పట్టణమైన - సీయోను పర్వతము",
+        "ఉన్నతమై అందముగా సర్వభూమికి సంతోషమిచ్చు చున్నది"
+      ],
+      "english": [
+        "Uththara Dhikkuna Mahaaraaju Pattanamaina - Seeyoanu Parvathamu",
+        "Unnathamai Andhamugaa Sarvabhoomiki Santhoashamichchu Chunnadhi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దాని నగరులలో దేవుడాశ్రయముగా - ప్రత్యక్షంబగుచున్నాడు",
+        "రాజులేకముగా కూడి ఆశ్చర్యపడి - భ్రమపడి త్వరగా వెళ్ళిరి"
+      ],
+      "english": [
+        "Dhaani Nagarulaloa Dhaevudaashrayamugaa - Prathyakshambaguchunnaadu",
+        "Raajulaekamugaa Koodi Aashcharyapadi - Bhramapadi Thvaragaa Velliri"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అచ్చట వారల వణకును ప్రసవించు స్త్రీ - వేదన పట్టెను",
+        "తూర్పు గాలిని రేపి తర్షీషు ఓడల - పగులగొట్టుచున్నావు"
+      ],
+      "english": [
+        "Achchata Vaarala Vanakunu Prasavinchu Sthree - Vaedhana Pattenu",
+        "Thoorpu Gaalini Raepi Tharsheeshu Oadala - Pagulagottuchunnaavu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సైన్యము లధిపతి యెహోవా దేవుని - పట్టణమునందు",
+        "మనము వినినట్టి రీతిగా జరుగుట - మనము చూచితిమి"
+      ],
+      "english": [
+        "Sainyamu Ladhipathi Yehoavaa Dhaevuni - Pattanamunandhu",
+        "Manamu Vininatti Reethigaa Jaruguta - Manamu Choochithimi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మన దేవుడు నిత్యముగా దానిని స్థిర - పరచియున్నాడు",
+        "దేవా నీ ఆలయ మందున నీ కృపను ధ్యానించితిమి"
+      ],
+      "english": [
+        "Mana Dhaevudu Nithyamugaa Dhaanini Sthira - Parachiyunnaadu",
+        "Dhaevaa Nee Aalaya Mandhuna Nee Krupanu Dhyaaninchithimi"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "దేవా నీ నామము ఎంత గొప్పదో - నీ సత్కీర్తియును",
+        "భూదిగంతముల వరకు అంత - గొప్పదై యున్నది"
+      ],
+      "english": [
+        "Dhaevaa Nee Naamamu Entha Goppadhoa - Nee Sathkeerthiyunu",
+        "Bhoodhiganthamula Varaku Antha - Goppadhai Yunnadhi"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "ఈ దేవుడు సదాకాలము మనకు - దేవుడై యున్నాడు",
+        "మనల నడిపించును మరణపర్యంతము - హల్లెలూయా ఆమెన్"
+      ],
+      "english": [
+        "Ee Dhaevudu Sadhaakaalamu Manaku - Dhaevudai Yunnaadu",
+        "Manala Nadipinchunu Maranaparyanthamu - Hallelooyaa Aamen"
+      ]
+    }
+  ]
+}

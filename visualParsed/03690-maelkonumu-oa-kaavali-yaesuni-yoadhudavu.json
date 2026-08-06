@@ -1,0 +1,97 @@
+{
+  "song_name": "Melkonumu o kaavali Yesuni yodhudavu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మేల్కొనుము ఓ కావలి యేసుని యోధుడవు",
+      "పోరాడవలె నీవే ప్రభు శక్తితో పోవలెన్"
+    ],
+    "english": [
+      "Melkonumu o kaavali Yesuni yodhudavu",
+      "Poraadavale neeve Prabhu shakthitho povalen"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శత్రువు లెందరో నీ చుట్టు చేరియున్నారు",
+        "తప్పించు కొందువెట్లు? ప్రభువాజ్ఞను పాలించు"
+      ],
+      "english": [
+        "Shathruvu lendharo nee chuttu cheriyunnaaru",
+        "Thappinchu kondhuvetlu? Prabhuvaagnanu paalinchu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆయుధములు తీసుకో పొందుము ప్రభు శక్తిని",
+        "స్థిరుడవై నిలువవలె శత్రువులందరి యెదుట"
+      ],
+      "english": [
+        "Aayudhamulu theesuko pondumu Prabhu shakthini",
+        "Sthirudavai niluvavale shathruvulandhari eduta"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సిద్ధపడు మిప్పుడే ఆయుధము పట్టుకో",
+        "ఆత్మీయ యుద్ధం నీది భయపడ కెవ్వరికి"
+      ],
+      "english": [
+        "Siddhapadu mippude aayudhamu pattuko",
+        "Aathmeeya yuddham needi bhayapada kevvariki"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సత్యము నీనడికట్టు తొలగు అబద్ధము నుండి",
+        "తొడుగుకో మైమరువును - ఆత్మ రక్షణ పొందను"
+      ],
+      "english": [
+        "Sathyamu neenadikattu tholagu abaddhamu nundi",
+        "Thodhuguko maimaruvunu - Aathma rakshana pondhanu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పాదరక్షలు ధరించు అందించు సువార్తను",
+        "విశ్వాసమను డాలుతో దుష్టుని అగ్నినార్పు"
+      ],
+      "english": [
+        "Paadharakshalu dharinchu andhinchu suvaarthanu",
+        "Vishvaasamanu daalutho dhushtuni agninaarpu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "శిరస్త్రాణము ధరించు కనుపరచు నీ రక్షణ",
+        "ఆత్మఖడ్గము తీసికో - వాక్యమే ఆ ఖడ్గము"
+      ],
+      "english": [
+        "Shirasthraanamu dharinchu kanuparachu nee rakshana",
+        "Aathmakhadgamu theesiko - Vaakyame aa khadgamu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "ప్రార్థించు మెల్లప్పుడు శ్రేష్ఠాయుధమదియే",
+        "గురియెన్నడు తప్పవు మెలకువగా నుండిన"
+      ],
+      "english": [
+        "Praarthinchu mellappudu shreshthaayudhamadhiye",
+        "Guriyennadu thappavu melakuvagaa nundina"
+      ]
+    }
+  ]
+}

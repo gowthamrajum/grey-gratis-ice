@@ -1,0 +1,97 @@
+{
+  "song_name": "Idigo Nenoka Noothana Kriyanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇదిగో నేనొక నూతన క్రియను చేయుచున్నాను (2)",
+      "ఈనాడే అది మొలచును దాని నాలోచింపరా (2) ||ఇదిగో||"
+    ],
+    "english": [
+      "Idigo nenoka noothana kriyanu cheyuchunnaanu (2)",
+      "Eenaade adi molachunu daani naalochimparaa (2) ||Idigo||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అడవిలో త్రోవనుజేసి – ఎడారిలో నదులను నేను (2)",
+        "ఎల్లప్పుడు సమృద్ధిగా – ప్రవహింప జేసెదను (2)  ||ఇదిగో||"
+      ],
+      "english": [
+        "Adavilo throvanujesi – Edaarilo nadulanu nenu (2)",
+        "Ellappudu samruddhigaa – Pravahimpa jesedanu (2)  ||Idigo||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాదు ప్రజలు త్రాగుటకు – నేనరణ్యములో నదులు (2)",
+        "సమృద్ధిగా పారునట్లు – సృష్టించెదను నేను (2)  ||ఇదిగో||"
+      ],
+      "english": [
+        "Naadu prajalu thraagutaku – Nenaranyamulo nadulu (2)",
+        "Samruddhigaa paarunatlu – Srushtinchedanu nenu (2)  ||Idigo||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అరణ్యములో జంతువులు – క్రూరపక్షులు సర్పములు (2)",
+        "ఘనపరచును స్తుతియించును – దీని నాలోచించుడి (2)  ||ఇదిగో||"
+      ],
+      "english": [
+        "Aranyamulo janthuvulu – Kroorapakshulu sarpamulu (2)",
+        "Ghanaparachunu sthuthiyinchunu – Dheeni naalochinchudi (2)  ||Idigo||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నూతన సృష్టిగ నినుజేసి – నీ శాంతిని నదివలెజేసి (2)",
+        "ననుజూచి మహిమపరచి – స్తుతిబాడ జేసెదను (2)  ||ఇదిగో||"
+      ],
+      "english": [
+        "Noothana srushtiga ninujesi – Nee shaanthini nadivalejesi (2)",
+        "Nanujoochi mahimaparachi – Sthuthibaada jesedanu (2)  ||Idigo||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నేనే దేవుడనని దెలసి – నా కార్యములను నెరవేర్చి (2)",
+        "ముందున్న వాటికన్న – ఘనకార్యములను జేతున్ (2)  ||ఇదిగో||"
+      ],
+      "english": [
+        "Nene Dhevudanani dhelasi – Naa kaaryamulanu neraverchi (2)",
+        "Mundunna vaatikanna – Ghanakaaryamulanu jethun (2)  ||Idigo||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "మరుగైన మన్నానిచ్చి – మరితెల్లని రాతినిచ్చి (2)",
+        "చెక్కెదనా రాతిమీద – నొక క్రొత్త నామమును (2)  ||ఇదిగో||"
+      ],
+      "english": [
+        "Marugaina mannaanichchi – Marithellani raathinichchi (2)",
+        "Chekkedanaa raathimeedha – Noka krottha naamamunu (2)  ||Idigo||"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "పరలోక భాగ్యంబులు – నరలోకములో మనకొసగెన్ (2)",
+        "కరుణాసంపన్నుడగు – మన ప్రభువునకు హల్లెలూయ (2)  ||ఇదిగో||"
+      ],
+      "english": [
+        "Paraloka bhaagyambulu – Naralokamulo manakosagen (2)",
+        "Karunaasampannudagu – Mana Prabhuvunaku hallelooya (2)  ||Idigo||"
+      ]
+    }
+  ]
+}

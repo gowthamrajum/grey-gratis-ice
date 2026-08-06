@@ -1,0 +1,55 @@
+{
+  "song_name": "Nanu Kanna Naanna",
+  "author": {
+    "Authored by": "Blessy Kingsley",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "అతికాంక్షణీయుడా ఆదరణ కర్తవు నిత్యుడైన దేవుడా అతి శ్రేష్టుడా |2|",
+      "పదివేళలోన అతి సుందరుడవు",
+      "రత్నవర్ణుడవు నీవు ఆదిసంభుతుడవూ",
+      "నా పరమతండ్రివి …. నను కన్న నాన్నవూ",
+      "యేసయ్యా యేసయ్యా"
+    ],
+    "english": [
+      "Athikaankshaneeyudaa aadharanakarthavu",
+      "Nithyudaina dhevudaa athi sreshtudaa",
+      "Padhivelalona athi sundharudavu",
+      "Rathnavarnudavu neevu aadhi sambhoothudavu",
+      "Naa parama thandrivi nanu kanna naannavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అగ్ని జ్వాలలవంటి నీ నేత్రములు",
+        "తప్పిపోయినా నాకై ఎదురు చూసేనూ",
+        "యోగ్యతేలేని నన్ను కన్నీటీతో చేర్చెను",
+        "తన చల్లని చూపుతో చేరదీసెనూ"
+      ],
+      "english": [
+        "Agni jwaalala vanti nee nethramulu",
+        "Thappipoyina naakai edhuru choosenu",
+        "Yogyathe leni nannu kanneetitho cherchenu",
+        "Thana challani chooputho cheradheesenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కమ్మనైన వెన్నె వంటి నీ హృదయము",
+        "ఓడిపోయినా నను చూసి కరిగిపోయేను",
+        "నీ ప్రేమ కౌగిల్లో నను హత్తుకొనెను",
+        "మెడపైన ముద్దుతో ఆదరించెను"
+      ],
+      "english": [
+        "Kammanaina venna vanti nee hrudhayamu",
+        "Odipoyina nanu choosi karigipoyenu",
+        "Nee prema kougililo nannu hatthukonnaavu",
+        "Medapai muddutho aadharinchenu"
+      ]
+    }
+  ]
+}

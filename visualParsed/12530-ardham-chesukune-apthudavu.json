@@ -1,0 +1,62 @@
+{
+  "song_name": "Ardham chesukune aapthudavu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "అర్ధం చేసుకునే ఆప్తుడవు నీవే బాధను పంచుకునే బంధువు నీవే",
+      "ప్రేమను పంచగలిగినా పరమ తండ్రివి నీవె",
+      "సహయం చెయగలిగిన నా హితుడవు నీవే",
+      "నీ ప్రేమ చాలయ్య నను కొన్న యేసయ్య",
+      "నీ ప్రేమ చాలయ్య నను కన్న యేసయ్య"
+    ],
+    "english": [
+      "Ardham chesukune aapthudavu neeve baadhanu panchukune bandhuvu neeve",
+      "Premanu panchagaliginaa parama thandrivi neeve",
+      "Sahaayam cheyagaligina naa hithudavu neeve",
+      "Nee prema chaalayya nanu konna Yesayya",
+      "Nee prema chaalayya nanu kanna Yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కన్నీరు తడిచి కలతలను బాపే",
+        "కలుషాత్ములను కడిగే కరుణాత్ముడవు నీవే",
+        "కృపా సత్య సంపూర్ణమై నా హృధిని గెలిచావే",
+        "కొనియాడ నా యేసయ్య కోటి కంటాలతో",
+        "కీర్తించే నా యేసయ్య స్తోత్ర గీతాలతో",
+        "ఎందుకింత ప్రేమయ్య నా పైన యేసయ్య"
+      ],
+      "english": [
+        "Kanneeru thudichi kalathalanu baape",
+        "Kalushaathmulanu kadige karunaathmudavu neeve",
+        "Krupaa sathya sampoornamai naa hrudini gelichaave",
+        "Koniyaada naa Yesayya koti kanthaalatho",
+        "Keerthinche naa Yesayya sthothra geethaalatho",
+        "Endukintha premayya naa paina Yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వేదనలు తొలగించి శోధనలు గెలిపించి",
+        "వారసునిగా మార్చి వీరునిగా చేసావే",
+        "వాక్యంతో నను నింపి వారధిగా నిలిపావే",
+        "విలువైన పిలుపుతో పిలిచి వెన్నంటే ఉన్నావే",
+        "ఎంత వింత ప్రేమయ్య నా పైన యేసయ్య"
+      ],
+      "english": [
+        "Vedanalu tholaginchi shodhanalu gelipinchi",
+        "Vaarasunigaa maarchi veerunigaa chesaave",
+        "Vaakyantho nanu nimpi vaaradhigaa nilipaave",
+        "Viluvaina piluputho pilichi vennante unnaave",
+        "Entha vintha premayya naa paina Yesayya"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "song_name": "Sambaralu Chesedhama",
+  "author": {
+    "Authored by": "Pastor Rajesh Joshua",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాజులకే రారాజు పుట్టాడోయ్",
+      "దివి నుంచి భువికే వచ్చాడోయ్",
+      "ఊరు వాడ కలిసి రారండోయ్",
+      "సంబరాలు సంబరాలు చేయండోయ్"
+    ],
+    "english": [
+      "Raajulake raaraaju puttaadoy",
+      "dhivi nunchi bhuvike vacchaadoy",
+      "ooru vaada kalasi raarandoy",
+      "sambaraalu sambaraalu cheyandoy"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అద్వితీయుడు ఆది దేవుడు ఈ లోకానికి వచ్చాడని",
+        "పాటలు పాడి ఆరాధింప ఊరువాడ రండి రండి",
+        "పాపాన్నే తొలగించే రక్షకుడే పుట్టాడని",
+        "ఆర్భాటించి చాటించి మోగించేద్దామా"
+      ],
+      "english": [
+        "Advitheeyudu aadi devudu ee lokaaniki vacchaadani",
+        "paatalu paadi aaraadhimpa ooru vaada randi randi",
+        "paapaanne tholaginche rakshakudu puttaadani",
+        "aarbhatinchi chaatinchi mogincheddamaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సంబరాలు సంబరాలు చేసేద్దామా"
+      ],
+      "english": [
+        "sambaraalu sambaraalu chesedhaamaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పుట్టుకతోనే రజై పుట్టిన రాజులకు రారాజు యేసయ్యని",
+        "సృష్టిని శాసించే సృష్టికర్త ఏకైక దేవుడు యేసయ్యని",
+        "జన్మ పాపమే లేనివాడని నీదు భారము మోయు వాడని",
+        "ఆర్భాటించి చాటించి మోగించేద్దామా"
+      ],
+      "english": [
+        "Puttukathone raajai puttina raajulake raaraaju yesayyani",
+        "srushtini shaasinche srushti kartha yekaika devudu yesayyani",
+        "janmapaapame lenivaadani needhu bhaaramu moyuvaadani",
+        "aarbhatinchi chaatinchi mogincheddamaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సంబరాలు సంబరాలు చేసేద్దామా"
+      ],
+      "english": [
+        "sambaraalu sambaraalu chesedhaamaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "వ్యాధి అయినను బాధలైనను విడిపించే దేవుడు యేసయ్యని",
+        "కష్టమైన నష్టమైన నడిపించే దేవుడు యేసయ్యను",
+        "మార్గం సత్యము జీవం యేసని మోక్ష ద్వారమై పుట్టినాడని",
+        "ఆర్భాటించి చాటించి మోగించేద్దామా"
+      ],
+      "english": [
+        "Vyaadhi ainanu baadhalainanu vidipinche devudu yesayyani",
+        "kashtamaina nashtamaina nadipinchhe devudu yesayyani",
+        "maargam sathyamu jeevam yesani moksha dvaaramai puttinaadani",
+        "aarbhatinchi chaatinchi mogincheddamaa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "సంబరాలు సంబరాలు చేసేద్దామా"
+      ],
+      "english": [
+        "sambaraalu sambaraalu chesedhaamaa"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "సంబరాలు సంబరాలు చేసేద్దామా",
+        "క్రిస్మస్ సంబరాలు చేసేద్దామా"
+      ],
+      "english": [
+        "sambaraalu sambaraalu chesedhaamaa",
+        "christmas sambaraalu chesedhamaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "song_name": "Inthakaalam Mammunu",
+  "author": {
+    "Authored by": "Pastor Daniel Raju P",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ ప్రేమే అద్బుతం నీ ప్రేమే మధురం",
+      "నీ ప్రేమే కదా.. మమ్మును కాచేన్"
+    ],
+    "english": [
+      "Nee preme adbhutham nee preme madhuram",
+      "nee preme kadaa.. mammunu kaachen"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసయ్య… యేసయ్యా…",
+        "యేసయ్యా… నా యేసయ్యా…."
+      ],
+      "english": [
+        "Yesayyaa… yesayyaa…",
+        "yesayyaa… naa yesayyaa…"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇంతకాలం మమ్మును కాపాడినావే",
+        "కరుణించి మమ్మును నడిపించినావే",
+        "నీ ప్రేమే అద్బుతం నీ ప్రేమే మధురం",
+        "నీ ప్రేమే కదా.. మమ్మును కాచేన్"
+      ],
+      "english": [
+        "Intakaalam mammunu kaapaadinaave",
+        "karuninchi mammunu nadipinchinaave",
+        "nee preme adbhutham nee preme madhuram",
+        "nee preme kadaa.. mammunu kaachen"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యేసయ్య… యేసయ్యా…",
+        "యేసయ్యా… నా యేసయ్యా…."
+      ],
+      "english": [
+        "Yesayyaa… yesayyaa…",
+        "yesayyaa… naa yesayyaa…"
+      ]
+    }
+  ]
+}

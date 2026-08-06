@@ -1,0 +1,69 @@
+{
+  "song_name": "Koniyaadabadunu Yehovaayandu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Dr A R Stevenson"
+    ],
+    "రచన": [
+      "డాక్టర్ ఏ ఆర్ స్టీవెన్సన్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "కొనియాడబడును యెహోవాయందు భయభక్తులు గల వనిత",
+      "తనవారికైన పగవారికైన పంచును సమత మమత"
+    ],
+    "english": [
+      "Koniyaadabadunu Yehovaayandu bhayabhakthulu gala vanitha",
+      "Thanavaarikaina pagavaarikaina panchunu samatha mamatha"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రతి పరిస్థితిని ప్రేమతో భరించగలిగిన ఓర్పు",
+        "ప్రతికూలతను అనుకూలముగా మార్చేటి నేర్పు",
+        "కలిగిన భార్య ఇంటికి దీపము",
+        "సంఘమనే ఆ వధువునకు నిజమైన రూపము"
+      ],
+      "english": [
+        "Prathi paristhithini premmatho bharinchagaligina orpu",
+        "Prathikoolathanu anukoolamugaa maarcheti nerpu",
+        "Kaligina bhaarya intiki deepamu",
+        "Sanghamane aa vadhuvunaku nijamaina roopamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తండ్రివలె ఓదార్చి తల్లివలె సేదదీర్చి",
+        "మిత్రునివలె భర్తకు ఎప్పుడు తోడుగ నిల్చును",
+        "దైవ జ్ఞానముతో కుటుంబమును నడుపును",
+        "రాబోవు వాటి గూర్చి నిశ్చింతగా నుండును"
+      ],
+      "english": [
+        "Thandrivale odaarchi thallivale sedadeerchi",
+        "Mithrunivale bharthaku eppudu thoduga nilchunu",
+        "Daiva gnaanamutho kutumbamunu nadupunu",
+        "Raabovu vaati goorchi nishchinthagaa nundunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బ్రతుకు దినములన్నియును భర్తకు మేలే చేయును",
+        "దీనులకు దరిద్రులకు తన చేయిచాపును",
+        "ఆహారమును తానే సిద్ధపరచును",
+        "ఇంటివారినందరిని కనిపెట్టుచుండును"
+      ],
+      "english": [
+        "Brathuku dinamulanniyunu bharthaku mele cheyunu",
+        "Dheenulaku dharidhrulaku thana cheyichaapunu",
+        "Aahaaramunu thaane siddhaparachunu",
+        "Intivaarinandarini kanipettuchundunu"
+      ]
+    }
+  ]
+}

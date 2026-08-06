@@ -1,0 +1,62 @@
+{
+  "song_name": "Manasaa Vinavaemae Kreesthunia",
+  "author": {
+    "Authored by": "",
+    "రచన": "బి కోటయ్య"
+  },
+  "main_stanza": {
+    "telugu": [
+      "మనసా వినవేమే క్రీస్తునిఁ గని సేవింపవేమే అనుదినమున నీ కాయువు క్షీణం బగుచున్నది గదవే ||మనసా||"
+    ],
+    "english": [
+      "manasaa vinavaemae kreesthuniAO gani saeviMpavaemae anudhinamuna nee kaayuvu kSheeNM baguchunnadhi gadhavae ||manasaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చింతలేల నీకు వర శ్రీ మంతుడుండు వరకు చెంతను జేరక యెంతసేపు నీ యంతట నుండెదవే ||మనసా||"
+      ],
+      "english": [
+        "chiMthalaela neeku vara shree mMthuduMdu varaku cheMthanu jaeraka yeMthasaepu nee yMthata nuMdedhavae ||manasaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "లోకాశలకును నీవు లోకువై యుండకుము ఆకాశము నేలెడు మన ప్రభువును ప్రాకటముగ నమ్ము ||మనసా||"
+      ],
+      "english": [
+        "loakaashalakunu neevu loakuvai yuMdakumu aakaashamu naeledu mana prabhuvunu praakatamuga nammu ||manasaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మాయ సంతలోన జిక్కి మాయలఁ బోయెదవు కాయము స్థిరమని నమ్మకు మీ నీ ప్రాయము దక్కదుగా ||మనసా||"
+      ],
+      "english": [
+        "maaya sMthaloana jikki maayalAO boayedhavu kaayamu sThiramani nammaku mee nee praayamu dhakkadhugaa ||manasaa||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "రక్షకయని వేఁడు నీవు రక్షణకై వేఁడు రక్షణఁ బొందుట కిదియే సమయము తక్షణమున వేఁడు ||మనసా||"
+      ],
+      "english": [
+        "rakShkayani vaeAOdu neevu rakShNakai vaeAOdu rakShNAO boMdhuta kidhiyae samayamu thakShNamuna vaeAOdu ||manasaa||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "అందరమును గూడి యేసుని మందిరమునఁ జేరి పొందుగ క్రీస్తుని పొగడుచుఁ బాడుచు నందునఁ జేరుదము ||మనసా||"
+      ],
+      "english": [
+        "aMdharamunu goodi yaesuni mMdhiramunAO jaeri poMdhuga kreesthuni pogaduchuAO baaduchu nMdhunAO jaerudhamu ||manasaa||"
+      ]
+    }
+  ]
+}

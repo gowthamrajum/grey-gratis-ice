@@ -1,0 +1,99 @@
+{
+  "song_name": "Nenu nee aagnalayandhu nammika",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "119:65(72)",
+      "యెహోవా నీ యొక్క మాట చొప్పున",
+      "నీ దాసునికి మేలు చేసియున్నావు"
+    ],
+    "english": [
+      "119:65(72)",
+      "Yehova nee yokka maata choppuna",
+      "Nee dhaasuniki melu chesiyunnaavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మంచి వివేచన మంచి జ్ఞానమునకు - కర్త నీవే నాకు బోధ చేయుము",
+        "నీ యాజ్ఞలందు నమ్మిక నుంచితిని"
+      ],
+      "english": [
+        "Manchi vivechana manchi gnaanamunaku - Kartha neeve naaku bodha cheyumu",
+        "Nee yaagnalandhu nammika nunchithini"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాకు శ్రమ కలుగక మునుపు - నా దేవా నేను త్రోవ వీడితిని",
+        "నేడు నీ మాట నెరవేర్చు చున్నాను"
+      ],
+      "english": [
+        "Naaku shrama kalugaka munupu - Naa Deva nenu throva veedithini",
+        "Nedu nee maata neraverchu chunnaanu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దేవా నీవు దయగలవాడవు - దేవా నీవు మేలు చేయుచున్నావు",
+        "నీ కట్టడల నాకు బోధించుము"
+      ],
+      "english": [
+        "Deva neevu dayagalavaadavu - Deva neevu melu cheyuchunnaavu",
+        "Nee kattadala naaku bodhinchumu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "గర్విష్ఠులు నాకు విరోధముగా - కల్పించుదురెన్నో అబద్ధములు",
+        "నీ యుపదేశము లనుసరింతును"
+      ],
+      "english": [
+        "Garvishthulu naaku virodhamugaa - Kalpinchudhurenno abadhdhamulu",
+        "Nee yupadheshamu lanusarinthunu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "వారి హృదయములు క్రొవ్వువలె - చాల మందముగానై యున్నవి",
+        "ఆజ్ఞలలో ఆనందించుచున్నాను"
+      ],
+      "english": [
+        "Vaari hrudhayamulu krovvuvale - Chaala mandhamugaanai yunnavi",
+        "Aagnalalo aanandhinchuchunnaanu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "దేవా నేను నీ కట్టడలను - నేర్చుకొనునట్లు శ్రమల నొంది",
+        "యుండుట నాకు యెంతో మేలాయెను"
+      ],
+      "english": [
+        "Deva nenu nee kattadalanu - Nerchukonunatlu shramala nondi",
+        "Yunduta naaku entho melaayenu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "వేలాది వెండి నాణెముల కంటె - వేలాది బంగారు నాణెముల కంటె",
+        "నీ విచ్చిన ఆజ్ఞలు నాకు మేలు"
+      ],
+      "english": [
+        "Velaadi vendi naanemula kante - Velaadi bangaaru naanemula kante",
+        "Nee vichchina aagnalu naaku melu"
+      ]
+    }
+  ]
+}

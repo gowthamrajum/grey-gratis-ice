@@ -1,0 +1,54 @@
+{
+  "song_name": "Jeevamaa Chimthimchakumdu Ninnu",
+  "author": {
+    "Authored by": "",
+    "రచన": "మిక్కిలి సమూయేలు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "జీవమా చింతించకుండు నిన్నుఁ గావ వచ్చిన యేసు కరుణా మయుండు",
+      "జీవమా చింతించి క్షితి మూరె డైన నీ జీవము కున్నతిఁ జేసెదవా",
+      "కావున నీ చింతా క్రాంతము వెడలించు దేవుఁ డెహోవ నీ దిక్కని నమ్మి"
+    ],
+    "english": [
+      "Jeevamaa Chimthimchakumdu Ninnu Gaava Vachchina Yaesu Karunaa Mayumdu",
+      "Jeevamaa Chimthimchi Kshithi Moore Daina Nee Jeevamu Kunnathi Jaesedhavaa",
+      "Kaavuna Nee Chimthaa Kraamthamu Vedalimchu Dhaevu Dehoava Nee Dhikkani Nammi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గగన వీధిని బోవు ఖగములు దున్నునా తెగఁగోసి కొట్లలో దాఁ చునొకో",
+        "యగణిత పక్షుల కాహార మియ్యంగ బెగడెద వెందుకు పెంచు ని న్నత డు"
+      ],
+      "english": [
+        "Gagana Veedhini Boavu Khagamulu Dhunnunaa Thegagoasi Kotlaloa Dhaa Chunokoa",
+        "Yaganitha Pakshula Kaahaara Miyyamga Begadedha Vemdhuku Pemchu Ni Nnatha Du"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పక్షి వృక్షాదుల పై నింత ప్రేమతో భక్షణ లిచ్చుచుఁ బాలింపఁగా",
+        "నక్షరములకంటె హెచ్చుగ నన్నెంచి యక్షయముగ నేలు నల్పవిశ్వాసి"
+      ],
+      "english": [
+        "Pakshi Vrukshaadhula Pai Nimtha Praemathoa Bhakshana Lichchuchu Baalimpagaa",
+        "Naksharamulakamte Hechchuga Nannemchi Yakshayamuga Naelu Nalpavishvaasi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మిశ్రాయీం బాధల మేరల దొలఁగించి యిశ్రాయేలుకు మన్నా నియ్యలేదా",
+        "యాశ్రయమై నీదు హస్తము విడువక నీ శ్రమలను బాపి నిన్నేలునతడు"
+      ],
+      "english": [
+        "Mishraayeem Baadhala Maerala Dholagimchi Yishraayaeluku Mannaa Niyyalaedhaa",
+        "Yaashrayamai Needhu Hasthamu Viduvaka Nee Shramalanu Baapi Ninnaelunathadu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "song_name": "Na Hrudayamu Vimtaga Marenu (3)",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా హృదయము వింతగ మారెను (3) యేసు నాలోకి వచ్చినందునా (2)"
+    ],
+    "english": [
+      "Na hrudayamu vimtaga marenu (3) Yesu naloki vachchinamduna (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సంతోషమే. . .సమాదానమే (3) యేసు నాలోకి వచ్చినందునా"
+      ],
+      "english": [
+        "Samtoshame. . .Samadaname (3) Yesu naloki vachchinamduna"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిత్య జీవము నీకు కావలెనా (3) నేడే యేసు నొద్దకు రమ్ము (2)"
+      ],
+      "english": [
+        "Nitya jivamu niku kavalena (3) Nede yesu noddaku rammu (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యేసు క్రీస్తును నేడే చేర్చుకో (3) నేడే యేసు నొద్దకు రమ్ము (2)"
+      ],
+      "english": [
+        "Yesu kristunu nede cherchuko (3) Nede yesu noddaku rammu (2)"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నిత్య సమాధానం నీకు కావలెనా (3) నేడే యేసు నొద్దకు రమ్ము (2)"
+      ],
+      "english": [
+        "Nitya samadhanam niku kavalena (3) Nede yesu noddaku rammu (2)"
+      ]
+    }
+  ]
+}

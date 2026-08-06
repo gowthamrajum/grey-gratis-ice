@@ -1,0 +1,46 @@
+{
+  "song_name": "Sthuthulananduko sthuthiki paathrudaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తుతులనందుకో - స్తుతికి పాత్రుడా",
+      "ఘనతపొందుకో - స్తోత్రార్హుడా",
+      "అ. నీకే నా ఆరాధనా - నీకోసమే ఆలాపనా",
+      "నీకే నీకే నా హృదయార్పణ \" స్తుతుల\""
+    ],
+    "english": [
+      "Sthuthulananduko - Sthuthiki paathrudaa",
+      "Ghanathaponduko - Sthothraarhudaa",
+      "A. Neeke naa aaraadhanaa - Neekosame aalaapanaa",
+      "Neeke neeke naa hrudhayaarpana \" Sthuthula\""
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవంటి దేవుడె లేడు - నీకెవ్వడు సాటిరాడు \"2",
+        "నీకే నా ఆరాధనా - నీకోసమే ఆలాపనా - నీకే నీకే నా హృదయార్పణ"
+      ],
+      "english": [
+        "Neevanti devude ledu - Neekevvadu saatiraadu \"2",
+        "Neeke naa aaraadhanaa - Neekosame aalaapanaa - Neeke neeke naa hrudhayaarpana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీలాంటి ఘనుడెవ్వడు - నీ తోటి సముడెవ్వడు \"2\"",
+        "నీకే నా ఆరాధనా - నీకోసమే ఆలాపనా - నీకే నీకే నా హృదయార్పణ"
+      ],
+      "english": [
+        "Neelaanti ghanudevvadu - Nee thoti samudevvadu \"2\"",
+        "Neeke naa aaraadhanaa - Neekosame aalaapanaa - Neeke neeke naa hrudhayaarpana"
+      ]
+    }
+  ]
+}

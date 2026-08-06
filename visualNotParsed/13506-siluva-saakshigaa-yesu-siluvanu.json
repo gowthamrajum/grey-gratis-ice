@@ -1,0 +1,56 @@
+{
+  "song_name": "Siluva saakshigaa Yesu siluvanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సిలువ సాక్షిగా యేసు సిలువను",
+      "సిలువ మోయుచు ప్రకటించెదను (2)",
+      "ఇదే నా వేదన – ఇదే నా ప్రార్థన ||సిలువ||"
+    ],
+    "english": [
+      "Siluva saakshigaa Yesu siluvanu",
+      "Siluva moyuchu prakatinchedanu (2)",
+      "Idhe naa vedhana – Idhe naa praarthana ||Siluva||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు ఒళ్ళు చీల్చెను కుల కొరడా దెబ్బలే",
+        "క్రీస్తు తలను గుచ్చెను మత ముళ్ల కిరీటమే (2)",
+        "మేకులు దిగ గొట్టెను పదవి వ్యామోహమే",
+        "సిలువలో వ్రేలాడ దీసెను అధికారమే",
+        "కులమా కళ్ళు పొడచుకో – మతమా ఉరి పోసుకో  ||సిలువ||"
+      ],
+      "english": [
+        "Yesu ollu cheelchenu kula koradaa debbale",
+        "Kreesthu thalanu guchchenu matha mulla kireetame (2)",
+        "Mekulu dhiga gottenu padhavi vyaamohame",
+        "Siluvalo vrelaada dheesenu adhikaarame",
+        "Kulamaa kallu podachuko – Mathamaa uri posuko ||Siluva||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "లోక పాప క్షమాపణ యేసు సిలువ రక్తమే",
+        "పాప శాప విమోచన యేసు సిలువ మార్గమే (2)",
+        "దైవమా నవ పాలన క్రీస్తు సిలువ జీవమే",
+        "సమ సమాజ స్థాపనలో యేసు సిలువ సత్యమే",
+        "కులమా కళ్ళు పొడచుకో – మతమా ఉరి పోసుకో  ||సిలువ||"
+      ],
+      "english": [
+        "Loka paapa kshamaapana Yesu siluva rakthame",
+        "Paapa shaapa vimochana Yesu siluva maargame (2)",
+        "Daivamaa nava paalana Kreesthu siluva jeevame",
+        "Sama samaaja sthaapanalo Yesu siluva sathyame",
+        "Kulamaa kallu podachuko – Mathamaa uri posuko ||Siluva||"
+      ]
+    }
+  ]
+}

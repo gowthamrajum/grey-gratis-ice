@@ -1,0 +1,73 @@
+{
+  "song_name": "Sthuthi chesi nepaadanaa sthothrageetham",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తుతి చేసి నేపాడనా-స్తోత్రగీతం",
+      "భజియించి నేపొగడనా స్వామి (2)",
+      "హల్లెలూయాహల్లెలూయా-హల్లెలూయా,",
+      "హల్లెలూయా, హల్లెలూయా (2)"
+    ],
+    "english": [
+      "Sthuthi chesi nepaadanaa-Sthothrageetham",
+      "Bhajiyinchi nepogadanaa swaami (2)",
+      "Hallelooyaahallelooyaa-Hallelooyaa,",
+      "Hallelooyaa, hallelooyaa (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దానియేలును సింహపుబోనులో",
+        "కాపాడినది నీవెకదా (2)",
+        "జలప్రళయములో నోవాను కాచినా",
+        "బలవంతుడవు నీవెకదా (2)",
+        "నీవెకదా-నీవెకదానీవె కదా (2) ||హల్లె||"
+      ],
+      "english": [
+        "Daaniyelunu simhapubonulo",
+        "Kaapaadinadi neevekadaa (2)",
+        "Jalapralayamulo Novaanu kaachinaa",
+        "Balavanthudavu neevekadaa (2)",
+        "Neevekadaa-Neevekadaaneeve kadaa (2) ||Halle||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సమరయ స్త్రీని కరుణతో బ్రోచిన",
+        "సచ్చరితుడవు నీవే కదా (2)",
+        "పాపుల కొరకై ప్రాణము నిచ్చిన",
+        "కరుణామయుడవు నీవేకదా (2)",
+        "నీవెకదా-నీవెకదానీవె కదా (2) ||హల్లె||"
+      ],
+      "english": [
+        "Samaraya sthreeni karunatho brochina",
+        "Sachcharithudavu neeve kadaa (2)",
+        "Paapula korakai praanamu nichchina",
+        "Karunaamayudavu neevekadaa (2)",
+        "Neevekadaa-Neevekadaaneeve kadaa (2) ||Halle||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యూదా సింహమై రాజాధిరాజుగా",
+        "రానున్నవాడవు నీవే కదా",
+        "ఆరాధ్యదైవమై సకలయుగంబుల",
+        "స్తోత్రార్హుడవు నీవే కదా (2) ||హల్లె||"
+      ],
+      "english": [
+        "Yoodaa simhamai raajaadhiraajugaa",
+        "Raanunnavaadavu neeve kadaa",
+        "Aaraadhyadhaivamai sakalayugambula",
+        "Sthothraarhudavu neeve kadaa (2) ||Halle||"
+      ]
+    }
+  ]
+}

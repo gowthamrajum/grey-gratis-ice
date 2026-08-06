@@ -1,0 +1,51 @@
+{
+  "song_name": "Yuddhamu Yehovaade (4)",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యుద్ధము యెహొవాదే (4)"
+    ],
+    "english": [
+      "Yuddhamu Yehovaade (4)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రాజులు మనకెవ్వరు లేరు శూరులు మనకెవ్వరు లేరు",
+        "సైన్యములకు అధిపతియైన యెహోవా మనఅండ (2)"
+      ],
+      "english": [
+        "Raajulu manakevvaru leru shoorulu manakevvaru leru",
+        "Sainyamulaku adhipathiyaina Yehova mana anda (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వ్యాధులు మనలను పడద్రోసిన బాధలు మనలను కృంగదీసిన",
+        "విశ్వాసమునకు కర్తయైన యేసయ్య మనఅండ (2)"
+      ],
+      "english": [
+        "Vyaadhulu manalanu padadhrosina baadhalu manalanu krungadheesina",
+        "Vishwaasamunaku karthayaina Yesayya mana anda (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యెరికో గోడలు ముందున్న ఎఱ్ఱ సముద్రము ఎదురైన",
+        "అద్భుత దేవుడు మనకుండ భయమేల మనకింక (2)"
+      ],
+      "english": [
+        "Yeriko godalu mundunna erra samudramu eduraina",
+        "Adbhutha Devudu manakunda bhayamela manakinka (2)"
+      ]
+    }
+  ]
+}

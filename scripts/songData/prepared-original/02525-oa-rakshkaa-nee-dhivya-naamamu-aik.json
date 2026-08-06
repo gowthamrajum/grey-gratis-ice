@@ -1,0 +1,40 @@
+{
+  "song_name": "Oa Rakshkaa Nee Dhivya Naamamu Aik",
+  "author": {
+    "Authored by": "",
+    "రచన": "జాన్ ఎల్లెర్ టన్"
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఓ రక్షకా, నీ దివ్య నామము ఐక్యంబుతోను స్తుతియింతుము ఆరాధనాంత మెందు వేళయం దను గ్రహించు నీదు దీవెనన్."
+      ],
+      "english": [
+        "oa rakShkaa, nee dhivya naamamu aikyMbuthoanu sthuthiyiMthumu aaraaDhanaaMtha meMdhu vaeLayM dhanu grahiMchu needhu dheevenan."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గృహంబుఁ జేర నాత్మ శాంతిని ఒసంగి మాతో నుండుము సదా ఇచ్చట సేవఁ జేయు మమ్మును పాపంబుఁ జేయకుండఁగాయుము."
+      ],
+      "english": [
+        "gruhMbuAO jaera naathma shaaMthini osMgi maathoa nuMdumu sadhaa ichchata saevAO jaeyu mammunu paapMbuAO jaeyakuMdAOgaayumu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మా చుట్టు నుండు మబ్బునఁ ప్రభో నీ దివ్యకాంతిన్ మాకు నియ్యుమా పాపాంధకా బాధ నుండి నీ బిడ్డల మైన మమ్ముఁ బ్రోవుమా."
+      ],
+      "english": [
+        "maa chuttu nuMdu mabbunAO prabhoa nee dhivyakaaMthin maaku niyyumaa paapaaMDhakaa baaDha nuMdi nee biddala maina mammuAO broavumaa."
+      ]
+    }
+  ]
+}

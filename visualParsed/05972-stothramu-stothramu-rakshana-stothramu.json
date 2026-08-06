@@ -1,0 +1,88 @@
+{
+  "song_name": "Sthothramu sthothramu rakshana sthothramu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తోత్రము స్తోత్రము - రక్షణస్తోత్రము స్తోత్రము",
+      "దేవుని గొర్రెపిల్లకు-స్తోత్రము జేసెద-శ్రీయేసునకు",
+      "స్తోత్రార్డుండగు జయ విజయునకు"
+    ],
+    "english": [
+      "Sthothramu sthothramu - Rakshanasthothramu sthothramu",
+      "Devuni gorrepillaku-Sthothramu jeseda-Sreeyesunaku",
+      "Sthothraarhundagu jaya vijayunaku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దాస్యము బోయెను-యేసు రక్తముచే",
+        "దాస్యము బోయి-స్వతంత్రుడనైతిని"
+      ],
+      "english": [
+        "Dhaasyamu boyenu-Yesu rakthamuche",
+        "Dhaasyamu boyi-Swathanthrudanaithini"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చీకటి తొలగెను-యేసు రక్తముచే",
+        "చీకటి తొలగెను -తేజము వచ్చెను"
+      ],
+      "english": [
+        "Cheekati tholagenu-Yesu rakthamuche",
+        "Cheekati tholagenu -Thejamu vachchenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాప క్షమాపణ-యేసు రక్తముచే",
+        "పాప క్షమాపణ-పరమానందము"
+      ],
+      "english": [
+        "Paapa kshamaapana-Yesu rakthamuche",
+        "Paapa kshamaapana-Paramaanandhamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పాపము బాసెను-యేసు రక్తముచే",
+        "పాపము బాసెను-శుద్దుడనైతిని"
+      ],
+      "english": [
+        "Paapamu baasenu-Yesu rakthamuche",
+        "Paapamu baasenu-Shuddhudanaithini"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "శాపము బోయెను-యేసు రక్తముచే",
+        "శాపము బోయెను-నీతియు వచ్చెను"
+      ],
+      "english": [
+        "Shaapamu boyenu-Yesu rakthamuche",
+        "Shaapamu boyenu-Neethiyu vachchenu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "సైతానోడెను-యేసు రక్తముచే",
+        "సైతానోడెను-విజయము వచ్చెను"
+      ],
+      "english": [
+        "Saithaanodenu-Yesu rakthamuche",
+        "Saithaanodenu-Vijayamu vachchenu"
+      ]
+    }
+  ]
+}

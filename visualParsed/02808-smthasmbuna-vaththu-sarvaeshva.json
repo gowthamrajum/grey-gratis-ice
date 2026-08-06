@@ -1,0 +1,76 @@
+{
+  "song_name": "Santhasambuna vatthu Sarveshvaruni",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "మొలతాటి విద్యానందము"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "సంతసంబున వత్తు సర్వేశ్వరుని చిత్త మెంతయు నెరవేర్చను వంతలు",
+      "విడి నాదు నంతరంగము కదుర నెంతో విశ్వాసమున వెంట వత్తును",
+      "బ్రభువా ||సంత||"
+    ],
+    "english": [
+      "Santhasambuna vatthu Sarveshvaruni chittha menthayu neraverchanu vanthalu",
+      "Vidi naadu nantharangamu kadhura nentho vishvaasamuna venta vatthunu",
+      "Prabhuvaa ||Santha||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సురుచిరమగు మరియ సూనుని యాజ్ఞలు శిరమున నిడికొందును",
+        "మరియ మనసుతో మర్తమ్మ కరములతోఁ బరమ సౌఖ్యముఁ బొంద",
+        "భక్తితో సేవింతు  ||సంతసంబున||"
+      ],
+      "english": [
+        "Suruchiramagu Mariya soonuni yaagnalu shiramuna nidikondhunu",
+        "Mariya manasutho marthamma karamulatho barama saukhyamu bondha",
+        "Bhakthitho sevinthu ||Santhasambuna||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నారాజు సేవ దు ర్భరమై బాధగ నున్న భారంబుగను దోఁచదు",
+        "సారెసారెకుఁ దనదు చక్కని చిఱునవ్వు వారించి భారమున్ ధీరత నొస",
+        "గును  ||సంతసంబున||"
+      ],
+      "english": [
+        "Naaraaju seva dhur bharamai baadhaga nunna bhaarambuganu dhochadhu",
+        "Saaresaareku dhanadhu chakkani chirunavvu vaarinchi bhaaramun dheeratha nosa",
+        "Gunu ||Santhasambuna||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కారుణ్యమున నాదు కల్మషమయ హృదయ భారములను మోసితి ఆ",
+        "రాజ్యమునఁగల యాస్తికై నా చిత్త మాలసింపఁగ నెత్తి యందే స్థిరముగ",
+        "నుంచు  ||సంతసంబున||"
+      ],
+      "english": [
+        "Kaarunyamuna naadu kalmashamaya hrudaya bhaaramulanu mositi aa",
+        "Raajyamunagala yaasthikai naa chittha maalasimpaga netti yande sthiramuga",
+        "Nunchu ||Santhasambuna||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఈ యుర్వి నేఁజేయు సేవకు ఫలములు నీ చోటఁ గనుఁగొందునే",
+        "కాయం బీధర కర్మలం గరపిన నా యాస్తి నా హృదయ మాలో కమున",
+        "మండు  ||సంతసంబున||"
+      ],
+      "english": [
+        "Ee yurvi nejeyu sevaku phalamulu nee chota kanugondhune",
+        "Kaayam beedhara karmalam garapina naa yaasthi naa hrudaya maalo kamuna",
+        "Mandu ||Santhasambuna||"
+      ]
+    }
+  ]
+}

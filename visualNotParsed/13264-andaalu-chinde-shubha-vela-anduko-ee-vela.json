@@ -1,0 +1,65 @@
+{
+  "song_name": "Andaalu chinde shubha vela anduko ee vela",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "అందాలు చిందే శుభ వేళ – అందుకో ఈ వేళ (2)",
+      "కోరుకున్నావు ఈ వరుని – చేరియున్నాడు నీ జతనే (2) ||అందాలు||"
+    ],
+    "english": [
+      "Andaalu chinde shubha vela – Anduko ee vela (2)",
+      "Korukunnaavu ee varuni – Cheriyunnaadu nee jathane (2) ||Andaalu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చిననాటి పుట్టింటి నడకా",
+        "సాగాలి అత్తింటి దాకా (2)",
+        "ఎంత ఘనమైన బంధం",
+        "వెయ్యేండ్ల వివాహ బంధం (2)  ||అందాలు||"
+      ],
+      "english": [
+        "Chinanaati puttinti nadakaa",
+        "Saagaali attinti dhaakaa (2)",
+        "Entha ghanamaina bandham",
+        "Veyyendla vivaaha bandham (2) ||Andaalu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సంసార సాగర పయనం",
+        "తెర చాటు అనుభూతి వినయం (2)",
+        "సాగిపోవాలి పయనం",
+        "చేరుకోవాలి గమ్యం (2)  ||అందాలు||"
+      ],
+      "english": [
+        "Samsaara saagara payanam",
+        "Thera chaatu anubhoothi vinayam (2)",
+        "Saagipovaali payanam",
+        "Cherukovaali gamyam (2) ||Andaalu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యేసయ్య పాదాల చెంత",
+        "వదలాలి ఎదలోని చింత (2)",
+        "క్రీస్తు పుట్టాలి నీలో",
+        "చేర్చుకోవాలి హృదిలో (2)  ||అందాలు||"
+      ],
+      "english": [
+        "Yesayya paadaala chentha",
+        "Vadhalaali edhaloni chintha (2)",
+        "Kreesthu puttaali neelo",
+        "Cherchukovaali hrudilo (2) ||Andaalu||"
+      ]
+    }
+  ]
+}

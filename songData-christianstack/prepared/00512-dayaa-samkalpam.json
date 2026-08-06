@@ -1,0 +1,54 @@
+{
+  "song_name": "Dayaa Samkalpam",
+  "author": {
+    "Authored by": "Hosanna Ministries featuring Pastor Freddy Paul",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "గగనము చీల్చుకొని ఘనులను తీసుకొని",
+      "నన్ను కొనిపోవ రానైయున్నా ప్రాణప్రియుడా యేసయ్యా",
+      "నిన్ను చూడాలని ( నిన్ను చేరాలని )",
+      "నా హృదయమెంతో ఉల్లసించుచున్నది"
+    ],
+    "english": [
+      "Gaganamu cheelchukoni ghanulanu theesukoni",
+      "nannu konipova raanaiyunna praana priyudaa yesayya",
+      "ninnu choodaalani ( ninnu cheraalani )",
+      "naa hrudhayamentho ullasinchuchunnadhi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ దయా సంకల్పమే నీ ప్రేమను పంచినది",
+        "నీ చిత్తమే నాలో నెరవేరుచున్నది",
+        "పవిత్రురాలైన కన్యకగా నీ యెదుట నేను నిలిచెదను",
+        "నీ కౌగిలిలో నేను విశ్రమింతును",
+        "నీ మహిమైశ్వర్యమే జ్ఞాన సంపదనిచ్చినది",
+        "మర్మమైయున్న నీవలె రూపించుచున్నది",
+        "కలంకములేని వధువునై నిరీక్షణతో నిన్ను చేరెదను",
+        "యుగయుగాలు నీతో ఏలెదను",
+        "నీ కృప బాహుళ్యమే ఐశ్వర్యమునిచ్చినది",
+        "తేజోవాసుల స్వాస్థ్యం అనుగ్రహించినది",
+        "అక్షయమైన దేహముతో అనాది ప్రణాలికతో",
+        "సీయోనులో నీతో నేనుందును"
+      ],
+      "english": [
+        "Nee dhayaa samkalpame nee premanu panchinadhi",
+        "nee chittame naalo neraveruchunnadhi",
+        "pavithruraalaina kanyakagaa nee yedhuta nenu nilichedhanu",
+        "nee kougililo nenu visraminthunu",
+        "Nee mahimaiswaryame gnaana sampadha nichinadhi",
+        "marmamaiyunna neevale roopinchu chunnadhi",
+        "kalankamuleni vadhuvunai nireekshanatho ninnu cheredhanu",
+        "yugayugaalu neetho eyledhanu",
+        "Nee krupa baahulyame aiswaryamu nichinadhi",
+        "thejovaasula swaasthyam anugrahinchinadhi",
+        "akshayamaina dhehamutho anaadhi pranaalikatho",
+        "seeyonulo neetho nenundhunu"
+      ]
+    }
+  ]
+}

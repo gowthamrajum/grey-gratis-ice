@@ -1,0 +1,44 @@
+{
+  "song_name": "Atmaparisuddatmuda",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆత్మపరిశుద్దాత్ముడా - నాలో నివసించుము జీవింపజేసే సత్యస్వరూపుడా - నితో నడించుము నా ప్రాణ ఆత్మ శరీరమును యేసయ్య రాకకై సిద్దపరచుము"
+    ],
+    "english": [
+      "Atmaparisuddatmuda - nalo nivasimchumu Jivimpajese satyasvarupuda - nito nadimchumu Na prana Atma sariramunu Yesayya rakakai siddaparachumu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిర్జీవమైన నా జీవితములో - నిరీక్షణ కలిగించితివి లెక్కింపశక్యముగాని - సైన్యములో నను నిలిపితివి నాలో నివసించుము - నీతో నడిపించుము"
+      ],
+      "english": [
+        "Nirjivamaina na jivitamulo - nirikshana kaligimchitivi Lekkimpasakyamugani - sainyamulo nanu nilipitivi Nalo nivasimchumu - nito nadipimchumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పెంతుకొస్తు దినమందున - బలముగ దిగివచ్చితివి అన్యభాషలు మాట్లాదుతకు - వాక్ శక్తి నొసగితివి నాలో నివసించుము - నీతో నడిపించుము"
+      ],
+      "english": [
+        "Pemtukostu dinamamduna - balamuga digivachchitivi Anyabashalu matladutaku - vak Sakti nosagitivi Nalo nivasimchumu - nito nadipimchumu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రియునికి కలిగిన సంపూర్ణతలు - నా యందు ఏర్పరుచుటకే ఆరొగ్యకరమైన ఉపదేసములో - కృపతో స్దిరపరచితివి నాలో నివసించుము - నీతో నడిపించుము"
+      ],
+      "english": [
+        "Priyuniki kaligina sampurnatalu - na yamdu erparuchutake Arogyakaramaina upadesamulo - krupato sdiraparachitivi Nalo nivasimchumu - nito nadipimchumu"
+      ]
+    }
+  ]
+}

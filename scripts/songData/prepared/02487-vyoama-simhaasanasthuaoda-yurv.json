@@ -1,0 +1,74 @@
+{
+  "song_name": "Vyoama Simhaasanasthuda Yurvi Paadhapeethasthuda",
+  "author": {
+    "Authored by": "",
+    "రచన": "మిక్కిలి సమూయేలు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "వ్యోమ సింహాసనస్థుఁడ యుర్వి పాదపీఠస్థుఁడ",
+      "మామకీన దయా మయుఁడ మమ్ముఁగావుమో దేవుఁడ"
+    ],
+    "english": [
+      "Vyoama Simhaasanasthuda Yurvi Paadhapeethasthuda",
+      "Maamakeena Dhayaa Mayuda Mammugaavumoa Dhaevuda"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అంతరిక్ష లోకదీప యద్భుతాదృశ్య స్వరూపా",
+        "యింత నీ మహిమనోప నెంతది నా నాల్క చూప"
+      ],
+      "english": [
+        "Anthariksha Loakadheepa Yadhbhuthaadhrushya Svaroopaa",
+        "Yintha Nee Mahimanoapa Nenthadhi Naa Naalka Choopa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గాలి ఱెక్కల పైనెక్కి గాఢాంధకారమునందు",
+        "నేలికవై సంచరించు నట్టి నిన్ను మ్రొక్కుచుందు"
+      ],
+      "english": [
+        "Gaali Rekkala Painekki Gaadhaandhakaaramunandhu",
+        "Naelikavai Sancharinchu Natti Ninnu Mrokkuchundhu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీతి న్యాయ దీర్ఘశాంతా నిర్మల దయా నితాంతా",
+        "ప్రీతినుంచవే శ్రీమంతా పెద్దఁగా నా కాలమంతా"
+      ],
+      "english": [
+        "Neethi Nyaaya Dheerghashaanthaa Nirmala Dhayaa Nithaanthaa",
+        "Preethinunchavae Shreemanthaa Peddhagaa Naa Kaalamanthaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సర్వ భూలోక పూజితా సత్య సద్గుణ రాజితా",
+        "గర్వ దుస్స్వభా వాహితా కావునాన్ని నాట పితా"
+      ],
+      "english": [
+        "Sarva Bhooloaka Poojithaa Sathya Sadhguna Raajithaa",
+        "Garva Dhussvabhaa Vaahithaa Kaavunaanni Naata Pithaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నమ్మిన యీనన్నఁ తూల నాడవు దీనాత్మపాలా",
+        "క్రమ్మి నీ ప్రేమతోఁ జాల బ్రోతువు దయాలా వాలా"
+      ],
+      "english": [
+        "Nammina Yeenanna Thoola Naadavu Dheenaathmapaalaa",
+        "Krammi Nee Praemathoa Jaala Broathuvu Dhayaalaa Vaalaa"
+      ]
+    }
+  ]
+}

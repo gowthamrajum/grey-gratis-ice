@@ -1,0 +1,72 @@
+{
+  "song_name": "Na Viswaasa Oda Yaatra",
+  "author": {
+    "Authored by": "Pastor Suresh",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా విశ్వాస ఓడ యాత్ర కొనసాగుచున్నది",
+      "కొనసాగించే యేసు నాకు తోడుండగా",
+      "తుఫానులైనా పెనుగాలులైనా",
+      "ఆపలేవు నా యాత్రను"
+    ],
+    "english": [
+      "Na viswaasa oda yaatra konasaagu chunnadi",
+      "konasaaginche yesu naaku thodundagaa",
+      "thufaanulainaa penugaalulainaa",
+      "aapalevu naa yaathranu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా జీవితయాత్రలో ఎన్నో తుఫానులు",
+        "అయినా నా యేసు నా పక్షమైయుండగా",
+        "తుఫానునణచి కెరటాలనాపి",
+        "నడిపించును నా యేసయ్య",
+        "సీయోనుకే నా ఓడ పయనం",
+        "ఆగదు ఏ చోట",
+        "విశ్వాసముతోనే ఆరంభించితిని ఈ యాత్రను",
+        "నే కోరిన ఆ రేవుకే",
+        "నడిపించును నా యేసయ్య",
+        "సుడిగాలులెన్నో నా చుట్టు ముట్టి",
+        "ఆపజూచే నా ఓడను",
+        "నీ కృప కిరణాలు నాపై కురిపించితివి",
+        "నీ కృపయే నా ఓడకు ఇలలో ఆధారమే",
+        "నీతిసుర్యుడు ఉదయించు వేళా",
+        "ఇలలో ఆనందమే",
+        "సుర్యోదయము కోసమే నే వేచియున్నాను",
+        "యేసయ్యా రావా కొనిపోవ నన్ను",
+        "ఇలలో నీవే నాకు",
+        "నీకన్నా ఇలలో ఎవ్వరు నాకు లేనే లేరయా",
+        "నీ తోడు కోరి విడువక నడిపించుము",
+        "సీయోను శిఖరానా నీతో నుండుటకు",
+        "జయముతో నడిపించుము"
+      ],
+      "english": [
+        "Naa jeevithayaatralo enno thufaanulu",
+        "ayinaa naa yesu naa pakshamaiyundagaa",
+        "thufaanunanachi kerataalanaapi",
+        "nadipinchunu naa yesayya",
+        "Seeyonuke naa oda payanam aagadhu ey chota",
+        "viswaasamuthone aarambhinchithini ee yaathranu",
+        "ne korina aa revuke",
+        "nadipinchinu naa yesayya",
+        "Sudigaalulenno naa chuttu mutti",
+        "aapajooche naa odanu",
+        "nee krupa kiranaalu naapai kuripinchithivi",
+        "nee krupaye naa odaku ilalo aadhaarame",
+        "Neethisuryudu udhayinchu velaa ilalo aanandame",
+        "suryodhayamu kosame ne vechiyunnaanu",
+        "yesayyaa raavaa konipova nannu",
+        "ilalo neeve naaku",
+        "Neekannaa ilalo evvaru naaku lene lerayaa",
+        "nee thodu kori viduvaka nadipinchumu",
+        "seeyonu sikaraanaa neetho nundutaku",
+        "jayamutho nadipinchumu"
+      ]
+    }
+  ]
+}

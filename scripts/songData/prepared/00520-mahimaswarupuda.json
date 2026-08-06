@@ -1,0 +1,54 @@
+{
+  "song_name": "Mahima Swarupuda",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మహిమ స్వరూపుడా మృత్యుంజయుడా మరణపుముల్లును విరిచినవాడా",
+      "నీకే స్తోత్రములు నా యేసయ్యా నీకే స్తోత్రములు",
+      "నీకే స్తోత్రములు నా యేసయ్యా నీకే స్తోత్రములు"
+    ],
+    "english": [
+      "Mahima Swaroopudaa Mruthyunjayudaa Maranapumullunu Virichinavaadaa",
+      "Neeke Sthothramulu Naa Yesayyaa Neeke Sthothramulu",
+      "Neeke Sthothramulu Naa Yesayyaa Neeke Sthothramulu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ రక్తమును నా రక్షణకై బలియాగముగా అర్పించినావు",
+        "నీ గాయములద్వారా స్వస్థతనొంది అనందించెద నీలో నేను"
+      ],
+      "english": [
+        "Nee Rakthamunu Naa Rakshanakai Baliyaagamugaa Arpinchinaavu",
+        "Nee Gaayamuladwaaraa Swasthathanondi Anandincheda Neelo Nenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విరిగిన మనస్సు నలిగినా హృదయం నీ కిష్టమైన బలియాగముగా",
+        "నీ చేతితోనే విరిచిన రోట్టెనై ఆహారమౌదును అనేకులకు"
+      ],
+      "english": [
+        "Virigina Manassu Naliginaa Hrudayam Nee Kishtamaina Baliyaagamugaa",
+        "Nee Chethithone Virichina Rottenai Aahaaramoudunu Anekulaku"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరిశుద్ధత్మ ఫలముపొంది పరిపూర్ణమైన జ్యేష్టుల సంఘమై",
+        "సీయోను రాజా నీ ముఖము చూడ ఆశతో నేను వేచియున్నాను"
+      ],
+      "english": [
+        "Parishuddhathma Phalamupondi Paripoornamaina Jyeshtula Sanghamai",
+        "Seeyonu Raajaa Nee Mukhamu Chooda Aashatho Nenu Vechiyunnaanu"
+      ]
+    }
+  ]
+}

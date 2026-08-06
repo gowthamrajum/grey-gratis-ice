@@ -1,0 +1,166 @@
+{
+  "song_name": "Na Priya Yesu Raa",
+  "author": {
+    "Authored by": "Pranith Paul",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎత్తుకే ఎదిగినా – నామమే పొందినా",
+      "నాకు మాత్రము నీవే చాలయ్యా",
+      "నీ జాడలో నే నడుస్తానయ్యా",
+      "నీ కౌగిలిలో నే ఉంటా",
+      "రా.. నా ప్రియ యేసు రా.. హో… ఓ..",
+      "రా.. నా ప్రియ యేసు రా"
+    ],
+    "english": [
+      "Etthuke edhiginaa – naamame pondinaa",
+      "naaku maathramu neeve chaalayyaa",
+      "nee jaadalone ne untaa",
+      "raa.. naa priya yesu raa.. ho.. oo..",
+      "raa.. naa priya yesu raa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "[VERSE 1]",
+        "ఆశీర్వాదములు కావయ్యా",
+        "అభిషేకము కొరకు కాదయ్యా",
+        "నీవే నా ఆశీర్వదమయ్యా",
+        "నీవు లేని అభిషేకం నాకెందుకయ్యా",
+        "నిన్ను తాకనా నా ప్రాణం నీవయ్యా",
+        "నీ జాడలో నే నడుస్తానయ్యా",
+        "నీ కౌగిలిలో నే ఉంటా… ఓ..",
+        "రా.. నా ప్రియ యేసు రా… హో… ఓ..",
+        "రా.. నా ప్రియ యేసు రా"
+      ],
+      "english": [
+        "[VERSE 1]",
+        "Aasheervaadamulu kaavayyaa",
+        "abhishekamu koraku kaadayyaa",
+        "neeve naa aasheervaadamayyaa",
+        "neevu leni abhishekam naakendukayyaa",
+        "ninnu thaakanaa naa praanam neevayyaa",
+        "nee jaadalo ne nadusthunaayyaa",
+        "nee kougililo ne untaa.. oo..",
+        "raa.. naa priya yesu raa.. ho.. oo..",
+        "raa.. naa priya yesu raa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీకై నేను – నాకై నీవు",
+        "ఉంటే చాలయ్యా – అదియే నా ఆశ దేవా",
+        "నాలో ఉన్నవాడా – నాతో ఉన్నవాడా",
+        "నీవుంటే చాలయ్యా – రావా నాకై",
+        "నా ప్రాణం నీవయ్యా – నా ప్రేమ నీకేయ్యా",
+        "నీవే నా ఊపిరి యేసయ్యా",
+        "నీ పాదాలపై అత్తరునై నేనుంటా",
+        "నా ప్రాణ ప్రియుడా యేసయ్యా"
+      ],
+      "english": [
+        "Neekai nenu – naakai neevu",
+        "unte chaalayyaa – adiye naa aasha devaa…",
+        "naalo unnavaadaa – naatho unnavaadaa",
+        "neevunte chaalayyaa – raavaa naakai",
+        "naa praanam neevayyaa – naa prema neekayyaa",
+        "neeve naa oopiri yesayyaa",
+        "nee paadaalapai attharunai nenuntaa",
+        "naa praana priyudaa yeasayyaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "[VERSE 2]",
+        "పరలోకము కొరకు కాదయ్యా",
+        "వరముల కొరకు కాదయ్యా",
+        "ప్రవచనముల కొరకు కాదయ్యా",
+        "నీవుంటే నాకు చాలయ్యా",
+        "నీ శ్వాసే పరలోకం దేవా",
+        "నిను పోలిన వరములు ఏవి లేవయ్యా",
+        "ఎన్నెన్ని వరములు నాకున్నా",
+        "నీవు లేని జీవితమే వ్యర్ధముగా",
+        "నీ కోసమే బ్రతికెదను యేసయ్యా",
+        "నీ కోసమే చావైనా మేలేగా"
+      ],
+      "english": [
+        "[VERSE 2]",
+        "Paralokamu koraku kaadayyaa",
+        "varamula koraku kaadayyaa",
+        "pravachanamula koraku kaadayyaa",
+        "neevunte naaku chaalayyaa",
+        "nee shwaase paralokam devaa",
+        "ninu polina varamulu evi levayyaa",
+        "ennenni varamulu naakunnaa",
+        "neevu leni jeevithame vyardhamugaa",
+        "nee kosame brathikedanu yesayyaa",
+        "nee kosame chaavainaa melegaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీ..కై ఎవరు రాకున్నా హో…",
+        "నీ సువార్తను ప్రకటిస్తా హో… ఓ..",
+        "నీ హతసాక్షిగ నే చస్తా",
+        "రా.. నా ప్రియా యేసు రా…"
+      ],
+      "english": [
+        "Nee..kai evaru raakunnaa ho..",
+        "nee suvaarthanu prakatisthaa ho.. oo..",
+        "nee hatha saakshiga ne chasthaa",
+        "raa.. naa priya yesu raa.."
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీ చేయి తాకగానే కన్నీరు పొంగి పొర్లే",
+        "నా కన్నీటిని చూసి నీ కన్నీరే నను చేరే",
+        "కన్నీరు కలిసినట్టు కలవాలనుంది యేసు",
+        "నీకై నే వేచి ఉన్నా రావా నాకై…",
+        "నా గుండె చప్పుడే పిలిచె నిను రమ్మని",
+        "నీవే నా ఊపిరి యేసయ్యా",
+        "నీ గుండె లోతున ఆలోచన నేనేగా",
+        "నా ప్రాణ ప్రియుడా యేసయ్యా.. హో…"
+      ],
+      "english": [
+        "Nee cheyi thaakagaane kanneeru pongi porle",
+        "naa kanneetini choosi nee kanneere nanu chere",
+        "kanneeru kalisinattu kalavaalanundi yesu",
+        "neekai ne vechi unnaa raavaa naakai…",
+        "naa gunde chappude piliche ninu rammani",
+        "neeve naa oopiri yesayyaa",
+        "nee gunde lothuna aalochana nenegaa",
+        "naa praana priyudaa yesayyaa.. ho.."
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నాకు మాత్రము నీవే చాలయ్యా",
+        "వీడని ప్రియుడవు రావా నాకై",
+        "నిన్ను పోలి ఉంటా నే రావా నాకై",
+        "వేచియున్నా నీ కోసం రావా నాకై",
+        "ప్రేమిస్తున్నా నిన్నే నే రావా నాకై",
+        "రావా… దేవా… రావా… దేవా…",
+        "నాకు మాత్రము నీవే చాలయ్యా",
+        "నా కోసము రావా యేసయ్యా… త్వరగా"
+      ],
+      "english": [
+        "Naaku maathramu neeve chaalayyaa",
+        "veedani priyudavu raavaa naakai",
+        "ninnu poli untaa nee raavaa naakai",
+        "vechiyunnaa nee kosam raavaa naakai",
+        "premisthunnaa nee kosam raavaa naakai",
+        "raavaa.. devaa.. raavaa.. devaa…",
+        "naaku maathramu neeve chaalayyaa",
+        "naa kosamu raavaa yesayyaa.. thvaragaa"
+      ]
+    }
+  ]
+}

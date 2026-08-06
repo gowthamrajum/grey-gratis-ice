@@ -1,0 +1,44 @@
+{
+  "song_name": "Kalyaname Vaibogam Kamaniya Kamtula Dipam",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కళ్యాణమే వైబోగం కమనీయ కాంతుల దీపం శృతిలయల సుమధురగీతం దైవరచిత సుందరకావ్యం"
+    ],
+    "english": [
+      "Kalyaname vaibogam kamaniya kamtula dipam Srutilayala sumadhuragitam daivarachita sumdarakavyam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరమదైవమే ప్రారంభించిన పరిశుద్ధమైన కార్యం నరుని మంచికై తన చేతులతో ప్రభు రాసిచ్చిన పత్రం"
+      ],
+      "english": [
+        "Paramadaivame prarambimchina parisuddhamaina karyam Naruni mamchikai tana chetulato prabu rasichchina patram"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కీడు తొలగించి మేలుతో నింపు ఆశీర్వాదాల వర్షం మోడుగానున్న జీవితాలు చిగురింపజేసే వసంతం"
+      ],
+      "english": [
+        "Kidu tolagimchi meluto nimpu asirvadala varsham Moduganunna jivitalu chigurimpajese vasamtam"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దేవదూతలే తొంగిచూసేటి రమణీయమైన దృశ్యం భావమధురిమలు పొంగజేసేటి కమనీయమైన చత్రం"
+      ],
+      "english": [
+        "Devadutale tomgichuseti ramaniyamaina drusyam Bavamadhurimalu pomgajeseti kamaniyamaina chatram"
+      ]
+    }
+  ]
+}

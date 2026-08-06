@@ -1,0 +1,47 @@
+{
+  "song_name": "Gauravaneeyuda Galaliyavada",
+  "author": {
+    "Authored by": "John Sandeep",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "గౌరవనీయుడా గలలీయవాడ యేసయ్య నిన్ను ఘనపరచెదనయ్య",
+      "గీతము రాసి రాగము కూర్చి గానము చేసి నిను స్తుతియించి",
+      "ఆసతీర ఆరాధింతునయ నా యేసయ్య ఆత్మలో ఆనందింతునయ్యా"
+    ],
+    "english": [
+      "Gauravaneeyudaa Galileyavaada Yesayya, ninnu ghanaparachedhanayya",
+      "Geethamu raasi, raagamu koorchi, gaanamu chesi ninu sthuthiyinchi",
+      "Aasatheera aaraadhinthunaya naa Yesayya, aathmaloo aanandhinthunayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎంచి చూస్తే ఏ మంచిలేదు నాలో త్రుంచివేయాలనే వంచనతో",
+        "సాతాను నావైపు ముంచుకుని రాగ కంచెవేసి నాపై కరుణచూపినావు"
+      ],
+      "english": [
+        "Enchi choosthe ee manchi ledu naalo",
+        "Thrunchiveyaalane vanchanato",
+        "Sathaanu naavaipu munchukuni",
+        "Raaga kanchevesi naapai karunachoopinaavu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పచ్చి మాంసం తినే సింహం కాకి మత్యము నీ మాట చొప్పున నెరవేర్చాయి",
+        "పితరులమీద నీ ప్రేమ నిలిపి వారిని సహితము పదిలపరచినావు"
+      ],
+      "english": [
+        "Pacchi maansam thine simham",
+        "Kaaki mathyamu nee maata choppuna neraverchaayi",
+        "Pitharulameedha nee prema nilipi",
+        "Vaarini sahithamu padilaparachinaavu"
+      ]
+    }
+  ]
+}

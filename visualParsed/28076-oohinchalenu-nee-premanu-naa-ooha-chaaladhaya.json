@@ -1,0 +1,68 @@
+{
+  "song_name": "Oohinchalenu nee premanu naa ooha chaaladhaya",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Sampath Kareti"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఊహించలేను నీ ప్రేమను నా ఊహ చాలదయ",
+      "వర్ణించలేను నీ మేలులు వర్ణనకందవయా"
+    ],
+    "english": [
+      "Oohinchalenu nee premanu naa ooha chaaladhaya",
+      "Varninchalenu nee melulu varnanakandhavayaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా తల్లిలా నా యెడల",
+        "ప్రేమను చూపితివే",
+        "నాతండ్రిలా నాపక్షమై విజయమునిచ్చితివే",
+        "ఎన్నడైనా ఎడబాయక నను నడిపించితివే"
+      ],
+      "english": [
+        "Naa thallilaa naa edala",
+        "Premanu choopithive",
+        "Naathandrilaa naapakshamai vijayamunichchithive",
+        "Ennadainaa edabaayaka nanu nadipinchithive"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వేదనలో నేనుండగా – చేతులుచాపి పిలచిన దేవ",
+        "ఆప్యాయతగా పలుకరించి కౌగిటిలో నను దాచితివయ్య",
+        "నా భారమంతా నీవే మోసినావు",
+        "నా కన్నీటిని నీవే తుడిచినావు",
+        "నాదేవ నీ కృపకు నేను పాత్రుడనా…..",
+        "దీనతలో దైర్యమునిచ్చి బలము నొసగిన",
+        "నా యేసయ్య",
+        "ఆత్మీయుడవై నా పక్షమై ధ్వజముగా",
+        "నీవు నిలిచితివయ్య",
+        "యోగ్యత లేకున్నా ఎన్నడు విడువక",
+        "ప్రతీ క్షణము నాతోనే ఉంటివే",
+        "నా దేవా నీ కృపకు నేను పాత్రుడనా….."
+      ],
+      "english": [
+        "Vedhanalo nenundagaa – Chethuluchaapi pilachina Deva",
+        "Aapyaayathagaa palukarinchi kaugitilo nanu dhaachithivayya",
+        "Naa bhaaramanthaa neeve mosinaavu",
+        "Naa kanneetini neeve thudichinaavu",
+        "Naadheva nee krupaku nenu paathrudanaa…..",
+        "Dheenathalo dhairyamunichchi balamu nosagina",
+        "Naa Yesayya",
+        "Aathmeeyudavai naa pakshamai dhvajamugaa",
+        "Neevu nilichithivayya",
+        "Yogyatha lekunnaa ennadu viduvaka",
+        "Prathee kshanamu naathone untive",
+        "Naa Devaa nee krupaku nenu paathrudanaa….."
+      ]
+    }
+  ]
+}

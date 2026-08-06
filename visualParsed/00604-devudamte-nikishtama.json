@@ -1,0 +1,70 @@
+{
+  "song_name": "Dhevudante neekishtamaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవుడంటే నీకిష్టమా ఏ కష్టానికైన సిద్ధమా (2)",
+      "అవసరానికే దైవమా అనుభవించుటే న్యాయమా",
+      "నీ సుఖమే ముఖ్యమా తన త్యాగమే వ్యర్ధమా",
+      "నీ బ్రతుకే నీ ఇష్టమా (2) దేవునికే సంతాపమా"
+    ],
+    "english": [
+      "Dhevudante neekishtamaa e kashtaanikaina siddhamaa (2)",
+      "Avasaraanike daivamaa anubhavinchute nyaayamaa",
+      "Nee sukhame mukhyamaa thana thyaagame vyardhamaa",
+      "Nee brathuke nee ishtamaa (2) Devunike santhaapamaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హానోకు భూమిపై దేవునితో నడచెను",
+        "దేవునికే యిష్టుడై దేవుడతనిని తీసుకెళ్ళెను",
+        "నువ్వు దేవునికిష్టుడవైతే నిను కూడా తీసుకెళ్ళును",
+        "తన దూతలనే పంపి లాజరువలె తీసుకెళ్ళును",
+        "దేవునిలో కష్టపడి రక్షించుటకిష్టపడి",
+        "దేవుని సేవకు సమస్తాన్ని అర్పించాలి",
+        "ఆదేవుని పని చేసేవారతనికి కావాలి",
+        "వారే తనకిష్టం తన ఇష్టం ఎవరికి ఇష్టం"
+      ],
+      "english": [
+        "Haanoku bhoomipai Devunitho nadachenu",
+        "Devunike ishtudai Dhevudathanini theesukellenu",
+        "Nuvvu Dhevunikishtudavaithe ninu koodaa theesukellunu",
+        "Thana dhoothalane pampi Laajaruvale theesukellunu",
+        "Dhevunilo kashtapadi rakshinchutakishtapadi",
+        "Devuni sevaku samasthaanni arpinchaali",
+        "Aa Devuni pani chesevaarathaniki kaavaali",
+        "Vaare thanakishtam thana ishtam evariki ishtam"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నశియించు ఆత్మల కొరకు కదలాలి నీవు నేడు",
+        "తన వారిని రక్షించుట కొరకు నలగాలి ప్రతి రోజు",
+        "క్రీస్తునే నమ్ముటకాక శ్రమపడుటే నేర్చుకోవాలి",
+        "నిను చూచిన ఆదేవుడే దూతలతో పొంగిపోవాలి",
+        "ఒక్క పాపి మారితే ఒకరిని నీవు మార్చితే",
+        "అంతకన్న ఆదేవునికింకేమి కావాలి",
+        "ఆదేవుని పనిలో మరణిస్తే నినుచూడాలి",
+        "వారే తనకిష్టం తన ఇష్టం ఎవరికి ఇష్టం"
+      ],
+      "english": [
+        "Nashiyinchu aathmala koraku kadalaali neevu nedu",
+        "Thana vaarini rakshinchuta koraku nalagaali prathi roju",
+        "Kreesthune nammutakaaka shramapadute nerchukovaali",
+        "Ninu choochina aa Devude doothalatho pongipovaali",
+        "Okka paapi maarithe okarini neevu maarchithe",
+        "Anthakanna aa Dhevunikinkemi kaavaali",
+        "Aa Devuni panilo maranisthe ninuchoodaali",
+        "Vaare thanakishtam thana ishtam evariki ishtam"
+      ]
+    }
+  ]
+}

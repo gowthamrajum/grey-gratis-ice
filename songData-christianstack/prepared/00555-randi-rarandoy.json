@@ -1,0 +1,43 @@
+{
+  "song_name": "Randi Rarandoy",
+  "author": {
+    "Authored by": "David Marumulla",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రండి రారండోయ్ యేసయ్యను చూసొద్దాం",
+      "రండి రారండోయ్ బెత్లహేముకు పోయొద్దాం",
+      "యేసయ్య పుట్టెను ప్రవచన పురుషునిగా",
+      "ప్రభువే వెలసెను దావీదు పురములో",
+      "రాజాధిరాజు ప్రభువుల ప్రభువే"
+    ],
+    "english": [
+      "Randi raarandooy yesayyanu chusoddaam",
+      "randi raarandooy bethlahemuku poyoddaam",
+      "yesayya velasenu daaveedu puramuloo",
+      "raajaadhiraaju prabhuvula prabhuve"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రండి రండి రారండి యేసయ్యను చూసొద్దాం",
+        "రండి రండి రారండి",
+        "రాజాది రాజును పూజిద్దాం",
+        "రాజుల రాజు పసి బాలుడై",
+        "పశువుల పాకలో పవళించినాడు",
+        "పశువుల పాకలో పవళించినాడు"
+      ],
+      "english": [
+        "Randi randi raarandi yesayyanu chuusoddaam",
+        "randi randi raarandi",
+        "raajaadi raajunu poojiddaam",
+        "raajula raaju pasi baaludai",
+        "pasuvula paakaloo pavallinchinaadu",
+        "pasuvula paakaloo pavallinchinaadu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "song_name": "Dayacheyumu paapakshamaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దయచేయుము పాపక్షమా దయచేయుము పాప క్షమా",
+      "యేసుని రక్తము రక్తము వల్లనే||"
+    ],
+    "english": [
+      "Dayacheyumu paapakshamaa dayacheyumu paapa kshamaa",
+      "Yesuni rakthamu rakthamu vallane||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తుడుపుము పాపపుడాగులు తుడువుము పాపపుడాగులు ||యేసు||"
+      ],
+      "english": [
+        "Thudupumu paapapudaagulu thuduvumu paapapudaagulu ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అనుగ్రహించు జయంసదా అనుగ్రహించు జయంసదా ||యేసు||"
+      ],
+      "english": [
+        "Anugrahinchu jayamsadhaa anugrahinchu jayamsadhaa ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇమ్ము నిజసమాధానము ఇమ్ము నిజసమాధానము ||యేసు||"
+      ],
+      "english": [
+        "Immu nijasamaadhaanamu immu nijasamaadhaanamu ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పరమపురిని జేరనిమ్ము పరమపురిని జేరనిమ్ము ||యేసు||"
+      ],
+      "english": [
+        "Paramapurini jeranimmu paramapurini jeranimmu ||Yesu||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "song_name": "చిన్నవారి ప్రియ యేసు రక్షకా మ",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చిన్నవారి ప్రియ యేసు రక్షకా మాదు విన్నపంబు నాలకింపుమా"
+      ],
+      "english": [
+        "chinnavaari priya yaesu rakShkaa maadhu vinnapMbu naalakiMpumaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మా ప్రవర్తనందు జక్కపర్చుము నీతి మార్గమందు నడువజేయుము."
+      ],
+      "english": [
+        "maa pravarthanMdhu jakkaparchumu neethi maargamMdhu naduvajaeyumu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇంక పెక్కుమంది చిన్న బిడ్డలు నిన్ను నమ్మునట్లు దయజేయుము"
+      ],
+      "english": [
+        "iMka pekkumMdhi chinna biddalu ninnu nammunatlu dhayajaeyumu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నిన్ను వెంబడించి యెల్లకాలము నీదు సముఖమందు సంతసింతుము."
+      ],
+      "english": [
+        "ninnu veMbadiMchi yellakaalamu needhu samukhamMdhu sMthasiMthumu."
+      ]
+    }
+  ]
+}

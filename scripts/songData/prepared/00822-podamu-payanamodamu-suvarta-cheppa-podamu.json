@@ -1,0 +1,54 @@
+{
+  "song_name": "Podamu Payanamodamu Suvarta Cheppa Podamu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పోదాము పోదాము పయనమోదాము సువార్త చెప్ప పోదాము (2)",
+      "అక్కడ పోదాం ఇక్కడ పోదాం ఎక్కడ పోదాము?",
+      "సువార్త చాటింప సాగిపోదాము (2)"
+    ],
+    "english": [
+      "Podamu Podamu Payanamodamu Suvarta Cheppa Podamu (2)",
+      "Akkada Podam Ikkada Podam Ekkada Podamu?",
+      "Suvarta Chatimpa Sagipodamu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆ జాతి ఈ జాతి ఏ జాతండి?",
+        "పరిశుద్దతే మన సొంత జాతండి (2)"
+      ],
+      "english": [
+        "Aa Jati E Jati Ye Jatamdi?",
+        "Parisuddate Mana Somta Jatamdi (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆ ఊరు ఈ ఊరు ఏ ఊరండి?",
+        "కానాను దేశమే మన ఊరండి (2)"
+      ],
+      "english": [
+        "Aa Uru E Uru Ye Uramdi?",
+        "Kananu Desame Mana Uramdi (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆ రక్తం ఈ రక్తం ఏ రక్తమండి?",
+        "క్రీస్తు రక్తమే పాపం బాపునండి (2)"
+      ],
+      "english": [
+        "A Raktam E Raktam Ye Raktamamdi?",
+        "Kristu Raktame Papam Bapunamdi (2)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "song_name": "Yesayya Nee Jananame",
+  "author": {
+    "Authored by": "Micheal Evangelist",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పూజ్యుడవు, పూజార్హుడవు",
+      "పరమందు నిత్యుడవు",
+      "నీవే సదా…",
+      "రిక్తుడవై, మా రూపమై",
+      "మా మధ్య నివసింపగా",
+      "ఇల్లాలో వెలిసావే…"
+    ],
+    "english": [
+      "Poojyudavu, poojaarhudavu",
+      "Paramandhu nithyudavu",
+      "Neeve sadha…"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ ప్రేమను వెలడిచేయ",
+        "నీ తనువే ధరియించె",
+        "నీ రూపం నాలో కనిపించా",
+        "జన్మించితివే…"
+      ],
+      "english": [
+        "Rikthudavai, maa roopamai",
+        "Maa madhya nivasimpaga",
+        "Illalo velisaave…"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "లోకానికి వెలుగుగా వెలిసావే",
+        "నీ సాక్షిగా నిలుచుటకై",
+        "కుటుంబాలుగా నీలో",
+        "నిన్ను సేవించుటకై…"
+      ],
+      "english": [
+        "Nee premanu veladicheya",
+        "Nee thanuve dharianche",
+        "Nee roopam naalo kanpinchaa",
+        "Janminchithive…"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యేసయ్యా… ఓఓఓ…",
+        "నీ జననమే మా భాగ్యం",
+        "మెస్సయ్యా… ఓఓఓ…",
+        "నీ మార్గమే మా ధన్యం",
+        "యేసయ్యా… ఓఓఓ…",
+        "నీ జననమే పరవశము",
+        "మెస్సయ్యా… ఓఓఓ…",
+        "జగమెరిగిన నీ సత్యం"
+      ],
+      "english": [
+        "Lokaaniki veluguga velisaave",
+        "Nee saakshiga niluchutakai",
+        "Kutumbaaluga neelo",
+        "Ninnu sevinchutakai…"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నెరవేర్చె నీ ప్రవచనమే",
+        "నన్ను చేరే నా రూపమునే",
+        "నన్ను నిలో నీల మలుచుటకై…"
+      ],
+      "english": [
+        "Yesayya… oooo…",
+        "Nee jananame maa bhaagyam",
+        "Messayya… oooo…",
+        "Nee maargame maa dhanyam",
+        "Yesayya… oooo…",
+        "Nee jananame paravashamu",
+        "Messayya… oooo…",
+        "Jagamerigina nee sathyam"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "గగనం కోటి కాంతుల దీపం",
+        "భువియే దేవదూతల గానం",
+        "ఇహపరములలో వేడుకే…"
+      ],
+      "english": [
+        "Neraverche nee pravachaname",
+        "Nannu chere naa roopamune",
+        "Nannu neelo neela maluchutakai…"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "అహా! నాలో ఈ సంతోషం",
+        "నీకే మా స్తుతిగానం",
+        "నీ జన్మే నా గాన ప్రతి గానం…"
+      ],
+      "english": [
+        "Gaganam koti kaanthula dheepam",
+        "Bhuviye dhevadhoothala gaanam",
+        "Ihaparamulalo veduke…"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "యేసయ్యా… ఓఓఓ…",
+        "నీ జననమే మా భాగ్యం",
+        "మెస్సయ్యా… ఓఓఓ…",
+        "నీ మార్గమే మా ధన్యం",
+        "యేసయ్యా… ఓఓఓ…",
+        "నీ జననమే పరవశము",
+        "మెస్సయ్యా… ఓఓఓ…",
+        "జగమెరిగిన నీ సత్యం"
+      ],
+      "english": [
+        "Ahaa! naalo ee santhosham",
+        "Neeke maa sthuthigaanam",
+        "Nee janme naa gaana prathi gaanam"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "పూజ్యుడవు, పూజార్హుడవు",
+        "పరమందు నిత్యుడవు",
+        "నీవే సదా…",
+        "రిక్తుడవై, మా రూపమై",
+        "మా మధ్య నివసింపగా",
+        "ఇల్లాలో వెలిసావే…"
+      ],
+      "english": [
+        "Yesayya… oooo…",
+        "Nee jananame maa bhaagyam",
+        "Messayya… oooo…",
+        "Nee maargame maa dhanyam",
+        "Yesayya… oooo…",
+        "Nee jananame paravashamu",
+        "Messayya… oooo…",
+        "Jagamerigina nee sathyam"
+      ]
+    },
+    {
+      "stanza_number": 9,
+      "telugu": [
+        "నీ ప్రేమను వెలడిచేయ",
+        "నీ తనువే ధరియించె",
+        "నీ రూపం నాలో కనిపించా",
+        "జన్మించితివే…"
+      ],
+      "english": []
+    },
+    {
+      "stanza_number": 10,
+      "telugu": [
+        "లోకానికి వెలుగుగా వెలిసావే",
+        "నీ సాక్షిగా నిలుచుటకై",
+        "కుటుంబాలుగా నీలో",
+        "నిన్ను సేవించుటకై…"
+      ],
+      "english": []
+    },
+    {
+      "stanza_number": 11,
+      "telugu": [
+        "యేసయ్యా… ఓఓఓ…",
+        "నీ జననమే మా భాగ్యం",
+        "మెస్సయ్యా… ఓఓఓ…",
+        "నీ మార్గమే మా ధన్యం",
+        "యేసయ్యా… ఓఓఓ…",
+        "నీ జననమే పరవశము",
+        "మెస్సయ్యా… ఓఓఓ…",
+        "జగమెరిగిన నీ సత్యం"
+      ],
+      "english": []
+    }
+  ]
+}

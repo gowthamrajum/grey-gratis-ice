@@ -1,0 +1,45 @@
+{
+  "song_name": "OOhakandananta Vunnatam Naa Pat",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "Lyrics:- ఊహకందనంత ఉన్నతం నాపట్ల నీవు చూపుచున్న ప్రేమ యేసయ్యా స్థితిని పరిగణించక గతము చూడక నన్ను కోరుకున్న రీతి ఎంత అద్భుతం ప్రాణమిచ్చునంతటి గాఢమైన ప్రేమది నాకు అనుగ్రహించబడినది"
+    ],
+    "english": [
+      "oohakandananta vunnatam naa patla neevuchoopuchunna prema yesayya.. sthitini pariganinchaka, gatamu choodaka nannu korukunna reeti yenta adbhutam.. bridge : praanamichhunantati gaadhamaina premadi naaku anugrahinchabadinadi.."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జారిపడ్డ చోటునే వదిలివేయక వెదకి పలకరించి నిలువబెట్టుకున్నది గాయము మాన్పిన స్వస్థత కూర్చిన దివ్య ప్రేమది యేసూ నాకు వరమది"
+      ],
+      "english": [
+        "jaaripadda chotune vadaliveyaka.. vedaki palakarinchi niluvabettukunnadi gaayamu maanpina swasthata koorchina divyapremadi yesu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దూరమైన వేళలో తడవు చేయక పిలిచి కనికరించి తిరిగి చేర్చుకున్నది రూపము మార్చిన క్షేమమునిచ్చిన గొప్ప ప్రేమది యేసూ నాకు వరమది"
+      ],
+      "english": [
+        "dooramaina velalo tadavu chetata pilichi kanikarinchi tirigi cherchukunnadi roopamu maarchina kshemamu nichhina goppa premadi yesu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కృంగదీయు బాధలో ముఖము దాచక మనవి అనుగ్రహించి కృపను చూపుచున్నది అక్కర తీర్చిన ధైర్యము నింపిన వింత ప్రేమది యేసూ నాకు వరమది"
+      ],
+      "english": [
+        "krungadeeyu baadhalo mukhamu daachaka manavi anugrahinchi krupanu choopuchunnadi akkara teerchina dhairamu nimpina",
+        "naaku varamadi.."
+      ]
+    }
+  ]
+}

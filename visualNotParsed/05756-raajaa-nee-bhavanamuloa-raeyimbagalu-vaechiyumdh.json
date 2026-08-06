@@ -1,0 +1,57 @@
+{
+  "song_name": "Raajaa nee bhavanamulo reyimbagalu vechiyundunu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాజా ! నీ భవనములో - రేయింబగలు వేచియుందును",
+      "స్తుతించి ఆనందింతును - చింతలు మరచెదను",
+      "ఆరాధనా... ఆరాధనా... - అబ్బా తండ్రీ నీకేనయ్యా"
+    ],
+    "english": [
+      "Raajaa ! nee bhavanamulo - Reyimbagalu vechiyundunu",
+      "Sthuthinchi aanandinthunu - Chinthalu marachedhanu",
+      "Aaraadhanaa... aaraadhanaa... - Abbaa thandree neekenayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా బలమా నాకోట ఆరాధన నీవే",
+        "నా దుర్గమా ఆశ్రయమా ఆరాధనా నీకే"
+      ],
+      "english": [
+        "Naa balamaa naakota aaraadhana neeve",
+        "Naa durgamaa aashrayamaa aaraadhanaa neeke"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అంతట నివసించు యెహోవా - ఎలోహీమ్‌ ఆరాధనా నీకే",
+        "నా యొక్క నీతి యెహోవా - సిద్కేేను ఆరాధన నీకే"
+      ],
+      "english": [
+        "Anthata nivasinchu Yehova - Elohim aaraadhanaa neeke",
+        "Naa yokka neethi Yehova - Sidkenu aaraadhana neeke"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరిశుద్ధ పరచే యెహోవామెకదేేష్‌",
+        "ఆరాధన నీకే - రూపించుదైవం",
+        "యెహోవా హోసేను ఆరాధన నీకే"
+      ],
+      "english": [
+        "Parishuddha parache Yehova Mekadhesh",
+        "Aaraadhana neeke - Roopinchu daivam",
+        "Yehova Hosenu aaraadhana neeke"
+      ]
+    }
+  ]
+}

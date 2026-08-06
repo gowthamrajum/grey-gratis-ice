@@ -1,0 +1,40 @@
+{
+  "song_name": "Dhustula Aalochanalo",
+  "author": {
+    "Authored by": "Dr. Issac Raj Alanka",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దుష్టుల ఆలోచనలో నడువక",
+      "పాపుల మార్గమున నిలువక",
+      "అపహాసకుని చెంతనే కూర్చుండక",
+      "నీ ధర్మశాస్త్రమును ఆనందింతును"
+    ],
+    "english": [
+      "Dushtula aalochanalo naduvaka",
+      "paapula maargamuna niluvaka",
+      "apahaasakuni chenthane kurchundaka",
+      "nee dharmasaasthramunu aanandintunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గాలి చెదరగొట్టు పొట్టు కాను నేను",
+        "ఇసుకపైన ఇంటిని కానే కాను",
+        "యేసే నా సారమై క్రీస్తే ఆధారమై",
+        "నీటియందు నాటబడిన చెట్టునై యుందును",
+        "వాడబారక ఫలముల నిచ్చుచుందును"
+      ],
+      "english": [
+        "Gaali chedharagottu pottu kaanu nenu",
+        "isukapaina intini kaane kaanu",
+        "yesey naa saaramai kreesthe aadhaaramai",
+        "neetiyandu naatabadina chettunai yundhunu",
+        "vaadabaaraka phalamula nichuchundunu"
+      ]
+    }
+  ]
+}

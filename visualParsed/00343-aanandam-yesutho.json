@@ -1,0 +1,65 @@
+{
+  "song_name": "Aanandam Yesutho",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Yesanna"
+    ],
+    "రచన": [
+      "బ్రదర్ యేసన్న"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆనందం యేసుతో ఆనందం",
+      "జయగంభీర ధ్వనితో పాడెదను",
+      "జయరాజాధిరాజుతో సాగెదను"
+    ],
+    "english": [
+      "Aanandam Yesutho aanandam",
+      "Jayagambheera dhwanitho paadedanu",
+      "Jayaraajaadhiraajutho saagedanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా ప్రాణమునకు సేదదీర్చి",
+        "తన నామము బట్టి నీటి మార్గమున నన్ను నడిపించెను",
+        "ఏ అపాయమునకు నేను భయపడకుందును  ||ఆనందం||"
+      ],
+      "english": [
+        "Naa praanamunaku sedadeerchi",
+        "Thana naamamu batti neethi maargamuna nannu nadipinchenu",
+        "E apaayamunaku nenu bhayapadakundunu  ||Aanandam||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా ప్రభుని కృప చూచిన",
+        "నాటినుండి నన్ను నేనే మరచిపోతినే",
+        "నాగటి మీద చెయ్యి పెట్టి వెనుక చూచెదనా  ||ఆనందం||"
+      ],
+      "english": [
+        "Naa prabhuni krupa choochina",
+        "Naatinundi nannu nene marachipothine",
+        "Naagati meeda cheyyi petti venuka choochedanaa  ||Aanandam||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సిలువను యేసు సహించెను",
+        "తన యెదుట ఉంచబడిన జ్యేష్ఠుల సంఘముకై",
+        "అవమానము నొందె - నాకై మరణము గెలిచె  ||ఆనందం||"
+      ],
+      "english": [
+        "Siluvanu Yesu sahinchenu",
+        "Thana eduta unchabadina jyeshthula sanghamukai",
+        "Avamaanamu nonde - Naakai maranamu geliche  ||Aanandam||"
+      ]
+    }
+  ]
+}

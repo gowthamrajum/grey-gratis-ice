@@ -1,0 +1,46 @@
+{
+  "song_name": "Devaa neeku sthothramu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవా నీకు స్తోత్రము"
+    ],
+    "english": [
+      "Devaa neeku sthothramu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేవా నీకు స్తోత్రము - యిచ్చావు నాకొక దినము",
+        "దేవా నీకు స్తోత్రము - యిచ్చావు నాకొక దినము",
+        "దీవించుము - నను ఈ దినము",
+        "దీవించుము - నను ఈదినము",
+        "జీవింతు నే నీకోసము"
+      ],
+      "english": [
+        "Devaa neeku sthothramu - Ichchaavu naakoka dinamu",
+        "Devaa neeku sthothramu - Ichchaavu naakoka dinamu",
+        "Deevinchumu - Nanu ee dinamu",
+        "Deevinchumu - Nanu eedinamu",
+        "Jeevinthu ne neekosamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జీవింతు నే నీకోసము",
+        "ఆ ..ఆమెన్! ఆ ..ఆమెన్! ఆ ..ఆమెన్!"
+      ],
+      "english": [
+        "Jeevinthu ne neekosamu",
+        "Aa ..aamen! Aa ..aamen! Aa ..aamen!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "song_name": "Paramuna prabhuvaa varamula naduga",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరమున ప్రభువా వరముల నడుగ",
+      "నే వెదకితిని నీ పాదములనే"
+    ],
+    "english": [
+      "Paramuna prabhuvaa varamula naduga",
+      "Ne vedhakithini nee paadhamulane"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ధనధాన్యములు సర్వసంపదలు",
+        "సర్వ సుఖములు నిను కోరలేదు",
+        "నీ ప్రేమ నీ కరుణ నీ కృపయే చాలు",
+        "నిను గాక నేనేది మరి కోరలేదు (2)  ||పరమున||"
+      ],
+      "english": [
+        "Dhanadhaanyamulu sarvasampadhalu",
+        "Sarva sukhamulu ninu koraledhu",
+        "Nee prema nee karuna nee krupaye chaalu",
+        "Ninu gaaka nenedhi mari koraledhu (2)  ||Paramuna||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇలలోన నా యాత్రను ముగిసి",
+        "పరలోకమును నే చేరువేళ",
+        "వేవేల దూతలు గీతాలు పాడ",
+        "నీపాద కమలాల నను ఒదిగిపోని (2)  ||పరమున||"
+      ],
+      "english": [
+        "Ilalona naa yaathranu mugisi",
+        "Paralokamunu ne cheruvela",
+        "Vevela doothalu geethaalu paada",
+        "Neepaadha kamalaala nanu odhigiponi (2)  ||Paramuna||"
+      ]
+    }
+  ]
+}

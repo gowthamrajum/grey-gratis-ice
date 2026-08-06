@@ -1,0 +1,35 @@
+{
+  "song_name": "Satyamunaku Mem Sakshulamu Kristuku Memu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సత్యమునకు మేం సాక్షులము క్రీస్తుకు మేము సాక్షులము రోషముగల దేవుని ప్రజలం సత్యము కలిగి జీవిస్తాం రోషముగల దేవుని ప్రజలం సత్యము కొరకు మరణిస్తాం హోసన్నా హోసన్నా హోసన్నా హోసన్నా హోసన్నా. . హోసన్నా. . హోసన్నా. ."
+    ],
+    "english": [
+      "Satyamunaku mem sakshulamu kristuku memu sakshulamu Roshamugala devuni prajalam satyamu kaligi jivistam Roshamugala devuni prajalam satyamu koraku maranistam Hosanna hosanna hosanna hosanna Hosanna. . Hosanna. . Hosanna. ."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఉమ్ములూసినా మొఖము త్రిప్పము ముళ్ళు గ్రుచ్చినా తలను వొంచము కొరడ విసిరినా వెనుక తిరుగము బల్లెము పొడిచినా భయపడము సత్యము కలిగి జీవిస్తాం సత్యము కొరకు మరణిస్తాం"
+      ],
+      "english": [
+        "Ummulusina mokamu trippamu Mullu gruchchina talanu vomchamu Korada visirina venuka tirugamu Ballemu podichina bayapadamu Satyamu kaligi jivistam Satyamu koraku maranistam"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మాకు మేము తగ్గించుకొంటాం మోకాళ్ళ కన్నీళ్ళ ప్రార్ధన చేస్తాం సిలువ సంకెళ్ళ సమర్పణ చేస్తాం దేవుని రాజ్యము రగిలిస్తాం సత్యము కలిగి జీవిస్తాం సత్యము కొరకు మరణిస్తాం"
+      ],
+      "english": [
+        "Maku memu taggimchukomtam Mokalla kannilla prardhana chestam Siluva samkella samarpana chestam Devuni rajyamu ragilistam Satyamu kaligi jivistam Satyamu koraku maranistam"
+      ]
+    }
+  ]
+}

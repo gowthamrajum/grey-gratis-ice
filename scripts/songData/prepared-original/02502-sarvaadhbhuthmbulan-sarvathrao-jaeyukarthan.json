@@ -1,0 +1,40 @@
+{
+  "song_name": "Sarvaadhbhuthmbulan Sarvathrao Jaeyukarthan",
+  "author": {
+    "Authored by": "",
+    "రచన": "మార్టిన్ రిన్ కార్ట్"
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సర్వాద్భుతంబులన్ సర్వత్రఁ జేయుకర్తన్ సర్వాత్మ లింతటన్ శ్లాఘింపఁ జేరరండి! మా రాకపోకలన్ మం వీడకుండను మా రక్షకుండిట్లే మమ్మాదరించును"
+      ],
+      "english": [
+        "sarvaadhbhuthMbulan sarvathrAO jaeyukarthan sarvaathma liMthatan shlaaghiMpAO jaerarMdi! maa raakapoakalan mM veedakuMdanu maa rakShkuMditlae mammaadhariMchunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మహా దయాళుఁడే మా జీవకాలమంత సహాయమూరటన్ సంతోషమిచ్చుగాక! మహత్తు ప్రేమను మాయందు నుంచును ఇహంబునన్ మమ్మున్ ఎన్నండుఁ బ్రోచును."
+      ],
+      "english": [
+        "mahaa dhayaaLuAOdae maa jeevakaalamMtha sahaayamooratan sMthoaShmichchugaaka! mahaththu praemanu maayMdhu nuMchunu ihMbunan mammun ennMduAO broachunu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రపంచపాలకా! ప్రసిద్ధుఁదైన తండ్రీ! సుపుత్ర దేవుడా! సుజీవమిచ్చు నాత్మ! సంపూర్ణ త్ర్యేకుండా! ప్రఖ్యాతికల్గగా అపారసన్నుతి నర్పింతు సర్వదా"
+      ],
+      "english": [
+        "prapMchapaalakaa! prasidhDhuAOdhaina thMdree! suputhra dhaevudaa! sujeevamichchu naathma! sMpoorNa thryaekuMdaa! prakhyaathikalgagaa apaarasannuthi narpiMthu sarvadhaa"
+      ]
+    }
+  ]
+}

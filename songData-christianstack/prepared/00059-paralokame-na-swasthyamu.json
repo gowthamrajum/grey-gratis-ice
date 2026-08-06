@@ -1,0 +1,83 @@
+{
+  "song_name": "Paralokame Na Swasthyamu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరలోకమే నా స్వాస్థ్యము",
+      "ఎప్పుడు గాంతునో",
+      "నా ప్రియ యేసుని",
+      "నేనెప్పుడు గాంతునో"
+    ],
+    "english": [
+      "Paralokame naa swaasthyamu",
+      "Eppudu gaanthuno",
+      "Naa priya Yesuni",
+      "Nen eppudu gaanthuno"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆకలి దప్పులు దుఃఖము",
+        "మనో వేదన లేదచ్చటా",
+        "పరమా మకుటము పొందును",
+        "ప్రభు పాదాముల చేరేదను"
+      ],
+      "english": [
+        "Aakali dappulu duhkhamu",
+        "Mano vedana ledu achchataa",
+        "Paramaa makutamu pondunu",
+        "Prabhu paadaamula cheredanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సిలువ వేయబడితిని",
+        "ఇక నే కాదు జీవించుటా",
+        "ప్రభు యేసు మహిమా కొరకు",
+        "గురి కలిగి జీవితును"
+      ],
+      "english": [
+        "Siluva veyabaditini",
+        "Ika ne kaadu jeevinchuta",
+        "Prabhu Yesu mahimaa koraku",
+        "Guri kaligi jeevintunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వారుత్తుమ్ పాసి దాకమ్",
+        "మనః తూయారుమ్ అంగే ఇళ్ళై",
+        "విన్ క్రీడమ్ మాన్జిపే",
+        "విన్నావర్ పాదం సేవే"
+      ],
+      "english": [
+        "Varuththam pasi thaagam",
+        "Mana thuyarum angae illai",
+        "Vinn kireedam vaanjippen",
+        "Vinnavar paadam serve"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పరలోకమే నా స్వాస్థ్యము",
+        "ఎప్పుడు గాంతునో",
+        "నా ప్రియ యేసుని",
+        "నేనెప్పుడు గాంతునో"
+      ],
+      "english": [
+        "Paralokame naa swaasthyamu",
+        "Eppudu gaanthuno",
+        "Naa priya Yesuni",
+        "Nen eppudu gaanthuno"
+      ]
+    }
+  ]
+}

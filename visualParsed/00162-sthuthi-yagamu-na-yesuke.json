@@ -1,0 +1,73 @@
+{
+  "song_name": "Sthuthi yaagamu naa Yesuke",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తుతి యాగము నా యేసుకే - అర్పించెదను - ఎల్లప్పుడు"
+    ],
+    "english": [
+      "Sthuthi yaagamu naa Yesuke - Arpinchedanu - Ellappudu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా శ్రమ దినమున నాకు జవాబిచ్చి - ప్రతి నిముషము నా మార్గములొ",
+        "నన్ను నడిపిన కృపను తలంచి - స్తుతులర్పించెదను - నీకె  ||స్తుతి||"
+      ],
+      "english": [
+        "Naa shrama dinamuna naaku javaabichchi - Prathi nimushamu naa maargamulo",
+        "Nannu nadipina krupanu thalanchi - Sthuthularpinchedhanu - Neeke  ||Sthuthi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఓదార్పు లేనట్టి చీకటి వేళలో - ఆదరణ కర్తవు నాకు నీవు",
+        "మారా అనుభవం మార్చి ఇలలొ - సంతసమిచ్చితివి - నిత్య  ||స్తుతి||"
+      ],
+      "english": [
+        "Odaarpu lenatti cheekati velalo - Aadarana karthavu naaku neevu",
+        "Maaraa anubhavam maarchi ilalo - Santhasamichchithivi - Nithya  ||Sthuthi||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రక్షక నీవే నా శైలము బలమును - యుద్ధ దినములో నాకేడము",
+        "సాతాను అస్త్రములు ఆర్పివేసి - జయము నొసగితివి - గోప్ప  ||స్తుతి||"
+      ],
+      "english": [
+        "Rakshaka neeve naa shailamu balamunu - Yuddha dhinamulo naakedamu",
+        "Saathaanu asthramulu aarpivesi - Jayamu nosagithivi - Goppa  ||Sthuthi||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దేవుని సెలవు లేనిది ఏదయు - జరుగదుగా అని గ్రహించితిని",
+        "నా జీవితములో ప్రతి దినమును - మేలుకొరకే గదా కల్గెను  ||స్తుతి||"
+      ],
+      "english": [
+        "Devuni selavu lenidi edhayu - Jarugadhugaa ani grahinchithini",
+        "Naa jeevithamulo prathi dhinamunu - Melukorake gadaa kalgenu  ||Sthuthi||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఆర్భటించు సీయోన్ హర్షించు - షాలేమా నీ యేసు నీతోనె యుండెనుగా",
+        "ఆయన మనకు ఆదియు అంతము - పాడెద హల్లెలూయ ఆమేన్  ||స్తుతి||"
+      ],
+      "english": [
+        "Aarbhatinchu Seeyon harshinchu - Shaalemaa nee Yesu neethone undenugaa",
+        "Aayana manaku aadiyu anthamu - Paadeda hallelooya aamen  ||Sthuthi||"
+      ]
+    }
+  ]
+}

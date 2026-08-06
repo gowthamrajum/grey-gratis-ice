@@ -1,0 +1,61 @@
+{
+  "song_name": "Sari Raarevvaru – Naa Priyudaina Yesayyaku",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సరి రారెవ్వరు – నా ప్రియుడైన యేసయ్యకు (2)",
+      "సర్వము నెరిగిన సర్వేశ్వరునికి",
+      "సరిహద్దులు లేని పరిశుద్ధునికి (2) ||సరి||"
+    ],
+    "english": [
+      "Sari raarevvaru – Naa priyudaina Yesayyaku (2)",
+      "Sarvamu nerigina Sarveshvaruniki",
+      "Sarihaddhulu leni parishuddhuniki (2) ||Sari||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నమ్మదగిన వాడే నలు దిశల – నెమ్మది కలుగ చేయువాడే (2)",
+        "నాజీరు వ్రతము జీవితమంతా అనుసరించినాడే (2)",
+        "నాకై నిలువెల్ల సిలువలో నలిగి కరిగినాడే (2)  ||సరి||"
+      ],
+      "english": [
+        "Nammadagina vaade nalu dishala – Nemmadi kaluga cheyuvaade (2)",
+        "Naajeeru vrathamu jeevithamanthaa anusarinchinaade (2)",
+        "Naakai niluvella siluvalo naligi kariginaade (2)  ||Sari||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆరోగ్య ప్రదాతయే సంపూర్ణ స్వస్థత అనుగ్రహించువాడే (2)",
+        "ఆశ్చర్య క్రియలు జీవితమంతా చేయుచు తిరిగినాడే (2)",
+        "నాకై కొరడాల దెబ్బలను అనుభవించినాడే (2)  ||సరి||"
+      ],
+      "english": [
+        "Aarogya pradhaathaye sampoorna swasthatha anugrahinchuvaade (2)",
+        "Aashcharya kriyalu jeevithamanthaa cheyuchu thiriginaade (2)",
+        "Naakai koradaala dhebbalanu anubhavinchinaade (2)  ||Sari||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పునరుత్థానుడే జయశీలి మృతిని గెలిచి లేచినాడే (2)",
+        "శ్రేష్టమైన పునరుత్థాన బలము ఇచ్చినాడే (2)",
+        "నాకై అతి త్వరలో మహిమతో రానైయున్నవాడే (2)  ||సరి||"
+      ],
+      "english": [
+        "Punarutthaanude jayasheeli mruthini gelichi lechinaade (2)",
+        "Shreshtamaina punarutthaana balamu ichchinaade (2)",
+        "Naakai athi thvaralo mahimatho raanaiyunnavaade (2)  ||Sari||"
+      ]
+    }
+  ]
+}

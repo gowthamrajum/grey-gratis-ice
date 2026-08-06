@@ -1,0 +1,46 @@
+{
+  "song_name": "Toorpu Nundi Padamaraku",
+  "author": {
+    "Authored by": "Dr. John Wesly",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "తూర్పు నుండి పడమరకు ఎంత దూరమో",
+      "అంత దూరం పోయెనే పాప భారము",
+      "యేసు నన్ను తాకగానే తొలగిపోయెను",
+      "నా పాపము నా పాప భారము"
+    ],
+    "english": [
+      "Thoorpu nundi padamaraku entha dooramo",
+      "antha dooram poyene paapa bhaaramu",
+      "yesu nannu thaakagaane tholagipoyenu",
+      "naa paapamu naa paapa bhaaramu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రాతివంటిది నాదు పాప హృదయము",
+        "మెత్తనైన మాంసపు హృదయమాయెను",
+        "ఎంత మధురమో నా యేసు రుధిరము",
+        "నా పాప కలుషములను కడిగివేసెను",
+        "పాప ఊబి నుండి నన్ను పైకి లేపెను",
+        "పరమ జీవమార్గమును నాకు చూపెను",
+        "ఎంత రమ్యమో నా యేసు రాజ్యము",
+        "యుగయుగములు అదే నాకు పరమభాగ్యము"
+      ],
+      "english": [
+        "Raathivantidhi naadhu paapa hrudhayamu",
+        "metthanaina maamsapu hrudhayamaayenu",
+        "entha madhuramo naa yesu rudhiramu",
+        "naa paapa kalushamulanu kadigivesenu",
+        "Paapa voobi nundi nannu paiki lepenu",
+        "parama jeeva maargamunu naaku choopenu",
+        "entha ramyamo naa yesu raajyamu",
+        "yugayugamulu adhe naaku parama bhaagyamu"
+      ]
+    }
+  ]
+}

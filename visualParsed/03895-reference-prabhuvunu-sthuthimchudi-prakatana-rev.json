@@ -1,0 +1,87 @@
+{
+  "song_name": "Andaramu Prabhu ninnu koniyaadedhamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "అందరము ప్రభు నిన్ను కొనియాడెదము",
+      "మహాత్ముండవు పరిశుద్ధుడవు",
+      "బలియైతివి లోకమును రక్షించుటకు"
+    ],
+    "english": [
+      "Andaramu Prabhu ninnu koniyaadedhamu",
+      "Mahaathmundavu parishuddhudavu",
+      "Baliyaithivi lokamunu rakshinchutaku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అపారము నీ బుద్ధిజ్ఞాన మెంతయో",
+        "సామర్థ్యుడవైన నీదు శక్తి గొప్పది",
+        "సర్వలోకము నీదు వశమందున్నది"
+      ],
+      "english": [
+        "Apaaramu nee buddhignaana menthayo",
+        "Saamarthyudavaina needu shakthi goppadi",
+        "Sarvalokamu needu vashamandhunnadhi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గొప్ప కార్యములు చేయు సర్వశక్తుడా",
+        "అద్భుతములు చేయు దేవ నీవే ఘనుడవు",
+        "శత్రువులను అణచునట్టి విజయశాలివి"
+      ],
+      "english": [
+        "Goppa kaaryamulu cheyu sarvashakthudaa",
+        "Adbhuthamulu cheyu Deva neeve ghanudavu",
+        "Shathruvulanu anachunatti vijayashaalivi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బండవైన ప్రభూ మమ్ము స్థిరపరచితివి",
+        "నీదు మార్గములు యెంతో అగమ్యంబులు",
+        "కుతంత్రము లేదు నీలో నీతిమంతుడవు"
+      ],
+      "english": [
+        "Bandavaina Prabhoo mammu sthiraparachithivi",
+        "Needu maargamulu entho agamyambulu",
+        "Kuthanthramu ledu neelo neethimanthudavu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కృపాళుండవైన యేసు దయగల దేవా",
+        "దయాకనికరములు గల దీర్ఘశాంతుడవు",
+        "వేల వేల తరములలో కృపను జూపెదవు"
+      ],
+      "english": [
+        "Krupaalundavaina Yesu dayagala Devaa",
+        "Dhayaakanikaramulu gala dheerghashaanthudavu",
+        "Vela vela tharamulalo krupanu joopedhavu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "క్షమించెదవు మానవుల పాపములెల్ల",
+        "విరోధులకు ప్రేమ జూపు దయామయుడవు",
+        "పాపములను ద్వేషించెడు న్యాయవంతుడా"
+      ],
+      "english": [
+        "Kshaminchedhavu maanavula paapamulella",
+        "Virodhulaku prema joopu dhayaamayudavu",
+        "Paapamulanu dhweshinchedu nyaayavanthudaa"
+      ]
+    }
+  ]
+}

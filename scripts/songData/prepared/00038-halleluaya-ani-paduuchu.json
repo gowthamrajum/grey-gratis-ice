@@ -1,0 +1,51 @@
+{
+  "song_name": "Halleluya Ani Paaduchu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "హల్లెలుయా అని పాడుచు క్రుపామయా నీకు స్తోత్రము",
+      "పరిశుద్దుడు - ప్రేమ స్వరూపి ఈ జగానికి",
+      "స్వాగతం, సుస్వాగతం, సుస్వాగతం"
+    ],
+    "english": [
+      "Halleluya Ani Paaduchu Krupaamayaa Neeku Sthothramu",
+      "Parishuddudu - Prema Swaroopi Ee Jagaaniki",
+      "Swaagatham, Suswaagatham, Suswaagatham"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దయా కిరాటము దరింప చేసి ధరణిలో వెలసితివి",
+        "దీనులైన మాకు - నీ ప్రేమ నేర్పిటివి 2X",
+        "నీ వెలుగు ప్రకాశింప - నీ కరుణ ప్రకాశింప",
+        "నీ సత్యము చాటింప నీ వెలుగును ప్రకాశింప"
+      ],
+      "english": [
+        "Dhayaa Kiraatamu Dharimpa Chesi Dharanilo Velasithivi",
+        "Dheenulaina Maaku - Nee Prema Nerpitivi 2X",
+        "Nee Velugu Prakaashimpa - Nee Karuna Prakaashimpa",
+        "Nee Sathyamu Chaatimpa Nee Velugunu Prakaashimpa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సంతసంబున నీ జననము మా బ్రతుకంత ధన్యమాయే",
+        "చాటెను సువార్త జగతికి వేలిసేను ఆశా జ్యోతి 2X",
+        "ఈ దివిలో రాజు నీవే నా మదిలో శాంతి నీవే",
+        "కుమ్మరించు నీదు ఆత్మ 2X"
+      ],
+      "english": [
+        "Santhasambuna Nee Jananamu Maa Brathukantha Dhanyamaaye",
+        "Chaatenu Suvaartha Jagathiki Velisenu Aashaa Jyothi 2X",
+        "Ee Dhivilo Raaju Neeve Naa Madhilo Shaanthi Neeve",
+        "Kummarinchu Needhu Aathma 2X"
+      ]
+    }
+  ]
+}

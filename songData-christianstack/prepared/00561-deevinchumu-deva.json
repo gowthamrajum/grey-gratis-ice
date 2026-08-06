@@ -1,0 +1,53 @@
+{
+  "song_name": "Deevinchumu Deva",
+  "author": {
+    "Authored by": "Pastor David Paluri",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ ఆశీర్వాదం పొందిన కుటుంబం",
+      "నీ సన్నిధిలోనే నిత్యము స్థిరపరచుము",
+      "నీ చిత్తము నెరవేర్చుటయే నా జీవితం",
+      "నీ పాదముల చెంత చేసెద అంకితం"
+    ],
+    "english": [
+      "Nee aasheervaadham pondhina kutumbam",
+      "nee sannidhilone nithyamu sthiraparachumu",
+      "nee chittamu neraverchutaye naa jeevitham",
+      "nee paadhamula chentha chesedha ankitham"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దీవించుము దేవా మా కుటుంబమును",
+        "నీ దీవెన తరతరములకుండును",
+        "దీవించుము దేవా మా పిల్లలను",
+        "నీ దీవెన తరతరములకుండును"
+      ],
+      "english": [
+        "Deevinchumu devaa maa kutumbamunu",
+        "nee deevena tharatharamulakundunu",
+        "deevinchumu deavaa maa pillalanu",
+        "nee deevena tharatharamulakundunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దీవించుము దేవా మా కుటుంబమును",
+        "నీ దీవెన తరతరములకుండును",
+        "దీవించుము దేవా మా బిడ్డలను",
+        "నీ దీవెన తరతరములకుండును"
+      ],
+      "english": [
+        "Deevinchumu devaa maa kutumbamunu",
+        "nee deevena tharatharamulakundunu",
+        "deevinchumu devaa maa biddalanu",
+        "nee deevena tharatharamulakundunu"
+      ]
+    }
+  ]
+}

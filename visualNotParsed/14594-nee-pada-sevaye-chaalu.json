@@ -1,0 +1,71 @@
+{
+  "song_name": "Nee pada sevaye chaalu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ పద సేవయే చాలు",
+      "యేసు నాకదియే పది వేలు",
+      "నీ పద సేవయే చాలు",
+      "నీ పద జ్ఞానము నాకిలా క్షేమము",
+      "నీ పద గానము నాకిలా ప్రాణము (2) ||నీ పద||"
+    ],
+    "english": [
+      "Nee pada sevaye chaalu",
+      "Yesu naakadhiye padi velu",
+      "Nee pada sevaye chaalu",
+      "Nee pada jnaanamu naakilaa kshemamu",
+      "Nee pada gaanamu naakilaa praanamu (2) ||Nee pada||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ నామమునే స్తుతియింపగను",
+        "నీ వాక్యమునే ధ్యానింపగను (2)",
+        "నీ రాజ్యమునే ప్రకటింపగను (2)",
+        "దీవెన నాకిలా దయచేయుమా  ||నీ||"
+      ],
+      "english": [
+        "Nee naamamune sthuthiyimpaganu",
+        "Nee vaakyamune dhyaanimpaganu (2)",
+        "Nee raajyamune prakatimpaganu (2)",
+        "Deevena naakilaa dayacheyumaa  ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ దరినే నివసింపగను",
+        "జీవమునే సాధింపగను (2)",
+        "సాతానును నే నెదిరింపగాను (2)",
+        "దీవెన నాకిలా దయచేయుమా  ||నీ||"
+      ],
+      "english": [
+        "Nee darine nivasimpaganu",
+        "Jeevamune saadhimpaganu (2)",
+        "Saathaanunu ne nedhirimpagaanu (2)",
+        "Deevena naakilaa dayacheyumaa  ||Nee||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ ప్రేమను నే చూపింపగను",
+        "నీ త్యాగమునే నొనరింపగను (2)",
+        "నీ సహనమునే ధరియింపగను (2)",
+        "దీవెన నాకిలా దయచేయుమా  ||నీ||"
+      ],
+      "english": [
+        "Nee premanu ne choopimpaganu",
+        "Nee thyaagamune nonarimpaganu (2)",
+        "Nee sahanamune dhariyimpaganu (2)",
+        "Deevena naakilaa dayacheyumaa  ||Nee||"
+      ]
+    }
+  ]
+}

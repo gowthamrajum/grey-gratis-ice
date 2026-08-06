@@ -1,0 +1,77 @@
+{
+  "song_name": "Yese bhagavannaamam bhajimpanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "పి  రవివర్మ"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసే, భగవన్నామం భజింపను యేసే, భగవన్నామం భజింప నిరంతర",
+      "||మేసే||"
+    ],
+    "english": [
+      "Yese, bhagavannaamam bhajimpanu Yese, bhagavannaamam bhajimpa niranthara",
+      "||Yese||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసే సుగుణం యేసే శాంతం యేసే మనశ్శాంతం యేసే",
+        "మనశ్శాంతి భజింపను  ||యేసే||"
+      ],
+      "english": [
+        "Yese sugunam Yese shaantham Yese manashshaantham Yese",
+        "Manashshaanthi bhajimpanu  ||Yese||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసే ప్రేమం యేసే క్షేమం యేసే పరంధామం యేసే పరంధామ",
+        "భజింపను  ||యేసే||"
+      ],
+      "english": [
+        "Yese premam Yese kshemam Yese parandhaamam Yese parandhaama",
+        "Bhajimpanu  ||Yese||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యేసే తెరవు యేసే పరువు యేసే సద్గురువు యేసే సద్గురువు",
+        "భజింపను  ||యేసే||"
+      ],
+      "english": [
+        "Yese theravu Yese paruvu Yese sadhguruvu Yese sadhguruvu",
+        "Bhajimpanu  ||Yese||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యేసే నిత్యం యేసే సత్యం యేసే సుఖదాయం యేసే సుఖదాయ",
+        "భజింపను  ||యేసే||"
+      ],
+      "english": [
+        "Yese nithyam Yese sathyam Yese sukhadhaayam Yese sukhadhaaya",
+        "Bhajimpanu  ||Yese||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యేసే జీవం యేసే జ్ఞానం యేసే జగదీశం యేసే జగదీశం",
+        "భజింపను  ||యేసే||"
+      ],
+      "english": [
+        "Yese jeevam Yese gnaanam Yese jagadheesham Yese jagadheesham",
+        "Bhajimpanu  ||Yese||"
+      ]
+    }
+  ]
+}

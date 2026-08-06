@@ -1,0 +1,48 @@
+{
+  "song_name": "Samruddhi Krupa",
+  "author": {
+    "Authored by": "Pastor Yesaiah Bonam",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కృప వెంబడి కృప నిచ్చిన దేవా",
+      "సమృద్ధి కృపనిచ్చితివే"
+    ],
+    "english": [
+      "krupa vembadi krupa nichina devaa",
+      "samruddhi krupanichithive"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ కృప సమృద్ధి కృప"
+      ],
+      "english": [
+        "Nee krupa samruddhi krupa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కృప వెంబడి కృప నిచ్చిన దేవా",
+        "సమృద్ధి కృపనిచ్చితివే"
+      ],
+      "english": [
+        "krupa vembadi krupa nichina devaa",
+        "samruddhi krupanichithive"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ కృప సమృద్ధి కృప"
+      ],
+      "english": [
+        "Nee krupa samruddhi krupa"
+      ]
+    }
+  ]
+}

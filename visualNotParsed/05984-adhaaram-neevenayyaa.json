@@ -1,0 +1,61 @@
+{
+  "song_name": "Aadhaaram neevenayya",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆధారం నీవేనయ్యా ఆధారం నీవేనయ్యా",
+      "కాలం మారినా కష్టాలు తీరినా కారణం నీవేనయ్యా",
+      "యేసయ్యా కారణం నీవేనయ్యా"
+    ],
+    "english": [
+      "Aadhaaram neevenayya aadhaaram neevenayya",
+      "Kaalam maarinaa kashtaalu theerinaa kaaranam neevenayya",
+      "Yesayya kaaranam neevenayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లోకం లో ఎన్నో జయాలు చూసాను నేనింత కాలం",
+        "అయినను ఎందుకో నెమ్మది లేదు (2)",
+        "సమధానం కొదువైనది యేసయ్యా (2)"
+      ],
+      "english": [
+        "Lokam lo enno jayaalu choosaanu nenintha kaalam",
+        "Ayinanu enduko nemmadi ledu (2)",
+        "Samaadhaanam koduvainadi Yesayya (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఐశ్వర్యం కొదువేమి లేదు కుటుంభములో కలతేమి లేదు (2)",
+        "అయినను ఎందుకో నెమ్మది లేదు (2)",
+        "సమధానం కొదువైనది యేసయ్యా (2)"
+      ],
+      "english": [
+        "Aishwaryam koduvemi ledu kutumbamulo kalathemi ledu (2)",
+        "Ayinanu enduko nemmadi ledu (2)",
+        "Samaadhaanam koduvainadi Yesayya (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ సేవకునిగా జీవింప హృదయంలో ఉన్నకోర్కెలను (2)",
+        "హృదయము నిచ్చావు నెమ్మది నొందా (2)",
+        "సాక్షిగా జీవింతును హల్లేలూయ సాక్షిగా జీవింతును"
+      ],
+      "english": [
+        "Nee sevakunigaa jeevimpa hrudayamlo unna korkelanu (2)",
+        "Hrudayamu nichchaavu nemmadi nondhaa (2)",
+        "Saakshigaa jeevinthunu hallelooya saakshigaa jeevinthunu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "song_name": "Kalyaanam kamaneeyam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "కల్యాణం కమనీయం",
+      "ఈ సమయం అతి మధురం (2)",
+      "దేవా రావయ్యా నీ దీవెనలీవయ్యా (2) ||కల్యాణం||"
+    ],
+    "english": [
+      "Kalyaanam kamaneeyam",
+      "ee samayam athi madhuram (2)",
+      "Deva raavayyaa nee dheevenaleevayyaa (2) ||Kalyaanam||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏదెను వనమున యెహోవ దేవా",
+        "మొదటి వివాహము చేసితివే (2)",
+        "ఈ శుభ దినమున",
+        "నవ దంపతులను (2)",
+        "నీ దీవెనలతో నింపుమయ్యా ||దేవా రావయ్యా||"
+      ],
+      "english": [
+        "Edhenu vanamuna Yehova Deva",
+        "modati vivaahamu chesithive (2)",
+        "Ee shubha dinamuna",
+        "nava dhampathulanu (2)",
+        "nee deevenalatho nimpumayyaa ||Deva raavayyaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కానా విందులో ఆక్కరనెరిగి",
+        "నీళ్ళను రసముగ మార్చితివే (2)",
+        "కష్టములలో నీవే",
+        "అండగా నుండి (2)",
+        "కొరతలు తీర్చి నడుపుమయ్యా ||దేవా రావయ్యా||"
+      ],
+      "english": [
+        "Kaanaa vindulo akkaranerigi",
+        "neellanu rasamuga maarchithive (2)",
+        "kashtamulalo neeve",
+        "andagaa nundi (2)",
+        "koratalu theerchi nadupumayyaa ||Deva raavayyaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బుద్ధియు జ్ఞానము సంపదలన్నియు",
+        "గుప్తమైయున్నవి నీయందే (2)",
+        "ఇహ పర సుఖములు",
+        "మెండుగ నొసగి (2)",
+        "ఇల వర్ధిల్లగ చేయుమయ్యా ||దేవా రావయ్యా||"
+      ],
+      "english": [
+        "Budhdhiyu gnaanamu sampadhalanniyu",
+        "gupthamaiyunnavi neeyande (2)",
+        "iha para sukhamulu",
+        "menduga nosagi (2)",
+        "ila vardhillaga cheyumayyaa ||Deva raavayyaa||"
+      ]
+    }
+  ]
+}

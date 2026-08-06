@@ -1,0 +1,71 @@
+{
+  "song_name": "Maate chaalayyaa Yesu naaku",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మాటే చాలయ్యా యేసూ నాకు",
+      "నీ మాటలోనే జీవం ఉన్నది (2)",
+      "నీ మాట వల్లె జరుగును అద్భుతాలు",
+      "నీ మాట వల్లె జరుగును ఆశ్చర్యాలు (2)",
+      "నీ మాటకు సమస్తం సాధ్యమే (2) ||మాటే||"
+    ],
+    "english": [
+      "Maate chaalayyaa Yesoo naaku",
+      "Nee maatalone jeevam unnadi (2)",
+      "Nee maata valle jarugunu adbhuthaalu",
+      "Nee maata valle jarugunu aashcharyaalu (2)",
+      "Nee maataku samastham saadhyame (2) ||Maate||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సృష్టికర్తవు నీవే – సమస్తము సృజియించితివి",
+        "సృష్టంతయ నీ మాటకు లోబడుచున్నది (2)",
+        "నీ మాటకు శక్తి ఉన్నదయ్యా",
+        "నీ మాటకు సమస్తం లోబడును (2) ||నీ మాట వల్లె||"
+      ],
+      "english": [
+        "Srushtikarthavu neeve – Samasthamu srujiyinchithivi",
+        "Srushtanthaya nee maataku lobaduchunnadhi (2)",
+        "Nee maataku shakthi unnadayyaa",
+        "Nee maataku samastham lobadunu (2) ||Nee maata valle||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరమ వైద్యుడవు నీవే – స్వస్థపరచు దేవుడవు",
+        "దయ్యములన్ని నీ మాటకు లోబడి వొణుకును (2)",
+        "నీ మాటలో స్వస్థత ఉందయ్యా",
+        "నీ మాటతోనే విడుదల కలుగును (2) ||నీ మాట వల్లె||"
+      ],
+      "english": [
+        "Parama vaidyudavu neeve – Swasthaparachu Devudavu",
+        "Dhayyamulanni nee maataku lobadi vonukunu (2)",
+        "Nee maatalo swasthatha undayyaa",
+        "Nee maatathone vidudala kalugunu (2) ||Nee maata valle||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "జీవాధిపతి నీవే – జీవించు దేవుడవు",
+        "నీ జీవము మమ్ములను బ్రతికించుచున్నది (2)",
+        "నీ మాటలో జీవం ఉందయ్యా",
+        "నీ మాటలే మాకు జీవాహారాము (2) ||నీ మాట వల్లె||"
+      ],
+      "english": [
+        "Jeevaadhipathi neeve – Jeevinchu Devudavu",
+        "Nee jeevamu mammulanu brathikinchuchunnadi (2)",
+        "Nee maatalo jeevam undayyaa",
+        "Nee maatale maaku jeevaahaaraamu (2) ||Nee maata valle||"
+      ]
+    }
+  ]
+}

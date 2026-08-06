@@ -1,0 +1,40 @@
+{
+  "song_name": "యేసు నన్నుఁ బ్రేమించి దాసు నన",
+  "author": {
+    "Authored by": "",
+    "రచన": "అన్న చార్ట్లెట్ హర్నర్"
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు నన్నుఁ బ్రేమించి దాసు నన్నుఁ బిల్చెను ఈ సత్యంబు బైబిలు తేటగాను దెల్పెను. ||యేసు ప్రేమించును దాసుల నందఱిన్ ఆ స్వామి వేదమే ఈ సత్య మిచ్చెను ||"
+      ],
+      "english": [
+        "yaesu nannuAO braemiMchi dhaasu nannuAO bilchenu ee sathyMbu baibilu thaetagaanu dhelpenu. ||yaesu praemiMchunu dhaasula nMdhaRin aa svaami vaedhamae ee sathya michchenu ||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బాలురమౌ మమ్మును బాగుగాఁ ప్రేమించును శక్తిలేనివారము బలవంతుఁ డేసుఁడు."
+      ],
+      "english": [
+        "baaluramau mammunu baagugaaAO praemiMchunu shakthilaenivaaramu balavMthuAO daesuAOdu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బుద్ధిలేని వారికిఁ తాను బోధపర్చును శుద్ధిలేని వారిని శుద్ధిఁ జేసి ప్రోచును."
+      ],
+      "english": [
+        "budhDhilaeni vaarikiAO thaanu boaDhaparchunu shudhDhilaeni vaarini shudhDhiAO jaesi proachunu."
+      ]
+    }
+  ]
+}

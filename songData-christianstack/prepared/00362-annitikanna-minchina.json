@@ -1,0 +1,44 @@
+{
+  "song_name": "Annitikanna Minchina",
+  "author": {
+    "Authored by": "Pastor Solomon Raj",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "అన్నిటికన్నా మించిన ప్రేమే",
+      "నీ సన్నిధిలో నిలిపినది",
+      "అమ్మ ప్రేమ కన్నా కమ్మని ప్రేమా",
+      "ఆగాధ జలములు ఆర్పజాలని ప్రేమా",
+      "అన్నిటికన్నా మించిన ప్రేమే",
+      "నీ సన్నిధిలో నిలిపినది యేసయ్యా…",
+      "నీ సన్నిధిలో నిలిపినది"
+    ],
+    "english": [
+      "Annitikanna minchina preme",
+      "ni sannidhilo nilipinadi",
+      "amma prema kanna kammani prema",
+      "agadha jalamulu arpajalani prema",
+      "annitikanna minchina preme",
+      "ni sannidhilo nilipinadi yesayya…",
+      "ni sannidhilo nilipinadi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సా.కీ. :",
+        "అన్నిటికన్నా మించిన ప్రేమే",
+        "నీ సన్నిధిలో నిలిపినది యేసయ్యా…",
+        "నీ సన్నిధిలో నిలిపినది"
+      ],
+      "english": [
+        "Saaki:",
+        "Annitikanna minchina preme",
+        "ni sannidhilo nilipinadi yesayya…",
+        "ni sannidhilo nilipinadi"
+      ]
+    }
+  ]
+}

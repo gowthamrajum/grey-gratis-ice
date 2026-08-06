@@ -1,0 +1,84 @@
+{
+  "song_name": "Naa Hrudayamaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా హృదయమా నా ప్రాణమా",
+      "నా శ్వాసతో అనుబంధమా",
+      "నా కొరకే నరరూపివై నా పాప భారము మోసి",
+      "నా కొరకు బలియైనది నీవే నా యేసయ్యా"
+    ],
+    "english": [
+      "Naa hrudayamaa, naa praanamaa",
+      "Naa shwaasatho anubandhamaa",
+      "Naa korake nararoopivai, naa paapa bhaaramu mosi",
+      "Naa koraku baliyainadi neeve naa Yesayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చిందిన నీ రక్తం – పారెను సెలయేరై",
+        "చీల్చ బడిన దేహం – ఓర్చెను ఆ భారం",
+        "శిక్షకుపాత్రుడనైన – నను రక్షించుటకా",
+        "చిత్రవధ చేసిన – మౌనిగ నిలిచినది",
+        "ఎవరు – నాపై – చూపని ప్రేమే కదా"
+      ],
+      "english": [
+        "Chindina nee raktham – paarenu selayerai",
+        "Cheelchabadina deham – orchenu aa bhaaram",
+        "Shikshaku paathrudanaina – nanu rakshinchutakai",
+        "Chithravadha chesinaa mounigaa nilichinadi",
+        "evaru naapai choopani preme kadhaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రేమామయా – తేజోమయా…",
+        "నీ ప్రేమ ఎంతో బలము, నీ త్యాగమెంతో ఘనము",
+        "నీ ప్రేమకు నే రుణపడి ఉన్నాను నా యేసయ్యా"
+      ],
+      "english": [
+        "Premaamaya thejomaya",
+        "Nee prema entho balamu, nee thyaagamentho ghanamu",
+        "Nee premaku ne runapadi unnaanu naa Yesayyaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "చేదు చిరకనిచ్చి – నిను అవమానించిరిగా",
+        "స్వార్థ పరుల అహమే – గెలిచిన ఆ వేళ",
+        "తులువలనే క్షమించెను – నీ దైవత్వము",
+        "తుది శ్వాస వరకు ప్రేమించెను నీ దాతృత్వము",
+        "నీకే నీకే అది సాధ్యమైనది"
+      ],
+      "english": [
+        "Chedhu chirakanicchi – ninnu avamaanishirigaa",
+        "Swaartha parula ahame – gelichina aa vela",
+        "Thuluvalane kshamichenu – nee daivathvamu",
+        "Thudi shwaasa varaku premichenu nee daathruthvamu",
+        "neeke neeke adhi saadhyamainadhi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ప్రేమామయా – తేజోమయా",
+        "నీ ప్రేమ ఎంతో బలము",
+        "నీ త్యాగమెంతో ఘనము",
+        "నే వివరించలేనయ్యా నా యేసయ్యా…"
+      ],
+      "english": [
+        "Premaamaya thejomaya",
+        "Nee prema entho balamu, nee thyaagamentho ghanamu",
+        "ne vivarinchalenayya na Yesayya"
+      ]
+    }
+  ]
+}

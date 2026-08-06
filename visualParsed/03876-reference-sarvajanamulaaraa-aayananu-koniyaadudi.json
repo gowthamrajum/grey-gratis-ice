@@ -1,0 +1,29 @@
+{
+  "song_name": "Sarvajanulaaraa Devuni koniyaadudi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సర్వజనులారా - దేవుని కొనియాడుడి",
+        "అన్య జనులారా - దేవుని స్తుతించుడి",
+        "ఆయా కృప - మన యెడల నత్యధికము",
+        "ఆయన విశ్వాస్యత - నిత్యముండు నల్లెలూయ"
+      ],
+      "english": [
+        "Sarvajanulaaraa - Devuni koniyaadudi",
+        "Anya janulaaraa - Devuni sthuthinchudi",
+        "Aayana krupa - mana edala nathyadhikamu",
+        "Aayana vishwaasyatha - nithyamundu nallelooya"
+      ]
+    }
+  ]
+}

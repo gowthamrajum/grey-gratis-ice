@@ -1,0 +1,52 @@
+{
+  "song_name": "Nee Samaadhaanamu Dhaasuni Kippudu",
+  "author": {
+    "Authored by": "",
+    "రచన": "నమూయేలు పాక్యవాధము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ సమాధానము దాసుని కిప్పుడు నాధా దేవా యిచ్చి",
+      "నీ మాటచొప్పున పోనిచ్చుచున్నావు నాధా దేవా"
+    ],
+    "english": [
+      "Nee Samaadhaanamu Dhaasuni Kippudu Naadhaa Dhaevaa Yichchi",
+      "Nee Maatachoppuna Poanichchuchunnaavu Naadhaa Dhaevaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అన్యులకు నిన్ను బయలు పరచెడి వెలుగుఁగాను",
+        "నీకు నణఁగు ప్రజలైన యిశ్రాయేల్ వారికి మహిమ గాను"
+      ],
+      "english": [
+        "Anyulaku Ninnu Bayalu Parachedi Velugugaanu",
+        "Neeku Nanagu Prajalaina Yishraayael Vaariki Mahima Gaanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నరులకై నీవు ఏ ర్పరచిన రక్షణన్ నాధా దేవా",
+        "యిదిగో నాకనులు చూచి యా నందించుచున్నవి నాధా దేవా"
+      ],
+      "english": [
+        "Narulakai Neevu Ae Rparachina Rakshanan Naadhaa Dhaevaa",
+        "Yidhigoa Naakanulu Choochi Yaa Nandhinchuchunnavi Naadhaa Dhaevaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తండ్రికి సుతునికిఁ బరిశుద్ధాత్మకును గలుగుగాక మహిమ",
+        "తరుగక సదాకాలము యుగయుగములకును గలుగు నామేన్"
+      ],
+      "english": [
+        "Thandriki Suthuniki Barishuddhaathmakunu Galugugaaka Mahima",
+        "Tharugaka Sadhaakaalamu Yugayugamulakunu Galugu Naamaen"
+      ]
+    }
+  ]
+}

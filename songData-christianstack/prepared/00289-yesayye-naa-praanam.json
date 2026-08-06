@@ -1,0 +1,88 @@
+{
+  "song_name": "Yesayye Naa Praanam",
+  "author": {
+    "Authored by": "Hosanna Ministries featuring Pastor Ramesh",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసయ్యా నా ప్రాణమా – ఘనమైన స్తుతిగానమా",
+      "అద్భుతమైన నీ ఆదరణే – ఆశ్రయమైన నీ సంరక్షణయే",
+      "నను నీడగా వెంటాడెను – నే ఆలయక నడిపించెను",
+      "నా జీవమా – నా స్తోత్రమా – నీకే ఆరాధన",
+      "నా స్నేహమా – సంక్షేమమా – నీవే ఆరాధ్యుడా"
+    ],
+    "english": [
+      "Yesayya naa praanamaa – ghanamaina stutigaanamaa",
+      "adbhutamaina nee aadarane – aashrayamaina nee samrakshanaye",
+      "nanu needaga ventaadenu – nee aalayaka nadipinchenu",
+      "naa jeevamaa – naa stotramaa – neeke aaraadhana",
+      "naa snehamaa – sankshemamaa – neeve aaraadhyudaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చిరకాలము నాతో ఉంటానని – క్షణమైనా వీడిపోలేదని",
+        "నీలో ననుచేర్చుకున్నావని – తండ్రితో ఏకమై ఉన్నామని",
+        "ఆనందగానము నే పాడనా",
+        "ఏదైనా నాకున్న సంతోషము – నీతోనే కలిగున్న అనుబంధమే",
+        "సృజనాత్మకమైన నీ కృప చాలు – నే బ్రతికున్నది నీ కోసమే"
+      ],
+      "english": [
+        "Chirakaalamu naatho untanani – kshanamaina veedipoleni",
+        "neelo nanucharachukunnavani – tandritho ekamai unnanani",
+        "aanandagaanamu ne paadanaa",
+        "edainaa naakunna santoshammu – neetone kaligunna anubandhame",
+        "srujanaatmakamaina nee krupa chaalu – nee bratikunnadi nee kosame"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జీవజలముగా నిలిచావని – జలనిధిగా నాలోఉన్నావని",
+        "జనులకు దీవెనగా మార్చావని – జగతిలో సాక్షిగా ఉంచావని",
+        "ఉత్సాహగానము నే పాడనా",
+        "ఏదైనా నీ కొరకు చేసేందుకు – ఇచ్చితివి బలమైన నీ శక్తిని",
+        "ఇదియే చాలును నా జీవితాంతము – ఇల నాకన్నియు నీవేకదా"
+      ],
+      "english": [
+        "Jeevajalamuga nilichavani – jalanidhiga naloonnavani",
+        "janulaku dheevenaga maarchavani – jagathilo saakshiga unchavani",
+        "utsaahagaanamu ne paadanaa",
+        "edainaa nee koraku chesedhuku – icchitivi balamaina nee shaktini",
+        "idiye chaalunu naa jeevithaantamu – ila naakanniyu nevekadaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మధురము కాదా నీ నామధ్యానం – మరుపురానిది నీ ప్రేమమధురం",
+        "మేలుచేయుచు ననునడుపువైనం – క్షేమముగా నా ఈలోకపయనం",
+        "స్తోత్రగీతముగా నే పాడనా – నిజమైన అనురాగం చూపావయ్యా –",
+        "స్థిరమైన అనుబంధం నీదేనయ్యా",
+        "స్తుతుల సింహాసనం నీ కొరకేగా – ఆసీనుడవై ననుపాలించవా"
+      ],
+      "english": [
+        "Madhuramu kaadaa nee naamadhyaanam – marupuraanidi nee premamadhuram",
+        "melucheyuchu nanunadupuvainam – kshemmamuga naa eeloka payanam",
+        "stotragitamuga ne paadanaa",
+        "nijamaina anuraagam choopavayya –",
+        "sthiramaina anubandham needenayya",
+        "stutula simhaasanam nee korakega – aaseenudavai nanu paalinchavaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "స్తుతిపాత్రుడా – స్తోత్రార్హుడా నీకే ఆరాధన",
+        "ఆనందమే పరమానందమే – నీలో నా యేసయ్యా"
+      ],
+      "english": [
+        "Stutipatrudaa – stotrarhudaa neeke aaraadhana",
+        "aanandame paramaanandame – neelo naa Yesayya"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "song_name": "నరకమనునది నిరంతముండునయో ఆ ఘోర",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నరకమనునది నిరంతముండునయో ఆ ఘోరనరకము నందు పాపులు బాథపడుదురయో మరియు నగ్ని పురుగులందున కొరుకు చుండును తరుగులేకను ధరణికాదిది దరియుకాదు మరణమెదకిన దొరకదందున ||న||"
+      ],
+      "english": [
+        "narakamanunadhi nirMthamuMdunayoa aa ghoaranarakamu nMdhu paapulu baaThapadudhurayoa mariyu nagni purugulMdhuna koruku chuMdunu tharugulaekanu DharaNikaadhidhi dhariyukaadhu maraNamedhakina dhorakadhMdhuna ||na||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గప్పు గప్పున రగులుచుండునయ్యో ఆ ఘోరనరకము నిప్పులెగయుచు పొంగుచుండునయ్యో మబ్బువలె పొగ పైకిలేచును అబ్బా! అబ్బాని యేడ్చుచుందురు బొబ్బలిడు దురు అడ్డమొచ్చెడి అబ్బలెవరు కానరందున ||న||"
+      ],
+      "english": [
+        "gappu gappuna raguluchuMdunayyoa aa ghoaranarakamu nippulegayuchu poMguchuMdunayyoa mabbuvale poga paikilaechunu abbaa! abbaani yaedchuchuMdhuru bobbalidu dhuru addamochchedi abbalevaru kaanarMdhuna ||na||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నోరులెత్తి కొట్టుకొందురయ్యో ప్రభు యేసు క్రీస్తును నమ్మనందుకు నొచ్చుకొందురయ్యో పురుగు చావదు అగ్ని ఆరదు కొరుకుచుందురు పండ్లు పట పట తిరిగితిరిగి చూచుచుందురు పరుగులెత్తక యేడ్చు చుందురు ||న||"
+      ],
+      "english": [
+        "noaruleththi kottukoMdhurayyoa prabhu yaesu kreesthunu nammanMdhuku nochchukoMdhurayyoa purugu chaavadhu agni aaradhu korukuchuMdhuru pMdlu pata pata thirigithirigi choochuchuMdhuru paruguleththaka yaedchu chuMdhuru ||na||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "song_name": "Yehoava Sannidhini Nee Sthoathragaanamuthoa",
+  "author": {
+    "Authored by": "",
+    "రచన": "గుంజా వెంకటరత్నము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవ సన్నిధిని నీ స్తోత్రగానముతో",
+      "మహోపకారునకు మానుగ నర్పణ సమర్పించుఁడి"
+    ],
+    "english": [
+      "Yehoava Sannidhini Nee Sthoathragaanamuthoa",
+      "Mahoapakaarunaku Maanuga Narpana Samarpinchudi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రభు వడుగు నర్పణలు ప్రేమ కృతజ్ఞతలు",
+        "అభయ ప్రధానములు విభునకు నియ్యుఁడు విరివిగను"
+      ],
+      "english": [
+        "Prabhu Vadugu Narpanalu Praema Kruthagnathalu",
+        "Abhaya Pradhaanamulu Vibhunaku Niyyudu Viriviganu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రిక్తహస్తములతో రావలదు సన్నిధికి",
+        "భక్తవత్సలునకు శక్తికొలఁది మీ రర్పించుఁడి"
+      ],
+      "english": [
+        "Rikthahasthamulathoa Raavaladhu Sannidhiki",
+        "Bhakthavathsalunaku Shakthikoladhi Mee Rarpinchudi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "శృంగారాలయ మీలలోఁ పొంగారఁ గట్టుటకు",
+        "బంగారు వెండి యును బాగుగ నియ్యుఁడి ప్రభుపేర"
+      ],
+      "english": [
+        "Shrungaaraalaya Meelaloa Pongaara Gattutaku",
+        "Bangaaru Vendi Yunu Baaguga Niyyudi Prabhupaera"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "వరుమానములచేత వాంఛింప వలదండి",
+        "గురు నాజ్ఞ చొప్పునను విరివిగ హృదయము లర్పించుఁడి"
+      ],
+      "english": [
+        "Varumaanamulachaetha Vaanchhimpa Valadandi",
+        "Guru Naagna Choppunanu Viriviga Hrudhayamu Larpinchudi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యెహోవ జనులారా యియ్యుండి మనసార",
+        "యెహోవ యిచ్చి నది యేసున కర్పణ చెల్లింతము"
+      ],
+      "english": [
+        "Yehoava Janulaaraa Yiyyundi Manasaara",
+        "Yehoava Yichchi Nadhi Yaesuna Karpana Chellinthamu"
+      ]
+    }
+  ]
+}

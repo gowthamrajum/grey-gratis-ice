@@ -1,0 +1,60 @@
+{
+  "song_name": "Yehovaa Raaphaa swasthaparachu Devaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Jyothi Raju"
+    ],
+    "రచన": [
+      "బ్రదర్ జ్యోతి రాజు"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేహోవా రాఫా స్వస్థపరచు దేవా",
+      "మము కరుణించుమా (కరుణించుమా)",
+      "స్వస్థపరచుమా (స్వస్థపరచుమా)",
+      "దృష్టించుమయ్యా ఈ మృత్యుఘోషను",
+      "క్షమియించుమయ్యా ఈ దేశ దోషముల్"
+    ],
+    "english": [
+      "Yehovaa Raaphaa swasthaparachu Devaa",
+      "Mamu karuninchumaa (karuninchumaa)",
+      "Swasthaparachumaa (swasthaparachumaa)",
+      "Drushtinchumayyaa ee mruthyughoshanu",
+      "Kshamiyinchumayyaa ee desha dhoshamul"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవే మా దిక్కని ఎవరి వలన కాదని",
+        "నీవైపే చూచుచున్నామయ్యా"
+      ],
+      "english": [
+        "Neeve maa dhikkani evari valana kaadani",
+        "Neevaipe choochuchunnaamayyaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "భయముతో భీతిల్లిన జనము",
+        "కన్నీటిపర్యంతమవుచుండగా",
+        "భయపడకుమని మాట ఇచ్చినవాడా",
+        "జ్ఞానులు అధికారులు ధనవంతులు",
+        "నిస్సహాయ స్థితిలో పడియుండగా",
+        "ఏమి చేయుటకును మాకు తోచక"
+      ],
+      "english": [
+        "Bhayamutho bheethillina janamu",
+        "Kanneetiparyanthamavuchundagaa",
+        "Bhayapadakumani maata ichchinavaadaa",
+        "Gnaanulu adhikaarulu dhanavanthulu",
+        "Nissahaaya sthithilo padiyundagaa",
+        "Emi cheyutakunu maaku thochaka"
+      ]
+    }
+  ]
+}

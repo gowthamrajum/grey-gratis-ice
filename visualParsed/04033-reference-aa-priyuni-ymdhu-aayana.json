@@ -1,0 +1,89 @@
+{
+  "song_name": "Naa priyudaa - Paapavimochakudaa - Prabhuyesu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "1:7",
+      "నా ప్రియుడా - పాపవిమోచకుడా - ప్రభుయేసు (2)",
+      "నా ప్రాణమును కాపాడి - నూతన బలమొసగెను (2)",
+      "స్తుతి గీతములతో - ఆరాధించెదను - ఎల్లప్పుడు (2)"
+    ],
+    "english": [
+      "1:7",
+      "Naa priyudaa - Paapavimochakudaa - Prabhuyesu (2)",
+      "Naa praanamunu kaapaadi - Noothana balamosagenu (2)",
+      "Sthuthi geethamulatho - Aaraadhinchedanu - Ellappudu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసుని రక్తమందు - ముక్తి లభించెను - స్తుతించెదన్",
+        "యేసుని నిత్య జీవము - పొందెదను నిశ్చయం",
+        "యేసునకె నా స్తుతి సుమములు - సుమధురం"
+      ],
+      "english": [
+        "Yesuni rakthamandu - Mukthi labhinchenu - Sthuthinchedan",
+        "Yesuni nithya jeevamu - Pondedanu nishchayam",
+        "Yesunake naa sthuthi sumamulu - Sumadhuram"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తల్లి గర్భమునె ఎరిగి నన్ను - ప్రేమించెన్",
+        "తల్లిని మించిన ప్రేమ - జూపిన మరువని ప్రేమ",
+        "తల్లి మరిచిన మరువ డేసు - నిరతము"
+      ],
+      "english": [
+        "Thalli garbhamune erigi nannu - Preminchen",
+        "Thallini minchina prema - Joopina maruvani prema",
+        "Thalli marichina maruvadesu - Nirathamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సూర్యకాంత సుగంధ సునీల - సువర్ణము",
+        "సూర్యతేజస్సు మించిన - ఆ వెల్గు రాజ్యములో",
+        "సూర్యునివలె తేజరిల్లెదను - నా యేసుతో"
+      ],
+      "english": [
+        "Sooryakaantha sugandha suneela - Suvarnamu",
+        "Sooryathejassu minchina - Aa velgu raajyamulo",
+        "Sooryunivale thejarilledhanu - Naa Yesutho"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "బూరశబ్దముతో నీవరుదెంచు - దూతలతో",
+        "నాకై గాయపడిన - బంగారు నీ మోమున్",
+        "రక్షణతో నిరీక్షించెదన్ - వీక్షింపన్"
+      ],
+      "english": [
+        "Boorashabdhamutho neevarudhenchu - Doothalatho",
+        "Naakai gaayapadina - Bangaaru nee momun",
+        "Rakshanatho nireekshinchedhan - Veekshimpan"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "సూర్యచంద్ర ఆకాశం దాటి - నీ చెంతకు",
+        "జీవవృక్షమున చెంత జీవనదిని చేరి",
+        "హల్లెలూయ హల్లెలూయ - ఎల్లప్పుడు"
+      ],
+      "english": [
+        "Sooryachandhra aakaasham daati - Nee chenthaku",
+        "Jeevavrukshamuna chentha jeevanadhini cheri",
+        "Hallelooya hallelooya - Ellappudu"
+      ]
+    }
+  ]
+}

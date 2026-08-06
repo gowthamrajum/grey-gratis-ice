@@ -1,0 +1,66 @@
+{
+  "song_name": "Sharanu jochchithi Yesunaadhuda",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "మిక్కిలి సమూయేలు"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "శరణుఁ జొచ్చితి యేసునాధుఁడ శక్తిహీనతఁ గల్గె నా దరణ మిమ్మిల",
+      "నెవ్వఁ బొందితి దవ్వుసేయక కావవే ||శరణు||"
+    ],
+    "english": [
+      "Sharanu jochchithi Yesunaadhuda shakthiheenatha kalge naa dharana mimmila",
+      "nevva bondithi dhavvuseyaka kaavave ||Sharanu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కరుణఁ జూడుము కన్న తండ్రివి కల్మషం బెడఁబాపవే మరణ మొందక",
+        "మున్ను నన్నిల మార్పు నొందఁగఁ జేయవే  ||శరణుఁ||"
+      ],
+      "english": [
+        "Karuna joodumu kanna thandrivi kalmasham bedabaapave marana mondaka",
+        "munnu nannila maarpu nondaga jeyave ||Sharanu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మొరను జెచ్చెర నాలకించుచు మోము నా దెసఁ జూపవే యురు",
+        "పదంబుల సేవఁ జేసెద నుద్ధరించుము కూర్మితో  ||శరణుఁ||"
+      ],
+      "english": [
+        "Moranu jechchera naalakinchuchu momu naa dhesa joopave yuru",
+        "padambula seva jeseda nuddharinchumu koormitho ||Sharanu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తామస క్రియలందు వాంఛలు తాకకుండగఁ జేయవే క్షేమమైన సువార్త",
+        "బోధల సిద్ధపడి విననీయవే  ||శరణుఁ||"
+      ],
+      "english": [
+        "Thaamasa kriyalandu vaanchhalu thaakakundaga jeyave kshemamaina suvaartha",
+        "bodhala siddhapadi vinaneeyave ||Sharanu||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "శ్రమలు చాల కల్గి యున్నను సైఁప నేర్పుము సత్కృపన్ గమిలి పోయెడి",
+        "మాయ లోకపు గాంతి నీరస మంచు నీ  ||శరణుఁ||"
+      ],
+      "english": [
+        "Shramalu chaala kalgi yunnanu saipa nerpumu sathkrupan gamili poyedi",
+        "maaya lokapu gaanthi neerasa manchu nee ||Sharanu||"
+      ]
+    }
+  ]
+}

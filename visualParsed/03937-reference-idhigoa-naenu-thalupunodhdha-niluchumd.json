@@ -1,0 +1,78 @@
+{
+  "song_name": "Idigo nenu thalupunoddha niluchundi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "శ్రమలను పొందె శ్రీ యేసుడు నీ కొరకై సిలువలో"
+    ],
+    "english": [
+      "Shramalanu ponde Shree Yesudu nee korakai siluvalo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సదయుడు ప్రేమించె - శత్రువైన నిన్ను",
+        "దూరస్థుడవైన నీ యెడల - దయచూపించె",
+        "వహించె నీ శాపం భరించె నీ పాపం",
+        "నీ మనస్సు మార్చుకొనిన - సంతసించును ప్రభుయేసు"
+      ],
+      "english": [
+        "Sadhayudu preminche - Shathruvaina ninnu",
+        "Dhoorasthudavaina nee edala - Dhayachoopinche",
+        "Vahinche nee shaapam bharinche nee paapam",
+        "Nee manassu maarchukonina - Santhasinchunu Prabhuyesu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దొంగవై నీవున్నా - దురితంబులెన్నున్నా",
+        "దోషంబుల క్షమియించు - తన సిలువ రక్తముతో",
+        "తెరచెనుగా నీ కొరకు - పరలోక ద్వారము",
+        "నెమ్మది నిచ్చును నీకు - యేసుని విశ్వసించిన"
+      ],
+      "english": [
+        "Dhongavai neevunnaa - Dhurithambulennunnaa",
+        "Dhoshambula kshamiyinchu - Thana siluva rakthamutho",
+        "Therachenugaa nee koraku - Paraloka dwaaramu",
+        "Nemmadi nichchunu neeku - Yesuni vishwasinchina"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఎవరేసు రక్తములో - కడుగబడెదరో",
+        "వారే చేరెదరు - తన సంఘమునందు",
+        "అంగీకరించుము - యేసును నీవు",
+        "కలిగించు నీకు తృప్తిని - నేడే నీ వాయనను వేడు"
+      ],
+      "english": [
+        "Evaresu rakthamulo - Kadugabadedharo",
+        "Vaare cheredharu - Thana sanghamunandhu",
+        "Angeekarinchumu - Yesunu neevu",
+        "Kaliginchu neeku thrupthini - Nede neevu aayananu vedu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సిలువపై యేసు - సర్వ మర్పించె",
+        "నీ రక్షణ కొరకు - క్రయము చెల్లించె",
+        "యేసునకు నీవు - ఏమియ్యగలవు?",
+        "తెరువు నీ హృదయ ద్వారమును - నేడే ప్రవేశించును తాను"
+      ],
+      "english": [
+        "Siluvapai Yesu - Sarvam arpinche",
+        "Nee rakshana koraku - Krayamu chellinche",
+        "Yesunaku neevu - Emiyyagalavu?",
+        "Theruvu nee hrudaya dhvaaramunu - Nede praveshinchunu thaanu"
+      ]
+    }
+  ]
+}

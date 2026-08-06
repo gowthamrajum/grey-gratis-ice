@@ -1,0 +1,44 @@
+{
+  "song_name": "Nee Prematho",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవే నా ప్రియుడవై ప్రేమించావయ్యా",
+      "నీవే నా తండ్రివై హత్తుకున్నావయ్యా",
+      "నీవే నా స్నేహమై తోడున్నావయ్యా",
+      "నీవే నా సర్వమై నడిపించావయ్యా"
+    ],
+    "english": [
+      "Neeve na priyudavai preminchavayya",
+      "neeve na thandrivai hathukkunnavayya",
+      "neeve na snehamai thodunnavayya",
+      "neeve na sarvamai nadipinchavayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ ప్రేమతో నన్ను దర్శించినావయ్యా",
+        "నీ ప్రేమతో నన్ను వెలపెట్టి కొన్నావయ్యా",
+        "నీ ప్రేమతో నన్ను రక్షించినావయ్యా",
+        "నీ ప్రేమతో నీ ప్రాణమిచ్చి కన్నావయ్యా",
+        "నీ ప్రేమ నేను వర్ణించుట నావల్ల కాదయ్యా",
+        "నీ ప్రేమ నేను వీడి ఉండుట నావల్ల కాదయ్యా",
+        "యేసయ్యా….."
+      ],
+      "english": [
+        "Nee prematho nannu dharshinchinavayya",
+        "nee prematho nannu velapettikonnavayya",
+        "nee prematho nannu rakshinchinavayya",
+        "nee prematho nee pranamichi kannavayya",
+        "nee prema nenu varninchuta na valla kadayya",
+        "nee prema nenu veedi unduta na valla kadayya",
+        "yesayya …."
+      ]
+    }
+  ]
+}

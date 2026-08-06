@@ -1,0 +1,36 @@
+{
+  "song_name": "Yesu Rakthamu",
+  "author": {
+    "Authored by": "David Stone",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు రక్తము, శుద్ధి చేసే రక్తము",
+      "పరిపూర్ణమైన రక్తము, పరిశుద్ధ రక్తము",
+      "మన యేసు రక్తము, మన యేసు రక్తము"
+    ],
+    "english": [
+      "Yesu rakthamu, shuddhi chesey rakthamu",
+      "paripoorNamaina rakthamu, pariSuddha rakthamu",
+      "mana yesu rakthamu, mana yesu rakthamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపములన్నియు కడుగును, ప్రియయేసు రక్తము",
+        "ఏ పాపము లేని రక్తము, ప్రియయేసు రక్తము",
+        "కన్నీరంతయు తుడుచును, ప్రియయేసు రక్తము",
+        "ఏ బేధము లేని రక్తము, ప్రియయేసు రక్తము"
+      ],
+      "english": [
+        "Paapamulanniyu kadugunu, priyayesu rakthamu",
+        "ey paapamu leni rakthamu, priyayesu rakthamu",
+        "Kanneeranthayu tuduchunu, priyayesu rakthamu",
+        "ey bedhamu leni rakthamu, priyayesu rakthamu"
+      ]
+    }
+  ]
+}

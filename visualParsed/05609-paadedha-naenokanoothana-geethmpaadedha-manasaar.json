@@ -1,0 +1,46 @@
+{
+  "song_name": "Paadeda nenoka noothana geetham paadeda manasaaraa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "పాడెద నేనొక-నూతన గీతం-పాడెద మనసారా",
+      "యేసయ్యా నీ నామమే గాక- వేరొక నామము లేదాయె"
+    ],
+    "english": [
+      "Paadeda nenoka-Noothana geetham-Paadeda manasaaraa",
+      "Yesayyaa nee naamame gaaka- Veroka naamamu ledaaye"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కలుషితమైన నదియై-నేను కడలియైననీలో",
+        "కలిసి పోతినే-కలువరి దారిలో",
+        "కనబడదే యిక-పాపాల రాశి  ||పాడెద||"
+      ],
+      "english": [
+        "Kalushithamaina nadhiyai-Nenu kadaliyaina neelo",
+        "Kalisi pothine-Kaluvari daarilo",
+        "Kanabadadhe ika-Paapaala raashi ||Paadeda||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పోరు తరగని-శిగ సెగలన్నియు - అణచె కృపాతిశయము",
+        "పొదయైన నా హృదయములోన",
+        "పొంగెనే అభిషేక తైలం  ||పాడెద||"
+      ],
+      "english": [
+        "Poru tharagani-Shiga segalanniyu - Anache krupaathishayamu",
+        "Podhayaina naa hrudhayamulona",
+        "Pongene abhisheka thailam ||Paadeda||"
+      ]
+    }
+  ]
+}

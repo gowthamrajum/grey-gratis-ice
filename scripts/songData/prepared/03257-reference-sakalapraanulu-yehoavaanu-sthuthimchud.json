@@ -1,0 +1,68 @@
+{
+  "song_name": "Yehoavaa Mahoannathudaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవా మహోన్నతుడా - మహిమయు నీదే",
+      "ఇహమందు రక్షకా - మహిమంచి దాతవు"
+    ],
+    "english": [
+      "Yehoavaa Mahoannathudaa - Mahimayu Needhae",
+      "Ihamandhu Rakshakaa - Mahimanchi Dhaathavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాలకుడవు పరమందు - ఏలికవు యెల్లరికి",
+        "చాలినట్టి ప్రధానుండా - సకల యధికారులకును",
+        "రాజుల రాజు ప్రభువుల ప్రభువు - ధరపర లోకములకు",
+        "దేవుడ వీవే ధన్యుండ నీకే ఘనమైన మహిమ"
+      ],
+      "english": [
+        "Paalakudavu Paramandhu - Aelikavu Yellariki",
+        "Chaalinatti Pradhaanundaa - Sakala Yadhikaarulakunu",
+        "Raajula Raaju Prabhuvula Prabhuvu - Dharapara Loakamulaku",
+        "Dhaevuda Veevae Dhanyunda Neekae Ghanamaina Mahima"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరమును విడచితివి - ధర కేతెంచితివి",
+        "ప్రాణమీవు బలిగానిచ్చి - మమ్మును రక్షించితివి",
+        "తిరిగి లేచి మాకు - కరుణ జీవమిచ్చితివి",
+        "విరివగు నీ ప్రేమ - నరులపై చూపితివి",
+        "ధర నీదే ఘనతయని - చరణముల పాడుదుము"
+      ],
+      "english": [
+        "Paramunu Vidachithivi - Dhara Kaethenchithivi",
+        "Praanameevu Baligaanichchi - Mammunu Rakshinchithivi",
+        "Thirigi Laechi Maaku - Karuna Jeevamichchithivi",
+        "Virivagu Nee Praema - Narulapai Choopithivi",
+        "Dhara Needhae Ghanathayani - Charanamula Paadudhumu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సంఘమందు మహిమ నీకే - సకల యుగములకును",
+        "యుగమందు ప్రతిజీవి - యెహోవాయని యనున్",
+        "జగమంతటికి నీవు - నిజమైన ప్రభుడవు",
+        "ఆది యంతమై నీవు - అలరారుచున్నావు",
+        "యుగయుగములకు - ఘనమహిమ కలుగును"
+      ],
+      "english": [
+        "Sanghamandhu Mahima Neekae - Sakala Yugamulakunu",
+        "Yugamandhu Prathijeevi - Yehoavaayani Yanun",
+        "Jagamanthatiki Neevu - Nijamaina Prabhudavu",
+        "Aadhi Yanthamai Neevu - Alaraaruchunnaavu",
+        "Yugayugamulaku - Ghanamahima Kalugunu"
+      ]
+    }
+  ]
+}

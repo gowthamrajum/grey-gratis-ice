@@ -1,0 +1,63 @@
+{
+  "song_name": "Na Prananiki Pranam Nive Yesayya",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రాణానికి ప్రాణం నీవే యేసయ్యా. . .",
+      "స్నేహానికి నిజ స్నేహం నీవే మెసయ్యా. . .",
+      "నా ప్రాణానికి ప్రాణాం నీవేనయ్యా",
+      "స్నేహానికి నిజ స్నేహం నీవేనయ్యా",
+      "నిజ స్నేహానికి నిర్వచనం నీవే యేసయ్యా"
+    ],
+    "english": [
+      "Na Prananiki Pranam Nive Yesayya. . .",
+      "Snehaniki Nija Sneham Nive Mesayya. . .",
+      "Na Prananiki Pranam Nivenayya",
+      "Snehaniki Nija Sneham Nivenayya",
+      "Nija Snehaniki Nirvachanam Nive Yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రాణ స్నేహితులమని బంధువులు స్నేహితులు",
+        "కన్నీటి సమయములో ఒంటరిని చేసారు (2)",
+        "ఆస్తులున్న వేళ్ళలో అక్కున చేరారు",
+        "ఆపద సమయాలలో అంతులేక పోయారు",
+        "జంటగ నిలచితివి నా ప్రాణమా కన్నీరు తుడిచితివి",
+        "నా స్నేహమా కన్నీరు తుడిచితివి (2)"
+      ],
+      "english": [
+        "Prana Snehitulamani Bamdhuvulu Snehitulu",
+        "Kanniti Samayamulo Omtarini Chesaru (2)",
+        "Astulunna Vellalo Akkuna Cheraru",
+        "Apada Samayalalo Amtuleka Poyaru",
+        "Jamtaga Nilachitivi Na Pranama Kanniru Tudichitivi",
+        "Na Snehama Kanniru Tudichitivi (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీవే నా ప్రాణమని కడవరకు విడువ నని",
+        "బాసలన్ని మరచి అనాధగ నన్ను చేసారు (2)",
+        "నేనున్నానంటు నా చెంతన చేరావు",
+        "ఎవరు విడచిన నను విడువనన్నావు",
+        "జంటగ నిలచితివి నా ప్రాణమా కన్నీరు తుడిచితివి",
+        "నా స్నేహమా కన్నీరు తుడిచితివి (2)"
+      ],
+      "english": [
+        "Nive Na Pranamani Kadavaraku Viduva Nani",
+        "Basalanni Marachi Anadhaga Nannu Chesaru (2)",
+        "Nenunnanamtu Na Chemtana Cheravu",
+        "Evaru Vidachina Nanu Viduvanannavu",
+        "Jamtaga Nilachitivi Na Pranama Kanniru Tudichitivi",
+        "Na Snehama Kanniru Tudichitivi (2)"
+      ]
+    }
+  ]
+}

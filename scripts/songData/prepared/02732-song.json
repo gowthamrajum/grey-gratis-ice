@@ -1,0 +1,52 @@
+{
+  "song_name": "Maa Shrama Lanni Theerchithivi Maaku",
+  "author": {
+    "Authored by": "",
+    "రచన": "బర్నార్డ్ మాన్సెల"
+  },
+  "main_stanza": {
+    "telugu": [
+      "మా శ్రమ లన్ని తీర్చితివి మాకు విశ్రాంతి నిచ్చితివి",
+      "మహిమ నీకుఁ గల్గెడును మిత్రుఁడవైన రక్షకుఁడా!"
+    ],
+    "english": [
+      "Maa Shrama Lanni Theerchithivi Maaku Vishraanthi Nichchithivi",
+      "Mahima Neeku Galgedunu Mithrudavaina Rakshakudaa!"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సందియ మంతఁ దీర్చితివి పూర్ణ విశ్వాస మిచ్చితివి",
+        "మహిమ నీకుఁ గల్గెడును మిత్రుఁడవైన రక్షకుఁడా!"
+      ],
+      "english": [
+        "Sandhiya Mantha Dheerchithivi Poorna Vishvaasa Michchithivi",
+        "Mahima Neeku Galgedunu Mithrudavaina Rakshakudaa!"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కన్నీళ్లు నీవు తుడ్చితివి మాకు సంతోష మిచ్చితివి",
+        "మహిమ నీకుఁ గల్గెడును మిత్రుఁడవైన రక్షకుఁడా!"
+      ],
+      "english": [
+        "Kanneellu Neevu Thudchithivi Maaku Santhoasha Michchithivi",
+        "Mahima Neeku Galgedunu Mithrudavaina Rakshakudaa!"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ చరణంబు నమ్మితిమి కరుణఁ జూపి ప్రోచితివి",
+        "మహిమ నీకుఁ గల్గెడును మిత్రుఁడవైన రక్షకుఁడా!"
+      ],
+      "english": [
+        "Nee Charanambu Nammithimi Karuna Joopi Proachithivi",
+        "Mahima Neeku Galgedunu Mithrudavaina Rakshakudaa!"
+      ]
+    }
+  ]
+}

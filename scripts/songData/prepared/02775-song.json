@@ -1,0 +1,45 @@
+{
+  "song_name": "Ravikaanthini Minchinadhau Oka Dhaeshamu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రవికాంతిని మించినదౌ ఒక దేశము దూరమున",
+      "వరభక్తులు చూచెదరు తండ్రి యాశ్రయ మిచ్చునటన్",
+      "అహహా త్వరలో మేము చేరుదు మా స్థలమున్",
+      "అహహా త్వరలో మేము చేరుదు మా స్థలమున్"
+    ],
+    "english": [
+      "Ravikaanthini Minchinadhau Oka Dhaeshamu Dhooramuna",
+      "Varabhakthulu Choochedharu Thandri Yaashraya Michchunatan",
+      "Ahahaa Thvaraloa Maemu Chaerudhu Maa Sthalamun",
+      "Ahahaa Thvaraloa Maemu Chaerudhu Maa Sthalamun"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దుఃఖబాధలు లేక సదా పూర్ణశాంతినిఁ బొందుచును",
+        "పరిశుద్ధుల కీర్తనలు అందు నెప్పుడు బాడుదుము."
+      ],
+      "english": [
+        "Dhuhkhabaadhalu Laeka Sadhaa Poornashaanthini Bondhuchunu",
+        "Parishuddhula Keerthanalu Andhu Neppudu Baadudhumu."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రేమ సాగరుఃడౌ జనకున్ మాకు నిచ్చిన మేలులకై",
+        "మా కృతజ్ఞత జూపుచును నిత్యమున్ స్తుతి యించెదము"
+      ],
+      "english": [
+        "Praema Saagaruhdau Janakun Maaku Nichchina Maelulakai",
+        "Maa Kruthagnatha Joopuchunu Nithyamun Sthuthi Yinchedhamu"
+      ]
+    }
+  ]
+}

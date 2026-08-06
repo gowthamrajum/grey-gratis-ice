@@ -1,0 +1,67 @@
+{
+  "song_name": "Velasinadu Raju",
+  "author": {
+    "Authored by": "Frany Francis",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "వెలసినాడు భూలోకరాజు",
+      "జన్మించినాడు త్రియేకదేవుడు"
+    ],
+    "english": [
+      "Velasinaadu bhuloka raaju",
+      "janminchinaadu thriyekadevudu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కరములు ఎత్తి జై కొట్టి పాడెదం",
+        "యూదుల రాజు నీవే మా దైవమని",
+        "ఆర్భాటం చేయుదమా ఆ…ఆ..అఅఅ"
+      ],
+      "english": [
+        "Karamulu ethi jai kotti paadhedham",
+        "yoodula raaju neeve maa daivamani",
+        "aarbaatam cheyudhamaa… aa… aa… aaaaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సంతోషమా ఇది సంభారమాయెనా",
+        "ఆర్భాటమా ఇది స్తోత్రార్పణాయెన"
+      ],
+      "english": [
+        "Santhoshamaa idi sambhaaramayenaa",
+        "aarbaatamaa idi sthothraarpanaayena"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కరములు ఎత్తి జై కొట్టి పాడెదం",
+        "యూదుల రాజు నీవే మా దైవమని",
+        "ఆర్భాటం చేయుదమా ఆ…ఆ..అఅఅ"
+      ],
+      "english": [
+        "Karamulu ethi jai kotti paadhedham",
+        "yoodula raaju neeve maa daivamani",
+        "aarbaatam cheyudhamaa… aa… aa… aaaaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సంతోషమా ఇది సంభారమాయెనా",
+        "ఆర్భాటమా ఇది స్తోత్రార్పణాయెన"
+      ],
+      "english": [
+        "Santhoshamaa idi sambhaaramayenaa",
+        "aarbaatamaa idi sthothraarpanaayena"
+      ]
+    }
+  ]
+}

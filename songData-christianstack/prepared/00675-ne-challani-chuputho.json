@@ -1,0 +1,38 @@
+{
+  "song_name": "Ne Challani Chuputho",
+  "author": {
+    "Authored by": "Prasad Nelapudi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ చల్లని చూపుతో కరుణించినందున",
+      "బ్రతికి ఉన్నానయా",
+      "నీ చేయి చాపి లేవనెత్తినందున",
+      "జీవించుచున్నానయా"
+    ],
+    "english": [
+      "Nee challani chooputho karuninchinandhuna",
+      "brathiki unnaanayaa",
+      "nee cheyi chaapi levanetthinandhuna",
+      "jeevinchuchunnaanayaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసయ్యా నా మంచి యేసయ్యా",
+        "నీ కృపతో నన్ను కాపాడితివి",
+        "యేసయ్యా నా గొప్ప యేసయ్యా",
+        "నీ దయ చూపించి స్వస్థతనిచ్చితివి"
+      ],
+      "english": [
+        "Yesayya naa manchi yesayya",
+        "nee krupatho nannu kaapaadithivi",
+        "yesayya naa goppa yesayya",
+        "nee dhaya choopinchi swasthatha nichithivi"
+      ]
+    }
+  ]
+}

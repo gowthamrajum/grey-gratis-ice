@@ -1,0 +1,77 @@
+{
+  "song_name": "Chalaiya Nee Prema",
+  "author": {
+    "Authored by": "Pastor Vinod Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏ సమయమైన ఏ స్థలమందైన",
+      "విడువక నాకై చూపిన నీ ప్రేమే శాశ్వతం",
+      "విడువక నాకై చూపిన నీ కృపయే అద్భుతం"
+    ],
+    "english": [
+      "Ey samayamaina ey sthalamandaina",
+      "viduvaka naakai choopina nee premey saaswatham",
+      "viDuvaka naakai choopina nee krupaye adbhutham"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆరాధన ఆరాధన",
+        "హల్లేలూయా హల్లేలూయా"
+      ],
+      "english": [
+        "Aaraadhana aaraadhana",
+        "hallelujah hallelujah"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యాకోబు వలే నేను మొసగాడైన",
+        "ఇశ్రాయేలుగా మార్చిన నీ ప్రేమ",
+        "పేతురు వలే పలుమారులు బొంకినను",
+        "వేల ప్రజలముందు నిలబెట్టితివే"
+      ],
+      "english": [
+        "Yaakobu valey nenu mosagaadaina",
+        "israayelugaa maarchina nee prema",
+        "pethuru valey palumaarulu bonkinanu",
+        "vela prajalamundu nilabettithivey"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "హన్నా వలే యేడ్చినా",
+        "దయతో కుమారునే ఇచ్చితివే",
+        "యోబు వలే కొల్పోయినా",
+        "రెండంతులుగా ఇచ్చితివే"
+      ],
+      "english": [
+        "Hanna valey yedchinaa",
+        "dayatho kumaarune ichithivey",
+        "yobu valey kolpoyinaa",
+        "rendanthulugaa ichithivey"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సొంతవారే నన్ను అమ్మేసినా",
+        "పొరుగువారే పొమ్మన్నా",
+        "చాలయ్యా నీ ప్రేమ",
+        "ఎవరున్నా లేకున్నా"
+      ],
+      "english": [
+        "Sonthavaarey nannu ammesinaa",
+        "poruguvaarey pommannaa",
+        "chaalayyaa nee prema",
+        "evarunnaa lekunna"
+      ]
+    }
+  ]
+}

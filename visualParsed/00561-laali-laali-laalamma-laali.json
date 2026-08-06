@@ -1,0 +1,75 @@
+{
+  "song_name": "Laali laali laalamma laali",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "లాలి లాలి లాలి లాలమ్మ లాలీ",
+      "లాలియని పాడరే బాలయేసునకు"
+    ],
+    "english": [
+      "Laali laali laali laalamma laalee",
+      "Laaliyani paadare baala Yesunaku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరలోక దేవుని తనయుడో యమ్మా",
+        "పుడమిపై బాలుడుగ బుట్టెనో యమ్మా"
+      ],
+      "english": [
+        "Paraloka Devuni thanayudo yammaa",
+        "Pudamipai baaluduga butteno yammaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇహ పరాదుల కర్త యీతడో యమ్మ",
+        "మహి పాలనము జేయు మహితుడో యమ్మా"
+      ],
+      "english": [
+        "Iha paraadhula kartha eethado yamma",
+        "Mahi paalanamu jeyu mahithudo yammaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆద్యంతములు లేని దేవుడో యమ్మా",
+        "ఆదాము దోషమున కడ్డు పడె నమ్మా"
+      ],
+      "english": [
+        "Aadhyanthamulu leni Dhevudo yammaa",
+        "Aadaamu dhoshamuna kaddu pade nammaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యూదులకు రాజుగాబుట్టెనో యమ్మా",
+        "యూదు లాతని తోడ వాదించి రమ్మా"
+      ],
+      "english": [
+        "Yoodhulaku raajugaabutteno yammaa",
+        "Yoodhu laathani thoda vaadhinchi rammaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నరగొఱ్ఱెల మంద కాపరో యమ్మా",
+        "గొరియల ప్రాణంబు క్రీస్తు తానమ్మా"
+      ],
+      "english": [
+        "Naragorrela manda kaaparo yammaa",
+        "Goriyala praanambu Kreesthu thaanammaa"
+      ]
+    }
+  ]
+}

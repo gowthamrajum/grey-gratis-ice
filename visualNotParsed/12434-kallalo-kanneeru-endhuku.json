@@ -1,0 +1,62 @@
+{
+  "song_name": "Kallallo kanneeru enduku",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "కళ్ళల్లో కన్నీరు ఎందుకూ",
+      "గుండెల్లో దిగులు ఎందుకూ",
+      "ఇక నీవు కలతచెందకూ",
+      "నెమ్మది లేకుందా",
+      "గుండెల్లో గాయమైనదా",
+      "ఇక అవి ఉండబోవుగా",
+      "యేసే నీ రక్షణ...యేసే నీ నిరీక్షణ",
+      "యేసే నీ రక్షణ.యేసే నీ నిరీక్షణ |కళ్ళల్లో|"
+    ],
+    "english": [
+      "Kallallo kanneeru endukoo",
+      "Gundello digulu endukoo",
+      "Ika neevu kalathachendakoo",
+      "Nemmadi lekundaa",
+      "Gundello gaayamainadaa",
+      "Ika avi undabovugaa",
+      "Yese nee rakshana...Yese nee nireekshana",
+      "Yese nee rakshana. Yese nee nireekshana |Kallallo|"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హొరు గాలులూ వీచగా...తుఫానులు చెలరెగగా",
+        "మాట మాత్రం సెలవియ్యగ నిమ్మళమయెనుగా|2|",
+        "యేసే నీ నావిక భయము చెందకూ నీవు ఇక..",
+        "యేసే నీ రక్షక..కలత చెందకూ నీవు ఇక  ||కళ్ళల్లో||"
+      ],
+      "english": [
+        "Horu gaaluloo veechagaa...thuphaanulu chelaregagaa",
+        "Maata maathram selaviyyaga nimmalamayenugaa |2|",
+        "Yese nee naavika bhayamu chendakoo neevu ika..",
+        "Yese nee rakshaka..kalatha chendakoo neevu ika ||Kallallo||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కరువు ఖడ్గములు వచ్చినా...నింద వేదన చుట్టినా",
+        "లోకమంత ఏకమైనా భయము చెందకుమా|2|",
+        "యేసే నీ రక్షక...దిగులు చెందకూ నీవు ఇక",
+        "యేసే విమోచక..సంతసించుము నీవు ఇక  ||కళ్ళల్లో||"
+      ],
+      "english": [
+        "Karuvu khadgamulu vachchinaa...ninda vedhana chuttinaa",
+        "Lokamantha ekamainaa bhayamu chendakumaa |2|",
+        "Yese nee rakshaka...digulu chendakoo neevu ika",
+        "Yese vimochaka..santhasinchumu neevu ika ||Kallallo||"
+      ]
+    }
+  ]
+}

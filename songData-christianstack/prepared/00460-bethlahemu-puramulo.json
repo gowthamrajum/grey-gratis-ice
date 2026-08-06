@@ -1,0 +1,32 @@
+{
+  "song_name": "Bethlahemu Puramulo",
+  "author": {
+    "Authored by": "Samy Pachigalla & Rahul",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "బెత్లెహేము పురములో",
+      "ఆ పశులశాలలో",
+      "రక్షకుడు మన కొరకు పుట్టెను"
+    ],
+    "english": [
+      "Bethlehemu puramulo",
+      "aa pasulasaalalo",
+      "rakshakudu mana koraku puttenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇమ్మానుయేలై ఇలలో జన్మించెను",
+        "మహరాజై మనలను పాలించెను"
+      ],
+      "english": [
+        "Immaanuyelai ilalo janminchenu",
+        "maharaajai manalanu paalinchenu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "song_name": "Sarvalokaana",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సర్వలోకాన సంతోషమే",
+      "నేడు రారాజు జన్మించెనే"
+    ],
+    "english": [
+      "Sarvalokaana santhoshame",
+      "nedu raaraju janminchene"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సర్వలోకాన సంతోషమే",
+        "నేడు రారాజు జన్మించెనే"
+      ],
+      "english": [
+        "Sarvalokaana santhoshame",
+        "nedu raaraju janminchene"
+      ]
+    }
+  ]
+}

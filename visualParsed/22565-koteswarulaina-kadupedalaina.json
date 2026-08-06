@@ -1,0 +1,98 @@
+{
+  "song_name": "Koteeshwarulainaa Kadupedhalainaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Dr P Lazarus"
+    ],
+    "రచన": [
+      "డాక్టర్ పి లాజరస్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "కోటీశ్వరులైనా కడుపేదలైనా",
+      "అందరు కాటికే పోవాలి",
+      "అభిమానులేవున్నా అనామకులైనా",
+      "అందరు అంతమైపోవాలి",
+      "దిగంబరులుగానే వొచ్చాము",
+      "దిగంబరులుగానే వెళ్లిపోవాలి",
+      "అంతాతిరిగి మట్టికే పోతాము",
+      "ఇంతా తెలిసి ఎగిరెగిరి పడతాము"
+    ],
+    "english": [
+      "Koteeshwarulainaa kadupedhalainaa",
+      "Andaru kaatike povaali",
+      "Abhimaanulevunnaa anaamakulainaa",
+      "Andaru anthamaipovaali",
+      "Dhigambarulugaane vochchaamu",
+      "Dhigambarulugaane vellipovaali",
+      "Anthaathirigi mattike pothaamu",
+      "Inthaa thelisi egiregiri padathaamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సిరిసంపదలెన్ని కూడబెట్టినా",
+        "చిళ్లిగవ్వైనా తీసుకెళ్లలేమని",
+        "ఒక్కజేబుకూడాలేని ప్రేతవస్త్రం",
+        "చాటేసత్యాన్ని ఎరుగవెందుకు?",
+        "భార్యాబిడ్డలా బంధుమిత్రుల బంధం",
+        "బ్రతికున్నంతవరకే పరిమితం",
+        "చేసిన పనుల ఫలముగ వెళ్లేలోకమే",
+        "మన అందరికి శాశ్వతం",
+        "ఏదిమన శాశ్వతం ఓ మనసా?",
+        "ఏది నిజసంపదో అదితెలుసా?  ||కోటీశ్వరులైనా||",
+        "అందరు కాటికే పోవాలి",
+        "అందరు అంతమైపోవాలి"
+      ],
+      "english": [
+        "Sirisampadhalenni koodabettinaa",
+        "Chilligavvainaa theesukellalemani",
+        "Okkajebukoodaaleni prethavasthram",
+        "Chaatesathyaanni erugavendhuku?",
+        "Bhaaryaabiddala bandhumithrula bandham",
+        "Brathikunnanthavarake parimitham",
+        "Chesina panula phalamuga vellelokame",
+        "Mana andariki shaashwatham",
+        "Edhimana shaashwatham o manasaa?",
+        "Edhi nijasampadho adhithelusaa?  ||Koteeshwarulainaa||",
+        "Andaru kaatike povaali",
+        "Andaru anthamaipovaali"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆస్తులను అప్పులను",
+        "ఐనవారికి విడిచిపెట్టి వెళ్లిపోతాము",
+        "పాపపుణ్యాలనే వెంటబెట్టుకునీ",
+        "మరో లోకానికి వెళ్లిపోతాము",
+        "పాపాలకు శిక్షగా నిత్యయాతనకు",
+        "నీతికి ప్రతిగా నిత్యజీవానికెళతాము",
+        "పాపముతీసి పరమున చేర్చేయేసే",
+        "మన నిజమైనా సంపద",
+        "పరమే మనశాశ్వతం ఓ మనసా?",
+        "క్రీస్తే నిజసంపద అదితెలుసా?  ||కోటీశ్వరులైనా||",
+        "అందరు కాటికే పోవాలి",
+        "అందరు అంతమైపోవాలి"
+      ],
+      "english": [
+        "Aasthulanu appulanu",
+        "Ainavaariki vidichipetti vellipothaamu",
+        "Paapapunyaalane ventabettukuni",
+        "Maro lokaaniki vellipothaamu",
+        "Paapaalaku shikshagaa nithyayaathanaku",
+        "Neethiki prathigaa nithyajeevaanikelathaamu",
+        "Paapamutheesi paramuna cherche Yese",
+        "Mana nijamaina sampada",
+        "Parame manashaashwatham o manasaa?",
+        "Kreesthe nijasampadha adhithelusaa?  ||Koteeshwarulainaa||",
+        "Andaru kaatike povaali",
+        "Andaru anthamaipovaali"
+      ]
+    }
+  ]
+}

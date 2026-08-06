@@ -77,3 +77,64 @@ ___Check out [Blank SQLite](https://glitch.com/~glitch-blank-sqlite) for a minim
 
 - Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
 - Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+
+---
+
+## Service media (Cloudflare R2)
+
+Sunday's order can carry a video or a photo, and both the phone that adds it and
+the projection machine that plays it have to be able to reach the file. This
+relay is not the place for it: its disk is wiped on every restart, so a clip
+uploaded on Saturday would often be gone on Sunday.
+
+So media goes to Cloudflare R2 — 10 GB and no egress charge on the free plan —
+and only the URL comes back here, inside the deck like any other background.
+The browser uploads **directly** to R2 with a presigned URL, so nothing large
+passes through this instance and the 50 mb body limit never applies.
+
+**All of it is dormant until configured.** `GET /media/config` answers
+`{"enabled": false}`, the app hides the upload option and offers a link instead,
+and everything else works exactly as before. Pasting a YouTube or video link
+needs none of this and always works.
+
+### Turning it on
+
+1. Cloudflare ▸ R2 ▸ **Create bucket** (e.g. `cantica-media`).
+2. **Settings ▸ Public access** — either enable the `r2.dev` subdomain or, better,
+   bind a custom domain. Copy that base URL.
+3. **Manage R2 API Tokens ▸ Create** with *Object Read & Write* on that bucket.
+   Keep the Access Key ID and Secret.
+4. Set these on the Render service:
+
+   | Variable | Value |
+   | --- | --- |
+   | `R2_ACCOUNT_ID` | Cloudflare account id |
+   | `R2_ACCESS_KEY_ID` | from the API token |
+   | `R2_SECRET_ACCESS_KEY` | from the API token |
+   | `R2_BUCKET` | `cantica-media` |
+   | `R2_PUBLIC_BASE` | `https://pub-….r2.dev` or your custom domain |
+
+5. **The bucket needs CORS** — the browser talks to R2 directly, so R2 is what
+   has to allow it. Bucket ▸ Settings ▸ CORS policy:
+
+   ```json
+   [{
+     "AllowedOrigins": ["https://live.teluguchurchdfw.org", "https://cantica-web.onrender.com"],
+     "AllowedMethods": ["PUT", "GET"],
+     "AllowedHeaders": ["content-type"],
+     "MaxAgeSeconds": 3600
+   }]
+   ```
+
+   Without this the upload fails with a network error and no status code — which
+   is exactly what the app reports, because it is the commonest cause and the
+   one nobody guesses.
+
+### What it will and won't accept
+
+Images, video and audio only (`ALLOWED` in `r2.js`), 300 MB a file. Keys are
+`service-media/<date>/<random>-<safe-name>`, so two people uploading
+`welcome.mp4` never collide and no filename can escape the prefix.
+
+`node r2.test.js` checks the request signing against AWS's published SigV4 test
+vector and the key sanitiser against hostile filenames.

@@ -1,0 +1,36 @@
+{
+  "song_name": "Ghanamaina Veduka",
+  "author": {
+    "Authored by": "A.R.Stevenson",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కూడుకొని మనం ఈవేల",
+      "ఘనమగు వేడుకకు తెర తీయాల",
+      "గడచిన దినముల కలిగిన సుఖముకై",
+      "ప్రభు యేసు ఆశీర్వాదాలకై"
+    ],
+    "english": [
+      "Koodukoni manam eevela",
+      "ganamagu vedukaku thera theeyaala",
+      "gadachina dinamula kaligina sukhamukai",
+      "prabhu yesu aashirvaadaalakai"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కరుణించి కాపాడే యేసయ్య",
+        "ని స రె మ రె నె ప",
+        "యేసయ్య….యేసయ్య…."
+      ],
+      "english": [
+        "Karuninchi kaapaade yesayya",
+        "Ni sa re ma re ne pa",
+        "Yesayya….Yesayya…."
+      ]
+    }
+  ]
+}

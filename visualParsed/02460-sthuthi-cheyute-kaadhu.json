@@ -1,0 +1,64 @@
+{
+  "song_name": "Sthuthi cheyute kaadu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తుతి చేయుటే కాదు ఆరాధన - దేవుని పని చేయుటయే ఆరాధన",
+      "గమనించు దేవుని మనసులో ఆవేదన - వినిపించు ఈ సువార్తను ప్రతి వీధిన",
+      "వర్క్ ఈజ్ వర్షిప్ - దేవునితో ఫెలోషిప్ (2)",
+      "ఆరాధనా ఆరాధన - ఆత్మను రక్షించుటయే ఆరాధన",
+      "ఆరాధనా ఆరాధన - దేవుని పని చేయుటయే ఆరాధన"
+    ],
+    "english": [
+      "Sthuthi cheyute kaadu aaraadhana - Devuni pani cheyutaye aaraadhana",
+      "Gamaninchu Devuni manasulo aavedana - Vinipinchu ee suvaarthanu prathi veedina",
+      "Work is worship - Devunitho fellowship (2)",
+      "Aaraadhanaa aaraadhana - Aathmanu rakshinchutaye aaraadhana",
+      "Aaraadhanaa aaraadhana - Devuni pani cheyutaye aaraadhana"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పెదవులతో ఘనపరచి - కూర్చుని లేస్తే సరిపోదు",
+        "మోకరించి ప్రార్ధన చేస్తే - పాపి మారడు = 2",
+        "ఆత్మతో సత్యముతో - తండ్రిని ఆరాధించాలి",
+        "అర్పణ ఆరాధనలు - దేహంతో జరగాలి",
+        "మనకున్న అవయవాలు - ప్రభు పనిలో అరగాలి",
+        "ఆరాధనా ఆరాధన - ఆత్మను రక్షించుటయే ఆరాధన",
+        "ఆరాధనా ఆరాధన - పాపిని రక్షించుటయే ఆరాధన"
+      ],
+      "english": [
+        "Pedhavulatho ghanaparachi - Koorchuni leste saripodhu",
+        "Mokarinchi praardhana chesthe - Paapi maaradu = 2",
+        "Aathmatho sathyamutho - Thandrini aaraadhinchaali",
+        "Arpana aaraadhanalu - Dhehantho jaragaali",
+        "Manakunna avayavaalu - Prabhu panilo aragaali",
+        "Aaraadhanaa aaraadhana - Aathmanu rakshinchutaye aaraadhana",
+        "Aaraadhanaa aaraadhana - Paapini rakshinchutaye aaraadhana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆత్మల రక్షణ మరిచి - ఆచరిస్తేనే సరిపోదు",
+        "ఆజ్ఞ మరిచి ఆరాధిస్తే - పాపి మారడు = 2",
+        "ఆత్మను రక్షించే - వాక్యం ప్రకటించాలి",
+        "బైబిల్ బాగా నేర్చుకుని - లోకానికి వెళ్లాలి",
+        "దేహాన్ని దేవుని సేవకు - సజీవంగా ఇవ్వాలి  ||స్తుతి||"
+      ],
+      "english": [
+        "Aathmala rakshana marichi - Aacharisthene saripodhu",
+        "Aagna marichi aaraadhisthe - Paapi maaradu = 2",
+        "Aathmanu rakshinche - Vaakyam prakatinchaali",
+        "Baibil baagaa nerchukuni - Lokaaniki vellaali",
+        "Dehaanni Devuni sevaku - Sajeevangaa ivvaali  ||Sthuthi||"
+      ]
+    }
+  ]
+}

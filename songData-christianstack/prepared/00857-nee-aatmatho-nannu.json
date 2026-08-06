@@ -1,0 +1,44 @@
+{
+  "song_name": "Nee Aatmatho Nannu",
+  "author": {
+    "Authored by": "Vijay Kondapuram",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ ఆత్మతో నన్ను నడిపించయా",
+      "నీ మార్గము నాకు చూపించయా",
+      "నీ సత్యము నాలో కలిగించయ్యా",
+      "నీ చిత్తము నాయందు నెరవేర్చయ్యా",
+      "నీ ప్రేమ చూపించయా",
+      "నీ స్వరము వినిపించయా",
+      "నీ సన్నిధిలోకి నను చేర్చయా",
+      "శుధ్ధాత్మను కృమ్మరించయా"
+    ],
+    "english": [
+      "Nee aathmatho nannu nadipinchayaa",
+      "nee maargamu naaku choopinchayaa",
+      "nee sathyamu naalo kaliginchayaa",
+      "nee chitthamu naayandu neraverchayyaa",
+      "nee prema choopinchayaa",
+      "nee swaramu vinipinchayaa",
+      "nee sannidhiloki nannu cherchayaa",
+      "shuddathmanu kummarinchayaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కరుణించు దేవా కృపచూపుమయ్యా",
+        "నా తోడు నీవై నడిపించేసయ్యా",
+        "నీ ఆత్మతో నన్ను నడిపించయా"
+      ],
+      "english": [
+        "Karuninchu deva krupa choopumayyaa",
+        "naa thodu neevai nadipinchesayyaa",
+        "nee aathmatho nannu nadipinchayaa"
+      ]
+    }
+  ]
+}

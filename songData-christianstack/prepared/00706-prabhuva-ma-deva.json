@@ -1,0 +1,42 @@
+{
+  "song_name": "Prabhuva Ma Deva",
+  "author": {
+    "Authored by": "Harsha Singavarapu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభువా మా దేవా కృప చూపుమయ్యా",
+      "మా ప్రార్థన అంగీకరించుమయ్యా",
+      "ఈ తెగులు నుండి మమ్ము కాపాడుమయ్యా",
+      "స్వస్థత దయ చేయుమయ్యా",
+      "మా దేశాన్ని కాపాడుమయ్యా"
+    ],
+    "english": [
+      "Prabhuva ma deva krupa choopumayyaa",
+      "maa praardhana angeekarinchumayyaa",
+      "ee thegulu nundi mammu kaapaadumayyaa",
+      "swasthatha daya cheyumayyaa",
+      "maa deshanni kaapaadumayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రభువా మా దేవా కృప చూపుమయ్యా",
+        "మా ప్రార్థన అంగీకరించుమయ్యా",
+        "ఈ తెగులు నుండి మమ్ము కాపాడుమయ్యా",
+        "స్వస్థత దయ చేయుమయ్యా",
+        "మా దేశాన్ని కాపాడుమయ్యా"
+      ],
+      "english": [
+        "Prabhuva maa devaa krupa choopumayyaa",
+        "maa praardhana angeekarinchumayyaa",
+        "ee thegulu nundi mammu kaapaadumayyaa",
+        "swasthatha daya cheyumayyaa",
+        "maa deshanni kaapaadumayyaa"
+      ]
+    }
+  ]
+}

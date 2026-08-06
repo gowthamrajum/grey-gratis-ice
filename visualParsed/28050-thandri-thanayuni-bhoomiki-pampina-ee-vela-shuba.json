@@ -1,0 +1,80 @@
+{
+  "song_name": "Thandri Thanayuni Bhoomiki Pampina Ee Vela Shubhavela",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Davidson Gajulavarthi"
+    ],
+    "రచన": [
+      "డేవిడ్సన్ గాజులవర్తి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "తండ్రి తనయుని భూమికి పంపిన ఈ వేళ శుభవేళ",
+      "భూమిని తలక్రిందులుగా చేసే మెసయ్యే వచ్చె బాలునిగా",
+      "ఆకాశంలో దూతలు పాడే",
+      "భూమి అంతా సంబరమయే",
+      "సింహాసనమే వదిలాడయ్యా",
+      "మనుష రూపము దాల్చి వచ్చాడయ్య"
+    ],
+    "english": [
+      "Thandri thanayuni bhoomiki pampina ee vela shubhavela",
+      "Bhoomini thalakrindhulugaa chese Messayye vachche baalunigaa",
+      "Aakaasamlo doothalu paade",
+      "Bhoomi anthaa sambaramaye",
+      "Simhaasaname vadhilaadayyaa",
+      "Manusha roopamu daalchi vachchaadayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కోరి వచ్చెను కారణ జన్ముడే",
+        "కాడి మోయను కదిలెను కరుణాత్ముడే"
+      ],
+      "english": [
+        "Kori vachchenu kaarana janmude",
+        "Kaadi moyanu kadhilenu karunaathmude"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నశించిపోవుట తనకు ఒప్పనొల్లక",
+        "నరరూపం దాల్చి భువికి వచ్చాడయ్యా",
+        "కాడి మోయుట భారమని ఎంచక",
+        "కరుణాత్ముడే మన భారం మోసాడయ్య",
+        "రాజు మారెను దాసుని గాను చేసికొనెను రిక్తునిగాను",
+        "పశుల పాకలో పరుండినాడయ్యా",
+        "నీ కొరకు నా కొరకు మన మెస్సయ్యా",
+        "తనకు మనకున్న అడ్డుతెరలను",
+        "తొలగించ తానే వచ్చాడయ్యా",
+        "లేదు లేదుగా ధాస్యమిక లేదుగా",
+        "ఆ పరముకు వారసులు నువు నేనుగా",
+        "మనకై పుట్టెను ఇలలో రేడు రక్షణ వచ్చెను",
+        "మన ఇంటికి నేడు",
+        "సంతోషమునే నింపాడయ్యా",
+        "మన బ్రతుకులలో ఆ మెసయ్యా"
+      ],
+      "english": [
+        "Nashinchipovuta thanaku oppanollaka",
+        "Nararoopam daalchi bhuviki vachchaadayyaa",
+        "Kaadi moyuta bhaaramani enchaka",
+        "Karunaathmude mana bhaaram mosaadayya",
+        "Raaju maarenu daasuni gaanu chesikonenu rikthunigaanu",
+        "Pashula paakalo parundinaadayyaa",
+        "Nee koraku naa koraku mana Messayyaa",
+        "Thanaku manakunna addutheralanu",
+        "Tholagincha thaane vachchaadayyaa",
+        "Ledu ledugaa dhaasyamika ledugaa",
+        "Aa paramuku vaarasulu nuvu nenugaa",
+        "Manakai puttenu ilalo redu rakshana vachchenu",
+        "Mana intiki nedu",
+        "Santhoshamune nimpaadayyaa",
+        "Mana brathukulalo aa Messayyaa"
+      ]
+    }
+  ]
+}

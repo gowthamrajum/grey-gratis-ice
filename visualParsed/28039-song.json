@@ -1,0 +1,59 @@
+{
+  "song_name": "Naa jeevithaaniki yajamaanudaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "John J"
+    ],
+    "రచన": [
+      "జాన్ జె"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా జీవితానికి యజమానుడా",
+      "నిను మాత్రమే కొలుతునేసయా",
+      "నిత్య మహిమలో నిను చూచే వరకు",
+      "నా స్తుతి యాగము ఆపనేసయా"
+    ],
+    "english": [
+      "Naa jeevithaaniki yajamaanudaa",
+      "Ninu maathrame koluthunesayaa",
+      "Nithya mahimalo ninu chooche varaku",
+      "Naa sthuthi yaagamu aapanesayaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కన్నీటి లోయ ఆవేదనల ఛాయ",
+        "లోకపు మాయ నే తాళలేనయా",
+        "అరచేతిలో చెక్కుకున్నవాడా",
+        "ఈ జీవితము నీదెనయా నీ వాడనేసయా",
+        "గుండె జారిపోయె నిందలెన్నో",
+        "ఆత్మీయులతో అవమానాలెన్నో",
+        "పోరాడుటకు నా బలము చాలక",
+        "నీ పాదాలపై ఒరిగినానయా ఒదిగిపోతానయా",
+        "నా యాత్రలో ఏమి జరిగిన",
+        "స్తుతియించుచునే నే సాగిపోదును",
+        "నా తనువంతా నీ పని కోసమే",
+        "నీ అర్పణగా నేను మారితినయా నిన్ను చేరితినయా"
+      ],
+      "english": [
+        "Kanneeti loya aavedhanala chhaaya",
+        "Lokapu maaya ne thaalalenayaa",
+        "Arachethilo chekkukunnavaadaa",
+        "Ee jeevithamu needhenayaa nee vaadanesayaa",
+        "Gunde jaaripoye nindhalenno",
+        "Aathmeeyulatho avamaanaalenno",
+        "Poraadutaku naa balamu chaalaka",
+        "Nee paadhaalapai originaanayaa odhigipothaanayaa",
+        "Naa yaathralo emi jarigina",
+        "Sthuthiyinchuchune ne saagipodunu",
+        "Naa thanuvanthaa nee pani kosame",
+        "Nee arpanagaa nenu maarithinayaa ninnu cherithinayaa"
+      ]
+    }
+  ]
+}

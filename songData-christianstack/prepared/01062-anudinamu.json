@@ -1,0 +1,41 @@
+{
+  "song_name": "Anudinamu",
+  "author": {
+    "Authored by": "Anne Deborah K Mohanty",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "అనుదినము నూతనముగా – వాత్సల్యత నీకు కలుగును (2)",
+      "ఎంతైన నమ్మదగిన – దేవుడవు దేవుడవు (అనుదినము)"
+    ],
+    "english": [
+      "Anudinamu noothanamuga vaatsalyatha neeku kalugunu (2)",
+      "entaina nammadagina devudavu devudavu (Anudinamu)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నాకిక ఆశలు లేని వేళలో – నా దురవస్త భాదలలో",
+        "జ్ఞ్యాపకము చేసుకోవయ్య – నన్ను నీ క్రుపతో (అనుదినము)"
+      ],
+      "english": [
+        "Naakika aasalu leni velalalo – naa duravasta bhaadalalo",
+        "jnyaapakamu chesukovayya – nannu nee krupato (Anudinamu)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిను ఆశ్రయించు వారికి – దయను చూపువాడవు దేవా",
+        "నీ క్రుప సమ్రుద్ధిని బట్టి – జాలి చూపుమయా (అనుదినము )"
+      ],
+      "english": [
+        "Ninu aasrayinchu vaariki – dayanu chuupuvaadavu deva",
+        "nee krupa samruddhini batti – jaali chuupumayaa (Anudinamu )"
+      ]
+    }
+  ]
+}

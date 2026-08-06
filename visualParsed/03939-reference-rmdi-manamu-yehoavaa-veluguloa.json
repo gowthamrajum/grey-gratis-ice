@@ -1,0 +1,142 @@
+{
+  "song_name": "Prabhu prajalaaraa rayamuna randi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభు ప్రజలారా - రయమున రండి",
+      "యాకోబు వంశమా - స్వకీయ జనమా",
+      "యెహోవా వెలుగులో - నడుతము రండి"
+    ],
+    "english": [
+      "Prabhu prajalaaraa - Rayamuna randi",
+      "Yaakobu vamshamaa - Svakeeya janamaa",
+      "Yehova velugulo - Nadutamu randi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అంత్య దినములందు - పొంతన లేనట్టి",
+        "మందిర పర్వత - శోభను గాంచగ",
+        "ఉన్నత పర్వత - శిఖరమందుండి",
+        "మహిమతో యిమ్మహి - వర్థిల్లును"
+      ],
+      "english": [
+        "Anthya dinamulandhu - Ponthana lenatti",
+        "Mandira parvatha - Shobhanu gaanchaga",
+        "Unnatha parvatha - Shikharamandhundi",
+        "Mahimatho immahi - Varthillunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యెహోవా మందిర - మందున బోధించు",
+        "హితబోధను విని - తన త్రోవ నడువగ",
+        "యాకోబు దేవుని - నివాసమునకు",
+        "పంక్తులై జనులు - పరుగిడి వత్తురు"
+      ],
+      "english": [
+        "Yehova mandira - Mandhuna bodhinchu",
+        "Hithabodhanu vini - Thana throva naduvaga",
+        "Yaakobu Devuni - Nivaasamunaku",
+        "Pankthulai janulu - Parugidi vaththuru"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యెహోవా వంతు ఆయన జనమే",
+        "యాకోబే తన - స్వాస్థ్యం బాయెన్",
+        "భీకర యెడారిలో - కనుగొనె వానిని",
+        "ఎంచెను కాచెను - కనుపాపగను"
+      ],
+      "english": [
+        "Yehova vanthu aayana janame",
+        "Yaakobe thana - Swaasthyam baayen",
+        "Bheekara edaarilo - Kanugone vaanini",
+        "Enchenu kaachenu - Kanupaapaganu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కమనీయంబగు - కలకని యాకోబు",
+        "గాంచెను నిచ్చెనన్ - భువినుండి దివికి",
+        "నిలువగ యెహోవా - దానికి పైగా",
+        "బేతేలే యిది - వేరేది కాదనెన్"
+      ],
+      "english": [
+        "Kamaneeyambagu - Kalakani Yaakobu",
+        "Gaanchenu nichchenan - Bhuvinundi diviki",
+        "Niluvaga Yehova - Daaniki paigaa",
+        "Bethele idi - Veredi kaadanen"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "దేవుని మందిర - ప్రత్యక్షతలు",
+        "సజీవ్ సంఘ - మందున నింపెన్",
+        "సత్యమునకు నిది - ఆధారమును",
+        "స్తంభము గానై - స్థిరముగ నుండెను"
+      ],
+      "english": [
+        "Devuni mandira - Prathyakshathalu",
+        "Sajeeva sangha - Mandhuna nimpen",
+        "Sathyamunaku nidhi - Aadhaaramunu",
+        "Sthambhamu gaanai - Sthiramuga nundenu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నూతనమైనట్టి - యెరూషాలే మది",
+        "నిత్య దేవుని - నివాసమాయె",
+        "భక్తులు చేరి - ప్రస్తుతింపగ",
+        "స్తుతులకు మధ్యను - ప్రభవించును ప్రభు"
+      ],
+      "english": [
+        "Noothanamainatti - Yerooshaale madi",
+        "Nithya Devuni - Nivaasamaaye",
+        "Bhakthulu cheri - Prasthuthimpaga",
+        "Sthuthulaku madhyanu - Prabhavinchunu Prabhu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "కుక్కలు మాంత్రికులు - వ్యభిచారులును",
+        "నరహంతకులును - విగ్రహారాధికులు",
+        "అబద్ధమును ప్రేమించి - జరిగించు",
+        "ప్రతివాడునట - వెలుపట నుందురు"
+      ],
+      "english": [
+        "Kukkalu maanthrikulu - Vyabhichaarulunu",
+        "Narahanthakulunu - Vigrahaaraadhikulu",
+        "Abaddhamunu preminchi - Jariginchu",
+        "Prathivaadunata - Velupata nunduru"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "సర్ప సంతానము నుండి - వేరైనవారై",
+        "క్రీస్తుని రక్తమున్ - కోరి వేడినచో",
+        "స్వకీయ ధనమౌ - యాకోబు వంశమై",
+        "కీర్తింతురు ప్రభున్ - హల్లెలూయ"
+      ],
+      "english": [
+        "Sarpa santhaanamu nundi - Verainavaarai",
+        "Kreesthuni rakthamun - Kori vedinacho",
+        "Svakeeya dhanamau - Yaakobu vamshamai",
+        "Keerthinthuru Prabhun - Halleluya"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "song_name": "Jayaprabhu Yaesune Vembadinchuchu",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఎ  చార్లెస్ కిన్సింగర్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "జయప్రభు యేసునె వెంబడించుచు జయముగ నడచెదము యేసుతో",
+      "జయముగ వెడలెదము ప్రియుడగు యేసుని ప్రేమను చవిగొని",
+      "పయనము జేసెద మా ప్రభు వెంబడి"
+    ],
+    "english": [
+      "Jayaprabhu Yaesune Vembadinchuchu Jayamuga Nadachedhamu Yaesuthoa",
+      "Jayamuga Vedaledhamu Priyudagu Yaesuni Praemanu Chavigoni",
+      "Payanamu Jaesedha Maa Prabhu Vembadi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆదరణయు అధికబలమును ఆత్మఖడ్గమును అవనిలో అందరి రక్షయును",
+        "ఆదర్శంబౌ ఆయన వాక్యమే అనిశము మనకిల మార్గము చూపగ"
+      ],
+      "english": [
+        "Aadharanayu Adhikabalamunu Aathmakhadgamunu Avaniloa Andhari Rakshayunu",
+        "Aadharshambau Aayana Vaakyamae Anishamu Manakila Maargamu Choopaga"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ధర విరోధులు మమ్ము జుట్టగ దరి జేరెద మేసున్ ప్రభుని",
+        "దరిజేరెద మేము ధాత్రి దురాశల డంబములన్నిటి",
+        "మైత్రిని వీడి నడచెద మేసుతో"
+      ],
+      "english": [
+        "Dhara Viroadhulu Mammu Juttaga Dhari Jaeredha Maesun Prabhuni",
+        "Dharijaeredha Maemu Dhaathri Dhuraashala Dambamulanniti",
+        "Maithrini Veedi Nadachedha Maesuthoa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మా ప్రభు జూముము నీదు మార్గపు మాదిరి జాడలను",
+        "నీ దగు మాదిరి జాడలను మా పాదములను తొట్రిలకుండగ",
+        "మా కిడు బలమును యీ కృపాదినమున"
+      ],
+      "english": [
+        "Maa Prabhu Joomumu Needhu Maargapu Maadhiri Jaadalanu",
+        "Nee Dhagu Maadhiri Jaadalanu Maa Paadhamulanu Thotrilakundaga",
+        "Maa Kidu Balamunu Yee Krupaadhinamuna"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మా కొరకై నీవు నడచిన మార్గము జూడగను",
+        "మేము మార్గము జూడగను మా రక్షక నీ అడుగుజాడలు",
+        "మరువక విడువక నడువగ కృపనిడు"
+      ],
+      "english": [
+        "Maa Korakai Neevu Nadachina Maargamu Joodaganu",
+        "Maemu Maargamu Joodaganu Maa Rakshaka Nee Adhugujaadalu",
+        "Maruvaka Viduvaka Naduvaga Krupanidu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఇహపరముల నినుగాక ప్రేమతో ఎవరిని గొలిచెదము?",
+        "ఎవరిని ప్రేమింప వశమె? విహరించెదము యేసుని వెంబడి",
+        "మహిమ రాజ్యమున యేసుని గొలువగ"
+      ],
+      "english": [
+        "Ihaparamula Ninugaaka Praemathoa Evarini Golichedhamu?",
+        "Evarini Praemimpa Vashame? Viharinchedhamu Yaesuni Vembadi",
+        "Mahima Raajyamuna Yaesuni Goluvaga"
+      ]
+    }
+  ]
+}

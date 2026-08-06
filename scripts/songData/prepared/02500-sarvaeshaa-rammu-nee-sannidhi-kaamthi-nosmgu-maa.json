@@ -1,0 +1,58 @@
+{
+  "song_name": "Sarvaeshaa Rammu Nee Sannidhi Kaamthi Nosamgu Maaku",
+  "author": {
+    "Authored by": "",
+    "రచన": "చార్లెస్ వెస్లీ"
+  },
+  "main_stanza": {
+    "telugu": [
+      "సర్వేశా! రమ్ము నీ సన్నిధి కాంతి నొసంగు మాకు",
+      "సత్య సనాతన సర్వాధికారుఁడా సదా మమ్మేలుము సర్వోన్నతా!"
+    ],
+    "english": [
+      "Sarvaeshaa! Rammu Nee Sannidhi Kaamthi Nosamgu Maaku",
+      "Sathya Sanaathana Sarvaadhikaarudaa Sadhaa Mammaelumu Sarvoannathaa!"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిత్యంపు వాక్యమా! నీదగు ఖడ్గము నిమ్ము మాకు",
+        "నీ నిజ భక్తులన్ నీ వాక్య ప్రియులన్",
+        "నింపు నీ యాత్మతో నింపు మీర"
+      ],
+      "english": [
+        "Nithyampu Vaakyamaa! Needhagu Khadgamu Nimmu Maaku",
+        "Nee Nija Bhakthulan Nee Vaakya Priyulan",
+        "Nimpu Nee Yaathmathoa Nimpu Meera"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రమ్ము మహాత్మ! మా కిమ్ము నీ యాత్మను",
+        "రమ్ము వేగ రక్తితో నిప్పుడు",
+        "రమ్ము మా మధ్యకు రక్షించు మమ్మును రంజిల్లఁగన్"
+      ],
+      "english": [
+        "Rammu Mahaathma! Maa Kimmu Nee Yaathmanu",
+        "Rammu Vaega Rakthithoa Nippudu",
+        "Rammu Maa Madhyaku Rakshimchu Mammunu Ramjillagan"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "స్తోత్రం పవిత్రుఁడా! స్తోత్రంబు త్ర్యేకుండా!",
+        "స్తోత్రం సదా ధాత్రి నీమహిమ నేత్రంబులు గను",
+        "మీ, \"త్రాహిమాం\" యని వేఁడు వారి"
+      ],
+      "english": [
+        "Sthoathram Pavithrudaa! Sthoathrambu Thryaekumdaa!",
+        "Sthoathram Sadhaa Dhaathri Neemahima Naethrambulu Ganu",
+        "Mee, \"Thraahimaam\" Yani Vaedu Vaari"
+      ]
+    }
+  ]
+}

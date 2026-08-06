@@ -1,0 +1,68 @@
+{
+  "song_name": "Jagamanthaa sambarame 2",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Davidson Gajulavarthi"
+    ],
+    "రచన": [
+      "డేవిడ్సన్ గాజులవర్తి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "జగమంతా సంబరమే",
+      "చీకటి కమ్మెనే ఈ లోకంలో ఆజ్ఞను మీరగా ఏదేనులో",
+      "రక్షకుడొచ్చెనే మన రూపంలో విడుదలనిచ్చెనే తన రక్తంలో",
+      "ఈ లోకమునే వెలిగింపనూ......",
+      "ఆ మహిమనే వీడెనూ......",
+      "జగమంతా సంబరమే మొదలాయెనే",
+      "జయధ్వనులే చేయాలి మన యేసుకే \"2\""
+    ],
+    "english": [
+      "Jagamanthaa sambarame",
+      "Cheekati kammene ee lokamlo aagnanu meeragaa Edhenulo",
+      "Rakshakudochchene mana roopamlo vidudhalanichchene thana rakthamlo",
+      "Ee lokamune veliginpanoo......",
+      "Aa mahimane veedenoo......",
+      "Jagamanthaa sambarame modhalaayene",
+      "Jayadhvanule cheyaali mana Yesuke \"2\""
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిరీక్షించే కన్నుల ఎదురుచూపు ఇతడే",
+        "నిత్యజీవమిచ్చే మోక్షమార్గం ఇతడే \"2\"",
+        "జనియించే రాజుగా భువినే పాలించ రా",
+        "భారములే బాప రా వచ్చెను మెస్సయ్యగా",
+        "\"ఈ లోకమునే\""
+      ],
+      "english": [
+        "Nireekshinche kannula edhuruchoopu ithade",
+        "Nithyajeevamichche mokshamaargam ithade \"2\"",
+        "Janiyinche raajugaa bhuvine paalincha raa",
+        "Bhaaramule baapa raa vachchenu Messayyagaa",
+        "\"Ee lokamune\""
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాతవన్ని పోయెను క్రొత్తవిగా మారెను",
+        "నిత్య నిబంధననే మనకు ఇచ్చెను \"2\"",
+        "మార్చెను కన్నీటినీ మహిమలో నాట్యముగా",
+        "నమ్మిన ప్రతివారినీ మార్చెను తన స్వాస్థ్యముగా",
+        "\"ఈ లోకమునే\""
+      ],
+      "english": [
+        "Paathavanni poyenu krotthavigaa maarenu",
+        "Nithya nibandhanane manaku ichchenu \"2\"",
+        "Maarchenu kanneetinee mahimalo naatyamugaa",
+        "Nammina prathivaarinee maarchenu thana swaasthyamugaa",
+        "\"Ee lokamune\""
+      ]
+    }
+  ]
+}

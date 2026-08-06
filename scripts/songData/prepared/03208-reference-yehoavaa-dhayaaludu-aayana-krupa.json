@@ -1,0 +1,85 @@
+{
+  "song_name": "Samastha Dhaeshamulaaraa AMdharu Paadudi",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సమస్త దేశములారా అందరు పాడుడి అందరు పాడుడి",
+      "అందరు యెహోవాకు ఉత్సాహ-ధ్వని చేయుడి"
+    ],
+    "english": [
+      "Samastha Dhaeshamulaaraa AMdharu Paadudi AMdharu Paadudi",
+      "AMdharu Yehoavaaku Uthsaaha-Dhvani Chaeyudi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సంతోషముగను యెహోవాను సేవించుడి",
+        "ఉత్సాహగానము చేయుచు సన్నిధికి రండి"
+      ],
+      "english": [
+        "SMthoaShmuganu Yehoavaanu SaeviMchudi",
+        "Uthsaahagaanamu Chaeyuchu SanniDhiki RMdi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యెహోవాయే మీ దేవుడని తెలిసికొనుడి",
+        "ఆయనే మనలను కలుగ జేసిన వాడు"
+      ],
+      "english": [
+        "Yehoavaayae Mee Dhaevudani Thelisikonudi",
+        "Aayanae Manalanu Kaluga Jaesina Vaadu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మనమెల్లర మాయనకు ప్రజలమైతిమి",
+        "ఆయన మేపు గొఱ్ఱెలమై యున్నవారము"
+      ],
+      "english": [
+        "Manamellara Maayanaku Prajalamaithimi",
+        "Aayana Maepu GoRRelamai Yunnavaaramu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కృతజ్ఞతార్పణలతోను గుమ్మములలో",
+        "ఆవరణములలో కీర్తనలతో ప్రవేశించుడి"
+      ],
+      "english": [
+        "KruthajnYthaarpaNalathoanu Gummamulaloa",
+        "AavaraNamulaloa Keerthanalathoa PravaeshiMchudi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఆయనను స్తుతించుడి ఆయనను స్తుతించుడి",
+        "ఆయన నామమునకు స్తుతులు చెల్లించుడి"
+      ],
+      "english": [
+        "Aayananu SthuthiMchudi Aayananu SthuthiMchudi",
+        "Aayana Naamamunaku Sthuthulu ChelliMchudi"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "దయామయుండగు యెహోవా కృప నిత్యము",
+        "ఆయన సత్యము తరతరములుండును"
+      ],
+      "english": [
+        "DhayaamayuMdagu Yehoavaa Krupa Nithyamu",
+        "Aayana Sathyamu TharatharamuluMdunu"
+      ]
+    }
+  ]
+}

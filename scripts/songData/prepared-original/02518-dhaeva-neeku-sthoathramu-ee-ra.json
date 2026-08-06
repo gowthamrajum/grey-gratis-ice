@@ -1,0 +1,44 @@
+{
+  "song_name": "Dhaeva Neeku Sthoathramu Ee Ra",
+  "author": {
+    "Authored by": "",
+    "రచన": "మత్తయి సమూయేలు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవ నీకు స్తోత్రము ఈ రాత్రిలో నీ వెలుఁగు దీవెనకై కావుము నన్నిప్పుడు రాజుల రాజా ప్రోవు రెక్కల నీడలో ||దేవ||"
+    ],
+    "english": [
+      "dhaeva neeku sthoathramu ee raathriloa nee veluAOgu dheevenakai kaavumu nannippudu raajula raajaa proavu rekkala needaloa ||dhaeva||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పూని యేసుని పేరిటన్ మన్నించుము కాని పనులను జేసినన్ నేను నిదురపోవక ముందే సమాధాన మిమ్ము నాకు ||దేవ||"
+      ],
+      "english": [
+        "pooni yaesuni paeritan manniMchumu kaani panulanu jaesinan naenu nidhurapoavaka muMdhae samaaDhaana mimmu naaku ||dhaeva||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చావు నొందుట కెన్నడు భీతి లేక జీవింప నేర్పించుము జీవ పునరుత్థానము లో మహిమతో లేవ మడియ నడ్పుము ||దేవ||"
+      ],
+      "english": [
+        "chaavu noMdhuta kennadu bheethi laeka jeeviMpa naerpiMchumu jeeva punaruthThaanamu loa mahimathoa laeva madiya nadpumu ||dhaeva||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నేను జీఁకటి నిద్రను రోయుచుఁ దుద లేని దినంబునందు మానకుండగ దూతలన్ గూడి చేయ గాన మెప్పుడు గల్గునో ||దేవ||"
+      ],
+      "english": [
+        "naenu jeeAOkati nidhranu roayuchuAO dhudha laeni dhinMbunMdhu maanakuMdaga dhoothalan goodi chaeya gaana meppudu galgunoa ||dhaeva||"
+      ]
+    }
+  ]
+}

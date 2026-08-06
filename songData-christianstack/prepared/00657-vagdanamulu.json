@@ -1,0 +1,80 @@
+{
+  "song_name": "Vagdanamulu",
+  "author": {
+    "Authored by": "Pastor Vinod Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేను జడియను భయపడను అలసిపోను",
+      "వాగ్దానముల్ నా సొంతమెగా"
+    ],
+    "english": [
+      "Nenu jhadiyanu bhayapadanu alasi ponu",
+      "vagdanamul na sonthamega"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వాగ్దానములనన్ని నెరవేర్చుచున్నాడు",
+        "నాలో నెరవేర్చుచున్నాడు"
+      ],
+      "english": [
+        "Intro:",
+        "Vagdanmulanni neraverchuchunnadu",
+        "naalo neraverchuchunnadu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కన్నీటిని తుడుచువాడవు",
+        "కదలకుండ నన్ను నిలబెట్టువాడవు",
+        "ప్రతి వాగ్దానమును నెరవేర్చువాడవు",
+        "నా నీతి వలన కానే కాదయా",
+        "అంతా నీ నీతి వలనేనయ్యా"
+      ],
+      "english": [
+        "Kannitini thudachuvaadavu",
+        "kadhalakunda nannu nilabettuvaadavu",
+        "prathi vaagdanamunu neraverchuvaadavu",
+        "na neethivalana kaane kadhaiya",
+        "anthaa nee neethivalanenaiya"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కృంగిపోక నే సాగిపోదును",
+        "నీ కృప నా తోడున్నదిగా",
+        "అది ఇరుకైనను విశాలమైనను",
+        "విస్తారమైన కృప ఉండగా",
+        "నే అలయక సాగెదనయ్యా"
+      ],
+      "english": [
+        "Krungipoka ne saagipodhunu",
+        "nee krupa na thodunnadhiga",
+        "adhi irukainanu vishaalamainanu",
+        "vistharamaina krupa undaga",
+        "ne alayaka saagedhanaiya"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "అనుబంధం:",
+        "అది ఇరుకైనను విశాలమైనను",
+        "విస్తారమైన కృప ఉండగా",
+        "నే అలయక సాగెదనయ్యా"
+      ],
+      "english": [
+        "Reprise:",
+        "Adhi irukainanu vishaalamainanu",
+        "na yesayya thodundagaa",
+        "ne alayaka saagedhanaiya"
+      ]
+    }
+  ]
+}

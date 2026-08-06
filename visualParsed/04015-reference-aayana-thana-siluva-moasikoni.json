@@ -1,0 +1,75 @@
+{
+  "song_name": "Aa Kaluvari maargamulo Yesu siluvanu mosenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆ కలువరి మార్గములో - యేసు సిలువను మోసెను",
+      "రక్షణ నివ్వను ఓ సోదరా - నెమ్మది నివ్వను ఓ సోదరీ (2)"
+    ],
+    "english": [
+      "Aa Kaluvari maargamulo - Yesu siluvanu mosenu",
+      "Rakshana nivvanu o sodaraa - Nemmadi nivvanu o sodaree (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గరుకు రాళ్ళ మార్గములో - బరువు సిలువను మోసెను (2)",
+        "కొరడాలతో కొట్టిరి - దేహమంతా చీలెను (2)"
+      ],
+      "english": [
+        "Garuku raalla maargamulo - Baruvu siluvanu mosenu (2)",
+        "Koradaalatho kottiri - Dehamanthaa cheelenu (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మేకులు కొట్టిరి కాళ్ళకు - తలకు ముండ్ల కిరీటము",
+        "యేసు రక్తము నదివలె - సిలువపై నుండి ప్రవహించె"
+      ],
+      "english": [
+        "Mekulu kottiri kaallaku - Thalaku mundla kireetamu",
+        "Yesu rakthamu nadhivale - Siluvapai nundi pravahinche"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "గాయపడిన చేతులు చాచి - ప్రభువు పిలచుచుండెను",
+        "పాపపు స్థితిని మార్చను - నిత్య జీవము నివ్వను"
+      ],
+      "english": [
+        "Gaayapadina chethulu chaachi - Prabhuvu pilachuchundenu",
+        "Paapapu sthithini maarchanu - Nithya jeevamu nivvanu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పాపములోనే ఉందువా - పాపము వలన మరణము",
+        "నీ పాపములను ఒప్పుకో - కడుగును యేసు రక్తము"
+      ],
+      "english": [
+        "Paapamulone undhuvaa - Paapamu valana maranamu",
+        "Nee paapamulanu oppuko - Kadugunu Yesu rakthamu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "హృదయ తలుపు తట్టుచున్నాడు - తెరువుము నీ హృదయము",
+        "చేర్చుకొనుము యేసుని - శాంతి నీకు దొరుకును"
+      ],
+      "english": [
+        "Hrudaya thalupu thattuchunnaadu - Theruvumu nee hrudayamu",
+        "Cherchukonumu Yesuni - Shaanthi neeku dorukunu"
+      ]
+    }
+  ]
+}

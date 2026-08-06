@@ -1,0 +1,96 @@
+{
+  "song_name": "Sthoathramu Saeyarae Soadharulaara",
+  "author": {
+    "Authored by": "",
+    "రచన": "గొల్లపల్లి నతానియేలు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తోత్రము సేయరే సోదరులార మన యాత్మలతోఁ దండ్రిన్",
+      "ధాత్రిని మన పర మాత్ముని వాక్కులు స్తోత్రములోఁ గలిపి"
+    ],
+    "english": [
+      "Sthoathramu Saeyarae Soadharulaara Mana Yaathmalathoa Dhandrin",
+      "Dhaathrini Mana Para Maathmuni Vaakkulu Sthoathramuloa Galipi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇచ్చట ప్రేమల కిదియే కడవరి వచ్చియున్న దేమో",
+        "అచ్చట మన మం దఱముఁ గలిసికొని యానందింతుముగా"
+      ],
+      "english": [
+        "Ichchata Praemala Kidhiyae Kadavari Vachchiyunna Dhaemoa",
+        "Achchata Mana Mam Dharamu Galisikoni Yaanandhinthumugaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎక్కువ ప్రేమలు చక్కని స్తోత్రము లక్కడ మన మంత",
+        "మిక్కిలి ప్రియుడు దేవుని కిడుదుము ఒక్క మనసుతోను"
+      ],
+      "english": [
+        "Ekkuva Praemalu Chakkani Sthoathramu Lakkada Mana Mantha",
+        "Mikkili Priyudu Dhaevuni Kidudhumu Okka Manasuthoanu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కన్నీ రుండదు చావు కష్టము లెన్నటి కుండవుగా",
+        "కన్నను మన శృం గారపు బ్రతుకు లెన్నఁదరము గాదె"
+      ],
+      "english": [
+        "Kannee Rundadhu Chaavu Kashtamu Lennati Kundavugaa",
+        "Kannanu Mana Shrum Gaarapu Brathuku Lennadharamu Gaadhe"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "వాగును వీణెలు సాగును పాటలు సతతముగా నచట",
+        "రాగము లెంతో రమ్య మై యుండును బాగింతన లేము"
+      ],
+      "english": [
+        "Vaagunu Veenelu Saagunu Paatalu Sathathamugaa Nachata",
+        "Raagamu Lenthoa Ramya Mai Yundunu Baaginthana Laemu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మరల నిచటఁ గూ డుదుమో లేదో మన మందరము",
+        "త్వరలో మున పర లోకపు దండ్రి తోడ నుందు మేమో"
+      ],
+      "english": [
+        "Marala Nichata Goo Dudhumoa Laedhoa Mana Mandharamu",
+        "Thvaraloa Muna Para Loakapu Dhandri Thoada Nundhu Maemoa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "గొఱ్ఱెపిల్ల రక్తము విలువచ్చుట గొప్పది గాంతుముగా",
+        "గురుతరమగు మన దేవుని ప్రేమను కూర్మితో జూతుముగా"
+      ],
+      "english": [
+        "Gorrepilla Rakthamu Viluvachchuta Goppadhi Gaanthumugaa",
+        "Guruthara Magu Mana Dhaevuni Praemanu Koormithoa Joothumugaa"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "పరమ తండ్రితోఁ ప్రభుయేసునితోఁ బరిశుద్ధాత్మునితో",
+        "స్థిరముగనుందుము మరి దూతలతోఁ బరలోకమునందున్"
+      ],
+      "english": [
+        "Parama Thandrithoa Prabhuyaesunithoa Barishudhdhaathmunithoa",
+        "Sthiramuganundhumu Mari Dhoothalathoa Baraloakamunandhun"
+      ]
+    }
+  ]
+}

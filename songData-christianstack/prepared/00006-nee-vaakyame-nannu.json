@@ -1,0 +1,72 @@
+{
+  "song_name": "Nee Vaakyame Nannu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ వాక్యమే నన్ను బ్రతికించెను",
+      "బాధలలో నెమ్మదినిచ్చెను",
+      "నీ వాక్యమే నన్ను బ్రతికించెను",
+      "బాధలలో నెమ్మదినిచ్చెను",
+      "కృపా శక్తి దయా సత్య సంపూర్ణుడా",
+      "వాక్యమై ఉన్న యేసు వందనమయ్యా"
+    ],
+    "english": [
+      "Nee vaakyame nannu brathikinchenu",
+      "Baadhalalo nemmadhinichchenu",
+      "Nee vaakyame nannu brathikinchenu",
+      "Baadhalalo nemmadhinichchenu",
+      "Krupaa shakthi dayaa sathya sampoornudaa",
+      "Vaakyamai unna Yesu vandhanamayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జిగటగల ఊబి నుండి లేవనెత్తెను",
+        "సమతలమగు భూమిపై నన్ను నిలిపెను",
+        "నా పాదములకు దీపమాయెను",
+        "సత్యమైన మార్గములో నడుపుచుండెను"
+      ],
+      "english": [
+        "Jigatagala oobi nundi levanetthenu",
+        "Samathalamagu bhoomipai nannu nilipenu",
+        "Naa paadamulaku deepamaayenu",
+        "Sathyamaina maargamulo nadupuchundenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శత్రువులను ఎదుర్కొనే సర్వాంగ కవచమై",
+        "యుద్ధమునకు సిద్ధ మనసు ఇచ్చుచున్నది",
+        "అపవాది వేయుచున్న అగ్ని బాణములను",
+        "ఖడ్గము వలె అడ్డుకొని ఆర్పి వేయుచున్నది"
+      ],
+      "english": [
+        "Shathruvulanu edhurkone sarvaanga kavachamai",
+        "Yuddhamunaku siddha manasu ichchuchunnadi",
+        "Apavaadhi veyuchunna agni baanamulanu",
+        "Khadgamu vale addukoni aarpi veyuchunnadi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాలవంటిది జుంటి తేనెవంటిది",
+        "నా జిహ్వకు మహా మధురమైనది",
+        "మేలిమి బంగారు కన్నా మిన్న అయినది",
+        "రత్నరాసుల కన్నా కోరతగినది"
+      ],
+      "english": [
+        "Paalavantidi junti thenevantidi",
+        "Naa jihvaku mahaa madhuramainadi",
+        "Melimi bangaaru kanna minna ayinadi",
+        "Rathnaraasula kanna korathaginadi"
+      ]
+    }
+  ]
+}

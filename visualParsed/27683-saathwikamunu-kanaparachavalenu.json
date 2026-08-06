@@ -1,0 +1,77 @@
+{
+  "song_name": "Saathwikamunu kanaparachavalenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "A R Stevenson"
+    ],
+    "రచన": [
+      "ఏ ఆర్ స్టీవెన్సన్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "సాత్వికమును కనపరచవలెను",
+      "కనికరముతో అందరియెడలను",
+      "ప్రతి సత్కార్యము చేయుటకును",
+      "సిద్ధపడియుండవలెను",
+      "అ.ప: పోగొట్టుకోకు ఎవరినైనను",
+      "ప్రేమతో రక్షించు కొందరినైనను"
+    ],
+    "english": [
+      "Saathwikamunu kanaparachavalenu",
+      "Kanikaramutho andariyedalanu",
+      "Prathi satkaaryamu cheyutakunu",
+      "Siddhapadiyundavalenu",
+      "A.pa: pogottukoku evarinainanu",
+      "Prematho rakshinchu kondarinainanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేవుని దయను మనుష్యుల దయను",
+        "యేసు సంపాదించెను",
+        "ఎవ్వరితో విరోధము కూడదు",
+        "అందరితోనూ సమాధానము"
+      ],
+      "english": [
+        "Devuni dayanu manushyula dayanu",
+        "Yesu sampaadhinchenu",
+        "Evvaritho virodhamu koodadhu",
+        "Andarithonoo samaadhaanamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జ్ఞానము చివరకు నిరర్ధకమగును",
+        "ప్రేమ శాశ్వతముండును",
+        "వాక్యమును పఠించిన చాలదు",
+        "పాటించితేనే ఆశీర్వాదము"
+      ],
+      "english": [
+        "Gnaanamu chivaraku nirardhakamagunu",
+        "Prema shaashwathamundunu",
+        "Vaakyamunu pathinchina chaaladu",
+        "Paatinchithene aasheervaadamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "చూసిన మనలో ఆత్మఫలమును",
+        "క్రీస్తు సంతోషించును",
+        "గర్వముతో పరిస్థితి మారదు",
+        "మేలుతోనే కీడుపై విజయము"
+      ],
+      "english": [
+        "Choosina manalo aathmaphalamunu",
+        "Kreesthu santhoshinchunu",
+        "Garvamutho paristhithi maaradu",
+        "Meluthone keedupai vijayamu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "song_name": "Manakai Yesu maraninche mana paapamula korakai",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మనకై యేసు మరణించె మన పాపముల కొరకై",
+      "నిత్యజీవితము నిచ్చుటకే సత్యుండు సజీవుడాయె"
+    ],
+    "english": [
+      "Manakai Yesu maraninche mana paapamula korakai",
+      "Nithyajeevithamu nichchutake sathyundu sajeevudaaye"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తృణీకరింపబడె విసర్జింపబడెను",
+        "దుఃఖా క్రాంతుడాయె వ్యసనముల భరించెను"
+      ],
+      "english": [
+        "Thruneekarimpabade visarjimpabadenu",
+        "Duhkhaa kraanthudaaye vyasanamula bharinchenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మన వ్యసనముల వహించెన్ - మన దుఃఖముల భరించెన్",
+        "మన మెన్నిక చేయకయే - మన ముఖముల ద్రిప్పితిమి"
+      ],
+      "english": [
+        "Mana vyasanamula vahinchen - Mana duhkhamula bharinchen",
+        "Mana mennika cheyakaye - Mana mukhamula dhrippithimi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మన యతిక్రమముల కొరకు - మన దోషముల కొరకు",
+        "మన నాథుడు శిక్షనొందె - మనకు స్వస్థత కలిగె"
+      ],
+      "english": [
+        "Mana yathikramamula koraku - Mana dhoshamula koraku",
+        "Mana naathudu shikshanondhe - Manaku swasthatha kalige"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "గొర్రెలవలె తప్పితిమి - పరుగిడితిమి మనదారిన్",
+        "అరుదెంచె కాపరియై - అర్పించి ప్రాణమును"
+      ],
+      "english": [
+        "Gorrelavale thappithimi - Parugidithimi manadhaarin",
+        "Arudhenche kaapariyai - Arpinchi praanamunu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "దౌర్జన్యము నొందెను - బాధింపబడెను",
+        "తననోరు తెరువలేదు - మనకై క్రయధనమీయన్"
+      ],
+      "english": [
+        "Dhaurjanyamu nondenu - Baadhimpabadenu",
+        "Thananoru theruvaledhu - Manakai krayadhanameeyan"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఎదిరింప లేదెవరిన్ - లేదే కపటము నోట",
+        "యెహోవా నలుగగొట్టెన్ - మహావ్యాధిని కలిగించెన్"
+      ],
+      "english": [
+        "Edhirimpa ledhevarin - Lede kapatamu nota",
+        "Yehovaa nalugagotten - Mahaavyaadhini kaliginchen"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "సిలువలో వ్రేలాడెన్ - సమాధిలో నుండెను",
+        "సజీవుండై లేచెన్ - స్తోత్రము హల్లెలూయ"
+      ],
+      "english": [
+        "Siluvalo vrelaaden - Samaadhilo nundenu",
+        "Sajeevundai lechen - Sthothramu hallelooya"
+      ]
+    }
+  ]
+}

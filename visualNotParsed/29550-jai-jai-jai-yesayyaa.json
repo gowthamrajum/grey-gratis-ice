@@ -1,0 +1,55 @@
+{
+  "song_name": "Jai Jai Jai Yesayyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "హ్యాప్పీ క్రిస్మస్… మెర్రి క్రిస్మస్…",
+      "జై జై జై యేసయ్యా",
+      "పూజ్యుడవు నీవయ్యా",
+      "ఈ లోకానికొచ్చావయ్యా",
+      "సంతోషం తెచ్చావయ్యా",
+      "మాకు సంతోషం తెచ్చావయ్యా (2)",
+      "కన్య గర్భమందు నీవు పుట్టావయ్యా",
+      "పరిశుద్దునిగా నీవు మా కొరకు వచ్చావయ్యా (2)",
+      "పశుల పాకలో పశుల తొట్టిలో",
+      "పసి బాలుడుగా ఉన్నావయ్యా (2)",
+      "హ్యాప్పీ హ్యాప్పీ క్రిస్మస్",
+      "మెర్రి మెర్రి క్రిస్మస్ (2) ||జై జై జై||"
+    ],
+    "english": [
+      "Hyaappee Krismas… merri Krismas…",
+      "Jai jai jai Yesayyaa",
+      "Poojyudavu neevayyaa",
+      "Ee lokaanikochchaavayyaa",
+      "Santhosham techchaavayyaa",
+      "Maaku santhosham techchaavayyaa (2)",
+      "Kanya garbhamandu neevu puttaavayyaa",
+      "Parishuddhunigaa neevu maa koraku vachchaavayyaa (2)",
+      "Pashula paakalo pashula thottilo",
+      "Pasi baaludugaa unnaavayyaa (2)",
+      "Hyaappee hyaappee Krismas",
+      "Merri merri Krismas (2) ||Jai jai jai||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దివినుండి దూత తెచ్చెను ఈ శుభవార్తను",
+        "నిశీధి రాత్రియందు ఆ గొల్లలకు (2)",
+        "లోక రక్షకుడు జన్మించెనని",
+        "సంతోషముతో ఆనందముతో (2)  ||హ్యాప్పీ||"
+      ],
+      "english": [
+        "Divinundi dootha thechchenu ee shubhavaarthanu",
+        "Nisheedhi raathriyandhu aa gollalaku (2)",
+        "Loka rakshakudu janminchenani",
+        "Santhoshamutho aanandamutho (2)  ||Hyaappee||"
+      ]
+    }
+  ]
+}

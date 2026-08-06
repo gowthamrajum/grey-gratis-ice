@@ -1,0 +1,52 @@
+{
+  "song_name": "Gaadaandhakaaramulo nenu thiriginanu nenela bhayapadadhoo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "గాఢాంధకారములో నేను తిరిగినను",
+      "నేనేల భయపడదూ - నా యేసు",
+      "నాతోడుండగా ||గాడాం||"
+    ],
+    "english": [
+      "Gaadaandhakaaramulo nenu thiriginanu",
+      "Nenela bhayapadadhoo - Naa Yesu",
+      "Naathodundagaa ||Gaadaam||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నాకున్న మనుజుల్లెలా నన్ను విడచినను",
+        "నాదేవ ఎప్పుడైనా నన్ను విడచితివా",
+        "నా హృదయ కమలములా నిను నేను నిలిపెదను",
+        "నీ పాద పద్మములా నా దేవ కొలిచెదను||గాఢాం||"
+      ],
+      "english": [
+        "Naakunna manujulellaa nannu vidachinanu",
+        "Naa Deva eppudainaa nannu vidachithivaa",
+        "Naa hrudaya kamalamulaa ninu nenu nilipedhanu",
+        "Nee paada padhmamulaa naa Deva kolichedanu ||Gaadhaam||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎన్నెన్నో ఆపదలు నన్ను చుట్టినను",
+        "నిన్ను తలచినచో నన్ను విడనాడు",
+        "అన్ని కాలములా నిన్ను స్మరియింతు",
+        "ఎన్నో రానివయ్యా నీకున్న సుగుణములు ||గాఢం||"
+      ],
+      "english": [
+        "Ennenno aapadhalu nannu chuttinanu",
+        "Ninnu thalachinacho nannu vidanaadu",
+        "Anni kaalamulaa ninnu smariyinthu",
+        "Enno raanivayyaa neekunna sugunamulu ||Gaadham||"
+      ]
+    }
+  ]
+}

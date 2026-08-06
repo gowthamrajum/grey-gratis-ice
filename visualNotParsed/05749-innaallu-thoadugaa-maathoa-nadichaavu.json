@@ -1,0 +1,67 @@
+{
+  "song_name": "Innaallu thodugaa maatho nadichaavu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇన్నాళ్ళు తోడుగా మాతో నడిచావు",
+      "ఇమ్మానుయేలుగా వెన్నంటి నిలిచావు",
+      "అ.ప.:ఇశ్రాయేలు కాపరీ నీకు స్తోత్రము",
+      "నిన్నే అనుసరింతుము జీవితాంతము"
+    ],
+    "english": [
+      "Innaallu thodugaa maatho nadichaavu",
+      "Immaanuyelugaa vennanti nilichaavu",
+      "A.pa.:Ishraayelu kaaparee neeku sthothramu",
+      "Ninne anusarinthumu jeevithaanthamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఘనులైన వారే గతియించగా - ధనమున్నవారే మరణించగా",
+        "ఎన్నతగనివారమైన మమ్ము కనికరించావు",
+        "మా దినములు పొడిగించి సజీవులుగా ఉంచావు"
+      ],
+      "english": [
+        "Ghanulaina vaare gathiyinchagaa - Dhanamunnavaare maraninchagaa",
+        "Ennathaganivaaramaina mammu kanikarinchaavu",
+        "Maa dinamulu podiginchi sajeevulugaa unchaavu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మా కంట కన్నీరు జారకుండగా",
+        "ఏ కీడు మాదరికి చేరకుండగా",
+        "కంటిరెప్పలా కాచి భద్రపరచియున్నావు",
+        "దుష్టుల ఆలోచనలు భంగపరచియున్నావు"
+      ],
+      "english": [
+        "Maa kanta kanneeru jaarakundagaa",
+        "E keedu maadariki cherakundagaa",
+        "Kantireppalaa kaachi bhadhraparachiyunnaavu",
+        "Dushtula aalochanalu bhangaparachiyunnaavu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఈ లోక యాత్రలో సాక్షులుగా",
+        "నీ రాజ్య వ్యాప్తిలో పాత్రలుగా",
+        "ఎట్టి యోగ్యతలేని మమ్ము ఎన్నుకున్నావు",
+        "నీదు ఆత్మశక్తితో నింపి నడుపుచున్నావు"
+      ],
+      "english": [
+        "Ee loka yaathralo saakshulugaa",
+        "Nee raajya vyaapthilo paathralugaa",
+        "Etti yogyathaleni mammu ennukunnaavu",
+        "Needu aathmashakthitho nimpi nadupuchunnaavu"
+      ]
+    }
+  ]
+}

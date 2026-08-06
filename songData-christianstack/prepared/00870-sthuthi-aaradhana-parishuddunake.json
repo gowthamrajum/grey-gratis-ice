@@ -1,0 +1,38 @@
+{
+  "song_name": "Sthuthi Aaradhana Parishuddunake",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తుతి ఆరాధన పరిశుద్ధునకే",
+      "జీవాధిపతియైన యేసునకే",
+      "మనసారా పూజింతును నా రక్షకా",
+      "నా ఆధారం నీవే నా ప్రేమామయుడా"
+    ],
+    "english": [
+      "Sthuthi aaraadhana parishuddhunake",
+      "jeevaadhi pathiyaina yesunake",
+      "manasaaraa poojinthunu naa rakshakaa",
+      "naa aadhaaram neeve naa premaamayudaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మహిమా ప్రభావములు నీకే చెల్లింతు",
+        "మహిమా ప్రభావములు నీకే అర్పింతు",
+        "మనసారా పూజింతును నా రక్షకా",
+        "నా ఆధారం నీవే నా ప్రేమామయుడా"
+      ],
+      "english": [
+        "Mahimaa prabhaavamulu neeke chellinthu",
+        "mahimaa prabhaavamulu neeke arpinthu",
+        "manasaaraa poojinthunu naa rakshakaa",
+        "naa aadhaaram neeve naa premaamayudaa"
+      ]
+    }
+  ]
+}

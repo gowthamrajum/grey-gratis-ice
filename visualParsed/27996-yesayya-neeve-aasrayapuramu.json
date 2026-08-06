@@ -1,0 +1,55 @@
+{
+  "song_name": "Yesayya neeve aashrayapuramu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Apostle Yanamala Isaac"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసయ్య నీవే ఆశ్రయపురము",
+      "ఆపత్కాలములో నమ్మదగిన సహాయకుడనే కోరుకున్న నా ప్రియుడా",
+      "ఆదరించు స్నేహితుడా"
+    ],
+    "english": [
+      "Yesayya neeve aashrayapuramu",
+      "Aapathkaalamulo nammadagina sahaayakudane korukunna naa priyudaa",
+      "Aadarinchu snehithudaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గొల్గొత కొండపైన నీ ప్రాణము అర్పించావు",
+        "నీవు చేసిన త్యాగం వర్ణించగలనా దేవా",
+        "నీవు చూపిన ప్రేమ పోల్చలేను దేనితో",
+        "నిన్నే కీర్తింతును నిన్నే ప్రేమింతును",
+        "అల్పుడనైన నన్ను నీ చేతిలో చెక్కు కొంటివే",
+        "నీ మందిరములో నేను స్తుతి పాటలు పాడెదను",
+        "కృపా వర్షమునాపై కురిపించుము నిండుగా",
+        "నీకే నా ఆరాదన నీవే నా ఆనందము",
+        "శోదన కాలమందు నా ప్రాణము కృంగియుండగా",
+        "శత్రు సమూహముపైన నాకు విజయము నిచ్చితివే",
+        "నీవు చేసిన మేలులు మరువలేను ప్రభువా",
+        "నీకే నా స్తోత్రార్పణ నీకే నా కృతజ్ఞతలు"
+      ],
+      "english": [
+        "Golgotha kondapaina nee praanamu arpinchaavu",
+        "Neevu chesina thyaagam varninchagalanaa Deva",
+        "Neevu choopina prema polchalenu dhenitho",
+        "Ninne keerthinthunu ninne preminthunu",
+        "Alpudanaina nannu nee chethilo chekku kontive",
+        "Nee mandiramulo nenu sthuthi paatalu paadedanu",
+        "Krupaa varshamunaapai kuripinchumu nindugaa",
+        "Neeke naa aaraadhana neeve naa aanandamu",
+        "Shodhana kaalamandu naa praanamu krungiyundagaa",
+        "Shathru samoohamupaina naaku vijayamu nichchithive",
+        "Neevu chesina melulu maruvalenu prabhuvaa",
+        "Neeke naa sthothraarpana neeke naa kruthagnathalu"
+      ]
+    }
+  ]
+}

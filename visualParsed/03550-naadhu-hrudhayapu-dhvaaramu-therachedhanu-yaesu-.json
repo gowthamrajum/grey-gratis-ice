@@ -1,0 +1,64 @@
+{
+  "song_name": "Naadu hrudayapu dwaaramu therachedhanu Yesu paapapu rogiki neeve gathi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నాదు హృదయపు ద్వారము తెరచెదను",
+      "యేసు పాపపు రోగికి నీవే గతి"
+    ],
+    "english": [
+      "Naadu hrudayapu dwaaramu therachedhanu",
+      "Yesu paapapu rogiki neeve gathi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు చచ్చిన వారిని లేపితివే - మరి కుంటికి కాళ్ళను ఇచ్చితివే",
+        "నేను పాపిని రోగిని నీవేగతి - నాకు దిక్కిక లేదిక వేరెక్కడ"
+      ],
+      "english": [
+        "Yesu chachchina vaarini lepithive - Mari kuntiki kaallanu ichchithive",
+        "Nenu paapini rogini neevegathi - Naaku dhikkika ledika verekkada"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రభు కుష్ఠును ప్రేమతో ముట్టితివి - మరి దుష్టుల చెంతను చేరితివి",
+        "నాదు పాపపు కుష్ఠును పారద్రోలి - పరిశుద్ధత నియ్యుము నీవేగతి"
+      ],
+      "english": [
+        "Prabhu kushthunu premathoo muttithivi - Mari dushtula chenthanu cherithivi",
+        "Naadu paapapu kushthunu paaradhroli - Parishuddhatha niyyumu neevegathi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యాయీరు కుమార్తెను లేపితివి - మరి మృతుడగు లాజరు బ్రతికెనుగా",
+        "నేను చచ్చిన పాపిని శరణు ప్రభూ నాకు వేరొక మార్గము లేదికను"
+      ],
+      "english": [
+        "Yaayeeru kumaarthenu lepithivi - Mari mruthudagu Laajaru brathikenugaa",
+        "Nenu chachchina paapini sharanu Prabhoo naaku veroka maargamu ledhikanu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ప్రభు మార్గము ప్రక్కన కూర్చొనిన - ఆ అంధుని ధ్వనిని వింటివిగా",
+        "నేను పాపిని అంధుని యేసూ ప్రభూ - నను దాటకు దిక్కిక లేదు ప్రభూ"
+      ],
+      "english": [
+        "Prabhu maargamu prakkana koorchonina - Aa andhuni dhvanini vintivigaa",
+        "Nenu paapini andhuni Yesoo Prabhoo - Nanu dhaataku dhikkika ledu Prabhoo"
+      ]
+    }
+  ]
+}

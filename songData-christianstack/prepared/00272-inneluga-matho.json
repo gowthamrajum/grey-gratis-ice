@@ -1,0 +1,86 @@
+{
+  "song_name": "Inneluga Matho",
+  "author": {
+    "Authored by": "Sister Nissy Paul",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇన్నేళ్ళుగా మాతో ఉండి నడిపించవయ్యా..",
+      "నీ బాహువు మాకు తోడుగా ఉంచి రక్షించావయ్యా",
+      "నీ కృప చేత కీడుల నుండి తప్పించవయ్యా..",
+      "ఎడబాయని నీ కృప మా యెడల చూపావేసయ్యా"
+    ],
+    "english": [
+      "Inna yellaaga maatho undi nadipinchavayya",
+      "nee baahuvu maaku thoduga unchi rakshinchavayya",
+      "nee krupa chetha keedula nundi thappinchavayya",
+      "edabayina nee krupa maa yedala choopavesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీకే ఆరాధన చెల్లించెద యేసయ్య",
+        "నీకే స్తోత్రార్పణ అర్పించెద యేసయ్య"
+      ],
+      "english": [
+        "Neeke aaradhana chellincheda yesayya",
+        "neeke sthothraarpana arpincheda yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "1 నీ వాత్సల్యము చేత మమ్మును నడిపించావు..",
+        "దినదినము నీ కృప చూపి నీలో భద్రపరిచావు",
+        "ఏ తెగులైనా తాకనీయక సంరక్షించావు",
+        "మా కన్నీటిని తుడిచి ఆదరణగ నిలిచావు"
+      ],
+      "english": [
+        "Nee vaathsalyamu chetha mammulunu nadipinchavu",
+        "dhinadhinamu nee krupa choopi neelo bhadraparichavu",
+        "ye thegulainaa thaakaniyaka samrakshinchavu",
+        "maa kannitini thudichi aadharanaaga nilichavu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీకే ఆరాధన చెల్లించేద యేసయ్య",
+        "నీకే స్తోత్రార్పణ అర్పించెద యేసయ్య"
+      ],
+      "english": [
+        "Neeke aaradhana chellinchedha yesayya",
+        "neeke sthothraarpana arpinchedha yesayya"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "2 ఎన్ని యుగాలకైనా నీవే మా దైవము",
+        "మా ఆయుష్కాలము వరకు నిన్నే పూజింతుము",
+        "పరిశుద్ధుడా.. అతి పరిశుద్ధుడా.. మా ప్రభు యేసయ్య",
+        "ఈ విశ్వములోనా నీకు సాటి లేనే లేదయ్యా"
+      ],
+      "english": [
+        "Enni yugaalakainaa neeve maa dhaivamu",
+        "maa aayushkaalamu varaku ninnē poojinthumu",
+        "parishuddhuda… athi parishuddhuda… maa prabhu yesayya",
+        "ee vishwamulonaa neeku saati lene ledayya"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీకే ఆరాధన చెల్లించేద యేసయ్య",
+        "నీకే స్తోత్రార్పణ అర్పించెద యేసయ్య"
+      ],
+      "english": [
+        "Neeke aaradhana chellinchedha yesayya",
+        "neeke sthothraarpana arpinchedha yesayya"
+      ]
+    }
+  ]
+}

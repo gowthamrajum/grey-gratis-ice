@@ -1,0 +1,98 @@
+{
+  "song_name": "Oddu Cheri Nee Yedhuta",
+  "author": {
+    "Authored by": "Charles Carroll Luther",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఒక్క యాత్మనైన నేను",
+      "రక్షింపక యేసువా",
+      "వట్టి చేతులతో నిన్ను",
+      "దర్శించుట తగునా"
+    ],
+    "english": [
+      "Okka yaathmanaina nenu",
+      "rakshimpaka yesuvaa",
+      "vatti chethulatho ninnu",
+      "dharsinchuta thagunaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఒడ్డుచేరి నీ యెదుట",
+        "నిల్పునపుడు రక్షకా",
+        "ఒక్క యాత్మనైన తేక",
+        "సిగ్గుపడిపోదునా"
+      ],
+      "english": [
+        "Odducheri nee yedhuta",
+        "nilpunapudu rakshakaa",
+        "okka yaathmanaina theka",
+        "siggupadipodhunaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆత్మలందు వాంఛలేక",
+        "సోమరులై కాలమున్",
+        "వ్యర్థపరచు వారానాడు",
+        "చింతతోడ నిల్తురు"
+      ],
+      "english": [
+        "Aathmalandhu vaanchaleka",
+        "somarulai kaalamun",
+        "vyarthaparachu vaaraanaadu",
+        "chinthathoda nilthuru"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యేసువా! నా స్వరక్షణ",
+        "నిశ్చయంబు యైనదే",
+        "ఐన ఫలితంబు జూడ",
+        "కష్టపడనైతినే"
+      ],
+      "english": [
+        "Yesuvaa! naa swarakshana",
+        "nischayambu yainadhe",
+        "aina phalithambu jooda",
+        "kashtapadanaitine"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కాలమెల్ల గడ్చిపోయెన్",
+        "మోసపోతినేనయ్యో",
+        "గడ్చినట్టి కాలమైతే",
+        "ఏడ్చినను రాదది"
+      ],
+      "english": [
+        "Kaalamella gadchipoyen",
+        "mosapothi nenayyo",
+        "gadchinatti kaalamaithe",
+        "edchinanu raadhadhi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "భక్తులారా! ధైర్యంతోడ",
+        "లేచి ప్రకాశించుడీ",
+        "ఆత్మలెల్ల యేసు యొద్ద",
+        "చేరునట్లు చేయుడి"
+      ],
+      "english": [
+        "Bhakthulaaraa! dhairyamthoda",
+        "lechi prakaasinchudi",
+        "aathmalella yesu yoddha",
+        "cherunatlu cheyudi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "song_name": "Nanu srujiyinchina",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నను సృజియించిన నా తండ్రికే ఆరాధన",
+      "నను రక్షించిన యేసయ్యకే ఆరాధన",
+      "నను నడిపించే పరిశుద్దాత్మునికే ఆరాధన",
+      "నను పాలించే త్రియేక దేవునికే ఆరాధన",
+      "ఆరాధన ఆరాధన ఆరాధన ఆరాధన"
+    ],
+    "english": [
+      "Nanu srujiyinchina naa thandrike aaraadhana",
+      "Nanu rakshinchina Yesayyake aaraadhana",
+      "Nanu nadipinche parishuddhaathmunike aaraadhana",
+      "Nanu paalinche thriyeka Devunike aaraadhana",
+      "Aaraadhana aaraadhana aaraadhana aaraadhana"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మట్టిని తీసాడు తన రూపును చేశాడు",
+        "ప్రాణం పోసాడు జీవించమన్నాడు ఆతండ్రికే ఆరాధన"
+      ],
+      "english": [
+        "Mattini theesaadu thana roopunu cheshaadu",
+        "Praanam posaadu jeevinchamannaadu aa thandrike aaraadhana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మహిమను విడిచాడు మంటి దేహము దాల్చాడు",
+        "ప్రాణం పెట్టాడు నిత్య జీవము నిచ్చాడు యేసయ్యకే ఆరాధన"
+      ],
+      "english": [
+        "Mahimanu vidichaadu manti dehamu dhaalchaadu",
+        "Praanam pettaadu nithya jeevamu nichchaadu Yesayyake aaraadhana"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పరిపూర్ణుని చేయుటకై పరిశుద్దాత్ముడు వచ్చాడు",
+        "అభిషేకించాడు నను నడిపించుచున్నాడు ఆత్మ దేవునికే ఆరాధన."
+      ],
+      "english": [
+        "Paripoornuni cheyutakai parishuddhaathmudu vachchaadu",
+        "Abhishekinchaadu nanu nadipinchuchunnaadu aathma Devunike aaraadhana."
+      ]
+    }
+  ]
+}

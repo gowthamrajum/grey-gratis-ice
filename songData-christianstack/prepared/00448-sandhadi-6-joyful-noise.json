@@ -1,0 +1,53 @@
+{
+  "song_name": "Sandhadi 6 (Joyful Noise)",
+  "author": {
+    "Authored by": "Dr Shalem Raj, Azuba Daniel kalyanapu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సందడి సందడి సందడి సందడి సందడి చేద్దామే",
+      "బేత్లెహేము పురములోన సందడి చేద్దామే",
+      "సందడి సందడి సందడి సందడి సందడి చేద్దామే",
+      "దావీదు పురములోన సందడి చేద్దామే"
+    ],
+    "english": [
+      "Sandhadi sandhadi sandhadi sandhadi sandhadi cheddaamey",
+      "bethlehemu puramulona sandhadi cheddaamey",
+      "sandhadi sandhadi sandhadi sandhadi sandhadi cheddaamey",
+      "dhaaveedhu puramulona sandhadi cheddaamey"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సంబరమాశ్చర్యాలతో భూమి ఊపిరి బిగబట్టెనే",
+        "శిశువు మృదువు హస్త స్పర్శను పుడమి ముద్దాడెనే",
+        "ఆకాశం చుక్కలతో అలంకరించుకొనెనే",
+        "అందులో ఒక తార రక్షకుని జాడ తెలిపింది"
+      ],
+      "english": [
+        "Sambaramaascharyaalatho bhoomi oopiri bigabatteney",
+        "sisuvu mrudhuvu hastha sparsanu pudami muddhaadeney",
+        "aakaasam chukkalatho alankarinchukoneney",
+        "andhulo oka thaara rakshakuni jaada thelipindhi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చమకు చమకు మంటు ఒక తార వెలసెనే",
+        "నింగి నేల ఏకమై సందడి చేసెనే",
+        "కన్యక గర్భాన రారాజు పుట్టాడే",
+        "ఊరు వాడ వీధుల్లలో సందడి చేద్దామే"
+      ],
+      "english": [
+        "Chamaku chamaku mantu oka thaara velaseney",
+        "ningi nela ekamai sandhadi cheseney",
+        "kanyaka garbhaana raaraaju puttaadey",
+        "ooru vaada veedhullalo sandhadi cheddhaamey"
+      ]
+    }
+  ]
+}

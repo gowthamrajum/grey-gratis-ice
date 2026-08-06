@@ -1,0 +1,61 @@
+{
+  "song_name": "Mariyaa thanayudai manujaavathaarudai",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Suresh Nittala"
+    ],
+    "రచన": [
+      "సురేష్ నిట్టల"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "మరియా తనయుడై – మనుజావతారుడై",
+      "మహిలోన వెలసెను – మనకొరకై జన్మించెను",
+      "“ఆనందమానందమే – లోకానికి శుభదినమే",
+      "ఆనందమానందమే – సర్వసృష్టికి సంతోషమే”"
+    ],
+    "english": [
+      "Mariyaa thanayudai - Manujaavathaarudai",
+      "Mahilona velasenu - Manakorakai janminchenu",
+      "“Aanandamaanandame - Lokaaniki shubhadhiname",
+      "Aanandamaanandame - Sarvasrushtiki santhoshame”"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఒక దూత తెలిపెను – గొల్లలకు శుభవార్తను",
+        "ఒక తార వెలిసెను – రారాజుని ప్రకటించెను"
+      ],
+      "english": [
+        "Oka dootha thelipenu - Gollalaku shubhavaarthanu",
+        "Oka thaara velisenu - Raaraajuni prakatinchenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బెత్లెహేము పురములో – దావీదు వంశంబులో",
+        "రక్షకుడు వెలసెను – మన పాపము తొలగించెను"
+      ],
+      "english": [
+        "Bethlehemu puramulo - Daaveedu vamshambulo",
+        "Rakshakudu velasenu - Mana paapamu tholaginchenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రాజులకే రాజుగా – ప్రభువులకే ప్రభువుగా",
+        "ఇమ్మానుయేలుగ – యేసయ్య జన్మించెగ"
+      ],
+      "english": [
+        "Raajulake raajugaa - Prabhuvulake prabhuvugaa",
+        "Immaanuyeluga - Yesayya janminchega"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "song_name": "O Prabhuvaa nee sevan cheseda nithyamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "25:4",
+      "ఓ ప్రభువా నీ సేవన్ - చేసెద నిత్యము (2)",
+      "నీ మాటే వినెద - నరుని మాట వినకుందు (2)"
+    ],
+    "english": [
+      "25:4",
+      "O Prabhuvaa nee sevan - Cheseda nithyamu (2)",
+      "Nee maate vinedha - Naruni maata vinakundhu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శోధించు స్వరములు - వినబడుచునున్నవి వేధించు నేరములు",
+        "పైబడుచునున్నవి - బోధించు నీ మార్గం - వినిపించు నీ స్వరము"
+      ],
+      "english": [
+        "Shodhinchu swaramulu - Vinabaduchununnavi vedhinchu neramulu",
+        "Paibaduchununnavi - Bodhinchu nee maargam - Vinipinchu nee swaramu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బలమైన శత్రువు - బాధించుచున్నాడు విలువైన నీ రక్తం",
+        "ప్రోక్షించు నాపైన - నీ హస్త బలముతో - జయమును నాకిమ్ము"
+      ],
+      "english": [
+        "Balamaina shathruvu - Baadhinchuchunnaadu viluvaina nee raktham",
+        "Prokshinchu naapaina - Nee hastha balamutho - Jayamunu naakimmu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "లోకాశలు నన్ను - కదిలించుచున్నవి నిరాశ సమయములు",
+        "బెదిరించుచున్నవి - ఆకాశము నుండి - ఆదరించుము నన్ను"
+      ],
+      "english": [
+        "Lokaashalu nannu - Kadhilinchuchunnavi niraasha samayamulu",
+        "Bedhirinchuchunnavi - Aakaashamu nundi - Aadharinchumu nannu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "బేతేలు దర్శనము - స్పష్టముగా చూపించు పెనుయేలు పోరాటం",
+        "దినదినము నేర్పించు - నా కాలమంతయు - నను నడుపు నా ప్రభువా"
+      ],
+      "english": [
+        "Bethelu darshanamu - Spashtamugaa choopinchu Penuyelu poraatam",
+        "Dinadinamu nerpinchu - Naa kaalamanthayu - Nanu nadupu naa Prabhuvaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మెల్లని నీ స్వరమున్ - మధురముగా వినిపించు తిన్నని నీ త్రోవన్",
+        "నా కొరకు చూపించు - నీ వెలుగులో నన్ను - నిత్యము నడిపించు"
+      ],
+      "english": [
+        "Mellani nee swaramun - Madhuramugaa vinipinchu thinnani nee throvan",
+        "Naa koraku choopinchu - Nee velugulo nannu - Nithyamu nadipinchu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "పరిశోధించుము నన్ను - పరిశుద్ధ వాక్యముతో పరిశుద్ధాత్మ చేనన్",
+        "ప్రభునింపు నీ కొరకే - పరిశుద్ధ సంఘములో - అంగముగా ధౄఢపరచు"
+      ],
+      "english": [
+        "Parishodhinchumu nannu - Parishuddha vaakyamutho parishuddhaathma chenan",
+        "Prabhunimpu nee korake - Parishuddha sanghamulo - Angamugaa dhrudhaparachu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "క్రీస్తే నా జ్ఞానము - క్రీస్తే నా నీతియును క్రీస్తే నా విజయము",
+        "క్రీస్తే నా ఆశ్రయము - క్రీస్తే నా రారాజు - క్రీస్తే నా సర్వము"
+      ],
+      "english": [
+        "Kreesthe naa gnaanamu - Kreesthe naa neethiyunu Kreesthe naa vijayamu",
+        "Kreesthe naa aashrayamu - Kreesthe naa raaraaju - Kreesthe naa sarvamu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "song_name": "Naa praana priyudaa naa Yesu prabhuvaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రాణ ప్రియుడా నా యేసు ప్రభువా",
+      "నా జీవితం అంకితం నీకే నా జీవితం అంకితం"
+    ],
+    "english": [
+      "Naa praana priyudaa naa Yesu prabhuvaa",
+      "Naa jeevitham ankitham neeke naa jeevitham ankitham"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ సత్యము సమాజములో నీ నీతిని నా హృదయములో",
+        "దాచియుంచ లేనూ ప్రభు స్ధుతియాగముగ నూతన గీతము నేపాడెద (2)"
+      ],
+      "english": [
+        "Nee sathyamu samaajamulo nee neethini naa hrudayamulo",
+        "Dhaachiyuncha lenoo Prabhu sthuthiyaagamuga noothana geethamu nepaadedha (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా ఎడ నీకున్న తలంపులు బహు విస్తారములై యున్నవి (2)",
+        "వాటిని వివరించి చెప్పాలేని అవి అన్నియును లెక్కకు మించిన వైయున్నవి"
+      ],
+      "english": [
+        "Naa eda neekunna thalampulu bahu visthaaramulai yunnavi (2)",
+        "Vaatini vivarinchi cheppaaleni avi anniyunu lekkaku minchina vaiyunnavi"
+      ]
+    }
+  ]
+}

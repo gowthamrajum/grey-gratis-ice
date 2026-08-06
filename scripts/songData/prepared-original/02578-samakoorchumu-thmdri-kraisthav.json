@@ -1,0 +1,35 @@
+{
+  "song_name": "Samakoorchumu Thmdri Kraisthav",
+  "author": {
+    "Authored by": "",
+    "రచన": "సరెళ్ల సమూయేలు సుబ్బయ్య"
+  },
+  "main_stanza": {
+    "telugu": [
+      "సమకూర్చుము తండ్రి క్రైస్తవ సభలో నైక్యతను ద్వరలోఁ దమ ప్రియ కొమరుఁడు శ్రమలకుఁ బూర్వం బమితాసక్తితో నడిగిన విధ మున ||సమ||"
+    ],
+    "english": [
+      "samakoorchumu thMdri kraisthava sabhaloa naikyathanu dhvaraloaAO dhama priya komaruAOdu shramalakuAO boorvM bamithaasakthithoa nadigina viDha muna ||sama||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేశము రక్షణకై తండ్రి దేవుని మహిమార్థం నిజముగ వాసిగఁ గూర్పను భాసుర ఐక్యం బాశతో నిన్నిటు నడుగుచునుండఁగ ||సమ||"
+      ],
+      "english": [
+        "dhaeshamu rakShNakai thMdri dhaevuni mahimaarThM nijamuga vaasigAO goorpanu bhaasura aikyM baashathoa ninnitu naduguchunuMdAOga ||sama||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసుని నామమున్ మమ్ముల నేకముజేయు మిఁకఁ దండ్రి నీ సిలువను జూ చుచు మే మిలలో వాసిగఁ బ్రేమతో వర్థిల్లుటకై ||సమ||"
+      ],
+      "english": [
+        "yaesuni naamamun mammula naekamujaeyu miAOkAO dhMdri nee siluvanu joo chuchu mae milaloa vaasigAO braemathoa varThillutakai ||sama||"
+      ]
+    }
+  ]
+}

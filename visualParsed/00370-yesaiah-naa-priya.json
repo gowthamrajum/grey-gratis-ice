@@ -1,0 +1,57 @@
+{
+  "song_name": "Yesayyaa naa priyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Yesanna"
+    ],
+    "రచన": [
+      "బ్రదర్ యేసన్న"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసయ్యా నాప్రియా !",
+      "ఎపుడో నీ రాకడ సమయం"
+    ],
+    "english": [
+      "Yesayyaa naa priyaa !",
+      "Epudo nee raakada samayam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దురవస్థలలో ఒంటరినై -దుమికి ధూళిగా మారినను (2)",
+        "దూరాన నీ ముఖ దర్శనము -ధృవతారగ నాలో వెలిగెనే (2)  ||యేసయ్యా||"
+      ],
+      "english": [
+        "Dhuravasthalalo ontarinai - Dhumiki dhooligaa maarinanu (2)",
+        "Dooraana nee mukha darshanamu - Dhruvathaaraga naalo veligene (2)  ||Yesayyaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మరపురాని నిందలలో - మనసున మండే మంటలలో (2)",
+        "మమతను చూపిన నీ శిలువను - మరచిపోదునా నీ రాకను (2)  ||యేసయ్యా||"
+      ],
+      "english": [
+        "Marapuraani nindhalalo - Manasuna mande mantalalo (2)",
+        "Mamathanu choopina nee shiluvanu - Marachipodhunaa nee raakanu (2)  ||Yesayyaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రియుడా నిన్ను చూడాలని - ప్రియ నీవలెనే మారాలని",
+        "ప్రియతమా నాకాంక్ష తీరాలని -ప్రియమార నామది కోరెనే  ||యేసయ్యా||"
+      ],
+      "english": [
+        "Priyudaa ninnu choodaalani - Priya neevalene maaraalani",
+        "Priyathamaa naa kaanksha theeraalani - Priyamaara naa madi korene  ||Yesayyaa||"
+      ]
+    }
+  ]
+}

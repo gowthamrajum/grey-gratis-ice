@@ -1,0 +1,63 @@
+{
+  "song_name": "Manulu Maanikyamulunnaa Maedamidhdhelu Ennunnaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మణులు మాణిక్యములున్నా మేడమిద్దెలు ఎన్నున్నా",
+      "మదిలో యేసులేకున్నా ఏది ఉన్నా అది సున్నా"
+    ],
+    "english": [
+      "Manulu Maanikyamulunnaa Maedamidhdhelu Ennunnaa",
+      "Madhiloa Yaesulaekunnaa Aedhi Unnaa Adhi Sunnaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చదువులెన్నో చదివివున్నా పదవులెన్నో చేస్తున్నా",
+        "విద్యవున్నా బుద్ధివున్నా జ్ఞానమున్నా అది సున్నా"
+      ],
+      "english": [
+        "Chadhuvulennoa Chadhivivunnaa Padhavulennoa Chaesthunnaa",
+        "Vidhyavunnaa Budhdhivunnaa Jnyaanamunnaa Adhi Sunnaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అందచందా లెన్నున్నా అండములపై కూర్చున్నా",
+        "సుందరుడు ప్రభులేక యున్నా అందమున్నా అది సున్నా"
+      ],
+      "english": [
+        "Amdhachamdhaa Lennunnaa Amdamulapai Koorchunnaa",
+        "Sumdharudu Prabhulaeka Yunnaa Amdhamunnaa Adhi Sunnaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రాజ్యములు రమణులు ఉన్నా శౌర్యములు వీర్యము లున్నా",
+        "బలము ఉన్నా బలగమున్నా ఎన్నివున్నా అవి సున్నా"
+      ],
+      "english": [
+        "Raajyamulu Ramanulu Unnaa Shauryamulu Veeryamu Lunnaa",
+        "Balamu Unnaa Balagamunnaa Ennivunnaa Avi Sunnaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పూజ్యుడా పుణ్యాత్ముండా పుణ్యకార్య సిద్ధుడా",
+        "దానధర్మము జపము తపము యేసులేనిది అదిసున్నా"
+      ],
+      "english": [
+        "Poojyudaa Punyaathmumdaa Punyakaarya Sidhdhudaa",
+        "Dhaanadharmamu Japamu Thapamu Yaesulaenidhi Adhisunnaa"
+      ]
+    }
+  ]
+}

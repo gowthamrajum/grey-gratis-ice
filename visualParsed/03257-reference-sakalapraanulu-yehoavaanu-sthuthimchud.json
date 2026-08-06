@@ -1,0 +1,69 @@
+{
+  "song_name": "Yehova mahonnathudaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవా మహోన్నతుడా - మహిమయు నీదే",
+      "ఇహమందు రక్షకా - మహిమంచి దాతవు"
+    ],
+    "english": [
+      "Yehova mahonnathudaa - Mahimayu neede",
+      "Ihamandu rakshakaa - Mahimanchi daathavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాలకుడవు పరమందు - ఏలికవు యెల్లరికి",
+        "చాలినట్టి ప్రధానుండా - సకల యధికారులకును",
+        "రాజుల రాజు ప్రభువుల ప్రభువు - ధరపర లోకములకు",
+        "దేవుడ వీవే ధన్యుండ నీకే ఘనమైన మహిమ"
+      ],
+      "english": [
+        "Paalakudavu paramandu - Elikavu ellariki",
+        "Chaalinatti pradhaanundaa - Sakala yadhikaarulakunu",
+        "Raajula raaju prabhuvula prabhuvu - Dharapara lokamulaku",
+        "Devuda veeve dhanyunda neeke ghanamaina mahima"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరమును విడచితివి - ధర కేతెంచితివి",
+        "ప్రాణమీవు బలిగానిచ్చి - మమ్మును రక్షించితివి",
+        "తిరిగి లేచి మాకు - కరుణ జీవమిచ్చితివి",
+        "విరివగు నీ ప్రేమ - నరులపై చూపితివి",
+        "ధర నీదే ఘనతయని - ల పాడుదుము"
+      ],
+      "english": [
+        "Paramunu vidachithivi - Dhara kethenchithivi",
+        "Praanameevu baligaanichchi - Mammunu rakshinchithivi",
+        "Thirigi lechi maaku - Karuna jeevamichchithivi",
+        "Virivagu nee prema - Narulapai choopithivi",
+        "Dhara neede ghanathayani - La paadudhumu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సంఘమందు మహిమ నీకే - సకల యుగములకును",
+        "యుగమందు ప్రతిజీవి - యెహోవాయని యనున్",
+        "జగమంతటికి నీవు - నిజమైన ప్రభుడవు",
+        "ఆది యంతమై నీవు - అలరారుచున్నావు",
+        "యుగయుగములకు - ఘనమహిమ కలుగును"
+      ],
+      "english": [
+        "Sanghamandhu mahima neeke - Sakala yugamulakunu",
+        "Yugamandhu prathijeevi - Yehovaayani yanun",
+        "Jagamanthatiki neevu - Nijamaina prabhudavu",
+        "Aadi yanthamai neevu - Alaraaruchunnaavu",
+        "Yugayugamulaku - Ghanamahima kalugunu"
+      ]
+    }
+  ]
+}

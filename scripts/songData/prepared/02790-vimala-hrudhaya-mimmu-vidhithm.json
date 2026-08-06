@@ -1,0 +1,85 @@
+{
+  "song_name": "Vimala Hrudhaya Mimmu Vidhithambu",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఆల్ఫ్రెడ్ త్యాగరాజు పామర్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "విమల హృదయ మిమ్ము విదితంబు నినుఁ గొల్వ యేసునాధా",
+      "నీదు విమల రక్తము చేత విశదమౌ యెద నిమ్ము విశ్వనాధా"
+    ],
+    "english": [
+      "Vimala Hrudhaya Mimmu Vidhithambu Ninun Golva Yaesunaadhaa",
+      "Needhu Vimala Rakthamu Chaetha Vishadhamau Yedha Nimmu Vishvanaadhaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అణఁకువ క్షమశాంత మధికముగ నాకిమ్ము ఆత్మనాధా",
+        "నీకుఁ బ్రణుతమౌ నా యెద ప్రభునిపీఠము జేయు మాత్మనాధా"
+      ],
+      "english": [
+        "Anankuva Kshamashaantha Madhikamuga Naakimmu Aathmanaadhaa",
+        "Neekun Branuthamau Naa Yedha Prabhunipeetamu Jaeyu Maathmanaadhaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ చిత్తమే యంచు నీ పాదములఁ బట్టి నిల్చియుందు నిండు",
+        "నికరమౌ ప్రకటమౌ సుకరహృదయ మిమ్ము మేసునాధా"
+      ],
+      "english": [
+        "Nee Chiththamae Yanchu Nee Paadhamulan Batti Nilchiyundhu Nindu",
+        "Nikaramau Prakatamau Sukarahrudhaya Mimmu Maesunaadhaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "భయభక్తు లలరెడు భావంబు నా కిమ్ము జీవనాధా",
+        "నన్ను లయ జీవములయందు జయశాలినిగఁ జేయు మేసునాధా"
+      ],
+      "english": [
+        "Bhayabhakthu Lalaredu Bhaavambu Naa Kimmu Jeevanaadhaa",
+        "Nannu Laya Jeevamulayandhu Jayashaalinigan Jaeyu Maesunaadhaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పరిశుద్ధ హృదయంబు పరమేశ నా కిమ్ము ధరణిమీఁద",
+        "నన్ని తరుణములను నాకా దరణ మీవే యంచుఁ దలఁప నాధా"
+      ],
+      "english": [
+        "Parishudhdha Hrudhayambu Paramaesha Naa Kimmu Dharanimeendha",
+        "Nanni Tharunamulanu Naakaa Dharana Meevae Yanchun Dhalanpa Naadhaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీ రూపము నిమ్ము నినుఁ బోలి నేనుండ నిత్యనాధా",
+        "నీదు సారూప్య మెదమీద సంపూర్తిగా వ్రాయు సత్యనాధా"
+      ],
+      "english": [
+        "Nee Roopamu Nimmu Ninun Boali Naenunda Nithyanaadhaa",
+        "Needhu Saaroopya Medhameedha Sampoorthigaa Vraayu Sathyanaadhaa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ప్రేమపూరిత హృదయ మేమరక నా కిమ్ము ప్రేమనాధా",
+        "యెంతో ప్రేమమౌ సుమమౌ నేమమౌ బ్రతుకిమ్ము క్షేమనాధా"
+      ],
+      "english": [
+        "Praemapooritha Hrudhaya Maemaraka Naa Kimmu Praemanaadhaa",
+        "Yenthoa Praemamau Sumamau Naemamau Brathukimmu Kshaemanaadhaa"
+      ]
+    }
+  ]
+}

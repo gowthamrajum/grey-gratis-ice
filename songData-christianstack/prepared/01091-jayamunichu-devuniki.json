@@ -1,0 +1,44 @@
+{
+  "song_name": "Jayamunichu Devuniki",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జయమునిచ్చు దేవునికి కోట్ల కోట్ల స్తోత్రం",
+      "జీవమిచ్చిన యేసు రాజునకు",
+      "జీవితమంత స్తోత్రం",
+      "హల్లెలూయ హల్లెలూయ పాడెదం",
+      "ఆనంద ధ్వనితో సాగెదమ్"
+    ],
+    "english": [
+      "Jayamunichu dhevuniki – kotla kotla sthothram",
+      "jeevamichina yesuraajunaku",
+      "jeevithamantha sthothram",
+      "Hallelujah, Hallelujah paadedham",
+      "aanandha dhvanitho saagedham"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీతి కరముచే – తాకి నడుపును",
+        "దేవుడే మా బలం – దేనికి భయపడ౦",
+        "అద్భుత దేవుడు – సృష్టి కారకుడు",
+        "యుద్ధములో ప్రవీణుడు – రక్షకుడు జయించును",
+        "నిజమైన దేవుడు – సత్యవంతుడు",
+        "కాపాడువాడు – కునుకడు నిద్రించడు"
+      ],
+      "english": [
+        "Neethi karamuche – thaaki nadupunu",
+        "dhevude maa balam – dheniki bhayapadam",
+        "Adhbhutha dhevudu – srushtikaarakudu",
+        "yudhamuna praveenudu – rakshakudu jayamichunu",
+        "Nijamaina dhevudu – sathyavanthudu",
+        "kaapaaduvaadu – kunukadu nidhrinchadu"
+      ]
+    }
+  ]
+}

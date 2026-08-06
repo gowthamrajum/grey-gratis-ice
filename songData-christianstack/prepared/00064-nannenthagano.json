@@ -1,0 +1,67 @@
+{
+  "song_name": "Nannenthagano",
+  "author": {
+    "Authored by": "Joshua Shaik",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నన్నెంతగానో నీవు కోరావుగా",
+      "బ్రతుకంత నాకు తోడై ఉన్నావుగా",
+      "రచించావు నన్ను నీవు",
+      "క్షమించావు నన్ను నీవు",
+      "నీ ప్రేమ చాలు నాకు నా యేసయ్య"
+    ],
+    "english": [
+      "Nannenthagano neevu koraavuga",
+      "Brathukantha naaku thodai unnaavuga",
+      "Rachinchaavu nannu neevu",
+      "Kshaminchaavu nannu neevu",
+      "Nee prema chaalu naaku naa yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏముంది ఈ జగాన – ఎదురీత సాగరాన",
+        "నా జీవ నావ నీవే నా యేసయ్య",
+        "తీరాలే దూరమైన – కనుమేర చీకటైన",
+        "ఏ భయము లేదు నాకు నీవుండగా",
+        "అలజడులే రేగినా – అధికారం నీదనీ",
+        "అనుదినము నీ కృపా – స్తుతియించి పాడనీ",
+        "ప్రియమైన యేసయ్య – నడిపించు నన్నిలా"
+      ],
+      "english": [
+        "Emundhi ee jagaana – yedhureetha saagaraana",
+        "Naa jeeva naava neeve naa yesayya",
+        "Theerale dooramaina – kanumera cheekataina",
+        "Ye bhayamu ledhu naaku neevundaga",
+        "Alajadule reginaa – adhikaaram needani",
+        "Anudhinamu nee krupa – stuthiyinchi paadani",
+        "Priyamaina yesayya – nadipinchu nannila"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఊహించలేను దేవ నీవు లేని జీవితాన్ని",
+        "ఓ నిమిషమైన నేను మనలేనుగా",
+        "నాలోని ఆశ నీవే – ఎదలోని ధ్యాస నీవే",
+        "నీ పాదసేవకేగ ఈ జీవితం",
+        "ఆణువణువు నీవనీ- ఇహమందు పాడనీ",
+        "కడవరకు సాక్షిగా – కలకాలం సాగనీ",
+        "ప్రియమైన యేసయ్య – కరుణించు నన్నిలా"
+      ],
+      "english": [
+        "Oohinchalenu deva – neevu leni jeevithaanni",
+        "O nimushamiana nenu manalenugaa",
+        "Naaloni aasa neeve – yedhaloni dhyaasa neeve",
+        "Nee paadhasevakega – ee jeevitham",
+        "Anuvanuvu neevani – ihamandhu paadani",
+        "Kadavaraku saakshigaa – kalakaalam saagani",
+        "Priyamaina yesayya – karuninchu nannila"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "song_name": "Prabhuni darshanam Yesuni dharshana mondhi seva cheyumu devuniki",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభుని దర్శనం యేసుని దర్శన",
+      "మొంది సేవ - చేయుము దేవునికి"
+    ],
+    "english": [
+      "Prabhuni darshanam Yesuni dharshana",
+      "Mondhi seva - Cheyumu devuniki"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇండియ దేశము రక్షణకై ని - న్నిదిగో రమ్మనెను",
+        "పాప సముద్ర - పాప సముద్ర",
+        "అగాధములో ఆత్మలు మునిగెను"
+      ],
+      "english": [
+        "Indiya deshamu rakshanakai ni - Nnidhigo rammanenu",
+        "Paapa samudra - Paapa samudra",
+        "Agaadhamulo aathmalu munigenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సిలువపై తన ప్రాణమునిచ్చెను - కలుషాత్ములకై",
+        "తన హృదయములో - తన హృదయములో",
+        "ఇండియ దేశమునకు - స్థలమిచ్చెను"
+      ],
+      "english": [
+        "Siluvapai thana praanamunichchenu - Kalushaathmulakai",
+        "Thana hrudayamulo - Thana hrudayamulo",
+        "Indiya dheshamunaku - Sthalamichchenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యౌవన జీవితము నంతటిని - వ్యర్థము చేసితివి",
+        "రక్షకు డేసుని - రక్షకుడేసుని",
+        "తక్షణమే లేచి సేవించుమా"
+      ],
+      "english": [
+        "Yauvana jeevithamu nantatini - Vyarthamu chesithivi",
+        "Rakshakudu Yesuni - Rakshakudu Yesuni",
+        "Thakshaname lechi sevinchumaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆత్మల రక్షణకై సోదరుడా - ఆశతో లేచి రా",
+        "విస్తారముగా - విస్తారముగా",
+        "కోత యున్నది - నూతన బలమున రా"
+      ],
+      "english": [
+        "Aathmala rakshanakai sodharudaa - Aashatho lechi raa",
+        "Visthaaramugaa - Visthaaramugaa",
+        "Kotha yunnadi - Noothana balamuna raa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "song_name": "Karunaayutham Baukaaryamulu Kanabadavalegaadhaa",
+  "author": {
+    "Authored by": "",
+    "రచన": "జొన్నకూటి దానియేలు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "కఱుణాయుతం బౌకార్యములు కనబడవలెగాదా మనలో",
+      "అనవరతము మన బ్రతుకు ప్రభునికై",
+      "అంకితమగునటు నలవరచుకొనగ"
+    ],
+    "english": [
+      "Karunaayutham Baukaaryamulu Kanabadavalegaadhaa Manaloa",
+      "Anavarathamu Mana Brathuku Prabhunikai",
+      "Ankithamagunatu Nalavarachukonaga"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పొరుగవాని ప్రేమింతము మనము కొరతలన్ని యిక దీరును మనకు",
+        "తరుగుపడ్డదా గుణమది మనలో త్వరితగతిని సవరించుకొందమిక"
+      ],
+      "english": [
+        "Porugavaani Praeminthamu Manamu Korathalanni Yika Dheerunu Manaku",
+        "Tharugupaddadhaa Gunamadhi Manaloa Thvarithagathini Savarinchukondhamika"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కుంటి గ్రుడ్డి కుష్ఠు రోగులెందరో కంఠమెత్తి ఘోషించుచు నుండ",
+        "ఇంటగుడిచి సుఖియించుట న్యాయమ వంటబట్టదది స్వార్థ పర్వతము"
+      ],
+      "english": [
+        "Kunti Gruddi Kushtu Roaguleendharoa Kanthameththi Ghoashinchuchu Nunda",
+        "Intagudichi Sukhiyinchuta Nyaayama Vantabattadhadhi Svaartha Parvathamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పండువంటి కాపురంబు మనది దండిప్రభుడు దయచేసెను మనకది",
+        "బండు లోడలౌ ఓడలు బండ్లౌ",
+        "ముండ్ల కిరీటము ముందు బెట్టుకొని"
+      ],
+      "english": [
+        "Panduvanti Kaapurambu Manadhi Dhandiprabhudu Dhayachaesenu Manakadhi",
+        "Bandu Loadalau Oadalu Bandlau",
+        "Mundla Kireetamu Mundhu Bettukoni"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మనుజులందు గలవు రెండు తెగలు వినుము",
+        "పుచ్చుకొనెడువారి దొక తెగ మనసు దీర నిచ్చువారిదొక తెగ",
+        "గనుమ మనస నీవెందుగలవొ యిక"
+      ],
+      "english": [
+        "Manujulandhu Galavu Rendu Thegalu Vinumu",
+        "Puchchukoneduvaari Dhoka Thega Manasu Dheera Nichchuvaaridhoka Thega",
+        "Ganuma Manasa Neevendhugalavo Yika"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "కఱుణ రసము మాకుప్రభువా కలుగను కృపా నిమ్మా యెపుడు",
+        "అరమర లేకను అన్ని సమయముల",
+        "నందర ప్రేమను జూడగ నడుపుమ"
+      ],
+      "english": [
+        "Karuna Rasamu Maakuprabhuvaa Kaluganu Krupaa Nimmaa Yepudu",
+        "Aramara Laekanu Anni Samayamula",
+        "Nandhara Praemanu Joodaga Nadupuma"
+      ]
+    }
+  ]
+}

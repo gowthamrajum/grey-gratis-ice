@@ -1,0 +1,73 @@
+{
+  "song_name": "Goppavada",
+  "author": {
+    "Authored by": "Sridhar Eethakota",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "గొప్పవాడా మంచివాడా",
+      "అద్భుతకరుడా యేసూ"
+    ],
+    "english": [
+      "Goppavaadaa, Manchivaadaa",
+      "Adbhuthakarudaa Yesuu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దినదినము నీ వాక్యమును ధ్యానించి నే మహిమపరతును"
+      ],
+      "english": [
+        "Dhinadhinamu Nee Vaakkyamunu Dhyaaninchi",
+        "Nenu Mahimaparathunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కాలములన్నీ నీ చేతి పనులే",
+        "దినములు నీ చేతి పనులే"
+      ],
+      "english": [
+        "Kaalamulannii Nee Chethi Panule",
+        "Dinamulu Nee Chethi Panule"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఉన్నవాడా మహోన్నతుడా",
+        "సృష్టికర్తా యెహోవా"
+      ],
+      "english": [
+        "Unnavaadaa Mahonnathudaa",
+        "Srushtikarthaa Yehovaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సృస్టoతయు నీ చేతి పనియే",
+        "నీ మహిమతో అది నిండియున్నది"
+      ],
+      "english": [
+        "Srushti-yu Nee Chethi Paniye",
+        "Nee Mahimatho Adi Nindiyunnadhi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మహాఘనుడా మహిమాన్వితుడా",
+        "నిర్మించువాడా యెహోవా"
+      ],
+      "english": [
+        "Mahaa-Ghanudaa, Mahimaanvithudaa",
+        "Nirminchuvadaa Yehovaa"
+      ]
+    }
+  ]
+}

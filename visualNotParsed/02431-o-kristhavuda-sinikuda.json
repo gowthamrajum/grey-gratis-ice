@@ -1,0 +1,114 @@
+{
+  "song_name": "O Kraisthavudaa sainikudaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ క్రైస్తవుడా - సైనికుడా - బలవంతుడా - పరిశుద్ధుడా",
+      "కదలిరావోయ్ - నీవు కదలిరా",
+      "జాలరి మనుష్యుల పట్టు జాలరీ ... ఆత్మల కాయు కాపరీ",
+      "అమృతమంధించే ఆచారీ యేసుకై జీవించే పూజారి"
+    ],
+    "english": [
+      "O Kraisthavudaa - Sainikudaa - Balavanthudaa - Parishuddhudaa",
+      "Kadaliraavoy - Neevu kadaliraa",
+      "Jaalari manushyula pattu jaalaree ... aathmala kaayu kaaparee",
+      "Amruthamandhinche aachaaree Yesukai jeevinche poojaari"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సిలువే నీ స్థావరము - శ్రమలే నీ సైన్యము",
+        "సహనమే నీ ధైర్యము - సాక్ష్యమే నీ సైన్యము"
+      ],
+      "english": [
+        "Siluve nee sthaavaramu - Shramale nee sainyamu",
+        "Sahaname nee dhairyamu - Saakshyame nee sainyamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "త్యాగమే నీ క్షేమము - ప్రార్థనే నీ యవ్వనము",
+        "వాక్యమే నీ బాణము - విశ్వాసమే ఉద్యమము"
+      ],
+      "english": [
+        "Thyaagame nee kshemamu - Praarthane nee yavvanamu",
+        "Vaakyame nee baanamu - Vishwaasame udyamamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సత్యమే నీ గమ్యము - సమర్పనయే నీ శీలము",
+        "యేసే నీ కార్యక్రమము - ప్రేమే నీ పరాక్రమము"
+      ],
+      "english": [
+        "Sathyame nee gamyamu - Samarpanaye nee sheelamu",
+        "Yese nee kaaryakramamu - Preme nee paraakramamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దేశంలో విదేశం లో - గ్రామంలో కుగ్రామంలో",
+        "అడవులలో కొండలలో - పనిఎంతో ఫలమెంతో"
+      ],
+      "english": [
+        "Deshamlo vidhesham lo - Graamamlo kugraamamlo",
+        "Adavulalo kondalalo - Paniyentho phalamentho"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "జయించి లే శరీరాన్ని - ధరించుకో శిరస్త్రాన్ని",
+        "బంధించు విషపు సర్పాన్ని - బోధించు యేసు పథకాన్ని"
+      ],
+      "english": [
+        "Jayinchi le shareeraanni - Dharinchuko shirasthraanni",
+        "Bandhinchu vishapu sarpaanni - Bodhinchu Yesu pathakaanni"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "సిద్ధాంతపు గట్టు దుమికిరా - సాకులనే మెట్టులు దిగిరా",
+        "దీనుడా కాదు ధన్యుడా - విదేయుడా అజేయుడా"
+      ],
+      "english": [
+        "Siddhaanthapu gattu dumikiraa - Saakulane mettulu digiraa",
+        "Dheenudaa kaadu dhanyudaa - Vidheyudaa ajeyudaa"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "వాగ్దానపు భూమి స్వతంత్రించుకో - అధ్వాన్నపు అడవి",
+        "దాటి ముందుకు పో",
+        "నీ ఇల్లే పెనూయేలు - నీ పేరే ఇశ్రాయేలు"
+      ],
+      "english": [
+        "Vaagdhaanapu bhoomi swathanthrinchuko - Adhwaannapu adavi",
+        "Daati munduku po",
+        "Nee ille Penooyelu - Nee pere Ishraayelu"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "సంఘమే నీ రంగ స్థలం - సహవాసమే నీ స్థానము",
+        "ఏసే నీ నాయకుడు - శుద్దాత్ముడే దర్శకుడు"
+      ],
+      "english": [
+        "Sanghame nee ranga sthalam - Sahavaasame nee sthaanamu",
+        "Yese nee naayakudu - Shuddhaathmude dharshakudu"
+      ]
+    }
+  ]
+}

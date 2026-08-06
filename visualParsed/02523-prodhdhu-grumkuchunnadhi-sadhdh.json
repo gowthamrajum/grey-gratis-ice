@@ -1,0 +1,50 @@
+{
+  "song_name": "Prodhdhu grunkuchunnadhi sadhdhananguchunnadhi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "మేరీ లాల్ బరీ"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రొద్దు గ్రుంకుచున్నది సద్దణంగుచున్నది",
+      "యాకసంబు దివ్వెలు లోకమున్ వెల్గింపఁగా",
+      "స్తుతించుఁడి.",
+      "|| శుద్ధ, శుద్ధ, శుద్ద సర్వేశుఁడా",
+      "యిద్దరాకాశంబులు సన్నుతించుచున్నవి సర్వోన్నతా ||"
+    ],
+    "english": [
+      "Prodhdhu grunkuchunnadhi sadhdhananguchunnadhi",
+      "Yaakasambu dhivvelu lokamun velgimpagaa",
+      "Sthuthinchudi.",
+      "|| Shudhdha, shudhdha, shudhdha sarveshudaa",
+      "Iddharaakaashambulu sannuthinchuchunnavi sarvonnathaa ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జీవితాంతమందున నీ విచిత్ర జ్యోతులన్",
+        "జూచుచుండఁగాను మా కీవోసంగు నీ కృపన్ నిత్యోదయం."
+      ],
+      "english": [
+        "Jeevithaanthamandhuna nee vichithra jyothulan",
+        "Joochuchundagaanu maa keevosangu nee krupan nithyodhayam."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిన్ను గోరువారము నన్ను తేశ నీ దరిన్",
+        "మమ్ముఁ జేర్చుకొమ్ము నీ విమ్ము నిత్య సౌఖ్యమున్ స్తోత్రం నీకు."
+      ],
+      "english": [
+        "Ninnu goruvaaramu nannu thesha nee dharin",
+        "Mammu jerchukommu nee vimmu nithya saukhyamun sthothram neeku."
+      ]
+    }
+  ]
+}

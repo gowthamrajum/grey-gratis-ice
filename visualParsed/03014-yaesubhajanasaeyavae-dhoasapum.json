@@ -1,0 +1,62 @@
+{
+  "song_name": "Yesubhajanaseyave dhosapumanasaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "ఓగిరాల గాబ్రియేలు"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసుభజనసేయవే దోసపుమనసా! వాసిగ నేనే, వరరక్షకుఁడు వేసారి",
+      "వసుధ నెవ్వారినిఁ గానము ||యేసు||"
+    ],
+    "english": [
+      "Yesubhajanaseyave dhosapumanasaa! vaasiga nene, vararakshakudu vesaari",
+      "Vasudha nevvaarini gaanamu ||Yesu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ధారుణపాప భరణా! హరణా! కారుణ్యకరయని కోరిభజింపవె  ||యేసుభజనసేయవే||"
+      ],
+      "english": [
+        "Dhaarunapaapa bharanaa! haranaa! kaarunyakarayani koribhajimpave ||Yesubhajanaseyave||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శాంతిసునీతి సదములభక్తిన్ వింతగనిడు మన శ్శాంతిసుధాకరుఁ",
+        "||డేసు||"
+      ],
+      "english": [
+        "Shaanthisuneethi sadhamulabhakthin vinthaganidu mana shshaanthisudhaakaru",
+        "||Desu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అనఘా! నీవే అవనితలంబున ననుఁగనుఁగొంటివి నా ధనమంటివి  ||యేసుభజనసేయవే||"
+      ],
+      "english": [
+        "Anaghaa! neeve avanithalambuna nanuganugontivi naa dhanamantivi ||Yesubhajanaseyave||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మనసా! నీదు మలినంబును తా మనుగడ, సిల్వపై మాపెమహాత్ముఁ",
+        "డు  ||యేసుభజనసేయవే||"
+      ],
+      "english": [
+        "Manasaa! needu malinambunu thaa manugada, silvapai maapemahaathmu",
+        "Du ||Yesubhajanaseyave||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "song_name": "Opaapee sandhinchithivaa nee paapa vimochakuni",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓపాపీ - సంధించితివా - నీ పాప - విమోచకుని",
+      "నీ పాపముల్ - క్షమించి - నీ ప్రాణమునకు - శాంతినొసగున్"
+    ],
+    "english": [
+      "Opaapee - Sandhinchithivaa - Nee paapa - Vimochakuni",
+      "Nee paapamul - Kshaminchi - Nee praanamunaku - Shaanthinosagun"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "బంధింపబడె - ప్రభువైన యేసు - విడుదల జేయనిన్ను",
+        "నిందను పొందెను - పొంద నీ వానందము"
+      ],
+      "english": [
+        "Bandhimpabade - Prabhuvaina Yesu - Vidudala jeyaninnu",
+        "Nindanu pondenu - Ponda nee vaanandhamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "క్రీస్తు యేసు - నీ కొరకేడ్చె - గెత్సెమనే - వనములో",
+        "వాత్సల్యముతో - నిన్నానందింపజేయ"
+      ],
+      "english": [
+        "Kreesthu Yesu - Nee korakedche - Gethsemane - Vanamulo",
+        "Vaatsalyamutho - Ninnaanandhimpajeya"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రక్షకుడు తీర్పుకై - నిలిచె - అక్షయ జీవమీయ",
+        "శిక్షను బొందె - నిన్నానందింపజేయ"
+      ],
+      "english": [
+        "Rakshakudu theerpukai - Niliche - Akshaya jeevameeya",
+        "Shikshanu bondhe - Ninnaanandhimpajeya"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ప్రభువైన యేసు - తట్టుచున్నాడు - నీ హృదయ ద్వారమున్",
+        "అబ్బును శాంతి - తెరచిన హృదయమున్"
+      ],
+      "english": [
+        "Prabhuvaina Yesu - Thattuchunnaadu - Nee hrudaya dhwaaramun",
+        "Abbunu shaanthi - Therachina hrudhayamun"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "జీవజలమిచ్చు - ప్రభువైన యేసు - దప్పిగొనియున్న నీకు",
+        "జీవితాంతము వరకు - దప్పిగొన వే మాత్రము"
+      ],
+      "english": [
+        "Jeevajalamichchu - Prabhuvaina Yesu - Dhappigoniyunna neeku",
+        "Jeevithaanthamu varaku - Dhappigona ve maathramu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "రక్షణ దుర్గమున నిన్నుంచి - శత్రువును అణచివేసి",
+        "దక్షిణ హస్తముతో - కప్పును - నిన్నెప్పుడు"
+      ],
+      "english": [
+        "Rakshana dhurgamuna ninnunchi - Shathruvunu anachivesi",
+        "Dakshina hasthamutho - Kappunu - Ninneppudu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "దేవుని స్వరము - వినుడి నేడే - దైవపుత్రులౌదురు",
+        "సేవించుడి క్రీస్తుని - జీవితములర్పించి"
+      ],
+      "english": [
+        "Devuni swaramu - Vinudi nede - Dhaivaputhrulaudhuru",
+        "Sevinchudi Kreesthuni - Jeevithamularpinchi"
+      ]
+    }
+  ]
+}

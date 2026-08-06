@@ -1,0 +1,108 @@
+{
+  "song_name": "Raajula Raju",
+  "author": {
+    "Authored by": "Shyam Joseph",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాజుల రాజు యూదుల రాజు",
+      "మహా రాజు నేడే పుట్టెను రా",
+      "ఇక సందడి సందడి సందడి చేద్దామా",
+      "నేడే పండుగ పండుగ పండుగ వచ్చే రా"
+    ],
+    "english": [
+      "Raajula raaju, yoodula raaju",
+      "Mahaa raaju neadea puttenu raa",
+      "Ika sandhadi sandhadi, sandhadi cheddaamaa",
+      "Neadea panduga panduga panduga vacche raa",
+      "Raajula raaju, yoodula raaju",
+      "Mahaa raaju neadea puttenu raa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రాజుల రాజు యూదుల రాజు",
+        "మహా రాజు నేడే పుట్టెను రా"
+      ],
+      "english": [
+        "Cheekati nundi veluguloniki",
+        "Mammunu cherchutaku vacchenu raa",
+        "Yesu vacchenu, manachenthaki vacchenu",
+        "Manakai vacchenu, mana yesu raaju raa",
+        "Anduke",
+        "Ika sandhadi sandhadi, sandhadi cheddaamaa",
+        "Neadea panduga panduga panduga vacche raa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చీకటినుండి వెలుగులోనికి",
+        "మమ్మును చేర్చుటకు వచ్చెను రా",
+        "యేసు వచ్చెను మనచెంతకి వచ్చెను",
+        "మనకై వచ్చెను మన యేసు రాజు రా",
+        "అందుకే",
+        "ఇక సందడి సందడి సందడి చేద్దామా",
+        "నేడే పండుగ పండుగ పండుగ వచ్చే రా"
+      ],
+      "english": [
+        "Raajula raaju, yoodula raaju",
+        "Mahaa raaju neadea puttenu raa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రాజుల రాజు యూదుల రాజు",
+        "మహా రాజు నేడే పుట్టెను రా"
+      ],
+      "english": [
+        "Gollalu yesuni choochi",
+        "Santhoshamutho aaradhinchiri",
+        "Manamu cheraali, yesuni choodaali",
+        "Santhoshamutho manam aaradhinchali",
+        "Anduke",
+        "Ika sandhadi sandhadi, sandhadi cheddaamaa",
+        "Neadea panduga panduga panduga vacche raa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "గొల్లలు యేసుని చూచి",
+        "సంతోషముతో ఆరాధించిరి",
+        "మనము చేరాలి యేసుని చూడాలి",
+        "సంతోషముతో మనం ఆరాధించాలి",
+        "అందుకే",
+        "ఇక సందడి సందడి సందడి చేద్దామా",
+        "నేడే పండుగ పండుగ పండుగ వచ్చే రా"
+      ],
+      "english": [
+        "Raajula raaju, yoodula raaju",
+        "Mahaa raaju neadea puttenu raa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "రాజుల రాజు యూదుల రాజు",
+        "మహా రాజు నేడే పుట్టెను రా"
+      ],
+      "english": [
+        "We Wish You Wish You Happy Christmas",
+        "We Wish You Wish You Merry Christmas"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "We Wish You Wish You Happy Christmas",
+        "We Wish You Wish You Merry Christmas"
+      ],
+      "english": []
+    }
+  ]
+}

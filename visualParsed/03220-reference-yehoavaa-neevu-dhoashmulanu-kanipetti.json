@@ -1,0 +1,88 @@
+{
+  "song_name": "Yehova agaadha sthalamulalo nundi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "130",
+      "యెహోవా అగాధ స్థలములలో నుండి - నీకు మొర పెట్టుచున్నాను",
+      "ప్రభువా నా ప్రార్థనకు చెవి యొగ్గి నా ఆర్తధ్వని వినుము"
+    ],
+    "english": [
+      "130",
+      "Yehova agaadha sthalamulalo nundi - Neeku mora pettuchunnaanu",
+      "Prabhuvaa naa praarthanaku chevi yoggi naa aarthadhvani vinumu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యెహోవా నీవు దోషములు - కనిపెట్టి చూచిన యెడల",
+        "ప్రభువా ఎవడు నిలువగలడు?"
+      ],
+      "english": [
+        "Yehova neevu doshamulu - Kanipetti choochina yedala",
+        "Prabhuvaa evadu niluvagaladu?"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అయినను జనులు నీ యందు - భయభక్తులు నిలుపునట్లు",
+        "నీ యొద్ద కృప దొరుకును"
+      ],
+      "english": [
+        "Ayinanu janulu nee yandu - Bhayabhakthulu nilupunatlu",
+        "Nee yodda krupa dorukunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యెహోవా కొరకు నేను - కనిపెట్టుకొనుచున్నాను",
+        "ఆశ పెట్టుకొనుచున్నాను"
+      ],
+      "english": [
+        "Yehova koraku nenu - Kanipettukonuchunnaanu",
+        "Aasha pettukonuchunnaanu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కావలి వారు ఉదయము కొరకు - కనిపెట్టుకొనుట కంటె",
+        "నా ప్రాణము కనిపెట్టుచున్నది"
+      ],
+      "english": [
+        "Kaavali vaaru udayamu koraku - Kanipettukonuta kante",
+        "Naa praanamu kanipettuchunnadhi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఇశ్రాయేలు యెహోవా - మీద ఆశపెట్టుకో",
+        "యెహోవా యొద్ద కృప దొరుకున్"
+      ],
+      "english": [
+        "Ishraayelu Yehova - Meeda aashapettuko",
+        "Yehova yodda krupa dhorukun"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఇశ్రాయేలు దోషము నుండి - ఆయనే విమోచించును",
+        "విమోచన దొరుకును"
+      ],
+      "english": [
+        "Ishraayelu doshamu nundi - Aayane vimochinchunu",
+        "Vimochana dorukunu"
+      ]
+    }
+  ]
+}

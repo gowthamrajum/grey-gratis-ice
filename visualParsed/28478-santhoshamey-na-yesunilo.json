@@ -1,0 +1,65 @@
+{
+  "song_name": "Santhoshame naa Yesunilo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Davidson Gajulavarthi"
+    ],
+    "రచన": [
+      "డేవిడ్సన్ గాజులవర్తి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "సంతోషమే నా యేసునిలో",
+      "నిత్యానందమునిచ్చు నాధునిలో",
+      "మనసంతా సంతోషం (హే …….)",
+      "మనసంతా సంతోషం ఆథ్మలో ఆనందం",
+      "యేసయ్య .. అది దొరికెను నీలో"
+    ],
+    "english": [
+      "Santhoshame naa Yesunilo",
+      "Nithyaanandhamunichchu naadhunilo",
+      "Manasanthaa santhosham (he …….)",
+      "Manasanthaa santhosham aathmalo aanandam",
+      "Yesayya .. adhi dorikenu neelo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శ్రమలలో నీ మాట కలిగించే ఆనందమే",
+        "దుఃఖములో నీ ప్రేమా పుట్టించె ధైర్యమునే",
+        "వ్యాధైనా భాదయినా నను వీడిపోడు",
+        "కనుపాపై నాతోనే నిత్యం వుంటాడు",
+        "వ్యాధైనా మరి భాదయినా నను వీడిపోడు",
+        "కనుపాపై నాతోనే నిత్యం వుంటాడు",
+        "నను ప్రేమించే నా దేవుడు",
+        "నను రక్షించే నా నాధుడు",
+        "యెమున్నా లేకున్నా నీవున్న చాలంతే",
+        "ఇచ్చువాడవు నీవే పోషించువాడవు నీవే",
+        "నా ప్రాణం సర్వస్వం నీవేగా యేసయ్య",
+        "నీ ప్రేమే నాతోనే వుంటే చాలయ్య",
+        "బ్రతుకంతా నీలోనే యేసయ్య .. ఆఆ ..",
+        "చావైతే నీకొరకే యేసయ్య …"
+      ],
+      "english": [
+        "Shramalalo nee maata kaliginche aanandame",
+        "Duhkhamulo nee premaa puttinche dhairyamune",
+        "Vyaadhainaa baadhayinaa nanu veedipodu",
+        "Kanupaapai naathone nithyam vuntaadu",
+        "Vyaadhainaa mari baadhayinaa nanu veedipodu",
+        "Kanupaapai naathone nithyam vuntaadu",
+        "Nanu preminche naa Devudu",
+        "Nanu rakshinche naa naadhudu",
+        "Emunnaa lekunnaa neevunna chaalanthe",
+        "Ichchuvaadavu neeve poshinchuvaadavu neeve",
+        "Naa praanam sarvasvam neevegaa Yesayya",
+        "Nee preme naathone vunte chaalayya",
+        "Brathukanthaa neelone Yesayya .. aaaa ..",
+        "Chaavaithe neekorake Yesayya …"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "song_name": "Prabhuvaa Paadedha Noka Sthuthi Geetham - Praeminchi Rakshinchithivi",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభువా పాడెద నొక స్తుతి గీతం - ప్రేమించి రక్షించితివి"
+    ],
+    "english": [
+      "Prabhuvaa Paadedha Noka Sthuthi Geetham - Praeminchi Rakshinchithivi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గత వత్సరంబులోన - కాపాడి నడిపినావు",
+        "నూతన వత్సరమున - స్తుతియింప చేసినావు"
+      ],
+      "english": [
+        "Gatha Vathsarambuloana - Kaapaadi Nadipinaavu",
+        "Noothana Vathsaramuna - Sthuthiyimpa Chaesinaavu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసయ్య పలికితివి - ఆ సముద్ర పొంగులలో",
+        "నిశ్శబ్దముగా యూర - కొండుము నిమ్మళముగా"
+      ],
+      "english": [
+        "Yaesayya Palikithivi - Aa Samudhra Pongulaloa",
+        "Nishshabdhamugaa Yoora - Kondumu Nimmalamugaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "భయపడిన శిష్యులతో - రయమున పలికితివి",
+        "భయపడకుడి నేనే - ధైర్యము తెచ్చుకొనుడి"
+      ],
+      "english": [
+        "Bhayapadina Shishyulathoa - Rayamuna Palikithivi",
+        "Bhayapadakudi Naenae - Dhairyamu Thechchukonudi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "తుఫాను రేగె త్వరలో - తరంగములు లేచె",
+        "ఆపితివయ్యా దేవా - ఆపద బాపితివి"
+      ],
+      "english": [
+        "Thuphaanu Raege Thvaraloa - Tharangamulu Laeche",
+        "Aapithivayyaa Dhaevaa - Aapadha Baapithivi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ముండ్లకు బదులు గొంజి - దేవదారులు మొలచు",
+        "ఉండును సూచనలుగా - నిత్యంపు ఖ్యతిగాను"
+      ],
+      "english": [
+        "Mundlaku Badhulu Gonji - Dhaevadhaarulu Molachu",
+        "Undunu Soochanalugaa - Nithyampu Khyathigaanu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "అభివృద్ధి జేసెదవు - ప్రభువైన యేసు దేవా",
+        "అధికంబు మేలులతో - మునుపటి కంటె మరల"
+      ],
+      "english": [
+        "Abhivrudhdhi Jaesedhavu - Prabhuvaina Yaesu Dhaevaa",
+        "Adhikambu Maelulathoa - Munupati Kante Marala"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "సిలువలో మా తుఫాను - బలిలో భరించితివి",
+        "హల్లెలూయ పాడెదను - కలువరి యేసు నాథా"
+      ],
+      "english": [
+        "Siluvaloa Maa Thuphaanu - Baliloa Bharinchithivi",
+        "Hallelooya Paadedhanu - Kaluvari Yaesu Naathaa"
+      ]
+    }
+  ]
+}

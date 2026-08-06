@@ -1,0 +1,79 @@
+{
+  "song_name": "Ninne Preminthunu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిన్నే పూజింతును నిన్నే పూజింతును యేసు",
+      "నిన్నే పూజింతును నే వెనుదిరుగా"
+    ],
+    "english": [
+      "Ninne Preminthunu",
+      "Ninne Preminthunu Yesu",
+      "Ninne Preminthunu… Ne Venudirugaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిన్నే కీర్తింతును నిన్నే కీర్తింతును యేసు",
+        "నిన్నే కీర్తింతును నే వెనుదిరుగా"
+      ],
+      "english": [
+        "Nee Sannidhilo Mokarinchi",
+        "Nee Maargamulo Saagedaa",
+        "Nirasinchaka Saagedaa",
+        "Ne Venudirugaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిన్నే ధ్యానింతును నిన్నే ధ్యానింతును యేసు",
+        "నిన్నే ధ్యానింతును నే వెనుదిరుగా"
+      ],
+      "english": [
+        "Ninne Poojinthunu",
+        "Ninne Poojinthunu Yesu",
+        "Ninne Poojinthunu",
+        "Ne Venudirugaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిన్నే ఆరాధింతున్ నిన్నే ఆరాధింతున్ యేసు",
+        "నిన్నే ఆరాధింతున్ నే వెనుదిరుగా"
+      ],
+      "english": [
+        "Ninne Keerthinthunu",
+        "Ninne Keerthinthunu Yesu",
+        "Ninne Keerthinthunu",
+        "Ne Venudirugaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [],
+      "english": [
+        "Ninne Dhyaaninthunu",
+        "Ninne Dhyaaninthunu Yesu",
+        "Ninne Dhyaaninthunu",
+        "Ne Venudirugaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [],
+      "english": [
+        "Ninne Aaraadinthun",
+        "Ninne Aaraadinthun Yesu",
+        "Ninne Aaraadinthun",
+        "Ne Venudirugaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "song_name": "Vinare yaposthalula kaaryamul",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "పురుషోత్తము చౌదరి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "వినరే యపోస్తలుల కార్యముల్ క్రైస్తవు లను వారి కవి యెంతో ధైర్యముల్",
+      "మనసు లొక్కటిఁ జేసి కొని యట్లు ప్రార్థింప ఘన ముగ విమలాత్మ",
+      "చనుదెంచె వారిపై ||వినరే||"
+    ],
+    "english": [
+      "Vinare yaposthalula kaaryamul kraisthavu lanu vaari kavi entho dhairyamul",
+      "Manasu lokkati jesi koni yatlu praarthimpa ghana muga vimalaathma",
+      "Chanudhenche vaaripai ||Vinare||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరమండలమునుండి వచ్చెను పెద్ద కరువలివలె శబ్ద మిచ్చెను తిర",
+        "ముగ వార లం దరుఁ గూడి యున్న మం దిర మెల్ల నిండె బం ధురమై",
+        "తన్నాదము  ||వినరే||"
+      ],
+      "english": [
+        "Paramandalamunundi vachchenu pedda karuvalivale shabdha michchenu thira",
+        "Muga vaara lam dharu goodi yunna mam dhira mella ninde bam dhuramai",
+        "Thannaadhamu  ||Vinare||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అనలార్చులను దీప్తి మించుచు బీఁట లగు జిహ్వల్వలె గనుపించుచు",
+        "ఘనముగ నొక్కొక్క జనునిపై నవి నిల్వఁ గను బరిశుద్ధాత్మచే తను",
+        "నింపఁబడి రంత  ||వినరే||"
+      ],
+      "english": [
+        "Analaarchulanu dheepthi minchuchu beeta lagu jihvalvale ganupinchuchu",
+        "Ghanamuga nokkokka jununipai navi nilva ganu barishuddhaathmache thanu",
+        "Nimpabadi rantha  ||Vinare||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వారన్య భాషలతోడను నాత్మ ప్రేరణమును జేయు జాడను ధారా",
+        "ళముగ భాషాం తరము లాడిరి విన్న వారి కబ్బురమై వి చారము ల్బొడమంగ  ||వినరే||"
+      ],
+      "english": [
+        "Vaaranya bhaashalathodanu naathma preranamunu jeyu jaadanu dhaaraa",
+        "Lamuga bhaashaam tharamu laadiri vinna vaari kabburamai vi chaaramu lbodamanga  ||Vinare||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ముందట వారిటుల గుంపుగ మోద మందుచు దేవునిఁ గొల్చి తా",
+        "మందరు చూడఁగ వింత వింత పనుల నందందు జేసిరి దేవుని",
+        "దయచేత  ||వినరే||"
+      ],
+      "english": [
+        "Mundata vaaritula gumpuga modha mandhuchu devuni golchi thaa",
+        "Mandaru choodaga vintha vintha panula nandhandhu jesiri devuni",
+        "Dhayachetha  ||Vinare||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మనము నా రీతిగ గుంపుగాఁ గూడి మన దేవుఁ గొల్వఁగ భూమిలో",
+        "మనుజుల కాశ్చర్య మగు కార్యములఁ జేయ నొనగూడు మనసు",
+        "కా నందమును గల్గు  ||వినరే||"
+      ],
+      "english": [
+        "Manamu naa reethiga gumpugaa goodi mana devu golvaga bhoomilo",
+        "Manujula kaashcharya magu kaaryamula jeya nonagoodu manasu",
+        "Kaa nandhamunu galgu  ||Vinare||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "song_name": "Aanandam aanandam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆనంధం –ఆనంధం –ధినధినం ఆనంధం రారాజు నా స్వంతమాయెనే –",
+      "యీ లోకమంధు శ్వంథ వాదాయెనే నా మధిలో స్వంథ మాయెను (2)",
+      "ఆ….ఆనంధమే – పరమానంధమే –ఎధి నా గొప్ప భాఘ్యమే ఈ లోకము నంధు."
+    ],
+    "english": [
+      "Aanandam - Aanandam - Dhinadhinam aanandam raaraaju naa swanthamaayene -",
+      "Ee lokamandu swantha vaadaayene naa madilo swantha maayenu (2)",
+      "Aa....aanandame - Paramaanandame - Idhi naa goppa bhaagyame ee lokamu nandu."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఠొలి బాల్య వయసులో – నన్ను గుర్థించ్నాదు ఢూరం పోయిన కను గొన్నాదు (2)",
+        "థన ప్రానము ణా కర్పించి – జీవం పొంధుకొనుమని చెప్పెనూ"
+      ],
+      "english": [
+        "Tholi baalya vayasulo - Nannu gurthinchinaadu dooram poyina kanu gonnaadu (2)",
+        "Thana praanamu naakarpinchi - Jeevam pondhukonumani cheppenoo"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఏఎస్థిథిలోనైనా ప్రభు ప్రేమథో –నన్ను విదువక ఖాపాదును = నన్ను నమ్మి",
+        "యిచ్చిన భాధ్యథను ప్రభు వు వచ్చు వరకు కాచుకొంధునూ"
+      ],
+      "english": [
+        "E sthithilonainaa prabhu prematho - Nannu viduvaka kaapaadunu = nannu nammi",
+        "Ichchina baadhyathanu prabhuvu vachchu varaku kaachukondhunoo"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రభువు వచ్చు ధినమున – థన చేయి చాపి ప్రే మథో = పిలిచి చేర్చు",
+        "కొనును – ప్రభువు సమూహ మ ంధు = అచ్చతాయనథో ఆది పాది సంథోషిన్",
+        "చెధన్"
+      ],
+      "english": [
+        "Prabhuvu vachchu dinamuna - Thana cheyi chaapi prematho = pilichi cherchu",
+        "Konunu - Prabhuvu samooha mandu = achchata aayanatho aadi paadi santhoshin",
+        "Chedhan"
+      ]
+    }
+  ]
+}

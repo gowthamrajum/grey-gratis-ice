@@ -1,0 +1,44 @@
+{
+  "song_name": "Sree Yesu geethi paadavaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "శ్రీ యేసు గీతి పాడవా - ఆ సిల్వ ప్రేమ చాటవా (2)",
+      "జనులెందరో - నశించు చుండగా (2)",
+      "సువార్త చాట కుందువా - నాకేమిలే అందువా (2)"
+    ],
+    "english": [
+      "Sree Yesu geethi paadavaa - Aa silva prema chaatavaa (2)",
+      "Janulendharo - Nashinchu chundagaa (2)",
+      "Suvaartha chaata kundhuvaa - Naakemile andhuvaa (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రభు ప్రేమను - రుచి చూచియు - మరి ఎవ్వరికి పంచవా",
+        "పరలోకపు - మార్గంబును - పరులేవ్వరికి చూపవా (2) ..సువార్త.."
+      ],
+      "english": [
+        "Prabhu premanu - Ruchi choochiyu - Mari evvariki panchavaa",
+        "Paralokapu - Maargambunu - Parulevvariki choopavaa (2) ..Suvaartha.."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రతి వారికి- ప్రభు వార్తను - ప్రకటింప సంసిద్దమా",
+        "పరిశుద్దుడే - నిను పంపగా - నీకింక నిర్లక్ష్యమా (2)) ..సువార్త.."
+      ],
+      "english": [
+        "Prathi vaariki- Prabhu vaarthanu - Prakatimpa samsiddhamaa",
+        "Parishuddhude - Ninu pampagaa - Neekinka nirlakshyamaa (2)) ..Suvaartha.."
+      ]
+    }
+  ]
+}

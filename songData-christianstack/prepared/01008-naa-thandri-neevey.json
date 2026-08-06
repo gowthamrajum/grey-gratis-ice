@@ -1,0 +1,30 @@
+{
+  "song_name": "Naa Thandri Neevey",
+  "author": {
+    "Authored by": "Ravinder Vottepu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా తండ్రి నీవే – నా దేవుడవు నీవే",
+      "నా తండ్రి నీవే – నీవే"
+    ],
+    "english": [
+      "Naa thandri neevey – naa devudavu neeve",
+      "naa thandri neevey neevey"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసయ్యా… యేసయ్యా… యేసయ్యా…. యేసయ్యా",
+        "యేసయ్యా… యేసయ్యా… యేసయ్యా… యేసయ్యా"
+      ],
+      "english": [
+        "Yesayya…Yesayya…Yesayya…Yesayya…",
+        "Yesayya…Yesayya…Yesayya…Yesayya…"
+      ]
+    }
+  ]
+}

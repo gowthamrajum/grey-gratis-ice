@@ -1,0 +1,55 @@
+{
+  "song_name": "Yesu prabhu piluchuchunden noothana jeevam neekichchutaku",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు ప్రభు - పిలుచుచుండెన్ - నూతన జీవం - నీకిచ్చుటకు",
+      "ప్రేమతో నిన్ను - పిలుచుచుండెన్ - దొరకుముక్తి - ప్రభు చెంతనే",
+      "రండి రండి - సర్వజనమా వెళ్ళెదము మనమందరము (2)"
+    ],
+    "english": [
+      "Yesu prabhu - Piluchuchunden - Noothana jeevam - Neekichchutaku",
+      "Prematho ninnu - Piluchuchunden - Dhorakumukthi - Prabhu chenthane",
+      "Randi randi - Sarvajanamaa velledamu manamandaramu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అందరిలో ఉన్నతుడు - ఆయనన్ నీవు చేర్చుకొను (2)",
+        "రక్షణ నీవు పొందు నేడే (2)"
+      ],
+      "english": [
+        "Andarilo unnathudu - Aayanan neevu cherchukonu (2)",
+        "Rakshana neevu pondu nede (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ జీవము ఏ పాటిది? - ఒక నాడిది విడువవలెన్!",
+        "వ్యర్థం వ్యర్థం ఈ లోక మాయ"
+      ],
+      "english": [
+        "Nee jeevamu e paatidhi? - Oka naadidhi vidhuvavalen!",
+        "Vyartham vyartham ee loka maaya"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ కొరకే తెంచెనిల - ముక్తినిచ్చే యేసుప్రభు",
+        "ఒప్పుకొను తప్పిదములన్"
+      ],
+      "english": [
+        "Nee korake thenchenila - Mukthinichche Yesuprabhu",
+        "Oppukonu thappidhamulan"
+      ]
+    }
+  ]
+}

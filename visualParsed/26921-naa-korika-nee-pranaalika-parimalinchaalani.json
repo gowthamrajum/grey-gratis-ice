@@ -1,0 +1,65 @@
+{
+  "song_name": "Naa korika nee pranaalika parimalinchaalani",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నాకోరిక నీ ప్రణాళిక పరిమళించాలని",
+      "నాప్రార్థన విజ్ఞాపనా - నిత్యమహిమలో నిలవాలని",
+      "అక్షయుడా నీ కల్వరిత్యాగం అంకితభావం కలుగజేసెను",
+      "ఆశలవాకిలి తెరచినావు - అనురాగవర్షం కురిపించినావు",
+      "నాహృదయంలో ఉప్పొంగెనే - కృతజ్ఞతా సంద్రమే నీసన్నిధిలో స్తుతి పాడనా - నాహృదయ విద్వాంసుడా"
+    ],
+    "english": [
+      "Naa korika nee pranaalika parimalinchaalani",
+      "Naa praarthana vijnaapanaa - Nithya mahimalo nilavaalani",
+      "Akshayudaa nee kalvari thyaagam ankitha bhaavam kalugajesenu",
+      "Aashala vaakili therachinaavu - Anuraaga varsham kuripinchinaavu",
+      "Naa hrudayamlo uppongene - Kruthajnathaa sandhrame nee sannidhilo sthuthi paadanaa - Naa hrudaya vidhwaamsudaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యదార్థవంతులయెడల - నీవు యెడబాయక కృపచూపి",
+        "గాఢాంధకారము కమ్ముకొనగా వెలుగురేఖవై ఉదయించినావు",
+        "నన్నునీవువిడిపించినావు - ఇష్టుడనై నేనడచినందున",
+        "దీర్ఘాయువుతో తృప్తిపరిచిన - సజీవుడవు నీవేనయ్యా"
+      ],
+      "english": [
+        "Yadhaarthavanthula edala - Neevu edabaayaka krupa choopi",
+        "Gaadhaandhakaaramu kammukonagaa velugu rekhavai udhayinchinaavu",
+        "Nannu neevu vidipinchinaavu - Ishtudanai ne nadachinandhuna",
+        "Dheerghaayuvutho thrupthiparichina - Sajeevudavu neevenayyaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాలో ఉన్నది విశ్వాసవరము - తోడైయున్నది వాగ్దానబలము",
+        "ధైర్యపరచి నడుపుచున్నవి విజయశిఖరపు దిశగా ఆర్పజాలని నీప్రేమతో - ఆత్మదీపము వెలిగించినావు",
+        "దీనమనస్సు వినయభావము నాకు నేర్పిన సాత్వీకుడా"
+      ],
+      "english": [
+        "Naalo unnadi vishwaasa varamu - Thodaiyunnadhi vaagdhaana balamu",
+        "Dhairyaparachi nadupuchunnavi vijaya shikharapu dhishagaa aarpajaalani nee prematho - Aathma deepamu veliginchinaavu",
+        "Deena manassu vinaya bhaavamu naaku nerpina saathweekudaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "స్వచ్ఛమైనది నీవాక్యం - వన్నెతరగని ఉపదేశం మహిమగలిగిన సంఘముగానను నిలుపునే నీ యెదుట",
+        "సిగ్గుపరచదు నన్నెన్నడూ - నీలోనాకున్న నిరీక్షణ వేచియున్నాను నీకోసమే సిద్ధపరచుము సంపూర్ణుడా"
+      ],
+      "english": [
+        "Swachchamainadhi nee vaakyam - Vannetharagani upadhesham mahima galigina sanghamugaa nanu nilupune nee eduta",
+        "Sigguparachadhu nannennadoo - Neelo naakunna nireekshana vechiyunnaanu nee kosame siddhaparachumu sampoornudaa"
+      ]
+    }
+  ]
+}

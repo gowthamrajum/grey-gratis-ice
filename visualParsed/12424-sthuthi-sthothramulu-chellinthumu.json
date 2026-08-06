@@ -1,0 +1,44 @@
+{
+  "song_name": "Sthuthi sthothramulu chellinthumu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తుతి స్తోత్రములు చెల్లిం తుము-స్తుతి గీతమునే పాడెదము",
+      "హల్లెలూయ హల్లెలూయ-హల్లెలూయా హల్లెలూయా"
+    ],
+    "english": [
+      "Sthuthi sthothramulu chellinthumu - sthuthi geethamune paadedamu",
+      "Halleluya halleluya - halleluyaa halleluyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రభు ప్రేమకు నే పాత్రుడనా -ప్రభు కృపలకు నేనర్హుడనా",
+        "నను కరుణించిన నా యేసుని -నా జీవిత కాలమంత స్తుతించెదను |హల్లె  ||స్తుతి||"
+      ],
+      "english": [
+        "Prabhu premaku ne paathrudanaa - Prabhu krupalaku nenarhudanaa",
+        "Nanu karuninchina naa Yesuni - naa jeevitha kaalamantha sthuthinchedanu |Halle ||Sthuthi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసుని ప్రేమను చాటెదను -నా యేసుని కృపలను",
+        "ప్రకటింతునుయేసుకై సాక్షిగా నేనుందును -నా యేసు కొరకె నే",
+        "జీవింతును-హోసన్నా హోసన్నా-హోసన్నా హోసన్నా |హల్లె  ||స్తుతి||"
+      ],
+      "english": [
+        "Yesuni premanu chaatedanu - naa Yesuni krupalanu",
+        "Prakatinthunu Yesukai saakshigaa nenundunu - naa Yesu korake ne",
+        "Jeevinthunu - hosannaa hosannaa - hosannaa hosannaa |Halle ||Sthuthi||"
+      ]
+    }
+  ]
+}

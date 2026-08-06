@@ -1,0 +1,66 @@
+{
+  "song_name": "Dhivyaathma dhigirammu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దివ్యాత్మ దిగిరమ్ము",
+      "మాత్నీకరించుము మా జీవితాక్ను",
+      "దివ్యాత్మ దిగిరమ్మ",
+      "నూత్నీకరించుము మా జీవితాక్ను",
+      "ఆమెన్‌ అల్లెలూయ ఆమెన్‌ అల్లెలూయ ||దివ్య||"
+    ],
+    "english": [
+      "Dhivyaathma dhigirammu",
+      "Noothneekarinchumu maa jeevithaalanu",
+      "Dhivyaathma dhigirammu",
+      "Noothneekarinchumu maa jeevithaalanu",
+      "Aamen alleluya aamen alleluya ||Divya||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పై గదిలో భయముతో ఉన్న శిష్యులవలె",
+        "భయము ఆందోళనతో చిక్కి నశించిపోతున్నాము",
+        "దిగ్యాక్ను బలముతో లేపిన సర్వశక్తుడా",
+        "మ్ము కూడా నీ శక్తితో లేపగరావా",
+        "యుద్దాకుకి సిద్దపరచు సైన్యాధికారా",
+        "నీ శక్తితో మమ్ము అభిషేకించు",
+        "ఆమెన్‌ అల్లెలూయ ఆమెన్‌ అల్లెలూయ  ||దివ్యాత్మ||"
+      ],
+      "english": [
+        "Pai gadhilo bhayamutho unna shishyulavale",
+        "Bhayamu aandholanatho chikki nashinchipothunnaamu",
+        "Dhivyaathma balamutho lepina sarvashakthudaa",
+        "Mammu koodaa nee shakthitho lepagaraavaa",
+        "Yuddhaaniki siddhaparachu sainyaadhikaaraa",
+        "Nee shakthitho mammu abhishekinchu",
+        "Aamen alleluya aamen alleluya  ||Dhivyaathma||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పేతురు నీడ రోగులను స్వస్థపరచగా",
+        "పాలు వస్త్రం దుష్టశక్తులను పారద్రోలగా",
+        "అభిషేకించు మమ్ము కూడా ఆ మహిమలో",
+        "కుమ్మరించు పరలోక దివ్య అగ్నికు",
+        "ఏసుక్రీస్తు చేసిన అద్భుతకార్యములను చేయ",
+        "అంతకంటె గొప్పగ చేయ అభిషేకించు  ||దివ్యాత్మ||"
+      ],
+      "english": [
+        "Petharu needa rogulanu svasthaparachagaa",
+        "Paulu vasthram dhushtashakthulanu paaradhrolagaa",
+        "Abhishekinchu mammu koodaa aa mahimalo",
+        "Kummarinchu paraloka divya agnini",
+        "Yesukreesthu chesina adbhuthakaaryamulanu cheya",
+        "Anthakante goppaga cheya abhishekinchu  ||Dhivyaathma||"
+      ]
+    }
+  ]
+}

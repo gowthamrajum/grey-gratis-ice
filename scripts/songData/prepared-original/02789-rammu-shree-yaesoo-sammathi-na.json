@@ -1,0 +1,53 @@
+{
+  "song_name": "Rammu Shree Yaesoo Sammathi Na",
+  "author": {
+    "Authored by": "",
+    "రచన": "యేసుదాసు జీవరత్నము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "రమ్ము శ్రీ యేసూ సమ్మతి నాదు మనమున నిలువ నిమ్ము నా పెదవుల నీతి అగ్నిచే నంటఁ గ్రమ్మర నా నత్తి వదలి నీ కృపఁ బొంద ||రమ్ము||"
+    ],
+    "english": [
+      "rammu shree yaesoo sammathi naadhu manamuna niluva nimmu naa pedhavula neethi agnichae nMtAO grammara naa naththi vadhali nee krupAO boMdha ||rammu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిన్ను స్తుతింతు నీ కృప నెపుడు నెన్ని కీర్తింతుఁ బన్ను గ నీ కృప ని న్నెన్నఁ డెరుఁగని నరుల కన్న యేసున్నా నీ ధన్య రుధిరమె చాలు ||రమ్ము||"
+      ],
+      "english": [
+        "ninnu sthuthiMthu nee krupa nepudu nenni keerthiMthuAO bannu ga nee krupa ni nnennAO deruAOgani narula kanna yaesunnaa nee Dhanya ruDhirame chaalu ||rammu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తరమె యెన్నఁగను దత్కృపను భూ నభముల నైనన్ నిరతము నీ ప్రేమ నీతి పరిమితిచే ధరఁ దేజో వాసులకుఁ గలిగించుఁ గడు వింత ||రమ్ము||"
+      ],
+      "english": [
+        "tharame yennAOganu dhathkrupanu bhoo nabhamula nainan nirathamu nee praema neethi parimithichae DharAO dhaejoa vaasulakuAO galigiMchuAO gadu viMtha ||rammu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "భవదీయ కృపను బాగుగఁ జాటి భువి నీ చిత్తమును అవిధి నెం చక తీర్చి యమిత బలముతోడ నవగతి నీతి కి రీటంబు నేఁ బొంద ||రమ్ము||"
+      ],
+      "english": [
+        "bhavadheeya krupanu baagugAO jaati bhuvi nee chiththamunu aviDhi neM chaka theerchi yamitha balamuthoada navagathi neethi ki reetMbu naeAO boMdha ||rammu||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నేను నీ కొరకే నిత్యము బ్రతికి నిన్ను గణుతించి మానుగ 'భళా' యను మంచి వాక్యము విని దీన ప్రభుని సమా ధానములో నేఁ జేర ||రమ్ము||"
+      ],
+      "english": [
+        "naenu nee korakae nithyamu brathiki ninnu gaNuthiMchi maanuga 'bhaLaa' yanu mMchi vaakyamu vini dheena prabhuni samaa Dhaanamuloa naeAO jaera ||rammu||"
+      ]
+    }
+  ]
+}

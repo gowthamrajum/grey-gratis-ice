@@ -1,0 +1,30 @@
+{
+  "song_name": "Boora Dwanikai Yesuni Raakakai",
+  "author": {
+    "Authored by": "Rayipati Srilekha Srikanth",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "బూరధ్వనికై యేసుని రాకకై",
+      "ఎదురుచూచుచున్నాను"
+    ],
+    "english": [
+      "Booradhwanikai yesuni raakakai",
+      "edhuruchoochu chunnaanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎదురుచూచుచున్నాను ఎదురుచూచుచున్నాను",
+        "మహిమ యేసుకే మహామహిమ నా యేసుకే"
+      ],
+      "english": [
+        "Edhuruchoochu chunnaanu edhuruchoochu chunnaanu",
+        "mahima yesukey mahaamahima naa yesukey"
+      ]
+    }
+  ]
+}

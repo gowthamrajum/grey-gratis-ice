@@ -1,0 +1,62 @@
+{
+  "song_name": "Halleluya sthothram",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "హల్లెలూయ స్తోత్రం",
+      "నాననానా నాననానా నా",
+      "నాననానా నాననానా నా",
+      "హల్లెలూయ స్తోత్రం, నజరేయ నిజమగు స్తోత్రం",
+      "ప్రభు తనయ స్తోత్రం నీ దరి చేరనిమ్ము (2)",
+      "స్తోత్రం జనకుడ, స్తోత్రం తనయుడ స్తోత్రం శుద్దాత్మా (4)",
+      "నాననానా నాననానా నా",
+      "నాననానా నాననానా నా"
+    ],
+    "english": [
+      "Halleluya sthothram",
+      "Naananaanaa naananaanaa naa",
+      "Naananaanaa naananaanaa naa",
+      "Halleluya sthothram, Najareya nijamagu sthothram",
+      "Prabhu thanaya sthothram nee dari cheranimmu (2)",
+      "Sthothram janakuda, sthothram thanayuda sthothram shuddhaathmaa (4)",
+      "Naananaanaa naananaanaa naa",
+      "Naananaanaa naananaanaa naa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "స్తుతి చేయుట మీకది తెలుయునా మదిని నిండిన స్తోత్రమే",
+        "స్తుతి కర్ణుడు ఎవరో తెలుయునా ప్రభువగు యేసు క్రీస్తుడే (2)",
+        "… స్తోత్రం…  ||హల్లెలూయ||",
+        "నాననానా నాననానా నా",
+        "నాననానా నాననానా నా"
+      ],
+      "english": [
+        "Sthuthi cheyuta meekadi theliyunaa madini nindina sthothrame",
+        "Sthuthi karthudu evaro theliyunaa Prabhuvagu Yesu Kreesthude (2)",
+        "… Sthothram…  ||Halleluya||",
+        "Naananaanaa naananaanaa naa",
+        "Naananaanaa naananaanaa naa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "స్తుతి చేయుట ఎపుడో తెలియునా దివారాత్రము యోగ్యమే",
+        "స్తుతి చేయుట ఫలితము తెలియునా ప్రభు కృప మనపై పదిలమే (2)",
+        "… స్తోత్రం…  ||హల్లెలూయ||"
+      ],
+      "english": [
+        "Sthuthi cheyuta epudo theliyunaa dhivaaraathramu yogyame",
+        "Sthuthi cheyuta phalithamu theliyunaa Prabhu krupa manapai padhilame (2)",
+        "… Sthothram…  ||Halleluya||"
+      ]
+    }
+  ]
+}

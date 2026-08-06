@@ -1,0 +1,74 @@
+{
+  "song_name": "Sthoathramu Paadi Pogadedhanu Dhaevaadhidhaevaa Ninu Raajaadhiraajaa Ninu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తోత్రము పాడి పొగడెదను దేవాదిదేవా నిను",
+      "రాజాధిరాజా నిను మ్రొక్కి కీర్తించెదను"
+    ],
+    "english": [
+      "Sthoathramu Paadi Pogadedhanu Dhaevaadhidhaevaa Ninu",
+      "Raajaadhiraajaa Ninu Mrokki Keerthinchedhanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అద్భుతమైన ప్రేమ - నాలో పరమతండ్రి చూపు శుద్ధ ప్రేమ",
+        "ఎన్నడును మారని ప్రేమ - నాలో నిలుచుండు ప్రేమ"
+      ],
+      "english": [
+        "Adhbhuthamaina Praema - Naaloa Paramathandri Choopu Shudhdha Praema",
+        "Ennadunu Maarani Praema - Naaloa Niluchundu Praema"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జ్యోతిగా జగమునకు - వచ్చి జీవమిచ్చి నన్నుకొన్న ప్రేమ",
+        "త్యాగియైన క్రీస్తు ప్రేమ - దివ్య మధుర ప్రేమ"
+      ],
+      "english": [
+        "Jyoathigaa Jagamunaku - Vachchi Jeevamichchi Nannukonna Praema",
+        "Thyaagiyaina Kreesthu Praema - Dhivya Madhura Praema"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మాయలోక ప్రేమను - నమ్మి నశించిన నన్ను ప్రేమించెను",
+        "నన్ను జయించిన దైవ ప్రేమ - నాలో ఉప్పొంగు ప్రేమ"
+      ],
+      "english": [
+        "Maayaloaka Praemanu - Nammi Nashinchina Nannu Praeminchenu",
+        "Nannu Jayinchina Dhaiva Praema - Naaloa Uppongu Praema"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆధారమైన ప్రేమ - దినము మాతవలె నన్నాదుకొను ప్రేమ",
+        "ఉన్నత మహా దైవ ప్రేమ - నన్నాకర్షించె ప్రేమ"
+      ],
+      "english": [
+        "Aadhaaramaina Praema - Dhinamu Maathavale Nannaadhukonu Praema",
+        "Unnatha Mahaa Dhaiva Praema - Nannaakarshinche Praema"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మాట తప్పని ప్రేమ - పరమ వాక్కు నిచ్చి ఆదరించె ప్రేమ",
+        "సర్వ శక్తిగల దైవ ప్రేమ - సతతము నుండు ప్రేమ"
+      ],
+      "english": [
+        "Maata Thappani Praema - Parama Vaakku Nichchi Aadharinche Praema",
+        "Sarva Shakthigala Dhaiva Praema - Sathathamu Nundu Praema"
+      ]
+    }
+  ]
+}

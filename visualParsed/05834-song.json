@@ -1,0 +1,97 @@
+{
+  "song_name": "Ee dinam shubha dinam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఈ దినం శుభ దినం",
+      "ఈ లోకానికే పర్వ దినం ॥2॥"
+    ],
+    "english": [
+      "Ee dinam shubha dinam",
+      "Ee lokaanike parva dinam ||2||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రకృతి పరవసించెను",
+        "ప్రతి హృదయము పులకించెను ॥2॥",
+        "శుభం శుభం నీకు శుభం ॥2॥",
+        "ఈ లోకానికే శుభ దినం ॥2॥ఈదినం॥"
+      ],
+      "english": [
+        "Prakruthi paravasinchenu",
+        "Prathi hrudayamu pulakinchenu ||2||",
+        "Shubham shubham neeku shubham ||2||",
+        "Ee lokaanike shubha dinam ||2||Eedinam||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రాజుల రాజుగా ప్రభు యేసు జన్మించెను ॥2॥"
+      ],
+      "english": [
+        "Raajula raajugaa Prabhu Yesu janminchenu ||2||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తన ప్రజల వారి పాపము నుండి",
+        "విడిపించి రక్షింపను ॥శుభం॥ఈ దినం॥"
+      ],
+      "english": [
+        "Thana prajala vaari paapamu nundi",
+        "Vidipinchi rakshimpanu ||Shubham||Ee dinam||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మహిమా స్వరూపుడు క్రీస్తుగ జన్మించెను ॥2॥"
+      ],
+      "english": [
+        "Mahimaa swaroopudu Kreesthuga janminchenu ||2||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నిత్య జీవమును శాశ్వత ప్రేమను",
+        "సమాధాన మిచ్ఛుటకు ॥శుభం॥ఈ దినం॥"
+      ],
+      "english": [
+        "Nithya jeevamunu shaashwatha premanu",
+        "Samaadhaana michchutaku ||Shubham||Ee dinam||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "శ్రీమంతుడైన దేవుడు",
+        "దీనునిగా జన్మించెను ॥2॥"
+      ],
+      "english": [
+        "Shreemanthudaina Devudu",
+        "Dheenunigaa janminchenu ||2||"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "దీనులను ధన్యులను చేసి",
+        "ఆశీర్వదించుటకు ॥శుభం॥ఈ దినం॥"
+      ],
+      "english": [
+        "Deenulanu dhanyulanu chesi",
+        "Aasheervadhinchutaku ||Shubham||Ee dinam||"
+      ]
+    }
+  ]
+}

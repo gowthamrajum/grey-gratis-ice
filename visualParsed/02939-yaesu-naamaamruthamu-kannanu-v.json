@@ -1,0 +1,66 @@
+{
+  "song_name": "Yesu naamaamruthamu kannanu vere",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "గొల్లవల్లి నతానియేలు"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు నామామృతము కన్నను వేరే మాకిఁక లేదుగా దోసముల",
+      "నెడబాపి పరమని వాస పదవికిఁ జేర్చుఁగా ||యేసు||"
+    ],
+    "english": [
+      "Yesu naamaamruthamu kannanu vere maakinka ledugaa dhosamula",
+      "Nedabaapi paramani vaasa padhavikin jerchugaa ||Yesu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిత్య రక్షణ నిత్య జీవము నిజముగా మాకిచ్చును సత్యసువిశేషార్థసారము",
+        "సతము గ్రోలుట కొసఁగెను  ||యేసు||"
+      ],
+      "english": [
+        "Nithya rakshana nithya jeevamu nijamugaa maakichchunu sathyasuvisheshaarthasaaramu",
+        "Sathamu groluta kosagenu ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దురిత భవ మను నంధకారము దూరముగఁ బోఁదోలెఁగా అరయఁ",
+        "దన విమలాత్మ వరమున మరల మము వెలిఁగించెఁగా  ||యేసు||"
+      ],
+      "english": [
+        "Duritha bhava manu nandhakaaramu dhooramuga bodholegaa araya",
+        "Thana vimalaathma varamuna marala mamu veliginchegaa ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "గొప్ప కుల గర్వముల మెప్పను తప్పుల న్విడఁగొట్టెను చెప్ప శక్యముగాని",
+        "రక్షణ సృష్టిలో మము నిల్పెను  ||యేసు||"
+      ],
+      "english": [
+        "Goppa kula garvamula meppanu thappula nvidagottenu cheppa shakyamugaani",
+        "Rakshana srushtilo mamu nilpenu ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "అడ్డు పరచు పిశాచి మార్గపు జిడ్డులను ఛేదించెను దొడ్డ కాపరి యేసు",
+        "తన దగు దొడ్డిలో మముఁ జేర్చెను  ||యేసు||"
+      ],
+      "english": [
+        "Addu parachu pishaachi maargapu jiddulanu chhedhinchenu dhodda kaapari Yesu",
+        "Thana dhagu dhoddilo mamu jerchenu ||Yesu||"
+      ]
+    }
+  ]
+}

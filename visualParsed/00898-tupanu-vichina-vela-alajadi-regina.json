@@ -1,0 +1,50 @@
+{
+  "song_name": "Thuphaanu veechina vela alajadi regina vela",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "తుఫాను వీచిన వేళ అలజడి రేగిన వేళ",
+      "కారు చీకటిలో నా నావ చిక్కుకున్న వేళ"
+    ],
+    "english": [
+      "Thuphaanu veechina vela alajadi regina vela",
+      "Kaaru cheekatilo naa naava chikkukunna vela"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ ప్రేమ బాహువును అందించావయ్యా",
+        "పాపగోతి నుండి నన్ను లేపినావయ్యా",
+        "నా రోత జీవితమును మార్చినావయ్యా",
+        "నీ దివ్య రాజ్యములో చేర్చినావయ్యా"
+      ],
+      "english": [
+        "Nee prema baahuvunu andhinchaavayyaa",
+        "Paapagothi nundi nannu lepinaavayyaa",
+        "Naa rotha jeevithamunu maarchinaavayyaa",
+        "Nee divya raajyamulo cherchinaavayyaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శత్రువు చేతిలో కీలు బొమ్మనై ప్రేమించు యేసు నీకు బహుదూరమై",
+        "గాయాలు పాలై నిను చేరితిని అక్కున చేర్చుకుని ఆదరించినావు",
+        "తుఫాను ఆగింది అలజడి సడలింది",
+        "కారు చీకటిలో కాంతి వెలిసింది"
+      ],
+      "english": [
+        "Shathruvu chethilo keelu bommanai preminchu Yesu neeku bahudhooramai",
+        "Gaayaalu paalai ninu cherithini akkuna cherchukuni aadarinchinaavu",
+        "Thuphaanu aagindhi alajadi sadalindhi",
+        "Kaaru cheekatilo kaanthi velisindi"
+      ]
+    }
+  ]
+}

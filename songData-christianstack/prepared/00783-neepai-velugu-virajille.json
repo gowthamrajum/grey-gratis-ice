@@ -1,0 +1,78 @@
+{
+  "song_name": "Neepai Velugu Virajille",
+  "author": {
+    "Authored by": "sister Sharon Praveen",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీపై వెలుగు విరజిల్లే సంవత్సరం",
+      "నీతి సూర్యుడుదయించె హితవత్సరం",
+      "నీ దుఃఖ దినములు సమాప్తమాయెను",
+      "నీ నిందకు రెట్టింపు ఘనత వచ్చును"
+    ],
+    "english": [
+      "Neepai velugu virajille samvatsaram",
+      "neethi suryududhayinche hithavatsaram",
+      "nee dhukka dhinamulu samaapthamaayenu",
+      "nee nindhaku rettinpu ghanatha vachunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ సరిహద్దులలో సమాధానము",
+        "మంచి గోధుమలతో నిన్ను తృప్తిపరచును",
+        "నీ చేతి పనులను దీవించును",
+        "రెండింతల మేలు నికనుగ్రహించును",
+        "నిత్యమైన కృపను నీకు చూపును",
+        "ఏ కీడు రాకుండ కాపాడును",
+        "నీ దుఃఖ దినములు సమాప్తమాయెను",
+        "నీ నిందకు రెట్టింపు ఘనత వచ్చును",
+        "శాశ్వత ప్రేమతో ప్రేమించును",
+        "నీరు కట్టిన తోట వలె చిగురించుదువు",
+        "నీ గాయములను మాన్పివేయును",
+        "ఆరోగ్యము నీకు కలుగజేయును",
+        "అభివృద్ధి పరచి ఫలింపజేయును",
+        "మంచి పేరు ఖ్యాతిని దయచేయును",
+        "నీ దుఃఖ దినములు సమాప్తమాయెను",
+        "నీ నిందకు రెట్టింపు ఘనత వచ్చును",
+        "తొలకరి వర్షమును కురిపించును",
+        "కడవరి ఉజ్జీవము ప్రవహింపజేయును",
+        "ఉత్సాహ సంతోషం కలుగజేయును",
+        "కృపయు క్షేమములు నీ వెంట వచ్చును",
+        "నీ గిన్నె నిండి పొర్లి పారును",
+        "దయకిరీటమును ధరింపజేయును",
+        "నీ దుఃఖ దినములు సమాప్తమాయెను",
+        "నీ నిందకు రెట్టింపు ఘనత వచ్చును"
+      ],
+      "english": [
+        "Nee sarihaddhulalo samaadhaanamu",
+        "manchi godhumalatho ninnu trupthi parachunu",
+        "nee chethi panulanu dheevinchunu",
+        "rendinthala melu neekanugrahinchunu",
+        "nithyamaina krupanu neeku choopunu",
+        "ey keedu raakunda kaapaadunu",
+        "nee dhukka dhinamulu samaapthamaayenu",
+        "nee nindhaku rettinpu ghanatha vachunu",
+        "Saaswatha prematho preminchunu",
+        "neeru kattina thotavale chigurinchudhuvu",
+        "nee gaayamulanu maanpiveyunu",
+        "aarogyamu neeku kalugajeyunu",
+        "abhivruddhi parachi phalimpajeyunu",
+        "manchi peru kyaathini dhayacheyunu",
+        "nee dhukka dhinamulu samaapthamaayenu",
+        "nee nindhaku rettinpu ghanatha vachunu",
+        "Tholakari varshamunu kuripinchunu",
+        "kadavari ujjeevamu pravahimpajeyunu",
+        "utsaaha santhosham kalugajeyunu",
+        "krupayu kshemamulu nee venta vachunu",
+        "nee ginne nindi porli paarunu",
+        "dhayaa kireetamunu dharimpajeyunu",
+        "nee dhukka dhinamulu samaapthamaayenu",
+        "nee nindhaku rettinpu ghanatha vachunu"
+      ]
+    }
+  ]
+}

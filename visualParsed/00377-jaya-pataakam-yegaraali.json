@@ -1,0 +1,60 @@
+{
+  "song_name": "Jaya pathaakam egaraali",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Anil Kumar"
+    ],
+    "రచన": [
+      "బ్రదర్ అనిల్ కుమార్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "జయ పతాకం ఎగరాలి - ఈ దేశం సొంతం కావాలి",
+      "ప్రతి మోకాలు వంగాలి - క్రీస్తు రాజ్యం కావాలి",
+      "హల్లెలూయ ఓ హల్లెలూయ (4)",
+      "జయ పతాకం ఎగరాలి - ఈ దేశం సొంతం కావాలి",
+      "ప్రతి మోకాలు వంగాలి - క్రీస్తు రాజ్యం కావాలి"
+    ],
+    "english": [
+      "Jaya pathaakam egaraali - Ee desham sontham kaavaali",
+      "Prathi mokaalu vangaali - Kreesthu raajyam kaavaali",
+      "Hallelooya o hallelooya (4)",
+      "Jaya pathaakam egaraali - Ee desham sontham kaavaali",
+      "Prathi mokaalu vangaali - Kreesthu raajyam kaavaali"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రతి జాతీయు ప్రతి జనమును - క్రీస్తు ప్రభువని ఒప్పుకోవాలి",
+        "ప్రతి గోత్రము ప్రతి వంశము - క్రీస్తు ప్రభువు ఎదుట మోకరించాలి",
+        "ఈ కనులతో నేను చూడాలి - క్రీస్తు రాజ్యాన్ని ......  ||జయ||"
+      ],
+      "english": [
+        "Prathi jaatheeyu prathi janamunu - Kreesthu prabhuvani oppukovaali",
+        "Prathi gothramu prathi vamshamu - Kreesthu prabhuvu eduta mokarinchaali",
+        "Ee kanulatho nenu choodaali - Kreesthu raajyaanni ......  ||Jaya||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జీసస్ లవ్స్ ఇండియా - జీసస్ సేవ్స్ ఇండియా",
+        "జీసస్ హీల్స్ ఇండియా - జీసస్ బ్లెస్స్ ఇండియా (2)",
+        "ఈ దేశంలో ప్రభుని పాలన - ఈ జీవితంలోనే చూడాలి",
+        "యేసు నామమే జయజయమని - ప్రతి స్వరము ప్రభుని స్తుతియించాలి (2)",
+        "ఈ దేశాన్ని ప్రభుకు బహుమతిగా నేను ఇవ్వాలి .....  ||జయ||"
+      ],
+      "english": [
+        "Jesus loves India - Jesus saves India",
+        "Jesus heals India - Jesus bless India (2)",
+        "Ee deshamlo prabhuni paalana - Ee jeevithamlone choodaali",
+        "Yesu naamame jayajayamani - Prathi swaramu prabhuni sthuthiyinchaali (2)",
+        "Ee deshaanni prabhuku bahumathigaa nenu ivvaali .....  ||Jaya||"
+      ]
+    }
+  ]
+}

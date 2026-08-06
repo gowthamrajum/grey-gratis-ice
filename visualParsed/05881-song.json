@@ -1,0 +1,57 @@
+{
+  "song_name": "Shubhavelalo nee momunu choosi arpinchedanu nannoo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "శుభవేళలో నీ మోమును చూసి - అర్పించెదను నన్నూ",
+      "ఆరాధన స్తుతి స్తోత్రములు - తండ్రీ నీకేనయ్యా \"శుభవేళలో\"",
+      "ఆరాధన - ఆరాధన - ఆరాధన - ఆరాధన",
+      "నా ప్రియ యేసునకే - పావనాత్మ ప్రభునకే"
+    ],
+    "english": [
+      "Shubhavelalo nee momunu choosi - Arpinchedanu nannoo",
+      "Aaraadhana sthuthi sthothramulu - Thandree neekenayyaa \"Shubhavelalo\"",
+      "Aaraadhana - Aaraadhana - Aaraadhana - Aaraadhana",
+      "Naa priya Yesunake - Paavanaathma prabhunake"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రతిరోజును ప్రతి నిమిషము - నీ తలంపులతో నింపబడాలి (2)",
+        "నా నోటి మాటలెల్ల - పరుల గాయములు, మా న్పాలి \"శుభవేళలో\""
+      ],
+      "english": [
+        "Prathirojunu prathi nimishamu - Nee thalampulatho nimpabadaali (2)",
+        "Naa noti maatalella - Parula gaayamulu, maanpaali \"Shubhavelalo\""
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ హృదయ ఆశలన్నియూ - హృదినాడిగా మారాలి (2)",
+        "జీవించు రోజులెల్లా - నీసాక్షిగా మారాలి \"శుభవేళలో\""
+      ],
+      "english": [
+        "Nee hrudaya aashalanniyoo - Hrudinaadigaa maaraali (2)",
+        "Jeevinchu rojulellaa - Neesaakshigaa maaraali \"Shubhavelalo\""
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "శుభవార్త భారం ఒక్కటే - నా హృదయ భారమై ఉండాలి (2)",
+        "నా దేశం అంచులెల్లా - నీ నామం ప్రకటించాలి \"శుభవేళలో\""
+      ],
+      "english": [
+        "Shubhavaartha bhaaram okkate - Naa hrudaya bhaaramai undaali (2)",
+        "Naa desham anchulellaa - Nee naamam prakatinchaali \"Shubhavelalo\""
+      ]
+    }
+  ]
+}

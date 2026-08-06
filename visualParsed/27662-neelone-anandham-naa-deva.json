@@ -1,0 +1,48 @@
+{
+  "song_name": "Neelone aanandam naa Deva",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bharat Mandru"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీలోనే ఆనందం నా దేవా నీలోనే నాకు జీవం",
+      "నిన్న నేడు నిరంతరం మారని దేవా (2)",
+      "కోరస్ : ఈ లోకమంతా నేను వెతదకినా నాకు లేదయ్యా ఎక్కడా ఆనందం",
+      "నీ సన్నిధిలో ఒక్క క్షణం గడిపిన నా హృదయం పొంగెను (2)"
+    ],
+    "english": [
+      "Neelone aanandam naa Deva neelone naaku jeevam",
+      "Ninna nedu nirantharam maarani Deva (2)",
+      "Chorus : ee lokamanthaa nenu vethikinaa naaku ledayyaa ekkadaa aanandam",
+      "Nee sannidhilo okka kshanam gadipina naa hrudayam pongenu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఈ లోకం ఒక మాయని తెలుసుకున్నాను ఏది నా సొంతం కాదు అనుకున్నాను (2)",
+        "తప్పిపోయిన కుమారుని నేనయితే నా కొరకే నిరీక్షించే తండ్రి నా యేసు (2)"
+      ],
+      "english": [
+        "Ee lokam oka maayani thelusukunnaanu edhi naa sontham kaadu anukunnaanu (2)",
+        "Thappipoyina kumaaruni nenayithe naa korake nireekshinche thandri naa Yesu (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఏ ప్రేమ నీ ప్రేమకు సాటి రాదయ్య ఎన్ని ఉన్నా నీతో సరి ఏది కాదయ్యా (2)",
+        "నన్ను మరువని ప్రేమ నీ దయ్యా నన్ను మార్చుకున్న ప్రేమ నీదే యేసయ్ (2)"
+      ],
+      "english": [
+        "E prema nee premaku saati raadhayya enni unnaa neetho sari edhi kaadayyaa (2)",
+        "Nannu maruvani prema needayyaa nannu maarchukunna prema neede Yesayya (2)"
+      ]
+    }
+  ]
+}

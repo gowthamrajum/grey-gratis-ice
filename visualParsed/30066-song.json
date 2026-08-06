@@ -1,0 +1,54 @@
+{
+  "song_name": "Yesu Cheppenu Nene Maargamu Sathyamu Jeevamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేనే సత్య ము నేనే జీవము",
+      "నేను తప్ప వేరొక దేవుడు లేడని చెప్పను",
+      "యేసు చెప్పను- యేసు చెప్పను- మన యేసు చెప్పను. \"2\""
+    ],
+    "english": [
+      "Nene sathyamu nene jeevamu",
+      "Nenu thappa veroka devudu ledani cheppenu",
+      "Yesu cheppenu- Yesu cheppenu- Mana Yesu cheppenu. \"2\""
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నే నే ఆల్ఫాయు నేనే ఒమేగయు",
+        "నేనే ఆదియు నేనే అంతమని",
+        "యేసు చెప్పెను యేసు చెప్పెను మన యేసు చెప్పెను .\"2\""
+      ],
+      "english": [
+        "Nene aalphaayu nene omegayu",
+        "Nene aadiyu nene anthamani",
+        "Yesu cheppenu Yesu cheppenu mana Yesu cheppenu .\"2\""
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసు త్వ రగా వస్తున్నాడు",
+        "సిద్ద పడమని చెప్పెను",
+        "సిద్ద పడిన వారందరికి పరలోక రాజ్యము.",
+        "తండ్రి కుమారా పరిశుద్ధాత్మ",
+        "త్రియేక దేవుడు మనతో ఉండెను",
+        "మనతో ఉండెను మనలో ఉండెను."
+      ],
+      "english": [
+        "Yesu thvaragaa vasthunnaadu",
+        "Siddha padamani cheppenu",
+        "Siddha padina vaarandhariki paraloka raajyamu.",
+        "Thandri kumaaraa parishuddhaathma",
+        "Thriyeka devudu manatho undenu",
+        "Manatho undenu manalo undenu."
+      ]
+    }
+  ]
+}

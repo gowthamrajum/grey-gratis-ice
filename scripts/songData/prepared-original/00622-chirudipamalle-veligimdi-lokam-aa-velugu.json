@@ -1,0 +1,35 @@
+{
+  "song_name": "Chirudipamalle Veligimdi Lokam Aa Velugu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "చిరుదీపమల్లె వెలిగింది లోకం ఆ వెలుగు కొరకే వేచింది లోకం ఈ సంభవం యేసయ్య జన్మం మానవ పాపాపరిహారార్ధం (2)"
+    ],
+    "english": [
+      "Chirudipamalle veligimdi lokam aa velugu korake vechimdi lokam E sambavam yesayya janmam manava papapariharardham (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఈ లోకమంతా పులకించగా క్రొంగొత్త ఆశలతో ఆకాశమంతా వెలుగొందెగా నూతన కాంతులతో (2)"
+      ],
+      "english": [
+        "I lokamamta pulakimchaga kromgotta asalato Akasamamta velugomdega nutana kamtulato (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరలోక దూతల్ యేతెంచె భువికి పరిశుద్ధ గానముతో అరుదైన తార ఉదయించె నింగిన్ జ్జానులకు దారి చూపగన్ (2)"
+      ],
+      "english": [
+        "Paraloka dutal yetemche buviki parisuddha ganamuto Arudaina tara udayimche nimgin jjanulaku dari chupagan (2)"
+      ]
+    }
+  ]
+}

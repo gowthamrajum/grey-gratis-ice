@@ -1,0 +1,48 @@
+{
+  "song_name": "Dhyaaninchumu dhivaaraathramu Devuni dharma shaasthramu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ధ్యానించుము దివారాత్రము దేవుని ధర్మ శాస్త్రము",
+      "మహిమకు మార్గము మనిషికి స్వర్గము",
+      "చూపించు దేవుని వాక్యము. . చూపించు దేవుని వాక్యము. ."
+    ],
+    "english": [
+      "Dhyaaninchumu dhivaaraathramu Devuni dharma shaasthramu",
+      "Mahimaku maargamu manishiki swargamu",
+      "Choopinchu Devuni vaakyamu. . choopinchu Devuni vaakyamu. ."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీటీ కాలువ గట్టునా నాటబడిన చెట్టువలెనుందువు",
+        "జీవితమంతయు చేయున దంతయు",
+        "సఫలముగ జరుగును ఇది నమ్ముము (2)"
+      ],
+      "english": [
+        "Neethi kaaluva gattunaa naatabadina chettuvalenunduvu",
+        "Jeevithamanthayu cheyuna dhanthayu",
+        "Saphalamuga jarugunu idhi nammumu (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "త్రోవకు వెలుగు నిచ్చుదీపము ఆత్మకు బలమునిచ్చు దైవము",
+        "చదువుము అనుదినం ఈ ఉపదేశము",
+        "చేరెదము ఆ పరమ దేశము (2)"
+      ],
+      "english": [
+        "Throvaku velugu nichchudheepamu aathmaku balamunichchu daivamu",
+        "Chaduvumu anudinam ee upadhesamu",
+        "Cheredhamu aa parama dhesamu (2)"
+      ]
+    }
+  ]
+}

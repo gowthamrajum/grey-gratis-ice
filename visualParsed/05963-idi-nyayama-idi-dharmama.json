@@ -1,0 +1,56 @@
+{
+  "song_name": "Idi nyaayamaa idi dharmamaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇది న్యాయమా ? ఇది ధర్మమా ?",
+      "శ్రీయేసు వార్తను దాచుట",
+      "నశియించు ఆత్మలన్ దోచుట"
+    ],
+    "english": [
+      "Idi nyaayamaa ? idi dharmamaa ?",
+      "Shreeyesu vaarthanu daachuta",
+      "Nashiyinchu aathmalan dochuta"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసుని నామములో రక్షణ వుందట",
+        "ఆ యేసుని నమ్మనిచో నరకం తప్పదట (2)",
+        "అది తెలిసిన మీరు తెలియని మాకు",
+        "ఆ వార్తను దాచుట న్యాయమా ?",
+        "మా ఆత్మలు దోచుట ధర్మమా ?"
+      ],
+      "english": [
+        "Yesuni naamamulo rakshana vundata",
+        "Aa Yesuni nammanicho narakam thappadata (2)",
+        "Adi thelisina meeru theliyani maaku",
+        "Aa vaarthanu daachuta nyaayamaa ?",
+        "Maa aathmalu dochuta dharmamaa ?"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రకటించిన చోటే ప్రకటిస్తున్నారే",
+        "విన్నవారికే మళ్ళీ వినిపిస్తున్నారే (2)",
+        "పల్లెలను మరచి ప్రభు ఆజ్ఞను విడచి",
+        "పరిచర్య చేయుట న్యాయమా ?",
+        "పట్టణాలలో తిరుగుట ధర్మమా ?"
+      ],
+      "english": [
+        "Prakatinchina chote prakatisthunnaare",
+        "Vinnavaarike mallee vinipisthunnaare (2)",
+        "Pallelanu marachi Prabhu aajnanu vidachi",
+        "Paricharya cheyuta nyaayamaa ?",
+        "Pattanaalalo thiruguta dharmamaa ?"
+      ]
+    }
+  ]
+}

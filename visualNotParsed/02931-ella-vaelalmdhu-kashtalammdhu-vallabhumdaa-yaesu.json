@@ -1,0 +1,99 @@
+{
+  "song_name": "Ella velalandu kashtalamandu vallabhundaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎల్ల వేళలందు కష్టలమందు",
+      "వల్లభుండా యేసున్ స్తుతింతున్",
+      "ఎల్లను నీవే నాకెల్లడల వల్లపడదె వివరింప||"
+    ],
+    "english": [
+      "Ella velalandu kashtalamandu",
+      "Vallabhundaa Yesun sthuthinthun",
+      "Ellanu neeve naakelladala vallapadade vivarimpa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "విమోచకుడా విమోచన నీవే",
+        "రక్షకుడవు నా రక్షణ నీవే  ||ఎల్ల||"
+      ],
+      "english": [
+        "Vimochakudaa vimochana neeve",
+        "Rakshakudavu naa rakshana neeve  ||Ella||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సృష్టికర్తవు సహాయము నీవే",
+        "ఇష్టుడ నీవు త్రిత్వము నీవే  ||ఎల్ల||"
+      ],
+      "english": [
+        "Srushtikarthavu sahaayamu neeve",
+        "Ishtuda neevu thrithvamu neeve  ||Ella||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "జ్ఞానము నీవే నా పానము నీవే",
+        "దానము నీవే నా గానము నీవే  ||ఎల్ల||"
+      ],
+      "english": [
+        "Gnaanamu neeve naa paanamu neeve",
+        "Daanamu neeve naa gaanamu neeve  ||Ella||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "జ్యోతియు నీవే నా నీతియు నీవే",
+        "ఆదియు నీవే నా అంతము నీవే  ||ఎల్ల||"
+      ],
+      "english": [
+        "Jyothiyu neeve naa neethiyu neeve",
+        "Aadiyu neeve naa anthamu neeve  ||Ella||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నిత్యుడ నీవే నా సత్యుండ నీవే",
+        "స్తోత్రము నీవే నా నేత్రము నీవే  ||ఎల్ల||"
+      ],
+      "english": [
+        "Nithyuda neeve naa sathyunda neeve",
+        "Sthothramu neeve naa nethramu neeve  ||Ella||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "జీవము నీవే నా దేవుడు నీవే",
+        "పావన మీవే నా కావలి నీవే  ||ఎల్ల||"
+      ],
+      "english": [
+        "Jeevamu neeve naa Devudu neeve",
+        "Paavana meeve naa kaavali neeve  ||Ella||"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "కాంతియు నీవే నా శాంతియు నీవే",
+        "సంతస మీవే నా కంతయు నీవే  ||ఎల్ల||"
+      ],
+      "english": [
+        "Kaanthiyu neeve naa shaanthiyu neeve",
+        "Santhasa meeve naa kanthayu neeve  ||Ella||"
+      ]
+    }
+  ]
+}

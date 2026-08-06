@@ -1,0 +1,69 @@
+{
+  "song_name": "E reethi sthuthiyinthunu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏ రీతి స్తుతియింతును – ఓ యేసూ నాథా దైవమా",
+      "ఏ రీతి వర్ణింతును – నీ ప్రేమ మధురంబును",
+      "నీ కృపలన్ని తలపోసుకొనుచు – నీ పాదాలు చేరానయ్యా",
+      "నీకు కృతజ్ఞతలు చెల్లింప మదిలో – నా కన్నీళ్లు మిగిలాయయ్యా ||ఏ రీతి||"
+    ],
+    "english": [
+      "E reethi sthuthiyinthunu - O Yesoo naathaa daivamaa",
+      "E reethi varninthunu - Nee prema madhurambunu",
+      "Nee krupalanni thalaposukonuchu - Nee paadaalu cheraanayyaa",
+      "Neeku kruthagnathalu chellimpa madilo - Naa kanneellu migilaayayyaa ||E reethi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏకాకినై నే దుఃఖార్తిలో – ఏ తోడు గానని నాకు",
+        "ఏమౌదునో ఎటు పోదునో – ఎటు తోచక నున్న నన్ను",
+        "ఏ భయము నీకేల యనుచు – అభయంబు నిచ్చావయ్యా",
+        "ఏ దారి కనబడని వేళ – నీ ఒడిలోపు దాచావయ్యా  ||ఏ||"
+      ],
+      "english": [
+        "Ekaakinai ne duhkhaarthilo - E thodu gaanani naaku",
+        "Emauduno etu podhuno - Etu thochaka nunna nannu",
+        "E bhayamu neekela yanuchu - Abhayambu nichchaavayyaa",
+        "E daari kanabadani vela - Nee odilopu dhaachaavayyaa  ||E||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఈ మనుష్యులు ఈ వైరులు – ఎన్నెన్నో చేసిన గాని",
+        "నా ప్రాణము నా దేహము – నీ స్వాధీనంభేగదయ్యా",
+        "నా స్వామి నాతోనే ఉంటూ – నా కాపరిగ నిలిచావయ్యా",
+        "నాకేమి స్పృహ లేని వేళ – ఊపిరిని పోసావయ్యా  ||ఏ||"
+      ],
+      "english": [
+        "Ee manushyulu ee vairulu - Ennenno chesina gaani",
+        "Naa praanamu naa dehamu - Nee swaadheename gadayyaa",
+        "Naa swaami naathone untoo - Naa kaapariga nilichaavayyaa",
+        "Naakemi spruha leni vela - Oopirini posaavayyaa  ||E||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ ప్రేమను నీ పేరును – నేనెన్నడూ మరువలేను",
+        "నీ కరుణను నీ జాలిని – ఏ మనిషిలో చూడలేను",
+        "నిజ దైవము నీవే యనుచు – నీ వైపే నే చూచానయ్యా",
+        "యెహోవా రాఫా నేననుచు – ఈ స్వస్థతను ఇచ్చావయ్యా  ||ఏ||"
+      ],
+      "english": [
+        "Nee premanu nee perunu - Nenennadoo maruvalenu",
+        "Nee karunanu nee jaalini - E manishilo choodalenu",
+        "Nija daivamu neeve yanuchu - Nee vaipe ne choochaanayyaa",
+        "Yehovaa raaphaa nenanuchu - Ee swasthathanu ichchaavayyaa  ||E||"
+      ]
+    }
+  ]
+}

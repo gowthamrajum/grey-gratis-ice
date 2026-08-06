@@ -1,0 +1,69 @@
+{
+  "song_name": "Raajulaku Raajaina Ee Mana Vibhuni",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాజులకు రాజైన ఈ మన విభుని",
+      "పూజ చేయుటకు రండి",
+      "ఈ జయశాలి కన్నా",
+      "మనకింకా రాజెవ్వరును లేరని ||రాజులకు||"
+    ],
+    "english": [
+      "Raajulaku raajaina ee mana vibhuni",
+      "Pooja cheyutaku randi",
+      "Ee jayashaali kannaa",
+      "Manakinkaa raajevvarunu lerani ||Raajulaku||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కరుణ గల సోదరుండై ఈయన",
+        "ధరణికేతెంచెనయ్యా (2)",
+        "స్థిరముగా నమ్ముకొనిన",
+        "మనకొసగు పరలోక రాజ్యమును  ||రాజులకు||"
+      ],
+      "english": [
+        "Karuna gala sodharundai eeyana",
+        "Dharanikethenchenayyaa (2)",
+        "Sthiramugaa nammukonina",
+        "Manakosagu paraloka raajyamunu ||Raajulaku||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నక్కలకు బొరియలుండే నాకాశ",
+        "పక్షులకు గూళ్లుండెను (2)",
+        "ఒక్కింత స్థలమైనను",
+        "మన విభుని కెక్కడ లేకుండెను  ||రాజులకు||"
+      ],
+      "english": [
+        "Nakkalaku boriyalunde naakaasha",
+        "Pakshulaku goollundenu (2)",
+        "Okkintha sthalamainanu",
+        "Mana vibhuni kekkada lekundenu ||Raajulaku||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "త్వరపడి రండి రండి ఈ పరమ",
+        "గురుని యొద్దకు మీరలు (2)",
+        "దరికి జేరిన వారిని",
+        "ఈ ప్రభువు తరుమడెన్నడు దూరము  ||రాజులకు||"
+      ],
+      "english": [
+        "Thvarapadi randi randi ee parama",
+        "Guruni yoddaku meeralu (2)",
+        "Dariki jerina vaarini",
+        "Ee prabhuvu tharumadennadu dooramu ||Raajulaku||"
+      ]
+    }
+  ]
+}

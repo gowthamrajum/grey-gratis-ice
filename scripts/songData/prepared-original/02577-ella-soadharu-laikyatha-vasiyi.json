@@ -1,0 +1,53 @@
+{
+  "song_name": "Ella Soadharu Laikyatha Vasiyi",
+  "author": {
+    "Authored by": "",
+    "రచన": "మల్లెల దావీదు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎల్ల సోదరు లైక్యత వసియించుట యెంత మేలు మనోహరము ||ఎల్ల||"
+    ],
+    "english": [
+      "ella soadharu laikyatha vasiyiMchuta yeMtha maelu manoaharamu ||ella||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ధరణిలో నహరోను తలనుండి దిగ జారు పరిమళ తైలంబు వలె నద్ది తనరారు ||ఎల్ల||"
+      ],
+      "english": [
+        "DharaNiloa naharoanu thalanuMdi dhiga jaaru parimaLa thailMbu vale nadhdhi thanaraaru ||ella||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వెలయు సీయోను కొం డల పైకి దిగి వచ్చు నల హెర్మోను మంచు వలె నద్ది చెల్వారు ||ఎల్ల||"
+      ],
+      "english": [
+        "velayu seeyoanu koM dala paiki dhigi vachchu nala hermoanu mMchu vale nadhdhi chelvaaru ||ella||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తరంతరం బాశీర్వా దము నిత్య జీవంబు స్థిరముగా నందుండ సెల విడెను దేవుండు ||ఎల్ల||"
+      ],
+      "english": [
+        "tharMtharM baasheervaa dhamu nithya jeevMbu sThiramugaa nMdhuMda sela videnu dhaevuMdu ||ella||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "జనక తన యాత్మకును ఘన మహిమ మగుఁగాక మును పిప్పుడున్ యుగ ముల కగును గా కామేన్ ||ఎల్ల||"
+      ],
+      "english": [
+        "janaka thana yaathmakunu ghana mahima maguAOgaaka munu pippudun yuga mula kagunu gaa kaamaen ||ella||"
+      ]
+    }
+  ]
+}

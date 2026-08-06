@@ -1,0 +1,53 @@
+{
+  "song_name": "Veerula Mayyaa Jaya Veerula Ma",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఎ  జెఖర్యా"
+  },
+  "main_stanza": {
+    "telugu": [
+      "వీరుల మయ్యా జయ వీరుల మయ్యా మా వైరిఁ జంప యుద్ధమాడు శూరుల మయ్యా ||వీరుల||"
+    ],
+    "english": [
+      "veerula mayyaa jaya veerula mayyaa maa vairiAO jMpa yudhDhamaadu shoorula mayyaa ||veerula||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మాంస లోక పిశాచి హింసపరచిన మము ధ్వంసముఁజేయ పై బడిన ధ్వజము విడమాయా ||వీరుల||"
+      ],
+      "english": [
+        "maaMsa loaka pishaachi hiMsaparachina mamu DhvMsamuAOjaeya pai badina Dhvajamu vidamaayaa ||veerula||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరమ గురు వగు యేసు ప్రభువు నాజ్ఞను బహు త్వరగఁ బ్రజకుఁ బయలుపర్చు భటుల మే మయా ||వీరుల||"
+      ],
+      "english": [
+        "parama guru vagu yaesu prabhuvu naajnYnu bahu thvaragAO brajakuAO bayaluparchu bhatula mae mayaa ||veerula||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అతి దుష్ట ద్రోహులు మము వెతలఁ బెట్టిన నీ క్షితి సువార్త కొఱ కొకింత సిగ్గు పడ మయా ||వీరుల||"
+      ],
+      "english": [
+        "athi dhuShta dhroahulu mamu vethalAO bettina nee kShithi suvaartha koRa kokiMtha siggu pada mayaa ||veerula||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "భూలోక నాధులు చాల పోరు సల్పిన మా వేలుపునకుఁ బ్రాణ మైనఁ బెట్టువారము ||వీరుల||"
+      ],
+      "english": [
+        "bhooloaka naaDhulu chaala poaru salpina maa vaelupunakuAO braaNa mainAO bettuvaaramu ||veerula||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "song_name": "Srushtikartha Yesuni Sthuthinchedamu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సృష్టికర్త యేసుని స్తుతించెదము సర్వసృష్టియు ప్రభు క్రియలే",
+      "సర్వ జనాలి సునాదముతో ప్రభుని క్రియలు ఘనపరచెదము",
+      "హ. హ. హల్లెలూయా. . యా పాడెదము"
+    ],
+    "english": [
+      "Srushtikartha Yesuni Sthuthinchedamu Sarvasrushtiyu Prabhu Kriyale",
+      "Sarva Janaali Sunaadamutho Prabhuni Kriyalu Ghanaparachedamu",
+      "Ha. Ha. Halleluyaa. . Yaa Paadedamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అగాధజలములపై ఆత్మ అలల ఊయల ఊగిన వేల",
+        "చీకటిని విడదీసి శూన్యమును వెలిగించి నీదు మహిమను చూపితివే"
+      ],
+      "english": [
+        "Agaadhajalamulapai Aathma Alala Ooyala Oogina Vela",
+        "Cheekatini Vidadeesi Shoonyamunu Veliginchi Needu Mahimanu Choopithive"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అంతరిక్షమున జ్యోతులను అభినవ లోకము విరసిన వేళ",
+        "ప్రాణులను సృజియించి ప్రకృతిని యింపుగను రూపించిన నిను పొగడెదను"
+      ],
+      "english": [
+        "Antharikshamuna Jyothulanu Abhinava Lokamu Virasina Vela",
+        "Praanulanu Srujiyinchi Prakruthini Yimpuganu Roopinchina Ninu Pogadedanu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "భూఆవిరిని రప్పించి ఆరిన నేలను తడిపిన వేళ",
+        "మంటి నుండి మము చేసి నాసికలో జీవమూది మనిషికి రూపము నిచ్చితివే"
+      ],
+      "english": [
+        "Bhooaavirini Rappinchi Aarina Nelanu Thadipina Vela",
+        "Manti Nundi Mamu Chesi Naasikalo Jeevamoodi Manishiki Roopamu Nichchithive"
+      ]
+    }
+  ]
+}

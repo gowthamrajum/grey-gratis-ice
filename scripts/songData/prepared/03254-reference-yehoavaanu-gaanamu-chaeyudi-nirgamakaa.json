@@ -1,0 +1,87 @@
+{
+  "song_name": "Yehoavaanu Gaanamu Chaesedhamu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవాను గానము చేసెదము యేకముగా",
+      "మనకు రక్షకుడాయనే - ఆయన మహిమ పాడెదము",
+      "ఆయనను అర్ణించెదము - ఆయనే దేవుడు మనకు"
+    ],
+    "english": [
+      "Yehoavaanu Gaanamu Chaesedhamu Yaekamugaa",
+      "Manaku Rakshakudaayanae - Aayana Mahima Paadedhamu",
+      "Aayananu Arninchedhamu - Aayanae Dhaevudu Manaku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యుద్ధశూరుడేహోవా - నా బలము నా గానము",
+        "నా పితరుల దేవుడు - ఆయన పేరు యెహోవాను"
+      ],
+      "english": [
+        "Yudhdhashoorudaehoavaa - Naa Balamu Naa Gaanamu",
+        "Naa Pitharula Dhaevudu - Aayana Paeru Yehoavaanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఫరోరథముల సేనలను - తన శ్రేష్ఠాధిపతులను",
+        "ఎర్ర సముద్రములోన - ముంచివేసె నెహోవా"
+      ],
+      "english": [
+        "Pharoarathamula Saenalanu - Thana Shraeshtaadhipathulanu",
+        "Erra Samudhramuloana - Munchivaese Nehoavaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ మహిమాతిశయమున - కోపాగ్ని రగులజేసి",
+        "చెత్తవలె దహించెదవు - నేపై లేచువారిని"
+      ],
+      "english": [
+        "Nee Mahimaathishayamuna - Koapaagni Ragulajaesi",
+        "Cheththavale Dhahinchedhavu - Naepai Laechuvaarini"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దోపుడు సొమ్ము పంచుకొని - ఆశ తీర్చుకొందును",
+        "నా కత్తి దూసెదను - అని శత్రువనుకొనెను"
+      ],
+      "english": [
+        "Dhoapudu Sommu Panchukoni - Aasha Theerchukondhunu",
+        "Naa Kaththi Dhoosedhanu - Ani Shathruvanukonenu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "వేల్పులలో నీ సముడెవడు - పరిశుద్ధ మహానీయుడా",
+        "అద్భుతమైన పూజ్యుడా - నీవంటి వాడెవడు?"
+      ],
+      "english": [
+        "Vaelpulaloa Nee Samudevadu - Parishudhdha Mahaaneeyudaa",
+        "Adhbhuthamaina Poojyudaa - Neevanti Vaadevadu?"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఇశ్రాయేలీయులంతా - ఎంతో సురక్షితముగా",
+        "సముద్రము మధ్యను - ఆరిన నేలను నడచిరి"
+      ],
+      "english": [
+        "Ishraayaeleeyulanthaa - Enthoa Surakshithamugaa",
+        "Samudhramu Madhyanu - Aarina Naelanu Nadachiri"
+      ]
+    }
+  ]
+}

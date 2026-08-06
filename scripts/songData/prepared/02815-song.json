@@ -1,0 +1,74 @@
+{
+  "song_name": "Oadduchaeri Nee Yedhuta Nilpunapudu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఒక్క యాత్మనైన నేను రక్షింప యేసువా",
+      "వట్టి చేతులతో నిన్ను దర్శించుట తగునా"
+    ],
+    "english": [
+      "Okka Yaathmanaina Naenu Rakshimpa Yaesuvaa",
+      "Vatti Chaethulathoa Ninnu Dharshinchuta Thagunaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఓడ్డుచేరి నీ యెదుట నిల్పునపుడు రక్షకా",
+        "ఒక్క యాత్మనైన తేక సిగ్గుపడిపోదునా."
+      ],
+      "english": [
+        "Oadduchaeri Nee Yedhuta Nilpunapudu Rakshakaa",
+        "Okka Yaathmanaina Thaeka Siggupadipoadhunaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆత్మలందు వాంఛలేక సోమరులై కాలమున్",
+        "వ్యర్థపరచు వారానాడు చింతతోడ నిల్తురు."
+      ],
+      "english": [
+        "Aathmalandhu Vaanchalaeka Soamarulai Kaalamun",
+        "Vyarthaparachu Vaaraanaadu Chinthathoada Nilthuru"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యేసువా! నా స్వరక్షణ నిశ్చయంబు యైనదే",
+        "ఐనఫలితంబుజూడ కష్టపడనైతినే."
+      ],
+      "english": [
+        "Yaesuvaa! Naa Svarakshana Nishchayambu Yainadhae",
+        "Ainaphalithambujooda Kashtapadanaithinae"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కాలమెల్ల గడ్చిపోయెన్ మోసపోతినేనయ్యో",
+        "గడ్చినట్టి కాలమైతే ఏడ్చినను రాదది."
+      ],
+      "english": [
+        "Kaalamella Gadchipoayen Moasapoathinaenayyoa",
+        "Gadchinatti Kaalamaithae Aedchinanu Raadhadhi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "భక్తులారా! ధైర్యంతోడ లేచి ప్రకాశించుడీ",
+        "ఆత్మలెల్ల యేసుయొద్ద చేరునట్లు చేయుడి."
+      ],
+      "english": [
+        "Bhakthulaaraa! Dhairyamthoada Laechi Prakaashinchudee",
+        "Aathmalella Yaesuyodhdha Chaerunatlu Chaeyudi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "song_name": "Sarvonnathudaa sarvaadhikaari",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Praveen VB"
+    ],
+    "రచన": [
+      "ప్రవీణ్ వి బి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "సర్వోన్నతుడా సర్వాధికారి ఆకాశం నీ సింహాసనం",
+      "సర్వోన్నతుడా సర్వాధికారి ఈ భూమి నీ పాద పీఠము || 2 ||"
+    ],
+    "english": [
+      "Sarvonnathudaa sarvaadhikaari aakaasham nee simhaasanam",
+      "Sarvonnathudaa sarvaadhikaari ee bhoomi nee paada peethamu || 2 ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రేమామయుడా... నా యేసయ్యా...  ||సర్వోన్నతుడా||",
+        "కరుణామయుడా ... నా యేసయ్యా... || 2  ||సర్వోన్నతుడా||"
+      ],
+      "english": [
+        "Premaamayudaa... naa Yesayyaa...  ||Sarvonnathudaa||",
+        "Karunaamayudaa ... naa Yesayyaa... || 2  ||Sarvonnathudaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ వాక్యమును బట్టి నా అడుగులు తిరపరచుము",
+        "ఏ పాపమును నన్ను ఎలనీయకుము || 2 ||"
+      ],
+      "english": [
+        "Nee vaakyamunu batti naa adugulu sthiraparachumu",
+        "E paapamunu nannu elaneeyakumu || 2 ||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అపవాది తంత్రములను తెలుసుకొనుటకు నాకు",
+        "నీ జ్ఞానమును దయచేయుము || 2  ||సర్వోన్నతుడా||"
+      ],
+      "english": [
+        "Apavaadi thanthramulanu thelusukonutaku naaku",
+        "Nee gnaanamunu dayacheyumu || 2  ||Sarvonnathudaa||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నే పాడు ప్రతి పాట నీ కొరకే పాడెదన్",
+        "నే వేసే ప్రతి అడుగు నీ మార్గంలోనే వేసెదన్ || 2 ||"
+      ],
+      "english": [
+        "Ne paadu prathi paata nee korake paadedan",
+        "Ne vese prathi adugu nee maargamlone vesedhan || 2 ||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పదితంతుల సితారతోను తంబూరనాధముతోను",
+        "నిన్నే నే కీర్తించెదన్ || 2  ||సర్వోన్నతుడా||"
+      ],
+      "english": [
+        "Padhithanthula sithaarathonu thambooranaadhamuthonu",
+        "Ninne ne keerthinchedan || 2  ||Sarvonnathudaa||"
+      ]
+    }
+  ]
+}

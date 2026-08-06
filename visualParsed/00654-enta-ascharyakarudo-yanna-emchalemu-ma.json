@@ -1,0 +1,68 @@
+{
+  "song_name": "Entha aashcharyakarudo yannaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎంత ఆశ్చర్యకరుడో యన్నా ఎంచలేము మా యేసన్నను",
+      "ఎంత పాపినైన యేసన్నా వింతగాను",
+      "రక్షించు నన్నా ఎంత అంధకారమైనను",
+      "ఎన్ని బంధకములైనను అన్ని సరిచేయును యేసన్నా"
+    ],
+    "english": [
+      "Entha aashcharyakarudo yannaa enchalemu maa Yesannanu",
+      "Entha paapinaina Yesannaa vinthagaanu",
+      "Rakshinchu nannaa entha andhakaaramainanu",
+      "Enni bandhakamulainanu anni saricheyunu Yesannaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కుంటివారికి కాలుచేతులు కన్నులు లేని కబోదులైనను",
+        "మన్ననతో నిల మంచిగ చేసిన మంచి ప్రభుడు యేసన్నా"
+      ],
+      "english": [
+        "Kuntivaariki kaaluchethulu kannulu leni kabodhulainanu",
+        "Mannanatho nila manchiga chesina manchi prabhudu Yesannaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆకలిగొన్న వారికి అన్నము పేదల బీదల బాధలు తీర్చెడి",
+        "స్వర్గమునకు ఒక మార్గము చూపిన సజ్జనుడు యేసన్నా"
+      ],
+      "english": [
+        "Aakaligonna vaariki annamu pedhala beedhala baadhalu theerchedi",
+        "Swargamunaku oka maargamu choopina sajjanudu Yesannaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నాయఘములకై నీచుని వలెను సిలువను పొంది చావును గెలిచి",
+        "నాకును నా దేవునికిని మద్య మధ్యవర్తి యేసన్నా"
+      ],
+      "english": [
+        "Naa aghamulakai neechuni valenu siluvanu pondi chaavunu gelichi",
+        "Naakunu naa Dhevunikini madhya madhyavarthi Yesannaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "అట్టి శ్రమలు పొంది లేచిన ఆ క్రీస్తుని నమ్మిన యెడల",
+        "నిశ్చయముగ నీకు రక్షణ నిచ్చును రక్షకుడు యేసన్నా"
+      ],
+      "english": [
+        "Atti shramalu pondi lechina aa Kreesthuni nammina edala",
+        "Nishchayamuga neeku rakshana nichchunu rakshakudu Yesannaa"
+      ]
+    }
+  ]
+}

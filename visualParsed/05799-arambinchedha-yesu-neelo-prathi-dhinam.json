@@ -1,0 +1,69 @@
+{
+  "song_name": "Aarambhinchedha Yesu neelo pratheedhinam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆరంభించెద యేసు నీలో ప్రతీదినం",
+      "ఆనందించెద యేసు నీలో ప్రతీక్షణం",
+      "ఆస్వాదించెద నీ మాటలమాధుర్యం ॥2॥",
+      "ఆరాధించెద నిన్నే నిత్యం ॥2॥ ॥ఆరంభించెద॥"
+    ],
+    "english": [
+      "Aarambhinchedha Yesu neelo pratheedhinam",
+      "Aanandincheda Yesu neelo pratheekshanam",
+      "Aaswaadhinchedha nee maatalamaadhuryam ||2||",
+      "Aaraadhincheda ninne nithyam ||2|| ||Aarambhinchedha||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ సన్నిధిలో ప్రతి ఉదయం",
+        "ఆలించెద నీ మధుర స్వరం",
+        "అరుణోదయమున నీ సహవాసం ॥2॥",
+        "నింపును నాలో నూతన ధైర్యం ॥2॥  ||ఆరంభించెద||"
+      ],
+      "english": [
+        "Nee sannidhilo prathi udayam",
+        "Aalinchedha nee madhura swaram",
+        "Arunodhayamuna nee sahavaasam ||2||",
+        "Nimpunu naalo noothana dhairyam ||2||  ||Aarambhinchedha||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ చిత్తముకై ప్రతి విషయం",
+        "అర్పించెద నీ కృపకోసం",
+        "వేకువ జామున నీ ముఖదర్శనం ॥2॥",
+        "పెంచును నాలో ఆత్మవిశ్వాసం ॥2॥  ||ఆరంభించెద||"
+      ],
+      "english": [
+        "Nee chitthamukai prathi vishayam",
+        "Arpinchedha nee krupakosam",
+        "Vekuva jaamuna nee mukhadharshanam ||2||",
+        "Penchunu naalo aathmavishwaasam ||2||  ||Aarambhinchedha||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా పెదవులతో ప్రతినిమిషం",
+        "స్తుతియించెద నీ ఘననామం",
+        "దిన ప్రారంభమున నీ ప్రియజ్ఞానం ॥2॥",
+        "కాల్చును నాలో అహం సర్వం ॥2॥  ||ఆరంభించెద||"
+      ],
+      "english": [
+        "Naa pedhavulatho prathinimisham",
+        "Sthuthiyinchedha nee ghananaamam",
+        "Dina praarambhamuna nee priyagnaanam ||2||",
+        "Kaalchunu naalo aham sarvam ||2||  ||Aarambhinchedha||"
+      ]
+    }
+  ]
+}

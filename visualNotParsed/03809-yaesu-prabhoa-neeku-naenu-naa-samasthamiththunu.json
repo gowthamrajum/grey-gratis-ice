@@ -1,0 +1,77 @@
+{
+  "song_name": "Yesu Prabho neeku nenu naa samasthamiththunu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సమర్పించుకొనుడి. రోమీయులకు 12:1"
+    ],
+    "english": [
+      "Samarpinchukonudi. Romeeyulaku 12:1"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు ప్రభో నీకు నేను - నా సమస్తమిత్తును",
+        "నీ సన్నిధిలో వసించి - ఆశతో బ్రేమింతును",
+        "నా సమస్తము - నా సమస్తము",
+        "నా సురక్షకా నీకిత్తు - నా సమస్తము"
+      ],
+      "english": [
+        "Yesu Prabho neeku nenu - Naa samasthamiththunu",
+        "Nee sannidhilo vasinchi - Aashatho preminthunu",
+        "Naa samasthamu - Naa samasthamu",
+        "Naa surakshakaa neekiththu - Naa samasthamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసు ప్రభో నీకే నేను - దోసిలొగ్గి మ్రొక్కెదన్",
+        "తీసివేతు లోకయాశల్ - యేసు చేర్చు మిప్పుడే"
+      ],
+      "english": [
+        "Yesu Prabho neeke nenu - Dhosiloggi mrokkedan",
+        "Theesivethu lokayaashal - Yesu cherchu mippude"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీదు వాడ నేను యేసు - నీవు నాదు వాడవు",
+        "నీవు నేను నేకమని - నీశుద్ధాత్మ సాక్ష్యము"
+      ],
+      "english": [
+        "Needu vaada nenu Yesu - Neevu naadu vaadavu",
+        "Neevu nenu nekamani - Neeshuddhaathma saakshyamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యేసు ప్రభూ నీకు నన్ను - నీయ నేనే వచ్చితి",
+        "నీదు ప్రేమ శక్తి నింపి - నీదు దీవెన నియ్యవే"
+      ],
+      "english": [
+        "Yesu Prabhoo neeku nannu - Neeya nene vachchithi",
+        "Needu prema shakthi nimpi - Needu deevena niyyave"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యేసు నీవే నా సర్వాస్తి - హా సుజ్వాలన్ బొందితి",
+        "హా సురక్షణానందమా - హల్లెలూయ స్తోత్రము"
+      ],
+      "english": [
+        "Yesu neeve naa sarvaasthi - Haa sujvaalan bondhithi",
+        "Haa surakshanaanandhamaa - Hallelooya sthothramu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "song_name": "Jeevaahaaramu rammu chirajeevaannamu nichchi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "ఏ  బి  మాసిలామణి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "జీవాహారము రమ్ము చిరజీవాన్నము నిచ్చి జీవిత క్షుద దీర్చుము",
+      "జీవనపథములో చీకటి పడువేళ జీర్ణించు కొనిపోవు జీవితాశలఁ బెంచ",
+      "||జీవా||"
+    ],
+    "english": [
+      "Jeevaahaaramu rammu chirajeevaannamu nichchi jeevitha kshudha dheerchumu",
+      "Jeevanapathamulo cheekati paduvela jeerninchu konipovu jeevithaashala bencha",
+      "||Jeevaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "విందుగృహమునకేగి వీక్షింతు భ్రమతో నీ వివిధసుభోజ్యంబులన్",
+        "విచ్ఛిన్నమైన నీ విమల దేహపు విందు వికలంబౌ మనసుతో వినుతించి,",
+        "తినుచుందు  ||జీవాహారము||"
+      ],
+      "english": [
+        "Vindhugruhamunakegi veekshinthu bhramatho nee vividhasubhojyambulan",
+        "Vichchinnamaina nee vimala dhehapu vindu vikalambau manasutho vinuthinchi,",
+        "Thinuchundhu ||Jeevaahaaramu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రుధిర ధారలలోన ఋజువౌ నీ ప్రేమలు రూపుమాయును పాపము",
+        "ఋతద్రాక్ష వల్లీ నీ రుధిరపానముచేత ఋణభారములు దీరి రుచి",
+        "యించు నా బ్రతుకు  ||జీవాహారము||"
+      ],
+      "english": [
+        "Rudhira dhaaralalona rujuvau nee premalu roopumaayunu paapamu",
+        "Ruthadhraaksha vallee nee rudhirapaanamuchetha runabhaaramulu dheeri ruchi",
+        "Inchu naa brathuku ||Jeevaahaaramu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "భవదీయ స్మరణార్థం పతితుల శరణార్థం ఫలియించు యీహోమము",
+        "ప్రభువా నాయాత్మలో ప్రతిబింబమై వెలసి పానార్పణంబౌను ప్రతిరక్త",
+        "బిందువు  ||జీవాహారము||"
+      ],
+      "english": [
+        "Bhavadheeya smaranaartham pathithula sharanaartham phaliyinchu eehomamu",
+        "Prabhuvaa naayaathmalo prathibimbamai velasi paanaarpanambaunu prathiraktha",
+        "Bindhuvu ||Jeevaahaaramu||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆత్మాంతఃపురములో ఆంతర్య గదిలోన ఆరాధించు నీ నామము",
+        "అలనాటి నీ రక్త నవనిబంధన నేడు అపురూపమై నాలో నవతరించును",
+        "దేవా  ||జీవాహారము||"
+      ],
+      "english": [
+        "Aathmaanthahpuramulo aantharya gadhilona aaraadhinchu nee naamamu",
+        "Alanaati nee raktha navanibandhana nedu apuroopamai naalo navatharinchunu",
+        "Devaa ||Jeevaahaaramu||"
+      ]
+    }
+  ]
+}

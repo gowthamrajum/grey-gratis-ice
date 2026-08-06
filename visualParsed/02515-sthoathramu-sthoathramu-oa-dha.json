@@ -1,0 +1,63 @@
+{
+  "song_name": "Sthothramu sthothramu o Deva",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "బన్యన్ జోసఫ్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తోత్రము స్తోత్రము ఓ దేవా ఈ వేకువనే స్తోత్రము జేతుము మా దేవా",
+      "రాత్రియందున మమ్ము రక్షించి గాపాడి ధాత్రి మరియొక",
+      "దినమున్ దయతో నిచ్చెన దేవా||"
+    ],
+    "english": [
+      "Sthothramu sthothramu o Deva ee vekuvane sthothramu jethumu maa Deva",
+      "Raathriyanduna mammu rakshinchi gaapaadi dhaathri mariyoka",
+      "Dinamun dayatho nichchena Deva||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపశోధనలనుండి ప్రభువా మమ్ము కాపాడి బ్రోవుమయ్య ఏ",
+        "పాపము మమ్మున్ ఏల నియ్యకుండ మాపు రేపులుమమ్ము మనిపి",
+        "బ్రోవుమయ్య||"
+      ],
+      "english": [
+        "Paapashodhanalanundi Prabhuvaa mammu kaapaadi brovumayya e",
+        "Paapamu mammun ela niyyakunda maapu repulumammu manipi",
+        "Brovumayya||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కన్న తండ్రికంటెను కనికరమున కాపాడెడి మా దేవా అన్న",
+        "దమ్ములవలె మే మందరిని ప్రేమించి మన్ననతో నీదినము మన",
+        "నియ్యుమో దేవా||"
+      ],
+      "english": [
+        "Kanna thandrikantenu kanikaramuna kaapaadedi maa Deva anna",
+        "Dammulavale me mandarini preminchi mannanatho needinamu mana",
+        "Niyyumo Deva||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పితా సుతా శుద్ధాత్మలనెడి దేవా ప్రీతితో గావుమయ్యా",
+        "నీతిమార్గములందు నిరతము మముగాచి ఖ్యాతిగా నీకొరకు బ్రతుకనిమ్మో",
+        "దేవా||"
+      ],
+      "english": [
+        "Pithaa suthaa shuddhaathmalanedi Deva preethitho gaavumayyaa",
+        "Neethimaargamulandu nirathamu mamugaachi khyaathigaa neekoraku brathukanimmo",
+        "Deva||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "song_name": "Sajeeva Saakshulugaa",
+  "author": {
+    "Authored by": "Dr. John Wesly",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సజీవ సాక్షులుగా మమ్ము నిలిపిన దేవా వందనం",
+      "నీ చిత్తమందు స్థిరపరచినావు యేసు అభివందనం",
+      "ఏమిచ్చి నీ ఋణం తీర్చగలము",
+      "జిహ్వా ఫలము అర్పింతుము",
+      "మేమున్నాం నీ చిత్తములో",
+      "మేమున్నాం నీ సేవలో"
+    ],
+    "english": [
+      "Sajeeva Saakshulugaa mammu nilipina devaa vandhanam",
+      "nee chittamandu sthiraparachinaavu yesu abhi vandhanam",
+      "emichi nee runam theerchagalamu",
+      "jihvaa phalamu arpinthumu",
+      "memunnaam nee chittamulo",
+      "memunnaam nee sevalo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తల్లి గర్భమునందు – మమ్మును రూపించి",
+        "శాశ్వత ప్రేమతో మేము నింపి – భువిని సమకూర్చినావు",
+        "ఎగిసిపడే అలలెన్నో – అణచివేసి జయమిచ్చినావు",
+        "భీకరమైన తుఫానులోన – నెమ్మదినిచ్చి బ్రతికించావు",
+        "కృంగిపోము మేమెన్నడు – ఓటమి రాదు మాకెన్నడు",
+        "ఉన్నత పిలుపుకు మము పిలిచిన – నీ దివ్య సంకల్పం",
+        "నెరవేర్చుము మా పరిశుద్ధ దేవా – మహిమ పూర్ణుడా",
+        "జడివానలైనా సుడిగాలులైనా – కాడిని మోస్తూ సాగెదం",
+        "నిందలయినా బాధలైనా – ఆనందముతో పాడెదం",
+        "కలత చెందము మేమెన్నడు – అలసట రాదు మాకెన్నడు"
+      ],
+      "english": [
+        "Thalli garbhamunandhu – mammunu roopinchi",
+        "saaswatha prematho memu nimpi – bhuvini samakoorchinaavu",
+        "egasipade alalenno – anachivesi jayamichinaavu",
+        "bheekaramaina thufaanulona – nemmadhinichi brathikinchaavu",
+        "krungipomu memannadu – otami raadhu maakennadu",
+        "Unnatha pilupuku mamu pilichina – nee divya sankalpam",
+        "neraverchumu maa parishuddha devaa – mahima poornudaa",
+        "jadivaanalainaa sudigaalulainaa – kaadini mosthu saagedham",
+        "nindhalayinaa baadhalainaa – aanandhamutho paadedham",
+        "kalatha chendhamu memennadu – alasata raadhu maakennadu"
+      ]
+    }
+  ]
+}

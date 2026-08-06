@@ -1,0 +1,63 @@
+{
+  "song_name": "Raare Choothumu Raajasuthudee",
+  "author": {
+    "Authored by": "",
+    "రచన": "చెట్టి భానుమూర్తి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "రారె చూతుము రాజసుతుడీ రేయి జనన మాయెను",
+      "రాజులకు రా రాజు మెస్సియ రాజితంబగు తేజమదిగో"
+    ],
+    "english": [
+      "Raare Choothumu Raajasuthudee Raeyi Janana Maayenu",
+      "Raajulaku Raa Raaju Messiya Raajithambagu Thaejamadhigoa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దూత గణములన్ దేరి చూడరే దైవ వాక్కులన్ దెల్పగా",
+        "దేవుడే మన దీనరూపున ధరణి కరిగెనీ దినమున"
+      ],
+      "english": [
+        "Dhootha Ganamulan Dhaeri Choodarae Dhaiva Vaakkulan Dhelpagaa",
+        "Dhaevudae Mana Dheenaroopuna Dharani Karigenee Dhinamuna"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కల్లగాదిది కలయు గాదిది గొల్ల బోయల దర్శనం",
+        "తెల్లగానదె తేజరిల్లెడి తారగాంచరె త్వరగ రారే"
+      ],
+      "english": [
+        "Kallagaadhidhi Kalayu Gaadhidhi Golla Boayala Dharshanam",
+        "Thellagaanadhe Thaejarilledi Thaaragaanchare Thvaraga Raarae"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బాలు డడుగో వేల సూర్యుల బోలు సద్గుణ శీలుడు",
+        "బాల బాలికా బాలవృద్ధుల నేల గల్గిన నాధుడు"
+      ],
+      "english": [
+        "Baalu Dadugoa Vaela Sooryula Boalu Sadhguna Sheeludu",
+        "Baala Baalikaa Baalavruddhula Naela Galgina Naadhudu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యూద వంశము ను ద్ధరింప దా వీదుపురమున నుద్భవించె",
+        "సదమలంబగు మదిని గొల్చిన సర్వ జనులకు సార్వభౌముడు"
+      ],
+      "english": [
+        "Yoodha Vamshamu Nu Ddharimpa Dhaa Veedhupuramuna Nudhbhavinche",
+        "Sadhamalambagu Madhini Golchina Sarva Janulaku Saarvabhaumudu"
+      ]
+    }
+  ]
+}

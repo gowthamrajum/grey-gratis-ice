@@ -1,0 +1,82 @@
+{
+  "song_name": "Anuraagaalu kuripinche",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Yesanna"
+    ],
+    "రచన": [
+      "బ్రదర్ యేసన్న"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "అనురాగాలు కురిపించే నీ ప్రేమ తలచి",
+      "అరుదైన రాగాలనే స్వరపరచి",
+      "ఆనందగానలే సప్త స్వరాలుగా నే పాడనా"
+    ],
+    "english": [
+      "Anuraagaalu kuripinche nee prema thalachi",
+      "Arudhaina raagaalane swaraparachi",
+      "Aananda gaanaale saptha swaraalugaa ne paadanaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసయ్య నా హృదయ సీమను ఏలుమయ",
+        "నీ దివ్య సన్నిది చాలునయ"
+      ],
+      "english": [
+        "Yesayya naa hrudaya seemanu elumaya",
+        "Nee divya sannidhi chaalunaya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ జ్ఞాన ఆత్మయే వికసింపచేసెను నన్ను",
+        "సర్వ సత్యములలో నే నడచుటకు",
+        "మరపురాని మనుజాశాలను విడిచి",
+        "మనసార కొనియాడి జీవించెద ఇక నీ కోసమే"
+      ],
+      "english": [
+        "Nee gnaana aathmaye vikasimpachesenu nannu",
+        "Sarva sathyamulalo ne nadachutaku",
+        "Marapuraani manujaashalanu vidichi",
+        "Manasaara koniyaadi jeevincheda ika nee kosame"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అపురూప దర్శనమే బలపరుచుచున్నది నన్ను",
+        "వెనుదిరిగి చూడక పోరాడుటకు",
+        "ఆశ్చర్యకరమైన నీ కృప పొంది",
+        "కడవరకు నీ కాడినే మోయుట నా తుది నిర్ణయమే"
+      ],
+      "english": [
+        "Apuroopa dharshaname balaparuchuchunnadhi nannu",
+        "Venudhirigi choodaka poraadutaku",
+        "Aashcharyakaramaina nee krupa pondi",
+        "Kadavaraku nee kaadine moyuta naa thudi nirnayame"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీ నీతి నియమములే నడిపించుచున్నది నన్ను",
+        "స్వర్ణ కాంతిమయమైన నగరము కొరకు",
+        "అమూల్యమైన విశ్వాసము పొంది",
+        "అనుక్షణము నిన్ను తలచి హర్షించేనే నాలో నా ప్రాణమే"
+      ],
+      "english": [
+        "Nee neethi niyamamule nadipinchuchunnadhi nannu",
+        "Swarna kaanthimayamaina nagaramu koraku",
+        "Amoolyamaina vishwaasamu pondi",
+        "Anukshanamu ninnu thalachi harshinchene naalo naa praaname"
+      ]
+    }
+  ]
+}

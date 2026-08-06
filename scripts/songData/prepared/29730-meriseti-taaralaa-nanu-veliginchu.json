@@ -1,0 +1,31 @@
+{
+  "song_name": "Meriseti Taaralaa Nanu Veliginchu",
+  "author": {
+    "Authored by": "Joshua Shaik, Deva Prasad",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మెరిసేటి తారలా నను వెలిగించు కురిసేటి జల్లులా నను దీవించు నా ఊపిరివై నా జీవితమై నా ఊపిరివై నా జీవితమై నా ప్రాణ స్నేహమై నా రక్షకుడై"
+    ],
+    "english": [
+      "meriseti taaralaa nanu veliginchu kuriseti jallulaa nanu deevinchu naa oopirivai naa jeevitamai naa oopirivai naa jeevitamai naa praana snehamai naa rakshakudai nee kanule naa manase terichoogada naalona ee manchi kanaraadugaa nee krupalo naa gatame choodaledugaa saricheshi nadipinchu needu saakshigaa neeti sooryudaa, naadu yesayya jeevitaantamu, jaali choopavaa naa praana snehamai – naa rakshakudai nee mamate theeyanidi maaradennadu lalinche nee prema veedadennadu oohalake andanidi needu kaaryamu nee maate naalona nindu dhairyamu sarva shaktudaa naadu yesayya aashrayinchaga aadarinchavaa naa praana snehamai – naa rakshakudai"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ కనులే నా మనసే తేరిచూడగా నాలోనా ఏ మంచి కానరాదుగా నీ కృపలో నా గతమే చూడలేదుగా సరిచేసి నడిపించు నీదు సాక్షిగా నీతి సూర్యుడా, నాదు యేసయ్య జీవితాంతము, జాలి చూపవా నా ప్రాణ స్నేహమై – నా రక్షకుడై"
+      ],
+      "english": []
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ మమతే తీయనిదీ మారదెన్నడు లాలించే నీ ప్రేమ వీడదెన్నడు ఊహలకే అందనిది నీదు కార్యము నీ మాటే నాలోన నిండు ధైర్యము సర్వశక్తుడా నాదు యేసయ్య ఆశ్రయించగా ఆదరించవా నా ప్రాణ స్నేహమై – నా రక్షకుడై"
+      ],
+      "english": []
+    }
+  ]
+}

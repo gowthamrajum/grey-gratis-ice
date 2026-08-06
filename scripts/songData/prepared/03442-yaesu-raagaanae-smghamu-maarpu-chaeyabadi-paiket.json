@@ -1,0 +1,69 @@
+{
+  "song_name": "Yaesu Raagaanae Smghamu Maarpu Chaeyabadi Paikeththabadunu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు రాగానే సంఘము - మార్పు చేయబడి పైకెత్తబడును"
+    ],
+    "english": [
+      "Yaesu Raagaanae SMghamu - Maarpu Chaeyabadi Paikeththabadunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మేల్కొనును క్రీస్తునందు మృతులు",
+        "కడబూర మ్రోగగనే - ఓ ప్రియులారా",
+        "కడబూర మ్రోగగనే - శ్రీ యేసు రాగానే"
+      ],
+      "english": [
+        "Maelkonunu KreesthunMdhu Mruthulu",
+        "Kadaboora Mroagaganae - Oa Priyulaaraa",
+        "Kadaboora Mroagaganae - Shree Yaesu Raagaanae"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కుడివైపున గొర్రెల జేర్చున్ - మేకల",
+        "నెడమ ప్రక్క జేర్చున్ - ఓ ప్రియులారా",
+        "నెడమ ప్రక్క జేర్చున్ - శ్రీ యేసు తీర్పులో"
+      ],
+      "english": [
+        "Kudivaipuna Gorrela Jaerchun - Maekala",
+        "Nedama Prakka Jaerchun - Oa Priyulaaraa",
+        "Nedama Prakka Jaerchun - Shree Yaesu Theerpuloa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తనవారి నత్యధికముగా ప్రేమించి",
+        "తన కేర్పరచుకొనును - ఓ ప్రియులారా",
+        "తన కేర్పరచుకొనును - శ్రీయేసురాగానే"
+      ],
+      "english": [
+        "Thanavaari NathyaDhikamugaa PraemiMchi",
+        "Thana Kaerparachukonunu - Oa Priyulaaraa",
+        "Thana Kaerparachukonunu - Shreeyaesuraagaanae"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మేఘముపై మహిమా ప్రభావముతో",
+        "బచ్చును శ్రీయేసు - ఓ ప్రియులారా",
+        "వచ్చును శ్రీ యేసు - శ్రీ యేసు దూతలతో"
+      ],
+      "english": [
+        "Maeghamupai Mahimaa Prabhaavamuthoa",
+        "Bachchunu Shreeyaesu - Oa Priyulaaraa",
+        "Vachchunu Shree Yaesu - Shree Yaesu Dhoothalathoa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "song_name": "Nammare Narulaara Yaesuni",
+  "author": {
+    "Authored by": "",
+    "రచన": "గెల్లా రామయ్య"
+  },
+  "main_stanza": {
+    "telugu": [
+      "నమ్మరె నరులార యేసుని సమ్మతిగాఁ జేరి",
+      "నమ్మిన వారల నిమ్ముగ బ్రోచును సొమ్ముగ తను జేర్చి"
+    ],
+    "english": [
+      "Nammare Narulaara Yaesuni Sammathigaa Jaeri",
+      "Nammina Vaarala Nimmuga Broachunu Sommuga Thanu Jaerchi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు క్రీస్తుకంటెఁ పోషకు లెవ్వరు లేరుసుమీ",
+        "దోషుల తన దాసులుగాఁ దీసియు దోసముఁ బాపు సుమీ"
+      ],
+      "english": [
+        "Yaesu Kreesthukante Poashaku Levvaru Laerusumee",
+        "Dhoashula Thana Dhaasulugaa Dheesiyu Dhoasamu Baapu Sumee"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నరకము నొందక మీ రయ్యో నరకము బాధ సుమీ",
+        "న్యాయము కాదుసుమి నరులార నష్టము మీకు సుమీ"
+      ],
+      "english": [
+        "Narakamu Nondhaka Mee Rayyoa Narakamu Baadha Sumee",
+        "Nyaayamu Kaadhusumi Narulaara Nashtamu Meeku Sumee"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తండ్రి కొమరుఁడు విమ లాత్ముఁడు త్ర్యేకదేవుండు",
+        "తండ్రి వలెను మనలను పాలించును తండ్రిగ నమ్ముదము"
+      ],
+      "english": [
+        "Thandri Komarudu Vima Laathmudu Thryaekadhaevundu",
+        "Thandri Valenu Manalanu Paalinchunu Thandriga Nammudhamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ధరణిలో నొకఁడైన చూడరె ధన్యుడు లేఁడనుచు",
+        "దీర్ఘదర్శి దావీదు తెల్పె నిటు దీనుల కందఱికి"
+      ],
+      "english": [
+        "Dharaniloa Nokadaina Choodare Dhanyudu Laedanuchu",
+        "Dheerghadharshi Dhaaveedhu Thelpe Nitu Dheenula Kandhariki"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ప్రభు మన పాపముకై ప్రాణము బలిగా నిచ్చునుగా",
+        "పాపము మోసెను మృతియై లేచెను పాపులఁ బ్రోచుటకై"
+      ],
+      "english": [
+        "Prabhu Mana Paapamukai Praanamu Baligaa Nichchunugaa",
+        "Paapamu Moasenu Mruthiyai Laechenu Paapula Broachutakai"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "దేవసుతుని రక్తం అబ్బిన ద్రోహుల కతిప్రొయము",
+        "పావన మొనరించును పాపికి నిఁక జీవనమై యుండున్"
+      ],
+      "english": [
+        "Dhaevasuthuni Raktham Abbina Dhroahula Kathiproyamu",
+        "Paavana Monarinchunu Paapiki Nika Jeevanamai Yundun"
+      ]
+    }
+  ]
+}

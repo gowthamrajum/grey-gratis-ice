@@ -1,0 +1,69 @@
+{
+  "song_name": "Emi thechchi ninu dharshinthunayaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏమి తెచ్చి నిను దర్శింతునయా",
+      "ఏ రీతిగా నిను పూజింతునయా",
+      "వినయముగా నీ సన్నిధి మ్రొక్కి",
+      "స్తుతియాగము చేతునయా"
+    ],
+    "english": [
+      "Emi thechchi ninu dharshinthunayaa",
+      "E reethigaa ninu poojinthunayaa",
+      "Vinayamugaa nee sannidhi mrokki",
+      "Sthuthiyaagamu chethunayaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వెండి బంగారములు నీవే గదా",
+        "కొండపైని పశువులు నీ వశమే గదా",
+        "విరిగిన మనస్సు నలిగిన హృదయం",
+        "నీవు కోరిన దూపమాయ  ||ఏమి||"
+      ],
+      "english": [
+        "Vendi bangaaramulu neeve gadaa",
+        "Kondapaini pashuvulu nee vashame gadaa",
+        "Virigina manassu naligina hrudayam",
+        "Neevu korina dhoopamaaya  ||Emi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రథమ ఫలములు నీ సేవకీయనా",
+        "దహన బలుల నైవేద్యమీయనా",
+        "సజీవయాగముగా దేహమర్పించుట",
+        "నీదు దృష్టికి యుక్తమయా  ||ఏమి||"
+      ],
+      "english": [
+        "Prathama phalamulu nee sevakeeyanaa",
+        "Dhahana balula naivedhyameeyanaa",
+        "Sajeevayaagamugaa dhehamarpinchuta",
+        "Needu dhrushtiki yukthamayaa  ||Emi||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మంచి తైలముతో అభిషేకించనా",
+        "ఎంచి కానుకలిచ్చి భజయించనా",
+        "న్యాయముగా నడచుట కనికరము చూపుట",
+        "నీకిష్టమైన యాగమయా  ||ఏమి||"
+      ],
+      "english": [
+        "Manchi thailamutho abhishekinchanaa",
+        "Enchi kaanukalichchi bhajayinchanaa",
+        "Nyaayamugaa nadachuta kanikaramu chooputa",
+        "Neekishtamaina yaagamayaa  ||Emi||"
+      ]
+    }
+  ]
+}

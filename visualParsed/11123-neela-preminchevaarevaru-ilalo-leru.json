@@ -1,0 +1,98 @@
+{
+  "song_name": "Neelaa preminchevaarevaru ilalo leru",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Samuel Pammi"
+    ],
+    "రచన": [
+      "శామ్యూల్ పమ్మి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీలా ప్రేమించేవారెవరు ఇలలో లేరు",
+      "నీవే ప్రేమామయా “2”"
+    ],
+    "english": [
+      "Neelaa preminchevaarevaru ilalo leru",
+      "Neeve premaamayaa “2”"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిన్ను నేను ప్రేమించకముందే",
+        "నన్ను నీవు ప్రేమించితివే",
+        "నీ మహిమనంతా విడచి",
+        "నాకొరకై దిగివచ్చితివే"
+      ],
+      "english": [
+        "Ninnu nenu preminchakamundhe",
+        "Nannu neevu preminchithive",
+        "Nee mahimananthaa vidachi",
+        "Naakorakai dhigivachchithive"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిన్ను నేను ప్రేమించకముందే",
+        "నన్ను నీవు ప్రేమించితివే",
+        "నా శిక్ష అంతా ఆ సిలువలో",
+        "నాకొరకై భరియించితివే"
+      ],
+      "english": [
+        "Ninnu nenu preminchakamundhe",
+        "Nannu neevu preminchithive",
+        "Naa shiksha anthaa aa siluvalo",
+        "Naakorakai bhariyinchithive"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "(1) అంధకారములో ఆశాజ్యోతివై",
+        "చీకటి బ్రతుకును నీ వెలుగుతో నింపావు “2”",
+        "పరమును విడచి భువికేతించి నన్ను విమోచించావు",
+        "నీదు రాజ్య వారసునిగా నన్ను చేసుకున్నావు",
+        "ఎవరూ చేయని సాహసం నాకై సిలువలో నీవు చేసావు",
+        "వధకు తేబడిన గొర్రెపిల్లగా నాకై నీవు మారావు",
+        "\"నిన్ను\""
+      ],
+      "english": [
+        "(1) Andhakaaramulo aashaajyothivai",
+        "Cheekati brathukunu nee velugutho nimpaavu “2”",
+        "Paramunu vidachi bhuvikethenchi nannu vimochinchaavu",
+        "Needu raajya vaarasunigaa nannu chesukunnaavu",
+        "Evaroo cheyani saahasam naakai siluvalo neevu chesaavu",
+        "Vadhaku thebadina gorrepillagaa naakai neevu maaraavu",
+        "\"Ninnu\""
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "(2) తల్లి మరచినా నీవు మరువవు",
+        "తండ్రి విడచినా నీవు విడువవు \"2\"",
+        "నను అనాధగా విడువనని వాగ్దానం చేసిన నాధుడవు",
+        "ఆత్మరూపిగా నాలో నివసించి నను ఆదరించావు",
+        "త్వరలో పరమునకు నన్ను కొనిపోవ",
+        "తిరిగి రానైయున్నావు",
+        "యుగయుగాలు నీతో ఉండే భాగ్యం నాకు ఇచ్చావు",
+        "\"నిన్ను\""
+      ],
+      "english": [
+        "(2) Thalli marachinaa neevu maruvavu",
+        "Thandri vidachinaa neevu viduvavu \"2\"",
+        "Nanu anaadhagaa viduvanani vaagdhaanam chesina naadhudavu",
+        "Aathmaroopigaa naalo nivasinchi nanu aadarinchaavu",
+        "Thvaralo paramunaku nannu konipova",
+        "Thirigi raanaiyunnaavu",
+        "Yugayugaalu neetho unde bhaagyam naaku ichchaavu",
+        "\"Ninnu\""
+      ]
+    }
+  ]
+}

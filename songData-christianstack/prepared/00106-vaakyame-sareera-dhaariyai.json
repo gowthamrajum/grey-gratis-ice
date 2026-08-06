@@ -1,0 +1,107 @@
+{
+  "song_name": "Vaakyame Sareera Dhaariyai",
+  "author": {
+    "Authored by": "Dollie Rose",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిసస నిసస నిసస నిసస నిరిగరిగరిని",
+      "నిరిరి నిరిరి నిరిరి నిరిరి పమపగరినిస"
+    ],
+    "english": [
+      "Nisasa nisasa nisasa nisasa nirigarigarini",
+      "Niriri niriri niriri niriri pamapagarini sa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వాక్యమే శరీరధారియై ఈ భువికేయెతెంచెను",
+        "దేవుడే దివ్య రూపమై పసిబాలునిగా జన్మించెను",
+        "సర్వాధికారి యేసుడే దీనుడిగా దిగివచ్చెను ఆదియందున్న వాక్యమే వెలుగై ఉదయించెను"
+      ],
+      "english": [
+        "Vaakyame shareeradhaariyai",
+        "Ee bhuvike yethenchenu",
+        "Dhevude dhivya roopamai",
+        "Pasibaaluniga janminchenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఈ దినం శుభ దినం యేసు రాజు పుట్టే మరియకు",
+        "ప్రతి దినం సునాదము చేయుదము రారాజుకు"
+      ],
+      "english": [
+        "Sarvaadhikaari Yesude",
+        "Dheenudiga dhigivachchenu",
+        "Aadiyandhunna vaakyame",
+        "Velugai udhayinchenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దైవ కుమారుడు మనుష్య కుమారునిగా మహిలో నివసించెను",
+        "ఆల్ఫా ఒమేగా అయిన దేవుడు ఇమ్మనుయెలుగా ఉధ్బవించెను",
+        "ఆశ్చర్యకరుడు ఆలోచనకర్త బలవంతుడైన దేవుడు",
+        "నీలో నివసించుటకు సింహాసనమే విడిచెను"
+      ],
+      "english": [
+        "Ee dhinam shubhadhinam",
+        "Yesu raaju putte Mariyaku",
+        "Prathi dhinam sunaadamu",
+        "Cheyudhamu raaraajuku"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మహిమస్వరూపుడు ఆదిసంభూతునిగా ఇలలో పిలువబడెను",
+        "ఆ మహిమను విడిచిన దేవుడు నీకై శిశువుగా మార్చబడెను",
+        "నిత్యుడగు తండ్రి సమాధానకర్త అధిపతి అయిన దేవుడు",
+        "సర్వసృష్టికర్త మానవరూపిగా జన్మించెను"
+      ],
+      "english": [
+        "Dhaiva kumaarudu manuṣhya kumaaruniga",
+        "Mahilo nivasinchenu",
+        "Alpha Omega aina Dhevudu",
+        "Immanueluga udbhavinchenu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [],
+      "english": [
+        "Aascharyakarudu, aalochanakartha",
+        "Balavanthudaina Dhevudu",
+        "Neelo nivasinchutaku",
+        "Simhaasaname vidichenu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [],
+      "english": [
+        "Mahima swaroopudu",
+        "Aadhi sambhoothuniga ilalo pilubadenu",
+        "Aa mahimanu vidichina Dhevudu",
+        "Neekai sisuvuga maarchabadenu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [],
+      "english": [
+        "Nithyudagu thandri",
+        "Samadhaanakartha",
+        "Adhipathi aina Dhevudu",
+        "Sarva srushtikartha",
+        "Maanava roopiga janminchenu"
+      ]
+    }
+  ]
+}

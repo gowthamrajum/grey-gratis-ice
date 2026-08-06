@@ -1,0 +1,35 @@
+{
+  "song_name": "Devude Kanipimchi Nikemi Kavalani Adigite",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవుడే కనిపించి నీకేమి కావాలని అడిగితే నీ బదులేమో మానవా ధనము కోరుతావా ఆ. . ఆ. . ఘనము కోరుతావా ఆ. . ఆ. . అల్పకాల పాపభోగములను కోరుతావా"
+    ],
+    "english": [
+      "Devude kanipimchi nikemi kavalani adigite Ni badulemo manava Dhanamu korutava a. . A. . Ganamu korutava a. . A. . Alpakala papabogamulanu korutava"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జ్ఞానమును అడిగాడు పాపములో మునిగి అజ్ఞానిగా మిగిలాడు సొలమోను ఆనాడు బలమును పొందాడు బలవంతుడయ్యాడు బలహీనతలో పడి పోయాడు సమ్సోను జ్ఞానులు బలవంతులు బంధీలై పోగా బలహీనుడవైన నీవు ఏమి కోరుతావో ప్రభు కృపను కోరుతావో. ."
+      ],
+      "english": [
+        "Jjanamunu adigadu papamulo munigi Ajjaniga migiladu solamonu anadu Balamunu pomdadu balavamtudayyadu Balahinatalo padi poyadu samsonu Jjanulu balavamtulu bamdhilai poga Balahinudavaina nivu emi korutavo Prabu krupanu korutavo. ."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మన రక్షణ కోరాడు మనకై ఏతెంచాడు మనస్ధానమందు నిలచి మరణించె మనప్రభువు ఆత్మలను అడిగాడు హతసాక్షి అయ్యాడు అందరికి మాదిరిని చూపాడు ఆ పౌలు యేసువైపు చూస్తు నీవు పయనమౌతావో ఆ దేవుని దయను కోరి ధన్యుడౌతావో మరి ఏమి కోరతావో. ."
+      ],
+      "english": [
+        "Mana rakshana koradu manakai etemchadu Manasdhanamamdu nilachi maranimche manaprabuvu Atmalanu adigadu hatasakshi ayyadu Amdariki madirini chupadu a paulu Yesuvaipu chustu nivu payanamautavo A devuni dayanu kori dhanyudautavo Mari emi koratavo. ."
+      ]
+    }
+  ]
+}

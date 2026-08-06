@@ -1,0 +1,43 @@
+{
+  "song_name": "Neetho naduthumu ninne koluthumu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీతో నడుతుము – నిన్నే కొలుతుము",
+      "నీ సహవాసము – నిత్యము క్షేమము (2)",
+      "ఓ యేసయ్యా మా రక్షకా – నీవే మాకు తోడుగా",
+      "మా నడవడిలో మా శ్రమలలో- నీవే మాకు నీడగా",
+      "దేవా.. మా స్వరములు ఇవిగో – దేవా.. మా స్తోత్రాలివిగో",
+      "దేవా.. మా సర్వస్వము నీకే",
+      "దేవా.. నీ సన్నిధిలోన – దేవా.. నీ దీవెనలెన్నో",
+      "దేవా.. పొందెదము దినదినము"
+    ],
+    "english": [
+      "Neetho naduthumu - Ninne koluthumu",
+      "Nee sahavaasamu - Nithyamu kshemamu (2)",
+      "O Yesayyaa maa rakshakaa - Neeve maaku thodugaa",
+      "Maa nadavadilo maa shramalalo - Neeve maaku needagaa",
+      "Devaa.. maa swaramulu ivigo - Devaa.. maa sthothraalivigo",
+      "Devaa.. maa sarvasvamu neeke",
+      "Devaa.. nee sannidhilona - Devaa.. nee deevenalenno",
+      "Devaa.. pondedamu dinadinamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీలో ఉండెదం – నీకై బ్రతికెదం",
+        "ఈ ఆనందము- ఇలలో చాటెదం (2)  ||నీతో||"
+      ],
+      "english": [
+        "Neelo undedam - Neekai brathikedam",
+        "Ee aanandamu - Ilalo chaatedam (2)  ||Neetho||"
+      ]
+    }
+  ]
+}

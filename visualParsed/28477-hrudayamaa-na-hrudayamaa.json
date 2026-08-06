@@ -1,0 +1,57 @@
+{
+  "song_name": "Hrudayamaa naa hrudayamaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Smt Jayaleela Yesu Ratnam"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "హృదయమా న హృదయమా…",
+      "యేసుని ఆహ్వానించు",
+      "నింగి నీ మీద పడినను",
+      "భయపడకు నా హృదయమా"
+    ],
+    "english": [
+      "Hrudayamaa naa hrudayamaa…",
+      "Yesuni aahvaaninchu",
+      "Ningi nee meeda padinanu",
+      "Bhayapadaku naa hrudayamaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసుని రుధిరములో శక్తిగలదు",
+        "నమ్ముము నా హృదయమా",
+        "పరితపించి నీవు ప్రార్ధించిన",
+        "క్షమియించును శ్రీ యేసుడు",
+        "ప్రభుయేసుని శరణు వేడుమా",
+        "త్రోసేయడు నిన్నెన్నడు",
+        "నీతికలిగి నీవు జీవించిన",
+        "ఆపదలన్నీ తొలగును",
+        "భక్తితో నీవు ప్రార్ధించిన",
+        "కోరిన వరములిచ్చును",
+        "ప్రభుయేసుని సన్నిధిలో",
+        "సఫలమగును నీ కోరికలు"
+      ],
+      "english": [
+        "Yesuni rudhiramulo shakthigaladu",
+        "Nammumu naa hrudayamaa",
+        "Parithapinchi neevu praardhinchina",
+        "Kshamiyinchunu Sree Yesudu",
+        "Prabhuyesuni sharanu vedumaa",
+        "Throseyadu ninnennadu",
+        "Neethikaligi neevu jeevinchina",
+        "Aapadalannee tholagunu",
+        "Bhakthitho neevu praardhinchina",
+        "Korina varamulichchunu",
+        "Prabhuyesuni sannidhilo",
+        "Saphalamagunu nee korikalu"
+      ]
+    }
+  ]
+}

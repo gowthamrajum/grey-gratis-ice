@@ -1,0 +1,34 @@
+{
+  "song_name": "Na Adugulu Sthiraparachi",
+  "author": {
+    "Authored by": "Ch Suresh",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా అడుగులు స్థిరపరచి",
+      "నా బ్రతుకును బలపరచి",
+      "నా అండగ నీవు నిలిచి",
+      "నడిపావు దేవా"
+    ],
+    "english": [
+      "Naa adugulu sthiraparachi",
+      "naa brathukunu balaparachi",
+      "naa andaga neevu nilichi",
+      "nadipaavu devaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా నీడగా నాకు తోడుగా",
+        "నా మార్గమందు నాతో నిలిచావు"
+      ],
+      "english": [
+        "naa needagaa naaku thodugaa",
+        "naa maargamandhu naatho nilichaavu"
+      ]
+    }
+  ]
+}

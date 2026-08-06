@@ -1,0 +1,47 @@
+{
+  "song_name": "Udaya Kaanthi Rekhalo",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఉదయ కాంతి రేఖలో - బెత్లెహేము పురమున",
+      "అవతరించెను బాల యేసు - పాపాలు మోయు గొర్రె పిల్ల",
+      "పాపాలు మోయు గొర్రె పిల్ల"
+    ],
+    "english": [
+      "Udaya Kaanthi Rekhalo - Bethlehemu Puramuna",
+      "Avatharinchenu Baala Yesu - Paapaalu Moyu Gorre Pilla",
+      "Paapaalu Moyu Gorre Pilla"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరమ పుత్రుని మోహన రూపుగని - తల్లి మరియ మురిసే",
+        "బాల యేసుని మహిమ రూపు - ఈ జగానికి వెలుగై",
+        "గొల్లలు జ్ఞానులు పరిశుద్దులు - ప్రస్తుతించిరి బాల యేసుని"
+      ],
+      "english": [
+        "Parama Puthruni Mohana Roopugani - Thalli Mariya Murise",
+        "Baala Yesuni Mahima Roopu - Ee Jagaaniki Velugai",
+        "Gollalu Gnaanulu Parishuddhulu - Prasthuthinchiri Baala Yesuni"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆకాశ తారల మెరుపు కాంతిలో - ప్రక్రుతి రాగాల స్వరాలతో",
+        "హల్లెలూయ యని పాడుచు - దూత గణము స్తుతించిరి",
+        "జగ మొక ఊయలగా చేసి - దూతలు పాడిరి జోల పాట"
+      ],
+      "english": [
+        "Aakaasha Thaarala Merupu Kaanthilo - Prakruthi Raagaala Swaraalatho",
+        "Halleluya Yani Paaduchu - Dootha Ganamu Sthuthinchiri",
+        "Jaga Moka Ooyalagaa Chesi - Doothalu Paadiri Jola Paata"
+      ]
+    }
+  ]
+}

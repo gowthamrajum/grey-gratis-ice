@@ -1,0 +1,78 @@
+{
+  "song_name": "Nee aasheervaadam pondina kutumbam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Pastor David Paluri"
+    ],
+    "రచన": [
+      "పాస్టర్ డేవిడ్ పాలూరి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ ఆశీర్వాదం పొందిన కుటుంబం",
+      "నీ సన్నిధిలోనే నిత్యము స్థిరపరచుము",
+      "నీ చిత్తము నెరవేర్చుటయే నా జీవితం",
+      "నీ పాదముల చెంత చేసెద అంకితం",
+      "దీవించుము దేవా మా కుటుంబమును",
+      "నీ దీవెన తరతరములకుండును",
+      "దీవించుము దేవా మా పిల్లలను",
+      "నీ దీవెన తరతరములకుండును"
+    ],
+    "english": [
+      "Nee aasheervaadam pondina kutumbam",
+      "Nee sannidhilone nithyamu sthiraparachumu",
+      "Nee chitthamu neraverchutaye naa jeevitham",
+      "Nee paadamula chentha cheseda ankitham",
+      "Dheevinchumu Deva maa kutumbamunu",
+      "Nee deevena tharatharamulakundunu",
+      "Dheevinchumu Deva maa pillalanu",
+      "Nee deevena tharatharamulakundunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎన్నిక లేని నన్ను హెచ్చించితివి",
+        "దీనుడనైన నన్ను దీవించితివి",
+        "నీ చేతి నీడలో నను ఉంచితివి",
+        "నీ రక్షణలో నను కాపాడితివి",
+        "నీ అనురాగము యెంతో గొప్పది",
+        "నీ సంకల్పము యెంతో గొప్పది"
+      ],
+      "english": [
+        "Ennika leni nannu hechchinchithivi",
+        "Dheenudanaina nannu dheevinchithivi",
+        "Nee chethi needalo nanu unchithivi",
+        "Nee rakshanalo nanu kaapaadithivi",
+        "Nee anuraagamu entho goppadi",
+        "Nee sankalpamu entho goppadi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ స్వరము వినే సమూయేలులా",
+        "హన్నా వలే నీ కొరకు పెంచాలయ్యా",
+        "నీ శిక్షణలో నీ బోధలో",
+        "కడవరకు వారిని వుంచాలయ్యా",
+        "నిన్నే ఆరాధించెదరు దావీదులా",
+        "నిన్నే ప్రకటించెదరు పౌలులా",
+        "దీవించుము దేవా మా బిడ్డలను",
+        "నీ దీవెన తరతరములకుండును  ||నీ||"
+      ],
+      "english": [
+        "Nee swaramu vine Samooyelulaa",
+        "Hannaa vale nee koraku penchaalayyaa",
+        "Nee shikshanalo nee bodhalo",
+        "Kadavaraku vaarini vunchaalayyaa",
+        "Ninne aaraadhinchedharu Dhaaveedhulaa",
+        "Ninne prakatinchedharu Paululaa",
+        "Dheevinchumu Deva maa biddalanu",
+        "Nee deevena tharatharamulakundunu  ||Nee||"
+      ]
+    }
+  ]
+}

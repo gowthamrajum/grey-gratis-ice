@@ -1,0 +1,62 @@
+{
+  "song_name": "Dhaevuni Goppa Praemanu Kalambu",
+  "author": {
+    "Authored by": "",
+    "రచన": "అనుః ఏ బి  మాసిలామణి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవుని ప్రేమ సంపద అపారమైనది నిరంతరంబు నిల్చును ప్రేమ సంగీతము"
+    ],
+    "english": [
+      "Dhaevuni Praema Sampadha Apaaramainadhi Nirantharambu Nilchunu Praema Sangeethamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేవుని గొప్ప ప్రేమను కలంబు తెల్పజాలదు",
+        "అత్యున్నత నక్షత్రమున్ అధోగతిన్ అవరించున్",
+        "నశించు జాతిన్ రక్షింపన్ సుతుని బంపెను",
+        "పాపంబు నుండి పాపికి విశ్రాంతి జూపెను"
+      ],
+      "english": [
+        "Dhaevuni Goppa Praemanu Kalambu Thelpajaaladhu",
+        "Athyunnatha Nakshathramun Adhoagathin Avarinchun",
+        "Nashinchu Jaathin Rakshimpan Suthuni Bampenu",
+        "Paapambu Nundi Paapiki Vishraanthi Joopenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యుగాంతకాల మందున భూరాజ్యముల్ నశించగా",
+        "యేసున్ నిరాకరించువారు చావును కోరు వేళను",
+        "దేవుని ప్రేమ గెల్చును అనంత జీవము",
+        "నశించు వారి కాశ్రయంబు ప్రేమ సందేశము."
+      ],
+      "english": [
+        "Yugaanthakaala Mandhuna Bhooraajyamul Nashinchagaa",
+        "Yaesun Niraakarinchuvaaru Chaavunu Koaru Vaelanu",
+        "Dhaevuni Praema Gelchunu Anantha Jeevamu",
+        "Nashinchu Vaari Kaashrayambu Praema Sandhaeshamu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సముద్రమును సిరాతో నిండి ఆకాశమె కాగితమై",
+        "కొమ్మల్లె కలంబులె ప్రతి నరుండు కరణమై",
+        "దేవుని ప్రేమన్ చిత్రింపన్ సంద్రంబు యింకును",
+        "ఆకాశ వ్యాప్తి యంతయు చాలక పోవును."
+      ],
+      "english": [
+        "Samudhramunu Siraathoa Nindi Aakaashame Kaagithamai",
+        "Kommalle Kalambule Prathi Narundu Karanamai",
+        "Dhaevuni Praeman Chithrimpan Sandhrambu Yinkunu",
+        "Aakaasha Vyaapthi Yanthayu Chaalaka Poavunu."
+      ]
+    }
+  ]
+}

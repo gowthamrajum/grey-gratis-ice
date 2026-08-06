@@ -1,0 +1,126 @@
+{
+  "song_name": "Silipi",
+  "author": {
+    "Authored by": "Uday Kanthi Shanmukha",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యే రూపము లేని నన్ను, పిండమునై నే ఉన్నా",
+      "నా అంతరంగమును చెక్కిన, శిల్పివి నీవే",
+      "బందీనై ఉన్నా, నాకు తోడు గా నీవు నిలచి",
+      "నీ మార్గము నాకు చూపించి, నన్ను నడిపించితివే"
+    ],
+    "english": [
+      "Yentha adbuthamo nee karyamulu",
+      "manoharamo nee talampulu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యెంత అద్భుతమో నీ కార్యములు",
+        "మనోహరమో నీ తలంపులు"
+      ],
+      "english": [
+        "Ye roopamu leni nannu, pindamunai ne unna;",
+        "na antharangamunu chekkina, silipi vi neeve",
+        "bandinai unna, naaku thodu ga neevu nilachi",
+        "nee margamu naaku choopinchi, nannu nadipinchithive"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చీకటి లో ఉన్న, నా జీవితానికి",
+        "విమోచన నీవైతివే….",
+        "నీ బాహువు చాపి, నను ఆదరించి,",
+        "నీ సొత్తు గా నను మార్చినావు…"
+      ],
+      "english": [
+        "Salvation",
+        "Verse-1",
+        "Cheekati lo unna, naa jeevithaniki",
+        "vimochana nevithivee…."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ కనుద్రుష్టితో కరుణించి నావు",
+        "నీ గ్రంధములో లిఖించితివే….",
+        "నీదు ప్రేమను నా పై చూపించి",
+        "నీదు కృపతో కాచినావు……"
+      ],
+      "english": [
+        "Nee bahuvu chaapi, nannu adarinchi,",
+        "nee sotthu ga nannu marchinaavu.."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీ సేవకై నా హృదయమును",
+        "అర్పించుకొందునయ….",
+        "నీ సాక్షిగనై నే నీ కాడి మోసి,",
+        "నీ జీవ మార్గము ప్రకటించెద"
+      ],
+      "english": [
+        "Yentha adbuthamo nee karyamulu",
+        "manoharamo nee talampulu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [],
+      "english": [
+        "Revelation",
+        "Verse-2",
+        "Ne kanudrusti tho karuninchi naavu",
+        "nee grandhamu lo likinchithive"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [],
+      "english": [
+        "Needu prema nu naa pai chupinchi",
+        "needu krupa tho kaachinavu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [],
+      "english": [
+        "Yentha adbuthamo nee karyamulu",
+        "manoharamo nee talampulu"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [],
+      "english": [
+        "Application",
+        "Verse -3",
+        "Nee seva kai naa hrudayamunu arpinchukondunaya"
+      ]
+    },
+    {
+      "stanza_number": 9,
+      "telugu": [],
+      "english": [
+        "Nee sakshi nai ne, nee kaadi mosi,",
+        "nee jeeva margamu prakatincheda"
+      ]
+    },
+    {
+      "stanza_number": 10,
+      "telugu": [],
+      "english": [
+        "Yentha adbuthamo nee karyamulu",
+        "manoharamo nee talampulu….."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "song_name": "Yesu thrupthi parachithivi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు తృప్తి పరచితివి - ఆశతో నీ చేర"
+    ],
+    "english": [
+      "Yesu thrupthi parachithivi - Aashatho nee chera"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "క్రీస్తు నీ ద్వారము చేరి - విస్తార దీవెన లొందితిమి",
+        "నీదు అపార కృపచేత - నాదు హృదయము కడిగితివి"
+      ],
+      "english": [
+        "Kreesthu nee dwaaramu cheri - Visthaara deevena londhithimi",
+        "Needu apaara krupachetha - Naadu hrudayamu kadigithivi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా జీవము విడిపించితివి - నీ జీవము సిలువ నిడితివి",
+        "సైతానును ఓడించితివి - నా యెదలో వసియించితివి"
+      ],
+      "english": [
+        "Naa jeevamu vidipinchithivi - Nee jeevamu siluva nidithivi",
+        "Saithaanunu odinchithivi - Naa edalo vasiyinchithivi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ లక్షణములు ఆశ్చర్యం - అక్షయ మహిమను గాంచితిని",
+        "రక్షణానందము నొంది - వీక్షించితిని నిను నిశ్చయమే"
+      ],
+      "english": [
+        "Nee lakshanamulu aashcharyam - Akshaya mahimanu gaanchithini",
+        "Rakshanaanandhamu nondi - Veekshinchithini ninu nishchayame"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీదు పాదము చేరిన నాడే - నాదు పాపము బాపితివి",
+        "మది నుపకారాత్మను బొంది - పదిలముగా ప్రణుతించెద"
+      ],
+      "english": [
+        "Needu paadamu cherina naade - Naadu paapamu baapithivi",
+        "Madi nupakaaraathmanu bondhi - Padilamugaa pranuthincheda"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నిను నమ్మిన నీదు దాసుని - పెన్నుగ తన యురితెంపితివే",
+        "ధన్య ధన్య అమరనివాసి - దర్శనమిచ్చి గాచితివే"
+      ],
+      "english": [
+        "Ninu nammina needu daasuni - Pennuga thana yurithempithive",
+        "Dhanya dhanya amaranivaasi - Dharshanamichchi gaachithive"
+      ]
+    }
+  ]
+}

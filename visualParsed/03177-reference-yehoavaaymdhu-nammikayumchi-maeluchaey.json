@@ -1,0 +1,97 @@
+{
+  "song_name": "Vyasanapadakumu neevu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "వ్యసనపడకుము నీవు - చెడ్డవారలను జూచినయపుడు",
+      "మత్సరపడకుము నీవు - దుష్కార్యములు చేయువారిని జూచి"
+    ],
+    "english": [
+      "Vyasanapadakumu neevu - Cheddavaaralanu joochinayapudu",
+      "Mathsarapadakumu neevu - Dhushkaaryamulu cheyuvaarini joochi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వారు గడ్డివలె త్వరగా - ఎండిపోదురు",
+        "పచ్చని కూరవలె వారు - వాడిపోవుదురు - ఆ ... నీవు"
+      ],
+      "english": [
+        "Vaaru gaddivale thvaragaa - Endipodhuru",
+        "Pachchani kooravale vaaru - Vaadipovudhuru - Aa ... neevu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యెహోవా యందు నమ్మికయుంచి - మేలు చేయుము",
+        "దేశమందు నివసించి సత్యము - ననుసరించుము - ఆ ... నీవు"
+      ],
+      "english": [
+        "Yehovaa yandu nammikayunchi - Melu cheyumu",
+        "Deshamandu nivasinchi sathyamu - Nanusarinchumu - Aa ... neevu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీదు మార్గము యెహోవాకు అప్పగింపుము",
+        "ఆయనను నమ్ముకొనుము నీదు - కార్యము నెరవేర్చును ... నీవు"
+      ],
+      "english": [
+        "Needu maargamu Yehovaaku appagimpumu",
+        "Aayananu nammukonumu needu - Kaaryamu neraverchunu ... neevu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కోపము మానుము ఆగ్రహము విడిచిపెట్టుము",
+        "వ్యసనపడకుము నీ కది - కీడు కే కారణము ... నీవు"
+      ],
+      "english": [
+        "Kopamu maanumu aagrahamu vidichipettumu",
+        "Vyasanapadakumu nee kadhi - Keedu ke kaaranamu ... neevu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఒకని నడత యెహోవాయే - స్థిరము చేయును",
+        "ఆయన వాని ప్రవర్తనను జూచి - ఆనందించును - ఆ ... నీవు"
+      ],
+      "english": [
+        "Okani nadatha Yehovaaye - Sthiramu cheyunu",
+        "Aayana vaani pravarthananu joochi - Aanandhinchunu - Aa ... neevu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "యెహోవా అతని చేతిని - పట్టి యుండెను",
+        "అతడు నేలను పడినను లేవ - లేక యుండడు - ఆ ... నీవు"
+      ],
+      "english": [
+        "Yehovaa athani chethini - Patti yundenu",
+        "Athadu nelanu padinanu leva - Leka yundadu - Aa ... neevu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "నీతిమంతులు విడువబడుటగాని - వారి సంతానము",
+        "భిక్షమెత్తుటగాని - నేను చూచి యుండలేదు - ఆ ... నీవు"
+      ],
+      "english": [
+        "Neethimanthulu viduvabadutagaani - Vaari santhaanamu",
+        "Bhikshameththutagaani - Nenu choochi yundaledhu - Aa ... neevu"
+      ]
+    }
+  ]
+}

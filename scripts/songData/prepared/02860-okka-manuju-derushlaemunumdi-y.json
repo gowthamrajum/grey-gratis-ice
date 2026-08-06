@@ -1,0 +1,85 @@
+{
+  "song_name": "Okka Manuju Derushalaemunundi Yeriko Pattanamunaku",
+  "author": {
+    "Authored by": "",
+    "రచన": "జి జాన్ తాతయ్య"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఒక్క మనుజు డెరుషలేమునుండి యెరికొ పట్టణమునకు",
+      "మక్కు వతో వెడలుచుండె కొంత ధనముతో"
+    ],
+    "english": [
+      "Okka Manuju Derushalaemunundi Yeriko Pattanamunaku",
+      "Makku Vathoa Vedaluchunde Kontha Dhanamuthoa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మార్గమందు దొంగలతని పట్టికొట్టి దోచుకొనిరి",
+        "మూర్ఛపోవు నట్లు గొట్టి విడిచి వెళ్లిరి"
+      ],
+      "english": [
+        "Maargamandhu Dhongalathani Pattikotti Dhoachukoniri",
+        "Moorchapoavu Natlu Gotti Vidichi Velliri"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అపుడు నొక్క యాజకుండు వచ్చి జూచి ప్రక్కగాను",
+        "కపటముతో వెళ్లె వాని నాదరింపక"
+      ],
+      "english": [
+        "Apudu Nokka Yaajakundu Vachchi Joochi Prakkagaanu",
+        "Kapatamuthoa Velle Vaani Naadharimpaka"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వెనుక నొక్క యాజకుండు వచ్చి జూచి యోర్వలేక",
+        "గన్నులారా జూచి పోయె గరుణలేకను"
+      ],
+      "english": [
+        "Venuka Nokka Yaajakundu Vachchi Joochi Yoarvalaeka",
+        "Gannulaaraa Joochi Poaye Garunalaekanu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పిదప సమరయుండు వచ్చి జూచి యోర్వలేక",
+        "గన్నులారా జూచి గరుణతోడ భేదమొంచక"
+      ],
+      "english": [
+        "Pidhapa Samarayundu Vachchi Joochi Yoarvalaeka",
+        "Gannulaaraa Joochi Garunathoada Bhaedhamonchaka"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నూనె ద్రాక్షరసము పోసి గాయములను గట్టి వాని",
+        "ఘనమగు వాహనముమీద నూరు చేర్చెను"
+      ],
+      "english": [
+        "Noone Dhraaksharasamu Poasi Gaayamulanu Gatti Vaani",
+        "Ghanamagu Vaahanamumeedha Nooru Chaerchenu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "అటువలెను మనము కూడ కష్టములలో నుండువారి",
+        "కష్టములను జూచి యాదరింపవలయును"
+      ],
+      "english": [
+        "Atuvalenu Manamu Kooda Kashtamulaloa Nunduvaari",
+        "Kashtamulanu Joochi Yaadharimpavalayunu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "song_name": "Raajaathi raaja ravikoti theja",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాజాతి రాజ- రవికోటి తేజా",
+      "మహిపాల ఓయేసువా",
+      "కరుణా స్వభావా - రమణీయ దేవా",
+      "ప్రేమా స్వరూప - ఓ దివ్య తేజ",
+      "అర్పింతును నా జీవితం",
+      "అందుకొనుము నాదు హృదయం (2) ||రాజాతి||"
+    ],
+    "english": [
+      "Raajaathi raaja- Ravikoti theja",
+      "Mahipaala o Yesuvaa",
+      "Karunaa swabhaavaa - Ramaneeya Devaa",
+      "Premaa swaroopa - O divya theja",
+      "Arpinthunu naa jeevitham",
+      "Andhukonumu naadu hrudayam (2) ||Raajaathi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరమందు నిన్ను ప్రణతింతునే",
+        "పరిశుద్ధుడు పరిశుద్ధుడునెంచి పాడుచూ",
+        "ఇహలోకంబున పాపులం ప్రణుతింతును నీ నామం",
+        "సర్వేశ్వరా మమ్ము దీవించుము (2)  ||రాజాతి||"
+      ],
+      "english": [
+        "Paramandu ninnu pranathinthune",
+        "Parishuddhudu parishuddhudunenchi paaduchoo",
+        "Ihalokambuna paapulam pranuthinthunu nee naamam",
+        "Sarveshwaraa mammu dheevinchumu (2)  ||Raajaathi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రభుయేసుని సాన్నిధ్యమే",
+        "శాంతి సమాధనములకు కారణం",
+        "ఆ దివ్యమైన యేసుని మధురమైన నామము",
+        "సర్వజనుల రక్షణ మూలాధారము (2)  ||రాజాతి||"
+      ],
+      "english": [
+        "Prabhu Yesuni saannidhyame",
+        "Shaanthi samaadhaanamulaku kaaranam",
+        "Aa divyamaina Yesuni madhuramaina naamamu",
+        "Sarvajanula rakshana moolaadhaaramu (2)  ||Raajaathi||"
+      ]
+    }
+  ]
+}

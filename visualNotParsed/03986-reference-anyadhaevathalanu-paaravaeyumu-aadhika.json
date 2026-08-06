@@ -1,0 +1,87 @@
+{
+  "song_name": "Aakaashamaa aalakinchumaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆకాశమా! ఆలకించుమా - మాటలాడెదన్",
+      "యెహోవా వంతు ఆయన జనమేగదా",
+      "యాకోబే స్వాస్థ్యభాగము"
+    ],
+    "english": [
+      "Aakaashamaa! aalakinchumaa - Maatalaadhedhan",
+      "Yehova vanthu aayana janamegadhaa",
+      "Yaakobe svaasthyabhaagamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అరణ్య ప్రదేశంబుల యందున",
+        "భీకరధ్వనిగల యెడారిలో వాని కనుగొనెను",
+        "ఆవరించి వాని పరామర్శించి గాచె కనుపాపగా"
+      ],
+      "english": [
+        "Aranya pradheshambula yanduna",
+        "Bheekaradhvanigala edaarilo vaani kanugonenu",
+        "Aavarinchi vaani paraamarshinchi gaache kanupaapagaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యెహోవాయే వాని నడిపించెను",
+        "భూమియొక్క ఉన్నతస్థలముల మీద వాని నెక్కించి",
+        "అన్య దేవతలతో నేదైనను లేకపోయె వానిలో"
+      ],
+      "english": [
+        "Yehovaaye vaani nadipinchenu",
+        "Bhoomiyokka unnathasthalamula meeda vaani nekkinchi",
+        "Anya dhevathalatho nedhainanu lekapoye vaanilo"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "లేచి వెళ్ళుమనే బేతేలునకు",
+        "దేవునికి బలిపీఠమచ్చట కట్టుమని సెలవియ్యగా",
+        "అన్యదేవతల పారవేయుమని తనవారితో చెప్పెన్"
+      ],
+      "english": [
+        "Lechi vellumane Bethelunaku",
+        "Devuniki balipeethamachchata kattumani selaviyyagaa",
+        "Anyadhevathala paaraveyumani thanavaaritho cheppen"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "తిరిగి బేతేలులో దర్శన మిచ్చెను",
+        "దీవించి నీ పేరు ఇశ్రాయేలుగా నెల్లప్పుడుండుననెను",
+        "తన యింటికి వచ్చువారి నెల్ల ప్రభుదీవించు నీరీతిన్"
+      ],
+      "english": [
+        "Thirigi Bethelulo dharshana michchenu",
+        "Deevinchi nee peru Ishraayelugaa nellappudundunanenu",
+        "Thana intiki vachchuvaari nella Prabhudheevinchu neereethin"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ప్రభుని రాకడ సమీపమంచును",
+        "సమాజముగా కూడుట మరువక మరియు మీరు మానక",
+        "ప్రభుని యింటి దీవెన లెల్ల పొందుడి నిక్కముగా"
+      ],
+      "english": [
+        "Prabhuni raakada sameepamanchunu",
+        "Samaajamugaa kooduta maruvaka mariyu meeru maanaka",
+        "Prabhuni inti deevena lella pondhudi nikkamugaa"
+      ]
+    }
+  ]
+}

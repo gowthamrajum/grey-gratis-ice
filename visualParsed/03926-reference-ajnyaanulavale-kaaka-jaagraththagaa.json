@@ -1,0 +1,95 @@
+{
+  "song_name": "Dhaaritholagithivela rakshana maargamu vedhaku",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దారితొలగితివేల (2) రక్షణ మార్గము వెదకు (2)"
+    ],
+    "english": [
+      "Dhaaritholagithivela (2) rakshana maargamu vedhaku (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపమందే జన్మించితివి (2)",
+        "పాపమందే జీవించితివి (2) ఎరుగకున్నావు (2)...."
+      ],
+      "english": [
+        "Paapamandhe janminchithivi (2)",
+        "Paapamandhe jeevinchithivi (2) erugakunnaavu (2)...."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాప ఫలితము ఘోరమరణము",
+        "నరకదండన అగ్ని గుండము మారు మనస్సు నొందు...."
+      ],
+      "english": [
+        "Paapa phalithamu ghoramaranamu",
+        "Narakadhandana agni gundamu maaru manassu nondhu...."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నేడే యేసుని వాక్యము వినుము",
+        "నేడే ప్రభుని స్వరము వినుము తన చిత్తము నెరుగు...."
+      ],
+      "english": [
+        "Nede Yesuni vaakyamu vinumu",
+        "Nede prabhuni swaramu vinumu thana chitthamu nerugu...."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీవు నశించుట కోరడు ప్రభువు",
+        "తరుణముండగ వేడుకొనుము ఎరుగు నీ స్థితిని...."
+      ],
+      "english": [
+        "Neevu nashinchuta koradu prabhuvu",
+        "Tharunamundaga vedukonumu erugu nee sthithini...."
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "అందరిని మారుమనస్సును",
+        "పొందుమని ప్రభువాజ్ఞాపించె పశ్చాత్తాపపడుము...."
+      ],
+      "english": [
+        "Andarini maarumanassunu",
+        "Pondhumani prabhuvaagnaapinche pashchaatthaapapadumu...."
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఒప్పుకొనుము నీ పాపమును",
+        "క్షమాపణకై వేడుకొనుము రక్షణ పొందెదవు...."
+      ],
+      "english": [
+        "Oppukonumu nee paapamunu",
+        "Kshamaapanakai vedukonumu rakshana pondedavu...."
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "విశ్వాసముతో అడిగిన యెడల",
+        "పొందితివని నిశ్చయముగ నెరుగు గొప్ప రక్షణ యిదియే"
+      ],
+      "english": [
+        "Vishwaasamutho adigina edala",
+        "Pondhithivani nishchayamuga nerugu goppa rakshana idiye"
+      ]
+    }
+  ]
+}

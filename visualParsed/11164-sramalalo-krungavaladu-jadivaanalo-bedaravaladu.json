@@ -1,0 +1,64 @@
+{
+  "song_name": "Shramalalo krungavaladu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Dr John Wesly"
+    ],
+    "రచన": [
+      "డాక్టర్ జాన్ వెస్లీ"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "శ్రమలలో కృంగవలదు- జడివానలో బెదరవలదు",
+      "హృదయమే పగిలినా- దుఃఖమే పొంగిన",
+      "యేసే నీకు తోడుగా- యేసే నీకు నీడగా"
+    ],
+    "english": [
+      "Shramalalo krungavaladu - Jadivaanalo bedharavaladu",
+      "Hrudayame pagilinaa - Dukhame pongina",
+      "Yese neeku thodugaa - Yese neeku needagaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గాలి తుఫానులు సమసిపోయే",
+        "దుఃఖముఖులు నాట్యమాడే",
+        "భ్రమలు బ్రాంతి శూన్యమయ్యె",
+        "పాత బ్రతుకు క్రోత్తదాయె",
+        "నిలిచెనా ఎవ్వరైనా- మేలు పొందక యేసు ముందు (2)",
+        "మేలు పొందక యేసు ముందు (2)"
+      ],
+      "english": [
+        "Gaali thuphaanulu samasipoye",
+        "Dhukhamukhulu naatyamaade",
+        "Bhramalu bhraanthi shoonyamayye",
+        "Paata brathuku kroththadaaye",
+        "Nilichenaa evvarainaa - Melu pondhaka Yesu mundu (2)",
+        "Melu pondhaka Yesu mundu (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "(2) అంధకారం తొలగిపోయే",
+        "కారు మబ్బులు కానరాయె",
+        "దుష్టశక్తులు దూరమయ్యే",
+        "భయము భీతి మౌనమయ్యె",
+        "ఓడేనా ఎవ్వరైనా- యేసు రక్తం చేరినపుడు (2)",
+        "యేసు రక్తం చేరినపుడు (2)"
+      ],
+      "english": [
+        "(2) Andhakaaram tholagipoye",
+        "Kaaru mabbulu kaanaraaye",
+        "Dhushtashakthulu dhooramayye",
+        "Bhayamu bheethi maunamayye",
+        "Odenaa evvarainaa - Yesu raktham cherinapudu (2)",
+        "Yesu raktham cherinapudu (2)"
+      ]
+    }
+  ]
+}

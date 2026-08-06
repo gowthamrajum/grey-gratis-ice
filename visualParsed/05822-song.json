@@ -1,0 +1,92 @@
+{
+  "song_name": "Nenunu Naa Kutumbamunu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేనును నా కుటుంబమును",
+      "ప్రభుని మాత్రమే సేవింతుము ॥2॥"
+    ],
+    "english": [
+      "Nenunu naa kutumbamunu",
+      "Prabhuni maathrame sevinthumu ॥2॥"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మాకు ఏమి జరిగిననూ",
+        "ఎవరూ ఏమీ పలికిననూ ॥2॥"
+      ],
+      "english": [
+        "Maaku emi jariginanoo",
+        "Evaroo emee palikinanoo ॥2॥"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రభువే మాకూ ఆధారం",
+        "ప్రభువే మాకు ఆనందం",
+        "హల్లేలూయా హల్లేలూయా  ||నేనును||"
+      ],
+      "english": [
+        "Prabhuve maakoo aadhaaram",
+        "Prabhuve maaku aanandam",
+        "Hallelooyaa hallelooyaa  ||Nenunu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఎర్ర సముద్రము అడ్డువచ్చిన",
+        "మేము భయపడము ॥2॥"
+      ],
+      "english": [
+        "Erra samudramu adduvachchina",
+        "Memu bhayapadamu ॥2॥"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దేవుని హస్తం కాపాడును",
+        "ఎల్లప్పుడు జీవింతుము",
+        "॥హల్లేలూయా॥ నేనునూ॥"
+      ],
+      "english": [
+        "Devuni hastham kaapaadunu",
+        "Ellappudu jeevinthumu",
+        "॥Hallelooyaa॥ Nenunoo॥"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యెరికో గోడలు ముందుండినా",
+        "మేము భయపడము ॥2॥"
+      ],
+      "english": [
+        "Eriko godalu mundundinaa",
+        "Memu bhayapadamu ॥2॥"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "దేవుని స్తుతించీ ఆరాధింప",
+        "గోడలు కూలిపోవును",
+        "॥హల్లేలూయా॥ ॥నేనునూ॥"
+      ],
+      "english": [
+        "Devuni sthuthinchee aaraadhimpa",
+        "Godalu koolipovunu",
+        "॥Hallelooyaa॥ ॥Nenunoo॥"
+      ]
+    }
+  ]
+}

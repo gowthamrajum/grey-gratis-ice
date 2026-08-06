@@ -1,0 +1,46 @@
+{
+  "song_name": "Ontari Vela",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఒంటరి వేళ నాకు తోడై నిలిచావు –",
+      "నా చేంతనే నిలిచి నా స్నేహితుడైనావు",
+      "ఆధారం ఆధారం నీవే నాకు ఆధారం",
+      "ఆశ్రయము ఆశ్రయము నీ కృపే నాకు ఆశ్రయము"
+    ],
+    "english": [
+      "Ontari vela naaku thodai nilichaavu",
+      "naa chenthane nilichi naa snehithudainaavu",
+      "aadhaaram aadhaaram neeve naaku aadhaaram",
+      "aasrayamu aasrayamu nee krupe naaku aasrayamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రోగము చేత నేను కృoగియున్నపుడు –",
+        "నీ గాయపడిన హస్తం చేత బాగు చేసావు",
+        "నా కొరకెన్నయ్యా నీవు దెబ్బలు నొందావు",
+        "నీవు పొందిన గాయము ద్వారా స్వస్థత నొసిగావు",
+        "పాపము చేసి నేను దూరమైనపుడు –",
+        "నీ రక్తముతో నను కడిగి చేరదీసావు",
+        "శిలువలో నా కొరకై రక్తము కార్చవు",
+        "నీవు కార్చిన రక్తము ద్వారా విడుదల నొసిగావు"
+      ],
+      "english": [
+        "Rogamu chetha nenu krungiyunnapudu",
+        "nee gaayapadina hastham chetha baagu chesaavu",
+        "naa korikenayyaa neevu dhebbalu nondhaavu",
+        "neevu pondhina gaayamu dhwaaraa swasthatha nosigaavu",
+        "Paapamu chesi nenu dhooramainapudu",
+        "nee rakthamutho nanu kadigi cheradheesaavu",
+        "siluvalo naa korakai rakthamu kaarchaavu",
+        "neevu kaarchina rakthamu dhwaaraa vidudhala nosigaavu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "song_name": "Paadanaa Sthothra Keerthana",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Kiran Paul"
+    ],
+    "రచన": [
+      "కిరణ్ పాల్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "పాడనా స్తోత్ర కీర్తన పాడనా హృదయాలపన",
+      "కలువరిలోనా కరుణమయుని",
+      "పయణమును పాడనా",
+      "వేదన విలపించిన…",
+      "ప్రేమమయుడా కలువరినాధా",
+      "నీ గాయములు వర్ణించుట నా తరమౌనా…"
+    ],
+    "english": [
+      "Paadanaa sthothra keerthana paadanaa hrudhayaalapana",
+      "Kaluvarilonaa karunamayuni",
+      "Payanamunu paadanaa",
+      "Vedhana vilapinchina…",
+      "Premamayudaa Kaluvarinaadhaa",
+      "Nee gaayamulu varninchuta naa tharamaunaa…"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పిడికిలితో గుద్దిరీ ప్రభుని ఒంటరి చేసి",
+        "ముఖము పై ఉమ్మిరీ చెళ్ళుమని కొట్టిరి దేవా..",
+        "బాధతో నా ప్రభువు కుమిలిపోయేనే",
+        "మనకై వేదన సహియించేనే",
+        "కరుణామయూడా కృపగల దేవా",
+        "నీ యోగ్యత వర్ణించుట నా తరమౌనా….."
+      ],
+      "english": [
+        "Pidikilitho guddhiree prabhuni ontari chesi",
+        "Mukhamu pai ummiree chellumani kottiri Devaa..",
+        "Baadhatho naa Prabhuvu kumilipoyene",
+        "Manakai vedhana sahiyinchene",
+        "Karunaamayoodaa krupagala Devaa",
+        "Nee yogyatha varninchuta naa tharamaunaa….."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గాలాలతోనే అల్లిన కొరడా ప్రభు దేహము చేల్చెను",
+        "నీ దివ్య రూపం చిదిమింది నేనే",
+        "నా అంధకారం మోసింది నీవే",
+        "పారింది రుధిరo ఈ లోక రక్షణకై .",
+        "నే మోస్తూ బ్రతికేది నీ వార్త భారం",
+        "సిలువ దారుడా వాక్యనాథుడ",
+        "నీ నెరవేర్పు వర్ణించుట నా తరమౌనా …."
+      ],
+      "english": [
+        "Gaalaalathone allina koradaa Prabhu dehamu chelchenu",
+        "Nee divya roopam chidhimindhi nene",
+        "Naa andhakaaram mosindhi neeve",
+        "Paarindhi rudhiram ee loka rakshanakai .",
+        "Ne mosthoo brathikedhi nee vaartha bhaaram",
+        "Siluva daarudaa vaakyanaathuda",
+        "Nee neraverpu varninchuta naa tharamaunaa …."
+      ]
+    }
+  ]
+}

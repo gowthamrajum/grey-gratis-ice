@@ -1,0 +1,75 @@
+{
+  "song_name": "Yehovaa nissee – Yehovaa nissee",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవా నిస్సీ – యెహోవా నిస్సీ",
+      "యెహోవా నిస్సీ – అనుచు పాడెదం",
+      "మా ధ్వజము విజయ ధ్వజమే (2)",
+      "యెహోవా నిస్సీ – యెహోవా నిస్సీ (2) ||యెహోవా||"
+    ],
+    "english": [
+      "Yehovaa nissee – Yehovaa nissee",
+      "Yehovaa nissee – Anuchu paadedam",
+      "Maa dhvajamu vijaya dhvajame (2)",
+      "Yehovaa nissee – Yehovaa nissee (2) ||Yehovaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రభువే ముందు నిలిచి యుద్ధం చేయును",
+        "కలత చెంద కారణమే లేదుగా",
+        "సడలకుండ కరముల కాధారమై",
+        "శక్తి గల యేసు ఆత్మ నిలుపును (2)",
+        "సర్వ సైన్య అధిపతి ప్రభువే (2)  ||యెహోవా||"
+      ],
+      "english": [
+        "Prabhuve mundu nilichi yuddham cheyunu",
+        "Kalatha chendha kaaraname ledugaa",
+        "Sadalakunda karamula kaadhaaramai",
+        "Shakthi gala Yesu aathma nilupunu (2)",
+        "Sarva sainya adhipathi Prabhuve (2) ||Yehovaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మనయందున్నట్టి బలము చాలును",
+        "నాధుడేసు సెలవిచ్చెను పోదము",
+        "ఆయుధములు భుజబలమవసరమా",
+        "పరమ దేవునాత్మ మనలో నుండగా (2)",
+        "మనము దైవ సైన్యమేగదా (2)  ||యెహోవా||"
+      ],
+      "english": [
+        "Manayandhunnatti balamu chaalunu",
+        "Naadhudesu selavichchenu podhamu",
+        "Aayudhamulu bhujabalamavasaramaa",
+        "Parama Dhevunaathma manalo nundagaa (2)",
+        "Manamu daiva sainyamegadhaa (2) ||Yehovaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "హల్లెలూయ స్త్రోత్తమే మన ఆయుధం",
+        "యేసు నామ శక్తే సామర్ధ్యము",
+        "యేసు రాక వరకే పోరాటము",
+        "జయము పొందుటే జీవిత ధ్యేయము (2)",
+        "సిలువే మన జయ పతాకము (2)  ||యెహోవా||"
+      ],
+      "english": [
+        "Hallelooya sthrotthame mana aayudham",
+        "Yesu naama shakthe saamardhyamu",
+        "Yesu raaka varake poraatamu",
+        "Jayamu pondhute jeevitha dhyeyamu (2)",
+        "Siluve mana jaya pathaakamu (2) ||Yehovaa||"
+      ]
+    }
+  ]
+}

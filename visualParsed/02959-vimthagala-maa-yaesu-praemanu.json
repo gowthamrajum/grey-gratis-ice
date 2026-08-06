@@ -1,0 +1,63 @@
+{
+  "song_name": "Vinthagala maa Yesu premanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "తూపిలి బెంజిమిన్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "వింతగల మా యేసు ప్రేమను సంతసమున స్తుతింతును పంతముగఁ",
+      "దన ప్రాణమును పా పులకు నియ్యను వచ్చి సిలువను జచ్చి నను రక్షించె",
+      "నహహా ||వింత||"
+    ],
+    "english": [
+      "Vinthagala maa Yesu premanu santhasamuna sthuthinthunu panthamuga",
+      "Dhana praanamunu paapulaku niyyanu vachchi siluvanu jachchi nanu rakshinche",
+      "Nahahaa ||Vintha||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రీతిగల మా ప్రభుని కృప బహు ప్రియముతోఁ జాటింతును సాధుగా",
+        "నాకొఱకు సిలువను చాల శ్రమల భరించి చావు జ యించి నను రక్షించె",
+        "నహహా  ||వింతగల||"
+      ],
+      "english": [
+        "Preethigala maa Prabhuni krupa bahu priyamutho jaatinthunu saadhugaa",
+        "Naakoraku siluvanu chaala shramala bharinchi chaavu jayinchi nanu rakshinche",
+        "Nahahaa ||Vinthagala||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాడుఁడీ మా యేసు ప్రేమను వేఁడుఁడీ మదిఁ గూడుఁడీ పాడుఁడీ",
+        "తన దివ్యరక్తము పాప క్రయముగ నిచ్చి శాపముఁ బాపి నను రక్షించె",
+        "నహహా  ||వింతగల||"
+      ],
+      "english": [
+        "Paadudee maa Yesu premanu vedudee madi goodudee paadudee",
+        "Thana dhivyarakthamu paapa krayamuga nichchi shaapamu baapi nanu rakshinche",
+        "Nahahaa ||Vinthagala||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిత్య జీవము నిండు నెమ్మది నిరతముగ నాకియ్యను రక్తస్వేదము",
+        "గార్చె నహహా నరక శాపముఁ ద్రుంచి యాపద నుంచి నను రక్షించె",
+        "నహహా  ||వింతగల||"
+      ],
+      "english": [
+        "Nithya jeevamu nindu nemmadi nirathamuga naakiyyanu rakthasvedhamu",
+        "Gaarche nahahaa naraka shaapamu dhrunchi yaapadha nunchi nanu rakshinche",
+        "Nahahaa ||Vinthagala||"
+      ]
+    }
+  ]
+}

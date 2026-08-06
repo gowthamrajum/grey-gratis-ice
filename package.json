@@ -17,6 +17,7 @@
     "express": "^4.21.2",
     "fastify": "^4.21.0",
     "handlebars": "^4.7.8",
+    "playwright": "^1.62.1",
     "sqlite": "^5.0.1",
     "sqlite3": "^5.1.7",
     "string-similarity": "^4.0.4"

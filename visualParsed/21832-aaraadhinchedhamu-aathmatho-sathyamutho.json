@@ -1,0 +1,76 @@
+{
+  "song_name": "Aaraadhinchedamu aathmatho sathyamutho",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Praveen VB"
+    ],
+    "రచన": [
+      "ప్రవీణ్ వి బి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆరాధించెదము ఆత్మతో సత్యముతో",
+      "కీర్తించెదము మా పూర్ణా హృదయముతో || 2 ||"
+    ],
+    "english": [
+      "Aaraadhinchedamu aathmatho sathyamutho",
+      "Keerthinchedamu maa poornaa hrudayamutho || 2 ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరిశుద్ధుడా... పరిశుద్ధుడా...",
+        "మా స్వరముతో నిన్నే ఆరాధించేదం",
+        "పరిశుద్ధుడా... పరిశుద్ధుడా...",
+        "వేనోళ్లతో నిన్నే కీర్తించెదము",
+        "నీ చేతులతో చేసిన ఈ దేహముతో నిన్నే మహిమా పరచెదము",
+        "నీవు మాకు అనుగ్రహించిన ఈ ఆత్మతో నిన్నే కీర్తించెదము || 2 ||"
+      ],
+      "english": [
+        "Parishuddhudaa... parishuddhudaa...",
+        "Maa swaramutho ninne aaraadhinchedam",
+        "Parishuddhudaa... parishuddhudaa...",
+        "Venollatho ninne keerthinchedamu",
+        "Nee chethulatho chesina ee dehamutho ninne mahimaa parachedamu",
+        "Neevu maaku anugrahinchina ee aathmatho ninne keerthinchedamu || 2 ||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆరాధనీయుడవు అతికాంక్షణీయుడవు",
+        "మా స్తుతులకు పాత్రుడవు పరిశుద్దుడవు || 2 || పరిశుద్దుడా ||"
+      ],
+      "english": [
+        "Aaraadhaneeyudavu athikaankshaneeyudavu",
+        "Maa sthuthulaku paathrudavu parishuddhudavu || 2 || Parishuddhudaa ||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "భూమి మీద అంతటను వ్యాపించి ఉన్నవాడ నీకే స్తోత్రము",
+        "సర్వజనుల అందరి నోటా కీర్తింపబడువాడా నీకే మహిమా || 2 ||"
+      ],
+      "english": [
+        "Bhoomi meeda anthatanu vyaapinchi unnavaada neeke sthothramu",
+        "Sarvajanula andari notaa keerthimpabaduvaadaa neeke mahimaa || 2 ||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "వెలుగైయున్నవాడవు తేజోమయుడవు",
+        "మా స్తుతులపై ఆసీనుడవు పరిశుద్దుడవు || 2 || పరిశుద్దుడా ||"
+      ],
+      "english": [
+        "Velugaiyunnavaadavu thejomayudavu",
+        "Maa sthuthulapai aaseenudavu parishuddhudavu || 2 || Parishuddhudaa ||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "song_name": "Deva, naa hrudayamu nibbaramugaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవా నా హృదయము - నీయందు స్థిరమాయెన్",
+      "నే పాడుచు స్తుతించున్ - నా యాత్మ గానము చేయున్"
+    ],
+    "english": [
+      "Deva naa hrudayamu - Neeyandhu sthiramaayen",
+      "Ne paaduchu sthuthinchun - Naa yaathma gaanamu cheyun"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "స్వరమండలమా సితారా - మేల్కొనుడి మీరు కూడా",
+        "వేకువనే నే లేచెదను - స్తుతిగానము చేసెదను"
+      ],
+      "english": [
+        "Svaramandalamaa sithaaraa - Melkonudi meeru koodaa",
+        "Vekuvane ne lechedhanu - Sthuthigaanamu chesedanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేవా నీ జనముల మధ్య - కృతజ్ఞతా స్తుతులను",
+        "చెల్లించి ప్రజలలోన - స్తుతిగానము చేసెదను"
+      ],
+      "english": [
+        "Deva nee janamula madhya - Kruthagnathaa sthuthulanu",
+        "Chellinchi prajalalona - Sthuthigaanamu chesedanu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆకాశమున కంటె నీ - కృప మహోన్నతమైనది",
+        "నీదు సత్యము మేఘములకంటె - అత్యున్నతమైనది"
+      ],
+      "english": [
+        "Aakaashamuna kante nee - Krupa mahonnathamainadhi",
+        "Needu sathyamu meghamulakante - Athyunnathamainadhi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దేవా నీ వాకాశముకంటె - మహోన్నతుడవు కమ్ము",
+        "నీదు మహిమ సర్వభూమి - మీద వ్యాపించును గాక"
+      ],
+      "english": [
+        "Deva nee vaakaashamukante - Mahonnathudavu kammu",
+        "Needu mahima sarvabhoomi - Meeda vyaapinchunu gaaka"
+      ]
+    }
+  ]
+}

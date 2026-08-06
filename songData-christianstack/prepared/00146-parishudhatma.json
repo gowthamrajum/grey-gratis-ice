@@ -1,0 +1,57 @@
+{
+  "song_name": "Parishudhatma",
+  "author": {
+    "Authored by": "Jessica Rayudu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరిశుద్ధాత్మా… దిగిరా నా మేద…",
+      "పరిశుద్ధాత్మా… కురియుము మా మధ్యన…"
+    ],
+    "english": [
+      "Parishuddhaathmaa… digiraa naa meda…",
+      "Parishuddhaathmaa… kuriyumu maa madhyana…"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ సన్నిధిలో మొక్కరించితిని",
+        "నీ పాదాలా చెంత నీ పాడితిని",
+        "దీనునిగా… దీనునిగా…",
+        "నన్ను నేను సమర్పిస్తున్న",
+        "స్వీకరించవా నా హృదయమున u",
+        "అంగీకరించవా నా ఈ దీన ప్రార్థన"
+      ],
+      "english": [
+        "Nee sannidhilo mokarinchitini",
+        "Nee paadalaa chenta nee paaditini",
+        "Deenunigaa… deenunigaa…",
+        "Nannu nenu samarpistunna",
+        "Sweekarinchava naa hrudayamunu",
+        "Angeekarinchava naa ee deena prardhana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ ప్రేమను నేను కనుగొంటిని",
+        "నీ కృపను నేను పొందుకుంటేని",
+        "వినయముతో… వినయముతో…",
+        "ఒప్పుకుంటిని నా దోషములన్",
+        "శుద్ధునిగా చేయవా నా దేహమున…",
+        "పరిశుద్ధాత్మతో నన్ను నింపవా…"
+      ],
+      "english": [
+        "Nee premanu nenu kanugontini",
+        "Nee krupanu nenu pondhukunteni",
+        "Vinayamutho… vinayamutho…",
+        "Oppukuntini naa doshamulan",
+        "Shuddhunigaa cheyava naa dehamunu…",
+        "Parishuddhaathmato nannu nimpava…"
+      ]
+    }
+  ]
+}

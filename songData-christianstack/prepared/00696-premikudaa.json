@@ -1,0 +1,53 @@
+{
+  "song_name": "Premikudaa",
+  "author": {
+    "Authored by": "Hannah Grace",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రేమికుడా నా ప్రాణ నాధుడా",
+      "నిన్నే నే ఆరాదింతున్",
+      "నా తోడు నీవే నా ఆశ నీవే",
+      "నిన్నే నే ఆరాదింతున్"
+    ],
+    "english": [
+      "Naa premikudaa naa praana naadhudaa",
+      "ninne ne aaraadhinthun",
+      "naa thodu neeve naa aasa neeve",
+      "ninne ne aaraadhinthun"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ కృపతో నన్ను హెచ్చించావు",
+        "నీ సాక్షిగా నన్ను నిలిపావు",
+        "నా కన్నీటిని తుడిచావు",
+        "నన్ను ప్రేమతో హత్తుకొన్నావు"
+      ],
+      "english": [
+        "Nee krupatho nannu hechinchaavu",
+        "nee saakshigaa nannu nilipaavu",
+        "naa kanneetini thudichaavu",
+        "nannu preamatho hatthukonnaavu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీవే మార్గము",
+        "నీవే సత్యము",
+        "నీవే జీవము",
+        "నా యేసయ్యా"
+      ],
+      "english": [
+        "Neeve maargamu",
+        "neeve sathyamu",
+        "neeve jeevamu",
+        "naa yesayyaa"
+      ]
+    }
+  ]
+}

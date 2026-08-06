@@ -1,0 +1,81 @@
+{
+  "song_name": "Egasipade Thufanullo",
+  "author": {
+    "Authored by": "Samarth Shukla, Deepika Kotecha, Philemon Anand, Benhur Binny, Vishal Das, Jesh Abraham, Sheldon Bangera, Sam Alex Pasula, Anand Paul & Rachel Francis.",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎగసిపడే తుఫానుల్లో",
+      "నీవే ఆశ్రయ దుర్గము",
+      "ఎదురుపడే అలలెన్నైనా",
+      "అవి నీ పాదముల క్రిందనే"
+    ],
+    "english": [
+      "Egasipade thufaanullo",
+      "neeve aasraya dhurgamu",
+      "edhurupade alalennainaa",
+      "avi nee paadhamula krindhane"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సుడిగాలైనను నిశ్చలముగా చేసెదవు",
+        "నీవే నా బలం నీవే నా నమ్మకం"
+      ],
+      "english": [
+        "Sudigaalainanu nischalamugaa chesedhavu",
+        "neeve naa balam neeve na nammakam"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "Pre-Chorus:",
+        "గడచిన కాలము నాతో ఉన్నావు",
+        "నేడు నాతోడు నడచుచున్నావు",
+        "సదా నాతోనే ఉంటావు"
+      ],
+      "english": [
+        "Pre-chorus:",
+        "Gadachina kaalamu naatho unnaavu",
+        "nedu naathodu naduchuchunnaavu",
+        "sadhaa naathone untaavu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వ్యాధి నను చుట్టినా",
+        "లెమ్మని సెలవిచ్చెదవు",
+        "యెహోవా రాఫా",
+        "నీవే నా స్వస్థత"
+      ],
+      "english": [
+        "Vyaadhi nanu chuttinaa",
+        "lemmani selavichedhavu",
+        "yehova raaphaa",
+        "neeve naa swasthatha"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "Bridge:",
+        "ఓ వ్యాధి నీ శిరస్సు వంగేనే",
+        "నాపై నీ అధికారం చెల్లదే",
+        "రూపింపబడిన ఏ ఆయుధం",
+        "నాకు విరోధముగా వర్ధిల్లదు"
+      ],
+      "english": [
+        "Bridge:",
+        "Oh vyaadhi nee sirassu vangene",
+        "naapai nee adhikaaram chelladhe",
+        "roopimpabadina ey aayudham",
+        "naaku virodhamugaa vardhilladhu"
+      ]
+    }
+  ]
+}

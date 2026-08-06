@@ -1,0 +1,52 @@
+{
+  "song_name": "Aascharyakarudaa Needhu Krupa",
+  "author": {
+    "Authored by": "Bro  Yesanna",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆశ్చర్యకరుడా నీదు కృపా - అనుదినం అనుభవించెద",
+      "ఆది అంతము లేనిది - నీ కృప శాశ్వతమైనది"
+    ],
+    "english": [
+      "Aascharyakarudaa Needhu Krupaa - Anudinam Anubhavinchedha",
+      "Aadhi Anthamu Lenidhi - Nee Krupa Shaashwathamainadhi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రేమతో పిలిచి నీతితో నింపి - రక్షించినది కృపయే -2",
+        "జయ జీవితమును చేసెదను - అమూల్యమైన కృపతో -2"
+      ],
+      "english": [
+        "Prematho Pilichi Neethitho Nimpi - Rakshinchinadhi Krupaye -2",
+        "Jaya Jeevithamunu Chesedanu - Amoolyamaina Krupatho -2"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆకాశము కంటె ఉన్నతమైనది - నీ దివ్యమైన కృపయే -2",
+        "పలు మార్గములలో స్థిరపరచినది - నవనూతన కృపయే -2"
+      ],
+      "english": [
+        "Aakaashamu Kante Unnathamainadhi - Nee Divyamaina Krupaye -2",
+        "Palu Maargamulalo Sthiraparachinadhi - Navanoothana Krupaye -2"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యేసయ్యా - నీ కృపాతిశయము నిత్యము కీర్తించెదను -2",
+        "నీ కృపను గూర్చి పాడెదను - ఆత్మానందముతో -2"
+      ],
+      "english": [
+        "Yesayyaa - Nee Krupaathishayamu Nithyamu Keerthinchedanu -2",
+        "Nee Krupanu Goorchi Paadedanu - Aathmaanandamutho -2"
+      ]
+    }
+  ]
+}

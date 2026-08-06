@@ -1,0 +1,63 @@
+{
+  "song_name": "Nae Beedha Chinna Pillanu",
+  "author": {
+    "Authored by": "",
+    "రచన": "సెసిల్ ఫ్రాన్సెస్ అలెగ్జాండర్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "నే బీద చిన్న పిల్లను నా బుద్ధి స్వల్ప మయినది",
+      "నా దివ్య యేసు కొఱకు నే నేమి చేయగలను?"
+    ],
+    "english": [
+      "Nae Beedha Chinna Pillanu Naa Budhdhi Svalpa Mayinadhi",
+      "Naa Dhivya Yaesu Koraku Nae Naemi Chaeyagalanu?"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిత్యంబుఁ చిన్న పనులు నే చాలఁ జేయవచ్చును",
+        "నా చిన్న తప్పు లన్నియు నే చక్క పెట్టవచ్చును."
+      ],
+      "english": [
+        "Nithyambu Chinna Panulu Nae Chaala Jaeyavachchunu",
+        "Naa Chinna Thappu Lanniyu Nae Chakka Pettavachchunu."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మనస్సునందు కోపము వేమాఱు పుట్టునప్పుడు",
+        "నా కన్ను లెఱ్ఱఁ జేయక నే నోర్చు కొనవచ్చును."
+      ],
+      "english": [
+        "Manassunandhu Koapamu Vaemaaru Puttunappudu",
+        "Naa Kannu Lerra Jaeyaka Nae Noarchu Konavachchunu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నే తిన్నగాను నడ్చుచు ఇల్లంత వెలిఁగించుచు",
+        "నా యేసుకై యుల్లాసముఁ బుట్టింపవచ్చు నెప్పుడు"
+      ],
+      "english": [
+        "Nae Thinnagaanu Nadchuchu Illantha Veliginchuchu",
+        "Naa Yaesukai Yullaasamu Buttimpavachchu Neppudu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నే నెంత చిన్న పిల్లను నా కుండు చిన్న బాధకు",
+        "నే తాలి ప్రేమ స్తోత్రము లర్పించుచుండఁగలను."
+      ],
+      "english": [
+        "Nae Nentha Chinna Pillanu Naa Kundu Chinna Baadhaku",
+        "Nae Thaali Praema Sthoathramu Larpinchuchundagalanu."
+      ]
+    }
+  ]
+}

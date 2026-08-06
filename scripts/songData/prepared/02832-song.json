@@ -1,0 +1,56 @@
+{
+  "song_name": "Shrungaara Dhaeshamu Chaeragaanae Naa Dhuhkha",
+  "author": {
+    "Authored by": "",
+    "రచన": "చార్లెస్ హోమర్ గాబ్రియేల్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "శృంగార దేశము చేరఁగానే నా దుఃఖ బాధలన్నియుఁ బోవున్",
+      "యేసుని యొద్దను నిత్యమునే నుండుట మిక్కిలి యాశ్చర్యము",
+      "ఇదే నాకు ఆనందము ఆనందము, ఆనందము",
+      "నేను ఆయనను జూచుటయే ఇదే నాకుఁ బరమానందము"
+    ],
+    "english": [
+      "Shrungaara Dhaeshamu Chaeragaanae Naa Dhuhkha Baadhalanniyu Boavun",
+      "Yaesuni Yodhdhanu Nithyamunae Nunduta Mikkili Yaashcharyamu",
+      "Idhae Naaku Aanandhamu Aanandhamu, Aanandhamu",
+      "Naenu Aayananu Joochutayae Idhae Naaku Baramaanandhamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అమితమైన కృపవలన నన్ను స్వర్గంబునఁ జేర్చుదురు",
+        "అచ్చోటనుండి యేసుని గాంచి స్తుతి కీర్తనలు పాడుదును."
+      ],
+      "english": [
+        "Amithamaina Krupavalana Nannu Svargambuna Jaerchudhuru",
+        "Achchoatanundi Yaesuni Gaanchi Sthuthi Keerthanalu Paadudhunu."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేను ప్రేమించు స్నేహితులును అక్కడఁ జూచి సంతోషింతును",
+        "నాయేసు ముఖము చూచుటయే నిత్యము నాకది యానందము."
+      ],
+      "english": [
+        "Naenu Praeminchu Snaehithulunu Akkada Joochi Santhoashinthunu",
+        "Naayaesu Mukhamu Choochutayae Nithyamu Naakadhi Yaanandhamu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆ స్వర్గ సౌఖ్య మొందువరకు కండ్లతోఁ జూడక పోయినను",
+        "యేసుని మాటలు గైకొనుచు నాత్మతోఁ జూచి సంతోషింతును"
+      ],
+      "english": [
+        "Aa Svarga Saukhya Mondhuvaraku Kandlathoa Joodaka Poayinanu",
+        "Yaesuni Maatalu Gaikonuchu Naathmathoa Joochi Santhoashinthunu"
+      ]
+    }
+  ]
+}

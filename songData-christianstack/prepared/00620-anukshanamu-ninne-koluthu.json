@@ -1,0 +1,50 @@
+{
+  "song_name": "Anukshanamu Ninne Koluthu",
+  "author": {
+    "Authored by": "Pastor K Rajababu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "అనుక్షణము నిన్నే కొలుతును పునరుత్ధానుడా",
+      "పునరుత్ధానుడా – పరిశుద్ధుడా"
+    ],
+    "english": [
+      "Anukshanamu ninne koluthunu punaruthaanudaa",
+      "punaruthaanudaa – parishudhudaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అధికారులైనా – దేవదూతలైనా",
+        "వస్త్రహీనతైనా – ఉపద్రవమైనా",
+        "కరువైనా – ఖడ్గమైనా",
+        "రోగినైన నాకై – త్యాగమైనావు",
+        "ద్రోహినైన నాకై – దాహము గొన్నావే",
+        "ఊహకందదయా – నీ ధర్మము",
+        "శ్రమలైనా – హింసలైనా",
+        "రాబోవునవైనా – ఉన్నవియైనా",
+        "మరణమైనా – జీవమైనా",
+        "ఒంటరినైనా నా కంటనీరు తుడిచావే",
+        "కంటిపాపల నీ ఇంట చేర్చుకున్నవే",
+        "మంటినైనా నన్ను నీ బంటుగా చేసావే"
+      ],
+      "english": [
+        "Adhikaarulainaa – dhevadhoothalainaa",
+        "vasthra heenathainaa – upadhravamaina",
+        "karuvaina – khadgamaina",
+        "Roginaina naakai – thyaagamainaave",
+        "dhrohinaina naakai – dhaahamu gonnaave",
+        "oohakandhadhaya – nee dharmamu",
+        "Sramalainaa – himsalainaa",
+        "raabovunvainaa – unnaviyainaa",
+        "maranamainaa – jeevamainaa",
+        "Ontarinainaa naa kantaneeru thudichaave",
+        "kantipaapalaa nee inta cherchukunnaave",
+        "mantinaina nannu nee bantugaa chesaave"
+      ]
+    }
+  ]
+}

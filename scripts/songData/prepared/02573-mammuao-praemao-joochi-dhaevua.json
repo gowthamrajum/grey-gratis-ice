@@ -1,0 +1,63 @@
+{
+  "song_name": "Mammu Praema Joochi Dhaevudu",
+  "author": {
+    "Authored by": "",
+    "రచన": "జేకబ్ చేంబర్లేన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "మమ్ముఁ ప్రేమఁ జూచి దేవుఁడు మకు బోధపరపఁగ",
+      "ఇమ్ముగాను లేఖనముల నిచ్చె మాకు భూమిపై"
+    ],
+    "english": [
+      "Mammu Praema Joochi Dhaevudu Maku Boadhaparapaga",
+      "Immugaanu Laekhanamula Nichche Maaku Bhoomipai"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మా మొగంబు నద్దమందు మేము చూచునట్లు",
+        "మేము గాన వచ్చు మాస్థితి మిగులఁ దేటగ నందులో"
+      ],
+      "english": [
+        "Maa Mogambu Nadhdhamandhu Maemu Choochunatlu",
+        "Maemu Gaana Vachchu Maasthithi Migula Dhaetaga Nandhuloa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాప మనెడు బురద గోతిని బడిన మమ్ము నెత్తఁగా",
+        "పాప రహితుండైన యేసు ప్రాణ మిచ్చెను బ్రేమచే"
+      ],
+      "english": [
+        "Paapa Manedu Buradha Goathini Badina Mammu Neththagaa",
+        "Paapa Rahithundaina Yaesu Praana Michchenu Braemachae"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాప మంతయు వీడి మేము భక్తి సరణిని నడువఁగఁ",
+        "ప్రాపుగాఁ దన యాత్మ నిచ్చెఁ ప్రాణసఖుఁడగు యేసుండు"
+      ],
+      "english": [
+        "Paapa Manthayu Veedi Maemu Bhakthi Saranini Naduvaga",
+        "Praapugaa Dhana Yaathma Nichche Praanasakhudagu Yaesundu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సకల జనులు లేఖనముల సత్యములను దెలియుచు",
+        "అకలుషముగ వానినమ్మఁగ నంపు మాత్మను రక్షకా"
+      ],
+      "english": [
+        "Sakala Janulu Laekhanamula Sathyamulanu Dheliyuchu",
+        "Akalushamuga Vaaninammaga Nampu Maathmanu Rakshakaa"
+      ]
+    }
+  ]
+}

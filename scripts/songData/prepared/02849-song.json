@@ -1,0 +1,52 @@
+{
+  "song_name": "Oa Kreesthu Bhakthulaaraa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జోహారు, రక్షకుండ! నీ మార్గమందున విజయగృహ దైవ పురంబు బోదుము"
+    ],
+    "english": [
+      "Joahaaru, Rakshakunda! Nee Maargamandhuna Vijayagruha Dhaiva Purambu Boadhumu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఓ క్రీస్తు భక్తులారా నీతి నిమిత్తము పోరాడ",
+        "కవచంబు ను ధరించుడి శక్తుండు సైన్య ప్రభు వు,",
+        "శాంతిరాజుకు అపారసేవ జేయ అర్పణ యైతిమి."
+      ],
+      "english": [
+        "Oa Kreesthu Bhakthulaaraa Neethi Nimiththamu Poaraada",
+        "Kavachambu Nu Dharinchudi Shakthundu Sainya Prabhu Vu,",
+        "Shaanthiraajuku Apaarasaeva Jaeya Arpana Yaithimi."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పదండి ముందుకంచు నాదంబు చేయుడు స్వార్థంబు గెల్వవలె సాగిపోదము",
+        "హర్షంబులేని యాత్మ లెన్నెన్నొ చూడుడు ఈ ఘోరయుద్ధమున కందరి గూర్చుడు."
+      ],
+      "english": [
+        "Padhandi Mundhukanchu Naadhambu Chaeyudu Svaarthambu Gelvavale Saagipoadhamu",
+        "Harshambulaeni Yaathma Lennenno Choodudu Ee Ghoarayudhdhamuna Kandhari Goorchudu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "క్రీస్తే మా నాయకుండు అటంచు దెల్పగ మా హృదయంబునందు",
+        "సంతోష శాంతిసేద లు కల్గునప్పుడు సిల్వధ్వజము! ఈ లోకమేలులన్ని దీవెన నొందును."
+      ],
+      "english": [
+        "Kreesthae Maa Naayakundu Atanchu Dhelpaga Maa Hrudhayambunandhu",
+        "Santhoasha Shaanthisaedha Lu Kalgunappudu Silvadhvajamu! Ee Loakamaelulanni Dheevena Nondhunu."
+      ]
+    }
+  ]
+}

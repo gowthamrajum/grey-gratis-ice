@@ -1,0 +1,74 @@
+{
+  "song_name": "Yehova Na Mora Lalichenu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహొవ నా మొర లాలి౦చెను దన మహా దయను నను గణి౦చెను",
+      "అహర్నిశల దీనహీనుడగు నా దు హాయనెడు ధ్వని గ్రహి౦చి మనిపెను"
+    ],
+    "english": [
+      "Yehova Na Mora Lalichenu Dana Maha Dayanu Nanu Ganichenu",
+      "Aharnisala Dinahinudagu Na Du Hayanedu Dhvani Grahichi Manipenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పిశాచి గడిమిబడగొట్టెను దన వశాన నను నిలువబెట్టెను",
+        "ప్రశా౦త మధురను విశేష వాక్ఫలనిశా౦తమునఁజే ర్చిసేదఁదీర్చెను"
+      ],
+      "english": [
+        "Pisachi Gadimibadagottenu Dana Vasana Nanu Niluvabettenu",
+        "Prasata Madhuranu Visesha Vakpalanisatamunamje Rchisedamdirchenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మదావశముఁబోలు నా మదిన్ దన ప్రదీప్త వాక్యా౦ కుశా హతిన్",
+        "యధేచ్చలన్నిటి గుది౦చి పాపపు మొదల్ నరిఁకి దరికిఁజేర్చెను"
+      ],
+      "english": [
+        "Madavasamumbolu Na Madin Dana Pradipta Vakya Kusa Hatin",
+        "Yadhechchalanniti Gudichi Papapu Modal Narimki Darikimjerchenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అనీతి వస్త్ర మెడలి౦చెను యేసునాధు రక్తమును ము౦చెను",
+        "వినూత్న యత్నమె ద నూని యెన్నఁడు గనన్ వినన్ బ్రే మ నాకుఁజూపెను"
+      ],
+      "english": [
+        "Aniti Vastra Medalichenu Yesunadhu Raktamunu Muchenu",
+        "Vinutna Yatname Da Nuni Yennamdu Ganan Vinan Bre Ma Nakumjupenu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "విలాపములకుఁజెవినిచ్చెను శ్రమ కలాపములకు సెలవిచ్చెను",
+        "శిలానగముపై కి లాగి నను సుఖ కళావళుల్ మన సులోన నిలిపెను"
+      ],
+      "english": [
+        "Vilapamulakumjevinichchenu Srama Kalapamulaku Selavichchenu",
+        "Silanagamupai Ki Lagi Nanu Suka Kalavalul Mana Sulona Nilipenu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఆగణ్య పాపియని త్రోయక న న్ను గూర్చి తన సుతుని దాఁచక",
+        "తెగి౦చి మృతి కొ ప్పగి౦చి పాపపు నెగుల్ దిగుల్ సొగ సుగా నణ౦చెను"
+      ],
+      "english": [
+        "Aganya Papiyani Troyaka Na Nnu Gurchi Tana Sutuni Damchaka",
+        "Tegichi Mruti Ko Ppagichi Papapu Negul Digul Soga Suga Nanachenu"
+      ]
+    }
+  ]
+}

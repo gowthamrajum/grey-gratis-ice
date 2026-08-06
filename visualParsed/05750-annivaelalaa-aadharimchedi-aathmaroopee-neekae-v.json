@@ -1,0 +1,50 @@
+{
+  "song_name": "Annivelalaa aadharinchedi aathmaroopee neeke vandanam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "అన్నివేళలా ఆదరించెడి ఆత్మరూపీ నీకే వందనం",
+      "ఎన్ని తీరుల నిన్ను కొలిచినా తీర్చలేను నేను నీ ఋణం"
+    ],
+    "english": [
+      "Annivelalaa aadharinchedi aathmaroopee neeke vandanam",
+      "Enni theerula ninnu kolichinaa theerchalenu nenu nee runam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పడిపోయియుండగా నను తిరిగి లేపితివి",
+        "స్థిరపరచి దీవించగా నీ కరము చాపితివి",
+        "పోగొట్టుకున్నదంత ఇచ్చితివి",
+        "రెట్టింపు శోభ మరల తెచ్చితివి"
+      ],
+      "english": [
+        "Padipoyiyundagaa nanu thirigi lepithivi",
+        "Sthiraparachi deevinchagaa nee karamu chaapithivi",
+        "Pogottukunnadhantha ichchithivi",
+        "Rettimpu shobha marala thechchithivi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిను వెంబడించగా శ్రమలెన్నో కలిగినా",
+        "సువార్త చాటించగా ఉన్నవన్నీ పోయినా",
+        "నూరంతల దీవెనలు పంపెదవు -",
+        "సమృద్ధితో నను నింపెదవు"
+      ],
+      "english": [
+        "Ninu vembadinchagaa shramalenno kaliginaa",
+        "Suvaartha chaatinchagaa unnavannee poyinaa",
+        "Nooranthala deevenalu pampedhavu -",
+        "Samruddhitho nanu nimpedhavu"
+      ]
+    }
+  ]
+}

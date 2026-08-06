@@ -1,0 +1,71 @@
+{
+  "song_name": "Prabhu Naamam",
+  "author": {
+    "Authored by": "Bro  Anil Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభు నామం నా ఆశ్రయమే ఆయనను స్తుతించెదను",
+      "ప్రభు మహిమ నా జీవితమే ఆయనను వెంబడింతును -2"
+    ],
+    "english": [
+      "Prabhu Naamam Naa Aashrayame Aayananu Sthuthinchedanu",
+      "Prabhu Mahima Naa Jeevithame Aayananu Vembadinthunu -2"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యెహోవా యీరే అన్నిటిని చూచుకొనును -2",
+        "కొదువ లేదు నాకు కొదువ లేదు -2",
+        "కొదువ లేదు నాకు కొదువ లేదు -2"
+      ],
+      "english": [
+        "Yehovaa Yeere Annitini Choochukonunu -2",
+        "Koduva Ledu Naaku Koduva Ledu -2",
+        "Koduva Ledu Naaku Koduva Ledu -2"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యెహోవా రాఫా స్వస్థత నిచ్చెను -2",
+        "భయము లేదు నాకు భయము లేదు -2",
+        "భయము లేదు నాకు భయము లేదు -2"
+      ],
+      "english": [
+        "Yehovaa Raaphaa Swasthatha Nichchenu -2",
+        "Bhayamu Ledu Naaku Bhayamu Ledu -2",
+        "Bhayamu Ledu Naaku Bhayamu Ledu -2"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యెహోవా షాలోం శాంతి నిచ్చెను -2",
+        "శాంతి దాత నా శాంతి దాత -2",
+        "శాంతి దాత నా శాంతి దాత -2"
+      ],
+      "english": [
+        "Yehovaa Shaalom Shaanthi Nichchenu -2",
+        "Shaanthi Daatha Naa Shaanthi Daatha -2",
+        "Shaanthi Daatha Naa Shaanthi Daatha -2"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యెహోవా నిస్సియే ఎల్లప్పుడు జయమిచ్చును -2",
+        "జయమున్నది నాకు జయమున్నది -2",
+        "జయమున్నది నాకు జయమున్నది -2"
+      ],
+      "english": [
+        "Yehovaa Nissiye Ellappudu Jayamichchunu -2",
+        "Jayamunnadhi Naaku Jayamunnadhi -2",
+        "Jayamunnadhi Naaku Jayamunnadhi -2"
+      ]
+    }
+  ]
+}

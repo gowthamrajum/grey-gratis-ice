@@ -1,0 +1,71 @@
+{
+  "song_name": "Sarva srushtiloni jeevaraashi yantha needu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సర్వ సృష్ఠలోని జీవరాశి యంత",
+      "నీధు మహిమనె ప్రస్తుతించగా",
+      "సర్వమెత్తి పాడి నీ మహిమ కార్యములను",
+      "ప్రతి స్దలమునందు ప్రకటించెదా"
+    ],
+    "english": [
+      "Sarva srushtiloni jeevaraashi yantha",
+      "Needu mahimane prasthuthinchagaa",
+      "Sarvametthi paadi nee mahima kaaryamulanu",
+      "Prathi sthalamunandu prakatinchedaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవే మార్గం నీవే సత్యాం నీవే జీవం",
+        "నిన్న నేడు రేపు ఒకటిగా ఉన్న వాడవు",
+        "విడువవు ఎడబాయవు నా యేసయ్యా||సర్వ ||"
+      ],
+      "english": [
+        "Neeve maargam neeve sathyam neeve jeevam",
+        "Ninna nedu repu okatigaa unna vaadavu",
+        "Viduvavu edabaayavu naa Yesayyaa||Sarva ||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ పర్వత శిఖరాకాశం నీ అధ్భుత కార్యములే",
+        "నీ పచ్చిక భూమి నదులు నీచేతి పనులే",
+        "నీవులేనిదే ఏమియు కలుగలేదు ఆధిసంభూతుడా",
+        "నీవు వుండగా నాకు భయము లేదు",
+        "పరమ జయశాలి నీవేమార్గం||సర్వ||"
+      ],
+      "english": [
+        "Nee parvatha shikharaakaasham nee adbhutha kaaryamule",
+        "Nee pachchika bhoomi nadulu neechethi panule",
+        "Neevulenide emiyu kalugaledhu aadisambhoothudaa",
+        "Neevu vundagaa naaku bhayamu ledu",
+        "Parama jayashaali neevemaargam||Sarva||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీరూపములో నను చేసిన పరమకుమ్మరి",
+        "నీ రక్తమునిచ్చి కోన్న జాలిహృధయమా",
+        "నీవులేనిదే ఏమియు కలుగలేదు ఆది...సంభూతుడా",
+        "నీవు ఉండగా నాకు భాయాలు లేవు పరమ జయశాలి నీవే",
+        "విడువవు ఎడబాయవు నాయేసయ్యా||3||"
+      ],
+      "english": [
+        "Neeroopamulo nanu chesina paramakummari",
+        "Nee rakthamunichchi konna jaalihrudhayamaa",
+        "Neevulenide emiyu kalugaledhu aadi...sambhoothudaa",
+        "Neevu undagaa naaku bhayaalu levu parama jayashaali neeve",
+        "Viduvavu edabaayavu naa Yesayyaa||3||"
+      ]
+    }
+  ]
+}

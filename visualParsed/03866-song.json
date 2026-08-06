@@ -1,0 +1,74 @@
+{
+  "song_name": "Ujjeevamu nimmu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఉజ్జీవము నిమ్ము",
+      "నాలో నారంభించుము"
+    ],
+    "english": [
+      "Ujjeevamu nimmu",
+      "Naalo naarambhinchumu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ ఆత్మతో నింపుము"
+      ],
+      "english": [
+        "Nee aathmatho nimpumu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఈవులను ఇమ్ము"
+      ],
+      "english": [
+        "Eevulanu immu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పూర్ణాత్మనాకిమ్ము"
+      ],
+      "english": [
+        "Poornaathmanaakimmu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "అశీర్వాద మిమ్ము"
+      ],
+      "english": [
+        "Asheervaadha mimmu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నాటు నాలో సిల్వన్"
+      ],
+      "english": [
+        "Naatu naalo silvan"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "హల్లెలూయా పాడన్"
+      ],
+      "english": [
+        "Hallelooyaa paadan"
+      ]
+    }
+  ]
+}

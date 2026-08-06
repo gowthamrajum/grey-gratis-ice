@@ -1,0 +1,59 @@
+{
+  "song_name": "Dhevudu Maa Pakshamuna Undagaa",
+  "author": {
+    "Authored by": "Bro  Anil Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవుడు మా పక్షమున ఉండగా - మాకు విరోధి ఎవడు",
+      "మా దేవుడు మా పక్షమున ఉండగా - మాకు విరోధి ఎవడు",
+      "జీవగల దేవుని సైన్యముగా - సాతాను నోడింతుము -2",
+      "యుద్ధం యెహోవాదే - రక్షణ యెహోవాదే",
+      "విజయం యెహోవాదే - ఘనత యెహోవాదే -2",
+      "దేవుడు మా పక్షమున ఉండగా మాకు విరోధి ఎవడు",
+      "మా దేవుడు మా పక్షమున ఉండగా మాకు విరోధి ఎవడు"
+    ],
+    "english": [
+      "Dhevudu Maa Pakshamuna Undagaa - Maaku Virodhi Evadu",
+      "Maa Dhevudu Maa Pakshamuna Undagaa - Maaku Virodhi Evadu",
+      "Jeevagala Dhevuni Sainyamugaa - Saathaanu Nodinthumu -2",
+      "Yuddham Yehovaadhe - Rakshana Yehovaadhe",
+      "Vijayam Yehovaadhe - Ghanatha Yehovaadhe -2",
+      "Dhevudu Maa Pakshamuna Undagaa Maaku Virodhi Evadu",
+      "Maa Dhevudu Maa Pakshamuna Undagaa Maaku Virodhi Evadu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మా దేవుని బాహువే - తన దక్షిణ హస్తమే",
+        "ఆయన ముఖ కాంతియే - మాకు జయమిచ్చును -2",
+        "తనదగు ప్రజగా మము రూపించి - నిరతము మాపై కృప చూపించి",
+        "తన మహిమకై మము పంపించి - ప్రభావమును కనపరుచును"
+      ],
+      "english": [
+        "Maa Dhevuni Baahuve - Thana Dhakshina Hasthame",
+        "Aayana Mukha Kaanthiye - Maaku Jayamichchunu -2",
+        "Thanadhagu Prajagaa Mamu Roopinchi - Nirathamu Maapai Krupa Choopinchi",
+        "Thana Mahimakai Mamu Pampinchi - Prabhaavamunu Kanaparuchunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మా దేవుని ఎరిగిన - జనులముగా మేమందరం",
+        "బలముతొ ఘనకార్యముల్ - చేసి చూపింతుము -2",
+        "దేవునిచే సూర క్రియలను చేసి - భూమిని తలక్రిందులుగా చేసి",
+        "ఆయన నామము పైకెత్తి - ప్రభు ధ్వజము స్థాపింతుము"
+      ],
+      "english": [
+        "Maa Dhevuni Erigina - Janulamugaa Memandaram",
+        "Balamutho Ghanakaaryamul - Chesi Choopinthumu -2",
+        "Dhevuniche Soora Kriyalanu Chesi - Bhoomini Thalakrindhulugaa Chesi",
+        "Aayana Naamamu Paiketthi - Prabhu Dhwajamu Sthaapinthumu"
+      ]
+    }
+  ]
+}

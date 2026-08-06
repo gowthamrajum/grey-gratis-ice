@@ -1,0 +1,73 @@
+{
+  "song_name": "Oa Dhaeva Naenu Nee Dhaapuna Numdedhan",
+  "author": {
+    "Authored by": "",
+    "రచన": "మత్తయి సమూయేలు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ దేవ నేను నీ దాపున నుండెదన్ నీ దాపున నుండెదన్",
+      "నా దేవ నను లేపు నవి సిల్వ శ్రమలైనన్",
+      "నీ దాపున నుండు నీ సేవకుని పాట"
+    ],
+    "english": [
+      "Oa Dhaeva Naenu Nee Dhaapuna Numdedhan Nee Dhaapuna Numdedhan",
+      "Naa Dhaeva Nanu Laepu Navi Silva Shramalainan",
+      "Nee Dhaapuna Numdu Nee Saevakuni Paata"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "బాటసారి లాగు నేఁడు భానుఁడు గ్రుంకి మేటి చీఁకటి గ్రమ్మినన్",
+        "నేటి విశ్రాంతికిఁ జోటు బండయైనన్",
+        "మాటిమాటికిఁ గలలో సూటిగా నినుఁదలఁతు"
+      ],
+      "english": [
+        "Baatasaari Laagu Naedu Bhaanudu Grumki Maeti Cheekati Gramminan",
+        "Naeti Vishraamthiki Joatu Bandayainan",
+        "Maatimaatiki Galaloa Sootigaa Ninudhalathu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆకాశ మండల మార్గంబు నెప్పుడు నా కీవు చూపించుమా",
+        "నీ కూర్మిచే నాకుఁ జేకూరు నంతయు",
+        "లోకేశ్వర దూత లే కోరి ననుఁ బిలువ"
+      ],
+      "english": [
+        "Aakaasha Mamdala Maargambu Neppudu Naa Keevu Choopimchumaa",
+        "Nee Koormichae Naaku Jaekooru Namthayu",
+        "Loakaeshvara Dhootha Lae Koari Nanu Biluva"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీకు స్తోత్రము చేసి యపుడు నా మదిలోని",
+        "ప్రాకటంబగు నెనరుతో భీకరము లైన శోకంబు లను రాళ్లన్",
+        "నీకు నాలయంబు నేఁగట్టె దను గర్తా"
+      ],
+      "english": [
+        "Neeku Sthoathramu Chaesi Yapudu Naa Madhiloani",
+        "Praakatambagu Nenaruthoa Bheekaramu Laina Shoakambu Lanu Raallan",
+        "Neeku Naalayambu Naegatte Dhanu Garthaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సంతసంపు రెక్క లెత్తి నాకమునందు నెంత పైకి లేచినన్",
+        "వింతగ జ్యోతుల వితతి మించి నేన త్యంత మెగసినను",
+        "నీ చెంత కేగును బాట"
+      ],
+      "english": [
+        "Samthasampu Rekka Leththi Naakamunamdhu Nemtha Paiki Laechinan",
+        "Vimthaga Jyoathula Vithathi Mimchi Naena Thyamtha Megasinanu",
+        "Nee Chemtha Kaegunu Baata"
+      ]
+    }
+  ]
+}

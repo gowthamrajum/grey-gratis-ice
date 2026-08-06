@@ -1,0 +1,35 @@
+{
+  "song_name": "Dhyanimchumu Divaratramu Devuni Dharma Sastramu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ధ్యానించుము దివారాత్రము దేవుని ధర్మ శాస్త్రము మహిమకు మార్గము మనిషికి స్వర్గము చూపించు దేవుని వాక్యము. . చూపించు దేవుని వాక్యము. ."
+    ],
+    "english": [
+      "Dhyanimchumu divaratramu devuni dharma sastramu Mahimaku margamu manishiki svargamu Chupimchu devuni vakyamu. . Chupimchu devuni vakyamu. ."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీటీ కాలువ గట్టునా నాటబడిన చెట్టువలెనుందువు జీవితమంతయు చేయున దంతయు సఫలముగ జరుగును ఇది నమ్ముము (2)"
+      ],
+      "english": [
+        "Niti kaluva gattuna natabadina chettuvalenumduvu Jivitamamtayu cheyuna damtayu Sapalamuga jarugunu idi nammumu (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "త్రోవకు వెలుగు నిచ్చుదీపము ఆత్మకు బలమునిచ్చు దైవము చదువుము అనుదినం ఈ ఉపదేశము చేరెదము ఆ పరమ దేశము (2)"
+      ],
+      "english": [
+        "Trovaku velugu nichchudipamu atmaku balamunichchu daivamu Chaduvumu anudinam I upadesamu Cheredamu A parama desamu (2)"
+      ]
+    }
+  ]
+}

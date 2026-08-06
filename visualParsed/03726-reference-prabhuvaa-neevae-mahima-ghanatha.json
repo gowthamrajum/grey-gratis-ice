@@ -1,0 +1,95 @@
+{
+  "song_name": "Prabhuvaa, neeve mahima ghanatha",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మహిమ రాజు సన్నిధిన్ మకుటధారులై",
+        "నిత్యజీవ శాంతిలో నిలిచి యుందుము",
+        "హల్లెలూయ పాట పాడెదము (2)",
+        "పాడెదము పాడెదము హల్లెలూయ పాట"
+      ],
+      "english": [
+        "Mahima raaju sannidhin makutadhaarulai",
+        "Nithyajeeva shaanthilo nilichi yundhumu",
+        "Hallelooya paata paadedamu (2)",
+        "Paadedamu paadedamu hallelooya paata"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శాంతి నాథుడేసుని సముఖములో",
+        "సంతసమే నిత్యము చింతలేదుగా"
+      ],
+      "english": [
+        "Shaanthi naathudesuni samukhamulo",
+        "Santhasame nithyamu chinthaledhugaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా ప్రభువు తుడుచును నా కన్నీటిని",
+        "ప్రేమతోడ మందను పోషించును"
+      ],
+      "english": [
+        "Naa Prabhuvu thuduchunu naa kanneetini",
+        "Premathoda mandanu poshinchunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సంతసమున దూతలు సంస్తుతించగా",
+        "పాడి మోక్షమందున మోదమొందెదన్"
+      ],
+      "english": [
+        "Santhasamuna doothalu samsthuthinchagaa",
+        "Paadi mokshamandhuna modhamondhedhan"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "శత్రువునకు వెరువనేల సోదరులారా",
+        "దైవపుత్రులారా నిద్ర లేచి పాడుడి"
+      ],
+      "english": [
+        "Shathruvunaku veruvanela sodharulaaraa",
+        "Dhaivaputhrulaaraa nidra lechi paadudi"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "యేసురాక వార్త మ్రోగె భాసురంబుగా",
+        "వచ్చుచున్నాడేసు సంఘ వధువు కొరకు"
+      ],
+      "english": [
+        "Yesuraaka vaartha mroge bhaasurambugaa",
+        "Vachchuchunnaadesu sangha vadhuvu koraku"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "తెల్లవస్త్రములు లేక వెళ్ళజాలవు",
+        "రక్తములో కడుగుము వస్త్రములను"
+      ],
+      "english": [
+        "Thellavasthramulu leka vellajaalavu",
+        "Rakthamulo kadugumu vasthramulanu"
+      ]
+    }
+  ]
+}

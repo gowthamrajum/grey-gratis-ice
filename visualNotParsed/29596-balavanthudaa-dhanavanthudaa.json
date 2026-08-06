@@ -1,0 +1,80 @@
+{
+  "song_name": "Balavanthudaa dhanavanthudaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "A.R.Stevenson"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "బలవంతుడా ధనవంతుడా",
+      "గుణవంతుడా నా యేసయ్యా",
+      "నీవంటివాడు లేనేలేడు",
+      "నీ సాటి ఎవడు రానేరాడు",
+      "నాకున్న ఆధారం – నాలోని ఆనందం నీవే"
+    ],
+    "english": [
+      "Balavanthudaa dhanavanthudaa",
+      "Gunavanthudaa naa Yesayyaa",
+      "Neevantivaadu leneledu",
+      "Nee saati evadu raaneraadu",
+      "Naakunna aadhaaram – Naaloni aanandam neeve"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అ.ప.",
+        "యేసయ్యా, యేసయ్యా, యేసయ్యా",
+        "నా యేసయ్యా"
+      ],
+      "english": [
+        "a.pa.",
+        "Yesayyaa, Yesayyaa, Yesayyaa",
+        "Naa Yesayyaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఏదియు నీవు లేకుండా కలుగలేదుకదా",
+        "దీవెనలు దయచేయగల మహిమ నీదికదా",
+        "నాకున్న ఉజ్జీవం – నాలోని ఉత్సాహం నీవే"
+      ],
+      "english": [
+        "Ediyu neevu lekundaa kalugaledhukadaa",
+        "Deevenalu dayacheyagala mahima needhikadaa",
+        "Naakunna ujjeevam – Naaloni uthsaaham neeve"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "లోపమన్నది నీయందు కానరాదుకదా",
+        "పాపములు క్షమియించగల మనసు నీదికదా",
+        "నాకున్న వైభోగం – నాలోని విశ్వాసం నీవే"
+      ],
+      "english": [
+        "Lopamannadhi neeyandhu kaanaraadhukadaa",
+        "Paapamulu kshamiyinchagala manasu needhikadaa",
+        "Naakunna vaibhogam – Naaloni vishwaasam neeve"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "శూరుడా నీముందెవడు నిలువలేడుకదా",
+        "కార్యములు నెరవేర్చగల ఘనత నీదికదా",
+        "నాకున్న సౌందర్యం – నాలోని సామర్ధ్యం నీవే"
+      ],
+      "english": [
+        "Shoorudaa neemundhevadu niluvaledhukadaa",
+        "Kaaryamulu neraverchagala ghanatha needhikadaa",
+        "Naakunna saundharyam – Naaloni saamardhyam neeve"
+      ]
+    }
+  ]
+}

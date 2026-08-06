@@ -1,0 +1,52 @@
+{
+  "song_name": "Unnathamaina prema Dm",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఉన్నతమైన ప్రేమ - అత్యున్నతమైన ప్రేమ",
+      "శాశ్వతమైన ప్రేమ - పరిపూర్ణమైన ప్రేమ",
+      "యేసుని ప్రేమా - ఆ కలువరి ప్రేమ - ఆ కలువరి ప్రేమా"
+    ],
+    "english": [
+      "Unnathamaina prema - Athyunnathamaina prema",
+      "Shaashwathamaina prema - Paripoornamaina prema",
+      "Yesuni premaa - Aa Kalvari prema - Aa Kalvari premaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నింగి నుండి నేలకు దిగివచ్చిన ప్రేమా",
+        "నేల నుండి నన్ను లేవనెత్తిన ప్రేమ (2)",
+        "మంటి నుండి మహిమకు నను మార్చిన ప్రేమ (2)",
+        "ఆ కలువరి ప్రేమ - ఆ కలువరి ప్రేమా  ||ఉన్నతమైన||"
+      ],
+      "english": [
+        "Ningi nundi nelaku dhigivachchina premaa",
+        "Nela nundi nannu levanetthina prema (2)",
+        "Manti nundi mahimaku nanu maarchina prema (2)",
+        "Aa Kalvari prema - Aa Kalvari premaa ||Unnathamaina||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీదు ప్రేమ నాకు జీవం - నా సమస్తమును",
+        "నీవు పొందిన శ్రమలన్నియును నాదుడెందములో (2)",
+        "నీవు కార్చిన రక్తమే నా - ముక్తి మార్గమై (2)",
+        "ఆ కలువరి ప్రేమ - ఆ కలువరి ప్రేమా  ||ఉన్నతమైన||"
+      ],
+      "english": [
+        "Needu prema naaku jeevam - Naa samasthamunu",
+        "Neevu pondina shramalanniyunu naadu dendhamulo (2)",
+        "Neevu kaarchina rakthame naa - Mukthi maargamai (2)",
+        "Aa Kalvari prema - Aa Kalvari premaa ||Unnathamaina||"
+      ]
+    }
+  ]
+}

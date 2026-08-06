@@ -1,0 +1,32 @@
+{
+  "song_name": "Aaradhinchedham",
+  "author": {
+    "Authored by": "Samy Pachigalla",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆరాదించెదం ఆర్భాటించెదం",
+      "మన యేసు రాజునే కీర్తించెదం",
+      "స్తుతి ఘనత మహిమ నిరతం రారాజుకే"
+    ],
+    "english": [
+      "Aaraadinchedham aarbhaatinchedham",
+      "mana yesu raajune keerthinchedham",
+      "sthuthi ghanatha mahima niratham raaraajuke"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆరాధన స్తోత్రార్పణ మన యేసుకే",
+        "స్తుతి ఘనత మహిమ నిరతం రారాజుకే"
+      ],
+      "english": [
+        "Aaraadhana sthothraarpana mana yesuke",
+        "sthuthi ghanatha mahima niratham raaraajuke"
+      ]
+    }
+  ]
+}

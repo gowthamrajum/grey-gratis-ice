@@ -1,0 +1,67 @@
+{
+  "song_name": "Naatho maatlaadumayyaa - Nannoo dharshinchumayyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నాతో మాట్లాడుమయ్యా - నన్నూ దర్శించుమయ్యా",
+      "నీ మందిరాన - నీ సన్నిధాన - నీ ఆత్మతో నన్ను - నింపుమయా",
+      "యేసయ్యా .... ఆ.. ఆ.. యేసయ్యా .. ఆ..ఆ.. యేసయ్యా... ఆ ఆ..యేసయ్యా .... యేసయ్యా...."
+    ],
+    "english": [
+      "Naatho maatlaadumayyaa - Nannoo dharshinchumayyaa",
+      "Nee mandiraana - Nee sannidhaana - Nee aathmatho nannu - Nimpumayaa",
+      "Yesayyaa .... aa.. aa.. Yesayyaa .. aa..aa.. Yesayyaa... aa aa..Yesayyaa .... Yesayyaa...."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కన్నీళ్ళైనా కష్టాలెదురైనా - కడవరకు నను చేర్చుమయ్యా",
+        "కరువు తోడైనా - కలిమి వేరైనా - కరుణించి కాపాడుమయ్యా",
+        "నా వేదనలో నీ జాలితో - నా శోధనలో నీ చేతితో",
+        "నిత్యము నను నడిపించుమయ్యా .... ||యేసయ్యా||"
+      ],
+      "english": [
+        "Kanneellainaa kashtaaledurainaa - Kadavaraku nanu cherchumayyaa",
+        "Karuvu thodainaa - Kalimi verainaa - Karuninchi kaapaadumayyaa",
+        "Naa vedanalo nee jaalitho - Naa shodhanalo nee chethitho",
+        "Nithyamu nanu nadipinchumayyaa .... ||Yesayyaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నావారే నన్ను నిందించేవేళ - నను విడచి పోబోకుమయ్యా",
+        "ఆదరణ నాకు కరువైనవేళ - దరిచేర్చి ఓదార్చుమయ్యా",
+        "నా నిందలలో నా తోడువై - అపనిందలలో నా చేరువై",
+        "నిత్యము నను నడిపించుమయ్యా .... ||యేసయ్యా||"
+      ],
+      "english": [
+        "Naavaare nannu nindinchevela - Nanu vidachi pobokumayyaa",
+        "Aadarana naaku karuvainavela - Dharicherchi odhaarchumayyaa",
+        "Naa nindalalo naa thoduvai - Apanindalalo naa cheruvai",
+        "Nithyamu nanu nadipinchumayyaa .... ||Yesayyaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా కాలు జారి తొట్రిల్లువేళ - చేజాచి నిలబెట్టుమయ్యా",
+        "సాతాను నన్ను బంధించేవేళ - నను చేరి విడిపించుమయ్యా",
+        "నీ చెతితో నను పట్టుకో - నీ సేవలో నను వాడుకో",
+        "నిత్యము నను నడిపించుమయ్యా .... ||యేసయ్యా||"
+      ],
+      "english": [
+        "Naa kaalu jaari thotrilluvela - Chejaachi nilabettumayyaa",
+        "Saathaanu nannu bandhinchevela - Nanu cheri vidipinchumayyaa",
+        "Nee chethitho nanu pattuko - Nee sevalo nanu vaaduko",
+        "Nithyamu nanu nadipinchumayyaa .... ||Yesayyaa||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "song_name": "Haayi lokamaa prabhuvachchen",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "ఐజక్ వాట్స్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "హాయి, లోకమా! ప్రభువచ్చెన్",
+      "అంగీకరించుమీ",
+      "పాపాత్ములెల్ల రేసునున్",
+      "కీర్తించి పాడుఁడీ."
+    ],
+    "english": [
+      "Haayi, lokamaa! prabhuvachchen",
+      "Angeekarinchumee",
+      "Paapaathmulella Resunun",
+      "Keerthinchi paadudee."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "హాయి రక్షకుండు ఏలును",
+        "సాతాను రాజ్యమున్",
+        "నశింపఁజేసి మా యేసే",
+        "జయంబు నొందును."
+      ],
+      "english": [
+        "Haayi rakshakundu elunu",
+        "Saathaanu raajyamun",
+        "Nashimpajesi maa Yese",
+        "Jayambu nondhunu."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాప దుఃఖంబులెల్లను",
+        "నివృత్తిఁ జేయును",
+        "రక్షణ్య సుఖక్షేమముల్",
+        "సదా వ్యాపించును."
+      ],
+      "english": [
+        "Paapa duhkhambulellanu",
+        "Nivruththi jeyunu",
+        "Rakshana sukhakshemamul",
+        "Sadaa vyaapinchunu."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సునీతి సత్యకృపలన్",
+        "రాజ్యంబు నేలును",
+        "భూజనులార మ్రొక్కు(డీ",
+        "స్తోత్రార్హుఁడాయెనే."
+      ],
+      "english": [
+        "Suneethi sathyakrupalan",
+        "Raajyambu nelunu",
+        "Bhoojanulaara mrokkudee",
+        "Sthothraarhudaayene."
+      ]
+    }
+  ]
+}

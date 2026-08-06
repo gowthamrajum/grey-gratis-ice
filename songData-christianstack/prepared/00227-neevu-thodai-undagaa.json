@@ -1,0 +1,116 @@
+{
+  "song_name": "Neevu Thodai Undagaa",
+  "author": {
+    "Authored by": "Joshua Katta",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవు తోడైయుండగా యేసు భయము లేదు ఇలలో,",
+      "మేలు చేయు దేవుడా నీకు",
+      "సాటి లేరు సృష్టిలో."
+    ],
+    "english": [
+      "Neevu todai undagaa yesu, bhayamu ledu ilalo",
+      "Melu cheyu devudaa neeku, saati leru srusti lo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎక్కలేని కొండలే ఎన్నో ఎదురొచ్చినా",
+        "లెక్కలేని నిందలే నన్ను బాధించినా"
+      ],
+      "english": [
+        "Ekkaleni kondalenno edurochinanu",
+        "Lekkaleni nindale nannu badinchinanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీవు తోడైయుండగా యేసు భయము లేదు ఇలలో,",
+        "మేలు చేయు దేవుడా నీకు",
+        "సాటి లేరు సృష్టిలో."
+      ],
+      "english": [
+        "Neevu todai undagaa yesu, bhayamu ledu ilalo",
+        "Melu cheyu devudaa neeku, saati leru srusti lo"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "గతం గాయాన్ని చేయగా",
+        "గాయం హృదయాన్ని చీల్చగా.",
+        "శోకం సంద్రంలా ముంచగా",
+        "లోకం బంధాలే తెంచగా.",
+        "పేరు పెట్టి తల్లిలా పిలిచి లాలించితివి.",
+        "నీవే తోడు నీడగా నిలిచి కృప చూపితివి!"
+      ],
+      "english": [
+        "Gatham gaayaanni cheyaga",
+        "Gaayam hrudayanni cheelchaga",
+        "Sokham sandram la munchaga",
+        "Lokam bandhale tenchaga",
+        "Peru petti talli la pilichi laalinchitivi",
+        "Neeve todu needa ga nilichi krupa chupitivi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆశ నిరాశగా మారినా,",
+        "నిరాశ నిస్పృహ పెంచినా",
+        "యుక్తి తెలియక తిరిగినా",
+        "శక్తి క్షీణించి పోయినా.",
+        "వెన్ను తట్టి తండ్రిలా నిలిపి నడిపించితివి.",
+        "నీవే కొండ కోటగా నిలిచి బలపరచితివి!"
+      ],
+      "english": [
+        "Neevu todai undagaa yesu, bhayamu ledu ilalo",
+        "Melu cheyu devudaa neeku, saati leru srusti lo"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీవు నాకు అండగా నిలిచి దారి చూపినావయ్యా!",
+        "నేను నీకు మెండుగా స్తుతులు అర్పించెదను."
+      ],
+      "english": [
+        "Aasha nirashaga maarina",
+        "Niraasha nispruha penchina",
+        "Yukti teliyaka tiriginatirigina",
+        "Shakti kseeninchi poyina",
+        "Vennu thatti thandri la nilipi nadipinchitivi",
+        "Neeve konda kota ga nilichi balaparachitivi"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [],
+      "english": [
+        "Neevu todai undagaa yesu, bhayamu ledu ilalo",
+        "Melu cheyu devudaa neeku, saati leru srusti lo"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [],
+      "english": [
+        "Ekkaleni kondalenno edurochinanu",
+        "Lekkaleni nindale nannu badinchinanu"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [],
+      "english": [
+        "Neevu naku andaga nilichi daari chupinavayya",
+        "Nenu neeku menduga sthutulu arpinchedanu"
+      ]
+    }
+  ]
+}

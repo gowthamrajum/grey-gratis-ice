@@ -1,0 +1,77 @@
+{
+  "song_name": "Anuraagaa Poornuda",
+  "author": {
+    "Authored by": "Hosanna Ministries featuring Pastor Ramesh",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీకేగా నా స్తుతిమాలిక",
+      "నీ కొరకే ఈ ఘనవేదిక",
+      "నీ ప్రేమ నాపై చల్లారిపోదు",
+      "మరణానికైనా వెనుతిరుగలేదు",
+      "మన లేను నే నిన్ను చూడకా",
+      "మహా ఘనుడా నా యేసయ్య"
+    ],
+    "english": [
+      "Neeke naa sthuthi maalika",
+      "nee korake ee ganavedhika",
+      "nee prema naapai challaripodhu",
+      "marannaanikainaa venuthirugaledhu",
+      "mana lenu ne ninnu choodakaa",
+      "mahaa ganudaa naa yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సంతోష గానాల స్తోత్రసంపద",
+        "నీకే చెల్లింతును ఎల్లవేళల",
+        "అనురాగశీలుడా అనుగ్రహపూర్ణుడా",
+        "నీ గుణశీలత వర్ణింపతరమా",
+        "నా ప్రేమ ప్రపంచము నీవేనయ్యా",
+        "నీవులేని లోకాన నేనుండలేనయ్యా",
+        "నా ప్రాణం నా ధ్యానం నీవేనయ్యా",
+        "నీతో సమమైన బలమైన వారెవ్వరూ",
+        "వేరే జగమందు నే ఎందు వెతికినను",
+        "నీతిభాస్కరుడా నీ నీతికిరణం",
+        "ఈ లోకమంతా ఏలుచున్నదిగా",
+        "నా మదిలోన మహారాజు నీవేనయ్య",
+        "ఇహపరమందు నన్నేలు తేజోమయ",
+        "నీ నామం కీర్తించి ఆరాధింతును",
+        "నీతో నిలుచుండు ఈ భాగ్యమే చాలు",
+        "వేరే ఆశేమియు లేదు నాకిలలో",
+        "నా ప్రాణ ప్రియుడా నన్నేలు దైవమా",
+        "ఆపాద మస్తకం నీకేగా అంకితం",
+        "నా శ్వాస నిస్వాసయు నీవేనయ్యా",
+        "నా జీవిత ఆద్యంతం నీవేనయ్యా",
+        "నీ కొరకే నేనిలలో జీవింతును"
+      ],
+      "english": [
+        "Santhosha gaanaala shtothrasampadha",
+        "neeke chellinthunu ellavelala",
+        "anuraagaseeludaa anugrahapoornudaa",
+        "nee gunnaseelatha varnnimpatharamaa",
+        "naa prema prapanchamu neevenayyaa",
+        "neevuleni lokaana nenundalenayyaa",
+        "naa praannam naa dhyaanam neevenayyaa",
+        "Neetho samamaina balamaina vaarevvaroo",
+        "vere jagamandhu ne endhu vethikinanu",
+        "neethibhaaskarudaa nee neethikirannam",
+        "ee lokamanthaa eluchunnadhigaa",
+        "naa madhilona mahaaraaju neevenayyaa",
+        "ihaparamandhu nannelu thejomaya",
+        "nee naamam keerthinchi aaraadhinthunu",
+        "Neetho niluchundu ee bhaagyame chaalu",
+        "vere aasemiyu ledhu naakilalo",
+        "naa praana priyudaa nannelu dhaivamaa",
+        "aapaadha masthakam neekegaa ankitham",
+        "naa swaasa niswaasayu neevenayyaa",
+        "naa jeevitha aadhyantham neevenayyaa",
+        "nee korake nenilalo jeevinthunu",
+        "nee naamam keerthinchi aaraadhinthunu"
+      ]
+    }
+  ]
+}

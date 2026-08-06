@@ -1,0 +1,58 @@
+{
+  "song_name": "Raathriyayyena Nnedaobaayaku Dhaa",
+  "author": {
+    "Authored by": "",
+    "రచన": "హెన్రీ ప్రాన్సిస్ లైట్"
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రాత్రియయ్యెన న్నెడఁబాయకు ధాత్రిపైఁ జీఁకతులుఁ గ్రమ్మెను సహాయ మేమి లేనివారికి సహాయుఁడా, నన్ బాసిపోకుమీ."
+      ],
+      "english": [
+        "raathriyayyena nnedAObaayaku DhaathripaiAO jeeAOkathuluAO grammenu sahaaya maemi laenivaariki sahaayuAOdaa, nan baasipoakumee."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఏకాలంబైన నీ సహాయము లేక పిశాచిన్ గెల్వఁజాలను నీకంటె నాకు లేదుగా లోక ప్రకాశుఁడా, నన్ బాయకు."
+      ],
+      "english": [
+        "aekaalMbaina nee sahaayamu laeka pishaachin gelvAOjaalanu neekMte naaku laedhugaa loaka prakaashuAOdaa, nan baayaku."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా చెంత నీవు చేరియుండఁగ ఏ చింతయైన నన్ను సోకునా ఏ శత్రువైన నన్ను గెల్చునా? నా శైలమా, నన్ బాసిపోకుమా."
+      ],
+      "english": [
+        "naa cheMtha neevu chaeriyuMdAOga ae chiMthayaina nannu soakunaa ae shathruvaina nannu gelchunaa? naa shailamaa, nan baasipoakumaa."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సమృద్ధుఁడు సహాయుఁ డాయెను ఓ మృత్యువా నీ ముల్లు గెల్చునా? సమాధి నీకు జయమబ్బునా? మా మధ్యమున్ సర్వేశ పాయకు."
+      ],
+      "english": [
+        "samrudhDhuAOdu sahaayuAO daayenu oa mruthyuvaa nee mullu gelchunaa? samaaDhi neeku jayamabbunaa? maa maDhyamun sarvaesha paayaku."
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "రేవు నేఁ జేరఁబోవు వేళలోన్ కావుమయ్యా నీ దీప్తిఁ జూపుచున్ చావు జీవంబులందు నైనను నీవు తోడై నన్ బాసిపోకుము."
+      ],
+      "english": [
+        "raevu naeAO jaerAOboavu vaeLaloan kaavumayyaa nee dheepthiAO joopuchun chaavu jeevMbulMdhu nainanu neevu thoadai nan baasipoakumu."
+      ]
+    }
+  ]
+}

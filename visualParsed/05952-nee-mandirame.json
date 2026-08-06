@@ -1,0 +1,52 @@
+{
+  "song_name": "Nee mandhirame",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ మందిరమే మాకు ఆశ్రయం నీ సన్నిధియే మాకు ఆధారము",
+      "నీ మాటలతో మమ్మునోదార్పుము నీ వాక్కుతో మమ్ము స్వస్థపరచుము",
+      "నీవే కదా ఆధారము నీవే కదా ఆశ్రయం"
+    ],
+    "english": [
+      "Nee mandhirame maaku aashrayam nee sannidhiye maaku aadhaaramu",
+      "Nee maatalatho mammunodhaarpumu nee vaakkutho mammu swasthaparachumu",
+      "Neeve kadaa aadhaaramu neeve kadaa aashrayam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యాకోబును దీవించినట్టుగా మమ్ము కూడా దీవించుమయా",
+        "యోసేపుకు తోడైయున్నట్టుగా మాకు కూడ తోడుండుమయా",
+        "మోషేను నడిపించినట్లుగా మమ్మును నడిపించుమయా",
+        "దావీదును హెచ్చించినట్లుగా మమ్మును హెచ్చించుమయా"
+      ],
+      "english": [
+        "Yaakobunu dheevinchinattugaa mammu koodaa dheevinchumayaa",
+        "Yosepuku thodaiyunnattugaa maaku kooda thodundumayaa",
+        "Moshenu nadipinchinatlugaa mammunu nadipinchumayaa",
+        "Dhaaveedhunu hechchinchinatlugaa mammunu hechchinchumayaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శిష్యులతో మాట్లాడినట్లుగా మాతో కూడా మాట్లాడుమయా",
+        "పేతురును క్షమియించినట్లుగా మమ్ము కూడా క్షమియించుమయా",
+        "తోమాను సరిచేసినట్లుగా మమ్మును సరిచేయుమయా",
+        "పౌలును వాడుకొనినట్లుగా మమ్మును వాడుకొమ్మయా"
+      ],
+      "english": [
+        "Shishyulatho maatlaadinatlugaa maatho koodaa maatlaadumayaa",
+        "Pethurunu kshamiyinchinatlugaa mammu koodaa kshamiyinchumayaa",
+        "Thomaanu sarichesinatlugaa mammunu saricheyumayaa",
+        "Paulunu vaadukoninatlugaa mammunu vaadukommayaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "song_name": "Sthothram Stuthi Sthothram",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తోత్రం స్తుతి స్తోత్రం మహిమ ఘనత నీకే",
+      "అర్పింతును యేసయ్య",
+      "నా కోసం మరణించి తిరిగి లేచిన",
+      "నీకే నా స్తుతి స్తోత్రము"
+    ],
+    "english": [
+      "Sthothram stuthi sthothram mahima ghanatha neeke",
+      "arpinthunu yesayya",
+      "naa kosam maraninchi thirigi lechina",
+      "neeke naa sthuthi sthothram"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "భాద కలుగు సమయములో నాకు తోడై నిలచి",
+        "కష్ట నష్టాలలో నాకు నీడై నిలచి",
+        "నను దైర్యపరచితివి నా వెంట నిలచితివి",
+        "నా కోసం మరణించి తిరిగి లేచిన",
+        "నీకే నా స్తుతి స్తోత్రము",
+        "నే చేసిన పాపముకై శిక్ష నీవు పొందితివి",
+        "నే చేసిన దోషముకై సిలువలో మరణించితివి",
+        "మృత్యుంజయుడై నిలచి మరణాన్నే గెలచితివి",
+        "నా కోసం మరణించి తిరిగి లేచిన",
+        "నీకే నా స్తుతి స్తోత్రము"
+      ],
+      "english": [
+        "Baadha kalugu samayamulo naaku thodai nilachi",
+        "kasta nastaalalo naaku needai nilachi",
+        "nanu dhairyaparachithivi naa venta nilachithivi",
+        "naa kosam maraninchi thirigi lechina",
+        "neeke naa sthuthi sthothram",
+        "Ne chesina paapamukai siksha neevu pondhithivi",
+        "ne chesina dhoshamukai siluvalo maraninchithivi",
+        "mruthyunjayudai nilachi maranaanne gelichithivi",
+        "naa kosam maraninchi thirigi lechina",
+        "neeke naa sthuthi sthothram"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4962 @@
+{
+ "00175-nee-premaye-naku-chalu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00006-aadedhan-paadehan.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00023-aaha-mahaanandame.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00025-udhayakanthi-rekalo.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00026-unnanthamyna-prema-dm.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00027-unnathamyna-sthalamulalo-cm.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00028-oohala-kandhani-lokamulo.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00031-oka-saari-aalochinchava.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00032-o-neethi-suryuda.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00033-o-yesu-divya-prema.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00038-halleluaya-ani-paduuchu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00039-kristhu-nedu-lechenu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00040-prema-kaligi-sathyamu-palukuchu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00044-jayamu-kristhu-jaya-jaya-livigo.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00045-jayahe-jayahe.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00048-divam-prema-swaroopam.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00051-naa-yesu-raju.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00054-neeti-yuta-yodha.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00053-nithyudyna-dhevuni-thodu-o.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00035-kanumaa-siluva-pai.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00042-gesthemane-thota.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00056-neevu-nirminchina-dhevalayamulo.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00058-neelakasamlona-nigikegasina-thaara.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00059-nee-siluvalone-naa-mukthi.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00061-nenu-papino-prabhuva.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00063-parama-pavanuda-mariya.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00065-padedhamu-vededhamu-cm.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00066-pradhana-vinedi-pavanuda.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00068-mahodayam-subhodayam.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00070-mandhalo-cherani-gorrelenno.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00071-yehova-na-kapari.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00073-yesu-rakthamu-rakthamu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00075-yesu-ni-krupalo.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00076-randeho-vinarandeho.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00078-rakada-samayamulo.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00080-lekhaleni-chukalenno.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00081-lekhimpaleni-sthotramul.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00082-vijaya-gosha-vinipinchenu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00083-vimochakudu-mana-prabhu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00089-siluva-yende-needhu-prema.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00090-srusti-kartha-yesuni-sthutinchedamu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00091-srustipitha-sarvonatha.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00093-sri-yesu-geethi-paadana.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00108-abrahamu-devuda.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00112-chudumu-gesthemane.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "00114-deva-nee-yavaranam.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00117-dhevuni-sthuthiyinchudi-ellapudu.json": {
+  "status": "fixed",
+  "stanzas": 9
+ },
+ "00118-dhevuni-upakarambulalona.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00126-varninchaleni-thyaagam-oodaarpu-nondhani-vainam.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00133-kummari-o-kummari.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00134-kuthuhala-marbhatame.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00136-mahima-neeke-prabhu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00139-manulu-manikyamulunna.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00151-nuthana-geethamu-paadedhanu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00152-o-prabhuva-neeve.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00154-prabhuva-neelo-jeevinchuta-ab.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00180-vetakaani-urilo-nundi.json": {
+  "status": "fixed",
+  "stanzas": 1
+ },
+ "00188-aakaashamandunna-aaseenudaa.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00190-aananda-yaathra.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00213-kalyaanam-kamaneeyam.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00157-rakshakundudhayinchi-nadata.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "00158-randi-yuchahinchi-paadudhamu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00161-stothra-rupamagu-krotha.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00162-sthuthi-yagamu-na-yesuke.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "00166-viswasa-vanithalamu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00171-yesutho-teeviganu-podama.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00172-yogyudavo-yogyudavo.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00174-shudhdhaa-hrudhaayam-kalugajeyumu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00240-naa-praanamaa-yehovaanu-neevu-sannuthinchumu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00261-neeku-ishtudigaa-ilalo-ne-undaalani.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00312-dheva-ni-namam-entho-balamynadhi.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00315-naa-jeevitha-kalamantha.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00341-aanandame-prabhu-yesuni.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00342-premamaya-yesu-prabhuvaa.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00343-aanandam-yesutho.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00344-naa-vedhanalo-vedhikithini.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00348-yemani-varninthu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00349-nithyudaa-nee-sanidhi.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00350-tejovaasula-swasthyamandhu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00351-sthuthi-simhasanaseenudavu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00352-anadhilo-niyaminchabadina.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00353-prabhuvaa-nee-samukhamandhu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00354-nithyudagu-naa-thandri.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00355-nee-krupa-bahulyame.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00356-aascharyakarudaa-needhu-krupa.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00357-evarunnaru-ee-lokamulo.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00358-yuddha-veerulam-manam.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00359-seeyonulo-naa-yesutho.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00360-naa-jeevitham-neekankitham.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00361-sooryuni-dharinchi.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00364-noothana-yerushalem.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00365-nanu-viduvaka-dhachithivi.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00366-kalavaripadi-ne-kondalavypu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00367-naa-prana-priyuda-yesaiah.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00368-naa-pranathma-sareeram.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00370-yesaiah-naa-priya.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00330-naa-prana-priyudavu-neeve.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00334-nee-preme-nannu-aadharinchenu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00336-sannuthichedanu-dhayaludavu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00338-yesu-anu-namame-naa-madhura.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00339-halleluya-yesaiah.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00340-dheva-naa-dhevudavu-neeve.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00506-priyathama-bandhama-naa-hrudayapu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00514-suryuni-dharinchi.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00515-sthuthiki-paathruda.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00517-palle-pallello-pattanala-moolallo.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00518-musalamma-muchatlu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00520-mahimaswarupuda.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00317-neeve-naa-oopiri.json": {
+  "status": "fixed",
+  "stanzas": 1
+ },
+ "00318-jagatiki-punaadi-vaeyaka-mundae-janiyinchina-pra.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00320-ae-vyaktinainaa-ae-sthitiyandainaa-entagaanoe-pr.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00323-oohaku-andani-praema-naa-yaesu-praema.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00325-velpulalo-bahu-ghanudu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00328-dheva-ni-krupa-nirantharam.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00404-yevaru-chesiri-puvuu-lanuu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00453-e-samayamandhaina.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00496-aanandham-aanandham.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00497-aanandha-maanandha-maayenu.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "00498-niitigala-yohoavaa-sthuthi-mii.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "00499-dhaeva-dhivyanantha-prabhaava.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "00500-gaanamu-chaeyudu-sukiirthananu-y.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "00501-anni-kalambula-nunna-yehova.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00502-halleluya-sthotram.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00503-yesu-ni-krupalo.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00504-manchi-sakshiga-marchumu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00505-devaa-neeku-sthotramu.json": {
+  "status": "fixed",
+  "stanzas": 1
+ },
+ "00372-yeguruthunnandhi-vijaya.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00373-anthyadhinamula-yendu-memundaga.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00374-dhevudu-maapakshamuna-vundaga.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00375-idhigo-vinuma-lokama.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "00376-israelunu-kaapaadu-devudu.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "00377-jaya-pataakam-yegaraali.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00521-dayagala-hrudayudavu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00522-nee-sallani-soope.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00523-yedabaayani-deva.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00524-gadachina-kaalamantha.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00525-ambhara-veedhilo-tharaka.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00526-krupayu-satyamu-kalisi.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00527-aakashamlo-kotha-chukka-puttindi.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00528-andhari-chevulu-gingurumanela.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00529-ooruko-hrudayama-neelo.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00530-unnathamaina-rajyapu-vasi.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00531-sahasa-kaaryalu-cheya-galige.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00532-o-manavuda-melukonumu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00386-yesayya-lone-unnadhi-manaku-rakshana.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "00387-maargam-satyam-jeevam.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00389-yesu-dhevuni-aaradhikulam.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00391-song.json": {
+  "status": "rejected",
+  "reason": "lost 60% of the Telugu"
+ },
+ "00393-prabhu-naamam.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00395-kondharemo-gurralantu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00794-ninne-premimtunu-ne-venutiruga-ni.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00795-ninne-vedakeda-nikai-bradikeda-yesuto.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00796-ninnu-chudali-neeto-nadavali-mataladali.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00799-niti-nyayamulu-premimchuvadu-na-yesu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00801-nitiyuta-yodda-natabaditimi-verutanni-edigi.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00802-nitone-anamdam-nilone-atisayam-2.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00738-na-vedanalo-vedakitini-sriyesuni-padalanu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00741-na-yesuni-sannidhilone-na-jivitam.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00742-nadi-amtu-vadulata-nikemduku-edinidi.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00747-naku-jivamainayunna-na-jivama-naku.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00748-nalo-ninnu-chudani-nito-bratuku.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00749-nalona-anuvanuvuna-nivani-nilona-nannu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00803-nive-chalayya-yesu-nive-chalayya.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00807-o-ho-o-o-hailessa.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00808-o-nestama-e-subavarta-teliyuna.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00809-o-oho-kraistavuda-ohoho-visvasi.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00810-o-pemdli-varuda-o-pemdli.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00812-o-priya-navika-na-jivitam.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00583-brathikeda-ni-kosame.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00587-bale-bale-mata.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00588-baibilu-gramdham.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00589-brathiki-chastava.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00591-bayapadaku.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00593-chalu-chalu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00813-o-priya-yuvaka-nammaku-ni.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00815-padamule-chalunu-papalokamulo-nakemi-valadu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00816-padeda-nenoka-nutana-gitam-padeda.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00817-pai-numdi-digivachche-yerushalema-ni.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00820-paramagitam-padana-prabuni-premanu-pogadana.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00822-podamu-payanamodamu-suvarta-cheppa-podamu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00770-ni-aradhana-hrudaya-alapana-atmato.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00772-ni-devudedamchu-nannaduguchunnaru-ekkadunnavani-.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00774-ni-kashtalanni-badhalanni-sramalanni-tirche.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00776-ni-matalato-na-bratuku-bratikistavani.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00777-ni-mukamu-manoharamu-ni-svaramu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00778-ni-namamu-parisuddhabadilo-diddi-nerchuta.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00761-nedo-repo-yesu-rakada-kalam.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00762-neela-lerevvaru-neeku-satevvaru-maha.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00763-neeve-na-akarshana-neeve-na.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00765-nenemdukani-ni-sottuga-maritini-yesayya.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00767-neraverugurutu-lavi-yanniyu-paripurnamaye-kalamb.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00769-ni-madhilo-nanu-talachu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00717-mattivira-vattivira-mannuvura-mannavura-kayamu.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "00718-mayalokam-telusuko-idi-mayalokam-premalokam.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00720-mene-tekel-uparsin-mene-tekel.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00721-na-asha-nito-umdalani-na.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00723-na-hrudayamu-vimtaga-marenu-3.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00730-na-padamulaku-dipam-na-trovalaku.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00750-naloni-asha-jyoti-nive-na.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00751-nammavaddu-e-mayalokam-nammavaddu-idi.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "00752-nammi-manushyulanu-nivu-nammi-palumarlu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00755-nannu-vidipimchina-nannu-rakshimchina-nannu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00756-nanu-premimchina-yesayya-ninnu-nenu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00760-navanni-amgikarimchumi-deva-nannepudu-nivu.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "00779-ni-namamune-koniyadedanu-ni-sannidhilo.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00780-ni-prema-ni-karuna.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00781-ni-premaye-naku-chalu-nitodu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00782-ni-rajyam-sasvata-rajyam-ni.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00784-ni-vanti-varu-evaru-e.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00785-ni-vunte-chalu-ni-vumte.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "00595-chirudipamalle-veligimdi-lokam-aa-velugu-korake-.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00596-chalina-devudavu-yesu-chalina-devuda-nivu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00597-chirunagavu-momu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00599-chudalani-undi-yesuni-cheralani.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00601-dahamu-gonnavaralara.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00602-deyyama-daivama-deyyama-daivama-telusuko-nestama.json": {
+  "status": "rejected",
+  "reason": "no Telugu in the original"
+ },
+ "00634-devudu-mapakshamuna-umdaga-maku-virodi.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00635-devuni-premalo-konasaguma-o-sodara.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00637-devuni-sannidhilo-sampurna-samtosham-a.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00641-deyyama-daivama-telusuko-nestama-dehamlo.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00643-dhyanimchumu-divaratramu-devuni-dharma-sastramu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00645-e-parinaya-subavela-svagatam-nava.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00567-athi-thvaralo.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00569-aa-jali-premanu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00571-atmaparisuddatmuda.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00573-anamdame-prabu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00576-ikyaparachumayya-ee-vadhuvarulanu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00582-bangaram-tandri.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00663-guriyoddake-parugiduchumtini-kristuni-piluputo-b.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00669-jagela-yuvaka-ravela-tvaraga-niraka.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00670-janimche-nedu-divya-baludu-nijambu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00672-jaya-raju-yesu-jamda-krimda.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00673-jayahe.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "00674-jayahe-kristesu-prabuvuke-jayahe-raraju.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00617-chalu-naku-yesu-chalu-2.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00618-chalunayya-ni-krupa-naku-chalunayya.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00621-chirakala-snehituda-na-hrudayana-sannihituda.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00622-chirudipamalle-veligimdi-lokam-aa-velugu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00623-chirunagavu-momu-toda-bava-divya.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00624-chudalani-undi-yesuni-cheralani-umdi.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00709-mahimonnatudu-mahimanvitudu-maranam-gelchina-mru.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00710-manasunna-mamchideva-ni-manasunu-nakichchava.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00711-manavuda-karanajanmuda-ni-janmaku-karanamumdi.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00712-manishi-o-manishi-o-manishi.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00714-margam-satyam-jivam-kristesani-chateddam.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00716-matadu-na-prabuva-nato-matadu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00787-nijamaina-devudu-ennadu-viduvadu-cheyi.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00788-nikanna-lokana-na-kevarunnarayya-nakunna.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00789-nikkamura-lokamu-cheddadira-takshaname-meluko.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00790-nikunna-baramamta-prabupai-numchu-kalavara.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "00791-nimdu-manasuto-ninnu-premimtunu-na.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00792-nimgiloni-chamduruda-mamdagache-imduruda-nimdale.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00676-jayasiluda-ma-yesayya-jivimchu-vada.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00678-jivita-yatralo-nadu-guri-nivega.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00681-jo-lali-2-bala-yesu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00682-jo-lali-jo-mariyatanayuda-jo.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00685-kadavari-dinamulalo-ravali-ujjivam-yesuni.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00686-kalalo-aa-ratri-madilo-uhalalo.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00698-kirtaniyuda-na-shalemu-raja-vadhimpabadina.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00699-koti-kiranamula-kamtini-mimchina-samtivi.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00700-kristu-mahimake-ma-pranam-ma.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00701-kristu-nedu-puttene-rakshana-dorikene.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00702-kristu-virodhulapai-simhagarjana-krestavude-chey.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00704-madhuram-amaram-ni-prema-yesu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00540-naa-thandri-ninu-nenu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00541-chitikina-naa-jeevitham.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00542-phalamulu-kaligina-shishyuniga-nannu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00543-modhata-nee-sthithi-konchame-ainanu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00544-nannu-evvaru-kadilinchaleru.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00545-aashalanni-nee-meedhane.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00553-chatali-jagatilo-devuni-keerthi.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00556-yennaluga.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00558-anuragalu-kuripinche.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00560-nindu-manasutho-ninne-aaradhinchuta.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00561-laali-laali-laalamma-laali.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "00562-santhosham-naku-santhosham.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00646-e-sati-leni-yesuni-prema.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00652-ennelo-ennela-kannullo-ennela-yesayyanu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00653-ennirojulaguno-yesuni-suvarta-anni-desamulaku.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00654-enta-ascharyakarudo-yanna-emchalemu-ma.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00660-garbapalamu-devudichchu-bahumanam-kumarulu-yohov.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00661-giladulo-guggilamu-leda-ekkada-e.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00688-kalvari-svaramu-ni-korake-sumadhura.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00689-kalvarigiripai-siluva-baramu-barimchitiva-o.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00691-kalyaname-vaibogam-kamaniya-kamtula-dipam.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00693-kanipimchadaye-kanuchupulona-oka-asa-na.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00694-kannititho-padaalane-kadigina-naa-hrudhayamunu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00696-kanumuyaka-mumde-telusuko-o-nijanni.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00625-dahamu-gonnavaralara-dahamu-tirchukonamdi-devude.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00626-daivanirnayam-e-parinayam-ramaniyam-atimadhuram.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00628-deva-nikemittunu-e-dinuralanu-asahayuralanu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00630-devudamte-nikishtama-e-kashtanikaina-siddhama.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00631-devude-kanipimchi-nikemi-kavalani-adigite.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00632-devudevaru-devudevarani-samdeham-valadu-i.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00603-deva-nikemittunu-e-dinuralanu-asahayuralanu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00604-devudamte-nikishtama.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00608-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00609-emta-mamchi-devudavayya-2-chimta.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00611-gurileni-bratukidi-daricherchava-na-prabu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00834-premapanche-gunamenidani-prana-mich.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00835-premimchavu-nannu-poshimchavu-nakai-siluvapai.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00842-randi-yesu-pilichenu-atmarakshan-pomdaganu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00844-randi-yutsahimchi-padudumu-rakshana-durgamu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "00845-ravayya-yesunadha-ma-rakshana-margamu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00850-sageti-e-jiva-yatraloregeti-penu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00616-chalina-devudavu-yesu-chalina-devuda.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00732-na-prana-priyuda-na-yesu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00733-na-pranam-na-sarvam-amtaramgamuna.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00734-na-prananiki-pranam-nive-yesayya.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00735-na-priya-yesu-raja-aduko.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00736-na-priyudu-na-snehitudu-ati.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00883-stutiyu-ganatayu-mahima-niratamu-yesuke.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00888-talli-marachina-maruvani-deva-tamdri.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00890-tambura-nada-svaramulatoda-taguvidini-nenu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00891-tamdri-kumara-suddhatmuda-triyeka-devuda.json": {
+  "status": "fixed",
+  "stanzas": 1
+ },
+ "00892-tamdri-parama-tamdri-nive-ma.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00894-tejassambamdhulara-kristuni-dharimchukonudi-vija.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00853-sakala-sastralanu-adhigamimchina-ni-vakyame.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00856-sampurnamaina-ni-krupa-sasvatamainadi-ni.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00859-sarva-krupanidhiyagu-prabuva-sakala-charachara.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00863-sasvatamaina-premaku-patruni-chesi-nityudavagu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00864-satyamunaku-mem-sakshulamu-kristuku-memu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00865-sharonu-vanamulo-pusina-pushpamai-loyalalo.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00737-na-raja-na-deva-stotra.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00823-prabu-namam-na-asrayame-ayananu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00825-prabuni-stutimpa-parugidi-rava-pranutimpaganu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00829-prardhana-vinedi-pavanuda-prardhana-maku.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00831-prema-na-yesuni-prema-na.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00833-premaleni-lokama-prema-erugani-janama.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00866-siluva-yodhulam-siluva-yodhulam-kristu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00872-simhasanasinuda-yuda-gotrapu-simhama-davidu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00873-sri-yesu-nidu-namamamdu-arpimchina.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00878-stuti-aradhana-parisuddunake-jivadhipatiyaina-ye.json": {
+  "status": "fixed",
+  "stanzas": 1
+ },
+ "00879-stuti-naivedyam-amduko-yesayya-stuti.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00882-stutiki-patruda-stotrarhuda-ganata-nikenaya.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00896-teniyakamtenu-yesuni-namam-divyamadhuramaunu-niv.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "00898-tupanu-vichina-vela-alajadi-regina.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00899-udayimchinamdu-kristumdu-nemdu-udayimchinamdu-vi.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00900-uhaku-amdani-prema-na-yesu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00901-uttamudani-devuni-ruchi-chuchi-yesuni.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00905-viduvani-devuda-nive-ma-mamchi.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00918-yesu-devuni-aradhikulam-venuka-chudani.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00920-yesu-na-somtam-netiki-enatiki.json": {
+  "status": "fixed",
+  "stanzas": 0
+ },
+ "00921-yesu-ni-krupalo-nanu-rakshimchitiva.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00923-yesu-sami-niku-nenu-na.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00924-yesu-varta-chatudam-rammu-o.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00926-yesunadha-deva-vamdanalu-raja-vamdanalu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00400-idiye-samayam.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00402-entho-vintha-entho-chintha.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "00533-aagipodhu-na-pata.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00534-ananthamunundi-ananthamu-varaku.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00538-halleluya-sthotram.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00539-gurileni-payanam-dari-cherakunte.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00546-naa-balamu-nannu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00548-krutagnatato-samarpanato.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00549-pashushalalo-neevu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00550-satvikuda-deenulanu-karuninche.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00551-nee-bahu-balamu-ennadaina.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00552-arbhatamutho-pradhana-dootha.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00927-yesunandhe-rakshana-manaku.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "00930-yesuni-matalu-vimduva-ni-illu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00931-yogyudavo-yesu-prabo-nive-yogyudavo.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00933-yuddhamu-yehovade-4.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00934-yugamula-parvamtamu-stotramulakarhudu-jagamulane.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "01791-aaraadhanalanduko.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00907-viluvainadi-e-jivitam-anni-velala.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00908-vinayavidheyata-bakti-striki-alamkaram-yogyata.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "00910-yavvana-kraistava-janama-kristuni-premanu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00912-yehova-na-mora-lalichenu-dana.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "00916-yesayya-nanu-korukunna-nijasnehituda-ni.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00917-yese-satyam-yese-nityam-yese.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02440-paadedham-halleluah.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02441-mahima-mahima-mana.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02449-parishudha-janamutho.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02454-dhanaraasulunna-bhavanaalu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02459-sathuva-bhoomilo.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02460-sthuthi-cheyute-kaadhu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02370-mukti-dilaye-eeshu-naam.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02387-nammi-nammi.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02389-naa-jayamu-koorina-dheva.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02391-thallikunnadhaa-thandrikunnadhaa.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02403-aaraadhanalandhuko.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02410-rammu-rammu.json": {
+  "status": "fixed",
+  "stanzas": 1
+ },
+ "02422-edhenu-thotalo.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02427-endhukayya-yesaiah-nannu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02431-o-kristhavuda-sinikuda.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "02433-krupa-chetha-pilachinappude.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02437-nee-naamame-naa-gaanamu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02439-perupetti-pilachinaadu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02463-o-dheva-naa-yaatharalona.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02470-nee-maat-naa-paata.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02474-emtha-praema-yemtha-praema-yem.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02477-naa-kaalagathu-levvi-naa-chaet.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02478-naakaemi-kodhuva-naadhuaodumda.json": {
+  "status": "fixed",
+  "stanzas": 11
+ },
+ "02479-yehoavaa-naa-kaapari-lae-maemi.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "00396-jayaminkaa-manaderaa.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00397-yesuni-yandali-aanandame.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00398-yehovaa-maa-balamaa-neeve-kadha-naa-dheema.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00399-paraakramamu-gala-baladyuda.json": {
+  "status": "rejected",
+  "reason": "lost 47% of the Telugu"
+ },
+ "02481-yehoavaa-bhajana-chaeymdi-paap.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02482-koodikoni-yunnaamu-smgha-prabh.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02483-chooda-goaredha-dhaeva-mmdhira.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02484-gaanamuao-jaeyuaodu-sukeerthan.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02486-thrithvamai-nithyathvamuna-nae.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02487-vyoama-simhaasanasthuaoda-yurv.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02501-innaallu-maaku-saayamai-yee-mumdhukunu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02502-sarvaadhbhuthmbulan-sarvathrao-jaeyukarthan.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02503-maakartha-gatti-dhurgamu-nae-nammu-aayudhmbu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02504-krupagala-dhaevuni-sarvadhaa-nuthimchuaodi.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02505-nrupaa-vimoachakaa-prabhoo-vaelaadhi-noalla-nee.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02506-dhaevaa-dhivyaanmtha-prabhaava.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02507-shudhdhi-shudhdhi-shudhdhi-sarvashaktha-prabhu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02508-maelukonarae-mee-manmbula-mael.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02509-thellavaarina-vaelao-dheli-vom.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02510-shree-yaesu-karthanu-saevao-ja.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02511-sakala-jagajjaala-karthaa-bhak.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02512-vaeaodedha-naadhagu-vinathini.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02513-prabhuvaa-ninnaaraadhimpanu-ja.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02514-laechi-sthuthimpao-boonuaodi-l.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02515-sthoathramu-sthoathramu-oa-dha.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02516-vinavae-naa-vinathi-nivaedhana.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02517-neethigala-yehoavaa-sthuthi-me.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02518-dhaeva-neeku-sthoathramu-ee-ra.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00378-jayahe-jayahe-kristhesu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00380-cheddaamaa-poraatam.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00382-lokamunu-jayinchina.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "00383-nee-rakthame-paapa-parihaaram.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00384-veerudu-lechenu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "00385-visvasa-veerulam.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02488-etula-neeku-sthuthu-lonarthumu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02489-bhoommdalamu-dhaani-smpoornath.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02490-paraloakamuna-numdu-dhaeva-nee.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02491-rmdi-yuthsahimchi-paadudhamu-r.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02493-mahima-sarvoannathamaina-dhaiv.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "02494-paahiloaka-prabhoa-paahi-loaka.json": {
+  "status": "fixed",
+  "stanzas": 11
+ },
+ "02519-dhinamu-gathiyimchenu-dhinanaa.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "02520-aakaashmbu-bhoomiyu-amthata-cheekati-yaa.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02522-naa-yaesoo-aathma-sooryuaodaa-neev.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02523-prodhdhu-grumkuchunnadhi-sadhdh.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02524-raathriyayyena-nnedaobaayaku-dhaa.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02525-oa-rakshkaa-nee-dhivya-naamamu-aik.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02495-yaesu-naayakuaoda-yella-vaelal.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02496-maa-yaesu-kreesthu-neevae-mahi.json": {
+  "status": "fixed",
+  "stanzas": 11
+ },
+ "02497-oa-prabhumdaa-nin-nutheemchuchunnaamu-vinayamuth.json": {
+  "status": "fixed",
+  "stanzas": 10
+ },
+ "02498-dhahana-bali-neeku-nanishtamu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02499-yehoava-gadhdhe-mumdhata.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02500-sarvaeshaa-rammu-nee-sannidhi-kaamthi-nosmgu-maa.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02529-prabalamuganae-prasthuthimched.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02530-maranamun-jayimchi-laechenu-ma.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02531-song.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02532-kreesthu-prabhuni-prathyakshth.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02533-idhigoa-naa-shishyulaaraa-yeru.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02534-rmdu-vishvaasulaaraa-rmdu-vija.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02542-parama-prabhoa-yaesurakshkaa-d.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02543-maeghmbupai-nekki-maeluga-prab.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02544-koalaahalamugao-goorimithoaao.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02546-naadu-vachchinatlu-gaadhu-nae.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02547-mahimathoa-mana-yaesu-ihamunak.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02548-ayyoa-yidhi-dhuhkhamu-prabhu-t.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02549-oahoahoa-maa-yannalaaraa-yudhy.json": {
+  "status": "fixed",
+  "stanzas": 10
+ },
+ "02550-koapa-dhinamu-vachchunu-paapul.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02551-vachchunu-kreesthu-vachchunu-b.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02552-yaesu-vachchedi-vaelaaye-soadh.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02553-prabhu-punaraagamareethi-vinu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02554-parishudhdhaathma-nithyaathma.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02573-mammuao-praemao-joochi-dhaevua.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02574-shree-vinoadha-dhaayakmbu-dhae.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02575-yehoava-puri-punaadhi-yila-mah.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02576-yaesu-dhaehamu-smghamu-prabhu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02577-ella-soadharu-laikyatha-vasiyi.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02578-samakoorchumu-thmdri-kraisthav.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02567-parishudhdhaathmuaoda-dhaeva.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02568-rammu-rammu-parishudhdhaathmaa.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "02569-dhaevuao-dichchina-dhivyavaaky.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "02570-dhaevuni-grmdhamu-dhinadhinamu.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02571-prabhuvaa-pmpumaa-nee-shubhava.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02572-sukha-michchegadha-maaku-prabh.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02561-dhaivaathmaa-dhigumu-dhaasula.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02562-aathmaa-nadupu-sa-thyamu-loani.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02563-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02564-song.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02565-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02566-parishudhdhaathmanu-goarumu-je.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02579-prabhukreesthu-yaesu-praemimch.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02580-smgha-shirasai-velayu-prabhuva.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02581-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02582-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02583-ghana-yehoavaa-nee-gudaarm-bun.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02584-emthoa-sumdharamainavi-dhara-g.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02535-sudhathulaara-mee-richchoata-n.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02536-vijaymbu-vijaymbu-vijaymbu-maa.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02537-halelooya-yani-paaduaodee-sama.json": {
+  "status": "fixed",
+  "stanzas": 9
+ },
+ "02538-yaesu-laechenu-aadhivaaramuna.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02540-yaesu-punaruththaanamaayenu-ch.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02541-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02555-parishudhdhaathmuaoda-prabhuva.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02556-parishudhdhaathma-prabhuni-var.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02557-parishudhdhaathmaa-paavuramaa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02558-rammu-parishudhdhaathma-dhaevu.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02559-parishudhdhaathmuniao-bomdhumu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02560-vinarae-yapoasthalula-kaaryamu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02604-sthoathraarpana-narpimthamu-ja.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02605-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02606-iaoka-naemi-gathi-yunnadhi-maa.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02607-rmdi-yaesuni-yodhdhakuao-priyu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02608-yaesu-naatha-kathaa-sudhaa-ras.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02609-raare-yaesuni-joothamu-koarika.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02585-parishudhdhaathmuaoda-lemmu-n.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02586-aduguchunnaa-moa-dhaeva-kadu-d.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "02587-dheevenala-nidu-dhaevaa-needhu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02588-vinarae-narulaaraa-manamula-va.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02589-dhaevaa-shishuvula-dhechchith.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02590-yae-sosmge-goppa-yaajnynu-than.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02597-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02598-oa-dhayaanilayaa-prabhuvaa-m.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02599-jeevaahaaramu-rammu-chirajeeva.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02600-dhaevaa-dheevimchu-mippudu-dhe.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02601-chaeri-bhujiyimpudeevimdhu-yae.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02603-mana-yaesu-maranasmaa-ranavimd.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02630-idhi-yehoavaa-kaligimchina-dhi.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02631-sukshaema-shubhakaala-vishraamthi-dhin.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02632-thraahi-maam-kreesthu-naadha-d.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02633-sharanu-naa-yaesu-prabhuvaa-ne.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02634-raavayya-yaesunaadhaa-maa-raks.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02635-ae-mukhaambuthoada-vaththu-yae.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02624-nijamugaaao-parishudhdhu-dokao.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02625-paapulaku-sakhumdu-mana-praapu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02626-yaesunae-saevimparmdi-moasapoa.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02627-mana-modhati-thallidhmdrulal-m.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02628-nammare-narulaara-yaesuni-samm.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02629-yaesu-kreesthuni-golva-ranna-y.json": {
+  "status": "fixed",
+  "stanzas": 9
+ },
+ "02591-aacharimchuchununnaamu-aa-chmd.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02592-rmdi-rmdi-suvaarthaboadha-vina.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02593-manasa-yaathma-thaejarilluma.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02594-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02595-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02596-song.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02637-nammithi-nayyaa-yaesayyaa-nee.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02638-dhaeva-neevu-nannu-ao-barishoa.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "02639-paapa-pashchaaththaapa-momdhan.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02640-paapini-krupa-joopavayyaa-dhaa.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "02641-khmdimpavalenu-dhurgunamulu-kh.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02642-manasaa-vinavaemae-kreesthunia.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02610-raaroa-janulaaraa-vaegamuao-go.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02611-yaesuni-sucharitha-memtha-pona.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02612-poayeaoga-poayeaoga-kaalamu-ve.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02613-vinarae-yaesukreesthu-boadha-m.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02614-rmdi-maanavulaaraa-rakshkunina.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02615-paapininaenani-prabhupadhamula.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02657-yaesuaodu-raaaogan-jaesina-dho.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02659-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02660-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02663-parama-raajyamunaku-narulu-thi.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "02664-song.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02665-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02617-emdhuku-marachithivi-yaesuni-p.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02618-paapakoopamunmdhu-padi-munigiy.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02619-dhaaruna-magu-marana-vaaridhi.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02621-song.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02622-song.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02623-dharaniloani-dhanamu-lella-dha.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02643-dhaeva-dheenapaapini-oa-paava.json": {
+  "status": "fixed",
+  "stanzas": 12
+ },
+ "02645-pashchaaththaapamu-bomdhumu-je.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02646-song.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02647-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02648-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02650-dhikkulaeni-vaaaodanoa-prabhoa.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02651-paapamu-dhalaochu-sumee-pashch.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02652-paapinayyaa-naeao-baapi-nayyaa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02653-erimgi-yeriaogi-chedipoathivi.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02654-yaesu-vibhuniao-dhalaochi-madh.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02655-aadharimpumu-yaesuvaa-ni-nnaas.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02656-thana-yakramamulaku-kshmaa-pan.json": {
+  "status": "fixed",
+  "stanzas": 11
+ },
+ "02672-yaesuprabhukai-saakshulevareva.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02673-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02674-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02675-smthoashimpare-priyulaaraa-yae.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02676-naa-yaesu-naa-yaathma-balamaa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02677-nee-kanna-niaoka-vaerae-vaelpulu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02666-aanmdha-magu-mukthi-yae-naa-mm.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02667-naa-kimtha-proathsaahaa-nmdhmb.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02668-itharula-saakshyamu-lemthoa-ga.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02669-siluva-sainikulaaraa-niluvmdi.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02670-veerula-mayyaa-jaya-veerula-ma.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02671-yaesu-kreesthu-mathasthuao-dan.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02703-oa-maa-thmdri-needhu-naamamu-n.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02704-ninnu-naenu-viduvanu-dhaeva-ne.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02705-vina-rammu-yaesu-naadhuaoda-na.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02707-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02708-song.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02709-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02678-velugunu-rakshna-karthayunagun.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02679-naenu-kreesthu-prabhuni-jaeri.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02680-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02681-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02682-saakshya-michchedha-svaami-yae.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02683-naa-yaathma-lemmu-sidhdhamu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02710-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02711-dhaasula-praarthana-dhappaka-y.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02712-parama-nmdhumdedu-maa-parama-j.json": {
+  "status": "fixed",
+  "stanzas": 1
+ },
+ "02713-aalimchu-dhaevaa-naa-manavula.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02714-dhaevaa-sahaayamu-nimmaa-jeevm.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02716-karunaapeetamu-jaerarae-dhaevu.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02690-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02691-vadhdhu-manasa-budhdhi-kurucha.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02692-yaesuni-korakai-yila-jeevimche.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "02693-vaare-mmchi-kraisthavulu-gadhaa-yee-l.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02694-yaesuni-saevimpa-dhayachaesith.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02695-aedhi-naa-vishraamthi-yee-loak.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02731-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02732-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02733-song.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02734-emdhu-kae-chimthimchedhavu-naa.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02735-manamee-manumee-manasa-nee-van.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "02737-ennadu-nedaobaaya-nae-koladhi.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02684-laelemmu-kraisthavuaodaa-neelo.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02685-aela-chimtha-yaela-vmtha-yicha.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02686-dhaevaa-vembadimchithi-nee-na.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02687-bhayamaela-kraisthavumdaa-neev.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02688-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02689-painamai-yunnaa-nayyaa-nee-paa.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02750-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02751-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02752-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02753-komdala-thattu-naeao-goarketho.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02754-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02755-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02723-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02724-nee-charanamulae-nammithi-nee.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "02725-dhinadhinamuku-dhikku-neevae-m.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02726-paadudhunu-kreesthu-paera-padh.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02727-jadiyakumu-nae-nae-yunnaanani.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02729-manasu-nichchi-vinumaa-madhi-n.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02717-yaesu-paraloaka-naayaka-suvi-s.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02718-naa-yaesu-naadhaa-nanuao-jooda.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02719-vishvaasamuthoa-vaeaodedi-vaar.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02720-vishvaasa-phlithamulu-vishadha.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02721-smdhiyamu-veedavae-naa-manasaa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02722-vishvaasamae-vijayamu-vinu-pri.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02738-jeevamaa-chimthimchakumdu-ninn.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02739-bhayamu-nomdhakumu-kraisthava.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02740-yaesunaadhuni-saeva-yipudu-maa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02741-veruvanaela-manasaa-kreesthuni.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02742-oa-dhaeva-naenu-nee-dhaapuna-n.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02743-yaesu-karuna-yidhiyae-maa-shar.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02696-visukadhae-praanmbu-vijnyaani-kilanu-posagu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02697-imdhulaedhu-niluchu-pattanm-kr.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02698-loakamu-vaarella-loakuvao-jooc.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02699-ghanamaina-kreesthu-krupao-gan.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02700-manasaanmdhamuao-bomdhuta-kann.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02702-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02744-sharanuao-jochchithi-yaesunaad.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02745-yehoava-naa-kaapari-yiaokao-go.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02746-sarvashakthuaoda-nirmalaathmua.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02747-sharanu-sharanu-yaesu-dhaevaa.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02748-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02749-naa-rakshkuni-vembadimthu-nannitan.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02756-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02757-neevu-thoadai-yunnaojaalu-yaes.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02758-neevae-naa-priyuaodavu-yaesu-p.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02759-oa-dhaevaa-nannuao-broava-need.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02760-naadha-yaesu-naadha-kreesthu-n.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02761-naakai-cheelina-yuga-yugamula.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02774-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02775-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02776-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02777-shrumgaara-dhvaarmbu-maa-yaesu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02778-dhaevadhaevuni-goppa-puramu-pa.json": {
+  "status": "fixed",
+  "stanzas": 12
+ },
+ "02779-yehoavaa-maa-thmdri-gaaaoda-ya.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02762-mukthiao-ganarae-mee-manmbula.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02763-yaesoo-naa-yaathma-rakshkumda.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02764-yaesu-naamm-beththi-paadudhama.json": {
+  "status": "fixed",
+  "stanzas": 10
+ },
+ "02765-yaesu-bhakthavarulathoa-ni-vaa.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02766-maa-yaesu-kreesthuni-maruaogu.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02767-yaesunu-choochuta-yennatikoa-p.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02780-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02781-goppa-dhaeva-naaku-thmdrivi-ya.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02782-ghanuaodaina-yehoavaa-gadhdhe.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02783-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02784-parimapuri-kalpabhooja-niratha.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02785-emtha-praemimchenoa-dhaevuaodu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02793-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02794-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02796-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02797-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02798-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02799-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02768-vaechiyumtini-nee-thattu-yaesu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02769-jeevamu-poavagan-dhaevuni-sann.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02770-nidhurao-boayinatti-nee-paadha.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02771-maranamunaku-vijaya-maedhi-mar.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02772-laechu-dhinamu-vachchunu-mruth.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "02773-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02808-smthasmbuna-vaththu-sarvaeshva.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02810-karunaayuthm-baukaaryamulu-kan.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02811-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02812-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02813-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02815-song.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02786-dhaevuni-goppa-praemanu-kalmbu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02787-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02788-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02789-rammu-shree-yaesoo-sammathi-na.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02790-vimala-hrudhaya-mimmu-vidhithm.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02791-smpoorna-parishudhdhi-nimmu-sa.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02802-shree-yehoavaa-nee-kosmgedha-s.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02803-jyoathiga-mamu-jaeyumoa-dhaeva.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02804-naenu-nee-vaaaodanu-dhaevaa-ni.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02805-yaesu-naa-siluva-neththi-yipp.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02806-srushtipithaa-sarvoannathaa-sa.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02807-konumu-maa-hrudhaymbu-lanu-nee.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "02816-shree-yaesuni-vaeaodu-manasaa.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02817-prabhu-saeva-kidhiyae-samaymbu.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02818-evaru-kreesthu-vaipu-nunnaaru.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02819-chaatuaodi-shubhavaarthanu-boa.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02820-aathmalanu-smpaadhimpao-nagu-a.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02821-jayaprabhu-yaesune-vembadimchu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02837-mahima-mahima-mahima-yanuchu-s.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02838-paramaedhaesha-midhigoa-nootha.json": {
+  "status": "fixed",
+  "stanzas": 9
+ },
+ "02839-vimdhu-parammdhuaobemdli-vimdh.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02840-chakkani-paraloaka-smbmdhulath.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02863-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02864-hallelooya-nee-kallelooya-chal.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02865-aa-chinna-vaariloa-naenumdi-yu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02866-yaesuboali-mmchibudhdhi-yemthoa-prae.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02867-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02868-ae-dhaeshasthulamaina-ae-jaath.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02881-raajaa-naa-dhaevaa-nannu-gaava.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02882-yaesunaadhaa-raaraaraa-maa-jee.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02883-pilla-naina-nannuao-joodumee-p.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02884-dhaeva-kaavavae-naedu-mammulan.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02885-dhaevakaavavae-raathri-mammula.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02886-ghana-bhava-dhupakruthu-lanu-m.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02869-kalvariyunnmtha-dhoorm-vellenu.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02870-chinnabiddala-vinnapamula-nenn.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02871-kanyaa-garbhamuna-butti-karuna.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02872-baala-yaesuni-joodarae-karu-na.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02873-chinna-paraloakamanna-mana-hrudhaym-anna.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02874-song.json": {
+  "status": "fixed",
+  "stanzas": 1
+ },
+ "02843-yaesukreesthuni-dhaasulaaraa-m.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02844-yehoava-ymdhu-bhakthi-bahuga-g.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02845-naenunu-naa-yimtivaarunu-neeth.json": {
+  "status": "fixed",
+  "stanzas": 9
+ },
+ "02846-rammu-rammu-maa-yimtiki-thmdre.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02847-emthoa-ramymbainadhi-bhoothala.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02849-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02850-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02851-maelukoni-yika-laechi-yaesuni.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02852-dhaevaadhi-dhaevaathmajaa-mamm.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02853-bhaartha-kraisthava-yuvajanula.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02854-dhaaniyaelvale-saahasimchudi-y.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02855-yaesuvale-ila-naenumdedhanu-ya.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02857-baalakaa-nee-varthanamu-gaa-pa.json": {
+  "status": "fixed",
+  "stanzas": 9
+ },
+ "02858-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02859-chaethuleththi-vmdhanamulu-cha.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02860-okka-manuju-derushlaemunumdi-y.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02861-vaaru-dhanyu-laina-pillalu-bho.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02862-anukarimchedha-nae-nanudhinamu.json": {
+  "status": "fixed",
+  "stanzas": 9
+ },
+ "02887-vijayageethamul-paadarae-krees.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02888-yaesu-bhajanayae-manalanu-aa-s.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02889-choodumu-gethsemanae-thoataloa.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02891-jaya-vijayamani-paadudhamaa-ja.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02894-dhayachaeyumu-paapakshmaa-dhay.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02900-dhorakuthaavuraa-sahoadharaa.json": {
+  "status": "fixed",
+  "stanzas": 10
+ },
+ "02875-aasheervaadhamu-neeyuma-maa-pa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02876-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02877-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02878-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02879-jaym-jaym-hallelooya-jaym-jaya.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02880-baalakula-vinnapamu-laalimchu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02902-nammavadhdhu-nammavadhdhu-ee-m.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02903-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02905-naa-nimiththamaayana-mahini-sh.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02906-aanmdhm-dhinadhinm-aanmdhm-yaesuraaju-naa.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02908-naa-priya-yaesunipai-aanukoni.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02909-naa-smkatmbulanniyu-theeripoaye-smhaararadhootha.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02914-prajalamae-vaegame-raare-nijad.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02915-prabhu-praema-tholikaeka-hrudh.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02916-prabhu-yaesuni-vadhanamuloa-na.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02917-idhigoa-nee-raaju-vachchuchumd.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02919-praemaamruththadhaaralu-chimdh.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02921-manulu-maanikyamulunnaa-maedam.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02822-bhaaramainadhi-saeva-maranamu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02823-yehoavayae-naa-mahaadhaevuaoda.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02824-vaaru-bhaagyavmthu-laudhuru-bh.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02825-chaalunu-loaka-bhoagamulu-chaa.json": {
+  "status": "fixed",
+  "stanzas": 9
+ },
+ "02826-padharae-soadharulaara-pammapu.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02828-poapoavae-yoa-loakamaa-chaaliaokaojaalu-nee.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02932-evani-athikramamulu-mannimpaba.json": {
+  "status": "fixed",
+  "stanzas": 9
+ },
+ "02936-kreesthaesu-shakthinaamamellaru-keer.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02937-song.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02938-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02939-yaesu-naamaamruthamu-kannanu-v.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02940-yaesu-naama-memthoa-madhurm-ya.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02922-madhurm-madhurm-madhurm-yaesun.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02925-rammanuchunnaa-daesuraaju-rmdi.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02926-rammu-nee-tharunamidhae-pilac.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02929-raeyimpagalu-nee-padhasaevae-y.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02930-ee-jeevitha-eetha-eedhalaekunnaanu-naa.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02931-ella-vaelalmdhu-kashtalammdhu-vallabhumdaa-yaesu.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02941-yaesu-naamamae-paavanamu-maaku.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02942-yaesae-bhagavannaamm-bhajimpa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02944-varanaamamae-sharanamu-sharana.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02945-shree-yaesu-dhivya-naamasmaran.json": {
+  "status": "fixed",
+  "stanzas": 12
+ },
+ "02946-raaraajagu-yaesuninaamm-ramymb.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02947-dhaevuni-praema-yidhigoa-janul.json": {
+  "status": "fixed",
+  "stanzas": 15
+ },
+ "02960-yaesukreesthu-prabhuvaa-maemu.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02962-yaesukreesthu-dhorike-naeni-ya.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02963-yaesuni-praemanu-naemaarakanu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02964-yaesuvmti-priya-bmdhuaodu-naak.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02965-aemi-laedhu-sumee-jagamuloa-ya.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02966-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02954-naerchukonarae-yaesuvaaduka-la.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02955-evaru-bhaagyavmthu-laudhu-rava.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02956-vinarayya-narulaaraa-vishvaasa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02957-aelaativaaaodoa-kaani-yee-yaes.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02958-yaesu-vasthrapu-chemgunu-maath.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02959-vimthagala-maa-yaesu-praemanu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02982-aidhu-gaayamu-lomdhinaavaa-naa.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02984-yaesunaadhuni-siluvapaini-vaes.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02985-ennaodu-gaamchedhamoa-yaesuni.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02986-aa-ymdhakaarmpu-raeyiloa-krees.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02988-ayyoa-naadhagu-ghoarapaapamu-g.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02990-sirulella-vrudha-kaaaogao-pari.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02967-annaa-mana-yaesu-prabhuni-kann.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02968-idugoa-gorrelakaapari-soadharu.json": {
+  "status": "fixed",
+  "stanzas": 9
+ },
+ "02969-eeyanaa-yaesu-rakshkudu-thana.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02971-yaesuraaju-needhu-praema-nemch.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02972-oa-vimtha-naa-rakshkuaodaa-na.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02973-parama-rakshka-yaesu-prabhuvaa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02948-seeyoanukanyaa-smbhramapaduchu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02949-dhraakshaavallini-naenu-dhraak.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02950-idhigoa-shubhadha-rakshnamu-dh.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02951-vinare-manujulaara-kreesthuao.json": {
+  "status": "fixed",
+  "stanzas": 16
+ },
+ "02952-amdhamaina-kreesthu-katha-mee.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02953-kanare-yaesuni-prathyakshmbu-a.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02974-paapi-kaashrayuaodavu-neevae-y.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02975-yaesu-shishyulaku-neruka-jaesi.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02977-paapulayeda-kree-sthuni-priya.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02978-choodarae-kreesthuni-joodarae.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02979-vmdhanm-neekae-vmdhanm-parishu.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02980-aahaa-yemthati-shramalao-bomdh.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02991-chaediyalu-gumpugoodiri-kreest.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "02992-kalavari-mettapai-kalavara-mettidho-siluvetuloar.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02993-kalvari-girijaeru-manasaa-silv.json": {
+  "status": "fixed",
+  "stanzas": 9
+ },
+ "02994-emdhuaoboayedhavoa-haa-prabhur.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "02995-siluvaloa-vraelaadu-prabhuvae.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "02996-aemi-naermbulaeka-yaa-maranast.json": {
+  "status": "fixed",
+  "stanzas": 14
+ },
+ "03038-neevu-naa-dhaevumdavai-yu-nnaa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03039-mmgalamuaobaadare-kreesthunaku.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03041-vmdhanamae-yaesunaku-varusugun.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03042-mmgalmbani-paadarae-kreesthuku.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03043-kreesthuyaesuku-mmgalm-maa-kee.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03044-mmgalamu-kreesthunaku-mahitha.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03003-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03006-raajulaku-raajaina-yee-mana-vi.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03007-emthoa-dhuhkhamuao-bomdhithiva.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03008-siluvanu-moasithivaa-naa-korak.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03009-aemaashcharyamu-priyulaaraa-kr.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03010-apu-darchakaadhu-luppomgiri-pr.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03011-shree-yaesunae-bhajimchu-naa-m.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03012-yaesuni-bhajiyimpavae-manasaa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03014-yaesubhajanasaeyavae-dhoasapum.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03016-idhigoa-neethibhaaskarumdu-udh.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03017-chaerikolvuaodi-kreesthuni-paa.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03018-aemi-naenu-samarpimthu-yaesoo.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02997-naa-yanna-raaaogadhae-oa-yaesu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02998-karunasaagara-veevaekaavaa-maranamomdha-sil.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "02999-emtha-goppa-bobba-puttenu-dhaa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03000-harshmae-yemthoa-harshmae-kree.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03001-naa-korakuao-chanipoayi-naaaod.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03002-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03019-sarvadhaeshamulaaraa-shree-yae.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03020-sarva-loaka-sm-poojyaa-namoanamoa-sarv.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03021-namoa-yaesunaadhaa-naadhaa-nam.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03022-vmdhanamayyaa-yaesu-neeku-vmdh.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03023-kreesthunaayaka-nee-dhayaalini.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03024-naa-rakshkaa-yaesunaadha-immaa.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03025-yaesu-padhaambuja-sharanm-nara.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03026-dhaevaathma-jayoa-dheenadhayaa.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03028-yaesu-kreesthuaodu-nithya-dhae.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03029-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03030-dhaeva-kumaaraa-dheenoapakaara.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03031-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03036-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03037-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03045-prabhu-maargamulaymdhe-bhayabh.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03046-koarukoni-yunnaamu-yaesu-prabh.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03047-kaanaapurmbuloaao-gadu-vimthag.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03048-maanavula-maelu-koraku-jnyaani.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02841-dhaevara-broavumaa-dheena-kutu.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02842-prabhuvugan-prathishtimparae-g.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03032-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03033-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "03034-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "03035-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "03050-song.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "03051-song.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03052-dhaevaa-maa-gruhmbunu-sadhayu.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03053-dheevimchu-dhaevaa-nee-biddala.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03054-ilao-puchchukonuta-kanna-nemth.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03055-iyyudi-meekiyyabadunani-iyyaga.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03056-dhashamu-bhaagamu-lella-dhaevu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03057-sthuthiyu-mahimayu-neeke-kshit.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03058-dhaathruthvamunu-galigi-perugu.json": {
+  "status": "fixed",
+  "stanzas": 10
+ },
+ "03059-ichchunatti-vidhamu-theliymdi.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03061-song.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03062-parama-thmdri-ninnu-mae-mee-pa.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03135-mahima-noppu-janaka-neeku-mahi.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "03136-kaluguaogaaka-dhaevaa-kaluguao.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03137-dheevenathoa-selavimmu-karthaa.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "03139-maa-dhaevunakunu-sthoathamulu-mahimayu.json": {
+  "status": "fixed",
+  "stanzas": 0
+ },
+ "03141-song.json": {
+  "status": "fixed",
+  "stanzas": 0
+ },
+ "03142-song.json": {
+  "status": "fixed",
+  "stanzas": 0
+ },
+ "03096-nee-samaadhaanamu-dhaasuni-kip.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03101-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03102-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03103-song.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03104-vachchigaabriyaelu-palkenu-mar.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03106-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03129-yehoava-ninnu-aasheervadhimchi-kaa-paa.json": {
+  "status": "fixed",
+  "stanzas": 0
+ },
+ "03130-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03131-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03132-song.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03133-song.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03134-song.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03123-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03124-dhaeshasaevaojaesi-dhaeva-dhaa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03125-song.json": {
+  "status": "fixed",
+  "stanzas": 0
+ },
+ "03126-prabhuvaa-mammunudheevimchi-pm.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03127-song.json": {
+  "status": "fixed",
+  "stanzas": 0
+ },
+ "03128-song.json": {
+  "status": "fixed",
+  "stanzas": 0
+ },
+ "03115-parama-vaidhyuaoda-bhaaratheey.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03116-dhyaanimpa-nae-chiththamaa-var.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03118-ghanadhaeva-priya-thanayumdaa.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03120-dhaivapraema-manalanepudu-bmdh.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03121-sthoathramu-saeyarae-soadharul.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03122-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02832-song.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02833-emthoa-shrumgaara-mainadhi-yae.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "02834-paramuloana-baramuloanao-paapa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03064-aedhi-sakhuda-yaedhi-nee-madhi.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03065-saarvajagathiki-smrakshkudu-sv.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03066-koaaotha-yajamaanumda-sthoathr.json": {
+  "status": "fixed",
+  "stanzas": 11
+ },
+ "03073-sukhulaaraa-smghmpu-badi-smbhmbunaku-naarumadi.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03074-mana-dhaeshmbuna-kreesthu-suva.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03075-paraloaka-bhooloakmbulakunu-br.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03076-thryaeka-dhaevuaoda-yehoava-dh.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03077-song.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03078-yaesuva-jayamuthoa-yerushlaemu.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03067-nuthi-saeyanu-laevae-yoa-manas.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03068-yehoava-sannidhini-nee-sthoath.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03069-sthuthiyimthumoa-prabhuvaa-shu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03070-ee-gudiymdhu-pravaeshimpan-yae.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03071-yehoavaa-nee-mahima-sthavamu-y.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03072-aalimchu-maa-praarthana-maa-ra.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03143-amdhudaa-raavaa-aramarayaela-adugoanayya-ayyoa.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03145-emthadhooramu-moayimchedharu-svaami-kimtha-siluv.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03147-aahaaaaamthyatheerpu-nmdh.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03150-katina-hrudhayamaa-karugava-dh.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03151-kalvariloani-shraeshtudaa-karu.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03152-kummaree-oa-kummaree-jagadhuth.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "02829-sakalaemdhriyamulaaraa-chaala.json": {
+  "status": "fixed",
+  "stanzas": 9
+ },
+ "02830-aedhiyadhi-yaedhiyadhi-yaedhir.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "02831-svmthathra-raajym-prabhuraajym.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03164-reference-aapathkaalammdhu-yehoavaa-neekuththara.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03165-reference-neevu-ishraayaelu-chaeyu-sthoathramula.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03166-reference-yehoavaa-naa-kaapari-naaku.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03167-reference-naa-praanamunaku-aayana-saedhadheerchu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03169-reference-yehoavaa-naa-kaapari-naaku.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03171-reference-sajeevula-dhaeshamuna-naenu-yehoavaa.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03185-reference-ee-dhaevudu-sadhaakaalamu-manaku.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03186-reference-vaadu-kullu-choodaka-nithyamu.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03187-reference-dhaevaa-nee-krupachoppuna-nannu.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03188-reference-dhaevaa-nee-krupachoppuna-nannu.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03189-reference-dhaevaa-naa-dhaevudavu-neevae.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03190-reference-sarvaloakanivaasulaaraa-dhaevunigoorch.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03079-yaesuprabhuvu-yerooshlaemu-pra.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03080-manoavilasithmbau-dhinmbu-mahi.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03081-siluvaekadhaa-chimthasadhaamah.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03084-jnyaanu-laaraadhimchiri-yaesu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03085-geethamulu-paaduaodee-yaesunik.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03086-raare-choothumu-raajasuthudee.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03087-yaesunaadhuni-yoadhulmdharu-va.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03090-choodarae-maaraeaodu-putti-naa.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03092-laalilaali-laali-laalamma-laal.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03093-raare-gollavaaralaaraa-naeti-r.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "03094-ishraayaeleeyula-dhaevumdae-ye.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03095-naadhu-praanamu-prabhuni-migul.json": {
+  "status": "fixed",
+  "stanzas": 9
+ },
+ "03211-reference-janasamaajamuloa-vaaraayananu-ghanapar.json": {
+  "status": "fixed",
+  "stanzas": 9
+ },
+ "03212-reference-dhaevaa-naa-hrudhayamu-nibbaramugaa.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03213-reference-yehoavaanu-sthuthimchudi-yathaarthavmt.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03214-reference-naenu-nee-aajnylaymdhu-nammika.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03215-reference-naa-shramaloa-naenu-yehoavaaku.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03217-reference-yehoavaa-mmdhiramunaku-velludhamani-ja.json": {
+  "status": "fixed",
+  "stanzas": 11
+ },
+ "03153-kraisthavakarshka-kadhiliraavayyaa-kannulu-thera.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03154-aanmdhamaanmdha-maayenu-naadhu.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03155-kraisthavumdaa-kadhiliraavayya.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03157-gaganamu-cheelchukoni-yaesu-gh.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03161-reference-yehoavaa-maa-prabhuvaa-aakaashamulaloa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03162-reference-yehoavaa-naa-svaasthyabhaagamu-naa.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03204-reference-yehoavaanu-sthuthimchuta-mmchidhi-maho.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03205-reference-rmdi-yehoavaanugoorchi-uthsaahadhvani-.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03206-reference-yehoavaa-meedha-paadudi-aayana.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03207-reference-yehoavaa-meedha-paadudi-aayana.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03208-reference-yehoavaa-dhayaaludu-aayana-krupa.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03210-reference-naa-praanamaa-yehoavaanu-sannuthimchum.json": {
+  "status": "fixed",
+  "stanzas": 10
+ },
+ "03179-reference-naashanakaramaina-gumtaloanumdiyu-jiga.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03180-reference-dhuppi-neetivaagulakoraku-aashapadunat.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03181-reference-nee-velugunu-nee-sathyamunu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03182-reference-ee-raaju-nee-prabhuvu.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03183-reference-dhaevudu-manaku-aashrayamunu-dhurgamun.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03184-reference-sarvajanulaaraa-chappatlu-kottudi-jaya.json": {
+  "status": "fixed",
+  "stanzas": 10
+ },
+ "03107-udhayinchinaadu-kristhudu-nedu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "03108-koniyaada-dharame-ninnu-koama.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03110-putte-yaesuaodu-naeaodu-manaku.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03111-raeaodu-messeeya-janmimchenu-s.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03113-emthoa-ghanamaguvaaralu-parish.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03114-madhyapaana-priyulu-gaakumdi-p.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03197-reference-nee-mmdhiramunmdhu-nivasimchuvaaru-dha.json": {
+  "status": "fixed",
+  "stanzas": 10
+ },
+ "03198-reference-krupaasathyamulu-kalisikoninavi-neethi.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03199-reference-parvathamulu-puttakamunupu-bhoomini-lo.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03200-reference-maaku-jnyaanahrudhayamu-kalugunatlugaa.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03201-reference-aayanae-naaku-aashrayamu-naa.json": {
+  "status": "fixed",
+  "stanzas": 10
+ },
+ "03203-reference-aayana-thana-rekkalathoa-ninnu.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03225-reference-yehoavaa-neevu-nannu-parishoadhimchi.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03226-reference-yehoavaa-amdhariki-upakaari-aayana.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03227-reference-yehoavaa-amdhariki-upakaari-aayana.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03229-reference-naa-jeevithakaalammthayu-naenu-yehoava.json": {
+  "status": "fixed",
+  "stanzas": 11
+ },
+ "03231-reference-yauvanulu-kanyalu-vrudhdhulu-baaluru.json": {
+  "status": "fixed",
+  "stanzas": 11
+ },
+ "03232-reference-yauvanulu-kanyalu-vrudhdhulu-baaluru.json": {
+  "status": "fixed",
+  "stanzas": 11
+ },
+ "03235-reference-yehoavaanu-sthuthimchudi-yehoavaaku-kr.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03238-reference-sooryachmdhrulaaraa-aayananu-sthuthimc.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03239-seeyoanuku-thirigi-prabhuvu-vaarini-rappimchinap.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03240-reference-nithyudagu-thmdri-yeshyaa-isaiah.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03241-reference-mana-dhaevuni-mmdhirapu-aavaranamulalo.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "03243-reference-naenu-siluva-vaeyabadina-yaesukreesthu.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03244-reference-dhaevuniymdhu-bhayabhakthulu-galavaara.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03247-reference-naa-prabhuvaa-naa-dhaevaa.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03249-reference-aayana-dhanavmthudai-yumdiyu-meeru.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03251-reference-yugayugamulu-jeevimchuchunna-vaaniki-m.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03252-reference-yugayugamulu-jeevimchuchunna-vaaniki-m.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03253-reference-naenu-koarukonnavaadu-ithadae-neevu.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03262-reference-saagilapadi-aayananu-poojimchiri-matht.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03263-reference-aashagala-praanamunu-aayana-thrupthipa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03264-reference-mana-prabhuvagu-yaesukreesthu-thmdriya.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03265-reference-nee-paeru-poayabadina-parimala.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03266-reference-mariyu-sphatikamuvale-merayunatti-jeev.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03267-reference-dhaevudu-karunaasmpannudai-yumdi-manam.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03191-reference-aayana-thana-mukhakaamthi-maameedha.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03192-reference-athani-paeru-nithyamu-niluchunu.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03193-reference-yoodhaaloa-dhaevudu-prasidhdhudu-ishra.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03194-reference-naenu-elugeththi-dhaevuniki-morrapettu.json": {
+  "status": "fixed",
+  "stanzas": 11
+ },
+ "03195-reference-manaku-balamaiyunna-dhaevuniki-aanmdha.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03196-reference-nee-mmdhiramunmdhu-nivasimchuvaaru-dha.json": {
+  "status": "fixed",
+  "stanzas": 10
+ },
+ "03254-reference-yehoavaanu-gaanamu-chaeyudi-nirgamakaa.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03255-reference-idhigoa-eeyana-naa-priyakumaarudu.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03257-reference-sakalapraanulu-yehoavaanu-sthuthimchud.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03258-reference-saagilapadi-aayananu-poojimchiri.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03259-reference-naa-priyudu-dhavalavarnudu-rathnavarnu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03260-reference-nee-raaju-neethiparudunu-rakshnagalava.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03218-reference-yehoavaa-mmdhiramunaku-velludhamani-ja.json": {
+  "status": "fixed",
+  "stanzas": 11
+ },
+ "03219-reference-yehoavaaymdhu-bhayabhakthulu-kaligi-aa.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03220-reference-yehoavaa-neevu-dhoashmulanu-kanipetti.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03221-reference-sahoadharulu-aikyatha-kaligi-nivasimch.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03222-reference-yehoavaa-dhayaaludu-yehoavaanu-sthuthi.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03223-reference-yehoavaa-dhayaaludu-aayanaku-kruthajny.json": {
+  "status": "fixed",
+  "stanzas": 9
+ },
+ "03268-reference-amjoorapu-chetlu-pooyakumdinanu-dhraak.json": {
+  "status": "rejected",
+  "reason": "lost 53% of the Telugu"
+ },
+ "03270-reference-dhaevadhaevuniki-kruthajnythaasthuthul.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03271-reference-nee-paeru-poayabadina-parimala.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03272-reference-naa-prabhuvaa-naa-dhaevaa.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03273-reference-aayana-dhanavmthudai-yumdiyu-meeru.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03274-yehoavaaku-paadudi-paatan-athi-shraeshta-kaaryam.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03288-aanmdha-maanmdha-maanmdhamae-aanmdha-maanmdhamae.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03289-jai-prabhu-yaesu-jai-ghana-dhaevaa-jai-prabhu-ja.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03290-prabhuvaa-nee-goppathanamu-sthuthiki-yoagyamu.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03291-vmdhanamu-nimmu-prabhu-yaesunaku-jai-jai-yanipaa.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03292-oa-naa-hrudhayamaa-paadumaa-kroththa-geethm-prab.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03294-sthuthulaku-paathrumdavu-srushtimchinaavu-rakshi.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03295-yaesu-kreesthu-prabhuvaayanae-amdhariki-prabhuvu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03296-hallelooya-sthuthi-prashmsa-paadedh.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03297-sthoathra-geethamulanu-paaduchu-priya-prabhuni-p.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03299-mahaaghanudu-mahoannathudu-parishudhdhudu-nithya.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03300-kroththa-geethamuchae-naa-yullamuppomga-yaesuni-.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03301-koniyaadi-paadi-keerthimchi-varnimchedha-ninu-na.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03282-vmdhanamoa-vmdhana-maesayy.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03283-arpimthu-sthuthul-nee-siluvaloanaa.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03284-smthoashmae-smthoashmae-smthoashmuthoa-sthuthimc.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03285-raathrimbavallu-paadedhanu-yaesu-naamm-kreesthu-.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03286-shaamthidhaayaka-yaesu-prabhoo.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03287-hrudhaya-marpimchedhamu-prabhunaku-sthuthi-prash.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03339-dhaevunikae-mahima-yugayugamulaku-kalugunu-gaak.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03340-aashcharyakaruda-veevae-yehoavaa-neevae-dhanyuda.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03341-naa-praanamaa-naa-sarvamaa-aayana-parishudhdha-n.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03343-dhoothaganamulella-aaraadhimchirigaa-parishudhdh.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03344-maa-prabhuyaesu-neevae-maa-sarvamu-mahin-maakepu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03345-pranuthimthumu-maa-yehoavaa-paripoorna-mahima-pr.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03348-dhaaveedhu-vmsha-yaesu-kreesthuku-sthuthi-chelli.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "03349-dhaevaadhi-dhaevuni-bhoojanulaaraa.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03350-sthoathramu-yaesunaathaa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03351-sthuthiyimchu-priyudaa-sadhaa-yaesuni.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03352-sthoathramu-sthoathramu-sthoathramu-yaesu-dhaeva.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03355-sthoathramu-paadi-pogadedhanu-dhaevaadhidhaevaa-.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03328-prabhuyaesu-naakai-sarvamu-nichchithivi-praemanu.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03329-paavanudaa-maa-prabhuvaa-nee-rakshnakai-sthoathr.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03331-prabhuvaa-needhu-ghananaamamun-maemu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03332-praema-nammakamugala-paraloaka-thmdri.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03333-oa-prabhuvaa-yidhi-nee-krupayae-goppa-krayamu-dh.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03338-sannuthimchedhanu-ellappudu-nithyamu-aayana-keer.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03366-naa-praanamemthoa-ninnu-paadunu-goppa-dhaevaa-go.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03367-prabhu-naa-dhaevaa-nee-chaethi-kaaryamulanu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03368-prabhaava-shakthulu-kalgina-raajunuthimpu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03369-yaesu-prabhu-nee-mukha-dharshanamuchae-naa-prath.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03370-jayamani-paadu-jayamani-paadu-prabhuyaesunakae.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03371-oa-jagadhrakshkaa-vishvavidhaatha-rakshna-nosagi.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03357-yehoavaa-mahaathmyamu-goppadhi-yemthoa.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03358-krupagala-dhaevuni-koniyaadedhamu-krupachaalu-ne.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03360-bhajiyimpa-rmdi-prabhuyaesuni.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03361-anudhinamu-maa-bhaaramu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03363-yaesu-prabhunu-sthuthimchuta-yemthoa-yemthoa-mmc.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03364-yaesu-dhivya-rakshkuni-sthuthimchu-bhoomee-dhivy.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03275-reference-nithyamu-aayana-koarthi-naa.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03276-reference-kreesthae-sarvamunu-amdhariloa-nunnava.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03277-prabhoa-needhu-mahimanu-paadi-ninu-sthuthimchuch.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03279-oa-praemagala-yaesu-praemimchinaavu-mammu.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03280-hallelooya-paadudi-hallelooya-paadudi.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03281-naenae-unnavaadananina-adhvitheeya-prabhu-aaraad.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03309-kmtini-goppa-muthyamu-pomdhithi-harshmu.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03310-bhakthulaaraa-dhuhkhakraamthudu-vachche-mahimath.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03312-raajaadhi-raajupai-kireetamumchudi.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03314-sarvamupai-yaesu-raajyamaelun-paapi-mithrudu-gor.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03315-yaesu-prabhoo-gadhdhepainunna-neeku-maa-sthuthul.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03318-athymtha-sumdharumdunu-ellari-kaamkshneeyudu.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03388-pagatiloa-maegha-sthmbhamugaa-raathriloa-yagni-s.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03389-rakshnya-paatalu-paadi-rakshkudaesunu-sadhaa-kon.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03392-yehoava-mana-koraku-goppa-kaaryamulanu.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03394-sthoathramu-sthoathyamayyaa-dhaevaa-sthoathramu-.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03395-dhaevaa-smvathsaramunu-dhayaakireetamugaa-nichch.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03396-sthuthulu-neekarpimthumu-sathathamu-maa-prabhuva.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03397-prabhuvaa-paadedha-noka-sthuthi-geethm-praemimch.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03398-oa-bhakthulaaraa-manammdharamu-nithyamu-yaesuni-.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03400-bhayamu-laedhugaa-manaku-bhayamu-laedhugaa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03401-dhaevasuthudu-yaesu-janmimche-nirathamu-sthuthiy.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03402-mariyaku-suthuduga-dharanu-janmimchi-immaanuyael.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03407-vimtimayyaa-nee-svaramu-kmtimayyaa-nee-roopamunu.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03381-maa-dhaeva-maa-dhaeva-needhu-vishvaasyatha-chaal.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03382-yehoavaa-goppa-kaaryamulu-chaesenu-veerikoraku.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03383-sthuthimthun-parishudhdhuni-aaraadhanathoa.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03384-prabhu-goppa-kaaryamulu-chaesenani-manamuthsahim.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03386-dhaevuni-keerthimchedhamu-dhaivaputhruni-naamamm.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03387-dhanya-dhanya-dhanya-prabhuku-thaanae-rakshna-ma.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03437-maeghaa-roodumdai-prabhuyaesu-athi-vaegamugaa-na.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03439-mahimayuthudu-maa-yaesuraaju.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03440-maeghamu-meedha-yaesuraaju-vaega-milakuvachchun.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03441-soadharulaaraa-lemdi-raakada-gurthulu-choodmdi.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03442-yaesu-raagaanae-smghamu-maarpu-chaeyabadi-paiket.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03443-raajula-raajuga-yaesu-prabhumdu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03409-niraakaara-suroopudaa-manoaharaa-karigithivaa-na.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03410-yaesuni-shramalathoada-aashathoa-paalu-pomdhedha.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03411-manakai-yaesu-maranimche-mana-paapamula-korakai.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03412-yaesu-prabhoo-naa-korakai-baligaanu-neevaithivi.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03416-adhigoa-kalvariloa-yaesu-rakshkudae-dheenudai-vr.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03418-yaesuni-rakthamae-jai-jai-prabhu-yaesuni-raktham.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03419-etuvmti-yaagamu-jaesithivi-yaesu-neevale-naenumd.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03420-choodumadhae-nee-korakae-siluvapai-vraelaadu-shr.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03421-jeevapu-maarga-jyoathivi-siluva-moasina-yaesu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03422-yaesu-chaavomdhe-siluvapai-nee-korakae-naa-korak.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03425-kalvari-guttameedhanu-dhurmaargavairulu-dhvaeshi.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03426-dhaevaa-naadhaevaa-nannaela-vidachithivani-siluv.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03373-shree-yaesu-naathuni-shirasaavahimchi-shishyula-.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03376-naadhu-praanamaa-naadhu-praanamaa-dhaevuni-kriya.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03377-prabhu-ninu-keerthimchuchunnaamu-yaesu-ninu-keer.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03378-jeevmbu-nichchina-dhaevudaa-nae-paadedha-neeku-n.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "03379-sthoathrimchi-keerthimthumu-ghanaparachedhamu-ko.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03380-sthoathrimchi-keerthimchedhamu-hallelooy.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03444-nee-dhaevuni-smdhimcha-neevu-aayaththamaa.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03445-parishudhdhulellaru-yaesun-pogadi-paadi-yaarbhat.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03446-yaesu-sheeghramugaa-vachchun-aashathoa-kanipettu.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03448-adhigoa-vachchunadhevaroa-choodumaa-mahima-galig.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03449-yaesu-sheeghramuga-thirigivachchun-sathyadhaevun.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03450-idhigoa-naenu-vachchuchunnaanu-thvaragaa-vachchu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03431-shraeshtageethamu-vinabaduchunnadhi-yaesu-laeche.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03432-yaesu-samaadhiloa-parumdi-vaasigaa-moodava-naadu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03433-kreesthulaeche-hallelooya-laeche-jayasheeludu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03434-kreesthu-naedu-laechenu-marthya-dhootha-smghamaa.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03435-yaesuraaju-vachchunu-dhoothalathoa-vachchunu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03436-raajaadhiraajaa-raavae-raaju-yaesu-raajyamaela-r.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03458-kreesthu-yaesu-vachchunu-aayaththamuga-numdudi.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03459-praanapriyudaa-praanapriyudaa-rammu-maa-yaesu-pa.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03460-boora-shabdhmbu-dhvanimpa-gaamchedhamaesun-maa-e.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03461-yaesukreesthu-sheeghramuga-sheeghramuga-sheeghra.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03462-komthasamayamae-migilinadhi-kreesthaesu-prabhuvu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03463-parama-thmdri-suthudu-praanamichchenae-paapi-kor.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03451-jayamani-paadu-prabhuyaesunakae-hoasanna-jai.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03452-kaalamu-sameepamu-prabhu-yaesu-vachchun-jeethamu.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03453-prakaasha-vasthramuthoa-paraloaka-mahimathoa-loa.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03454-raajularaaju-prabhuvula-prabhoo-ee-jagathiki-aru.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03456-seeyoanuraaju-vachchunu-madhin-sidhdhapadu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03457-prabhuvu-dhigivachchunu-paramunumdi-vaegamae-vib.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03502-shubhavaartha-vimtimi-yaesu-rakshimchunu.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "03503-immaanuyaeluni-rakthamu-nimdina-ootayae.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03504-hallelooyaa-yaesuvaa-kalvaripaina-mruthudaa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03505-daagunaedhi-maapunu-vaegayaesu-rakthadhaarae.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03506-haa-dhivya-rakthamu-emthoa-yamoolyamu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03507-mana-prabhuvaina-yaesunmdhu-ennoa-dheevenalu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03627-reference-yehovaa-smvathsaramulu-jaruguchumdagaa.json": {
+  "status": "fixed",
+  "stanzas": 8
+ },
+ "03628-reference-nee-prajalu-nee-ymdhu.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03629-reference-yehoavaa-koraku-edhuru-choochuvaaru.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03630-reference-meeru-dhaevuni-smpoornatha-ymdhu.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03631-reference-nee-velugunu-nee-sathyamunu.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03632-prabhu-kummarimchu-prabhu-kummarimchu-dheevenala.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03633-reference-dhaevudu-thaanu-aerparachukoninavaaru-.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03635-reference-adugudi-mee-kiyyabadunu-maththayi.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03636-reference-manamu-kanikarimpabadi-samayoachithama.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03637-reference-visthaaramaina-varshmu-vachchunatlugaa.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03638-reference-simhaasanammdhu-aaseenudai-yumduvaani-.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03639-reference-naenu-elugeththi-dhaevuniki-morra.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03640-reference-naenu-elugeththi-dhaevuniki-morra.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03641-reference-naenu-choodagaa-mmdhirapu-gadapakrimdh.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03642-reference-naenu-choodagaa-mmdhirapu-gadapakrimdh.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03645-reference-kadavari-vaanakaalamuna-varshmu-dhayac.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03647-reference-yehoavaa-smvathsaramulu-jaruguchumdaga.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03648-reference-yehoavaa-smvathsaramulu-jaruguchumdaga.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03649-reference-edathegaka-praarthana-chaeyudi-1.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03650-reference-yehoavaa-naa-kuththaramimmu-keerthana.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03651-reference-yehoavaa-naa-kuththaramimmu-keerthana.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03652-reference-vaaru-visugaka-nithyamu-praarthana.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03653-reference-vaaru-visugaka-aeka-manassuthoa.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03654-reference-gunavathiyaina-bhaarya-dhorukuta-arudh.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03655-reference-naenu-dhappigonakumdunatlu-aa.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03656-oa-yehoavaa-neevae-nannu-shoadhimchi-yerigithivi.json": {
+  "status": "fixed",
+  "stanzas": 5
+ },
+ "03660-paapa-samudhrammdhu-pagile-naa-hrudhayanaav.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03661-neeli-gaganaana-veligae-thaarala-boali-loakaana-.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03662-vishvaasa-sahithamuganu-prakatimchudi-yaesuni.json": {
+  "status": "fixed",
+  "stanzas": 7
+ },
+ "03663-jeevimchuchunnaadu-yaesuprabhu-naa-hrudhayamuloa.json": {
+  "status": "fixed",
+  "stanzas": 2
+ },
+ "03664-naa-paapamulanu-kshmimchen-prabhu-naa-naethramul.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03671-bhaagyamau-dhinamu-prabhun-gaikonna-dhinamu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03672-haayaanmdha-sudhinamu-naa-yaesun-nammudhinamu.json": {
+  "status": "fixed",
+  "stanzas": 4
+ },
+ "03673-padhivaelaloa-priyuni-choochi-thelisikomtivaa.json": {
+  "status": "fixed",
+  "stanzas": 6
+ },
+ "03675-paramu-dhigenu-mahima-nimdenaaloa-siluva-yodhdha.json": {
+  "status": "fixed",
+  "stanzas": 3
+ },
+ "03676-haa-emtha-adhbhuthaashcharya-dhinamu-ennadu-maru.json": {
+  "status": "fixed",
+  "stanzas": 3
+ }
+}

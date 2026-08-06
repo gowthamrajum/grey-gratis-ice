@@ -1,0 +1,70 @@
+{
+  "song_name": "Nisi Raathri",
+  "author": {
+    "Authored by": "Joel Kodali",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిశిరాత్రి సుడిగాలిలో చిక్కితిని",
+      "ఊపిరితో మిగిలెదనా ఉదయానికి",
+      "తడవు చేయక యేసు నను చేరుకో",
+      "నా ప్రక్కనే ఉండి నను పట్టుకో",
+      "భయముండగలదా నీవున్నచో",
+      "నీ కన్నులు నామీద నిలిచుండగా",
+      "నా చేయి నీ చేతిలో ఉండగా"
+    ],
+    "english": [
+      "Nisi raathri sudigaalilo chikkithini",
+      "oopiritho migiledhanaa udhayaaniki",
+      "thadavu cheyaka yesu nanu cheruko",
+      "naa prakkane undi nanu pattuko",
+      "bayamundagaladhaa neevunnacho",
+      "nee kannulu naa meedha nilichundagaa",
+      "naa cheyi nee chethilo undagaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఈ చీకటి సమయం నిలిచెను నా ఈ పయనం",
+        "కనిపించక దారులు మొదలాయెను కలవరము",
+        "వీచే ఈ గాలులలో నే కొట్టుకుపోకుండా",
+        "తప్పించెదవని దేవా ఆశతో నే వేచితిని",
+        "నీవు గాక నాకిపుడు దిక్కెవ్వరు",
+        "నే చేసిన వాగ్ధానము లెన్నో ఉన్నాయి",
+        "నెరవేర్చు బాధ్యతలు ఇంకా మిగిలాయి",
+        "ఈ రేయి ఈ చోటే నేనాగి పోవలదు",
+        "రాతిరి గడిచేవరకు నీ చాటున నను దాచి",
+        "ఉదయమును చూపించుము నా కంటికి",
+        "అల్పము ఈ జీవితమని నేనెరిగితిని",
+        "కనురెప్పపాటున ఆవిరికాగలదు",
+        "అనుదినమిక నీ కృపనే నే కోరుచు",
+        "పయనింతును నా గురివైపు నిను ఆనుకుని",
+        "భయముండగలదా నీవున్నచో",
+        "నీ కన్నులు నామీద నిలిచుండగా",
+        "నా చేయి నీ చేతిలో ఉండగా"
+      ],
+      "english": [
+        "Ee cheekati samayam nilichenu naa ee payanam",
+        "kanipinchaka dhaarulu modhalaayenu kalavaramu",
+        "veeche ee gaalulalo ne kottukupokundaa",
+        "thappinchidhavani devaa aasatho ne vechithini",
+        "neevu gaaka naakipudu dhikkevvaru",
+        "Ne chesina vaagdhaanamu lenno unnaayi",
+        "neraverchu baadhyathalu inkaa migilaayi",
+        "ee reyi ee chote nenaagi povaladhu",
+        "raathiri gadichevaraku nee chaatuna nanu dhaachi",
+        "udhayamunu choopinchumu naa kantiki",
+        "Alpamu ee jeevithamani nenerigithini",
+        "kanureppapaatuna aavirikaagaladhu",
+        "anudhinamika nee krupane ne koruchu",
+        "payaninthunu naa gurivaipu ninu aanukuni",
+        "bayamundagaladhaa neevunnacho",
+        "nee kannulu naa meedha niluchundagaa",
+        "naa cheyi nee chethilo undagaa"
+      ]
+    }
+  ]
+}

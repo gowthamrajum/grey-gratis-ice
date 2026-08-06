@@ -1,0 +1,48 @@
+{
+  "song_name": "Aayanaashcharya karudu nannu rakshinchi kaapaadi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆయనాశ్చర్య కరుడు",
+      "నన్ను రక్షించి కాపాడి శుద్ధి చేయును",
+      "ఆయనాశ్చర్యకరుడు"
+    ],
+    "english": [
+      "Aayanaashcharya karudu",
+      "Nannu rakshinchi kaapaadi shuddhi cheyunu",
+      "Aayanaashcharyakarudu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆయన మహోన్నతుడు",
+        "గద్దించును గాలిని అలలను",
+        "ఆయన మహోన్నతుడు"
+      ],
+      "english": [
+        "Aayana mahonnathudu",
+        "Gaddhinchunu gaalini alalanu",
+        "Aayana mahonnathudu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆయన నా ఆశ్రయము",
+        "తన రెక్కలతో నను కప్పును",
+        "ఆయన నా ఆశ్రయము"
+      ],
+      "english": [
+        "Aayana naa aashrayamu",
+        "Thana rekkalatho nanu kappunu",
+        "Aayana naa aashrayamu"
+      ]
+    }
+  ]
+}

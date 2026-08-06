@@ -1,0 +1,81 @@
+{
+  "song_name": "Meghaala paina mana Yesu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మేఘాల పైన మన యేసు",
+      "త్వరలోనే మనకై వచ్చుచున్నాడు (2)",
+      "సిద్ధపడుమా ఉల్లసించుమా",
+      "నీ ప్రియుని రాకకై (2) ||మేఘాల||"
+    ],
+    "english": [
+      "Meghaala paina mana Yesu",
+      "Thvaralone manakai vachchuchunnaadu (2)",
+      "Siddhapadumaa ullasinchumaa",
+      "Nee priyuni raakakai (2) ||Meghaala||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏ ఘడియో ఏ వేళయో – తెలియదు మనకు",
+        "బుద్ధి కలిగిన కన్యకలు వలె – సిద్ధపడియుండు (2)",
+        "బూర శబ్దం మ్రోగగా",
+        "ప్రభుని రాకడ వచ్చును",
+        "రెప్ప పాటున పరిశుద్ధులు",
+        "కొనిపోబడుదురు ప్రభువుతో  ||మేఘాల||"
+      ],
+      "english": [
+        "E ghadiyo e velayo – Theliyadu manaku",
+        "Buddhi kaligina kanyakalu vale – Siddhapadiyundu (2)",
+        "Boora shabdham mrogagaa",
+        "Prabhuni raakada vachchunu",
+        "Reppa paatuna parishuddhulu",
+        "Konipobadudhuru Prabhuvutho  ||Meghaala||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపం వలన వచ్ఛు జీతం – మరణమే కాదా",
+        "దేవుని కృపయే క్రీస్తు యేసులో – నిత్య జీవమే (2)",
+        "వినుట వలన విశ్వాసం",
+        "కలుగును సోదరా",
+        "దేవుని ఆజ్ఞకు లోబడితే",
+        "పొందెదవు పరలోకం  ||మేఘాల||"
+      ],
+      "english": [
+        "Paapam valana vachchu jeetham – Maraname kaadaa",
+        "Devuni krupaye Kreesthu Yesulo – Nithya jeevame (2)",
+        "Vinuta valana vishwaasam",
+        "Kalugunu sodaraa",
+        "Devuni aagnaku lobadithe",
+        "Pondedavu paralokam  ||Meghaala||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "స్తుతియు మహిమ ఘనత ప్రభావం",
+        "యేసుకే చెల్లు గాక",
+        "తర తరములకు యుగయుగములు",
+        "యేసే మారని దైవం (2)",
+        "నిత్యము ఆనందమే ప్రభువా నీతో నుండుట",
+        "నూతన యెరూషలేము చేరుకోనుటే నిరీక్షణ  ||మేఘాల||"
+      ],
+      "english": [
+        "Sthuthiyu mahima ghanatha prabhaavam",
+        "Yesuke chellu gaaka",
+        "Thara tharamulaku yugayugamulu",
+        "Yese maarani daivam (2)",
+        "Nithyamu aanandame Prabhuvaa neetho nunduta",
+        "Noothana Erooshalemu cherukonute nireekshana  ||Meghaala||"
+      ]
+    }
+  ]
+}

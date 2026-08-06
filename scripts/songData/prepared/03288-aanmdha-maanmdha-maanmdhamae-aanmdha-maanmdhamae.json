@@ -1,0 +1,80 @@
+{
+  "song_name": "Aanandha Maanandha Maanandhamae Aanandha Maanandhamae",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆనంద మానంద మానందమే - ఆనంద మానందమే"
+    ],
+    "english": [
+      "Aanandha Maanandha Maanandhamae - Aanandha Maanandhamae"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా ప్రియ యేసు - గొప్ప రక్షణనివ్వ సిలువలో బలియాయెన్"
+      ],
+      "english": [
+        "Naa Priya Yaesu - Goppa Rakshananivva Siluvaloa Baliyaayen"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా ప్రియ యేసు - పాప పడకనుండి నన్ను పైకి లేపెను"
+      ],
+      "english": [
+        "Naa Priya Yaesu - Paapa Padakanundi Nannu Paiki Laepenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా ప్రియ యేసు - తన రక్తములో ప్రేమతో నను కడిగెను"
+      ],
+      "english": [
+        "Naa Priya Yaesu - Thana Rakthamuloa Praemathoa Nanu Kadigenu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నా ప్రియ యేసు - బాప్తిస్మమున నన్నైక్యపరచెను"
+      ],
+      "english": [
+        "Naa Priya Yaesu - Baapthismamuna Nannaikyaparachenu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నా ప్రియ యేసు - నీతి వస్త్రము నాకు ప్రీతితో తొడిగెను"
+      ],
+      "english": [
+        "Naa Priya Yaesu - Neethi Vasthramu Naaku Preethithoa Thodigenu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నా ప్రియ యేసు - గొప్ప రక్షణను నిర్లక్షించెదనా?"
+      ],
+      "english": [
+        "Naa Priya Yaesu - Goppa Rakshananu Nirlakshinchedhanaa?"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "నా ప్రియ యేసు - స్తుతిపాత్రుండని హల్లెలూయా పాడెదను"
+      ],
+      "english": [
+        "Naa Priya Yaesu - Sthuthipaathrundani Hallelooyaa Paadedhanu"
+      ]
+    }
+  ]
+}

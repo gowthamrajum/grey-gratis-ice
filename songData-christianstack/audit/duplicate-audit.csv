@@ -1,0 +1,1097 @@
+app_index,app_song_name,verdict,app_author,app_chars,title_score,title_match_id,title_match_name,c3,wd,cov,match_id,match_name,match_chars,match_title_score
+0,Goppa Devudu Rajula Raaju,D-unique,Ramesh Kumar Parichha,555,0.625,382,Raajula Raaju,0.205,0.079,0.152,1471,Cheppalenu Baaboi,268,0.167
+1,Kanneere Keerthanalaaye,D-unique,Dr.Asher Andrew,599,0.529,594,Kanneerelammaa,0.262,0.034,0.27,1473,Karuna Choopinchumaa,632,0.154
+2,Mahopakaaruda,D-unique,Joshua Shaik,470,0.538,263,Adbhuthakarudaa,0.247,0.143,0.306,1862,Sadaa neevu naa thodugaa Yesayya,691,0.154
+3,Nadipinchaya,D-unique,Yojana Reddy,617,0.562,3483,Aayane nannu nadipinchun,0.252,0.17,0.237,559,Manchi Snehithudaa,545,0.148
+4,Nee Aatmatho,D-unique,Vijay Kondapuram,719,0.56,393,Devaa Nee Aathmanu,0.292,0.14,0.413,972,Krupa Krupa Naa Yesu Krupaa,1315,0.0
+5,Nee Vaakyame Nannu,A-lyric-dup,,462,0.682,1039,Nee Vaakyame Nannu Brathikinchenu,0.905,0.848,0.893,1039,Nee Vaakyame Nannu Brathikinchenu,450,0.682
+6,Neekai Naa Thrushna,D-unique,Dr. Asher Andrew,488,0.0,,,0.19,0.04,0.309,1788,Nee krupaye naa jeevithamu,1091,0.316
+7,Nischayamuga Ninnu,D-unique,Krupa Paul,707,0.542,3640,Nishchayamuga ninnu dheevinchedhanu,0.346,0.122,0.369,1847,Asamaanudu Avamaanaparachadu Ninnu,802,0.298
+8,Parisuddhudu Parisuddhudu,C-title-collision,Dr. Yehoshua Kamalakar,607,0.875,142,Parishuddhudu Parishuddhudu,0.213,0.037,0.332,804,Vadhiyimpabadina Gorrepillaa,1280,0.041
+9,Varninchalenu..Vivarinchalenu,A-confirmed-dup,,391,0.926,249,Varninchalenu Vivarinchalenu,0.867,0.776,0.805,249,Varninchalenu Vivarinchalenu,335,0.926
+10,Entho Sundarudamma Thanu,A-confirmed-dup,M. Prasanth Raju,876,0.977,179,Entho Sundarudamma Thaanu,0.971,0.969,0.984,179,Entho Sundarudamma Thaanu,900,0.977
+11,Kannitini Chusi Datiponi Deva,D-unique,Paul Alexander,450,0.0,,,0.221,0.06,0.379,1788,Nee krupaye naa jeevithamu,1091,0.085
+12,Keerthinthunu Ninne,D-unique,"Bobby, Sunith",262,0.688,113,Preminthunu Ninne,0.316,0.193,0.392,3802,Mahonnathuda maaranivaada,387,0.15
+13,Nee Premaye Na Jeevithamunu,C-review,Dr. Victor Rampogu,595,0.711,93,Nee Prema Naa Jeevithaanni,0.217,0.092,0.349,972,Krupa Krupa Naa Yesu Krupaa,1315,0.044
+14,Nee Vaakyame Nannu Brathikinchenu,A-confirmed-dup,,414,1.0,1039,Nee Vaakyame Nannu Brathikinchenu,0.944,0.967,0.985,1039,Nee Vaakyame Nannu Brathikinchenu,450,1.0
+15,Nenu Odiponayaa,A-confirmed-dup,Mark Peter,577,1.0,1429,Nenu Odiponayaa,0.955,0.952,0.995,1429,Nenu Odiponayaa,625,1.0
+16,Ninu Matrame Ne Nammanaya,A-lyric-dup,John J,458,0.609,2025,Ninu maathrame ne nammaanayaa,1.0,1.0,1.0,2025,Ninu maathrame ne nammaanayaa,458,0.609
+17,Vinarayya,D-unique,M. Devadas Ayyagaru,422,0.552,1378,Praardhana Vinnaavayyaa,0.158,0.053,0.262,1781,Naa bhaagaswaamini Yeshua Jerusha,975,0.054
+18,Yatra,D-unique,Hadlee Xavier,567,0.0,,,0.249,0.124,0.414,972,Krupa Krupa Naa Yesu Krupaa,1315,0.0
+19,Yevaru Leni Ontari,D-unique,Janna Shaik,719,0.625,962,Evaru Leka Ontarinai,0.331,0.118,0.353,4011,Kanikara poornudaa naa Yesayyaa,812,0.143
+20,Amma Prema Kanna Nee Prema Goppadi,D-unique,,333,0.0,,,0.189,0.056,0.272,602,Enni Maarlu,625,0.054
+21,Devuni Samayamunu Dongilinchakura,D-unique,D.Isaac Gnana Raj,371,0.511,1006,Dorakunu Samasthamu,0.198,0.051,0.293,3252,Manaku balamaiyunna Devuniki aananda gaanamu cheyudi,722,0.342
+22,Entho Sundharudamma Thaanu,A-confirmed-dup,M.Prashanth Raju,876,0.933,179,Entho Sundarudamma Thaanu,0.975,0.977,0.989,179,Entho Sundarudamma Thaanu,900,0.933
+23,Gaadandhakaramulo,B-likely-lyric-dup,Phebe Joseph,380,0.711,1187,Gaadaandhakaaramulo Ne Nadachina,0.787,0.642,0.804,1187,Gaadaandhakaaramulo Ne Nadachina,397,0.711
+24,Kalavarapadi Ne Kondala Vaipu,B-likely-lyric-dup,,470,0.76,2860,Kalavara padi ne kondala vaipu,0.69,0.544,0.545,2860,Kalavara padi ne kondala vaipu,273,0.76
+25,Kannille Raluthunna,D-unique,Dr.P.Satish Kumar,646,0.514,1470,Kanulunnaa Kaanaleni,0.15,0.036,0.216,3846,Neevu leni kshanamu,1217,0.242
+26,Mahadevuda Mahonnathuda,C-review,,337,0.783,3834,Mahaadhevudaa mahonnathudaa,0.246,0.14,0.355,473,Yesayya Nee Prema,636,0.0
+27,Raakadane Railu Bandi,C-title-collision,,914,1.0,1540,Raakadane Railu Bandi,0.444,0.323,0.406,1540,Raakadane Railu Bandi,756,1.0
+28,Sanghamunu Koolchake,D-unique,Music Pr D.Isaac Gnana Raj,268,0.0,,,0.198,0.019,0.259,3709,Yehovaaye manadhevudu - Maarpulenivaadu,434,0.038
+29,Vyoohitha Sainya Samabheekara,D-unique,T.Nathaniel,345,0.0,,,0.164,0.041,0.251,2053,Yesuni raajyamu adhi nishchalamainadhi,706,0.267
+30,Adharam,D-unique,Dr.A.Usha Rani,333,0.0,,,0.188,0.075,0.254,1587,Megha sthambamaina sannidhini,565,0.188
+31,Chinni Tammudu Chitti Chellelu,D-unique,Blessy Kingsley,402,0.678,2819,Chinni chinni thammudu chitti chellelu,0.162,0.024,0.25,1765,Yesayya Nuvve Naa Aasha,836,0.0
+32,Daya Poornuda,D-unique,Ambati Cherubim,526,0.583,936,Premaa Poornudu,0.168,0.025,0.288,804,Vadhiyimpabadina Gorrepillaa,1280,0.054
+33,Evaru Cheyagalarayya,D-unique,,554,0.562,118,Evarunnaarayyaa,0.251,0.103,0.424,972,Krupa Krupa Naa Yesu Krupaa,1315,0.05
+34,Hosanna Hosanna Rakshakudu,C-review,Dr. Noah R Ajay Kumar,409,0.703,303,Hosanna Hosannaa,0.19,0.05,0.329,318,Siluva Dhyaanam,1003,0.111
+35,Me Me Meka Laga,D-unique,VBS Ministries Bangalore,390,0.0,,,0.151,0.024,0.186,3797,Vinthaina prema idhegaa Yesayya prema nijangaa,566,0.039
+36,Na Pakshamuna,D-unique,A R Stevenson,494,0.552,1589,Rakshana Aunnathyamu,0.173,0.028,0.264,810,Anthaa Naa Meluke,1016,0.16
+37,Naa Hrudayamaa,C-title-collision,,514,0.815,1608,Naa Hrudayamantha,0.307,0.099,0.293,168,Naa Koraku Baliyaina,467,0.207
+38,Nuvvivakuntey Na Yesayya,A-lyric-dup,Ratnam Manelli,375,0.636,2125,Nuvivvakunte edhi ledhayya,0.942,0.916,0.93,2125,Nuvivvakunte edhi ledhayya,366,0.636
+39,Siluvalo Nee Prema,C-title-collision,Stanley Telagathoti,294,1.0,492,Siluvalo Nee Prema,0.239,0.282,0.216,3749,Nee krupaye chaalunayyaa,237,0.222
+40,Hatikva,D-unique,Balavari Samson,316,0.0,,,0.129,0.031,0.201,3207,Yesuprabhuvu Yerooshalemu praveshinchina vidhamu,665,0.0
+41,Kanipinche Bandalanni,D-unique,King Srinu,755,0.0,,,0.198,0.024,0.303,1789,Kondharemo gurraalantoo,1547,0.2
+42,Maranapu Mullu,D-unique,A R Stevenson,372,0.0,,,0.158,0.034,0.259,3030,Naa kintha prothsaahaa nandhambul galguta,851,0.167
+43,Neeve Na Dhaivam Yesayya,D-unique,Benaiah Jameson & Rachel Benaiah,536,0.571,569,Jeevamaa Yesayyaa,0.239,0.109,0.262,1608,Naa Hrudayamantha,639,0.286
+44,Nenu Ani Palikaavaa,D-unique,Ashakiran Pallikonda,545,0.516,1364,Andariki Kaavaali,0.193,0.053,0.302,176,Naa Priya Yesu Raa,1159,0.133
+45,Oke Okka Korika,D-unique,Shadrak,444,0.5,1454,Idhe Naa Korika,0.158,0.018,0.267,1768,Naakai dheenunigaa bhuviki vachchinaavayaa,1058,0.08
+46,Paralokame Naa Swasthyamu,A-confirmed-dup,Kurian G S,403,0.978,1612,Paralokame Naa Swaasthyamu,0.934,0.913,0.983,1612,Paralokame Naa Swaasthyamu,445,0.978
+47,Parishudhaparachumu Deva,D-unique,Saladi Sam Nehemiah,678,0.605,2981,Parishuddhaathmuda Deva,0.366,0.134,0.3,3245,Devaa nee krupachoppuna nannu karunimpumu,435,0.31
+48,Siluva,D-unique,Pastor Vinod Kumar,309,0.556,482,Kaluvari Siluva,0.269,0.108,0.277,4008,Neeve Naaku Chaalunu Yesu,328,0.077
+49,Yesu Swamy Vanti,D-unique,,440,0.529,916,Sannuthinthu Yesu Swaami,0.184,0.094,0.205,1665,Kaalamella Maarinaa - Maaradu Naa Yesu Naathudu,544,0.151
+50,Aalasyamu Cheyanu,D-unique,Venkat Reddy P,559,0.593,350,Sakalamu Cheyu,0.202,0.055,0.282,318,Siluva Dhyaanam,1003,0.214
+51,Adigadigo Alladigo,A-lyric-dup,,695,0.743,375,Adhigadhigo Alladhigo,0.951,0.939,1.0,375,Adhigadhigo Alladhigo,767,0.743
+52,Dikkulanni Nanu Vekkairinchina,D-unique,Paul Jacob,643,0.522,479,Dikkulenni Thiriginaa,0.218,0.023,0.289,1768,Naakai dheenunigaa bhuviki vachchinaavayaa,1058,0.308
+53,Emundi Naalo Yesayya,D-unique,Ebinazar Sastry,332,0.667,520,Emundi Naalonaa,0.202,0.072,0.348,4011,Kanikara poornudaa naa Yesayyaa,812,0.318
+54,Kanneelle Khayamani,D-unique,Tinnu Thereesh,320,0.533,594,Kanneerelammaa,0.194,0.027,0.314,3499,Devuni Praarthinchedhamu - Daiva Puthruni Naamamandhu,716,0.156
+55,Margamu Nene Annadu Yesu,D-unique,Paul Jayakumar Chinnababu Garu,467,0.513,3690,"Yesu ― nene maargamunu,",0.253,0.042,0.348,1610,Swasthaparachu Devudu,820,0.103
+56,Needu Premaku,A-lyric-dup,Jyothi Raju,377,0.72,1506,Needu Prema Naalo,0.967,0.964,0.992,162,Needu Premaku Haddu Ledayaa,396,0.647
+57,Ninu Matrame Ne Nammanaya,A-lyric-dup,Bro John J,458,0.609,2025,Ninu maathrame ne nammaanayaa,1.0,1.0,1.0,2025,Ninu maathrame ne nammaanayaa,458,0.609
+58,Paralokame Na Swasthyamu,C-title-collision,,339,0.955,1612,Paralokame Naa Swaasthyamu,0.49,0.286,0.567,1612,Paralokame Naa Swaasthyamu,445,0.955
+59,Siluva Prayanam,D-unique,John Sandeep,379,0.692,318,Siluva Dhyaanam,0.213,0.071,0.273,2162,Niraakaara suroopudaa manoharaa karigithivaa naakai vrelaaduchu siluvalo,592,0.205
+60,DivyaSakhudaa,B-likely-lyric-dup,Pastor Ramesh,785,0.625,1755,Sakhudaa divya sakhudaa,0.708,0.521,0.877,1755,Sakhudaa divya sakhudaa,1160,0.625
+61,Enni Kastalaina,A-lyric-dup,Pastor Ebenezer Paul,275,0.519,1115,Enni Thalachinaa,0.786,0.761,0.678,767,Devaa Ee Jeevitham,200,0.0
+62,Israyelu Raja,D-unique,,353,0.667,1560,Ishraayelu Raajuve,0.239,0.143,0.356,1168,Adiginadi Konthe Ayinaa,695,0.0
+63,Nannenthagano,D-unique,Joshua Shaik,453,0.667,1329,Nannenthagaano Preminchenu,0.275,0.158,0.348,1862,Sadaa neevu naa thodugaa Yesayya,691,0.205
+64,Nanu Kanna Naanna,D-unique,Blessy Kingsley,355,0.69,483,Nannu Kaadanavani,0.239,0.154,0.286,55,Nijamaina Draakshaavalli,493,0.111
+65,Ninne Preminthunu,C-title-collision,Pastor Reenukumar,251,1.0,164,Ninne Preminthunu,0.225,0.065,0.386,1865,Neelaa preminchevaarevaru ilalo leru,608,0.17
+66,Sthuthi Keerthaneeyudaa,D-unique,Pastor Abraham,420,0.578,228,Sthuthi Paadi Keerthinthumu,0.243,0.1,0.335,791,Nee Prema Naalo Madhuramainadi,738,0.128
+67,Thana Sareeramandhu,D-unique,Dr. A.R.Stevenson,315,0.558,1643,Paralokamandunna Maa Thandree,0.162,0.038,0.281,1273,Bethlehemu Puramulo,778,0.118
+68,Varamu 2,D-unique,Shadrach,1188,0.533,1058,Nee Swaramu,0.214,0.054,0.32,115,Oneness,2355,0.0
+69,Yudhula Raja,D-unique,Benny Joshua,148,0.545,387,Raajula Raajaa,0.163,0.088,0.274,1879,Naa Yesu naama shabdamu entho impainadhi,348,0.045
+70,Enni Kastalaina,B-likely-lyric-dup,Ebenezer Paul,198,0.519,1115,Enni Thalachinaa,0.604,0.6,0.607,767,Devaa Ee Jeevitham,200,0.0
+71,Idigo Naa Jeevitham,C-review,Pastor John Wesley featuring Pastor Ramesh & Pastor Abraham,636,0.757,134,Devaa Naa Jeevithamidigo,0.315,0.164,0.265,967,Naalo Unna Aashalanniyu,434,0.167
+72,Intha Prema,D-unique,Ephraim Saatvik,167,0.615,189,Entha Prema Yesayyaa,0.31,0.167,0.467,1141,Yesayyaa Naakantu,333,0.083
+73,Israel Kaapari,D-unique,Pastor Ramesh,622,0.0,,,0.263,0.081,0.294,3832,Aashrayudaa naa Yesayya,764,0.125
+74,Karuna Katakshamu,D-unique,,584,0.545,1589,Rakshana Aunnathyamu,0.209,0.031,0.313,1755,Sakhudaa divya sakhudaa,1160,0.057
+75,Mahaganudaa Yehova,D-unique,Pastor John Wesley,705,0.591,3085,Ghanudaina Yehova gadde mundhata,0.279,0.146,0.235,1421,Sumadhura Swaramula Gaanaalatho,481,0.136
+76,Naa Hrudayana,A-lyric-dup,Bro Yesanna garu,593,0.769,1608,Naa Hrudayamantha,0.964,0.974,0.99,475,Naa Hrudayaana Koluvaina,625,0.688
+77,Nenemaiunnano Nee Krupa,C-review,Pastor M. Jyothi Raju,141,0.649,1794,Nee krupa nenemainaa,0.456,0.488,0.0,1601,Arhata lekunna preminchavu,473,0.186
+78,Sowndaryapurnudaa,D-unique,Pastor Ramesh,568,0.0,,,0.212,0.056,0.352,972,Krupa Krupa Naa Yesu Krupaa,1315,0.053
+79,Viswasam,D-unique,Stella Ramola & Daniel Davidson,148,0.56,2845,Viswaasa vanithalamu,0.137,0.024,0.0,2441,Nedo repo Yesu raakada kaalam,483,0.065
+80,Adhikamugaa Cheyagaladu,D-unique,,332,0.526,1636,Emainaa Cheyagalavu,0.198,0.059,0.318,3853,Yesayyaa nannu vadhalavu neevu,730,0.255
+81,Cherithi Ninne,D-unique,Joshua Shaik,451,0.0,,,0.294,0.152,0.354,473,Yesayya Nee Prema,636,0.0
+82,Inthakaalam Mammunu,D-unique,Pastor Daniel Raju P,213,0.6,1102,Karthaa Mammunu,0.309,0.292,0.498,1825,Manasunu munchetthe ee saundharyam,470,0.298
+83,Jeevapu Oota,D-unique,Ambati Cherubim,300,0.0,,,0.223,0.098,0.352,1613,Athi Parishuddhudaa Sthuthi Naivedyamu,644,0.0
+84,Krupa Kalugunu Gaaka,C-review,Jonah Samuel,241,0.765,1761,Krupa kalugunu gaaka,0.324,0.337,0.0,1761,Krupa kalugunu gaaka,1239,0.765
+85,Nee Chethi Kaaryamu,C-title-collision,Joshua Shaik & Deva Prasad,145,0.941,395,Nee Chethi Kaaryamulu,0.213,0.062,0.343,517,Nee Vaakyame Naa Paadaalaku,319,0.256
+86,Nee Prematho,C-title-collision,,307,0.818,620,Nee Prema Entho,0.323,0.043,0.413,440,Nee Premaku Saati Ledayaa,477,0.516
+87,Nee Premey,D-unique,Revanth Reynold & Reshma Reigna,150,0.6,1442,O Yesu Nee Prema,0.157,0.026,0.25,490,Yesayyaa Nee Prema,325,0.522
+88,Nyayaadipathi,C-title-collision,"Hosanna Ministries featuring Pastor John Wesley, Pastor Ramesh & Pastor Abraham",645,0.846,252,Nyaayaadhipathi,0.259,0.14,0.393,972,Krupa Krupa Naa Yesu Krupaa,1315,0.118
+89,Ontarini Kaanu,D-unique,Blessie Wesly,437,0.667,94,Ontarivi Kaavu,0.288,0.155,0.368,1066,Naa Neethi Neeve,678,0.08
+90,Gaganana Ontari O’ Tara,D-unique,Jayadev Nada,603,0.0,,,0.175,0.053,0.278,1277,Easter Medley,1306,0.0
+91,Geethamul Paadudi,B-likely-lyric-dup,Murari Daveedu,332,0.667,521,Vijaya Geethamul Paadare,0.67,0.621,0.955,2322,Geethamulu paadudee Yesuniki,612,0.6
+92,Gowravimpajeyunu,D-unique,,172,0.0,,,0.192,0.072,0.324,3431,Yesu lenicho paapikaashrayame ledu,406,0.089
+93,Hallelujah,C-review,Rev.John Jebaraj,526,0.783,756,Aahaa Hallelujah,0.513,0.331,0.485,1586,Udayamu raathriyu Hallelujah,469,0.529
+94,Jalari Panduga,C-title-collision,Dr. R. Santhi Jyothi Kumar,922,0.8,1753,Jaalari panduga,0.527,0.352,0.839,1753,Jaalari panduga,2014,0.8
+95,Laali Laali Lo,D-unique,Emmanuel Pandula,106,0.667,1403,Laali Laali Jolaali,0.144,0.077,0.24,1142,Parishuddhudaa Parishuddhudaa,245,0.105
+96,Puttaadu Raajulaku Raaraaju,D-unique,,138,0.696,1894,Raajula raaju puttaadandi,0.24,0.161,0.0,1319,Janminchenu Oka Thaara,349,0.14
+97,Thalli Garbhamulo,D-unique,Phillip Prakash,144,0.0,,,0.288,0.148,0.359,2941,Krupa chetha pilichinapude,214,0.105
+98,Velasenu,D-unique,Daniel,461,0.0,,,0.284,0.07,0.285,1555,Devudu Dehamunu,466,0.1
+99,Velugu Vachey Lokamantha,C-review,Pastor G Samuel Peter,464,0.737,331,Lokamanthata Velugu,0.183,0.038,0.281,1087,Chukka Puttindi,957,0.059
+100,Bethlehemulo Puttadu,D-unique,Ch. Grace Mani,284,0.686,1273,Bethlehemu Puramulo,0.203,0.096,0.33,473,Yesayya Nee Prema,636,0.062
+101,Janminchenu Emmanuelu,A-confirmed-dup,Ps.Divya David,504,0.821,1863,Janminchenu Immanuyelu,0.953,0.959,0.99,1863,Janminchenu Immanuyelu,543,0.821
+102,Nee Krupaye Naa Jeevithamu,A-lyric-dup,Sirisha Grace,707,0.727,1788,Nee krupaye naa jeevithamu,0.776,0.741,0.987,1788,Nee krupaye naa jeevithamu,1091,0.727
+103,Sandhadi 7 (Joyful Noise),D-unique,"Dr Shalem Raj, Azuba Daniel kalyanapu & Moses David",1508,0.0,,,0.24,0.052,0.308,115,Oneness,2355,0.0
+104,Swasthyamu,D-unique,Shadrach,825,0.562,1612,Paralokame Naa Swaasthyamu,0.207,0.029,0.258,1095,Chukka Puttindi 2,1224,0.0
+105,Vaakyame Sareera Dhaariyai,C-title-collision,Dollie Rose,572,0.936,269,Vaakyame Shareera Dhaariyai,0.283,0.066,0.307,1299,Parama Daivame,670,0.343
+106,Varamu,D-unique,Shadrach,958,0.571,1058,Nee Swaramu,0.175,0.009,0.302,115,Oneness,2355,0.0
+107,Vedanalo Vunnanayya,D-unique,Pas. J. Anilkumar,548,0.511,1845,Yesayya lone unnadi manaku rakshana,0.216,0.104,0.337,176,Naa Priya Yesu Raa,1159,0.065
+108,Yesayya Nee Jananame,C-review,Micheal Evangelist,918,0.703,77,Yesayyaa Neeke Vandanam,0.223,0.109,0.271,972,Krupa Krupa Naa Yesu Krupaa,1315,0.154
+109,Yesu Janminchenu,C-review,Pr D.Isaac Gnana Raj,247,0.765,2260,Janminchenu Sree Yesudu,0.299,0.121,0.445,560,Sooda Sakkani Baaludammo,486,0.057
+110,Aha Entho Anandame,D-unique,P Sunith & Bobby Jeevan,175,0.581,369,Naakentho Aanandam,0.175,0.047,0.301,3810,Aanandam aanandame raaraaju puttenani,422,0.25
+111,Gaganame Ganthulese,D-unique,Surya Teja,124,0.0,,,0.133,0.105,0.197,1717,Immaanuyelu Naa Thodai Yunnaadu,242,0.091
+112,Jagaalanealea Maharaajaa,D-unique,Ps. Israel,711,0.636,546,Raajyaalanele Mahaaraaju,0.276,0.15,0.22,3810,Aanandam aanandame raaraaju puttenani,422,0.255
+113,Krupa Sampannudu,D-unique,Y.Sunilkumar,537,0.556,1680,Krupa Sathya Sampoornudaa,0.195,0.04,0.331,804,Vadhiyimpabadina Gorrepillaa,1280,0.1
+114,Messaiyya Puttaadu,D-unique,B. Gandhi,536,0.0,,,0.151,0.008,0.225,1831,Yesu Kreesthuni golva ranna,1061,0.051
+115,Mundhuke Velledhanu,A-lyric-dup,Shanti Abdias,429,0.688,2698,Munduke velledanu,0.812,0.8,0.7,2698,Munduke velledanu,311,0.688
+116,Naa Snehabandhama,D-unique,Pastor Sunil,336,0.552,958,Neeve Naa Snehamu,0.291,0.234,0.368,778,Neevu Thadithe Thalupu Theeyanaa,512,0.186
+117,Nee Rekkala Needalo,D-unique,Manirajesh Jonnala,131,0.611,72,Nee Challanaina Needalo,0.283,0.182,0.388,3841,Yesayya Naa Nireekshana,226,0.167
+118,Vagdanamu,C-review,Samasthamu Melukai by Olivia Jentzen & Swathi Abburi,308,0.737,154,Vaagdhaanamu,0.536,0.396,0.667,154,Vaagdhaanamu,457,0.737
+119,Yesu Raaju Vacchenu,D-unique,Yes Lord Music Team,556,0.593,973,Naa Yesu Raaju,0.181,0.035,0.303,1277,Easter Medley,1306,0.0
+120,Agocharudu,D-unique,"Hosanna Ministries featuring Pastor John Wesley, Pastor Ramesh, Pastor Abraham & Pastor Freddy Paul",184,0.0,,,0.284,0.125,0.253,2814,Sthuthi aaraadhana parishuddhunake jeevaadhipathiyaina Yesunake,144,0.09
+121,Ascharya Karuda,D-unique,Jasper Kunapo,132,0.611,2361,Ascharyakaruda naa Yesayya,0.239,0.121,0.408,269,Vaakyame Shareera Dhaariyai,316,0.216
+122,Dhigivacchina Daivama,D-unique,Pastor Israel Raju Sirra,344,0.0,,,0.222,0.064,0.301,507,Athyunnatha Simhaasanumpai,587,0.093
+123,Nede Christmas,D-unique,Yesu Babu Ayyanki,532,0.667,987,Christmas Medley 1,0.265,0.076,0.238,3810,Aanandam aanandame raaraaju puttenani,422,0.044
+124,Nija Christmas Aaradhana,D-unique,John Gideon,260,0.649,1048,Christmas Aanandam,0.185,0.081,0.291,2114,Eduruchoosina kaalam – Pratyaksha parichenu daivam,556,0.154
+125,Panduga Panduga,D-unique,Davidson Gajulavarthi,519,0.533,747,Illalona Panduganta,0.239,0.124,0.228,1189,Christmas Panduga,471,0.429
+126,Sambaralu Sambaralu 2,D-unique,Ps. Rajkumar Jeremy,470,0.615,2064,Sambaraalu Santhoshaalu,0.236,0.103,0.286,2342,Aa raathrilo ningilo oka thaara goppa thejamutho prabhavinchenu aa reyi,672,0.127
+127,Shariradhari,D-unique,Saladi Sam Nehemiah,572,0.5,518,Saripodu Aaraadhana,0.22,0.036,0.368,202,Devuni Prema Idigo,1342,0.0
+128,Stuthi Paadutake,C-title-collision,Pastor Samuel Pammi,243,0.897,919,Sthuthi Paadutake,0.238,0.061,0.353,942,Punarutthaanudaa,474,0.207
+129,Yesaiyye Manchivaduga,D-unique,Pastor Vinod Kumar,199,0.0,,,0.155,0.047,0.254,1544,Naa Yesayyaa Naa Sthuthiyaagamu,449,0.304
+130,Christmas Aaradhana,C-review,Blessy Kingsley,507,0.727,1048,Christmas Aanandam,0.243,0.091,0.236,1960,Sheethaakaalamlo Christmas kaanthulatho,476,0.377
+131,Daivakumarudu Lokanki Vachadu,D-unique,James Narukurthi,430,0.0,,,0.254,0.054,0.318,959,Aakashame Pattanodu,645,0.233
+132,Deva Raava,D-unique,Tony Bandela,138,0.526,703,Devaa Yehovaa,0.265,0.179,0.39,2718,Naa raajaa naa Deva sthothra,266,0.258
+133,Doothalu Digivache,B-likely-dup,Pastor Sundar Paul,146,0.8,2431,Doothalu dhigivachche,0.584,0.588,0.944,2431,Doothalu dhigivachche,324,0.8
+134,Raaraju Janminchenu,C-review,Syam Sundar,623,0.75,1201,Raaraaju Janminche Ilalona,0.209,0.042,0.33,202,Devuni Prema Idigo,1342,0.0
+135,Samarpana Kaligina Hrudhayamutho,D-unique,Ps. Yohan,417,0.545,1174,Praardhana Kaligina Jeevitham,0.257,0.085,0.325,1608,Naa Hrudayamantha,639,0.5
+136,Santhosha Sambarame,A-confirmed-dup,Dr. Akumarthi Daniel,430,0.882,3845,Santhosha sambarame,1.0,1.0,1.0,3845,Santhosha sambarame,430,0.882
+137,Velasinadu Raju,D-unique,Frany Francis,269,0.0,,,0.188,0.101,0.24,540,Thaara Velisindi,416,0.296
+138,Yessaiah Puttadu Manakosam,D-unique,Bro. Rajesh,354,0.0,,,0.313,0.119,0.406,2136,Krismas shubhavelalo mana andari hrudayaalalo,563,0.095
+139,Yugayugamulalo,D-unique,Bishop John Markandeya,470,0.5,789,Maa Hrudayamulalo,0.184,0.057,0.284,669,Elohim Elohim,977,0.083
+140,Ananthamainadi Nee Prema,D-unique,KR John,370,0.649,1690,Nijamaina Nee Prema,0.239,0.123,0.332,687,Anthe Leni Nee Prema Dhaara,656,0.558
+141,Jaya Dhvanulu,D-unique,Samy Pachigalla,391,0.5,318,Siluva Dhyaanam,0.176,0.119,0.288,1605,Yuddha Veerulam,888,0.083
+142,Kristhu Puttuka,D-unique,Bro. Yosepu,709,0.593,1527,Kreesthu Puttenu,0.163,0.017,0.269,156,Premalo Paddaanu,1624,0.0
+143,Nee Chithame,C-review,Pastor Ravinder Vottepu,111,0.783,1370,Nee Chitthamune,0.18,0.235,0.183,2769,Ujjeevamu nimmu,115,0.174
+144,Nee Sannidhilo,C-title-collision,A R Stevenson,425,0.828,1014,Devaa Nee Sannidhilo,0.196,0.107,0.291,1655,Nannu Neevu Aadarinchaavu,832,0.235
+145,Parishudhatma,D-unique,Jessica Rayudu,314,0.629,2976,Parishuddhaathma Prabhuni,0.165,0.068,0.285,1794,Nee krupa nenemainaa,772,0.069
+146,Puttinadu Rajularaju,D-unique,Bro.Kishore Babu Tappeta,1018,0.605,2013,Raaraju puttinaadu nedu ilalo,0.217,0.112,0.154,328,Raaju Puttenu,425,0.414
+147,Raajula Raju,C-title-collision,Shyam Joseph,497,0.952,382,Raajula Raaju,0.334,0.301,0.321,1925,Raajula Raaju Puttenu Bethelehemulo,458,0.488
+148,Sambarame Ika Madilo,D-unique,Prudhvi Raj,552,0.0,,,0.304,0.098,0.285,560,Sooda Sakkani Baaludammo,486,0.158
+149,Sarvalokaana,D-unique,,72,0.667,1900,Sarvalokaana santhoshame,0.182,0.043,0.0,2695,Mariyaa thanayudai manujaavathaarudai,295,0.222
+150,Anukonuta Nerpayya,D-unique,Sunder Paidipamula,493,0.0,,,0.216,0.043,0.291,1765,Yesayya Nuvve Naa Aasha,836,0.229
+151,Chedariponi Nee Prema,D-unique,Dr John Wesly,395,0.667,2279,Tharinchiponi Nee Premalone,0.226,0.088,0.308,1030,Gaadaandhakaarapu Loyalo,680,0.1
+152,Christmas Subhavelalo-3,D-unique,Suresh Nittala,342,0.6,792,Christmas Shubha Dinam,0.331,0.142,0.438,2136,Krismas shubhavelalo mana andari hrudayaalalo,563,0.459
+153,Dhoothalatho Kalisi,D-unique,Seenanna,296,0.545,1257,Vevela Doothalatho,0.208,0.053,0.303,1275,Aathmeeya Gaanaalatho,564,0.333
+154,Okka Kshanamaina,C-title-collision,Dr P Satish Kumar,536,0.963,1496,Oka Kshanamaina,0.272,0.12,0.47,972,Krupa Krupa Naa Yesu Krupaa,1315,0.056
+155,Pashuvula Paakalo,D-unique,Daniel Muchumarri,512,0.562,2881,Pashushaalalo neevu,0.311,0.101,0.245,2695,Mariyaa thanayudai manujaavathaarudai,295,0.041
+156,Rajadhi Raju ( Sambaralu 8 ),D-unique,Joshua Shaik,892,0.524,675,Raajaadhi Raajaa Raaraa,0.307,0.097,0.279,501,Yelo Yelo Yelo Antu,728,0.0
+157,Stuthi Aradhana,D-unique,Evan Mark Ronald,460,0.564,531,Aaraadhana Sthuthi Aaraadhana,0.265,0.222,0.358,1806,Ninnu sthuthiyinchi ghanaparachi,784,0.333
+158,Thallilaa Aadhaarna,D-unique,Ravi Bharath,851,0.579,234,Haallelooyaa Aaraadhana,0.215,0.022,0.327,1772,Ye Samaachaaram Nammuthaavu Nuvvu,1744,0.217
+159,Yudhula Raju 2,D-unique,Sunil Yeleti,207,0.545,382,Raajula Raaju,0.234,0.064,0.356,382,Raajula Raaju,421,0.545
+160,Bhayamu Chendhaku Bhakthudaa,A-lyric-dup,,608,0.718,1351,Bhayamu Chendaku,0.765,0.717,0.691,1351,Bhayamu Chendaku,492,0.718
+161,Bratikedanu Prabhu Ni Kosame,D-unique,Pastor William Carey Paul,323,0.571,3878,Brathikeda nee kosame,0.215,0.028,0.355,3229,Yehovaa naa Devaa nithyamu,742,0.087
+162,Edaina Saadhyame,D-unique,Prabhod Kumar Adusumilli,96,0.629,1377,Kavulakainaa Saadhyamaa,0.205,0.037,0.0,2713,Mahimonnathudu mahimaanvithudu maranam gelchina mruthyunjayudu,337,0.141
+163,Idigo,D-unique,Apostle P.S. Rambabu,208,0.0,,,0.208,0.118,0.267,490,Yesayyaa Nee Prema,325,0.0
+164,Kadhey,D-unique,Reshma Reigna,730,0.0,,,0.232,0.07,0.301,176,Naa Priya Yesu Raa,1159,0.0
+165,Mahonnathuda,B-likely-lyric-dup,A R Stevenson,345,0.786,584,Devaa Mahonnathudaa,0.809,0.639,0.81,175,Mahonnathudaa Maa Devaa,346,0.71
+166,Nishabdhamlo,D-unique,Reshma Reigna,648,0.0,,,0.239,0.081,0.203,1085,Nee Premaa Nee Karunaa,452,0.0
+167,Stuthiyu Mahimayu,D-unique,Sam Benny Paul,355,0.585,554,Sthuthiyu Mahima (Aaraadhana),0.353,0.246,0.391,1603,Aaraadhinthu Ninnu Devaa,431,0.111
+168,Thappipoyina Gorrenu Nenu,A-confirmed-dup,Shyam Joseph,298,0.842,325,Thappipoyina Gorre,1.0,1.0,1.0,2430,Thappipoyina gorrenu nenu,298,0.818
+169,Virigina Manasa,D-unique,Paul Moses,347,0.667,27,Vesaarina Manase,0.132,0.034,0.229,3175,Yesuni bhajiyimpave manasaa,856,0.216
+170,Bhajana Cheyuchu,A-lyric-dup,Rev. Arogyam Dorasami,356,0.667,441,Bhajana Cheyuchu Bhaktha Paalaka,0.949,0.789,0.969,441,Bhajana Cheyuchu Bhaktha Paalaka,371,0.667
+171,Kantipaapalaa Kaachinaavayyaa,A-confirmed-dup,Kranthi Chepuri,886,1.0,1173,Kantipaapalaa Kaachinaavayyaa,0.982,0.986,0.997,1173,Kantipaapalaa Kaachinaavayyaa,913,1.0
+172,Mahima Neeke,C-review,Usha Rani & Queeny Victoria,494,0.769,1402,Mahima Neeke Prabhu,0.222,0.096,0.254,1814,Kaaparivai nannu kaachave,637,0.0
+173,Ninu Matrame Ne Nammanaya,A-lyric-dup,John J,458,0.609,2025,Ninu maathrame ne nammaanayaa,1.0,1.0,1.0,2025,Ninu maathrame ne nammaanayaa,458,0.609
+174,Prathi Dinamu Ne Anugrahame,D-unique,Pastor Moses Dayakar,537,0.0,,,0.193,0.069,0.333,972,Krupa Krupa Naa Yesu Krupaa,1315,0.0
+175,Sthothram Cheya,D-unique,Pr D.Isaac Gnana Raj,368,0.667,927,Sthothram Chellinthumu,0.294,0.2,0.303,151,Aaraadhincheda Ninu Madi Pogadeda,392,0.095
+176,Sthuthi Chellinchedamu,D-unique,Tuluri Sinai Sunath,890,0.667,690,Ne Sthuthinchedanu,0.221,0.04,0.185,888,Ae Naamamulo,596,0.133
+177,Sthuthiyumahima,D-unique,Kanna Reyon,477,0.622,1907,Sthuthiyu mahimayu neeke kshithikin,0.241,0.068,0.314,3832,Aashrayudaa naa Yesayya,764,0.059
+178,Ye Stithilo Unnanu,D-unique,S.Ratna Babu,400,0.0,,,0.19,0.069,0.256,1066,Naa Neethi Neeve,678,0.143
+179,Yesu Pilustunnadu,D-unique,Bro. Rakesh Paul,727,0.5,543,Edusthunnaademo Yesayya,0.269,0.123,0.244,699,Nemmadi Ledaa,594,0.077
+180,Aashalanni,A-confirmed-dup,Giftson Durai,1022,1.0,1611,Aashalanni,0.824,0.767,0.725,1611,Aashalanni,778,1.0
+181,Gambheera Shabdhamutho,D-unique,Martin Luther King MV,279,0.0,,,0.199,0.081,0.325,1477,Cheekati Loyalo,629,0.121
+182,Meriseti Taarala,A-lyric-dup,Joshua Shaik & Deva Prasad,422,0.545,2073,Meriseti thaaralaa nanu veliginchu,1.0,1.0,1.0,2073,Meriseti thaaralaa nanu veliginchu,422,0.545
+183,Naa Prardhana,D-unique,Joshi Prashanth,394,0.667,834,Praardhana Praardhana,0.282,0.146,0.281,2361,Ascharyakaruda naa Yesayya,391,0.294
+184,Naalo Unna Yesayya,D-unique,Lawrence,264,0.621,1414,Naa Yesayya Prema,0.21,0.072,0.317,3765,Yesu Neevu Nannu Premisthunnaavu Needu Premanu Nenu Pondhuchunnaanu,531,0.162
+185,Neeve Kavaalesayya,D-unique,Blessy Kingsley,365,0.606,632,Neeve Neeve Kaavaali,0.194,0.048,0.32,1655,Nannu Neevu Aadarinchaavu,832,0.263
+186,Nilicheadha Neesaakhigaa,D-unique,Swarna,399,0.0,,,0.222,0.086,0.363,1004,Antaraani Vaadavantu,900,0.15
+187,Parishudhathmuda,C-title-collision,,493,0.833,2981,Parishuddhaathmuda Deva,0.191,0.011,0.279,1902,Parishuddhaathmuda lemmu nee sanghamupai,943,0.588
+188,Pilichinavadavu,D-unique,Eli Moses,613,0.533,1305,Siluvanu Gelichina,0.24,0.107,0.378,972,Krupa Krupa Naa Yesu Krupaa,1315,0.0
+189,Sarvamu Sadhyamu,D-unique,Duba Willi & D Paripurna,518,0.571,761,Saadhyamu Anni Saadhyamu,0.197,0.055,0.343,804,Vadhiyimpabadina Gorrepillaa,1280,0.1
+190,Meriseti Taarala,A-lyric-dup,"Joshua Shaik, Deva Prasad",422,0.545,2073,Meriseti thaaralaa nanu veliginchu,1.0,1.0,1.0,2073,Meriseti thaaralaa nanu veliginchu,422,0.545
+191,Na Kosam Pranam Pettina,A-lyric-dup,Pastor Paul Raju,342,0.65,2286,Naa kosam praanam pettina,1.0,1.0,1.0,2286,Naa kosam praanam pettina,342,0.65
+192,Naa Kosam,A-confirmed-dup,Nathanael,349,0.875,889,Naa Kosamaa,1.0,1.0,1.0,3840,Naa kosam,349,0.714
+193,Nadhila,D-unique,Srimanth katamala,46,0.0,,,0.152,0.083,0.0,2349,Erugani reethigaa,235,0.095
+194,Nee Sannidhi,A-confirmed-dup,Kishore Kathula,492,0.8,449,Nee Sannidhiye Naa,1.0,1.0,1.0,1899,Nee sannidhi aanandamu aadyanthamu,492,0.4
+195,Nireekshana,B-likely-lyric-dup,Anu Roy Samuel featuring Rufus Ganta,327,0.667,3841,Yesayya Naa Nireekshana,0.714,0.734,0.948,1975,Yese nee aadhaaramu digulu chendaku,540,0.1
+196,Saricheyumo Devaa,A-confirmed-dup,Kranthi Chepuri,397,0.867,994,Sari Cheyumo Devaa,0.963,0.919,0.98,994,Sari Cheyumo Devaa,411,0.867
+197,Swasthaparachu Devudu,A-confirmed-dup,Kranthi Chepuri,790,1.0,1610,Swasthaparachu Devudu,0.979,0.986,0.997,1610,Swasthaparachu Devudu,820,1.0
+198,Swasthatha,D-unique,"Merlyn Salvadi, Kenny Salvadi",663,0.519,1978,Brathiki chasthaavaa,0.259,0.083,0.336,1845,Yesayya lone unnadi manaku rakshana,1053,0.051
+199,ఎల్ షద్దాయ్ (Elshaddai),A-lyric-dup,Gersson Edinbaro,392,0.0,,,0.918,0.932,0.923,2020,Naa balamugaa Kreesthu naakundagaa,396,0.04
+200,Adonai (Suryodayamu Modhalokuni),A-lyric-dup,,514,0.655,3838,Adonai Sooryodhayamu Modhalukoni,0.946,0.954,0.98,3838,Adonai Sooryodhayamu Modhalukoni,551,0.655
+201,Antha Nee Krupa,A-lyric-dup,Prakash Halmidi,521,0.64,2704,Anthaa nee krupa,0.815,0.8,0.709,2704,Anthaa nee krupa,386,0.64
+202,Arhuda,D-unique,Vijay Kondapuram,633,0.0,,,0.324,0.241,0.303,1179,Ishraayelu Devaa,551,0.0
+203,Asamanudainavadu,A-lyric-dup,Pastor David Varma,802,0.621,707,Balamainavaadaa,1.0,1.0,1.0,1847,Asamaanudu Avamaanaparachadu Ninnu,802,0.522
+204,Bangaru Vendikanna Yesayya,D-unique,Pastor Freddy Paul,627,0.591,2940,Endukayyaa Yesayya nannu,0.14,0.025,0.243,1789,Kondharemo gurraalantoo,1547,0.136
+205,Digulu Padaku Nesthama,D-unique,Sister Lakshmi Kumari,258,0.5,1167,Thalavanchaku Nesthamaa,0.154,0.112,0.262,306,Naa Praanamaa Aelane,617,0.111
+206,Kaaparivai,A-lyric-dup,Ameeth Evans,654,0.581,1814,Kaaparivai nannu kaachave,0.984,0.985,0.971,1814,Kaaparivai nannu kaachave,637,0.581
+207,Kruthagnatha,A-lyric-dup,Suneeth Bobby,543,0.647,1375,Kruthagnathan Thalavanchi,1.0,1.0,1.0,3844,Kruthagnatha sthothraarpanalu neeke chellinthunu,543,0.4
+208,Naa Chethulethi,D-unique,"Sam Alex, Cameron Mendes & Samarth Shukla",309,0.529,783,Chaachina Chethulu Neeve,0.242,0.062,0.391,919,Sthuthi Paadutake,688,0.357
+209,Nee Krupatho Santhrupthi,D-unique,Bandela Naga Raju,452,0.511,1483,Brathikiyunnaanante Nee Krupa,0.299,0.145,0.307,961,Ninu Poli Nenu,474,0.062
+210,Anduko Naa Upavasa,A-lyric-dup,,557,0.0,,,1.0,1.0,1.0,1898,Susaadhyamegaa,557,0.143
+211,Kananu Yatralo,D-unique,Pastor David Paul,278,0.0,,,0.244,0.063,0.319,2133,Oohinchalenu nee premanu naa ooha chaaladhaya,447,0.157
+212,Leru Evaru Neela,D-unique,Raja Mandru & Bro. Bharath Mandru,410,0.581,339,Neeku Saati Evaru Leru,0.2,0.095,0.338,1781,Naa bhaagaswaamini Yeshua Jerusha,975,0.095
+213,Na Pranam Neevenayya,D-unique,Bro.Philliph Prakash,446,0.688,1524,Neeve Naa Praanamu,0.204,0.036,0.351,1788,Nee krupaye naa jeevithamu,1091,0.359
+214,Naa Jeevithakaalamantha,C-title-collision,Pastor Daniel,435,0.905,815,Naa Jeevitha Kaalamantha,0.28,0.142,0.346,2061,Nannu inthagaa preminchina naa Yesu raajaa,641,0.246
+215,Naa Kedama,D-unique,Ps. Vijay Kumar,324,0.588,889,Naa Kosamaa,0.201,0.087,0.339,90,Ghanamaina Naa Yesayyaa,765,0.286
+216,Nee Premanu Minchina,D-unique,James Lazarus Narukurthi,352,0.629,44,Nanu Cherina Nee Prema,0.316,0.121,0.409,1857,Premamayudaa naa Yesayya,558,0.316
+217,Sthiraparachuvaadavu,B-likely-lyric-dup,Daniel Praneeth,188,0.522,2687,Pavithra parachumu naa hrudayam,0.586,0.5,0.957,1636,Emainaa Cheyagalavu,423,0.167
+218,Yehova Dayaludu,D-unique,Y P Prasad,521,0.542,1549,Yehovaa Dayaaludu Sarva Shakthimanthudu,0.281,0.047,0.341,3229,Yehovaa naa Devaa nithyamu,742,0.4
+219,Yesuku Ammiveyabaddadhaananu,D-unique,Ps. Manasa,898,0.52,3058,Naa Yesu naadhaa nanu joodave,0.294,0.185,0.283,1765,Yesayya Nuvve Naa Aasha,836,0.267
+220,Dhavala Simhaasanam,A-lyric-dup,Prem Kodali,273,0.788,1946,Davala simhaasanam,1.0,1.0,1.0,1946,Davala simhaasanam,273,0.788
+221,Gauravaneeyuda Galaliyavada,A-lyric-dup,John Sandeep,316,0.518,2803,Gauravaneeyudaa Galileeyavaada Yesayya ninnu ghanaparachedhanayya,1.0,1.0,1.0,2803,Gauravaneeyudaa Galileeyavaada Yesayya ninnu ghanaparachedhanayya,316,0.518
+222,Goppavada,D-unique,Sridhar Eethakota,228,0.636,706,Goppa Devudavani,0.177,0.077,0.301,3844,Kruthagnatha sthothraarpanalu neeke chellinthunu,543,0.038
+223,Jayamiche Na Deva,D-unique,Pastor Ronald Ross featuring Giftson Durai,727,0.588,944,Jayamichchina Devuniki,0.252,0.174,0.327,176,Naa Priya Yesu Raa,1159,0.143
+224,Nee Krupalenide,D-unique,John Wesly Pakalapati,644,0.667,905,Nee Krupa Lenicho,0.201,0.049,0.301,804,Vadhiyimpabadina Gorrepillaa,1280,0.051
+225,Neeve Naaku Aadharam,D-unique,Pas. Vinay Kumar,372,0.667,755,Aadhaaram Neevenayyaa,0.23,0.091,0.373,1655,Nannu Neevu Aadarinchaavu,832,0.513
+226,Neevu Thodai Undagaa,A-confirmed-dup,Joshua Katta,529,0.857,1651,Neevu Thodaiyundagaa,0.883,0.817,0.863,1651,Neevu Thodaiyundagaa,505,0.857
+227,Neevunte Chalayya,A-lyric-dup,M. Manoj Kumar,412,0.634,1563,Neevunte Naaku Chaalu Yesayyaa,0.838,0.827,0.746,3843,Evarunna lekunna naakemunna lekunna,322,0.087
+228,Oka Kshanamaina,C-title-collision,Raja & Smiley Raja,1276,1.0,1496,Oka Kshanamaina,0.263,0.05,0.384,926,Shaashwathamaina Prematho,2443,0.389
+229,Sameepimparaani,C-review,Anil Vemula,494,0.737,1252,Sameepimparaani Thejassulo,0.251,0.088,0.303,1168,Adiginadi Konthe Ayinaa,695,0.059
+230,Devaa Nee Sannidhilone,C-title-collision,Symonpeter Chevuri,465,0.944,1014,Devaa Nee Sannidhilo,0.258,0.124,0.361,1655,Nannu Neevu Aadarinchaavu,832,0.293
+231,Idhe Kadha Jeevitham,A-lyric-dup,Joshua Shaik,501,0.647,1974,Idhe kadaa jeevitham,1.0,1.0,1.0,1974,Idhe kadaa jeevitham,501,0.647
+232,Krupa Vembadi Krupalo,C-title-collision,,246,0.865,99,Krupa Vembadi Krupatho,0.226,0.177,0.381,1545,Noothanamainadi,581,0.125
+233,Na Chinni Prardhana,D-unique,Samy Pachigalla,137,0.541,1378,Praardhana Vinnaavayyaa,0.209,0.067,0.0,2250,Naa praarthanalanni aalakinchinaavu,394,0.417
+234,Nee Krupa Baahulyamutho,D-unique,P J Stephen Paul,106,0.649,2808,Nee krupa baahulyame,0.166,0.113,0.269,2349,Erugani reethigaa,235,0.229
+235,Nee Sannidhi Chalu,A-lyric-dup,Evangelist Sam Prasad,708,0.667,449,Nee Sannidhiye Naa,0.834,0.741,0.749,1587,Megha sthambamaina sannidhini,565,0.341
+236,Nee Udayakanthilo,A-lyric-dup,Lillian Christopher,408,0.667,2701,Udaya kaanthi rekhalo,1.0,1.0,1.0,2016,Nee udaya kaanthilo ne nadachivelleda,408,0.553
+237,Nyaayamuga,A-lyric-dup,K.SatyaVeda Sagar,672,0.6,2017,Nyaayamugaa naduchukoni,1.0,1.0,1.0,2017,Nyaayamugaa naduchukoni,672,0.6
+238,Sameepimparaani,C-review,Anil Vemula,233,0.737,1252,Sameepimparaani Thejassulo,0.172,0.075,0.294,1275,Aathmeeya Gaanaalatho,564,0.242
+239,Ye Reethiga,D-unique,Bishop Dr. Pandiri Moses,488,0.519,1134,Preethigala Mana Yesu,0.262,0.095,0.206,1246,Devaa Naa Hrudayamutho,278,0.071
+240,Balavanthuda,A-lyric-dup,A.R.Stevenson,388,0.595,3976,Balavanthudaa dhanavanthudaa,1.0,1.0,1.0,3976,Balavanthudaa dhanavanthudaa,388,0.595
+241,Evaremanukuntunna,A-lyric-dup,Saahus Prince,579,0.627,2018,Evaremanukuntunnaa nin aaraadhisthunna,1.0,1.0,1.0,2018,Evaremanukuntunnaa nin aaraadhisthunna,579,0.627
+242,Jaalari Jaalari Jaalarivo,A-lyric-dup,Pastor B.Issac,307,0.694,2739,Jaalari jaalari jaalarivaa Yesu,1.0,1.0,1.0,2739,Jaalari jaalari jaalarivaa Yesu,307,0.694
+243,Krupa Kaligina Vaada,D-unique,Bro.T.Vijayanand,97,0.51,1945,Krupa kaligina vaadaa neelo nilichedanu,0.292,0.326,0.0,1945,Krupa kaligina vaadaa neelo nilichedanu,557,0.51
+244,Memu Paadedham,D-unique,Daniel Surya Avula,128,0.5,2743,Paadedamu vededamu,0.391,0.351,0.0,1949,Prathi udayam nee krupanu,520,0.061
+245,Naa Baagaswamini,A-lyric-dup,Joshi Ennam James & Prathima Ennam,963,0.579,1259,Naa Jeevitha Bhaagaswaamivi,0.994,0.992,1.0,1781,Naa bhaagaswaamini Yeshua Jerusha,975,0.558
+246,Nee Krupa Lenidhe Nee Daya,A-lyric-dup,Pastor. Samuel Nethala,315,0.667,1009,Nee Dayalo Nee Krupalo,0.977,0.976,0.968,2355,Nee krupa lenide nee daya lenide,309,0.468
+247,Neeve Chalunu Yesu,C-review,Percy Bhanu,355,0.778,4008,Neeve Naaku Chaalunu Yesu,0.177,0.039,0.283,3833,Yesayya naa praanamaa – Ghanamaina sthuthigaanamaa,781,0.102
+248,Yela Padanu,A-lyric-dup,Pastor. Prabhu Bhushan Prathipati,557,0.545,1047,Ninu Paadaalani,1.0,1.0,1.0,1860,Elaa paadanoo emi cheppanoo,557,0.25
+249,Yesayya Yesayya,C-title-collision,P J Stephen Paul,210,0.929,506,Yesayyaa Yesayyaa,0.183,0.043,0.312,951,Neetho Naa Jeevitham,503,0.0
+250,Datipobokaya,D-unique,Pastor B Shalem Raju,383,0.0,,,0.149,0.022,0.249,1004,Antaraani Vaadavantu,900,0.0
+251,El Shama,B-likely-dup,Jessy Paul,344,0.923,8,El Shamaa,0.577,0.465,0.813,8,El Shamaa,623,0.923
+252,Kalamulatho Rayagalama,A-confirmed-dup,Daniel J. Kiran,344,0.952,53,Kalamulatho Raayagalamaa,0.966,0.977,0.994,53,Kalamulatho Raayagalamaa,364,0.952
+253,Ley Nilabadu,C-title-collision,P James,336,0.842,1350,Le Nilabadu,0.182,0.062,0.246,1007,Raajaa Nee Sannidhilone Untaanayyaa,567,0.049
+254,Naalo Neevu Neelo Nenu,D-unique,Pastor B Shalem Raju,437,0.526,885,Neetho Nenu Naduvaalani,0.278,0.101,0.26,651,Nee Kantipaapanu,381,0.25
+255,Nadipisthaadu,A-lyric-dup,A.R.Stevenson,360,0.727,1294,Nadipisthaadu Naa Devudu,0.937,0.962,0.994,1294,Nadipisthaadu Naa Devudu,404,0.727
+256,Nannu Choochuvaada,A-confirmed-dup,Father S J Berchmans,391,0.97,1621,Nannu Choochuvaadaa,0.882,0.865,0.951,1621,Nannu Choochuvaadaa,452,0.97
+257,Nannu Viduvaka,D-unique,Dr P Satish Kumar,388,0.692,205,Viduvavu Nannika,0.196,0.04,0.295,3833,Yesayya naa praanamaa – Ghanamaina sthuthigaanamaa,781,0.036
+258,Neetho Unte Jeevitham,B-likely-dup,Robert Stoll,494,1.0,1616,Neetho Unte Jeevitham,0.773,0.612,0.888,1616,Neetho Unte Jeevitham,641,1.0
+259,Thappipoyina Gorrenu Nenu,A-confirmed-dup,Shyam Joseph,298,0.842,325,Thappipoyina Gorre,1.0,1.0,1.0,2430,Thappipoyina gorrenu nenu,298,0.818
+260,Maruvanu Deva,B-likely-lyric-dup,Paul Moses,155,0.516,3054,Ninnu nenu viduvanu Deva,0.624,0.571,1.0,3836,E reethigaa ninu paadedanu,339,0.121
+261,Naa Paapa Bhaaram,D-unique,,478,0.513,1977,Nee Rakthame Paapa Parihaaram,0.211,0.074,0.328,318,Siluva Dhyaanam,1003,0.148
+262,Naa Yesayya,C-review,Dr P Satish Kumar,447,0.783,1414,Naa Yesayya Prema,0.213,0.018,0.366,1788,Nee krupaye naa jeevithamu,1091,0.129
+263,Nee Krupatishayamu,C-review,Asher Andrew,177,0.711,1585,Nee Krupaatishayamunu Anunityamu,0.261,0.08,0.423,3538,Yehovaa nee krupaathishayamunu nithyamu keerthinthun,394,0.381
+264,Nee Raktam,A-lyric-dup,Raj Prakash Paul,713,0.5,513,Nee Raktha Dhaarale,0.994,1.0,0.994,1783,Nee raktham challindhi o Deva,713,0.312
+265,Nee Thyagam,A-lyric-dup,Pastor John Wesly,407,0.0,,,1.0,1.0,1.0,2481,Nee Thyaagam Naa Viluvanu Penchindhi,407,0.45
+266,Pindamunai Nenu,B-likely-lyric-dup,Surya Teja,193,0.0,,,0.737,0.747,1.0,2290,Pindamunai nenu naa thalli garbhamuna,329,0.489
+267,Rare Chuthamu,A-lyric-dup,Sri. Chettu Bhanumurthy,284,0.75,400,Raare Choothamu,0.837,0.865,0.986,400,Raare Choothamu,384,0.75
+268,Sharonu Rojave,B-likely-lyric-dup,Pastor Nirmal Elroi,179,0.714,1547,Shaaronu Rojaa Yese,0.624,0.658,0.989,1591,Sharoonu Rojaave Naa Praana Snehame,386,0.571
+269,Stuthulivigo Na Prabhuva,D-unique,Raj Prakash Paul,693,0.5,545,Prabhuvaa Kaachithivi,0.24,0.116,0.347,972,Krupa Krupa Naa Yesu Krupaa,1315,0.047
+270,Baliinava,A-lyric-dup,Praveen Paul,673,0.545,707,Balamainavaadaa,0.907,0.893,0.841,1856,Neevu kaligina korikakai,575,0.276
+271,Inneluga Matho,A-lyric-dup,Sister Nissy Paul,540,0.511,2140,Innellugaa Maatho Undi Nadipinchavayyaa,1.0,1.0,1.0,2140,Innellugaa Maatho Undi Nadipinchavayyaa,540,0.511
+272,Kanuma Siluvapai,A-confirmed-dup,Pastor John Wesley,586,0.828,2436,Kanumaa siluvapai,0.806,0.833,0.68,2436,Kanumaa siluvapai,403,0.828
+273,Minnayaina Prema,A-lyric-dup,Prabhod Kumar Adusumilli,525,0.651,2023,Minnayaina Prema Choopina Yesayya,1.0,1.0,1.0,2023,Minnayaina Prema Choopina Yesayya,525,0.651
+274,Neevu Unnavadavu,D-unique,Benny Joshua,311,0.6,2527,Neevu naa dhevundavai yunnaavu,0.229,0.122,0.337,1198,Divinelu Sthothraarhudaa,602,0.056
+275,Paadana Kaneeti Swaram,A-lyric-dup,WCM Kiran Paul,460,0.514,3870,Deva nee yaavaranam,1.0,1.0,1.0,2071,Paadanaa Sthothra Keerthana,460,0.465
+276,Rudhiram,A-lyric-dup,Pastor Edurumondi John Chakravarthy,341,0.526,3770,Nee mandhirame,0.988,1.0,0.988,2744,Siluva Baruvayenaa Rudhiram Dhaaralayenaa,341,0.318
+277,Siddhapadudham,B-likely-lyric-dup,Philip gariki,389,0.619,3808,Siddhapadudhaam siddhapadudhaam,0.85,0.505,0.835,3808,Siddhapadudhaam siddhapadudhaam,375,0.619
+278,Tolakarivaana,C-review,Hosanna Ministries featuring Pastor Freddy Paul,602,0.72,231,Tholakari Vaana,0.208,0.041,0.293,1788,Nee krupaye naa jeevithamu,1091,0.118
+279,Uhakandani Prema,C-review,Hosanna Ministries featuring Pastor John Wesley,691,0.743,211,Naa Oohakandani Prematho,0.251,0.071,0.203,436,Aascharyamaina Prema,427,0.312
+280,Akshayuda,D-unique,"Pastor Ramesh, Hosanna Ministries",638,0.0,,,0.298,0.129,0.261,36,Nee Krupa Chaalunayaa,480,0.154
+281,Ashrayuda Naa,B-likely-lyric-dup,Hosanna Ministries featuring Pastor Ramesh,728,0.625,1682,Aashrayudaa Naa Priyudaa,0.935,0.636,0.959,3832,Aashrayudaa naa Yesayya,764,0.516
+282,Jagamerigina Raaju,D-unique,Hosanna Ministries featuring Bro. Yesanna,430,0.0,,,0.151,0.023,0.236,3470,Seeyonu puramaa sarvonnathuni shrungaarapuramaa Seeyonupuramaa,909,0.11
+283,Jaya Sankethamaa,D-unique,,653,0.606,1374,Aayane Naa Sangeethamu,0.271,0.095,0.409,972,Krupa Krupa Naa Yesu Krupaa,1315,0.056
+284,Parishudhuda Vandanamu,C-review,Daniel Muchumarri,485,0.706,326,Parishuddhaathmudaa Neeke Vandanam,0.233,0.03,0.248,886,Vandanam,548,0.519
+285,Parishudhuda,C-title-collision,Dr Jayapaul,290,0.846,1505,Parishuddhudavai,0.203,0.093,0.326,1608,Naa Hrudayamantha,639,0.154
+286,Sukumaaruda,A-lyric-dup,Hosanna Ministries featuring Pastor Abraham,542,0.632,1307,Sundarudaa,0.991,0.993,1.0,2070,Sukumaarudaa jagamulanele paripaalaka,552,0.455
+287,Trushna,D-unique,"Meghana Medapati, Good Shepherd Ministries, Vizag",119,0.0,,,0.165,0.122,0.248,2904,Naa praana priyudaa naa Yesu prabhuvaa,236,0.053
+288,Yesayye Naa Praanam,A-lyric-dup,Hosanna Ministries featuring Pastor Ramesh,781,0.722,1147,Yesayyaa Praana Naathaa,1.0,1.0,1.0,3833,Yesayya naa praanamaa – Ghanamaina sthuthigaanamaa,781,0.367
+289,Yevarikki Yevaru,C-review,Bharat Mandru,130,0.64,1238,Evariki Evaru,0.515,0.583,0.0,3835,Evariki evaru ee lokamulo,371,0.514
+290,Andhala Tara Merisenu,D-unique,Rakesh Menda,206,0.533,138,Andaala Thaara,0.247,0.047,0.328,4005,Ee dinam shubha dinam,341,0.057
+291,Bangaramu Veedhulunna,A-lyric-dup,Sayaram Gattu,479,0.745,1897,Bangaaramu Veedhulunna Nagaramulona,1.0,1.0,1.0,1897,Bangaaramu Veedhulunna Nagaramulona,479,0.745
+292,Christmas Subhavelalo 2,D-unique,Suresh Nittala,138,0.615,792,Christmas Shubha Dinam,0.39,0.395,0.0,2136,Krismas shubhavelalo mana andari hrudayaalalo,563,0.467
+293,Devude Maanavunigaa,A-lyric-dup,"Late Dr. Joseph Moses K, Founder & Director, Gospel Torch Charitable Mission",416,0.667,2067,Devude maanavunigaa janminchenu,1.0,1.0,1.0,2067,Devude maanavunigaa janminchenu,416,0.667
+294,Jagamantha Panduga,B-likely-lyric-dup,Kishore Babu Thappeta,226,0.545,747,Illalona Panduganta,0.617,0.584,1.0,2352,Aakaashaveedhilo oka thaara velisindi,504,0.122
+295,Madhilona Ninnu,D-unique,Dr. Killari David Raju,267,0.519,1508,Shilanaina Nannu,0.128,0.045,0.211,2006,Digulu padaku sevakaa digulu padakumayaa,614,0.042
+296,Merise Ningilo,C-review,Dr. Visranth Christian,162,0.541,2344,Ningilona merise nakshathram,0.539,0.553,0.0,2139,Merise ningilo merise o thaara,428,0.541
+297,Raajula Raaju Puttenu,A-lyric-dup,Shyam Joseph,504,0.78,442,Raajulaku Raaju Puttenayya,0.944,0.957,0.9,1925,Raajula Raaju Puttenu Bethelehemulo,458,0.735
+298,Thirigi Vachina,D-unique,Prudhvi Raj,177,0.5,479,Dikkulenni Thiriginaa,0.268,0.159,0.429,44,Nanu Cherina Nee Prema,387,0.194
+299,Yesuni Jananam,C-review,"Jeevan Louis, Silas featuring Divya Daniel",553,0.783,415,Yesu Jananamu,0.264,0.078,0.272,3830,Idhi aashcharyame,587,0.074
+300,Bhayamu Ledu,C-review,Raja Mandru,344,0.769,572,Bhayamu Ledu Manaku,0.169,0.233,0.129,1127,Udayakaalamu Madhyahaanamu,181,0.294
+301,Dunnani Beedu Bhoomulalo,D-unique,Sunny Raj Kodavati,559,0.0,,,0.213,0.052,0.357,972,Krupa Krupa Naa Yesu Krupaa,1315,0.0
+302,Ebenezere,D-unique,M.S.Suneeth Vardhan,296,0.0,,,0.149,0.053,0.238,1289,Krupagala Devaa,650,0.0
+303,Maananu Maananu,C-title-collision,Joel Kodali,142,1.0,1422,Maananu Maananu,0.399,0.424,0.0,1422,Maananu Maananu,563,1.0
+304,Naa Pakshamai Saakshyam,A-lyric-dup,Kiran Paul,690,0.5,2511,O rakshakaa nee divya naamamu,1.0,1.0,1.0,1840,Nindalalo nispruhalo,690,0.053
+305,Naa Praanahithudaa,D-unique,Barzillai Lanka Samuel,425,0.645,1648,Naa Praana Naathaa,0.174,0.079,0.293,1754,Naa Devaa ne neetho untaa prathikshanam,1006,0.367
+306,Nee Krupatho,D-unique,Mrs. Grace Solomon,249,0.667,905,Nee Krupa Lenicho,0.219,0.094,0.364,1009,Nee Dayalo Nee Krupalo,576,0.5
+307,Neeve Naku Thandrivani,A-lyric-dup,Aronkumar Nakrekanti,367,0.691,3831,Neeve Naaku Thandrivani Neeve Naa Devudani,1.0,1.0,1.0,3831,Neeve Naaku Thandrivani Neeve Naa Devudani,367,0.691
+308,Stuthiyincheda Sarvonnatha,D-unique,Joshua Shaik,187,0.565,627,Sarvonnatha Sthalamulalo,0.242,0.113,0.314,685,Parishuddhudaa Paavanudaa,297,0.085
+309,Vinthaga,D-unique,Sis. Prasanna Bold,416,0.588,1222,Entho Vintha,0.165,0.025,0.234,3886,Ningiloni chanduruda mandagaache induruda,765,0.182
+310,Aakasham Vypu,D-unique,"Pastor Freddy Paul, Hosanna Ministries",762,0.538,1249,Neeli Aakaashamlo,0.276,0.058,0.237,840,Vijayaseeludaa,545,0.083
+311,Adharinchumayya,D-unique,Dr P Satish Kumar,363,0.595,1278,Sweekarinchumayaa Naathaa,0.21,0.071,0.291,2061,Nannu inthagaa preminchina naa Yesu raajaa,641,0.16
+312,Athi Srestaneeyuda,D-unique,Prudhvi Raj,196,0.514,2583,Nithyudaa nee sannidhi,0.199,0.141,0.325,531,Aaraadhana Sthuthi Aaraadhana,442,0.143
+313,Jeeva Naava,A-lyric-dup,Joshua Shaik,471,0.643,1501,Saagenu Naa Jeeva Naava,1.0,1.0,1.0,2011,Raavaa Yesudhevaa neeve naa varamuga,471,0.3
+314,Kanipettaanu,D-unique,John Erry & Noah Gibson,255,0.0,,,0.223,0.038,0.332,2420,Kanipettuchuntini Prabhuvaa nee sannidhini,503,0.367
+315,Mahaa Devudu,C-review,Dr. Negala Joshua,209,0.636,3778,Yese naa Devudu,0.534,0.563,0.0,3834,Mahaadhevudaa mahonnathudaa,570,0.4
+316,Naa Ashalanni,C-review,John J,362,0.7,1611,Aashalanni,0.203,0.054,0.356,1004,Antaraani Vaadavantu,900,0.207
+317,Ne Paadu Paataku Kaaranama,D-unique,Pastor John Jebaraj,229,0.622,145,Nee Paadaale Naaku Sharanam,0.236,0.283,0.352,4012,Davala varnudu,454,0.118
+318,Nee Dayalo,D-unique,"Pastor Sammy Thangiah & Pastor Paul Thangiah featuring Benji PK, Sudheer Daniel & Jyotsna",160,0.696,172,Nee Dayalo Nenunna,0.177,0.08,0.297,3893,Yesu saami neeku nenu naa samastha mitthunu,376,0.045
+319,Oohinchani Karyamulu Chuchedanu,D-unique,Pastor Vinod Kumar,627,0.694,123,Oohinchaleni Kaaryamulu,0.18,0.096,0.278,972,Krupa Krupa Naa Yesu Krupaa,1315,0.0
+320,Akshayamainadi,A-lyric-dup,Jasper Kunapo,371,0.6,665,Shaashwathamainadi,0.873,0.909,0.957,2273,Akshaya mainadhi Yesuni rakthamu,442,0.585
+321,Cheppanasakyamu,D-unique,Jasper Kunapo,306,0.0,,,0.176,0.042,0.283,3679,Prabhuvaina Kreesthulo thandri,676,0.098
+322,Nee Divya Krupamrutham,D-unique,Symonpeter Chevuri,403,0.0,,,0.3,0.097,0.387,473,Yesayya Nee Prema,636,0.182
+323,Nee Vasamaodhunu,D-unique,"Pastor T Jafanya Sastry, Visakhapatnam",67,0.0,,,0.093,0.05,0.0,3820,Yaahweh Raaphah Elohim Sheddai Yire Adoonaai kanaparachunu,238,0.092
+324,Neelanti Dhaivam,D-unique,Pastor Raj Prakash Paul,559,0.519,1467,Neelaanti Prema,0.287,0.193,0.271,689,Yehovaa Needu Melulanu,498,0.364
+325,Neevanti Vaaru Naaku Evaru,D-unique,Mohan C Lazarus,176,0.632,3819,Neevantivaaru leru,0.29,0.238,0.437,891,Bandhamu Neeve,353,0.294
+326,Neevu Naa Thodu Unnavayya,A-confirmed-dup,Father Deva,405,0.864,337,Neeve Naa Thodu Unnaavayyaa,0.985,0.985,0.995,337,Neeve Naa Thodu Unnaavayyaa,413,0.864
+327,Ninne Nammina,D-unique,Dr P Satish Kumar,303,0.6,1650,Ninne Ne Nammukunnaanu,0.217,0.033,0.332,8,El Shamaa,623,0.111
+328,Saranamu Neeve Yesayya,D-unique,John Reinhard Blessy,470,0.591,3817,Yesayya neeve aashrayapuramu,0.296,0.135,0.368,1168,Adiginadi Konthe Ayinaa,695,0.051
+329,Unnathuda Athyunnathudaa,C-title-collision,Bro Paul Emmanuel,105,0.889,3823,Unnathudaa athyunnathudaa,0.514,0.5,0.0,3823,Unnathudaa athyunnathudaa,300,0.889
+330,Adbutham Cheyumaya,C-review,Paul Moses featuring Asha Ashirwadh,124,0.5,3660,Daahamu theerchumayyaa,0.516,0.492,0.0,1650,Ninne Ne Nammukunnaanu,341,0.057
+331,Bhayamela O Sodara,D-unique,Pastor Ratna Babu,403,0.0,,,0.255,0.043,0.319,1498,Devuni Sthuthiyinchi Aaraadhinthumu,604,0.085
+332,Hallelujah Hosanna,C-review,Bishop Rachel jyothi Komanapalli,379,0.788,1688,Halleluya Hosannaho,0.269,0.044,0.379,3412,Randi randi rayamuna Yesuni - Rakshakuniga nangeekarinchudi,690,0.059
+333,Kantipaapala Kaachinaavayyaa,C-title-collision,Kranthi Chepuri,302,0.981,1173,Kantipaapalaa Kaachinaavayyaa,0.495,0.446,0.0,1173,Kantipaapalaa Kaachinaavayyaa,913,0.981
+334,Ne Gelichedanu,A-confirmed-dup,"Esther Evelyne, Narsinga Bobbili & Prabhu Pammi",621,1.0,1606,Ne Gelichedanu,0.903,0.805,0.922,1606,Ne Gelichedanu,647,1.0
+335,Nee Swarame Vinna,D-unique,Joshua Shaik,139,0.696,1058,Nee Swaramu,0.207,0.031,0.343,536,Naa Yesu Prabhuvaa,319,0.069
+336,Neeve Deva,A-lyric-dup,John Vittney kalavala,731,0.64,1635,Naa Thodu Neeve Devaa,0.912,0.809,0.9,509,Paapiga Nanu Choodaleka,712,0.0
+337,Punarudhanuda,C-review,Raja Mandru,344,0.741,942,Punarutthaanudaa,0.218,0.122,0.342,906,Krupaa Kshemamu,734,0.08
+338,Sthothra Geethamulu,C-review,Jeevan Wesley Olesu,182,0.727,582,Neeke Sthothramulu,0.492,0.506,0.0,1962,Sthothrageethamulu Yehovaaku paadedam,553,0.588
+339,Adhaarama Naa Yesayya,C-review,Joshua Shaik,375,0.762,2274,Naaku aadhaaramaina Yesayya,0.15,0.037,0.239,1937,Advitheeyudaa nannelu daivamaa,814,0.222
+340,Ennaallu Ennaallu,D-unique,Joel Kodali,486,0.611,2487,Ennaallugaa enneellugaa,0.24,0.089,0.221,549,Parama Jeevamu,411,0.0
+341,Kaluvari Premanu,C-title-collision,A.R.Stevenson,215,0.889,254,Kalvari Premanu,0.135,0.043,0.221,2331,Naa paapamulanu kshaminchen Prabhu naa nethramulanu veliginchen,484,0.114
+342,Kannula Jaarina Kannillu,D-unique,Pastor B Shalem Raju,123,0.615,1470,Kanulunnaa Kaanaleni,0.12,0.033,0.207,2442,Kruthagnathatho samarpanatho,298,0.128
+343,Na Praname Neevaina Vela,D-unique,Prabhavathi Ramesh,165,0.629,1524,Neeve Naa Praanamu,0.111,0.049,0.19,957,Sonthamai Povaali Naa Yesutho,400,0.178
+344,Nee Krupa Naku Aadaramai,D-unique,Edurumondi John Chakravarthi,435,0.619,1632,Nee Krupaye Naa Aadhaaramu,0.228,0.061,0.319,3833,Yesayya naa praanamaa – Ghanamaina sthuthigaanamaa,781,0.125
+345,Nee Snehamu,A-confirmed-dup,Jesus Chanan featuring Bro Prakash,592,1.0,782,Nee Snehamu,1.0,1.0,1.0,2128,Nee snehamu nanu manishini chesindi,592,0.359
+346,Neelone Labhinchindhi,D-unique,A R Stevenson,178,0.0,,,0.192,0.15,0.295,3831,Neeve Naaku Thandrivani Neeve Naa Devudani,367,0.109
+347,Prabhu Nee Manchithanamu,D-unique,,329,0.541,2630,Nee chitthamu naalo,0.235,0.088,0.303,876,Naa Priyamaina Yesu Prabhu,519,0.326
+348,Varninchaleni Tyaagam,C-review,Dr Y Vijay Kumar,305,0.71,366,Varninchalenu,0.238,0.058,0.35,1244,Mulla Kireetamu,590,0.062
+349,Anuraagaa Poornuda,D-unique,Hosanna Ministries featuring Pastor Ramesh,608,0.552,936,Premaa Poornudu,0.226,0.054,0.358,972,Krupa Krupa Naa Yesu Krupaa,1315,0.105
+350,Jeevana Makarandham,D-unique,Hosanna Ministries featuring Pastor John Wesley,126,0.558,1643,Paralokamandunna Maa Thandree,0.164,0.246,0.242,1047,Ninu Paadaalani,243,0.067
+351,Kannuletthuchunnanu,D-unique,Hosanna Ministries featuring Pastor Freddy Paul,241,0.558,3440,Ghadiya nenu thattuchunnaanu,0.243,0.064,0.339,2335,Kanneeti baadhanu viduchuchunna nee sannidhilo,429,0.441
+352,Karunaasaagara,C-review,Hosanna Ministries featuring Pastor Abraham,321,0.722,3171,Karunasaagara veevekaavaa,0.232,0.09,0.348,2061,Nannu inthagaa preminchina naa Yesu raajaa,641,0.245
+353,Manchi Snehithudu,A-confirmed-dup,Suresh Vanguri,329,1.0,198,Manchi Snehithudu,0.943,0.882,0.957,198,Manchi Snehithudu,339,1.0
+354,Naa Praanamaina Yesu,A-confirmed-dup,Jayaseelan,271,1.0,605,Naa Praanamaina Yesu,0.937,0.959,0.989,605,Naa Praanamaina Yesu,301,1.0
+355,Nuthanamaina Krupa,A-lyric-dup,Hosanna Ministries featuring Pastor John Wesley,852,0.684,1260,Entha Adbhuthamaina Krupa,1.0,1.0,1.0,3821,Noothanamaina krupa nava noothanamaina krupa,852,0.436
+356,Ontari Vela,D-unique,,342,0.5,648,Thellaarindi Vela,0.192,0.084,0.326,1610,Swasthaparachu Devudu,820,0.071
+357,Siluvalo Vrelaade,D-unique,Hosanna Ministries featuring Bro. Yesanna,323,0.632,2037,Siluvalo vrelaadu Prabhuve,0.231,0.124,0.368,1151,Peda Naruni Roopamu,701,0.0
+358,Sraavya Sadhanamu,D-unique,Hosanna Ministries,579,0.538,154,Vaagdhaanamu,0.221,0.101,0.362,972,Krupa Krupa Naa Yesu Krupaa,1315,0.054
+359,Aaraadhinchu Naa Snehithudaa,A-lyric-dup,Apostle Yanamala Isaac,461,0.684,488,Naa Snehithudaa,1.0,1.0,1.0,3817,Yesayya neeve aashrayapuramu,461,0.12
+360,Amrutham Ni,D-unique,Keerthana & Samkeertha,552,0.0,,,0.329,0.124,0.331,1979,Naa Kashta Kaalamulo,558,0.077
+361,Annitikanna Minchina,D-unique,Pastor Solomon Raj,241,0.516,1082,Amma Kanna Minna,0.251,0.123,0.351,164,Ninne Preminthunu,432,0.182
+362,Chethakakapoyina,D-unique,Pastor Jafanya Sastry,407,0.0,,,0.219,0.049,0.249,1013,Neevu Praardhana Cheyunappudu,521,0.244
+363,Hai Hai Ga,D-unique,Daniel M,130,0.0,,,0.144,0.054,0.25,2655,Thambura naadha swaramulathoda thaguvidhini nenu,318,0.0
+364,Nanu Deevinchavu,C-review,Sayaram Gattu,154,0.72,1035,Deevinchaave,0.45,0.452,0.0,2122,Ennenno melulatho nanu deevinchaavu,525,0.489
+365,Oohinchalenu,C-review,Sampath Kareti,150,0.696,366,Varninchalenu,0.499,0.447,0.0,2133,Oohinchalenu nee premanu naa ooha chaaladhaya,447,0.44
+366,Sannidhiye,A-lyric-dup,"Pastor Sammy Thangiah, John Jebaraj & Derrick Samuel",343,0.75,449,Nee Sannidhiye Naa,1.0,1.0,1.0,2281,Sannidhi sannidhiye,343,0.692
+367,Silipi,A-lyric-dup,Uday Kanthi Shanmukha,415,0.0,,,1.0,1.0,1.0,2127,Ye roopamu leni nannu pindamunai ne unna,415,0.053
+368,Siluva Veeruda,D-unique,Dr. Issac Raj Alanka,126,0.0,,,0.199,0.076,0.0,915,Yehovaa Mahima Nee Meeda,420,0.188
+369,Athi Parisudhudu,D-unique,Bishop Dr Daniel Paul,389,0.552,1505,Parishuddhudavai,0.232,0.067,0.315,157,Sthuthinchedanu Sthuthinchedanu,667,0.14
+370,Deva Deva,C-review,Devadas Mungamuri,338,0.737,1193,Devaa Naa Devaa,0.171,0.048,0.268,50,Devaadhi Devaa,720,0.632
+371,Kadavari Varshamu,D-unique,Ashirwad Kodavalli & Selvin Gana,305,0.0,,,0.288,0.195,0.284,685,Parishuddhudaa Paavanudaa,297,0.316
+372,Kalyaana Raagam,D-unique,A.R.Stevenson,118,0.538,2056,Kalyaana veduka,0.093,0.04,0.155,2491,Dhaivanirnayam ee parinayam ramaneeyam athimadhuram,275,0.136
+373,Neela Nenuntanayya,D-unique,Pastor J Kumar,171,0.593,1225,Kanta Neerela,0.266,0.141,0.42,885,Neetho Nenu Naduvaalani,366,0.389
+374,Ninnu Nenu Viduvanayya,D-unique,Raja Mandru,164,0.667,1495,Viduvanu Ninu Edabaayanani,0.204,0.113,0.29,2630,Nee chitthamu naalo,300,0.114
+375,Ninu Vidachi Undalenayya,D-unique,Bandela Naga Raju,216,0.585,1349,Andaru Nannu Vidachinaa,0.305,0.149,0.486,986,Epaati Daananayaa,470,0.167
+376,Nuthana Kriyalu,C-review,Pastor Praveen,209,0.0,,,0.475,0.5,0.0,2126,Noothana kriyalu cheyuchunnaavani neevu selaviyyagaa,667,0.3
+377,Preminchi Nannu,D-unique,Joshua Shaik,447,0.686,87,Yesu Nannu Preminchinaavu,0.317,0.13,0.384,473,Yesayya Nee Prema,636,0.222
+378,Taragani Nee Prema,D-unique,Ps Subhakar Rao,158,0.595,687,Anthe Leni Nee Prema Dhaara,0.177,0.081,0.301,958,Neeve Naa Snehamu,376,0.138
+379,Chudaali Ninne Yesayya,D-unique,,353,0.619,1049,Yesayyaa Ninnu Choodaalani,0.202,0.088,0.282,3781,Ninne namminaanu Yesayya,633,0.55
+380,Daiva Istame Gaalike,A-lyric-dup,,1107,0.0,,,0.918,0.912,0.852,1970,Daiva ishtame gaalike undi thelusunaa,949,0.49
+381,Inti Peru,A-confirmed-dup,,513,0.824,470,Maa Inti Peru,0.931,0.925,0.975,2121,Thallithandrulevarainaa inti peredhi neekunnaa,561,0.163
+382,Nanu Kalugajesina,D-unique,A.R.Stevenson,86,0.0,,,0.155,0.091,0.0,3260,Samastha dheshamulaaraa andaru paadudi,396,0.082
+383,Nee Krupaye,D-unique,Amara Kumari,447,0.615,1213,Edabaayani Nee Krupa,0.214,0.071,0.369,1788,Nee krupaye naa jeevithamu,1091,0.452
+384,Prathi Roju Chudalani,A-confirmed-dup,Prabhakar Khande,430,0.842,1137,Prathi Roju Choodaalani,0.976,0.973,0.993,1137,Prathi Roju Choodaalani,445,0.842
+385,Saathwikamunu,C-review,A.R.Stevenson,131,0.585,2120,Saathwikamunu kanaparachavalenu,0.519,0.448,0.0,2120,Saathwikamunu kanaparachavalenu,370,0.585
+386,Sarvonathuda,C-title-collision,Pastor A Moses,126,0.917,1016,Sarvonnathudaa,0.173,0.169,0.258,2854,Naa praana priyudavu neeve,248,0.182
+387,Thalithandrini Devudu,D-unique,King Johnson Victor,978,0.686,2824,Mana thandri Devudu,0.224,0.052,0.311,1772,Ye Samaachaaram Nammuthaavu Nuvvu,1744,0.167
+388,Ye Reethiga,A-lyric-dup,Joshua Shaik,520,0.519,1134,Preethigala Mana Yesu,1.0,1.0,1.0,1852,E reethigaa kolicheda - Nee premalo nilicheda,520,0.255
+389,Andam Soundaryam,D-unique,Ch.Shiva,655,0.0,,,0.168,0.041,0.277,2869,Yehova maa balamaa neeve kada naa dheema,1502,0.128
+390,Aradhya Daivama,D-unique,Pastor D Joseph,249,0.64,1299,Parama Daivame,0.133,0.061,0.223,1177,Yesu Neeke Jayam Jayamu,579,0.125
+391,Athisrestuda Na Yesayya,D-unique,"K Y Ratnam, Snigdha Ratnam",576,0.585,655,Najareyudaa Naa Yesayyaa,0.23,0.046,0.263,562,Noothana Hrudayamu,743,0.278
+392,Ni Padalu Tadapakunda,C-review,Pastor Finny Abraham T,156,0.732,101,Nee Paadaalu Thadapakundaa,0.48,0.384,0.0,101,Nee Paadaalu Thadapakundaa,473,0.732
+393,Peturu Vale Nenu,A-confirmed-dup,Jasper Kunapo,441,0.889,1078,Pethuru Vale Nenu,0.935,0.902,0.977,1078,Pethuru Vale Nenu,481,0.889
+394,Prathi Dinamu Noothana,D-unique,P J Stephen Paul,476,0.606,1545,Noothanamainadi,0.319,0.14,0.306,93,Nee Prema Naa Jeevithaanni,436,0.195
+395,Sreshtamu శ్రేష్ఠము,A-lyric-dup,Amara Kumari,460,0.0,,,1.0,1.0,1.0,2062,Balulu arpinchutakante nee,460,0.05
+396,Sthothram Stuthi Sthothram,A-confirmed-dup,,366,0.857,1310,Sthothramu Sthuthi Sthothramu,0.864,0.851,0.766,3812,Sthothram sthuthi sthothram mahima ghanatha neeke,284,0.545
+397,Veyyendloka Yugamaina,D-unique,Lazarus Prasanna Babu,298,0.0,,,0.096,0.014,0.152,1112,Puvvulaantidi Jeevitham,646,0.05
+398,Vinare Narulara,C-title-collision,Lazarus Prassana Babu,819,0.8,762,Vinare Yo Narulaaraa,0.22,0.013,0.312,2865,Veerude Lechenu,1499,0.077
+399,Aasirvadham,D-unique,Daniel Davidson & Stella Ramola,104,0.545,354,Aasheervaadam,0.415,0.377,0.0,2069,Ninu aasheervadhinthunu,391,0.323
+400,Anandakaramainadhi,D-unique,Saint Devadas,518,0.649,865,Andamaina Madhuramaina,0.164,0.033,0.246,3006,Daaruna magu marana vaaridhi,1036,0.439
+401,Kaapaadunu,D-unique,Mohan C Lazarus,152,0.593,317,Ninnu Kaapaadu Devudu,0.202,0.105,0.347,459,Evaru Unnaa Lekunnaa,366,0.231
+402,Kachithivi Gathakalam,A-confirmed-dup,Nazaresh,364,0.85,3824,Kaachithivi gathakaalam,1.0,1.0,1.0,3824,Kaachithivi gathakaalam,364,0.85
+403,Na Nammakam,D-unique,Benny Joshua,170,0.621,367,Nammakamaina Naa Prabhu,0.213,0.228,0.351,3802,Mahonnathuda maaranivaada,387,0.125
+404,Neelone Anandham,A-lyric-dup,Bharat Mandru,349,0.714,1352,Aanandam Neelone,0.987,0.991,0.994,2782,Neelone aanandam naa Deva,354,0.571
+405,One In Christ,A-lyric-dup,Praveen VB,689,0.5,1641,Christmas Antene,1.0,1.0,1.0,3814,Shreemanthudaa shreekarunda shree Yesu raajaa,689,0.04
+406,Randi Raarandi,D-unique,Bro.T.Vijayanand,410,0.647,743,Mandiramuloniki Raarandi,0.235,0.049,0.331,381,Maayaa Loka Chaayallona,743,0.062
+407,Ye Reethiga,A-lyric-dup,Pastor Ravindra Donepati,982,0.519,1134,Preethigala Mana Yesu,0.921,0.924,0.854,1846,E reethigaa ninnu sthuthinchagalanu,839,0.3
+408,Yuddha Veerulam,C-title-collision,Kranthi Chepuri,318,1.0,1605,Yuddha Veerulam,0.526,0.526,0.0,1605,Yuddha Veerulam,888,1.0
+409,Hosanna,D-unique,Joel Kodali,472,0.6,303,Hosanna Hosannaa,0.234,0.044,0.379,1845,Yesayya lone unnadi manaku rakshana,1053,0.222
+410,Jeevadaatha,A-lyric-dup,Joshua Shaik,663,0.625,3957,Jeeva naadha mukthi daatha,1.0,1.0,1.0,1816,Jeevadhaatha Sthuthipaathrudaa,663,0.526
+411,Kunukavu Nidurapovu,D-unique,Pastor Jyothi Raju,684,0.0,,,0.272,0.247,0.229,19,Aaraadhanaa Neeke Aaraadhanaa,469,0.047
+412,Maruvalenaya,C-title-collision,Chandra Mohan,425,0.917,1092,Maruvalenayyaa,0.289,0.174,0.428,1655,Nannu Neevu Aadarinchaavu,832,0.061
+413,Needanu Poli Naa,C-review,Vijay Prasad Reddy,367,0.583,961,Ninu Poli Nenu,0.534,0.535,0.0,1895,Needanu poli naa dinamulu tharuguchunnavi,940,0.367
+414,Nenentha Dhanyudano,A-lyric-dup,,526,0.612,1971,Nenentha dhanyudano priyudaa Yesayya,1.0,1.0,1.0,1971,Nenentha dhanyudano priyudaa Yesayya,526,0.612
+415,Ontari Payanamlo,A-lyric-dup,Pastor Shadrak,420,0.585,2134,Ontari payanamlo evaru lekunnaa,1.0,1.0,1.0,2134,Ontari payanamlo evaru lekunnaa,420,0.585
+416,Prathi Udayamu Nee,D-unique,Pastor Paul Praveen,361,0.619,1735,Prathi Udayam Paadeda Nee Gaanam,0.247,0.032,0.348,3796,Karunaasampannudaa dheerudaa sukumaarudaa,654,0.113
+417,Yehova Naa Deva,C-review,P James,142,0.783,703,Devaa Yehovaa,0.193,0.121,0.329,555,Devaa Yehovaa Seeyonulo,339,0.562
+418,Yehovah Ma Deva,C-review,,86,0.696,703,Devaa Yehovaa,0.452,0.5,0.0,3815,Yehovaa maa Deva sarvaloka daivamaa,290,0.429
+419,Aagadhu Naa Payanam,D-unique,Pastor Jafanya Sastry,221,0.0,,,0.157,0.022,0.219,2020,Naa balamugaa Kreesthu naakundagaa,396,0.304
+420,Anni Velalandu,A-lyric-dup,Pastor John Wesley,423,0.667,1118,Anni Velala Vinuvaadu,1.0,1.0,1.0,2427,Anni velalandu mammu kaapaadu Deva,423,0.488
+421,Endukintha Prema Naapai,C-review,Asher Andrew,131,0.743,827,Entha Premo Naapai,0.152,0.07,0.248,3730,Jayamunichchu Devuniki kotla kotla sthothram,294,0.068
+422,Hrudhayaveydhana Tholaginchinaavu,D-unique,Pastor Korneli,166,0.0,,,0.151,0.027,0.262,1690,Nijamaina Nee Prema,409,0.085
+423,Naa Sannidhi Neeku,C-review,sister Sharon Praveen,204,0.733,449,Nee Sannidhiye Naa,0.504,0.562,0.0,2271,Naa sannidhi neeku thoduga undunu chettuku manchu vale,602,0.361
+424,Neeve Neeve,A-lyric-dup,Joshua Shaik,527,0.692,632,Neeve Neeve Kaavaali,0.991,0.994,0.987,2010,Neeve neeve neeve maa praanam,522,0.424
+425,Oohinchaleni Melulenno,D-unique,John Wesley Pakalapati,476,0.681,1436,Oohinchaleni Melulatho Nimpina,0.25,0.098,0.308,1168,Adiginadi Konthe Ayinaa,695,0.05
+426,Phaliyinchuta Nerpayya,D-unique,Pas. Daniel Raj,515,0.0,,,0.306,0.208,0.255,1295,Ninu Choose Kannulu,344,0.056
+427,Prananaadha,A-lyric-dup,Sister Krupa Jeba,641,0.643,3773,Aaraadhana naa Yesuke,1.0,1.0,1.0,2061,Nannu inthagaa preminchina naa Yesu raajaa,641,0.304
+428,Sarihaddhulu Leni Prema,C-review,Pr.William Carey & Esther,153,0.5,869,Padamulu Chaalani Prema,0.473,0.511,0.0,2063,Nee krupatho nimpina naa jeevitham,489,0.082
+429,Aaradhana Neekai Aalapana,B-likely-lyric-dup,Tony Bandela,197,0.75,1652,Neeke Naa Aaraadhana Aalaapana,0.561,0.527,0.0,2425,Dinamulu gaduchuchundagaa nee melutho thrupthi parachithivi,492,0.187
+430,Akasamlo Veluthuru,D-unique,,210,0.0,,,0.158,0.055,0.255,1555,Devudu Dehamunu,466,0.069
+431,Dheenudu,A-lyric-dup,Pastor Vinod Kumar,1058,0.5,2865,Veerude Lechenu,1.0,1.0,1.0,1768,Naakai dheenunigaa bhuviki vachchinaavayaa,1058,0.178
+432,Inthakalam Nee Krupalo,A-lyric-dup,Sampath Kareti,465,0.769,3809,Inthakaalam nee krupalo,0.991,0.982,0.994,3809,Inthakaalam nee krupalo,467,0.769
+433,Kaalamantha,C-title-collision,Ps. T Job Das,449,0.8,1445,Intha Kaalam,0.129,0.017,0.217,1831,Yesu Kreesthuni golva ranna,1061,0.121
+434,Manne Kadhayya,A-lyric-dup,,484,0.0,,,0.944,0.963,0.998,1056,Mannegadayyaa Mannegadayyaa,539,0.432
+435,Nanu Yedabaayak,A-lyric-dup,A.R.Stevenson,494,0.588,1166,Nanu Viduvaka Edabaayaka,0.973,0.976,0.955,2117,Nanu edabaayaka padiponeeyaka podiginchithivi naa jeevamu,476,0.344
+436,Paiki Egiredhavu,A-lyric-dup,,668,0.0,,,0.803,0.793,0.686,2424,Devuni aanandam ninu kammunu,474,0.053
+437,Premapoornuda Snehaseeluda,D-unique,,715,0.0,,,0.246,0.057,0.349,972,Krupa Krupa Naa Yesu Krupaa,1315,0.0
+438,Sadhayudaa Naa Yeasayyaa,D-unique,Pastor B Shalem Raju,442,0.667,3983,Naa priyudaa Yesayyaa,0.274,0.123,0.352,1168,Adiginadi Konthe Ayinaa,695,0.098
+439,Bhayapadaku,C-title-collision,Pastor John Wesley,450,1.0,3988,Bhayapadaku,0.279,0.066,0.295,3806,Loka rakshakudu mana korakudhayinchenu,499,0.182
+440,Janminche Yesayya,A-lyric-dup,Jyothi Manohar,426,0.789,3968,Janminche Yesayya naa lonaa,0.875,0.853,0.788,3968,Janminche Yesayya naa lonaa,341,0.789
+441,Kori Vachenu,C-review,Davidson Gajulavarthi,199,0.0,,,0.523,0.552,0.0,1921,Thandri Thanayuni Bhoomiki Pampina Ee Vela Shubhavela,559,0.036
+442,Mary Thelusa,D-unique,,615,0.0,,,0.224,0.073,0.227,1440,Theliyadaa Neeku Theliyadaa,630,0.176
+443,Naa Thodugaa Neevu,D-unique,"Pastor Anand Jaykumar from Hosanna Ministries, Nellore.",110,0.688,1635,Naa Thodu Neeve Devaa,0.198,0.208,0.315,132,Aaraadhinchedanu Ninnu,238,0.057
+444,Nannerigina Devudavu,A-confirmed-dup,"Dr. Paul Dhinakaran, Evangeline Dhinakara & Daniel Davidson",392,1.0,2639,Nannerigina Devudavu,0.779,0.667,0.662,2639,Nannerigina Devudavu,274,1.0
+445,Nee Krupayega Maa Deva,D-unique,Prabhod Kumar Adusumilli,472,0.645,1289,Krupagala Devaa,0.187,0.116,0.179,160,Gadachina Kaalamu,430,0.061
+446,Nuthana Vatsaramu,D-unique,Bishop Pammi Daniel,241,0.541,17,Noothana Samvathsaramulo,0.172,0.066,0.28,3362,Devuni keerthinchedhamu dhaivaputhruni naamamandhu,542,0.23
+447,Sandhadi 6 (Joyful Noise),D-unique,"Dr Shalem Raj, Azuba Daniel kalyanapu",357,0.0,,,0.297,0.308,0.276,1441,Bethlehemulo Sandadi,308,0.308
+448,Vachesindi Krottha,D-unique,Pastor Pandu Prem Kumar,125,0.0,,,0.132,0.066,0.228,3334,Daaveedu vamsha Yesu Kreesthuku sthuthi chellinchudi,302,0.258
+449,Aa Raatrilo Ningilo Oka,A-lyric-dup,M.Prasanna kumar,672,0.0,,,1.0,1.0,1.0,2342,Aa raathrilo ningilo oka thaara goppa thejamutho prabhavinchenu aa reyi,672,0.3
+450,Asalaina Christmas,D-unique,Jonah Samuel,216,0.667,1223,Christmas Kaalam,0.23,0.113,0.276,1641,Christmas Antene,301,0.533
+451,Chitramaina Puttuka Needhi,D-unique,Sunith & Bobby jeevan,439,0.0,,,0.158,0.02,0.268,1848,O Prabhundaa nin nutheenchuchunnaamu vinayamuthoda,1049,0.176
+452,Nanna,D-unique,,507,0.0,,,0.225,0.093,0.329,1781,Naa bhaagaswaamini Yeshua Jerusha,975,0.061
+453,Oka Aasa Undayyaa,A-lyric-dup,Pastor Anand Babu,422,0.0,,,1.0,1.0,1.0,2270,Oka aasha undayyaa naa korika theerchayyaa,422,0.36
+454,Prabhu Yesu Janmamu,D-unique,Medidi Prasanna kumar,114,0.649,1326,Prabhu Yesuni Vadanamulo,0.143,0.0,0.223,415,Yesu Jananamu,239,0.593
+455,Raaju Putten,A-confirmed-dup,Shyam Joseph,401,0.952,328,Raaju Puttenu,0.971,0.966,1.0,328,Raaju Puttenu,425,0.952
+456,Telugu Christmas Mashup 4,C-review,Various Artists,759,0.737,1584,Christmas Mashup 5.0,0.328,0.177,0.21,806,Mana Yesu Bethlahemulo,215,0.05
+457,Vithanam Virugakapothe,D-unique,Asher Andrew,119,0.0,,,0.087,0.032,0.145,2,Neevu Leni Roju,276,0.0
+458,Yella Vaelala,D-unique,Shyam Joseph,708,0.609,192,Ella Velalandu,0.287,0.129,0.227,1193,Devaa Naa Devaa,410,0.0
+459,Bethlahemu Puramulo,C-title-collision,Samy Pachigalla & Rahul,95,0.882,1273,Bethlehemu Puramulo,0.269,0.167,0.0,2695,Mariyaa thanayudai manujaavathaarudai,295,0.039
+460,Bethlahemulo Panduga,D-unique,,129,0.649,806,Mana Yesu Bethlahemulo,0.18,0.06,0.307,1441,Bethlehemulo Sandadi,308,0.611
+461,Gollalu Vacchiri,A-lyric-dup,Teja Emmanuel,550,0.0,,,0.843,0.843,0.745,3810,Aanandam aanandame raaraaju puttenani,422,0.0
+462,Janiyinchinadu,D-unique,PSH Worship Team,312,0.692,276,Udayinchinaadu,0.262,0.075,0.335,560,Sooda Sakkani Baaludammo,486,0.118
+463,Janminchinadu,C-review,Esther Evelyne,504,0.727,1521,Raaraaju Janminchinaadu,0.294,0.126,0.317,2064,Sambaraalu Santhoshaalu,580,0.061
+464,Nee Raktham,D-unique,Pastor Sammy Thangiah & Pastor Paul Thangiah,132,0.64,513,Nee Raktha Dhaarale,0.216,0.129,0.346,307,Enaleni Prema (Oohinchagalanaa),289,0.054
+465,Paata Paadaala,A-lyric-dup,A.R.Stevenson,402,0.595,1706,Laali Paata Paadanaa Neekosam,1.0,1.0,1.0,2187,Paata paadaalaa vaadyamulu mrogaala,402,0.465
+466,Puttinadu Raraju,D-unique,James Lazarus Narukurthi,427,0.615,2013,Raaraju puttinaadu nedu ilalo,0.273,0.097,0.358,3814,Shreemanthudaa shreekarunda shree Yesu raajaa,689,0.111
+467,Samrakshaka,D-unique,Pastor Dr. Pammi Daniel,257,0.545,1387,Yesu Rakshakaa,0.18,0.036,0.29,3183,Naa rakshakaa Yesunaadha Immaanuyelu,568,0.333
+468,Yugalalo,D-unique,Isaac,701,0.0,,,0.282,0.113,0.249,324,Neevu Thappa Naaku Ilalo,537,0.222
+469,Chakkani Baaludamma,C-review,Suneel,378,0.737,560,Sooda Sakkani Baaludammo,0.314,0.117,0.436,2342,Aa raathrilo ningilo oka thaara goppa thejamutho prabhavinchenu aa reyi,672,0.128
+470,Chandhamama,A-lyric-dup,Asha Ashirwadh Shaik,612,0.643,130,Priyathama Bandhamaa,1.0,1.0,1.0,3811,Chandhamaama chandhamaama,612,0.606
+471,Idhi Chitram,D-unique,Raju Richards,358,0.0,,,0.207,0.052,0.298,1299,Parama Daivame,670,0.182
+472,Lokamantha Veligindhani,D-unique,"K Y Ratnam, Snigdha Ratnam</strong",450,0.632,331,Lokamanthata Velugu,0.22,0.04,0.268,959,Aakashame Pattanodu,645,0.211
+473,Mariya Thanayudai,A-lyric-dup,Suresh Nittala,295,0.615,3879,Jo laali jo Mariyathanayudaa,1.0,1.0,1.0,2695,Mariyaa thanayudai manujaavathaarudai,295,0.531
+474,Nee Chitthamu,C-title-collision,Jeevan Wesley Olesu,468,0.917,1370,Nee Chitthamune,0.206,0.056,0.348,1827,Naa Devudu goppavaadu,1108,0.0
+475,Sakalaaseervaadhamula,A-lyric-dup,A.R.Stevenson,339,0.655,2118,Sakalaasheervaadhamula kaaranabhoothudaa,1.0,1.0,1.0,2118,Sakalaasheervaadhamula kaaranabhoothudaa,339,0.655
+476,Veladi Duthalatho,D-unique,Ephraim Palutla,396,0.645,1257,Vevela Doothalatho,0.209,0.103,0.299,791,Nee Prema Naalo Madhuramainadi,738,0.146
+477,Velasenule,B-likely-lyric-dup,Sunil Thurimella,238,0.5,779,Anya Janulela,0.571,0.554,0.992,1583,Velasenule Gaganaana Thoorpu Thaara,585,0.45
+478,Yudha Bethlahema,D-unique,Surya Teja,491,0.581,2423,Bethlahemulo vintha,0.24,0.124,0.223,382,Raajula Raaju,421,0.08
+479,Aakasha Veedhilo Andala,D-unique,Suresh babu panthagani,160,0.545,2012,Aakaasha veedhullo aanandam,0.192,0.105,0.316,2277,Aanandam aarbhaatame ilalo,366,0.372
+480,Akaasa Veedhullo,A-lyric-dup,Joshua Shaik,654,0.526,2012,Aakaasha veedhullo aanandam,1.0,1.0,1.0,2012,Aakaasha veedhullo aanandam,654,0.526
+481,Kalalonaina,D-unique,David Varma,624,0.533,72,Nee Challanaina Needalo,0.256,0.104,0.211,211,Naa Oohakandani Prematho,403,0.0
+482,Mahimaku Pathrudavu,B-likely-dup,Charles Dany Premson,492,0.971,1647,Mahimaku Paathrudavu,0.811,0.532,0.884,1647,Mahimaku Paathrudavu,580,0.971
+483,Naannaa,D-unique,KanthiKala,317,0.6,108,Naa Naanna Intiki,0.162,0.043,0.241,8,El Shamaa,623,0.154
+484,Ne Maripoyina,D-unique,Sharon Praveen,468,0.571,1637,Maaripoyene,0.256,0.06,0.358,1846,E reethigaa ninnu sthuthinchagalanu,839,0.048
+485,Ninu Poli Nenu,B-likely-dup,Annie Margaret,633,1.0,961,Ninu Poli Nenu,0.796,0.637,0.696,961,Ninu Poli Nenu,474,1.0
+486,Oohakandhanantha,A-lyric-dup,A.R.Stevenson,458,0.789,2119,Oohakandhanantha unnatham,1.0,1.0,1.0,2119,Oohakandhanantha unnatham,458,0.789
+487,Prema O Prema,D-unique,Chandra Mohan,308,0.64,316,Prema Yesuni Prema,0.334,0.281,0.399,436,Aascharyamaina Prema,427,0.357
+488,Yesayya Janminche,A-lyric-dup,Padala Suresh Babu,449,0.737,3968,Janminche Yesayya naa lonaa,0.885,0.891,0.812,1973,Yesayya janminche ee nelapai,375,0.667
+489,Ebenejaru,A-lyric-dup,John Jebaraj,401,0.625,1196,Ebinejare,0.763,0.757,0.995,3967,Nenu Naa Illu Naa Intivaarandharu,644,0.167
+490,Krupayu Samadhanamu,D-unique,Jasper Kunapo,178,0.585,2287,Anthamu Sameepamaiyunnadhi,0.199,0.095,0.256,1242,Samaadhaana Gruhambulonu,278,0.513
+491,Naa Kaapari,C-review,Manoj David,684,0.72,122,Yehovaa Naa Kaapari,0.213,0.046,0.23,3253,Aayane naaku aashrayamu naa kota,792,0.111
+492,Naa Pourasthithi,D-unique,A R Stevenson,283,0.0,,,0.165,0.062,0.281,3679,Prabhuvaina Kreesthulo thandri,676,0.195
+493,Needhu Prasannatha,D-unique,Prathap Darshi,514,0.0,,,0.2,0.082,0.326,176,Naa Priya Yesu Raa,1159,0.067
+494,Nija Snehithuda,A-confirmed-dup,Joshua Katta,485,0.963,1507,Nija Snehithudaa,0.949,0.904,0.973,1507,Nija Snehithudaa,510,0.963
+495,Parishududavu,C-review,Esther Evelyne,231,0.741,1505,Parishuddhudavai,0.225,0.128,0.389,1275,Aathmeeya Gaanaalatho,564,0.0
+496,Sadha Neevu Naa Thoduga,A-lyric-dup,Joshua Shaik,761,0.611,1635,Naa Thodu Neeve Devaa,0.948,0.946,0.904,1862,Sadaa neevu naa thodugaa Yesayya,691,0.478
+497,Srikarunda Sri Yesunadha,A-lyric-dup,Pastor Jyothi Raju,297,0.0,,,0.953,0.827,0.959,1730,Shreekarunda Shreeyesunaadhaa - Shreemanthudavu Srujanaathmudaa,301,0.38
+498,Ye Bhayamu,D-unique,Pastor Vinod Kumar,221,0.545,1503,Yesayya Rakthamu,0.233,0.175,0.283,807,Aaraadhana Neeke,315,0.091
+499,Daiva Pranalika,C-review,Hosanna Ministries featuring Pastor John Wesley,223,0.0,,,0.487,0.32,0.0,2421,Naa korika nee pranaalika parimalinchaalani,689,0.275
+500,Endhukani,A-lyric-dup,Joshua Shaik,368,0.0,,,1.0,1.0,1.0,2276,Endhukanee nenante intha prema,368,0.412
+501,Jayinchenu,B-likely-lyric-dup,Dr. Jaya Paul Ravela,240,0.615,3804,Maranamu jayinchenu,0.811,0.592,0.929,3804,Maranamu jayinchenu,309,0.615
+502,Naa Deva Neeve Sadhaa,D-unique,Joshua Shaik,408,0.621,1193,Devaa Naa Devaa,0.231,0.061,0.337,3833,Yesayya naa praanamaa – Ghanamaina sthuthigaanamaa,781,0.098
+503,Nisi Raathri,A-confirmed-dup,Joel Kodali,600,0.857,676,Nishi Raathri,0.979,0.988,0.995,676,Nishi Raathri,620,0.857
+504,Siluvapaina,A-lyric-dup,Jeeva R Pakerla,395,0.615,930,Viluvaina Nee Krupa,1.0,1.0,1.0,2478,Siluvapaina prema choopa maranamaayenu,395,0.455
+505,Suddichese Raktham,D-unique,Hosanna Ministries featuring Pastor Freddy Paul,115,0.511,2810,Yesu rakthamu shuddhi chese rakthamu,0.138,0.351,0.23,3129,Jayam jayam hallelooya,265,0.114
+506,Uthsaha Gaanam,D-unique,"Merlyn Salvadi, Kenny Salvadi & Blessy Simon",423,0.686,992,Uthsaaha Gaanamu Chesedamu,0.292,0.093,0.283,3260,Samastha dheshamulaaraa andaru paadudi,396,0.217
+507,Vijayame,B-likely-lyric-dup,Susanna Esther Geddam,154,0.5,1176,Dinadinamu Vijayamu,0.664,0.622,0.987,2188,Bhayamedhainaa ippudu neelo unnadaa,302,0.211
+508,Yehova Ruah,A-lyric-dup,David Parla & Pastor Benjamin,494,0.526,320,Yehovaa Yire,0.936,0.934,0.894,2009,Yehovaa Raaphaa soukhyamichchuvaadu,450,0.293
+509,Adviteeyuda,D-unique,Hosanna Ministries featuring Pastor John Wesley,190,0.0,,,0.376,0.384,0.0,1937,Advitheeyudaa nannelu daivamaa,814,0.486
+510,Andhaala Chinni Gootilona,B-likely-lyric-dup,Sreshta Karmoji,198,0.525,2577,Andaala chinni gootilona puttina pichchukanu,0.618,0.653,1.0,2577,Andaala chinni gootilona puttina pichchukanu,440,0.525
+511,Dayaa Samkalpam,A-lyric-dup,Hosanna Ministries featuring Pastor Freddy Paul,483,0.571,647,Raakada Samayamlo,0.922,0.872,0.944,321,Gaganamu Cheelchukoni,506,0.062
+512,Edho Aasha Naalo,A-lyric-dup,Pastor Ramesh,400,0.0,,,1.0,1.0,1.0,2282,Edho aasha naalo neethone jeevinchanee,400,0.391
+513,Jeevapradatha,A-lyric-dup,Hosanna Ministries featuring Pastor Ramesh,667,0.529,3957,Jeeva naadha mukthi daatha,1.0,1.0,1.0,2182,Jeevapradhaathavu nanu roopinchina shilpivi neeve Prabhu,667,0.355
+514,Krupa Kaligina Deva,A-lyric-dup,King Joshua,293,0.651,2574,Krupa kaligina Devaa naa Yehovaa,1.0,1.0,1.0,2574,Krupa kaligina Devaa naa Yehovaa,293,0.651
+515,Nen Emathramu,B-likely-lyric-dup,Benny Joshua,163,0.0,,,0.58,0.507,0.981,705,Inthavaraku Neevu,386,0.231
+516,Pelli Kuthuru,A-lyric-dup,Bro. Sayaram Gattu,520,0.0,,,0.933,0.886,0.959,3805,Pelli kuthuru - Andamayina manasuku nenoka chakkani roopam,549,0.295
+517,Premantu Edhaina Unte,A-lyric-dup,Jonah Samuel,668,0.5,2276,Endhukanee nenante intha prema,1.0,1.0,1.0,2015,Premantoo edainaa unte Yesele adhi Yesele,668,0.453
+518,Soundarya Seeyonulo,B-likely-lyric-dup,Hosanna Ministries featuring Pastor Abraham,359,0.571,985,Seeyonulo Nundi Neevu,0.992,0.505,0.994,3801,Bahu saundharya Seeyonulo sthuthi simhaasanaaseenudaa,361,0.462
+519,Alankarinchunu,A-confirmed-dup,John Jebaraj,651,1.0,161,Alankarinchunu,0.828,0.781,0.718,161,Alankarinchunu,478,1.0
+520,Athi Parishudduda,A-lyric-dup,"Hosanna Ministries featuring Pastor John Wesley, Pastor Abraham & Pastor Ramesh",589,0.667,1505,Parishuddhudavai,0.942,0.907,0.986,1613,Athi Parishuddhudaa Sthuthi Naivedyamu,644,0.571
+521,Kanyaka Garbhamu,A-lyric-dup,Vijay Prasad Reddy,948,0.0,,,1.0,1.0,1.0,1805,Kanyaka garbhamu dharinchunanumaata pravachanamu,948,0.414
+522,Manasu Marchu,B-likely-lyric-dup,Jeeva R Pakerla featuring Elfe Choir,175,0.56,215,Maarina Manasulu,0.591,0.612,0.988,1963,Neethi Soorya Thejomayudaa,408,0.0
+523,Merry Christmas,A-lyric-dup,Pappula Yesu Daasu,514,0.643,987,Christmas Medley 1,0.957,0.962,0.996,2114,Eduruchoosina kaalam – Pratyaksha parichenu daivam,556,0.035
+524,Poorna Hrudhayamutho,A-lyric-dup,Joel Kodali,566,0.706,562,Noothana Hrudayamu,1.0,1.0,1.0,1893,Poorna hrudayamutho poorna aathmatho,566,0.56
+525,Puttinadamma Yesayya,D-unique,Dr. John Wesly,582,0.579,90,Ghanamaina Naa Yesayyaa,0.156,0.019,0.205,302,Karige Koduku,947,0.0
+526,Sambaramenanta 2,D-unique,Raju Richards,379,0.645,3845,Santhosha sambarame,0.226,0.074,0.326,221,Chinni Chinni Chethulatho,712,0.0
+527,Saricheyunu,B-likely-lyric-dup,Pastor John Jebaraj,252,0.0,,,0.715,0.69,1.0,2183,Saricheyunu - Kanumarugu cheyudhunanevaaredhuta,451,0.377
+528,Sramalalo Krungavaladhu,A-lyric-dup,Dr. John Wesly,337,0.762,3779,Shramalalo krungavaladu,1.0,1.0,1.0,3779,Shramalalo krungavaladu,337,0.762
+529,Adi Devudu Avatharinchenu,D-unique,"Pastor Freddy Paul, Hosanna Ministries",183,0.526,2824,Mana thandri Devudu,0.303,0.189,0.453,744,Aanandamaanandame,362,0.0
+530,Chinni Yesu Raju,A-lyric-dup,Samy Pachigalla,442,0.583,973,Naa Yesu Raaju,1.0,1.0,1.0,2184,Gnaanulu choodavelliri Bethlehemu puramunaku,442,0.0
+531,Chukkallo,D-unique,Pastor Pandu Prem Kumar,191,0.0,,,0.269,0.135,0.46,410,Aakashaana Thaara Okati,461,0.071
+532,Ooruko Naa Praanama,C-title-collision,Dr. Asher Andrew,160,0.97,1568,Ooruko Naa Praanamaa,0.468,0.517,0.0,1568,Ooruko Naa Praanamaa,519,0.97
+533,Praanamgaa Preminchina,C-review,Dr P Satish Kumar,112,0.642,611,Nannenthagaano Preminchina Prabhuvaa,0.526,0.571,0.0,2575,Manishini praanamgaa preminchina Devudu,310,0.618
+534,Redu Nedu Janiyinchinadu,D-unique,pastor Dr. Pammi Daniel,188,0.529,276,Udayinchinaadu,0.214,0.046,0.36,2184,Gnaanulu choodavelliri Bethlehemu puramunaku,442,0.098
+535,Sambaralu Chesedhama,A-confirmed-dup,Pastor Rajesh Joshua,644,0.821,764,Sambaraalu Cheseddaamaa,0.892,0.859,0.833,764,Sambaraalu Cheseddaamaa,559,0.821
+536,Sandhadi 5,D-unique,"Azuba Daniel kalyanapu, Dr Shalem Raj kalyanapu",652,0.667,1389,Sandadi 3,0.171,0.046,0.262,202,Devuni Prema Idigo,1342,0.087
+537,Sarvonatha,C-review,Bishop Pammi Daniel,185,0.727,1016,Sarvonnathudaa,0.452,0.306,0.689,627,Sarvonnatha Sthalamulalo,377,0.581
+538,Udhayinchinaadu,A-confirmed-dup,Pastor V Joshua,358,0.889,276,Udayinchinaadu,0.811,0.707,0.941,276,Udayinchinaadu,472,0.889
+539,Anandam Arbhatame,A-lyric-dup,Hepsi Bhaskar,311,0.632,2277,Aanandam aarbhaatame ilalo,0.912,0.928,0.994,2277,Aanandam aarbhaatame ilalo,366,0.632
+540,Devaloka Mahimanantha,C-review,A R Stevenson,173,0.537,1900,Sarvalokaana santhoshame,0.477,0.457,0.0,2131,Dhevaloka mahimanantha bhuvipaiki thechchaadu,548,0.533
+541,Dhoothalu Paadiri,B-likely-lyric-dup,Sam K Kiran,707,0.5,538,Dootha Paata Paadudi,0.663,0.637,0.61,2116,Sainyamulaku adhipathivi raajulake raajuvu,595,0.151
+542,Intinta Christmas,A-lyric-dup,Joshua Gariki,376,0.621,1641,Christmas Antene,1.0,1.0,1.0,4009,Santhosha Sambaraaluro,376,0.057
+543,Kreesthu Nedu Puttenu,C-title-collision,Moses Undru,154,0.9,206,Yesu Kreesthu Puttenu Nedu,0.402,0.429,0.0,1802,Kreesthu nedu puttenu,606,0.778
+544,Loka Rakshakudu,A-lyric-dup,Samuel Karmoji,523,0.571,1917,Janminche lokarakshakudu,0.951,0.894,0.929,3806,Loka rakshakudu mana korakudhayinchenu,499,0.468
+545,Na Sarwamu Neevenayya,B-likely-lyric-dup,David Parla & Prasanth Geddam,237,0.625,1267,Neeve Naa Sarvamu,0.687,0.683,1.0,3966,Neevenayyaa neevenayyaa naa sarvamu neevenayyaa,451,0.4
+546,Sarvonnatha Sthalamulalo,C-title-collision,Methushelah P,485,1.0,627,Sarvonnatha Sthalamulalo,0.198,0.058,0.311,3292,Reference: Mariyu sphatikamuvale merayunatti jeevajalamula,1031,0.293
+547,Srustikartha Devudu,D-unique,,194,0.593,2433,Srushtikartha Devudu krupagaligina Devudu,0.217,0.071,0.333,792,Christmas Shubha Dinam,401,0.167
+548,Telugu Christmas Mashup 3,A-lyric-dup,Various Artists,872,0.737,1584,Christmas Mashup 5.0,0.91,0.792,0.914,646,Christmas Medley 3,879,0.5
+549,Anukshanam Nee Krupalo,A-lyric-dup,,328,0.632,1361,Nee Krupa Leni Kshanamu,1.0,1.0,1.0,2422,Anukshanam nee krupalo prathidhinam nee sannidhilo,328,0.476
+550,Bhuvilo Velisina Dhaivama,D-unique,Johnson Nakiekanti,96,0.0,,,0.351,0.384,0.0,2185,Maa thoduga neevundutaku,444,0.0
+551,Nee Chethilo,A-lyric-dup,Dr Noah R Ajay Kumar,308,0.588,1117,Nee Chethilo Rottenu Nenayya,1.0,1.0,1.0,2426,Nee Chethilo Oka Kalamuga Chithrinche Kunchega,308,0.4
+552,Nee Raakathone Bhuviki,D-unique,Prince Lanka,451,0.0,,,0.226,0.094,0.276,3979,Yesulone sampoornatha,649,0.211
+553,Rakshakudu Vachinaadu,B-likely-dup,Davidson Gajulavarthi,191,0.95,25,Rakshakudu Vachchinaadu,0.563,0.5,0.968,25,Rakshakudu Vachchinaadu,463,0.95
+554,Randi Rarandoy,B-likely-lyric-dup,David Marumulla,271,0.571,33,Randi Randi Randayo,0.651,0.623,1.0,1942,Randi raarandoy Yesayyanu choosoddhaam,559,0.435
+555,Udayinchinaadu Chudu Nesthamaa,A-lyric-dup,,446,0.764,2419,Udayinchinaadu choodu nesthamaa,0.994,0.983,0.995,2419,Udayinchinaadu choodu nesthamaa,447,0.764
+556,Urantha Chateddhamaa,D-unique,KY Ratnam,560,0.545,532,Gatha Kaalamantha,0.209,0.053,0.303,1768,Naakai dheenunigaa bhuviki vachchinaavayaa,1058,0.071
+557,Vachaavayyaa Velugulu,A-lyric-dup,Pastor A Yesu Babu,619,0.5,1145,Enno Enno Melulu Chesaavayyaa,1.0,1.0,1.0,2115,Vachchaavayyaa Bhuvikethenchaavayyaa,619,0.415
+558,Vinthaina Taraka,C-title-collision,Pastor Mani Prakash Deverapalli,143,0.867,1362,Vinthaina Thaaraka,0.431,0.387,0.0,1362,Vinthaina Thaaraka,496,0.867
+559,Christmas Subhavelalo,A-lyric-dup,Suresh Nittala,377,0.632,792,Christmas Shubha Dinam,1.0,1.0,1.0,2692,Aanandhageetham ne paadeda Krismas shubhavelalo,377,0.426
+560,Deevinchumu Deva,B-likely-lyric-dup,Pastor David Paluri,287,0.667,3195,Deevinchu Deva nee biddala,0.615,0.566,0.863,1939,Nee aasheervaadam pondina kutumbam,517,0.182
+561,Happy Happy Christmas Antu,D-unique,P Methushelah,449,0.611,1641,Christmas Antene,0.227,0.098,0.304,3850,Yoodula raajuga puttinavaanini,752,0.041
+562,Maaranivaada,A-lyric-dup,Victor Rampogu,393,0.647,3802,Mahonnathuda maaranivaada,0.938,0.792,0.931,3802,Mahonnathuda maaranivaada,387,0.647
+563,Mahimonnathudu,D-unique,Sukumar,441,0.645,1579,Hosanna Mahonnathudu,0.249,0.097,0.319,3814,Shreemanthudaa shreekarunda shree Yesu raajaa,689,0.113
+564,Na Naavalo,D-unique,Pastor P Caleb,234,0.6,489,Adigo Naa Naava,0.286,0.226,0.241,1224,Naa Chinni Donelo,161,0.273
+565,Naa Yesu Naadha,D-unique,Joshua Shaik,688,0.615,1036,Priya Yesu Naatha,0.325,0.094,0.238,536,Naa Yesu Prabhuvaa,319,0.519
+566,Nenellappudu,D-unique,Dr P Satish Kumar,132,0.667,1386,Nenellappudu Yehovaa Ninu,0.251,0.087,0.354,132,Aaraadhinchedanu Ninnu,238,0.0
+567,Udhayakalamulo,D-unique,M Prakash,172,0.595,1127,Udayakaalamu Madhyahaanamu,0.23,0.163,0.4,2427,Anni velalandu mammu kaapaadu Deva,423,0.238
+568,Yesu Puttenu,B-likely-lyric-dup,Philip gariki,168,0.692,628,Kreesthesu Puttenu,0.619,0.622,1.0,2413,Yesu puttenu rakshanochchenu,372,0.457
+569,Aadilo Emi Lenappudu,D-unique,Yohan Kadiyala,547,0.0,,,0.259,0.1,0.279,2165,Sthuthulaku paathrundavu srushtinchinaavu rakshinchinaavu bhadhraparachuchunnaavu,631,0.065
+570,Chettunaku Manchu Unnatluga,D-unique,A R Stevenson,117,0.522,693,Kanna Thalli Cherchunatlu,0.278,0.222,0.391,118,Evarunnaarayyaa,211,0.158
+571,Daivame Deepamai,D-unique,Prasad Nelapudi,195,0.615,1299,Parama Daivame,0.179,0.135,0.285,3810,Aanandam aanandame raaraaju puttenani,422,0.17
+572,Kadhalira Suvartha Chaataga,A-lyric-dup,Sayaram Gattu,443,0.565,294,Bhaaratha Desha Suvaartha,1.0,1.0,1.0,3807,Ningilona thaaraka cheya vachchindi veduka,443,0.23
+573,Neeku Neevuga,D-unique,A R Stevenson,128,0.5,683,Devudu Neeku Thelusu,0.109,0.06,0.19,433,Christmas Aanandam Vachchenu,317,0.0
+574,Neeve Naa Pranamu,C-title-collision,Shyam Joseph,181,0.966,1524,Neeve Naa Praanamu,0.272,0.224,0.441,1447,Neevu Lenide Nenu Lenu Prabhuvaa,404,0.341
+575,Raajulaku Raaju,C-title-collision,John Kennedy Bethapudi,127,0.833,382,Raajula Raaju,0.173,0.098,0.272,3418,Ilalo Yesunake jayamu,270,0.129
+576,Sathakoti Vandhanaalu,D-unique,John Kennedy Bethapudi,105,0.566,1943,Shathakoti vandanaalu Yesu swaami neeku,0.211,0.103,0.282,417,Yesuni Naamamlo Shakthi,174,0.205
+577,Yeasayya Janminche,D-unique,DBS Raju,166,0.667,3968,Janminche Yesayya naa lonaa,0.243,0.085,0.378,1319,Janminchenu Oka Thaara,349,0.457
+578,Yesu Raakada,C-review,A J Emmanuel,477,0.727,1387,Yesu Rakshakaa,0.213,0.043,0.267,3415,Krupakaalamu dhaatipovuchunnadhi krupapondhanu parugidi randu vevega,719,0.111
+579,Kanna Kalale,D-unique,Reshma Reigna,518,0.571,1470,Kanulunnaa Kaanaleni,0.201,0.064,0.275,1004,Antaraani Vaadavantu,900,0.071
+580,Nee Thodu Unte Chalu,C-review,Pastor Prasad Nelapudi,179,0.621,362,Yesu Unte Chaalu,0.54,0.594,0.0,2416,Nee thodu unte chaalu maakentho melu,481,0.435
+581,Nenennadu Odiponiah,D-unique,K Y Ratnam,491,0.6,1429,Nenu Odiponayaa,0.301,0.143,0.315,324,Neevu Thappa Naaku Ilalo,537,0.054
+582,Ningi Nela Yekamayenu,D-unique,KY Ratnam,434,0.0,,,0.26,0.052,0.331,2342,Aa raathrilo ningilo oka thaara goppa thejamutho prabhavinchenu aa reyi,672,0.177
+583,Prema Alalu,D-unique,Raj,300,0.5,724,Enaleni Prema,0.232,0.159,0.289,1824,Devuni goppa premanu kalambu,445,0.303
+584,Ravikoti Thejudu,A-confirmed-dup,Kranthi Chepuri,631,1.0,474,Ravikoti Thejudu,0.978,0.957,0.995,474,Ravikoti Thejudu,653,1.0
+585,Sarwesvaruni Darshanamukai,A-lyric-dup,Pastor Nithin Parvathaneni,405,0.76,2112,Sarveshvaruni dharshanamukai,1.0,1.0,1.0,2112,Sarveshvaruni dharshanamukai,405,0.76
+586,Vellipove Gathama,A-lyric-dup,Sayaram Gattu,308,0.0,,,1.0,1.0,1.0,2635,Vellipove gathamaa chellubaatu kaavu neevika,308,0.481
+587,Ye Stithilonaina,A-lyric-dup,Pastor Vinod Kumar,541,0.0,,,0.91,0.797,0.942,2186,E sthithilonainaa ninnu preminche vaanigaa,580,0.392
+588,Yelo Yelo Sambaralu 5,A-lyric-dup,Joshua Shaik,716,0.0,,,0.94,0.835,0.948,501,Yelo Yelo Yelo Antu,728,0.438
+589,Bhayamela,B-likely-lyric-dup,Sumanth Gudivada,140,0.556,454,Sandehamela,0.606,0.635,0.986,2415,Abrahamu devudavu neeve Yesayya,313,0.229
+590,El Elohe,A-lyric-dup,John Jebaraj,326,0.0,,,0.874,0.796,0.975,2272,Ninnu nammi vachchi ne siggu chendhaledhu,401,0.049
+591,Krupayu Kshemamu,C-title-collision,Psalms 23 from Holy Bible,374,0.815,906,Krupaa Kshemamu,0.541,0.309,0.543,848,Yehovaaye Naa Kaaparigaa,377,0.114
+592,Na Praanama Naalo Neevu,A-confirmed-dup,pastor Dr M S Shantha Vardhan,443,0.95,578,Naa Praanamaa Naalo Neevu,0.882,0.824,0.927,578,Naa Praanamaa Naalo Neevu,488,0.95
+593,Na Priya Yesu Raa,A-confirmed-dup,Pranith Paul,1159,0.963,176,Naa Priya Yesu Raa,1.0,1.0,1.0,176,Naa Priya Yesu Raa,1159,0.963
+594,Nee Krupa Nenemaina,C-review,Timothy Vemulapally,170,0.727,1794,Nee krupa nenemainaa,0.35,0.353,0.0,1794,Nee krupa nenemainaa,772,0.727
+595,Neevanti Vaaru Leru,B-likely-lyric-dup,"Pastor Sanjeev Kumar featuring Vandana Kilimi, Rajesh Yelsatti, Jermiah John Sunith",145,0.75,3819,Neevantivaaru leru,0.62,0.605,1.0,3819,Neevantivaaru leru,320,0.75
+596,Ninnu Nenu Keerthinthunu,D-unique,"Methushelah P, Viswasa Prardhana Mandiram, Gandigunta Post, Vuyyuru mandalam, Krishna district",390,0.651,358,Keerthinthunu Nee Naamamu,0.159,0.022,0.265,446,Sevakulaaraa,911,0.0
+597,Raja Nee Sannidhilone,C-title-collision,"Bro. John J, Fire Gospel Ministries",131,0.947,725,Raajaa Nee Sannidhilone,0.337,0.165,0.0,1007,Raajaa Nee Sannidhilone Untaanayyaa,567,0.735
+598,Unnavaadavu Anuvaadavu,C-title-collision,Smt. Kiranmai Paul,530,0.837,2338,Unnavaadavu ani anuvaadavu,0.214,0.032,0.366,804,Vadhiyimpabadina Gorrepillaa,1280,0.174
+599,Aasraya Dhurgama Naa Yesayya,A-confirmed-dup,Bro. Yesanna,553,0.84,1456,Aashraya Durgamaa Naa Yesayyaa,0.964,0.964,0.985,1456,Aashraya Durgamaa Naa Yesayyaa,578,0.84
+600,Desamula Korika,D-unique,Julie Danelle,465,0.0,,,0.143,0.08,0.227,318,Siluva Dhyaanam,1003,0.077
+601,Na Snehithuda,C-title-collision,"Pammi Daniel, Divya David & Prabhu Pammi",101,0.917,488,Naa Snehithudaa,0.188,0.051,0.273,1307,Sundarudaa,191,0.2
+602,Naa Yesayya Naa Sthuthi,A-confirmed-dup,Bro. Yesanna,422,0.826,1544,Naa Yesayyaa Naa Sthuthiyaagamu,0.964,0.974,0.995,1544,Naa Yesayyaa Naa Sthuthiyaagamu,449,0.826
+603,Nee Melulu,A-lyric-dup,Suresh Nittala,397,0.727,1290,Melulu Nee Melulu,0.947,0.893,0.982,2113,Nee melulu vivarimpatharamaa,426,0.364
+604,Nee Sannidhilo,A-confirmed-dup,Joshua Shaik,459,0.828,1014,Devaa Nee Sannidhilo,1.0,1.0,1.0,3800,Nee sannidhilo aanandame nee sevalone santhoshame,459,0.364
+605,Samarpinchedanu,B-likely-lyric-dup,Aneel Pagolu,127,0.667,2477,Samarpinchedhanu samasthamu,0.564,0.582,0.0,2477,Samarpinchedhanu samasthamu,320,0.667
+606,Sthuthi Geethamu,A-lyric-dup,Joel Kodali,601,0.743,526,Sthuthi Madhura Geethamu,0.884,0.876,0.803,3803,Yesu nee adbhutha prema nenela marichedha Deva,491,0.226
+607,Viswaasa Vanithalam,A-confirmed-dup,"Joshua Shaik, Passion For Christ Ministries",419,0.857,2845,Viswaasa vanithalamu,1.0,1.0,1.0,2572,Viswaasa vanithalam Yehova needana nivaasulam,419,0.526
+608,Yesu Kosame,A-lyric-dup,Joel Kodali,610,0.643,563,Yesu Kosame Jeeviddaam,0.964,0.928,0.987,563,Yesu Kosame Jeeviddaam,639,0.643
+609,Anjali Ghatiyinchinaamu,A-confirmed-dup,Late K Yohan Babu,800,0.905,1792,Anjali ghatiyinchinaamu,0.921,0.935,0.857,1792,Anjali ghatiyinchinaamu,690,0.905
+610,Dhavalavarnuda Ratnavarnuda,A-lyric-dup,"Pastor Praveen, Bellampalli",416,0.579,599,Davalavarnudaa,0.937,0.754,0.949,599,Davalavarnudaa,427,0.579
+611,Emmanuelu Deva,B-likely-lyric-dup,Deepak Dinakar,139,0.621,913,Immaanuyelu Devudaa,0.742,0.814,0.985,2690,Immaanuyelu Deva naatho unnavaadaa,229,0.476
+612,Na Thodu Neevu Nilachithive,C-review,Pastor D. Chrisostam,104,0.723,2058,Naa thodu neevu nilachithive,0.389,0.425,0.0,2058,Naa thodu neevu nilachithive,425,0.723
+613,Naaku Adharamaina Yesayya,A-confirmed-dup,"Pastor K Solomon Raju , Christ Gospel Ministries, Guntur",389,0.87,2274,Naaku aadhaaramaina Yesayya,0.932,0.941,0.881,2274,Naaku aadhaaramaina Yesayya,347,0.87
+614,Nee Pilupe,A-confirmed-dup,"Joshua Shaik, Passion For Christ Ministries",616,0.875,201,Nee Pilupu,0.793,0.783,0.661,2573,Nee Pilupe Naa Dari Chere Neethoti Naa Snehamaa,412,0.34
+615,Nee Pilupu,A-confirmed-dup,Benny Joshua,671,1.0,201,Nee Pilupu,0.928,0.899,0.865,201,Nee Pilupu,581,1.0
+616,Noothana Hrudhayamu,A-confirmed-dup,Joel Kodali,713,0.909,562,Noothana Hrudayamu,0.975,0.96,0.996,562,Noothana Hrudayamu,743,0.909
+617,Oohinchalenu Prabhu,A-lyric-dup,"Joshua Shaik, Passion For Christ Ministries",347,0.596,2269,Oohinchalenu prabhoo nee mamathanu,1.0,1.0,1.0,2269,Oohinchalenu prabhoo nee mamathanu,347,0.596
+618,Vechiyunnanu,A-lyric-dup,Vijay Kondapuram,606,0.556,793,Naa Kannuletthi Vechiyundunu,0.995,0.968,0.995,1653,Kondala Thattu Naa Kannuletthi,606,0.216
+619,Anukshanamu Ninne Koluthu,D-unique,Pastor K Rajababu,313,0.522,1438,Ninne Ninne Ne Koluthunayyaa,0.244,0.165,0.296,195,Naatho Neevu Maatlaadinacho,446,0.13
+620,Gorrepilla Rakthamulo,A-confirmed-dup,Pastor Nani,283,1.0,1455,Gorrepilla Rakthamulo,0.892,0.892,0.957,1455,Gorrepilla Rakthamulo,324,1.0
+621,Gunde Nindaa Kanneere,D-unique,Pastor B Shadrak,728,0.556,298,Gunde Nindaa Yesu Unte,0.174,0.047,0.298,463,Prema Lenivaadu Paralokaaniki,1753,0.136
+622,Ilalona Edhainaa,D-unique,Pastor Ravinder Vottepu,110,0.5,1476,Kalanainaa Ilanainaa,0.179,0.197,0.306,1524,Neeve Naa Praanamu,263,0.138
+623,Naa Deva,D-unique,"Sammy Thangiah, Derick Samuel, Samuel Joseph, Christy Zebulon, Hema Prasanna",278,0.667,1193,Devaa Naa Devaa,0.193,0.11,0.297,1009,Nee Dayalo Nee Krupalo,576,0.0
+624,Neelanti Goppa Prema,C-review,Pastor Jyothi Raju,301,0.733,1467,Neelaanti Prema,0.175,0.057,0.284,69,Karuninchi Thirigi Samakoorchu,673,0.045
+625,Ninu Chere,D-unique,Joshua Shaik,494,0.56,974,Ninu Cheraga Naa Madi,0.336,0.085,0.276,536,Naa Yesu Prabhuvaa,319,0.0
+626,Oddu Cheri Nee Yedhuta,A-lyric-dup,Charles Carroll Luther,371,0.0,,,0.988,0.896,0.986,1878,Odducheri nee eduta nilpunapudu,370,0.444
+627,Prema Prema,D-unique,Joshua Shaik,400,0.667,316,Prema Yesuni Prema,0.267,0.193,0.294,447,Kanureppa Paataina,479,0.16
+628,Srushtikarthavu,D-unique,Pastor J Devanand Kumar,83,0.684,1567,Srushtikarthavaina Yehovaa,0.316,0.333,0.0,2275,Srushtikarthavu Rakshanakarthavu,434,0.636
+629,Amaramaina Prema,D-unique,Hosanna Ministries,710,0.688,436,Aascharyamaina Prema,0.274,0.062,0.249,504,Sajeevudavaina Yesayyaa,577,0.171
+630,Athi Sundharudavu Yesayya,D-unique,Hosanna Ministries,111,0.571,3849,Naa Sthiraadhaarudaina Yesayya,0.162,0.044,0.266,3633,Hallelooyaa hallelooyaa nee raajyamochchugaaka,252,0.062
+631,Karuna Sampannuda,A-lyric-dup,Pastor John Wesley,598,0.706,980,Sugunaala Sampannudaa,0.947,0.955,0.992,3796,Karunaasampannudaa dheerudaa sukumaarudaa,654,0.491
+632,Mahadhaanandhamaina,D-unique,,700,0.686,2582,Aahaa mahaanandhame,0.197,0.037,0.335,634,Aarambhamayyindi Restoration,1685,0.227
+633,Nenu Velle Maargamu,A-confirmed-dup,Bro. Yesanna,385,1.0,853,Nenu Velle Maargamu,0.99,0.983,1.0,853,Nenu Velle Maargamu,393,1.0
+634,Oohinchaledhayya,A-lyric-dup,Raj Chikkala,358,0.667,2571,Oohinchaledhayya dheevisthaavani,1.0,1.0,1.0,2571,Oohinchaledhayya dheevisthaavani,358,0.667
+635,Paadedha Stuthi Gaanamu,A-lyric-dup,Hosanna Ministries,490,0.634,590,Sthuthi Gaaname Paadanaa,1.0,1.0,1.0,2111,Paadeda sthuthigaanamu koniyaadeda nee naamamu,490,0.426
+636,Srikaruda Yesayya,D-unique,Hosanna Ministries,596,0.632,2361,Ascharyakaruda naa Yesayya,0.293,0.08,0.288,504,Sajeevudavaina Yesayyaa,577,0.5
+637,Sthuthiye Na Aayudham,A-lyric-dup,"Raise A Hallelujah by Bethel Music featuring Jonathan and Melissa Helser on January 03, 2019",1284,0.5,554,Sthuthiyu Mahima (Aaraadhana),0.831,0.837,0.927,1764,Ne Paadeda Hallelooyaa Naa Shathruvula Eduta,1581,0.143
+638,Aradhana Aaradhana,C-title-collision,Raja Mandru,196,0.857,609,Aaraadhana Aaraadhana,0.307,0.393,0.263,609,Aaraadhana Aaraadhana,140,0.857
+639,Aradhinthu Ninnu Deva,C-title-collision,pastor K Ratnam,93,0.872,1603,Aaraadhinthu Ninnu Devaa,0.342,0.385,0.0,1603,Aaraadhinthu Ninnu Devaa,431,0.872
+640,Evaru Leru Prabhuva,D-unique,Bishop Shulamite Finny Pachigalla,103,0.519,361,Yesu Prabhuve,0.145,0.043,0.218,41,Naa Devunni Nenu Premisthunnaa,204,0.143
+641,Gurine Nilupu,D-unique,Dr. Issac Raj Alanka,410,0.0,,,0.156,0.03,0.27,318,Siluva Dhyaanam,1003,0.167
+642,Hrudayam Loniki,D-unique,Suresh Vanguri,304,0.533,434,Naa Chinni Hrudayamu,0.127,0.04,0.219,562,Noothana Hrudayamu,743,0.483
+643,Naa Jeevithana,A-lyric-dup,Bro P.Sunith & Bro Bobby Jeevan,474,0.759,207,Naa Jeevithaanthamu,1.0,1.0,1.0,3813,Shaashwathamainadi ennadu maaranidi,474,0.227
+644,Nammedhanu,D-unique,Pastor Reenukumar,308,0.0,,,0.166,0.085,0.268,1777,Vedhana tholaginchuvaadu Yese,684,0.229
+645,Nannu Diddumu,A-lyric-dup,Devadas Mungamuri,660,0.611,1190,Nannu Diddumu Chinna Praayamu,0.922,0.897,0.953,1190,Nannu Diddumu Chinna Praayamu,704,0.611
+646,Neetho Gadipe Prathi Kshanam,A-confirmed-dup,Pastor Jyothi Raju,325,0.98,1388,Neetho Gadipe Prathi Kshanamu,0.961,0.971,0.988,1388,Neetho Gadipe Prathi Kshanamu,343,0.98
+647,Prabhuva Nee Karyamulu,C-review,Lillian Christopher,151,0.71,642,Nee Kaaryamulu,0.485,0.435,0.0,1694,Prabhuvaa Nee Kaaryamulu Aashcharyakaramainavi,397,0.623
+648,Mattilona Muthyamalle,A-lyric-dup,Joshua Shaik,494,0.708,2265,Mattilona muthyamalle puttaaduro,1.0,1.0,1.0,2265,Mattilona muthyamalle puttaaduro,494,0.708
+649,Nee Dhukka Dhinamulu,D-unique,Pastor B Shalem Raju,135,0.0,,,0.192,0.036,0.308,1574,Yesu Goriya Pillani Nenu,296,0.054
+650,Ningi Nela Murisipoye,D-unique,Sis. Madhurya Kiran,530,0.0,,,0.181,0.029,0.252,1807,Lokaanaa unnadi okade devudu,941,0.0
+651,Nisheedhi Reyilo,D-unique,Andrew Son,172,0.0,,,0.253,0.135,0.394,744,Aanandamaanandame,362,0.0
+652,Prakashinchenu,A-lyric-dup,Bro P.Sunith & Bro Bobby Jeevan,665,0.688,735,Prakaashinche Aa Divya,1.0,1.0,1.0,1842,Prakaashinchenu o divya thaara,665,0.667
+653,Shaka Purushuni Jananam,B-likely-lyric-dup,Sangeetha Rao,231,0.0,,,0.631,0.596,1.0,2065,Vachchaadu mahaaraaju mari manakosame andagaa thodugaa,499,0.176
+654,Sthuthi Paadutake,A-confirmed-dup,Pastor John Wesley,640,1.0,919,Sthuthi Paadutake,0.931,0.833,0.966,919,Sthuthi Paadutake,688,1.0
+655,Sudhooramu,A-lyric-dup,Joel Kodali,513,0.643,1271,Sudhooramu Ee Payanamu,0.957,0.95,0.984,1271,Sudhooramu Ee Payanamu,542,0.643
+656,Vagdanamulu,B-likely-lyric-dup,Pastor Vinod Kumar,366,0.667,154,Vaagdhaanamu,0.814,0.632,0.843,1208,Vaagdhaanamulanni Neraverchuchunnaadu,392,0.356
+657,Villuveleni Na Jeevitham,B-likely-dup,Pastor Vinod Kumar,342,0.857,81,Viluve Leni Naa Jeevitham,0.694,0.623,0.962,81,Viluve Leni Naa Jeevitham,605,0.857
+658,Banthi Anaga Aadare,C-title-collision,,116,0.848,477,Banthiyanaga Aadare,0.53,0.5,0.0,477,Banthiyanaga Aadare,292,0.848
+659,Chalayya Yesayya,D-unique,Jessy Paul,183,0.69,506,Yesayyaa Yesayyaa,0.228,0.162,0.287,413,Yese Naa Oopiri,278,0.154
+660,Dhivine Vidachina Raaraju,D-unique,Kiran D,289,0.512,1521,Raaraaju Janminchinaadu,0.189,0.025,0.328,221,Chinni Chinni Chethulatho,712,0.182
+661,Goppa Karyamu,D-unique,,335,0.647,336,Devaa Nee Goppa Kaaryamulan,0.175,0.049,0.303,1610,Swasthaparachu Devudu,820,0.133
+662,Idi Christmas Veduka,D-unique,Suresh Nittala,70,0.562,1189,Christmas Panduga,0.118,0.051,0.191,1732,Mariya Thanayudata Manuja Roopudata,155,0.042
+663,Naalo Unnavadu,D-unique,"Sumanth Gudivada, Kranthi Sandeep Vedala",220,0.552,91,Naalo Unna Aanandamu,0.206,0.1,0.344,859,Okkade Yesu Okkade,513,0.074
+664,Neelo Samasthamu Saadyame,A-confirmed-dup,Davidson Gajulavarthi,299,0.933,190,Neelo Samasthamu Saadhyame,0.894,0.757,0.933,190,Neelo Samasthamu Saadhyame,325,0.933
+665,Telugu Christmas Mashup 2,A-lyric-dup,Various Artists,771,0.737,1584,Christmas Mashup 5.0,0.863,0.724,0.85,527,Christmas Medley 2,749,0.5
+666,Uthsavam,D-unique,Samy Pachigalla,242,0.0,,,0.238,0.024,0.321,29,Naa Notan Krottha Paata,408,0.077
+667,Yesayya Katha,B-likely-lyric-dup,Pastor Philip Gariki,334,0.64,1503,Yesayya Rakthamu,0.632,0.636,0.994,1491,Daaveedu Vamshamlo,714,0.074
+668,Aakasame Pattanodu,A-confirmed-dup,K R John,628,0.909,959,Aakashame Pattanodu,0.954,0.883,0.966,959,Aakashame Pattanodu,645,0.909
+669,Kaalam Karigina,D-unique,Giftson Durai,531,0.538,424,Nibbaram Kaligi,0.19,0.038,0.263,1895,Needanu poli naa dinamulu tharuguchunnavi,940,0.204
+670,Kondalalo (Uyar Malaiyo Telugu),D-unique,John Jebaraj,200,0.0,,,0.257,0.073,0.374,660,Aanandame Paramaanandame,379,0.122
+671,Naa Snehithuda,C-title-collision,"Divya David, Dr. Pammi Daniel, Prabhu Pammi",73,0.96,488,Naa Snehithudaa,0.2,0.053,0.0,1307,Sundarudaa,191,0.286
+672,Nakshatrama 2,D-unique,A R Stevenson,383,0.0,,,0.149,0.069,0.26,1805,Kanyaka garbhamu dharinchunanumaata pravachanamu,948,0.218
+673,Nannu Nilipavu,D-unique,Dr. John Wesly,186,0.0,,,0.254,0.212,0.408,9,Enduko Nannu Neevu,408,0.444
+674,Ne Challani Chuputho,D-unique,Prasad Nelapudi,173,0.529,1432,Nee Challani Needalo,0.252,0.171,0.421,3737,Yesayyaa naa Yesayyaa neevenaa manchi kaapari,403,0.036
+675,Ninnaradhunchedhanu,D-unique,Sharon Philip & Philip Gariki,335,0.684,132,Aaraadhinchedanu Ninnu,0.192,0.079,0.33,1937,Advitheeyudaa nannelu daivamaa,814,0.178
+676,Sajeeva Saakshulugaa,A-confirmed-dup,Dr. John Wesly,508,1.0,1488,Sajeeva Saakshulugaa,0.98,0.979,0.992,1488,Sajeeva Saakshulugaa,520,1.0
+677,Stuthiyu,D-unique,Devadas Mungamuri,138,0.0,,,0.21,0.172,0.0,1907,Sthuthiyu mahimayu neeke kshithikin,952,0.316
+678,Dhevuni Sevakulaara,C-review,A R Stevenson,681,0.714,446,Sevakulaaraa,0.262,0.065,0.306,446,Sevakulaaraa,911,0.714
+679,Naa Praanamaa,C-review,Joel Kodali,214,0.786,1568,Ooruko Naa Praanamaa,0.388,0.395,0.0,264,Naa Praanamaa Digulenduku,867,0.667
+680,Neevey Choochu Vaadavu,D-unique,Benny Joshua,358,0.513,1133,Choochuchunna Devudavu,0.212,0.231,0.236,518,Saripodu Aaraadhana,437,0.111
+681,Samarpana,D-unique,Pastor Ravinder Vottepu,198,0.0,,,0.193,0.102,0.337,3328,Paavanudaa maa prabhuvaa nee rakshanakai sthothramulu,490,0.145
+682,Seethaakalamlo,A-lyric-dup,JD Cyril Babu,567,0.606,3809,Inthakaalam nee krupalo,1.0,1.0,1.0,1841,Sheethakaalamlo shree Yesuni shubhavaartha,567,0.471
+683,Toorpu Nundi Padamaraku,A-lyric-dup,Dr. John Wesly,284,0.556,2560,Thoorpu nundi padamaraku entha dhooramo,0.88,0.757,0.901,2560,Thoorpu nundi padamaraku entha dhooramo,297,0.556
+684,Uthsaaha Dwani (Jaijaikar),B-likely-lyric-dup,Dr Amit Kamle,329,0.0,,,0.627,0.505,0.691,3260,Samastha dheshamulaaraa andaru paadudi,396,0.175
+685,Varama,D-unique,Arun Nethala,322,0.0,,,0.164,0.051,0.197,695,Paadanaa Mounamugaane,448,0.083
+686,Yesayya Nee,A-lyric-dup,Joshua Shaik,618,0.783,473,Yesayya Nee Prema,0.974,0.936,0.989,473,Yesayya Nee Prema,636,0.783
+687,Yesayya Neeke Vandanam,C-title-collision,Kranthi Chepuri,202,0.974,77,Yesayyaa Neeke Vandanam,0.5,0.496,0.0,77,Yesayyaa Neeke Vandanam,602,0.974
+688,Aaradhinchedham,C-title-collision,Samy Pachigalla,122,0.857,523,Aaraadhinchedam,0.145,0.263,0.158,2814,Sthuthi aaraadhana parishuddhunake jeevaadhipathiyaina Yesunake,144,0.222
+689,Kummarinchu Nee Atma,D-unique,Pastor Ravinder Vottepu,939,0.652,3859,Kummarinchumu Nee Aathmanu Naapai,0.162,0.023,0.276,1390,Sarva Shareerula Devudaa,2257,0.105
+690,Na Aashrayam Na Aadharam,C-review,"Moses Smiles, Anil Kumar Bussa",106,0.78,1336,Aashrayamaa Aadhaaramaa,0.186,0.143,0.308,1675,Aadiyu Neeve Anthamu Neeve,243,0.19
+691,Naamamu,B-likely-lyric-dup,Anu Samuel,377,0.75,888,Ae Naamamulo,0.737,0.641,0.952,888,Ae Naamamulo,596,0.75
+692,Nalo Nalo,C-review,Samuel Karmoji,242,0.0,,,0.495,0.475,0.562,2637,Naalo naalo unnaadu lokaannele rakshakudu,308,0.233
+693,Nannu Abhishekinchithivi,D-unique,N Prajna Samuel,184,0.524,414,Yesu Nan Preminchithivi,0.128,0.025,0.209,1073,Samvathsaramulu Veluchundagaa,414,0.082
+694,Ninne Sthuthinchedan,A-confirmed-dup,Merlyn Salvadi,407,0.824,690,Ne Sthuthinchedanu,1.0,1.0,1.0,2264,Nenu odipoyinaa ninne sthuthinchedan,407,0.6
+695,Premikudaa,D-unique,Hannah Grace,208,0.5,1751,Prema Swaroopudaa,0.279,0.13,0.466,1632,Nee Krupaye Naa Aadhaaramu,485,0.065
+696,Viraboosina Pushpama,A-lyric-dup,Sharon Philip,340,0.556,1217,Vikasinchu Pushpamaa,1.0,1.0,1.0,3798,Viraboosina pushpamaa jathakalise bandhamaa nedu santhasinchumaa,340,0.421
+697,Yevaru Choopinchaleni,A-confirmed-dup,Joshua Shaik,599,0.919,466,Evaru Choopinchaleni,0.94,0.863,0.951,466,Evaru Choopinchaleni,614,0.919
+698,Chejarithe,C-review,L Aseervadam,142,0.0,,,0.499,0.479,0.0,2474,Chejaarithe thirigi raadu ee samayam,395,0.45
+699,Kalla Yerugani Tella Pavurama,D-unique,Pastor B Shalem Raju,512,0.0,,,0.175,0.044,0.259,318,Siluva Dhyaanam,1003,0.105
+700,Na Upakaarivi Neevu Yesayya,D-unique,Dr. Victor Rampogu,133,0.571,1563,Neevunte Naaku Chaalu Yesayyaa,0.158,0.042,0.191,111,Thandri Naa Yesayyaa,187,0.5
+701,Oohinchalenu Prabhu,A-lyric-dup,Joshua Shaik,347,0.596,2269,Oohinchalenu prabhoo nee mamathanu,1.0,1.0,1.0,2269,Oohinchalenu prabhoo nee mamathanu,347,0.596
+702,Padhe Paadana,A-confirmed-dup,Joshua Shaik,410,0.957,719,Padhe Paadanaa,0.964,0.943,0.993,719,Padhe Paadanaa,434,0.957
+703,Parugethi Ninnu Cheri,B-likely-lyric-dup,"Guru Krishna Kadoni, Vishal Dass & Annoz Kamalakar",282,0.722,1837,Parugetthi ninu cheri,0.637,0.667,0.996,1837,Parugetthi ninu cheri,598,0.722
+704,Prabhu Paadha Sannidhi,D-unique,Voola Daniel Ravi Kumar,135,0.611,1025,Nee Paada Sannidhiki,0.203,0.129,0.346,864,Prabhu Sannidhilo Aanandame,323,0.558
+705,Prabhuva Ma Deva,B-likely-lyric-dup,Harsha Singavarapu,234,0.786,388,Naa Deva Prabhuvaa,0.64,0.597,0.728,2568,Prabhuvaa maa Devaa krupa choopumayyaa,298,0.478
+706,Yedabayani Nee Krupa,A-confirmed-dup,Pastor Mathews,467,0.882,1213,Edabaayani Nee Krupa,0.943,0.924,0.97,1213,Edabaayani Nee Krupa,494,0.882
+707,Yudha Saakshyamu,D-unique,A J Emmanuel,94,0.621,1062,Nee Saakshyamu Edi,0.352,0.348,0.0,2567,Yoodaa saakshyamu gala vaarendharo,313,0.455
+708,Aada Janmanu Devudenduku,B-likely-lyric-dup,Pastham Srinivas,365,0.706,1838,Aada janmanu Devudu enduku chesaadu,0.651,0.671,0.994,1838,Aada janmanu Devudu enduku chesaadu,748,0.706
+709,Choochuchunna Devudavu,C-title-collision,Pastor M Jesu Moses Raja,113,1.0,1133,Choochuchunna Devudavu,0.24,0.082,0.351,197,Yesu Maatho Neevundagaa,216,0.25
+710,Entha Kalamo,C-title-collision,Pastor Ramesh,218,0.8,1445,Intha Kaalam,0.434,0.476,0.556,2696,Entha kaalamo ee loka aasalapai dhyaasa,339,0.372
+711,Kaliseti Andhaala,A-lyric-dup,Joshua Shaik,519,0.65,1844,Kaliseti andaala anubandhame,1.0,1.0,1.0,1844,Kaliseti andaala anubandhame,519,0.65
+712,Kanche Vesavu,D-unique,Pastor Prasad Nelapudi,141,0.0,,,0.166,0.07,0.259,3,Enni Tharamulu Sthuthiyinchinaa,296,0.103
+713,Kondala Vaipu,C-review,Pastor K Shekar,196,0.522,1170,Kondala Thattu,0.452,0.4,0.644,2110,Kondalavaipu kannuletthinaa,361,0.5
+714,Naa Thodu Neeve Deva,A-confirmed-dup,Joshua Shaik,436,0.97,1635,Naa Thodu Neeve Devaa,0.948,0.882,0.933,1635,Naa Thodu Neeve Devaa,422,0.97
+715,Ne Padipothini,C-review,Prudhvi Raj,188,0.513,2263,Ne padipothini nee premaku ilalo,0.436,0.299,0.645,2263,Ne padipothini nee premaku ilalo,366,0.513
+716,Pilichenu Prabhu Yesu,A-confirmed-dup,A J Emmanuel,226,0.818,2569,Pilichenu Prabhu Yesu naathudu,1.0,1.0,1.0,2569,Pilichenu Prabhu Yesu naathudu,226,0.818
+717,Vadhimpabadina,D-unique,Anand Tirugulla,190,0.667,804,Vadhiyimpabadina Gorrepillaa,0.121,0.069,0.202,873,Nenante Neekenduko,444,0.069
+718,Chalaiya Nee Prema,D-unique,Pastor Vinod Kumar,347,0.621,473,Yesayya Nee Prema,0.218,0.092,0.284,1979,Naa Kashta Kaalamulo,558,0.125
+719,Koteswarulaina Kadupedalaina,A-confirmed-dup,Dr. P Lazarus,752,0.842,1803,Koteeshwarulainaa Kadupedhalainaa,0.986,0.988,0.973,1803,Koteeshwarulainaa Kadupedhalainaa,732,0.842
+720,Mahashowryudu,D-unique,Stephen Bob,246,0.0,,,0.167,0.053,0.27,3567,Neethi sooryudu neepai nudhayinchunu athani rekkalu naarogyamu nichchunu,550,0.132
+721,Manchi Hrudayam,D-unique,Samuel Pammi,121,0.606,476,Naa Chinni Hrudayamandu,0.167,0.067,0.277,569,Jeevamaa Yesayyaa,278,0.214
+722,Na Viswaasa Oda Yaatra,D-unique,Pastor Suresh,558,0.0,,,0.232,0.09,0.286,1937,Advitheeyudaa nannelu daivamaa,814,0.133
+723,Naa Vaidhyudavu,D-unique,Pastor Raj Prakash Paul,86,0.0,,,0.139,0.185,0.0,2264,Nenu odipoyinaa ninne sthuthinchedan,407,0.089
+724,Naatho Unnadu,D-unique,Merlyn Salvadi,304,0.625,1696,Naathodugaa Unnavaadave,0.224,0.155,0.364,1777,Vedhana tholaginchuvaadu Yese,684,0.378
+725,Sandram Lo Padava Prayanam,D-unique,P Srinivas,1021,0.5,1662,Aananda Samvathsaram,0.21,0.031,0.347,115,Oneness,2355,0.0
+726,Tirigiraa Nesthama,D-unique,Dr. John Wesly,449,0.529,1663,Krungipoku Nesthamaa,0.168,0.055,0.282,1768,Naakai dheenunigaa bhuviki vachchinaavayaa,1058,0.074
+727,Vinthaina Prema,A-lyric-dup,Joshua Shaik,469,0.581,436,Aascharyamaina Prema,0.902,0.908,0.996,3797,Vinthaina prema idhegaa Yesayya prema nijangaa,566,0.415
+728,Chuchithi Ni Momupai,C-review,Pastor Jyothi Raju,205,0.722,682,Choochithi Nee Momupai,0.522,0.5,0.0,682,Choochithi Nee Momupai,512,0.722
+729,Mana Maargamu,D-unique,Pastor G Andrews,380,0.667,1628,Naa Maargamandu,0.211,0.078,0.333,1977,Nee Rakthame Paapa Parihaaram,819,0.167
+730,Na Priyuniki,D-unique,Pastor John David Raju Nethala,164,0.522,64,Naa Priyudu Yesu,0.14,0.054,0.222,2198,Naa balamu nannu,356,0.174
+731,Na Yesuni Prema,C-title-collision,Srimanth katamala,470,0.815,316,Prema Yesuni Prema,0.302,0.321,0.274,2288,Lokamloni premalanni shaashwatham kaavu,381,0.17
+732,Naa Jeevam,B-likely-lyric-dup,Bro Kripal Mohan,313,0.64,1084,Naa Jeevam Naa Sarvam,0.737,0.779,0.614,1084,Naa Jeevam Naa Sarvam,209,0.64
+733,Naadhu Rakshaka,C-review,Sam Joel G,160,0.72,1387,Yesu Rakshakaa,0.147,0.078,0.253,4,Nammadagina Devudavu,390,0.129
+734,Nee Krupaye,C-review,Benny Joshua,174,0.615,1213,Edabaayani Nee Krupa,0.532,0.479,0.0,484,Nannu Pilachina Devaa,469,0.0
+735,Okapari Thalachina -Joshua Shaik Kamlakhar,D-unique,"Joshua Shaik, Passion For Christ Ministries",373,0.0,,,0.215,0.109,0.321,791,Nee Prema Naalo Madhuramainadi,738,0.19
+736,Prema Kaligi,D-unique,Pastor N J Simon,361,0.522,254,Kalvari Premanu,0.214,0.147,0.306,1684,Kalvari Prema Prakatinchuchunnadi - Sarvalokaaniki,672,0.218
+737,Vivaham Ghanamainadi,C-review,P Srinivas,795,0.71,110,Vivaahamannadi,0.188,0.026,0.301,463,Prema Lenivaadu Paralokaaniki,1753,0.227
+738,Aradhana Adhika Sthothramu,C-title-collision,Akumarthi Daniel,110,0.917,313,Aaraadhana Adhika Sthothramu,0.387,0.356,0.565,313,Aaraadhana Adhika Sthothramu,209,0.917
+739,Jeevitha Naava,D-unique,A J Emmanuel,104,0.692,1448,Naadu Jeevithamu,0.239,0.319,0.0,2132,Jeevitha naava nadupumu Deva,352,0.556
+740,Mandhiramandhuna,D-unique,A J Emmanuel,120,0.667,2347,Mandira mandhuna cherinaanu,0.371,0.4,0.0,2347,Mandira mandhuna cherinaanu,332,0.667
+741,Maranapu Mullu,D-unique,Pastor Kamala Timothy Mallipudi,84,0.0,,,0.229,0.145,0.0,1634,Bhayapadakumaa,304,0.08
+742,Neethodu Chaalayya,B-likely-lyric-dup,John Zechariah,206,0.595,1028,Neetho Sneham Cheyaalani,0.593,0.593,0.907,2351,Neethodu chaalayya naa balamu neevayya,422,0.571
+743,O Prema Moorthy,D-unique,Pastor J Devanand Kumar,426,0.0,,,0.149,0.059,0.25,318,Siluva Dhyaanam,1003,0.08
+744,Oka Mata Chaalu,A-lyric-dup,Kollabathula Ruben,303,0.5,2278,Okamaata chaalu thandri,1.0,1.0,1.0,2278,Okamaata chaalu thandri,303,0.5
+745,Samruddhi Krupa,D-unique,Pastor Yesaiah Bonam,116,0.0,,,0.121,0.174,0.0,99,Krupa Vembadi Krupatho,335,0.375
+746,Siluvalo Naa Kosamu,B-likely-lyric-dup,Raja Mandru,135,0.595,257,Ayyaa Naa Kosam Kalvarilo,0.616,0.581,0.985,3972,Siluvalo naa kosamu baliyaina naa Yesayya,294,0.471
+747,Yesu Leni Jeevitham Ela,D-unique,Gabriel Shama,134,0.565,3816,Yesu leni jeevitham ela gadapanu,0.349,0.427,0.0,3816,Yesu leni jeevitham ela gadapanu,357,0.565
+748,Amarudaa,D-unique,Hosanna Ministries,699,0.625,1307,Sundarudaa,0.332,0.105,0.313,985,Seeyonulo Nundi Neevu,618,0.0
+749,Dheenudaa Ajeyudaa,D-unique,Pastor John Wesley,177,0.571,1896,Dheenudaa ajeyudaa aadarana kiranamaa,0.384,0.385,0.0,1896,Dheenudaa ajeyudaa aadarana kiranamaa,738,0.571
+750,Evaro Nannila,D-unique,Hosanna Ministries,143,0.5,984,Naa Kalavaramulanni,0.155,0.029,0.262,1092,Maruvalenayyaa,337,0.167
+751,Krupagala Deva,C-title-collision,Pastor Abraham,205,0.96,1289,Krupagala Devaa,0.47,0.443,0.0,1289,Krupagala Devaa,650,0.96
+752,Madhuramainadi Na Yesu Prema,C-title-collision,Pastor G Devadas,123,0.98,1590,Madhuramainadi Naa Yesu Prema,0.325,0.25,0.496,35,Entha Madhuramu,250,0.378
+753,Na Daguchotu Neeve,D-unique,Hosanna Ministries,112,0.0,,,0.155,0.12,0.255,2648,Evarunnaaru ee lokamlo,254,0.059
+754,Na Yedhuta Neevu,D-unique,Pastor John Wesley,130,0.0,,,0.102,0.062,0.148,2854,Naa praana priyudavu neeve,248,0.229
+755,Neeve Hrudaya Saaradhi,D-unique,Pastor John Wesley,440,0.579,755,Aadhaaram Neevenayyaa,0.257,0.069,0.32,3796,Karunaasampannudaa dheerudaa sukumaarudaa,654,0.281
+756,Yesuni Roopamloniki Maaraali,C-title-collision,Pastor N J Simon,107,0.92,1707,Yesuni Roopanloniki Maaraali,0.488,0.5,0.0,1707,Yesuni Roopanloniki Maaraali,327,0.92
+757,Aradhincheda,C-title-collision,Bro Anil Vemula,122,0.8,523,Aaraadhinchedam,0.197,0.138,0.325,1286,Neeke Naa Aaraadhana,278,0.214
+758,Bhayapadanu,A-confirmed-dup,Vijay Kondapuram,585,0.8,3988,Bhayapadaku,0.995,0.987,0.995,1582,Mahonnathuda Nee Chaatuna,585,0.125
+759,Egasipade Thufanullo,A-lyric-dup,"Samarth Shukla, Deepika Kotecha, Philemon Anand, Benhur Binny, Vishal Das, Jesh Abraham, Sheldon Bangera, Sam Alex Pasula, Anand Paul & Rachel Francis.",317,0.0,,,0.921,0.875,0.94,1525,Sudigaalainanu,330,0.194
+760,Krupa Kshemamu,A-confirmed-dup,Bro. Yesanna,701,0.96,906,Krupaa Kshemamu,0.971,0.97,0.994,906,Krupaa Kshemamu,734,0.96
+761,Mem Kraisthavulam,B-likely-dup,Swapna Edwards,538,1.0,997,Mem Kraisthavulam,0.744,0.738,0.998,997,Mem Kraisthavulam,904,1.0
+762,Naa Jeevithaana Maro Noothana,D-unique,Bro Paul Emmanuel,190,0.667,207,Naa Jeevithaanthamu,0.19,0.086,0.303,799,Neevu Chesina Upakaaramulaku,414,0.2
+763,Nammutha Yesunu,D-unique,Sis. Prasanna Bold,241,0.545,1435,Nibbaramutho Naa Yesuke,0.198,0.061,0.297,316,Prema Yesuni Prema,479,0.357
+764,Nee Krupayu Kanikaramu,C-review,Dr P Satish Kumar,318,0.743,1164,Krupa Kanikaramula,0.19,0.066,0.291,3796,Karunaasampannudaa dheerudaa sukumaarudaa,654,0.246
+765,Oohakandani,D-unique,Joshua Shaik,111,0.69,2333,Oohalakandani lokamlo,0.213,0.092,0.0,99,Krupa Vembadi Krupatho,335,0.0
+766,Yahova Maaku Thodugaa,D-unique,Dr P Satish Kumar,311,0.564,225,Maaku Thoduga Neevuntivi,0.175,0.04,0.285,1356,Devaa Maa Kutumbamu,700,0.294
+767,Aadharinchaga Raava,B-likely-lyric-dup,"Joshua Shaik, Passion For Christ Ministries",194,0.556,1330,Varsha Dhaaragaa Raava,0.629,0.566,0.984,1405,Aagani Parugulo,411,0.267
+768,Desham Mana Desham,C-review,Merlyn Salvadi,249,0.75,107,Mana Desham,0.195,0.148,0.32,748,Naa Priya Desham,565,0.429
+769,Ee Jaathilo,C-review,Pastor Sandeep Dasari,234,0.5,1026,Raathi Samaadhilo,0.43,0.286,0.0,1829,Ee jaathilo memu okarime,738,0.483
+770,Koti Koti Sthothram Daddy,A-lyric-dup,S J Berchmans,329,0.0,,,0.844,0.849,0.972,1140,Sthothrabali Sthothrabali,429,0.409
+771,Na Hrudayaana Koluvaina,A-confirmed-dup,Bro. Yesanna,589,0.976,475,Naa Hrudayaana Koluvaina,0.919,0.863,0.947,475,Naa Hrudayaana Koluvaina,625,0.976
+772,Naa Dhehamunu,A-confirmed-dup,Joel Kodali,477,0.857,817,Naa Dehamunu,0.952,0.933,0.977,817,Naa Dehamunu,502,0.857
+773,Nadavaleni Velalo,A-lyric-dup,Dr. John Wesly,349,0.622,2689,Naduvaleni Velalo Endinaa Edaarilo,0.923,0.835,0.954,2689,Naduvaleni Velalo Endinaa Edaarilo,372,0.622
+774,Neela Preminchevaarevaru,B-likely-lyric-dup,Samuel Pammi,248,0.741,1865,Neelaa preminchevaarevaru ilalo leru,0.495,0.41,0.858,1865,Neelaa preminchevaarevaru ilalo leru,608,0.741
+775,Neeve Naku Chalunu Yesu,A-confirmed-dup,Apostle R Sudhakar Garu,323,0.95,4008,Neeve Naaku Chaalunu Yesu,0.853,0.786,0.86,4008,Neeve Naaku Chaalunu Yesu,328,0.95
+776,Prabhuva Hithavathsaram,D-unique,Pastor B Shalem Raju,421,0.595,3857,Sharanam Prabhuvaa,0.187,0.039,0.267,3641,Prabhuvaa chesithivi vaagdhaanamulu maatho,778,0.475
+777,Ammanu Minchina Preme,A-lyric-dup,Samuel Karmoji,373,0.622,2138,Ammanu minchina preme needayyaa,1.0,1.0,1.0,2138,Ammanu minchina preme needayyaa,373,0.622
+778,Bahu Balavanthuda,D-unique,David Edison Thella,179,0.585,3976,Balavanthudaa dhanavanthudaa,0.164,0.022,0.282,2192,Aaraadhana chethunu anni velalaa,434,0.233
+779,Dhinamulu Jaruguchundaga,D-unique,Glory Rani,419,0.531,1073,Samvathsaramulu Veluchundagaa,0.19,0.024,0.29,3042,Yesuni korakai ila jeevincheda,856,0.167
+780,Lekkimpa Sakyamu Kaavu,A-lyric-dup,Heaven Babu,423,0.536,2480,Lekkimpa shakyamu kaavu Deva nee kaaryamulu,1.0,1.0,1.0,2480,Lekkimpa shakyamu kaavu Deva nee kaaryamulu,423,0.536
+781,Naa Geetharadhanalo,A-confirmed-dup,Bro. Yesanna,414,0.944,808,Naa Geethaaraadhanalo,0.952,0.95,0.981,808,Naa Geethaaraadhanalo,439,0.944
+782,Neepai Velugu Virajille,A-lyric-dup,sister Sharon Praveen,696,0.615,1944,Neepai velugu virajille samvathsaram,0.874,0.867,0.778,1944,Neepai velugu virajille samvathsaram,544,0.615
+783,Neethone Nadichedanayya,D-unique,Raja Mandru,216,0.585,457,Neethone Ne Nadavaalani,0.171,0.044,0.248,275,Melainaa Keedainaa,409,0.216
+784,Sarirarevvaru,A-confirmed-dup,Bro. Yesanna,441,0.8,1248,Sari Raarevvaru,0.894,0.757,0.872,1248,Sari Raarevvaru,420,0.8
+785,Snehamai Praanamai,D-unique,"Joshua Shaik, Passion For Christ Ministries",152,0.552,1428,Kamaneeyamaina,0.141,0.048,0.233,2279,Tharinchiponi Nee Premalone,350,0.2
+786,Christmas Vela,B-likely-lyric-dup,Kiran Kumar & Priya Arif,446,0.692,1223,Christmas Kaalam,0.575,0.575,0.777,1843,Poddhugooke Bethlemulo,758,0.0
+787,Gathakaalam Antha,B-likely-lyric-dup,Simha Kopparthi,219,0.733,532,Gatha Kaalamantha,0.574,0.608,1.0,2014,Gathakaalam Anthaa Kaachaavu Nee Krupalo,541,0.6
+788,Ghanamainavi Nee Kaaryamulu,C-title-collision,Hosanna Ministries,297,1.0,1241,Ghanamainavi Nee Kaaryamulu,0.4,0.256,0.634,1241,Ghanamainavi Nee Kaaryamulu,641,1.0
+789,Gnanulu Aaradhinchiraya,D-unique,Raja Babu garu,108,0.566,2450,Jnaanu laaraadhinchiri Yesu Prabhuni,0.208,0.083,0.33,694,Shuddhudaa Ghanudaa Rakshakudaa,233,0.122
+790,Kreesthu Nedu Puttene,B-likely-dup,Samuel Karmoji,157,0.85,206,Yesu Kreesthu Puttenu Nedu,0.606,0.581,0.961,2896,Kreesthu nedu puttene rakshana dhorikene,339,0.528
+791,Nee Kanikaramulu,D-unique,Joshua Shaik,151,0.692,642,Nee Kaaryamulu,0.209,0.046,0.0,395,Nee Chethi Kaaryamulu,561,0.5
+792,Nee Kantipaapavale,C-title-collision,Joel Kodali,172,0.8,651,Nee Kantipaapanu,0.453,0.459,0.0,1967,Nee kanti paapavale nannu kaachutaku,582,0.596
+793,Neeve Na Thodu,C-review,Dr. Issac Raj Alanka,80,0.714,1635,Naa Thodu Neeve Devaa,0.103,0.154,0.179,1316,Naa Devaa Neeke Vandanam,196,0.258
+794,Rando Rarando,D-unique,Dr. John Wesly & Mrs. Blessie Wesly,567,0.5,2359,Randaho vinarandaho,0.173,0.023,0.269,1791,Idigo vinumaa O lokamaa,1198,0.0
+795,Thandri Deva,C-title-collision,Tenny Jinans John,114,0.952,1012,Thandri Devaa,0.434,0.324,0.0,1012,Thandri Devaa,351,0.952
+796,Aa Ha Hallelujah,C-title-collision,Anil Kumar Vemula,135,0.815,756,Aahaa Hallelujah,0.168,0.063,0.286,2745,Mahodhayam shubhodhayam,321,0.059
+797,Aascharyakarudu,C-review,Anand Barnabas D,247,0.718,2859,Aascharyakarudaa needu krupa,0.221,0.061,0.363,2136,Krismas shubhavelalo mana andari hrudayaalalo,563,0.222
+798,Aha Anandame,A-lyric-dup,Mary Vijay Nanneti,234,0.696,360,Aahaa Aanandame,0.932,0.95,0.974,360,Aahaa Aanandame,255,0.696
+799,Bethlehemu Puramulo,A-confirmed-dup,Joel Kodali,710,1.0,1273,Bethlehemu Puramulo,0.918,0.887,0.962,1273,Bethlehemu Puramulo,778,1.0
+800,Nakshatrama,D-unique,Pandit KVK Churchil,317,0.0,,,0.192,0.058,0.292,959,Aakashame Pattanodu,645,0.37
+801,Nijamaina Christmas,D-unique,Joshua Shaik,463,0.611,792,Christmas Shubha Dinam,0.368,0.333,0.397,1048,Christmas Aanandam,536,0.606
+802,Pasuvula Pakalo,D-unique,pastor Dr. Pammi Daniel,185,0.0,,,0.29,0.086,0.443,2692,Aanandhageetham ne paadeda Krismas shubhavelalo,377,0.145
+803,Rajaadhi Raju,C-title-collision,Sharon philip,155,0.833,1245,Raajaadhi Raaja,0.155,0.065,0.229,193,Nee Premaku Saati,302,0.08
+804,Rakshakudu Puttadani,D-unique,Bro P.Sunith & Bro Bobby Jeevan,219,0.558,845,Rakshakundudayinchinaadata,0.156,0.094,0.253,2030,Palle pallello pattanaala moolallo,491,0.125
+805,Ullasame Uthsahame,D-unique,JC Kuchipudi,197,0.516,928,Ullaasa Jeevitham,0.291,0.222,0.456,1383,Jai Jai Jai Yesayyaa,419,0.062
+806,Janminche,A-lyric-dup,Bishop Samuel Finny Pachigalla,572,0.696,89,Yese Janmincheraa,0.836,0.839,0.726,1917,Janminche lokarakshakudu,422,0.533
+807,Kaligiyunna Samasthamu,A-lyric-dup,Bro Sudheer Nelaturi,375,0.706,2353,Kaligiyunna samasthamu needhenayya,1.0,1.0,1.0,2353,Kaligiyunna samasthamu needhenayya,375,0.706
+808,Prabhu Athma,A-lyric-dup,,331,0.571,2868,Prabhu Naamam,0.883,0.895,0.799,2482,Prabhu aathma naalo nindiporlinappudu,269,0.372
+809,Raaraju Puttinadu,C-review,Bro. Sayaram Gattu,268,0.71,666,Raaraaju Puttaadoi,0.543,0.53,0.759,2013,Raaraju puttinaadu nedu ilalo,480,0.65
+810,Thirigi Raa Sinnoda,D-unique,C Y Joshua,551,0.514,479,Dikkulenni Thiriginaa,0.203,0.036,0.268,1004,Antaraani Vaadavantu,900,0.118
+811,Unnaanaya Nenunnaanaya,C-title-collision,"Sister Nissy Paul, wife of Bro Paul Emmanuel",145,0.837,2021,Unnaanayaa nenunnaanayyaa,0.527,0.56,0.0,2021,Unnaanayaa nenunnaanayyaa,402,0.837
+812,Vachindi Vachindi Christmas,C-title-collision,"P Methuselah, GRACE TIME CHURCH, khammam",199,0.885,1103,Vachchindi Christmas Vachchindi,0.223,0.136,0.365,1103,Vachchindi Christmas Vachchindi,450,0.885
+813,Yerugani Reethiga,B-likely-lyric-dup,Gottipaati Yesu Das,97,0.733,2349,Erugani reethigaa,0.579,0.621,1.0,2349,Erugani reethigaa,235,0.733
+814,Yesey Naaku Samasthamu,A-lyric-dup,,312,0.757,2428,Yese naaku samasthamu,1.0,1.0,1.0,2428,Yese naaku samasthamu,312,0.757
+815,Andhaala Thaara,C-title-collision,Michael Kalyanapu,161,0.88,138,Andaala Thaara,0.189,0.108,0.308,1920,Lokaaniki aanandame,361,0.2
+816,Ben And Holly Istamaa,D-unique,Dhanya Tryphosa,501,0.0,,,0.093,0.026,0.088,262,Nuvvante Ishtamu Naa Yesayyaa,446,0.19
+817,Idi Kamaneeya,D-unique,Pandit KVK Churchil,275,0.667,1428,Kamaneeyamaina,0.145,0.066,0.22,2114,Eduruchoosina kaalam – Pratyaksha parichenu daivam,556,0.073
+818,Kaluvari Naadha,D-unique,Pastor Hannah Vimal,115,0.552,945,Kaluvari Giri Nundi,0.188,0.038,0.274,2738,O Yesu Nee Divya Prema,219,0.0
+819,Kotha Vistharatha,D-unique,Jasper Kunapo,396,0.0,,,0.183,0.035,0.292,3711,Prabhuvuku thaginattu naduchukondhamu randi,862,0.185
+820,Lali Jo Lali Jo,D-unique,Michael Kalyanapu,151,0.593,1403,Laali Laali Jolaali,0.141,0.085,0.242,2049,Eeroju krotta velugu mana jeevithaalalo,364,0.089
+821,Na Yesu Raja Sthothramu,D-unique,S J Berchmans,262,0.615,3340,Sthothramu Yesunaathaa,0.22,0.05,0.377,2166,Prabhu goppa kaaryamulu chesenani manamuthsahinchedhamu,634,0.145
+822,Okasari Nee Swaramu,B-likely-dup,Dr. John Wesly,152,0.97,250,Okasaari Nee Swaramu,0.585,0.593,1.0,250,Okasaari Nee Swaramu,365,0.97
+823,Raraju Puttadoi,C-title-collision,Joshua Shaik,169,0.897,666,Raaraaju Puttaadoi,0.468,0.365,0.0,666,Raaraaju Puttaadoi,536,0.897
+824,Brathukantha,D-unique,Nick Zohan,202,0.533,1758,Brathikinchukuntaanu,0.33,0.193,0.535,3966,Neevenayyaa neevenayyaa naa sarvamu neevenayyaa,451,0.038
+825,Cheri Jeevinchudi,A-confirmed-dup,Devadas Mungamuri,443,1.0,1923,Cheri Jeevinchudi,1.0,1.0,1.0,1923,Cheri Jeevinchudi,443,1.0
+826,Entha Madhuram,C-title-collision,KR John,159,0.96,35,Entha Madhuramu,0.179,0.154,0.299,1689,Yesuni Naamamu Entho Madhuramu,371,0.526
+827,Jyothirmayuni Jananam,C-review,Param Jyothi Gummalla,123,0.654,2190,Jyothirmayuni jananam sarvalokaaniki,0.431,0.494,0.0,2190,Jyothirmayuni jananam sarvalokaaniki,443,0.654
+828,Naakunnadu Snehithudu,C-review,Pastor J Arun Kumar,248,0.78,2774,Naakoka snehithudunnaadu,0.273,0.125,0.362,1487,Nammakamaina Naa Snehithudu,409,0.605
+829,Nee Mandhiraana,A-lyric-dup,Dr. K Wilson,149,0.667,2785,Nee Mandhiraanaa Nenundiponaa,1.0,1.0,1.0,2785,Nee Mandhiraanaa Nenundiponaa,149,0.667
+830,Okka Kshanamaina,C-title-collision,Sis. Prasanna Bold,669,0.963,1496,Oka Kshanamaina,0.14,0.02,0.228,2865,Veerude Lechenu,1499,0.0
+831,Ontarini,A-lyric-dup,John Libni Bathuka,492,0.538,1861,Ontarini nenu ontarini,0.905,0.92,0.99,1861,Ontarini nenu ontarini,584,0.538
+832,Taramulu Maruchunnavi,A-confirmed-dup,Bro P Srinivas,751,0.9,528,Tharamulu Maaruchunnavi,0.928,0.837,0.941,528,Tharamulu Maaruchunnavi,772,0.9
+833,Thandri Na Deva,C-review,Pastor J Arun Kumar,77,0.783,1012,Thandri Devaa,0.098,0.172,0.0,408,Hrudayapoorvaka Aaraadhana,295,0.167
+834,Aagipodhu Naa Paata,A-lyric-dup,A.R.Stevenson,394,0.75,2369,Aagipodhu naa paata,0.93,0.814,0.926,2369,Aagipodhu naa paata,391,0.75
+835,Boora Dwanikai Yesuni Raakakai,D-unique,Rayipati Srilekha Srikanth,97,0.0,,,0.144,0.033,0.0,828,Ee Dinam Sadaa,310,0.054
+836,Deva Ninu Aaradhincheydhamu,D-unique,Stanley Jones YJ,438,0.591,132,Aaraadhinchedanu Ninnu,0.198,0.05,0.326,3718,Pallavarapu kondalapaina prabhudhaasulu,1003,0.2
+837,Israyelu Devuda,D-unique,K Y Ratnam,143,0.667,1179,Ishraayelu Devaa,0.175,0.062,0.298,751,Sthuthinchi Paadedam,342,0.065
+838,Jayamu Prardhana Jayamu,C-review,Raja Mandru,132,0.78,2350,Jayamu praardhana jayamu,0.496,0.543,0.0,2350,Jayamu praardhana jayamu,396,0.78
+839,Margamai Unna Yesu,D-unique,Jonah Samuel,110,0.556,371,Paralokamlo Unna Maa Yesu,0.15,0.086,0.0,2618,Paapa samudhramandhu pagile naa hrudhayanaava,373,0.109
+840,Modhati Prema,D-unique,Dr. Victor Rampogu,293,0.5,1738,Inthati Premanu Vinthaga,0.326,0.059,0.392,1193,Devaa Naa Devaa,410,0.0
+841,Naa Balamantha,C-review,Sammy Thangiah,93,0.667,532,Gatha Kaalamantha,0.533,0.435,0.0,237,Naa Balamanthaa Neevenayyaa,241,0.667
+842,Naa Nireekshana Neelo Undaga,A-confirmed-dup,B Ezra Sastri & Nirmala Sastri,307,0.98,2354,Naa Nireekshana Neelo Undagaa,1.0,1.0,1.0,2354,Naa Nireekshana Neelo Undagaa,307,0.98
+843,Parishuddhathmuda Na Manchi,C-review,John Kennedy Bethapudi,370,0.711,2981,Parishuddhaathmuda Deva,0.217,0.012,0.318,2981,Parishuddhaathmuda Deva,712,0.711
+844,Aayaney,D-unique,Benny Joshua,200,0.0,,,0.154,0.056,0.268,1369,Memu Bhayapadamu,493,0.2
+845,Devudu Ledani,D-unique,Jasper Kunapo,567,0.56,706,Goppa Devudavani,0.186,0.043,0.315,2861,Ishraayelunu kaapaadu Devudu,1351,0.278
+846,Kamaneeyamaina,A-confirmed-dup,"Joshua Shaik, Passion For Christ Ministries",455,1.0,1428,Kamaneeyamaina,0.863,0.793,0.821,1428,Kamaneeyamaina,411,1.0
+847,Keerthaneeyamainadhi,D-unique,Veturi Sundara Rammoorthy,470,0.625,1428,Kamaneeyamaina,0.171,0.033,0.226,528,Tharamulu Maaruchunnavi,772,0.15
+848,Manninchina,D-unique,Yalagapaati Sunil Kumar,402,0.571,3952,Manche leni naa painaa,0.275,0.113,0.39,791,Nee Prema Naalo Madhuramainadi,738,0.167
+849,Nee Rajyame,D-unique,,482,0.0,,,0.413,0.194,0.342,1643,Paralokamandunna Maa Thandree,316,0.114
+850,Paadedha,D-unique,Dr. Victor Rampogu,289,0.609,1165,Aadedhan Paadedhan,0.188,0.086,0.251,36,Nee Krupa Chaalunayaa,480,0.16
+851,Payanam,D-unique,Bro Santi Babu,213,0.5,615,Ee Udayamuna,0.165,0.019,0.27,2416,Nee thodu unte chaalu maakentho melu,481,0.0
+852,Swaramethi Paadedha,D-unique,Raja Mandru,110,0.516,523,Aaraadhinchedam,0.172,0.04,0.296,835,Daaveedu Vale Naatyamaadi,266,0.205
+853,Yese Goppa Devudu,A-confirmed-dup,Bro Philip Gariki,449,1.0,1425,Yese Goppa Devudu,0.954,0.971,0.987,1425,Yese Goppa Devudu,480,1.0
+854,Dina Dinamu Vijayamu,A-confirmed-dup,Kripal Mohan,192,0.882,1176,Dinadinamu Vijayamu,0.979,0.984,1.0,1176,Dinadinamu Vijayamu,200,0.882
+855,Naa Jeevithamulo Velugai,D-unique,Kripal Mohan,270,0.632,207,Naa Jeevithaanthamu,0.17,0.042,0.295,1816,Jeevadhaatha Sthuthipaathrudaa,663,0.245
+856,Nee Aatmatho Nannu,D-unique,Vijay Kondapuram,240,0.6,393,Devaa Nee Aathmanu,0.239,0.116,0.408,1009,Nee Dayalo Nee Krupalo,576,0.182
+857,Neelone Rakshana,D-unique,Kripal Mohan,197,0.621,7,Neeve Naa Rakshana,0.269,0.147,0.338,685,Parishuddhudaa Paavanudaa,297,0.108
+858,Ninne Ninne Sthuthiyincheda,D-unique,Bro Denny Israel,172,0.65,690,Ne Sthuthinchedanu,0.289,0.055,0.476,1143,Sthuthinchedanu Ninnu Nenu,392,0.638
+859,Oh Prardhana Su Prardhana,A-confirmed-dup,William W. Walford,558,0.8,834,Praardhana Praardhana,0.938,0.697,0.944,343,O Praardhanaa Supraardhanaa,566,0.756
+860,Paralokam Naa Desam,C-title-collision,Kripal Mohan,214,0.8,824,Paralokamu Naa Deshamu,0.186,0.085,0.288,1379,Halle Halle Halle Hallelooyaa,446,0.146
+861,Thandri Nee Prema,D-unique,Kripal Mohan,229,0.643,146,Naa Thandri Neeve,0.267,0.139,0.33,1714,Paralokamandunna Thandree - Parishuddhudavaina Devaa,336,0.295
+862,Yesu Nee Premakai Vandanam,D-unique,Kripal Mohan,232,0.647,1442,O Yesu Nee Prema,0.252,0.108,0.37,195,Naatho Neevu Maatlaadinacho,446,0.13
+863,Deva Nee Naamam,A-confirmed-dup,,179,0.96,552,Devaa Nee Naamam,1.0,1.0,1.0,882,Devaa Nee Naamam (Kripal Mohan),179,0.632
+864,Devude Na Aasrayam,D-unique,Kripal Mohan,205,0.686,224,Devude Naakaashrayambu,0.212,0.023,0.3,1410,Yese Naa Aashrayamu,375,0.581
+865,Na Praanam Na Sarvam,A-lyric-dup,,200,0.789,774,Naa Praanamaa Naa Sarvamaa,0.942,0.755,0.939,2813,Naa praanam naa sarvam antharangamuna,199,0.417
+866,Naa Yesayya Naa Rakshaka,B-likely-dup,,85,0.952,149,Naa Yesayyaa Naa Rakshakaa,0.593,0.6,1.0,149,Naa Yesayyaa Naa Rakshakaa,199,0.952
+867,Okasari Chudalani,D-unique,Bro Augustine Dandingi,67,0.0,,,0.197,0.111,0.338,1363,Sthuthula Meeda Aaseenudaa,160,0.263
+868,Parishuddhathmuda,C-title-collision,Bro Philip Gariki,126,0.865,2981,Parishuddhaathmuda Deva,0.429,0.343,0.0,326,Parishuddhaathmudaa Neeke Vandanam,452,0.681
+869,Sthuthi Aaradhana Parishuddunake,B-likely-lyric-dup,,191,0.636,3361,Sthuthinthun parishuddhuni aaraadhanatho,0.749,0.578,0.656,2814,Sthuthi aaraadhana parishuddhunake jeevaadhipathiyaina Yesunake,144,0.552
+870,Thandri Kumaara Shuddathmuda,A-lyric-dup,,180,0.618,2818,Thandri kumaara shuddhaathmudaa thriyeka Devudaa,0.919,0.739,0.921,2818,Thandri kumaara shuddhaathmudaa thriyeka Devudaa,181,0.618
+871,Yesayya Na Aadharamu,D-unique,Suresh Garugula,246,0.667,890,Yesayya Naamamu,0.251,0.133,0.393,158,Nee Arachethilo Chekkukuntivi,524,0.047
+872,Ananda Dwani Chesedham,D-unique,Lillian Christopher,172,0.0,,,0.182,0.048,0.276,910,Yesu Raaju Raajula Raajai,348,0.05
+873,Dorakunu Samasthamu,A-confirmed-dup,Ch Solmon Raju,542,1.0,1006,Dorakunu Samasthamu,0.95,0.94,0.974,1006,Dorakunu Samasthamu,569,1.0
+874,Kalvari Prema,C-title-collision,Pastor Praveen,193,0.917,254,Kalvari Premanu,0.42,0.34,0.0,1684,Kalvari Prema Prakatinchuchunnadi - Sarvalokaaniki,672,0.393
+875,Maruvalenayya,C-title-collision,Israel Dorababu,827,0.96,1092,Maruvalenayyaa,0.225,0.061,0.292,972,Krupa Krupa Naa Yesu Krupaa,1315,0.059
+876,Naakantu Ee Jagaana,D-unique,Joshua Shaik,336,0.6,860,Naadantu Lokaana,0.232,0.09,0.338,1613,Athi Parishuddhudaa Sthuthi Naivedyamu,644,0.08
+877,Noothana Geethamu,D-unique,Hosanna Ministries,431,0.667,2842,Noothana geethamu paadedanu,0.279,0.097,0.289,3817,Yesayya neeve aashrayapuramu,461,0.2
+878,Prardhane,D-unique,Aruna Jalli,180,0.526,1339,Praaneshwara,0.226,0.087,0.365,1174,Praardhana Kaligina Jeevitham,400,0.412
+879,Ratnavarnuda,D-unique,Pastor Praveen,404,0.583,599,Davalavarnudaa,0.268,0.088,0.346,473,Yesayya Nee Prema,636,0.0
+880,Vandanam Vandanam,C-review,Pastor Raj Prakash Paul,643,0.774,744,Aanandamaanandame,0.213,0.058,0.324,972,Krupa Krupa Naa Yesu Krupaa,1315,0.0
+881,Yesulo Aanandam,C-review,Arun Alwyn,274,0.741,2856,Aanandam Yesutho,0.205,0.091,0.312,278,Rakshimpabadina Neevu,561,0.062
+882,Gnapakam Chesuko,A-lyric-dup,Rev.Pandu PremKumar,339,0.649,2283,Gnaapakam chesuko Yesayyaa,1.0,1.0,1.0,2283,Gnaapakam chesuko Yesayyaa,339,0.649
+883,Munduku Sagedanu,A-confirmed-dup,Raja Mandru,330,0.828,2123,Munduku saagedanu,1.0,1.0,1.0,2123,Munduku saagedanu,330,0.828
+884,Na Adugulu Sthiraparachi,D-unique,Ch Suresh,102,0.0,,,0.144,0.082,0.25,2902,Maataadu naa prabhuvaa naatho maataadu,249,0.148
+885,Neeve Maa Dhikku,B-likely-lyric-dup,Bro Jyothi Raju,169,0.0,,,0.715,0.712,1.0,2479,Yehovaa Raaphaa swasthaparachu Devaa,302,0.089
+886,Noothanamainadi,A-confirmed-dup,Dasari Sundeep,554,1.0,1545,Noothanamainadi,0.905,0.699,0.928,1545,Noothanamainadi,581,1.0
+887,Shalemu Raja,D-unique,Philip Gariki,107,0.513,1941,Shaalemu Raajaa Shaanthiki Raajaa,0.413,0.494,0.0,1941,Shaalemu Raajaa Shaanthiki Raajaa,405,0.513
+888,Unnadu Devudu,A-lyric-dup,Bro Balraj,270,0.667,935,Unnaadu Devudu Naaku Thodu,0.903,0.658,0.937,935,Unnaadu Devudu Naaku Thodu,290,0.667
+889,Vedakudi,D-unique,Jasper Kunapo,396,0.0,,,0.18,0.039,0.246,3295,Dhevadhevuni koniyaadedhamu - Aviratha thriyekuni sthothrinthumu,687,0.062
+890,Yesayya Naakantu Evaru Lerayya,B-likely-lyric-dup,David Sindo,137,0.683,1141,Yesayyaa Naakantu,0.567,0.464,0.978,1141,Yesayyaa Naakantu,333,0.683
+891,Yesayye Premaku Prathiroopam,B-likely-dup,Sharon Philip,177,0.824,2280,Yesayye premaku prathiroopamu,0.647,0.613,1.0,2280,Yesayye premaku prathiroopamu,368,0.824
+892,Deshama Na Deshama,A-lyric-dup,Abhishek Devadas,862,0.5,748,Naa Priya Desham,0.968,0.966,0.937,3828,Deshamaa naa deshamaa deshamaa Bhaaratha deshamaa,808,0.379
+893,Jayamichenu,D-unique,,259,0.533,2891,Jayahe,0.202,0.177,0.342,940,Kalvari Siluvalo Yesayya,615,0.129
+894,Maargam Neeve,C-review,Anil Ravada,398,0.72,1475,Maargamu Neevani,0.179,0.136,0.24,1409,Neeve Naa Santhosha Gaanamu,665,0.353
+895,Nasiyinchedi Lokamlo,A-confirmed-dup,Dr. John Wesly,357,0.919,1160,Nashiyinchedi Lokamlo,0.951,0.971,0.992,1160,Nashiyinchedi Lokamlo,387,0.919
+896,Nedaina Nijamaina,A-lyric-dup,A.R.Stevenson,347,0.645,1690,Nijamaina Nee Prema,1.0,1.0,1.0,2129,Nedainaa nijamaina rakshakuni cherumaa,347,0.531
+897,O Deva,A-lyric-dup,Pastor Raj Prakash Paul,302,0.0,,,0.967,0.947,0.983,165,O Devaa Daya Choopumayyaa,312,0.32
+898,Prardinchu,A-lyric-dup,Joshua Jessi,467,0.727,1439,Praardhinchumu,0.967,0.969,0.935,2124,Praardhinchu neevu praardhinchu,437,0.432
+899,Srama Kaligina,A-lyric-dup,A.R.Stevenson,511,0.56,424,Nibbaram Kaligi,1.0,1.0,1.0,1864,Shrama kaliginaa bhayapadaku,511,0.486
+900,Suvartha Mosina Padamulu,C-review,Bro. Sayaram Gattu,159,0.522,1180,Randi Suvaartha Sunaadamutho,0.504,0.557,0.0,141,Sundaramulu Athi Sundaramulu,468,0.348
+901,Vignapana,A-lyric-dup,Eileen Sharon,246,0.0,,,1.0,1.0,1.0,2643,Maa ooru maa veedi,246,0.0
+902,Adbhutha Vijayam Manadhe,B-likely-lyric-dup,P J Stephen Paul,170,0.512,1526,Vijaya Geethamu Manasaara,0.617,0.65,1.0,2137,Adbhutha vijayam manade manade Yesuni naamamlo,379,0.492
+903,Ashirwadam,B-likely-lyric-dup,Dr Prasanna Kumar Kaki,373,0.0,,,0.542,0.419,0.863,354,Aasheervaadam,812,0.381
+904,Deevinchutalo,D-unique,Joffy Nayanapogula,439,0.609,1035,Deevinchaave,0.191,0.087,0.309,1781,Naa bhaagaswaamini Yeshua Jerusha,975,0.098
+905,Kondalathattu,C-title-collision,Dr. Victor Rampogu,184,0.833,1170,Kondala Thattu,0.454,0.474,0.0,3825,Kondalathattu kannuletthi choosaanu Yesayya,622,0.471
+906,Mahaganudavu Mahonnathudavu,C-title-collision,Bro. Yesanna,241,0.885,1395,Mahaa Ghanudavu Mahonnathudavu,0.45,0.286,0.674,1395,Mahaa Ghanudavu Mahonnathudavu,478,0.885
+907,Naa Jeevitham,C-title-collision,Saginela Kavitha Kumari,443,0.8,1448,Naadu Jeevithamu,0.231,0.054,0.401,1788,Nee krupaye naa jeevithamu,1091,0.485
+908,Naa Praanama,A-lyric-dup,,489,0.741,1568,Ooruko Naa Praanamaa,0.851,0.764,0.92,338,Naa Praanamaa Naa Samasthamaa,568,0.571
+909,Prematho Nanu Pilachina,D-unique,Bro Praveen D,406,0.632,484,Nannu Pilachina Devaa,0.216,0.11,0.327,1610,Swasthaparachu Devudu,820,0.154
+910,Sagam Lokam,A-lyric-dup,K Y Ratnam,528,0.5,854,Sarva Lokamaa,1.0,1.0,1.0,1854,Sagam lokam sagam sangham,528,0.467
+911,Sarva Shakthimanthudu,C-review,Bro Philip Gariki,93,0.704,1549,Yehovaa Dayaaludu Sarva Shakthimanthudu,0.462,0.4,0.0,3969,Sarvashakthimanthudu adhvitheeyadhevudu,305,0.607
+912,Aradhinchedhanu Athmatho,D-unique,Pastor Raj Prakash Paul,409,0.696,586,Aaraadhinchedamu Aathmatho,0.261,0.082,0.342,3993,Aayana dhanavanthudai yundiyu meeru,662,0.189
+913,Brathiki Vunnanante,C-review,Pastor Sven Edwards,121,0.778,461,Ne Brathiki Unnaanante,0.369,0.317,0.0,1483,Brathikiyunnaanante Nee Krupa,474,0.698
+914,Chirakaala Snehithuda,A-confirmed-dup,"Sharon Sisters, Bro Philip Gariki",413,0.974,1019,Chirakaala Snehithudaa,0.866,0.777,0.822,1019,Chirakaala Snehithudaa,372,0.974
+915,Nannelu Nazareyuda,D-unique,Joshua Shaik,318,0.0,,,0.26,0.127,0.332,55,Nijamaina Draakshaavalli,493,0.0
+916,Ninne Ninne Premisthunna,C-review,Raja Mandru,63,0.722,164,Ninne Preminthunu,0.32,0.222,0.475,265,Yese Daivamu,122,0.0
+917,Nuvivvakuntey,A-lyric-dup,M V Ratnam,366,0.629,2125,Nuvivvakunte edhi ledhayya,1.0,1.0,1.0,2125,Nuvivvakunte edhi ledhayya,366,0.629
+918,O Yesu Nee Naama,C-review,Dr.Vijaya Kumar Gudipati,223,0.762,39,Yesu Naamam,0.211,0.131,0.317,1155,Nee Sannidhilo Nenunna,443,0.129
+919,Saadhyam,B-likely-lyric-dup,John Erry & Swathi John,314,0.6,1898,Susaadhyamegaa,0.645,0.477,0.724,1157,Cheekatilo Kaanthivi,391,0.08
+920,Sokam Nindina Lokamlo,D-unique,Franklin Sukumar,336,0.0,,,0.134,0.025,0.222,606,Vinarandi Naa Priyuni Visheshamu,771,0.217
+921,Tharinchiponi,A-lyric-dup,Father Johnson Chettur,350,0.667,2279,Tharinchiponi Nee Premalone,1.0,1.0,1.0,2279,Tharinchiponi Nee Premalone,350,0.667
+922,Hosanna,D-unique,Pastor Vinod Kumar,145,0.6,303,Hosanna Hosannaa,0.412,0.343,0.0,303,Hosanna Hosannaa,524,0.6
+923,Jolaa,A-lyric-dup,John Kunapo,425,0.0,,,1.0,1.0,1.0,2066,Jolaa Prabhu Yesayya odilona jola,425,0.25
+924,Kanipettuchuntini,B-likely-lyric-dup,"Bro. Augustine, M Ashok",226,0.593,2420,Kanipettuchuntini Prabhuvaa nee sannidhini,0.612,0.583,0.991,2420,Kanipettuchuntini Prabhuvaa nee sannidhini,503,0.593
+925,Maruvani Needu Prematho,A-confirmed-dup,Sayaram Gattu,433,1.0,74,Maruvani Needu Prematho,0.878,0.803,0.9,74,Maruvani Needu Prematho,455,1.0
+926,Nee Karyamulu,B-likely-dup,,200,0.957,642,Nee Kaaryamulu,0.545,0.444,0.869,642,Nee Kaaryamulu,435,0.957
+927,Nee Prema Naalo,A-confirmed-dup,Pastor John Wesley,710,0.846,1506,Needu Prema Naalo,0.956,0.919,0.975,791,Nee Prema Naalo Madhuramainadi,738,0.632
+928,Neevu Leni Brathukunu,A-lyric-dup,Fr Dr C Babu Raj,325,0.632,1138,Neetho Nundani Brathuku,1.0,1.0,1.0,2284,Neevu leni brathukunu oohinchalenu,325,0.583
+929,Santhoshame Na Yesunilo,A-confirmed-dup,Davidson Gajulavarthi,460,0.878,2068,Santhoshame naa Yesunilo,1.0,1.0,1.0,2068,Santhoshame naa Yesunilo,460,0.878
+930,Yesayya Nee Prema,A-confirmed-dup,Rajesh Tatapudi,470,1.0,473,Yesayya Nee Prema,1.0,1.0,1.0,1825,Manasunu munchetthe ee saundharyam,470,0.182
+931,Yesu Rakthamu,A-confirmed-dup,David Stone,210,0.917,425,Yesu Rakthamulo,1.0,1.0,1.0,2810,Yesu rakthamu shuddhi chese rakthamu,210,0.429
+932,Aaradhinchedam,C-title-collision,Davidson Gajulavarthi,246,0.963,523,Aaraadhinchedam,0.235,0.093,0.398,1415,Aascharyakarudu (Rojanthaa),585,0.158
+933,Andhakaara Cherasalalo,A-confirmed-dup,Joel Kodali,487,0.976,1500,Andhakaara Cherasaalalo,0.962,0.929,0.979,1500,Andhakaara Cherasaalalo,505,0.976
+934,Anni Velala Vinuvadu,A-confirmed-dup,G Phinehas,350,0.971,1118,Anni Velala Vinuvaadu,0.894,0.717,0.92,1118,Anni Velala Vinuvaadu,370,0.971
+935,Daya Choopumaya,C-review,M Paul Bhaskar,177,0.765,165,O Devaa Daya Choopumayyaa,0.133,0.052,0.206,3660,Daahamu theerchumayyaa,369,0.303
+936,Deva Ma Prarthana,D-unique,Pastor John Wesley,297,0.647,2458,Praarthana vinedu Devaa,0.158,0.057,0.247,1473,Karuna Choopinchumaa,632,0.125
+937,Deva Neevu Chesina,D-unique,Raja Mandru & Bro. Bharath,338,0.667,868,Neevu Chesina Mellaku,0.201,0.104,0.348,1655,Nannu Neevu Aadarinchaavu,832,0.27
+938,Na Kanneeru Thudichina,D-unique,K Y Ratnam,92,0.5,1541,Naa Kannula Kanneeru,0.132,0.045,0.222,197,Yesu Maatho Neevundagaa,216,0.051
+939,Neeve,B-likely-lyric-dup,Vijay Kondapuram,292,0.5,891,Bandhamu Neeve,0.781,0.55,0.869,1358,Neeve Aashrayadurgam,357,0.364
+940,Suvartha Andani Ooru,D-unique,Dr. K John Mangacharyulu,383,0.0,,,0.149,0.033,0.252,446,Sevakulaaraa,911,0.143
+941,Yegedhanu,A-lyric-dup,Joshua Shaik,374,0.0,,,0.943,0.938,1.0,167,Egedanu Ne Cheredanu,419,0.32
+942,Cheekati Kaalamu Vachuchunde,C-review,,155,0.545,3533,Cheekati kaalamu vachchuchunde - Krupakaalamu nupayoginchu,0.461,0.422,0.0,3533,Cheekati kaalamu vachchuchunde - Krupakaalamu nupayoginchu,504,0.545
+943,Ee Loka Yathralo,A-confirmed-dup,,351,0.929,24,Ee Loka Yaathraalo,0.909,0.743,0.928,24,Ee Loka Yaathraalo,366,0.929
+944,Kanipettu Chuntini,B-likely-lyric-dup,Bro Augustine,226,0.519,2420,Kanipettuchuntini Prabhuvaa nee sannidhini,0.612,0.583,0.991,2420,Kanipettuchuntini Prabhuvaa nee sannidhini,503,0.519
+945,Nibandhana Janulam,C-title-collision,Pastor K Rajababu,117,0.97,1393,Nibandhanaa Janulam,0.249,0.278,0.0,1393,Nibandhanaa Janulam,809,0.97
+946,Ninnu Kaapaduvaadu,C-review,Shulamite Pachigalla,103,0.78,855,Ninnu Kaapaaduvaadu Kunukadu,0.193,0.292,0.307,877,Naa Sarvam Naa Kota,222,0.194
+947,Saageda Nenu Yesunilo,A-lyric-dup,Dr. John Wesley,281,0.686,1150,Ne Saageda Yesunitho,1.0,1.0,1.0,1728,Saageda Nenu Yesunilo - Shramayaina Karuvainaa,281,0.621
+948,Shathakoti Vandanalu,C-review,Samuel Karmoji,131,0.615,1943,Shathakoti vandanaalu Yesu swaami neeku,0.478,0.525,0.0,1943,Shathakoti vandanaalu Yesu swaami neeku,413,0.615
+949,Yesaiah Entho Manchivadu,D-unique,Rev. Daniel Pothuraj,151,0.0,,,0.231,0.066,0.383,3732,Nannu kaapaadu naa Devudu kunukadu kunukadu,346,0.103
+950,Yesayya Na Praana Naadha,A-confirmed-dup,Kranthi Chepuri,344,0.837,766,Yesayyaa Naa Praana Naathaa,0.912,0.857,0.95,1080,Yesayyaa Naa Praana Naathaa Ninu,373,0.766
+951,Yesuni Neevu Nammuko,D-unique,Pastor Kasi Lazarus,200,0.581,191,Yesuni Naamamulo,0.185,0.056,0.318,2237,Kaalaviluva neeku theliyakapoyina kanneeru kaarchedhavu,486,0.09
+952,Alalu (Neevu Nakundaga),D-unique,Prasanna Kumar Kaki,232,0.514,863,Neevu Thodundagaa,0.18,0.052,0.309,1422,Maananu Maananu,563,0.0
+953,Bayamelara,D-unique,,391,0.545,579,Mellani Swarame,0.172,0.052,0.262,1847,Asamaanudu Avamaanaparachadu Ninnu,802,0.15
+954,Deva Nannela Vidichinavaya,D-unique,Dr. Issac Raj Alanka,251,0.537,484,Nannu Pilachina Devaa,0.167,0.083,0.273,338,Naa Praanamaa Naa Samasthamaa,568,0.167
+955,Mulla Kireetamu,C-title-collision,,188,1.0,1244,Mulla Kireetamu,0.478,0.393,0.0,1244,Mulla Kireetamu,590,1.0
+956,Nee Thyagame Ne Dhyaaninchuchu,D-unique,Pastor Suresh,69,0.591,139,Dhyaaninchuchuntimi,0.151,0.176,0.254,1363,Sthuthula Meeda Aaseenudaa,160,0.163
+957,Nenu Chesina Papamu,D-unique,Gideon,545,0.537,799,Neevu Chesina Upakaaramulaku,0.204,0.092,0.348,972,Krupa Krupa Naa Yesu Krupaa,1315,0.105
+958,Parishuddhame Yesuni Raktham,D-unique,"Late Bishop shantha vardhan garu, Guntur",694,0.68,312,Yesu Parishuddha Naamamunaku,0.253,0.034,0.191,3284,Priyayesu priyayesu athi priyudesu,353,0.182
+959,Prabhuva Ninne Nenu,C-review,Lois Raj,375,0.778,1345,Prabhuvaa Ne Ninnu Nammi,0.317,0.125,0.389,22,Enduko Nanninthagaa Neevu,545,0.211
+960,Samaanulevaru Prabho,A-confirmed-dup,Chetty Bhanumurthy,253,0.8,588,Samaanulavru Prabho,0.823,0.8,0.928,588,Samaanulavru Prabho,317,0.8
+961,Sundaruda Athiysheyuda,A-lyric-dup,Prathap Darshi,228,0.78,322,Sundarudaa Athishayudaa,0.881,0.71,0.929,322,Sundarudaa Athishayudaa,253,0.78
+962,Athynnatha Simhasanamupai,C-review,,128,0.766,507,Athyunnatha Simhaasanumpai,0.248,0.222,0.357,2911,Ninne preminthunu ne venuthirugaa,239,0.115
+963,Hallelujah,C-review,Pastor K Rajababu,259,0.783,756,Aahaa Hallelujah,0.258,0.211,0.358,1219,Hallelooyaa Ani Paadi,457,0.37
+964,Kaalamokati Raabothundi,D-unique,Godi Samuel,374,0.0,,,0.136,0.03,0.237,3199,Kotha yajamaanunda sthothramu goormitho nonarinthumu,922,0.206
+965,Naa Brathuku Dhinamulu,A-confirmed-dup,Joel Kodali,487,0.919,524,Naa Brathuku Dinamulu,0.938,0.708,0.961,524,Naa Brathuku Dinamulu,511,0.919
+966,Naa Hrudayamantha,A-confirmed-dup,"Dr. Pammi Daniel, Prabhu Pammi, Sharon Paul Perli",635,1.0,1608,Naa Hrudayamantha,0.874,0.654,0.877,1608,Naa Hrudayamantha,639,1.0
+967,Nee Kantipaapanu,C-title-collision,Joshua Shaik,114,1.0,651,Nee Kantipaapanu,0.448,0.387,0.0,651,Nee Kantipaapanu,381,1.0
+968,Neevu Leni Chotedi Yesayya,C-title-collision,Dr. Victor Rampogu,158,0.811,1529,Neevu Leni Chotedi,0.473,0.472,0.0,1529,Neevu Leni Chotedi,506,0.811
+969,Samaadhini Gelchenu,D-unique,Bro Suresh Nittala,146,0.516,523,Aaraadhinchedam,0.291,0.073,0.382,1458,Hallelooyani Paadarandi,236,0.211
+970,Stuthiencheda,D-unique,Bro. Sam Prabhu Sandesh,388,0.643,690,Ne Sthuthinchedanu,0.285,0.107,0.399,1168,Adiginadi Konthe Ayinaa,695,0.125
+971,Theeyani Swaraalatho,A-confirmed-dup,A.R.Stevenson,453,1.0,953,Theeyani Swaraalatho,0.941,0.904,0.956,953,Theeyani Swaraalatho,467,1.0
+972,Alochinchava,A-lyric-dup,Joshua dean,625,0.625,2435,Okasaari Aalochinchavaa,1.0,1.0,1.0,1826,Aalochinchaava o nestham aalochinchaava,625,0.435
+973,Emivvagalanu Nee Premaku,D-unique,Bro. Vasanth Bandela,160,0.514,193,Nee Premaku Saati,0.12,0.025,0.196,2923,Premapanche gunameneedani praana michchina thyaagame needani,359,0.24
+974,Na Chenthanundumu,D-unique,,90,0.5,2880,Naa thandri ninu nenu,0.169,0.048,0.0,1138,Neetho Nundani Brathuku,445,0.229
+975,Naa Hrudhayam,A-lyric-dup,Samy Pachigalla,381,0.769,1608,Naa Hrudayamantha,0.814,0.841,0.699,3789,Naa hrudayam paadene nee premane,274,0.368
+976,Nee Namame Madhuram,C-review,Bro Suresh Nittala,121,0.778,1045,Nee Naamam Athi Madhuram,0.183,0.037,0.277,1675,Aadiyu Neeve Anthamu Neeve,243,0.211
+977,Neevu Lekunda,D-unique,Pastor G. Vijay kumar,353,0.538,863,Neevu Thodundagaa,0.207,0.067,0.333,3833,Yesayya naa praanamaa – Ghanamaina sthuthigaanamaa,781,0.0
+978,Priyathama Bandhama,A-confirmed-dup,Pastor Raj Prakash Paul,579,0.971,130,Priyathama Bandhamaa,0.787,0.69,0.769,130,Priyathama Bandhamaa,554,0.971
+979,Vendi Bangaaru Kante,C-review,,165,0.703,671,Vendi Bangaaraala Kanna,0.153,0.132,0.239,1169,Yesayya Maata Bangaaru Moota,349,0.341
+980,Yeruganaya Ninneppudu,A-confirmed-dup,Pastor K Rajababu,260,0.872,784,Eruganayyaa Ninneppudu,0.81,0.674,0.884,784,Eruganayyaa Ninneppudu,307,0.872
+981,Yesayya Nee Krupalo,A-lyric-dup,Lois Raj,551,0.706,1551,Chaalunayya Nee Krupa,0.945,0.944,0.902,2109,Yesayya nee krupalo nenundute dhanyamu,501,0.49
+982,Dhustula Aalochanalo,C-review,Dr. Issac Raj Alanka,218,0.765,500,Dushtula Aalochana,0.332,0.084,0.509,500,Dushtula Aalochana,449,0.765
+983,Ghanamaina Veduka,C-title-collision,A.R.Stevenson,123,1.0,995,Ghanamaina Veduka,0.325,0.268,0.0,995,Ghanamaina Veduka,478,1.0
+984,Kruthagnathatho Samarpanatho,C-title-collision,Pastor K Christopher,107,0.923,2442,Kruthagnathatho samarpanatho,0.399,0.286,0.0,2442,Kruthagnathatho samarpanatho,298,0.923
+985,Ninna Nedu Maarani Prema,D-unique,Pastor Ravinder Vottepu,287,0.564,1623,Ninna Nedu Nirantharam,0.271,0.145,0.4,1979,Naa Kashta Kaalamulo,558,0.054
+986,Ninne Ne Aaradinthunu,D-unique,"Pastor Ravinder Vottepu, Adimalla Sudheer Kumar, Suresh Garugula",62,0.698,1640,Ninne Aaraadhinthunu Yesayya,0.233,0.148,0.35,265,Yese Daivamu,122,0.0
+987,Ninnu Vidachi,D-unique,Dr. Issac Raj Alanka,240,0.645,1349,Andaru Nannu Vidachinaa,0.238,0.109,0.34,1138,Neetho Nundani Brathuku,445,0.065
+988,Sanghama Saaguma,D-unique,Bro Vasanth Bandela,118,0.629,768,O Sanghamaa Sarvaangamaa,0.144,0.107,0.216,1337,Aagaka Saagumaa,234,0.519
+989,Vachadayya Yesu,D-unique,Balaji Mangu,404,0.581,218,Raavayya Yesunaadhaa,0.15,0.019,0.251,302,Karige Koduku,947,0.0
+990,Yesaiah Puttinaade,D-unique,"Rev. Sam Paul Pilli, Roselyn Pilli",120,0.5,247,Puttinaadanta Yesu Naathudu,0.154,0.097,0.263,2712,Santhosham naaku santhosham,287,0.15
+991,Yesayya Naa Yesayya,C-title-collision,Bro Ravi Gosala,390,0.941,943,Yesayyaa Naa Yesayyaa,0.244,0.137,0.353,791,Nee Prema Naalo Madhuramainadi,738,0.143
+992,Bethlehemanu Oka Chinna,D-unique,Sudharshan,623,0.5,188,Bethlehem Puramuna,0.297,0.068,0.264,560,Sooda Sakkani Baaludammo,486,0.098
+993,Christmas Kaanthulatho,C-review,Sis. Hepsiba David,184,0.706,1223,Christmas Kaalam,0.187,0.103,0.28,2277,Aanandam aarbhaatame ilalo,366,0.233
+994,Ela Ela Vivarinthunu,D-unique,Sheela Paul & Micheal Paul,480,0.0,,,0.259,0.067,0.257,276,Udayinchinaadu,472,0.067
+995,Gaganame Murisenu,D-unique,Samuel Karmoji,180,0.0,,,0.11,0.239,0.118,233,Jayam Jayam,207,0.083
+996,Jagamantha Divyakanthi,D-unique,Ps. R. Lazarus,683,0.605,738,Oka Divyamaina Sangathitho,0.326,0.116,0.322,1842,Prakaashinchenu o divya thaara,665,0.348
+997,Jeevamai Yethenchina,D-unique,A.R.Stevenson,219,0.522,3037,Deva vembadinchithi nee naamamun,0.164,0.044,0.249,2185,Maa thoduga neevundutaku,444,0.154
+998,Paralokamnundi,D-unique,Bro M Moses,300,0.667,2957,Paralokamuna nundu Deva,0.293,0.154,0.268,1743,Yesu Kreesthu Jananamu - Deva Devuni Bahumaanam,251,0.075
+999,Rajulaku Rajaina,C-title-collision,Bro. Emmanuel,93,0.875,1256,Raajulaku Raajaina Ee,0.183,0.091,0.319,3324,Aa mundla kireetam boyenu ghanambukalgenu,228,0.12
+1000,Seethakalamlo,D-unique,Rev. John Sandeep,129,0.562,3809,Inthakaalam nee krupalo,0.356,0.286,0.0,1960,Sheethaakaalamlo Christmas kaanthulatho,476,0.458
+1001,Velisindhi Gaganaana,D-unique,Bishop Daniel Kalyanapu,167,0.5,1936,Aakaasha gaganaana merisindhi thaaraka,0.216,0.15,0.37,792,Christmas Shubha Dinam,401,0.162
+1002,Bethlehemu Puramunanduna,C-review,Renikuntla Vidya Sagar,350,0.789,188,Bethlehem Puramuna,0.214,0.098,0.345,1273,Bethlehemu Puramulo,778,0.769
+1003,Emauthano Ani,A-lyric-dup,Samuel Karmoji,482,0.0,,,0.934,0.928,0.887,2261,Emauthaano ani neekemi chesaanani,434,0.45
+1004,Kannitini Thudiche Daivama,B-likely-lyric-dup,Pastor Vinod Kumar,456,0.0,,,0.548,0.416,0.912,1768,Naakai dheenunigaa bhuviki vachchinaavayaa,1058,0.262
+1005,Koti Kaanthula Velugulatho,C-title-collision,Bapu Kondeti,185,1.0,899,Koti Kaanthula Velugulatho,0.402,0.412,0.0,899,Koti Kaanthula Velugulatho,715,1.0
+1006,Mahima Neekey,A-lyric-dup,Ravinder Vottepu,348,0.741,1402,Mahima Neeke Prabhu,0.882,0.809,0.905,1284,Mahima Neeke Ghanatha Neeke,366,0.588
+1007,Naa Thandri Neevey,C-title-collision,Ravinder Vottepu,97,0.966,146,Naa Thandri Neeve,0.439,0.462,0.0,146,Naa Thandri Neeve,340,0.966
+1008,Raajuga,D-unique,Bro D Paul Jaya Kumar,351,0.0,,,0.227,0.068,0.358,3850,Yoodula raajuga puttinavaanini,752,0.303
+1009,Subha Dinam,B-likely-lyric-dup,Shoba Rani,136,0.571,792,Christmas Shubha Dinam,0.655,0.655,1.0,2348,Shubhadinam ee dinam,277,0.462
+1010,Thaara Velisenu Choodu,B-likely-lyric-dup,Asha Ashirwadh,182,0.76,2484,Thaara Velisenu Choodu Aakaasamlona,0.558,0.568,0.0,2484,Thaara Velisenu Choodu Aakaasamlona,467,0.76
+1011,Vachindu Vachindu,C-review,Padaala Suresh Babu,111,0.647,2262,Vachchindi vachchindi,0.491,0.508,0.0,2135,Aanandhamtho sandadi cheddaam,337,0.146
+1012,Baaludu Kaadammo Balavanthudu,A-lyric-dup,Bishop Daniel Kalyanapu,498,0.7,1472,Baaludu Kaadammo,0.974,0.98,0.992,1472,Baaludu Kaadammo,516,0.7
+1013,Chukka Puttindi,B-likely-dup,Elohim Music,622,1.0,1087,Chukka Puttindi,0.62,0.504,0.787,1087,Chukka Puttindi,957,1.0
+1014,Ee Reyi Challanidhi,A-lyric-dup,Dr. K. Wilson,233,0.645,3827,Ee reyi challanidi,1.0,1.0,1.0,3827,Ee reyi challanidi,233,0.645
+1015,Happy Christmas,D-unique,Rev. J K Prasanna Kumar,105,0.593,1641,Christmas Antene,0.251,0.171,0.0,792,Christmas Shubha Dinam,401,0.5
+1016,Hrudayama,A-lyric-dup,Smt. Jayaleela Yesu Ratnam,299,0.696,1608,Naa Hrudayamantha,1.0,1.0,1.0,2285,Hrudayamaa naa hrudayamaa,299,0.533
+1017,Lokaniki Aanandame,B-likely-dup,Philip Gariki,142,0.848,1920,Lokaaniki aanandame,0.553,0.567,0.0,1920,Lokaaniki aanandame,361,0.848
+1018,Ninupolina Varevaru,A-confirmed-dup,Benny Joshua,259,0.857,3971,Ninupolina vaarevaru,0.787,0.808,0.992,3971,Ninupolina vaarevaru,393,0.857
+1019,Rajula Raju,A-confirmed-dup,Manoj David,489,0.9,382,Raajula Raaju,1.0,1.0,1.0,1894,Raajula raaju puttaadandi,489,0.452
+1020,Sambaraalu Santhoshaalu,C-title-collision,Joshua Shaik,196,1.0,2064,Sambaraalu Santhoshaalu,0.459,0.496,0.0,2064,Sambaraalu Santhoshaalu,580,1.0
+1021,Sandhade Sandhadi,A-lyric-dup,Bishop Daniel Kalyanapu,899,0.581,1165,Aadedhan Paadedhan,1.0,1.0,1.0,1389,Sandadi 3,899,0.455
+1022,Digivachenu,A-lyric-dup,Joel Kodali,450,0.0,,,1.0,1.0,1.0,1919,Dhigivachchenu maraninchutakai,450,0.474
+1023,Junti Thene Kanna,A-confirmed-dup,Joel Kodali,474,0.828,287,Junte Thene Kannaa,0.901,0.77,0.917,287,Junte Thene Kannaa,491,0.828
+1024,Kanti Paapavale,A-lyric-dup,Joel Kodali,584,0.75,63,Kanti Paapanu,0.917,0.786,0.916,1967,Nee kanti paapavale nannu kaachutaku,582,0.455
+1025,Lerevaru,A-lyric-dup,Joel Kodali,763,0.5,1248,Sari Raarevvaru,0.942,0.951,0.894,1777,Vedhana tholaginchuvaadu Yese,684,0.061
+1026,Na Jeevitha Kaalamantha,A-confirmed-dup,Joel Kodali,504,0.976,815,Naa Jeevitha Kaalamantha,0.912,0.8,0.912,815,Naa Jeevitha Kaalamantha,504,0.976
+1027,Nee Premanu,A-lyric-dup,Joel Kodali,387,0.667,1442,O Yesu Nee Prema,1.0,1.0,1.0,1966,Nee Premanu Nee Karunanu,387,0.621
+1028,Okkate Aasa,C-review,Samuel Karmoji,161,0.0,,,0.493,0.505,0.0,1922,Okkate aasha jeevitha abhilaasha,488,0.324
+1029,Vidudhala,D-unique,Joel Kodali,219,0.0,,,0.142,0.043,0.244,3269,Yehova andharikini mahopakaarundu,529,0.158
+1030,Yesu Vaipu,D-unique,Joel Kodali,226,0.667,241,Yesu Vale,0.183,0.092,0.286,2846,Yesutho teevigaanu vedalanu,476,0.188
+1031,Aascharyakarudu Alochanakartha,A-confirmed-dup,Joel Kodali,445,0.947,259,Aascharyakarudu Aalochanakartha,0.797,0.708,0.923,1415,Aascharyakarudu (Rojanthaa),585,0.642
+1032,Adiyu Neeve,B-likely-lyric-dup,Joel Kodali,243,0.516,1675,Aadiyu Neeve Anthamu Neeve,0.797,0.6,0.797,1675,Aadiyu Neeve Anthamu Neeve,243,0.516
+1033,Nindu Manasutho,A-lyric-dup,Joel Kodali,467,0.625,1341,Chinni Manasutho Ninnu,0.886,0.698,0.882,1984,Nindu manasutho ninnu preminthunu,463,0.524
+1034,Ninnu Kolicheda,A-lyric-dup,Devadas Mungamuri,299,0.56,1606,Ne Gelichedanu,1.0,1.0,1.0,2576,Ninnu kolicheda raavayya naa Yesanna,299,0.5
+1035,Prema Prema,B-likely-lyric-dup,Joel Kodali,278,0.667,316,Prema Yesuni Prema,0.617,0.607,0.888,2148,Prema prema naa Yesuni prema,520,0.438
+1036,Rojantha,B-likely-lyric-dup,Joel Kodali,201,0.636,1607,Rojanthaa Dvesham,0.674,0.69,0.98,1664,Rojanthaa Nee Paada Chentha,382,0.467
+1037,Sajeevudu,B-likely-lyric-dup,Joel Kodali,437,0.0,,,0.63,0.604,0.995,1807,Lokaanaa unnadi okade devudu,941,0.25
+1038,Sannuthinthu Yesu Swami,C-title-collision,Joel Kodali,145,0.976,916,Sannuthinthu Yesu Swaami,0.461,0.537,0.0,916,Sannuthinthu Yesu Swaami,480,0.976
+1039,Viluvainadi Ee Jeevitham,A-confirmed-dup,Joel Kodali,426,0.952,1265,Ee Jeevitham Viluvainadi,0.926,0.822,0.925,2928,Viluvainadi ee jeevitham anni velala,425,0.654
+1040,Andaala Thaara,A-confirmed-dup,Rev. Acharya Dr. A B Masilamani,581,1.0,138,Andaala Thaara,0.949,0.782,0.959,138,Andaala Thaara,593,1.0
+1041,Bandhinaipoya,C-review,John Vittney Kalavala,228,0.558,1786,Bandhinaipoya Neelo Munigi Teelaaka,0.455,0.394,0.0,1786,Bandhinaipoya Neelo Munigi Teelaaka,691,0.558
+1042,Deva Vembadinchithi,A-lyric-dup,Rev. Acharya Dr. A B Masilamani,425,0.667,3037,Deva vembadinchithi nee naamamun,0.995,0.992,1.0,3037,Deva vembadinchithi nee naamamun,429,0.667
+1043,Manchivada,A-lyric-dup,John Vittney Kalavala,445,0.562,1972,Manchivaadaa manchivaadaa,0.994,0.992,1.0,1972,Manchivaadaa manchivaadaa,450,0.562
+1044,Na Jeevithamu,A-confirmed-dup,John Vittney Kalavala,307,0.8,1448,Naadu Jeevithamu,0.979,0.988,0.987,2130,Naa jeevithamu nee maatathone aarambhinchedan,312,0.353
+1045,Parimala Sumamulu,D-unique,Rev. Acharya Dr. A B Masilamani,301,0.0,,,0.157,0.058,0.261,3285,Saagilapadi aaraadhinchedamu,697,0.195
+1046,Prabhu Yesuni Vadhanamulo,A-confirmed-dup,Rev. Acharya Dr. A B Masilamani,563,0.93,1326,Prabhu Yesuni Vadanamulo,0.89,0.688,0.807,1326,Prabhu Yesuni Vadanamulo,459,0.93
+1047,Vaarthalalo Yesu Suvaartha,D-unique,Rev. Acharya Dr. A B Masilamani,812,0.578,294,Bhaaratha Desha Suvaartha,0.192,0.03,0.284,1787,Entho ghanamaguvaaralu parishuddhulu,1591,0.286
+1048,Yesu Unte Chaalu,C-title-collision,Rajesh Tatapudi,219,1.0,362,Yesu Unte Chaalu,0.159,0.073,0.253,2453,Choodumu neevu melukonumu Yesu vachchuchunnaadu,479,0.218
+1049,Devuni Vaarasulam,A-confirmed-dup,Rev. Acharya Dr. A B Masilamani,487,1.0,677,Devuni Vaarasulam,0.769,0.652,0.948,677,Devuni Vaarasulam,714,1.0
+1050,Jayahe Jayahe,A-confirmed-dup,Rev. Acharya Dr. A B Masilamani,577,0.818,2364,Jayahe jayahe,0.994,0.989,0.995,2364,Jayahe jayahe,578,0.818
+1051,Karuna Rasa Bharita,D-unique,Rev. Acharya Dr. A B Masilamani,345,0.0,,,0.156,0.028,0.23,143,Paadeda Devaa Nee Krupalan,670,0.053
+1052,Naa Gaanam,A-lyric-dup,Anne Deborah K Mohanty,380,0.64,925,Nee Naamam Naa Gaanam,0.989,0.985,0.979,2647,Naa gaanam neevayya naa hrudayapu pilupu neeve Deva,372,0.235
+1053,Premagala Thandri,A-lyric-dup,Anne Deborah K Mohanty,233,0.774,849,Mahimagala Thandri,1.0,1.0,1.0,3818,Premagala thandri krupagala prabhuva sthuthimahimalu neeke,233,0.388
+1054,Thenekanna Theeyanainadi,A-confirmed-dup,,291,0.909,236,Thene Kanna Theeyanainadi,1.0,1.0,1.0,236,Thene Kanna Theeyanainadi,291,0.909
+1055,Vandanam,B-likely-dup,,513,1.0,886,Vandanam,0.84,0.632,0.869,886,Vandanam,548,1.0
+1056,Varudu,D-unique,,257,0.0,,,0.25,0.063,0.333,599,Davalavarnudaa,427,0.222
+1057,Vesaarina,A-lyric-dup,A.R.Stevenson,310,0.727,27,Vesaarina Manase,0.95,0.917,0.951,27,Vesaarina Manase,311,0.727
+1058,Yepati Dhananaya,A-lyric-dup,Pastor D. Chrisostam,467,0.69,986,Epaati Daananayaa,0.958,0.806,0.961,986,Epaati Daananayaa,470,0.69
+1059,Aayana Ikkada Ledu,A-lyric-dup,Anne Deborah K Mohanty,486,0.0,,,1.0,1.0,1.0,2189,Sajeevudaina vaarini meerela mruthulalo vedakuchunnaaru,486,0.092
+1060,Adavi Pushapama,A-lyric-dup,Anne Deborah K Mohanty,292,0.0,,,0.968,0.976,0.945,3826,Adavi pushpamaa santhoshinchumaa kasthuree pushpamaa ullasinchumaa,278,0.247
+1061,Anudinamu,A-lyric-dup,Anne Deborah K Mohanty,224,0.667,851,Anudinamu Prabhuni,1.0,1.0,1.0,2822,Anudinamu noothanamugaa vaathsalyatha neeku kalugunu,224,0.291
+1062,Hosanna Ministries,A-lyric-dup,Bro. Freddy Paul,358,0.0,,,1.0,1.0,1.0,100,Agni Mandinchu,358,0.214
+1063,Muttedan,D-unique,Anne Deborah K Mohanty,724,0.0,,,0.229,0.087,0.176,1966,Nee Premanu Nee Karunanu,387,0.074
+1064,Najareyudaa Naa Yesayya,A-confirmed-dup,,364,0.976,655,Najareyudaa Naa Yesayyaa,1.0,1.0,1.0,655,Najareyudaa Naa Yesayyaa,364,0.976
+1065,Nithya Prematho,A-confirmed-dup,Jeeva R Pakerla & Samuel Wilson,400,1.0,857,Nithya Prematho,0.84,0.791,0.977,857,Nithya Prematho,530,1.0
+1066,Okka Punya Kaaryamuche,A-lyric-dup,Anne Deborah K Mohanty,317,0.511,1262,Aascharya Kaaryamul Cheyunu Yesu,1.0,1.0,1.0,2786,Okka punya kaaryamuche maanavuniki krupaadaaname,317,0.484
+1067,Pradhaana Yaajakaa,D-unique,Anne Deborah K Mohanty,528,0.529,3773,Aaraadhana naa Yesuke,0.164,0.046,0.281,804,Vadhiyimpabadina Gorrepillaa,1280,0.19
+1068,Siyonu Kumari,A-lyric-dup,Anne Deborah K Mohanty,214,0.0,,,1.0,1.0,1.0,2821,Seeyonu kumaari praakaarama nadi pravaahamu valenu,214,0.255
+1069,Alasithiva Prabhu,A-lyric-dup,Josely Komanapalli,269,0.643,921,Doshivaa Prabhu,1.0,1.0,1.0,2790,Alasithivaa Prabhu mokarinchithivaa,269,0.638
+1070,Cheekati Loyalo Nenu Padiyundagaa,C-review,Joel Kodali,237,0.619,1477,Cheekati Loyalo,0.545,0.556,0.0,1477,Cheekati Loyalo,629,0.619
+1071,Enduko Nanninthagaa,A-confirmed-dup,,515,0.872,22,Enduko Nanninthagaa Neevu,0.958,0.925,0.986,22,Enduko Nanninthagaa Neevu,545,0.872
+1072,Idigo Deva Naa Jeevitham,A-confirmed-dup,,500,0.905,1081,Idhigo Devaa Naa Jeevitham,0.969,0.973,0.988,1081,Idhigo Devaa Naa Jeevitham,520,0.905
+1073,Kummari O Kummari,A-confirmed-dup,,610,1.0,129,Kummari O Kummari,0.98,0.98,0.997,129,Kummari O Kummari,631,1.0
+1074,Naa Praana Priyuda Yesu,A-lyric-dup,,606,0.756,795,Naa Praanapriyudaa Yesu Raajaa,0.952,0.959,0.985,795,Naa Praanapriyudaa Yesu Raajaa,648,0.756
+1075,Snehithudu Prana Priyudu,A-confirmed-dup,,281,0.884,1639,Snehithudu Praanapriyudu,0.909,0.698,0.918,1639,Snehithudu Praanapriyudu,286,0.884
+1076,Yehova Naa Mora Laalinchenu,A-confirmed-dup,Purushottam Choudary,585,0.913,1492,Yehova Naa Moralaalinchenu,0.966,0.87,0.964,1492,Yehova Naa Moralaalinchenu,583,0.913
+1077,Yehovaa Naa Balamaa,A-confirmed-dup,,770,1.0,601,Yehovaa Naa Balamaa,0.951,0.957,0.984,601,Yehovaa Naa Balamaa,824,1.0
+1078,Yehovaa Nee Naamamu,A-confirmed-dup,,412,1.0,445,Yehovaa Nee Naamamu,0.936,0.947,0.976,445,Yehovaa Nee Naamamu,447,1.0
+1079,Athyunnatha Simhasanamupai,C-title-collision,Dr. Darla Amshumathi Mary,92,0.833,507,Athyunnatha Simhaasanumpai,0.201,0.167,0.3,2818,Thandri kumaara shuddhaathmudaa thriyeka Devudaa,181,0.239
+1080,Mahima Ghanathaku Arhudavu,A-confirmed-dup,,287,1.0,749,Mahima Ghanathaku Arhudavu,0.973,0.977,0.993,749,Mahima Ghanathaku Arhudavu,299,1.0
+1081,Naa Jeevam Naa Sarvam,A-confirmed-dup,,197,1.0,1084,Naa Jeevam Naa Sarvam,0.955,0.968,0.985,1084,Naa Jeevam Naa Sarvam,209,1.0
+1082,Nee Chethitho Nannu Pattuko,A-confirmed-dup,,303,1.0,374,Nee Chethitho Nannu Pattuko,0.987,0.989,1.0,374,Nee Chethitho Nannu Pattuko,311,1.0
+1083,Ninne Preminthunu,B-likely-dup,,259,1.0,164,Ninne Preminthunu,0.745,0.771,0.996,164,Ninne Preminthunu,432,1.0
+1084,Sadaakaalamu Neetho Nenu,A-confirmed-dup,Pastor Timothy,249,0.905,1126,Sadaa Kaalamu Neetho Nenu,0.95,0.958,0.992,1126,Sadaa Kaalamu Neetho Nenu,271,0.905
+1085,Shudda Hrudayam,B-likely-dup,Bro Augustine Dandingi,305,0.889,266,Shuddha Hrudayam,0.839,0.623,0.904,266,Shuddha Hrudayam,352,0.889
+1086,Siddhapadudaam Siddhapadudaam,C-title-collision,"Sharon Sisters, Bro Philip Gariki",126,0.821,3808,Siddhapadudhaam siddhapadudhaam,0.499,0.516,0.0,3808,Siddhapadudhaam siddhapadudhaam,375,0.821
+1087,Silvalo Naakai Kaarchenu,A-confirmed-dup,,537,1.0,1419,Silvalo Naakai Kaarchenu,1.0,1.0,1.0,1419,Silvalo Naakai Kaarchenu,537,1.0
+1088,Sugunaala Sampannudaa,A-confirmed-dup,Bro. Yesanna,336,1.0,980,Sugunaala Sampannudaa,0.958,0.969,0.988,980,Sugunaala Sampannudaa,357,1.0
+1089,Aaraadhinchedanu Ninnu,A-confirmed-dup,,205,1.0,132,Aaraadhinchedanu Ninnu,0.916,0.951,0.99,132,Aaraadhinchedanu Ninnu,238,1.0
+1090,Jayamunichu Devuniki,A-lyric-dup,,264,0.684,944,Jayamichchina Devuniki,0.884,0.805,0.935,3730,Jayamunichchu Devuniki kotla kotla sthothram,294,0.632
+1091,Jeevanadini Naa Hrudayamulo,B-likely-dup,,163,1.0,1071,Jeevanadini Naa Hrudayamulo,0.799,0.48,0.901,1071,Jeevanadini Naa Hrudayamulo,204,1.0
+1092,Najareyudaa Naa Yesayya,A-confirmed-dup,Bro. Yesanna,332,0.976,655,Najareyudaa Naa Yesayyaa,0.936,0.961,0.982,655,Najareyudaa Naa Yesayyaa,364,0.976
+1093,Neeve Naa Devudavu,B-likely-dup,Kripal Mohan,233,1.0,775,Neeve Naa Devudavu,0.723,0.71,1.0,775,Neeve Naa Devudavu,410,1.0
+1094,Neeve Naa Praanamu,C-title-collision,Daniel J Kiran,80,1.0,1524,Neeve Naa Praanamu,0.46,0.436,0.0,1524,Neeve Naa Praanamu,263,1.0
+1095,Preminchedan Adhikamugaa,C-title-collision,Father S J Berchmans,112,1.0,1353,Preminchedan Adhikamugaa,0.52,0.5,0.0,1353,Preminchedan Adhikamugaa,315,1.0

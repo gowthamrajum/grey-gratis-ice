@@ -1,0 +1,56 @@
+{
+  "song_name": "Prathi roju choodaalani naa Prabhuvaina Yesayyanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రతి రోజు చూడాలని నా ప్రభువైన యేసయ్యను",
+      "పలుమార్లు చూడాలని నా ప్రియుడైన యేసయ్యను (2)",
+      "తనివి తీర చూసినా నా యేసయ్య రూపం",
+      "నా హృదయమే పొంగి పొర్లును",
+      "నా మనసే సంతోషించును (2) ||ప్రతి||"
+    ],
+    "english": [
+      "Prathi roju choodaalani naa Prabhuvaina Yesayyanu",
+      "Palumaarlu choodaalani naa priyudaina Yesayyanu (2)",
+      "Thanivi theera choosinaa naa Yesayya roopam",
+      "Naa hrudayame pongi porlunu",
+      "Naa manase santhoshinchunu (2) ||Prathi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరలోకమందున పరిశుద్ధ దూతలతో",
+        "పరిశుద్ధుడు పరిశుద్ధుడు అని స్తుతియించబడుచుండెను (2)",
+        "జీవ జలము యొద్దకు నడిపించును",
+        "ప్రతి బాష్ప బిందువు తుడిచివేయును  ||ప్రతి||"
+      ],
+      "english": [
+        "Paralokamandhuna parishuddha doothalatho",
+        "Parishuddhudu parishuddhudu ani sthuthiyinchabaduchundenu (2)",
+        "Jeeva jalamu yoddaku nadipinchunu",
+        "Prathi baashpa bindhuvu thudichiveyunu ||Prathi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆకాశమందున రారాజుగా వచ్చును",
+        "భూజనులందరు రొమ్ము కొట్టుకొనుచుందురు (2)",
+        "కడబూరధ్వని వినిపించును",
+        "పరలోక సైన్యముతో వచ్చును  ||ప్రతి||"
+      ],
+      "english": [
+        "Aakaashamandhuna raaraajugaa vachchunu",
+        "Bhoojanulandharu rommu kottukonuchundhuru (2)",
+        "Kadabooradhvani vinipinchunu",
+        "Paraloka sainyamutho vachchunu ||Prathi||"
+      ]
+    }
+  ]
+}

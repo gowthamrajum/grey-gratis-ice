@@ -1,0 +1,61 @@
+{
+  "song_name": "Ella Soadharu Laikyatha Vasiyinchuta",
+  "author": {
+    "Authored by": "",
+    "రచన": "మల్లెల దావీదు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎల్ల సోదరు లైక్యత వసియించుట యెంత మేలు మనోహరము"
+    ],
+    "english": [
+      "Ella Soadharu Laikyatha Vasiyinchuta Yentha Maelu Manoaharamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ధరణిలో నహరోను తలనుండి దిగ జారు",
+        "పరిమళ తైలంబు వలె నద్ది తనరారు"
+      ],
+      "english": [
+        "Dharaniloa Naharoanu Thalanundi Dhiga Jaaru",
+        "Parimala Thailambu Vale Nadhdhi Thanaraaru"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వెలయు సీయోను కొం డల పైకి దిగి వచ్చు",
+        "నల హెర్మోను మంచు వలె నద్ది చెల్వారు"
+      ],
+      "english": [
+        "Velayu Seeyoanu Kon Dala Paiki Dhigi Vachchu",
+        "Nala Hermoanu Manchu Vale Nadhdhi Chelvaaru"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తరంతరం బాశీర్వా దము నిత్య జీవంబు",
+        "స్థిరముగా నందుండ సెల విడెను దేవుండు"
+      ],
+      "english": [
+        "Tharantharam Baasheervaa Dhamu Nithya Jeevambu",
+        "Sthiramugaa Nandhunda Sela Videnu Dhaevundu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "జనక తన యాత్మకును ఘన మహిమ మగుఁగాక",
+        "మును పిప్పుడున్ యుగ ముల కగును గా కామేన్"
+      ],
+      "english": [
+        "Janaka Thana Yaathmakunu Ghana Mahima Magugaaka",
+        "Munu Pippudun Yuga Mula Kagunu Gaa Kaamaen"
+      ]
+    }
+  ]
+}

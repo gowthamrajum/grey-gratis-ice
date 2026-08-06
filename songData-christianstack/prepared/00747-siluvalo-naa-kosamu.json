@@ -1,0 +1,43 @@
+{
+  "song_name": "Siluvalo Naa Kosamu",
+  "author": {
+    "Authored by": "Raja Mandru",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సిలువలో నా కోసము బలియైన నా యేసయ్య",
+      "మోకాళ్లపై నీ సిలువను కట్టెదను",
+      "కన్నీటితో నీ పాదాలు కడిగెదను"
+    ],
+    "english": [
+      "Siluvalo naa kosamu baliyaina naa yesayya",
+      "Mokkaallapai nee siluvanu kattedhanu",
+      "kanneetitho nee paadhaalu kadigedhanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసయ్యా… యేసయ్యా…",
+        "యేసయ్యా… యేసయ్యా…"
+      ],
+      "english": [
+        "Yesayya yesayya",
+        "Yesayya yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసయ్యా… యేసయ్యా…",
+        "యేసయ్యా… యేసయ్యా…"
+      ],
+      "english": [
+        "Yesayya yesayya",
+        "Yesayya yesayya"
+      ]
+    }
+  ]
+}

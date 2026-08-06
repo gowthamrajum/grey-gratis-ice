@@ -1,0 +1,53 @@
+{
+  "song_name": "Kanyaa Garbhamuna Butti Karuna",
+  "author": {
+    "Authored by": "",
+    "రచన": "మిక్కిలి దేవసహాయము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "కన్యా గర్భమున బుట్టి కరుణగల్గు బాలుఁడవైన కన్యా సుతుండ నిన్నే నమ్మితి నో యేసునాధ కన్ను లెత్తి మమ్ముఁ జూడుము ||కన్యా||"
+    ],
+    "english": [
+      "kanyaa garbhamuna butti karuNagalgu baaluAOdavaina kanyaa suthuMda ninnae nammithi noa yaesunaaDha kannu leththi mammuAO joodumu ||kanyaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "బాల ప్రాయమున నేను బాగుగా నీ పాద సేవఁ జాలజేసి యున్న వా డనుగా యో యేసు నాధ చాల దయతో మేలు చేయుమి ||కన్యా||"
+      ],
+      "english": [
+        "baala praayamuna naenu baagugaa nee paadha saevAO jaalajaesi yunna vaa danugaa yoa yaesu naaDha chaala dhayathoa maelu chaeyumi ||kanyaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇంపైనట్టి మరియ తనయ యిహము పరము నేలు బాల సొంపుగా నీ ప్రాపే గోరితి నో యేసునాధ చెంపఁ గొట్టి బుద్ధి చెప్పుము ||కన్యా||"
+      ],
+      "english": [
+        "iMpainatti mariya thanaya yihamu paramu naelu baala soMpugaa nee praapae goarithi noa yaesunaaDha cheMpAO gotti budhDhi cheppumu ||kanyaa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తుంటతనము చేత జగము తంటాచేసి తిరుగుచుంటి నంటిన మాయల బాధల నో యేసు నాధ యంటుఁ బాపి జంటజేయుము ||కన్యా||"
+      ],
+      "english": [
+        "thuMtathanamu chaetha jagamu thMtaachaesi thiruguchuMti nMtina maayala baaDhala noa yaesu naaDha yMtuAO baapi jMtajaeyumu ||kanyaa||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మింట నుండి నీవు వచ్చి మంటి పైని బాలుఁడ వగుచుఁ గంటి కింపు గాను నడిచితి వో యేసు నాధ కానుపర్చి తోవు త్రోవను ||గన్యా||"
+      ],
+      "english": [
+        "miMta nuMdi neevu vachchi mMti paini baaluAOda vaguchuAO gMti kiMpu gaanu nadichithi voa yaesu naaDha kaanuparchi thoavu throavanu ||ganyaa||"
+      ]
+    }
+  ]
+}

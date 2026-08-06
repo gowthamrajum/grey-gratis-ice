@@ -1,0 +1,43 @@
+{
+  "song_name": "Aa Ha Hallelujah",
+  "author": {
+    "Authored by": "Anil Kumar Vemula",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "తార చూపిన మార్గమదే",
+      "జ్ఞానులు చేరిన గమ్యమదే",
+      "గొల్లలు గాంచిన స్థానమదే",
+      "లోక రక్షకుని గూర్చినదే"
+    ],
+    "english": [
+      "Thaara choopina maargamadey",
+      "gnaanulu cherina gamyamadey",
+      "gollalu gaanchina sthaanamadey",
+      "loka rakshakuni gurchinadey"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇమ్మానుయేలు జననమది",
+        "పాపికి పరలోక ద్వారమది"
+      ],
+      "english": [
+        "immaanuyelu jananamadhi",
+        "paapiki paraloka dwaaramadhi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆహా హల్లేలూయ ఆహా హల్లేలూయ"
+      ],
+      "english": [
+        "Aahaa Hallelujah Aahaa Hallelujah"
+      ]
+    }
+  ]
+}

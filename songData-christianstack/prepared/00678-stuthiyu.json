@@ -1,0 +1,30 @@
+{
+  "song_name": "Stuthiyu",
+  "author": {
+    "Authored by": "Devadas Mungamuri",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాగం: కాంభోజి"
+    ],
+    "english": [
+      "Stuthiyu Mahimayu neeke – kshithikin divikin neeti",
+      "vithathikin karthaavai – velayu maa Deva",
+      "prathi vasthuvunu maaku bahumathigaa nichu",
+      "hithudaa maa prema nee – ketlu choopudhunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "స్తుతియు మహిమయు నీకే – క్షితికిన్‌ దివికిన్‌ నీటి",
+        "వితతికిన్‌ కర్తవై – వెలయు మా దేవ",
+        "ప్రతి వస్తువును మాకు బహుమతిగా నిచ్చు",
+        "హితుడా మా ప్రేమ నీ – కెట్లు చూపుదును"
+      ],
+      "english": []
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "song_name": "Dhaevuni Grmdhamu Dhinadhinamu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవుని గ్రంధము దినదినము చదువుము పావనమార్గము జీవము సత్యము ||దేవుని||"
+    ],
+    "english": [
+      "dhaevuni grMDhamu dhinadhinamu chadhuvumu paavanamaargamu jeevamu sathyamu ||dhaevuni||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎంచి తలంచుము మించిన గ్రంథము అంచితముగను రెం డంచుల ఖడ్గము ||దేవుని||"
+      ],
+      "english": [
+        "eMchi thalMchumu miMchina grMThamu aMchithamuganu reM dMchula khadgamu ||dhaevuni||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తేనియమధురము తినుము ప్రతిదినము ధ్యానముసేయుము దానన బ్రదుకుము ||దేవుని||"
+      ],
+      "english": [
+        "thaeniyamaDhuramu thinumu prathidhinamu Dhyaanamusaeyumu dhaanana bradhukumu ||dhaevuni||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నాధుని వాక్యము అరయుము భాగ్యము పాదపు దీపము భక్తుల కవచము ||దేవుని||"
+      ],
+      "english": [
+        "naaDhuni vaakyamu arayumu bhaagyamu paadhapu dheepamu bhakthula kavachamu ||dhaevuni||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆత్మల శాంతము అభయము శ్రేయము ఆత్మలకు బలము అనయము సౌఖ్యము ||దేవుని||"
+      ],
+      "english": [
+        "aathmala shaaMthamu abhayamu shraeyamu aathmalaku balamu anayamu saukhyamu ||dhaevuni||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పాపము శాపము పలువిధతాపము పాపును వేగము దాపున జేరుము ||దేవుని||"
+      ],
+      "english": [
+        "paapamu shaapamu paluviDhathaapamu paapunu vaegamu dhaapuna jaerumu ||dhaevuni||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "మదినిది నిరతము పదిలము చేయుము సదమల జ్ఞానము సవిధము మోక్షము ||దేవుని||"
+      ],
+      "english": [
+        "madhinidhi nirathamu padhilamu chaeyumu sadhamala jnYaanamu saviDhamu moakShmu ||dhaevuni||"
+      ]
+    }
+  ]
+}

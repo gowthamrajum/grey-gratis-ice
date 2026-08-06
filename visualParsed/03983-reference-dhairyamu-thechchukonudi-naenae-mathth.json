@@ -1,0 +1,86 @@
+{
+  "song_name": "Dhairyamu Thechchukonudi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేనే భయపడ కూడదనెను ఆ ఆ ఆ",
+      "ఆ - ఆ - ఆ శిష్యులను ధైర్యపరచిన వాడతడే"
+    ],
+    "english": [
+      "Nene bhayapada koodadhanenu aa aa aa",
+      "Aa - Aa - Aa shishyulanu dhairyaparachina vaadathade"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఐదు రొట్టెలు రెండు చేపలతోనే - ఐదువేలను పోషించినవాడే",
+        "అద్దరికి వెళ్ళ నాజ్ఞాపించిన ప్రభువే - ప్రేమించిన వాడే"
+      ],
+      "english": [
+        "Aidu rottelu rendu chepalathone - Aidhuvelanu poshinchinavaade",
+        "Addariki vella naagnyaapinchina Prabhuve - Preminchina vaade"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గాలి యెదురైన ధైర్యము విడువకు - అన్నియు మేలుకై సమకూడి జరుగును",
+        "అంతము వరకు తోడుగ నుండును - మొరలిడి కలవరపడకుడి"
+      ],
+      "english": [
+        "Gaali eduraina dhairyamu viduvaku - Anniyu melukai samakoodi jarugunu",
+        "Anthamu varaku thoduga nundunu - Moralidi kalavarapadakudi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "లోకములో మీకు శ్రమలే కలుగున్ - శ్రమలే సహజము నరులందరికిన్",
+        "శ్రమలో ధైర్యము కలిగించుటకై - వాగ్దానము లన్నియు నిచ్చెను"
+      ],
+      "english": [
+        "Lokamulo meeku shramale kalugun - Shramale sahajamu narulandharikin",
+        "Shramalo dhairyamu kaliginchutakai - Vaagdhaanamu lanniyu nichchenu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆయనే దేవుడు ఊరక యుండుడి - ఆయననే యెరుగుడి మీరు",
+        "ఉన్నతుడాయనే అన్యజనులలో - మహోన్నతుడు భూజనములలో"
+      ],
+      "english": [
+        "Aayane Devudu ooraka yundudi - Aayanane erugudi meeru",
+        "Unnathudaayane anyajanulalo - Mahonnathudu bhoojanamulalo"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "కలవర పడకుండని నడువుచు తనబిడ్డల నాదరించినవాడే",
+        "పరిశుద్ధాత్ముని అందర కొసగి - కృపజూపిన మహాప్రభుండే"
+      ],
+      "english": [
+        "Kalavara padakundani naduvuchu thanabiddala naadharinchinavaade",
+        "Parishuddhaathmuni andhara kosagi - Krupajoopina mahaaprabhunde"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "యుద్ధము చేయును యెహోవా - స్తుతించుట మన విధి యగును",
+        "యుద్ధాయుధము ఆత్మీయమైనది - ఆయనకే స్తుతి హల్లెలూయా"
+      ],
+      "english": [
+        "Yuddhamu cheyunu Yehova - Sthuthinchuta mana vidi yagunu",
+        "Yuddhaayudhamu aathmeeyamainadhi - Aayanake sthuthi hallelooyaa"
+      ]
+    }
+  ]
+}

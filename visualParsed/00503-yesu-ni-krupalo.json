@@ -1,0 +1,54 @@
+{
+  "song_name": "Yesu nee krupalo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు నీ క్రుపలో",
+      "యేసు నీ క్రుపలో మము కాపాడుము దేవా",
+      "మమ్ము రక్షించి నిత్య రాజ్యములో",
+      "నడుపము మా ప్రభువా - నడుపుము మా ప్రభువా ...యేసు ..."
+    ],
+    "english": [
+      "Yesu nee krupalo",
+      "Yesu nee krupalo mamu kaapaadumu Deva",
+      "Mammu rakshinchi nithya raajyamulo",
+      "Nadupumu maa Prabhuvaa - Nadupumu maa Prabhuvaa ...Yesu ..."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కృంగిన వేళలలో - అలసిన సమయములో",
+        "నా చేయి విడువకను - నన్ను నిలబెట్టు",
+        "నన్ను నీ ఆత్మతో పూర్ణముగా చేసి",
+        "నిలుపుము జ్యోతివలె - నిలుపుము జ్యోతివలె  ||యేసు||"
+      ],
+      "english": [
+        "Krungina velalalo - Alasina samayamulo",
+        "Naa cheyi viduvakanu - Nannu nilabettu",
+        "Nannu nee aathmatho poornamugaa chesi",
+        "Nilupumu jyothivale - Nilupumu jyothivale  ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సిలువను మోసికొని - సువార్త చాటింప",
+        "విలువగు నీ శక్తిచే - నిత్యము నడిపించు",
+        "యేసు నీ రాకడలో - నిన్ను ఎదుర్కొనుటకు",
+        "నీ కృప నీయుమయా - నీ కృప నీయుమయా  ||యేసు||"
+      ],
+      "english": [
+        "Siluvanu mosikoni - Suvaartha chaatimpa",
+        "Viluvagu nee shakthiche - Nithyamu nadipinchu",
+        "Yesu nee raakadalo - Ninnu edurkonutaku",
+        "Nee krupa neeyumayaa - Nee krupa neeyumayaa  ||Yesu||"
+      ]
+    }
+  ]
+}

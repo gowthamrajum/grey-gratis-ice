@@ -1,0 +1,857 @@
+[
+ {
+  "app_index": 8,
+  "song_name": "Parisuddhudu Parisuddhudu",
+  "blocked_by_song_id": 142,
+  "blocked_by_name": "Parishuddhudu Parishuddhudu",
+  "title_score": 0.875,
+  "lyric_similarity": 0.213,
+  "suggested_rename": "Parisuddhudu Parisuddhudu (Dr. Yehoshua Kamalakar)"
+ },
+ {
+  "app_index": 27,
+  "song_name": "Raakadane Railu Bandi",
+  "blocked_by_song_id": 1540,
+  "blocked_by_name": "Raakadane Railu Bandi",
+  "title_score": 1.0,
+  "lyric_similarity": 0.444,
+  "suggested_rename": "Raakadane Railu Bandi"
+ },
+ {
+  "app_index": 37,
+  "song_name": "Naa Hrudayamaa",
+  "blocked_by_song_id": 1608,
+  "blocked_by_name": "Naa Hrudayamantha",
+  "title_score": 0.815,
+  "lyric_similarity": 0.307,
+  "suggested_rename": "Naa Hrudayamaa"
+ },
+ {
+  "app_index": 39,
+  "song_name": "Siluvalo Nee Prema",
+  "blocked_by_song_id": 492,
+  "blocked_by_name": "Siluvalo Nee Prema",
+  "title_score": 1.0,
+  "lyric_similarity": 0.239,
+  "suggested_rename": "Siluvalo Nee Prema (Stanley Telagathoti)"
+ },
+ {
+  "app_index": 58,
+  "song_name": "Paralokame Na Swasthyamu",
+  "blocked_by_song_id": 1612,
+  "blocked_by_name": "Paralokame Naa Swaasthyamu",
+  "title_score": 0.955,
+  "lyric_similarity": 0.49,
+  "suggested_rename": "Paralokame Na Swasthyamu"
+ },
+ {
+  "app_index": 65,
+  "song_name": "Ninne Preminthunu",
+  "blocked_by_song_id": 164,
+  "blocked_by_name": "Ninne Preminthunu",
+  "title_score": 1.0,
+  "lyric_similarity": 0.225,
+  "suggested_rename": "Ninne Preminthunu (Pastor Reenukumar)"
+ },
+ {
+  "app_index": 85,
+  "song_name": "Nee Chethi Kaaryamu",
+  "blocked_by_song_id": 395,
+  "blocked_by_name": "Nee Chethi Kaaryamulu",
+  "title_score": 0.941,
+  "lyric_similarity": 0.213,
+  "suggested_rename": "Nee Chethi Kaaryamu (Joshua Shaik & Deva Prasad)"
+ },
+ {
+  "app_index": 86,
+  "song_name": "Nee Prematho",
+  "blocked_by_song_id": 620,
+  "blocked_by_name": "Nee Prema Entho",
+  "title_score": 0.818,
+  "lyric_similarity": 0.323,
+  "suggested_rename": "Nee Prematho"
+ },
+ {
+  "app_index": 88,
+  "song_name": "Nyayaadipathi",
+  "blocked_by_song_id": 252,
+  "blocked_by_name": "Nyaayaadhipathi",
+  "title_score": 0.846,
+  "lyric_similarity": 0.259,
+  "suggested_rename": "Nyayaadipathi (Hosanna Ministries featuring Pastor John Wesley, Pastor Ramesh & Pastor Abraham)"
+ },
+ {
+  "app_index": 94,
+  "song_name": "Jalari Panduga",
+  "blocked_by_song_id": 1753,
+  "blocked_by_name": "Jaalari panduga",
+  "title_score": 0.8,
+  "lyric_similarity": 0.527,
+  "suggested_rename": "Jalari Panduga (Dr. R. Santhi Jyothi Kumar)"
+ },
+ {
+  "app_index": 105,
+  "song_name": "Vaakyame Sareera Dhaariyai",
+  "blocked_by_song_id": 269,
+  "blocked_by_name": "Vaakyame Shareera Dhaariyai",
+  "title_score": 0.936,
+  "lyric_similarity": 0.283,
+  "suggested_rename": "Vaakyame Sareera Dhaariyai (Dollie Rose)"
+ },
+ {
+  "app_index": 128,
+  "song_name": "Stuthi Paadutake",
+  "blocked_by_song_id": 919,
+  "blocked_by_name": "Sthuthi Paadutake",
+  "title_score": 0.897,
+  "lyric_similarity": 0.238,
+  "suggested_rename": "Stuthi Paadutake (Pastor Samuel Pammi)"
+ },
+ {
+  "app_index": 144,
+  "song_name": "Nee Sannidhilo",
+  "blocked_by_song_id": 1014,
+  "blocked_by_name": "Devaa Nee Sannidhilo",
+  "title_score": 0.828,
+  "lyric_similarity": 0.196,
+  "suggested_rename": "Nee Sannidhilo (A R Stevenson)"
+ },
+ {
+  "app_index": 147,
+  "song_name": "Raajula Raju",
+  "blocked_by_song_id": 382,
+  "blocked_by_name": "Raajula Raaju",
+  "title_score": 0.952,
+  "lyric_similarity": 0.334,
+  "suggested_rename": "Raajula Raju (Shyam Joseph)"
+ },
+ {
+  "app_index": 154,
+  "song_name": "Okka Kshanamaina",
+  "blocked_by_song_id": 1496,
+  "blocked_by_name": "Oka Kshanamaina",
+  "title_score": 0.963,
+  "lyric_similarity": 0.272,
+  "suggested_rename": "Okka Kshanamaina (Dr P Satish Kumar)"
+ },
+ {
+  "app_index": 187,
+  "song_name": "Parishudhathmuda",
+  "blocked_by_song_id": 2981,
+  "blocked_by_name": "Parishuddhaathmuda Deva",
+  "title_score": 0.833,
+  "lyric_similarity": 0.191,
+  "suggested_rename": "Parishudhathmuda"
+ },
+ {
+  "app_index": 214,
+  "song_name": "Naa Jeevithakaalamantha",
+  "blocked_by_song_id": 815,
+  "blocked_by_name": "Naa Jeevitha Kaalamantha",
+  "title_score": 0.905,
+  "lyric_similarity": 0.28,
+  "suggested_rename": "Naa Jeevithakaalamantha (Pastor Daniel)"
+ },
+ {
+  "app_index": 228,
+  "song_name": "Oka Kshanamaina",
+  "blocked_by_song_id": 1496,
+  "blocked_by_name": "Oka Kshanamaina",
+  "title_score": 1.0,
+  "lyric_similarity": 0.263,
+  "suggested_rename": "Oka Kshanamaina (Raja & Smiley Raja)"
+ },
+ {
+  "app_index": 230,
+  "song_name": "Devaa Nee Sannidhilone",
+  "blocked_by_song_id": 1014,
+  "blocked_by_name": "Devaa Nee Sannidhilo",
+  "title_score": 0.944,
+  "lyric_similarity": 0.258,
+  "suggested_rename": "Devaa Nee Sannidhilone (Symonpeter Chevuri)"
+ },
+ {
+  "app_index": 232,
+  "song_name": "Krupa Vembadi Krupalo",
+  "blocked_by_song_id": 99,
+  "blocked_by_name": "Krupa Vembadi Krupatho",
+  "title_score": 0.865,
+  "lyric_similarity": 0.226,
+  "suggested_rename": "Krupa Vembadi Krupalo"
+ },
+ {
+  "app_index": 249,
+  "song_name": "Yesayya Yesayya",
+  "blocked_by_song_id": 506,
+  "blocked_by_name": "Yesayyaa Yesayyaa",
+  "title_score": 0.929,
+  "lyric_similarity": 0.183,
+  "suggested_rename": "Yesayya Yesayya (P J Stephen Paul)"
+ },
+ {
+  "app_index": 253,
+  "song_name": "Ley Nilabadu",
+  "blocked_by_song_id": 1350,
+  "blocked_by_name": "Le Nilabadu",
+  "title_score": 0.842,
+  "lyric_similarity": 0.182,
+  "suggested_rename": "Ley Nilabadu (P James)"
+ },
+ {
+  "app_index": 285,
+  "song_name": "Parishudhuda",
+  "blocked_by_song_id": 1505,
+  "blocked_by_name": "Parishuddhudavai",
+  "title_score": 0.846,
+  "lyric_similarity": 0.203,
+  "suggested_rename": "Parishudhuda (Dr Jayapaul)"
+ },
+ {
+  "app_index": 303,
+  "song_name": "Maananu Maananu",
+  "blocked_by_song_id": 1422,
+  "blocked_by_name": "Maananu Maananu",
+  "title_score": 1.0,
+  "lyric_similarity": 0.399,
+  "suggested_rename": "Maananu Maananu (Joel Kodali)"
+ },
+ {
+  "app_index": 329,
+  "song_name": "Unnathuda Athyunnathudaa",
+  "blocked_by_song_id": 3823,
+  "blocked_by_name": "Unnathudaa athyunnathudaa",
+  "title_score": 0.889,
+  "lyric_similarity": 0.514,
+  "suggested_rename": "Unnathuda Athyunnathudaa (Bro Paul Emmanuel)"
+ },
+ {
+  "app_index": 333,
+  "song_name": "Kantipaapala Kaachinaavayyaa",
+  "blocked_by_song_id": 1173,
+  "blocked_by_name": "Kantipaapalaa Kaachinaavayyaa",
+  "title_score": 0.981,
+  "lyric_similarity": 0.495,
+  "suggested_rename": "Kantipaapala Kaachinaavayyaa (Kranthi Chepuri)"
+ },
+ {
+  "app_index": 341,
+  "song_name": "Kaluvari Premanu",
+  "blocked_by_song_id": 254,
+  "blocked_by_name": "Kalvari Premanu",
+  "title_score": 0.889,
+  "lyric_similarity": 0.135,
+  "suggested_rename": "Kaluvari Premanu (A.R.Stevenson)"
+ },
+ {
+  "app_index": 386,
+  "song_name": "Sarvonathuda",
+  "blocked_by_song_id": 1016,
+  "blocked_by_name": "Sarvonnathudaa",
+  "title_score": 0.917,
+  "lyric_similarity": 0.173,
+  "suggested_rename": "Sarvonathuda (Pastor A Moses)"
+ },
+ {
+  "app_index": 398,
+  "song_name": "Vinare Narulara",
+  "blocked_by_song_id": 762,
+  "blocked_by_name": "Vinare Yo Narulaaraa",
+  "title_score": 0.8,
+  "lyric_similarity": 0.22,
+  "suggested_rename": "Vinare Narulara (Lazarus Prassana Babu)"
+ },
+ {
+  "app_index": 408,
+  "song_name": "Yuddha Veerulam",
+  "blocked_by_song_id": 1605,
+  "blocked_by_name": "Yuddha Veerulam",
+  "title_score": 1.0,
+  "lyric_similarity": 0.526,
+  "suggested_rename": "Yuddha Veerulam (Kranthi Chepuri)"
+ },
+ {
+  "app_index": 412,
+  "song_name": "Maruvalenaya",
+  "blocked_by_song_id": 1092,
+  "blocked_by_name": "Maruvalenayyaa",
+  "title_score": 0.917,
+  "lyric_similarity": 0.289,
+  "suggested_rename": "Maruvalenaya (Chandra Mohan)"
+ },
+ {
+  "app_index": 433,
+  "song_name": "Kaalamantha",
+  "blocked_by_song_id": 1445,
+  "blocked_by_name": "Intha Kaalam",
+  "title_score": 0.8,
+  "lyric_similarity": 0.129,
+  "suggested_rename": "Kaalamantha (Ps. T Job Das)"
+ },
+ {
+  "app_index": 439,
+  "song_name": "Bhayapadaku",
+  "blocked_by_song_id": 3988,
+  "blocked_by_name": "Bhayapadaku",
+  "title_score": 1.0,
+  "lyric_similarity": 0.279,
+  "suggested_rename": "Bhayapadaku (Pastor John Wesley)"
+ },
+ {
+  "app_index": 459,
+  "song_name": "Bethlahemu Puramulo",
+  "blocked_by_song_id": 1273,
+  "blocked_by_name": "Bethlehemu Puramulo",
+  "title_score": 0.882,
+  "lyric_similarity": 0.269,
+  "suggested_rename": "Bethlahemu Puramulo (Samy Pachigalla & Rahul)"
+ },
+ {
+  "app_index": 474,
+  "song_name": "Nee Chitthamu",
+  "blocked_by_song_id": 1370,
+  "blocked_by_name": "Nee Chitthamune",
+  "title_score": 0.917,
+  "lyric_similarity": 0.206,
+  "suggested_rename": "Nee Chitthamu (Jeevan Wesley Olesu)"
+ },
+ {
+  "app_index": 532,
+  "song_name": "Ooruko Naa Praanama",
+  "blocked_by_song_id": 1568,
+  "blocked_by_name": "Ooruko Naa Praanamaa",
+  "title_score": 0.97,
+  "lyric_similarity": 0.468,
+  "suggested_rename": "Ooruko Naa Praanama (Dr. Asher Andrew)"
+ },
+ {
+  "app_index": 543,
+  "song_name": "Kreesthu Nedu Puttenu",
+  "blocked_by_song_id": 206,
+  "blocked_by_name": "Yesu Kreesthu Puttenu Nedu",
+  "title_score": 0.9,
+  "lyric_similarity": 0.402,
+  "suggested_rename": "Kreesthu Nedu Puttenu (Moses Undru)"
+ },
+ {
+  "app_index": 546,
+  "song_name": "Sarvonnatha Sthalamulalo",
+  "blocked_by_song_id": 627,
+  "blocked_by_name": "Sarvonnatha Sthalamulalo",
+  "title_score": 1.0,
+  "lyric_similarity": 0.198,
+  "suggested_rename": "Sarvonnatha Sthalamulalo (Methushelah P)"
+ },
+ {
+  "app_index": 558,
+  "song_name": "Vinthaina Taraka",
+  "blocked_by_song_id": 1362,
+  "blocked_by_name": "Vinthaina Thaaraka",
+  "title_score": 0.867,
+  "lyric_similarity": 0.431,
+  "suggested_rename": "Vinthaina Taraka (Pastor Mani Prakash Deverapalli)"
+ },
+ {
+  "app_index": 574,
+  "song_name": "Neeve Naa Pranamu",
+  "blocked_by_song_id": 1524,
+  "blocked_by_name": "Neeve Naa Praanamu",
+  "title_score": 0.966,
+  "lyric_similarity": 0.272,
+  "suggested_rename": "Neeve Naa Pranamu (Shyam Joseph)"
+ },
+ {
+  "app_index": 575,
+  "song_name": "Raajulaku Raaju",
+  "blocked_by_song_id": 382,
+  "blocked_by_name": "Raajula Raaju",
+  "title_score": 0.833,
+  "lyric_similarity": 0.173,
+  "suggested_rename": "Raajulaku Raaju (John Kennedy Bethapudi)"
+ },
+ {
+  "app_index": 591,
+  "song_name": "Krupayu Kshemamu",
+  "blocked_by_song_id": 906,
+  "blocked_by_name": "Krupaa Kshemamu",
+  "title_score": 0.815,
+  "lyric_similarity": 0.541,
+  "suggested_rename": "Krupayu Kshemamu (Psalms 23 from Holy Bible)"
+ },
+ {
+  "app_index": 597,
+  "song_name": "Raja Nee Sannidhilone",
+  "blocked_by_song_id": 725,
+  "blocked_by_name": "Raajaa Nee Sannidhilone",
+  "title_score": 0.947,
+  "lyric_similarity": 0.337,
+  "suggested_rename": "Raja Nee Sannidhilone (Bro. John J, Fire Gospel Ministries)"
+ },
+ {
+  "app_index": 598,
+  "song_name": "Unnavaadavu Anuvaadavu",
+  "blocked_by_song_id": 2338,
+  "blocked_by_name": "Unnavaadavu ani anuvaadavu",
+  "title_score": 0.837,
+  "lyric_similarity": 0.214,
+  "suggested_rename": "Unnavaadavu Anuvaadavu (Smt. Kiranmai Paul)"
+ },
+ {
+  "app_index": 601,
+  "song_name": "Na Snehithuda",
+  "blocked_by_song_id": 488,
+  "blocked_by_name": "Naa Snehithudaa",
+  "title_score": 0.917,
+  "lyric_similarity": 0.188,
+  "suggested_rename": "Na Snehithuda (Pammi Daniel, Divya David & Prabhu Pammi)"
+ },
+ {
+  "app_index": 638,
+  "song_name": "Aradhana Aaradhana",
+  "blocked_by_song_id": 609,
+  "blocked_by_name": "Aaraadhana Aaraadhana",
+  "title_score": 0.857,
+  "lyric_similarity": 0.307,
+  "suggested_rename": "Aradhana Aaradhana (Raja Mandru)"
+ },
+ {
+  "app_index": 639,
+  "song_name": "Aradhinthu Ninnu Deva",
+  "blocked_by_song_id": 1603,
+  "blocked_by_name": "Aaraadhinthu Ninnu Devaa",
+  "title_score": 0.872,
+  "lyric_similarity": 0.342,
+  "suggested_rename": "Aradhinthu Ninnu Deva (pastor K Ratnam)"
+ },
+ {
+  "app_index": 658,
+  "song_name": "Banthi Anaga Aadare",
+  "blocked_by_song_id": 477,
+  "blocked_by_name": "Banthiyanaga Aadare",
+  "title_score": 0.848,
+  "lyric_similarity": 0.53,
+  "suggested_rename": "Banthi Anaga Aadare"
+ },
+ {
+  "app_index": 671,
+  "song_name": "Naa Snehithuda",
+  "blocked_by_song_id": 488,
+  "blocked_by_name": "Naa Snehithudaa",
+  "title_score": 0.96,
+  "lyric_similarity": 0.2,
+  "suggested_rename": "Naa Snehithuda (Divya David, Dr. Pammi Daniel, Prabhu Pammi)"
+ },
+ {
+  "app_index": 687,
+  "song_name": "Yesayya Neeke Vandanam",
+  "blocked_by_song_id": 77,
+  "blocked_by_name": "Yesayyaa Neeke Vandanam",
+  "title_score": 0.974,
+  "lyric_similarity": 0.5,
+  "suggested_rename": "Yesayya Neeke Vandanam (Kranthi Chepuri)"
+ },
+ {
+  "app_index": 688,
+  "song_name": "Aaradhinchedham",
+  "blocked_by_song_id": 523,
+  "blocked_by_name": "Aaraadhinchedam",
+  "title_score": 0.857,
+  "lyric_similarity": 0.145,
+  "suggested_rename": "Aaradhinchedham (Samy Pachigalla)"
+ },
+ {
+  "app_index": 709,
+  "song_name": "Choochuchunna Devudavu",
+  "blocked_by_song_id": 1133,
+  "blocked_by_name": "Choochuchunna Devudavu",
+  "title_score": 1.0,
+  "lyric_similarity": 0.24,
+  "suggested_rename": "Choochuchunna Devudavu (Pastor M Jesu Moses Raja)"
+ },
+ {
+  "app_index": 710,
+  "song_name": "Entha Kalamo",
+  "blocked_by_song_id": 1445,
+  "blocked_by_name": "Intha Kaalam",
+  "title_score": 0.8,
+  "lyric_similarity": 0.434,
+  "suggested_rename": "Entha Kalamo (Pastor Ramesh)"
+ },
+ {
+  "app_index": 731,
+  "song_name": "Na Yesuni Prema",
+  "blocked_by_song_id": 316,
+  "blocked_by_name": "Prema Yesuni Prema",
+  "title_score": 0.815,
+  "lyric_similarity": 0.302,
+  "suggested_rename": "Na Yesuni Prema (Srimanth katamala)"
+ },
+ {
+  "app_index": 738,
+  "song_name": "Aradhana Adhika Sthothramu",
+  "blocked_by_song_id": 313,
+  "blocked_by_name": "Aaraadhana Adhika Sthothramu",
+  "title_score": 0.917,
+  "lyric_similarity": 0.387,
+  "suggested_rename": "Aradhana Adhika Sthothramu (Akumarthi Daniel)"
+ },
+ {
+  "app_index": 751,
+  "song_name": "Krupagala Deva",
+  "blocked_by_song_id": 1289,
+  "blocked_by_name": "Krupagala Devaa",
+  "title_score": 0.96,
+  "lyric_similarity": 0.47,
+  "suggested_rename": "Krupagala Deva (Pastor Abraham)"
+ },
+ {
+  "app_index": 752,
+  "song_name": "Madhuramainadi Na Yesu Prema",
+  "blocked_by_song_id": 1590,
+  "blocked_by_name": "Madhuramainadi Naa Yesu Prema",
+  "title_score": 0.98,
+  "lyric_similarity": 0.325,
+  "suggested_rename": "Madhuramainadi Na Yesu Prema (Pastor G Devadas)"
+ },
+ {
+  "app_index": 756,
+  "song_name": "Yesuni Roopamloniki Maaraali",
+  "blocked_by_song_id": 1707,
+  "blocked_by_name": "Yesuni Roopanloniki Maaraali",
+  "title_score": 0.92,
+  "lyric_similarity": 0.488,
+  "suggested_rename": "Yesuni Roopamloniki Maaraali (Pastor N J Simon)"
+ },
+ {
+  "app_index": 757,
+  "song_name": "Aradhincheda",
+  "blocked_by_song_id": 523,
+  "blocked_by_name": "Aaraadhinchedam",
+  "title_score": 0.8,
+  "lyric_similarity": 0.197,
+  "suggested_rename": "Aradhincheda (Bro Anil Vemula)"
+ },
+ {
+  "app_index": 788,
+  "song_name": "Ghanamainavi Nee Kaaryamulu",
+  "blocked_by_song_id": 1241,
+  "blocked_by_name": "Ghanamainavi Nee Kaaryamulu",
+  "title_score": 1.0,
+  "lyric_similarity": 0.4,
+  "suggested_rename": "Ghanamainavi Nee Kaaryamulu (Hosanna Ministries)"
+ },
+ {
+  "app_index": 792,
+  "song_name": "Nee Kantipaapavale",
+  "blocked_by_song_id": 651,
+  "blocked_by_name": "Nee Kantipaapanu",
+  "title_score": 0.8,
+  "lyric_similarity": 0.453,
+  "suggested_rename": "Nee Kantipaapavale (Joel Kodali)"
+ },
+ {
+  "app_index": 795,
+  "song_name": "Thandri Deva",
+  "blocked_by_song_id": 1012,
+  "blocked_by_name": "Thandri Devaa",
+  "title_score": 0.952,
+  "lyric_similarity": 0.434,
+  "suggested_rename": "Thandri Deva (Tenny Jinans John)"
+ },
+ {
+  "app_index": 796,
+  "song_name": "Aa Ha Hallelujah",
+  "blocked_by_song_id": 756,
+  "blocked_by_name": "Aahaa Hallelujah",
+  "title_score": 0.815,
+  "lyric_similarity": 0.168,
+  "suggested_rename": "Aa Ha Hallelujah (Anil Kumar Vemula)"
+ },
+ {
+  "app_index": 803,
+  "song_name": "Rajaadhi Raju",
+  "blocked_by_song_id": 1245,
+  "blocked_by_name": "Raajaadhi Raaja",
+  "title_score": 0.833,
+  "lyric_similarity": 0.155,
+  "suggested_rename": "Rajaadhi Raju (Sharon philip)"
+ },
+ {
+  "app_index": 811,
+  "song_name": "Unnaanaya Nenunnaanaya",
+  "blocked_by_song_id": 2021,
+  "blocked_by_name": "Unnaanayaa nenunnaanayyaa",
+  "title_score": 0.837,
+  "lyric_similarity": 0.527,
+  "suggested_rename": "Unnaanaya Nenunnaanaya (Sister Nissy Paul, wife of Bro Paul Emmanuel)"
+ },
+ {
+  "app_index": 812,
+  "song_name": "Vachindi Vachindi Christmas",
+  "blocked_by_song_id": 1103,
+  "blocked_by_name": "Vachchindi Christmas Vachchindi",
+  "title_score": 0.885,
+  "lyric_similarity": 0.223,
+  "suggested_rename": "Vachindi Vachindi Christmas (P Methuselah, GRACE TIME CHURCH, khammam)"
+ },
+ {
+  "app_index": 815,
+  "song_name": "Andhaala Thaara",
+  "blocked_by_song_id": 138,
+  "blocked_by_name": "Andaala Thaara",
+  "title_score": 0.88,
+  "lyric_similarity": 0.189,
+  "suggested_rename": "Andhaala Thaara (Michael Kalyanapu)"
+ },
+ {
+  "app_index": 823,
+  "song_name": "Raraju Puttadoi",
+  "blocked_by_song_id": 666,
+  "blocked_by_name": "Raaraaju Puttaadoi",
+  "title_score": 0.897,
+  "lyric_similarity": 0.468,
+  "suggested_rename": "Raraju Puttadoi (Joshua Shaik)"
+ },
+ {
+  "app_index": 826,
+  "song_name": "Entha Madhuram",
+  "blocked_by_song_id": 35,
+  "blocked_by_name": "Entha Madhuramu",
+  "title_score": 0.96,
+  "lyric_similarity": 0.179,
+  "suggested_rename": "Entha Madhuram (KR John)"
+ },
+ {
+  "app_index": 830,
+  "song_name": "Okka Kshanamaina",
+  "blocked_by_song_id": 1496,
+  "blocked_by_name": "Oka Kshanamaina",
+  "title_score": 0.963,
+  "lyric_similarity": 0.14,
+  "suggested_rename": "Okka Kshanamaina (Sis. Prasanna Bold)"
+ },
+ {
+  "app_index": 860,
+  "song_name": "Paralokam Naa Desam",
+  "blocked_by_song_id": 824,
+  "blocked_by_name": "Paralokamu Naa Deshamu",
+  "title_score": 0.8,
+  "lyric_similarity": 0.186,
+  "suggested_rename": "Paralokam Naa Desam (Kripal Mohan)"
+ },
+ {
+  "app_index": 868,
+  "song_name": "Parishuddhathmuda",
+  "blocked_by_song_id": 2981,
+  "blocked_by_name": "Parishuddhaathmuda Deva",
+  "title_score": 0.865,
+  "lyric_similarity": 0.429,
+  "suggested_rename": "Parishuddhathmuda (Bro Philip Gariki)"
+ },
+ {
+  "app_index": 874,
+  "song_name": "Kalvari Prema",
+  "blocked_by_song_id": 254,
+  "blocked_by_name": "Kalvari Premanu",
+  "title_score": 0.917,
+  "lyric_similarity": 0.42,
+  "suggested_rename": "Kalvari Prema (Pastor Praveen)"
+ },
+ {
+  "app_index": 875,
+  "song_name": "Maruvalenayya",
+  "blocked_by_song_id": 1092,
+  "blocked_by_name": "Maruvalenayyaa",
+  "title_score": 0.96,
+  "lyric_similarity": 0.225,
+  "suggested_rename": "Maruvalenayya (Israel Dorababu)"
+ },
+ {
+  "app_index": 905,
+  "song_name": "Kondalathattu",
+  "blocked_by_song_id": 1170,
+  "blocked_by_name": "Kondala Thattu",
+  "title_score": 0.833,
+  "lyric_similarity": 0.454,
+  "suggested_rename": "Kondalathattu (Dr. Victor Rampogu)"
+ },
+ {
+  "app_index": 906,
+  "song_name": "Mahaganudavu Mahonnathudavu",
+  "blocked_by_song_id": 1395,
+  "blocked_by_name": "Mahaa Ghanudavu Mahonnathudavu",
+  "title_score": 0.885,
+  "lyric_similarity": 0.45,
+  "suggested_rename": "Mahaganudavu Mahonnathudavu (Bro. Yesanna)"
+ },
+ {
+  "app_index": 907,
+  "song_name": "Naa Jeevitham",
+  "blocked_by_song_id": 1448,
+  "blocked_by_name": "Naadu Jeevithamu",
+  "title_score": 0.8,
+  "lyric_similarity": 0.231,
+  "suggested_rename": "Naa Jeevitham (Saginela Kavitha Kumari)"
+ },
+ {
+  "app_index": 932,
+  "song_name": "Aaradhinchedam",
+  "blocked_by_song_id": 523,
+  "blocked_by_name": "Aaraadhinchedam",
+  "title_score": 0.963,
+  "lyric_similarity": 0.235,
+  "suggested_rename": "Aaradhinchedam (Davidson Gajulavarthi)"
+ },
+ {
+  "app_index": 945,
+  "song_name": "Nibandhana Janulam",
+  "blocked_by_song_id": 1393,
+  "blocked_by_name": "Nibandhanaa Janulam",
+  "title_score": 0.97,
+  "lyric_similarity": 0.249,
+  "suggested_rename": "Nibandhana Janulam (Pastor K Rajababu)"
+ },
+ {
+  "app_index": 955,
+  "song_name": "Mulla Kireetamu",
+  "blocked_by_song_id": 1244,
+  "blocked_by_name": "Mulla Kireetamu",
+  "title_score": 1.0,
+  "lyric_similarity": 0.478,
+  "suggested_rename": "Mulla Kireetamu"
+ },
+ {
+  "app_index": 967,
+  "song_name": "Nee Kantipaapanu",
+  "blocked_by_song_id": 651,
+  "blocked_by_name": "Nee Kantipaapanu",
+  "title_score": 1.0,
+  "lyric_similarity": 0.448,
+  "suggested_rename": "Nee Kantipaapanu (Joshua Shaik)"
+ },
+ {
+  "app_index": 968,
+  "song_name": "Neevu Leni Chotedi Yesayya",
+  "blocked_by_song_id": 1529,
+  "blocked_by_name": "Neevu Leni Chotedi",
+  "title_score": 0.811,
+  "lyric_similarity": 0.473,
+  "suggested_rename": "Neevu Leni Chotedi Yesayya (Dr. Victor Rampogu)"
+ },
+ {
+  "app_index": 983,
+  "song_name": "Ghanamaina Veduka",
+  "blocked_by_song_id": 995,
+  "blocked_by_name": "Ghanamaina Veduka",
+  "title_score": 1.0,
+  "lyric_similarity": 0.325,
+  "suggested_rename": "Ghanamaina Veduka (A.R.Stevenson)"
+ },
+ {
+  "app_index": 984,
+  "song_name": "Kruthagnathatho Samarpanatho",
+  "blocked_by_song_id": 2442,
+  "blocked_by_name": "Kruthagnathatho samarpanatho",
+  "title_score": 0.923,
+  "lyric_similarity": 0.399,
+  "suggested_rename": "Kruthagnathatho Samarpanatho (Pastor K Christopher)"
+ },
+ {
+  "app_index": 991,
+  "song_name": "Yesayya Naa Yesayya",
+  "blocked_by_song_id": 943,
+  "blocked_by_name": "Yesayyaa Naa Yesayyaa",
+  "title_score": 0.941,
+  "lyric_similarity": 0.244,
+  "suggested_rename": "Yesayya Naa Yesayya (Bro Ravi Gosala)"
+ },
+ {
+  "app_index": 999,
+  "song_name": "Rajulaku Rajaina",
+  "blocked_by_song_id": 1256,
+  "blocked_by_name": "Raajulaku Raajaina Ee",
+  "title_score": 0.875,
+  "lyric_similarity": 0.183,
+  "suggested_rename": "Rajulaku Rajaina (Bro. Emmanuel)"
+ },
+ {
+  "app_index": 1005,
+  "song_name": "Koti Kaanthula Velugulatho",
+  "blocked_by_song_id": 899,
+  "blocked_by_name": "Koti Kaanthula Velugulatho",
+  "title_score": 1.0,
+  "lyric_similarity": 0.402,
+  "suggested_rename": "Koti Kaanthula Velugulatho (Bapu Kondeti)"
+ },
+ {
+  "app_index": 1007,
+  "song_name": "Naa Thandri Neevey",
+  "blocked_by_song_id": 146,
+  "blocked_by_name": "Naa Thandri Neeve",
+  "title_score": 0.966,
+  "lyric_similarity": 0.439,
+  "suggested_rename": "Naa Thandri Neevey (Ravinder Vottepu)"
+ },
+ {
+  "app_index": 1020,
+  "song_name": "Sambaraalu Santhoshaalu",
+  "blocked_by_song_id": 2064,
+  "blocked_by_name": "Sambaraalu Santhoshaalu",
+  "title_score": 1.0,
+  "lyric_similarity": 0.459,
+  "suggested_rename": "Sambaraalu Santhoshaalu (Joshua Shaik)"
+ },
+ {
+  "app_index": 1038,
+  "song_name": "Sannuthinthu Yesu Swami",
+  "blocked_by_song_id": 916,
+  "blocked_by_name": "Sannuthinthu Yesu Swaami",
+  "title_score": 0.976,
+  "lyric_similarity": 0.461,
+  "suggested_rename": "Sannuthinthu Yesu Swami (Joel Kodali)"
+ },
+ {
+  "app_index": 1048,
+  "song_name": "Yesu Unte Chaalu",
+  "blocked_by_song_id": 362,
+  "blocked_by_name": "Yesu Unte Chaalu",
+  "title_score": 1.0,
+  "lyric_similarity": 0.159,
+  "suggested_rename": "Yesu Unte Chaalu (Rajesh Tatapudi)"
+ },
+ {
+  "app_index": 1079,
+  "song_name": "Athyunnatha Simhasanamupai",
+  "blocked_by_song_id": 507,
+  "blocked_by_name": "Athyunnatha Simhaasanumpai",
+  "title_score": 0.833,
+  "lyric_similarity": 0.201,
+  "suggested_rename": "Athyunnatha Simhasanamupai (Dr. Darla Amshumathi Mary)"
+ },
+ {
+  "app_index": 1086,
+  "song_name": "Siddhapadudaam Siddhapadudaam",
+  "blocked_by_song_id": 3808,
+  "blocked_by_name": "Siddhapadudhaam siddhapadudhaam",
+  "title_score": 0.821,
+  "lyric_similarity": 0.499,
+  "suggested_rename": "Siddhapadudaam Siddhapadudaam (Sharon Sisters, Bro Philip Gariki)"
+ },
+ {
+  "app_index": 1094,
+  "song_name": "Neeve Naa Praanamu",
+  "blocked_by_song_id": 1524,
+  "blocked_by_name": "Neeve Naa Praanamu",
+  "title_score": 1.0,
+  "lyric_similarity": 0.46,
+  "suggested_rename": "Neeve Naa Praanamu (Daniel J Kiran)"
+ },
+ {
+  "app_index": 1095,
+  "song_name": "Preminchedan Adhikamugaa",
+  "blocked_by_song_id": 1353,
+  "blocked_by_name": "Preminchedan Adhikamugaa",
+  "title_score": 1.0,
+  "lyric_similarity": 0.52,
+  "suggested_rename": "Preminchedan Adhikamugaa (Father S J Berchmans)"
+ }
+]

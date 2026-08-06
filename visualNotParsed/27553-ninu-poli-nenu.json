@@ -1,0 +1,103 @@
+{
+  "song_name": "Ninu Poli Nenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Annie Margaret"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిను పోలి నేను"
+    ],
+    "english": [
+      "Ninu poli nenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చీకటిలో నుండి వెలుగునకు",
+        "నన్ను నడిపిన దేవా (2)",
+        "నా జీవితానిని వెలిగించిన",
+        "నా బ్రతుకును తేటపరిచిన (2)"
+      ],
+      "english": [
+        "Cheekatilo nundi velugunaku",
+        "Nannu nadipina Deva (2)",
+        "Naa jeevithaanini veliginchina",
+        "Naa brathukunu thetaparichina (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నన్ను నీవు రక్షించితివయ్యా",
+        "నీ కృప చేత నే బ్రతికితినయ్యా",
+        "నన్ను నీవు కాపాడితివయ్యా",
+        "నీ దయతో నన్ను దీవించితివయ్యా",
+        "యేసయ్యా నా యేసయ్యా",
+        "నీవే నా బలము యేసయ్యా",
+        "యేసయ్యా నా యేసయ్యా",
+        "నీవే నా సర్వము యేసయ్యా"
+      ],
+      "english": [
+        "Nannu neevu rakshinchithivayyaa",
+        "Nee krupa chetha ne brathikithinayyaa",
+        "Nannu neevu kaapaadithivayyaa",
+        "Nee dayatho nannu dheevinchithivayyaa",
+        "Yesayyaa naa Yesayyaa",
+        "Neeve naa balamu Yesayyaa",
+        "Yesayyaa naa Yesayyaa",
+        "Neeve naa sarvamu Yesayyaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిను పోలి నేను జీవింతునయ్యా",
+        "నీ ఆత్మ దయచేయుమా",
+        "నిను పోలి నేను నడతునయ్యా",
+        "నీ కాపుదలనీయుమా"
+      ],
+      "english": [
+        "Ninu poli nenu jeevinthunayyaa",
+        "Nee aathma dayacheyumaa",
+        "Ninu poli nenu nadathunayyaa",
+        "Nee kaapudhalaneeyumaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కనికరమే లేని ఈ లోకంలో",
+        "కన్నీటితో నేనుంటినయ్యా (2)",
+        "నీ ప్రేమతో నను ఆదరించిన",
+        "నా హృదయము తృప్తిపరచిన (2) ||నన్ను నీవు||"
+      ],
+      "english": [
+        "Kanikarame leni ee lokamlo",
+        "Kanneetitho nenuntinayyaa (2)",
+        "Nee prematho nanu aadarinchina",
+        "Naa hrudayamu thrupthiparachina (2) ||Nannu neevu||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నిను పోలి నేను జీవింతునయ్యా",
+        "నీ ఆత్మ దయచేయుమా",
+        "నిను పోలి నేను నడతునయ్యా",
+        "నీ కాపుదలనీయుమా (2)"
+      ],
+      "english": [
+        "Ninu poli nenu jeevinthunayyaa",
+        "Nee aathma dayacheyumaa",
+        "Ninu poli nenu nadathunayyaa",
+        "Nee kaapudhalaneeyumaa (2)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "song_name": "Lokaniki Aanandame",
+  "author": {
+    "Authored by": "Philip Gariki",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మనకు తోడుగా",
+      "ఇమ్మానుయేలు",
+      "లోక రక్షకుడు",
+      "అభిషేక నాధుడు",
+      "సర్వోనతమైన స్థలములలోన",
+      "దేవునికే మహిమ"
+    ],
+    "english": [
+      "manaku thoduga",
+      "immaanuyelu",
+      "loka rakshakudu",
+      "abhisheka naadhudu",
+      "sarvonatamaina sthalamulalona",
+      "devunike mahima"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లోకానికి ఆనందమే",
+        "ప్రభుయేసు జన్మించెగా",
+        "అరుదెంచెను నరరూపిగా",
+        "క్రీస్తు ఈనాడేగా"
+      ],
+      "english": [
+        "Lokaaniki aanandame",
+        "prabhuyesu janminchega",
+        "arudenchenu nararoopiga",
+        "kreestu eenaadega"
+      ]
+    }
+  ]
+}

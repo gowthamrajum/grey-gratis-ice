@@ -1,0 +1,87 @@
+{
+  "song_name": "Prabhuvaa neeve nammakamaina saamardhyudavu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మిమ్మును పిలుచువాడు నమ్మకమైనవాడు 1 థెస్స థెస్సలోనియన్స్ 5:24",
+      "ప్రభువా నీవే నమ్మకమైన సామర్ధ్యుడవు",
+      "ఎంతో గొప్ప అద్భుతమైన ప్రశాంతుడా దయాళుడ"
+    ],
+    "english": [
+      "Mimmunu piluchuvaadu nammakamainavaadu 1 Thessa Thessalonians 5:24",
+      "Prabhuvaa neeve nammakamaina saamardhyudavu",
+      "Entho goppa adbhuthamaina prashaanthudaa dayaaluda"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇహపరమందు నివసించువారు నీ నామమున మోకరింతురు",
+        "మహిమ పరతురు దేవుని",
+        "అంగీకరించు ప్రతివానిజిహ్వ నీవే క్రీస్తువనుచు"
+      ],
+      "english": [
+        "Ihaparamandhu nivasinchuvaaru nee naamamuna mokarinthuru",
+        "Mahima parathuru Devuni",
+        "Angeekarinchu prathivaani jihva neeve Kreesthuvanuchu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అపారమైన క్రియలు చేయుచు మమ్మెల్ల పరిపాలించుచున్నావు",
+        "ప్రేమగల ప్రభువా",
+        "పాపిని రక్షింప యిహమున కరిగి గొప్పరక్షణనిచ్చె"
+      ],
+      "english": [
+        "Apaaramaina kriyalu cheyuchu mammella paripaalinchuchunnaavu",
+        "Premagala Prabhuvaa",
+        "Paapini rakshimpa ihamuna karigi gopparakshananichche"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఐగుప్తునుండి విడిపించిన వారిని నలువది వత్సరములు",
+        "నడిపించితివి కాచితివి కనుపాపగ",
+        "వుంచియున్నావు మాదిరిగా వారిన్ నీ ఆలోచన గొప్పది"
+      ],
+      "english": [
+        "Aiguphthunundi vidipinchina vaarini naluvadi vathsaramulu",
+        "Nadipinchithivi kaachithivi kanupaapaga",
+        "Vunchiyunnaavu maadirigaa vaarin nee aalochana goppadi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పరమును తెరచి మన్నా కురిపించి అందరికి జీవజలమిచ్చితివి",
+        "పొందిరి తృప్తి నీయందు",
+        "అగ్ని స్తంభము మేఘ స్తంభమును నిత్యము నడిపించును"
+      ],
+      "english": [
+        "Paramunu therachi mannaa kuripinchi andariki jeevajalamichchithivi",
+        "Pondiri thrupthi neeyandhu",
+        "Agni sthambhamu megha sthambhamunu nithyamu nadipinchunu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "తుఫానురేగి నిరాశపరచ శత్రువు మామధ్య చెలరేగగ",
+        "మమ్ములను రక్షించితివి",
+        "వాగ్దానములు నెరవేర్చి నీవే స్వాస్థ్యము నిచ్చితివి"
+      ],
+      "english": [
+        "Thuphaanuregi niraashaparacha shathruvu maamadhya chelaregaga",
+        "Mammulanu rakshinchithivi",
+        "Vaagdhaanamulu neraverchi neeve swaasthyamu nichchithivi"
+      ]
+    }
+  ]
+}

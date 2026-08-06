@@ -1,0 +1,45 @@
+{
+  "song_name": "Pindamunai Nenu",
+  "author": {
+    "Authored by": "Surya Teja",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "పిండమునై నేను నా తల్లి గర్భమున",
+      "ఉండగానే నన్ను పిలిచిన నా దేవా",
+      "పాపములో నుండి నన్ను రక్షించి",
+      "తండ్రివై నన్ను నడిపిన నా నాధా"
+    ],
+    "english": [
+      "Pindamunai nenu naa thalli gharbamuna",
+      "undaganey nannu pilichina na devaa",
+      "paapamulo nundi nannu rakshinchi",
+      "thandrivai nannu nadipina naa naadhaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కంటిపాపలా కాయు నా దేవా",
+        "చేయి విడువక నడిపిన నా ప్రభువా"
+      ],
+      "english": [
+        "Kantipaapalaa kaayu naa devaa",
+        "cheyi viduvaka nadipina naa prabhuvaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా ఆధారం నీవే నా సర్వస్వం నీవే",
+        "నా ప్రాణం నీవే నా సహాయం నీవే"
+      ],
+      "english": [
+        "Naa aadharam neeve naa sarvaswam neeve",
+        "naa praanam neeve naa sahaayam neeve"
+      ]
+    }
+  ]
+}

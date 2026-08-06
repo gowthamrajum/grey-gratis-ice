@@ -1,0 +1,32 @@
+{
+  "song_name": "Samarpinchedanu",
+  "author": {
+    "Authored by": "Aneel Pagolu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సమర్పించెదను సమస్తము",
+      "సన్నుతించెదను సతతము"
+    ],
+    "english": [
+      "Samarpinchedhanu samasthamu",
+      "sannuthinchedhanu sathathamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చాలును, చాలును, క్రీస్తుయేసు చాలును",
+        "చాలును, చాలును, క్రీస్తుయేసు చాలును",
+        "చాలును, చాలును, క్రీస్తుయేసు చాలును"
+      ],
+      "english": [
+        "Chaalunu, chaalunu, kreesthu yesu chaalunu",
+        "Chaalunu, chaalunu, kreesthu yesu chaalunu",
+        "Chaalunu, chaalunu, kreesthu yesu chaalunu"
+      ]
+    }
+  ]
+}

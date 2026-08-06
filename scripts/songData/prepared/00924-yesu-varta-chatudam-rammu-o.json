@@ -1,0 +1,55 @@
+{
+  "song_name": "Yesu Varta Chatudam Rammu O Sodara",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు వార్త చాటుదాం రమ్ము ఓ సోదరా",
+      "యేసుతోనే సాగుదాం రమ్ము ఓ సోదరీ",
+      "అన్ని దేశాల్లో అన్ని జాతుల్లో అన్ని వంశాల్లో ప్రతి మనుష్యునికి",
+      "యేసు ప్రేమను చూపించుదాం యేసులోనే నడిపించుదాం",
+      "యేసు ప్రేమను చూపించుదాం యేసుతోనే సాగిపోదాం"
+    ],
+    "english": [
+      "Yesu Varta Chatudam Rammu O Sodara",
+      "Yesutone Sagudam Rammu O Sodari",
+      "Anni Desallo Anni Jatullo Anni Vamsallo Prati Manushyuniki",
+      "Yesu Premanu Chupimchudam Yesulone Nadipimchudam",
+      "Yesu Premanu Chupimchudam Yesutone Sagipodam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీకై నాకై వచ్చాడన్నా యేసయ్య లోకానికి",
+        "నిన్ను నన్ను పిలిచాడన్నా యేసయ్య పనికోసమే",
+        "నీ హృదయం ప్రభు కర్పించుము నీ సమయం యేసు కర్పించుము",
+        "నీ సకలం ప్రభు కర్పించుము నీ సర్వం యేసు కర్పించుము"
+      ],
+      "english": [
+        "Nikai Nakai Vachchadanna Yesayya Lokaniki",
+        "Ninnu Nannu Pilichadanna Yesayya Panikosame",
+        "Ni Hrudayam Prabu Karpimchumu Ni Samayam Yesu Karpimchumu",
+        "Ni Sakalam Prabu Karpimchumu Ni Sarvam Yesu Karpimchumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మాట ఇచ్చి స్ధాపించాడు ఈ కల్వరి సహవాసమును",
+        "వాగ్దానాలతో నడిపించుచున్నాడు",
+        "ఎన్ని కష్టాలని ఎన్ని నష్టాలని మేలులుగా మార్చి ఆశీర్వదించెన్",
+        "ఎన్నో రీతులుగా పలు పరిచర్యలను సాగించుటకు తన తోడునిచ్చెన్"
+      ],
+      "english": [
+        "Mata Ichchi Sdhapimchadu I Kalvari Sahavasamunu",
+        "Vagdanalato Nadipimchuchunnadu",
+        "Enni Kashtalani Enni Nashtalani Meluluga Marchi Asirvadimchen",
+        "Enno Rituluga Palu Paricharyalanu Sagimchutaku Tana Todunichchen"
+      ]
+    }
+  ]
+}

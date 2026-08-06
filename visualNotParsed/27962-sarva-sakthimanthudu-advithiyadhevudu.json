@@ -1,0 +1,49 @@
+{
+  "song_name": "Sarvashakthimanthudu adhvitheeyadhevudu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro Philip Gariki"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సర్వశక్తిమంతుడు అద్వితీయదేవుడు",
+      "స్తోత్రములకు అర్హుడైనవాడు",
+      "యేసయ్యే నా ప్రాణ ప్రియుడు",
+      "హల్లెలూయా హల్లెలూయా"
+    ],
+    "english": [
+      "Sarvashakthimanthudu adhvitheeyadhevudu",
+      "Sthothramulaku arhudainavaadu",
+      "Yesayye naa praana priyudu",
+      "Hallelooyaa hallelooyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ధీనులకు అనాధలకు కృపచూపువాడు",
+        "ప్రేమించి రక్షించి పోషించువాడు",
+        "పాపమునుండి మనల విడిపించువాడు",
+        "శాంతజలముల చెంత నడిపించువాడు",
+        "ఆ యేసే నిజ ద్రాక్షావల్లి తీగెలము మనము",
+        "ఆయనలో ఫలియించి నిత్యము నిలిచెదము",
+        "ప్రభు ప్రేమ మాటలను ప్రేమింతుము",
+        "పరలోకవరములను పొందెదము"
+      ],
+      "english": [
+        "Dheenulaku anaadhalaku krupachoopuvaadu",
+        "Preminchi rakshinchi poshinchuvaadu",
+        "Paapamunundi manala vidipinchuvaadu",
+        "Shaanthajalamula chentha nadipinchuvaadu",
+        "Aa Yese nija draakshaavalli theegelamu manamu",
+        "Aayanalo phaliyinchi nithyamu nilichedhamu",
+        "Prabhu prema maatalanu preminthumu",
+        "Paralokavaramulanu pondedamu"
+      ]
+    }
+  ]
+}

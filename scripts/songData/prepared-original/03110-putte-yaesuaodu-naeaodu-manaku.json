@@ -1,0 +1,44 @@
+{
+  "song_name": "Putte Yaesuaodu Naeaodu Manaku",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఫేలిక్స్ ఆండ్రు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "పుట్టె యేసుఁడు నేఁడు మనకు పుణ్యమార్గము జూపను పట్టి యయ్యెఁ బరమ గురుఁడు ప్రాయశ్చిత్తుఁడు యేసుడు ||పుట్టె||"
+    ],
+    "english": [
+      "putte yaesuAOdu naeAOdu manaku puNyamaargamu joopanu patti yayyeAO barama guruAOdu praayashchiththuAOdu yaesudu ||putte||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ధరఁ బిశాచిని వేఁడిన దు ర్నరులఁ బ్రొచుటకై యా పరమవాసి పాపహరుఁడు వరభక్త జన పోషుఁడు ||పుట్టె||"
+      ],
+      "english": [
+        "DharAO bishaachini vaeAOdina dhu rnarulAO brochutakai yaa paramavaasi paapaharuAOdu varabhaktha jana poaShuAOdu ||putte||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యూద దేశములోను బేత్లె హేమను గ్రామమున నాదరింప నుద్భవించె నధములమైన మనలఁ ||బుట్టె||"
+      ],
+      "english": [
+        "yoodha dhaeshamuloanu baethle haemanu graamamuna naadhariMpa nudhbhaviMche naDhamulamaina manalAO ||butte||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తూర్పు జ్ఞానులు కొందఱు పూర్వ దిక్కు చుక్కను గాంచి సర్వోన్నతుని మరియు కొమరుని కర్పణము లిచ్చిరి ||పుట్టె||"
+      ],
+      "english": [
+        "thoorpu jnYaanulu koMdhaRu poorva dhikku chukkanu gaaMchi sarvoannathuni mariyu komaruni karpaNamu lichchiri ||putte||"
+      ]
+    }
+  ]
+}

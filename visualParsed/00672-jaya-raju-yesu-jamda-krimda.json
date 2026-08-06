@@ -1,0 +1,55 @@
+{
+  "song_name": "Jaya raaju Yesu janda krinda",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "జయ రాజు యేసు జండ క్రింద సేవకు వస్తిమి",
+      "భయములేక పరమ బలమెంది మనము పనిని జేయుదము",
+      "జయగీతం పాడి యుద్దము జేసి జయము నొందెదము"
+    ],
+    "english": [
+      "Jaya raaju Yesu janda krinda sevaku vasthimi",
+      "Bhayamuleka parama balamendhi manamu panini jeyudhamu",
+      "Jayageetham paadi yudhdhamu jesi jayamu nondhedhamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సేననాయకుడు నడిపించెను మమ్మును దివ్యగ్నేనముతో",
+        "దీన సేవకులమై దినములు వెంబడించి పనిని చేయదము"
+      ],
+      "english": [
+        "Senanaayakudu nadipinchenu mammunu dhivyagnaanamutho",
+        "Deena sevakulamai dinamulu vembadinchi panini cheyadhamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేశవాసులెల్లరు దేవునితో సహవాసముండుటకై వంచించు",
+        "సైతాన్ వలనుండి వారిని విడిపించుట మా పని"
+      ],
+      "english": [
+        "Dheshavaasulellaru devunitho sahavaasamundutakai vanchinchu",
+        "Saithaan valanundi vaarini vidipinchuta maa pani"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "హిందూదేశ మంతయు నెప్పుడు యేసుకు స్వంతమగుచున్నదో",
+        "అంధకారము తొలగి వెలుగొందు కాలము తొందలో రావలెను"
+      ],
+      "english": [
+        "Hindhoodhesha manthayu neppudu Yesuku swanthamaguchunnadho",
+        "Andhakaaramu tholagi velugondhu kaalamu thondaralo raavalenu"
+      ]
+    }
+  ]
+}

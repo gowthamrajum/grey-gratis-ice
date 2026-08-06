@@ -1,0 +1,38 @@
+{
+  "song_name": "Parama Nandundedu Maa Parama Janaka",
+  "author": {
+    "Authored by": "",
+    "రచన": "మల్లెల దావీదు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరమ నందుండెడు మా పరమ జనక నీదు పేరు పరిశుద్ధం బగును గాక",
+      "త్వరగను నీ రాజ్యంబు ధరకు నరుగు దెంచుఁగాక",
+      "పరమునందు నెట్టులనో ధరణియందు నట్లు నీ చి త్తంబు నెరవేరుఁగాక"
+    ],
+    "english": [
+      "Parama Nandundedu Maa Parama Janaka Needhu Paeru Parishudhdham Bagunu Gaaka",
+      "Thvaraganu Nee Raajyambu Dharaku Narugu Dhenchugaaka",
+      "Paramunandhu Nettulanoa Dharaniyandhu Natlu Nee Chi Ththambu Neravaerugaaka"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మా యనుదినాహారము మాకు నేఁడు దయచేయుము",
+        "మా యెడలను దప్పిదములఁ జేయువారి నైఁచునట్లు",
+        "మాయపరాధము క్షమించి మము శోధనలోకిఁ దేక",
+        "మహిని గీడు నుండి నీ స హాయమున దప్పించుము",
+        "రా జ్యమ్ము శక్తి మహిమము నె ల్లప్పుడును నీవె యామేన్"
+      ],
+      "english": [
+        "Maa Yanudhinaahaaramu Maaku Naedu Dhayachaeyumu",
+        "Maa Yedalanu Dhappidhamula Jaeyuvaari Naichunatlu",
+        "Maayaparaadhamu Kshaminchi Mamu Shoadhanaloaki Dhaeka",
+        "Mahini Geedu Nundi Nee Sa Haayamuna Dhappinchumu",
+        "Raa Jyammu Shakthi Mahimamu Ne Llappudunu Neeve Yaamaen"
+      ]
+    }
+  ]
+}

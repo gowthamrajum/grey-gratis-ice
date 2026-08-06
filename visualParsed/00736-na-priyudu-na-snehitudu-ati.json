@@ -1,0 +1,63 @@
+{
+  "song_name": "Naa priyudu naa snehithudu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రియుడు నా స్నేహితుడు",
+      "అతి మధురం అతి కాంక్షనీయుడు",
+      "దవళవర్ణుడు రత్నవర్ణుడు",
+      "అతడే నా ప్రియుండు అతడే నా స్నేహితుడు"
+    ],
+    "english": [
+      "Naa priyudu naa snehithudu",
+      "Athi madhuram athi kaankshaneeyudu",
+      "Davalavarnudu rathnavarnudu",
+      "Athade naa priyundu athade naa snehithudu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రభువా పది వేళలో అతి సుందరుడా",
+        "పరిశుద్ధుల కొరకై వచ్చు చున్నావా (2)",
+        "పరలోకములో మమ్ము చేర్చుకొందువా (2)"
+      ],
+      "english": [
+        "Prabhuvaa padi velalo athi sundarudaa",
+        "Parishuddhula korakai vachchu chunnaavaa (2)",
+        "Paralokamulo mammu cherchukonduvaa (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సుగంధ పరిమళాల సువ్వాసనా",
+        "పరిశుద్దులు కుమ్మరించు ఆరాధనా (2)",
+        "షూలమ్మితి సంఘమునే కోరుకొందువా (2)"
+      ],
+      "english": [
+        "Sugandha parimalaala suvvaasanaa",
+        "Parishuddhulu kummarinchu aaraadhanaa (2)",
+        "Shoolammithi sanghamune korukonduvaa (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రభు యేసు నామమందు విశ్వసించినా",
+        "పవిత్రా రక్తములో కడుగ బడుదువు (2)",
+        "పరిశుద్ధుల విందులో ఆనందింతువు (2)"
+      ],
+      "english": [
+        "Prabhu Yesu naamamandhu vishwasinchinaa",
+        "Pavithraa rakthamulo kaduga baduduvu (2)",
+        "Parishuddhula vindulo aanandhinthuvu (2)"
+      ]
+    }
+  ]
+}

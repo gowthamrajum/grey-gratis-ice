@@ -1,0 +1,40 @@
+{
+  "song_name": "తేజో మహా ప్రకాశ ప్రధాత శతకోట",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తేజో మహా ప్రకాశ ప్రధాత శతకోటి వందనం నమ్రత వందనం గతిలేని జీవితాన్ని వెలిగించిన కరుణమూర్తి నీకే . . నే నర్పితం"
+      ],
+      "english": [
+        "Tejo maha prakasa pradhata Satakoti vamdanam namrata vamdanam Gatileni jivitanni veligimchina karunamurti nike . . Ne narpitam"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దివి భువిని పాలించు రాజా సమస్సుమాంజలి నమస్సుమాంజలి నీ చరణ దాసునిగా నీ కాంతి ప్రకాశింపచేలా మలచుము . . నన్ను"
+      ],
+      "english": [
+        "Divi buvini palimchu raja Samassumamjali namassumamjali Ni charana dasuniga ni kamti prakasimpachela malachumu . . Nannu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నరావతార దివ్య రూపా నిత్యజీవ వరదా యేసు పాహిమాం సర్వసృష్టి కారకుండా పాపరహిత పావనుండా ప్రభాత . . స్తోత్రం"
+      ],
+      "english": [
+        "Naravatara divya rupa Nityajiva varada yesu pahimam Sarvasrushti karakumda paparahita pavanumda prabata . . sthothram"
+      ]
+    }
+  ]
+}

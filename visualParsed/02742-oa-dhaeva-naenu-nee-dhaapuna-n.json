@@ -1,0 +1,74 @@
+{
+  "song_name": "O Deva nenu nee daapuna nundedhan",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "మత్తయి సమూయేలు"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ దేవ నేను నీ దాపున నుండెదన్ నీ దాపున నుండెదన్ నా దేవ",
+      "నను లేపు నవి సిల్వ శ్రమలైనన్ నీ దాపున నుండు నీ సేవకుని పాట",
+      "||ఓ దేవ||"
+    ],
+    "english": [
+      "O Deva nenu nee daapuna nundedhan nee daapuna nundedhan naa Deva",
+      "Nanu lepu navi silva shramalainan nee daapuna nundu nee sevakuni paata",
+      "||O Deva||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "బాటసారి లాగు నేఁడు భానుఁడు గ్రుంకి మేటి చీఁకటి గ్రమ్మినన్",
+        "నేటి విశ్రాంతికిఁ జోటు బండయైనన్ మాటిమాటికిఁ గలలో సూటిగా",
+        "నినుఁదలఁతు  ||ఓ||"
+      ],
+      "english": [
+        "Baatasaari laagu nedu bhaanudu grunki meti cheekati gramminan",
+        "Neti vishraanthiki jotu bandayainan maatimaatiki galalo sootigaa",
+        "Ninudhalathu  ||O||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆకాశ మండల మార్గంబు నెప్పుడు నా కీవు చూపించుమా నీ",
+        "కూర్మిచే నాకుఁ జేకూరు నంతయు లోకేశ్వర దూత లే కోరి ననుఁ",
+        "బిలువ  ||ఓ||"
+      ],
+      "english": [
+        "Aakaasha mandala maargambu neppudu naa keevu choopinchumaa nee",
+        "Koormiche naaku jekooru nanthayu lokeshvara dootha le kori nanu",
+        "Biluva  ||O||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీకు స్తోత్రము చేసి యపుడు నా మదిలోని ప్రాకటంబగు నెనరుతో",
+        "భీకరము లైన శోకంబు లను రాళ్లన్ నీకు నాలయంబు నేఁగట్టె దను",
+        "గర్తా  ||ఓ||"
+      ],
+      "english": [
+        "Neeku sthothramu chesi yapudu naa madhiloni praakatambagu nenarutho",
+        "Bheekaramu laina shokambu lanu raallan neeku naalayambu negatte dhanu",
+        "Garthaa  ||O||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సంతసంపు రెక్క లెత్తి నాకమునందు నెంత పైకి లేచినన్ వింతగ",
+        "జ్యోతుల వితతి మించి నేన త్యంత మెగసినను నీ చెంత కేగును బాట  ||ఓ||"
+      ],
+      "english": [
+        "Santhasampu rekka letthi naakamunandhu nentha paiki lechinan vinthaga",
+        "Jyothula vithathi minchi nena thyantha megasinanu nee chentha kegunu baata  ||O||"
+      ]
+    }
+  ]
+}

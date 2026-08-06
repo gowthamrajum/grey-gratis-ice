@@ -1,0 +1,53 @@
+{
+  "song_name": "Sharanuao Jochchithi Yaesunaad",
+  "author": {
+    "Authored by": "",
+    "రచన": "మిక్కిలి సమూయేలు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "శరణుఁ జొచ్చితి యేసునాధుఁడ శక్తిహీనతఁ గల్గె నా దరణ మిమ్మిల నెవ్వఁ బొందితి దవ్వుసేయక కావవే ||శరణు||"
+    ],
+    "english": [
+      "sharaNuAO jochchithi yaesunaaDhuAOda shakthiheenathAO galge naa dharaNa mimmila nevvAO boMdhithi dhavvusaeyaka kaavavae ||sharaNu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కరుణఁ జూడుము కన్న తండ్రివి కల్మషం బెడఁబాపవే మరణ మొందక మున్ను నన్నిల మార్పు నొందఁగఁ జేయవే ||శరణు||"
+      ],
+      "english": [
+        "karuNAO joodumu kanna thMdrivi kalmaShM bedAObaapavae maraNa moMdhaka munnu nannila maarpu noMdhAOgAO jaeyavae ||sharaNu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మొరను జెచ్చెర నాలకించుచు మోము నా దెసఁ జూపవే యురు పదంబుల సేవఁ జేసెద నుద్ధరించుము కూర్మితో ||శరణు||"
+      ],
+      "english": [
+        "moranu jechchera naalakiMchuchu moamu naa dhesAO joopavae yuru padhMbula saevAO jaesedha nudhDhariMchumu koormithoa ||sharaNu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తామస క్రియలందు వాంఛలు తాకకుండగఁ జేయవే క్షేమమైన సువార్త బోధల సిద్ధపడి విననీయవే ||శరణు||"
+      ],
+      "english": [
+        "thaamasa kriyalMdhu vaaMChalu thaakakuMdagAO jaeyavae kShaemamaina suvaartha boaDhala sidhDhapadi vinaneeyavae ||sharaNu||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "శ్రమలు చాల కల్గి యున్నను సైఁప నేర్పుము సత్కృపన్ గమిలి పోయెడి మాయ లోకపు గాంతి నీరస మంచు నీ ||శరణు||"
+      ],
+      "english": [
+        "shramalu chaala kalgi yunnanu saiAOpa naerpumu sathkrupan gamili poayedi maaya loakapu gaaMthi neerasa mMchu nee ||sharaNu||"
+      ]
+    }
+  ]
+}

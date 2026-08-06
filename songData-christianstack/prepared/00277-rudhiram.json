@@ -1,0 +1,48 @@
+{
+  "song_name": "Rudhiram",
+  "author": {
+    "Authored by": "Pastor Edurumondi John Chakravarthy",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కలువరి గిరి సాక్ష్యమా పాపికై ఇంతటి బలియాగమా",
+      "కాలమే ఎన్నడు చూడని ఘోరమా నరులకై ఇంతటి త్యాగమా",
+      "దేవుని ప్రేమ ఇదే కదా లోకమూ పొందెను విడుదల"
+    ],
+    "english": [
+      "Siluva baruvaayena rudhiram dhaaralaayenaa",
+      "dheham naligipoyenaa dhaivam siluva mosenaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సిలువ బరువయెనా రుధిరం ధారలయేనా",
+        "దేహం నలిగిపోయెనా దైవం సిలువ మోసెనా"
+      ],
+      "english": [
+        "Pre-chorus:",
+        "Kaluvari giri saakshama paapikai inthati baliyaagamaa",
+        "kaalame ennadu choodani ghoramaa narulakai inthati thyaagamaa",
+        "dhevuni prema idhey kadaa lokamu pondhenu vidudhala"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఏ నేరము లేకున్ననూ అన్యాయపూ తీర్పు పొందెను",
+        "ప్రతి దోషమూ తొలగించగా బలియాయెను తానే గొఱ్ఱెపిల్లగా",
+        "ప్రతి నరునికై విమోచన ధనముగా ఆ దేవుడే ప్రాణమునర్పించెను",
+        "జీవమూ అందరికివ్వనూ విగత జీవిగా సిలువలో వ్రేలడెను"
+      ],
+      "english": [
+        "Ey neramu lekunnanu anyaayapu theerpu pondhenu",
+        "prathi dhoshamu tholaginchagaa baliyaayenu thaane gorrepillagaa",
+        "prathi narunikai vimochana dhanamugaa aa dhevude praanamu narpinchenu",
+        "jeevamu andharikivvanu vigatha jeevigaa siluvalo vrelaadenu"
+      ]
+    }
+  ]
+}

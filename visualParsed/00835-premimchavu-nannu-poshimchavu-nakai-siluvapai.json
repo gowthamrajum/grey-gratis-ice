@@ -1,0 +1,54 @@
+{
+  "song_name": "Preminchaavu nannu poshinchaavu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రేమించావు నన్ను పోషించావు",
+      "నాకై సిలువపై ప్రాణమిచ్చావు (2)",
+      "నాకై సిలువపై బాధనొందావు",
+      "నాకై సిలువపై రక్తమిచ్చావు (2)"
+    ],
+    "english": [
+      "Preminchaavu nannu poshinchaavu",
+      "Naakai siluvapai praanamichchaavu (2)",
+      "Naakai siluvapai baadhanondaavu",
+      "Naakai siluvapai rakthamichchaavu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా తలంపులను బట్టి నీ తలకు ముళ్ళు",
+        "నే చేసిన హత్యలకే నీ చేతులకు మేకులు (2)",
+        "పాపిని ఆదరించావు",
+        "నా సిలువ నీ వీపుపై మోసావు (2)"
+      ],
+      "english": [
+        "Naa thalampulanu batti nee thalaku mullu",
+        "Ne chesina hathyalake nee chethulaku mekulu (2)",
+        "Paapini aadarinchaavu",
+        "Naa siluva nee veepupai mosaavu (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా కాళ్ళ నడకలకై నీ కాళ్ళకు సీలలు",
+        "నే చేసిన పాపముకై నీ ప్రక్కన బల్లెము (2)",
+        "పాపిని కరుణజూపావు",
+        "నా సిలువ నీ భుజముపై మోసావు (2)"
+      ],
+      "english": [
+        "Naa kaalla nadakalakai nee kaallaku seelalu",
+        "Ne chesina paapamukai nee prakkana ballemu (2)",
+        "Paapini karunajoopaavu",
+        "Naa siluva nee bhujamupai mosaavu (2)"
+      ]
+    }
+  ]
+}

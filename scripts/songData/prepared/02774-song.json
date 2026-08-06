@@ -1,0 +1,43 @@
+{
+  "song_name": "Yaesuni Chaethulandu Yaesuni Rommunan",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఫ్రాన్సెస్ జీన్వేన్ ఆల్స్టీన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసుని చేతులందు యేసుని రొమ్మునన్ నాకు నభయమందు అందె పరుండెదన్",
+      "కీర్తన వింటివా? నా మన మందునుండి పొందు సుఖం బహా!"
+    ],
+    "english": [
+      "Yaesuni Chaethulandu Yaesuni Rommunan Naaku Nabhayamandu Ande Parundedhan",
+      "Keerthana Vintivaa? Naa Mana Mandunundi Pondu Sukham Bahaa!"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసుని చేతులందు మిక్కిలి క్షేమము జేరెడ నింక నాక",
+        "ఏ దుఃఖ బాధలైన నచ్చోటఁ జేరవు పాపపు భీతిబాధ లంటవు నన్నటన్",
+        "కన్నీరు సందియంబుల్ కొన్ని దినా లిటన్"
+      ],
+      "english": [
+        "Yaesuni Chaethulandu Mikkili Kshaemamu Jaereda Ninka Naaka",
+        "Ae Dhuhkha Baadhalaina Nachchota Jaeravu Paapapu Bheethibaadha Lantavu Nannatan",
+        "Kanneeru Sandhiyambul Konni Dhinaa Litan"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసె నా యాశ్రయంబు నాకై చావొందెఁగా గొల్గోతయందు నుండు నా గురి సర్వదా",
+        "చీఁకటి దాఁటుదాఁక నోర్పుతో నుండెదన్ జేరెద నుండెదన్ మంచును నమ్మెదన్"
+      ],
+      "english": [
+        "Yaese Naa Yaashrayambu Naakai Chaavondhegaa Golgoathayandu Nundu Naa Guri Sarvadhaa",
+        "Cheekati Dhaatudhaaka Noarputhoa Nundedhan Jaereda Nundedhan Manchunu Nammedhan"
+      ]
+    }
+  ]
+}

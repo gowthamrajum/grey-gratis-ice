@@ -1,0 +1,48 @@
+{
+  "song_name": "Thejo mahaa prakaasha pradhaatha",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "తేజో మహా ప్రకాశ ప్రధాత",
+      "శతకోటి వందనం నమ్రత వందనం",
+      "గతిలేని జీవితాన్ని వెలిగించిన కరుణమూర్తి నీకే . . నే నర్పితం"
+    ],
+    "english": [
+      "Thejo mahaa prakaasha pradhaatha",
+      "Shathakoti vandanam namratha vandanam",
+      "Gathileni jeevithaanni veliginchina karunamoorthi neeke . . ne narpitham"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దివి భువిని పాలించు రాజా",
+        "సమస్సుమాంజలి నమస్సుమాంజలి",
+        "నీ చరణ దాసునిగా నీ కాంతి ప్రకాశింపచేలా మలచుము . . నన్ను"
+      ],
+      "english": [
+        "Divi bhuvini paalinchu raajaa",
+        "Namassumaanjali namassumaanjali",
+        "Nee charana dhaasunigaa nee kaanthi prakaashimpachelaa malachumu . . nannu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నరావతార దివ్య రూపా",
+        "నిత్యజీవ వరదా యేసు పాహిమాం",
+        "సర్వసృష్టి కారకుండా పాపరహిత పావనుండా ప్రభాత . . స్తోత్రం"
+      ],
+      "english": [
+        "Naraavathaara divya roopaa",
+        "Nithyajeeva varadhaa Yesu paahimaam",
+        "Sarvasrushti kaarakundaa paaparahitha paavanundaa prabhaatha . . sthothram"
+      ]
+    }
+  ]
+}

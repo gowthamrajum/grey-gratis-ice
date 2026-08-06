@@ -1,0 +1,72 @@
+{
+  "song_name": "Kaalamantha",
+  "author": {
+    "Authored by": "Ps. T Job Das",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కాలమంత ముందుకింక గడుచుచుండగ",
+      "మనసునిండి సంతసం ఉబుకుచున్నది",
+      "తిరిగిరాదు గతకాలము",
+      "ఆగిపోదు మనకోసము",
+      "అనుభవించు ప్రతినిమిషము",
+      "మన యేసురాజు కృపయె చాలును"
+    ],
+    "english": [
+      "Kaalamantha mundukinka gaduchuchundaga",
+      "manasunindi santhasam ubukuchunnadhi",
+      "thirigiraadu gathakaalamu",
+      "aagipoodhu manakoosamu",
+      "anibhavinchu prathinimishamu",
+      "mana yeasu raaju krupaye chaalunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాతబాధ పాతగోల విడిచిపెట్టు మర్చిపో",
+        "క్రొత్తయేట క్రొత్తబాట ఎన్నుకొని సాగిపో",
+        "యేసునే తలచుకో ప్రతిపూట",
+        "నిన్ను ఒంటరిగా ఉంచడు ఏ చోట"
+      ],
+      "english": [
+        "Paathabaadha paathagoola vidichipettu marchipoo krotthayeata",
+        "krotthabaata ennukoni saagipoo",
+        "yeasunea thalachukoo prathipuuta",
+        "ninnu oktarigaa unchadu ea choota"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అందమైన ఈ ఒక్కజన్మ యేసురాజు దానము",
+        "దీర్ఘమైన ఆయుష్కాలం పొడిగించే ప్రేమతో",
+        "ఇదే నీకు ఆఖరివత్సరమేమో",
+        "బహు సిద్ధపడి ఉండు నీ ప్రభుకోసం"
+      ],
+      "english": [
+        "Andamaina ee okkajanma yeasuraaju dhaanamu",
+        "dheerghamaina aayushkaalam podiginchea preamathoo",
+        "idhea neeku aakharivathsarameamoo",
+        "bahu siddhapadi undu nii prabhukoosam"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నవ్వుతున్న నీ ముఖంపైన బాధలన్నీ చూపకు",
+        "ప్రార్ధనందు వాక్యమందు కలుగు నూతనత్వము",
+        "పూర్వకాల దీవెనలు తలచుకో",
+        "మరి ఎన్నో కలిగేలాగా చూసుకో"
+      ],
+      "english": [
+        "Navvuthunna nii mukhampaina baadhalanii chuupaku",
+        "praarthanadhu vaakyamandhu kalugu nuuthanathvamu",
+        "puurvakaala dhiivenalu thalachukoo",
+        "mari ennoo kaligealaagaa chuusukoo"
+      ]
+    }
+  ]
+}

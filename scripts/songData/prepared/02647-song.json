@@ -1,0 +1,45 @@
+{
+  "song_name": "Oa Yaesu Rakshakaa Nee Pilpu Vindhunu",
+  "author": {
+    "Authored by": "",
+    "రచన": "లూయిన్ హార్టాస్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ యేసు, రక్షకా నీ పిల్పు విందును",
+      "కల్వరి పై నా పాపము నివృత్తి చేసితి.",
+      "యేసు, వచ్చెదన్ నన్ను ఁ జేర్చుము నన్",
+      "నీ రక్తమందున పవిత్ర పర్చుము"
+    ],
+    "english": [
+      "Oa Yaesu, Rakshakaa Nee Pilpu Vindhunu",
+      "Kalvari Pai Naa Paapamu Nivruththi Chaesithi.",
+      "Yaesu, Vachchedhan Nannu Jaerchumu Nan",
+      "Nee Rakthamandhuna Pavithra Parchumu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నేనైతే పాపిని నీవే నా ప్రాపపు",
+        "నా దోష మెల్ల కడిగి పవిత్రపర్చుము"
+      ],
+      "english": [
+        "Naenaithae Paapini Neevae Naa Praapapu",
+        "Naa Dhoasha Mella Kadigi Pavithraparchumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అశక్తుఁ డనౌ నన్ నీవే స్థాపించుము",
+        "విశ్వాస ధైర్య బలముల్ నాలో ఁ బుట్టించుము"
+      ],
+      "english": [
+        "Ashakthu Danau Nan Neevae Sthaapinchumu",
+        "Vishvaasa Dhairya Balamul Naaloa Buttinchumu"
+      ]
+    }
+  ]
+}

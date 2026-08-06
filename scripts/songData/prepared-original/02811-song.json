@@ -1,0 +1,40 @@
+{
+  "song_name": "రేపు మాపు గూడరమ్య మైన గింజల్",
+  "author": {
+    "Authored by": "",
+    "రచన": "కె షా"
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రేపు మాపు గూడరమ్య మైన గింజల్ ప్రీతితోను జల్లి వేచియుందము కాపుతోడ నుండి దాపు నుండు పంట ఏపు మీరఁ పంటఁకోసి కొందము ||పంట పండగన్ కోసికొందము కంట నీరు పోవఁ కోసికొదము||"
+      ],
+      "english": [
+        "raepu maapu goodaramya maina giMjal preethithoanu jalli vaechiyuMdhamu kaaputhoada nuMdi dhaapu nuMdu pMta aepu meerAO pMtAOkoasi koMdhamu ||pMta pMdagan koasikoMdhamu kMta neeru poavAO koasikodhamu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సందియంబు లేల స్వామి సేవ యందు వందనంబు తోడ విత్తుచుందము కొందలంబు లేక కష్టవృత్తి చేసి యందరంబు చేరి యానందింతము"
+      ],
+      "english": [
+        "sMdhiyMbu laela svaami saeva yMdhu vMdhanMbu thoada viththuchuMdhamu koMdhalMbu laeka kaShtavruththi chaesi yMdharMbu chaeri yaanMdhiMthamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రేమ విత్తనంబుల్ క్షేమయంకు రంబుల్ ప్రీతిన్ కాల మెల్ల ప్రాంతమం తటన్ సేమ మొప్ప నాటినాయకుండు రాఁగన్ నిండు పంటఁ కోసం గూర్చుకొం దము."
+      ],
+      "english": [
+        "praema viththanMbul kShaemayMku rMbul preethin kaala mella praaMthamM thatan saema moppa naatinaayakuMdu raaAOgan niMdu pMtAO koasM goorchukoM dhamu."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "song_name": "Shaashvathudaa vismayamondhi nenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "కార్ల్ బోబెర్గ్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "శాశ్వతుడా! విస్మయమొంది నేను",
+      "నీ స్వంతహస్త సృష్టిజూడగా",
+      "నీ స్వరం విందున్ ఉరుములయందు",
+      "యేసు ప్రభూ నిన్నారాధింతును",
+      "||ఓ రక్షకా! నీ స్తుతి పాడెదన్",
+      "నూరంతలన్ మహాదేవా",
+      "నా రక్షకా! నమస్కరింతునిన్",
+      "మారని యో మహాదేవా||"
+    ],
+    "english": [
+      "Shaashvathudaa! vismayamondhi nenu",
+      "Nee svanthahastha srushtijoodagaa",
+      "Nee swaram vindhun urumulayandhu",
+      "Yesu prabhoo ninnaaraadhinthunu",
+      "||O rakshakaa! Nee sthuthi paadedan",
+      "Nooranthalan mahaadhevaa",
+      "Naa rakshakaa! namaskarinthunin",
+      "Maarani yo mahaadhevaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వృక్షంబులందున్, అడవులలోనే",
+        "పక్షుల పాటలాలకింతును",
+        "తక్షణ మగ్రపర్వతంబు నుండి",
+        "అక్షులతో నీ మహిమ గందున్."
+      ],
+      "english": [
+        "Vrukshambulandhun, adavulalone",
+        "Pakshula paatalaalakinthunu",
+        "Thakshana magraparvathambu nundi",
+        "Akshulatho nee mahima gandhun."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మహాదేవా! నీయేక పుత్రుండిలన్",
+        "నా హేయపాపముల్ భరించి, నా",
+        "సహాయుడై తా మరణించె నంచు",
+        "ఓహో! యాశ్చర్యపడి స్మరింతున్."
+      ],
+      "english": [
+        "Mahaadhevaa! neeyeka puthrundilan",
+        "Naa heyapaapamul bharinchi, naa",
+        "Sahaayudai thaa maraninche nanchu",
+        "Oho! yaashcharyapadi smarinthun."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "క్రీస్తు విజయార్భాటముతో వచ్చి",
+        "నీ స్థలమందు నన్ను జేర్చగా",
+        "నే స్థిరతుష్టితో సాష్టాంగపడి",
+        "నీ స్తుతి జేతునో మహాదేవా."
+      ],
+      "english": [
+        "Kreesthu vijayaarbhaatamutho vachchi",
+        "Nee sthalamandu nannu jerchagaa",
+        "Ne sthirathushtitho saashtaangapadi",
+        "Nee sthuthi jethuno mahaadhevaa."
+      ]
+    }
+  ]
+}

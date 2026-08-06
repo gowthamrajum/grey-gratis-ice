@@ -1,0 +1,54 @@
+{
+  "song_name": "Manishi O Manishi O Manishi",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మనిషీ ఓ మనిషీ ఓ మనిషీ నీవెవరు",
+      "యాక్టరువైనా, డాక్టరువైనా, మంత్రివైనా ధనవంతుడివైనా",
+      "బ్రతికుండగానే పేరున్నవాడవు మరణించగానే శవానివి"
+    ],
+    "english": [
+      "Manishi O Manishi O Manishi Nivevaru",
+      "Yaktaruvaina, Daktaruvaina, Mamtrivaina Dhanavamtudivaina",
+      "Bratikumdagane Perunnavadavu Maranimchagane Savanivi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మనిషి పుట్టింది ఒకని నుండే మరణమొచ్చింది ఆ ఒకని నుండే",
+        "మనుషులంతా ఒక్కటే అందరి దేవుడు ఒక్కడే"
+      ],
+      "english": [
+        "Manishi Puttimdi Okani Numde Maranamochchimdi A Okani Numde",
+        "Manushulamta Okkate Amdari Devudu Okkade"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కులమే లేదు మతమే లేదు ప్రాంతీయ తత్వమే లేనేలేదు",
+        "మొదటి మనిషికి లేదు కులం మనిషిని చేసిన దేవుని దే కులం"
+      ],
+      "english": [
+        "Kulame Ledu Matame Ledu Pramtiya Tatvame Leneledu",
+        "Modati Manishiki Ledu Kulam Manishini Chesina Devuni De Kulam"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మనిషికి పుడితే మనుష్య కుమారుడు రాజుకు పుడితే రాజ కుమారుడు",
+        "దేవునికి పుడితే దైవ కుమారుడు మనుష్యులంతా దైవ కుమారులే"
+      ],
+      "english": [
+        "Manishiki Pudite Manushya Kumarudu Rajuku Pudite Raja Kumarudu",
+        "Devuniki Pudite Daiva Kumarudu Manushyulamta Daiva Kumarule"
+      ]
+    }
+  ]
+}

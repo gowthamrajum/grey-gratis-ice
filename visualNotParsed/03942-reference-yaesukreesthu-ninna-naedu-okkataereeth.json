@@ -1,0 +1,97 @@
+{
+  "song_name": "Yesukreesthu ninna nedu ekareethigane",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసుక్రీస్తు నిన్న నేడు ఏకరీతిగనే యున్నాడు",
+      "యుగయుగముల వరకు తానే ఒక్కటే రీతిగా నుండును"
+    ],
+    "english": [
+      "Yesukreesthu ninna nedu ekareethigane yunnaadu",
+      "Yugayugamula varaku thaane okkate reethigaa nundunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అన్నిటికంటె ముందుగ నున్న - అల్ఫాగ తానై యుండి",
+        "తనయందు మనల పూర్ణులజేసె - ఓమెగ తానైయుండి"
+      ],
+      "english": [
+        "Annitikante mundhuga nunna - Alphaaga thaanai yundi",
+        "Thanayandhu manala poornulajese - Omega thaanaiyundi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "లోకము పుట్టక మునుపే తాను మహిమలో తండ్రితో నుండె",
+        "ప్రేమను పొందిన తానే మనకై - శాశ్వత ప్రేమను జూపె"
+      ],
+      "english": [
+        "Lokamu puttaka munupe thaanu mahimalo thandritho nunde",
+        "Premanu pondina thaane manakai - Shaashwatha premanu joope"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అనేకులైన కుమారులను - మహిమకు తెచ్చుటకై",
+        "రక్షణ కర్తను శ్రమల ద్వారా - సంపూర్ణుని జేసె తండ్రి"
+      ],
+      "english": [
+        "Anekulaina kumaarulanu - Mahimaku thechchutakai",
+        "Rakshana karthanu shramala dwaaraa - Sampoornuni jese thandri"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "జగదుత్పత్తి మొదలుకొని - వధియింప బడియున్న",
+        "దేవుని గొర్రెపిల్లగ తానై - పరమందారాధన నొందు"
+      ],
+      "english": [
+        "Jagadhuthpatthi modalukoni - Vadhiyimpa badiyunna",
+        "Devuni gorrepillaga thaanai - Paramandhaaraadhana nondhu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నిత్యము నిలచు తన నామంబు - నూతన సృష్టియందు",
+        "తన సేవకుల సంతతి తనతో - తరతరముల వరకుండున్"
+      ],
+      "english": [
+        "Nithyamu nilachu thana naamambu - Noothana srushtiyandhu",
+        "Thana sevakula santhathi thanatho - Tharatharamula varakundun"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "అధికంబైన కృప మహిమన్ - యుగయుగములయందు జూపన్",
+        "మనలను లేపి కూర్చుండబెట్టె - క్రీస్తుతో మన తండ్రి"
+      ],
+      "english": [
+        "Adhikambaina krupa mahiman - Yugayugamulayandhu joopan",
+        "Manalanu lepi koorchundabette - Kreesthutho mana thandri"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "ఇట్టి మహిమన్ పొందుటకై - మనమంత తనతో గూడ",
+        "శిబిరము వెలుపట నిందల నోర్చి - వెళ్ళుద మాయనతో"
+      ],
+      "english": [
+        "Itti mahiman pondutakai - Manamantha thanatho gooda",
+        "Shibiramu velupata nindala norchi - Velludha maayanatho"
+      ]
+    }
+  ]
+}

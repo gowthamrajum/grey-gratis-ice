@@ -1,0 +1,71 @@
+{
+  "song_name": "Pranuthimthumu Maa Yehoavaa Paripoorna Mahima Prabhaavaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రణుతింతుము మా యెహోవా పరిపూర్ణ మహిమ ప్రభావా",
+      "ప్రబలెన్ నీ రక్షణ మా విభవా"
+    ],
+    "english": [
+      "Pranuthimthumu Maa Yehoavaa Paripoorna Mahima Prabhaavaa",
+      "Prabalen Nee Rakshana Maa Vibhavaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నేను నిదురబోయి మేలు కొందును",
+        "నాపైన పదివేలు మోహరించినను",
+        "నేనెన్నడు వెరువబోను"
+      ],
+      "english": [
+        "Naenu Nidhuraboayi Maelu Komdhunu",
+        "Naapaina Padhivaelu Moaharimchinanu",
+        "Naenennadu Veruvaboanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా మీదికి లేచి భాధించువారు",
+        "వానికి రక్షణ లేదనువారు",
+        "వేలాదిగా నిల్చినారు"
+      ],
+      "english": [
+        "Naa Meedhiki Laechi Bhaadhimchuvaaru",
+        "Vaaniki Rakshana Laedhanuvaaru",
+        "Vaelaadhigaa Nilchinaaru"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యెలుగెత్తి యెహోవా సన్నిధియందు",
+        "విలపించి వేడినయట్టి దినమందు",
+        "వింతగ రక్షించితివంచు"
+      ],
+      "english": [
+        "Yelugeththi Yehoavaa Sannidhiyamdhu",
+        "Vilapimchi Vaedinayatti Dhinamamdhu",
+        "Vimthaga Rakshimchithivamchu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "రక్షణనిచ్చుట మన యెహోవాది",
+        "రారాజు ప్రజలకు ఆశీర్వాదంబు",
+        "రంజిల్లు నీ ధరణియందు"
+      ],
+      "english": [
+        "Rakshananichchuta Mana Yehoavaadhi",
+        "Raaraaju Prajalaku Aasheervaadhambu",
+        "Ramjillu Nee Dharaniyamdhu"
+      ]
+    }
+  ]
+}

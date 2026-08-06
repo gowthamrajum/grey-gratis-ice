@@ -1,0 +1,67 @@
+{
+  "song_name": "Bratikedanu Prabhu Ni Kosame",
+  "author": {
+    "Authored by": "Pastor William Carey Paul",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "బ్రతికేదను ప్రభు నీకోసమే",
+      "బ్రతికేదను ప్రభు నీకోసమే",
+      "యేసయ్యా యేసయ్యా నీతోనే నా జీవితం"
+    ],
+    "english": [
+      "Brathikedhanu Prabhu neekosame",
+      "Brathikedhanu Prabhu neekosame",
+      "Yesayya, Yesayya, neethone naa jeevitham"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇరుకునందుండి మొరపెట్టితిని",
+        "విశాల స్థలమందు ఉత్తరమిచ్చితివి",
+        "యెహోవా నా పక్షమై ఉండగా",
+        "భయపడను నే నేనరునికి"
+      ],
+      "english": [
+        "Irukunandhundi morapettithini",
+        "Vishaala sthalamandhu uttharamichchithivi",
+        "Yehova naa pakshamai undaga",
+        "Bhayapadanu ne nenaruniki"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అరణ్యమును నీటి మడుగులుగా",
+        "ఎండిన నేలను నీటి ఊటలుగా",
+        "చేసితివి నాకొరకేగా తడిపేదను నీ తోటను",
+        "యేసయ్యా…."
+      ],
+      "english": [
+        "Aranyamunu neeti maduguluga",
+        "Endina nelanu neeti ootalugu",
+        "Chesitivi naakorakega thadipedhanu nee thotanu",
+        "Yesayya…"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బలహీనుడనని ఏడ్చితిని",
+        "నీ బాహువు నిచ్చి బలపరచితివి",
+        "అణచేదను శత్రువులను సాగేదను నీ సేవలో",
+        "యేసయ్యా…."
+      ],
+      "english": [
+        "Balaheenudanani yedchithini",
+        "Nee baahuvu nichchi balaparachithivi",
+        "Anachedhanu shathruvulanu",
+        "Sagedhanu nee sevallo",
+        "Yesayya…"
+      ]
+    }
+  ]
+}

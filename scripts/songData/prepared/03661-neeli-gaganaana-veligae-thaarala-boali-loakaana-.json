@@ -1,0 +1,52 @@
+{
+  "song_name": "Neeli Gaganaana Veligae Thaarala Boali Loakaana Velugudham",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీలి గగనాన వెలిగే తారల - బోలి లోకాన వెలుగుదం",
+      "మధుర స్వరంపు పక్షుల బోలి - యేసునకే స్తుతి పాడుదం"
+    ],
+    "english": [
+      "Neeli Gaganaana Veligae Thaarala - Boali Loakaana Velugudham",
+      "Madhura Svarampu Pakshula Boali - Yaesunakae Sthuthi Paadudham"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పువ్వుల పరిమళంబు లెల్ల తోటలో వ్యాపించునట్లుగా",
+        "పూనికతోడ లోకమనెడి - తోటలో పరిమళం నింపుము"
+      ],
+      "english": [
+        "Puvvula Parimalambu Lella Thoataloa Vyaapinchunatlugaa",
+        "Poonikathoada Loakamanedi - Thoataloa Parimalam Nimpumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చంద్ర సూర్యులు ప్రకాశమివ్వ అంధకారము మాయమౌ",
+        "నీదు జీవిత తేజంబు వెల్గన్ - పాపాంధకారము పోవును"
+      ],
+      "english": [
+        "Chandhra Sooryulu Prakaashamivva Andhakaaramu Maayamau",
+        "Needhu Jeevitha Thaejambu Velgan - Paapaandhakaaramu Poavunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దీపమున తైలమున్నంత కాలం - దీపమునందున్న వత్తి మండున్",
+        "ఈ పృధివిలోన జీవించు కాలం - వ్యాపింపజేయుము యేసునామం"
+      ],
+      "english": [
+        "Dheepamuna Thailamunnantha Kaalam - Dheepamunandhunna Vaththi Mandun",
+        "Ee Prudhiviloana Jeevinchu Kaalam - Vyaapimpajaeyumu Yaesunaamam"
+      ]
+    }
+  ]
+}

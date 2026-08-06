@@ -1,0 +1,104 @@
+{
+  "song_name": "Manamesuni vaaralamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మనమేసుని వారలము - తనవారిగానే యుందుము",
+      "మనలను రక్షించెను - తనకే స్తుతి పాడెదము"
+    ],
+    "english": [
+      "Manamesuni vaaralamu - Thanavaarigaane yundhumu",
+      "Manalanu rakshinchenu - Thanake sthuthi paadedamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కృపాసత్య సంపూర్ణ వాక్యము - నరరూపియాయెను",
+        "కనుగొంటిమి తండ్రి మహిమను - జనితైక కుమారునిలో",
+        "తన ప్రేమ అద్భుతమైనది - మనము కొనియాడెదము"
+      ],
+      "english": [
+        "Krupaasathya sampoorna vaakyamu - Nararoopiyaayenu",
+        "Kanugontimi thandri mahimanu - Janithaika kumaarunilo",
+        "Thana prema adbhuthamainadhi - Manamu koniyaadedhamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వారు ఆయన తట్టు చూడగా వెలుగు కలిగెను",
+        "మనలను తానే వెలిగించెను - తన వాక్యము ద్వారనే",
+        "ప్రభు వుత్తముడని యెరిగి - తనకే స్తుతి పాడెదము"
+      ],
+      "english": [
+        "Vaaru aayana thattu choodagaa velugu kaligenu",
+        "Manalanu thaane veliginchenu - Thana vaakyamu dwaarane",
+        "Prabhu vutthamudani erigi - Thanake sthuthi paadedamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దైవపుత్రుండు సజీవరాళ్ళతో - యింటిని కట్టుచున్నాడు",
+        "దేవుని తేజము రాగా - మహిమతో నిండె గృహము",
+        "ఆయన మందిరములో - తన మహిమను పాడెదము"
+      ],
+      "english": [
+        "Dhaivaputhrundu sajeevaraallatho - Intini kattuchunnaadu",
+        "Devuni thejamu raagaa - Mahimatho ninde gruhamu",
+        "Aayana mandiramulo - Thana mahimanu paadedamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఎందరిని ప్రభు ముందు యెరిగెనో - వారిని నిర్ణయించెను",
+        "పిలిచి నీతిగా తీర్చి - మహిమ పరచెను",
+        "తన తనయుని రూపమిచ్చె - మన మానంద మొందెదము"
+      ],
+      "english": [
+        "Endharini prabhu mundu erigeno - Vaarini nirnayinchenu",
+        "Pilichi neethigaa theerchi - Mahima parachenu",
+        "Thana thanayuni roopamichche - Mana maanandha mondhedhamu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పూర్ణమహిమతో మనప్రభు యేసు - దూతలతో వచ్చును",
+        "కనిపెట్టు వారెత్తబడెదరు - తన మహిమ పొందెదరు",
+        "తన రాజ్యముగా జేసె - హల్లెలూయ పాడెదము"
+      ],
+      "english": [
+        "Poornamahimatho manaprabhu Yesu - Doothalatho vachchunu",
+        "Kanipettu vaaretthabadedharu - Thana mahima pondedaru",
+        "Thana raajyamugaa jese - Hallelooya paadedamu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "మహిమ నివసించు మహిమ రాజ్యంబు",
+        "మహిమతో నిండి యుండును",
+        "మన ప్రభువే దీపమై యుండును",
+        "తన వెలుగు ప్రచురమగున్",
+        "యుగయుగములు మనమంతా",
+        "ప్రభుయేసుతో నుండెదము"
+      ],
+      "english": [
+        "Mahima nivasinchu mahima raajyambu",
+        "Mahimatho nindi yundunu",
+        "Mana prabhuve deepamai yundunu",
+        "Thana velugu prachuramagun",
+        "Yugayugamulu manamanthaa",
+        "Prabhuyesutho nundedhamu"
+      ]
+    }
+  ]
+}

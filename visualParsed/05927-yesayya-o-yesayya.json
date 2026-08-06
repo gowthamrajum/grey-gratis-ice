@@ -1,0 +1,63 @@
+{
+  "song_name": "Yesayyaa o Yesayyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసయ్యా ఓ యేసయ్యా ఆరాధ్యుడా నా పూజ్యనీయుడా",
+      "ఆశ్చర్యకార్యముల్ చేయువాడా స్తుతియింతు మనసారా",
+      "నీవే నాకు ఆధారము నీవే నాకు ఆశ్రయము",
+      "నీవే నా... జీవం నీవే నా... సర్వం (2)"
+    ],
+    "english": [
+      "Yesayyaa o Yesayyaa aaraadhyudaa naa poojyaneeyudaa",
+      "Aashcharyakaaryamul cheyuvaadaa sthuthiyinthu manasaaraa",
+      "Neeve naaku aadhaaramu neeve naaku aashrayamu",
+      "Neeve naa... jeevam neeve naa... sarvam (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ నడకను నాకు నేర్పుమయా నిను వెంబడించుటకు",
+        "నీ మాటలు నాకు నేర్పుమయా నిను నే చాటుటకు",
+        "నీవే నా... జీవం నీవే నా... సర్వం (2)"
+      ],
+      "english": [
+        "Nee nadakanu naaku nerpumayaa ninu vembadinchutaku",
+        "Nee maatalu naaku nerpumayaa ninu ne chaatutaku",
+        "Neeve naa... jeevam neeve naa... sarvam (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రార్థించుట నాకు నేర్పుమయా అదియే నాకు బలం",
+        "నీ చిత్తములో నడుపుమయా అదియే బహు క్షేమం",
+        "నీవే నా... జీవం నీవే నా... సర్వం (2)"
+      ],
+      "english": [
+        "Praarthinchuta naaku nerpumayaa adiye naaku balam",
+        "Nee chitthamulo nadupumayaa adiye bahu kshemam",
+        "Neeve naa... jeevam neeve naa... sarvam (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ ఆత్మతో నను నింపుమయా నీవలె నను మార్చు",
+        "నీ మహిమను నాకు చూపుమయా నిను నే ఘనపరతు",
+        "స్తుతియూ.. మహిమా. ఘనతా నీకే (2)"
+      ],
+      "english": [
+        "Nee aathmatho nanu nimpumayaa neevale nanu maarchu",
+        "Nee mahimanu naaku choopumayaa ninu ne ghanaparathu",
+        "Sthuthiyoo.. mahimaa. ghanathaa neeke (2)"
+      ]
+    }
+  ]
+}

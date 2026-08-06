@@ -1,0 +1,35 @@
+{
+  "song_name": "E Reethi Ni Runam",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏ రీతి నీ ఋణం తీర్చుకొందు నేసువా ఏ దిక్కు లేని నన్ను ప్రేమించి నావయా ఎంతో కృపను చూపి దీవించి నావయా ఏ రీతి నీ ఋణం తీర్చుకొందు నేసువా"
+    ],
+    "english": [
+      "Ye reeti ne runam teerchukondu nesuva /2/ Ye dikku leni nana preminchinaavaya Yento krupanu chupi nanu deevinchinaavaya.. /Ye reeti/"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపాల సంద్రమందున పయనించు వేళలో పాషాణ మనసు మార్చి పరిశుద్ధుని చేసావయా ॥ ఏ రీతి ॥"
+      ],
+      "english": [
+        "Papaala sandramanduna payaninchu velalo Pashana manasu maarchi (nanu) parishudduni chesavaya /2/Ye reeti/"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా పాప శిక్ష సిలువపై భరియించి నావయా నా దోషముల సహించి క్షమియించి నావయా ॥ ఏ రీతి ॥"
+      ],
+      "english": [
+        "Naa paapa siksha siluvapai bhariyinchinaavaya.. Na doshamulanu grahiyinchi (nanu) kshamiyinchinaavaya.. /2/Ye reeti/"
+      ]
+    }
+  ]
+}

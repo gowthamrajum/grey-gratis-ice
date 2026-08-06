@@ -1,0 +1,92 @@
+{
+  "song_name": "Vaededha Naadhagu Vinathini",
+  "author": {
+    "Authored by": "",
+    "రచన": "విలియం డాసన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "వేఁడెద నాదగు వినతిని గైకొనవే",
+      "జగదీశ ప్రభో నేఁడు ప్రతిక్షణ",
+      "మెడబాయక నా తోడ నుండవె ప్రభో"
+    ],
+    "english": [
+      "Vaededha Naadhagu Vinathini Gaikonavae",
+      "Jagadheesha Prabhoa Naedu Prathikshana",
+      "Medabaayaka Naa Thoada Nundave Prabhoa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రాతస్తవము భవత్సన్నిధి",
+        "సర్వంబున నగు నాదౌ చేతస్సున",
+        "ధర్మాత్మను సంస్థితిజేయవె సత్కృపను"
+      ],
+      "english": [
+        "Praathasthavamu Bhavathsannidhi",
+        "Sarvambuna Nagu Naadhau Chaethassuna",
+        "Dharmaathmanu Samsthithijaeyave Sathkrupanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేఁ బాతకి నజ్ఞానుఁడఁ ప్రభువా",
+        "నీవు కరుణజేయు పాపాచరణము",
+        "నందున జిత్తము బాపుము నాకెపుడు"
+      ],
+      "english": [
+        "Nae Baathaki Najnyaanuda Prabhuvaa",
+        "Neevu Karunajaeyu Paapaacharanamu",
+        "Nandhuna Jiththamu Baapumu Naakepudu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాపముఁ గని భీతుఁడనై",
+        "శంకా పరత సతము నుండన్",
+        "నా పైనుంచుము నీదగు",
+        "సత్కరుణా దృష్టిని బ్రేమన్"
+      ],
+      "english": [
+        "Paapamu Gani Bheethudanai",
+        "Shankaa Paratha Sathamu Nundan",
+        "Naa Painunchumu Needhagu",
+        "Sathkarunaa Dhrushtini Braeman"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నాదగు పాప భరం బంతయు",
+        "నీ మీఁదనె యిడుచుందున్",
+        "నీదు మహాకృప నుండి యొసంగుము",
+        "నిర్మల గతి నాకున్"
+      ],
+      "english": [
+        "Naadhagu Paapa Bharam Banthayu",
+        "Nee Meedhane Yiduchundhun",
+        "Needhu Mahaakrupa Nundi Yosangumu",
+        "Nirmala Gathi Naakun"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "అవిరత మతి నిటు లతులిత గతి",
+        "నీ స్తుతి నుతు లొనరింతున్",
+        "భవదంఘ్రలపై నాదగు భక్తిని",
+        "బ్రబలింపవే యేసు"
+      ],
+      "english": [
+        "Aviratha Mathi Nitu Lathulitha Gathi",
+        "Nee Sthuthi Nuthu Lonarinthun",
+        "Bhavadhanghralapai Naadhagu Bhakthini",
+        "Brabalimpavae Yaesu"
+      ]
+    }
+  ]
+}

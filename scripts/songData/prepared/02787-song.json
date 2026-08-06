@@ -1,0 +1,51 @@
+{
+  "song_name": "Dhaiva Praema Pruthviloani Yannitini",
+  "author": {
+    "Authored by": "",
+    "రచన": "చార్లెస్ వెస్లీ"
+  },
+  "main_stanza": {
+    "telugu": [
+      "దైవ ప్రేమ పృథ్విలోని యన్నిటిని మించును",
+      "యేసు మాలో నివసించు యది మా విముక్తియే నీ కమూల్య ప్రేమ యుండు",
+      "నీవు దాసుల మైన మమ్ముఁ గృపతో రక్షించుము."
+    ],
+    "english": [
+      "Dhaiva Praema Pruthviloani Yannitini Minchunu",
+      "Yaesu Maaloa Nivasinchu Yadhi Maa Vimukthiyae Nee Kamoolya Praema Yundu",
+      "Neevu Dhaasula Maina Mammun Grupathoa Rakshinchumu."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మమ్ము సంరక్షించు శక్తి నీకుండు, మా ప్రభువా",
+        "ఎన్నఁ డెనఁ డేని నీదు సన్నిధిని బాయుము",
+        "నిన్ స్తుతించుచుండి మేము సర్వదా సేవింతుము.",
+        "నిన్ బ్రార్థించి పూర్ణప్రేమ మే మతిశయింతుము"
+      ],
+      "english": [
+        "Mammu Samrakshinchu Shakthi Neekundu, Maa Prabhuvaa",
+        "Ennan Denan Daeni Needhu Sannidhini Baayumu",
+        "Nin Sthuthinchuchundi Maemu Sarvadhaa Saevinthumu.",
+        "Nin Braarthinchi Poornapraema Mae Mathishayinthumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "క్రొత్తగా మమ్ము సృజించి పాప మెల్లఁ బాపుము",
+        "మాకు స్వస్థత నొసంగి గొప్ప రక్షఁ జూపుము",
+        "భక్తి యభివృద్ది పొంది స్వర్గమందుఁ జేరగా",
+        "వింత నొంది ప్రేమ స్తుతి నీకర్పింతు మెప్పుడు."
+      ],
+      "english": [
+        "Kroththagaa Mammu Srujinchi Paapa Mellan Baapumu",
+        "Maaku Svasthatha Nosangi Goppa Rakshan Joopumu",
+        "Bhakthi Yabhivrudhdhi Pondhi Svargamandhun Jaeragaa",
+        "Vintha Nondhi Praema Sthuthi Neekarpinthu Meppudu."
+      ]
+    }
+  ]
+}

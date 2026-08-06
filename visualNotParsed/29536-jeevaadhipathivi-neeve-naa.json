@@ -1,0 +1,54 @@
+{
+  "song_name": "Jeevaadhipathivi neeve naa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "జీవాధిపతివి నీవే నా యేసయ్య",
+      "నాకున్న ఆధారము నీవేనయ్యా (2)",
+      "నీవుంటే చాలు, కీడు కాదా! మేలు",
+      "లెక్కింపగ తరమా! నే పొందిన ఈవులు (2) ||జీవాధిపతివి||"
+    ],
+    "english": [
+      "Jeevaadhipathivi neeve naa Yesayya",
+      "Naakunna aadhaaramu neevenayyaa (2)",
+      "Neevunte chaalu, keedu kaadaa! melu",
+      "Lekkimpaga tharamaa! ne pondina eevulu (2) ||Jeevaadhipathivi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎడారిలోన నీటి ఊట లిచ్చు వాడవు",
+        "అల సంద్రములో రహదారులు వేయు వెల్పువు (2)",
+        "నీకు కానిదేది సాధ్యము? అడుగుటే ఆలస్యము",
+        "నీవు చేయు కార్యము! ఉహించుటె అసాధ్యము (2) ||నీవుంటే||"
+      ],
+      "english": [
+        "Edaarilona neethi oota lichchu vaadavu",
+        "Ala sandramulo rahadaarulu veyu velpuvu (2)",
+        "Neeku kaanidhedhi saadhyamu? adugute aalasyamu",
+        "Neevu cheyu kaaryamu! oohinchute asaadhyamu (2) ||Neevunte||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రాజుల హృదయాలను తిప్పువాడవు",
+        "నిను నమ్ము వారి పక్షము పోరాడు వాడవు (2)",
+        "ఏ చీకటికి భయపడను, లోకమునకు లొంగను",
+        "నీవు తోడు ఉండగా, నా వెంట సాగుతుండగా (2) ||నీవుంటే||"
+      ],
+      "english": [
+        "Raajula hrudhayaalanu thippuvaadavu",
+        "Ninu nammu vaari pakshamu poraadu vaadavu (2)",
+        "E cheekatiki bhayapadanu, lokamunaku longanu",
+        "Neevu thodu undagaa, naa venta saaguthundagaa (2) ||Neevunte||"
+      ]
+    }
+  ]
+}

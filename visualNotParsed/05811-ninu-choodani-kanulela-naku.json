@@ -1,0 +1,113 @@
+{
+  "song_name": "Ninu choodani kanulela naaku",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "హల్లే హల్లే హల్లే హల్లేలూయ్యా",
+      "ఆమెన్ హల్లే హల్లే హల్లే హల్లేలూయ్యా ॥4॥"
+    ],
+    "english": [
+      "Halle halle halle halleluyyaa",
+      "Aamen halle halle halle halleluyyaa ||4||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిను చూడని కనులేల నాకు",
+        "నిను పాడని గొంతేలా నాకు",
+        "నిను ప్రకటింపని పెదవులేల ॥2॥"
+      ],
+      "english": [
+        "Ninu choodani kanulela naaku",
+        "Ninu paadani gonthelaa naaku",
+        "Ninu prakatimpani pedhavulela ||2||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిను స్మరియించని బ్రతుకు ఏల  ||హల్లే||",
+        "ఆమెన్  ||హల్లే||"
+      ],
+      "english": [
+        "Ninu smariyinchani brathuku ela  ||Halle||",
+        "Aamen  ||Halle||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నే పాపిగా జీవించగా",
+        "నీవు ప్రేమతో చూచావయ్యా",
+        "నాకు మరణము విధియింపగా ॥2॥"
+      ],
+      "english": [
+        "Ne paapigaa jeevinchagaa",
+        "Neevu prematho choochaavayyaa",
+        "Naaku maranamu vidhiyimpagaa ||2||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నాపై జాలిని చూపితివే",
+        "యేసయ్యా యేసయ్యా యేసయ్యా యేసయ్యా",
+        "యేసయ్యా అని మొఱపెట్టగా",
+        "నీ దయచేత దృష్టించినావే ॥2॥",
+        "॥నిను చూడని॥"
+      ],
+      "english": [
+        "Naapai jaalini choopithive",
+        "Yesayyaa Yesayyaa Yesayyaa Yesayyaa",
+        "Yesayyaa ani morapettagaa",
+        "Nee dhayachetha dhrushtinchinaave ||2||",
+        "||Ninu choodani||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నా శాపము తొలగించినావు",
+        "నా దోషము భరియించినావు",
+        "నాకు జీవంమార్గం నీవైతివయ్యా ॥2॥"
+      ],
+      "english": [
+        "Naa shaapamu tholaginchinaavu",
+        "Naa doshamu bhariyinchinaavu",
+        "Naaku jeevamaargam neevaithivayyaa ||2||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నిత్యం నరకాన్ని తప్పించినావు",
+        "యేసయ్యా యేసయ్యా యేసయ్యా యేసయ్యా",
+        "యేసయ్యా అని విలపించగా",
+        "నీ కృప చేత రక్షించినావు ॥2॥",
+        "॥నిను చూడని॥"
+      ],
+      "english": [
+        "Nithyam narakaanni thappinchinaavu",
+        "Yesayyaa Yesayyaa Yesayyaa Yesayyaa",
+        "Yesayyaa ani vilapinchagaa",
+        "Nee krupa chetha rakshinchinaavu ||2||",
+        "||Ninu choodani||"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "ఆమెన్  ||హల్లే||"
+      ],
+      "english": [
+        "Aamen  ||Halle||"
+      ]
+    }
+  ]
+}

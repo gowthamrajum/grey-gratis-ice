@@ -1,0 +1,52 @@
+{
+  "song_name": "Mahima Ghanathaku Arhudavu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మహిమ ఘనతకు అర్హుడవు",
+      "నీవే నా దైవము",
+      "సృష్టికర్త ముక్తి దాత",
+      "మా స్తుతులకు పాత్రుడా",
+      "ఆరాధనా నీకే ఆరాధనా నీకే",
+      "ఆరాధనా స్తుతి ఆరాధనా ఆరాధనా నీకే",
+      "ఆరాధనా నీకే ఆరాధనా నీకే"
+    ],
+    "english": [
+      "Mahima Ghanathaku Arhudavu",
+      "Neeve Naa Daivamu",
+      "Srushtikartha Mukthi Daatha",
+      "Maa Sthuthulaku Paathrudaa",
+      "Aaraadhanaa Neeke Aaraadhanaa Neeke",
+      "Aaraadhanaa Sthuthi Aaraadhanaa Aaraadhanaa Neeke",
+      "Aaraadhanaa Neeke Aaraadhanaa Neeke"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మన్నాను కురిపించినావు",
+        "బండనుండి నీల్లిచ్చినావు",
+        "యెహోవా ఈరే చూచుకొనును",
+        "సర్వము సమకూర్చును",
+        "వ్యాధులను తొలగించినావు",
+        "మృతులను మరి లేపినావు",
+        "యెహోవా రాఫా స్వస్థపరచును",
+        "నను స్వస్థపరచును"
+      ],
+      "english": [
+        "Mannaanu Kuripinchinaavu",
+        "Bandanundi Neellichchinaavu",
+        "Yehovaa Eerae Choochukonunu",
+        "Sarvamu Samakoorchunu",
+        "Vyaadhulanu Tholaginchinaavu",
+        "Mruthulanu Mari Lepinaavu",
+        "Yehovaa Raaphaa Swasthaparachunu",
+        "Nanu Swasthaparachunu"
+      ]
+    }
+  ]
+}

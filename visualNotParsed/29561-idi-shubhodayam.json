@@ -1,0 +1,45 @@
+{
+  "song_name": "Idi Shubhodayam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇది శుభోదయం – క్రీస్తు జన్మదినం",
+      "ఇది లోక కళ్యాణం",
+      "మేరి పుణ్యదినం – (2)",
+      "రాజులనేలే రారాజు వెలసె పశువుల పాకలో",
+      "పాపుల పాలిట రక్షకుడు నవ్వెను తల్లి కౌగిలిలో",
+      "భయము లేదు మనకిలలో",
+      "జయము జయము జయమహో ||ఇది||"
+    ],
+    "english": [
+      "Idi shubhodhayam – Kreesthu janmadinam",
+      "Idi loka kalyaanam",
+      "Meri punyadhinam – (2)",
+      "Raajulanele raaraaju velase pashuvula paakalo",
+      "Paapula paalita rakshakudu navvenu thalli kaugililo",
+      "Bhayamu ledu manakilalo",
+      "Jayamu jayamu jayamaho ||Idi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గొల్లలు జ్ఞానులు ఆనాడు ప్రణమిల్లిరి భయ భక్తితో",
+        "పిల్లలు పెద్దలు ఈనాడు పూజించిరి ప్రేమ గీతితో",
+        "జయనాదమే ఈ భువిలో",
+        "ప్రతిధ్వనించెను ఆ దివిలో  ||ఇది||"
+      ],
+      "english": [
+        "Gollalu gnaanulu aanaadu pranamilliri bhaya bhakthitho",
+        "Pillalu peddalu eenaadu poojinchiri prema geethitho",
+        "Jayanaadhame ee bhuvilo",
+        "Prathidhwaninchenu aa divilo  ||Idi||"
+      ]
+    }
+  ]
+}

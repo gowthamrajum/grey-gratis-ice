@@ -1,0 +1,57 @@
+{
+  "song_name": "Aaraadhanalandhuko",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆరాధనలందుకో ఆరాధనలందుకో... పాప క్షమాపణ జీవమునిచ్చిన - కరుణామయా అందుకో ॥ఆరాధన॥"
+    ],
+    "english": [
+      "Aaraadhanalandhuko aaraadhanalandhuko... paapa kshamaapana jeevamunichchina - Karunaamayaa anduko ॥Aaraadhana॥"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపంబున జన్మించి నశియించితిని - లోకంబు నాదనుచు ఆశించితిని ఆయినా నీవు రక్షణ నివ్వ - ప్రేమించి",
+        "పంపితివి యేసు ప్రభుని ఘనతా మహిమా నీకేయని హల్లెలూయ గానము చేసెదను పాప క్షమాపణ జీవమునిచ్చిన -",
+        "కరుణామయా అందుకో ఆరాధనలందుకో"
+      ],
+      "english": [
+        "Paapambuna janminchi nashiyinchithini - Lokambu naadhanuchu aashinchithini aayinaa neevu rakshana nivva - Preminchi",
+        "Pampithivi Yesu prabhuni ghanathaa mahimaa neekeyani hallelooya gaanamu chesedanu paapa kshamaapana jeevamunichchina -",
+        "Karunaamayaa anduko aaraadhanalandhuko"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తెలిసికొంటిని నా యేసు నిన్ను - సర్వ శక్తిగల ప్రభువనియు రానున్నావూ మరల నాకై - ఆనంద దేశములో",
+        "నన్నుంచుటకై ఘనతా మహిమా నీకేయని హల్లెలూయ గానము చేసెదను పాప క్షమాపణ జీవమునిచ్చిన -",
+        "కరుణామయా అందుకో ఆరాధనలందుకో"
+      ],
+      "english": [
+        "Thelisikontini naa Yesu ninnu - Sarva shakthigala prabhuvaniyu raanunnaavoo marala naakai - Aananda deshamulo",
+        "Nannunchutakai ghanathaa mahimaa neekeyani hallelooya gaanamu chesedanu paapa kshamaapana jeevamunichchina -",
+        "Karunaamayaa anduko aaraadhanalandhuko"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అంద సౌందర్యంబులు వ్యర్దమని - ఆశించితి ముత్యంబుగ నుండుటకై నిన్నా నేడు నిరంతరము - మారని మా",
+        "ప్రభూ నీకే స్తుతులు ఘనతా మహిమా నీకేయని హల్లెలూయ గానము చేసెదను పాప క్షమాపణ జీవమునిచ్చిన -",
+        "కరుణామయా అందుకో ఆరాధనలందుకో"
+      ],
+      "english": [
+        "Anda saundharyambulu vyarthamani - Aashinchithi muthyambuga nundutakai ninnaa nedu nirantharamu - Maarani maa",
+        "Prabhoo neeke sthuthulu ghanathaa mahimaa neekeyani hallelooya gaanamu chesedanu paapa kshamaapana jeevamunichchina -",
+        "Karunaamayaa anduko aaraadhanalandhuko"
+      ]
+    }
+  ]
+}

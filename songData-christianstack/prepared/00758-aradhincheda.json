@@ -1,0 +1,42 @@
+{
+  "song_name": "Aradhincheda",
+  "author": {
+    "Authored by": "Bro Anil Vemula",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆరాధించెద ఆత్మ స్వరూపా",
+      "స్తుతియించెద నిను స్తోత్రార్హుడా",
+      "నిన్న నేడు, రేపు నీవు",
+      "ఏక రీతిగా ఉన్నావు దేవా"
+    ],
+    "english": [
+      "Aradhincheda aathma swaroopaa",
+      "sthuthiyinchedaa ninu sthothraarhudaa",
+      "ninna nedu repu neevu",
+      "eka reethigaa unnaavu devaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హల్లేలూయా – ఆరాధనా",
+        "అర్పింతును – నా హృదయార్పణ"
+      ],
+      "english": [
+        "Noorendla praayanna issaku nichi",
+        "abrahamu viswaasam ghanaparachinaavu",
+        "hannaa moolgulu maruvaka neevu",
+        "samuyelu nichi aasirvadinchaavu",
+        "naadunna devudaa… naatho nedunu neevunnaavayyaa",
+        "Guhalo simhaala nollanu moosi",
+        "daniel viswasam dhrudapachinaavu",
+        "baaludu davidu pakshambugaa neevu",
+        "sathruvulapai vijayambu nichaavu",
+        "naadunna devudaa… naatho nedunu neevunnaavayyaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "song_name": "Sthuthiyu ghanathayu mahima nirathamu Yesuke",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తుతియు ఘనతయు మహిమ నిరతము",
+      "యేసుకే చెల్లును మహిమ రాజుకే",
+      "యుగయుగాలకు స్తోత్ర సంగీతము",
+      "సర్వలోకం చేరుడి సర్వ సృష్టి పాడుడి",
+      "ఏక స్వరముతో గళమెత్తి పాడుడీ"
+    ],
+    "english": [
+      "Sthuthiyu ghanathayu mahima nirathamu",
+      "Yesuke chellunu mahima raajuke",
+      "Yugayugaalaku sthothra sangeethamu",
+      "Sarvalokam cherudi sarva srushti paadudi",
+      "Eka swaramutho galameththi paadudee"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సర్వ భూమికి రారాజు సకల జగతికి దేవాది దేవుడు",
+        "దీనుల లేవనెత్తు వాడు విరోధమును అణచువాడు",
+        "మార్గమును తెరచువాడు అడుగులు స్ధిరము చేయువాడు",
+        "హ . . హ . . హల్లెలూయా",
+        "హొ . . హొ . . హొసన్నా",
+        "హొసన్నా హొసన్నా హొసన్నా హొసన్నా"
+      ],
+      "english": [
+        "Sarva bhoomiki raaraaju sakala jagathiki dhevaadhi devudu",
+        "Deenula levanetthu vaadu virodhamunu anachuvaadu",
+        "Maargamunu therachuvaadu adugulu sthiramu cheyuvaadu",
+        "Ha . . ha . . halleluyaa",
+        "Ho . . ho . . hosannaa",
+        "Hosannaa hosannaa hosannaa hosannaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సర పాప పరిహ్రకుడు నమ్మదగిన సహాకుడు",
+        "అన్నిటిలో ఉన్న వాడు నిరంతరము నిలచువాడు",
+        "ఉన్నతుడు మహొన్నతుడు మరణపు ముల్లు విరచినాడు",
+        "హ . . హ . . హల్లెలూయా",
+        "హొ . . హొ . . హొసన్నా",
+        "హొసన్నా హొసన్నా హొసన్నా హొసన్నా"
+      ],
+      "english": [
+        "Sarva paapa parihaarakudu nammadagina sahaayakudu",
+        "Annitilo unna vaadu nirantharamu nilachuvaadu",
+        "Unnathudu mahonnathudu maranapu mullu virachinaadu",
+        "Ha . . ha . . halleluyaa",
+        "Ho . . ho . . hosannaa",
+        "Hosannaa hosannaa hosannaa hosannaa"
+      ]
+    }
+  ]
+}

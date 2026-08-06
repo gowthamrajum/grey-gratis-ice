@@ -1,0 +1,53 @@
+{
+  "song_name": "Yehovaa maa Deva sarvaloka daivamaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Pastor Samuel Finny Pachigalla",
+      "Samy Pachigalla"
+    ],
+    "రచన": [
+      "పాస్టర్ శామ్యూల్ ఫిన్నీ పచిగళ్ల",
+      "సామి పచిగళ్ల"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవా మా దేవ – సర్వలోక దైవమా",
+      "యుగ యుగములు నీవే మా ఏక దేవుడవు",
+      "తరతరములకు నీవే మా ఏక దైవము",
+      "హల్లెలూయ – హల్లెలూయ"
+    ],
+    "english": [
+      "Yehovaa maa Deva – Sarvaloka daivamaa",
+      "Yuga yugamulu neeve maa eka devudavu",
+      "Tharatharamulaku neeve maa eka daivamu",
+      "Hallelooya – Hallelooya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అబ్రహాము ఇస్సాకుల దేవుడనని సెలవిచ్చితివి",
+        "యాకోబు యోసేపులను దీవించి నడిపించితివి",
+        "ఈనాటి ఈ మా తరమును",
+        "చేయివిడువక నడిపించుమయా",
+        "మోషే యెహోషువలను స్వరమెత్తి పిలచితివి",
+        "ఏలీయా ఎలీషాలను అగ్ని జ్వాలగా చేసితివి",
+        "ఈనాటి ఈ మా తరమును",
+        "అగ్ని కణముగా చేయుమయా"
+      ],
+      "english": [
+        "Abrahaamu Issaakula dhevudanani selavichchithivi",
+        "Yaakobu Yosepulanu deevinchi nadipinchithivi",
+        "Eenaati ee maa tharamunu",
+        "Cheyividuvaka nadipinchumayaa",
+        "Moshe Yehoshuvalanu swarametthi pilachithivi",
+        "Eleeyaa Eleeshaalanu agni jwaalagaa chesithivi",
+        "Eenaati ee maa tharamunu",
+        "Agni kanamugaa cheyumayaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "song_name": "Shrungaara Dhvaarambu Maa Yaesu",
+  "author": {
+    "Authored by": "",
+    "రచన": "తూపిలి యోహాను"
+  },
+  "main_stanza": {
+    "telugu": [
+      "శృంగార ద్వారంబు మా యేసు",
+      "మోక్ష మార్గంబున కెంతో శృంగార ద్వారము"
+    ],
+    "english": [
+      "Shrungaara Dhvaarambu Maa Yaesu",
+      "Moaksha Maargambuna Kentho Shrungaara Dhvaaramu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాలును దేనెయుఁ బారెడి కానాను ప్రదేశ",
+        "భూములకుఁ బ్రవేశ పెట్టు"
+      ],
+      "english": [
+        "Paalunu Dhaeneyu Baaredi Kaanaanu Pradhaesha",
+        "Bhoomulaku Bravaesha Pettu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యెరూషలేమాలయ పరిశుద్ధ స్థలమందు",
+        "పరిశుద్ధ జనులుగ బ్రవేశ పెట్టు"
+      ],
+      "english": [
+        "Yerooshalaemaalaya Parishuddha Sthalamandu",
+        "Parishuddha Januluga Bravaesha Pettu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అత్యంత పరిశుద్ధ స్థలమందు మమ్ము",
+        "నిత్యంబు యాజ కులగాను జేర్చు"
+      ],
+      "english": [
+        "Athyantha Parishuddha Sthalamandu Mammu",
+        "Nithyambu Yaaja Kulagaanu Jaerchu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఇరుకైన నేమది సరియైన ద్వారంబు",
+        "సంకటంబైనను సౌఖ్యన జేర్చు"
+      ],
+      "english": [
+        "Irukaina Naemadhi Sariyaina Dhvaarambu",
+        "Sankatambainanu Saukhyana Jaerchu"
+      ]
+    }
+  ]
+}

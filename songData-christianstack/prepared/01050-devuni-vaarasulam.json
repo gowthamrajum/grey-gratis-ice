@@ -1,0 +1,62 @@
+{
+  "song_name": "Devuni Vaarasulam",
+  "author": {
+    "Authored by": "Rev. Acharya Dr. A B Masilamani",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవుని వారసులం ప్రేమ నివాసులము",
+      "జీవన యాత్రికులం యేసుని దాసులము",
+      "నవయుగ సైనికులం పరలోక పౌరులము హల్లెలూయ",
+      "నవయుగ సైనికులం పరలోక పౌరులము"
+    ],
+    "english": [
+      "Devuni vaarasulam prema nivaasulamu",
+      "jeevana yatrikulam yesuni daasulamu",
+      "navayuga sainikulam paraloka pourulamu hallelujah",
+      "navayuga sainikulam paraloka pourulamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దారుణ హింసలలో దేవుని దూతలుగా",
+        "ఆరని జ్వాలలలో ఆగని జయములతో",
+        "మారని ప్రేమ సమర్పణతో",
+        "సర్వత్ర యేసుని కీర్తింతుము",
+        "సజీవ సిలువ ప్రభు సమాధి గెలుచుటచే",
+        "విజేత ప్రేమికులం విధేయ బోధకులం",
+        "నిజముగ రక్షణ ప్రబలుటకై",
+        "ధ్యజముగ సిలువను నిలుపుదము",
+        "హతసాక్షుల కాలం అవనిలో చెలరేగ",
+        "గతకాలపు సేవ గొల్గొత గిరి చేర",
+        "బీతులలో బహు రీతులలో",
+        "నూతన లోకము కాంక్షితుము",
+        "పరిశుద్దాత్మునికై ప్రార్ధన సలుపుదుము",
+        "పరమాత్ముని రాక బలము ప్రసాదింప",
+        "ధరణిలో ప్రభువును జూపుటకై",
+        "సర్వాంగ హోమము చేయుదము"
+      ],
+      "english": [
+        "daaruna himsalalo devuni dhoothaluga",
+        "aarani jwaalalalo aagani jayamulatho",
+        "maarani prema samarpanatho",
+        "sarvathra yesuni keerthinthumu",
+        "sajeeva siluva prabhu samaadhi geluchutache",
+        "vijetha premikulam vidheya bodhakulam",
+        "nijamuga rakshana prabalutakai",
+        "dwajamuga siluvanu nilupudhamu",
+        "hathasakshula kaalam avanilo chelarega",
+        "gathakaalapu seva golgotha giri chera",
+        "bheethulalo bahu reethulalo",
+        "noothana lokamu kaanshinthumu",
+        "parishuddatmunikai prarthana salupudhumu",
+        "paramaatmuni raaka balamu prasaadimpa",
+        "dharanilo prabuvunu jooputakai",
+        "sarvaanga homamu cheyudamu"
+      ]
+    }
+  ]
+}

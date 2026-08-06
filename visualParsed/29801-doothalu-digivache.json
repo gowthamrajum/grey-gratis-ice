@@ -1,0 +1,58 @@
+{
+  "song_name": "Doothalu dhigivachche",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దూతలు దిగివచ్చే భువిలో - ప్రభువుని స్తుతియింపా (2)",
+      "కాంతులు వెదజల్లే దివిలో - తారకొటఉదయించే(2)",
+      "మనకై ప్రభువే దీనుడై ఉదయించే (2)",
+      "మహిమ ఘనతయు - ప్రభుకే చెల్లునూ (2)"
+    ],
+    "english": [
+      "Doothalu dhigivachche bhuvilo - Prabhuvuni sthuthiyimpaa (2)",
+      "Kaanthulu vedhajalle divilo - Thaaraka udayinche(2)",
+      "Manakai Prabhuve deenudai udayinche (2)",
+      "Mahima ghanathayu - Prabhuke chellunoo (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఘనుడగు దేవుడు తన ప్రియ సుతుని",
+        "మన రక్షణకై పంపించెను (2)",
+        "ఇట్టి రీతిగా దేవుడు",
+        "ప్రేమ చూపించెన్ (2)",
+        "మహిమ ఘనతయు - ప్రభుకే చెల్లునూ (2)"
+      ],
+      "english": [
+        "Ghanudagu Devudu thana priya suthuni",
+        "Mana rakshanakai pampinchenu (2)",
+        "Itti reethigaa Devudu",
+        "Prema choopinchen (2)",
+        "Mahima ghanathayu - Prabhuke chellunoo (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరమును వదిలి భాగ్యము విడిచి",
+        "రిక్తునిగా తగ్గించుకొనెన్ (2)",
+        "ఇట్టి రీతిగా ప్రభువు",
+        "భువికి ఏతెంచెన్ (2)",
+        "మహిమ ఘనతయు - ప్రభుకే చెల్లునూ (2)"
+      ],
+      "english": [
+        "Paramunu vadhili bhaagyamu vidichi",
+        "Rikthunigaa thagginchukonen (2)",
+        "Itti reethigaa Prabhuvu",
+        "Bhuviki ethenchen (2)",
+        "Mahima ghanathayu - Prabhuke chellunoo (2)"
+      ]
+    }
+  ]
+}

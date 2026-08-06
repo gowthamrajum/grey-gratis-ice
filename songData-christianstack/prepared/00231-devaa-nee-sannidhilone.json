@@ -1,0 +1,61 @@
+{
+  "song_name": "Devaa Nee Sannidhilone",
+  "author": {
+    "Authored by": "Symonpeter Chevuri",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవా నీ సన్నిధిలో నిరతము నివసింతును",
+      "నీ మార్గములో నను నడుపుము నా జీవితకాలము",
+      "నీవే నా ప్రాణము నీకే స్తుతి స్తోత్రము",
+      "నీవే నా గానము నీకే జయ గీతము"
+    ],
+    "english": [
+      "Devaa nee sannidhilo niratamu nivasinthunu",
+      "Nee maargamulo nanu nadupumu naa jeevithakaalamu",
+      "Neeve naa praanamu neeke stuthi stothramu",
+      "Neeve naa gaanamu neeke jaya geethamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హన్నాతో మాట్లాడితివే నీ సన్నిధానములో",
+        "స్వాస్థ్యమునే బహుమానంగా ఇచ్చి దీవించితివే",
+        "ప్రార్ధనాలకించి కన్నీరు తుడిచి",
+        "నిందను తొలగించి వరమిచ్చితివే",
+        "నీవే నా ప్రాణము నీకే స్తుతి స్తోత్రము",
+        "నీవే నా గానము నీకే జయ గీతము"
+      ],
+      "english": [
+        "Hannaatho maatlaadithivee nee sannidhaanamulo",
+        "Swasthyamune bahumaananga ichchi deeviñchithive",
+        "Praardhanaalakinchi kannneeru thudichi",
+        "Nindanu tholaginchi varamichchithive",
+        "Neeve naa praanamu neeke stuthi stothramu",
+        "Neeve naa gaanamu neeke jaya geethamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రూతుతో మాట్లాడితివే నీ సన్నిధానములో",
+        "బలపరచి నడిపించి జీవితమే మార్చితివే",
+        "విధవరాలి పక్షమున వ్యాజ్యమాడినావు",
+        "విడువక తోడై ఆదరించినావు",
+        "నీవే నా ప్రాణము నీకే స్తుతి స్తోత్రము",
+        "నీవే నా గానము నీకే జయ గీతము"
+      ],
+      "english": [
+        "Roothutho maatlaadithivee nee sannidhaanamulo",
+        "Balaparachi nadipinchi jeevithame maarthithive",
+        "Vidhavaraali pakshamuna vyaajyamadinaavu",
+        "Viduvaaka thodai aadharinchinaavu",
+        "Neeve naa praanamu neeke stuthi stothramu",
+        "Neeve naa gaanamu neeke jaya geethamu"
+      ]
+    }
+  ]
+}

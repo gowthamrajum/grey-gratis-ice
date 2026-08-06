@@ -1,0 +1,76 @@
+{
+  "song_name": "Paapulayeda Kreesthuni priya mettidho",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "పురుషోత్తము చౌధరి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "పాపులయెడ క్రీ స్తుని ప్రియ మెట్టిదో పరికింపరె క ల్వరిగిరిపై",
+      "నాపదలను దన కీగతిఁ బెట్టెడు కాపురుషుల దెసఁ గనుగొను కృపతో",
+      "||బాపుల||"
+    ],
+    "english": [
+      "Paapulayeda Kreesthuni priya mettidho parikimpare kalvarigiripai",
+      "Naapadalanu dhana keegathi bettedu kaapurushula dhesa ganugonu krupatho",
+      "||Baapula||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యెరుషలేము క న్యలు కొందరు తన యెదుట వచ్చి యేడ్చుచు",
+        "సిలువన్ వరుస నప్పురికి వచ్చు నాశన గతు లెరుఁగఁ బలికి వా",
+        "రల నోదార్చెను ||బాపుల||"
+      ],
+      "english": [
+        "Erushalemu kanyalu kondaru thana eduta vachchi yedchuchu",
+        "Siluvan varusa nappuriki vachchu naashana gathu leruga baliki vaa",
+        "Rala nodhaarchenu ||Baapula||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శత్రువు లటు తనుఁ జంపుచు నుండఁగ మైత్రిఁ జూపె సమ్మతి తోడన్",
+        "స్తోత్రముఁ జేసెను దండ్రీ వీరల దురిత మెల్ల క్షమి యింపవె",
+        "యనుచును ||బాపుల||"
+      ],
+      "english": [
+        "Shathruvu latu thanu jampuchu nundaga maithri joope sammathi thodan",
+        "Sthothramu jesenu dandree veerala duritha mella kshami impave",
+        "Yanuchunu ||Baapula||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తన ప్రక్కను సిలు వను వేసిన యొక తస్కరుఁ డించుక వేఁడు కొనన్",
+        "కనికరము మన మునఁ బెనగొన ని చ్చెను మోక్షము తన తో",
+        "యుండుటగున్ ||బాపుల||"
+      ],
+      "english": [
+        "Thana prakkanu siluvanu vesina yoka thaskaru dinchuka vedu konan",
+        "Kanikaramu manamuna benagona nichchenu mokshamu thana tho",
+        "Yundutagun ||Baapula||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మితిలేని దురిత జీవుల లోపల మించి యున్న పతితుల కైనన్",
+        "హితముగ మోక్షం బిచ్చుటకై శో ణిత మిచ్చెను నా మతి కది సాక్షిగఁ",
+        "||బాపుల||"
+      ],
+      "english": [
+        "Mithileni duritha jeevula lopala minchi yunna pathithula kainan",
+        "Hithamuga moksham bichchutakai sho nitha michchenu naa mathi kadhi saakshiga",
+        "||Baapula||"
+      ]
+    }
+  ]
+}

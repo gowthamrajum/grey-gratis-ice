@@ -1,0 +1,74 @@
+{
+  "song_name": "Paapamu Dhalachu Sumee",
+  "author": {
+    "Authored by": "",
+    "రచన": "యెషయా వీరమార్టిన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "పాపము దలఁచు సుమీ పశ్చా త్తాపముఁ బొందు సుమీ",
+      "దాపని యేసుని పాదంబులబడి పాపము వీడు సుమీ"
+    ],
+    "english": [
+      "Paapamu Dhalachu Sumee Pashchaa Ththaapamu Bondhu Sumee",
+      "Dhaapani Yaesuni Paadhambulabadi Paapamu Veedu Sumee"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపము చేయకు మీ యేసుని గాయము రేపకుమీ",
+        "పాయక పాపము చేసిన మనసా కాయఁడు యేసు సుమీ"
+      ],
+      "english": [
+        "Paapamu Chaeyaku Mee Yaesuni Gaayamu Raepakumee",
+        "Paayaka Paapamu Chaesina Manasaa Kaayadu Yaesu Sumee"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గంతులు వేయకుమీ యేసుని చెంతకుఁ జేరు సుమీ",
+        "వింతఁగఁ గ్రీస్తుని రక్షణ్యామృత బిందువుఁ గోరు సుమీ"
+      ],
+      "english": [
+        "Ganthulu Vaeyakumee Yaesuni Chenthaku Jaeru Sumee",
+        "Vinthaga Greesthuni Rakshanyaamrutha Bindhuvu Goaru Sumee"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఈ ధరన్నమ్మకుమీ ఆత్మకు శోధన లుండు సుమీ",
+        "శోధన మాన్పెడు క్రీస్తును నమ్మి శ్రద్ధగ నుఁడు సుమీ"
+      ],
+      "english": [
+        "Ee Dharannammakumee Aathmaku Shoadhana Lundu Sumee",
+        "Shoadhana Maanpedu Kreesthunu Nammi Shraddhaga Nudu Sumee"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "తెగువఁ బోరాడు సుమీ రిపునకు బెగ్గిలవద్దు సుమీ",
+        "తెగువగు ప్రార్థన ఖడ్గమునుఁ బట్టి పగతునిఁ గెల్వు సుమీ"
+      ],
+      "english": [
+        "Theguva Boaraadu Sumee Ripunaku Beggilavaddhu Sumee",
+        "Theguvagu Praarthana Khadgamunu Batti Pagathuni Gelvu Sumee"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "అంతము వచ్చు సుమీ రక్షణ అంతలో వెదకు సుమీ",
+        "అంత రంగుఁ డగు క్రీస్తు రక్షకుని చెంతను జేరు సుమీ"
+      ],
+      "english": [
+        "Anthamu Vachchu Sumee Rakshana Anthaloa Vedhaku Sumee",
+        "Antha Rangu Dagu Kreesthu Rakshakuni Chenthanu Jaeru Sumee"
+      ]
+    }
+  ]
+}

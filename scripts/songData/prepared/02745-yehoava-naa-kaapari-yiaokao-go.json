@@ -1,0 +1,94 @@
+{
+  "song_name": "Yehoava Naa Kaapari Yika Godhu Vaemi",
+  "author": {
+    "Authored by": "",
+    "రచన": "మల్లెల సొలొమోను జార్జి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవ నా కాపరి యిఁకఁ గొదు వేమి"
+    ],
+    "english": [
+      "Yehoava Naa Kaapari Yika Godhu Vaemi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పచ్చిక చోట్లలోఁ బండఁ జేయును నన్ను",
+        "స్వచ్ఛజలముల కడకుఁ జక్క గా నడిపించు"
+      ],
+      "english": [
+        "Pachchika Choatlaloa Banda Jaeyunu Nannu",
+        "Svachchhajalamula Kadaku Jakka Gaa Nadipinchu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆయన దయతో నా యా యాసములఁ దీర్చి",
+        "న్యాయమార్గములందు ననుఁ బట్టి నడిపించు"
+      ],
+      "english": [
+        "Aayana Dhayathoa Naa Yaa Yaasamula Dheerchi",
+        "Nyaayamaargamulandhu Nanu Batti Nadipinchu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "గాడాంధకార మా ర్గమున నేఁ దిరిగినను",
+        "గాఢంపు గృపతోడఁ గరుణించు నన్నెపుడు"
+      ],
+      "english": [
+        "Gaadaandhakaara Maa Rgamuna Nae Dhiriginanu",
+        "Gaadhampu Grupathoada Garuninchu Nannepudu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీవు తోడై యుండ నిర్భయం బగు నాకుఁ",
+        "కావవచ్చును దుడ్డు కఱ్ఱయును దండంబు"
+      ],
+      "english": [
+        "Neevu Thoadai Yunda Nirbhayam Bagu Naaku",
+        "Kaavavachchunu Dhuddu Karrayunu Dhandambu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నా శత్రువుల నడుమ నాకు భోజన మొసఁగి",
+        "యాశ తీరంగఁ ద లంటె నూనెను బోసి"
+      ],
+      "english": [
+        "Naa Shathruvula Naduma Naaku Bhoajana Mosagi",
+        "Yaasha Theeranga Dha Lante Noonenu Boasi"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నా గిన్నె నిండెను నా బ్రతుకు దినములలో",
+        "బాగుగా నీదు కృపా దయలు వెంటాడు"
+      ],
+      "english": [
+        "Naa Ginne Nindenu Naa Brathuku Dhinamulaloa",
+        "Baagugaa Needhu Krupaa Dhayalu Ventaadu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "పరమానందముతోడఁ బ్రభు సన్నిధానమునఁ",
+        "పరిశుద్ధాలయమందే నిరతంబు నివసింతు"
+      ],
+      "english": [
+        "Paramaanandhamuthoada Brabhu Sannidhaanamuna",
+        "Parishudhdhaalayamandhae Nirathambu Nivasinthu"
+      ]
+    }
+  ]
+}

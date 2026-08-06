@@ -1,0 +1,60 @@
+{
+  "song_name": "Naa hrudayam paadene nee premane",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Samy Pachigalla"
+    ],
+    "రచన": [
+      "సామి పచిగళ్ల"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా హృదయం పాడెనే నీ ప్రేమనే",
+      "నా హృదయ దైవమా నీకే నా గీతమే",
+      "ఎల్లప్పుడు నీ ధ్యానం నిరతము నీ నామం",
+      "నే పాడెదా నా జీవితాంతము"
+    ],
+    "english": [
+      "Naa hrudayam paadene nee premane",
+      "Naa hrudaya daivamaa neeke naa geethame",
+      "Ellappudu nee dhyaanam nirathamu nee naamam",
+      "Ne paadedaa naa jeevithaanthamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా ప్రాణం ఆశించే నీ ప్రేమకై",
+        "ఆనంద గీతాలే  ||నా||",
+        "నీ ప్రేమను మరతునా",
+        "నీ జాలిని మరతునా",
+        "నా దైవమా .. నా యేసయ్య..",
+        "ఎల్లప్పుడు నీ ధ్యానం నిరతము నీ నామం",
+        "ఎల్లప్పుడు నీకై నే పాడెదా  ||నా||"
+      ],
+      "english": [
+        "Naa praanam aashinche nee premakai",
+        "Aananda geethaale  ||Naa||",
+        "Nee premanu marathunaa",
+        "Nee jaalini marathunaa",
+        "Naa daivamaa .. naa Yesayya..",
+        "Ellappudu nee dhyaanam nirathamu nee naamam",
+        "Ellappudu neekai ne paadedaa  ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా జీవితం అర్పింతున్ నీ కోసమే",
+        "నా శ్వాస యేసయ్య నీ కొరకే  ||నా||"
+      ],
+      "english": [
+        "Naa jeevitham arpinthun nee kosame",
+        "Naa shwaasa Yesayya nee korake  ||Naa||"
+      ]
+    }
+  ]
+}

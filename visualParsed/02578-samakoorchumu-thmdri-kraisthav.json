@@ -1,0 +1,48 @@
+{
+  "song_name": "Samakoorchumu thandri",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "సరెళ్ల సమూయేలు సుబ్బయ్య"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "సమకూర్చుము తండ్రి క్రైస్తవ సభలో నైక్యతను ద్వరలోఁ దమ",
+      "ప్రియ కొమరుఁడు శ్రమలకుఁ బూర్వం బమితాసక్తితో నడిగిన విధ",
+      "మున ||సమ||"
+    ],
+    "english": [
+      "Samakoorchumu thandri kraisthava sabhalo naikyathanu thvaralo dhama",
+      "Priya komarudu shramalaku boorvam bamithaasakthitho nadigina vidha",
+      "muna ||Sama||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేశము రక్షణకై తండ్రి దేవుని మహిమార్థం నిజముగ వాసిగఁ",
+        "గూర్పను భాసుర ఐక్యం బాశతో నిన్నిటు నడుగుచునుండఁగ ||సమ||"
+      ],
+      "english": [
+        "Deshamu rakshanakai thandri Devuni mahimaartham nijamuga vaasiga",
+        "goorpanu bhaasura aikyam baashatho ninnitu nadugu chunundaga ||Sama||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసుని నామమున్ మమ్ముల నేకముజేయు మిఁకఁ దండ్రి",
+        "నీ సిలువను జూ చుచు మే మిలలో వాసిగఁ బ్రేమతో వర్థిల్లుటకై",
+        "||సమ||"
+      ],
+      "english": [
+        "Yesuni naamamun mammula nekamujeyu mika thandri",
+        "Nee siluvanu joochuchu me milalo vaasiga brematho varthillutakai",
+        "||Sama||"
+      ]
+    }
+  ]
+}

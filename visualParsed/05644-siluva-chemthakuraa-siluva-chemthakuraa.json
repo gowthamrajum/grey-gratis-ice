@@ -1,0 +1,86 @@
+{
+  "song_name": "Siluva chenthakuraa siluva chenthakuraa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సిలువ చెంతకురా - సిలువ చెంతకురా",
+      "సహోదరా - సిలువ చెంతకురా",
+      "సహోదరి - సిలువ చెంతకురా",
+      "ఎచ్చటలేని- నెమ్మది ఉంది",
+      "ఎవ్వరు ఇవ్వని శాంతి ఉంది ||సిలువ||"
+    ],
+    "english": [
+      "Siluva chenthakuraa - Siluva chenthakuraa",
+      "Sahodharaa - Siluva chenthakuraa",
+      "Sahodhari - Siluva chenthakuraa",
+      "Echchataleni- Nemmadi undi",
+      "Evvaru ivvani shaanthi undi ||Siluva||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యౌవన కాల పాపములో",
+        "మరణన మార్గన వెళ్ళెదవా",
+        "యేసుని పొందని బ్రతుకులో",
+        "పాపములో మరణించెదవా  ||సిలువ||"
+      ],
+      "english": [
+        "Yauvana kaala paapamulo",
+        "Marana maargaana velledhavaa",
+        "Yesuni pondani brathukulo",
+        "Paapamulo maraninchedhavaa ||Siluva||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సమస్తము స్టపరచుకొని",
+        "హృదయము బ్రద్దలై ఏడ్చెదవా",
+        "యేసుని పొందని బ్రతుకులో",
+        "పాపములో మరణించెదవా  ||సిలువ||"
+      ],
+      "english": [
+        "Samasthamu sthaaparachukoni",
+        "Hrudayamu bradhdhalai edchedhavaa",
+        "Yesuni pondani brathukulo",
+        "Paapamulo maraninchedhavaa ||Siluva||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాము జీవించు బిలములో",
+        "పక్షీ జీవించు వీలగునా?",
+        "దుఃఖముతో నిండిన హృదయములో",
+        "నెమ్మది చూడ వీలగునా  ||సిలువ||"
+      ],
+      "english": [
+        "Paamu jeevinchu bilamulo",
+        "Pakshi jeevinchu veelagunaa?",
+        "Duhkhamutho nindina hrudayamulo",
+        "Nemmadi chooda veelagunaa ||Siluva||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సిలువలో వ్రేలాడు యేసుని",
+        "నీవు వీక్షించిన చాలును",
+        "రక్షకుడు చిందించిన రక్తములో",
+        "నీ పాపములన్ని కడుగబడున్‌  ||సిలువ||"
+      ],
+      "english": [
+        "Siluvalo vrelaadu Yesuni",
+        "Neevu veekshinchina chaalunu",
+        "Rakshakudu chindhinchina rakthamulo",
+        "Nee paapamulanni kadugabadun ||Siluva||"
+      ]
+    }
+  ]
+}

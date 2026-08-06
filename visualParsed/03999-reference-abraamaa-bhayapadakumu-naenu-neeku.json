@@ -1,0 +1,113 @@
+{
+  "song_name": "Reference: Abraamaa, bhayapadakumu; nenu neeku",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సామ్ 89:34",
+      "కృపాతిశయముల్ ఓ నా యెహోవా - నిత్యమున్ కీర్తింతును",
+      "తరతరములకు నీ విశ్వాస్యతన్ - తెలియ జేసెదను"
+    ],
+    "english": [
+      "Psalm 89:34",
+      "Krupaathishayamul o naa Yehova - Nithyamun keerthinthunu",
+      "Tharatharamulaku nee vishwaasyathan - Theliya jesedanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యెహోవా వాక్కు దర్శనమందు - అబ్రామునకు వచ్చెను  ||అబ్రామా||",
+        "నీ కేడెమును - బహుమానము నేనై యున్నాననెను (2)"
+      ],
+      "english": [
+        "Yehova vaakku dharshanamandhu - Abraamunaku vachchenu  ||Abraamaa||",
+        "Nee kedemunu - Bahumaanamu nenai yunnaananenu (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా నిబంధనన్ ఏ నాటికిన్",
+        "రద్దుపరచనని పల్కెన్ - మార్చవు నీ మాటను",
+        "నీ పెదవులతో పల్కిన దానిని దృఢము చేతువు"
+      ],
+      "english": [
+        "Naa nibandhanan e naatikin",
+        "Raddhuparachanani palken - Maarchavu nee maatanu",
+        "Nee pedhavulatho palkina dhaanini dhrudhamu chethuvu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "శాశ్వతమైనదా ప్రభుత్వము - తొలగిపోదే నాటికిన్",
+        "లయము కాదు ఆ రాజ్యం",
+        "మహిమ ఘనత ఆధిపత్యమును నీవాయెన్ నిత్యము"
+      ],
+      "english": [
+        "Shaashwathamainadhaa prabhuthvamu - Tholagipodhe naatikin",
+        "Layamu kaadu aa raajyam",
+        "Mahima ghanatha aadhipathyamunu neevaayen nithyamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీ నిబంధనన్ దావీదుతోడని లేవీయులతో జేసితివి",
+        "ఆకాశ తారల వలెన్",
+        "సముద్ర ఇసుక రేణువులంతగ జేసెదనంటివి"
+      ],
+      "english": [
+        "Nee nibandhanan Dhaaveedhuthodhani Leveeyulatho jesithivi",
+        "Aakaasha thaarala valen",
+        "Samudra isuka renuvulanthaga jesedhanantivi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "దివారాత్రులతో నా నిబంధన",
+        "మార్చెదరా మీరు మీరునట్లు - అట్లయిన భంగమగున్",
+        "దావీదుతోనే జేసినయట్టి నిబంధనంటివి"
+      ],
+      "english": [
+        "Dhivaaraathrulatho naa nibandhana",
+        "Maarchedharaa meeru meerunatlu - Atlayina bhangamagun",
+        "Dhaaveedhuthone jesinayatti nibandhanantivi"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "సింహాసనమున దావీదు - సంతతి యుండక మానదు",
+        "లేవీయుల్ యాజకులన్",
+        "నా పరిచారకులందరిన్ ఫలింపజేసెదనంటివి"
+      ],
+      "english": [
+        "Simhaasanamuna Daaveedu - Santhathi yundaka maanadhu",
+        "Leveeyul yaajakulan",
+        "Naa parichaarakulandharin phalimpajesedhanantivi"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "యెహోవా నీ కృప కార్యములన్నియు",
+        "వీనుల విందుగ నొప్పుచుండె",
+        "శ్లాఘింతున్ మనసారగన్",
+        "హల్లెలూయ - స్తోత్రములతో - కీర్తింతు నిత్యము"
+      ],
+      "english": [
+        "Yehova nee krupa kaaryamulanniyu",
+        "Veenula vindhuga noppuchunde",
+        "Shlaaghinthun manasaaragan",
+        "Halleluya - Sthothramulatho - Keerthinthu nithyamu"
+      ]
+    }
+  ]
+}

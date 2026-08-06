@@ -1,0 +1,80 @@
+{
+  "song_name": "Lelemmu kraisthavudaa neelo melkoni",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "పురుషోత్తము చౌదరి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "లేలెమ్ము క్రైస్తవుఁడా నీలో మేల్కొని లేలెమ్ము క్రైస్తవుఁడా నీలో మేల్కొని",
+      "||లేలెమ్ము||"
+    ],
+    "english": [
+      "Lelemmu kraisthavudaa neelo melkoni lelemmu kraisthavudaa neelo melkoni",
+      "||Lelemmu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "విడువకు యుద్ధము నుడువకబద్ధము యొడయుఁడు నీకడ నుండును",
+        "బాయఁడు  ||లేలెమ్ము||"
+      ],
+      "english": [
+        "Viduvaku yudhdhamu nuduvakabadhdhamu yodayudu neekada nundunu",
+        "Baayadu  ||Lelemmu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విడువకు ధైర్యము వదలకు కవచము సదయుఁడు క్రీస్తుఁడు సత్ఫల",
+        "మిచ్చును  ||లేలెమ్ము||"
+      ],
+      "english": [
+        "Viduvaku dhairyamu vadhalaku kavachamu sadhayudu Kreesthudu sathphala",
+        "Michchunu  ||Lelemmu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బెదరకు మేరికి వదలకు దారిని నది యిది కానిది యాత్మను బెట్టక  ||లేలెమ్ము||"
+      ],
+      "english": [
+        "Bedharaku meriki vadhalaku daarini nadi idhi kaanidi yaathmanu bettaka  ||Lelemmu||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ప్రార్థన సారము వర్ధిలఁ గోరుము సార్థక కాలము వ్యర్థము చేయక  ||లేలెమ్ము||"
+      ],
+      "english": [
+        "Praarthana saaramu vardhila gorumu saarthaka kaalamu vyarthamu cheyaka  ||Lelemmu||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "భావములోనన్ దేవుని ప్రేమన్ నీవది వేఁడుచు నెమ్మదిఁ గూడుచు  ||లేలెమ్ము||"
+      ],
+      "english": [
+        "Bhaavamulonan Devuni preman neevadhi veduchu nemmadi gooduchu  ||Lelemmu||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "యేసుని సిలువ నెదుట బెట్టుకో మోసము నొందవు యేసుని కాపున  ||లేలెమ్ము||"
+      ],
+      "english": [
+        "Yesuni siluva nedhuta bettuko mosamu nondhavu Yesuni kaapuna  ||Lelemmu||"
+      ]
+    }
+  ]
+}

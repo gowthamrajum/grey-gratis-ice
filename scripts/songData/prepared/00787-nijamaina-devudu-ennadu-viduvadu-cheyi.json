@@ -1,0 +1,60 @@
+{
+  "song_name": "Nijamaina Devudu Ennadu Viduvadu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిజమైన దేవుడు ఎన్నడు విడువడు",
+      "చేయి పట్టి నడుపును గాఢాంధకారములో",
+      "హల్లెలూయా హల్లెలూయా (4)"
+    ],
+    "english": [
+      "Nijamaina Devudu Ennadu Viduvadu",
+      "Cheyi Patti Nadupunu Gadhamdhakaramulo",
+      "Halleluya Halleluya (4)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సంతోషమైనా దుఃఖమే అయినా",
+        "క్షేమమే అయినా క్షామమే అయినా (2)",
+        "మరువని దేవుడు బహుమంచి యేసయ్య (2)"
+      ],
+      "english": [
+        "Samtoshamaina Duhkame Ayina",
+        "Kshemame Ayina Kshamame Ayina (2)",
+        "Maruvani Devudu Bahumamchi Yesayya (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఒంటరి బ్రతుకులో యిమ్మానుయేలు",
+        "వ్యాధి వేదనలో యెహోవ రాఫా (2)",
+        "స్వస్ధపరచునేసు పంచగాయాల రుథిరముతో (2)"
+      ],
+      "english": [
+        "Omtari Bratukulo Yimmanuyelu",
+        "Vyadhi Vedanalo Yehova Rapa (2)",
+        "Svasdhaparachunesu Pamchagayala Ruthiramuto (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మోడైన బ్రతుకును చిగురింపచేసి",
+        "నిరాశ బ్రతుకులో నిరీక్షణిచ్చి (2)",
+        "కలుషము లెంచకనే కృపతో రక్షించును (2)"
+      ],
+      "english": [
+        "Modaina Bratukunu Chigurimpachesi",
+        "Nirasa Bratukulo Nirikshanichchi (2)",
+        "Kalushamu Lemchakane Krupato Rakshimchunu (2)"
+      ]
+    }
+  ]
+}

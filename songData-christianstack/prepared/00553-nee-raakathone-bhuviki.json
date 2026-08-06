@@ -1,0 +1,58 @@
+{
+  "song_name": "Nee Raakathone Bhuviki",
+  "author": {
+    "Authored by": "Prince Lanka",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు రాజా",
+      "నీ రాకతోనే వెలిగెను ఈ లోకము",
+      "ఎంత విశేషము నీ జననము",
+      "ఎంత ఆశ్చర్యము నీ చరితము",
+      "నీ రాకతోనే వెలిగెను ఈ లోకము",
+      "నీ రాకతోనే భువికి సంబరము"
+    ],
+    "english": [
+      "Yesu raajaa",
+      "nee raakathone veligenu ee lokamu",
+      "entha viseshamu nee jananamu",
+      "entha aascharyamu nee charithamu",
+      "nee raakathone veligenu ee lookamu",
+      "nee raakathone bhuviki sambaramu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యెషయా ప్రవచించెను – నీ జననము",
+        "మీకా రాసెను – నీ జననము",
+        "యేసయ్య నీవు రాకముందే చరిత్ర వ్రాయబడెను – ఆశ్చర్యము",
+        "నీ రాకతోనే దొరికెను నిత్య జీవము",
+        "పాపముతో నిండియున్న మా బ్రతుకులకు",
+        "తెచ్చెను రక్షణను – నీ జననము",
+        "యేసయ్యా మాకోసమే నీవు వీడెను పరమరాజ్యము – ఆశ్చర్యము",
+        "నీ రాకతోనే కలిగెను ఆనందము",
+        "యోగ్యతే లేని మా బ్రతుకులకు",
+        "ఇచ్చెను నీ కృపను – నీ జననము",
+        "యేసయ్యా ఇమ్మానుయేలువై మా యెదుట నిలిచితివే – ఆశ్చర్యము",
+        "నీ రాకతోనే వచ్చెను సంతోషము"
+      ],
+      "english": [
+        "Yeshayaa pravachinchenu – nee jananamu",
+        "meekaa raasenu – nee jananamu",
+        "yesayya neevu raakamundhe charithra vraayabadenu – aascharyamu",
+        "nee raakathone dhorikenu nithya jeevamu",
+        "Paapamutho nindiyunna maa brathukulaku",
+        "thechenu rakshannanu – nee jananamu",
+        "yesayyaa maakosame neevu veedenu paramaraajyamu – aascharyamu",
+        "nee raakathone kaligenu aanandhamu",
+        "Yogyathe leni maa brathukulaku",
+        "ichenu nee krupanu – nee jananamu",
+        "yesayyaa immaanuyeluvai maa yeduta nilichithive – aascharyamu",
+        "nee raakathone vachenu santhoshamu"
+      ]
+    }
+  ]
+}

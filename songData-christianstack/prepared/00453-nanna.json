@@ -1,0 +1,96 @@
+{
+  "song_name": "Nanna",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నాన్నా… నాన్న…నీ కుమారుడను నేను",
+      "నాన్నా… నాన్న…నీ కుమార్తెను నేను"
+    ],
+    "english": [
+      "Nannaa….. nanna.. nee kumaarudanu nenu",
+      "nannaa….. nanna.. nee kumaarthenu nenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిను విడిచి నా హృదయం పరితపించే నీ కోసమే",
+        "నేనంటే నీవేకదా నీవు లేక నే లేనయ్యా",
+        "నీ నిత్య ప్రేమతో నన్ను వెదకితివి",
+        "నీ సత్య మార్గమందు నడిపితివి"
+      ],
+      "english": [
+        "Ninu vidichi na hrudhayam parithapinche nee kosamu",
+        "nenante neeve kadhaa nevu leeka nee lenaya",
+        "nee nithya prematho nannu vedhakithivi",
+        "nee sathya margamandu nadipithivi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిను విడిచి ఎటు పోదును",
+        "నీవే నా ఆశ్రయపురము",
+        "ఎప్పటికీ ఎరుగనైతిని నీ కుమారుడను నేనని",
+        "నీ కంటిపాపగా నన్ను కాచితివి",
+        "నీ చేతి నీడలో నాకు కాపుదలయ్య"
+      ],
+      "english": [
+        "Ninu vidachi etu podhunu",
+        "neeve na asrayapuramu",
+        "eppatiki eruganaithini ne kumaarudanu nenani",
+        "nee kanti paapaga nannu kaachithivi",
+        "nee chethi needalo naaku kaapudhalayya"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "Tag:",
+        "నీ కనుపాపనై నేను నాన్న..ఆ.. ఆ"
+      ],
+      "english": [
+        "Tag:",
+        "nee kanupaapanai nenu nanna"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "Bridge:",
+        "త్రోసివేయలేదు తృణీకరించలేదు",
+        "అవమానము నుండి విడిపించినావు నన్ను",
+        "త్రోసివేయలేదు తృణీకరించలేదు",
+        "అవమానము నుండి కాపాడితివి నన్ను",
+        "హత్తుకుని ముద్దాడితివి నాన్న",
+        "ఆటంకము తొలగించి ఆదరించినావు"
+      ],
+      "english": [
+        "Bridge:",
+        "Throsiveyaledhu thrunikarinchaledhu",
+        "avamanamu nundi vidipinchinaavu nannu",
+        "throsiveyaledhu thrunikarinchaledhu",
+        "avamanamu nundi kapadithivi nannu",
+        "hathukoni mudhadithivi nanna",
+        "aatankamu tholaginchi aadharinchivinaavu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "Tag 2:",
+        "నీ ప్రతి రూపము నేను నాన్న",
+        "నీ ప్రతి రూపము నేను నాన్న"
+      ],
+      "english": [
+        "Tag 2:",
+        "ne prathirupamunu nennu nannaa",
+        "ne prathirupamunu nennu nannaa"
+      ]
+    }
+  ]
+}

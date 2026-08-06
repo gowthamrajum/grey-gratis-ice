@@ -1,0 +1,44 @@
+{
+  "song_name": "Dahamu Gonnavaralara",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దాహము గొన్నవారలారా దాహము తీర్చుకొనండి దేవుడేసే జీవజలము త్రాగ రారండి హల్లేలూయ దేవుడేసే జీవజలము త్రాగ రారండి"
+    ],
+    "english": [
+      "Dahamu gonnavaralara dahamu tirchukonamdi Devudese jivajalamu traga raramdi Halleluya devudese jivajalamu traga raramdi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జీవ జలము శ్రీ యేసుక్రీస్తు జీవపు ఊటలు ప్రవహింప జేయున్‌ జలము పొంది జీవము నొంద జలనిధి చేరండి"
+      ],
+      "english": [
+        "Jiva jalamu sri yesukristu jivapu utalu pravahimpa jeyun Jalamu pomdi jivamu nomda jalanidhi cheramdi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేనిచ్చు నీరు త్రాగెడివారు ఎన్నటికిని దాహముగొనరు అని సెలవిచ్చిన ప్రభు యేసు క్రీస్తు చెంతకు చేరండి"
+      ],
+      "english": [
+        "Nenichchu niru tragedivaru ennatikini dahamugonaru Ani selavichchina prabu yesu kristu chemtaku cheramdi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తన పాపములను ఎరిగినవాడు తండ్రి క్షమాపణ కోరినవాడు తప్పక పొందును జీవజలము త్వరపడి పరుగిడి రండి"
+      ],
+      "english": [
+        "Tana papamulanu eriginavadu tamdri kshamapana korinavadu Tappaka pomdunu jivajalamu tvarapadi parugidi ramdi"
+      ]
+    }
+  ]
+}

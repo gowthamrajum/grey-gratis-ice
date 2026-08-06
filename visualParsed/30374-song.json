@@ -1,0 +1,67 @@
+{
+  "song_name": "Premaku prathiphalamu praana thyaagamaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మమతతో మనిషిని మలిచావయ్యా",
+      "ప్రేమతో పాపిని పిలిచావయ్యా",
+      "మమతకు ఫలితము నీ మరణమా",
+      "ప్రేమకు ప్రతిఫలము నీ ప్రాణమా"
+    ],
+    "english": [
+      "Mamathatho manishini malichaavayyaa",
+      "Prematho paapini pilichaavayyaa",
+      "Mamathaku phalithamu nee maranamaa",
+      "Premaku prathiphalamu nee praanamaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రేమనే చూపిన - నీ దేహము",
+        "కొరడా దెబ్బలతో -తల్లడిల్లేనే",
+        "కరుణను చూపిన నీ ముఖము",
+        "మూర్కుల చేతిలో చిద్రమాయెనే",
+        "---- నాకై నలుగురిలో నలిగిపోతివే"
+      ],
+      "english": [
+        "Premane choopina - Nee dehamu",
+        "Koradaa dhebbalatho -Thalladillene",
+        "Karununu choopina nee mukhamu",
+        "Moorkhula chethilo chidhramaayene",
+        "---- Naakai nalugurilo naligipothive"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బరువైన సిలువను మోయుచు",
+        "షాలేము వీదులలో సొమ్మసిల్లెనే",
+        "మూడుమేకులపై అల్లాడుతూ",
+        "పాపికై సిలువలో మరణమాయెనే",
+        "------ నాకై కలువరిలో కన్నుమూసేనే"
+      ],
+      "english": [
+        "Baruvaina siluvanu moyuchu",
+        "Shaalemu veedhulalo sommasillene",
+        "Moodumekulapai allaadutoo",
+        "Paapikai siluvalo maranamaayene",
+        "------ Naakai Kaluvarilo kannumoosene"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రేమతో ప్రతి పాపిని పిలిచావయ్యా  ||మమతతో||"
+      ],
+      "english": [
+        "Prematho prathi paapini pilichaavayyaa  ||Mamathatho||"
+      ]
+    }
+  ]
+}

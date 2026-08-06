@@ -1,0 +1,69 @@
+{
+  "song_name": "Baala Yesuni Janma Dinam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "బాల యేసుని జన్మ దినం",
+      "వేడుకైన శుభ దినము",
+      "సేవింప రారే జనులారా",
+      "ముద్దుల బాలకు ముద్దులిడ ||బాల||"
+    ],
+    "english": [
+      "Baala Yesuni janma dinam",
+      "Vedukaina shubha dinamu",
+      "Sevimpa raare janulaaraa",
+      "Muddula baalaku muddulida ||Baala||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మరియమ్మ ఒడిలో ఆడెడి బాలుని",
+        "చిన్నారి చిరునవ్వు లొలికెడి బాలుని (2)",
+        "చేకొని లాలింప రారే",
+        "జో జోల పాటలు పాడి  ||బాల||"
+      ],
+      "english": [
+        "Mariyamma odilo aadedi baaluni",
+        "Chinnaari chirunavvu lolikedi baaluni (2)",
+        "Chekoni laalimpa raare",
+        "Jo jola paatalu paadi  ||Baala||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపికి పరమ మార్గము జూప",
+        "ఏతెంచి ప్రభువు నరునిగా ఇలకు (2)",
+        "పశుశాలయందు పవళించే",
+        "తమ ప్రేమను జూపింప మనకు  ||బాల||"
+      ],
+      "english": [
+        "Paapiki parama maargamu joopa",
+        "Ethenchi prabhuvu narunigaa ilaku (2)",
+        "Pashushaalayandu pavalinche",
+        "Thama premanu joopimpa manaku  ||Baala||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మన జోల పాటలు ఆలించు బాలుడు",
+        "దేవాది దేవుని తనయుడు గనుక (2)",
+        "వరముల నొసగి మనకు",
+        "దేవుని ప్రియులుగా జేయు  ||బాల||"
+      ],
+      "english": [
+        "Mana jola paatalu aalinchu baaludu",
+        "Dhevaadhi devuni thanayudu ganuka (2)",
+        "Varamula nosagi manaku",
+        "Devuni priyulugaa jeyu  ||Baala||"
+      ]
+    }
+  ]
+}

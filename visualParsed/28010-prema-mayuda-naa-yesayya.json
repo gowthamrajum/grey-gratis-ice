@@ -1,0 +1,89 @@
+{
+  "song_name": "Premamayudaa naa Yesayya",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రేమ మయుడా నా యేసయ్యా",
+      "ప్రేమమయుడా నా యేసయ్యా",
+      "నీ ప్రేమను వివరించలేనయ్యా (2)",
+      "నీ ప్రేమను వర్ణించలేనయ్యా",
+      "నీ ప్రేమకు వెలకట్టలేనయ్యా (2)",
+      "నీ ప్రేమను నే మరువలేనయ్యా"
+    ],
+    "english": [
+      "Prema mayudaa naa Yesayya",
+      "Premamayudaa naa Yesayya",
+      "Nee premanu vivarinchalenayyaa (2)",
+      "Nee premanu varninchalenayyaa",
+      "Nee premaku velakattalenayyaa (2)",
+      "Nee premanu ne maruvalenayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దారి తప్పి తిరుగుచుండగా",
+        "చల్లని స్వరముతో పిలిచితివి తండ్రి",
+        "సిలువలో పలికిన నీ మాటలే",
+        "ఆకర్షించెను నా హృదయమును (2)",
+        "నీ మాటలే నన్ను బ్రతికించినది",
+        "ఆవేదనలో ఆదరించినది (2)"
+      ],
+      "english": [
+        "Daari thappi thiruguchundagaa",
+        "Challani swaramutho pilichithivi thandri",
+        "Siluvalo palikina nee maatale",
+        "Aakarshinchenu naa hrudayamunu (2)",
+        "Nee maatale nannu brathikinchinadhi",
+        "Aavedhanalo aadharinchinadhi (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బ్రతుకు భారమై అలసి ఉండగా",
+        "నీ రెక్కల పై మోసితివి తండ్రి",
+        "సిలువలో చూపిన నీ ప్రేమయే",
+        "బ్రతకాలనే ఆశ కలిగించినది (2)",
+        "నీ ప్రేమయే నన్ను చేరదీసేను",
+        "జీవితమునకు విలువ కలిగెను (2)"
+      ],
+      "english": [
+        "Brathuku bhaaramai alasi undagaa",
+        "Nee rekkala pai mosithivi thandri",
+        "Siluvalo choopina nee premaye",
+        "Brathakaalane aasha kaliginchinadhi (2)",
+        "Nee premaye nannu cheradheesenu",
+        "Jeevithamunaku viluva kaligenu (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఈ లోక ప్రేమలు మారిపోవును",
+        "శాశ్వతమైనది నీ ప్రేమయే తండ్రి",
+        "సిలువలో చేసిన నీ త్యాగమే",
+        "రక్షణ భాగ్యము నా కోసగినది (2)",
+        "నీ ప్రేమ నాలో పరిమళించెను",
+        "నా హృదిలో నా కొలువాయెను (2)",
+        "అభిషక్తుడా",
+        "( ప్రేమమయునడా )(ప్రేమ మయడా)"
+      ],
+      "english": [
+        "Ee loka premalu maaripovunu",
+        "Shaashwathamainadi nee premaye thandri",
+        "Siluvalo chesina nee thyaagame",
+        "Rakshana bhaagyamu naa kosaginadhi (2)",
+        "Nee prema naalo parimalinchenu",
+        "Naa hrudilo naa koluvaayenu (2)",
+        "Abhishikthudaa",
+        "( Premamayudaa )(Prema mayudaa)"
+      ]
+    }
+  ]
+}

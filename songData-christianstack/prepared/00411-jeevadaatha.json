@@ -1,0 +1,124 @@
+{
+  "song_name": "Jeevadaatha",
+  "author": {
+    "Authored by": "Joshua Shaik",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జీవదాత స్తుతిపాత్రుడా",
+      "నన్నేలు దేవా నజరేయుడా",
+      "ప్రేమ చూపి పిలిచినావు ప్రాణ నాధా పరమాత్ముడా",
+      "నీవు లేక ఇలలో నేను బ్రతుకలేను నిజ దేవుడా"
+    ],
+    "english": [
+      "Jeevadaatha sthuthipaathrudaa",
+      "nannelu deva najareyudaa",
+      "prema choopi pilichinaavu praana naadhaa paramaathmudaa",
+      "neevu leka ilalo nenu brathukalenu nija devudaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జీవదాత స్తుతిపాత్రుడా",
+        "నన్నేలు దేవా నజరేయుడా",
+        "ప్రేమ చూపి పిలిచినావు ప్రాణ నాధా పరమాత్ముడా",
+        "అంధకార ఈ జగాన నీవే చాలు నా యేసయ్య"
+      ],
+      "english": [
+        "Jeevadaatha sthuthipaathrudaa",
+        "nannelu deva najareyudaa",
+        "prema choopi pilichinaavu praana naadhaa paramaathmudaa",
+        "andhakaara ee jagaana neeve chaalu naa yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "లోక ప్రేమలు – నను వీడినా",
+        "విరిగి నలిగి వేసారినా",
+        "ఎదురుగ – నిలచిన – ప్రేమే నీవు – ఎడబాయవు"
+      ],
+      "english": [
+        "Loka premalu – nanu veedinaa",
+        "virigi naligi vesaarinaa",
+        "edhurugaa nilachina preme neevu edabaayavu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "గాలి వానలు చెలరేగినా",
+        "కృంగి నేను పడిపోయినా",
+        "అలలలో – మరువని – ఆశే నీవు – విడనాడవు"
+      ],
+      "english": [
+        "Gaali vaanalu chelareginaa",
+        "krungi nenu padipoyinaa",
+        "alalalo maruvani aasey neevu vidanaadavu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యేసయ్యా – నీ స్నేహమే",
+        "యేసయ్యా – నా భాగ్యమే",
+        "చల్లగా – చూసావుగా",
+        "ధరలో – సుఖమై – వరమై నా తల్లిగా",
+        "చెరలో – బలమై – నిలిచే నా తండ్రిగా"
+      ],
+      "english": [
+        "Yesayya nee snehame",
+        "yesayya naa bhaagyame",
+        "challagaa choosaavugaa",
+        "dharalo sukhamai varamai naa thalligaa",
+        "cheralo balamai niliche naa thandrigaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీదు మార్గము – పరిపూర్ణము",
+        "ఇలలో నాకు – జయగీతము",
+        "అనిశము – అభయము – నీవే దేవా – పరమాత్ముడా"
+      ],
+      "english": [
+        "Needhu maargamu paripoornamu",
+        "ilalo naaku jayageethamu",
+        "anisamu abhayamu neeve devaa paramaathmudaa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నీదు నామము – అతి శ్రేష్టము",
+        "పలికె నాలో – స్తుతి గీతము",
+        "మహిమయు – ఘనతయు – నీకే దేవా – పరిశుద్ధుడా"
+      ],
+      "english": [
+        "Needhu naamamu athi sreshtamu",
+        "palike naalo sthuthi geethamu",
+        "mahimayu ghanathayu neeke devaa parishudhudaa"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "యేసయ్యా – నీ వాక్యమే",
+        "యేసయ్యా – ఆధారమే",
+        "ప్రేమతో – కోరానుగా",
+        "కృపతో – చెలిమై – మలిచే నా బంధమా",
+        "మదిలో – కొలువై – నిలిచే ఆనందమా"
+      ],
+      "english": [
+        "Yesayya nee vaakyame",
+        "yesayya aadhaaramey",
+        "prematho koraanugaa",
+        "krupatho chelimai maliche naa bandhamaa",
+        "madhilo koluvai niliche aanandhama"
+      ]
+    }
+  ]
+}

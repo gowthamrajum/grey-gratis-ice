@@ -1,0 +1,69 @@
+{
+  "song_name": "Naa praarthanalanni aalakinchinaavu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రార్థనలన్ని ఆలకించినావు",
+      "నా స్తుతి¬మములన్ని- నీకే అర్పింతుము",
+      "నీ శిలువ త్యాగమే నన్ను బంధించెను",
+      "నీ బానిసనై యుందును బ్రదుకు దినములన్నియు"
+    ],
+    "english": [
+      "Naa praarthanalanni aalakinchinaavu",
+      "Naa sthuthi sumamulanni- Neeke arpinthumu",
+      "Nee shiluva thyaagame nannu bandhinchenu",
+      "Nee baanisanai yundunu bradhuku dhinamulanniyu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అడిగినంతకంటె-అధికముగా చేయు",
+        "ఐశ్వర్యవంతుడవు-నీవే యేసయ్యా",
+        "పరిపూర్ణమైన-నీ దైవత్వమంతా",
+        "పరిశుద్ధతకే- శుభ ఆనవాలు  ||నా||"
+      ],
+      "english": [
+        "Adiginanthakante-Adhikamugaa cheyu",
+        "Aishvaryavanthudavu-Neeve Yesayyaa",
+        "Paripoornamaina-Nee dhaivathvamanthaa",
+        "Parishudhdhathake- Shubha aanavaalu ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆపత్కాలములో మొరపెట్టగానే",
+        "సమీపమైతివే నా యేసయ్యా",
+        "సమీప భాందవ్యములన్నిటికన్నా",
+        "మిన్నయైనది నీ స్నేహబంధము  ||నా||"
+      ],
+      "english": [
+        "Aapathkaalamulo morapettagaane",
+        "Sameepamaithive naa Yesayyaa",
+        "Sameepa baandhavyamulannitikannaa",
+        "Minnayainadhi nee snehabandhamu ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఎక్కలేనంత ఎత్తైన కొండపై",
+        "ఎక్కించుము నన్ను నా యేసయ్యా",
+        "ఆశ్చర్యకరమైన నీ ఆలోచనలు",
+        "ఆత్మీయతకే స్థిరపునాదులు  ||నా||"
+      ],
+      "english": [
+        "Ekkalenantha etthaina kondapai",
+        "Ekkinchumu nannu naa Yesayyaa",
+        "Aashcharyakaramaina nee aalochanalu",
+        "Aathmeeyathake sthirapunaadhulu ||Naa||"
+      ]
+    }
+  ]
+}

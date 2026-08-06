@@ -1,0 +1,93 @@
+{
+  "song_name": "Manchivaadaa manchivaadaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "కోరస్:",
+      "మంచివాడా మంచివాడా",
+      "చాల చాల మంచివాడా"
+    ],
+    "english": [
+      "Chorus:",
+      "Manchivaadaa manchivaadaa",
+      "Chaala chaala manchivaadaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీదు కృపనే ధారాలముగ",
+        "మాపై కుమ్మరించువాడా"
+      ],
+      "english": [
+        "Needu krupane dhaaraalamuga",
+        "Maapai kummarinchuvaadaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపిగ నేనుండకూడదని",
+        "నా కొరకే నీవు దిగివచ్చావు",
+        "దోషిగ నేనుండకూడదని",
+        "నా శిక్ష యావత్తు నీవు పొందావు"
+      ],
+      "english": [
+        "Paapiga nenundakoodadhani",
+        "Naa korake neevu dhigivachchaavu",
+        "Doshiga nenundakoodadhani",
+        "Naa shiksha yaavatthu neevu pondhaavu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ త్యాగముతో మార్చి రక్తముతో కడిగి",
+        "నను శుద్ధునిగ చేసి యోగ్యునిగ చేసి",
+        "నిత్యజీవమునే అందించావు",
+        "నీ యొక్క కరుణనే కుమ్మరించావు"
+      ],
+      "english": [
+        "Nee thyaagamutho maarchi rakthamutho kadigi",
+        "Nanu shuddhuniga chesi yogyuniga chesi",
+        "Nithyajeevamune andhinchaavu",
+        "Nee yokka karunane kummarinchaavu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఉగ్రత నాపై రాకూడదని",
+        "నీతిమంతునిగ తీర్చివేసావు",
+        "శత్రువు నేమాత్రం కాను అని",
+        "సమాధానముతో నింపివేసావు"
+      ],
+      "english": [
+        "Ugratha naapai raakoodadhani",
+        "Neethimanthuniga theerchivesaavu",
+        "Shathruvu nemaathram kaanu ani",
+        "Samaadhaanamutho nimpivesaavu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నీ హస్తముతో కాచి రెక్కలలో దాచి",
+        "శుద్ధత్మునినే పంపి నను దైర్యముతో నింపి",
+        "నా విశ్వాసమునే స్తిరపరిచావు",
+        "నీ యొక్క ప్రేమనే కుమ్మరించావు"
+      ],
+      "english": [
+        "Nee hasthamutho kaachi rekkalalo daachi",
+        "Shuddhaathmunine pampi nanu dhairyamutho nimpi",
+        "Naa vishwaasamune sthiraparichaavu",
+        "Nee yokka premane kummarinchaavu"
+      ]
+    }
+  ]
+}

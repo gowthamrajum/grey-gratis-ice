@@ -1,0 +1,34 @@
+{
+  "song_name": "Nee Chethi Kaaryamu",
+  "author": {
+    "Authored by": "Joshua Shaik & Deva Prasad",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ చేతి కార్యము – నాలోన జరిగించు",
+      "నీ దివ్య చిత్తము – నాలోన నెరవేర్చు",
+      "నీ సన్నిధానము – నిత్యము కనపరచు",
+      "నీ వాగ్దానము – నాలోన స్థిరపరచు"
+    ],
+    "english": [
+      "Nee chethi kaaryamu – naalona jariginchu",
+      "nee divya chitthamu – naalona neraverchu",
+      "nee sannidhaanamu – nithyamu kanaparachu",
+      "nee vaagdhaanamu – naalona sthiraparachu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసయ్య యేసయ్య – నా బలం నీవయా",
+        "ఏ భయం లేదయా – నీ కృప చాలయా"
+      ],
+      "english": [
+        "Yesayya yesayya – naa balam neevayaa",
+        "ye bhayam ledayaa – nee krupa chaalayaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "song_name": "Anandakaramainadhi",
+  "author": {
+    "Authored by": "Saint Devadas",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆనందకరమైనది-మన బ్రతుకెంతో-",
+      "ఆశ్చర్యకరమైనది-మన బ్రతుకెంతో-",
+      "అద్భుతకరమైనది-మన బ్రతుకెంతో-",
+      "ఉపయోగకరమైనది-",
+      "జ్ఞాని నేత్రములకు ఆనున్ గాని ఇతర మానవుని నేత్రాల-",
+      "కానుటెట్లుండును"
+    ],
+    "english": [
+      "Aanandhakaramainadhi – mana brathukentho-",
+      "aaschryakaramainadhi – mana brathukentho –",
+      "adbhuthakaramainadhi – mana brathukentho –",
+      "upayogakaramainadhi – gnyani nethramulaku aamen gaani ithara maanavuni nethraala –",
+      "kaanutetlundunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సృష్టియంతటిలోను – మనమే వింత- సృష్టిగ నేర్పడినాము",
+        "సూర్యుండు చంద్రుండు- చుక్కలు మన కొరకే",
+        "నీడ నిచ్చు మబ్బు- నింగియు మన కొరకే",
+        "కంటికి కనబడని – గాలియు మన కొరకే",
+        "దప్పి తీర్చు వర్ష- ధారయు మన కొరకే",
+        "మనమెంత ధన్యులము- మనమెంత ధన్యులము",
+        "రంగు పూసిన పక్షులు- పాటలు పల్కు- సంగీత సామాజికులు",
+        "శృంగార వనములు- చెట్లపై ఫలములు",
+        "నింగి కిరణాలెన్నో- రంగులద్దిన పువ్వుల్",
+        "వంగి నీళ్ళు త్రాగు- పశువులు మృగములు",
+        "పొంగి ప్రవహించెడి- పొడుగు నదులు వాగుల్",
+        "మంగళ ధ్వనులతో- మహిమ పర్చుడి తండ్రిన్"
+      ],
+      "english": [
+        "Srushtiyanthatilonu – maname vintha – srushtiga nerpadinaamu",
+        "suryndu chandrundu – chukkalu mana korake",
+        "needa nicchu mabbhu – ningiyu mana korake",
+        "kantiki kanabadani – gaaliyu mana korake",
+        "dhappi theerchu varsha – dhaarayu mana korake",
+        "manamentha dhanyulamu – manamentha dhanyulamu",
+        "Rangu poosina pakshulu – paatalu palku – sangeetha saamaajikulu",
+        "srungaara vanamulu – chetlapai phalamulu",
+        "ningi kirannaalenno – ranguladdhina puvvul",
+        "vangi neellu thraaggu – pasuvulu mrugamulu",
+        "pongi pravahinchedi – pdugu nadhulu vaagul",
+        "mangalla dhvanulatho – mahima parchudi thandrin"
+      ]
+    }
+  ]
+}

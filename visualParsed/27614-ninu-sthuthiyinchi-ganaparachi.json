@@ -1,0 +1,101 @@
+{
+  "song_name": "Ninnu sthuthiyinchi ghanaparachi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిన్ను స్తుతియించి ఘనపరచి సేవింతును “2”",
+      "నిన్ను స్తుతియించి ఘనపరచి సేవింతును",
+      "దేవా... ఆరాధింతును",
+      "నిన్ను స్తుతియించి ఘనపరచి సేవింతును",
+      "దేవా... ఆరాధింతును",
+      "నా స్తుతులకు పాత్రుడవు నీవు ఆరాధించెదను “2”",
+      "ఆరాధన స్తుతి ఆరాధన నీకే",
+      "ఆరాధన స్తుతి ఘన మహిమలు నీకే",
+      "నీవే నా జీవము నీవే నా సర్వము",
+      "ఆరాధన స్తుతి ఆరాధన నీకే",
+      "ఆరాధన స్తుతి ఘన మహిమలు నీకే",
+      "“నా స్తుతులకు”"
+    ],
+    "english": [
+      "Ninnu sthuthiyinchi ghanaparachi sevinthunu “2”",
+      "Ninnu sthuthiyinchi ghanaparachi sevinthunu",
+      "Deva... aaraadhinthunu",
+      "Ninnu sthuthiyinchi ghanaparachi sevinthunu",
+      "Deva... aaraadhinthunu",
+      "Naa sthuthulaku paathrudavu neevu aaraadhinchedanu “2”",
+      "Aaraadhana sthuthi aaraadhana neeke",
+      "Aaraadhana sthuthi ghana mahimalu neeke",
+      "Neeve naa jeevamu neeve naa sarvamu",
+      "Aaraadhana sthuthi aaraadhana neeke",
+      "Aaraadhana sthuthi ghana mahimalu neeke",
+      "“Naa sthuthulaku”"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "1వ",
+        "ప్రభువా నే ప్రతి చోట ప్రభువా నే ప్రతి సమయం }",
+        "ఆరాధించి సేవించెదా...ఆరాధించి ఆనందించెదా.. } “2”",
+        "నా తండ్రి నీవే నా రాజు నీవే",
+        "నా లోకం నీవే నాకన్నీ నీవే",
+        "ఆరాధించి సేవించెదా...ఆరాధించి ఆనందించెదా..”2”  ||నిన్ను||"
+      ],
+      "english": [
+        "1va",
+        "Prabhuva ne prathi chota Prabhuva ne prathi samayam }",
+        "Aaraadhinchi sevinchedaa...aaraadhinchi aanandhinchedaa.. } “2”",
+        "Naa thandri neeve naa raaju neeve",
+        "Naa lokam neeve naakannee neeve",
+        "Aaraadhinchi sevinchedaa...aaraadhinchi aanandhinchedaa..”2”  ||Ninnu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "2వ",
+        "ప్రభువా నీ వాక్యముతో ప్రభువా నే జీవిస్తూ }",
+        "ఆరాధించి సేవించెదా...ఆరాధించి ఆనందించెదా...} “2”",
+        "నా దైవం నీవే ఆధారం నీవే",
+        "నా ధ్యానం నీవే నా ప్రాణం నీవే",
+        "ఆరాధించి సేవించెదా...ఆరాధించి ఆనందించెదా..”2”  ||నిన్ను||"
+      ],
+      "english": [
+        "2va",
+        "Prabhuva nee vaakyamutho Prabhuva ne jeevisthoo }",
+        "Aaraadhinchi sevinchedaa...aaraadhinchi aanandhinchedaa...} “2”",
+        "Naa daivam neeve aadhaaram neeve",
+        "Naa dhyaanam neeve naa praanam neeve",
+        "Aaraadhinchi sevinchedaa...aaraadhinchi aanandhinchedaa..”2”  ||Ninnu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "3వ",
+        "ప్రభువా నీ రాజ్యంలో ప్రభువా పరిశుద్దులతో }",
+        "ఆరాధించి సేవించెదా...ఆరాధించి ఆనందించెదా..} “2”",
+        "నా ధైర్యం నీవే నా బలము నీవే",
+        "నా రక్షణ నీవే గురిగమ్యం నీవే",
+        "నీతో కలసి నిత్యం ఉండెదా }",
+        "నిత్యం నిన్నే ఆరాధించెదా } “2”",
+        "ఆరాధన స్తుతి ఘన మహిమలు నీకే  ||నిన్ను||  ||నిన్ను||"
+      ],
+      "english": [
+        "3va",
+        "Prabhuva nee raajyamlo Prabhuva parishuddhulatho }",
+        "Aaraadhinchi sevinchedaa...aaraadhinchi aanandhinchedaa..} “2”",
+        "Naa dhairyam neeve naa balamu neeve",
+        "Naa rakshana neeve gurigamyam neeve",
+        "Neetho kalasi nithyam undedaa }",
+        "Nithyam ninne aaraadhinchedaa } “2”",
+        "Aaraadhana sthuthi ghana mahimalu neeke  ||Ninnu||  ||Ninnu||"
+      ]
+    }
+  ]
+}

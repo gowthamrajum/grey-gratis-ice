@@ -1,0 +1,43 @@
+{
+  "song_name": "Raare Gollavaaralaaraa Naeti Raathri",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రారె గొల్లవారలారా నేటి రాత్రి బేత్లెహేము నూర జేరి",
+      "మోక్షదూత కోరి దెల్పెను క్రీస్తు వారి జాడకన్ను లారా జూతము వేగ"
+    ],
+    "english": [
+      "Raare Gollavaaralaaraa Naeti Raathri Baethlehaemu Noora Jaeri",
+      "Moakshadhootha Koari Dhelpenu Kreesthu Vaari Jaadakannu Laaraa Joothamu Vaega"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పుట్టు చావులు లేనివాడఁట పసుల తొట్టిలోపలఁ బుట్టెనేడఁట",
+        "ఎట్టి వారలను జే పట్టి పాపము లూడఁ గొట్టి",
+        "మోక్షపుత్రోవఁ బెట్టు వాడట వేగ"
+      ],
+      "english": [
+        "Puttu Chaavulu Laenivaadata Pasula Thottiloapala Buttenaedata",
+        "Etti Vaaralanu Jae Patti Paapamu Looda Gotti",
+        "Moakshaputhroava Bettu Vaadata Vaega"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బహుకాలమాయెను వింటిమి నేడు మహికివచ్చుట కనుగొంటిమి",
+        "విహితముతోడ సేవించి వత్తము మోక్ష మహితుని గని దుఃఖ రహితులమవుదము."
+      ],
+      "english": [
+        "Bahukaalamaayenu Vintimi Naedu Mahikivachchuta Kanugontimi",
+        "Vihithamuthoada Saevinchi Vaththamu Moaksha Mahithuni Gani Duhkha Rahithulamavudhamu."
+      ]
+    }
+  ]
+}

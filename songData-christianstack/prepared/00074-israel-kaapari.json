@@ -1,0 +1,94 @@
+{
+  "song_name": "Israel Kaapari",
+  "author": {
+    "Authored by": "Pastor Ramesh",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "అబ్రహాము నమ్మిన దేవుడా",
+      "నా పితరుల ఆరాధ్య దైవమా",
+      "ఇశ్రాయేలు కాపరి – బహుగొప్ప నేర్పరి",
+      "నీకు సాటియెవరు యేసయ్యా"
+    ],
+    "english": [
+      "Abrahamu nammina Dhevuda",
+      "Naa pitharula aaradhya dhaivamaa",
+      "Ishrayelu kaapari – bahugoppa nerpari",
+      "Neeku saati evaru Yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సహాయకుడా నిత్యస్తోత్రార్హుడా",
+        "ప్రభాకరుడా బహు బలవంతుడా",
+        "సత్యవంతుడా మహా పరిశుద్ధుడా",
+        "ఆరాధనకు యోగ్యుడా"
+      ],
+      "english": [
+        "Sahaayakuda nithya sthothraarhuda",
+        "Prabhaakaruda bahu balavanthuda",
+        "Sathyavanthuda maha parishuddhuda",
+        "Aaradhanaku yogyuda"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీలి మేఘమును నీడగా మార్చి",
+        "అగ్ని స్థంభమును కాంతిగా నిలిపి",
+        "సైన్యములకు నీవే సారధిగా నిలిచి",
+        "నింగినంటిన గోడలు కుప్పగా కూల్చిన",
+        "మా పక్షమైయున్న- మహారాజువు నీవే",
+        "నీకు సాధ్యము కానిది ఏదైనా కలదా"
+      ],
+      "english": [
+        "Neeli meghamunu needaga maarchi",
+        "Agni sthambhamunu kaanthiga nilipi",
+        "Sainyamulaku neeve saaradhiga nilichi",
+        "Ninginantina godalu kuppaga koolchina",
+        "Maa pakshamaiyunna Maharaajuvu neeve",
+        "Neeku saadhyamu kaanidhi edhaina kaladhaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిరాశ్రయులకు నీవే నిత్యాశ్రయమై",
+        "నిరాశల నీడను తొలగించెదవు",
+        "విస్తారమైన నీకృపలతో నింపి",
+        "నిస్సారమైన బ్రతుకును మార్చెదవు విజయోత్సవముతో ఊరేగించెదవు",
+        "నీకు సాధ్యము కానిది ఏదైనా కలదా"
+      ],
+      "english": [
+        "Niraashrayulaku neeve nithya aashrayamai",
+        "Niraashala needanu tholaginchedhavu",
+        "Visthaaramaina nee krupalatho nimpi",
+        "Nissaaramaina brathukunu maarchedhavu",
+        "Vijayothsavamutho ooreginchedhavu",
+        "Neeku saadhyamu kaanidhi edhaina kaladhaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సాత్వీకముతో – దీర్ఘశాంతముతో",
+        "విసుగక నాయెడల వాత్సల్యము చూపి",
+        "ఒంటరిగా నను ఎన్నడు విడువక",
+        "వేదనలో నను దాటి వెళ్లక",
+        "తల్లివలె ఒడిలో లాలించువాడవు",
+        "తీరని నీ రుణము వివరింప తరమా"
+      ],
+      "english": [
+        "Saathveekamutho dheergha shaanthamutho",
+        "Visugaka naa yedala vaathsalyamu choopi",
+        "Ontariga nanu ennadu viduvaka",
+        "Vedhanalo nanu dhaati vellaka",
+        "Thallivale odilo laalinchuvadavuu",
+        "Theerani nee runamu vivarimpa tharamaa"
+      ]
+    }
+  ]
+}

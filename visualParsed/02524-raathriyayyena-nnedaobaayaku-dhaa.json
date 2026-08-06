@@ -1,0 +1,86 @@
+{
+  "song_name": "Raathriyayyena nnedabaayaku",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "హెన్రీ ప్రాన్సిస్ లైట్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాత్రియయ్యెన న్నెడఁబాయకు",
+      "ధాత్రిపైఁ జీఁకతులుఁ గ్రమ్మెను",
+      "సహాయ మేమి లేనివారికి",
+      "సహాయుఁడా, నన్ బాసిపోకుమీ."
+    ],
+    "english": [
+      "Raathriyayyena nnedabaayaku",
+      "Dhaathripai jeekathulu grammenu",
+      "Sahaaya memi lenivaariki",
+      "Sahaayudaa, nan baasipokumee."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఏకాలంబైన నీ సహాయము",
+        "లేక పిశాచిన్ గెల్వఁజాలను",
+        "నీకంటె నాకు లేదుగా",
+        "లోక ప్రకాశుఁడా, నన్ బాయకు."
+      ],
+      "english": [
+        "Ekaalambaina nee sahaayamu",
+        "Leka pishaachin gelvajaalanu",
+        "Neekante naaku ledugaa",
+        "Loka prakaashudaa, nan baayaku."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా చెంత నీవు చేరియుండఁగ",
+        "ఏ చింతయైన నన్ను సోకునా",
+        "ఏ శత్రువైన నన్ను గెల్చునా?",
+        "నా శైలమా, నన్ బాసిపోకుమా."
+      ],
+      "english": [
+        "Naa chentha neevu cheriyundaga",
+        "E chinthayaina nannu sokunaa",
+        "E shathruvaina nannu gelchunaa?",
+        "Naa shailamaa, nan baasipokumaa."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సమృద్ధుఁడు సహాయుఁ డాయెను",
+        "ఓ మృత్యువా నీ ముల్లు గెల్చునా?",
+        "సమాధి నీకు జయమబ్బునా?",
+        "మా మధ్యమున్ సర్వేశ పాయకు."
+      ],
+      "english": [
+        "Samrudhdhudu sahaayu daayenu",
+        "O mruthyuvaa nee mullu gelchunaa?",
+        "Samaadhi neeku jayamabbunaa?",
+        "Maa madhyamun sarvesha paayaku."
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "రేవు నేఁ జేరఁబోవు వేళలోన్",
+        "కావుమయ్యా నీ దీప్తిఁ జూపుచున్",
+        "చావు జీవంబులందు నైనను",
+        "నీవు తోడై నన్ బాసిపోకుము."
+      ],
+      "english": [
+        "Revu ne jerabovu velalon",
+        "Kaavumayyaa nee dheepthi joopuchun",
+        "Chaavu jeevambulandhu nainanu",
+        "Neevu thodai nan baasipokumu."
+      ]
+    }
+  ]
+}

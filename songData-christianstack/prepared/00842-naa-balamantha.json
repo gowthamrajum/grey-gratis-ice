@@ -1,0 +1,36 @@
+{
+  "song_name": "Naa Balamantha",
+  "author": {
+    "Authored by": "Sammy Thangiah",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా బలమంతా నీవేనయా",
+      "నా బలమంతా నీవేనయా"
+    ],
+    "english": [
+      "Naa balamantha neevenayya",
+      "Naa balamantha neevenayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "Bridge:",
+        "జీవం నీవేనయ్యా",
+        "స్నేహం నీవేనయ్యా",
+        "ప్రియుడవు నీవేనయ్యా",
+        "సర్వస్వం నీవేనయ్యా"
+      ],
+      "english": [
+        "Bridge:",
+        "Jeevam neevenayya",
+        "sneham neevenayya",
+        "priyuduvu neevenayya",
+        "sarvasvam neevenayya"
+      ]
+    }
+  ]
+}

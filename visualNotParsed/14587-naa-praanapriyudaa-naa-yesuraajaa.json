@@ -1,0 +1,54 @@
+{
+  "song_name": "Naa praanapriyudaa naa Yesuraajaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రాణప్రియుడా నా యేసురాజా",
+      "నా యేలినవాడా నా స్నేహితుడా (2)",
+      "నిన్ను చేరాలని నీతో ఉండాలని (2)",
+      "నిన్ను వలచానయ్యా – నీవు నా సొంతం (2) ||నా ప్రాణ||"
+    ],
+    "english": [
+      "Naa praanapriyudaa naa Yesuraajaa",
+      "Naa yelinavaadaa naa snehithudaa (2)",
+      "Ninnu cheraalani neetho undaalani (2)",
+      "Ninnu valachaanayyaa - Neevu naa sontham (2) ||Naa praana||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ స్వరము నే వింటిని – ప్రాణం సొమ్మసిల్లెనేసయ్యా",
+        "నీ ముఖము నే చూచితిని – మనసానందమాయేనా (2)",
+        "నీ ప్రేమను రుచి చూచితి",
+        "నీ వశమైతిని యేసయ్యా (2)  ||నా||"
+      ],
+      "english": [
+        "Nee swaramu ne vintini - Praanam sommasillenesayyaa",
+        "Nee mukhamu ne choochithini - Manasaanandhamaayenaa (2)",
+        "Nee premanu ruchi choochithi",
+        "Nee vashamaithini Yesayyaa (2) ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ చేయి నే పట్టుకొని – నీతో నడవాలనుంది యేసయ్యా",
+        "నీ భుజమును నేనానుకొని – నీతో బ్రతకాలనుంది యేసయ్యా (2)",
+        "నిన్ను హత్తుకొని",
+        "నీ ఒడిలోన నిదురించాలని ఉందయ్యా (2)  ||నా||"
+      ],
+      "english": [
+        "Nee cheyi ne pattukoni - Neetho nadavaalanundhi Yesayyaa",
+        "Nee bhujamunu nenaanukoni - Neetho brathakaalanundhi Yesayyaa (2)",
+        "Ninnu hatthukoni",
+        "Nee odilona nidhurinchaalani undayyaa (2) ||Naa||"
+      ]
+    }
+  ]
+}

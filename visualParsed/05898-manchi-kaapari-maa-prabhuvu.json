@@ -1,0 +1,69 @@
+{
+  "song_name": "Manchi kaapari maa Prabhuvu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మంచి కాపరి మాప్రభు యేసే....",
+      "మా కొరకు ప్రాణ మిచ్చే గొప్ప కాపరి",
+      "మరణ మన్నను భయము లేదులే",
+      "మదురమైన ప్రేమతో మమ్ము కాయులే"
+    ],
+    "english": [
+      "Manchi kaapari maa Prabhu Yese....",
+      "Maa koraku praana michche goppa kaapari",
+      "Marana mannanu bhayamu ledule",
+      "Madhuramaina prematho mammu kaayule"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పచ్చిక భయళ్ళలో విశ్రమింపగా",
+        "శాంతి జలాల చెంత అడుగు వేయగా",
+        "చేయివిడువకా తోడు నిలచును",
+        "నీతి మార్గమందు మమ్ము నడువజేయును \"మంచి\""
+      ],
+      "english": [
+        "Pachchika bayallalo vishramimpagaa",
+        "Shaanthi jalaala chentha adugu veyagaa",
+        "Cheyividuvakaa thodu nilachunu",
+        "Neethi maargamandu mammu naduvajeyunu \"Manchi\""
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అందకారలోయలో మా పయనంలో",
+        "లేదులే మాకు భయం అభయం తానే",
+        "ఆదరించును ఆశీర్వదించును",
+        "అన్ని తావులయందు తానే తోడైయుండును \"మంచి\""
+      ],
+      "english": [
+        "Andhakaara loyalo maa payanamlo",
+        "Ledule maaku bhayam abhayam thaane",
+        "Aadharinchunu aasheervadhinchunu",
+        "Anni thaavulayandhu thaane thodaiyundunu \"Manchi\""
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "శత్రువుల మధ్యలో మాకు భోజనం",
+        "అభిషేకం ఆనందం కృపా క్షేమమే",
+        "బ్రతుకు నిండగా పొంగి పొర్లగా",
+        "చిరకాలం ఆయనతో జీవింపగా \"మంచి\""
+      ],
+      "english": [
+        "Shathruvula madhyalo maaku bhojanam",
+        "Abhishekam aanandam krupaa kshemame",
+        "Brathuku nindagaa pongi porlagaa",
+        "Chirakaalam aayanatho jeevimpagaa \"Manchi\""
+      ]
+    }
+  ]
+}

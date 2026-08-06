@@ -1,0 +1,89 @@
+{
+  "song_name": "Eduruchoosina kaalam – Pratyaksha parichenu daivam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Pappula Yesu Daasu"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎదురుచూసిన కాలం – ప్రత్యక్ష పరిచెను దైవం",
+      "ప్రవక్తల ప్రవచన సారం – నెరవేరిన వైనం",
+      "హ్యాపీ హ్యాపీ క్రిస్మస్",
+      "మెర్రీ మెర్రీ క్రిస్మస్",
+      "రక్షకుడు పుట్టినాడు బెత్లహేములో – రక్షించుదేవుడండి",
+      "రక్షకుడు పుట్టినాడు బెత్లహేములో – హల్లెలూయా"
+    ],
+    "english": [
+      "Eduruchoosina kaalam – Pratyaksha parichenu daivam",
+      "Pravakthala pravachana saaram – Neraverina vainam",
+      "Happy happy Christmas",
+      "Merry Merry Christmas",
+      "Rakshakudu puttinaadu Bethlahemulo – Rakshinchudhevudandi",
+      "Rakshakudu puttinaadu Bethlahemulo – Hallelooyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కన్య మరియ గర్భం – పరిశుద్దాత్మ ప్రభావం",
+        "దావీదు సింహాసనం – అధిష్టించే ప్రభు నీ జననం",
+        "సంతోషమే సమాధానమే – ఈ మనుష్యులందరికి",
+        "ఆనందమే ఉత్సాహమే – రక్షణ సంతోషమే"
+      ],
+      "english": [
+        "Kanya Mariya garbham – Parishuddhaathma prabhaavam",
+        "Daaveedu simhaasanam – Adhishtinche Prabhu nee jananam",
+        "Santhoshame samaadhaaname – Ee manushyulandhariki",
+        "Aanandame uthsaahame – Rakshana santhoshame"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసు సార్ధక నామధేయం- ఇమ్మానుయేలు ప్రత్యక్షం",
+        "అనాది సంకల్పం నెరవేరిన శుభసమయం"
+      ],
+      "english": [
+        "Yesu saardhaka naamadheyam- Immaanuyelu pratyaksham",
+        "Anaadi sankalpam neraverina shubhasamayam"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దేవ దేవుని ప్రభోదం – దివ్య మహిమ ప్రకాశం",
+        "ధరణిపై దేవదూతల గానం – శాంతి సమాధానం"
+      ],
+      "english": [
+        "Deva Devuni prabodham – Divya mahima prakaasham",
+        "Dharanipai dhevadhoothala gaanam – Shaanthi samaadhaanam"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "లోక రక్షకుని జననం – లోకమంత వెలుగు ప్రకాశం",
+        "పాపశాప భారం – భరియించే ఆశ్రయ దుర్గం"
+      ],
+      "english": [
+        "Loka rakshakuni jananam – Lokamantha velugu prakaasham",
+        "Paapashaapa bhaaram – Bhariyinche aashraya dhurgam"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పరమ పవిత్రం – పరిశుద్దని జననం",
+        "పరమ గురువుని దర్శనం – జనులందరి భాగ్యం"
+      ],
+      "english": [
+        "Parama pavithram – Parishuddhani jananam",
+        "Parama guruvuni darshanam – Janulandhari bhaagyam"
+      ]
+    }
+  ]
+}

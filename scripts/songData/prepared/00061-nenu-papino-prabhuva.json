@@ -1,0 +1,45 @@
+{
+  "song_name": "Ne Paapino Prabhuvaa",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నే పాపినో ప్రభువా - నను కావుమా దేవా",
+      "నే పాపినో ప్రభువా - నను కావుమా దేవా (2X)"
+    ],
+    "english": [
+      "Ne Paapino Prabhuvaa - Nanu Kaavumaa Devaa",
+      "Ne Paapino Prabhuvaa - Nanu Kaavumaa Devaa (2X)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కరుణాలవాలా - నీ మ్రోల నేలా - తల వాల్చి నిలిచేనులే (2X)",
+        "దయ చూడు చాలా - దురితాల ద్రోలా",
+        "నీ సాటి దైవంబు లేరవ్వరు లేరవ్వరు"
+      ],
+      "english": [
+        "Karunaalavaalaa - Nee Mrola Nelaa - Thala Vaalchi Nilichenule (2X)",
+        "Daya Choodu Chaalaa - Durithaala Drolaa",
+        "Nee Saati Daivambu Leravvaru Leravvaru"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వుదయించినావు - సదయుండ నీవు - ముదమార మా కొరకై (2X)",
+        "మోసీవు సిలువ - నీ ప్రేమ విలువ",
+        "నా తరమా చెల్లించ - నా యేసువా నా యేసువా"
+      ],
+      "english": [
+        "Vudayinchinaavu - Sadayunda Neevu - Mudamaara Maa Korakai (2X)",
+        "Moseevu Siluva - Nee Prema Viluva",
+        "Naa Tharamaa Chellincha - Naa Yesuvaa Naa Yesuvaa"
+      ]
+    }
+  ]
+}

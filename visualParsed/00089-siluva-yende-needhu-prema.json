@@ -1,0 +1,40 @@
+{
+  "song_name": "Siluvayande needu prema",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సిలువయందె నీదు ప్రేమ తెలిసికొంటినో ప్రభు (2)"
+    ],
+    "english": [
+      "Siluvayande needu prema thelisikontino Prabhu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నాదు పాప గాయములను - మాపగోరి సిల్వపై",
+        "నీదు దేహ మంత కొరడా దెబ్బలోర్చికొంటివి  ||సిలువయందె||"
+      ],
+      "english": [
+        "Naadu paapa gaayamulanu - Maapagori silvapai",
+        "Needu deha mantha koradaa dhebbalorchikontivi  ||Siluvayande||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తండ్రి కుమార శుద్దాత్మలదేవ - ఆరాధింతు ఆత్మతో",
+        "హల్లెలూయ స్తోత్రములను ఎల్లవేళ పాడెదం  ||సిలువయందె||"
+      ],
+      "english": [
+        "Thandri kumaara shuddhaathmala Deva - Aaraadhinthu aathmatho",
+        "Hallelooya sthothramulanu ellavela paadedam  ||Siluvayande||"
+      ]
+    }
+  ]
+}

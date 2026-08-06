@@ -1,0 +1,44 @@
+{
+  "song_name": "Nija Christmas Aaradhana",
+  "author": {
+    "Authored by": "John Gideon",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కన్య మరియ సుతునికే స్తుతి ఆరాధన",
+      "వరదైవ పుత్రునికే నిత్య ఆరాధన",
+      "పాప శాపహరునికే సత్య ఆరాధన",
+      "ఇమ్మానుయేలు నీకే కృతజ్ఞత ఆరాధన",
+      "క్రీస్తుని ఆరాధించుట నిజ క్రిస్మస్ ఆరాధన"
+    ],
+    "english": [
+      "Kanya mariya suthunike sthuthi aaradhana",
+      "varadhaiva puthrunike nithya aaradhana",
+      "paapa shaapa harunike sathya aaradhana",
+      "immanuelu neeke kruthagnatha aaradhana",
+      "kreesthuni aaradhinchuta nija christmas aaradhana"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యూదా బాల సింహమా",
+        "యాకోబు నక్షత్రమా",
+        "యుగాల ప్రవచనం నెరవేరగా",
+        "మనుజావా తారి అయ్యి యేసు జన్మించే",
+        "ధన్య మరియ సంతానమై యేసు",
+        "బెత్లెహేములో రారాజుగా జన్మించే"
+      ],
+      "english": [
+        "Yudhaa baala simhamaa",
+        "yaakobu nakshathramaa",
+        "yugaala pravachanam neraveragaa",
+        "manujaavaa thaari ayyi yesu janminche",
+        "dhanya mariya santhaanamai yesu",
+        "bethlehemulo raarajugaa janminche"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "song_name": "Ninne ninne koluthunayaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిన్నే నిన్నే కొలుతునయా",
+      "నీవేనీవే నారాజువయ్యా"
+    ],
+    "english": [
+      "Ninne ninne koluthunayaa",
+      "Neeveneeve naaraajuvayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కొండలలో లోయలలో అడవులలో ఎడారులలో",
+        "నన్ను గమనించినావా నన్ను నడిపించినావా",
+        "యేసయ్యా యేసయ్యా యేసయ్యా యేసయ్యా  ||నిన్నే||"
+      ],
+      "english": [
+        "Kondalalo loyalalo adavulalo edaarulalo",
+        "Nannu gamaninchinaavaa nannu nadipinchinaavaa",
+        "Yesayyaa Yesayyaa Yesayyaa Yesayyaa  ||Ninne||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆత్మీయులే నన్ను అవమానించగా",
+        "అన్యులే నను అపహసించగా",
+        "అండ నీవైతివయ్యా నా కొండ నీవే యేసయ్యా. యేసయ్యా (2)"
+      ],
+      "english": [
+        "Aathmeeyule nannu avamaaninchagaa",
+        "Anyule nanu apahasinchagaa",
+        "Anda neevaithivayyaa naa konda neeve Yesayyaa. Yesayyaa (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మరణచ్ఛాయలో మెరిసిన నీ ప్రేమ",
+        "నలిగిన బ్రతుకును కురిసిన నీ కృప",
+        "నన్ను బలపరచెనయ్యా నిన్నే",
+        "ఘనపరతునయ్యా యేసయ్యా... యేసయ్యా (2)"
+      ],
+      "english": [
+        "Maranachchaayalo merisina nee prema",
+        "Naligina brathukunu kurisina nee krupa",
+        "Nannu balaparachenayyaa ninne",
+        "Ghanaparathunayyaa Yesayyaa... Yesayyaa (2)"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "వంచెన వెంచెన ఓరిగిన భారాన్న",
+        "పొసగక విసిగిన విసిరే కెరటానాన్న",
+        "కలలా కడతేర్చినావా",
+        "నీవలలో నను మోసినావా యేసయ్యా (2)  ||నిన్నే||"
+      ],
+      "english": [
+        "Vanchena venchena origina bhaaraanna",
+        "Posagaka visigina visire keratanaanna",
+        "Kalalaa kadatherchinaavaa",
+        "Neevalalo nanu mosinaavaa Yesayyaa (2)  ||Ninne||"
+      ]
+    }
+  ]
+}

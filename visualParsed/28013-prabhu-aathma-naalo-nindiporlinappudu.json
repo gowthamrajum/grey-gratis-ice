@@ -1,0 +1,56 @@
+{
+  "song_name": "Prabhu aathma naalo nindiporlinappudu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభు ఆత్మ నాలో నిండిపొర్లినప్పుడు",
+      "దావీదువలె నేను నాట్యమాడెదన్",
+      "నాట్యమాడెదన్ నేను",
+      "నాట్యమాడెదన్ నేను",
+      "దావీదువలె నేను నాట్యమాడెదన్"
+    ],
+    "english": [
+      "Prabhu aathma naalo nindiporlinappudu",
+      "Dhaaveedhuvale nenu naatyamaadedhan",
+      "Naatyamaadedhan nenu",
+      "Naatyamaadedhan nenu",
+      "Dhaaveedhuvale nenu naatyamaadedhan"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దావీదువలె నేను పాటపాడెదన్",
+        "పాటపాడెదన్ నేను",
+        "పాటపాడెదన్ నేను",
+        "దావీదువలె నేను పాటపాడెదన్"
+      ],
+      "english": [
+        "Dhaaveedhuvale nenu paatapaadedhan",
+        "Paatapaadedhan nenu",
+        "Paatapaadedhan nenu",
+        "Dhaaveedhuvale nenu paatapaadedhan"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దావీదువలె నేను స్తుతించెదను",
+        "స్తుతించెదన్ నేను",
+        "స్తుతించెదన్ నేను",
+        "దావీదువలె నేను స్తుతించెదను"
+      ],
+      "english": [
+        "Dhaaveedhuvale nenu sthuthinchedanu",
+        "Sthuthinchedan nenu",
+        "Sthuthinchedan nenu",
+        "Dhaaveedhuvale nenu sthuthinchedanu"
+      ]
+    }
+  ]
+}

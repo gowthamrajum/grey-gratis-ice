@@ -1,0 +1,86 @@
+{
+  "song_name": "Siluvanu veedanu siluvanu veedanu siluvanu veedanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా యేసు మార్గమందున వెళ్ళ నాయత్తమా?",
+        "గొల్గొతాకొండ బాధలో - పాలు పొందెదవా?",
+        "సిలువను వీడను - సిలువను వీడను",
+        "సిలువను వీడను సిలువను వీడను - సిలువను వీడను",
+        "సిలువను సిలువను వీడను"
+      ],
+      "english": [
+        "Naa Yesu maargamandhuna vella naayaththamaa?",
+        "Golgothaakonda baadhalo - Paalu pondhedhavaa?",
+        "Siluvanu veedanu - Siluvanu veedanu",
+        "Siluvanu veedanu siluvanu veedanu - Siluvanu veedanu",
+        "Siluvanu siluvanu veedanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బంధుమిత్రుల మధ్యను శ్రమ సహింతువా?",
+        "మూర్ఖ కోపిష్టుల మధ్య దిట్టముగ నుందువా?"
+      ],
+      "english": [
+        "Bandhumithrula madhyanu shrama sahinthuvaa?",
+        "Moorkha kopishtula madhya dittamuga nundhuvaa?"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆకలి దాహ బాధలో ధైర్యంబుగ నిల్తువా?",
+        "అవమానము వచ్చినన్ - సిల్వను మోతువా?"
+      ],
+      "english": [
+        "Aakali dhaaha baadhalo dhairyambuga nilthuvaa?",
+        "Avamaanamu vachchinan - Silvanu mothuvaa?"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పాపాత్ములు గుణపడన్ - దత్తము చేతువా?",
+        "భయస్థులు ధైర్యపడన్ - యుద్ధము చేతువా?"
+      ],
+      "english": [
+        "Paapaathmulu gunapadan - Dhaththamu chethuvaa?",
+        "Bhayasthulu dhairyapadan - Yudhdhamu chethuvaa?"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "లోకులు నాశమైరిగా - వీరులు లేకయే",
+        "విమోచకుడు సిల్వలో - వ్రేలాడి మృతి పొందెను"
+      ],
+      "english": [
+        "Lokulu naashamairigaa - Veerulu lekaye",
+        "Vimochakudu silvalo - Vrelaadi mruthi pondenu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "జీవాంతరము వరకు - నిల్చిపోరుసల్పి",
+        "దైవకృపచే గెల్చి నే - మోక్షము చేరుదున్"
+      ],
+      "english": [
+        "Jeevaantharamu varaku - Nilchiporusalpi",
+        "Dhaivakrupache gelchi ne - Mokshamu cherudhun"
+      ]
+    }
+  ]
+}

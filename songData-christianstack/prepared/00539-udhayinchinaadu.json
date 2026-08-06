@@ -1,0 +1,70 @@
+{
+  "song_name": "Udhayinchinaadu",
+  "author": {
+    "Authored by": "Pastor V Joshua",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఉదయించినాడు నా జీవితాన",
+      "నా నీతి సూర్యుడు నా యేసయ్య",
+      "సర్వోన్నతమైన స్థలములలో దేవునికి మహిమ",
+      "ఇష్టులైన వారికి సమాధానము"
+    ],
+    "english": [
+      "Udayinchinaadu naa jeevithaana",
+      "naa neethi sooryudu naa yesayya",
+      "sarvonnathamaina sthalamulalo devuniki mahima",
+      "ishtulaina vaariki samaadhanamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మతిలేని నా జీవితాన్ని",
+        "మరువలేను నా యేసయ్య",
+        "మరియమ్మ గర్భాన జన్మించినాడు",
+        "మార్చెను నా బ్రతుకును నా యేసయ్య"
+      ],
+      "english": [
+        "Mathileni naa jeevithaanni",
+        "maruvalenu naa yesayya",
+        "mariyamma garbhaana janminchinaadu",
+        "maarchenu naa brathukunu naa yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గురిలేని ఈ యాత్రలోన",
+        "గుర్తించి నన్ను పిలిచెను",
+        "గుణవంతుడైన నా యేసయ్యనే",
+        "గురిగా నేను నిలుపుకుంటినే",
+        "గురిగా నేను చేసుకుంటినే"
+      ],
+      "english": [
+        "Gurileni ee yaathralona",
+        "gurthinchi nannu pilichenu",
+        "gunavanthudaina naa yesayyane",
+        "gurigaa nenu nilupukuntine",
+        "gurigaa nenu chesukuntine"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కష్టాల కడగండ్లలోన",
+        "కన్నీరు నే కార్చగా",
+        "కడతీర్చుటకు కరుణామయునిగా",
+        "ఇలలో నాకై ఏతెంచెను"
+      ],
+      "english": [
+        "Kashtaala kadagandlalona",
+        "kanneeru ne kaarchagaa",
+        "kadatheerchutaku karunaamayunigaa",
+        "ilalo naakai yethenchenu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "song_name": "Kadavari Dinamulalo Ravali Ujjivam",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కడవరి దినములలో రావాలి ఉజ్జీవం",
+      "యేసుని అడుగులలో నడవాలి యువతరం",
+      "భావి భారత పౌరులారా కదలిరండి ఉత్తేజముతో",
+      "క్రీస్తు రాజు వారసులారా తరలి రండి ఉద్వేగముతో"
+    ],
+    "english": [
+      "Kadavari Dinamulalo Ravali Ujjivam",
+      "Yesuni Adugulalo Nadavali Yuvataram",
+      "Bavi Barata Paurulara Kadaliramdi Uttejamuto",
+      "Kristu Raju Varasulara Tarali Ramdi Udvegamuto"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "క్రీస్తు సిలువను భుజమున మోస్తు ఆసేతు హిమాలయం",
+        "యేసు పవిత్ర నామము ఇలలో మారు మ్రోగునట్లు",
+        "విగ్రహారాధనను భువిపై రూపుమాపే వరకు",
+        "భారతదేశం క్రీస్తు రాకకై సిద్ధమయ్యే వరకు",
+        "కదలి రావాలి యువజనము కలసి తేవాలి చైతన్యం"
+      ],
+      "english": [
+        "Kristu Siluvanu Bujamuna Mostu Asetu Himalayam",
+        "Yesu Pavitra Namamu Ilalo Maru Mrogunatlu",
+        "Vigraharadhananu Buvipai Rupumape Varaku",
+        "Baratadesam Kristu Rakakai Siddhamayye Varaku",
+        "Kadali Ravali Yuvajanamu Kalasi Tevali Chaitanyam"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కులము మతము మనిషికి రక్షణ ఇవ్వవనినినదించండి",
+        "యేసు క్రీస్తు ప్రభువే ఇలలో లోక రక్షకుడనుచు",
+        "మూఢనమ్మకాలు భువిపై సమసి పోయేవరకు",
+        "అనాగరికులు మతోన్మాధులు మార్పు చెందే వరకూ",
+        "కదలి రావాలి యువజనము కలసి తేవాలి చైతన్యం"
+      ],
+      "english": [
+        "Kulamu Matamu Manishiki Rakshana Ivvavanininadimchamdi",
+        "Yesu Kristu Prabuve Ilalo Loka Rakshakudanuchu",
+        "Mudhanammakalu Buvipai Samasi Poyevaraku",
+        "Anagarikulu Matonmadhulu Marpu Chemde Varaku",
+        "Kadali Ravali Yuvajanamu Kalasi Tevali Chaitanyam"
+      ]
+    }
+  ]
+}

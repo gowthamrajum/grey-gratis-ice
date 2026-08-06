@@ -1,0 +1,68 @@
+{
+  "song_name": "Naa sthuthula paina nivasinchuvaadaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా స్తుతుల పైన నివసించువాడా",
+      "నా అంతరంగికుడా యేసయ్యా (2)",
+      "నీవు నా పక్షమై యున్నావు గనుకే",
+      "జయమే జయమే ఎల్లవేళలా జయమే (2)",
+      "నన్ను నిర్మించిన రీతి తలచగా",
+      "ఎంతో ఆశ్చర్యమే",
+      "అది నా ఊహకే వింతైనది (2)",
+      "ఎరుపెక్కిన శత్రువుల చూపు నుండి తప్పించి",
+      "ఎనలేని ప్రేమను నాపై కురిపించావు (2) ||నా స్తుతుల||"
+    ],
+    "english": [
+      "Naa sthuthula paina nivasinchuvaadaa",
+      "Naa antharangikudaa Yesayyaa (2)",
+      "Neevu naa pakshamai yunnaavu ganuke",
+      "Jayame jayame ellavelalaa jayame (2)",
+      "Nannu nirminchina reethi thalachagaa",
+      "Entho aashcharyame",
+      "Adhi naa oohake vinthainadhi (2)",
+      "Erupekkina shathruvula choopu nundi thappinchi",
+      "Enaleni premanu naapai kuripinchaavu (2) ||Naa sthuthula||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ద్రాక్షావల్లి అయిన నీలోనే",
+        "బహుగా వేరు పారగా",
+        "నీతో మధురమైన ఫలములీయనా (2)",
+        "ఉన్నత స్థలములపై నాకు స్థానమిచ్చితివే",
+        "విజయుడా నీ కృప చాలును నా జీవితాన (2)  ||నా||"
+      ],
+      "english": [
+        "Draakshaavalli ayina neelone",
+        "Bahugaa veru paaragaa",
+        "Neetho madhuramaina phalamuleeyanaa (2)",
+        "Unnatha sthalamulapai naaku sthaanamichchithive",
+        "Vijayudaa nee krupa chaalunu naa jeevithaana (2)  ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీతో యాత్ర చేయు మార్గములు",
+        "ఎంతో రమ్యమైనవి",
+        "అవి నాకెంతో ప్రియమైనవి (2)",
+        "నీ మహిమను కొనియాడు పరిశుద్ధులతో నిలిచి",
+        "పది తంతుల సితారతో నిన్నే కీర్తించెద (2)  ||నా||"
+      ],
+      "english": [
+        "Neetho yaathra cheyu maargamulu",
+        "Entho ramyamainavi",
+        "Avi naakentho priyamainavi (2)",
+        "Nee mahimanu koniyaadu parishuddhulatho nilichi",
+        "Padi thanthula sithaaratho ninne keerthincheda (2)  ||Naa||"
+      ]
+    }
+  ]
+}

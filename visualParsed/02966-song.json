@@ -1,0 +1,103 @@
+{
+  "song_name": "Shreshthudellavaarilonu maa Yesuve",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "జాన్ న్యూటన్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "శ్రేష్ఠుఁడెల్లవారిలోను",
+      "మా యేసువే",
+      "తల్లికంటె ప్రియుడౌను",
+      "మా యేసువే",
+      "లోకస్నే హమస్థిరంబు",
+      "నేఁడు ప్రేమరేపు కక్ష",
+      "స్థిరుడైన మిత్రుడౌను",
+      "మా యేసువే."
+    ],
+    "english": [
+      "Shreshthudellavaarilonu",
+      "Maa Yesuve",
+      "thallikante priyudaunu",
+      "maa Yesuve",
+      "Lokasneham asthirambu",
+      "nedu premarepu kaksha",
+      "sthirudaina mithrudaunu",
+      "maa Yesuve."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాకు నిత్యజీవమౌను",
+        "మా యేసువే",
+        "సర్వమందు సర్వమౌను",
+        "మా యేసువే",
+        "నన్ను మేలుకొల్పి ప్రోచి",
+        "శుద్ధిచేసి ప్రేమతోడ",
+        "నన్ను తన మందఁజేర్చె",
+        "మా యేసువే."
+      ],
+      "english": [
+        "Naaku nithyajeevamaunu",
+        "maa Yesuve",
+        "sarvamandu sarvamaunu",
+        "maa Yesuve",
+        "nannu melukolpi prochi",
+        "shuddhichesi premathoda",
+        "nannu thana mandajerche",
+        "maa Yesuve."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రేమమూర్తి సత్యవర్తి",
+        "మా యేసువే",
+        "ఇహపరభాగ్యమిచ్చు",
+        "మా యేసువే",
+        "క్రీస్తుకిమ్ము నీదుయాత్మ",
+        "నీకు శాంతినిచ్చి కాచి",
+        "తుదిఁజేర్చు మోక్షమందు",
+        "మా యేసువే."
+      ],
+      "english": [
+        "Premamoorthi sathyavarthi",
+        "maa Yesuve",
+        "ihaparabhaagyamichchu",
+        "maa Yesuve",
+        "Kreesthukimmu needu yaathma",
+        "neeku shaanthinichchi kaachi",
+        "thudijerchu mokshamandu",
+        "maa Yesuve."
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "బాధనొందు మేము చేర",
+        "మా యేసువా!",
+        "మాకు హర్ష మిచ్చినావు",
+        "మా యేసువా!",
+        "ఇహమందు నడిపించు",
+        "అవసానకాలమందు",
+        "మోక్షసౌఖ్య మొందనిమ్ము",
+        "మా యేసువా!"
+      ],
+      "english": [
+        "Baadhanondhu memu chera",
+        "maa Yesuvaa!",
+        "maaku harsham ichchinaavu",
+        "maa Yesuvaa!",
+        "ihamandu nadipinchu",
+        "avasaanakaalamandu",
+        "mokshasaukhyam ondanimmu",
+        "maa Yesuvaa!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "song_name": "Sree Yesu needu naamamandhu arpinchina",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "శ్రీ యేసు నీదు నామమందు అర్పించిన మా విన్నపం",
+      "ఆలకించి ఆశీర్వదించుమా అందుకొనుము మా వందనం"
+    ],
+    "english": [
+      "Sree Yesu needu naamamandhu arpinchina maa vinnapam",
+      "Aalakinchi aasheervadhinchumaa andhukonumu maa vandanam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ నామమందు ప్రార్ధించి పొందినాము గొప్ప రక్షణ",
+        "రక్షింపబడిన హృదయమందు ముద్రించినావు ఆత్మను",
+        "బలపరచుము బలముతో నింపు నీతితో నీవు నన్ను నిరతంబు"
+      ],
+      "english": [
+        "Nee naamamandhu praardhinchi pondhinaamu goppa rakshana",
+        "Rakshimpabadina hrudayamandu mudhrinchinaavu aathmanu",
+        "Balaparachumu balamutho nimpu neethitho neevu nannu nirathambu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విశ్వాససహితమైన ప్రార్ధన విజయమిచ్చునన్నావయా",
+        "తండ్రి సముఖమునకు చేర ప్రార్ధన నీ నామముంచినావయా",
+        "బలపరచుము బలముతో నింపు నీతితో నీవు నన్ను నిరతంబు"
+      ],
+      "english": [
+        "Vishwaasasahithamaina praardhana vijayamichchunannaavayaa",
+        "Thandri samukhamunaku chera praardhana nee naamamunchinaavayaa",
+        "Balaparachumu balamutho nimpu neethitho neevu nannu nirathambu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాపంబు స్వార్ధంబు లేక మొర్రపెట్టనేర్పినావయా",
+        "సందేహపడక విధేయతతో ప్రార్ధింపజూపినావయా",
+        "బలపరచుము బలముతో నింపు నీతితో నీవు నన్ను నిరతంబు"
+      ],
+      "english": [
+        "Paapambu swaardhambu leka morrapettanerpinaavayaa",
+        "Sandhehapadaka vidheyathatho praardhimpajoopinaavayaa",
+        "Balaparachumu balamutho nimpu neethitho neevu nannu nirathambu"
+      ]
+    }
+  ]
+}

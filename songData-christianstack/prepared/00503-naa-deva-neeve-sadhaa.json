@@ -1,0 +1,78 @@
+{
+  "song_name": "Naa Deva Neeve Sadhaa",
+  "author": {
+    "Authored by": "Joshua Shaik",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా దేవా నీవే సదా – నా తోడు నీవే కదా",
+      "ఇన్నాళ్ళ నీ ప్రేమ – నే మరతునా",
+      "వింతైన ఆ ప్రేమ – కొనియాడనా"
+    ],
+    "english": [
+      "Naa deva neeve sadhaa",
+      "naa thodu neeve kadhaa",
+      "innaalla nee prema ne marathunaa",
+      "vinthaina aa prema koniyaadanaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా దేవ నీ ప్రేమ – ఉదయించె నాలో",
+        "నీ పిలుపు నా కోసం – చిగురించె నాలో",
+        "ఎనలేని ఆనందం – నీ నామ ధ్యానం",
+        "విలువైన నీ వాక్యం – నా ఆత్మ దీపం"
+      ],
+      "english": [
+        "Naa deva nee prema udhayinche naalo",
+        "nee pilupu naa kosam chigurinche naalo",
+        "enaleni aanandham nee naama dhyaanam",
+        "viluvaina nee vaakyam naa athma deepam"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మనోహరా యేసయ్య – నా గురి నీవనీ",
+        "మరీ మరీ కోరాను – నీ ముఖ కాంతినీ",
+        "నిరతము పాడనా – నీ స్తోత్ర గానం"
+      ],
+      "english": [
+        "Manoharaa yesayya naa guri neevani",
+        "mari mari koraanu nee mukha kaanthini",
+        "nirathamu paadanaa nee sthothra gaanam"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సరిలేని నా మార్గం – మలిచావు నీవు",
+        "చిరకాల నీ స్నేహం – కురిపించినావు",
+        "ఇలలోన ఆధారం – కనిపించె నీలో",
+        "కరుణించు నా దైవం – తరియింతు నీలో"
+      ],
+      "english": [
+        "Sarileni naa maargam malichaavu neevu",
+        "chirakaala nee sneham kuripinchinaavu",
+        "ilalona aadhaaram kanipinche neelo",
+        "karuninchu naa daivam tariyinthu neelo"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మనోహరా యేసయ్య – నా జత నీవనీ",
+        "మరీ మరీ కోరాను – నీ ముఖ కాంతినీ",
+        "నిరతము పాడనా – నీ స్తోత్ర గానం"
+      ],
+      "english": [
+        "Manoharaa yesayya naa jatha neevani",
+        "mari mari koraanu nee mukha kaanthini",
+        "nirathamu paadanaa nee sthothra gaanam"
+      ]
+    }
+  ]
+}

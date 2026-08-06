@@ -1,0 +1,55 @@
+{
+  "song_name": "Nisheedhi Reyilo",
+  "author": {
+    "Authored by": "Andrew Son",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిశీధి రేయిలో",
+      "తారల వెలుగులో",
+      "పశువుల శాలలో",
+      "యేసు జన్మించెను"
+    ],
+    "english": [
+      "Niseedhi reyilo",
+      "thaarala velugulo",
+      "pasuvula saalalo",
+      "yesu janminchenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిశీధి రేయిలో",
+        "తారల వెలుగులో",
+        "పశువుల శాలలో",
+        "యేసు జన్మించెను"
+      ],
+      "english": [
+        "Niseedhi reyilo",
+        "thaarala velugulo",
+        "pasuvula saalalo",
+        "yesu janminchenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "Bridge:",
+        "సర్వోన్నత స్థలములలో దేవునికి",
+        "మహిమ కల్గునుగాక",
+        "తనకిష్టులైన వారికి సమధానము",
+        "కల్గునుగాక"
+      ],
+      "english": [
+        "Bridge:",
+        "Sarvonnatha sthalamulalo devuniki",
+        "mahima kalgunugaaka",
+        "thanakishtulaina vaariki samadhaanamu",
+        "kalgunugaaka"
+      ]
+    }
+  ]
+}

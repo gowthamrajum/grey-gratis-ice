@@ -1,0 +1,54 @@
+{
+  "song_name": "Mariyaku Suthuduga Dharanu Janminchi Immaanuyaelaayen",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మరియకు సుతుడుగ ధరను జన్మించి ఇమ్మానుయేలాయెన్",
+      "అను నిరుపేదగాను పశువుల పాకలో",
+      "తేజోమయ ప్రభు భువుని శిశువుగ బుట్టెను"
+    ],
+    "english": [
+      "Mariyaku Suthuduga Dharanu Janminchi Immaanuyaelaayen",
+      "Anu Nirupaedhagaanu Pashuvula Paakaloa",
+      "Thaejoamaya Prabhu Bhuvuni Shishuvuga Buttenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపసంకటము పోగొట్ట ధరను - ప్రాపకుడు నరునిగ బేత్లెహేమున",
+        "పాపపరిహారుడు నరుల మిత్రుడు - అవనిలో జన్మించెన్"
+      ],
+      "english": [
+        "Paapasankatamu Poagotta Dharanu - Praapakudu Naruniga Baethlehaemuna",
+        "Paapaparihaarudu Narula Mithrudu - Avaniloa Janminchen"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆకాశచుక్క భాసిల్లుచుండ - వీకతో దీనోపకారుడు వెలసెన్",
+        "హీన సైతానుడు కూలిపోవగన్ - ప్రియముతో ఉదయించెన్"
+      ],
+      "english": [
+        "Aakaashachukka Bhaasilluchunda - Veekathoa Dheenoapakaarudu Velasen",
+        "Heena Saithaanudu Koolipoavagan - Priyamuthoa Udhayinchen"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దూత గణములు గీతముల్ పాడ - క్షితిలో నరులు మంగళము పాడ",
+        "కన్య మరియమ్మ పాడెను లాలి - పుణ్యుడు జన్మించగా"
+      ],
+      "english": [
+        "Dhootha Ganamulu Geethamul Paada - Kshithiloa Narulu Mangalamu Paada",
+        "Kanya Mariyamma Paadenu Laali - Punyudu Janminchagaa"
+      ]
+    }
+  ]
+}

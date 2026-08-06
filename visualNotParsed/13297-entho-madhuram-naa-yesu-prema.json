@@ -1,0 +1,54 @@
+{
+  "song_name": "Entho madhuram naa Yesu prema",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎంతో మధురం నా యేసు ప్రేమ",
+      "ఎంతో క్షేమం నా తండ్రి చెంత (2)",
+      "ఎనలేని ప్రేమను నాపైన చూపి",
+      "ప్రాణంబు పెట్టిన మన తండ్రి ప్రేమ (2) ||ఎంతో||"
+    ],
+    "english": [
+      "Entho madhuram naa Yesu prema",
+      "Entho kshemam naa thandri chentha (2)",
+      "Enaleni premanu naapaina choopi",
+      "Praanambu pettina mana thandri prema (2) ||Entho||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా నీతికి ఆధారము",
+        "నా త్రోవకు వెలుగువై (2)",
+        "దుష్టుల ఆలోచన చొప్పున నడువక",
+        "పాపుల మార్గమున నిలువక (2)  ||ఎంతో||"
+      ],
+      "english": [
+        "Naa neethiki aadhaaramu",
+        "Naa throvaku veluguvai (2)",
+        "Dushtula aalochana choppuna naduvaka",
+        "Paapula maargamuna niluvaka (2) ||Entho||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరిశుద్ధులకు పరిశుద్ధుడవు",
+        "ప్రభులకు ప్రభుడవు నా యేసయ్యా (2)",
+        "ఈ పాప లోకంలో నీ ప్రాణమర్పించి",
+        "పరలోకమునకు మార్గము చూపావు (2)  ||ఎంతో||"
+      ],
+      "english": [
+        "Parishuddhulaku parishuddhudavu",
+        "Prabhulaku prabhudavu naa Yesayyaa (2)",
+        "Ee paapa lokamlo nee praanamarpinchi",
+        "Paralokamunaku maargamu choopaavu (2) ||Entho||"
+      ]
+    }
+  ]
+}

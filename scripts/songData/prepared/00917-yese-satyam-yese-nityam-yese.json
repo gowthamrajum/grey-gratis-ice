@@ -1,0 +1,47 @@
+{
+  "song_name": "Yese Satyam Yese Nityam Yese Sarvam Jagatiki",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసే సత్యం యేసే నిత్యం యేసే సర్వం జగతికి",
+      "యేసే జీవం యేసే గమ్యం యేసే గమనము",
+      "పాట పాడెదం ప్రభువునకు స్తోత్రార్పణ చేసెదం"
+    ],
+    "english": [
+      "Yese Satyam Yese Nityam Yese Sarvam Jagatiki",
+      "Yese Jivam Yese Gamyam Yese Gamanamu",
+      "Pata Padedam Prabuvunaku Stotrarpana Chesedam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పలురకాల మనుషులు పలుచిధాలు పలికిన",
+        "మాయలెన్నో చేసిన లోలలెన్నో చూపిన",
+        "యేసులోనే నిత్య జీవం యేసులోనే రక్షణ (2)"
+      ],
+      "english": [
+        "Palurakala Manushulu Paluchidhalu Palikina",
+        "Mayalenno Chesina Lolalenno Chupina",
+        "Yesulone Nitya Jivam Yesulone Rakshana (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బలము లేనివారికి బలమునిచ్చుదేవుడు",
+        "కృంగియున్నవారిని లేవనెత్తు దేవుడు",
+        "యేసులోనే నిత్యరాజ్యం యేసులోనే విడుదల (2)"
+      ],
+      "english": [
+        "Balamu Lenivariki Balamunichchudevudu",
+        "Krumgiyunnavarini Levanettu Devudu",
+        "Yesulone Nityarajyam Yesulone Vidudala (2)"
+      ]
+    }
+  ]
+}

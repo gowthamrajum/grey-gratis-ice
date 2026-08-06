@@ -1,0 +1,71 @@
+{
+  "song_name": "Naa naanna intiki nenu vellaali",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా నాన్న యింటికి నేను వెళ్ళాలి",
+      "నా తండ్రి యేసుని నేను చూడాలి (2)",
+      "నా నాన్న యింటిలో ఆదరణ ఉన్నది",
+      "నా నాన్న యింటిలో సంతోషం ఉన్నది",
+      "నా నాన్న యింటిలో నాట్యమున్నది ||నా నాన్న||"
+    ],
+    "english": [
+      "Naa naanna intiki nenu vellaali",
+      "Naa thandri Yesuni nenu choodaali (2)",
+      "Naa naanna intilo aadarana unnadi",
+      "Naa naanna intilo santhosham unnadi",
+      "Naa naanna intilo naatyamunnadhi ||Naa naanna||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మగ్ధలేని మరియలాగా (2)",
+        "నీ పాదాలు చేరెదను (2)",
+        "కన్నీటితో నేను కడిగెదను (2)",
+        "తల వెంట్రుకలతో తుడిచెదను (2)  ||నా||"
+      ],
+      "english": [
+        "Magdhaleni Mariyalaagaa (2)",
+        "Nee paadaalu cheredanu (2)",
+        "Kanneetitho nenu kadigedhanu (2)",
+        "Thala ventrukalatho thudichedhanu (2)  ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బేతనీయ మరియలాగా",
+        "నీ సన్నిధి చేరెదను (2)",
+        "నీ వాక్యమును నేను ధ్యానింతును (2)",
+        "ఎడతెగక నీ సన్నిధి చేరెదను (2)  ||నా||"
+      ],
+      "english": [
+        "Bethaneeya Mariyalaagaa",
+        "Nee sannidhi cheredanu (2)",
+        "Nee vaakyamunu nenu dhyaaninthunu (2)",
+        "Edathegaka nee sannidhi cheredanu (2)  ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ దివ్య సన్నిధి నాకు",
+        "మధురముగా ఉన్నదయ్యా (2)",
+        "పరలోక ఆనందం పొందెదను (2)",
+        "ఈ లోకమును నేను మరిచెదను (2)  ||నా||"
+      ],
+      "english": [
+        "Nee divya sannidhi naaku",
+        "Madhuramugaa unnadayyaa (2)",
+        "Paraloka aanandam pondedanu (2)",
+        "Ee lokamunu nenu marichedhanu (2)  ||Naa||"
+      ]
+    }
+  ]
+}

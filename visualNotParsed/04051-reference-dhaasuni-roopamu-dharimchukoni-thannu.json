@@ -1,0 +1,67 @@
+{
+  "song_name": "Yesu naamam manoharam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దాసుని రూపము ధరించుకొని, తన్ను తానే రిక్తునిగా చేసికొనెను ఫిలిప్పీ ఫిలిప్పియన్స్ 2:7",
+      "యేసు నామం మనోహరం - ఎంతో అతిమధురం",
+      "పరమునందైన ఇహమునందైన వేరే నామమే లేదు"
+    ],
+    "english": [
+      "Daasuni roopamu dharinchukoni, thannu thaane rikthunigaa chesikonenu Philippee Philippians 2:7",
+      "Yesu naamam manoharam - Entho athimadhuram",
+      "Paramunandhaina ihamunandhaina vere naamame ledu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అమూల్య ప్రాణమిచ్చెన్ - పాపులను రక్షించుటకై",
+        "దాసుని రూపమొంది - ఇహమున దిగివచ్చెను",
+        "కీర్తింతును నీ నామం - ఘనపరతును - నీ నామం",
+        "ఓ మా ప్రభువా రమ్ము యీవులతో - మమ్ము నాశీర్వాదింప"
+      ],
+      "english": [
+        "Amoolya praanamichchen - Paapulanu rakshinchutakai",
+        "Daasuni roopamondhi - Ihamuna dhigivachchenu",
+        "Keerthinthunu nee naamam - Ghanaparathunu - Nee naamam",
+        "O maa Prabhuvaa rammu eevulatho - Mammu naasheervaadhimpa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కల్వరిగిరిలో ఇనుపమేకులతో",
+        "ప్రభువా నీ దేహమును - సిలువపై నెక్కించిరి",
+        "కీర్తింతును నీ నామం - ఘనపరతును - నీ నామం",
+        "ఓ మా ప్రభువా రమ్ము యీవులతో - మమ్ము నాశీర్వాదింప"
+      ],
+      "english": [
+        "Kalvarigirilo inupamekulatho",
+        "Prabhuvaa nee dehamunu - Siluvapai nekkinchiri",
+        "Keerthinthunu nee naamam - Ghanaparathunu - Nee naamam",
+        "O maa Prabhuvaa rammu eevulatho - Mammu naasheervaadhimpa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పూర్ణ స్వస్థత మాకు - ప్రేమతో నొసగితివి",
+        "శాంతి ఆనందములు - నీ నామమున దొరుకున్",
+        "కీర్తింతును నీ నామం - ఘనపరతును - నీ నామం",
+        "ఓ మా ప్రభువా రమ్ము యీవులతో - మమ్ము నాశీర్వాదింప"
+      ],
+      "english": [
+        "Poorna swasthatha maaku - Prematho nosagithivi",
+        "Shaanthi aanandhamulu - Nee naamamuna dhorukun",
+        "Keerthinthunu nee naamam - Ghanaparathunu - Nee naamam",
+        "O maa Prabhuvaa rammu eevulatho - Mammu naasheervaadhimpa"
+      ]
+    }
+  ]
+}

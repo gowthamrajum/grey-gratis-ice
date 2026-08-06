@@ -1,0 +1,58 @@
+{
+  "song_name": "Yesayyaa naa Yesayyaa neevenaa manchi kaapari",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసయ్యా నా యేసయ్యా నీవేనా మంచి కాపరి",
+      "యేసయ్యా నా యేసయ్యా నీవే నా రక్షణ కర్తవు"
+    ],
+    "english": [
+      "Yesayyaa naa Yesayyaa neevenaa manchi kaapari",
+      "Yesayyaa naa Yesayyaa neeve naa rakshana karthavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపదాస్య కాడి నుండి నన్ను విడిపించితివే -",
+        "నీదు మంచి పాత్రగా నన్ను మార్చితివే",
+        "నీదు మార్గము చూపించి నిత్య రక్షణా నాకిచ్చి",
+        "నాకు సంతోషమే సదా అనందమే",
+        "హల్లెలూయ పాటలే నే పాడనా",
+        "గంభీర ద్వనులతో స్తుతియించనా"
+      ],
+      "english": [
+        "Paapadaasya kaadi nundi nannu vidipinchithive -",
+        "Needu manchi paathragaa nannu maarchithive",
+        "Needu maargamu choopinchi nithya rakshanaa naakichchi",
+        "Naaku santhoshame sadaa aanandame",
+        "Hallelooya paatale ne paadanaa",
+        "Gambheera dhvanulatho sthuthiyinchanaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపరోగ చింత భరించి నాకై మరణించితివే",
+        "నీవు పొందిన గాయములచే స్వస్థత నాకిచ్చితివే",
+        "అగ్ని గుండము తప్పించి, నిత్య రాజ్యము నాకిచ్చి",
+        "నాకు సంతోషమే సదా ఆనందమే -",
+        "హల్లెలూయ పాటలే నే పాడనా",
+        "గంభీర ధ్వనులతో స్తుతియించనా"
+      ],
+      "english": [
+        "Paaparoga chintha bharinchi naakai maraninchithive",
+        "Neevu pondina gaayamulache swasthatha naakichchithive",
+        "Agni gundamu thappinchi, nithya raajyamu naakichchi",
+        "Naaku santhoshame sadaa aanandame -",
+        "Hallelooya paatale ne paadanaa",
+        "Gambheera dhvanulatho sthuthiyinchanaa"
+      ]
+    }
+  ]
+}

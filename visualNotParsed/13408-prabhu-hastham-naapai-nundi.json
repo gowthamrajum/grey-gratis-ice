@@ -1,0 +1,68 @@
+{
+  "song_name": "Prabhu hastham naapai nundi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభు హస్తం నాపై నుంది",
+      "రవ్వంతయూ భయమే లేదు (2)",
+      "ఎత్తుకొనున్ నన్ను హత్తుకొనున్",
+      "అంతము వరకు నడిపించును (2) ||ప్రభు||"
+    ],
+    "english": [
+      "Prabhu hastham naapai nundi",
+      "Ravvanthayoo bhayame ledu (2)",
+      "Etthukonun nannu hatthukonun",
+      "Anthamu varaku nadipinchunu (2) ||Prabhu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తినిపించును నన్ను లాలించున్",
+        "విరోధి రాగా ఎత్తుకొనున్ (2)  ||ప్రభు||"
+      ],
+      "english": [
+        "Thinipinchunu nannu laalinchun",
+        "Virodhi raagaa etthukonun (2)  ||Prabhu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రక్తముతో శుద్ధి చేయును",
+        "రక్షణతో అలంకరించున్ (2)  ||ప్రభు||"
+      ],
+      "english": [
+        "Rakthamutho shuddhi cheyunu",
+        "Rakshanatho alankarinchun (2)  ||Prabhu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అపహరింపలేరండి",
+        "ఎవ్వరి వల్ల కాదండి (2)  ||ప్రభు||"
+      ],
+      "english": [
+        "Apaharimpalerandi",
+        "Evvari valla kaadhandi (2)  ||Prabhu||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "హల్లెలూయా హల్లెలూయా",
+        "హల్లెలూయా హల్లెలూయా (2)"
+      ],
+      "english": [
+        "Hallelooyaa hallelooyaa",
+        "Hallelooyaa hallelooyaa (2)"
+      ]
+    }
+  ]
+}

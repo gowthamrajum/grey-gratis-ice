@@ -1,0 +1,53 @@
+{
+  "song_name": "Naenu Kreesthu Prabhuni Jaeri",
+  "author": {
+    "Authored by": "",
+    "రచన": "సి  రవివర్మ"
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేను క్రీస్తు ప్రభుని జేరి నేను క్రీస్తువాడ నౌదు నేను క్రీస్తు సొత్తు గాన నేను నా సమస్తమును నాధు డేసు కిపుడు యిత్తు ||నే||"
+    ],
+    "english": [
+      "naenu kreesthu prabhuni jaeri naenu kreesthuvaada naudhu naenu kreesthu soththu gaana naenu naa samasthamunu naaDhu daesu kipudu yiththu ||nae||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నేను క్రీస్తు ననుభవించి నేను క్రీస్తు బోలియుందు నేను నా స్వరూపమందు నా ప్రభుండు గానుపింప నేను నేసులో వసింతు ||నే||"
+      ],
+      "english": [
+        "naenu kreesthu nanubhaviMchi naenu kreesthu boaliyuMdhu naenu naa svaroopamMdhu naa prabhuMdu gaanupiMpa naenu naesuloa vasiMthu ||nae||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేను క్రీస్తునందునుండి నేను క్రీస్తులో బెరుగుదు నేను క్రీస్తు దారినడచి నేను క్రీస్తు మనసు నెపుడు గానుపఱతు నెల్లెడను ||నే||"
+      ],
+      "english": [
+        "naenu kreesthunMdhunuMdi naenu kreesthuloa berugudhu naenu kreesthu dhaarinadachi naenu kreesthu manasu nepudu gaanupaRathu nelledanu ||nae||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నేను క్రీస్తు సేవజేసి నేను క్రీస్తు సాక్షినౌదు నేను క్రీస్తు సాధ నంబె నేను యనుభవించు రక్ష ణానందంబు జాటెదెపుడు ||నే||"
+      ],
+      "english": [
+        "naenu kreesthu saevajaesi naenu kreesthu saakShinaudhu naenu kreesthu saaDha nMbe naenu yanubhaviMchu rakSh NaanMdhMbu jaatedhepudu ||nae||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నేను ప్రాణమైన నిచ్చి నేను క్రీస్తుకై బ్రతుకుదు నేను, క్రీస్తు కలిసియున్న నాశన తనయుని శక్తి నేలగూలు నద్భుతముగ ||నే||"
+      ],
+      "english": [
+        "naenu praaNamaina nichchi naenu kreesthukai brathukudhu naenu, kreesthu kalisiyunna naashana thanayuni shakthi naelagoolu nadhbhuthamuga ||nae||"
+      ]
+    }
+  ]
+}

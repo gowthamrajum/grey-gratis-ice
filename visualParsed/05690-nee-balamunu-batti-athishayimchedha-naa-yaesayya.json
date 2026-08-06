@@ -1,0 +1,59 @@
+{
+  "song_name": "Nee balamunu batti athishayinchedha naa Yesayyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ బలమును బట్టి అతిశయించెద నా యేసయ్యా",
+      "నీ రక్షణ బట్టి నిను కీర్తించెద నా యేసయ్యా"
+    ],
+    "english": [
+      "Nee balamunu batti athishayinchedha naa Yesayyaa",
+      "Nee rakshana batti ninu keerthincheda naa Yesayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మోసగాళ్ళను మార్చేసినావే స్తోత్రము స్తోత్రము",
+        "వంచకుడని వంచేసినావే స్తోత్రము స్తోత్రము",
+        "కఠినమైన హృదయము గల నన్ను కరుణశీలిగ మార్చేసినావే"
+      ],
+      "english": [
+        "Mosagaallanu maarchesinaave sthothramu sthothramu",
+        "Vanchakudani vanchesinaave sthothramu sthothramu",
+        "Kathinamaina hrudayamu gala nannu karunasheeliga maarchesinaave"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపులెందరినో ప్రేమించినావే స్తోత్రము స్తోత్రము",
+        "పతితులెందరినో పరిశుద్ధపరచావే సోత్రము స్తోత్రము",
+        "ఓటమి ఒడిలో ఒరిగిన ఎందరినో గెలుపు బాటలో నడిపించినావే"
+      ],
+      "english": [
+        "Paapulendharino preminchinaave sthothramu sthothramu",
+        "Pathithulendharino parishudhdhaparachaave sthothramu sthothramu",
+        "Otami odilo origina endharino gelupu baatalo nadipinchinaave"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "చెరపట్టబడిన నన్ను విడిపించినావే స్తోత్రము స్తోత్రము",
+        "అద్భుతముగా నడిపించినావే స్తోత్రము స్తోత్రము",
+        "లోబడనొల్లక విసిగించిన నన్ను ఓర్చుకున్న ప్రియ తండ్రివి"
+      ],
+      "english": [
+        "Cherapattabadina nannu vidipinchinaave sthothramu sthothramu",
+        "Adbhuthamugaa nadipinchinaave sthothramu sthothramu",
+        "Lobadanollaka visiginchina nannu orchukunna priya thandrivi"
+      ]
+    }
+  ]
+}

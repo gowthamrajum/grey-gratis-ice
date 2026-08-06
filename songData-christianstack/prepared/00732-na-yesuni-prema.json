@@ -1,0 +1,65 @@
+{
+  "song_name": "Na Yesuni Prema",
+  "author": {
+    "Authored by": "Srimanth katamala",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "హల్లెలూయా యేసయ్య నీ ప్రేమకై వందనం",
+      "తల్లి తండ్రులకన్నా మిన్న అయినా ప్రేమ నా యేసుని ప్రేమ",
+      "క్షమియించు ప్రేమ ఓదార్చు ప్రేమ నా యేసుని ప్రేమా"
+    ],
+    "english": [
+      "Hallelujah yesayya nee premakai vandhanam",
+      "thalli thandrulla kannaa minna ayina prema naa yesuni prema",
+      "kshamiyinchu prema odhaarchu prema naa yesuni prema"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తల్లి తండ్రులకన్నా మిన్న అయిన ప్రేమ నా యేసుని ప్రేమ",
+        "క్షమియించు ప్రేమ ఓదార్చు ప్రేమ నా యేసుని ప్రేమ"
+      ],
+      "english": [
+        "Thalli thandrulla kannaa minna ayina prema naa yesuni prema",
+        "kshamiyinchu prema odhaarchu prema naa yesuni prema"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా అనువారందరు విడచినపుడు నా పక్షమున నీవు నిలిచావు",
+        "ఏ తోడు లేని నాకు తోడైయావు నా ప్రతి అడుగున నీవు నిలిచావు"
+      ],
+      "english": [
+        "Naa anuvaarandharu vidachinapudu naa pakshamuna neevu nilichaavu",
+        "ey thodu leni naaku thodaiyaavu naa prathi aduguna neevu nilichaavu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అర్హత లేని నాకు అర్హతనిచ్చావు నీ ప్రేమ ప్రకటించుటకై",
+        "తల్లి గర్భములో ఉన్నప్పుడే ఎన్నుకున్నావు నీ నామ మహిమ కొరకై"
+      ],
+      "english": [
+        "Arhatha leni naaku arhathanichaavu nee prema prakatinchutakai",
+        "thalli garbhamulo unnappude ennukunnaavu nee naama mahima korakai"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "తల్లి తండ్రులకన్నా మిన్న అయినా ప్రేమ నా యేసుని ప్రేమ",
+        "క్షేమియించు ప్రేమ ఓదార్చు ప్రేమ నా యేసుని ప్రేమా"
+      ],
+      "english": [
+        "Thalli thandrulla kannaa minna ayina prema naa yesuni prema",
+        "kshamiyinchu prema odhaarchu prema naa yesuni prema"
+      ]
+    }
+  ]
+}

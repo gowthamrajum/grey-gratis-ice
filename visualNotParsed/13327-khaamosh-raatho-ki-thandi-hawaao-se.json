@@ -1,0 +1,60 @@
+{
+  "song_name": "Khaamosh raatho ki thandee havaao se",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఖామోష్ రాతో కి తండీ హవాఓ సే",
+      "ఆయీ ఫరిష్తో కి మీతి ఆవాజ్",
+      "పైదా హువా పైదా హువా (2)",
+      "ముక్తి దాతా హమారా పైదా హువా",
+      "తారన్ హరా హమారా పైదా హువా ||ఖామోష్||"
+    ],
+    "english": [
+      "Khaamosh raatho ki thandee havaao se",
+      "Aayee farishtho ki meethi aavaaj",
+      "Paidaa huvaa paidaa huvaa (2)",
+      "Mukthi dhaathaa hamaaraa paidaa huvaa",
+      "Thaaran haraa hamaaraa paidaa huvaa ||Khaamosh||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఫరిష్తో నే ఆకే జమీన్ పే",
+        "గడరియో కో దియా ఇషారా",
+        "పైదా హువా హై ముంజి జో",
+        "మిలేగా తుమ్హే ఏక్ గోశాలా (2)",
+        "చర్వాహో నే భీ ఉస్కో సజ్దా కియా (2)  ||ఖామోష్||"
+      ],
+      "english": [
+        "Farishtho ne aake jameen pe",
+        "Gadariyo ko diyaa ishaaraa",
+        "Paidaa huvaa hai munji jo",
+        "Milegaa thumhe ek goshaalaa (2)",
+        "Charvaaho ne bhee usko sajdhaa kiyaa (2) ||Khaamosh||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేఖో వో పురబ్ దిశా సే",
+        "ఆయే థె తారే కె పీచే",
+        "మజూశి భీ సర్ కో ఝుకాకే",
+        "శిక్షక్ యీషు కో హీ మానే (2)",
+        "బుద్ధిమానో నే భీ ఉస్కో సజ్దా కియా (2)  ||ఖామోష్||"
+      ],
+      "english": [
+        "Dhekho vo purab dishaa se",
+        "Aaye the thaare ke peeche",
+        "Majooshi bhee sar ko jhukaake",
+        "Shikshak Yeeshu ko hee maane (2)",
+        "Buddhimaano ne bhee usko sajdhaa kiyaa (2) ||Khaamosh||"
+      ]
+    }
+  ]
+}

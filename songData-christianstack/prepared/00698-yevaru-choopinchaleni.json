@@ -1,0 +1,114 @@
+{
+  "song_name": "Yevaru Choopinchaleni",
+  "author": {
+    "Authored by": "Joshua Shaik",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎవరు చూపించలేనీ – ఇలలో నను వీడిపోనీ",
+      "ఎంతటీ ప్రేమ నీదీ – ఇంతగా కోరుకుందీ",
+      "మరువనూ యేసయ్య"
+    ],
+    "english": [
+      "Yevaru Choopinchaleni – ilalo nanu veediponi",
+      "yenthati prema needi – inthagaa korukundhi",
+      "maruvanu yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ కథే నన్నే తాకగా – నా మదే నిన్నే చేరగా",
+        "నా గురే నీవై యుండగా – నీ దరే నే చేరానుగా"
+      ],
+      "english": [
+        "Nee kadhe nanne thaakagaa – naa madhe ninne cheragaa",
+        "naa gure neevai yundagaa – nee dhare ne cheraanugaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తీరాలే దూరమాయే – కాలాలే మారిపోయే",
+        "ఎదురైన ఎండమావే – కన్నీటి కానుకాయే",
+        "నా గుండె లోతులోన – నే నలిగిపోతువున్నా",
+        "ఏ దారి కానరాక – నీకొరకు వేచివున్నా"
+      ],
+      "english": [
+        "Theeraale dhooramaaye – kaalaale maaripoye",
+        "yedhuraina endamaave – kanneeti kaanukaaye",
+        "naa gunde lothulona – ne naligipothuvunnaa",
+        "ye dhaari kaanaraaka – nee koraku vechivunnaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఎడబాటులేని గమనాన",
+        "నిను చేరుకున్న సమయాన",
+        "నను ఆదరించే ఘన ప్రేమ",
+        "అపురూపమైన తొలిప్రేమ"
+      ],
+      "english": [
+        "Edabaatu leni gamanaana",
+        "ninu cherukunna samayaana",
+        "nanu aadharinche ghana prema",
+        "apuroopamaina tholiprema"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఏకమై తోడుగా – ఊపిరే నీవుగా",
+        "ఎవ్వరూ లేరుగా – యేసయ్య నీవెగా"
+      ],
+      "english": [
+        "Ekamai thodugaa – oopire neevugaa",
+        "evvaru lerugaa – yesayya neevegaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఈ లోక జీవితాన – వేసారిపోతువున్నా",
+        "విలువైన నీదు వాక్యం – వెలిగించె నా ప్రాణం",
+        "నీ సన్నిథానమందు – సీయోను మార్గమందు",
+        "నీ దివ్య సేవలోనే – నడిపించే నా ప్రభూ"
+      ],
+      "english": [
+        "Ee loka jeevithaana – vesaaripothuvunnaa",
+        "viluvaina needhu vaakyam – veliginche naa praanam",
+        "nee sannidhaanamandhu – seeyonu maargamandhu",
+        "nee dhivya sevalona – nadipinche naa prabhu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నీ తోటి సాగు పయనాన",
+        "నను వీడలేదు క్షణమైన",
+        "నీ స్వరము చాలు ఉదయాన",
+        "నిను వెంబడించు తరుణాన"
+      ],
+      "english": [
+        "nee thoti saagu payanaana",
+        "nanu veedaledu kshanamaina",
+        "nee swaramu chaalu udhayaana",
+        "ninu vembadinchu tharunaana"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "శాశ్వత ప్రేమతో – సత్యవాక్యంబుతో",
+        "నిత్యము తోడుగా నిలిచె నా యేసయ్య"
+      ],
+      "english": [
+        "Saswatha prematho – sathya vaakyambutho",
+        "nithyamu thodugaa niliche naa yesayya"
+      ]
+    }
+  ]
+}

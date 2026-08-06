@@ -1,0 +1,88 @@
+{
+  "song_name": "Nenu velledanu meeru praarthanalo nundudi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేను వెళ్ళెదను మీరు ప్రార్థనలో నుండుడి",
+      "దేవుని వాక్యమును పాటించు చుండుడి",
+      "నేను వెళ్ళుచున్నాను"
+    ],
+    "english": [
+      "Nenu velledanu meeru praarthanalo nundudi",
+      "Devuni vaakyamunu paatinchu chundudi",
+      "Nenu velluchunnaanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేవుని వాక్యమే మీ జీవాహారము",
+        "ఎల్లప్పుడు ధ్యానించి స్తుతించుచు నుండుడి"
+      ],
+      "english": [
+        "Devuni vaakyame mee jeevaahaaramu",
+        "Ellappudu dhyaaninchi sthuthinchuchu nundudi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నలుగురు ఎక్కడ కలిసి యుండెదరో",
+        "నన్ను మరువక ధ్యానించుచుండుడి"
+      ],
+      "english": [
+        "Naluguru ekkada kalisi yundedaro",
+        "Nannu maruvaka dhyaaninchuchundudi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వెరువక నిలువుము ఎట్టి బాధలలో",
+        "మరువక మీరు ప్రార్థించు చుండుడి"
+      ],
+      "english": [
+        "Veruvaka niluvumu etti baadhalalo",
+        "Maruvaka meeru praarthinchu chundudi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "హింసించబడినను హింసింపకుడి",
+        "కీడుకు బదులుగా మేలు చేయుచుండుడి"
+      ],
+      "english": [
+        "Himsinchabadinanu himsimpakudi",
+        "Keeduku badhulugaa melu cheyuchundudi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మిమ్మును కొనిపోవ త్వరగా వచ్చెదను",
+        "ముచ్చటించుడి నారాకను గూర్చి"
+      ],
+      "english": [
+        "Mimmunu konipova thvaragaa vachchedhanu",
+        "Muchchatinchudi naaraakanu goorchi"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ప్రేమతో ప్రాణము నర్పించితిని",
+        "ఈ ప్రేమనే సదా ధ్యానించు చుండుడి"
+      ],
+      "english": [
+        "Prematho praanamu narpinchithini",
+        "Ee premane sadaa dhyaaninchu chundudi"
+      ]
+    }
+  ]
+}

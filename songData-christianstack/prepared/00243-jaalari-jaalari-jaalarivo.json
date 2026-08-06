@@ -1,0 +1,41 @@
+{
+  "song_name": "Jaalari Jaalari Jaalarivo",
+  "author": {
+    "Authored by": "Pastor B.Issac",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జాలరి జాలరి జాలరి జాలరి జాలరివా యేసు జారి పోయిన వారి కోసం వచ్చేవా"
+    ],
+    "english": [
+      "Jaalari jaalari jaalari jaalari jaalarivaa",
+      "yesu jaari poyina vaari kosam vacchevaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఒంకరిగా ఉన్న వారిని వడివడిగా పిలిచేవా",
+        "ఒంగిపోయిన ఆ స్త్రీని ముట్టి బాగు చేసేవా",
+        "మారు మనస్సు పొందుటకు పాపులను పిలిచేవా",
+        "మార్పు లేని వారికి మార్గము చూపేవా",
+        "కుష్టి రోగిని ముట్టేవా కృంగిన వారిని చూసేవా",
+        "మార్గమధ్యలోనా సమరయ స్త్రీని మార్చేవా",
+        "అపవాదిని చూసేవా ఆపదలు మార్చేవా",
+        "ఆటంకం చూసి అపవాదిని తొక్కేవా"
+      ],
+      "english": [
+        "Onkarigaa unna vaarini vadivadigaa pilichevaa",
+        "ongipoyina aa streeni mutti baagu chesevaa",
+        "Maaru manassu pondutaku paapulanu pilichevaa",
+        "maarpu leni vaariki maargamu choopevaa",
+        "Kushti roginni muttevaa krungina vaarini choosevaa",
+        "maargamadhyalonaa samariya streeni maarchevaa",
+        "Apavaadini choosevaa aapadalu maarchevaa",
+        "aatankam choosi apavaadini tokkevaa"
+      ]
+    }
+  ]
+}

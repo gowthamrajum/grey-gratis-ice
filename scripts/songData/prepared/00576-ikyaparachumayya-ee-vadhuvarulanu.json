@@ -1,0 +1,70 @@
+{
+  "song_name": "Ikyaparachumayya Ee Vadhuvarulanu",
+  "author": {
+    "Authored by": "Bro  AR Stevenson",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఐక్యపరచుమయ్యా ఈ వధూవరులను",
+      "సౌఖ్యమిచ్చికాయుము నవదంపతులను",
+      "మధుర ప్రేమతో మనసులు కలువ",
+      "హృదయ సీమలే ఒకటిగ నిలువ",
+      "నీ దీవెనలే పంపుమా"
+    ],
+    "english": [
+      "Aikyaparachumayya Ee Vadhuvarulanu",
+      "Saukyamichchikayumu Navadampatulanu",
+      "Madhura Premato Manasulu Kaluva",
+      "Hrudaya Simale Okatiga Niluva",
+      "Ni Divenale Pampuma"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆనందముతోడ దు:ఖమునే గెల్వ",
+        "చిరునవ్వుతోడ కష్టముల నోర్వ",
+        "సంసార నావను సరిగా నడిపించ",
+        "నీవే సహాయమీయుమా"
+      ],
+      "english": [
+        "Anamdamutoda Du:Kamune Gelva",
+        "Chirunavvutoda Kashtamula Norva",
+        "Samsara Navanu Sariga Nadipimcha",
+        "Nive Sahayamiyuma"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రార్ధనా జీవితము సమాధనము",
+        "భక్తి విశ్వాసము నీతి న్యాయము",
+        "నీవు చేపిన కనికరం నీవు నేర్పిన సాత్వికం",
+        "అనుగ్రహించి నడిపించుమా"
+      ],
+      "english": [
+        "Prardhana Jivitamu Samadhanamu",
+        "Bakti Visvasamu Niti Nyayamu",
+        "Nivu Chepina Kanikaram Nivu Nerpina Satvikam",
+        "Anugrahimchi Nadipimchuma"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇహలోకభోగముపై మనసుంచక",
+        "పరలోక భాగ్యముపై క్ష్యముంచగ",
+        "నీకెంతో ఇష్టులై ధరలో నీ సాక్షులై",
+        "సాగే కృప దయచేయుమా"
+      ],
+      "english": [
+        "Ehalokabogamupai Manasumchaka",
+        "Paraloka Bagyamupai Kshyamumchaga",
+        "Nikemto Ishtulai Dharalo Ni Sakshulai",
+        "Sage Krupa Dayacheyuma"
+      ]
+    }
+  ]
+}

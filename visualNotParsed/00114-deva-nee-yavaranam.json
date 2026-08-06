@@ -1,0 +1,67 @@
+{
+  "song_name": "Deva nee yaavaranam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవా నీ యావరణం మాకెంతో శ్రేయస్కరం",
+      "ఒక ఘడియ యిచ్చట గడుపుట మేలు వేయిదినములకంటెను (2)",
+      "..దేవా.."
+    ],
+    "english": [
+      "Deva nee yaavaranam maakentho shreyaskaram",
+      "Oka ghadiya ichchata gaduputa melu veyidinamulakantenu (2)",
+      "..Deva.."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అద్భుత కార్యములు ఆ.. జరిగించు దేవుడవు ఆ..",
+        "ఘనవారసకుని మహిమలు పొగడ ఆత్మలో నిలుపుమయా",
+        "ఆత్మతొ సత్యముతో ఆరాధించగ మనస్సుతో",
+        "అల్ఫా ఒమేఘయు ఆత్మరూపుడవు ఆనందించగ నీ మదిలో  ||దేవా||"
+      ],
+      "english": [
+        "Adbhutha kaaryamulu aa.. jariginchu Devudavu aa..",
+        "Ghanavaarasakuni mahimalu pogada aathmalo nilupumayaa",
+        "Aathmatho sathyamutho aaraadhinchaga manassutho",
+        "Alphaa Omegayu aathmaroopudavu aanandinchaga nee madilo  ||Deva||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరిశుద్ధ సన్నీధిలొ ఆ.. పరిశుద్ధాత్ముని నీడలొ ఆ..",
+        "పరిపూర్ణ హృదయముతో పరివర్తనముతో ప్రభునే ప్రస్తుతించెదం",
+        "మా దేహమే ఆలయం - కావాలి మీకే నిలయం",
+        "ప్రాణప్రియుడవు - పదముల జేరి ప్రాణార్పణము జేతును  ||దేవా||"
+      ],
+      "english": [
+        "Parishuddha sannidhilo aa.. parishuddhaathmuni needalo aa..",
+        "Paripoorna hrudayamutho parivarthanamutho Prabhune prasthuthinchedam",
+        "Maa dehame aalayam - Kaavaali meeke nilayam",
+        "Praanapriyudavu - Padhamula jeri praanaarpanamu jethunu  ||Deva||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అత్యంత పరిశుద్ధమౌ ఆ.. నీదు గుడారమున ఆ..",
+        "నివసించుటకు యోగ్యత నొసగి మమ్ము హెచ్చించితివి నీ దయన్",
+        "జుంటిధారల కన్నను - తేనే మధురిమలకన్నను",
+        "శ్రేష్టమౌ నీదు వాక్కుల చేత - మమ్ము తృప్తీ పరచుము  ||దేవా||"
+      ],
+      "english": [
+        "Athyantha parishuddhamau aa.. needu gudaaramuna aa..",
+        "Nivasinchutaku yogyatha nosagi mammu hechchinchithivi nee dayan",
+        "Juntidhaarala kannanu - Thene madhurimalakannanu",
+        "Shreshtamau needu vaakkula chetha - Mammu thrupthee parachumu  ||Deva||"
+      ]
+    }
+  ]
+}

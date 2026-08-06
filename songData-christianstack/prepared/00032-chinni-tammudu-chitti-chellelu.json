@@ -1,0 +1,57 @@
+{
+  "song_name": "Chinni Tammudu Chitti Chellelu",
+  "author": {
+    "Authored by": "Blessy Kingsley",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "చిన్ని చిన్ని తమ్ముడు – చిట్టి చిట్టి చెల్లెలు",
+      "యేసయ్యను ఆరాధిస్తున్నావా….",
+      "యేసయ్య మాటను వింటున్నావా… ఓ ఓ ఓ ఓ"
+    ],
+    "english": [
+      "Chinni chinni thammudu chitti chitti chellelu",
+      "Yesayyanu aaradhisthunnava?",
+      "Yesayya maatanu vintunnava?",
+      "O Yesayyanu aaradhisthunnava?",
+      "Yesayya maatanu vintunnava?"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యోనా దేవునిమాట వినకపోయెనూ",
+        "కానీ చేపేమో దేవుని మాట అనుసరించెను",
+        "నీవు దేవుని మాట వింటున్నావా లేదా",
+        "మాట వినుటే కదా నిజమైన ఆరాధనా",
+        "యేసయ్యను ఆరాధిస్తున్నావా….",
+        "యేసయ్య మాటను వింటున్నావా… ఓ ఓ ఓ ఓ"
+      ],
+      "english": [
+        "Yona devuni maata vinakapoyenu",
+        "Kaani chepa devunini anusarinchenu",
+        "Neevu devuni maata vintunnava leda?",
+        "Maata vinte kada nizamaina aaradhana!"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బిలాము దేవుని మాట త్రోసివేసేనూ",
+        "కానీ గాడిదేమో దేవునికొరకు మాటలాడేను",
+        "నీవు దేవుని మాట వింటున్నావా లేదా",
+        "మాట వినుటే కదా నిజమైన ఆరాధనా",
+        "యేసయ్యను ఆరాధిస్తున్నావా….",
+        "యేసయ్య మాటను వింటున్నావా… ఓ ఓ ఓ ఓ"
+      ],
+      "english": [
+        "Bilaamu devuni maata throsivesenu",
+        "Kaani gaadida devuni koraku maatlaadenu",
+        "Neevu devuni maata vintunnava leda?",
+        "Maata vinte kada nizamaina aaradhana!"
+      ]
+    }
+  ]
+}

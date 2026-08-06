@@ -1,0 +1,70 @@
+{
+  "song_name": "Nischayamuga Ninnu",
+  "author": {
+    "Authored by": "Krupa Paul",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిశ్చయముగా నిన్ను దీవించును, నీ దుఃఖ దినములే తొలగించును",
+      "నిశ్చయముగా నిన్ను దీవించును, నీ దుఃఖ దినములే తొలగించును",
+      "కోల్పోయినవన్నీ రెండంతలు వచ్చును, మేలులతో నిన్ను తృప్తిపరచును",
+      "కోల్పోయినవన్నీ రెండంతలు వచ్చును, మేలులతో నిన్ను తృప్తిపరచును",
+      "మునుపటి వాటిని ఇక మరచిపోవుడి, రానున్న వాటికై మరి నిలవండి"
+    ],
+    "english": [
+      "Nischayamuga ninnu deevinchunu, nee dukkha dinamule tholaginchunu",
+      "Nischayamuga ninnu deevinchunu, nee dukkha dinamule tholaginchunu",
+      "Kolpoyinavanni rendanthalu vachchunu, melulatho ninnu thrupthiparachunu",
+      "Kolpoyinavanni rendanthalu vachchunu, melulatho ninnu thrupthiparachunu",
+      "Munupati vaatini ika marachipovudi, raanunna vaatikai mari nilavandi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఒంటరివై నీవుండినా, ఓటములే నిను బాధించినా",
+        "ఆశలే లేక అనగారినా, గమ్యమే లేక నీవు కృంగినా",
+        "నీకు తోడై యుండువాడే నీవు నమ్మిన ఆ దేవుడు",
+        "నీ కన్నీటిని నాట్యముగా మార్చగలడు నా యేసు"
+      ],
+      "english": [
+        "Ontarivai neevundinaa, otamule ninu baadhinchinaa",
+        "Aashale leka anagaarinaa, gamyame leka neevu krunginaa",
+        "Neeku thodai yunduvaade neevu nammina aa devudu",
+        "Nee kanneetini naatyamuga maarchagaladu naa Yesu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కష్టమే ఫలము తేకున్నను, వేదనతో గుండె బరువైనను",
+        "కాలమే కలిసి రాకున్నను, కఠినమైన స్థితులైనను",
+        "నీ స్థితిగతులను మార్చువాడే నీవు నమ్మిన ఆ దేవుడు",
+        "తలచిన చాలును నిలిచుంటాడు నీవు వెళ్లే ప్రతి స్థలములో"
+      ],
+      "english": [
+        "Kashtame phalamu thekunnanu, vedhanatho gunde baruvainanu",
+        "Kaalame kalisi raakunnanu, kathinamaina sthithulainanu",
+        "Nee sthithigathulanu maarchuvaade neevu nammina aa devudu",
+        "Thalachina chaalunu nilichuntaadu neevu velle prati sthalamulo"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "లోకమే నిన్ను బాధించినా, దుఃఖమే నీకు ఎదురొచ్చినా",
+        "అందరూ నిను మరచినా, అవమానాలెన్నో నిను చుట్టినా",
+        "నీకు విజయము నిచ్చువాడే నీవు నమ్మిన ఆ దేవుడు",
+        "ఇచ్చిన మాటను నెరవేర్చునులే నమ్మదగిన నా యేసు"
+      ],
+      "english": [
+        "Lokame ninnu baadhinchinaa, dukkhame neeku edurochchinaa",
+        "Andharoo ninu marachinaa, avamaanalenno ninu chuttinaa",
+        "Neeku vijayamu nichchuvaade neevu nammina aa devudu",
+        "Ichchina maatanu neraverchunule nammadagina naa Yesu"
+      ]
+    }
+  ]
+}

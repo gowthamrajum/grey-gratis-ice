@@ -1,0 +1,37 @@
+{
+  "song_name": "Oka kshanamaina neevu marachina ne brathakagalanaa Yesayyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఒక క్షణమైన నీవు మరచిన నే బ్రతకగలనా యేసయ్యా",
+      "కునికిన నిద్రించిన నా స్థితి ఏమౌనో మెస్సయ్యా (2)"
+    ],
+    "english": [
+      "Oka kshanamaina neevu marachina ne brathakagalanaa Yesayyaa",
+      "Kunikina nidhrinchina naa sthithi emauno Messayyaa (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఒంటరైన వేళలో – జంటగా నేనుందునని",
+        "అండ లేని వేళలో – కొండగా నిలుతునని (2)",
+        "అభయమునిచ్చిన నా యేసయ్యా",
+        "అండగ నిలిచిన నా యేసయ్యా",
+        "యేసయ్యా.. యేసయ్యా.. నా యేసయ్యా  ||ఒక||"
+      ],
+      "english": [
+        "Ontaraina velalo – Jantagaa nenundhunani",
+        "Anda leni velalo – Kondagaa niluthunani (2)",
+        "Abhayamunichchina naa Yesayyaa",
+        "Andaga nilichina naa Yesayyaa",
+        "Yesayyaa.. Yesayyaa.. naa Yesayyaa  ||Oka||"
+      ]
+    }
+  ]
+}

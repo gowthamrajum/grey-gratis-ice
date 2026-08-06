@@ -1,0 +1,90 @@
+{
+  "song_name": "Karunasaagara Veevaekaavaa",
+  "author": {
+    "Authored by": "",
+    "రచన": "గొల్లపల్లి నతానియేలు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "కరుణసాగర వీవేకావా మరణమొంద సిల్వ మెట్టకు మోసినావా",
+      "కరుణ సాగర వీవెకావ"
+    ],
+    "english": [
+      "Karunasaagara Veevaekaavaa Maranamondha Silva Mettaku Moasinaavaa",
+      "Karuna Saagara Veevekaava"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మరియు కల్వరి మెట్టమీఁదను కడకు మేకులుఁ గొట్టబడి నీ",
+        "మరణరక్తము చేత నరులకు పరమరక్షణఁ దెల్పినావా"
+      ],
+      "english": [
+        "Mariyu Kalvari Mettameedhanu Kadaku Maekulu Gottabadi Nee",
+        "Maranarakthamu Chaetha Narulaku Paramarakshana Dhelpinaavaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నజరేతు పుర విహారా నరులఁ బ్రోవ నరు దెంచినావా",
+        "నజరేతు పురవిహారా ప్రజలపాపముఁ బరిహరించియు",
+        "ప్రజల సద్గతి నొందఁ జేయను విజయమునుఁ బొందితివి యిలలో",
+        "సజనులందరు భజనసేయఁ గ"
+      ],
+      "english": [
+        "Najaraethu Pura Vihaaraa Narula Broava Naru Dhenchinaavaa",
+        "Najaraethu Puravihaaraa Prajalapaapamu Bariharinchiyu",
+        "Prajala Sadhgathi Nonda Jaeyanu Vijayamunu Bondhithivi Yilaloa",
+        "Sajanulandharu Bhajanasaeya Ga"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మరియయనే కన్యకుమారా నరకబాధఁ దప్పించినావా",
+        "మరియయనే కన్యకుమారా మార్గసత్యము జీవనములీ",
+        "మహిని నమ్మిన వారి కెల్లను మీరెగాకిఁక వేరేలేరని",
+        "సారెసారెకుఁ జెప్పినావా"
+      ],
+      "english": [
+        "Mariyayanae Kanyakumaaraa Narakabaadha Dhappinchinaavaa",
+        "Mariyayanae Kanyakumaaraa Maargasathyamu Jeevanamulee",
+        "Mahini Nammina Vaari Kellanu Meeregaakika Vaeraelaerani",
+        "Saaresaareku Jeppinaavaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మహిలోను మనుజకుమారా యహా తండ్రిని వేడినావా",
+        "మహిలోను మనజకుమారా యిహములోనిను నమ్మువారిని",
+        "బహు నీ కటాక్షంబుచేతను మహిమజనకా గావుమనుచు",
+        "త్రాహియని బ్రార్ధించి నావా"
+      ],
+      "english": [
+        "Mahiloanu Manujakumaaraa Yahaa Thandrini Vaedinaavaa",
+        "Mahiloanu Manajakumaaraa Yihamuloaninu Nammuvaarini",
+        "Bahu Nee Kataakshambuchaethanu Mahimajanakaa Gaavumanuchu",
+        "Thraahiyani Braardhinchi Naavaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పరమతండ్రి ప్రియకుమారా పావనముజేయ మీరేకారా",
+        "పరమతండ్రి ప్రియకుమారా పరముడా నీ పంచగాయము",
+        "లరయగా రక్తముతో నిండెను ధరను మా పాపములుఁ గడుగను",
+        "చిరముగా ను త్త రమునాయె"
+      ],
+      "english": [
+        "Paramathandri Priyakumaaraa Paavanamujaeya Meeraekaaraa",
+        "Paramathandri Priyakumaaraa Paramudaa Nee Panchagaayamu",
+        "Larayagaa Rakthamuthoa Nindenu Dharanu Maa Paapamulu Gaduganu",
+        "Chiramugaa Nu Ththa Ramunaaye"
+      ]
+    }
+  ]
+}

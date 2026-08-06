@@ -1,0 +1,74 @@
+{
+  "song_name": "Raakadane Railu Bandi",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాకడనే రైలు బండి వస్తున్నది రెండో రాకడనే రైలు బండి వస్తున్నది",
+      "రాకడనే రైలు బండి వస్తున్నది రెండో రాకడనే రైలు బండి వస్తున్నది",
+      "పరిశుద్ధుల కందులో చోటున్నది మంచి సీటున్నది",
+      "పరిశుద్ధుల కందులో చోటున్నది మంచి సీటున్నది",
+      "రాకడనే రైలు బండి వస్తున్నది రెండో రాకడనే రైలు బండి వస్తున్నది"
+    ],
+    "english": [
+      "Raakadane railu bandi vasthunnadhi rendo raakadane railu bandi vasthunnadhi",
+      "Raakadane railu bandi vasthunnadhi rendo raakadane railu bandi vasthunnadhi",
+      "Parishuddhula kandhulo chotunnadhi manchi seat-unnadhi",
+      "Parishuddhula kandhulo chotunnadhi manchi seat-unnadhi",
+      "Raakadane railu bandi vasthunnadhi rendo raakadane railu bandi vasthunnadhi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సత్యమనే చక్రములు దానికివి శాంతి అనే పైకప్పు దానికి",
+        "సత్యమనే చక్రములు దానికివి శాంతి అనే పైకప్పు దానికిన్నది",
+        "పాపులను క్షమించే బ్రేకులున్నాయి బండికి బ్రేకులున్నాయి",
+        "పాపులను క్షమించే బ్రేకులున్నాయి బండికి బ్రేకులున్నాయి",
+        "రాకడనే రైలు బండి వస్తున్నది రెండో రాకడనే రైలు బండి వస్తున్నది"
+      ],
+      "english": [
+        "Sathyamane chakramulu dhaanikivi shaanthi ane paikappu dhaaniki",
+        "Sathyamane chakramulu dhaanikivi shaanthi ane paikappu dhaanikinnadhi",
+        "Paapulanu kshaminche brakes-unnayi bandhiki brakes-unnayi",
+        "Paapulanu kshaminche brakes-unnayi bandhiki brakes-unnayi",
+        "Raakadane railu bandi vasthunnadhi rendo raakadane railu bandi vasthunnadhi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తండ్రి కుమారాత్మలనే రైలు బండది ఇంజను డ్రైవర్ పేరు ఆత్మదేవుడు",
+        "తండ్రి కుమారాత్మలనే రైలు బండది ఇంజను డ్రైవర్ పేరు ఆత్మదేవుడు",
+        "యెహోవా తండ్రి అనే గార్డు ఉన్నాడు బండికి గార్డు ఉన్నాడు",
+        "యెహోవా తండ్రి అనే గార్డు ఉన్నాడు బండికి గార్డు ఉన్నాడు"
+      ],
+      "english": [
+        "Thandri kumaaraathmalane railu bandadhi engine driver peru aathmadevudu",
+        "Thandri kumaaraathmalane railu bandadhi engine driver peru aathmadevudu",
+        "Yehova thandri ane guard-unnaadu bandhiki guard-unnaadu",
+        "Yehova thandri ane guard-unnaadu bandhiki guard-unnaadu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రాకడనే రైలు బండి వస్తున్నది రెండో రాకడనే రైలు బండి వస్తున్నది",
+        "రాకడనే రైలు బండి వస్తున్నది రెండో రాకడనే రైలు బండి వస్తున్నది",
+        "పరిశుద్ధుల కందులో చోటున్నది మంచి సీటున్నది",
+        "పరిశుద్ధుల కందులో చోటున్నది మంచి సీటున్నది",
+        "రాకడనే రైలు బండి వస్తున్నది రెండో రాకడనే రైలు బండి వస్తున్నది"
+      ],
+      "english": [
+        "Raakadane railu bandi vasthunnadhi rendo raakadane railu bandi vasthunnadhi",
+        "Raakadane railu bandi vasthunnadhi rendo raakadane railu bandi vasthunnadhi",
+        "Parishuddhula kandhulo chotunnadhi manchi seat-unnadhi",
+        "Parishuddhula kandhulo chotunnadhi manchi seat-unnadhi",
+        "Raakadane railu bandi vasthunnadhi rendo raakadane railu bandi vasthunnadhi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "song_name": "Anudhinamu Maa Bhaaramu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "అనుదినము మా భారము - భరించే దేవా",
+      "అనిశము నీ మేళ్ళతో - నింపుచున్నావు"
+    ],
+    "english": [
+      "Anudhinamu Maa Bhaaramu - Bharimchae Dhaevaa",
+      "Anishamu Nee Maellathoa - Nimpuchunnaavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సన్నుతించు మనిశము - నా ప్రణమా",
+        "యేసుని పరిశుద్ధ నామమును - పొగడు మెప్పుడు",
+        "ఒంటె బరువు దీవెనలు - వీపున మోసె"
+      ],
+      "english": [
+        "Sannuthimchu Manishamu - Naa Pranamaa",
+        "Yaesuni Parishudhdha Naamamunu - Pogadu Meppudu",
+        "Omte Baruvu Dheevenalu - Veepuna Moase"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా శరీరమున ముల్లు - బాధపరచుచుండగా",
+        "వేదనతో వేడగా - ధైర్యమిచితివి",
+        "నా కృప నీ కెల్లప్పుడు - చాలునంటివి"
+      ],
+      "english": [
+        "Naa Shareeramuna Mullu - Baadhaparachuchumdagaa",
+        "Vaedhanathoa Vaedagaa - Dhairyamichithivi",
+        "Naa Krupa Nee Kellappudu - Chaalunmtivi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అపరాధముతో మేము చిక్కుకొని యుండగా",
+        "నీ రక్తముతో మమ్ము - విమోచించితివి",
+        "నీదు కృప మహదై-శ్వర్యంబును బట్టి"
+      ],
+      "english": [
+        "Aparaadhamuthoa Maemu Chikkukoni Yumdagaa",
+        "Nee Rakthamuthoa Mammu - Vimoachimchithivi",
+        "Needhu Krupa Mahadhai-shvarymbunu Batti"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "అన్నిటిలో నెప్పుడు - సకల సంపదలతోను",
+        "సమృద్ధితో మమ్ములను - సాకుచుంటివి",
+        "కృపా క్షేమములను మాపై - కుమ్మరించితివి"
+      ],
+      "english": [
+        "Annitiloa Neppudu - Sakala Smpadhalathoanu",
+        "Samrudhdhithoa Mammulanu - Saakuchumtivi",
+        "Krupaa Kshaemamulanu Maapai - Kummarimchithivi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "సర్వవేళల సంతృప్తిని - నేర్పినావు మాకిల",
+        "సకలంబును చేయుటకు - శక్తి నిచ్చితివి",
+        "బలపరచుము నిన్ను బట్టి - బలుడవు దేవా"
+      ],
+      "english": [
+        "Sarvavaelala Smthrupthini - Naerpinaavu Maakila",
+        "Sakalmbunu Chaeyutaku - Shakthi Nichchithivi",
+        "Balaparachumu Ninnu Batti - Baludavu Dhaevaa"
+      ]
+    }
+  ]
+}

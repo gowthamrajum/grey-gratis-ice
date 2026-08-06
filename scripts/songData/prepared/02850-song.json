@@ -1,0 +1,41 @@
+{
+  "song_name": "Raegathvarapadaku Oarchukoa Koapi Goada",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రేగత్వరపడకు ఓర్చుకో కోపి గోడుజెందును ఓర్చుకో",
+      "నీ కన్యాయమయినను కన్ను లెర్రజేయకు శాంత మొందు మెప్పుడు ఓర్చుకో."
+    ],
+    "english": [
+      "Raegathvarapadaku Oarchukoa Koapi Goadujendunu Oarchukoa",
+      "Nee Kanyaayamayinanu Kannu Lerrajaeyaku Shaantha Mondu Meppudu Oarchukoa."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎవ్వఁడేని తిట్టిన ఓర్చుకో మేలుఁజేయు కీడుకు ఓర్చుకో",
+        "లోకమందు సుఖము కొంతసేపు నుండును కోపమేలఁ జేతువు? ఓర్చుకో."
+      ],
+      "english": [
+        "Evvadaeni Thittina Oarchukoa Maelujaeyu Keeduku Oarchukoa",
+        "Loakamandu Sukhamu Konthasaepu Nundunu Koapamaela Jaethuvu? Oarchukoa."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీవు కీడునొందఁగా ఓర్చుకో ప్రతి కీడుఁ జేయకు",
+        "ఓర్చుకొనియుండుము అంత సరియగును నీకు జయముండును ఓర్చుకో."
+      ],
+      "english": [
+        "Neevu Keedunondagaa Oarchukoa Prathi Keedu Jaeyaku",
+        "Oarchukoniyundumu Antha Sariyagunu Neeku Jayamundunu Oarchukoa."
+      ]
+    }
+  ]
+}

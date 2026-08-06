@@ -1,0 +1,52 @@
+{
+  "song_name": "Yevaru Chesiri Puvuu Lanuu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెవరు చెసిరి పువుఉలనుఉ పువులను పువులను (2)",
+      "యెవరు చెసిరి పువుఉ లనుఉ పరలొ-ఖపు దెవున్డు"
+    ],
+    "english": [
+      "Yevaru Chesiri Puvuulanuu Puvulanu Puvulanu (2)",
+      "Yevaru Chesiri Puvuu Lanuu Paralo-Khapu Dhevundu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యెవరు చెసిరి చుక్కలను చుఖలను చుఖలను (2)",
+        "యెవరు చెసిరి చుఖలను పరలొ-ఖపు దెవున్డు"
+      ],
+      "english": [
+        "Yevaru Chesiri Chukkalanu Chukhalanu Chukhalanu (2)",
+        "Yevaru Chesiri Chukhalanu Paralo-Khapu Dhevundu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యెవరు చెసిరి చపలను చపలను చపలను (2)",
+        "పరలొ-ఖపు దెవున్డు"
+      ],
+      "english": [
+        "Yevaru Chesiri Chapalanu Chapalanu Chapalanu (2)",
+        "Paralo-Khapu Dhevundu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యెవరు చెసిరి నిఇను నన్ను నిన్ను నన్ను నిన్ను నన్ను (2)",
+        "పరలొ-ఖపు దెవున్డు"
+      ],
+      "english": [
+        "Yevaru Chesiri Niinu Nannu Ninnu Nannu Ninnu Nannu (2)",
+        "Paralo-Khapu Dhevundu"
+      ]
+    }
+  ]
+}

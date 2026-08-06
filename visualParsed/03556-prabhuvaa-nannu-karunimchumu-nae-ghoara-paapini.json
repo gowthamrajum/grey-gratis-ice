@@ -1,0 +1,79 @@
+{
+  "song_name": "Prabhuvaa nannu karuninchumu ne ghora paapini",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభువా నన్ను కరుణించుము నే ఘోర పాపిని",
+      "పాపిని, పాపిని నే ఘోర పాపిని"
+    ],
+    "english": [
+      "Prabhuvaa nannu karuninchumu ne ghora paapini",
+      "Paapini, paapini ne ghora paapini"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లోకాశకు లొంగిపోయి – పడిపోయిన పాపిని",
+        "ఎన్నికలేని పాపిని నే ఘోరపాపిని నే ఘోరపాపిని"
+      ],
+      "english": [
+        "Lokaashaku longipoyi - Padipoyina paapini",
+        "Ennikaleni paapini ne ghorapaapini ne ghorapaapini"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అన్యజనుల ఆచారముల నభ్యసించి చెడిపోతిని",
+        "ఎన్నికలేని పాపిని నే ఘోరపాపిని నే ఘోరపాపిని"
+      ],
+      "english": [
+        "Anyajanula aachaaramula nabhyasinchi chedipothini",
+        "Ennikaleni paapini ne ghorapaapini ne ghorapaapini"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ వాక్యమును త్రోసివేసి దుష్కార్యములు – చేసితిని",
+        "ఎన్నికలేని పాపిని నే ఘోరపాపిని నే ఘోరపాపిని"
+      ],
+      "english": [
+        "Nee vaakyamunu throsivesi dhushkaaryamulu - Chesithini",
+        "Ennikaleni paapini ne ghorapaapini ne ghorapaapini"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "శరీరాశ, నేత్రాశను – పాపేచ్ఛను గల్గియుంటి",
+        "ఎన్నికలేని పాపిని నే ఘోరపాపిని నే ఘోరపాపిని"
+      ],
+      "english": [
+        "Shareeraasha, nethraashanu - Paapechchanu galgiyunti",
+        "Ennikaleni paapini ne ghorapaapini ne ghorapaapini"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నారక్షకుడా యేసు నాథా – నన్ను నీవు రక్షించితివి",
+        "నిన్నే నిత్యము పూజింతును",
+        "సేవింతు నిరతము – సేవింతు నిరతము",
+        "సేవింతున్ పూజింతున్ – నిరతము సేవింతున్"
+      ],
+      "english": [
+        "Naarakshakudaa Yesu naathaa - Nannu neevu rakshinchithivi",
+        "Ninne nithyamu poojinthunu",
+        "Sevinthu nirathamu - Sevinthu nirathamu",
+        "Sevinthun poojinthun - Nirathamu sevinthun"
+      ]
+    }
+  ]
+}

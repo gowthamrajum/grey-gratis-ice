@@ -1,0 +1,74 @@
+{
+  "song_name": "Raavaa Yesudhevaa neeve naa varamuga",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Joshua Shaik"
+    ],
+    "రచన": [
+      "జాషువా షేక్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "రావా యేసుదేవా – నీవే నా వరముగ",
+      "దారే చూప రావా – నడిపించే దేవా రావా",
+      "ఈ కడలిలో నలిగిన నా హృదయముతో",
+      "నిను కొలుతును నా ప్రభువా",
+      "రావా తోడు రావా – నీవే జీవ నావ",
+      "పొంగేటి ప్రేమై రావా – నాతో ఉండిపోవా"
+    ],
+    "english": [
+      "Raavaa Yesudhevaa - Neeve naa varamuga",
+      "Daare choopa raavaa - Nadipinche Devaa raavaa",
+      "Ee kadalilo naligina naa hrudayamutho",
+      "Ninu koluthunu naa Prabhuvaa",
+      "Raavaa thodu raavaa - Neeve jeeva naava",
+      "Pongeti premai raavaa - Naatho undipovaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏలో ఏలో – అంటు సాగే – నాదు నావ",
+        "మబ్బే కమ్మీ – గాలే రేగే – నీవు లేక",
+        "ఆశే నీవు – నాదు ప్రభువ – ఆదుకోవా",
+        "దూరమైన – వెల్లువైన – నాతో రావా",
+        "కడలిలోన – కరుణ చూపే – దీపం కావా",
+        "ఏ బంధమో – అనుబంధమో",
+        "బ్రతుకంత నీదేగా – కరుణించ రావయ్యా"
+      ],
+      "english": [
+        "Elo elo - Antu saage - Naadu naava",
+        "Mabbe kammee - Gaale rege - Neevu leka",
+        "Aashe neevu - Naadu prabhuva - Aadhukovaa",
+        "Dooramaina - Velluvaina - Naatho raavaa",
+        "Kadalilona - Karuna choope - Deepam kaavaa",
+        "E bandhamo - Anubandhamo",
+        "Brathukantha needhegaa - Karunincha raavayyaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కొండా కోన – నింగీ నేల – చాలనంత",
+        "పొంగీపోయే – ప్రేమే నీది – సంద్రమంత",
+        "చూసే నీవు – నాదు బ్రతుకు – భారమంతా",
+        "ఆదరించే – అమ్మ వంటి – దైవమే నీవు",
+        "దయను చూపే – దరికి చేర్చే – నేస్తమే నీవు",
+        "ఏ రాగమో – అనురాగమో",
+        "కడదాకా నీవేగా – కృప చూప రావయ్యా"
+      ],
+      "english": [
+        "Kondaa kona - Ningee nela - Chaalanantha",
+        "Pongeepoye - Preme needi - Sandhramantha",
+        "Choose neevu - Naadu brathuku - Bhaaramanthaa",
+        "Aadarinche - Amma vanti - Daivame neevu",
+        "Dayanu choope - Dariki cherche - Nesthame neevu",
+        "E raagamo - Anuraagamo",
+        "Kadadhaakaa neevegaa - Krupa choopa raavayyaa"
+      ]
+    }
+  ]
+}

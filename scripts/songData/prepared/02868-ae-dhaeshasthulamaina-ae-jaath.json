@@ -1,0 +1,45 @@
+{
+  "song_name": "Ae Dhaeshasthulamaina Ae Jaathi Manadhaina",
+  "author": {
+    "Authored by": "",
+    "రచన": "సి విజయ చార్లెస్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏ దేశస్థులమైన ఏ జాతి మనదైన యేసులో మన మొక్కటే ఏకమై",
+      "బాలల మెల్లరమును తండ్రి నెంతో స్తుతించుచు నెప్పుడు బాడుదము"
+    ],
+    "english": [
+      "Ae Dhaeshasthulamaina Ae Jaathi Manadhaina Yaesuloa Mana Mokkatae Aekamai",
+      "Baalala Mellaramunu Thandri Nenthoa Sthuthinchuchu Neppudu Baadudhamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పలు దేశములలోన పన్నుగ దేవుని ప్రార్ధించెడి బాలలం",
+        "పరమ తండ్రీ మాలో ప్రతివారి దీవించు బహుగా",
+        "నీ దినమనుచు బ్రతిమాలి వేడుదము"
+      ],
+      "english": [
+        "Palu Dhaeshamulaloana Pannuga Dhaevuni Praardhinchedi Baalalam",
+        "Parama Thandree Maaloa Prathivaari Dheevinchu Bahugaa",
+        "Nee Dhinamanuchu Brathimaali Vaedudhamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బహు దేశములలోన పలువిధుములగు పనులు పరగజేసెడి బాలలం",
+        "ప్రభుడే యేసుని కొఱకే ప్రపంచమంతటిని",
+        "బాగుచేయను మిగుల ప్రయాసపడుదము"
+      ],
+      "english": [
+        "Bahu Dhaeshamulaloana Paluvidhumulagu Panulu Paragajaesedi Baalalam",
+        "Prabhudae Yaesuni Korakae Prapanchamanthatini",
+        "Baaguchaeyanu Migula Prayaasapadudhamu"
+      ]
+    }
+  ]
+}

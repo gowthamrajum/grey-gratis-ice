@@ -1,0 +1,52 @@
+{
+  "song_name": "Naa Praanamaina Yesu",
+  "author": {
+    "Authored by": "Jayaseelan",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రాణమైన యేసు",
+      "నా ప్రాణములోనే కలిసి",
+      "నా ప్రాణమా నే నిన్నే స్తుతింతున్",
+      "నా ప్రాణమా నే నిన్నే స్తుతింతున్",
+      "నా ప్రాణమైన ప్రాణమైన ప్రాణమైన యేసు"
+    ],
+    "english": [
+      "Naa praanamaina yesu",
+      "naa praanamulone kalisi",
+      "naa praanamaa ne ninne sthuthinthun",
+      "naa praanamaa ne ninne sthuthinthun",
+      "naa praanamaina praanamaina praanamaina yesu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లోకమంతా మరచితినీ",
+        "విలువైనది కనుగొంటినీ",
+        "నీ నామం స్తుతించుటలో",
+        "యేసయ్య.. నీ ప్రేమ రుచించుటలో",
+        "రాజా…",
+        "నీ వాక్యం నాకు భోజనమే",
+        "శరీరమంతా ఔషధమే",
+        "రాత్రియు పగలునయ్యా",
+        "నీ యొక్క వచనం ధ్యానింతును",
+        "రాజా…"
+      ],
+      "english": [
+        "Lokamanthaa marachithini",
+        "viluvainadi kanugontini",
+        "nee naamam sthuthinchutalo",
+        "yesayya.. nee prema ruchinchutalo",
+        "raajaa…",
+        "Nee vaakyam naaku bhojaname",
+        "shareeramanthaa oushadhame",
+        "raathriyu pagalunayyaa",
+        "nee yokka vachanam dhyaaninthunu",
+        "raajaa…"
+      ]
+    }
+  ]
+}

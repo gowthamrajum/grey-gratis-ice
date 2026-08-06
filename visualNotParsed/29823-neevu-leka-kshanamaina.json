@@ -1,0 +1,92 @@
+{
+  "song_name": "Neevu leka kshanamainaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "PREM EVAN D"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవు లేక క్షణమైనా నిలువ లేను",
+      "నా ప్రతి అడుగున అండ నీవే",
+      "నీవు లేక క్షణమైనా నడువ లేను",
+      "నా ప్రతి అడుగున అడుగు నీవే"
+    ],
+    "english": [
+      "Neevu leka kshanamainaa niluva lenu",
+      "Naa prathi aduguna anda neeve",
+      "Neevu leka kshanamainaa naduva lenu",
+      "Naa prathi aduguna adugu neeve"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ మనస్సుకు, నీ ప్రేమకు .",
+        "ఋణము తీర్చేదెలా ?",
+        "నీ మనస్సుకు, నీ ప్రేమకు .",
+        "నే ఋణము తీర్చేదెలా ?",
+        "యేసయ్యా.. యేసయ్యా.. యేసయ్యా (4)"
+      ],
+      "english": [
+        "Nee manassuku, nee premaku .",
+        "Runamu theerchedhelaa ?",
+        "Nee manassuku, nee premaku .",
+        "Ne runamu theerchedhelaa ?",
+        "Yesayyaa.. Yesayyaa.. Yesayyaa (4)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా జీవం, నా ప్రాణం",
+        "నీకన్నా గొప్పది కాదయ్య.",
+        "నా జీవం, నా ప్రాణం",
+        "నీకన్నా గొప్పది కాదయ్య.",
+        "నీవు చూపిన త్రోవను విడువనయ్యా",
+        "యేసయ్యా.. యేసయ్యా.. యేసయ్యా (4)"
+      ],
+      "english": [
+        "Naa jeevam, naa praanam",
+        "Neekannaa goppadi kaadayya.",
+        "Naa jeevam, naa praanam",
+        "Neekannaa goppadi kaadayya.",
+        "Neevu choopina throvanu viduvanayyaa",
+        "Yesayyaa.. Yesayyaa.. Yesayyaa (4)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా కోసమే ......, నీవు చేసిన.....",
+        "నీ త్యాగం మరువ లేనయ్య",
+        "నా కోసమే ......, నీవు చేసిన.....",
+        "నీ త్యాగం మరువ లేనయ్య",
+        "నీ ప్రాణ త్యాగము మరువ జాలనయ్య",
+        "యేసయ్యా.. యేసయ్యా.. యేసయ్యా (2)"
+      ],
+      "english": [
+        "Naa kosame ......, neevu chesina.....",
+        "Nee thyaagam maruva lenayya",
+        "Naa kosame ......, neevu chesina.....",
+        "Nee thyaagam maruva lenayya",
+        "Nee praana thyaagamu maruva jaalanayya",
+        "Yesayyaa.. Yesayyaa.. Yesayyaa (2)"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యేసయ్యా.. యేసయ్యా.. యేసయ్యా (2)",
+        "యేసయ్యా.. యేసయ్యా.. యేసయ్యా (2)"
+      ],
+      "english": [
+        "Yesayyaa.. Yesayyaa.. Yesayyaa (2)",
+        "Yesayyaa.. Yesayyaa.. Yesayyaa (2)"
+      ]
+    }
+  ]
+}

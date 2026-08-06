@@ -1,0 +1,82 @@
+{
+  "song_name": "Parishudhdhulellaru Yesun pogadi paadi yaarbhatinchi paramunanunda",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరిశుద్ధులెల్లరు యేసున్ పొగడి - పాడి యార్భటించి పరముననుండ",
+        "పరమానంద గీతమచ్చట ధ్వనింప - నీ వచట నుందువా? (3) నా మానసమా!"
+      ],
+      "english": [
+        "Parishudhdhulellaru Yesun pogadi - Paadi yaarbhatinchi paramunanunda",
+        "Paramaananda geethamachchata dhvaninpa - Nee vachata nundhuvaa? (3) naa maanasamaa!"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గొర్రెపిల్లయు రాజ్యమేలుచుండ - నాశ్రితు లెల్లరు నాయనను చేర",
+        "మిత్రుడెల్ల కన్నీటి దుడుచుచుండ - నీ వచట నుందువా? నా మానసమా!"
+      ],
+      "english": [
+        "Gorrepillayu raajyameluchunda - Naashrithu lellaru naayananu chera",
+        "Mithrudella kanneeti dhuduchuchunda - Nee vachata nundhuvaa? naa maanasamaa!"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పేతురు పౌలు యోహాను నచట - పితామహులు యపొ స్తలులందరు",
+        "హతసాక్షులెల్లరు సమావేశింప - నీ వచట నుందువా? నా మానసమా!"
+      ],
+      "english": [
+        "Pethuru Paulu Yohaanu nachata - Pithaamahulu aposthalulandharu",
+        "Hathasaakshulellaru samaaveshinpa - Nee vachata nundhuvaa? naa maanasamaa!"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "జగములో సిలువను మోసినచో - కిరీటము ధరియించి భాసిల్లుదురు",
+        "దేవ పుత్రులుగా నెల్లరు మారగా - నీ వచట నుందువా? నా మానసమా!"
+      ],
+      "english": [
+        "Jagamulo siluvanu mosinacho - Kireetamu dhariyinchi bhaasilludhuru",
+        "Deva puthrulugaa nellaru maaragaa - Nee vachata nundhuvaa? naa maanasamaa!"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "శోధనల జయించిన వీరులెల్ల - కష్టశ్రమలోర్చిన మహాత్ములు",
+        "జ్యోతిర్మయులుగా నొప్పారుచుండ - నీ వచట నుందువా? నా మానసమా!"
+      ],
+      "english": [
+        "Shodhanala jayinchina veerulella - Kashtashramalorchina mahaathmulu",
+        "Jyothirmayulugaa noppaaruchunda - Nee vachata nundhuvaa? naa maanasamaa!"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "కన్యకరణినాడు ప్రభుసంఘము - రాజు యేసు పెండ్లి కుమారునికి",
+        "భార్యగా ప్రకాశింప దాని రుచింప - నీ వచట నుందువా? నా మానసమా!",
+        "నేనచట నుండెదను నా యేసుతోడ"
+      ],
+      "english": [
+        "Kanyakaraninaadu prabhusanghamu - Raaju Yesu pendli kumaaruniki",
+        "Bhaaryagaa prakaashinpa daani ruchinpa - Nee vachata nundhuvaa? naa maanasamaa!",
+        "Nenachata nundedhanu naa Yesuthoda"
+      ]
+    }
+  ]
+}

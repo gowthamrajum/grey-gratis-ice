@@ -1,0 +1,85 @@
+{
+  "song_name": "Yehoavaa Maa Thandri Gaada",
+  "author": {
+    "Authored by": "",
+    "రచన": "పురుషోత్తము చౌదరి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవా మా తండ్రి గాఁడ యేసుఁడు మా యన్న గాఁడ",
+      "మహిమ గల శుద్ధాత్మ యిట్టి వరుసఁ దెలిపెం గద మాతోడ"
+    ],
+    "english": [
+      "Yehoavaa Maa Thandri Gaada Yaesudu Maa Yanna Gaada",
+      "Mahima Gala Shuddhaathma Yitti Varusa Dhelipem Gadha Maathoada"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మోక్ష నగరు మా పుట్టిల్లు ముఖ్య దూతల్ మా స్నేహితులు",
+        "సాక్షాత్కారమై యున్నపుడు లక్ష్యపెట్ట మిహ బాధలకు"
+      ],
+      "english": [
+        "Moaksha Nagaru Maa Puttillu Mukhya Dhoothal Maa Snaehithulu",
+        "Saakshaathkaaramai Yunnapudu Lakshyapetta Miha Baadhalaku"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అబ్రాహాము దావీదు మొదలై నట్టి వర భక్తాగ్రేసరులే",
+        "శుభ్రముగ మా చుట్టా లైనన్ హర్షమిఁక మా కేమి కొదువ"
+      ],
+      "english": [
+        "Abraahaamu Dhaaveedhu Modhalai Natti Vara Bhakthaagraesarulae",
+        "Shubhramuga Maa Chuttaa Lainan Harshamika Maa Kaemi Kodhuva"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పేతు రాది సకలాపోస్తుల్ పేర్మిగల మా నిజ వర కూటస్థుల్",
+        "ఖ్యాతి సభలో మే మున్నప్పుడు ఘనతలిక మాకేమి వెలితి"
+      ],
+      "english": [
+        "Paethu Raadhi Sakalaapoasthul Paermigala Maa Nija Vara Kootasthul",
+        "Khyaathi Sabhaloa Mae Munnappudu Ghanathalika Maakaemi Velithi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "తనువు బలిపెట్టెను మా యన్న తప్పు ల్విడఁ గొట్టెను మా తండ్రి",
+        "మనసులో సాక్ష్యమిట్లున్న మనుజు లెట్లన్నను మా కేమి"
+      ],
+      "english": [
+        "Thanuvu Balipettenu Maa Yanna Thappu Lvida Gottenu Maa Thandri",
+        "Manasuloa Saakshyamitlunna Manuju Letlannanu Maa Kaemi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పరమ విభు జీవగ్రంథములోఁ బ్రభుని రక్తాక్షరముద్రితమె",
+        "చిరముగా నుండు మా పేరు చెఱుపు బెట్టెడువా రింకెవరు"
+      ],
+      "english": [
+        "Parama Vibhu Jeevagranthamuloa Brabhuni Rakthaaksharamudhrithame",
+        "Chiramugaa Nundu Maa Paeru Cherupu Bettedhuvaa Rinkevaru"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "కరములతో నంట రాని కన్నులకు గోచరము గాని",
+        "పరమ ఫలముల్ మా కున్నపుడు సరకు గొన మిక్కడి లేములకు"
+      ],
+      "english": [
+        "Karamulathoa Nanta Raani Kannulaku Goacharamu Gaani",
+        "Parama Phalamul Maa Kunnapudu Saraku Gona Mikkadi Laemulaku"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "song_name": "Mosithivaa naa korakai siluva vedananu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మోసితివా నా కొరకై సిలువ వేదనను",
+      "గొల్గొతా నీవు క్రీస్తుకై నిలచితి వేదనలో",
+      "సిలువలో రక్తము పాపికి రక్షణ విలువగు మోక్షమును",
+      "పాప క్షమాపణ పాపికి ముక్తి పరమ ప్రభుని గనుము ||మోసితివా||"
+    ],
+    "english": [
+      "Mosithivaa naa korakai siluva vedananu",
+      "Golgothaa neevu Kreesthukai nilachithi vedhanalo",
+      "Siluvalo rakthamu paapiki rakshana viluvagu mokshamunu",
+      "Paapa kshamaapana paapiki mukthi parama prabhuni ganumu ||Mosithivaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అమ్మా ఇదిగో నీ సుతుడు వ్రేళాడుచు పిలిచెన్",
+        "ఏలి ఏలి లామా సబక్తానీ చే విడిచి",
+        "దాహము తీర్చను చేదు చిరకను అందించిరిగా",
+        "ముండ్ల మకుట నీ శిరముపై గృచ్చిరి యూదుల రాజని",
+        "హేళన చేసిరి గుద్దిరి ఉమిసిరి కొరడా దెబ్బలతో",
+        "దేవ నా దేవా ఏల నా చేయి విడనాడితివిలలో  ||మోసితివా||"
+      ],
+      "english": [
+        "Ammaa idigo nee suthudu vrelaaduchu pilichen",
+        "Eli Eli laamaa sabakthaanee che vidichi",
+        "Daahamu theerchanu chedu chirakanu andhinchirigaa",
+        "Mundla makuta nee shiramupai gruchchiri Yoodula raajani",
+        "Helana chesiri guddhiri umisiri koradaa dhebbalatho",
+        "Deva naa Devaa ela naa cheyi vidanaadithivi ilalo  ||Mosithivaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తర తరాల ఈ లోకం – యుగయుగాల నీ నామం",
+        "తరగని వేదన నీకు సిలువ విజయమునకే",
+        "కల్వరి ధారా నాథా పాపికి ప్రాణ ప్రదాత",
+        "విలువగు రక్త ప్రదాత ఆశ్రిత రక్షణ రాజా",
+        "చిందిన రక్తము విలువగు ప్రాణము లోక విమోచనకే",
+        "అందదు ఊహకు అంతము ఎప్పుడో సిద్ధపరచు ప్రభువా  ||మోసితివా||"
+      ],
+      "english": [
+        "Thara tharaala ee lokam – Yugayugaala nee naamam",
+        "Tharagani vedhana neeku siluva vijayamunake",
+        "Kalvari dhaaraa naathaa paapiki praana pradhaatha",
+        "Viluvagu raktha pradhaatha aashritha rakshana raajaa",
+        "Chindina rakthamu viluvagu praanamu loka vimochanake",
+        "Andadu oohaku anthamu eppudo siddhaparachu prabhuvaa  ||Mosithivaa||"
+      ]
+    }
+  ]
+}

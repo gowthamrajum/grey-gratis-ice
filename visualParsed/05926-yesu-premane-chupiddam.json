@@ -1,0 +1,54 @@
+{
+  "song_name": "Yesu premane choopiddaam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు ప్రేమనే చూపిద్దాం. యేసు లాగనే జీవిద్దాం",
+      "లోకాన్నే మార్చుద్దాం. చలో.",
+      "యేసు వార్తనే చాటేద్దాం నశించు ఆత్మను మార్చేద్దాం",
+      "యేసు సువార్తను ప్రకటిద్దాం. బోలో.",
+      "యేసయ్య సాక్షిగా జీవించుదాం తన చిత్తం నెరవేర్చుదాం (2)",
+      "యేసే రారాజని సర్వలోకానికి ఎలుగెత్తి చాటించుదాం.(2)"
+    ],
+    "english": [
+      "Yesu premane choopiddaam. Yesu laagane jeeviddaam",
+      "Lokaanne maarchuddaam. Chalo.",
+      "Yesu vaarthane chaateddaam nashinchu aathmanu maarcheddaam",
+      "Yesu suvaarthanu prakatiddaam. Bolo.",
+      "Yesayya saakshigaa jeevinchudaam thana chittham neraverchudaam (2)",
+      "Yese raaraajani sarvalokaaniki elugetthi chaatinchudaam.(2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసయ్యనామం ముక్తికి మార్గం యేసయ్య సన్నిధి సంతోషం",
+        "యేసయ్య వాక్యం జీవాహారం యేసయ్యే మనకు ఆధారం"
+      ],
+      "english": [
+        "Yesayya naamam mukthiki maargam Yesayya sannidhi santhosham",
+        "Yesayya vaakyam jeevaahaaram Yesayye manaku aadhaaram"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసయ్య పాపికి శరణం యేసయ్య చిత్తం చిరజీవం",
+        "యేసయ్యే మార్గం సత్యం జీవం యేసయ్య వలనే పరలోకం",
+        "యేసయ్య రాకకు సిద్ధపడుదాం ఆత్మలను సిద్ధపరచుదాం (2)",
+        "యేసే రారాజని సర్వలోకానికి ఎలుగెత్తి చాటించుదాం (2)"
+      ],
+      "english": [
+        "Yesayya paapiki sharanam Yesayya chittham chirajeevam",
+        "Yesayye maargam sathyam jeevam Yesayya valane paralokam",
+        "Yesayya raakaku siddhapadudaam aathmalanu siddhaparachudaam (2)",
+        "Yese raaraajani sarvalokaaniki elugetthi chaatinchudaam (2)"
+      ]
+    }
+  ]
+}

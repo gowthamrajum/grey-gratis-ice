@@ -1,0 +1,63 @@
+{
+  "song_name": "Kummaree o kummaree",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "కుమ్మరీ ఓ కుమ్మరీ జగదుత్పత్తిదారీ",
+      "జిగటమన్నై నా వంక చల్లగ చూడుమయ్యా......"
+    ],
+    "english": [
+      "Kummaree o kummaree jagadhuthpatthidhaaree",
+      "Jigatamannai naa vanka challaga choodumayyaa......"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పనికిరాని పాత్రనని పారవేయకుమా పొంగిపొరలు",
+        "పాత్రగా జేసి నన్ను నింపుమా సువార్తలోని పాత్రలన్నీ",
+        "శ్రీ యేసున్ పొగడుచుండ సాక్షిగ నుండు",
+        "పాత్రగజేసి సత్యముతో నింపుము తండ్రి  ||కుమ్మరీ||"
+      ],
+      "english": [
+        "Panikiraani paathranani paaraveyakumaa pongiporalu",
+        "Paathragaa jesi nannu nimpumaa suvaarthaloni paathralannee",
+        "Shree Yesun pogaduchunda saakshiga nundu",
+        "Paathragajesi sathyamutho nimpumu thandri ||Kummaree||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విలువలేని పాత్రన్ నేను కొనువారు లెరెవ్వరూ",
+        "వెలలేని నీదు రక్తంబుతో వెలుగొందు పాత్రగజేసి",
+        "ఆటంకములనుండి తప్పించి నన్ను ఎల్లప్పుడు కావుమయ్యా  ||కుమ్మరీ||"
+      ],
+      "english": [
+        "Viluvaleni paathran nenu konuvaaru lerevvaroo",
+        "Velaleni needu rakthambutho velugondhu paathragajesi",
+        "Aatankamulanundi thappinchi nannu ellappudu kaavumayyaa ||Kummaree||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "లోకాశతో నింజి ఉప్పొంగుచు మార్గంబునే తప్పితిన్",
+        "మనుష్యేచ్చలన్నియున్ స్థిరమనుచు నే మనశ్శాంతి కోల్పోతిని",
+        "పోగొట్టుకొన్న పాత్రయనుచు పరుగెత్తి నను పట్టితీ",
+        "ప్రాణంబు నాలో ఉన్నప్పుడే నీ పాదంబుల్ నే పట్టితిన్  ||కుమ్మరీ||"
+      ],
+      "english": [
+        "Lokaashatho nindi upponguchu maargambune thappithin",
+        "Manushyechchalanniyun sthiramanuchu ne manashshaanthi kolpothini",
+        "Pogottukonna paathrayanuchu parugetthi nanu pattithee",
+        "Praanambu naalo unnappude nee paadhambul ne pattithin ||Kummaree||"
+      ]
+    }
+  ]
+}

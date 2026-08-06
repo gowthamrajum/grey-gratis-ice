@@ -1,0 +1,114 @@
+{
+  "song_name": "Sambaralu Sambaralu 2",
+  "author": {
+    "Authored by": "Ps. Rajkumar Jeremy",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఒక తార పుట్టింది నింగిలో",
+      "ఈ నేల మురిసింది వెలుగులో",
+      "దివినేలే దేవ దేవుడు…",
+      "నరునిపైన కరుణ చూపెను",
+      "బెత్లెహేములో – పశుల పాకలో",
+      "రక్షకుడు జన్మించెను"
+    ],
+    "english": [
+      "Oka thaara puttindhi ningilo",
+      "Ee nela murisindhi velugulo",
+      "Dhivinelae Dheva Dhevudu…",
+      "Narunipaina karuna chopenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సంబరాలు సంబరాలు – సంబరాలు",
+        "సంబరాలు సంబరాలు – సంబరాలు"
+      ],
+      "english": [
+        "Bethlehemulo – pashula paakalo",
+        "Rakshakudu janminchenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఒక దూత దిగివచ్చే రేయిలో",
+        "శుభవార్త ప్రకటించే మహిమలో",
+        "పరలోక సమూహమంతా",
+        "స్తుతీ గానము పాడిరి",
+        "బెత్లెహేములో – పశుల పాకలో",
+        "రక్షకుడు జన్మించెను",
+        "సంబరాలు సంబరాలు – సంబరాలు",
+        "సంబరాలు సంబరాలు – సంబరాలు"
+      ],
+      "english": [
+        "Sambaralu sambaralu – sambaralu",
+        "Sambaralu sambaralu – sambaralu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అటు తూర్పు దేశపు జ్ఞానులు",
+        "యెరూషలేమునకు చేరిరి",
+        "శిశువునకు సాగిలపడిరి",
+        "కానుకలు సమర్పించిరి",
+        "బెత్లెహేములో – పశుల పాకలో",
+        "రక్షకుడు జన్మించెను",
+        "సంబరాలు సంబరాలు – సంబరాలు",
+        "సంబరాలు సంబరాలు – సంబరాలు"
+      ],
+      "english": [
+        "Oka dhootha dhigivacche reyilo",
+        "Shubhavaartha prakatinche mahimalo",
+        "Paraloka samoohamanthaa",
+        "Sthuthi gaanamu paadiri"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [],
+      "english": [
+        "Bethlehemulo – pashula paakalo",
+        "Rakshakudu janminchenu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [],
+      "english": [
+        "Sambaralu sambaralu – sambaralu",
+        "Sambaralu sambaralu – sambaralu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [],
+      "english": [
+        "Atu thoorpu dheshapu jnaanulu",
+        "Yerushalemunaku cheriri",
+        "Shishuvunaku saagilapadiri",
+        "Kaanukalu samarpinchiri"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [],
+      "english": [
+        "Bethlehemulo – pashula paakalo",
+        "Rakshakudu janminchenu"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [],
+      "english": [
+        "Sambaralu sambaralu – sambaralu",
+        "Sambaralu sambaralu – sambaralu"
+      ]
+    }
+  ]
+}

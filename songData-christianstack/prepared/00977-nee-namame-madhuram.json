@@ -1,0 +1,30 @@
+{
+  "song_name": "Nee Namame Madhuram",
+  "author": {
+    "Authored by": "Bro Suresh Nittala",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ నామమే మధురం – భూలోకమే స్తుతించున్",
+      "ఈ కాలమే నీ ఆధీనం – నీవెన్నడూ మా సహాయం"
+    ],
+    "english": [
+      "Nee naamame madhuram – bhoolokame stuthinchun",
+      "ee kaalame nee aadhinam – neevennadu maa sahaayam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కీర్తించి పాడెదన్ – స్తుతులు చెల్లించెదన్",
+        "ఆరాధించెదన్ – నిన్నేఘనపరచెదన్"
+      ],
+      "english": [
+        "Keerthinchi paadedhan – stuthulu chellinchedan",
+        "aaradhinchedan – ninne ghanaparachedan"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "song_name": "Prabhuvaa neeve naadu sharanam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభువా నీవే నాదు శరణం",
+      "ఆశ్రయించితి నీ లే (2)",
+      "అపవాది క్రియలందు బంధీనైతిన్",
+      "కృప చూపి నను విముక్తుని చేయుమా",
+      "విపరీతి గతి పొందియుంటిన్",
+      "నీదు ముక్తి ప్రభావింపనిమ్ము ||ప్రభువా||"
+    ],
+    "english": [
+      "Prabhuvaa neeve naadu sharanam",
+      "Aashrayinchithi nee le (2)",
+      "Apavaadi kriyalandu bandheenaithin",
+      "Krupa choopi nanu vimukthuni cheyumaa",
+      "Vipareethi gathi pondhiyuntin",
+      "Needu mukthi prabhaavimpanimmu ||Prabhuvaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మరణ ఛాయలు నాపై బ్రమ్ముకొనెను",
+        "కరుణించి నీ దివ్య కాంతి నిమ్ము",
+        "చెదరిన నీదు ప్రతి రూపం",
+        "నాపై సరి చేసి ముద్రించు దేవా",
+        "నీ న్యాయ విధులన్ని భంగ పరచి",
+        "గాయపరచితి నేను అపరాధిని",
+        "పరితాపమును పొందుచుంటి",
+        "నాదు పాపము క్షమియించు దేవా  ||ప్రభువా||"
+      ],
+      "english": [
+        "Marana chhaayalu naapai brammukonenu",
+        "Karuninchi nee divya kaanthi nimmu",
+        "Chedarina needu prathi roopam",
+        "Naapai sari chesi mudhrinchu Deva",
+        "Nee nyaaya vidhulanni bhanga parachi",
+        "Gaayaparachithi nenu aparaadhini",
+        "Parithaapamunu pondhuchunti",
+        "Naadu paapamu kshamiyinchu Deva ||Prabhuvaa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాప భారము తొడ అరుదించితి",
+        "సేద తీర్చుము శాంతి జలములతో",
+        "నీ ప్రేమ రుధిర శ్రవంతి",
+        "శాప భారము తొలగించు దేవా  ||ప్రభువా||",
+        "శరణం యేసు (4)  ||ప్రభువా||"
+      ],
+      "english": [
+        "Paapa bhaaramu thoda arudhenchithi",
+        "Seda theerchumu shaanthi jalamulatho",
+        "Nee prema rudhira shravanthi",
+        "Shaapa bhaaramu tholaginchu Deva ||Prabhuvaa||",
+        "Sharanam Yesu (4) ||Prabhuvaa||"
+      ]
+    }
+  ]
+}

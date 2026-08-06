@@ -1,0 +1,107 @@
+{
+  "song_name": "Vandanam",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రతి అవసరము తీర్చువాడవు నీవే యేసయ్య",
+      "నా ప్రతి ఆశ నెరవేర్చువాడవు నీవే యేసయ్య"
+    ],
+    "english": [
+      "Naa prathi avasaramu teerchuvaadavu neevey yesayya",
+      "naa prathi aasa neraverchuvaadavu neevey yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆకలితో నే అలమటించి నపుడు",
+        "అక్కర నెరిగి ఆదుకున్నావు"
+      ],
+      "english": [
+        "Aakalitho ney alamatinchi napudu",
+        "akkara nerigi aadukunnaavu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "Pre-Chorus:",
+        "వందనం యేసయ్య నీకే",
+        "వందనం యేసయ్య"
+      ],
+      "english": [
+        "Pre-Chorus:",
+        "Vandanam yeasayya neekey",
+        "Vandanam yeasayya"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నా ప్రతి అవసరము తీర్చువాడవు నీవే యేసయ్య",
+        "నా ప్రతి ఆశ నెరవేర్చువాడవు నీవే యేసయ్య"
+      ],
+      "english": [
+        "Naa prathi avasaramu teerchuvaadavu neevey yesayya",
+        "naa prathi aasa neraverchuvaadavu neevey yesayya"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఊహించలేని ఆశ్చర్య కార్యములతో",
+        "ఏ కొదువ లేక నను కాచుచుంటివి",
+        "కష్టాలెన్ని వచ్చిన కరువులెన్ని కలిగిన",
+        "నీ చేతి నీడ ఎపుడు నను దాటిపోదు"
+      ],
+      "english": [
+        "oohinchaleni aascharya kaaryamulato",
+        "ey kodhuva leka nanu kaachuchuntivi",
+        "kashtaalenni vachchina karuvulenni kaligina",
+        "nee chethi needa epudu nanu daatipodhu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "Pre-Chorus:",
+        "వందనం యేసయ్య నీకే",
+        "వందనం యేసయ్య"
+      ],
+      "english": [
+        "Pre-Chorus:",
+        "Vandanam yesayya neekey",
+        "Vandanam yesayya"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "Bridge:",
+        "తప్పిపోయిన త్రోవ మరచిన",
+        "నీ కృప నన్ను విడచి వెల్లదు",
+        "నా ప్రతి విన్నపం నీ చెంత చేరునేసయ్య యేసయ్య",
+        "నా ప్రతి ప్రార్ధనకు జవాబు నీవే యేసయ్య యేసయ్య",
+        "వందనం యేసయ్య నీకే",
+        "వందనం యేసయ్య",
+        "ఏమివ్వగలను ఎనలేని ప్రేమకై",
+        "యేసయ్య వందనం"
+      ],
+      "english": [
+        "Bridge:",
+        "tappipoyina throva marachina",
+        "nee krupa nannu vidachi velladhu",
+        "naa prathi vinnapam nee chentha cherunesayya yesayya",
+        "naa prathi praardhanaku javaabu neeve yesayya yesayya",
+        "vandanam yesayya neekey",
+        "vandanam yesayya",
+        "emivvagalanu enaleni premakai",
+        "yesayya vandanam"
+      ]
+    }
+  ]
+}

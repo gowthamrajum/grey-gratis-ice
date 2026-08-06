@@ -1,0 +1,54 @@
+{
+  "song_name": "Nadipinchu chunnaadu Najareyudu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నడిపించు చున్నాడు - నజరేయుడు",
+      "నడక నేర్పుచున్నాడు - నను విడువని దేవుడు",
+      "గాఢాంధకారములైనా - కన్నీటి లోయలైనా",
+      "కష్టాల తీరములైన - కఠినమైన మార్గములైనా ||నడి||"
+    ],
+    "english": [
+      "Nadipinchu chunnaadu - Najareyudu",
+      "Nadaka nerpuchunnaadu - Nanu viduvani Devudu",
+      "Gaadhaandhakaaramulainaa - Kanneeti loyalainaa",
+      "Kashtaala theeramulaina - Kathinamaina maargamulainaa ||Nadi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా కాళ్ళు తడబడగా - నడువ లేక నిలబడగా (2)",
+        "అడుగులో అడుగేసి - చేతిలో చెయ్యేసి (2)",
+        "ఊసుచెప్పినాడు - బాసచేసినాడు (2)",
+        "ఆదరించే దేవుడు నా యేసయ్యా ఆశీర్వదించే దేవుడు నా యేసయ్య ||సడి||"
+      ],
+      "english": [
+        "Naa kaallu thadabadagaa - Naduva leka nilabadagaa (2)",
+        "Adugulo adugesi - Chethilo cheyyesi (2)",
+        "Oosucheppinaadu - Baasachesinaadu (2)",
+        "Aadarinche Devudu naa Yesayyaa aasheervadhinche Devudu naa Yesayya ||Nadi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ముదిమిలో బలముడిగి - నిలువలేక తూలిపోగా (2)",
+        "చంకలో ఎత్తుకొని - ముద్దులతో ముంచెత్తి (2)",
+        "ప్రేమ చూపినాడు - ప్రాణమిచ్చినాడు (2)",
+        "ప్రాణమిచ్చే దేవుడు నా యేసయ్యా ప్రేమ చూపే దేవుడు నా యేసయ్యా ||స||"
+      ],
+      "english": [
+        "Mudhimilo balamudigi - Niluvaleka thoolipogaa (2)",
+        "Chankalo etthukoni - Mudhdhulatho munchetthi (2)",
+        "Prema choopinaadu - Praanamichchinaadu (2)",
+        "Praanamichche Devudu naa Yesayyaa prema choope Devudu naa Yesayyaa ||Na||"
+      ]
+    }
+  ]
+}

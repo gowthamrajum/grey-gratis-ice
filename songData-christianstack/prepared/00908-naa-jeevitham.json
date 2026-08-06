@@ -1,0 +1,50 @@
+{
+  "song_name": "Naa Jeevitham",
+  "author": {
+    "Authored by": "Saginela Kavitha Kumari",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా జీవితం నీ చేతిలో ఫలియించెడి ధ్రాక్షావల్లి గా",
+      "చేసావు దేవా మలిచావు ప్రభువా నన్ను నీ సాక్షిగా",
+      "నన్ను నీ సాక్షిగా"
+    ],
+    "english": [
+      "Naa jeevitham nee chethilo phaliyinchedi dhraakshaavalli gaa",
+      "chesaavu devaa malichaavu prabhuvaa nannu nee saakshigaa",
+      "nannu nee saakshigaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తెలిసి తెలియక చేసిన నా తప్పిదములన్నియు",
+        "నిన్నే మరచి నా స్వార్ధముతో నేను దాచిన నా దోషములన్నియు",
+        "నీ ప్రేమతో కప్పివేసి నీ స్వాస్థ్యముగా",
+        "చాలి చాలని మా బ్రతుకులను",
+        "నీవు ఉన్నతంగా మార్చి ఆశీర్వదించి",
+        "ఆనంద బాష్పాలతో నింపావయ్యా",
+        "నీవే మాకు తోడై నీడగ నిలిచి ఆశ్రయమైనావు",
+        "ఎప్పుడో రాలిపోయే నా జీవితాన్ని నీవు",
+        "ఇంకా నిలిపి నీ బలముతో నింపి",
+        "నీ కృపలో నన్ను నడుపుచున్నావయ్యా",
+        "నీ ప్రేమనై నేను పాడుచు ధ్రాక్షావల్లిగా ఫలియించెద నీలో"
+      ],
+      "english": [
+        "Thelisi teliyaka chesina naa thappidhamulanniyu",
+        "ninne marachi naa swaardhamutho nenu dhaachina naa dhoshamulanniyu",
+        "nee prematho kappivesi nee swaasthyamugaa",
+        "Chaali chaalani maa brathukulanu",
+        "neevu unnathamgaa maarchi aasirvadhinchi",
+        "aanandha baashpaalatho nimpaavayyaa",
+        "neeve maaku thodai needaga nilichi aasrayamainaavu",
+        "Eppudo raalipoye naa jeevithaanni neevu",
+        "inkaa nilipi nee balamutho nimpi",
+        "nee krupalo nannu nadupuchunnaavayyaa",
+        "nee premanai nenu paaduchu dhraakshaavalligaa phaliyincheda neelo"
+      ]
+    }
+  ]
+}

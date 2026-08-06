@@ -1,0 +1,46 @@
+{
+  "song_name": "Neelo Samasthamu Saadyame",
+  "author": {
+    "Authored by": "Davidson Gajulavarthi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీలో సమస్తము సాధ్యమే",
+      "మహోన్నతుడా యేసయ్య",
+      "బలవంతుడా యేసయ్య",
+      "ఆరాధింతును నిన్నే స్తుతియింతున్"
+    ],
+    "english": [
+      "Neelo samasthamu saadhyame",
+      "mahonnathudaa yesayya",
+      "balavanthudaa yesayya",
+      "aaraadhinthunu ninne sthuthiyinthun"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అలసియున్న నా ప్రాణమును సేదదీర్చువాడవు",
+        "జీవ జలపు ఊటనిచ్చి తృప్తిపరచువాడవు",
+        "ప్రార్ధనలన్ని ఆలకించువాడవు నీవు",
+        "అడిగినవన్ని ఇచ్చేవాడవు నీవు",
+        "శోధన వేదనలలో జయమిచ్చువాడవు",
+        "బుద్ధియు జ్ఞానమిచ్చి నడిపించువాడవు",
+        "నిత్యజీవం ఇచ్చేవాడవు నీవు",
+        "నాతో ఉన్న ఇమ్మానుయేలువు నీవు"
+      ],
+      "english": [
+        "Alasiyunna naa praanamunu sedhadheerchu vaadavu",
+        "jeeva jalapu ootanichi thrupthi parachu vaadavu",
+        "praardhanalanni aalakinchuvaadavu neevu",
+        "adiginavanni ichevaadavu neevu",
+        "Shodhana vedhanalalo jayamichuvaadavu",
+        "buddhiyu gnaanamichi nadipinchuvaadavu",
+        "nithyajeevam ichevaadavu neevu",
+        "naatho unna immaanuyeluvu neevu"
+      ]
+    }
+  ]
+}

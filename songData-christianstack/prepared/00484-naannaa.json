@@ -1,0 +1,50 @@
+{
+  "song_name": "Naannaa",
+  "author": {
+    "Authored by": "KanthiKala",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "బాధలే బంధించినా – లోకమే ముంచేసినా",
+      "నడిపించు నాన్నా నడిపించు నాన్నా నడిపించు నాన్నా",
+      "ఏదైనాగానీ ఏమైనారానీ నీ సేవలోనే",
+      "ననుసాగనీ ననుసాగనీ",
+      "ఎదురీతలైనా ఎదకోతలైనా నీ వైపే చూస్తూ",
+      "అడుగేయనీ అడుగేయనీ",
+      "బలహీన సమయములో బలమొందనీ",
+      "బలమిచ్చే నీవైపే పరుగెత్తనీ",
+      "బలహీన సమయములో బలమొందనీ",
+      "బలమిచ్చే నిను జూస్తూ పరుగెత్తనీ"
+    ],
+    "english": [
+      "Baadhalea bandhinchinaa – lookamea muncheasinaa",
+      "nadipinchu naannaa",
+      "eadainaagaanee eamainaaraanee nee seavaloonea",
+      "nanusaaganee nanusaaganee",
+      "eadureethalainaa edakoothalainaa nee vaipea chuustuu",
+      "adugeayanee adugeayanee",
+      "balaheena samayamuloo balamondanee",
+      "balamcchea neevaipea parugethanee",
+      "balaheena samayamuloo balamondanee",
+      "balamcchea nenu juustuu parugethanee"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "” అడుగులు తడబడుతూ ఉన్నా",
+        "ఆశలు నీరవుతూ ఉన్నా",
+        "ఓటమి చేరువగా ఉన్నా",
+        "నడిపించు నాన్నా"
+      ],
+      "english": [
+        "adugulu thadabaduthuu unnaa",
+        "aasalu neeravuthuu unnaa",
+        "ootame cheaaruvagaa unnaa",
+        "nadipinchu naannaa"
+      ]
+    }
+  ]
+}

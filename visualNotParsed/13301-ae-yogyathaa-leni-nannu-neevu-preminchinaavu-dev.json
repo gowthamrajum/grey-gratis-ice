@@ -1,0 +1,69 @@
+{
+  "song_name": "E yogyathaa leni nannu neevu preminchinaavu Deva",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏ యోగ్యతా లేని నన్ను నీవు ప్రేమించినావు దేవా",
+      "ఏ అర్హతా లేని నన్ను నీవు రక్షించినావు ప్రభువా",
+      "నీకేమి చెల్లింతును",
+      "నీ ఋణమెలా తీర్తును (2) ||ఏ యోగ్యతా||"
+    ],
+    "english": [
+      "E yogyathaa leni nannu neevu preminchinaavu Deva",
+      "E arhathaa leni nannu neevu rakshinchinaavu Prabhuvaa",
+      "Neekemi chellinthunu",
+      "Nee runamelaa theerthunu (2) ||E yogyathaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కలుషితుడైన పాపాత్ముడను",
+        "నిష్కళంకముగా నను మార్చుటకు (2)",
+        "పావన దేహంలో గాయాలు పొంది (2)",
+        "రక్తమంత చిందించినావా ||నీకేమి||"
+      ],
+      "english": [
+        "Kalushithudaina paapaathmudanu",
+        "Nishkalankamugaa nanu maarchutaku (2)",
+        "Paavana dhehamlo gaayaalu pondi (2)",
+        "Rakthamantha chindhinchinaavaa ||Neekemi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సుందరమైన నీ రూపమును",
+        "మంటివాడనైన నాకీయుటకు (2)",
+        "వస్త్రహీనుడుగా సిలువలో వ్రేళాడి (2)",
+        "నీ సొగసును కోల్పోయినావా ||నీకేమి||"
+      ],
+      "english": [
+        "Sundaramaina nee roopamunu",
+        "Mantivaadanaina naakeeyutaku (2)",
+        "Vasthraheenudugaa siluvalo vrelaadi (2)",
+        "Nee sogasunu kolpoyinaavaa ||Neekemi||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాపము వలన మృతినొందిన",
+        "అపరాధినైన నను లేపుటకు (2)",
+        "నా స్థానమందు నా శిక్ష భరించి (2)",
+        "మరణించి తిరిగి లేచావా ||నీకేమి||"
+      ],
+      "english": [
+        "Paapamu valana mruthinondhina",
+        "Aparaadhinaina nanu leputaku (2)",
+        "Naa sthaanamandu naa shiksha bharinchi (2)",
+        "Maraninchi thirigi lechaavaa ||Neekemi||"
+      ]
+    }
+  ]
+}

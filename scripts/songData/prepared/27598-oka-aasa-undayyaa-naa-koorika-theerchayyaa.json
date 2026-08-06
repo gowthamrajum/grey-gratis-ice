@@ -1,0 +1,44 @@
+{
+  "song_name": "Oka Aasa Undayyaa Naa Koorika Theerchayyaa",
+  "author": {
+    "Authored by": "Pastor Anand Babu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఒక ఆశ ఉందయ్యా నా కోరిక తీర్చయ్యా నా మనవిను యేసయ్యా ప్రత్యుత్తరమిమ్మయ్య యవనకాలమందు నీ కాడి మోయగా బలమైన విల్లుగా నన్ను మార్చవా"
+    ],
+    "english": [
+      "oka aasa undayyaa naa koorika theerchayyaa naa manavinu yeasayyaa prathyuttharamimmayya yesayya naa aasa theerchayya yavanakaalamandu nii kaadi mooyagaa balamaina villugaa nannu maarchavaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యూదుల రక్షణకై రాజు శాసనము మార్చి- ఎస్తేరు ఆశను తీర్చిన దేవా ఈ తరములో మా మనవులను ఆలకించవా – మా దేశములో మహా రక్షణ కలుగజేయవా"
+      ],
+      "english": [
+        "yuudula rakshannakai raaju saasanamu maarchi esteru aasanu theerchina deava ee tharamuloo maa manavulanu aalakinchavaa maa deasamuloo mahaa rakshanna kalugajeayavaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నత్తివాడైనను ఫరో ఎదుట నిలబెట్టి- మోషే ఆశను తీర్చిన దేవా ఈ తరములో నీ చిత్తముకై ఎదురు చూడగా అగ్ని చేత నను దర్శించి నీ చిత్తము తెలుపవా"
+      ],
+      "english": [
+        "natthivaadainanu pharaoh eduta nilabetti moshea aasanu theerchina deava ee tharamuloo nii chitthamukai eduru chuudagaa agni cheatha nanu darsinchi nii chitthamu telupavaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మేడ గదిలో అగ్నివoటి ఆత్మతో నింపి- అపోస్తులల ఆశను తీర్చిన దేవా ఈ తరములో నీ సేవకై మేము నిలువగా అగ్ని వంటి ఏడంతల ఆత్మతో ఆశ తీర్చవా"
+      ],
+      "english": [
+        "meada gadiloo agnivanti aathmathoo nimpi apostulala aasanu theerchina deavaa ee tharamuloo nii seavakai meamu niluvagaa agni vanti eadanthala aathmathoo aasa theerchavaa"
+      ]
+    }
+  ]
+}

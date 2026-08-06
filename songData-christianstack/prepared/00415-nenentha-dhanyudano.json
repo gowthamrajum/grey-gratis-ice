@@ -1,0 +1,64 @@
+{
+  "song_name": "Nenentha Dhanyudano",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నేనెంత ధన్యుడనో ప్రియుడా యేసయ్య",
+      "నీ రెక్కల నీడలో ఆశ్రయమిచ్చితివి",
+      "సమృద్ధి కృపతో మారని ప్రేమతో",
+      "ఉన్నత కార్యములు నాకై చేసితివి",
+      "పరవశమే పరిమళమే నీ కౌగిలిలో",
+      "సంతసమే సంబరమే నీ సన్నిధిలో"
+    ],
+    "english": [
+      "Nenentha dhanyudano priyudaa yesayya",
+      "nee rekkala needalo aasrayamichithivi",
+      "samruddhi krupatho maarani prematho",
+      "unnatha kaaryamulu naakai chesithivi",
+      "paravasamey parimalamey nee kougililo",
+      "santhasamey sambaramey nee sannidhilo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీకు దూరమైన స్థితిలో నే గాయపడిన వేళ",
+        "నా దీనస్థితిని చూచి దాటిపోక",
+        "నా హృదినే కట్టినావే పరమ తండ్రిగా",
+        "క్షేమం బహుపదిలం నీ ఒడిలోనే",
+        "ధైర్యం సహవాసం నీ ఉపదేశం",
+        "శ్రమకు తాళలేని స్థితిలో నే తల్లడిల్లు వేళ",
+        "నీ కరము చాపి నన్ను చేరదీసి",
+        "నీ చెలిమి పంచినావే నా హితుడవై",
+        "గమనం నా గమ్యం నీ కృపలోనే",
+        "గానం నా గాత్రం నీ కొరకే",
+        "నిరాశచెందు స్థితిలో నే సాగలేని వేళ",
+        "నీ ఆత్మ వర్షమును పంపి నాకై",
+        "ఫలింపచేసినావే నాదు బ్రతుకును",
+        "సాక్ష్యం నా సర్వం నీవేనయ్యా",
+        "జీవించెద నీకై శ్రేష్ట ఫలముగా"
+      ],
+      "english": [
+        "Neeku dhooramaina sthithilo ne gaayapadina vela",
+        "naa dheena sthithini choochi dhaatipoka",
+        "naa hrudhine kattinaave parama thandrigaa",
+        "kshemam bahu padhilam nee odiloney",
+        "dhairyam sahavaasam nee upadhesam",
+        "Sramaku thaalaleni sthithilo ne thalladillu vela",
+        "nee karamu chaapi nannu cheradheesi",
+        "nee chelimi panchinaave naa hithudavai",
+        "gamanam naa gamyam nee krupalone",
+        "gaanam naa gaathram nee korake",
+        "Niraasa chendhu sthithilo ne saagaleni vela",
+        "nee aathma varshamunu pampi naakai",
+        "phalimpa chesinaave naadhu brathukunu",
+        "saaksham naa sarvam neevenayyaa",
+        "jeevinchedha neekai sreshta phalamugaa"
+      ]
+    }
+  ]
+}

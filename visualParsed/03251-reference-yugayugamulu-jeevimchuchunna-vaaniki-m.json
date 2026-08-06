@@ -1,0 +1,62 @@
+{
+  "song_name": "Reference: yugayugamulu jeevinchuchunna vaaniki mahimayu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు సమసిన సిల్వ చెంత - నే ప్రార్ధించిన స్థలమందు రక్తము",
+        "ద్వారా మన్నింపొందితిన్ - యేసుకు మహిమ",
+        "యేసుకు మహిమ మహిమ (2)",
+        "నా యెద యిప్పుడు మారెను - యేసుకు మహిమ"
+      ],
+      "english": [
+        "Yesu samasina silva chentha - Ne praardhinchina sthalamandu rakthamu",
+        "Dwaaraa manninpondhithin - Yesuku mahima",
+        "Yesuku mahima mahima (2)",
+        "Naa eda ippudu maarenu - Yesuku mahima"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆశ్చర్యముగా హౄదయౌ మారెను - యేసుకు ఆలయమాయెను",
+        "సిల్వ యొద్ద నటులాయెను - యేసుకు మహిమ"
+      ],
+      "english": [
+        "Aashcharyamugaa hrudayamu maarenu - Yesuku aalayamaayenu",
+        "Silva yodda natulaayenu - Yesuku mahima"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాపము తీర్చు ప్రభావమది - నన్ను స్వస్థ పరచినది",
+        "యేసుచే నీ స్థితి కల్గెను - యేసుకు మహిమ"
+      ],
+      "english": [
+        "Paapamu theerchu prabhaavamadhi - Nannu swastha parachinadhi",
+        "Yesuche nee sthithi kalgenu - Yesuku mahima"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఈ జీవపు ఊట యొద్దకురా - హౄదయము నిమ్ము యేసునకు",
+        "ముంగిన నీ పాపము పోవున్ - యేసుకు మహిమ"
+      ],
+      "english": [
+        "Ee jeevapu oota yoddhakuraa - Hrudayamu nimmu Yesunaku",
+        "Munigina nee paapamu povun - Yesuku mahima"
+      ]
+    }
+  ]
+}

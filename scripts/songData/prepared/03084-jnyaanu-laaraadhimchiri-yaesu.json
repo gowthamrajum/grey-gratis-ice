@@ -1,0 +1,67 @@
+{
+  "song_name": "Jnaanu Laaraadhinchiri Yaesu Prabhuni",
+  "author": {
+    "Authored by": "",
+    "రచన": "బేతాళ జాన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "జ్ఞాను లారాధించిరి యేసు ప్రభునిఁ బూని",
+      "పాపులఁ బ్రోవ మెనిఁ దాల్చిన తరి"
+    ],
+    "english": [
+      "Jnaanu Laaraadhinchiri Yaesu Prabhuni Booni",
+      "Paapula Broava Meni Dhaalchina Thari"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "చాల కాలము నుండి మేలు వార్త నాసక్తి నాలకించి",
+        "నక్షత్ర కాల చిహ్నముఁ గూడి మేలు మేలని",
+        "మ మ్మేలు వాఁడని మంచి బోళము సాంబ్రాణి వేసి"
+      ],
+      "english": [
+        "Chaala Kaalamu Nundi Maelu Vaartha Naasakthi Naalakinchi",
+        "Nakshathra Kaala Chihnamu Goodi Maelu Maelani",
+        "Ma Mmaelu Vaadani Manchi Boalamu Saambraani Vaesi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దూర మనక యాత్ర భార మనక బయలు దేరి",
+        "సంతోషముతోఁ జేరి మేలిమి బం గార మిచ్చిరి",
+        "మన సార మెచ్చిరి జో హారు జోహారటంచు"
+      ],
+      "english": [
+        "Dhoora Manaka Yaathra Bhaara Manaka Bayalu Dhaeri",
+        "Santhoashamuthoa Jaeri Maelimi Bam Gaara Michchiri",
+        "Mana Saara Mechchiri Joa Haaru Joahaaratanchu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఈ దివసంబున బేత్లెహేమను నూర యూదుల రాజుగాఁ బాదుకొన్నయేసు",
+        "నాధ స్వామిని స మ్మోద మిమ్మని య య్యూదజనుల మధ్య"
+      ],
+      "english": [
+        "Ee Dhivasambuna Baethlehaemanu Noora Yoodhula Raajugaa Baadhukonnayaesu",
+        "Naadha Svaamini Sa Mmoadha Mimmani Ya Yyoodhajanula Madhya"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఈ సమయము మన మా సమయంబుగఁ జేసి స్తుతింపను జేరితి మిచ్చోట",
+        "భాసురంబగు శ్రీ యేసు నాధుని హృద యాసనంబునఁ జేర్చి"
+      ],
+      "english": [
+        "Ee Samayamu Mana Maa Samayambuga Jaesi Sthuthimpanu Jaerithi Michchoata",
+        "Bhaasurambagu Shree Yaesu Naadhuni Hrudha Yaasanambuna Jaerchi"
+      ]
+    }
+  ]
+}

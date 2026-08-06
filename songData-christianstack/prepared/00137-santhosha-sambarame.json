@@ -1,0 +1,64 @@
+{
+  "song_name": "Santhosha Sambarame",
+  "author": {
+    "Authored by": "Dr. Akumarthi Daniel",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "క్రీస్తుజన్మించె నేడు – కాంతి ఉదయించెనే",
+      "మహిమ విడిచొచ్చినాడు – మనిషిగా పుట్టెనే",
+      "మరణాంధకారమందు – మహిమను నింపుటకు",
+      "మనవంటి వాడాయెను – మనసున్న మహారాజు"
+    ],
+    "english": [
+      "Kreesthu janminche nedu – kaanthi udhayinchene",
+      "Mahima vidichochchinaadu – manishigaa puttene",
+      "Maranaandhkaaramandhu – mahimanu nimputaku",
+      "Manavanti vaadaayenu – manasunna mahaaraaju"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "“సంతోష సంబరమే – శాశ్వత ఆనందమే ”",
+        "Happy Happy Christmas – Merry merry christmas"
+      ],
+      "english": [
+        "“Santhosha sambarame – saashvatha aanandhame”",
+        "Happy Happy Christmas – Merry Merry Christmas"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రవచనములు నెరవేరునట్లు – పుడమిలో పుట్టెను",
+        "కన్యమరియ గర్భమునందు – శిశువై జన్మించెను",
+        "వెలుగు విరజిమ్ముచూ – భ్రమలు తొలగించగా",
+        "ఇలకు అరుదెంచెను – దైవకుమారుడు యేసుక్రీస్తుగా"
+      ],
+      "english": [
+        "Pravachanamulu neraverunatlu – pudamilo puttenu",
+        "Kanya Mariya garbhamunandu – shishuvai janminchenu",
+        "Velugu virajimmuchu – bhramalu tholaginchaga",
+        "Ilaku arudhenchenu – Dhaiva Kumaarudu Yesu Kreesthugaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సర్వోన్నతమగు స్థలములయందు – దేవునికే మహిమ అనుచూ",
+        "దూతలందరు నింగిలో చేరి – ఆరాధన చేసిరి",
+        "మనమందరము చేరి – స్తుతులు అర్పించెదం",
+        "రాజులకు రాజని -క్రొత్త కీర్తనలు పాడి కీర్తించెదము"
+      ],
+      "english": [
+        "Sarvonnathamagu sthalamulayandu – Devunike mahima anuchu",
+        "Dhoothal-andaru ningilo cheri – aaradhana chesiri",
+        "Manamandaramu cheri – sthuthulu arpinchedham",
+        "Raajulaku raajani – kottha keerthanalu paadi keerthinchedhamu"
+      ]
+    }
+  ]
+}

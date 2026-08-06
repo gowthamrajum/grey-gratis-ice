@@ -1,0 +1,52 @@
+{
+  "song_name": "Idigo nenu thalupunoddha niluchundi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసునే స్తుతించు",
+      "రేపే మగునో తెలియనందున స్తుతించు"
+    ],
+    "english": [
+      "Yesune sthuthinchu",
+      "Repe maguno teliyanandhuna sthuthinchu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వచ్చెనేసు స్వర్గమునుండి",
+        "ముక్తి సందేశము దెచ్చెనేసు",
+        "లేచి మారుమనస్సు నొందు",
+        "రక్షణ నొంది సంస్తుతించు"
+      ],
+      "english": [
+        "Vachchenesu svargamunundi",
+        "Mukthi sandhesamu dechchenesu",
+        "Lechi maarumanassu nondu",
+        "Rakshana nondi samsthuthinchu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "రా యేసు రమ్మను చున్నాడు పాపి రా",
+        "నమ్ము నీకు రక్షణ నిచ్చును",
+        "హృదయ తలుపు తట్టుచున్నాడు",
+        "నీ హృదయ ద్వారము తెరువుము",
+        "యేసు ప్రభున్ లోన రానిమ్ము స్తుతించు"
+      ],
+      "english": [
+        "Raa Yesu rammanu chunnaadu paapi raa",
+        "Nammu neeku rakshana nichchunu",
+        "Hrudaya thalupu thattuchunnaadu",
+        "Nee hrudaya dwaaramu theruvumu",
+        "Yesu Prabhun lona raanimmu sthuthinchu"
+      ]
+    }
+  ]
+}

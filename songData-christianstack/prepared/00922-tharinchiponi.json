@@ -1,0 +1,54 @@
+{
+  "song_name": "Tharinchiponi",
+  "author": {
+    "Authored by": "Father Johnson Chettur",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "తరించిపోని నీ ప్రేమలోనే",
+      "ఓ యేసు దేవా నీ దాసినై",
+      "నీ సేవలోనే నేనుండిపోని",
+      "నీ ప్రేమ గీతం నే పాడుకోని",
+      "నీ కంటిపాపై నిలువగలేనా",
+      "ఈ జీవితం నీదని ఏలుకోలేవా"
+    ],
+    "english": [
+      "Tharinchiponi nee premalone",
+      "oh yesu devaa nee daasinai",
+      "nee sevalone nenundiponi",
+      "nee prema geetham ne paadukoni",
+      "nee kantipaapai niluvagalenaa",
+      "ee jeevitham needani elukolevaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఉదయం రవి కిరణం వరమై తాకని",
+        "మనసే మైమరచి నిను సేవించని",
+        "వెన్నెలే సాక్షిగా స్తుతులనే పాడని",
+        "కన్నుల రూపమే దీపమై వెలగని",
+        "చక్కని చెలిమిని ప్రేమతో కోరెదా",
+        "పదనం నవ కమలం నీతో సాగని",
+        "మధురం నీ చరితం నేనే పాడని",
+        "మోక్షమే జీవమై హాయిగా తాకని",
+        "యేసుతో ప్రాణమై సాగని పయణమే",
+        "కమ్మని గానమై దైవమా చేరెదా"
+      ],
+      "english": [
+        "Udhayam ravi kiranam varamai thaakani",
+        "manase maimarachi ninu sevinchani",
+        "vennele saakshigaa sthuthulane paadani",
+        "kannula roopame deepamai velagani",
+        "chakkani chelimini prematho koredaa",
+        "Padanam nava kamalam neetho saagani",
+        "madhuram nii charitham nene paadani",
+        "mokshame jeevamai haayigaa thaakani",
+        "yesutho praanamai saagani payaname",
+        "kammani gaanamai daivamaa cheredaa"
+      ]
+    }
+  ]
+}

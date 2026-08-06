@@ -1,0 +1,75 @@
+{
+  "song_name": "Anandam Arbhatame",
+  "author": {
+    "Authored by": "Hepsi Bhaskar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆనందం ఆర్భాటమే ఇలలో",
+      "జగమంతా సంబరమే"
+    ],
+    "english": [
+      "Aanandam aarbhatame ilalo",
+      "jagamantaa sambarame"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "We wish u a happy Christmas Christmas",
+        "We wish a merry Christmas"
+      ],
+      "english": [
+        "We wish u a happy Christmas Christmas",
+        "We wish a merry Christmas"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గొల్లలు జ్ఞానులు వచ్చారయ్యా",
+        "వచ్చి చూసి వారు ఉల్లసించారయ్యా",
+        "వెలిశావయ్యా పశుల పాకలోనా",
+        "లోక రక్షకునిగా మా మదిలోన"
+      ],
+      "english": [
+        "Gollalu gnyanulu vaccharayyaa",
+        "vacchi choosi vaaru ullasinchaarayya",
+        "velisaavayyaa pasuvula paakalonaa",
+        "loka rkshakunigaa maa madilona"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "జ్ఞానులు నిన్ను సన్నుతించారయ్యా",
+        "దూతలు వచ్చి స్తుతి ఇంచారయ్య",
+        "ఆడారయ్యా ఆడి పాడారయ్య",
+        "అందరు కూడి సoతసించారయ్యా"
+      ],
+      "english": [
+        "Gnyanuluninnu sannutinchaarayya",
+        "dootalu vacchi stuti inchaarayya",
+        "aadaarayyaa aadi paadaarayya",
+        "andaru koodi santasinchaarayyaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "రాజుల రాజువై వచ్చావయ్యా",
+        "జనులకి రక్షణ తెచ్చావయ్యా",
+        "నింగి అంత వెలిసింది నీ వెలుగుతో",
+        "భూమి అంత నిండింది నీ ప్రేమతో"
+      ],
+      "english": [
+        "Raajula raajuvai vacchaavayyaa",
+        "janulaki rakshnna tecchavayyaa",
+        "ningi aonta velisindi nee velugutho",
+        "bhoomi aota nindindi nee prematho"
+      ]
+    }
+  ]
+}

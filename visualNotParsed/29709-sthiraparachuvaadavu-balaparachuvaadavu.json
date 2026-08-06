@@ -1,0 +1,53 @@
+{
+  "song_name": "Sthiraparachuvaadavu Balaparachuvaadavu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్థిరపరచువాడవు బలపరచువాడవు",
+      "పడిపోయిన చోటే నిలబెట్టువాడవు",
+      "ఘనపరచువాడవు హెచ్చించువాడవు",
+      "మా పక్షము నిలిచి జయమిచ్చువాడవు (2)",
+      "ఏమైనా చేయగలవు కథ మొత్తం మార్చగలవు",
+      "నీ నామముకే మహిమంతా తెచ్చుకుందువు (2)",
+      "యేసయ్యా.. యేసయ్యా .. నీకే నీకే సాధ్యము (2)",
+      "సర్వకృపానిధి మా పరమ కుమ్మరి",
+      "నీ చేతిలోనే మా జీవమున్నది (2)",
+      "మా దేవా నీ ఆలోచనలన్ని ఎంతో గొప్పవి",
+      "మా ఊహకు మించిన కార్యములెన్నో జరిగించుచున్నవి (2) ||ఏమైనా||"
+    ],
+    "english": [
+      "Sthiraparachuvaadavu balaparachuvaadavu",
+      "Padipoyina chote nilabettuvaadavu",
+      "Ghanaparachuvaadavu hechchinchuvaadavu",
+      "Maa pakshamu nilichi jayamichchuvaadavu (2)",
+      "Emainaa cheyagalavu katha mottham maarchagalavu",
+      "Nee naamamuke mahimanthaa techchukundhuvu (2)",
+      "Yesayyaa.. Yesayyaa .. neeke neeke saadhyamu (2)",
+      "Sarvakrupaanidhi maa parama kummari",
+      "Nee chethilone maa jeevamunnadhi (2)",
+      "Maa Deva nee aalochanalanni entho goppavi",
+      "Maa oohaku minchina kaaryamulenno jariginchuchunnavi (2) ||Emainaa||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ ఆజ్ఞ లేనిదే ఏదైన జరుగునా?",
+        "నీ కంచె దాటగ శత్రువుకు సాధ్యమా? (2)",
+        "మా దేవా నీవే మా తోడుంటే అంతే చాలును",
+        "అపవాది తలచిన కీడులన్ని మేలైపోవును (2) ||ఏమైనా||"
+      ],
+      "english": [
+        "Nee aagna lenide edhaina jarugunaa?",
+        "Nee kanche daataga shathruvuku saadhyamaa? (2)",
+        "Maa Deva neeve maa thodunte anthe chaalunu",
+        "Apavaadi thalachina keedulanni melaipovunu (2) ||Emainaa||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "song_name": "Nannu Vidipimchina Nannu Rakshimchina Nannu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నన్ను విడిపించి నా నన్ను రక్షించినా",
+      "నన్ను క్షమియించినా నన్ను కరుణించినా",
+      "నా యేసుకే స్తోత్రము నా క్రీస్తుకే వందనము"
+    ],
+    "english": [
+      "Nannu Vidipimchina Nannu Rakshimchina",
+      "Nannu Kshamiyimchina Nannu Karunimchina",
+      "Na Yesuke Stotramu Na Kristuke Vamdanamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపపు సంకెళ్ళచేత బంధించ బడియున్న",
+        "నన్ను చూచి నన్ను చేరి విడిపించిన దైవమా",
+        "నీకే స్తోత్రం నీకే స్తోత్రం నీకే స్తుతిస్తోత్రం"
+      ],
+      "english": [
+        "Papapu Samkellacheta Bamdhimcha Badiyunna",
+        "Nannu Chuchi Nannu Cheri Vidipimchina Daivama",
+        "Nike Stotram Nike Stotram Nike Stutistotram"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపపు పొడలచేత కన్నుమిన్ను కానకున్న",
+        "నన్నుగాంచి వెల చెల్లించి రక్షించిన దైవమా",
+        "నీకే స్తోత్రం నీకే స్తోత్రం నీకే స్తుతిస్తోత్రం"
+      ],
+      "english": [
+        "Papapu Podalacheta Kannuminnu Kanakunna",
+        "Nannugamchi Vela Chellimchi Rakshimchina Daivama",
+        "Nike Stotram Nike Stotram Nike Stutistotram"
+      ]
+    }
+  ]
+}

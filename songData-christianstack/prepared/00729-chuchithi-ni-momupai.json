@@ -1,0 +1,38 @@
+{
+  "song_name": "Chuchithi Ni Momupai",
+  "author": {
+    "Authored by": "Pastor Jyothi Raju",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "చూచితి నీ మోముపై – చిందిన రక్తము",
+      "తలచితి నీ ప్రేమను – మదికి అందనిదాయె",
+      "రాజ మఖుఠము మారిపోయే – ముళ్ల ముఖుఠముగా",
+      "సింహాసనమే శిలువగ మారే – శిక్షకు గురియాయేగా"
+    ],
+    "english": [
+      "Choochithi nee momupai chindhina rakthamu",
+      "Thalachithi nee premanu madhiki andhanidaaye",
+      "Raaja makhutamu maaripoyee",
+      "Mulla makutamuga",
+      "Simhasanamee siluvaga maari",
+      "Sikshaku guri aayega"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరిమితి లేని కలువరి ప్రేమను – పరిహాసము చేసిరే",
+        "ఆ ప్రేమనెరిగి నీ పాద సేవయే – చాలని నీ చెంత చేరితిని యేసు"
+      ],
+      "english": [
+        "Parimithileni kaluvari premanu",
+        "Parihaasamu chesiree",
+        "Aa premanerigi nee paada sevaye chaalani",
+        "Nee chentha cherithini Yesu"
+      ]
+    }
+  ]
+}

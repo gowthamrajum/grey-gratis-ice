@@ -1,0 +1,49 @@
+{
+  "song_name": "Oa Dhivyakaanthi Mabbu Kammagaa Nannadpumu",
+  "author": {
+    "Authored by": "",
+    "రచన": "జాన్ హెన్రీ న్యూమేన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ దివ్యకాంతి, మబ్బు కమ్మఁగా నన్నడ్పుము",
+      "నాయింటి త్రోవ దప్పిపోతిని నన్నడ్పుము",
+      "నాకాళ్ల జారకుండఁ గాచుచు ఒక్కొక్క మెట్టు భద్ర పర్చుమా"
+    ],
+    "english": [
+      "Oa Dhivyakaanthi, Mabbu Kammagaa Nannadpumu",
+      "Naayinti Throava Dhappipoathini Nannadpumu",
+      "Naakaalla Jaarakunda Gaachuchu Okkokka Mettu Bhadhra Parchumaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇన్నాళ్లు నేను కోరకుంటిని నీ శరణు",
+        "స్వబుద్ధి నమ్మి తప్పిపోతిని సదా.",
+        "నన్నడ్పుము గర్వము యేలె నా హృదయము",
+        "మన్నించు నా గత జీవితము"
+      ],
+      "english": [
+        "Innaallu Naenu Koarakuntini Nee Sharanu",
+        "Svabudhdhi Nammi Thappipoathini Sadhaa.",
+        "Nannadpumu Garvamu Yaele Naa Hrudhayamu",
+        "Manninchu Naa Gatha Jeevithamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇన్నాళ్లుఁ గాచియుంట వింకను నన్నడ్పుము",
+        "నా నష్ట కష్ట దుఃఖ బాధలు పోఁగొట్టుము",
+        "నీవల్ల నేను జయ మొందుచు నిన్ను స్తుతించి పాడుదున్ సదా"
+      ],
+      "english": [
+        "Innaallu Gaachiyunta Vinkanu Nannadpumu",
+        "Naa Nashta Kashta Duhkha Baadhalu Poagottumu",
+        "Neevalla Naenu Jaya Mondhuchu Ninnu Sthuthinchi Paadudhun Sadhaa"
+      ]
+    }
+  ]
+}

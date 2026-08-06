@@ -1,0 +1,50 @@
+{
+  "song_name": "Yeruganaya Ninneppudu",
+  "author": {
+    "Authored by": "Pastor K Rajababu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎరుగనయ్య నీన్నెప్పుడు",
+      "నను వెదుకుచుంటివ ఓ ప్రభువ"
+    ],
+    "english": [
+      "Yeruganaya ninneppudu",
+      "nanu vedakuchuntiva oh prabhuva"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ ప్రేమ శాశ్వతమట",
+        "నీ కరుణ సాగరమట",
+        "నిను కొలువ భాగ్యమే అట",
+        "నను పిలువ వచ్చిన ఓ ప్రభువ",
+        "నీ పలుకే తీర్చు నాకలి",
+        "నీ స్మరణము కూర్చు బలిమిని",
+        "నీ బ్రతుకే వెలుగు బాట",
+        "నను కలువ వచ్చిన ఓ ప్రభువ",
+        "వలదయ్యా లోక బ్రాంతి",
+        "కడు భారము ఘోర వ్యాధి",
+        "నిను చేరిన నాకు మేలు",
+        "నీ రక్షణ చాలు చాలు నా ప్రభువ"
+      ],
+      "english": [
+        "Nee prema saasvathamata",
+        "nee karuna saagaramata",
+        "ninu koluva bhagyame ata",
+        "nanu piluva vachina oh prabhuva",
+        "Nee palukey theerchu naakali",
+        "nee smaranamu koorchu balimini",
+        "nee brathukey velugu baata",
+        "nanu kaluva vachina oh prabhuva",
+        "Valadhayya loka branthi",
+        "kadu bhaaramu ghora vyaadhi",
+        "ninu cherina naaku melu",
+        "nee rakshana chalu chalu naa prabhuva"
+      ]
+    }
+  ]
+}

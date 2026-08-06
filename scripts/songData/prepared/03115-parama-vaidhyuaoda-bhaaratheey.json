@@ -1,0 +1,107 @@
+{
+  "song_name": "Parama Vaidhyuda Bhaaratheeyula",
+  "author": {
+    "Authored by": "",
+    "రచన": "మల్లెల దావీదు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరమ వైద్యుఁడ భారతీయుల వ్యాధి బాధలఁ బాపుమా",
+      "పరుల కుపచారం బొనర్చుట పరమ విధియని చూపుమా"
+    ],
+    "english": [
+      "Parama Vaidhyuda Bhaaratheeyula Vyaadhi Baadhala Baapumaa",
+      "Parula Kupachaaram Bonarchuta Parama Vidhiyani Choopumaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రేమతో వైద్యులును దాదులు పెంపుఁ బొందఁగజేయుమా",
+        "గ్రామ రోగులఁ గాంచి వారికి క్షేమమును దయ చేయుమా"
+      ],
+      "english": [
+        "Praemathoa Vaidhyulunu Dhaadhulu Pempu Bondagajaeyumaa",
+        "Graama Roagula Gaanchi Vaariki Kshaemamunu Dhaya Chaeyumaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "భరత ఖండము నందు వైద్యపు బడులను నెలకొల్పుమా",
+        "పరఁగ నీవే వైద్య శాలలఁ బాలనంబు సల్పుమా"
+      ],
+      "english": [
+        "Bharatha Khandamu Nandhu Vaidhyapu Badulanu Nelakolpumaa",
+        "Paraga Neevae Vaidhya Shaalala Baalanambu Salpumaa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కుఁటి గ్రుడ్డి మూఁగ సాలలఁ గూర్మితో దర్శించుమా",
+        "యంటు రోగుల యాశ్రయముల నంటి పరామర్శించుమా"
+      ],
+      "english": [
+        "Kuti Gruddi Mooga Saalala Goormithoa Dharshinchumaa",
+        "Yantu Roagula Yaashrayamula Nanti Paraamarshinchumaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "లెక్కలేని గర్భవతుల యక్కఱలను దీర్చుమా",
+        "దిక్కు లేని బిడ్డలకు నీ దీవెనల సమకూర్చుమా"
+      ],
+      "english": [
+        "Lekkalaeni Garbhavathula Yakkaralanu Dheerchumaa",
+        "Dhikku Laeni Biddalaku Nee Dheevenala Samakoorchumaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యంత్రశాలల గనులయందు నలయు వారలం బ్రోవుమా",
+        "మంత్ర తంత్రము లందుఁ జిక్కు న మాయకులను గావుమా"
+      ],
+      "english": [
+        "Yanthrashaalala Ganulayandhu Nalayu Vaaralam Broavumaa",
+        "Manthra Thanthramu Landhu Jikku Na Maayakulanu Gaavumaa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "గ్రామ వైద్య సేవఁ జేసెడి ఘనులఁ బరిపాలించుమా",
+        "గ్రామవాసులఁ గూల్చు వ్యాధులఁ గాంచి నిర్మూలించుమా"
+      ],
+      "english": [
+        "Graama Vaidhya Saeva Jaesedi Ghanula Baripaalinchumaa",
+        "Graamavaasula Goolchu Vyaadhula Gaanchi Nirmoolinchumaa"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "దురభిమాన మూఢ భక్తిని ద్వరగ దూర పరచుమా",
+        "మరియు శుచిచే రోగములు మటు మాయ మగు నని కరపుమా"
+      ],
+      "english": [
+        "Dhurabhimaana Mooda Bhakthini Dhvaraga Dhoora Parachumaa",
+        "Mariyu Shuchichae Roagamulu Matu Maaya Magu Nani Karapumaa"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "దేహశుద్ధిని జిత్తశుద్ధిని దేశ జనులకుఁ గూర్చుమా",
+        "దేహములఁ బర శుద్ధ మగు నీ దేవళములుగ మార్చుమా"
+      ],
+      "english": [
+        "Dhaehashudhdhini Jiththashudhdhini Dhaesha Janulaku Goorchumaa",
+        "Dhaehamula Bara Shudhdha Magu Nee Dhaevalamuluga Maarchumaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "song_name": "Laalilaali Laali Laalamma Laal",
+  "author": {
+    "Authored by": "",
+    "రచన": "తిరుకోవళ్లూరి స్టీవెన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "లాలిలాలి లాలి లాలమ్మ లాలీ లాలియని పాడరే బాలయేసునకు ||లాలి||"
+    ],
+    "english": [
+      "laalilaali laali laalamma laalee laaliyani paadarae baalayaesunaku ||laali||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరలోక దేవుని తనయుఁడో యమ్మా పుడమిపై బాలుఁడుఁగఁ బుట్టెనో యమ్మా ||లాలి||"
+      ],
+      "english": [
+        "paraloaka dhaevuni thanayuAOdoa yammaa pudamipai baaluAOduAOgAO buttenoa yammaa ||laali||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇహ పరాదుల కర్త యీతఁడో యమ్మ మహి పాలనముఁ జేయు మహితుఁడో యమ్మా ||లాలి||"
+      ],
+      "english": [
+        "iha paraadhula kartha yeethAOdoa yamma mahi paalanamuAO jaeyu mahithuAOdoa yammaa ||laali||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆద్యంతములు లేని దేవుఁడో యమ్మా ఆదాము దోషమున కడ్డు పడె నమ్మా ||లాలి||"
+      ],
+      "english": [
+        "aadhyMthamulu laeni dhaevuAOdoa yammaa aadhaamu dhoaShmuna kaddu pade nammaa ||laali||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యూదులకు రాజుగాఁబుట్టెనో యమ్మా యూదు లాతని తోడ వాదించి రమ్మా ||లాలి||"
+      ],
+      "english": [
+        "yoodhulaku raajugaaAObuttenoa yammaa yoodhu laathani thoada vaadhiMchi rammaa ||laali||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నరగొఱ్ఱెల మంద కాపరో యమ్మా గొరియల ప్రాణంబు క్రీస్తు తానమ్మా ||లాలి||"
+      ],
+      "english": [
+        "naragoRRela mMdha kaaparoa yammaa goriyala praaNMbu kreesthu thaanammaa ||laali||"
+      ]
+    }
+  ]
+}

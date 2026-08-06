@@ -1,0 +1,51 @@
+{
+  "song_name": "Varsha dhaaragaa raavaa naa Yesayya",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "వర్ష ధారగా రావా నా యేసయ్యా",
+      "ఎండిపోయిన భూమి నేనయ్యా (2)",
+      "ఈ నేలలో పంట లేదయ్యా",
+      "నా మనస్సులో శాంతి లేదయ్యా (2)",
+      "వర్ష ధారగా రావా నా యేసయ్యా",
+      "ఫలింపజేయుమా పరమేశ్వరా (2)",
+      "పాపములన్ని పరిహరించుమా",
+      "భయములెల్ల పారద్రోలుమా (2)",
+      "యేసు నాథుడా నా రక్షకా (4)",
+      "నీదు కృపతో ఆదరించుమా (2) ||వర్ష||"
+    ],
+    "english": [
+      "Varsha dhaaragaa raavaa naa Yesayyaa",
+      "Endipoyina bhoomi nenayyaa (2)",
+      "Ee nelalo panta ledayyaa",
+      "Naa manassulo shaanthi ledayyaa (2)",
+      "Varsha dhaaragaa raavaa naa Yesayyaa",
+      "Phalimpajeyumaa Parameshwaraa (2)",
+      "Paapamulanni pariharinchumaa",
+      "Bhayamulella paaradrolumaa (2)",
+      "Yesu naathudaa naa rakshakaa (4)",
+      "Needu krupatho aadarinchumaa (2) ||Varsha||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మనో వ్యధలను గుణ పరచుమా",
+        "తనువు గాయమెల్ల స్వస్థపరచుమా (2)",
+        "యేసు నాథుడా పరమ వైద్యుడా (4)",
+        "గాయములెల్ల స్వస్థపరచుమా (2)  ||వర్ష||"
+      ],
+      "english": [
+        "Mano vyadhalanu guna parachumaa",
+        "Thanuvu gaayamella swasthaparachumaa (2)",
+        "Yesu naathudaa parama vaidyudaa (4)",
+        "Gaayamulella swasthaparachumaa (2) ||Varsha||"
+      ]
+    }
+  ]
+}

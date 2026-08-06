@@ -1,0 +1,59 @@
+{
+  "song_name": "Sooryuni dharinchi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సూర్యుని ధరించి - చంద్రుని మీద నిలిచి",
+      "ఆకాశములో కనుపించే ఈమె ఎవరు ?"
+    ],
+    "english": [
+      "Sooryuni dharinchi - Chandruni meeda nilichi",
+      "Aakaashamulo kanupinche eeme evaru ?"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆత్మల భారం - ఆత్మాభిషేకం",
+        "ఆత్మ వరములు - కలిగియున్న",
+        "మహిమ గలిగిన - సంఘమే"
+      ],
+      "english": [
+        "Aathmala bhaaram - Aathmaabhishekam",
+        "Aathma varamulu - Kaligiyunna",
+        "Mahima galigina - Sanghame"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "జయ జీవితము - ప్రసవించుటకై",
+        "వేదన పడుచు - సాక్షియైయున్న",
+        "కృపలో నిలిచిన - సంఘమే"
+      ],
+      "english": [
+        "Jaya jeevithamu - Prasavinchutakai",
+        "Vedhana paduchu - Saakshiyaiyunna",
+        "Krupalo nilichina - Sanghame"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆది అపోస్తలుల - ఉపదేశమునే",
+        "మకుటముగా - ధరించియున్న",
+        "క్రొత్త నిబంధన - సంఘమే"
+      ],
+      "english": [
+        "Aadi aposthalula - Upadheshamune",
+        "Makutamugaa - Dharinchiyunna",
+        "Krottha nibandhana - Sanghame"
+      ]
+    }
+  ]
+}

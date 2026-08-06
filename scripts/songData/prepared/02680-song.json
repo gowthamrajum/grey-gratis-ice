@@ -1,0 +1,47 @@
+{
+  "song_name": "Dhaapujaeruchu Baadumu Jeevapu Maatalan",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఫిలిఫ్ బ్లిస్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "దాపుఁజేరుచుఁ బాడుము జీవపు మాటలన్ మాధుర్యంబగు గానము",
+      "మరలఁ బాడుము జీవమైన పాటన్ త్రోవఁజూపు మాటన్",
+      "సుందర మానందముగన్ సొంపుగఁ బాడుము"
+    ],
+    "english": [
+      "Dhaapujaeruchu Baadumu Jeevapu Maatalan MaaDhuryMbagu Gaanamu",
+      "Marala Baadumu Jeevamaina Paatan Throavajoopu Maatan",
+      "SuMdhara MaanMdhamugan SoMpuga Baadumu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిత్యజీవము నిచ్చెడు నిపుణుఁ డేసుఁడు",
+        "సత్యప్రేమ నొసంగెడు సదయుఁ డేసుఁడు",
+        "మితిలేని ప్రేమ మింటికాకర్షించున్."
+      ],
+      "english": [
+        "Nithyajeevamu Nichchedu NipuNu Daesudu",
+        "Sathyapraema NosMgedu Sadhayu Daesudu",
+        "Mithilaeni Praema MiMtikaakarShiMchun."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ప్రచురపర్చుఁ డెల్లడన్ ప్రభుని రక్షణన్",
+        "దాచఁగూడని సత్యమున్ పూర్ణ క్షమాపణన్",
+        "రక్షకుని చెంత ఆశతోడ రండు"
+      ],
+      "english": [
+        "Prachuraparchu Delladan Prabhuni RakShNan",
+        "Dhaachagoodani Sathyamun PoorNa KShmaapaNan",
+        "RakShkuni CheMtha Aashathoada RMdu"
+      ]
+    }
+  ]
+}

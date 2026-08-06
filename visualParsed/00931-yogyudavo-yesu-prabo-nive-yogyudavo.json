@@ -1,0 +1,53 @@
+{
+  "song_name": "Yogyudavo Yesu Prabho neeve yogyudavo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యోగ్యుడవో యోగ్యుడవో యేసు ప్రభో నీవే యోగ్యుడవో",
+      "మరణము గెలిచిన యోధుడవో నా జీవితమున పూజ్యుడవో"
+    ],
+    "english": [
+      "Yogyudavo yogyudavo Yesu Prabho neeve yogyudavo",
+      "Maranamu gelichina yodhudavo naa jeevithamuna poojyudavo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సృష్టికర్తవు నిర్మాణకుడవు జీవనదాతా జీవించువాడవు",
+        "శిరమును వంచి కరములు జోడించి స్తుతియించెద నిను యేసుప్రభో"
+      ],
+      "english": [
+        "Srushtikarthavu nirmaanakudavu jeevanadhaathaa jeevinchuvaadavu",
+        "Shiramunu vanchi karamulu jodinchi sthuthiyincheda ninu Yesuprabho"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గొఱ్ఱెపిల్లవై యాగమైతివి సిలువయందే పాపమైతివె",
+        "శిరమును వంచి కరములు జోడించి సేవించెద నిను యేసు ప్రభో"
+      ],
+      "english": [
+        "Gorrepillavai yaagamaithivi siluvayande paapamaithivi",
+        "Shiramunu vanchi karamulu jodinchi sevincheda ninu Yesu Prabho"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "స్నేహితుడవై నన్నిల కోరితివి విడువక నన్ను ఆదుకొంటివి",
+        "శిరమును వంచి కరములు జోడించి భజియించెద నిను యేసుప్రభో"
+      ],
+      "english": [
+        "Snehithudavai nannila korithivi viduvaka nannu aadukontivi",
+        "Shiramunu vanchi karamulu jodinchi bhajiyincheda ninu Yesuprabho"
+      ]
+    }
+  ]
+}

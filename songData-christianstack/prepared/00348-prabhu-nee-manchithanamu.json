@@ -1,0 +1,69 @@
+{
+  "song_name": "Prabhu Nee Manchithanamu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ చేతిలొ నా జీవితం",
+      "నీ ప్రేమలొ ఎల్లప్పుడు",
+      "నే నడిచెదను ఓ దేవా",
+      "నే పాడెద ప్రభు నీ మంచితనమును"
+    ],
+    "english": [
+      "Nee chethilo naa jeevitham",
+      "nee premalo ellappuḍu",
+      "ney nadichedhanu oo deva",
+      "ney padedha prabhu nee manchithanamunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ ప్రేమయు నీ దయా కనికరము",
+        "ఎల్లప్పుడు, నీ చేతిలో నా జీవితం",
+        "నా జీవిత గమనములో",
+        "ప్రతి ఇబ్బందిలో",
+        "నే పాడెద ప్రభు నీ మంచితనమును"
+      ],
+      "english": [
+        "Nee premayu nee daya kanikaramu",
+        "ellappuḍu, nee chethilo naa jeevitham",
+        "naa jeevitha gamanamulo",
+        "prathi ibbandilo",
+        "ney padedha prabhu nee manchithanamunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ స్వరము చీకటిలో నా తోడు",
+        "వీడదు, ఆపదలో నా ధైర్యము",
+        "నా తండ్రివి నీవే, స్నేహితుడా",
+        "కీర్తింతును ప్రతి దినము"
+      ],
+      "english": [
+        "Nee swaramu chikatilo naa thodu",
+        "veedadhu, aapadhalo naa dhairyamu",
+        "naa thandrivi neeve, snehithuda",
+        "keerthinthunu prathi dinamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ మంచితనము, ఉన్నతం యేసయ్య",
+        "నా స్వరము, నా సర్వము, నీకే అంకితము",
+        "నీ మంచితనము, ఉన్నతం యేసయ్య"
+      ],
+      "english": [
+        "Bridge:",
+        "Nee manchithanamu, unnatham yesayya",
+        "naa swaramu, naa sarvamu, neeke ankithamu",
+        "nee manchithanamu, unnatham yesayya"
+      ]
+    }
+  ]
+}

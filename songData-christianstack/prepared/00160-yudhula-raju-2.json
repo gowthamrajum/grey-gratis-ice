@@ -1,0 +1,51 @@
+{
+  "song_name": "Yudhula Raju 2",
+  "author": {
+    "Authored by": "Sunil Yeleti",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యూదుల రాజు జన్మించే",
+      "నిత్యరాజు జన్మించే",
+      "మనకొరకై ప్రాణమిచ్చే",
+      "ప్రాణదాత జన్మించే"
+    ],
+    "english": [
+      "Yudhula raaju janminche",
+      "nithya raaju janminche",
+      "manakorakai praanamiche",
+      "praanadhaatha janminche"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యూదయ దేశపు బెత్లెహేములో",
+        "కన్య మరియామ్మ గర్భములో",
+        "రారాజు జన్మించే పశువుల పాకలో",
+        "ఆ తార వెలసెను ఈ భువిలో"
+      ],
+      "english": [
+        "Yudhaya dheshapu bethlehemulo",
+        "kanya mariyamma garbhamulo",
+        "raraju janminche pashuvula paakalo",
+        "aa thaara velasenu ee bhuvilo"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "వచ్చేనయ్య మాకు పండగ",
+        "నువ్వేనయ్య ఇక మా అండగా",
+        "ఏ భయము లేదయ్యా నీవుoడగా"
+      ],
+      "english": [
+        "Vachenayya maaku pandaga",
+        "nuvvenayya ika maa andagaa",
+        "ey bhayamu ledhayyaa neevundagaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "song_name": "Yaesu Paraloaka Naayaka",
+  "author": {
+    "Authored by": "",
+    "రచన": "రావూరి లక్ష్మయ్య"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు పరలోక నాయక సువి శేష సుఫల ప్రదాయక",
+      "దోషరహిత ప్ర క్రాశ స్వయ ఛిద్వ లాస",
+      "పరమ ని వాస బుధ దేవ"
+    ],
+    "english": [
+      "Yaesu Paraloaka Naayaka Suvi Shaesha Suphala Pradhaayaka",
+      "Dhoasharahitha Pra Kraasha Svaya Chidhva Laasa",
+      "Parama Ni Vaasa Budha Dhaeva"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మంచి మనసాక్ష్య మియ్యవే శ్రమల నెంచి కృపల నందియ్యవే",
+        "వంచనల నెడ లించి మొఱ చిత్త గించి",
+        "మిగుల రక్షించు మిఁక వేగ"
+      ],
+      "english": [
+        "Manchi Manasaakshya Miyyavae Shramala Nenchi Krupala Nandhiyyavae",
+        "Vanchanala Neda Linchi Mora Chiththa Ginchi",
+        "Migula Rakshinchu Minka Vaega"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీరసుఁడ నని పోనాడక యొద్దఁ జేరి నిర్దయఁ జూడక",
+        "సారస త్కృప లూరననుఁ బ్రోచు",
+        "వార లెవ్వ రున్నారు నీవుఁ గాక"
+      ],
+      "english": [
+        "Neerasunda Nani Poanaadaka Yodhdha Jaeri Nirdhaya Joodaka",
+        "Saarasa Thkrupa Loorananu Broachu",
+        "Vaara Levva Runnaaru Neevu Gaaka"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కన్నతండ్రి నీ పాదముల్ పొడ గన్న వారి హృద్భేదముల్",
+        "అన్ని దొల గునని యన్న శుభరవం బెన్ని",
+        "విన్నాఁడ నన్నవగు క్రీస్తు"
+      ],
+      "english": [
+        "Kannathandri Nee Paadhamul Poda Ganna Vaari Hrudhbhaedhamul",
+        "Anni Dhola Gunani Yanna Shubharavam Benni",
+        "Vinnaanda Nannavagu Kreesthu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "శంకలను వెడలఁగొట్టవే లోకా టంకముల నెత్తి మొట్టవే",
+        "యింక నా యఘ పంకమును గృప నింక",
+        "గను నిష్క ళంకునిఁగఁ జేయు"
+      ],
+      "english": [
+        "Shankalanu Vedalagottavae Loakaa Tankamula Neththi Mottavae",
+        "Yinka Naa Yagha Pankamunu Grupa Ninka",
+        "Ganu Nishka Lankuniga Jaeyu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "దిక్కు నీవని నమ్మితి నిన్నే మ్రొక్క పంతంబుఁ జేసితి",
+        "చక్కగా నల పి శాచి దుర్మోహ దృక్కణం",
+        "నీ చక్కిఁ జేర్చు మో"
+      ],
+      "english": [
+        "Dhikku Neevani Nammithi Ninnae Mrokka Panthambu Jaesithi",
+        "Chakkagaa Nala Pi Shaachi Dhurmoaha Dhrukkanam",
+        "Nee Chakki Jaerchu Moa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "song_name": "Chaalina Devudavu Yesu chaalina Devuda",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "చాలిన దేవుడవు యేసు చాలిన దేవుడ నీవు",
+      "వ్యాధి బాధ సమయములో కష్టసుడుల తరంగములో",
+      "ఏమున్నా లేకున్నా ఏ స్ధితికైనా చాలిన దేవుడ నీవే"
+    ],
+    "english": [
+      "Chaalina Devudavu Yesu chaalina Devuda neevu",
+      "Vyaadhi baadha samayamulo kashtasudula tharangamulo",
+      "Emunnaa lekunnaa e sthithikainaa chaalina Devuda neeve"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అంజూర చెట్లు పూయకున్నను ద్రాక్ష చెట్లు ఫలింపకున్నను",
+        "చేనులోని పైరు పండకపోయినను",
+        "శాలలోని పశువులు లేక పోయినను"
+      ],
+      "english": [
+        "Anjoora chetlu pooyakunnanu dhraaksha chetlu phalimpakunnanu",
+        "Chenuloni pairu pandakapoyinanu",
+        "Shaalaloni pashuvulu leka poyinanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గాఢాంధకారాన పయనించిన పొంగు సాగరా లెదురైన",
+        "లోకమంత ఒకటైన అన్యాయ తీర్పుకు గురిచేసిన",
+        "సత్యము పలుకుటచే నష్టము కలిగినను"
+      ],
+      "english": [
+        "Gaadhaandhakaaraana payaninchina pongu saagaraa ledhuraina",
+        "Lokamantha okataina anyaaya theerpuku gurichesina",
+        "Sathyamu palukutache nashtamu kaliginanu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దారిచెడినపుడు యేసయ్య అందరు విడచిన యేసయ్యా",
+        "శాశ్వతమైన ప్రేమతో కన్నీళ్ళు తుడిచితివే",
+        "ననునీచుడని త్రోయక నీ కౌగిట దాచితివే"
+      ],
+      "english": [
+        "Dhaarichedinapudu Yesayya andaru vidachina Yesayyaa",
+        "Shaashwathamaina prematho kanneellu thudichithive",
+        "Nanuneechudani throyaka nee kaugita daachithive"
+      ]
+    }
+  ]
+}

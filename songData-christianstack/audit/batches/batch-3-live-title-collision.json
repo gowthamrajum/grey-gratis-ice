@@ -1,0 +1,387 @@
+{
+ "note": "new song, title collides with a LIVE song - 409s until renamed",
+ "library_size_at_audit": 4002,
+ "count": 95,
+ "songs": [
+  {
+   "app_index": 8,
+   "song_name": "Parisuddhudu Parisuddhudu"
+  },
+  {
+   "app_index": 27,
+   "song_name": "Raakadane Railu Bandi"
+  },
+  {
+   "app_index": 37,
+   "song_name": "Naa Hrudayamaa"
+  },
+  {
+   "app_index": 39,
+   "song_name": "Siluvalo Nee Prema"
+  },
+  {
+   "app_index": 58,
+   "song_name": "Paralokame Na Swasthyamu"
+  },
+  {
+   "app_index": 65,
+   "song_name": "Ninne Preminthunu"
+  },
+  {
+   "app_index": 85,
+   "song_name": "Nee Chethi Kaaryamu"
+  },
+  {
+   "app_index": 86,
+   "song_name": "Nee Prematho"
+  },
+  {
+   "app_index": 88,
+   "song_name": "Nyayaadipathi"
+  },
+  {
+   "app_index": 94,
+   "song_name": "Jalari Panduga"
+  },
+  {
+   "app_index": 105,
+   "song_name": "Vaakyame Sareera Dhaariyai"
+  },
+  {
+   "app_index": 128,
+   "song_name": "Stuthi Paadutake"
+  },
+  {
+   "app_index": 144,
+   "song_name": "Nee Sannidhilo"
+  },
+  {
+   "app_index": 147,
+   "song_name": "Raajula Raju"
+  },
+  {
+   "app_index": 154,
+   "song_name": "Okka Kshanamaina"
+  },
+  {
+   "app_index": 187,
+   "song_name": "Parishudhathmuda"
+  },
+  {
+   "app_index": 214,
+   "song_name": "Naa Jeevithakaalamantha"
+  },
+  {
+   "app_index": 228,
+   "song_name": "Oka Kshanamaina"
+  },
+  {
+   "app_index": 230,
+   "song_name": "Devaa Nee Sannidhilone"
+  },
+  {
+   "app_index": 232,
+   "song_name": "Krupa Vembadi Krupalo"
+  },
+  {
+   "app_index": 249,
+   "song_name": "Yesayya Yesayya"
+  },
+  {
+   "app_index": 253,
+   "song_name": "Ley Nilabadu"
+  },
+  {
+   "app_index": 285,
+   "song_name": "Parishudhuda"
+  },
+  {
+   "app_index": 303,
+   "song_name": "Maananu Maananu"
+  },
+  {
+   "app_index": 329,
+   "song_name": "Unnathuda Athyunnathudaa"
+  },
+  {
+   "app_index": 333,
+   "song_name": "Kantipaapala Kaachinaavayyaa"
+  },
+  {
+   "app_index": 341,
+   "song_name": "Kaluvari Premanu"
+  },
+  {
+   "app_index": 386,
+   "song_name": "Sarvonathuda"
+  },
+  {
+   "app_index": 398,
+   "song_name": "Vinare Narulara"
+  },
+  {
+   "app_index": 408,
+   "song_name": "Yuddha Veerulam"
+  },
+  {
+   "app_index": 412,
+   "song_name": "Maruvalenaya"
+  },
+  {
+   "app_index": 433,
+   "song_name": "Kaalamantha"
+  },
+  {
+   "app_index": 439,
+   "song_name": "Bhayapadaku"
+  },
+  {
+   "app_index": 459,
+   "song_name": "Bethlahemu Puramulo"
+  },
+  {
+   "app_index": 474,
+   "song_name": "Nee Chitthamu"
+  },
+  {
+   "app_index": 532,
+   "song_name": "Ooruko Naa Praanama"
+  },
+  {
+   "app_index": 543,
+   "song_name": "Kreesthu Nedu Puttenu"
+  },
+  {
+   "app_index": 546,
+   "song_name": "Sarvonnatha Sthalamulalo"
+  },
+  {
+   "app_index": 558,
+   "song_name": "Vinthaina Taraka"
+  },
+  {
+   "app_index": 574,
+   "song_name": "Neeve Naa Pranamu"
+  },
+  {
+   "app_index": 575,
+   "song_name": "Raajulaku Raaju"
+  },
+  {
+   "app_index": 591,
+   "song_name": "Krupayu Kshemamu"
+  },
+  {
+   "app_index": 597,
+   "song_name": "Raja Nee Sannidhilone"
+  },
+  {
+   "app_index": 598,
+   "song_name": "Unnavaadavu Anuvaadavu"
+  },
+  {
+   "app_index": 601,
+   "song_name": "Na Snehithuda"
+  },
+  {
+   "app_index": 638,
+   "song_name": "Aradhana Aaradhana"
+  },
+  {
+   "app_index": 639,
+   "song_name": "Aradhinthu Ninnu Deva"
+  },
+  {
+   "app_index": 658,
+   "song_name": "Banthi Anaga Aadare"
+  },
+  {
+   "app_index": 671,
+   "song_name": "Naa Snehithuda"
+  },
+  {
+   "app_index": 687,
+   "song_name": "Yesayya Neeke Vandanam"
+  },
+  {
+   "app_index": 688,
+   "song_name": "Aaradhinchedham"
+  },
+  {
+   "app_index": 709,
+   "song_name": "Choochuchunna Devudavu"
+  },
+  {
+   "app_index": 710,
+   "song_name": "Entha Kalamo"
+  },
+  {
+   "app_index": 731,
+   "song_name": "Na Yesuni Prema"
+  },
+  {
+   "app_index": 738,
+   "song_name": "Aradhana Adhika Sthothramu"
+  },
+  {
+   "app_index": 751,
+   "song_name": "Krupagala Deva"
+  },
+  {
+   "app_index": 752,
+   "song_name": "Madhuramainadi Na Yesu Prema"
+  },
+  {
+   "app_index": 756,
+   "song_name": "Yesuni Roopamloniki Maaraali"
+  },
+  {
+   "app_index": 757,
+   "song_name": "Aradhincheda"
+  },
+  {
+   "app_index": 788,
+   "song_name": "Ghanamainavi Nee Kaaryamulu"
+  },
+  {
+   "app_index": 792,
+   "song_name": "Nee Kantipaapavale"
+  },
+  {
+   "app_index": 795,
+   "song_name": "Thandri Deva"
+  },
+  {
+   "app_index": 796,
+   "song_name": "Aa Ha Hallelujah"
+  },
+  {
+   "app_index": 803,
+   "song_name": "Rajaadhi Raju"
+  },
+  {
+   "app_index": 811,
+   "song_name": "Unnaanaya Nenunnaanaya"
+  },
+  {
+   "app_index": 812,
+   "song_name": "Vachindi Vachindi Christmas"
+  },
+  {
+   "app_index": 815,
+   "song_name": "Andhaala Thaara"
+  },
+  {
+   "app_index": 823,
+   "song_name": "Raraju Puttadoi"
+  },
+  {
+   "app_index": 826,
+   "song_name": "Entha Madhuram"
+  },
+  {
+   "app_index": 830,
+   "song_name": "Okka Kshanamaina"
+  },
+  {
+   "app_index": 860,
+   "song_name": "Paralokam Naa Desam"
+  },
+  {
+   "app_index": 868,
+   "song_name": "Parishuddhathmuda"
+  },
+  {
+   "app_index": 874,
+   "song_name": "Kalvari Prema"
+  },
+  {
+   "app_index": 875,
+   "song_name": "Maruvalenayya"
+  },
+  {
+   "app_index": 905,
+   "song_name": "Kondalathattu"
+  },
+  {
+   "app_index": 906,
+   "song_name": "Mahaganudavu Mahonnathudavu"
+  },
+  {
+   "app_index": 907,
+   "song_name": "Naa Jeevitham"
+  },
+  {
+   "app_index": 932,
+   "song_name": "Aaradhinchedam"
+  },
+  {
+   "app_index": 945,
+   "song_name": "Nibandhana Janulam"
+  },
+  {
+   "app_index": 955,
+   "song_name": "Mulla Kireetamu"
+  },
+  {
+   "app_index": 967,
+   "song_name": "Nee Kantipaapanu"
+  },
+  {
+   "app_index": 968,
+   "song_name": "Neevu Leni Chotedi Yesayya"
+  },
+  {
+   "app_index": 983,
+   "song_name": "Ghanamaina Veduka"
+  },
+  {
+   "app_index": 984,
+   "song_name": "Kruthagnathatho Samarpanatho"
+  },
+  {
+   "app_index": 991,
+   "song_name": "Yesayya Naa Yesayya"
+  },
+  {
+   "app_index": 999,
+   "song_name": "Rajulaku Rajaina"
+  },
+  {
+   "app_index": 1005,
+   "song_name": "Koti Kaanthula Velugulatho"
+  },
+  {
+   "app_index": 1007,
+   "song_name": "Naa Thandri Neevey"
+  },
+  {
+   "app_index": 1020,
+   "song_name": "Sambaraalu Santhoshaalu"
+  },
+  {
+   "app_index": 1038,
+   "song_name": "Sannuthinthu Yesu Swami"
+  },
+  {
+   "app_index": 1048,
+   "song_name": "Yesu Unte Chaalu"
+  },
+  {
+   "app_index": 1079,
+   "song_name": "Athyunnatha Simhasanamupai"
+  },
+  {
+   "app_index": 1086,
+   "song_name": "Siddhapadudaam Siddhapadudaam"
+  },
+  {
+   "app_index": 1094,
+   "song_name": "Neeve Naa Praanamu"
+  },
+  {
+   "app_index": 1095,
+   "song_name": "Preminchedan Adhikamugaa"
+  }
+ ]
+}

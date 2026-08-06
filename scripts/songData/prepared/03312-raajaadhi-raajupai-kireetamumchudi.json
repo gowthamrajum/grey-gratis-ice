@@ -1,0 +1,64 @@
+{
+  "song_name": "Raajaadhi Raajupai Kireetamunchudi",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాజాధి రాజుపై కిరీటముంచుడి పైలోకానంద సునాదంబుల నాలించుడి",
+      "లే లెమ్ము డెందమా! నా కై చావొందిన రారాజుపై కిరీటముంచి రాజున్ జేయుడి"
+    ],
+    "english": [
+      "Raajaadhi Raajupai Kireetamunchudi Pailokaanandha Sunaadhambula Naalinchudi",
+      "Le Lemmu Dendhamaa! Naa Kai Chaavondhina Raaraajupai Kireetamunchi Raajun Jeyudi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఈ ప్రేమ రాజుపై - కిరీటముంచుడి",
+        "ప్రకాశించు ప్రక్కచేతి - గాయంబుల్ చూడుడి",
+        "ఏదూత చూచును - భరింప గల్గును",
+        "నా వైపు వంగి చూచుచు - న్న - రాజున్ గొల్వుడి"
+      ],
+      "english": [
+        "Ee Prema Raajupai - Kireetamunchudi",
+        "Prakaashinchu Prakkachethi - Gaayambul Choodudi",
+        "Edhootha Choochunu - Bharimpa Galgunu",
+        "Naa Vaipu Vangi Choochuchu - Nna - Raajun Golvudi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఈ రాజుపై - కిరీటముంచుడి",
+        "చావున్ జయించినన్ - రక్షించిన సజీవియై",
+        "చావున్ జయించెను - జీవంబుదెచ్చెను",
+        "హా! చావున్ గెల్చి - జీవకి - రీటంబు దెచ్చెను"
+      ],
+      "english": [
+        "Ee Raajupai - Kireetamunchudi",
+        "Chaavun Jayinchinan - Rakshinchina Sajeeviyai",
+        "Chaavun Jayinchenu - Jeevambudhechchenu",
+        "Haa! Chaavun Gelchi - Jeevaki - Reetambu Dhechchenu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఈ మోక్షరాజుపై - కిరీటముంచుడి",
+        "నిత్యుడైన తండ్రితోన్ - శుద్ధాత్మతోడ నైక్యుడు",
+        "రవంబు చేయుడి - నిరంతరంబును",
+        "ఓ రాజా, నీకే నిత్యఘ - నత ఖ్యాతి గల్గును"
+      ],
+      "english": [
+        "Ee Mokshraajupai - Kireetamunchudi",
+        "Nithyudaina Thandrithon - Shuddhaathmathoda Naikyudu",
+        "Ravambu Cheyudi - Nirantharambunu",
+        "O Raajaa, Neeke Nithyagha - Natha Khyaathi Galgunu"
+      ]
+    }
+  ]
+}

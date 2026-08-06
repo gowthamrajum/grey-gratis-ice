@@ -1,0 +1,58 @@
+{
+  "song_name": "Dhaivanirnayam ee parinayam ramaneeyam athimadhuram",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Dr A R Stevenson"
+    ],
+    "రచన": [
+      "డాక్టర్ ఏ ఆర్ స్టీవెన్సన్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "దైవనిర్ణయం ఈ పరిణయం",
+      "రమణీయం అతిమధురం",
+      "యేసులో ఏకమైన ఇరువురి అనుబంధం",
+      "నిలిచియుండును ఇలలో కలకాలం"
+    ],
+    "english": [
+      "Dhaivanirnayam ee parinayam",
+      "Ramaneeyam athimadhuram",
+      "Yesulo ekamaina iruvuri anubandham",
+      "Nilichiyundunu ilalo kalakaalam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అన్నిటిలో వివాహం ఘనమైనదని",
+        "పానుపు ఏ కల్మషము లేనిదని",
+        "యెహూవాయే కలిగించిన కార్యమని",
+        "మహూన్నతుని వాక్యమే తెలిపెను"
+      ],
+      "english": [
+        "Annitilo vivaaham ghanamainadhani",
+        "Paanupu e kalmashamu lenidhani",
+        "Yehovaaye kaliginchina kaaryamani",
+        "Mahonnathuni vaakyame thelipenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పురుషునిలో సగభాగం తన భార్యయని",
+        "ప్రేమించుట అతనికున్న బాధ్యతని",
+        "విధేయత చూపించుట స్త్రీ ధర్మమని",
+        "సజీవుడైన దేవుడే తెలిపెను"
+      ],
+      "english": [
+        "Purushunilo sagabhaagam thana bhaaryayani",
+        "Preminchuta athanikunna baadhyathani",
+        "Vidheyatha choopinchuta sthree dharmamani",
+        "Sajeevudaina Devude thelipenu"
+      ]
+    }
+  ]
+}

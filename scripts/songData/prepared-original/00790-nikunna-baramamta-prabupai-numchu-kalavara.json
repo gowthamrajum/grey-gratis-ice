@@ -1,0 +1,71 @@
+{
+  "song_name": "Nikunna Baramamta Prabupai Numchu Kalavara",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీకున్న భారమంత ప్రభుపై నుంచు కలవర చెందకుమా ఆయనె నిన్ను ఆధరించునూ అద్భుతములు చేయున్‌"
+    ],
+    "english": [
+      "Nikunna baramamta prabupai numchu kalavara chemdakuma Ayane ninnu adharimchunu adbutamulu cheyun"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీతి మంతులను కదలనీయడు నిత్యము కాచి నడిపించును"
+      ],
+      "english": [
+        "Niti mamtulanu kadalaniyadu nityamu kachi nadipimchunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మనలను కాచే దేవుడాయనే మనకునీడగా ఆయనే ఉండును"
+      ],
+      "english": [
+        "Manalanu kache devudayane manakunidaga ayane umdunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తల్లి తండ్రి విడచినను ఆయనే మనలను హత్తుకొనును"
+      ],
+      "english": [
+        "Talli tamdri vidachinanu ayane manalanu hattukonunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ప్రభువు మన పక్షమైయుండగా ఎదురు నిలువ గల వాడెవ్వడు"
+      ],
+      "english": [
+        "Prabuvu mana pakshamaiyumdaga eduru niluva gala vadevvadu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ప్రభుకు జీవితం సమర్పించెదం ఆయనే అంతా సఫలం చేయును"
+      ],
+      "english": [
+        "Prabuku jivitam samarpimchedam ayane amta sapalam cheyunu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "మనకున్న భారమంతా ప్రభుపై నుంచెదము కలవర చెందకుమా ఆయనే మనలను ఆధరించును అద్భుతములు చేయును.."
+      ],
+      "english": [
+        "Manakunna baramamta prabupai numchedamu kalavara chemdakuma Ayane manalanu adharimchunu adbutamulu cheyunu.."
+      ]
+    }
+  ]
+}

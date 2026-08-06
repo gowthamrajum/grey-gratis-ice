@@ -1,0 +1,55 @@
+{
+  "song_name": "Yesune sevimparandi mosapokandi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "ఎన్ డి ఏబెల్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసునే సేవింపరండి మోసపోకండి ప్రభు దోసములను బాపు",
+      "నండి దొడ్డ ప్రభువండి ప్రభు ||యేసునే||"
+    ],
+    "english": [
+      "Yesune sevimparandi mosapokandi Prabhu dhosamulanu baapu",
+      "Nandi dodda Prabhuvandi Prabhu ||Yesune||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేవుఁ డీతఁడే సుమండి దిగులుపడకండి మన చావు నొంది లేచెనండి",
+        "జీవ మితఁడండి ప్రభు  ||యేసునే||"
+      ],
+      "english": [
+        "Devu deethade sumandi digulupadakandi mana chaavu nondi lechenandi",
+        "Jeeva mithadandi Prabhu ||Yesune||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపులను ప్రేమించె నండి ప్రాణ మిడె నండి ప్రభు దాపుఁజేరి వేఁ",
+        "డ రండి దయామయుఁడండి ప్రభు  ||యేసునే||"
+      ],
+      "english": [
+        "Paapulanu preminche nandi praana mide nandi Prabhu daapujeri ve",
+        "Da randi dayaamayudandi Prabhu ||Yesune||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నరకబాధ నొందె నండి నరులకొర కండి ప్రభు దురితములను",
+        "బాపు నండి దుఃఖపడకండి ప్రభు  ||యేసునే||"
+      ],
+      "english": [
+        "Narakabaadha nonde nandi narulakora kandi Prabhu dhurithamulanu",
+        "Baapu nandi duhkhapadakandi Prabhu ||Yesune||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "song_name": "Neevu Nirminchina Devaalayamulo",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవు నిర్మించిన దేవాలయములో నీతో జత పనివారము",
+      "నీ ప్రత్యక్షతగల పరిశుద్దాలయంలో నిన్ను మహిమ పరచెదము (2X)",
+      "హల్లెలూయ హల్లెలూయ హల్లెలూయ హల్లెలూయ హల్లెలూయ హల్లెలూయ",
+      "హల్లెలూయ హల్లెలూయ హల్లెలూయ హల్లెలూయ హల్లెలూయ హల్లెలూయ",
+      "మహిమా ప్రభావములు నీకే చెల్లున్"
+    ],
+    "english": [
+      "Neevu Nirminchina Devaalayamulo Neetho Jatha Panivaaramu",
+      "Nee Prathyakshathagala Parishuddhaalayamlo Ninnu Mahima Parachedamu (2X)",
+      "Halleluya Halleluya Halleluya Halleluya Halleluya Halleluya",
+      "Halleluya Halleluya Halleluya Halleluya Halleluya Halleluya",
+      "Mahimaa Prabhaavamulu Neeke Chellun"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిరంతరము నియమముతో నిండు హృదయ కృతజ్ఞతతో (2X)",
+        "నీరీక్షణతో స్తోత్రములతోను నిత్యుండగు దేవా రాదింతుము (2X)"
+      ],
+      "english": [
+        "Nirantharamu Niyamamutho Nindu Hrudaya Kruthagnathatho (2X)",
+        "Neereekshanatho Sthothramulathonu Nithyundagu Devaa Raadhinthumu (2X)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ సంఘమూ ఈబండపైన నిలువనిమ్ము క్రీస్తు ప్రభూ (2X)",
+        "నీ వాక్యముతో మమ్ము నింపుము నీతి మార్గములో నడుపుము దేవా (2X)"
+      ],
+      "english": [
+        "Nee Sanghamoo Eebandapaina Niluvanimmu Kreesthu Prabhoo (2X)",
+        "Nee Vaakyamutho Mammu Nimpumu Neethi Maargamulo Nadupumu Devaa (2X)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిర్దోషమైన నిర్మలమైన నీ రక్తముతో మమ్ము పొందితివి (2X)",
+        "నీవే ప్రభువా తరతరములాకు నీవాస స్థలముగా ఉన్నావు (2X)"
+      ],
+      "english": [
+        "Nirdoshamaina Nirmalamaina Nee Rakthamutho Mammu Pondhithivi (2X)",
+        "Neeve Prabhuvaa Tharatharamulaaku Neevaasa Sthalamugaa Unnaavu (2X)"
+      ]
+    }
+  ]
+}

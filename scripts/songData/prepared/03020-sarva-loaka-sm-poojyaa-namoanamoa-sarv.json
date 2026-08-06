@@ -1,0 +1,73 @@
+{
+  "song_name": "Sarva Loaka Sam Poojyaa Namoanamoa",
+  "author": {
+    "Authored by": "",
+    "రచన": "చెట్టి భానుమూర్తి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "సర్వ లోక సం పూజ్యా నమోనమో",
+      "సర్వ జ్ఞాన సంపూర్ణా నమోనమో",
+      "సర్వ సత్య సారాంశా నమోనమో దేవా గావో"
+    ],
+    "english": [
+      "Sarva Loaka Sam Poojyaa Namoanamoa",
+      "Sarva Jnaana Sampoornaa Namoanamoa",
+      "Sarva Sathya Saaraamshaa Namoanamoa Dhaevaa Gaavoa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దీన భక్త మందారా నమోనమో",
+        "దోష శక్తి సంహారా నమోనమో",
+        "దేవా యేసావతార నమోనమో దేవా గావో"
+      ],
+      "english": [
+        "Dheena Bhaktha Mandhaaraa Namoanamoa",
+        "Dhoasha Shakthi Samhaaraa Namoanamoa",
+        "Dhaevaa Yaesaavathaara Namoanamoa Dhaevaa Gaavoa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేవలోక ప్రదీపా నమోనమో",
+        "భావలోక ప్రతాపా నమోనమో",
+        "పావనాత్మ స్వరూపా నమోనమో దేవా గావో"
+      ],
+      "english": [
+        "Dhaevaloaka Pradheepaa Namoanamoa",
+        "Bhaavaloaka Prathaapaa Namoanamoa",
+        "Paavanaathma Svaroopaa Namoanamoa Dhaevaa Gaavoa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వేదవాక్యాదర్శ మీవె నమోనమో",
+        "వేద జీవమార్గం బీవె నమోనమో",
+        "వేదవాక్కును నీవే నమోనమో దేవా గావో"
+      ],
+      "english": [
+        "Vaedhavaakyaadharsha Meeve Namoanamoa",
+        "Vaedha Jeevamaargam Beeve Namoanamoa",
+        "Vaedhavaakkunu Neevae Namoanamoa Dhaevaa Gaavoa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "శాపగ్రహివైతివి నాకై నమోనమో",
+        "ప్రాణత్యాగివైతివి. నాకై నమోనమో",
+        "ప్రాయశ్చిత్తమైతివి నాకై నమోనమో దేవా గావో"
+      ],
+      "english": [
+        "Shaapagrahivaithivi Naakai Namoanamoa",
+        "Praanathyaagivaithivi. Naakai Namoanamoa",
+        "Praayashchiththamaithivi Naakai Namoanamoa Dhaevaa Gaavoa"
+      ]
+    }
+  ]
+}

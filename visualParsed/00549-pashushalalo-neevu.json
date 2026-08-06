@@ -1,0 +1,46 @@
+{
+  "song_name": "Pashushaalalo neevu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "పశుశాలలో నీవు పవళించినావు పరమాత్ముడవు నీవు",
+      "పసిబాలుడవు కావు"
+    ],
+    "english": [
+      "Pashushaalalo neevu pavalinchinaavu paramaathmudavu neevu",
+      "Pasibaaludavu kaavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "స్థాపించలేదే తరగతులు ప్రతి చోట చూడ నీ పలుకే",
+        "ధరియించలేదే ఆయుధం",
+        "వశమాయే జనుల హృదయాలు"
+      ],
+      "english": [
+        "Sthaapinchaledhe tharagathulu prathi chota chooda nee paluke",
+        "Dhariyinchaledhe aayudham",
+        "Vashamaaye janula hrudayaalu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చిరు ప్రాయమందే శాస్త్రులు సరితూగలేదే పాదములు",
+        "స్థలమైన లేదే జన్మకు",
+        "తలవంచే సర్వ లోకము"
+      ],
+      "english": [
+        "Chiru praayamandhe shaasthrulu sarithoogaledhe paadamulu",
+        "Sthalamaina lede janmaku",
+        "Thalavanche sarva lokamu"
+      ]
+    }
+  ]
+}

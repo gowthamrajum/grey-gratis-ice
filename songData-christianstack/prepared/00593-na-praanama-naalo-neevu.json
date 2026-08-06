@@ -1,0 +1,66 @@
+{
+  "song_name": "Na Praanama Naalo Neevu",
+  "author": {
+    "Authored by": "pastor Dr M S Shantha Vardhan",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రాణమా నాలో నీవు",
+      "ఎందుకు కృంగియున్నావు",
+      "యెహోవాయందే ఇంకను",
+      "నిరీక్షణ ఉంచుము నీవు"
+    ],
+    "english": [
+      "Naa praanamaa naalo neevu",
+      "endhuku krungi yunnaavu",
+      "yehovaa yandey inkanu",
+      "nireekshana unchumu neevu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఈతి బాధల్ కటిన శ్రమలు",
+        "అవమానములే కలిగిన వేళ",
+        "నీ కొరకే బలియైన యేసు",
+        "సిల్వన్ చూచి తలపోయుమా",
+        "అల్పకాల శ్రమల పిదప",
+        "మహిమతో నిను నింపును నా ప్రాణమా",
+        "ఆప్తులంతా నిను విడచిననూ",
+        "శత్రువులే నీపై లేచిననూ",
+        "తల్లియైన మరచినా మరచున్",
+        "నేను నిన్ను మరువాననినా",
+        "యేసుని ప్రేమన్ తలపోయుమా",
+        "ఆశ్రయించు ప్రభుని నా ప్రాణమా",
+        "ఐశ్వర్యమే లేకున్ననూ",
+        "సౌఖ్య జీవితమే కరువైనను",
+        "ప్రభు సేవలో ప్రాణములనే",
+        "అర్పించవలసి వచ్చినను",
+        "క్రీస్తునకే అంకితమై ఆనందించు",
+        "ప్రభు రాకకై కనిపెట్టుము నా ప్రాణమా"
+      ],
+      "english": [
+        "Eethi baadhal katina sramalu",
+        "avamaanamuley kaligina vela",
+        "nee korakey baliyaina yesu",
+        "silvan choochi thalapoyumaa",
+        "alpakaala sramala pidhapa",
+        "mahimatho ninu nimpunu naa praanamaa",
+        "Aapthulanthaa ninu vidachinanu",
+        "sathruvuley neepai lechinanu",
+        "thalliyaina marachina marachun",
+        "nenu ninnu maruvananina",
+        "yesuni preman thalapoyuma",
+        "aasrayinchu prabhuni naa praanamaa",
+        "Aishwaryamey lekunnanuu",
+        "soukya jeevithamey karuvainanu",
+        "prabhu sevalo praanamulaney",
+        "arpinchavalasi vachinanu",
+        "kreesthunakey ankithamai aanandhinchu",
+        "prabhu raakakai kanipettumu naa praanamaa"
+      ]
+    }
+  ]
+}

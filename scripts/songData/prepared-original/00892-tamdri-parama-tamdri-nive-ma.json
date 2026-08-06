@@ -1,0 +1,35 @@
+{
+  "song_name": "Tamdri Parama Tamdri Nive Ma",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "తండ్రి పరమ తండ్రి నీవే మా ప్రియ తండ్రి నీవే సమస్తం రక్షణ కేడెం ఆశ్రయ స్ధానం రక్షణ శృంగం"
+    ],
+    "english": [
+      "Tamdri parama tamdri nive ma priya tamdri Nive samastam rakshana kedem Asraya sdhanam rakshana srumgam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కష్ట కాలములో అదరించు నాధ కృంగిన వేళలో అదుకొను దేవా నా హృదయముతో స్తుతించెదను నీ కృప నిరతం తల పోయుదును కములెత్తి స్తుతించెదను"
+      ],
+      "english": [
+        "Kashta kalamulo adarimchu nadha Krumgina velalo adukonu deva Na hrudayamuto stutimchedanu Ni krupa niratam tala poyudunu Kamuletti stutimchedanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఊహించలేని ఈవుల నొసగి కంటిపాపలా కాపాడు తండ్రి ప్రేమతో పలచి స్ధిరపరచితివి విడువని కృపతో అదరించితివి కల్వరి నాధా స్తుతించెదను"
+      ],
+      "english": [
+        "Uhimchaleni ivula nosagi Kamtipapala kapadu tamdri Premato palachi sdhiraparachitivi Viduvani krupato adarimchitivi Kalvari nadha stutimchedanu"
+      ]
+    }
+  ]
+}

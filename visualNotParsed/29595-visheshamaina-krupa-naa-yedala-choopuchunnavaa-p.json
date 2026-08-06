@@ -1,0 +1,79 @@
+{
+  "song_name": "Visheshamaina krupa naa edala choopuchunnaavaa Prabhuvaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "విశేషమైన కృప నా యెడల చూపుచున్నావా… ప్రభువా (2)",
+      "నా యెడల నీవు విశేషమైన (2)",
+      "కృప చూపుచున్నావా ||విశేషమైన||"
+    ],
+    "english": [
+      "Visheshamaina krupa naa edala choopuchunnaavaa… Prabhuvaa (2)",
+      "Naa edala neevu visheshamaina (2)",
+      "Krupa choopuchunnaavaa ||Visheshamaina||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా బ్రతుకు నన్ను క్రుంగదీయు వేళ",
+        "నీ కృపయే నన్ను లేవనెత్తగా (2)",
+        "కృప కృప కృప అని పిలువగా",
+        "నీ కృప కృప కృప అని పిలువగా",
+        "కృపలోనే నాకు ప్రత్యక్షమైతివా",
+        "నీ కృపలోనే నాకు ప్రత్యక్షమైతివా  ||విశేషమైన||"
+      ],
+      "english": [
+        "Naa brathuku nannu krungadeeyu vela",
+        "Nee krupaye nannu levanetthagaa (2)",
+        "Krupa krupa krupa ani piluvagaa",
+        "Nee krupa krupa krupa ani piluvagaa",
+        "Krupalone naaku prathyakshamaithivaa",
+        "Nee krupalone naaku prathyakshamaithivaa  ||Visheshamaina||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గడ్డి పూవు లాంటిది నా జీవితం",
+        "పరిమళింపజేయవా నీ కృపచేత (2)",
+        "కృప కృప కృప అని పిలువగా",
+        "నీ కృప కృప కృప అని పిలువగా",
+        "కృపలోనే నాకు ప్రత్యక్షమైతివా",
+        "నీ కృపలోనే నాకు ప్రత్యక్షమైతివా  ||విశేషమైన||"
+      ],
+      "english": [
+        "Gaddi poovu laantidhi naa jeevitham",
+        "Parimalimpajeyavaa nee krupachetha (2)",
+        "Krupa krupa krupa ani piluvagaa",
+        "Nee krupa krupa krupa ani piluvagaa",
+        "Krupalone naaku prathyakshamaithivaa",
+        "Nee krupalone naaku prathyakshamaithivaa  ||Visheshamaina||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వెలుపట లోపట పోరాటములే",
+        "యెటు చూచినా దారి కానరాలేదే (2)",
+        "కృప కృప కృప అని పిలువగా",
+        "నీ కృప కృప కృప అని పిలువగా",
+        "కృపలోనే నాకు ప్రత్యక్షమైతివా",
+        "నీ కృపలోనే నాకు ప్రత్యక్షమైతివా  ||విశేషమైన||"
+      ],
+      "english": [
+        "Velupata lopata poraatamule",
+        "Etu choochinaa daari kaanaraaledhe (2)",
+        "Krupa krupa krupa ani piluvagaa",
+        "Nee krupa krupa krupa ani piluvagaa",
+        "Krupalone naaku prathyakshamaithivaa",
+        "Nee krupalone naaku prathyakshamaithivaa  ||Visheshamaina||"
+      ]
+    }
+  ]
+}

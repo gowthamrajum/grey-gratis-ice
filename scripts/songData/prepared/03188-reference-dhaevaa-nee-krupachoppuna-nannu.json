@@ -1,0 +1,105 @@
+{
+  "song_name": "Dhaevaa Nee Krupachoppuna Nannu Karunimpumu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవా నా దేవా"
+    ],
+    "english": [
+      "Yehoavaa Naa Dhaevaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దేవా నీ కృపచొప్పున - నన్ను కరుణింపుము",
+        "కృప చొప్పున నా అతిక్రమ - ములను తుడిచివేయుము"
+      ],
+      "english": [
+        "Dhaevaa Nee Krupachoppuna - Nannu Karunimpumu",
+        "Krupa Choppuna Naa Athikrama - Mulanu Thudichivaeyumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా దోషము పోవునట్లు నన్ను బాగుగా కడుగుము",
+        "నా పాపము పోవునట్లు నన్ను పవిత్రపరచుము"
+      ],
+      "english": [
+        "Naa Dhoashamu Poavunatlu Nannu Baagugaa Kadugumu",
+        "Naa Paapamu Poavunatlu Nannu Pavithraparachumu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీకు విరోధముగానే - పాపము చేసియున్నాను",
+        "నీ దృష్టి యెడల చెడు - తనము నే చేసియున్నాను"
+      ],
+      "english": [
+        "Neeku Viroadhamugaanae - Paapamu Chaesiyunnaanu",
+        "Nee Dhrushti Yedala Chedu - Thanamu Nae Chaesiyunnaanu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆజ్ఞ యిచ్చునపుడు - నీతిమంతుడవుగను",
+        "తీర్పు తీర్చునపుడు నిర్మలుడవుగ నుందువు"
+      ],
+      "english": [
+        "Aajna Yichchunapudu - Neethimanthudavuganu",
+        "Theerpu Theerchunapudu Nirmaludavuga Nundhuvu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పాపములోనే పుట్టిన - వాడను పాపములోనే",
+        "నాదు తల్లి నన్ను గర్భము ధరియించెను"
+      ],
+      "english": [
+        "Paapamuloanae Puttina - Vaadanu Paapamuloanae",
+        "Naadhu Thalli Nannu Garbhamu Dhariyinchenu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నీ వంతరంగమున - సత్యము కోరుచున్నావు",
+        "ఆంతర్యములో నాకు జ్ఞనము తెలియజేయుదువు"
+      ],
+      "english": [
+        "Nee Vantharangamuna - Sathyamu Koaruchunnaavu",
+        "Aantharyamuloa Naaku Jnanamu Theliyajaeyudhuvu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "హిస్సోపుతో శుద్ధీకరించు - పవిత్రుడనగుదును",
+        "హిమము కంటె తెల్లగా నుండునట్లు కడుగుము"
+      ],
+      "english": [
+        "Hissoaputhoa Shuddheekarinchu - Pavithrudanagudhunu",
+        "Himamu Kante Thellagaa Nundunatlu Kadugumu"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "ఉత్సాహ సంతోషములు - నాకు వినిపింపుము",
+        "అప్పుడు నీవు విరిచిన - యెముకలు హర్షించును"
+      ],
+      "english": [
+        "Uthsaaha Santhoashamulu - Naaku Vinipimpumu",
+        "Appudu Neevu Virichina - Yemukalu Harshinchunu"
+      ]
+    }
+  ]
+}

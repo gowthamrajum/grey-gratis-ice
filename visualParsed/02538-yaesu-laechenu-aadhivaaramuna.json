@@ -1,0 +1,88 @@
+{
+  "song_name": "Yesu lechenu aadhivaaramuna",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "బస్యన్ జోసఫ్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు లేచెను ఆదివారమున యేసు లేచెను వేకువజామున యేసు",
+      "లేచెను||"
+    ],
+    "english": [
+      "Yesu lechenu aadhivaaramuna Yesu lechenu vekuvajaamuna Yesu",
+      "lechenu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వేకువజామున చీఁక టుండఁగానే యాకాశదూతలు వీకతో రాఁ",
+        "గానే  ||యేసు||"
+      ],
+      "english": [
+        "Vekuvajaamuna cheeka thundagaane yaakaashadhoothalu veekatho raa",
+        "gaane ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సమాధిపై రాతిన్ స్వామి దూత లిద్దరు సమముగఁ దీయను స్వామి",
+        "లేచె నహహ  ||యేసు||"
+      ],
+      "english": [
+        "Samaadhipai raathin swaami dootha liddharu samamuga dheeyanu swaami",
+        "leche nahaha ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మృతులలో సజీవున్ వెతకు టేల నని దూతలు వారితో దాత లేఁడని",
+        "తెల్పి  ||యేసు||"
+      ],
+      "english": [
+        "Mruthulalo sajeevun vethaku tela nani doothalu vaaritho daatha ledani",
+        "thelpi ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "స్త్రీలు వేగ వెళ్లి శిష్యులకుఁ దెల్ప జింత మారిపోయి సందేహము",
+        "తొల్గ  ||యేసు||"
+      ],
+      "english": [
+        "Streelu vega velli shishyulaku dhelpa jintha maaripoyi sandhehamu",
+        "tholga ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పేతురు యోహానుల్ పరుగెత్తుకొని వచ్చి ప్రవేశించి గుహలో పరమానంద",
+        "మొంద  ||యేసు||"
+      ],
+      "english": [
+        "Pethuru Yohaanul parugetthukoni vachchi praveshinchi guhalo paramaananda",
+        "mondha ||Yesu||"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "యేసు చచ్చి లేచె యేసు శిష్యులట్లే దోసంబులకుఁ జచ్చి వాసిగ",
+        "లేతురండి  ||యేసు||"
+      ],
+      "english": [
+        "Yesu chachchi leche Yesu shishyulatle dhosambulaku jachchi vaasiga",
+        "lethurandi ||Yesu||"
+      ]
+    }
+  ]
+}

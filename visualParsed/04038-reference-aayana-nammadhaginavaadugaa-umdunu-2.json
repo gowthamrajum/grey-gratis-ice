@@ -1,0 +1,86 @@
+{
+  "song_name": "Nammadhaginavaadavu - Nemmadhini chekoorchanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నమ్మదగినవాడవు - నెమ్మదిని చేకూర్చను",
+      "యిమ్మహిలో యెంతైనను - నమ్మిన నను గాచెడి"
+    ],
+    "english": [
+      "Nammadhaginavaadavu - Nemmadhini chekoorchanu",
+      "Immahilo enthainanu - nammina nanu gaachedi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అలలు గాలి తుఫానులవలె - శ్రమలు నన్నిలగొట్టిన",
+        "అమరమందు నిల్చియేసు - అన్నిటిని గద్దించును"
+      ],
+      "english": [
+        "Alalu gaali thuphaanulavale - shramalu nannilagottina",
+        "Amaramandhu nilchi Yesu - annitini gaddhinchunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నరుల రాజులనమ్మిన - నిరుపయోగమె యెందున",
+        "కరము జాచిన కష్టములలో - కొరతలన్నిటి తీర్చును"
+      ],
+      "english": [
+        "Narula raajulanammina - nirupayogame endhuna",
+        "Karamu jaachina kashtamulalo - korathalanniti theerchunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యాత్రికులు ప్రయాణికులుగా - యాతనలు మే బొందిన",
+        "నూతన జీవముతో నీ - పాత్రలుగను వాడను"
+      ],
+      "english": [
+        "Yaathrikulu prayaanikulugaa - yaathanalu me pondina",
+        "Noothana jeevamutho nee - paathraluganu vaadanu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆత్మ జీవశరీరములను - ప్రభువు రాకడయందున",
+        "నిందారహిత సంపూర్ణమహిమలో - నుండునట్లుగ నిల్పను"
+      ],
+      "english": [
+        "Aathma jeevashareeramulanu - Prabhuvu raakadayandhuna",
+        "Nindhaarahitha sampoornamahimalo - nundunatluga nilpanu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పరమ తండ్రి కృపాతిశయమును - నిరతమును కీర్తించెద",
+        "తరములకు విశ్వాస్యతను నా - నోటితోనే తెల్పెద"
+      ],
+      "english": [
+        "Parama thandri krupaathishayamunu - nirathamunu keerthincheda",
+        "Tharamulaku vishvaasyathanu naa - notithone thelpedha"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "శోధనలన్నీ సహించెడి - వరకె నా కవినిచ్చియు",
+        "శోధనలు తప్పించుకొను యా - మార్గమును కలిగించుము"
+      ],
+      "english": [
+        "Shodhanalannee sahinchedi - varake naa kavinichchiyu",
+        "Shodhanalu thappinchukonu yaa - maargamunu kaliginchumu"
+      ]
+    }
+  ]
+}

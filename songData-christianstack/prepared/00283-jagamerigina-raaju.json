@@ -1,0 +1,68 @@
+{
+  "song_name": "Jagamerigina Raaju",
+  "author": {
+    "Authored by": "Hosanna Ministries featuring Bro. Yesanna",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాజ జగమెరిగిన నా యేసురాజా",
+      "రాగాలలో అనురాగాలు కురిపించిన",
+      "మన బంధము – అనుబంధము",
+      "విడదీయగలరా – ఎవరైనను – మరి ఏదైనను"
+    ],
+    "english": [
+      "Raaja jagamerigina naa Yesuraajaa",
+      "raagaalalo anuraagaalu kuripinchina",
+      "mana bandhamu – anubandhamu",
+      "vidadhiyagalaraa – evarainanu – mari edhainanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దీన స్థితియందున – సంపన్న స్థితియందున",
+        "నడచినను – ఎగిరినను – సంతృప్తి కలిగి యుందునే",
+        "నిత్యము ఆరాధనకు – నా ఆధారమా",
+        "స్తోత్రబలులు నీకే – అర్పించెద యేసయ్యా"
+      ],
+      "english": [
+        "Deena sthithiyanduna – sampanna sthithiyanduna",
+        "nadachinanu – egirinanu – santhriupthi kaligi yundhune",
+        "nithyamu aaraadhanaku – naa aadhaaramaa",
+        "sthothrabalulu neeke – arpinchedha Yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బలహీనతలయందున- అవమానములయందున",
+        "పడినను – కృంగినను – నీ కృపకలిగి యుందునే",
+        "నిత్యము ఆరాధనకు – నా ఆధారమా",
+        "స్తోత్రబలులు నీకే – అర్పించెద యేసయ్యా"
+      ],
+      "english": [
+        "Balaheenathalayandhuna – avamaanamulaayandhuna",
+        "padinanu – krunginanu – nee krupakaligi yundhune",
+        "nithyamu aaraadhanaku – naa aadhaaramaa",
+        "sthothrabalulu neeke – arpinchedha Yesayya"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సీయోను షాలేము – మన నిత్య నివాసము",
+        "చేరుటయే నా ధ్యానము – ఈ ఆశ కలిగి యుందునే నిత్యము",
+        "ఆరాధనకు – నా ఆధారమా",
+        "స్తోత్రబలులు నీకే – అర్పించెద యేసయ్యా"
+      ],
+      "english": [
+        "Siyonu Shaalemu – mana nithya nivaasamu",
+        "cherutaye naa dhyaanamu – ee aasha kaligi yundhune",
+        "nithyamu aaraadhanaku – naa aadhaaramaa",
+        "sthothrabalulu neeke – arpinchedha Yesayya"
+      ]
+    }
+  ]
+}

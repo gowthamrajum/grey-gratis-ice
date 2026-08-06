@@ -1,0 +1,53 @@
+{
+  "song_name": "Villuveleni Na Jeevitham",
+  "author": {
+    "Authored by": "Pastor Vinod Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీది శాశ్వత ప్రేమయ – నేను మరచిపోలేనయ",
+      "ఎన్ని యుగాలైన – మారదు.. – ఎండిన ప్రతి మోడును",
+      "మరల చిగురించును – నా దేవునికి సమస్తము – సాధ్యమే…."
+    ],
+    "english": [
+      "Needhi saswatha premaya – nenu marachipolenaya",
+      "enni yugalaina maradhu – yendina prathi modunu",
+      "marala chigurinchunu – na devuniki samasthamu sadhyame"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "విలువేలేని నా జీవితం, నీ చేతిలో పడగానే",
+        "అది ఎంతో విలువని నాకు చూపితివే",
+        "జీవమే లేని నాలో నీ జీవమును నింపుటకు,",
+        "నీ జీవితాన్నే దారబోసితివే"
+      ],
+      "english": [
+        "Viluveleni na jeevitham – nee chethilo padagane",
+        "adhi entho viluvani naku choopithivey",
+        "jeevame leni nalo nee jeevamunu nimputaku",
+        "nee jeevithanne dhaarabosithivey"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "Bridge:",
+        "సాధ్యమే.. సాధ్యమే… సాధ్యమే నా యేసుకు సమస్తము",
+        "సాధ్యమే.. సాధ్యమే… సాధ్యమే నా ప్రియునికి సమస్తము",
+        "ఎండిన ప్రతి మోడును – మరల చిగురించును",
+        "నా దేవునికి సమస్తము – సాధ్యమే…."
+      ],
+      "english": [
+        "Bridge",
+        "Sadhyame sadhyame sadhyame na yesuku samasthamu",
+        "sadhyame sadhyame sadhyame na priyuniki samasthamu",
+        "yendina prathi modunu marala chigurinchunu",
+        "na devuniki samasthamu sadhyame"
+      ]
+    }
+  ]
+}

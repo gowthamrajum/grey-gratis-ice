@@ -1,0 +1,80 @@
+{
+  "song_name": "Ninnu nammi vachchi ne siggu chendhaledhu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "John Jebaraj"
+    ],
+    "రచన": [
+      "జాన్ జెబరాజ్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నిన్ను నమ్మి ఏమి, నే సిగ్గుచెందలేదు",
+      "నిన్ను నమ్మి వచ్చి, ఏమి సిగ్గుచెందలేదు"
+    ],
+    "english": [
+      "Ninnu nammi emi, ne sigguchendhaledhu",
+      "Ninnu nammi vachchi, emi sigguchendhaledhu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నిన్ను నమ్మి వచ్చి, నే సిగ్గుచెందలేదు",
+        "నీ దయ నన్ను చేయి విడువ లేదు",
+        "వట్టి చేతితో వచ్చితిని",
+        "రెండు పరివారాలనిచ్చితివే (2)"
+      ],
+      "english": [
+        "Ninnu nammi vachchi, ne sigguchendhaledhu",
+        "Nee daya nannu cheyi viduva ledu",
+        "Vatti chethitho vachchithini",
+        "Rendu parivaaraalanichchithive (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఏల్‌-ఎలోహేయి ఏల్‌-ఎలోహేయి ఏల్‌-ఎలోహేయి",
+        "నిన్నే స్తుతింతున్"
+      ],
+      "english": [
+        "El-Eloheyi El-Eloheyi El-Eloheyi",
+        "Ninne sthuthinthun"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "గాయపడ్డాను, కన్నీళ్లు కార్చాను",
+        "కలతచెందిన నన్ను కరుణించావు",
+        "నిబంధనను నాతో చేసితివే",
+        "కోల్పోయినవన్నీ ఇచ్చితివే. (2) - ఎల్"
+      ],
+      "english": [
+        "Gaayapaddaanu, kanneellu kaarchaanu",
+        "Kalathachendhina nannu karuninchaavu",
+        "Nibandhananu naatho chesithive",
+        "Kolpoyinavannee ichchithive. (2) - El"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ప్రియులందరు విడిచి పోయినా",
+        "ప్రియమైన వన్నీ నాకిచ్చితివే (2)",
+        "పరదేశిగా నేనున్న చోటే",
+        "స్వాస్థ్యముగా నాకు మార్చితివే - ఎల్"
+      ],
+      "english": [
+        "Priyulandharu vidichi poyinaa",
+        "Priyamaina vannee naakichchithive (2)",
+        "Paradheshigaa nenunna chote",
+        "Swaasthyamugaa naaku maarchithive - El"
+      ]
+    }
+  ]
+}

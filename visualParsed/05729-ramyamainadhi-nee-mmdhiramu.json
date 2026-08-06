@@ -1,0 +1,56 @@
+{
+  "song_name": "Ramyamainadhi nee mandiramu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "రమ్యమైనది నీ మందిరము",
+      "సౌందర్యమైనది నీ ఆలయము (2)",
+      "అద్భుతమైనది నీ (నా) పరలోకము",
+      "బహు శ్రేష్టమైనది నీ (నా) సీయోను పురము (2)",
+      "అ:ప రమ్యమైనది బహు శ్రేష్టమైనది"
+    ],
+    "english": [
+      "Ramyamainadhi nee mandiramu",
+      "Saundharyamainadhi nee aalayamu (2)",
+      "Adbhuthamainadhi nee (naa) paralokamu",
+      "Bahu shreshtamainadi nee (naa) Seeyonu puramu (2)",
+      "A:pa ramyamainadhi bahu shreshtamainadi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా యింటివారితో నీ సన్నిధిని చేరెదన్",
+        "నా పూర్ణహృదయముతో నే నిన్ను సేవింతును",
+        "నీ వాక్యముచేత నన్ను నింపుమయ్యా",
+        "నీ సన్నిధిలోనే నిరతము నిలుపుమయా"
+      ],
+      "english": [
+        "Naa intivaaritho nee sannidhini cheredhan",
+        "Naa poornahrudhayamutho ne ninnu sevinthunu",
+        "Nee vaakyamuchetha nannu nimpumayyaa",
+        "Nee sannidhilone nirathamu nilupumayaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ ఆత్మ శక్తితో నీ సాక్షిగా సాగెదన్",
+        "నీ సన్నిధి కాంతిలో నే ప్రకాశింతును (2)",
+        "నీ కోసమే ఇలలో నే జీవింతును",
+        "నశియించువారిని నీ సన్నిధికి చేర్చెదన్ (2)"
+      ],
+      "english": [
+        "Nee aathma shakthitho nee saakshigaa saagedhan",
+        "Nee sannidhi kaanthilo ne prakaashinthunu (2)",
+        "Nee kosame ilalo ne jeevinthunu",
+        "Nashiyinchuvaarini nee sannidhiki cherchedhan (2)"
+      ]
+    }
+  ]
+}

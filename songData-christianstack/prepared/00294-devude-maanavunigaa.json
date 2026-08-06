@@ -1,0 +1,60 @@
+{
+  "song_name": "Devude Maanavunigaa",
+  "author": {
+    "Authored by": "Late Dr. Joseph Moses K, Founder & Director, Gospel Torch Charitable Mission",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవుడే మానవునిగా జన్మించెను",
+      "ఈ భువిలో ఈ భువిలో",
+      "దేవుడే.. దేవుడే.."
+    ],
+    "english": [
+      "Devude maanavunigaa janminchenu",
+      "ee bhuvilo ee bhuvilo",
+      "Devude.. Devude.."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపాంధకారములో నశియించిన నన్ను",
+        "జీవ వెలుగు మార్గమున చేర్చెన్",
+        "నా సృష్టికర్త – నను ప్రేమించి",
+        "అరుదెంచెను – బెత్లెహేములో",
+        "నా పాప భారమును సిలువను మోయన్",
+        "నా పాప శాపమును సిలువను వేయన్",
+        "పరిశుద్ధుడే – నరరూపుడై",
+        "అరుదెంచెను – బెత్లెహేములో",
+        "శోధన నుండి నను విమోచింపన్",
+        "వేదన నుండి నను రక్షింపన్",
+        "పరమాత్ముడే – ఇమ్మానుయేలుడై",
+        "అరుదెంచెను – బెత్లెహేములో",
+        "మహిలో లేని మహిమను నాకు",
+        "వెల ఇచ్చి కొనలేని శాంతిని నాకు",
+        "సర్వోన్నతుడే – ప్రసాదింపను",
+        "అరుదెంచెను – బెత్లెహేములో"
+      ],
+      "english": [
+        "Paapaandhakaaramulo nasiyinchina nannu",
+        "jeeva velugu maargamuna cherchen",
+        "naa srushtikartha – nanu preminchi",
+        "arudhenchenu – bethlehemulo",
+        "Naa paapa bhaaramunu siluvanu moyan",
+        "naa paapa saapamunu siluvanu veyan",
+        "parishuddhude – nararoopudai",
+        "arudhenchenu – bethlehemulo",
+        "Shodhana nundi nanu vimochimpan",
+        "vedhana nundi nanu rakshimpan",
+        "paramaathmude – Emmanueludai",
+        "arudhenchenu – bethlehemulo",
+        "Mahilo leni mahimanu naaku",
+        "vela icchi konaleni saanthini naaku",
+        "sarvonnathudey prasaadhimpanu",
+        "arudhenchenu – bethlehemulo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "song_name": "Ni Padalu Tadapakunda",
+  "author": {
+    "Authored by": "Pastor Finny Abraham T",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రార్ధన వలనే పయనము",
+      "ప్రార్ధనే ప్రాకారము",
+      "ప్రార్ధనే ప్రాధాన్యము",
+      "ప్రార్ధన లేనిదే పరాజయం"
+    ],
+    "english": [
+      "Praardhana valane payanamu",
+      "praardhane praakaaramu",
+      "praardhane praadhaanyamu",
+      "praardhana lenidhe paraajayam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రభువా ప్రార్ధన నేర్పయ్యా",
+        "ప్రార్ధించకుండా నే ఉండలేనయ్యా",
+        "నీ పాదాలు తడపకుండా నా పయనం సాగదయ్యా"
+      ],
+      "english": [
+        "Prabhuvaa praardhana nerpayyaa",
+        "praardhinchakundaa ne undalenayyaa",
+        "nee paadhalu thadapakunda naa payanam saagadhayaa"
+      ]
+    }
+  ]
+}

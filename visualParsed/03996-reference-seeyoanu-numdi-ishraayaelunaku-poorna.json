@@ -1,0 +1,79 @@
+{
+  "song_name": "Sampoorna rakshanayoota",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సంపూర్ణ రక్షణయూట - పొంగుచున్నది చూడుము",
+        "ప్రవహించే రక్షకుని ప్రక్క - గాయమునుండి ఎల్లెడల",
+        "సంపూర్ణ రక్షణ ప్రవహించె - శాశ్వత రక్తనదులు"
+      ],
+      "english": [
+        "Sampoorna rakshanayoota - Ponguchunnadhi choodumu",
+        "Pravahinche rakshakuni prakka - Gaayamunundi elledala",
+        "Sampoorna rakshana pravahinche - Shaashwatha rakthanadhulu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "హా! మహిమ ప్రత్యక్షత చూడు ఎడతెగని ప్రవాహము",
+        "శిక్షయును మచ్చల కడిగెను - హిమముకంటె ధవళముగా",
+        "పూర్ణరక్షణ నెరుగుటచేత - ఆశీర్వాదములు కల్గున్"
+      ],
+      "english": [
+        "Haa! mahima prathyakshatha choodu edathegani pravaahamu",
+        "Shikshayunu machchala kadigenu - Himamukante dhavalamugaa",
+        "Poornarakshana nerugutachetha - Aasheervaadhamulu kalgun"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అడ్డులేని ప్రేమ ప్రవాహం - ప్రవహించె నన్ని చోట్ల",
+        "శుద్ధముగానుంచును తలంపులను - వాంఛలను సదాకాలం",
+        "పాపమలిన శక్తినుంచి - సంపూర్ణమగు రక్షణ"
+      ],
+      "english": [
+        "Adduleni prema pravaaham - Pravahinche nanni chotla",
+        "Shuddhamugaanunchunu thalampulanu - Vaanchhalanu sadhaakaalam",
+        "Paapamalina shakthinunchi - Sampoornamagu rakshana"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నిత్యమోక్ష జీవము దిగెను - నా హృదయ ఆలయమందు",
+        "దేవుడు నరుడైక్యపడుట - ఆహా! ఎంతటి స్నేహమిది",
+        "క్రీస్తుతో దివ్యజీవమునకు - జేర్చబడిన రక్షణ"
+      ],
+      "english": [
+        "Nithyamoksha jeevamu dhigenu - Naa hrudaya aalayamandhu",
+        "Devudu narudaikyapaduta - Aahaa! enthati snehamidhi",
+        "Kreesthutho dhivyajeevamunaku - Jerchabadina rakshana"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "దుఃఖము చీకటి భయము సిగ్గు - చింత నావిక కానేరవు",
+        "నా రక్షకుడు ముందు నడుచును చీకటి లేదు విశ్వాసములో",
+        "సర్వసంపూర్ణమగు రక్షణ - శాశ్వతమగు రక్షణ"
+      ],
+      "english": [
+        "Duhkhamu cheekati bhayamu siggu - Chintha naavika kaaneravu",
+        "Naa rakshakudu mundu naduchunu cheekati ledu vishwaasamulo",
+        "Sarvasampoornamagu rakshana - Shaashvathamagu rakshana"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "song_name": "Jayahe Jayahe",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జయహే జయహే జయహే జయహే - జయ జయ దేవ సుథ",
+      "జయ జయ విజయ సుథ - జయహే జయహే జయహే జయహే"
+    ],
+    "english": [
+      "Jayahe Jayahe Jayahe Jayahe - Jaya Jaya Deva Sutha",
+      "Jaya Jaya Vijaya Sutha - Jayahe Jayahe Jayahe Jayahe"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సిలువలో పాపికి విడుదల కలిగెను, విడుదల కలిగెను",
+        "కలువరిలో నవ జీవన మొదవిను, జీవన మొదవిను",
+        "సిలువ పతాకకు జయమును గూర్చెను - సిలువ పతాకకు జయమును గూర్చెను",
+        "జయమని పాడెదను - నీ విజయము పాడెదను",
+        "నా విజయము పాడెదను",
+        "జయహే జయహే జయహే జయహే"
+      ],
+      "english": [
+        "Siluvalo Paapiki Vidudala Kaligenu, Vidudala Kaligenu",
+        "Kaluvarilo Nava Jeevana Modavinu, Jeevana Modavinu",
+        "Siluva Pathaakaku Jayamunu Goorchenu - Siluva Pathaakaku Jayamunu Goorchenu",
+        "Jayamani Paadedanu - Nee Vijayamu Paadedanu",
+        "Naa Vijayamu Paadedanu",
+        "Jayahe Jayahe Jayahe Jayahe"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శోధనలలో ప్రభు సన్నిధి దొరికెను, సన్నిధి దొరికెను",
+        "వేదనలే తన భూమిగా మారెను, భూమిగా మారెను",
+        "శోధన భాధలు బలమును గూల్చెను - శోధన భాధలు బలమును గూల్చెను",
+        "జయమని పాడెదను - నీ విజయము పాడెదను",
+        "నా విజయము పాడెదను",
+        "జయహే జయహే జయహే జయహే"
+      ],
+      "english": [
+        "Shodhanalalo Prabhu Sannidhi Dorikenu, Sannidhi Dorikenu",
+        "Vedanale Thana Bhoomigaa Maarenu, Bhoomigaa Maarenu",
+        "Shodhana Bhaadhalu Balamunu Goolchenu - Shodhana Bhaadhalu Balamunu Goolchenu",
+        "Jayamani Paadedanu - Nee Vijayamu Paadedanu",
+        "Naa Vijayamu Paadedanu",
+        "Jayahe Jayahe Jayahe Jayahe"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "స్వాన్తములో నిజ శాంతము లభించెను, శాంతి లభించెను",
+        "భ్రాంతులు వింతగా ప్రభు పర మాయెను, ప్రభు పర మాయెను",
+        "స్వాన్తమే సిలువకు సాక్షిగా వెలిసెను - స్వాన్తమే సిలువకు సాక్షిగా వెలిసెను",
+        "జయమని పాడెదను - నీ విజయము పాడెదను",
+        "నా విజయము పాడెదను",
+        "జయహే జయహే జయహే జయహే - జయ జయ దేవ సుథ",
+        "జయ జయ విజయ సుథ - జయహే జయహే జయహే జయహే"
+      ],
+      "english": [
+        "Svaanthamulo Nija Shaanthamu Labhinchenu, Shaanthi Labhinchenu",
+        "Bhraanthulu Vinthagaa Prabhu Para Maayenu, Prabhu Para Maayenu",
+        "Svaanthame Siluvaku Saakshigaa Velisenu - Svaanthame Siluvaku Saakshigaa Velisenu",
+        "Jayamani Paadedanu - Nee Vijayamu Paadedanu",
+        "Naa Vijayamu Paadedanu",
+        "Jayahe Jayahe Jayahe Jayahe - Jaya Jaya Deva Sutha",
+        "Jaya Jaya Vijaya Sutha - Jayahe Jayahe Jayahe Jayahe"
+      ]
+    }
+  ]
+}

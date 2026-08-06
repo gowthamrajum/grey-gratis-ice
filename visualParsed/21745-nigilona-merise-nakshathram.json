@@ -1,0 +1,64 @@
+{
+  "song_name": "Ningilona merise nakshathram",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "K Y Ratnam"
+    ],
+    "రచన": [
+      "కే వై రత్నం"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నింగిలోన మెరిసే - నక్షత్రం",
+      "లోకమంతటికి - వెలుగును చూప - (2)",
+      "యేసయ్య - పుట్టాడని",
+      "ఆయనే - రక్షకుడని - (2)",
+      "పూజించి - కొనియాడి పూజించి - కొనియాడి",
+      "ఆరాధన చేద్దాం",
+      "లోకానికి - వెలుగాయెనే పరలోకానికి - దారాయెనే -(2)",
+      "- \"నింగిలోన\""
+    ],
+    "english": [
+      "Ningilona merise - Nakshathram",
+      "Lokamanthatiki - Velugunu choopa - (2)",
+      "Yesayya - Puttaadani",
+      "Aayane - Rakshakudani - (2)",
+      "Poojinchi - Koniyaadi poojinchi - Koniyaadi",
+      "Aaraadhana cheddaam",
+      "Lokaaniki - Velugaayene paralokaaniki - Daaraayene -(2)",
+      "- \"Ningilona\""
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నశియించి పోతున్న లోకాన్ని చూసి",
+        "చీకటిలో ఉన్న నరులను చేర వాక్యమైయున్న దేవుడు",
+        "దీనుడై భువికొచ్చినాడు",
+        "సర్వోత్తన్నతమైన స్థలములలో దేవునికి మహిమ",
+        "ఆయన కిష్టులైన ప్రజలందరికీ సమాధానమూ....  ||నింగిలోన||"
+      ],
+      "english": [
+        "Nashiyinchi pothunna lokaanni choosi",
+        "Cheekatilo unna narulanu chera vaakyamaiyunna Devudu",
+        "Deenudai bhuvikochchinaadu",
+        "Sarvonnathamaina sthalamulalo Devuniki mahima",
+        "Aayana kishtulaina prajalandharikee samaadhaanamoo....  ||Ningilona||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపంలో ఉన్న ప్రతివాని కొరకు ప్రాణాన్ని అర్పింప పాకలో పవళించే - (2)",
+        "కరములు చాచియున్నాడు దరి చేరితే నిన్ను చేర్చుకుంటాడు(2)  ||నింగిలోన||"
+      ],
+      "english": [
+        "Paapamlo unna prathivaani koraku praanaanni arpimpa paakalo pavalinche - (2)",
+        "Karamulu chaachiyunnaadu dari cherithe ninnu cherchukuntaadu(2)  ||Ningilona||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "song_name": "Shree Raajilluchu Yaesu Kreesthu",
+  "author": {
+    "Authored by": "",
+    "రచన": "జాన్ చౌదరి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "శ్రీ రాజిల్లుచు యేసు క్రీస్తు వేంచేసెను",
+      "భారతిని జయించి ప్రజాళిన్ బ్రోచును!",
+      "ఆరాజు శాశ్వితుండు భూరిదయాళుఁడు వీరాగ్రేసరుండాజిన్ విజయ ధ్వజంబదె!"
+    ],
+    "english": [
+      "Shree Raajilluchu Yaesu Kreesthu Vaenchaesenu",
+      "Bhaarathini Jayinchi Prajaalin Broachunu!",
+      "Aaraaju Shaashvithundu Bhooridhayaaludu Veeraagraesarundaajin Vijaya Dhvajambadhe!"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆ హిమాచలమందు నాటెక్కె మెత్తెను కాహళ ధ్వనియందుఁ గ్రందుకొనెనటన్!",
+        "సౌహార్థ భావమూని జనాళిన్ బ్రోచుఁగ",
+        "ఆహా యీ యేసుప్రేమ యాశ్చర్యమైనది!"
+      ],
+      "english": [
+        "Aa Himaachalamandhu Naatekke Meththenu Kaahala Dhvaniyandhu Grandhukonenatan!",
+        "Sauhaartha Bhaavamooni Janaalin Broachuga",
+        "Aahaa Yee Yaesupraema Yaashcharyamainadhi!"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆంధ్ర కాశ్మీర వంగ ఆ సేతువాసులు ఆంధ్రప్రాయులైయున్న యరణ్యవాసులున్",
+        "బంధ విముక్తలౌచుఁ ప్రభువైన యేసుని బంధుర సేవచేయు వారలయ్యెదరు"
+      ],
+      "english": [
+        "Aandhra Kaashmeera Vanga Aa Saethuvaasulu Aandhrapraayulaiyunna Yaranyavaasulun",
+        "Bandha Vimukthalauchu Prabhuvaina Yaesuni Bandhura Saevachaeyu Vaaralayyedharu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వీరెల్లఁ క్రీస్తునందు విశ్వాసముంచిన ఆ రాజు వీరిన్",
+        "శాశ్వ తానంద సామ్రాజ్య ధౌరేయులన్ గావించు ఔర!",
+        "యీ వార్తను స్ఫారానందంబుతోడఁ జాటుదు రెవ్వరు!"
+      ],
+      "english": [
+        "Veerella Kreesthunandhu Vishvaasamunchina Aa Raaju Veerin",
+        "Shaashva Thaanandha Saamraajya Dhauraeyulan Gaavinchu Aura!",
+        "Yee Vaarthanu Sphaaraanandhambuthoada Jaatudhu Revvaru!"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "భేరీ తూరారవాది గా రక్షావార్తను దోరంపుఁ గోర్కెఁ",
+        "జాటు మో దేశ సంఘమా! సౌరభ్యమౌ నీ ప్రేమ సారంబు జూపుము",
+        "ధీరతన్ యుద్ధమందుఁ బోరాడి గెల్వుము"
+      ],
+      "english": [
+        "Bhaeree Thooraaravaadhi Gaa Rakshaavaarthanu Dhorampu Goarke",
+        "Jaatu Moa Dhaesha Sanghamaa! Saurabhyamau Nee Praema Saarambu Joopumu",
+        "Dheerathan Yudhdhamandhu Boaraadi Gelvumu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "song_name": "Nadpumee Mahaa Yehoavaa Loaka Yaathra Yandhuna",
+  "author": {
+    "Authored by": "",
+    "రచన": "విలియం విలియమ్స్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "నడ్పుమీ, మహా యెహోవా లోక యాత్ర యందున",
+      "నీదు శక్తి నాకు దిక్కు నన్ రక్షింపఁ జేఁపట్టు",
+      "దివ్య మన్నా, దివ్య మన్నా నా కాహారమై యుండు."
+    ],
+    "english": [
+      "Nadpumee, Mahaa Yehoavaa Loaka Yaathra Yandhuna",
+      "Needhu Shakthi Naaku Dhikku Nan Rakshimpa Jaepattu",
+      "Dhivya Mannaa, Dhivya Mannaa Naa Kaahaaramai Yundu."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఊటగా స్వచ్ఛజలంబు బండనుండి పారనీ",
+        "అగ్ని మేఘ స్తంభాలచే నడవిన్ నన్ దాఁటించుఁ",
+        "గొప్ప ప్రాపూ, గొప్ప ప్రాపూ నాకు డాలవు సదా."
+      ],
+      "english": [
+        "Ootagaa Svachchajalambu Bandanundi Paaranee",
+        "Agni Maegha Sthambhaalachae Nadavin Nan Dhaatinchu",
+        "Goppa Praapoo, Goppa Praapoo Naaku Daalavu Sadhaa."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యొర్దాన్ నది దాఁటు వేళ భీతు లెల్లఁ బాపుము",
+        "మృత్యు శ్రమ లన్ని నన్ను క్షేమ కానాన్ జేర్చును",
+        "స్తుతి గీతి, స్తుతి గీతి నీ కర్పింతు నిత్యము"
+      ],
+      "english": [
+        "Yordhaan Nadhi Dhaatu Vaela Bheethu Lella Baapumu",
+        "Mruthyu Shrama Lanni Nannu Kshaema Kaanaan Jaerchunu",
+        "Sthuthi Geethi, Sthuthi Geethi Nee Karpinthu Nithyamu"
+      ]
+    }
+  ]
+}

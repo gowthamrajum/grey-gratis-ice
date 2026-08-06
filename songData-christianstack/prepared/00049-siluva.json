@@ -1,0 +1,47 @@
+{
+  "song_name": "Siluva",
+  "author": {
+    "Authored by": "Pastor Vinod Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీలా లేరెవరు నీలా లేరెవరు",
+      "నన్ను ప్రేమించే వారు",
+      "నీలా లేరు యేసయ్య",
+      "నీలా లేరెవరు యేసయ్య",
+      "నీలా లేరెవరు నాకై ప్రాణమిచ్చేవారు",
+      "నీలా లేరు యేసయ్య ….",
+      "ఆరాధనా నీకే… నా ఆరాధనా నీకే",
+      "యేసయ్య నీకే…"
+    ],
+    "english": [
+      "Neelaa lerevaru neelaa lerevaru",
+      "Nannu preminchevaaru neelaa leru Yesayyaa",
+      "Neelaa lerevaru Yesayya naakai praanamicchevaaru",
+      "Neelaa leru Yesayyaa",
+      "Aaraadhana neeke naa aaraadhana neeke Yesayyaa neeke"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవు మోసిన ఆ సిలువ నాదే యేసయ్య",
+        "నీవు పొందిన కొరడ దెబ్బలు నావే యేసయ్య",
+        "నీ తలపై ముళ్ళ కిరీటం నాదే యేసయ్య",
+        "నీ చేతులకు మేకులు నావే యేసయ్య",
+        "నాపై శిక్షను తప్పించి నా స్థానములో",
+        "నాకు బదులుగా బలిఅయిన యేసయ్య"
+      ],
+      "english": [
+        "Neevu mosina siluva naadhe Yesayya",
+        "Neevu pondhina koradaa debbalu naave Yesayya",
+        "Nee thalapai mulla kireetam naadhe Yesayya",
+        "Nee chethulaku meekulu naave Yesayya",
+        "Naapai shikshanu thappinchi naa sthaanamulo",
+        "Naaku badhulugaa bali ayina Yesayyaa"
+      ]
+    }
+  ]
+}

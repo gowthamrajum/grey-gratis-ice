@@ -1,0 +1,68 @@
+{
+  "song_name": "Aanandhamtho sandadi cheddaam",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Padaala Suresh Babu"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆనందంతో సందడి చేద్దాం",
+      "సంతోషంతో చిందులు వేద్దాం"
+    ],
+    "english": [
+      "Aanandhamtho sandadi cheddaam",
+      "Santhoshamtho chindhulu veddaam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వచ్చిండు వచ్చిండు",
+        "ప్రియమైన నా యేసు",
+        "తెచ్చిండు తెచ్చిండు",
+        "లోకానికి రక్షణ తెచ్చిండు"
+      ],
+      "english": [
+        "Vachchindu vachchindu",
+        "Priyamaina naa Yesu",
+        "Thechchindu thechchindu",
+        "Lokaaniki rakshana thechchindu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపులకు రక్షణ కలిగింది",
+        "పాపానికి విరుగుడు తెచ్చింది",
+        "యేసయ్య నీ జన్మతో",
+        "మా జన్మ ధన్యమైయింది",
+        "నశియించిపోతున్న ఆత్మలకు",
+        "విడుదల కలిగింది",
+        "లోకమంతా వెలుగుతో మెరిసింది",
+        "మానవాళికి మోక్షం కలిగింది",
+        "యేసయ్య నీ జన్మతో",
+        "జగమంత సంతోషించింది",
+        "చీకటి నుండి వెలుగులోనికి",
+        "మనలను తెచ్చింది"
+      ],
+      "english": [
+        "Paapulaku rakshana kaligindhi",
+        "Paapaaniki virugudu thechchindhi",
+        "Yesayya nee janmatho",
+        "Maa janma dhanyamaiyindhi",
+        "Nashiyinchipothunna aathmalaku",
+        "Vidudala kaligindhi",
+        "Lokamanthaa velugutho merisindhi",
+        "Maanavaaliki moksham kaligindhi",
+        "Yesayya nee janmatho",
+        "Jagamantha santhoshinchindhi",
+        "Cheekati nundi veluguloniki",
+        "Manalanu thechchindhi"
+      ]
+    }
+  ]
+}

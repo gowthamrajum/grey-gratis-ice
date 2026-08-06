@@ -1,0 +1,43 @@
+{
+  "song_name": "Yesu Ni Krupalo Nanu Rakshimchitiva",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసూ నీ కృపలో నను రక్షించితివా నీ నిత్య రాజ్యములో చేర్చుటకు",
+      "నీ మహిమ నగరిలో దాచుటకా (2)",
+      "ప . . . ప . . . గమపనిప . . ."
+    ],
+    "english": [
+      "Yesu Ni Krupalo Nanu Rakshimchitiva Ni Nitya Rajyamulo Cherchutaku",
+      "Ni Mahima Nagarilo Dachutaka (2)",
+      "Pa . . . Pa . . . Gamapanipa . . ."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ సిలువ వార్తను లోకములోప్రకటించుటే నా భాగ్యమని (2)",
+        "నీవు గాక మరి దేవుడెవరయ్య (2) నిజ రక్షకుడవు నా యేసయ్య (2)"
+      ],
+      "english": [
+        "Ni Siluva Vartanu Lokamuloprakatimchute Na Bagyamani (2)",
+        "Nivu Gaka Mari Devudevarayya (2) Nija Rakshakudavu Na Yesayya (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపాంధకారము తొలగించితివి నీ దివ్యకాంతిలో స్ధిరపరచితివి (2)",
+        "యుగయుగములో నీవే దేవుడవు (2) ఆరాధింతును ఆత్మస్వరూప (2)"
+      ],
+      "english": [
+        "Papamdhakaramu Tolagimchitivi Ni Divyakamtilo Sdhiraparachitivi (2)",
+        "Yugayugamulo Nive Devudavu (2) Aradhimtunu Atmasvarupa (2)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "song_name": "Mahopakaaruda",
+  "author": {
+    "Authored by": "Joshua Shaik",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మహోపకారుడా – సజీవ దేవుడా",
+      "వరాల యేసయ్య – సదా స్తుతించెద",
+      "తరాలు మారిన యుగాలు దాటిన",
+      "నీ ప్రేమ శాశ్వతం నీ ప్రేమ అమృతం"
+    ],
+    "english": [
+      "Mahopakaarudaa – sajeeva devudaa",
+      "Varaala yesayya – sadaa stuthincheda",
+      "Tharaalu maarina yugaalu daatina",
+      "Nee prema shaashvatham nee prema amrutham"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆరాధ్య దైవమా – అపురూప బంధమా",
+        "నా హృదయ సీమలో- రవి కోటి తేజమా",
+        "ఎనలేని బాటలో – వెనువెంట నీడగా",
+        "బలహీన వేళలో – బలమైన కోటగా",
+        "ఉన్నావు తోడుగా – నా ప్రాణ స్నేహమై",
+        "కావాలి నీ కృపా – ఇల నాకు జీవమై",
+        "నా నీతి సూర్యుడా – నా యేసు దైవమా",
+        "నా జీవితాంతము – నను కాయు మేఘమా"
+      ],
+      "english": [
+        "Aaraadhya daivamaa – apuroopa bandhamaa",
+        "Naa hrudaya seemalo – Ravi koti tejama",
+        "Enaleni baatalo – venuventa needagaa",
+        "Balaheena velalo – balamaina kotagaa",
+        "Unnaavu thodugaa – naa praana snehamai",
+        "Kaavaali nee krupaa – ila naaku jeevamai",
+        "Naa neethi sooryudaa – naa yesu daivamaa",
+        "Naa jeevithaanthamu – nanu kaayu meghamaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నే కోరు సంపద – నీ ప్రేమ కౌగిలి",
+        "నీ జీవ వాక్యమే – నా క్షేమ లోగిలి",
+        "ఊహించలేనుగా – నీ చేతి కార్యము",
+        "వివరించలేనుగా – నీ గొప్ప త్యాగము",
+        "సీయోను సారధి – నీవేగ మాదిరి",
+        "విశ్వాస యాత్రలో – నా మంచి కాపరి",
+        "నా నీతి సూర్యుడా – నా యేసు దైవమా",
+        "నా జీవితాంతము – ఆధార దీపమా"
+      ],
+      "english": [
+        "Ne koru sampada – nee prema kougili",
+        "Nee jeeva vaakyame – naa kshema logili",
+        "Oohinchalenugaa – nee chethi kaaryamu",
+        "Vivarinchalenugaa – nee goppa thyaagamu",
+        "Seeyonu saaradhi – neevegaa maadiri",
+        "Vishwaasa yaathralo – naa manchi kaapari",
+        "Naa neethi sooryudaa – naa yesu daivamaa",
+        "Naa jeevithaanthamu – aadhaara deepamaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "song_name": "Nee Chitthamu",
+  "author": {
+    "Authored by": "Jeevan Wesley Olesu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "Lyrics:",
+      "పల్లవి:",
+      "నీ చిత్తము సంపూర్తిగా నాలో జరిగించుమా",
+      "నీ పరిపూర్ణ సంకల్పంలో నన్ను నడిపించుమా",
+      "నీ ఉద్దేశ్యములు – ఉన్నతమైనవి",
+      "నీ ఆలోచనలు – గంభీరమైనవి",
+      "నా పూర్ణ హృదయముతో – నా పూర్ణ ఆత్మతో",
+      "నా పూర్ణ మనస్సుతో – నా పూర్ణ శక్తితో",
+      "యేసు నిన్నే ప్రేమింతును -నీ ఆజ్ఞలను గైకొందును"
+    ],
+    "english": [
+      "Nii chitthamu sampuurthigaa naaloo jariginchumaa",
+      "Nii paripuurnna sankalpamloo nannu nadipinchumaa",
+      "Nii uddeasyamulu – unnathamainavi",
+      "Nii aalochanalu – ganbhiiramainavi",
+      "Naa puurnna hrudayamuthoo – naa puurnna sakthithoo",
+      "Yeasu ninnea preaminthunu – nii aagnyalanu gaikondunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా తల్లి గర్భమందు నన్ను నిర్మించినావు",
+        "నా అంతరింద్రియములను నీవే కలిగించినావు",
+        "నాయెడల నీకున్న తలంపులు",
+        "బహు విస్తారములు నా ప్రభువా",
+        "నీ ఇష్టమే నాలో నెరవేర్చుమా"
+      ],
+      "english": [
+        "Naa thalli garbhamandu nannu nirminchinaavu",
+        "Naa antharindriyamulanu niivea kaliginchinaavu",
+        "Naayadala niikunna thalampulu",
+        "Bhahu visthaaramulu naa prabhuvaa",
+        "Nii ishtamea naaloo nearavearchumaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీకు వేరుగా ఉండి నేనేమి చేయలేను",
+        "నీకు లోబడకుండా నేను వర్దిల్లలెను",
+        "నీ కట్టడలను నాకు బోధించి",
+        "నీ వాక్యంతో నన్ను నిలుపుము",
+        "నీ ఇష్టమే నాలో నేరవేర్చుమా"
+      ],
+      "english": [
+        "Niiku vearugaa undi neaneami cheayaleanu",
+        "Niiku loobadakundaa neanu vardillaleanu",
+        "Nii kattadalanu naaku boodinchi",
+        "Nii vaakyamthoo nannu nilupumu",
+        "Nii ishtamea naaloo nearavearchumaa"
+      ]
+    }
+  ]
+}

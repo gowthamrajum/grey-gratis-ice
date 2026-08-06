@@ -1,0 +1,104 @@
+{
+  "song_name": "Janminche Yesayya",
+  "author": {
+    "Authored by": "Jyothi Manohar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "జన్నించే యేసయ్య – నా లోనా",
+      "జన్నించాలి యేసయ్య – నీ లోనా"
+    ],
+    "english": [
+      "Janminchea yeasayya – naa loonaa",
+      "janminchaali yeasayya – nii loonaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇది సంతోష సమయం – ఆనంద సమయం",
+        "ఆర్బాట సమయం – ఆరాధన సమయం",
+        "ఆరాధన ఆరాధన ఆరాధన ఆరాధన"
+      ],
+      "english": [
+        "Idi santhoosha samayam – aanandha samayam",
+        "aarbhaata samayam – aaraadhana samayam",
+        "aaraadhana aaraadhana aaraadhana aaraadhana"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇమ్మానేయులు మన తోడు చూడు",
+        "వాగ్దానం ఇచ్చి నెరవేర్చచుతాడు",
+        "ఆరాధన ఆరాధన ఆరాధన ఆరాధన"
+      ],
+      "english": [
+        "Immanuealu mana thoodu chuudy",
+        "vaagdhanam icchi neravearchuthaadu",
+        "aaraadhana aaraadhana aaraadhana aaraadhana"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యేసయ్యే వెలుగు మనలో నింపాడు",
+        "ఆ వెలుగే మనము ఈ లోకమునకు",
+        "ఆరాధన ఆరాధన ఆరాధన ఆరాధన"
+      ],
+      "english": [
+        "Yeasayyea velugu manaloo nimpaadu",
+        "aa velugea manamu ee lookamunaku",
+        "aaraadhana aaraadhana aaraadhana aaraadhana"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఒక దినమున యేసయ్య రాకడ",
+        "ఆర్బాటముతో పరముకు చేరెదం",
+        "ఆరాధన ఆరాధన ఆరాధన ఆరాధన"
+      ],
+      "english": [
+        "Oka dhinamuna yeasayya raakada",
+        "aarbhaatamuthoo paramuku chearedham",
+        "aaraadhana aaraadhana aaraadhana aaraadhana"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "జన్నించే యేసయ్య – నా లోనా",
+        "జన్నించాలి యేసయ్య – నీ లోనా"
+      ],
+      "english": [
+        "Janminchea yeasayya – naa loonaa",
+        "janminchaali yeasayya – nii loonaa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఇది సంతోష సమయం – ఆనంద సమయం",
+        "ఆర్బాట సమయం – ఆరాధన సమయం",
+        "ఆరాధన ఆరాధన ఆరాధన ఆరాధన",
+        "హల్లెలూయా హల్లెలూయా",
+        "హల్లెలూయా ఆరాధన"
+      ],
+      "english": [
+        "Idi santhoosha samayam – aanandha samayam",
+        "aarbhaata samayam – aaraadhana samayam",
+        "aaraadhana aaraadhana aaraadhana aaraadhana"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [],
+      "english": [
+        "Hallelujah hallelujah halleluyah aaraadhana"
+      ]
+    }
+  ]
+}

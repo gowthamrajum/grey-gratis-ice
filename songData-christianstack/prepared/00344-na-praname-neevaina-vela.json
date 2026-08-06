@@ -1,0 +1,32 @@
+{
+  "song_name": "Na Praname Neevaina Vela",
+  "author": {
+    "Authored by": "Prabhavathi Ramesh",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రాణమే నీవైన వేళ – నీ తలపులె మదిలో మెదిలెనే",
+      "నా పాటకు పలికావే – నీ మాటకు రూపమునిచ్చావే",
+      "నా మౌనానికి భాషే నీవు – నా బ్రతుకుకు అర్ధం నీవు"
+    ],
+    "english": [
+      "Naa praaname neevaina vela – nee thalapule madhilo medhilene",
+      "naa paataku palikaave – nee maataku roopamu nichaave",
+      "naa mounaaniki baashe neevu – naa brathukuku artham neevu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "“ఆహా ఏమి అనుభవమో – ఇది ఎంతో అద్భుతమో”",
+        "“ఆహా ఏమి అనుభవమో – యేసుతో నా జీవితం”"
+      ],
+      "english": [
+        "Aha emi anubhavamo – idhi entho adbuthamo",
+        "aha emi anubhavamo – yesutho naa jeevitham"
+      ]
+    }
+  ]
+}

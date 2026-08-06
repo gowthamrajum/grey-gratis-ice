@@ -1,0 +1,85 @@
+{
+  "song_name": "Jagathiki punaadi veyaka munde janiyinchina prema",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Dr Amsumathi Mary"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "జగతికి పునాది వేయక ముందే జనియించిన ప్రేమ",
+      "జగతిలో నేను పుట్టకముందే నన్నెరిగిన ప్రేమా నన్నెరిగిన ప్రేమ",
+      "నన్నెరిగిన ప్రేమ ఏర్పరుచుకున్న ప్రేమ",
+      "నన్నెరిగిన ప్రేమ నన్నెన్నుకున్న ప్రేమ"
+    ],
+    "english": [
+      "Jagathiki punaadi veyaka munde janiyinchina prema",
+      "Jagathilo nenu puttakamundhe nannerigina premaa nannerigina prema",
+      "Nannerigina prema erparuchukunna prema",
+      "Nannerigina prema nannennukunna prema"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గర్భమునా పుట్టినది మొదలు నన్ను భరించిన ప్రేమ",
+        "తల్లి ఒడిలో కూర్చున్నది మొదలు చంకబెట్టిన ప్రేమ",
+        "చిరుప్రాయమునుండీ ముసలితనమువరకూ",
+        "యెత్తుకున్నప్రేమ హత్తుకున్న ప్రేమ",
+        "యెత్తుకున్న ప్రేమ నా యేసు ప్రేమ",
+        "యెత్తుకున్న ప్రేమా ఆ ఆ ఆ నా యేసు ప్రేమ (జగతికి)"
+      ],
+      "english": [
+        "Garbhamunaa puttinadhi modalu nannu bharinchina prema",
+        "Thalli odilo koorchunnadhi modalu chankabettina prema",
+        "Chirupraayamunundee musalithanamuvarakoo",
+        "Etthukunnaprema hatthukunna prema",
+        "Etthukunna prema naa Yesu prema",
+        "Etthukunna premaa aa aa aa naa Yesu prema (Jagathiki)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దూరస్తునిగా ఉన్నపుడు నను సంధించిన ప్రేమ",
+        "దారితొలగి తిరిగినయపుడు నను సమకూర్చిన ఫ్రేమ",
+        "మార్గము చూపించి మందలో నను చేర్చి",
+        "మార్గము చూపించి మందలో నను చేర్చి",
+        "సంధించిన ప్రేమ సమకూర్చిన ప్రేమ",
+        "సందించిన ప్రేమా నా యేసు ప్రేమ",
+        "సమకూర్చిన ప్రేమ నా యేసు ప్రేమ (జగతికి)"
+      ],
+      "english": [
+        "Dhoorasthunigaa unnapudu nanu sandhinchina prema",
+        "Dhaaritholagi thiriginayapudu nanu samakoorchina prema",
+        "Maargamu choopinchi mandhalo nanu cherchi",
+        "Maargamu choopinchi mandhalo nanu cherchi",
+        "Sandhinchina prema samakoorchina prema",
+        "Sandhinchina premaa naa Yesu prema",
+        "Samakoorchina prema naa Yesu prema (Jagathiki)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రక్షనపాత్రను అందించ రక్తముకార్చిన ప్రేమ",
+        "ముండ్లను శిరమున ధరియించి మకుటమునిచ్చిన ప్రేమ",
+        "నిరుపేదగ నిలచీ నన్ను ధనవంతుని చేసి",
+        "నిరుపేదగ నిలచీ నిను ధనవంతుని చేసి",
+        "రక్షించిన ప్రేమ రక్తం చిందించిన ప్రేమ",
+        "రక్షించిన ప్రేమా రక్తం చిందించిన ప్రేమ (జగతికి)"
+      ],
+      "english": [
+        "Rakshanapaathranu andhincha rakthamukaarchina prema",
+        "Mundlanu shiramuna dhariyinchi makutamunichchina prema",
+        "Nirupedhaga nilachee nannu dhanavanthuni chesi",
+        "Nirupedhaga nilachee ninu dhanavanthuni chesi",
+        "Rakshinchina prema raktham chindhinchina prema",
+        "Rakshinchina premaa raktham chindhinchina prema (Jagathiki)"
+      ]
+    }
+  ]
+}

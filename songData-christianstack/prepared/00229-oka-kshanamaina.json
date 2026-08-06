@@ -1,0 +1,191 @@
+{
+  "song_name": "Oka Kshanamaina",
+  "author": {
+    "Authored by": "Raja & Smiley Raja",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఒక క్షణమైనా విడిచి నేనుండలేనయ్యా",
+      "ఈ జీవితం నువ్వు చేసిన త్యాగమేనయ్యా",
+      "నీ మేలులు తలంచి చూస్తేనయ్యా",
+      "కన్నీరే సెలయేరై పొంగేనయ్యా"
+    ],
+    "english": [
+      "Oka kshanamaina vidichi nenu undalenayya",
+      "Ee jeevitam nuvvu chesina thyagamenayya",
+      "Nee melalu talanchi chustenayya",
+      "Kanniru selayerai pongenayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా దేవా నా దేవా కుంగిన మనస్సే చూశావయ్యా",
+        "నా దేవా నా దేవా నీ కృప నాపై చూపావయ్యా",
+        "నా దేవా నా దేవా నా జీవితమే మారిందయ్యా",
+        "నా దేవా నా దేవా నీ కృపలో నేనుంటానయ్యా",
+        "“ఒక క్షణమైనా”"
+      ],
+      "english": [
+        "Na deva, na deva, kungina manase chusavayya",
+        "Na deva, na deva, nee krupa napai chupavayya",
+        "Na deva, na deva, na jeevitame marindayya",
+        "Na deva, na deva, nee krupalo nenu untaanayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గర్భమందు నేపడిన తరుణంలో",
+        "ఒంటరిగా నేనున్న సమయంలో",
+        "ఏమియు కానరాని చీకటిలో",
+        "పిండముగా నేనున్న వేళలో"
+      ],
+      "english": [
+        "Garbhamandu ne padina tarunamlo",
+        "Ontariga ne unnappudu",
+        "Emi kanani chikati lo",
+        "Pindamuga ne unnappudu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అపాయమేమి రాకుండా కాపాడినావే",
+        "కంటికి రెప్పల కన్న తండ్రివై నన్ను కాచినావే",
+        "కేడెముగా నీ దయనే నాపై కప్పితివే",
+        "ప్రేమతో నాకే నీ రూపాన్నిచ్చావే"
+      ],
+      "english": [
+        "Apayamemi rakunda kapadavu",
+        "Reppala kanna tandri la nannu kachinavu",
+        "Nee daya nannu kapputho",
+        "Prema to naku nee roopannichav"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఎందుకు నాపై ఇంత ప్రేమయ్యా",
+        "ఎమిచ్చినా నీకై తక్కువేనయ్యా"
+      ],
+      "english": [
+        "Enduku napai intha premayya",
+        "Emi ichchina neekai takkuvenayya"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నా దేవా నా దేవా నా జీవితమే మారిందయ్యా",
+        "నా దేవా నా దేవా నీ కృపలో నేనుంటానయ్యా"
+      ],
+      "english": [
+        "Ayinavaru andaru vadili poyeru",
+        "Vadukoni andaru visiri poyeru",
+        "Panikirani gatham badhinchedi",
+        "Hridayam vedanatho nindindi"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "అయినవారె అందరూ వెలివేయగా",
+        "వాడుకొని అందరూ విసిరేయగా",
+        "పనికిరాని గతమే బాధించగా",
+        "హృదయమంత వేదనతో నిండగా"
+      ],
+      "english": [
+        "Virigina manasutho nenu ninnu cheranu",
+        "Kanniru tudichi nannu kapadavu",
+        "Badhalu vedanalu tolaginchavu",
+        "Nenu unna vaadini nee deggaraku techavu"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "విరిగిన నలిగిన మనసుతో",
+        "నిను చేరితినేనయ్యా",
+        "కన్నీరు తుడిచి కాపాడినావయ్యా",
+        "బాధలు వేదనలన్నీ తొలగించినావయ్యా"
+      ],
+      "english": [
+        "Nuvve tappa naakevaru leru",
+        "Lokani vadili, nenu nee kosam jeevistanu"
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "telugu": [
+        "నేనున్నా నీకని దరి చేరినావయ్య",
+        "నువు తప్ప నాకిలలో ఎవ్వరు వద్దయ్యా",
+        "లోకాన్ని విడిచి జీవింతు నేనయ్యా",
+        "తండ్రీ నీవు తప్ప నాకిలలో ఎవ్వరు వద్దయ్య",
+        "లోకాన్ని విడిచి జీవింతు నేనయ్యా"
+      ],
+      "english": [
+        "Papake banisai ne unnappudu",
+        "Panikirani patrai maaranu",
+        "Brathuku chikatitho nindina samayam",
+        "Maraname daggara undedi"
+      ]
+    },
+    {
+      "stanza_number": 9,
+      "telugu": [
+        "నా దేవా నా దేవా నా జీవితమే మారిందయ్యా",
+        "నా దేవా నా దేవా నీ కృపలో నేనుంటానయ్యా"
+      ],
+      "english": [
+        "Aakasham nunchi nakosam bhulokaniki vachav",
+        "Siluva meda raktham karchi, praanam ichchav",
+        "Na papaniki nenu edama kalagavu",
+        "Na atmani rakshinchav"
+      ]
+    },
+    {
+      "stanza_number": 10,
+      "telugu": [
+        "పాపానికే బానిసనై నేనుండగా",
+        "పనికిరాని పాత్రగా నే మారగా",
+        "బ్రతుకంతా చీకటితో నిండగా",
+        "మరణమే దగ్గరై నిలుచుండగా"
+      ],
+      "english": [
+        "Nee melalu maruvalenu praanama",
+        "Jeevitakalam anta neenu gaaninchutanu"
+      ]
+    },
+    {
+      "stanza_number": 11,
+      "telugu": [
+        "ఆకాశం నుండి నాకై భువికొచ్చావే",
+        "సిలువ మీద రక్తం కార్చి ప్రాణం పెట్టావే",
+        "పాపానికి నాకు ఎడమ కలగజేసావే",
+        "నసియించే ఆత్మనే రక్షింప చేసావే"
+      ],
+      "english": []
+    },
+    {
+      "stanza_number": 12,
+      "telugu": [
+        "ఏ మేలులు మరువకే ప్రాణమా",
+        "జీవితకాలం కీర్తించుమా",
+        "దేవుని ఏ మేలులు మరువకే ప్రాణమా",
+        "జీవితకాలం కీర్తించుమా…"
+      ],
+      "english": []
+    },
+    {
+      "stanza_number": 13,
+      "telugu": [
+        "నా దేవా నా దేవా నా జీవితమే మారిందయ్యా",
+        "నా దేవా నా దేవా నీ కృపలో నేనుంటానయ్యా"
+      ],
+      "english": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "song_name": "Ooruko hrudayamaa neelo",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఊరుకో హృదయమా - నీలో మత్సరమా",
+      "దేవునివైపు చూడుమా - ఆ చూపులో శాంతి గ్రోలుమా"
+    ],
+    "english": [
+      "Ooruko hrudayamaa - Neelo mathsaramaa",
+      "Dhevunivaipu choodumaa - Aa choopulo shaanthi grolumaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దుర్జనులను చూచి కలవరమేల",
+        "దుష్టులు వృద్ధిచెందగా ఆయాసమేల",
+        "నమ్మికతో ప్రభుని చిత్తముకై వేడు",
+        "తగినకాలములో నిను హెచ్చించును చూడు"
+      ],
+      "english": [
+        "Dhurjanulanu choochi kalavaramela",
+        "Dhushtulu vruddhichendhagaa aayaasamela",
+        "Nammikatho Prabhuni chitthamukai vedu",
+        "Thaginakaalamulo ninu hechchinchunu choodu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "విశ్రమించు ఆయన ఒడిలో హాయుగా",
+        "ధైర్యము వీడక కనిపెట్టు ఆశగా",
+        "ఆయన చల్లనిచూపే ప్రసాదించు శాంతి",
+        "కలిగించు సహనము తొలగించు బ్రాంతి"
+      ],
+      "english": [
+        "Vishraminchu aayana odilo haayugaa",
+        "Dhairyamu veedaka kanipettu aashagaa",
+        "Aayana challanichoope prasaadhinchu shaanthi",
+        "Kaliginchu sahanamu tholaginchu bhraanthi"
+      ]
+    }
+  ]
+}

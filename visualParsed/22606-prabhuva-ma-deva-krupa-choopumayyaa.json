@@ -1,0 +1,49 @@
+{
+  "song_name": "Prabhuvaa maa Devaa krupa choopumayyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Harsha Singavarapu"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభువా మా దేవా కృప చూపుమయ్యా",
+      "మా ప్రార్థన అంగీకరించుమయ్యా",
+      "ఈ తెగులు నుండి మమ్ము కాపాడుమయ్యా",
+      "స్వస్థత దయ చేయుమయ్యా",
+      "మా దేశాన్ని కాపాడుమయ్యా"
+    ],
+    "english": [
+      "Prabhuvaa maa Devaa krupa choopumayyaa",
+      "Maa praarthana angeekarinchumayyaa",
+      "Ee thegulu nundi mammu kaapaadumayyaa",
+      "Swasthatha daya cheyumayyaa",
+      "Maa dheshaanni kaapaadumayyaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఎటు చూసినా మరణ రోదనలు",
+        "అనాదలవ్తున్నా కుటుంబాలు ఎన్నో",
+        "చీకటిపాలైన బ్రతుకులను వెలుగుతో నింపుమయ్యా",
+        "ఒకసారి మాపై కృప చూపుమయ్యా",
+        "కరుణించి దయ చూపుమయ్యా",
+        "ఈ కీడు నుండి మమ్ము తప్పించుమయ్యా",
+        "ఈ కీడు నుండి దేశాన్ని కాపాడుమయ్యా"
+      ],
+      "english": [
+        "Etu choosinaa marana rodhanalu",
+        "Anaadhalavuthunna kutumbaalu enno",
+        "Cheekatipaalaina brathukulanu velugutho nimpumayyaa",
+        "Okasaari maapai krupa choopumayyaa",
+        "Karuninchi daya choopumayyaa",
+        "Ee keedu nundi mammu thappinchumayyaa",
+        "Ee keedu nundi dheshaanni kaapaadumayyaa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "song_name": "Ananthamu Nundi Ananthamu Varaku",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆనన్తము నున్డి అనన్తము వరకు జీవిన్చు ఢెవ",
+      "ణిత్యత్వము నున్డి, నిత్యత్వము వరకు నివసిన్చు ఢెవ",
+      "ఏఎ భువికి యెల్లలను నియమిన్చినావు సన్డ్రాలకు సరిహడ్దులు స్తపిన్చినావు",
+      "ణీ మహిమతొ నన్ను నిమ్పుము ణీ మహిమతొ నన్ను నిమ్పుము",
+      "ఆఅరడిన్తున్, ఆఅరడిన్తున్, ఆఅరదిన్తునూ ణిన్నె"
+    ],
+    "english": [
+      "Ananthamu Nundi Ananthamu Varaku Jeevinchu Deva",
+      "Nithyathvamu Nundi, Nithyathvamu Varaku Nivasinchu Deva",
+      "Ee Bhuviki Yellalanu Niyaminchinaavu Sandraalaku Sarihaddhulu Sthapinchinaavu",
+      "Nee Mahimatho Nannu Nimpumu Nee Mahimatho Nannu Nimpumu",
+      "Aaradinthun, Aaradinthun, Aaradhinthunoo Ninne"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "భూమ్యకశములు స్రుస్టిన్చినావు ణీ పొలికలొ నన్ను నిర్మిన్చినావు",
+        "ణీ చిట్తము నాలొ నెరవెర్చుము ఢెవ, ణీ కొరకై జీవిన్తును"
+      ],
+      "english": [
+        "Bhoomyakashamulu Srustinchinaavu Nee Polikalo Nannu Nirminchinaavu",
+        "Nee Chitthamu Naalo Neraverchumu Deva, Nee Korakai Jeevinthunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "Vఇశ్వమును నిరతమ్ పలిన్చువాడ ణీ హస్తముతొ నన్ను నడిపిన్చుము",
+        "ణీ రెక్కల వొడిలొనె నా క్శెమము ఢెవ ణా హ్రుడయము అర్పిన్తును"
+      ],
+      "english": [
+        "Vishvamunu Niratham Palinchuvaada Nee Hasthamutho Nannu Nadipinchumu",
+        "Nee Rekkala Vodilone Naa Kshemamu Deva Naa Hrudayamu Arpinthunu"
+      ]
+    }
+  ]
+}

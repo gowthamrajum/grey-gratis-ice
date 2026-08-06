@@ -1,0 +1,59 @@
+{
+  "song_name": "Konthasamayame migilinadhi Kreesthesu Prabhuvu thirigi vachchun",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "10:37",
+      "కొంతసమయమే మిగిలినది - క్రీస్తేసు ప్రభువు తిరిగి వచ్చున్",
+      "లేశమైనను జాగుచేయడు"
+    ],
+    "english": [
+      "10:37",
+      "Konthasamayame migilinadhi - Kreesthesu Prabhuvu thirigi vachchun",
+      "Leshamainanu jaagucheyadu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రభు వచ్చువరకు కనిపెట్టుము - నిశ్చయముగా ఆయన వచ్చును",
+        "ప్రభురాక నెవరు ప్రేమింతురో వారిని ప్రభువు కొనిపోవును"
+      ],
+      "english": [
+        "Prabhu vachchuvaraku kanipettumu - nishchayamugaa aayana vachchunu",
+        "Prabhuraaka nevaru premintharo vaarini Prabhuvu konipovunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆయన రాకడ సమీపము - సహవాసములో నిలిచియుండి",
+        "ప్రభు వాక్యమునకు లోబడియు - ఆయన కొరకై కనిపెట్టెదం"
+      ],
+      "english": [
+        "Aayana raakada sameepamu - sahavaasamulo nilichiyundi",
+        "Prabhu vaakyamunaku lobadiyu - aayana korakai kanipettedam"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అడుగంటుచున్నది ఆత్మీయత - అందరి ప్రేమలు చల్లారెగా",
+        "కన్నులు తెరచి మేల్కొనుడి - విడువబడిన మీగతి యేమగున్",
+        "5. నోవహు కాలమున్ స్మరియింతుము - సమస్తమును దిద్దుకొని",
+        "విడుదల దిన మాసన్నమాయె - విమోచనా విశ్రాంతి నిచ్చు"
+      ],
+      "english": [
+        "Adugantuchunnadhi aathmeeyatha - andari premalu challaaregaa",
+        "Kannulu therachi melkonudi - viduvabadina meegathi yemagun",
+        "5. Novahu kaalamun smariyinthumu - samasthamunu dhiddhukoni",
+        "Vidudala dina maasannamaaye - vimochanaa vishraanthi nichchu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "song_name": "Sthuthi Geethamu",
+  "author": {
+    "Authored by": "Joel Kodali",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ వాత్సల్యమును – నీ కారుణ్యమును",
+      "స్మరియించుచు దేవా",
+      "నే పాడేదనూ స్తుతి గీతము",
+      "నే పాడేదనూ స్తుతి గీతము",
+      "ఈ గీతము స్తుతిగీతము అంకితము నీకే ప్రభు",
+      "కృతజ్ఞతతో నిను పొగిడెదను నే పాడుచు స్తుతిగీతము"
+    ],
+    "english": [
+      "Nee vaathsalyamunu – nee kaarunyamunu smariyinchuchu devaa",
+      "ne paadedhanu sthuthi geethamu",
+      "ne paadedhanu sthuthi geethamu",
+      "ee geethamu sthuthi geethamu ankithamu neeke prabhu",
+      "kruthagnathatho ninu pogidedhanu ne paaduchu sthuthi geethamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు నీ అద్భుత ప్రేమ నేనేల మరిచెద దేవా",
+        "నీ ప్రేమ మాధుర్యమును రుచి చూచి యెరిగినవాడను",
+        "ఎండిన నా బ్రతుకులో జీవముగా నీవు చేరితివి",
+        "నీ ప్రేమ జలములతో నను తడిపి బ్రతికించితివి"
+      ],
+      "english": [
+        "Yesu nee adbutha prema nenela marichedha devaa",
+        "nee prema maadhuryamunu ruchi choochi yeriginavaadanu",
+        "endina naa brathukulo jeevamugaa neevu cherithivi",
+        "nee prema jalamulatho nanu thadipi brathikinchithivi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపమును ఎరుగని దేవా నాకై పాపముగా మారి",
+        "నా వ్యసనములను భరియించి సిలువలో ప్రాణము విడిచితివి",
+        "అమూల్యమైన నీ రక్తముచే నను నీవు విమోచించితివి",
+        "నీ ప్రేమ లోతులలో శాశ్వతముగా నను బందించితివి"
+      ],
+      "english": [
+        "Paapamunu erugani devaa naakai paapamuga maari",
+        "naa vyasanamulanu bhariyinchi siluvalo praanamu vidichithivi",
+        "amulyamaina nee rakthamuche nanu neevu vimochinchithivi",
+        "nee prema lothulalo saasvathamugaa nanu bandhinchithivi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ కల్వరి యాగం – కనపరచిన ప్రేమ",
+        "తలపోయుచు దేవా",
+        "నే పాడేదనూ స్తుతి గీతము",
+        "నే పాడేదనూ స్తుతి గీతము",
+        "ఈ గీతము స్తుతిగీతము అంకితము నీకే ప్రభు",
+        "కృతజ్ఞతతో నిను పొగిడెదను నే పాడుచు స్తుతిగీతము"
+      ],
+      "english": [
+        "Nee kalvari yaagam – kanaparachina prema",
+        "thalapoyuchu deva",
+        "ne paadedhanu sthuthi geethamu",
+        "ne paadedhanu sthuthi geethamu",
+        "ee geethamu sthuthi geethamu ankithamu neeke prabhu",
+        "kruthagnathatho ninu pogidedhanu ne paaduchu sthuthi geethamu"
+      ]
+    }
+  ]
+}

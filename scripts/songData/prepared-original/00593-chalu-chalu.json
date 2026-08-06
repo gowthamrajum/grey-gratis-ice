@@ -1,0 +1,35 @@
+{
+  "song_name": "Chalu Chalu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "చాలు చాలు చాలు నాకు యేసు చాలు చాలు చాలు (2)"
+    ],
+    "english": [
+      "Chalu chalu chalu Naku yesu chalu chalu chalu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అమ్మ నాన్న కన్నా నా యేసుని ప్రేమ మిన్న నన్ను తన కౌగిట్లో తను హత్తుకుంటాడు"
+      ],
+      "english": [
+        "Amma nanna kanna na yesuni prema minna Nannu tana kaugitlo tanu hattukumtadu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అక్కా అన్న కన్నా నా యేసుని ప్రేమ మిన్న నాతో ఆటలాడి సరదాగా వుంటాడు"
+      ],
+      "english": [
+        "Akka anna kanna na yesuni prema minna Nato ataladi saradaga vumtadu"
+      ]
+    }
+  ]
+}

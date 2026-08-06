@@ -1,0 +1,45 @@
+{
+  "song_name": "Rajulaku Rajaina",
+  "author": {
+    "Authored by": "Bro. Emmanuel",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "Come Everybody",
+      "Lets meet before the lord our Maker"
+    ],
+    "english": [
+      "Come Everybody",
+      "Lets meet before the lord our Maker"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రాజులకు రాజైన యేసయ్య",
+        "ప్రభువులకు ప్రభువైన యేసయ్య",
+        "పరమునుండి దిగి వచ్చిన యేసయ్య",
+        "నా బ్రతుకంతా మార్చినావ యేసయ్య"
+      ],
+      "english": [
+        "Raajulaku raajaina yesayya",
+        "prabhuvulaku prabhuvaina yesayya",
+        "paramunundi dhigi vachina yesayya",
+        "naa brathukanthaa maarchinaava yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "We Wish you Happy Christmas",
+        "We Wish you Merry Christmas"
+      ],
+      "english": [
+        "We Wish you Happy Christmas",
+        "We Wish you Merry Christmas"
+      ]
+    }
+  ]
+}

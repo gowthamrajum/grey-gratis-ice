@@ -1,0 +1,67 @@
+{
+  "song_name": "Hallelooya ani paadisthuthimpanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "హల్లెలూయ అని పాడిస్తుతింపను",
+      "రారే జనులారా మనసార ఊరూర",
+      "రారే జనులారా ఊరూర నోరార"
+    ],
+    "english": [
+      "Hallelooya ani paadisthuthimpanu",
+      "Raare janulaaraa manasaara ooroora",
+      "Raare janulaaraa ooroora noraara"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాడిపంటలనిచ్చి పాలించు దేవుడని",
+        "కూడుగుడ్డనిచ్చి పోషించు దేవుడని",
+        "తోడు నీడగ నిన్ను కాపాడు నాదుడని",
+        "పూజించి పూజించి పాటించి చాటించరారె ||హల్లే||"
+      ],
+      "english": [
+        "Paadipantalanichchi paalinchu devudani",
+        "Kooduguddanichchi poshinchu devudani",
+        "Thodu needaga ninnu kaapaadu naathudani",
+        "Poojinchi poojinchi paatinchi chaatincharaare ||Halle||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తాత ముత్తవుల కన్న ముందున్న దేవుడని",
+        "తల్లిదండ్రులకన్న ప్రేమించు దేవుడని",
+        "కల్లాకపటములేని కరునా సంపన్నుడని",
+        "పూజించి పూజించి పాటించి చాటించరారే ||హల్లే||"
+      ],
+      "english": [
+        "Thaatha mutthavula kanna mundunna devudani",
+        "Thallidhandrulakanna preminchu devudani",
+        "Kallaakapatamuleni karunaa sampannudani",
+        "Poojinchi poojinchi paatinchi chaatincharaare ||Halle||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "బంధుమిత్రులకన్న బలమైన దేవుడని",
+        "అన్నదమ్ముళ్ళకన్న ప్రియమైన దేవుడని",
+        "కన్నబిడ్డలకన్న కన్నుల పండుగని",
+        "పూజించి పూజించ పాటించి చాటించరారే ||హల్లే||"
+      ],
+      "english": [
+        "Bandhumithrulakanna balamaina devudani",
+        "Annadhammullakanna priyamaina devudani",
+        "Kannabiddalakanna kannula pandugani",
+        "Poojinchi poojinchi paatinchi chaatincharaare ||Halle||"
+      ]
+    }
+  ]
+}

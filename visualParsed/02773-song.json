@@ -1,0 +1,76 @@
+{
+  "song_name": "Anthya dinamandu dootha boora noodhu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "అంత్య దినమందు దూత",
+      "బూర నూదు చుండగా",
+      "నిత్యవాసరంబు తెల్లవారగా",
+      "రక్షణందుకొన్నవారి",
+      "పేళ్లు పిల్చుచుండగా",
+      "నేను కూడ చేరియుందునచ్చటన్",
+      "||నేను కూడ చేరియుందున్",
+      "నేను కూడ చేరియుందున్",
+      "నేను కూడ చేరియుందున్",
+      "నేను కూడ చేరి యుందు నచ్చ",
+      "టన్||"
+    ],
+    "english": [
+      "Anthya dinamandu dootha",
+      "boora noodhu chundagaa",
+      "nithyavaasarambu thellavaaragaa",
+      "rakshanandhukonnavaari",
+      "pellu pilchuchundagaa",
+      "nenu kooda cheriyundhunachchatan",
+      "||Nenu kooda cheriyundhun",
+      "nenu kooda cheriyundhun",
+      "nenu kooda cheriyundhun",
+      "nenu kooda cheri yundhu nachcha",
+      "tan||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "క్రీస్తునందు మృతులైన",
+        "వారు లేచి క్రీస్తుతో",
+        "పాలుపొందునట్టి యుదయంబునన్",
+        "భక్తులార కూడిరండి",
+        "యంచు బిల్చుచుండగా",
+        "నేను కూడ చేరియుందు నచ్చటన్."
+      ],
+      "english": [
+        "Kreesthunandu mruthulaina",
+        "vaaru lechi Kreesthutho",
+        "paalupondhunatti yudhayambunan",
+        "bhakthulaara koodirandi",
+        "yanchu bilchuchundagaa",
+        "nenu kooda cheriyundhu nachchatan."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కాన యేసుసేవ ప్రత్య",
+        "హంబు చేయుచుండి నే",
+        "క్రీస్తునద్భుతంపు ప్రేమచాటున్",
+        "కృప నొందు వారి పేళ్లు",
+        "యేసు పిల్చుచుండగా",
+        "నేను కూడ చేరియుందునచ్చటన్"
+      ],
+      "english": [
+        "Kaana Yesuseva prathya",
+        "hambu cheyuchundi ne",
+        "Kreesthunadbhuthampu premachaatun",
+        "krupa nondhu vaari pellu",
+        "Yesu pilchuchundagaa",
+        "nenu kooda cheriyundhunachchatan"
+      ]
+    }
+  ]
+}

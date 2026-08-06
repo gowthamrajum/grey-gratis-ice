@@ -1,0 +1,47 @@
+{
+  "song_name": "Neeve Naa Devudavu",
+  "author": {
+    "Authored by": "Kripal Mohan",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవే నా దేవుడవు ఆరాధింతును",
+      "నీవే నా రాజువు కీర్తించెదను"
+    ],
+    "english": [
+      "Neeve Naa Dhevudavu Aaraadhinthunu",
+      "Neeve Naa Raajuvu Keerthinchedanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మరణమును జయించిన మృత్యుంజయుడవు నీవే",
+        "మరణమునుండి జీవముకు నను దాటించావు",
+        "పరలోకమునుండి వెలుగుగా వచ్చి మార్గము చూపితివి",
+        "చీకటినుండి వెలుగునకు నను నడిపించావు"
+      ],
+      "english": [
+        "Maranamunu Jayinchina Mruthyunjayudavu Neeve",
+        "Maranamunundi Jeevamuku Nanu Dhaatinchaavu",
+        "Paralokamunundi Veluguga Vachchi Maargamu Choopithivi",
+        "Cheekatinundi velugunaku Nanu Nadipinchaavu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "హోసన్నా మహిమా నీకే",
+        "హోసన్నా ప్రభావము రాజునకే",
+        "నీవే నీవే నీవే నీవే"
+      ],
+      "english": [
+        "Hosanna Mahima Neeke",
+        "Hosanna Prabhaavamu Raajunake",
+        "Neeve Neeve Neeve Neeve"
+      ]
+    }
+  ]
+}

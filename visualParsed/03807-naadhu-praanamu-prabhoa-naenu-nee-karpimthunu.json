@@ -1,0 +1,80 @@
+{
+  "song_name": "Naadu praanamu Prabho nenu nee karpinthunu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నాదు ప్రాణము ప్రభో - నేను నీ కర్పింతును",
+        "నాదు చేతులెప్పుడు - నీదు సేవ చేయనీ"
+      ],
+      "english": [
+        "Naadu praanamu Prabho - Nenu nee karpinthunu",
+        "Naadu chethuleppudu - Needu seva cheyanee"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాదు కాళ్ళు లెస్సగా - నీదు త్రోవ నడ్వనీ",
+        "నాదు స్వర మెప్పుడు - నీదు స్తుతి పాడని"
+      ],
+      "english": [
+        "Naadu kaallu lessagaa - Needu throva nadvanee",
+        "Naadu swara meppudu - Needu sthuthi paadanee"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నాదు నోరు నిత్యము - నీదు బోధ పల్కనీ",
+        "నాదు సొమ్ము సొత్తులు - నీకు నిత్తునెప్పుడు"
+      ],
+      "english": [
+        "Naadu noru nithyamu - Needu bodha palkanee",
+        "Naadu sommu soththulu - Neeku niththuneppudu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీదు కాలమంతయు - నిన్ను బ్రస్తుతింపనీ",
+        "బుద్ధిపూర్వకంబుగా - నిన్ను నేను కొల్వనీ"
+      ],
+      "english": [
+        "Needu kaalamanthayu - Ninnu prasthuthimpanee",
+        "Buddhipoorvakambugaa - Ninnu nenu kolvanee"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "సొంతమేలు గోరక - నీదు కీర్తి గోరుచు",
+        "నాదు నంతరంగము - స్వీకరించి యేలుము"
+      ],
+      "english": [
+        "Sonthamelu goraka - Needu keerthi goruchu",
+        "Naadu nantharangamu - Sweekarinchi yelumu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నాదు నిండు ప్రేమను - నీకర్పింతు నెప్పుడు",
+        "నన్ను నీదు సొత్తుగా - నీవంగీకరింపుము"
+      ],
+      "english": [
+        "Naadu nindu premanu - Neekarpinthu neppudu",
+        "Nannu needu sotthugaa - Neevangeekarimpumu"
+      ]
+    }
+  ]
+}

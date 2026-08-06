@@ -1,0 +1,55 @@
+{
+  "song_name": "Adhaarama Naa Yesayya",
+  "author": {
+    "Authored by": "Joshua Shaik",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆధారమా నా యేసయ్య",
+      "ఆలించుమా నా ప్రార్ధన",
+      "మదిలోని ప్రతి భారం – మనసార పాడే మౌన గీతం",
+      "నీకే ఆలాపన – ప్రియమైన ఆరాధన"
+    ],
+    "english": [
+      "Adhaarama naa yesayya – alinchuma naa prardhana",
+      "madhiloni prathi bhaaram – manasaara paade mounageetham",
+      "neeke alaapana – priyamaina araadhana"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏది గెలుపు – ఏది మలుపు",
+        "తలచి చూడ – నిదుర రాదేఓటమైన – ఒంటరైన",
+        "కరుణ చూపి – నడిపినావు",
+        "వ్యధలలోన – విసిగిపోయి – పాదములనే చేరగా",
+        "స్థితిని చూచి – స్తుతిగ మార్చి – దీవెనలతో నింపవా",
+        "దీవెనలతో నింపవా",
+        "నీదు వదనం – కాంతి కిరణం",
+        "కనులలోని – ప్రేమ మధురంఎదురు చూసే – జీవ గమనం",
+        "బదులు పంపే – సిలువ రుధిరం",
+        "కడలిలోన – కరముచాపి – ఆదరించే దైవమా",
+        "దీనురాలి – దరికిచేరి – దీవెనలతో నింపవా",
+        "దీవెనలతో నింపవా"
+      ],
+      "english": [
+        "Yedhi gelupu – yedhi malupu",
+        "talachichooda nidura raadhe",
+        "otamaina – ontarina",
+        "karunachoopi – nadipinaavu",
+        "vyadhalalona visigipoyi – paadhamulane cheragaa",
+        "sthithini choosi – sthuthiga maarchi – dheevenalatho nimpava",
+        "dheevenalatho nimpava",
+        "Needhu vadhanam – kaanthi kiranam",
+        "kanulaloni – prema madhuram",
+        "yedhuruchoose – jeeva gamanam",
+        "badhulu pampe – siluva rudhiram",
+        "kadalilona karamu chaapi adharinche dhaivama",
+        "dheenuraali dhariki cheri – dheevenalatho nimpava",
+        "dheevenalatho nimpava"
+      ]
+    }
+  ]
+}

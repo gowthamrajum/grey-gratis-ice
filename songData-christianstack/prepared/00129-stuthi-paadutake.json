@@ -1,0 +1,56 @@
+{
+  "song_name": "Stuthi Paadutake",
+  "author": {
+    "Authored by": "Pastor Samuel Pammi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "స్తుతి పాడుటకే నను బ్రతికించిన",
+      "నిను ఘనపరచుటకే నను నిలబెట్టిన (2)"
+    ],
+    "english": [
+      "Sthuti paadutake nanu bratikinchina",
+      "ninu ghanaparachutake nanu nilabettina"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ ప్రేమను మరువనయ్యా",
+        "యేసూ నిను విడువనయ్యా",
+        "నీకే ఈ జీవితమయ్యా",
+        "నీ సాక్షిగా బ్రతికెదనయ్యా"
+      ],
+      "english": [
+        "Nee premanu maruvanayya",
+        "yesu ninu viduvanayya",
+        "neeke ee jeevitamayya",
+        "nee saakshiga bratikedanayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సృష్టి కర్త యేసుదేవా నిన్ను నేను స్తుతియించెద",
+        "నీ నీతినే ప్రచురించేద"
+      ],
+      "english": [
+        "Srushti karta yesudevaa ninnu nenu sthutiyincheda",
+        "nee neetine prachurinkeda"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సృష్టి కర్త జీవాధాత నిన్ను నేను ఆరాధించెద",
+        "నీ కార్యములనే వివరించెద"
+      ],
+      "english": [
+        "Srushti karta jeevaadhaata ninnu nenu aaraadhincheda",
+        "nee kaaryamulane vivarinkeda"
+      ]
+    }
+  ]
+}

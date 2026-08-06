@@ -1,0 +1,49 @@
+{
+  "song_name": "Yesayya Katha",
+  "author": {
+    "Authored by": "Pastor Philip Gariki",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దావీదు వంశంలో – బెత్లేము గ్రామములో",
+      "యేసయ్యా జన్మించెను",
+      "యేసయ్య కథ వింటే రక్షణ కలుగును",
+      "మార్గము సత్యం జీవము",
+      "ఇది ఇమ్మనుయేలుని ధన్య చరితం",
+      "పరిశుద్ధ దేవుని దివ్య రచితం",
+      "నమ్మిన వారికి కలుగును జీవము",
+      "పరిశుద్ధ ఆత్ముని కార్య ఫలితం"
+    ],
+    "english": [
+      "Dhaveedhu vamsamlo – bethlemu graamamlo",
+      "yesayya janminchenu",
+      "yesayya katha vinte rakshana kalugunu",
+      "maargamu sathyam jeevamu",
+      "idhi immaanuyeluni dhanya charitham",
+      "parishuddha dhevuni divya rachitham",
+      "nammina vaariki kalugunu jeevamu",
+      "parishuddha aathmuni kaarya phalitham"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గొల్లలు జ్ఞానులు చాటారు రక్షకుని",
+        "మహిమ పరిచిరి సాక్ష్యములు ఇచ్చిరి",
+        "హల్లెలూయ హలలెలూయ దూతల గానాలు",
+        "హల్లెలూయ హల్లెలూయ",
+        "హల్లెలూయ హల్లెలూయ రక్షణ స్తోత్రాలు",
+        "అరె హల్లెలూయ హల్లెలూయ"
+      ],
+      "english": [
+        "Gollalu gnaanulu chaataaru rakshakuni",
+        "mahima parichiri saakshamulu ichiri",
+        "halleluya halleluya",
+        "halleluya halleluya rakshana stothraalu",
+        "arey halleluya halleluya"
+      ]
+    }
+  ]
+}

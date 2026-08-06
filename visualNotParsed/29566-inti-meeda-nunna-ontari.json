@@ -1,0 +1,54 @@
+{
+  "song_name": "Inti meeda nunna ontari pichchukanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఇంటి మీద నున్న ఒంటరి పిచ్చుకను నేను",
+      "కన్నీటితో కృంగి పోతున్నాను (2)",
+      "నా యేసయ్యా నా బలమా (2)",
+      "నా దీన ప్రార్థన ఆలకించుమా ||ఇంటి మీద||"
+    ],
+    "english": [
+      "Inti meeda nunna ontari pichchukanu nenu",
+      "Kanneetitho krungi pothunnaanu (2)",
+      "Naa Yesayyaa naa balamaa (2)",
+      "Naa deena praarthana aalakinchumaa ||Inti meeda||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వెతకాని బాణమును చేయుచుండె గాయములు",
+        "అపవాది కోరలు కోరుచుండె ప్రాణమును – (2)",
+        "నీ బాలి పీఠము చెంత నాకు చోటునీయుమా (2)",
+        "ఆలకించుమా ఆదరించుమా (2)  ||ఇంటి||"
+      ],
+      "english": [
+        "Vetakaani baanamunu cheyuchunde gaayamulu",
+        "Apavaadi koralu koruchunde praanamunu – (2)",
+        "Nee bali peethamu chentha naaku chotuneeyumaa (2)",
+        "Aalakinchumaa aadarinchumaa (2)  ||Inti||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తెలిసి తెలిసి చేసితిని ఎన్నెన్నో పాపములు",
+        "తరచి తరచి చూచినా తరగవు నా దోషములు – (2)",
+        "నీ ఆత్మను కోల్పోయిన దీనుడను నేను (2)",
+        "ఆలకించుమా ఆదరించుమా (2)  ||ఇంటి||"
+      ],
+      "english": [
+        "Thelisi thelisi chesithini ennenno paapamulu",
+        "Tharachi tharachi choochinaa tharagavu naa doshamulu – (2)",
+        "Nee aathmanu kolpoyina deenudanu nenu (2)",
+        "Aalakinchumaa aadarinchumaa (2)  ||Inti||"
+      ]
+    }
+  ]
+}

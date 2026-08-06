@@ -1,0 +1,54 @@
+{
+  "song_name": "Choodaalani undi Yesuni cheraalani undi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "చూడాలని ఉంది యేసుని చేరాలని ఉంది",
+      "నాలోపలి ఆశలు వివరించాలని ఉంది (2)"
+    ],
+    "english": [
+      "Choodaalani undi Yesuni cheraalani undi",
+      "Naalopali aashalu vivarinchaalani undi (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పొంగే వాగులలో యేసుని ధ్వని వినిపించె",
+        "పూచే పువ్వులలో ఆయనే నాకు కనిపించే",
+        "మనసారా ఆ పాటను పాడలని ఆనిపించే",
+        "చెప్పాలని ఉంది యేసుతో చెప్పాలవి ఉంది",
+        "జీవితమంతా యేసుతో నే గడపాలని ఉంది"
+      ],
+      "english": [
+        "Ponge vaagulalo Yesuni dhvani vinipinche",
+        "Pooche puvvulalo aayane naaku kanipinche",
+        "Manasaaraa aa paatanu paadaalani anipinche",
+        "Cheppaalani undi Yesutho cheppaalani undi",
+        "Jeevithamanthaa Yesutho ne gadapaalani undi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నాలో విచేవి పరిమళాల వనమంతా",
+        "యేసుని శ్రతులెన్నొ వెదజల్లె పూలవనమంతా",
+        "ఈ చిరుగాలి దొంతరలు ఊగి నా తనువంతా",
+        "చెప్పాలని ఉంది యేసుతో చెప్పాలని ఉంది",
+        "జీవితమంతా యేసుతో నే గడపాలని ఉంది"
+      ],
+      "english": [
+        "Naalo vichche parimalaala vanamanthaa",
+        "Yesuni shruthulenno vedhajalle poolavanamanthaa",
+        "Ee chirugaali dhontharalu oogi naa thanuvanthaa",
+        "Cheppaalani undi Yesutho cheppaalani undi",
+        "Jeevithamanthaa Yesutho ne gadapaalani undi"
+      ]
+    }
+  ]
+}

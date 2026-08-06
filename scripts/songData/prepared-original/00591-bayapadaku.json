@@ -1,0 +1,35 @@
+{
+  "song_name": "Bayapadaku",
+  "author": {
+    "Authored by": "Bro  Akumarthi Daniel",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "భయపడకు భయపడకు నీ పయనం సాగించు నీతోడు యేసు నడచును ఇది నిజము (2)"
+    ],
+    "english": [
+      "Bayapadaku bayapadaku ni payanam saginchu Nithodu yesu nadachunu idi nijamu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కోడి తన పిల్లలను రెక్కలతో కాచు రీతి యేసయ్య తన బాహువులో నిన్నునూ దాచును నీ ఎండ వేళలో మేఘమై నిలుచును యేసు (2) నీవు చలికి వణకు నపుడు అగ్నిగా కాపాడున్"
+      ],
+      "english": [
+        "Kodi thana pillalanu rekkalato kachu rithi Yesayya tana bahuvulo ninnunu dachunu Ni emda velalo megamai niluchunu yesu (2) Nivu chaliki vanaku napudu agniga kapadun"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గర్జించు సింహములా సాతాను పొంచివున్నను యూదా గోత్రపు సింహమై ప్రభు నిన్ను కాచును అగ్నిలోబడి వెళ్ళినను జ్వాల నిను కాల్చదు (2) వాగ్ధానమిచ్చిన యేసు నెరవేర్చుదేవుడు"
+      ],
+      "english": [
+        "Garjimchu simhamula satanu pomchivunnanu Yuda gotrapu simhamai prabu ninnu kachunu Agnilobadi vellinanu jvala ninu kalchadu (2) Vagdhanamichchina yesu neraverchudevudu"
+      ]
+    }
+  ]
+}

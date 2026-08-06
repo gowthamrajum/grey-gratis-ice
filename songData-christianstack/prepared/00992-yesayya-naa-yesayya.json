@@ -1,0 +1,68 @@
+{
+  "song_name": "Yesayya Naa Yesayya",
+  "author": {
+    "Authored by": "Bro Ravi Gosala",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసయ్య నా యేసయ్య",
+      "నీవు తప్ప నాకు ఎవరున్నారయా",
+      "ఊహలకందని నీ కృపయే",
+      "శాశ్వతమైనది నీ ప్రేమయే",
+      "మృత్యుంజయుడా యేసు రాజా",
+      "సమాధాన కర్తవు నీవే"
+    ],
+    "english": [
+      "Yesayya naa yesayya",
+      "neevu thappa naaku evarunnaarayaa",
+      "oohalakandani nee krupaye",
+      "saasvathamainadi nee premaye",
+      "mruthyunjayudaa yesu raajaa",
+      "samaadhaana karthavu neeve"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవు నాకుండగా నాకు విరోదెవ్వరు",
+        "నా పక్షానా ఏలువాడవు",
+        "అనుకూల సమయమునా",
+        "ధైర్యము నిచ్చితివి",
+        "పరిపూర్ణ శాంతితో",
+        "నను నింపితివి",
+        "స్తుతులకు అదిపతి యేసురాజా",
+        "జయశీలుడా నీవే",
+        "ఏమని వర్ణింతునో",
+        "నీ గొప్ప కార్యములన్",
+        "నా కొరకు నీవు దాచితివి",
+        "ఏ పాటి వాడని దేవ",
+        "ఎన్నుకొన్నావు ప్రభువా",
+        "శాశ్వత కృపతో నన్ను",
+        "నింపి ఉన్నావు దేవా",
+        "విజయవంతుడా యేసురాజా",
+        "కనికరపూర్ణుడా"
+      ],
+      "english": [
+        "Neevu naakundagaa naaku virodhevvaru",
+        "naa pakshaanaa eluvaadavu",
+        "anukoola samayamunaa",
+        "dhairyamu nichithivi",
+        "paripoorna shaanthitho",
+        "nanu nimpithivi",
+        "sthuthulaku adhipathi yesuraajaa",
+        "jayaseeludaa neeve",
+        "Emani varninthuno",
+        "nee goppa kaaryamulan",
+        "naa koraku neevu daachithivi",
+        "epaati vaadani deva",
+        "ennukonnaavu prabhuvaa",
+        "saasvatha krupatho nannu",
+        "nimpi unnaavu devaa",
+        "vijayavanthudaa yesuraajaa",
+        "kanikara poornudaa"
+      ]
+    }
+  ]
+}

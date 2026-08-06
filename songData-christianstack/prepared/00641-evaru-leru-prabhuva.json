@@ -1,0 +1,30 @@
+{
+  "song_name": "Evaru Leru Prabhuva",
+  "author": {
+    "Authored by": "Bishop Shulamite Finny Pachigalla",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎవరూ లేరు ఇలలో ప్రభువా",
+      "నీవు తప్ప వేరెవ్వరు లేరు"
+    ],
+    "english": [
+      "Evaru leru ilalo prabhuva",
+      "neevu thappa verevvaru leru"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవైపు చూస్తూ నిన్నే ప్రార్థిస్తూ",
+        "నీ కొరకు జీవిస్తూ నీ కృపకై వేచి ఉన్నాను"
+      ],
+      "english": [
+        "Neevaipe choosthu ninne praardhisthu",
+        "nee koraku jeevisthu nee krupakai vechi unnaanu"
+      ]
+    }
+  ]
+}

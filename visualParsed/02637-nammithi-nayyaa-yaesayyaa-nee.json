@@ -1,0 +1,68 @@
+{
+  "song_name": "Nammithi nayyaa Yesayyaa nee paadamule",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "బుఱ్ఱారెడ్డి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "నమ్మితి నయ్యా యేసయ్యా నీ పాదములే నమ్మితి నయ్యా యేసయ్యా",
+      "నమ్మితి నయ్య నా నెమ్మదిలో నిన్ను నిమ్ముగఁ గృప నాపైఁ గుమ్మరిం",
+      "చుము వేగ ||నమ్మితి||"
+    ],
+    "english": [
+      "Nammithi nayyaa Yesayyaa nee paadamule nammithi nayyaa Yesayyaa",
+      "Nammithi nayya naa nemmadhilo ninnu nimmuga krupa naapai gummarim",
+      "Chumu vega ||Nammithi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాప భార మనెడు మోపు మోయఁగ లేక కాపు నీవె యని నీ దాపు",
+        "జేరిన నేను  ||నమ్మితి||"
+      ],
+      "english": [
+        "Paapa bhaara manedu mopu moyaga leka kaapu neeve yani nee daapu",
+        "Cherina nenu ||Nammithi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆపత్కాలమునందుఁ బ్రాపు నీవని వేఁడఁ గాపాడి రక్షించు",
+        "కరుణాసముద్రుఁడ  ||నమ్మితి||"
+      ],
+      "english": [
+        "Aapathkaalamunandhu braapu neevani veda gaapaadi rakshinchu",
+        "Karunaasamudhruda ||Nammithi||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఎన్ని తప్పులు నాలో నున్న నీ దయ చేత మన్నించి రక్షించు మహిత",
+        "దేవ కుమార  ||నమ్మితి||"
+      ],
+      "english": [
+        "Enni thappulu naalo nunna nee daya chetha manninchi rakshinchu mahitha",
+        "Deva kumaara ||Nammithi||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దాసుని మొఱ నీవు వేసారక విని వాసిగా రక్షించు పరమ జనక",
+        "నన్ను  ||నమ్మితి||"
+      ],
+      "english": [
+        "Daasuni mora neevu vesaaraka vini vaasigaa rakshinchu parama janaka",
+        "Nannu ||Nammithi||"
+      ]
+    }
+  ]
+}

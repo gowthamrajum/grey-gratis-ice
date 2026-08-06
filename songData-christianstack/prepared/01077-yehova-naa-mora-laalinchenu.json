@@ -1,0 +1,70 @@
+{
+  "song_name": "Yehova Naa Mora Laalinchenu",
+  "author": {
+    "Authored by": "Purushottam Choudary",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహోవా నా మొఱ లాలించెను",
+      "దన మహా దయను నను గణించెను",
+      "అహర్నిశల దీనహీనుడగు నా",
+      "దు హాయనెడు ధ్వని గ్రహించి మనిపెను ||యెహోవ||"
+    ],
+    "english": [
+      "Yehova Naa Mora Laalinchenu",
+      "Dana Mahaa Dayanu Nanu Ganinchenu",
+      "Aharnisala Deenaheenudagu Naa",
+      "Du Haayanedu Dvani Grahinchi Manipenu || Yehova ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పిశాచి గడిమి బడగొట్టెను",
+        "దన వశాన నను నిలువ బెట్టెను",
+        "ప్రశాంత మధుర సు విశేష వాక్ఫల",
+        "నిశాంతమున జేర్చి సేద దీర్చెను ||యెహోవ||",
+        "మదావళము బోలు నా మదిన్",
+        "దన ప్రదీప్త వాక్యాం కూశా హతిన్",
+        "యధేచ్చలన్నిటి గుదించి పాపపు",
+        "మొదల్ తుదల్ నరికి దరికి జేర్చెను ||యెహోవ||",
+        "అనీతి వస్త్ర మెడలించెను",
+        "యేసునాధు రక్తమున ముంచెను",
+        "వినూత్న యత్నమె ద నూని యెన్నడు",
+        "గనన్ వినన్ బ్రేమ నాకు జూపెను ||యెహోవ||",
+        "విలాపములకు జెవి నిచ్చెను",
+        "శ్రమ కలాపములకు సెలవిచ్చెను",
+        "శిలానగము పైకిలాగి నను సుఖ",
+        "కళావళుల్ మనసులోన నిలిపెను ||యెహోవ||",
+        "అగణ్య పాపియని త్రోయక",
+        "న న్ను గూర్చి తన సుతుని దా చక",
+        "తెగించి మృతి కొ ప్పగించి పాపపు",
+        "నెగుల్ దిగుల్ సొగ సుగా నణంచెను ||యెహోవ||"
+      ],
+      "english": [
+        "Pisaachi Gadimi badagottenu",
+        "Dana Vashaana Nanu Niluva Bettenu",
+        "Prashaantha madhura Su Visesha Vaakphala",
+        "Nishaanthamuna Jerchi Seda Deerchenu || Yehova ||",
+        "Madaavalamu Bolu Naa Madin",
+        "Dana Pradeeptha Vaakyaam Kooshaa Hathin",
+        "Yadhechchalanniti Gudinchi Paapapu",
+        "Modhal Thudhal Nariki Dariki Jerchenu || Yehova ||",
+        "Aneethi Vasthra Medalinchenu",
+        "Yesunaadhu Rakthamuna Munchenu",
+        "Vinoothna Yathname Da Nooni Yennadu",
+        "Ganan Vinan Brema Naaku Joopenu || Yehova ||",
+        "Vilaapamulaku Jevi Nichchenu",
+        "Shrama Kalaapamulaku Selavichchenu",
+        "Silaanagamu Paikilaagi Nanu Sukha",
+        "Kalaavalul Mana Sulona Nilipenu || Yehova ||",
+        "Aganya Paapiyani Throyaka",
+        "Nannu Goorchi Thana Suthuni Daa Chaka",
+        "Theginchi Mruthi Koppaginchi Paapapu",
+        "Negul Digul Sogasugaa Nananchenu || Yehova ||"
+      ]
+    }
+  ]
+}

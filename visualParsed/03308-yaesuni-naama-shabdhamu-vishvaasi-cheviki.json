@@ -1,0 +1,80 @@
+{
+  "song_name": "Yesuni Naama Shabdamu Vishwaasi Cheviki",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసుని నామ శబ్దము - విశ్వాసి చెవికి",
+        "దివ్యమై యాదరించు - భీతిని ద్రోలును"
+      ],
+      "english": [
+        "Yesuni naama shabdamu - Vishwaasi cheviki",
+        "Dhivyamai aadarinchu - Bheethini dhrolunu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గాయపడిన ఆత్మను - క్లేశహృదయము",
+        "నాకలి బాధ నార్పును - విశ్రాంతి నిచ్చును"
+      ],
+      "english": [
+        "Gaayapadina aathmanu - Kleshahrudhayamu",
+        "Naakali baadha naarpunu - Vishraanthi nichchunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇంపైన పేరు బండయు - డాలు నాశ్రయము",
+        "ధననిధీ కృపలతో - నన్నింపుచుండును"
+      ],
+      "english": [
+        "Impaina peru bandayu - Daalu naashrayamu",
+        "Dhananidhee krupalatho - Nanninpuchundunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యేసూ నా ప్రియ కాపరి - ప్రవక్త నా రాజు",
+        "ప్రభూ జీవమార్గ సత్యం - మా స్తుతి వినుము"
+      ],
+      "english": [
+        "Yesoo naa priya kaapari - Pravaktha naa raaju",
+        "Prabhoo jeevamaarga sathyam - Maa sthuthi vinumu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నా హృదయము దౌర్బల్యము - తలంపు వ్యర్థము",
+        "నిన్ను నే జూచినపుడు - సరిగా పూజింతును"
+      ],
+      "english": [
+        "Naa hrudayamu dhaurbalyamu - Thalampu vyarthamu",
+        "Ninnu ne joochinapudu - Sarigaa poojinthunu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "శ్వాసించునపుడెల్లను - నీ ప్రేమ జాటుదున్",
+        "నీ నామ మధురమే నా - మృతిన్ ఆదరించున్"
+      ],
+      "english": [
+        "Shvaasinchunapudellanu - Nee prema jaatudhun",
+        "Nee naama madhurame naa - Mruthin aadharinchun"
+      ]
+    }
+  ]
+}

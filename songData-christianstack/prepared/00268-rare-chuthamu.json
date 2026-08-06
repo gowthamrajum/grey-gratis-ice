@@ -1,0 +1,54 @@
+{
+  "song_name": "Rare Chuthamu",
+  "author": {
+    "Authored by": "Sri. Chettu Bhanumurthy",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రారే చూతము రాజసుతుని",
+      "రేయి జనన మాయెను",
+      "రాజులకు రారాజు మెస్సయ్యా",
+      "రాజితంబగు తేజమదిగో"
+    ],
+    "english": [
+      "Raare chootamu raajasuthuni",
+      "reyi jananamaayenu",
+      "raajulaku raaraaju messayya",
+      "raajitambagu tejamadigoo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దూత గణములన్ దేరి చూడరే",
+        "దైవ వాక్కులన్ దెల్పగా",
+        "దేవుడే మన దీనరూపున",
+        "ధరణి కరిగె-నీ దినమున",
+        "కల్లగాదిది కలయు గాదిది",
+        "గొల్ల బోయుల దర్శనం",
+        "తెల్లగానదే తేజరిల్లెడి",
+        "తార గాంచరే త్వరగ రారే",
+        "బాలు-డడుగో వేల సూర్యుల",
+        "బోలు సద్గుణ శీలుడు",
+        "బాల బాలిక బాలవృద్ధుల",
+        "నేల గల్గిన నాథుడు"
+      ],
+      "english": [
+        "Dhootha ganamulan deri choodare",
+        "daiva vaakkulan delpaga",
+        "devude mana deenaroopuna",
+        "dharani karige-nee dinamuna",
+        "Kallagaadidi kalayu gaadidi",
+        "golla boyula darshanam",
+        "tellagaanade tejarilledi",
+        "taara gaanchare tvaraga raare",
+        "Baaludadugo vela sooryula",
+        "boolu sadguna sheeludu",
+        "baala baalika baala vruddhula",
+        "nela galgina naathudu"
+      ]
+    }
+  ]
+}

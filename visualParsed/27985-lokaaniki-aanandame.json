@@ -1,0 +1,80 @@
+{
+  "song_name": "Lokaaniki aanandame",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Philip Gariki"
+    ],
+    "రచన": [
+      "ఫిలిప్ గరికి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "లోకానికి ఆనందమే",
+      "ప్రభుయేసు జన్మించెగా",
+      "అరుదెంచెను నరరూపిగా",
+      "క్రీస్తు ఈనాడేగా"
+    ],
+    "english": [
+      "Lokaaniki aanandame",
+      "Prabhuyesu janminchegaa",
+      "Arudhenchenu nararoopigaa",
+      "Kreesthu eenaadegaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మనకు తోడుగా",
+        "ఇమ్మానుయేలు",
+        "లోక రక్షకుడు",
+        "అభిషేక నాధుడు",
+        "సర్వోనతమైన స్థలములలోన",
+        "దేవునికే మహిమ"
+      ],
+      "english": [
+        "Manaku thodugaa",
+        "Immaanuyelu",
+        "Loka rakshakudu",
+        "Abhisheka naadhudu",
+        "Sarvonnathamaina sthalamulalona",
+        "Devunike mahima"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "చీకటిలోనున్నవారికి",
+        "గొప్ప వెలుగు ఉదయించెను",
+        "బందింపబడిన వారికి",
+        "గొప్ప విడుదల కలిగెను",
+        "నశించుపోవువారికి",
+        "గొప్ప రక్షణ కలిగెను",
+        "యుదయ బెత్లెహేములో",
+        "యేసు ప్రభువుగా పుట్టెను",
+        "రాజుల రాజుగా మనలను",
+        "నిత్యము పాలించును",
+        "అమితానందము మనకు",
+        "నిత్యజీవము కలిగెను",
+        "అమితానందము మనకు"
+      ],
+      "english": [
+        "Cheekatilonunnavaariki",
+        "Goppa velugu udayinchenu",
+        "Bandhimpabadina vaariki",
+        "Goppa vidudala kaligenu",
+        "Nashinchupovuvaariki",
+        "Goppa rakshana kaligenu",
+        "Yoodhaya Bethlehemulo",
+        "Yesu prabhuvugaa puttenu",
+        "Raajula raajugaa manalanu",
+        "Nithyamu paalinchunu",
+        "Amithaanandhamu manaku",
+        "Nithyajeevamu kaligenu",
+        "Amithaanandhamu manaku"
+      ]
+    }
+  ]
+}

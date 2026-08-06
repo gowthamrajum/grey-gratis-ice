@@ -1,0 +1,77 @@
+{
+  "song_name": "Baala Yesuni joodare",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "చెట్టి భానుమూర్తి"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "బాల యేసుని జూడరే కరు ణాల వాలని బాడరే కాల పూర్ణత జూచి",
+      "దేవుడు కొమరుడై జన్మించెనే ||బాల||"
+    ],
+    "english": [
+      "Baala Yesuni joodare karunaala vaalani baadare kaala poornatha joochi",
+      "Devudu komarudai janminchene ||Baala||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "దూతలారా రండి రండి బేతలేమున బుట్టిన నూతనాద్భుత శిశువు",
+        "జూచి స్తోత్రగీతముల్ పాడరే  ||బాల||"
+      ],
+      "english": [
+        "Doothalaaraa randi randi Bethalemuna buttina noothanaadbhutha shishuvu",
+        "Joochi sthothrageethamul paadare  ||Baala||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గొల్లలారా రండి రండి గొప్ప యుత్సవ మొందరే ఎల్ల జనులకు",
+        "రక్షణంబని యంతటను చాటించరే  ||బాల||"
+      ],
+      "english": [
+        "Gollalaaraa randi randi goppa yuthsava mondare ella janulaku",
+        "Rakshanambani yanthatanu chaatinchare  ||Baala||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "జ్ఞానులారా రండి రండి కానుకల నర్పించరె దీనులను రక్షించ దేవుడు",
+        "మానవుండై బుట్టెను  ||బాల||"
+      ],
+      "english": [
+        "Gnaanulaaraa randi randi kaanukala narpinchare deenulanu rakshincha Devudu",
+        "Maanavundai buttenu  ||Baala||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "భక్తులారా రండి రండి భజన పాటలు పాడరే ముక్తిరాజగు యేసు",
+        "ప్రభు మన మధ్యనే జన్మించెను  ||బాల||"
+      ],
+      "english": [
+        "Bhakthulaaraa randi randi bhajana paatalu paadare mukthiraajagu Yesu",
+        "Prabhu mana madhyane janminchenu  ||Baala||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "లోకుందరు రండి రండి ఏకమై కీర్తించరే శ్రీకరుండౌ యేసు క్రీస్తుడు",
+        "శ్రీ లొసంగగ వచ్చెను  ||బాల||"
+      ],
+      "english": [
+        "Lokulandaru randi randi ekamai keerthinchare sreekarundau Yesu Kreesthudu",
+        "Sree losangaga vachchenu  ||Baala||"
+      ]
+    }
+  ]
+}

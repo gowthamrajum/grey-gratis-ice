@@ -1,0 +1,50 @@
+{
+  "song_name": "Yesayyaa nee bhaavaalu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసయ్యానీ భావాలు ఆ యెదలోనే నిండాలి",
+      "ఏ జాములోనైనా నా యెదలో పొంగాలి (2)"
+    ],
+    "english": [
+      "Yesayyaa nee bhaavaalu aa edalone nindaali",
+      "E jaamulonainaa naa edalo pongaali (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కనులారా నా ప్రభువా నీవు కనిపించాలి",
+        "కడదాకా నా బ్రతుకు నీవు నడిపించాలి",
+        "నీ కరుణ మార్గములో నేను నడవాలి",
+        "నీ జీవజలములనే నేను సేవించాలి"
+      ],
+      "english": [
+        "Kanulaaraa naa Prabhuvaa neevu kanipinchaali",
+        "Kadadhaakaa naa brathuku neevu nadipinchaali",
+        "Nee karuna maargamulo nenu nadavaali",
+        "Nee jeevajalamulane nenu sevinchaali"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ మెల్లని స్వరము నాకు వినిపించాలి",
+        "నీ ఆత్మ ఫలములను నేను ఫలియించాలి",
+        "రూపాంతరనుభవము నేను పొందాలి",
+        "నీ మహిమ రూపమునే నేను చూడాలి"
+      ],
+      "english": [
+        "Nee mellani swaramu naaku vinipinchaali",
+        "Nee aathma phalamulanu nenu phaliyinchaali",
+        "Roopaantharanubhavamu nenu pondaali",
+        "Nee mahima roopamune nenu choodaali"
+      ]
+    }
+  ]
+}

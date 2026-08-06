@@ -1,0 +1,84 @@
+{
+  "song_name": "Aemi Naenu Samarpinthu Yaesoo",
+  "author": {
+    "Authored by": "",
+    "రచన": "పులిపాక జగన్నాధము"
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏమి నేను సమర్పింతు యేసూ యెట్లు నిన్ను స్తుతియింతు",
+      "ఏమి సమర్పింతు హీనుఁడ నగు నేను",
+      "గామితార్థము లెల్ల గలుగఁజేయు నీకు"
+    ],
+    "english": [
+      "Aemi Naenu Samarpinthu Yaesoo Yetlu Ninnu Sthuthiyinthu",
+      "Aemi Samarpinthu Heenuda Nagu Naenu",
+      "Gaamithaarthamu Lella Galugajaeyu Neeku"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నేను మార్గముఁ దప్పియుండఁగ నన్ను నీవు కంటివి కరుణ నిండఁగ",
+        "దీనపాపులను దృఢముగఁ బ్రోవను దాన మిచ్చితివి తనర నీ ప్రాణము"
+      ],
+      "english": [
+        "Naenu Maargamu Dhappiyundaga Nannu Neevu Kantivi Karuna Nindaga",
+        "Dheenapaapulanu Dhrudamuga Broavanu Dhaana Michchithivi Thanara Nee Praanamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అందరి కొఱ కీవు తెచ్చిన మిగుల అందమైన నిత్య రక్షణ",
+        "అంది నిన్ను వినతి పొందుగఁ జేసెద",
+        "నొందు మా నా నుతి నుత్తమ ప్రభు క్రీస్తు"
+      ],
+      "english": [
+        "Andhari Kora Keevu Thechchina Migula Andhamaina Nithya Rakshana",
+        "Andhi Ninnu Vinathi Pondhuga Jaesedha",
+        "Nondhu Maa Naa Nuthi Nuththama Prabhu Kreesthu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ యందే యానంద మొదఁగ యేసు నీదైన యాత్మ నాకందఁగ",
+        "జేయు మంచు నీకుఁ జేసెదఁ బ్రార్థన",
+        "నాయందు దయచేసి నా మనవి నాలించు"
+      ],
+      "english": [
+        "Nee Yandhae Yaanandha Modhaga Yaesu Needhaina Yaathma Naakandhaga",
+        "Jaeyu Manchu Neeku Jaesedha Braarthana",
+        "Naayandhu Dhayachaesi Naa Manavi Naalinchu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నేను జేసిన యఘము లెల్లను గర్త నీ యెదుటఁ దలంచు కొందును",
+        "నేను సిగ్గు నొంది నిజముగఁ గుందుచు",
+        "నేను వేఁడుకొందు నీ క్షమాపణ కొరకు"
+      ],
+      "english": [
+        "Naenu Jaesina Yaghamu Lellanu Gartha Nee Yeduta Dhalanchu Kondhunu",
+        "Naenu Siggu Nondhi Nijamuga Gundhuchu",
+        "Naenu Vaedukondhu Nee Kshamaapana Koraku"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నన్ను నీవు స్థిరపరచుము కర్త యన్నిట నను బలపరుచుము",
+        "తిన్నని మార్గమున దృఢముగ నేగుచు",
+        "నిన్ను నే స్తుతియింతు నిండుగ నెల్లప్పు డేమి"
+      ],
+      "english": [
+        "Nannu Neevu Sthiraparachumu Kartha Yannita Nanu Balaparuchumu",
+        "Thinnani Maargamuna Dhrudamuga Naeguchu",
+        "Ninnu Nae Sthuthiyinthu Ninduga Nellappu Daemi"
+      ]
+    }
+  ]
+}

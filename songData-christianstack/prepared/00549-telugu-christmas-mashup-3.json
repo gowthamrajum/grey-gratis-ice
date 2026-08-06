@@ -1,0 +1,93 @@
+{
+  "song_name": "Telugu Christmas Mashup 3",
+  "author": {
+    "Authored by": "Various Artists",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దూత పాట పాడుడి – రక్షకున్ స్తుతించుడి",
+      "ఆ ప్రభుండు పుట్టెను – బెత్లెహేము నందున",
+      "ఓ బెత్లెహేము గ్రామమా! సద్దేమిలేకయు",
+      "నీవొంద గాఢ నిద్రపై వెలుంగు తారలు",
+      "ఓ సద్భాక్తులారా – లోక రక్షకుండు",
+      "బెత్లేహేమందు నేడు జన్మించెన్",
+      "శ్రీ రక్షకుండు పుట్టఁగా నాకాశ సైన్యము",
+      "ఇహంబున కేతెంచుచు ఈ పాట పాడెను",
+      "నమస్కరింప రండి నమస్కరింప రండి",
+      "నమస్కరింప రండి ఉత్సాహముతో"
+    ],
+    "english": [
+      "Dhootha paata paadudi – rakshakun sthuthinchudi",
+      "aa prabundu puttenu – bethlehemu nandhuna",
+      "oh bethlehemu graamamaa! saddhemilekayu",
+      "neevondha ghaada nidhrapai velungu thaaralu",
+      "oh sadhbakthulaaraaa – loka rakshakundu",
+      "bethlehemandhu nedu janminchen",
+      "sree rakshakundu puttagaa naakaasa sainyamu",
+      "ihambuna kethenchuchu ee paata paadenu",
+      "namaskarimpa randi namaskarimpa randi",
+      "namaskarimpa randi uthsaahamutho"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆ దేశములో కొందరు గొర్రెల కాపరులు",
+        "పొలములలో తమ మందలను కాయుచు నున్ననప్పుడు",
+        "భూ నివాసులందరు – మృత్యు భీతి గెల్తురు",
+        "నిన్ను నమ్మువారికి – ఆత్మ శుద్ధి కల్గును",
+        "జ్ఞానులారా పాడుడి సంయోచనలను చేయుట",
+        "పానుగాను వెదకుడేసు చూచుచు నక్షత్రము",
+        "సద్దేమి లేక వచ్చెగా! ఈ వింత దానము",
+        "ఆరీతి దేవుడిచ్చు పై వరాల్ నరాళికి",
+        "రండి నేడు కూడి రండి రాజునారాదించుడి",
+        "నీకు నమస్కరించి నీకు నమస్కరించి",
+        "నీకు నమస్కరించి పూజింతుము"
+      ],
+      "english": [
+        "Aa dheshamulo kondharu gorrela kaaparulu",
+        "polamulalo thama mandhalanu kaayuchu nunnappudu",
+        "bhoo nivaasulandharu – mruthyu bheethi gelthuru",
+        "ninnu nammuvaariki – aathma shuddhi kalgunu",
+        "gnaanulaaraa paadudi samyochanalanu cheyuta",
+        "paanugaanu vedhakudesu choochuchu nakshathramu",
+        "saddemi leka vachegaa! ee vintha dhaanamu",
+        "aareethi dhevudicchu pai varaal naraaliki",
+        "randi nedu koodi randi raajunaaraadhinchudi",
+        "neeku namaskarinchi neeku namaskarinchi",
+        "neeku namaskarinchi poojinthumu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసు పుట్టగానే వింత",
+        "ఏమి జరిగెరా దుతలెగసి వచ్చెరా",
+        "నేడు లోక రక్షకుండు",
+        "పుట్టినాడురా ఈ పుడమి యందున",
+        "పశువుల పాకలో పచ్చగడ్డి పరపులో",
+        "పవళించెను పవళించెను",
+        "పవళించెను నాధుడు మన పాలిట రక్షకుడు",
+        "దూతల గీతాల మోత విను బెతలేమా",
+        "పరమ దూతల గీతాల మోత విను బెతలేమా",
+        "ఎన్నెన్నో యేడుల నుండి నిరీక్షించినట్టి",
+        "పరమ దూతల గీతాల మోత విను బెతలేమా"
+      ],
+      "english": [
+        "Yesu puttagaane vintha",
+        "emi jarigeraa dhoothalegasi vacheraa",
+        "nedu loka rakshakundu",
+        "puttinaaduraa ee pudami yandhuna",
+        "pasuvula paakalo pacha gaddi parupulo",
+        "pavalinchenu pavalinchenu",
+        "pavalinchenu naadhudu mana paalita rakshakundu",
+        "dhoothala geethaala motha vinu bethalemaa",
+        "parama dhoothala geethaala motha vinu bethalemaa",
+        "ennenno yedula nundi nireekshinchi natti",
+        "parama dhoothala geethaala motha vinu bethalemaa"
+      ]
+    }
+  ]
+}

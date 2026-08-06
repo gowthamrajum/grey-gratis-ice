@@ -1,0 +1,97 @@
+{
+  "song_name": "Yesuni nammedivaaru",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసుని నమ్మెడివారు ఆయన ఉచిత కృపతో",
+      "నీతిమంతులయ్యెదరు - యేసుని నమ్మెడివారు"
+    ],
+    "english": [
+      "Yesuni nammedivaaru aayana uchitha krupatho",
+      "Neethimanthulayyedaru - Yesuni nammedivaaru"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఖర్జూరపు చెట్టువలె - మొవ్వు వేయుచుండెదరు",
+        "ఖర్జూరపు మట్టలతో - రక్షణకై స్తుతించెదరు"
+      ],
+      "english": [
+        "Kharjoorapu chettuvale - Movvu veyuchundedaru",
+        "Kharjoorapu mattalatho - Rakshanakai sthuthinchedaru"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "లేబానోను దేవదారు - చెట్టువలె ఎదుగుదురు",
+        "ప్రభు కృపాజ్ఞానములో - ఎదుగుచు నుందురువారు"
+      ],
+      "english": [
+        "Lebaanonu dhevadhaaru - Chettuvale eduguduru",
+        "Prabhu krupaajnaanamulo - Eduguchu nunduruvaaru"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యెహోవా మందిరములో - నాటబడి యుండెదరు",
+        "సహనముతో నిలిచెదరు - కదలక స్థిరులై యుండెదరు"
+      ],
+      "english": [
+        "Yehova mandiramulo - Naatabadi yundedaru",
+        "Sahanamutho nilichedaru - Kadalaka sthirulai yundedaru"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దేవుని యావరణములో - వర్ధిల్లుచు నుండెదరు",
+        "సేవింతురు తమ ప్రభుని - ఘనపరతురు నిరతంబు"
+      ],
+      "english": [
+        "Devuni yaavaranamulo - Vardhilluchu nundedaru",
+        "Sevinthuru thama Prabhuni - Ghanaparathuru nirathambu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "వారు ముసలితనంబున - చిగురు పెట్టి ఫలింతురు",
+        "ప్రసిద్ధి చేతురు ప్రభుని - యథార్థవంతుడనుచు"
+      ],
+      "english": [
+        "Vaaru musalithanambuna - Chiguru petti phalinthuru",
+        "Prasidhdhi chethuru Prabhuni - Yathaarthavanthudanuchu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "నీటి కాలువ యోరను - నాటబడిన వారలై",
+        "మేటిసారము కలిగి - పచ్చగ నుందురు వారు"
+      ],
+      "english": [
+        "Neethi kaaluva yoranu - Naatabadina vaaralai",
+        "Metisaaramu kaligi - Pachchaga nunduru vaaru"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "హల్లేలూయ పాటపాడి - వల్లభుని స్తుతింతురు",
+        "చల్లని ప్రభురాకడకై - మెల్లగా వేచియుండెదరు"
+      ],
+      "english": [
+        "Hallelooya paatapaadi - Vallabhuni sthuthinthuru",
+        "Challani Prabhuraakadakai - Mellagaa vechiyundedaru"
+      ]
+    }
+  ]
+}

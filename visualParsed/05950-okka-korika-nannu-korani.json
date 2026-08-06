@@ -1,0 +1,52 @@
+{
+  "song_name": "Okka korika nannu koranee",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఒక్క కోరిక నన్ను కోరనీ ఒక్క వరమే నన్ను అడగనీ",
+      "నీ కోసమే బ్రతకాలనీ నీ రాజ్యమునే చేరాలనీ",
+      "నీ కోసమే బ్రతకాలనీ నీ రాజ్యమునే చూడాలనీ"
+    ],
+    "english": [
+      "Okka korika nannu koranee okka varame nannu adaganee",
+      "Nee kosame brathakaalanee nee raajyamune cheraalanee",
+      "Nee kosame brathakaalanee nee raajyamune choodaalanee"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆరిపోనీకు ఈ దీపాన్ని",
+        "కడవరకు నీకై నన్ను వెలగనీ",
+        "ఆగిపోనీకు నా పయనాన్ని",
+        "చివరి వరకు నీకై నన్ను సాగనీ"
+      ],
+      "english": [
+        "Aariponeeku ee dheepaanni",
+        "Kadavaraku neekai nannu velaganee",
+        "Aagiponeeku naa payanaanni",
+        "Chivari varaku neekai nannu saaganee"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మూగవోనీకు ఈ కంఠాన్ని",
+        "తుదిశ్వాస వరకు నిన్ను చాటనీ",
+        "కూలిపోనీకు నా సాక్ష్యాన్ని",
+        "పరచపురికి నే చేరేంత వరకు"
+      ],
+      "english": [
+        "Moogavoneeku ee kanthaanni",
+        "Thudhishwaasa varaku ninnu chaatanee",
+        "Kooliponeeku naa saakshyaanni",
+        "Paramapuriki ne cherentha varaku"
+      ]
+    }
+  ]
+}

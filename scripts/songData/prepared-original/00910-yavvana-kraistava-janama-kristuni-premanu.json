@@ -1,0 +1,44 @@
+{
+  "song_name": "Yavvana Kraistava Janama Kristuni Premanu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యవ్వన క్రైస్తవ జనమా క్రీస్తుని ప్రేమను గనుమా యేసుని పిలుపు వినుమా ఆయన వాక్కును గైకొనుమా"
+    ],
+    "english": [
+      "Yavvana kraistava janama kristuni premanu ganuma Yesuni pilupu vinuma ayana vakkunu gaikonuma"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యొవనకాలమందే యేసు యొవన రుధిరం చిందించె సిల్వకెక్కి ప్రాణమిచ్చె ఆ ప్రేమను రుచి చూచినావా"
+      ],
+      "english": [
+        "Yovanakalamamde yesu yovana rudhiram chimdimche Silvakekki pranamichche A premanu ruchi chuchinava"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యొవనప్రాయపు మిడిసిపాటు కేవలం క్షణభంగురము వాక్యముతో సరిచూసుకో నీ నడతను సరిదిద్దుకో"
+      ],
+      "english": [
+        "Yovanaprayapu midisipatu kevalam kshanabamguramu Vakyamuto sarichusuko ni nadatanu sarididduko"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యొవనకాలమందే యేసుని కాడి మోయుట ఎంతో మేలు జీవితం ప్రభుకీయుమా దీవన లెన్నో పొందుమా"
+      ],
+      "english": [
+        "Yovanakalamamde yesuni kadi moyuta emto melu Jivitam prabukiyuma divana lenno pomduma"
+      ]
+    }
+  ]
+}

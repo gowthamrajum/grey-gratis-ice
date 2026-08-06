@@ -1,0 +1,66 @@
+{
+  "song_name": "Amaramaina Prema",
+  "author": {
+    "Authored by": "Hosanna Ministries",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రేమే శాశ్వతమైన పరిశుద్ధమైన పొదరిల్లు",
+      "మనసే మందిరమాయే నా మదిలో దీపము నీవే",
+      "నిన్నాశ్రయించిన వారిని ఉదయించు సూర్యునివలెనే",
+      "నిరంతరం నీ మాటతో ప్రకాశింపచేయుదువు"
+    ],
+    "english": [
+      "Preme saaswathamaina parishuddhamaina podharillu",
+      "manase mandhiramaaye naa madhilo dheepamu neeve",
+      "ninnaasrayinchina vaarini udhayinchu suryunivalene",
+      "nirantharam nee maatatho prakaasimpacheyudhuvu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అమరమైన నీ చరితం విమలమైన నీ రుధిరం",
+        "ఆత్మీయముగా ఉత్తేజపరచిన పరివర్తన క్షేత్రము",
+        "ఇన్నాళ్ళుగ నను స్నేహించి ఇంతగా ఫలింపజేసితివి",
+        "ఈ స్వరసంపదనంతటితో అభినయించి నే పాడెదను",
+        "ఉండలేను బ్రతుకలేను",
+        "నీ తోడు లేకుండా నీ నీడ లేకుండా",
+        "కమ్మనైన నీ ఉపదేశము విజయమిచ్చే శోధనలో",
+        "ఖడ్గముకంటే బలమైన నీ వాక్యము ధైర్యమిచ్చె నా శ్రమలో",
+        "కరువుసీమలో సిరులొలికించెను నీ వాక్యప్రవాహము",
+        "గగనము చీల్చి మోపైన దీవెన వర్షము కురిపించితివి",
+        "ఘనమైన నీ కార్యములు",
+        "వివరింప నా తరమా వర్ణింప నా తరమా",
+        "విధిరాసిన విషాదగీతం సమసిపోయె నీ దయతో",
+        "సంబరమైన వాగ్ధానములతో నాట్యముగా మార్చితివి",
+        "మమతల వంతెన దాటించి మహిమలో స్థానమునిచ్చితివి",
+        "నీ రాజ్యములో జేష్ఠులతో యుగయుగములు నే ప్రకాశించనా",
+        "నా పైన ఎందుకింత గాఢమైన ప్రేమ నీకు",
+        "మరువలేను యేసయ్యా"
+      ],
+      "english": [
+        "Amaramaina nee charitham vimalamaina nee rudhiram",
+        "aathmeeyamugaa utthejaparachina parivarthana kshethramu",
+        "innaalluga nanu snehinchi inthagaa phalimpajesithivi",
+        "ee swara sampadhananthatitho abhinayinchi ne paadedhanu",
+        "undalenu brathukalenu",
+        "nee thodu lekundaa nee needa lekundaa",
+        "Kammanaina nee upadheshamu vijayamiche shodhanalo",
+        "khadgamukante balamaina nee vaakyamu dhairyamiche naa sramalo",
+        "karuvuseemalo sirulolikinchenu nee vaakyapravaahamu",
+        "gaganamu cheelchi mopaina dheevena varshamu kuripinchithivi",
+        "ghanamaina nee kaaryamulu",
+        "vivarimpa naa tharamaa varnimpa naa tharamaa",
+        "Vidhiraasina vishaadhageetham samasipoye nee dhayatho",
+        "sambaramaina vaagdhaanamulatho naatyamugaa maarchithivi",
+        "mamathala vanthena daatinchi mahimalo sthaanamunichithivi",
+        "nee rajyamulo jeshtulatho yugayugamulu ne prakaasinchanaa",
+        "naa paina endhukintha gaadamaina prema neeku",
+        "maruvalenu yesayyaa"
+      ]
+    }
+  ]
+}

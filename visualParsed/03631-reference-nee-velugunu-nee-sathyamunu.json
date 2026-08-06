@@ -1,0 +1,53 @@
+{
+  "song_name": "Nee velugunu nee sathyamunu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "వెలుగిచ్చి నాకు మార్గము చూపు",
+      "వెలిగించి నా మది ప్రియ యేసు"
+    ],
+    "english": [
+      "Velugichchi naaku maargamu choopu",
+      "Veliginchi naa madi priya Yesu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గురి చేరుటకే ఈ నా యాత్ర - సరిగా భువిలో నే చేరుటకు",
+        "కోరి నీ వెలుగు నే నడచుటకు - ప్రభూ! నడిపించు"
+      ],
+      "english": [
+        "Guri cherutake ee naa yaathra - Sarigaa bhuvilo ne cherutaku",
+        "Kori nee velugu ne nadachutaku - Prabhoo! Nadipinchu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఘోరచీకటి నన్నావరింప - మార్గమున ఘోర తుఫాను రేగ",
+        "కరమునెత్తి ప్రభూ! గద్దించుము - ప్రభూ! రక్షించుము"
+      ],
+      "english": [
+        "Ghoracheekati nannaavarimpa - Maargamuna ghora thuphaanu rega",
+        "Karamuneththi Prabhoo! Gaddhinchumu - Prabhoo! Rakshinchumu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిను చేరి నిత్యం - నీతో నుండుటకే - నేనాశించితి నా హృదయములో",
+        "నను బలపరచి నిలుపుము - ప్రభూ! స్థిరముగను"
+      ],
+      "english": [
+        "Ninu cheri nithyam - Neetho nundutake - Nenaashinchithi naa hrudayamulo",
+        "Nanu balaparachi nilupumu - Prabhoo! Sthiramuganu"
+      ]
+    }
+  ]
+}

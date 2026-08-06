@@ -1,0 +1,55 @@
+{
+  "song_name": "Nanu Viduvaka Yedabaayaka Daachithivaa",
+  "author": {
+    "Authored by": "Bro  Yesanna",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నను విడువక యెడబాయక దాచితివా",
+      "నీ చేతి నీడలో యేసయ్యా నీ చేతి నీడలో",
+      "నను విడువక యెడబాయక దాచితివా",
+      "నీ చేతి నీడలో... నీ చేతి నీడలో"
+    ],
+    "english": [
+      "Nanu Viduvaka Yedabaayaka Daachithivaa",
+      "Nee Chethi Needalo Yesayyaa Nee Chethi Needalo",
+      "Nanu Viduvaka Yedabaayaka Daachithivaa",
+      "Nee Chethi Needalo... Nee Chethi Needalo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సిలువలో చాపిన రెక్కల నీడలో -2",
+        "సురక్షితముగ నన్ను దాచితివా -2",
+        "కన్నీటి బ్రతుకును నాత్యముగా మార్చి",
+        "ఆదరించిన యేసయ్యా -2"
+      ],
+      "english": [
+        "Siluvalo Chaapina Rekkala Needalo -2",
+        "Surakshithamuga Nannu Daachithivaa -2",
+        "Kanneeti Brathukunu Naathyamugaa Maarchi",
+        "Aadarinchina Yesayyaa -2"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఉన్నత పిలుపుతో నన్ను పిలచి -2",
+        "నీఉన్న చోటున నేనుండుటకై -2",
+        "పిలుపుకు తగిన మార్గము చూపి",
+        "నను స్థిరపరచిన యేసయ్యా -2",
+        "ఊ"
+      ],
+      "english": [
+        "Unnatha Pilaputho Nannu Pilachi -2",
+        "Neeunna Chotuna Nenundutakai -2",
+        "Pilupuku Thagina Maargamu Choopi",
+        "Nanu Sthiraparachina Yesayyaa -2",
+        "Oo"
+      ]
+    }
+  ]
+}

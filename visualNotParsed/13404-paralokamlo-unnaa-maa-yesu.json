@@ -1,0 +1,79 @@
+{
+  "song_name": "Paralokamlo unna maa Yesu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "పరలోకంలో ఉన్న మా యేసు",
+      "భూ లోకమంతటికి వెలుగు నీవయ్యా (2)",
+      "బూర గానంలో యేసు రావాలా",
+      "యేసులో నేను సాగిపోవాలా (2) ||పరలోకంలో||"
+    ],
+    "english": [
+      "Paralokamlo unna maa Yesu",
+      "Bhoo lokamanthatiki velugu neevayyaa (2)",
+      "Boora gaanamlo Yesu raavaalaa",
+      "Yesulo nenu saagipovaalaa (2) ||Paralokamlo||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "స్తుతి పాటలే నేను పాడాలా",
+        "క్రీస్తు ఒడిలో నే సాగి పోవాలా (2)  ||పరలోకంలో||"
+      ],
+      "english": [
+        "Sthuthi paatale nenu paadaalaa",
+        "Kreesthu odilo ne saagi povaalaa (2)  ||Paralokamlo||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మధ్యాకాశంలో విందు జరగాలా",
+        "విందులో నేను పాలు పొందాలా (2)  ||పరలోకంలో||"
+      ],
+      "english": [
+        "Madhyaakaashamlo vindu jaragaalaa",
+        "Vindulo nenu paalu pondhaalaa (2)  ||Paralokamlo||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సూర్య చంద్రుల నక్షత్రాలన్నీ",
+        "నీ దయ వలన కలిగినావయ్యా (2)  ||పరలోకంలో||"
+      ],
+      "english": [
+        "Soorya chandrula nakshathraalannee",
+        "Nee daya valana kaliginaavayyaa (2)  ||Paralokamlo||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సృష్టిలో ఉన్న జీవులన్నిటిని",
+        "నీ మహిమ కలిగినావయ్యా (2)  ||పరలోకంలో||"
+      ],
+      "english": [
+        "Srushtilo unna jeevulannitini",
+        "Nee mahima kaliginaavayyaa (2)  ||Paralokamlo||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "దూత గానంతో యేసు రావాలా",
+        "యేసు గానంలో మనమంతా నడవాలా (2)  ||పరలోకంలో||"
+      ],
+      "english": [
+        "Dootha gaanantho Yesu raavaalaa",
+        "Yesu gaanamlo manamanthaa nadavaalaa (2)  ||Paralokamlo||"
+      ]
+    }
+  ]
+}

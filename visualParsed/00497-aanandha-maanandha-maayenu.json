@@ -1,0 +1,87 @@
+{
+  "song_name": "Aananda maanandha maayenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆనంధ మానంధ మాయెను – నాధు ప్రియ కుమారుని యంధు",
+      "మహధానంధ మాయెను",
+      "ణా థనయుని మాత వినంది - సబ్ధ మొక్కతి ఆ మేఘం ఉలలో ఉధ్భవించెను",
+      "అధ్భుథముగ ంఅహధానంధ మాయెను"
+    ],
+    "english": [
+      "Aananda maanandha maayenu - Naadu priya kumaaruni yandu",
+      "Mahadhaanandha maayenu",
+      "Naa thanayuni maata vinandi - Shabdha mokkati aa meghamulalo udhbhavinchenu",
+      "Adhbhuthamuga mahadhaanandha maayenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రమించు చున్నావు నీథిని – ధుర్నీథిని ధ్వేషించి నావు – నీవు- అంధుచే",
+        "నీ థోతి వారి కంతె – ఆనంధ థైలముథో థంద్రి నిన్ను అధికంబుగా",
+        "అభిషేకించెను"
+      ],
+      "english": [
+        "Preminchu chunnaavu neethini - Dhurneethini dhweshinchi naavu - Neevu- Andhuche",
+        "Nee thoti vaari kante - Aananda thailamutho thandri ninnu adhikambugaa",
+        "Abhishekinchenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆంథ్య ధినముల యంధున – ఆ వింథ కుమారుని ధ్వారా ఐ మానవుల థోద",
+        "మాత్లాదెను – సర్వమునకు థంద్రి థనయుని వారసునిగా నియమించెను"
+      ],
+      "english": [
+        "Anthya dinamula yanduna - Aa vintha kumaaruni dwaaraa ai maanavula thoda",
+        "Maatlaadenu - Sarvamunaku thandri thanayuni vaarasunigaa niyaminchenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "థనయుందె ఆ థంద్రి మహిమ – ఆ థథ్వంబు రూపంబు థానె ఆ –",
+        "మహాథ్యమైనత్తి – మాతల చేథ సమస్థం ఉను నిర్వహించు అంధరిలో అథి",
+        "స్రేష్తుందాయే"
+      ],
+      "english": [
+        "Thanayunde aa thandri mahima - Aa thathwambu roopambu thaane aa -",
+        "Mahaathyamainatti - Maatala chetha samasthamunu nirvahinchu andarilo adhi",
+        "Shreshtundaaye"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీవు నాధు కుమారుదవు – నిన్ను ప్రేమించి కన్నాను –నేను- నేదు ధందిగ",
+        "థనయుని ముధ్ధాదుది నిందుగ వాని నాస్రయించుది రంది రంది ధన్యులు కంది"
+      ],
+      "english": [
+        "Neevu naadu kumaarudavu - Ninnu preminchi kannaanu - Nenu- Nedu dhandiga",
+        "Thanayuni mudhdhaadudi ninduga vaani naashrayinchudi randi randi dhanyulu kandi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "విజ్ఞాన సంపధ లెల్లను –ఆ సుజ్ఞానిలో గుప్థ మాయెన్ ఉ – ఆ సంథోషమును",
+        "పరిసుధ్ధథ – సమాధానము నీథి సక్థియు విమోచనమాయెను",
+        "7. ధివ్య రాజైఅన కుమారుదు – ఒక వెయ్యి వర్షాలు పాలిన్ చును మహా – అంథము",
+        "లేని రాజ్య మేలును- యెంధరు జయంబు నొంధ్ధురో అంధరును పాలించెధరు"
+      ],
+      "english": [
+        "Vignaana sampada lellanu - Aa sugnaanilo guptha maayenu - Aa santhoshamunu",
+        "Parishuddhatha - Samaadhaanamu neethi shakthiyu vimochanamaayenu",
+        "7. Divya raajaina kumaarudu - Oka veyyi varshaalu paalinchunu mahaa - Anthamu",
+        "Leni raajya melunu- Endaru jayambu nondhudhuro andharunu paalinchedharu"
+      ]
+    }
+  ]
+}

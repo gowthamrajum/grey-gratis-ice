@@ -1,0 +1,82 @@
+{
+  "song_name": "Vinarae Yapoasthalula Kaaryamul",
+  "author": {
+    "Authored by": "",
+    "రచన": "పురుషోత్తము చౌదరి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "వినరే యపోస్తలుల కార్యముల్ క్రైస్తవు లను వారి కవి యెంతో ధైర్యముల్",
+      "మనసు లొక్కటిఁ జేసి కొని యట్లు ప్రార్థింప",
+      "ఘన ముగ విమలాత్మ చనుదెంచె వారిపై"
+    ],
+    "english": [
+      "Vinarae Yapoasthalula Kaaryamul Kraisthavu Lanu Vaari Kavi Yemthoa Dhairyamul",
+      "Manasu Lokkatiao Jaesi Koni Yatlu Praarthimpa",
+      "Ghana Muga Vimalaathma Chanudhemche Vaaripai"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరమండలమునుండి వచ్చెను పెద్ద కరువలివలె శబ్ద మిచ్చెను",
+        "తిర ముగ వార లం దరుఁ గూడి యున్న",
+        "మం దిర మెల్ల నిండె బం ధురమై తన్నాదము"
+      ],
+      "english": [
+        "Parammdalamunumdi Vachchenu Pedhdha Karuvalivale Shabdha Michchenu",
+        "Thira Muga Vaara Lm Dharuao Goodi Yunna",
+        "Mm Dhira Mella Nimde Bm Dhuramai Thannaadhamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అనలార్చులను దీప్తి మించుచు బీఁట లగు జిహ్వల్వలె గనుపించుచు",
+        "ఘనముగ నొక్కొక్క జనునిపై నవి నిల్వఁ గను",
+        "బరిశుద్ధాత్మచే తను నింపఁబడి రంత"
+      ],
+      "english": [
+        "Analaarchulanu Dheepthi Mimchuchu Beeaota Lagu Jihvalvale Ganupimchuchu",
+        "Ghanamuga Nokkokka Janunipai Navi Nilvao Ganu",
+        "Barishudhdhaathmachae Thanu Nimpaobadi Rmtha"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వారన్య భాషలతోడను నాత్మ ప్రేరణమును జేయు జాడను",
+        "ధారా ళముగ భాషాం తరము లాడిరి",
+        "విన్న వారి కబ్బురమై వి చారము ల్బొడమంగ"
+      ],
+      "english": [
+        "Vaaranya Bhaashlathoadanu Naathma Praeranamunu Jaeyu Jaadanu",
+        "Dhaaraa Lamuga Bhaashaam Tharamu Laadiri",
+        "Vinna Vaari Kabburamai Vi Chaaramu Lbodammga"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ముందట వారిటుల గుంపుగ మోద మందుచు దేవునిఁ గొల్చి",
+        "తా మందరు చూడఁగ వింత వింత పనుల నందందు జేసిరి దేవుని దయచేత"
+      ],
+      "english": [
+        "Mumdhata Vaaritula Gumpuga Moadha Mmdhuchu Dhaevuniao Golchi",
+        "Thaa Mmdharu Choodaoga Vimtha Vimtha Panula Nmdhmdhu Jaesiri Dhaevuni Dhayachaetha"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "మనము నా రీతిగ గుంపుగాఁ గూడి మన దేవుఁ గొల్వఁగ భూమిలో",
+        "మనుజుల కాశ్చర్య మగు కార్యములఁ జేయ నొనగూడు మనసు కా నందమును గల్గు"
+      ],
+      "english": [
+        "Manamu Naa Reethiga Gumpugaao Goodi Mana Dhaevuao Golvaoga Bhoomiloa",
+        "Manujula Kaashcharya Magu Kaaryamulao Jaeya Nonagoodu Manasu Kaa Nmdhamunu Galgu"
+      ]
+    }
+  ]
+}

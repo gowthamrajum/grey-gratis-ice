@@ -1,0 +1,101 @@
+{
+  "song_name": "Mangalamu Kreesthunaku Mahitha Shubhavaarthunaku",
+  "author": {
+    "Authored by": "",
+    "రచన": "బేతాళ జాన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "మంగళము క్రీస్తునకు మహిత శుభవార్తునకు మంగళము త్రిత్వస మాన్వితునకు",
+      "మంగళము దూత జన మకుట మగు ప్రభువునకు మంగళము వేదాంత మాన్యునకును",
+      "జయ మంగళము సదా శుభ మంగళము"
+    ],
+    "english": [
+      "Mangalamu Kreesthunaku Mahitha Shubhavaarthunaku Mangalamu Thrithvasa Maanvithunaku",
+      "Mangalamu Dhootha Jana Makuta Magu Prabhuvunaku Mangalamu Vaedhaantha Maanyunakunu",
+      "Jaya Mangalamu Sadhaa Shubha Mangalamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కానాకుఁ జనుదెంచి కల్యాణమును మహిమ గా నొనరప్పను",
+        "నీరు గాంచి ద్రాక్షా పానముగ మార్చి",
+        "నీ ప్రథమాద్భుత ప్రతిష్ఠ భూనుతుఁడ తెల్పితివి మానితముగా"
+      ],
+      "english": [
+        "Kaanaaku Janudhenchi Kalyaanamunu Mahima Gaa Nonarappanu",
+        "Neeru Gaanchi Dhraakshaa Paanamuga Maarchi",
+        "Nee Prathamaadhbhutha Prathishta Bhoonuthuda Thelpithivi Maanithamugaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీకు సంఘమునకు నిత్యమైన వివా హైకత్వమునకుఁ",
+        "దగు నెచ్చరికగాఁ గైకొనెడి నీ సేవక వరుల పరిణయము",
+        "నీ కరుణచే ధరను నిముడుగాక"
+      ],
+      "english": [
+        "Neeku Sanghamunaku Nithyamaina Vivaa Haikathvamunaku",
+        "Dhagu Nechcharikagaa Gaikonedi Nee Saevaka Varula Parinayamu",
+        "Nee Karunachae Dharanu Nimudugaaka"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రేమానుబంధమునఁ బెనగి యీ దంపతులు",
+        "వేమారు నీ మహిమ వెదకి భువిని కామాదులను గెల్చి",
+        "కైవల్య పురమునకు క్షేమ మగు కృపనిచ్చి చేరనిమ్ము"
+      ],
+      "english": [
+        "Praemaanubandhamuna Benagi Yee Dhampathulu",
+        "Vaemaaru Nee Mahima Vedhaki Bhuvini Kaamaadhulanu Gelchi",
+        "Kaivalya Puramunaku Kshaema Magu Krupanichchi Chaeranimmu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఆదికాలము నాబ్ర హాము శారా లెంతో",
+        "నీ దయలో బ్రతికి యిల నెగడినట్టు",
+        "ఈ దీన దంపతులు గాదిలిచే బ్రతుకుటకు",
+        "నీ దయారసమొస గు మక్షయుండా"
+      ],
+      "english": [
+        "Aadhikaalamu Naabra Haamu Shaaraa Lenthoa",
+        "Nee Dhayaloa Brathiki Yila Negadinattu",
+        "Ee Dheena Dhampathulu Gaadhilichae Brathukutaku",
+        "Nee Dhayaarasamosa Gu Makshayundaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "సంతానము గాంచి సద్భక్తిలో బుద్ధి మంతులై",
+        "క్రైస్తవ మతము నందు అంత్యపర్యంతంబు నణుఁకువగఁ బెంచ",
+        "నా ద్యంత రహితుండ స హాయ మిమ్ము"
+      ],
+      "english": [
+        "Santhaanamu Gaanchi Sadhbhakthiloa Budhdhi Manthulai",
+        "Kraisthava Mathamu Nandhu Anthyaparyanthambu Nanukuvaga Bencha",
+        "Naa Dhyantha Rahithunda Sa Haaya Mimmu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "కర్తయైన క్రీస్తు కరుణయు దేవుని పరమపూర్ణ ప్రేమ",
+        "ప్రబలము గను సురుచిరం బగు పరి శుద్ధాత్ము నైక్యత",
+        "కలుగుఁగాక దంప తుల కనిశము"
+      ],
+      "english": [
+        "Karthayaina Kreesthu Karunayu Dhaevuni Paramapoorna Praema",
+        "Prabalamu Ganu Suruchiram Bagu Pari Shudhdhaathmu Naikyatha",
+        "Kalugugaaka Dhampa Thula Kanishamu"
+      ]
+    }
+  ]
+}

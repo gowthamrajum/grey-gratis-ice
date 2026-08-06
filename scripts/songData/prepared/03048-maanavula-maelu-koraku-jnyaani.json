@@ -1,0 +1,63 @@
+{
+  "song_name": "Maanavula Maelu Koraku Jnaaniyaina Dhaevudu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మానవుల మేలు కొరకు జ్ఞానియైన దేవుఁడు",
+      "మానుగఁ కల్యాణ పద్ధతి మహిని నిర్ణయించెగా"
+    ],
+    "english": [
+      "Maanavula Maelu Koraku Jnaaniyaina Dhaevudu",
+      "Maanuga Kalyaana Paddhathi Mahini Nirnayinchegaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కానాయను నూరిలో మన కర్త చూచెఁ బెండ్లిని",
+        "పానముగను ద్రాక్షరసము దాన మొసఁగెఁ బ్రీతిని"
+      ],
+      "english": [
+        "Kaanaayanu Nooriloa Mana Kartha Chooche Bendlini",
+        "Paanamuganu Dhraaksharasamu Dhaana Mosage Breethini"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేసూ వీరిద్దరిని ఏకముగాఁ జేయుమీ",
+        "దాసులుగను జేసి వీరి దోసము లెడబాపుమీ"
+      ],
+      "english": [
+        "Yaesoo Veeriddharini Aekamugaa Jaeyumee",
+        "Dhaasuluganu Jaesi Veeri Dhoasamu Ledabaapumee"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కర్త వీరలకు భార్య భర్తల ప్రేమంబును",
+        "బూర్తిగ నీ విచ్చి వీరిఁ బొందుగాను నడుపుమీ"
+      ],
+      "english": [
+        "Kartha Veeralaku Bhaarya Bharthala Praemambunu",
+        "Boorthiga Nee Vichchi Veeri Bondhugaanu Nadupumee"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "భక్తియు విశ్వాస ప్రేమలు భావమందు వ్రాయుమీ",
+        "ముక్తి సరణి వెదక వీరి భక్తి మిగులఁ జేయుఁమీ"
+      ],
+      "english": [
+        "Bhakthiyu Vishvaasa Praemalu Bhaavamandhu Vraayumee",
+        "Mukthi Sarani Vedhaka Veeri Bhakthi Migula Jaeyumee"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "song_name": "Kreesthesu siluvapai dhrushtinunchi aayana krupayandhe niluchundumu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "క్రీస్తేసు సిలువపై దృష్టినుంచి - ఆయన కృపయందే నిలుచుండుము",
+      "పరలోక మహిమ కిరీటముకై - క్రీస్తేసు అడుగులలో నడువుము",
+      "క్రీస్తేసు సిలువపై దృష్టినుంచు"
+    ],
+    "english": [
+      "Kreesthesu siluvapai dhrushtinunchi - Aayana krupayandhe niluchundumu",
+      "Paraloka mahima kireetamukai - Kreesthesu adugulalo naduvumu",
+      "Kreesthesu siluvapai dhrushtinunchu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సమాదాన దేశం పరలోకము - ఎన్నో దీవెనలు కలవందున",
+        "ఇహలోక శాంతి క్షణమాత్రమే - గొప్ప శిక్ష యందు దాగియుండె"
+      ],
+      "english": [
+        "Samaadhaana desham paralokamu - Enno deevenalu kalavandhuna",
+        "Ihaloka shaanthi kshanamaathrame - Goppa shiksha yandu daagiyunde"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "క్రీస్తు నుండి నిన్ను దూరపరచ - లోకాశలు నిన్ను ఆకర్షించు",
+        "సిలువను చూడక పోయినచో - చిక్కుకొనెదవు ఈ లోకములో"
+      ],
+      "english": [
+        "Kreesthu nundi ninnu dhooraparacha - Lokaashalu ninnu aakarshinchu",
+        "Siluvanu choodaka poyinacho - Chikkukonedhavu ee lokamulo"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రభుయేసు సహవాసమున నిలిచి - సాతానుకు స్థలమియ్యకుము",
+        "ఏవి క్రీస్తునుండి విడదీయునో - యేసు రక్తమందు కడుగుకొనుము"
+      ],
+      "english": [
+        "Prabhuyesu sahavaasamuna nilichi - Saathaanuku sthalamiyyakumu",
+        "Evi Kreesthunundi vidadheeyuno - Yesu rakthamandu kadugukonumu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పరలోక దీవెనలు రుచిచూడను - ఆశతో వెళ్ళను సిద్ధపడు",
+        "లోకమునకు నీవు వేరైనచో - ఆత్మీయముగ నీవు యెదిగెదవు"
+      ],
+      "english": [
+        "Paraloka deevenalu ruchichoodanu - Aashatho vellanu siddhapadu",
+        "Lokamunaku neevu verainacho - Aathmeeyamuga neevu edhigedhavu"
+      ]
+    }
+  ]
+}

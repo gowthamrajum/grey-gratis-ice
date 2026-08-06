@@ -1,0 +1,53 @@
+{
+  "song_name": "Sakala Jagajjaala Karthaa Bhak",
+  "author": {
+    "Authored by": "",
+    "రచన": "విలియం డాసన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "సకల జగజ్జాల కర్తా భక్త సంఘ హృదయ తాప హర్తా యకలంక గుణమణి నికర పేటీ కృత ప్రకట లోకచయ పరమ దయాలయ ||సకల||"
+    ],
+    "english": [
+      "sakala jagajjaala karthaa bhaktha sMgha hrudhaya thaapa harthaa yakalMka guNamaNi nikara paetee krutha prakata loakachaya parama dhayaalaya ||sakala||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నాదు నెమ్మది తొలఁగించుచుఁ బ్రతి వాదు లీమెయి నెంతో పాదుకొన్నారు బాధలందైనను సాధులఁభ్రోవ ననాది యైనట్టి నీవాధారమైయుండ ||సకల||"
+      ],
+      "english": [
+        "naadhu nemmadhi tholAOgiMchuchuAO brathi vaadhu leemeyi neMthoa paadhukonnaaru baaDhalMdhainanu saaDhulAObhroava nanaadhi yainatti neevaaDhaaramaiyuMda ||sakala||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దినకృత్యములఁ గష్టమంత చీఁకటినినే నీ కడ భక్తి మనవిజేయ వినుచు నా కష్టము వెస నష్టముగఁ జేయ ఘనముగ నాయందుఁ గరుణఁ జేసితివి ||సకల||"
+      ],
+      "english": [
+        "dhinakruthyamulAO gaShtamMtha cheeAOkatininae nee kada bhakthi manavijaeya vinuchu naa kaShtamu vesa naShtamugAO jaeya ghanamuga naayMdhuAO garuNAO jaesithivi ||sakala||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తమ కాపు నన్నుఁ కాపాడఁగ నేనుత్తమ నిద్రఁ బొందితిఁ దనివిఁదీరఁ కొమ రొప్ప మేల్కొన్నఁ గూలిన మృత్యు భయముబొంద నా డెంద మందు నెల్లప్పుడు ||సకల||"
+      ],
+      "english": [
+        "thama kaapu nannuAO kaapaadAOga naenuththama nidhrAO boMdhithiAO dhaniviAOdheerAO koma roppa maelkonnAO goolina mruthyu bhayamuboMdha naa deMdha mMdhu nellappudu ||sakala||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "రాతిరి సుఖనిద్ర జెందఁ జేసి రక్షింప నను నీకె చెల్లు ప్రాతస్తుతుల్ జేయఁ బగలు జూచు తెల్వి ఖ్యాతముగా నాకుఁ గలుగఁజేసితివి ||సకల||"
+      ],
+      "english": [
+        "raathiri sukhanidhra jeMdhAO jaesi rakShiMpa nanu neeke chellu praathasthuthul jaeyAO bagalu joochu thelvi khyaathamugaa naakuAO galugAOjaesithivi ||sakala||"
+      ]
+    }
+  ]
+}

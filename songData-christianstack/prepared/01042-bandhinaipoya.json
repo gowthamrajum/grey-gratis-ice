@@ -1,0 +1,64 @@
+{
+  "song_name": "Bandhinaipoya",
+  "author": {
+    "Authored by": "John Vittney Kalavala",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "బంధీనైపోయ నీలో మునిగి తేలాక",
+      "నావల్ల కాదయ నిను వీడి ఉండుట (2)",
+      "యేసయ్య యేసయ్య యేసయ్య యేసయ్య (2)"
+    ],
+    "english": [
+      "Bandheenaipoya neelo Munigi teelaaka",
+      "Naavalla kaadaya ninu Veedi unduta (2x)",
+      "Yesayya Yesayya Yesayya Yesayya (2x)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసయ్య నిన్నే సేవింతును",
+        "ఆరాధింతును స్తుతింతును (2)"
+      ],
+      "english": [
+        "Yesayya Ninne Sevinthunu",
+        "Aaradhintunu Stutintunu (2x)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "Bridge:",
+        "నీలో మునిగి తేలాక",
+        "నే విడుదలనే పొందా",
+        "నీలో మునిగి తేలాక",
+        "నే ఉప్పోంగి పోయా"
+      ],
+      "english": [
+        "Bridge:",
+        "Neelo munigi telaaka",
+        "Ne Vidudalane ponda",
+        "Neelo munigi telaaka",
+        "Ne uppongi poya"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీలో మునిగి తేలాక",
+        "నే జీవమునే పొందా",
+        "నీలో మునిగి తేలాక",
+        "నే బంధీనైపోయా"
+      ],
+      "english": [
+        "Neelo munigi telaaka",
+        "Ne jeevamune ponda",
+        "Neelo munigi telaaka",
+        "Ne Bandhinaipoya"
+      ]
+    }
+  ]
+}

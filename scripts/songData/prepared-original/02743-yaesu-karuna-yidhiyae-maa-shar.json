@@ -1,0 +1,53 @@
+{
+  "song_name": "Yaesu Karuna Yidhiyae Maa Shar",
+  "author": {
+    "Authored by": "",
+    "రచన": "మిక్కిలి సమూయేలు"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు కరుణ యిదియే మా శరణు యేసు కరుణ ||"
+    ],
+    "english": [
+      "yaesu karuNa yidhiyae maa sharaNu yaesu karuNa ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసుని కరుణ యిదే మాకు శర ణని యాసతో నమ్మిన యధముల కెల్ల ||యేసు||"
+      ],
+      "english": [
+        "yaesuni karuNa yidhae maaku shara Nani yaasathoa nammina yaDhamula kella ||yaesu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎన్నిక సేయక యే పాపి నైనను మన్నించి బ్రోచెడు మా దేవుఁడైన ||యేసు||"
+      ],
+      "english": [
+        "ennika saeyaka yae paapi nainanu manniMchi broachedu maa dhaevuAOdaina ||yaesu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పశ్చాత్తాపము నొందు పాపుల నెల్లను నిశ్చయముగఁ బ్రోవ నిపుణుఁ డై యున్న ||యేసు||"
+      ],
+      "english": [
+        "pashchaaththaapamu noMdhu paapula nellanu nishchayamugAO broava nipuNuAO dai yunna ||yaesu||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దిక్కు లేకున్నటి దీన జనాత్ములఁ జక్కఁగఁ బ్రోచెడు సదయుఁ డైయున్న ||యేసు||"
+      ],
+      "english": [
+        "dhikku laekunnati dheena janaathmulAO jakkAOgAO broachedu sadhayuAO daiyunna ||yaesu||"
+      ]
+    }
+  ]
+}

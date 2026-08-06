@@ -1,0 +1,63 @@
+{
+  "song_name": "Raath andheri dhoor kahee",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాత్ అంధేరి దూర్ కహీ",
+      "ఏక్ దీప్ సుహానా జలే",
+      "దేఖ్ కే తారా సిస్లా కర్నే",
+      "బేత్లహేమ్ కో చలే (2)",
+      "లా లా లా – లా లా లా (4)",
+      "లా లా ల లా",
+      "లా లా లా – లా లా లా (4)",
+      "లా లా ల లా",
+      "ఆయా జహాన్ మీ ఆప్నో కి ఖాతిర్",
+      "హమ్ సి ప్యార్ కియా",
+      "హమ్ కో బచానే కో కెహనా కియా",
+      "ఆర్ కుర్ ఖుర్భాన్ హుయా (2)",
+      "దిల్ సే హమారీ జ్యోతి ఉసీకీ",
+      "హర్ దమ్ తేజు చలే",
+      "దేఖ్ కే తారా సిస్లా కర్నే",
+      "బేత్లహేమ్ కో చలే (2) ||రాత్||"
+    ],
+    "english": [
+      "Raath andheri dhoor kahee",
+      "Ek dheep suhaanaa jale",
+      "Dekh ke thaaraa sislaa karne",
+      "Bethlahem ko chale (2)",
+      "Laa laa laa – Laa laa laa (4)",
+      "Laa laa la laa",
+      "Laa laa laa – Laa laa laa (4)",
+      "Laa laa la laa",
+      "Aayaa jahaan mee aapno ki khaathir",
+      "Ham si pyaar kiyaa",
+      "Ham ko bachaane ko kehanaa kiyaa",
+      "Aar kur khurbhaan huyaa (2)",
+      "Dhil se hamaaree jyothi useekee",
+      "Har dham theju chale",
+      "Dekh ke thaaraa sislaa karne",
+      "Bethlahem ko chale (2) ||Raath||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "సారే జహాన్ సే ప్యారా",
+        "ఉం చర్నీ మే మిలా",
+        "గౌశాలే మే ప్రభు హమారా",
+        "ముక్తిదాతా మిలా (2)  ||రాత్||"
+      ],
+      "english": [
+        "Saare jahaan se pyaaraa",
+        "Um charnee me milaa",
+        "Gaushaale me Prabhu hamaaraa",
+        "Mukthidhaathaa milaa (2) ||Raath||"
+      ]
+    }
+  ]
+}

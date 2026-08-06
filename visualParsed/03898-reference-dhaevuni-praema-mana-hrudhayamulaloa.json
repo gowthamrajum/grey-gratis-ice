@@ -1,0 +1,85 @@
+{
+  "song_name": "Pravimaludaa paavanudaa - Sthuthisthothramu neeke",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రవిమలుడా పావనుడా - స్తుతిస్తోత్రము నీకే",
+      "పరమునుండి ప్రవహించె - మాపై కృప వెంబడి కృపలు"
+    ],
+    "english": [
+      "Pravimaludaa paavanudaa - Sthuthisthothramu neeke",
+      "Paramunundi pravahinche - Maapai krupa vembadi krupalu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ మందిర సమృద్ధివలన - తృప్తిపరచు చున్నావుగా",
+        "ఆనంద ప్రవాహ జలమును - మాకు త్రాగనిచ్చితివి",
+        "కొనియాడెదము నీ కృపకై ఆనందించుచు పాడెదము"
+      ],
+      "english": [
+        "Nee mandira samruddhivalana - Thrupthiparachu chunnaavugaa",
+        "Aananda pravaaha jalamunu - Maaku thraaganichchithivi",
+        "Koniyaadedhamu nee krupakai aanandhinchuchu paadedamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేవుని సంపూర్ణతలో మమ్ము - పరిశుద్ధులుగా జేసియున్నావు",
+        "జ్ఞానమునకు మించిన ప్రేమ మాలో బయలు పరచితివి",
+        "కృతజ్ఞతలు చెల్లించుచు పూజించెదము నిన్నెప్పుడు"
+      ],
+      "english": [
+        "Devuni sampoornathalo mammu - Parishuddhulugaa jesiyunnaavu",
+        "Gnaanamunaku minchina prema maalo bayalu parachithivi",
+        "Kruthagnathalu chellinchuchu poojinchedhamu ninneppudu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దైవత్వము నిండియుండెనుగా క్రీస్తు యేసు ప్రభువునందు",
+        "ఆయనయందు సంపూర్ణులుగా మమ్ము జేసియున్నావు",
+        "సాగిలపడుచు నీ కృపకై ఆరాధింతుము నిన్నిలలో"
+      ],
+      "english": [
+        "Dhaivathwamu nindiyundenugaa Kreesthu Yesu prabhuvunandhu",
+        "Aayanayandhu sampoornulugaa mammu jesiyunnaavu",
+        "Saagilapaduchu nee krupakai aaraadhinthumu ninnilalo"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నిర్ధోషులుగా నిరపరాధులుగా నీ రక్తముతో మము జేసితివి",
+        "సర్వసంపూత్ణత మాకిచ్చి సిలువలో సంధిజేసితివి",
+        "నిత్యము నిన్ను స్తుతించి ఘనపరచెదము నిన్నిలలో"
+      ],
+      "english": [
+        "Nirdhoshulugaa niraparaadhulugaa nee rakthamutho mamu jesithivi",
+        "Sarvasampoornatha maakichchi siluvalo sandhijesithivi",
+        "Nithyamu ninnu sthuthinchi ghanaparachedhamu ninnilalo"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "కృపా సత్యసంపూర్ణుడవై మామధ్యలో నివసించితివి",
+        "లోకమునందు నమ్మబడితివి అద్వితీయ తనయుడవై",
+        "నిరతము నిన్ను కీర్తించి సమాజములో పాడెదము"
+      ],
+      "english": [
+        "Krupaa sathyasampoornudavai maamadhyalo nivasinchithivi",
+        "Lokamunandhu nammabadithivi advitheeya thanayudavai",
+        "Nirathamu ninnu keerthinchi samaajamulo paadedamu"
+      ]
+    }
+  ]
+}

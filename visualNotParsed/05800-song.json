@@ -1,0 +1,58 @@
+{
+  "song_name": "Inti meedanunna ontari pichchukanu nenu naa balamaa aalakinchumaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా బలమా ఆలకించుమా",
+      "నా బలమా ఆదరించుమా",
+      "ఇంటి మీదనున్న ఒంటరి పిచ్చుకను నేనూ",
+      "కన్నీటితో కృంగిపోతున్నాను",
+      "నా యేసయ్యా నా బలమా",
+      "నాదీన ప్రార్ధన ఆలకించుమా ॥ఇంటి॥"
+    ],
+    "english": [
+      "Naa balamaa aalakinchumaa",
+      "Naa balamaa aadarinchumaa",
+      "Inti meedanunna ontari pichchukanu nenoo",
+      "Kanneetitho krungipothunnaanu",
+      "Naa Yesayyaa naa balamaa",
+      "Naadheena praardhana aalakinchumaa ||Inti||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వేటగాని బాణములు చేయుచుండె గాయములు",
+        "అపవాది కోరలు కోరుచుండె ప్రాణమును",
+        "నీ బలిపీఠముచెంత నాకు చోటునీయుమా",
+        "ఆలకించుమా ఆదరించుమా ॥ఇంటి॥"
+      ],
+      "english": [
+        "Vetagaani baanamulu cheyuchunde gaayamulu",
+        "Apavaadi koralu koruchunde praanamunu",
+        "Nee balipeethamuchenta naaku chotuneeyumaa",
+        "Aalakinchumaa aadarinchumaa ||Inti||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "తెలిసి తెలిసి చేసితినీ ఎన్నెన్నో పాపములు",
+        "తరచి తరచి చూచినా తరగవు నా దోషములు",
+        "నీ ఆత్మను కోల్పోయిన హీనుడను నేను",
+        "ఆలకించుమా ఆదరించుమా ॥ఇంటి॥"
+      ],
+      "english": [
+        "Thelisi thelisi chesithinee ennenno paapamulu",
+        "Tharachi tharachi choochinaa tharagavu naa doshamulu",
+        "Nee aathmanu kolpoyina heenudanu nenu",
+        "Aalakinchumaa aadarinchumaa ||Inti||"
+      ]
+    }
+  ]
+}

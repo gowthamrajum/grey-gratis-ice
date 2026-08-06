@@ -1,0 +1,93 @@
+{
+  "song_name": "Enthati vaadanu nenu Yesayyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎంతటి వాడను నేను యేసయ్యా",
+      "కొంతైనా యోగ్యుడను కానయ్యా (2)",
+      "ఇంతగ నను హెచ్చించుటకు",
+      "ఈ స్థితిలో నన్నుంచుటకు (2) ||ఎంతటి||"
+    ],
+    "english": [
+      "Enthati vaadanu nenu Yesayyaa",
+      "Konthainaa yogyudanu kaanayyaa (2)",
+      "Inthaga nanu hechchinchutaku",
+      "Ee sthithilo nannunchutaku (2) ||Enthati||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఐశ్వర్యము గొప్పతనమును",
+        "కలిగించు దేవుడవీవే",
+        "హెచ్చించువాడవును",
+        "బలమిచ్చువాడవు నీవే (2)",
+        "అల్పుడను మంటి పురుగును",
+        "నన్ను ప్రేమించినావు",
+        "ప్రాణమును నీ సర్వమును",
+        "నా కొరకై అర్పించినావు  ||ఎంతటి||"
+      ],
+      "english": [
+        "Aishwaryamu gopputhanamunu",
+        "Kaliginchu Dhevudaveeve",
+        "Hechchinchuvaadavunu",
+        "Balamichchuvaadavu neeve (2)",
+        "Alpudanu manti purugunu",
+        "Nannu preminchinaavu",
+        "Praanamunu nee sarvamunu",
+        "Naa korakai arpinchinaavu ||Enthati||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నిను వెంబడించువారిని",
+        "నిజముగ సేవించువారిని",
+        "నీవుండే స్థలములలో",
+        "నిలిచే నీ సేవకుని (2)",
+        "ఎంతో ఘనపరచెదవు",
+        "ఆశీర్వదించెదవు",
+        "శత్రువుల కంటె ఎత్తుగా",
+        "అతని తలను పైకెత్తెదవు  ||ఎంతటి||"
+      ],
+      "english": [
+        "Ninu vembadinchuvaarini",
+        "Nijamuga sevinchuvaarini",
+        "Neevunde sthalamulalo",
+        "Niliche nee sevakuni (2)",
+        "Entho ghanaparachedhavu",
+        "Aasheervadhinchedhavu",
+        "Shathruvula kante etthugaa",
+        "Athani thalanu paiketthedhavu ||Enthati||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వినయముగల మనుష్యులను",
+        "వర్దిల్లజేసెదవు",
+        "గర్విష్టుల గర్వమునణచి",
+        "గద్దె నుండి దించెదవు (2)",
+        "మాదు ఆశ్రయ దుర్గమా",
+        "మేమంతా నీ వారమే",
+        "మా శైలము మా కేడెమా",
+        "మాకున్నదంతా నీ దానమే  ||ఎంతటి||"
+      ],
+      "english": [
+        "Vinayamugala manushyulanu",
+        "Vardhillajesedhavu",
+        "Garvishtula garvamunanachi",
+        "Gadde nundi dhinchedhavu (2)",
+        "Maadu aashraya durgamaa",
+        "Memanthaa nee vaarame",
+        "Maa shailamu maa kedemaa",
+        "Maakunnadhanthaa nee dhaaname ||Enthati||"
+      ]
+    }
+  ]
+}

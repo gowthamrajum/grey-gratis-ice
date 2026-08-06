@@ -1,0 +1,65 @@
+{
+  "song_name": "Nammithi Nayyaa Yaesayyaa Nee Paadhamulae",
+  "author": {
+    "Authored by": "",
+    "రచన": "బుఱ్ఱారెడ్డి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "నమ్మితి నయ్యా యేసయ్యా నీ పాదములే",
+      "నమ్మితి నయ్యా యేసయ్యా నమ్మితి నయ్య",
+      "నా నెమ్మదిలో నిన్ను నిమ్ముగఁ గృప నాపైఁ గుమ్మరిం చుము వేగ"
+    ],
+    "english": [
+      "Nammithi Nayyaa Yaesayyaa Nee Paadhamulae",
+      "Nammithi Nayyaa Yaesayyaa Nammithi Nayya",
+      "Naa Nemmadhiloa Ninnu Nimmuga Grupa Naapai Gummarim Chumu Vaega"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాప భార మనెడు మోపు మోయఁగ లేక",
+        "కాపు నీవె యని నీ దాపు జేరిన నేను"
+      ],
+      "english": [
+        "Paapa Bhaara Manedu Moapu Moayaga Laeka",
+        "Kaapu Neeve Yani Nee Dhaapu Jaerina Naenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆపత్కాలమునందుఁ బ్రాపు నీవని వేఁడఁ",
+        "గాపాడి రక్షించు కరుణాసముద్రుఁడ"
+      ],
+      "english": [
+        "Aapathkaalamunandhu Braapu Neevani Vaeda",
+        "Gaapaadi Rakshinchu Karunaasamudhruda"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఎన్ని తప్పులు నాలో నున్న నీ దయ చేత",
+        "మన్నించి రక్షించు మహిత దేవ కుమార"
+      ],
+      "english": [
+        "Enni Thappulu Naaloa Nunna Nee Dhaya Chaetha",
+        "Manninchi Rakshinchu Mahitha Dhaeva Kumaara"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "దాసుని మొఱ నీవు వేసారక విని",
+        "వాసిగా రక్షించు పరమ జనక నన్ను"
+      ],
+      "english": [
+        "Dhaasuni Mora Neevu Vaesaaraka Vini",
+        "Vaasigaa Rakshinchu Parama Janaka Nannu"
+      ]
+    }
+  ]
+}

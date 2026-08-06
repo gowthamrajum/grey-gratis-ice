@@ -1,0 +1,55 @@
+{
+  "song_name": "Ennadu nedabaaya ne koladi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "పులిపాక జగన్నాధము"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎన్నడు నెడఁబాయ నే కొల(ది విడనాఁడ ననిన తండ్రి నిరత",
+      "మన్ని బాధలయందు నన్ని దుఃఖములందు నన్ను ఁ బ్రోచు ||ఎన్నడు||"
+    ],
+    "english": [
+      "Ennadu nedabaaya ne koladi vidanaada nanina thandri niratha",
+      "Manni baadhalayandhu nanni duhkhamulandhu nannu brochu ||Ennadu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పాపుల రక్షింపఁ బ్రాణమిచ్చిన యేసు బ్రతికి యుండు తన",
+        "ప్రాపు గోరినవారి భారము తా మోసి ప్రాపయి యుండు  ||ఎన్నడు||"
+      ],
+      "english": [
+        "Paapula rakshimpa braanamichchina Yesu brathiki yundu thana",
+        "Praapu gorinavaari bhaaramu thaa mosi praapayi yundu ||Ennadu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎల్ల కాలంబుల నేకరీతిగ నుండు యేసునాధుఁ డాతఁ డెల్ల",
+        "విశ్వాసుల నెల్ల వేళలఁ దలఁచి యేలుచుండు  ||ఎన్నడు||"
+      ],
+      "english": [
+        "Ella kaalambula nekareethiga nundu Yesunaadhu daatha della",
+        "Vishvaasula nella velala dalachi yeluchundu ||Ennadu||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "తనవారి యక్కఱలు తానెఱిగి యున్నాఁడు తప్పకుండ నాతఁ డెనలేని",
+        "దయఁబూని వినువారి మనవులు వేడ్కమీఱ  ||ఎన్నడు||"
+      ],
+      "english": [
+        "Thanavaari yakkaralu thaanerigi yunnaadu thappakunda naatha denaleni",
+        "Dayabooni vinuvaari manavulu vedkameera ||Ennadu||"
+      ]
+    }
+  ]
+}

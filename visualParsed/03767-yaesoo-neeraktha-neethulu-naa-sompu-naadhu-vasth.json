@@ -1,0 +1,69 @@
+{
+  "song_name": "Yesoo neeraktha neethulu naa sompu naadu vasthramu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసూ! నీరక్త నీతులు - నా సొంపు, నాదు వస్త్రము",
+        "వీనన్ ధరించి, మెండు నీ - ధరన్ దిరంబునుందున్"
+      ],
+      "english": [
+        "Yesoo! neeraktha neethulu - Naa sompu, naadu vasthramu",
+        "Veenan dharinchi, mendu nee - Dharan dhirambunundhun"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ధైర్యాన నిల్తునీ నాడు - నన్నెవరు నింద పర్తురు?",
+        "పాపంబునుండి ముక్తుడన్ - నేనైతి వీనివల్లను"
+      ],
+      "english": [
+        "Dhairyaana nilthunee naadu - Nannevaru ninda parthuru?",
+        "Paapambunundi mukthudan - Nenaithi veenivallanu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "యుగాలు దాటి నన్నదా - ఈ నిష్కళంక వస్త్రము",
+        "ఇట్లుండు, రంగుమారదు - నీ వల్ల యంచుదెల్లగా"
+      ],
+      "english": [
+        "Yugaalu daati nannadhaa - Ee nishkalanka vasthramu",
+        "Itlundu, rangumaaradhu - Nee valla yanchudhellagaa"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "మృతుల్ నినున్ వినంగ నీచ - పాపుల్ సంతోషమొందనీ",
+        "యేసూ నీ రక్త నీతులు - నీవు వారి సొంపు వస్త్రము"
+      ],
+      "english": [
+        "Mruthul ninun vinanga neecha - Paapul santhoshamondanee",
+        "Yesoo nee raktha neethulu - Neevu vaari sompu vasthramu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పరాన నింటి కోసము - నే ధూళినుండి లేవగా",
+        "నటన్సహ నా పాటిదే యేసు నాకోస మీల్గెను"
+      ],
+      "english": [
+        "Paraana ninti kosamu - Ne dhoolinundi levagaa",
+        "Natansaha naa paatidhe Yesu naakosa meelgenu"
+      ]
+    }
+  ]
+}

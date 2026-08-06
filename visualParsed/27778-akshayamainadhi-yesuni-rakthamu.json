@@ -1,0 +1,73 @@
+{
+  "song_name": "Akshaya mainadhi Yesuni rakthamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Jasper Kunapo"
+    ],
+    "రచన": [
+      "జాస్పర్ కునపో"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "అక్షయ మైనది – యేసుని రక్తము (1 పీటర్ 1:4)",
+      "అమరము నందున – పొందుగ నున్నది (హీబ్రూస్ 9:12)",
+      "డెందము నందున – ప్రభువును పొందిన",
+      "అందలమున ప్రభు మహిమలో నుందుము"
+    ],
+    "english": [
+      "Akshaya mainadhi - Yesuni rakthamu (1 Peter 1:4)",
+      "Amaramu nanduna - Pondhuga nunnadhi (Hebrews 9:12)",
+      "Dendhamu nanduna - Prabhuvunu pondina",
+      "Andhalamuna Prabhu mahimalo nundhumu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కలిగియుంటిమి – కలుషిత రక్తము",
+        "కడతేర్చు చివరకు – క్షయమగు రక్తము",
+        "జీవికి రక్తము – మూలాధారము (డ్యూట్ 12:23, లెవ్ 17:11)",
+        "అక్షయ రక్తమే – నిత్య జీవముకు (హీబ్రూస్ 9:12 & 22, 1 కొరింత్ 15:54)"
+      ],
+      "english": [
+        "Kaligiyuntimi - Kalushitha rakthamu",
+        "Kadatherchu chivaraku - Kshayamagu rakthamu",
+        "Jeeviki rakthamu - Moolaadhaaramu (Deut 12:23, Lev 17:11)",
+        "Akshaya rakthame - Nithya jeevamuku (Hebrews 9:12 & 22, 1 Corinth 15:54)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మూడవ దినమున – మరణము గెలిచి",
+        "మరియను వారించే – తను తాక వద్దని (జాన్ 20:17)",
+        "మరు క్షణమేగా – పరమును చేరి (సామ్ 24:9)",
+        "మందసమున తన రక్తము నుంచెను (హీబ్రూస్ 9:12)"
+      ],
+      "english": [
+        "Moodava dinamuna - Maranamu gelichi",
+        "Mariyanu vaarinche - Thanu thaaka vaddhani (John 20:17)",
+        "Maru kshanamegaa - Paramunu cheri (Psalm 24:9)",
+        "Mandhasamuna thana rakthamu nunchenu (Hebrews 9:12)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నిర్మలమైనది – వాడ బారనిది (1 పీటర్ 1:4,18,19)",
+        "నిర్దోష మైనది – యేసుని రక్తము",
+        "పాప రహితము – పరలోక స్వాస్త్యము",
+        "నిత్య జీవముకు – మూలాధారము (1 పీటర్ 1:18,19, 1 కొరింత్ 15:54)"
+      ],
+      "english": [
+        "Nirmalamainadhi - Vaada baaranidhi (1 Peter 1:4,18,19)",
+        "Nirdosha mainadhi - Yesuni rakthamu",
+        "Paapa rahithamu - Paraloka swaasthyamu",
+        "Nithya jeevamuku - Moolaadhaaramu (1 Peter 1:18,19, 1 Corinth 15:54)"
+      ]
+    }
+  ]
+}

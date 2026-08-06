@@ -1,0 +1,85 @@
+{
+  "song_name": "Siluva Sainikulaaraa Niluvandi",
+  "author": {
+    "Authored by": "",
+    "రచన": "జి మునిస్వామి"
+  },
+  "main_stanza": {
+    "telugu": [
+      "సిలువ సైనికులారా నిలువండి వడి లేచి",
+      "బలుఁడు యేసుక్రీస్తు ప్రభు దయ జయ మౌను"
+    ],
+    "english": [
+      "Siluva Sainikulaaraa Niluvandi Vadi Laechi",
+      "Baludu Yaesukreesthu Prabhu Dhaya Jaya Maunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రారాజు పంపున రణము సేయగఁ బూని",
+        "ధీరులై నిలువుఁడి దినము శత్రుల గెల్వ"
+      ],
+      "english": [
+        "Raaraaju Pampuna Ranamu Saeyaga Booni",
+        "Dheerulai Niluvudi Dhinamu Shathrula Gelva"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అతఁడు నిజ ధ్వజ మత్యున్నతి నొంద",
+        "బ్రతి వీరుని గెల్చు వరకుసేనల నడుపు"
+      ],
+      "english": [
+        "Athadu Nija Dhvaja Mathyunnathi Nondha",
+        "Brathi Veeruni Gelchu Varakusaenala Nadupu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "మీ స్వీయ బలమున మీ రానుకొనకయే",
+        "మీ స్వామి బలమును మీరు నమ్మి గెలువ"
+      ],
+      "english": [
+        "Mee Sveeya Balamuna Mee Raanukonakayae",
+        "Mee Svaami Balamunu Meeru Nammi Geluva"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "శత సహస్రము లైన శత్రుల నెదిరించి",
+        "సతతము ప్రభు సేవ సల్పి ధైర్యము నొంది"
+      ],
+      "english": [
+        "Shatha Sahasramu Laina Shathrula Nedhirinchi",
+        "Sathathamu Prabhu Saeva Salpi Dhairyamu Nondhi"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "దేవుఁ డొసఁగినట్టి దివ్య కవచముఁ దాల్చి",
+        "భావ ప్రార్థనాసి బట్టి యుద్ధము సేయ"
+      ],
+      "english": [
+        "Dhaevu Dosaginatti Dhivya Kavachamu Dhaalchi",
+        "Bhaava Praarthanaasi Batti Yudhdhamu Saeya"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "జయశీలు రగు వారు చారు కిరీట మంది",
+        "జయశాలి క్రీస్తు దయ జనెదరు సద్గతికి"
+      ],
+      "english": [
+        "Jayasheelu Ragu Vaaru Chaaru Kireeta Mandhi",
+        "Jayashaali Kreesthu Dhaya Janedharu Sadhgathiki"
+      ]
+    }
+  ]
+}

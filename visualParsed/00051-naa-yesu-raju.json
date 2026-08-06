@@ -1,0 +1,67 @@
+{
+  "song_name": "Naa Yesu raajutho nenu saagi podhunu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా యేసు రాజుతో నేను సాగి పోదును (2)",
+      "సాతాను క్రియలెన్నో ఎదురొచ్చినా - నేను సాగి వెళ్ళేదను (2)",
+      "సాతనును పార ద్రోలెదను - క్రీస్తులో జయించెదను (2)",
+      "నే క్రీస్తులో జయించెదను - నే క్రీస్తులో జయించెదను",
+      "అఅహా అఅహా హల్లెలూయ (3)",
+      "హల్లెలూయ హల్లెలూయ"
+    ],
+    "english": [
+      "Naa Yesu raajutho nenu saagi podhunu (2)",
+      "Saathaanu kriyalenno edurochchinaa - Nenu saagi velledanu (2)",
+      "Saathanunu paara dhroledhanu - Kreesthulo jayinchedhanu (2)",
+      "Ne Kreesthulo jayinchedhanu - Ne Kreesthulo jayinchedhanu",
+      "Aahaa aahaa hallelooya (3)",
+      "Hallelooya hallelooya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "శత్రు సమూహము నను చుట్టినా - లోకము నన్ను నిందించినా (2)",
+        "యెహోవ నిస్సీ నా ధ్వజము - నాకు తోడై జయ మిచ్చును (2)",
+        "నాకు తోడై జయ మిచ్చును .. సాతనును పార ద్రోలెదను .."
+      ],
+      "english": [
+        "Shathru samoohamu nanu chuttinaa - Lokamu nannu nindinchinaa (2)",
+        "Yehova nissee naa dhwajamu - Naaku thodai jaya michchunu (2)",
+        "Naaku thodai jaya michchunu .. saathanunu paara dhroledhanu .."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శోధన సంద్రము వలె పొంగినా - వ్యాధిబాధలు కృంగ దీసినా (2)",
+        "యెహోవ రాఫా నాకు స్వస్థత నిచ్చి నన్ను నడిపించును (2)",
+        "స్వస్థత నిచ్చి నడిపించును .. సాతనును పార ద్రోలెదను .."
+      ],
+      "english": [
+        "Shodhana sandramu vale ponginaa - Vyaadhibaadhalu krunga dheesinaa (2)",
+        "Yehova raaphaa naaku swasthatha nichchi nannu nadipinchunu (2)",
+        "Swasthatha nichchi nadipinchunu .. saathanunu paara dhroledhanu .."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ధన సంపదలు నను విడచినా - బంధు మిత్రులు నను మరచినా (2)",
+        "యెహోవ రోఫీ నా కాపరి - నన్ను కాచి నడిపించును (2)",
+        "నన్ను కాచి నడిపించును .. సాతనును పార ద్రోలెదను ..  ||నా||"
+      ],
+      "english": [
+        "Dhana sampadalu nanu vidachinaa - Bandhu mithrulu nanu marachinaa (2)",
+        "Yehova rophee naa kaapari - Nannu kaachi nadipinchunu (2)",
+        "Nannu kaachi nadipinchunu .. saathanunu paara dhroledhanu ..  ||Naa||"
+      ]
+    }
+  ]
+}

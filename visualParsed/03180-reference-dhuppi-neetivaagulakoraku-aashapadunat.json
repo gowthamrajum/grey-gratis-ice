@@ -1,0 +1,75 @@
+{
+  "song_name": "Duppi neetivaagulakoraku aashapadunatlu Deva",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీటి వాగుల కొరకు దుప్పి ఆశపడునట్లు",
+      "దేవా నీ కొరకు నా ప్రాణము ఆశపడు చున్నది"
+    ],
+    "english": [
+      "Neethi vaagula koraku duppi aashapadunatlu",
+      "Deva nee koraku naa praanamu aashapadu chunnadi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "జీవముగల దేవుని కొరకు తృష్ణగొనుచున్నది",
+        "దేవుని సన్నిధికి నే నెప్పుడు వచ్చెదను"
+      ],
+      "english": [
+        "Jeevamugala Devuni koraku thrushnagonuchunnadi",
+        "Devuni sannidhiki ne neppudu vachchedhanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీ దైవమేమాయెనని నిత్యము నాతో ననగా",
+        "రాత్రింబగల్లు కన్నీరే నా అన్న పానములాయె"
+      ],
+      "english": [
+        "Nee dhaivamemaayenani nithyamu naatho nanagaa",
+        "Raathrimbagallu kanneere naa anna paanamulaaye"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఉత్సాహ స్తుతులతో సమాజమును పండుగకు",
+        "దేవుని మందిరమునకు నడిపించితిని"
+      ],
+      "english": [
+        "Uthsaaha sthuthulatho samaajamunu pandugaku",
+        "Devuni mandhiramunaku nadipinchithini"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఇది తలంచగా నా ప్రాణము కరుగుచున్నది",
+        "నాదు ప్రాణమా యేల కృంగి తొందర పడుచున్నావు?"
+      ],
+      "english": [
+        "Idhi thalanchagaa naa praanamu karuguchunnadi",
+        "Naadu praanamaa ela krungi thondhara paduchunnaavu?"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "రక్షకుడగు దేవునిపైన నిరీక్షణ యుంచుము",
+        "ఆయన రక్షకుడని నేనింక స్తుతించెదను"
+      ],
+      "english": [
+        "Rakshakudagu Dhevunipaina nireekshana yunchumu",
+        "Aayana rakshakudani neninka sthuthinchedanu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "song_name": "Sthiraparachuvaadavu",
+  "author": {
+    "Authored by": "Daniel Praneeth",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఏమైనా చేయగలవు కథ మొత్తం మార్చగలవు",
+      "నీ నామముకే మహిమంతా తెచ్చుకొందువు",
+      "యేసయ్య యేసయ్య నీకే నీకే సాధ్యము"
+    ],
+    "english": [
+      "Emaina cheyagalavu katha mottham maarchagalavu",
+      "nee naamamuke mahimanthaa thechukondhuvu",
+      "Yesayya Yesayya neeke neeke saadhyamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "స్థిరపరచువాడవు బలపరచువాడవు",
+        "పడిపోయిన చోటే నిలబెట్టువాడవు",
+        "ఘనపరచువాడవు హెచ్చించువాడవు",
+        "మా పక్షము నిలిచి జయమిచ్చువాడవు"
+      ],
+      "english": [
+        "Sthiraparachuvaadavu balaparachuvaadavu",
+        "padipoyina chote nilabettuvaadavu",
+        "ghanaparachuvaadavu hechinchuvaadavu",
+        "maa pakshamu nilichi jayamichuvaadavu"
+      ]
+    }
+  ]
+}

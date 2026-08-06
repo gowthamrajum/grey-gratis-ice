@@ -1,0 +1,82 @@
+{
+  "song_name": "Mahimayuthudu maa Yesu raaju",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "మహిమయుతుడు మా యేసు రాజు",
+      "మహిమదూత సైన్యము తోడ",
+      "ఇహకు వచ్చున్ మహానందము"
+    ],
+    "english": [
+      "Mahimayuthudu maa Yesu raaju",
+      "Mahimadhootha sainyamu thoda",
+      "Ihaku vachchun mahaanandhamu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇమ్మహి అతిశయిల్లు - దూతలు ఆర్భటించ",
+        "దూత వెల్గుతోడ మేఘముపై యేసు",
+        "సమ్మతిన్ రాగా సంధింతుము వేగ",
+        "ఆ ... ఆనందము"
+      ],
+      "english": [
+        "Immahi athishayillu - Doothalu aarbhatincha",
+        "Dootha velguthoda meghamupai Yesu",
+        "Sammathin raagaa sandhinthumu vega",
+        "Aa ... aanandamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "బూరశబ్దించగానే - వాంచలు తీరుటకు",
+        "మిత్రునిచెంత భక్తులందరు చెరి",
+        "హర్షంబుతోడ పాడి స్తుతింతుము",
+        "ఆ ... ఆనందము"
+      ],
+      "english": [
+        "Boorashabdhinchagaane - Vaanchalu theerutaku",
+        "Mithrunichentha bhakthulandharu cheri",
+        "Harshambuthoda paadi sthuthinthumu",
+        "Aa ... aanandamu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "భూమి గోత్రములును - దేశాధికారులును",
+        "ఇమ్మానుయేలుచే న్యాయ తీర్పుపొంద",
+        "ఇమ్ముగ మేమును చేరుదు మచ్చట",
+        "ఆ ... ఆనందము"
+      ],
+      "english": [
+        "Bhoomi gothramulunu - Dheshaadhikaarulunu",
+        "Immaanuyeluche nyaaya theerpuponda",
+        "Immuga memunu cherudhu machchata",
+        "Aa ... aanandamu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "వేయేండ్ల రాజ్యమున భూలోక రాజ్యములు",
+        "తీరిన పిదప మిత్రునితో మేము",
+        "జయప్రదులమై నిత్యమేలుదుము",
+        "ఆ ... ఆనందము"
+      ],
+      "english": [
+        "Veyendla raajyamuna bhooloka raajyamulu",
+        "Theerina pidhapa mithrunitho memu",
+        "Jayapradhulamai nithyameludhumu",
+        "Aa ... aanandamu"
+      ]
+    }
+  ]
+}

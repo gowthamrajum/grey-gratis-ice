@@ -1,0 +1,87 @@
+{
+  "song_name": "Yehova naa mora laalinchenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "యెహొవ నా మొర లాలి౦చెను దన మహా దయను నను",
+      "గణి౦చెను అహర్నిశల దీనహీనుడగు నా దు హాయనెడు",
+      "ధ్వని గ్రహి౦చి మనిపెను"
+    ],
+    "english": [
+      "Yehova naa mora laalinchenu thana mahaa dayanu nanu",
+      "Ganinchenu aharnishala dheenaheenudagu naa dhu haayanedu",
+      "Dhvani grahinchi manipenu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పిశాచి గడిమిబడగొట్టెను దన వశాన నను నిలువబెట్టెను",
+        "ప్రశా౦త మధురను విశేష వాక్ఫలనిశా౦తమునఁజే",
+        "ర్చిసేదఁదీర్చెను"
+      ],
+      "english": [
+        "Pishaachi gadimibadagottenu thana vashaana nanu niluvabettenu",
+        "Prashaantha madhuranu vishesha vaakphalanishaanthamunanje",
+        "Rchisedhandheerchenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మదావశముఁబోలు నా మదిన్ దన ప్రదీప్త వాక్యా౦ కుశా",
+        "హతిన్ యధేచ్చలన్నిటి గుది౦చి పాపపు మొదల్ నరిఁకి",
+        "దరికిఁజేర్చెను"
+      ],
+      "english": [
+        "Madhaavashamumbolu naa madhin thana pradheeptha vaakyaam kushaa",
+        "Hathin yadhechchalanniti gudhinchi paapapu modhal narinki",
+        "Dharikinjerchenu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అనీతి వస్త్ర మెడలి౦చెను యేసునాధు రక్తమును ము౦చెను",
+        "వినూత్న యత్నమె ద నూని యెన్నఁడు గనన్ వినన్ బ్రే మ",
+        "నాకుఁజూపెను"
+      ],
+      "english": [
+        "Aneethi vasthra medhalinchenu Yesunaadhu rakthamunu munchenu",
+        "Vinoothna yathname dha nooni ennadu ganan vinan prema",
+        "Naakunjoopenu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "విలాపములకుఁజెవినిచ్చెను శ్రమ కలాపములకు సెలవిచ్చెను",
+        "శిలానగముపై కి లాగి నను సుఖ కళావళుల్ మన సులోన",
+        "నిలిపెను"
+      ],
+      "english": [
+        "Vilaapamulakunjevinichchenu shrama kalaapamulaku selavichchenu",
+        "Shilaanagamupai ki laagi nanu sukha kalaavalul mana sulona",
+        "Nilipenu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఆగణ్య పాపియని త్రోయక న న్ను గూర్చి తన సుతుని",
+        "దాఁచక తెగి౦చి మృతి కొ ప్పగి౦చి పాపపు నెగుల్ దిగుల్",
+        "సొగ సుగా నణ౦చెను"
+      ],
+      "english": [
+        "Aaganya paapiyani throyaka nannu goorchi thana suthuni",
+        "Dhaanchaka theginchi mruthi koppaginchi paapapu negul dhigul",
+        "Sogasugaa nananchenu"
+      ]
+    }
+  ]
+}

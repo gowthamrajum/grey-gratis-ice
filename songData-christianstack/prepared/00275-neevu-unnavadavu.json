@@ -1,0 +1,69 @@
+{
+  "song_name": "Neevu Unnavadavu",
+  "author": {
+    "Authored by": "Benny Joshua",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవు ఉన్నవాడవు మేలు చేయు వాడవు",
+      "కడ వరకు చేయి విడక నడిపించు వాడవు"
+    ],
+    "english": [
+      "Neevu unna vaduavu melu cheyu vadavu",
+      "kadavaraku cheyi vidaka nadipinchu vadavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆలోచించితిన్ నే నడచిన మార్గము గూర్చి",
+        "ధ్యానించెదను నీ దయను",
+        "తిరిగి చూచితిన్ మొదలైన కాలము గూర్చి",
+        "నీ ప్రేమ నను కనపరచెను"
+      ],
+      "english": [
+        "Alochinchithin ney nadichina margamu gurchi",
+        "dhyaninchedhanu nee dhayanu",
+        "thirigichuchithin modhalaina kalamu gurchi",
+        "nee prema naku kanaparchenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "శూన్యముతో ప్రారంభించితిని",
+        "తృప్తితో నన్ను నింపితివి"
+      ],
+      "english": [
+        "Sunyamutho prarambinchithini",
+        "thrupthitho nannu nimpithivi"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "Bridge:",
+        "ఇంతవరకు నడిపిన కృప యిక ముందు నడుపును",
+        "ఇంతవరకు కాచిన కృప యిక ముందు కాచును"
+      ],
+      "english": [
+        "Bridge:",
+        "Inthavarku nidipina krupa ika mundhu nadipunu",
+        "inthavarku kachina krupa ika mundhu kachunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీవు ఉన్నవాడవు మేలు చేయు వాడవు",
+        "కడ వరకు చేయి విడక నడిపించు వాడవు"
+      ],
+      "english": [
+        "Neevu unna vaduavu melu cheyu vadavu",
+        "kadavaraku cheyi vidaka nadipinchu vadavu"
+      ]
+    }
+  ]
+}

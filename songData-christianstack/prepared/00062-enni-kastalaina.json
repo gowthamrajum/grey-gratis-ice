@@ -1,0 +1,47 @@
+{
+  "song_name": "Enni Kastalaina",
+  "author": {
+    "Authored by": "Pastor Ebenezer Paul",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవా ఈ జీవితం నీకంకితం",
+      "ఎన్ని కష్టాలైనా ఎన్ని నష్టాలైనా నీతోనే నా జీవితం",
+      "వ్యాధి బాధలైనా శోక సంద్రమైన నీతోనే నా జీవితం"
+    ],
+    "english": [
+      "Dhevaa ee jeevitham neekankitham",
+      "Enni kastaalaina enni nashtaalaina neethone naa jeevitham",
+      "Vyaadhi baadhalaina shoka sandhramaina neethone naa jeevitham"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ ప్రేమను చూపించి నీ కౌగిటిలో చేర్చి",
+        "నీ మార్గమునే నాకు చూపినావు",
+        "నీతోనే నడచి నీలోనే జీవించి నీతోనే సాగెదను"
+      ],
+      "english": [
+        "Nee premanu choopinchi nee kowgitilo cherchi",
+        "Nee maargamune naaku choopinaavu",
+        "Neethone nadachi neelone jeevinchi neethone saagedhanu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా త్రోవకు వెలుగై పాదములకు దీపమై",
+        "నీ వాక్యమే నన్ను నడిపెను",
+        "నీతోనే నడచి నీలోనే జీవించి నీతోనే సాగెదను"
+      ],
+      "english": [
+        "Naa throvaku velugai paadhamulaku dheepamai",
+        "Nee vaakyame nannu nadipenu",
+        "Neethone nadachi neelone jeevinchi neethone saagedhanu"
+      ]
+    }
+  ]
+}

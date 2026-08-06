@@ -1,0 +1,35 @@
+{
+  "song_name": "Na Thodu Neevu Nilachithive",
+  "author": {
+    "Authored by": "Pastor D  Chrisostam",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నాతోడు నీవు నిలచితివే నీ ప్రేమ నాపై చూపితివే ||2|| నను వెంటాడే నీ కృప క్షేమములే నను కాచే నీ కరుణ కటాక్షములే ||2|| యేసయ్య నీకే స్తోత్రము... ||4||"
+    ],
+    "english": [
+      "na thodu neevu nilachithive nee prema naapai choopithive nanu ventaade nee krupa kshemamule nanu kaache nee karuna katakshamule ||2|| yesayya neeke stothramu… ||4||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అగ్ని గుండములో సింహపు బోనులో నను రక్షించు వారెవరు లేక నే ఒంటరినైయున్న వేళా నిలిచావు నాకై తోడుగా నిలిపావు నన్ను నీదు సాక్షిగా నను చేసావు నీ రక్షణకే రుజువుగా యేసయ్య నీకే స్తోత్రము... ||4||"
+      ],
+      "english": [
+        "agni gundamulo simhapu bonulo nanu rakshinchu vaarevaru leka ne ontarinaiyunna vela nilichaavu naakai thodugaa nilipaavu nannu needhu saakshigaa nanu chesaavu nee rakshanake rujuvugaa yesayya neeke stothramu… ||4||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అనారోగ్యములో వ్యాధిబాదలో నను స్వస్థపరచు వారెవరులేక నే వేదనలో క్రుంగియున్న వేళా తాకావునన్ను నీ చేతితో స్వస్థ పరచావు నన్ను నీదు వాక్కుతో నను చేసావు నీ ప్రేమ్మతో పరిపూర్ణముగా యేసయ్య నీకే స్తోత్రము... ||4||"
+      ],
+      "english": [
+        "anaarogyamulo vyaadhi bhaadhalo nanu swasthaparachu vaarevaru leka ne vedhanalo krungiyunna vela thaakaavu nannu nee chethitho swasthaparachaavu nannu needhu vaakkutho nanu chesaavu nee prematho paripoornamugaa yesayya neeke stothramu… ||4||"
+      ]
+    }
+  ]
+}

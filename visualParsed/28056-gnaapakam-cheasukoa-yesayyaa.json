@@ -1,0 +1,57 @@
+{
+  "song_name": "Gnaapakam chesuko Yesayyaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Rev Pandu PremKumar"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "జ్ఞాపకం చేసుకో యేసయ్యా",
+      "దారి తప్పిన ఈ గొఱియను",
+      "జ్ఞాపకం చేసుకో మెస్సియ్యా",
+      "జారిపడిన ఈ నాణెమును"
+    ],
+    "english": [
+      "Gnaapakam chesuko Yesayyaa",
+      "Daari thappina ee gorriyanu",
+      "Gnaapakam chesuko Messiyyaa",
+      "Jaaripadina ee naanemunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కనులుండి గ్రుడ్డివాడినై",
+        "గుంటలో పడితిని నా యేసయ్యా",
+        "కాళ్ళుండి కుంటివాడనై",
+        "ఊభిలో దిగితిని నా మెస్సియ్యా",
+        "చేయిచాచి నా చేయి పట్టి",
+        "లేవనెత్తుము నా యేసయ్యా",
+        "చెవులుండి చెవిటివాడనై",
+        "నీ స్వరమును విననైతిని నా యేసయ్యా",
+        "నోరుండి మూగవాడనై",
+        "నీ మాటను మరచితి నా మెస్సియ్యా",
+        "జాలితలిచి కన్నీరు తుడిచి",
+        "బ్రతికించుము నా మెస్సియ్యా"
+      ],
+      "english": [
+        "Kanulundi gruddivaadinai",
+        "Guntalo padithini naa Yesayyaa",
+        "Kaallundi kuntivaadanai",
+        "Oobhilo dhigithini naa Messiyyaa",
+        "Cheyichaachi naa cheyi patti",
+        "Levanetthumu naa Yesayyaa",
+        "Chevulundi chevitivaadanai",
+        "Nee swaramunu vinanaithini naa Yesayyaa",
+        "Norundi moogavaadanai",
+        "Nee maatanu marachithi naa Messiyyaa",
+        "Jaalithalichi kanneeru thudichi",
+        "Brathikinchumu naa Messiyyaa"
+      ]
+    }
+  ]
+}

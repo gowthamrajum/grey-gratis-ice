@@ -1,0 +1,96 @@
+{
+  "song_name": "Adharam",
+  "author": {
+    "Authored by": "Dr.A.Usha Rani",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆధారం నీవే యేషువా",
+      "ఆశ్రయము నీవే నా దేవా"
+    ],
+    "english": [
+      "Aadharam neeve Yeshuva",
+      "Aasrayamu neeve naa deva"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏమైనా చేస్తావని నాకోసం",
+        "కడవరకు నడిపిస్తావని విశ్వాసం"
+      ],
+      "english": [
+        "Emaina chesthavani naakosam",
+        "Kadavaraku nadipisthavani viswasam"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "యేషువా నడిపించే నా దేవా",
+        "యేషువా నా కొరకై నువ్వు రావా"
+      ],
+      "english": [
+        "Yeshuva nadipinche naa dheva",
+        "Yeshuva naa korakai nuvvu raava"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీ కొరకై వేచానయ్య",
+        "నీ చిత్తముకై నిలిచానయ్య"
+      ],
+      "english": [
+        "Nee korakai vechaanayya",
+        "Nee chitthamukai nilichaanayya"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కన్నీటిని తుడిచే నీ ప్రేమ",
+        "ధైర్యాన్ని నింపెను నాలోన"
+      ],
+      "english": [
+        "Kanneetini thudiche nee prema",
+        "Dhairyanni nimpenu naalona"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "యేషువా నడిపించే నా దేవా",
+        "యేషువా నా కొరకై నువ్వు రావా"
+      ],
+      "english": [
+        "Yeshuva nadipinche naa dheva",
+        "Yeshuva naa korakai nuvvu raava"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఏమైనా చేస్తావని నాకోసం",
+        "కడవరకు నడిపిస్తావని విశ్వాసం"
+      ],
+      "english": [
+        "Emaina chesthavani naakosam",
+        "Kadavaraku nadipisthavani viswasam"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "యేషువా నడిపించే నా దేవా",
+        "యేషువా నా కొరకై నువ్వు రావా"
+      ],
+      "english": [
+        "Yeshuva nadipinche naa dheva",
+        "Yeshuva naa korakai nuvvu raava"
+      ]
+    }
+  ]
+}

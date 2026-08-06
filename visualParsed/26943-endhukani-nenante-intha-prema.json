@@ -1,0 +1,66 @@
+{
+  "song_name": "Endhukanee nenante intha prema",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Joshua Shaik"
+    ],
+    "రచన": [
+      "జాషువా షేక్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఎందుకనీ నేనంటే ఇంత ప్రేమ",
+      "దేనికనీ నాపైన – ఇంత కరుణ",
+      "జడివాన లోయలో – ఎదురీత బాటలో",
+      "ఎన్నడూ వీడనీ – దైవమా యేసయ్య",
+      "ఎందుకనీ నేనంటే ఇంత ప్రేమ",
+      "దేనికనీ నాపైన – ఇంత కరుణ"
+    ],
+    "english": [
+      "Endhukanee nenante intha prema",
+      "Dhenikanee naapaina – Intha karuna",
+      "Jadivaana loyalo – Edhureetha baatalo",
+      "Ennadoo veedanee – Daivamaa Yesayya",
+      "Endhukanee nenante intha prema",
+      "Dhenikanee naapaina – Intha karuna"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆశ చూపే లోకం – గాయాలు రేపెనే",
+        "గాలి వానై నాలో – నను కృంగదీసెనే",
+        "మాతృమూర్తి నీవై – లాలించె నన్నిలా",
+        "ఆదరించసాగే – నీ ప్రేమ వెన్నెల",
+        "క్షణమైనా – యుగమైనా – నీ మమతే కనుపాపలా"
+      ],
+      "english": [
+        "Aasha choope lokam – Gaayaalu repene",
+        "Gaali vaanai naalo – Nanu krungadheesene",
+        "Maathrumoorthi neevai – Laalinche nannilaa",
+        "Aadharinchasaage – Nee prema vennela",
+        "Kshanamainaa – Yugamainaa – Nee mamathe kanupaapalaa"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మోయలేని భారం – నీపైన మోపగా",
+        "ఆరిపోదు దీపం – నీ చెంతనుండగా",
+        "ఎండమావియైనా – నీ ప్రేమ చాలుగా",
+        "ఎంత దూరమైనా – నా తోడు నీవెగా",
+        "కలనైనా – ఇలనైనా – నీ కృపలో కాపాడవా"
+      ],
+      "english": [
+        "Moyaleni bhaaram – Neepaina mopagaa",
+        "Aaripodhu deepam – Nee chenthanundagaa",
+        "Endamaaviyainaa – Nee prema chaalugaa",
+        "Entha dooramainaa – Naa thodu neevegaa",
+        "Kalanainaa – Ilanainaa – Nee krupalo kaapaadavaa"
+      ]
+    }
+  ]
+}

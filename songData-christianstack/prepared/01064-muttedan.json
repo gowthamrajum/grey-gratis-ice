@@ -1,0 +1,87 @@
+{
+  "song_name": "Muttedan",
+  "author": {
+    "Authored by": "Anne Deborah K Mohanty",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ముట్టెదన్ నిను ముట్టెదన్",
+      "ముట్టెదన్ నిను ముట్టెదన్ నా యేసయ్య (2)",
+      "నీ వస్త్రపు చెంగును మాత్రమే ముట్టెదన్",
+      "నీ ప్రభావము నాలోకి పంపుము",
+      "నను విడచి వెళ్ళకుము నను స్వస్తపరచుము",
+      "నిను ముట్టెదన్ నా యేసయ్య నిను ముట్టెదన్ (2)",
+      "తాకేదన్ నిను తాకేదన్",
+      "తాకేదన్ నిను తాకేదన్ నా యేసయ్య (2)",
+      "నీ వస్త్రపు చెంగును మాత్రమే తాకేదన్",
+      "నీ ప్రభావము నాలోకి పంపుము",
+      "నను విడచి వెళ్ళకుము నను స్వస్తపరచుము",
+      "నిను తాకేదన్ నా యేసయ్య నిను తాకేదన్ (2)",
+      "ముట్టితివి నను ముట్టితివి",
+      "ముట్టితివి నను ముట్టిన నా యేసయ్య (2)",
+      "నీ వస్త్రపు చెంగును మాత్రమే ముట్టితిని",
+      "నీ ప్రభావము నాలోకి వచ్చెను",
+      "నీ మహాత్యముతో నను నింపితివి",
+      "నీకే అర్పణ నా స్తోత్రము నా యేసయ్య (2)"
+    ],
+    "english": [
+      "Nee mahima naalo nimpumu nee ghanatha naalo nimpumu",
+      "nee hasthamu naapai unchumu nee kaaryamu naalo cheyumu",
+      "nee ghanatha naalo nimpumu",
+      "nee hasthamu naapai unchumu nee kaaryamu naalo cheyumu",
+      "nee vasthrapu chengunu maatramey muttithini",
+      "nee prabhaavamu naaloki vachenu",
+      "nee mahaathyamutho nanu nimpitivi",
+      "neekey arpana naa sthothramu naa yeasayya (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "Bridge:",
+        "నీ మహిమ నాలో నింపుము నీ ఘనత నాలో నింపుము",
+        "నీ హస్తము నాపై ఉంచుము నీ కార్యము నాలో చేయుము",
+        "నీ ఘనత నాలో నింపుము",
+        "నీ హస్తము నాపై ఉంచుము నీ కార్యము నాలో చేయుము",
+        "నీ వస్త్రపు చెంగును మాత్రమే ముట్టితిని",
+        "నీ ప్రభావము నాలోకి వచ్చెను",
+        "నీ మహాత్యముతో నను నింపితివి",
+        "నీకే అర్పణ నా స్తోత్రము నా యేసయ్య (2)"
+      ],
+      "english": [
+        "Muttedan ninu muttedan",
+        "muttedan ninu muttedan naa yeasayya (2)",
+        "nee vastrapu chengunu maatramey muttedan",
+        "nee prabhavamu naaloki pampumu",
+        "nanu vidachi vellakumu nanu svastaparachumu",
+        "ninu muttedan naa yeasayya ninu muttedan (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [],
+      "english": [
+        "Taakedan ninu taakedan",
+        "taakedan ninu taakedan naa yeasayya (2)",
+        "nee vastrapu chengunu maatramey taakedan",
+        "nee prabhavamu naaloki pampumu",
+        "nanu vidachi vellakumu nanu svastaparachumu",
+        "ninu taakedan naa yeasayya ninu taakedan (2)"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [],
+      "english": [
+        "Muttithivi nanu muttithivi",
+        "muttithivi nanu muttina naa yeasayya (2)",
+        "nee vastrapu chengunu maatramey muttithini",
+        "nee prabhavamu naaloki vachenu",
+        "nee mahaathyamutho nanu nimpithivi",
+        "neekey arpana naa sthotrhamu naa yeasayya (2)"
+      ]
+    }
+  ]
+}

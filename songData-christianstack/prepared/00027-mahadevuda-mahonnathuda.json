@@ -1,0 +1,55 @@
+{
+  "song_name": "Mahadevuda Mahonnathuda",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మహాదేవుడా మహోన్నతుడా నిన్ను స్తుతించెద",
+      "కృపామయుడా దయామయుడా నిన్ను కీర్తించెద",
+      "మహిమ నీకే ఘనత నీకే",
+      "మహిమ నీకే ఘనత నీకే – ప్రభావము నీకే",
+      "నీకే నీకే నీకే నా యేసయ్య",
+      "నీకే నీకే నీకే నా యేసయ్య"
+    ],
+    "english": [
+      "Mahadevuda Mahonnathuda ninnu sthuthincheda",
+      "Krupamayuda Dayamayuda ninnu keerthincheda",
+      "Mahima neeke ghanatha neeke prabhaavamu neeke",
+      "Neeke neeke neeke naa Yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నన్ను ఎడబాయని నా పరమ తండ్రి",
+        "నన్ను విడువని నా కన్న తండ్రి",
+        "నీలో ఫలించి – నీకై జీవించి",
+        "నిన్నే నిన్నే నిన్నే నే కొలిచెద"
+      ],
+      "english": [
+        "Nannu edabaayani naa parama thandri",
+        "Nannu viduvani naa kanna thandri",
+        "Neelo phalinchi neekai jeevinchi",
+        "Ninne ninne ninnene kolicheda"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీదు గాయాలను నే రేపకుండా",
+        "నీదు ఆత్మలో నే సాగిపోతా..",
+        "నీకై శ్రమించి – నీకై జీవించి",
+        "నిన్నే నిన్నే నిన్నే ప్రకటించెద"
+      ],
+      "english": [
+        "Needu gaayamulanu ne repakunda",
+        "Needu aathmalone saagipothaa",
+        "Neekai shraminchi neekai jeevinchi",
+        "Ninne ninne ninne prakatincheda"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "song_name": "Oohinchaledhayya",
+  "author": {
+    "Authored by": "Raj Chikkala",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఊహించలేదయ్య దీవిస్తావని",
+      "ఊహించనే లేదయ్య కరుణిస్తావని",
+      "కృతజ్ఞతతో నీ సన్నిధిలో నిన్ను నే సేవింతును",
+      "నమ్మకముగా యదార్ధతతో నీ కృపలో నే సాగెదన్"
+    ],
+    "english": [
+      "Oohinchaledhayya dheevisthaavani",
+      "oohinchane ledhayya karunisthaavani",
+      "kruthagnathatho nee sannidhilo ninnu ne sevinthunu",
+      "nammakamugaa yadhaardhathatho nee krupalo ne saagedhan"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ ప్రేమతో నీ ఆత్మతో నన్నాధరించిన నా తండ్రివై",
+        "నా తోడువై నా నీడవై నా కడుపు నింపిన నా తల్లివై",
+        "ఏమిచ్చినా నీ ౠణము తీర్చుకోనయ్యా",
+        "ఆ బదులుగా ఏమివ్వగలనయ్య",
+        "ఆ వేదనలో ఆ శోధనలో నా చెంత చేరిన నా దైవమై",
+        "నీ జాడలో ఆ కల్వరిలో నా చింత తీర్చిన నా దైవమై",
+        "ఏమిచ్చినా నీ ౠణము తీర్చుకోనయ్యా",
+        "ఆ బదులుగా ఏమివ్వగలనయ్య"
+      ],
+      "english": [
+        "Nee prematho nee aathmatho nannaadharinchina naa thandrivai",
+        "naa thoduvai naa needavai naa kadupu nimpina naa thallivai",
+        "emichinaa nee runamu theerchukonayyaa",
+        "aa badhulugaa emivvagalanayya",
+        "Aa vedhanalo aa shodhanalo naa chentha cherina naa daivamai",
+        "nee jaadalo aa kalvarilo naa chintha theerchina naa daivamai",
+        "emichinaa nee runamu theerchukonayyaa",
+        "aa badhulugaa emivvagalanayya"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "song_name": "Kallundi choodaleni endaro unnaaru",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "కల్లుండి చూడలేని ఎందరో ఉన్నారు",
+      "చూసి చూడనట్టు బ్రతుకుచున్నారు (2)",
+      "వారి కనులు తెరిపించాలి నీ మహిమతోనే",
+      "జీవింప చేయాలి నీ మహిమలోనే ||కల్లుండి||"
+    ],
+    "english": [
+      "Kallundi choodaleni endaro unnaaru",
+      "Choosi choodanattu brathukuchunnaaru (2)",
+      "Vaari kanulu theripinchaali nee mahimathone",
+      "Jeevimpa cheyaali nee mahimalone ||Kallundi||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కంటి చూపుతో నన్ను కాచియున్నావు",
+        "గుండె పైన వాత పెట్టి నను మార్చినావు (2)",
+        "మరణాన్ని తప్పించావు",
+        "జీవాన్ని నాకిచ్చావు (2)",
+        "ఇంకేల నా యేసయ్యా  ||కల్లుండి||"
+      ],
+      "english": [
+        "Kanti chooputho nannu kaachiyunnaavu",
+        "Gunde paina vaatha petti nanu maarchinaavu (2)",
+        "Maranaanni thappinchaavu",
+        "Jeevaanni naakichchaavu (2)",
+        "Inkela naa Yesayyaa ||Kallundi||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీదు ఆత్మతో నన్ను నింపియున్నావు",
+        "నీదు సాక్షిగా నన్ను ఇల నిలిపియుంచావు (2)",
+        "నీవే నా గమ్యమని",
+        "నీలోనే నడిచెదను (2)",
+        "నాకేగా పరలోకము  ||కల్లుండి||"
+      ],
+      "english": [
+        "Needu aathmatho nannu nimpiyunnaavu",
+        "Needu saakshigaa nannu ila nilipiyunchaavu (2)",
+        "Neeve naa gamyamani",
+        "Neelone nadichedanu (2)",
+        "Naakegaa paralokamu ||Kallundi||"
+      ]
+    }
+  ]
+}

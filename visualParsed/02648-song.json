@@ -1,0 +1,80 @@
+{
+  "song_name": "Yesu needu jaalivalla",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "ఆర్థర్ క్లీన్లాండ్ కోన్స్"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు, నీదు జాలివల్ల",
+      "లెక్క లేనివారలు",
+      "రక్షణంది సంతసిల్ల",
+      "నిమ్ము వారి డెందముల్",
+      "నీదు సిల్వ వంతవార్తఁ",
+      "జాటఁజేసి రాష్ట్రముల్",
+      "చూడ నిమ్ము త్రాణకర్త!",
+      "నీ కృపా ప్రకాశముల్"
+    ],
+    "english": [
+      "Yesu, needu jaalivalla",
+      "Lekka lenivaaralu",
+      "Rakshanandhi santhasilla",
+      "Nimmu vaari dhendhamul",
+      "Needu silva vintha vaartha",
+      "Jaatajesi raashtramul",
+      "Chooda nimmu thraanakartha!",
+      "Nee krupaa prakaashamul"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఏమియున్ గ్రహింపకున్న",
+        "మర్త్యు డెంద మాశతో",
+        "నిన్ను ఁ గూర్చి తృష్ణ గొన్న",
+        "యాత్మ యేడ్చు మెండుగా",
+        "కోయఁబడ్డ గడ్డి మంచుఁ",
+        "గోరునట్లు పాపులు",
+        "నీవె రక్షకుండ వంచు",
+        "నిన్ సదా యాశింతురు."
+      ],
+      "english": [
+        "Emiyun grahimpakunna",
+        "Marthyu dhendha maashatho",
+        "Ninnu goorchi thrushna gonna",
+        "Yaathma edchu mendugaa",
+        "Koyabadda gaddi manchu",
+        "Gorunatlu paapulu",
+        "Neeve rakshakunda vanchu",
+        "Nin sadaa yaashinthuru."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ద్వీపవాసు లెత్తి కేలు",
+        "కోరుచుందు రిప్పుడు",
+        "నీదు సేవకాళి నంపి",
+        "యాత్మ క్రొంత్త జన్మమున్",
+        "ప్రేమదీప్తి జ్ఞానకాంతిఁ",
+        "గల్గం జేయు వాక్యము",
+        "నిచ్చి గొఱ్ఱె పిల్ల కీర్తిన్",
+        "వారి నోట నుంచుము"
+      ],
+      "english": [
+        "Dhveepavaasu letthi kelu",
+        "Koruchundhu rippudu",
+        "Needu sevakaali nampi",
+        "Yaathma krottha janmamun",
+        "Premadheepthi gnaanakaanthi",
+        "Galgan jeyu vaakyamu",
+        "Nichchi gorre pilla keerthin",
+        "Vaari nota nunchumu"
+      ]
+    }
+  ]
+}

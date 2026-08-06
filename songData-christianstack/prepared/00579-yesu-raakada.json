@@ -1,0 +1,67 @@
+{
+  "song_name": "Yesu Raakada",
+  "author": {
+    "Authored by": "A J Emmanuel",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు రాకడ – చేరువకాగా",
+      "రాకడ గురుతులు – నిజమై పోగా",
+      "లోకముపై నీ నేత్రమేల?",
+      "సోదరా! యేసును కనుగొనుము వేగ",
+      "సోదరి! యేసును కనుగొనుము వేగ"
+    ],
+    "english": [
+      "Yesu raaka cheruva kaaga",
+      "raakada gurthulu nijamaipoga",
+      "lokamupai nee netramela?",
+      "sodara! yesunu kanugonumu vega"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పామరునిగా సోమరునిగా",
+        "కామక్రోధ పాపమయునిగా",
+        "ఎన్నాళ్ళు ఈ లోకము నీకు",
+        "ఎన్నాళ్ళున్నా మరణము నీకు",
+        "త్వరలోనే ప్రభు యేతెంచున్",
+        "కనుక చేరుము యేసును వేగ",
+        "జనము మీదికి లేచు జనము",
+        "తనది కానిది ఆశించు దినము",
+        "ఋతువుల్లో గల మార్పులు జూడు",
+        "అతిగా కలిగే కరువులు జూడు",
+        "త్వరలోనే ప్రభు యేతెంచున్",
+        "కనుక చేరుము యేసును వేగ",
+        "యూదులొకటిగ చేరు వార్తలు",
+        "వ్యాధులెన్నో వ్యాపించు వార్తలు",
+        "యుద్ధాలు, కంపములు నేడు",
+        "శ్రద్ధాసక్తితొ గమనించి చూడు",
+        "త్వరలోనే ప్రభు యేతెంచున్",
+        "కనుక చేరుము యేసును వేగ"
+      ],
+      "english": [
+        "Paamarunigaa – soomaruvigaa",
+        "kaamakroodha paapamayunigaa",
+        "ennaallu! ee lookamu neeku?",
+        "ennaallunnaa maranamu neeku",
+        "twaraloone prabhu yethenchun",
+        "kanuka cherumu yesunu vega",
+        "Janamu meediki lechu janamu",
+        "tanadi kaanidi aasinchu dinamu",
+        "rutuvullo gala maarpulu joodu",
+        "athigaa kalige karuvulu joodu",
+        "twaraloone prabhu yethenchun",
+        "kanuka cherumu yesunu vega",
+        "Yoodhulokatiga cheru vaarthalu",
+        "vyaadhulenno vyapinchu vaarthalu",
+        "yuddhalu, kampamulu needu",
+        "sraddhaasakthitho gamaninchi choodu",
+        "twaraloone prabhu yethenchun",
+        "kanuka cherumu yesunu vega"
+      ]
+    }
+  ]
+}

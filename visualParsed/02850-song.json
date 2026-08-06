@@ -1,0 +1,76 @@
+{
+  "song_name": "Regathvarapadaku orchuko kopi goda",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "రేగత్వరపడకు",
+      "ఓర్చుకో",
+      "కోపి గోడుజెందును",
+      "ఓర్చుకో",
+      "నీ కన్యాయమయినను",
+      "కన్ను లెర్రజేయకు",
+      "శాంత మొందు మెప్పుడు",
+      "ఓర్చుకో."
+    ],
+    "english": [
+      "Regathvarapadaku",
+      "Orchuko",
+      "Kopi godujendhunu",
+      "Orchuko",
+      "Nee kanyaayamayinanu",
+      "Kannu lerrajeyaku",
+      "Shaantha mondhu meppudu",
+      "Orchuko."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఎవ్వఁడేని తిట్టిన",
+        "ఓర్చుకో",
+        "మేలుఁజేయు కీడుకు",
+        "ఓర్చుకో",
+        "లోకమందు సుఖము",
+        "కొంతసేపు నుండును",
+        "కోపమేలఁ జేతువు?",
+        "ఓర్చుకో."
+      ],
+      "english": [
+        "Evvadeni thittina",
+        "Orchuko",
+        "Melujeyu keeduku",
+        "Orchuko",
+        "Lokamandu sukhamu",
+        "Konthasepu nundunu",
+        "Kopamela jethuvu?",
+        "Orchuko."
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీవు కీడునొందఁగా",
+        "ఓర్చుకో",
+        "ప్రతి కీడుఁ జేయకు",
+        "ఓర్చుకొనియుండుము",
+        "అంత సరియగును",
+        "నీకు జయముండును",
+        "ఓర్చుకో."
+      ],
+      "english": [
+        "Neevu keedunondhagaa",
+        "Orchuko",
+        "Prathi keedu jeyaku",
+        "Orchukoniyundumu",
+        "Antha sariyagunu",
+        "Neeku jayamundunu",
+        "Orchuko."
+      ]
+    }
+  ]
+}

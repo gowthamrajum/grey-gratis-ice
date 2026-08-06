@@ -1,0 +1,57 @@
+{
+  "song_name": "Jagathi karudhenche rakshanakartha paapula mora vinenu Yesu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "జగతి కరుదెంచె రక్షణకర్త",
+      "పాపుల మొర వినెను యేసు"
+    ],
+    "english": [
+      "Jagathi karudhenche rakshanakartha",
+      "Paapula mora vinenu Yesu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "కృంగినవారిని - నింగికి యెత్తి పాపము శాపము",
+        "ఆపదలన్ని బాపెను యేసు"
+      ],
+      "english": [
+        "Krunginavaarini - Ningiki etthi paapamu shaapamu",
+        "Aapadhalanni baapenu Yesu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపపుపాత్రను పానము జేసి",
+        "మరణపు ముల్లును విరచి జయించి",
+        "తెరచె మోక్షద్వారమున్"
+      ],
+      "english": [
+        "Paapapupaathranu paanamu jesi",
+        "Maranapu mullunu virachi jayinchi",
+        "Therache mokshadhvaaramun"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "లెండి రండి పాడుచు వేగ",
+        "చాటెద మెల్లెడ కోట్ల ప్రజలకు",
+        "ప్రేమామయు డేసున్"
+      ],
+      "english": [
+        "Lendi randi paaduchu vega",
+        "Chaateda melleda kotla prajalaku",
+        "Premaamayu desun"
+      ]
+    }
+  ]
+}

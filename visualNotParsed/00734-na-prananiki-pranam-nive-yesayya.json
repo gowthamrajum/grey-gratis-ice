@@ -1,0 +1,64 @@
+{
+  "song_name": "Naa praanaaniki praanam neeve Yesayya",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రాణానికి ప్రాణం నీవే యేసయ్యా. . .",
+      "స్నేహానికి నిజ స్నేహం నీవే మెసయ్యా. . .",
+      "నా ప్రాణానికి ప్రాణాం నీవేనయ్యా",
+      "స్నేహానికి నిజ స్నేహం నీవేనయ్యా",
+      "నిజ స్నేహానికి నిర్వచనం నీవే యేసయ్యా"
+    ],
+    "english": [
+      "Naa praanaaniki praanam neeve Yesayya. . .",
+      "Snehaaniki nija sneham neeve Yesayya. . .",
+      "Naa praanaaniki praanam neevenayya",
+      "Snehaaniki nija sneham neevenayya",
+      "Nija snehaaniki nirvachanam neeve Yesayya"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రాణ స్నేహితులమని బంధువులు స్నేహితులు",
+        "కన్నీటి సమయములో ఒంటరిని చేసారు (2)",
+        "ఆస్తులున్న వేళ్ళలో అక్కున చేరారు",
+        "ఆపద సమయాలలో అంతులేక పోయారు",
+        "జంటగ నిలచితివి నా ప్రాణమా కన్నీరు తుడిచితివి",
+        "నా స్నేహమా కన్నీరు తుడిచితివి (2)"
+      ],
+      "english": [
+        "Praana snehithulamani bandhuvulu snehithulu",
+        "Kanneeti samayamulo ontarini chesaaru (2)",
+        "Aasthulunna vellalo akkuna cheraaru",
+        "Aapada samayaalalo anthuleka poyaaru",
+        "Jantaga nilachithivi naa praanamaa kanneeru thudichithivi",
+        "Naa snehamaa kanneeru thudichithivi (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీవే నా ప్రాణమని కడవరకు విడువ నని",
+        "బాసలన్ని మరచి అనాధగ నన్ను చేసారు (2)",
+        "నేనున్నానంటు నా చెంతన చేరావు",
+        "ఎవరు విడచిన నను విడువనన్నావు",
+        "జంటగ నిలచితివి నా ప్రాణమా కన్నీరు తుడిచితివి",
+        "నా స్నేహమా కన్నీరు తుడిచితివి (2)"
+      ],
+      "english": [
+        "Neeve naa praanamani kadavaraku viduva nani",
+        "Baasalanni marachi anaadhaga nannu chesaaru (2)",
+        "Nenunnaanantu naa chenthana cheraavu",
+        "Evaru vidachina nanu viduvanannaavu",
+        "Jantaga nilachithivi naa praanamaa kanneeru thudichithivi",
+        "Naa snehamaa kanneeru thudichithivi (2)"
+      ]
+    }
+  ]
+}

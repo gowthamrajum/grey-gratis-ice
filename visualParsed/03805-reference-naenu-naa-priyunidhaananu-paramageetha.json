@@ -1,0 +1,62 @@
+{
+  "song_name": "Ne neevaadanai yundagoredhan",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నే నీవాడనై యుండగోరెదన్ - యేసు ప్రియ రక్షకా",
+        "నీవు చూపు ప్రేమను గాంచితిన్ - నన్ను జేర్చు నీదరిన్",
+        "నన్ను జేర్చు చేర్చు చేర్చు రక్షకా - నీవు పడ్డ సిల్వకున్",
+        "నన్ను జేర్చు చేర్చు చేర్చు రక్షకా - గాయ పడ్డ ప్రక్కకున్"
+      ],
+      "english": [
+        "Ne neevaadanai yundagoredhan - Yesu priya rakshakaa",
+        "Neevu choopu premanu gaanchithin - Nannu jerchu needharin",
+        "Nannu jerchu cherchu cherchu rakshakaa - Neevu padda silvakun",
+        "Nannu jerchu cherchu cherchu rakshakaa - Gaaya padda prakkakun"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నన్ను బ్రతిష్ఠబర్చుమీ నాథా - నీదు కృపవల్లనే",
+        "నాదు ఆత్మ నిన్ను నిరీక్షించున్ - నీదు చిత్తంబు నాకగున్"
+      ],
+      "english": [
+        "Nannu prathishtabarchumee naathaa - Needu krupavallane",
+        "Naadu aathma ninnu nireekshinchun - Needu chitthambu naakagun"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీదు సన్నిధిలో నికనుండ - నెంత తుష్ఠి నాకగున్",
+        "స్నేహితునిగ మాటలాడుదున్ - సర్వ శక్త ప్రభుతో"
+      ],
+      "english": [
+        "Needu sannidhilo nikanunda - Nentha thushti naakagun",
+        "Snehithuniga maatalaadudhun - Sarva shaktha prabhutho"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "నీదు దివ్య ప్రేమాతిశయము - ఇహబుద్ధికందదు",
+        "పరమందున దాని శ్రేష్ఠత - నే ననుభవించెదన్"
+      ],
+      "english": [
+        "Needu divya premaathishayamu - Ihabuddhikandhadhu",
+        "Paramanduna daani shreshtatha - Ne nanubhavinchedhan"
+      ]
+    }
+  ]
+}

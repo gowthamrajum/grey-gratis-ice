@@ -1,0 +1,48 @@
+{
+  "song_name": "Aradhana Aaradhana",
+  "author": {
+    "Authored by": "Raja Mandru",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆరాధనా ఆరాధనా"
+    ],
+    "english": [
+      "Aradhanaa aradhanaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అబ్రహాము దేవా ఆరాధన",
+        "ఇస్సాకు దేవా ఆరాధన",
+        "యాకోబు దేవా ఆరాధన",
+        "మోషే దేవా ఆరాధన",
+        "తండ్రి దేవా ఆరాధన",
+        "యేసు రాజా ఆరాధన",
+        "ఆత్మ దేవా ఆరాధన",
+        "త్రీయేక దైవమా ఆరాధన",
+        "యెహోవా షాలోం ఆరాధన",
+        "యెహోవా షమ్మా ఆరాధన",
+        "యెహోవా నిస్సి ఆరాధన",
+        "ఇమ్మానుయేలు ఆరాధన"
+      ],
+      "english": [
+        "Abrahaamu devaa aaraadhana",
+        "issaaku devaa aaraadhana",
+        "yaakobu devaa aaraadhana",
+        "moshe devaa aaraadhana",
+        "Thandri devaa aaraadhana",
+        "yesu raaja aaraadhana",
+        "aathma devaa aaraadhana",
+        "threeyeka daivamaa aaraadhana",
+        "Yehovaa shalom aaraadhana",
+        "yehovaa shammaa aaraadhana",
+        "yehovaa nissi aaraadhana",
+        "immaanuyelu aaraadhana"
+      ]
+    }
+  ]
+}

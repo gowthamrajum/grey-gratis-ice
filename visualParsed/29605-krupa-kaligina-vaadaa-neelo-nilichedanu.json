@@ -1,0 +1,76 @@
+{
+  "song_name": "Krupa kaligina vaadaa neelo nilichedanu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Bro.T.Vijayanand"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "కృప కలిగిన వాడా నీలో నిలిచెదను",
+      "దయగల యేసయ్య నీతో నడిచెదను"
+    ],
+    "english": [
+      "Krupa kaligina vaadaa neelo nilichedanu",
+      "Dayagala Yesayya neetho nadichedanu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా జీవితకాలము పాటలు పాడెదను",
+        "నా బ్రతుకు దినమంతా ఆరాధించెద"
+      ],
+      "english": [
+        "Naa jeevithakaalamu paatalu paadedanu",
+        "Naa brathuku dhinamanthaa aaraadhincheda"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నా బ్రతుకు బాటను నీ వేసావే",
+        "ఆ మంచి మార్గంలో నన్ను నిలిపావు",
+        "ఆరిన నేలకు సెలయేరువు నీవు",
+        "నా దారికి రహదారివై నా ముందున్నావు",
+        "పాటలు పాడెదను నా జీవితకాలము",
+        "ఆరాధించెద నా బ్రతుకు దినములు",
+        "చేయలేనన్న సేవకు పిలిపిచ్ఛావే",
+        "ఆ పరిచర్యకు వెలిగించావు",
+        "సన్నిధిలో సహవాసంలో నన్ను ఉంచావు",
+        "సంఘములో సేవకునిగా నను మార్చావు",
+        "పాటలు పాడెదను నా జీవితకాలము",
+        "ఆరాధించెద నా బ్రతుకు దినములు",
+        "పోయినన్న ప్రాణాన్ని తిరిగిచ్చావే",
+        "బ్రతకనన్న ఆశను బ్రతికించావు",
+        "నీవు ఇచ్చిన ఈ ఊపిరి నీకే అంకితము",
+        "నీవు ఇచ్చిన ఈ దేహము నీకే సొంతం అయ్యా",
+        "పాటలు పాడెదను నా జీవితకాలము",
+        "ఆరాధించెద నా బ్రతుకు దినములు"
+      ],
+      "english": [
+        "Naa brathuku baatanu nee vesaave",
+        "Aa manchi maargamlo nannu nilipaavu",
+        "Aarina nelaku selayeruvu neevu",
+        "Naa dhaariki rahadhaarivai naa mundhunnaavu",
+        "Paatalu paadedanu naa jeevithakaalamu",
+        "Aaraadhincheda naa brathuku dinamulu",
+        "Cheyalenanna sevaku pilipinchaave",
+        "Aa paricharyaku veliginchaavu",
+        "Sannidhilo sahavaasamlo nannu unchaavu",
+        "Sanghamulo sevakunigaa nanu maarchaavu",
+        "Paatalu paadedanu naa jeevithakaalamu",
+        "Aaraadhincheda naa brathuku dinamulu",
+        "Poyinanna praanaanni thirigichchaave",
+        "Brathakananna aashanu brathikinchaavu",
+        "Neevu ichchina ee oopiri neeke ankithamu",
+        "Neevu ichchina ee dehamu neeke sontham ayyaa",
+        "Paatalu paadedanu naa jeevithakaalamu",
+        "Aaraadhincheda naa brathuku dinamulu"
+      ]
+    }
+  ]
+}

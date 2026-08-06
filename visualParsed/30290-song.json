@@ -1,0 +1,228 @@
+{
+  "song_name": "Neekishtamainadhi kaavaali Devuniki",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభు మనసు తెలుసుకో",
+      "వాక్యాన్ని చదువుకో",
+      "ప్రభు మనసు తెలుసుకో",
+      "వాక్యాన్ని",
+      "చదువుకో"
+    ],
+    "english": [
+      "Prabhu manasu thelusuko",
+      "Vaakyaanni chadhuvuko",
+      "Prabhu manasu thelusuko",
+      "Vaakyaanni",
+      "Chadhuvuko"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీకిష్టమైనది",
+        "కావాలి దేవునికి",
+        "బలి అర్పణ",
+        "కోరలేదు దేవుడు",
+        "బలి అర్పణ",
+        "కోరలేదు",
+        "దేవుడు  ||ప్రభు||",
+        "వాక్యాన్ని చదువుకో"
+      ],
+      "english": [
+        "Neekishtamainadhi",
+        "Kaavaali Devuniki",
+        "Bali arpana",
+        "Koraledhu Devudu",
+        "Bali arpana",
+        "Koraledhu",
+        "Devudu  ||Prabhu||",
+        "Vaakyaanni chadhuvuko"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీకిష్టమైనది",
+        "కావాలి దేవునికి",
+        "బలి అర్పణ",
+        "కోరలేదు",
+        "దేవుడు",
+        "బలి అర్పణ",
+        "కోరలేదు",
+        "దేవుడు"
+      ],
+      "english": [
+        "Neekishtamainadhi",
+        "Kaavaali Devuniki",
+        "Bali arpana",
+        "Koraledhu",
+        "Devudu",
+        "Bali arpana",
+        "Koraledhu",
+        "Devudu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కయేను అర్పణ",
+        "తెచ్చాడు దేవునికి"
+      ],
+      "english": [
+        "Kayeenu arpana",
+        "Thechchaadu Devuniki"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "హేబేలువ అర్పణ",
+        "నచ్చింది",
+        "దేవునికి",
+        "గయీను అర్పణ",
+        "తెచ్చాడు దేవునికి",
+        "హేబేలు",
+        "అర్పణ",
+        "నచ్చింది",
+        "దేవునికి",
+        "అర్పించువాటి",
+        "టికంటే",
+        "అర్పించు",
+        "మనసు ముఖ్యం",
+        "అర్పించు వాటికంటే",
+        "అర్పించు",
+        "మనసు ముఖ్యం",
+        "నచ్చాలి మొదట నీవే",
+        "కావాలి మొదట నీవే",
+        "నీకిష్టమైనది",
+        "కావాలి దేవునికి కి",
+        "బలి అర్పణ",
+        "కోరలేదు",
+        "దేవుడు",
+        "బలి అర్పణ",
+        "కోరలేదు",
+        "దేవుడు"
+      ],
+      "english": [
+        "Hebelu arpana",
+        "Nachchindhi",
+        "Devuniki",
+        "Kayeenu arpana",
+        "Thechchaadu Devuniki",
+        "Hebelu",
+        "Arpana",
+        "Nachchindhi",
+        "Devuniki",
+        "Arpinchuvaati",
+        "Tikante",
+        "Arpinchu",
+        "Manasu mukhyam",
+        "Arpinchu vaatikante",
+        "Arpinchu",
+        "Manasu mukhyam",
+        "Nachchaali modhata neeve",
+        "Kaavaali modhata neeve",
+        "Neekishtamainadhi",
+        "Kaavaali Devuniki ki",
+        "Bali arpana",
+        "Koraledhu",
+        "Devudu",
+        "Bali arpana",
+        "Koraledhu",
+        "Devudu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "దేహాని దేవునికి",
+        "ఇవ్వాలి",
+        "కానుకగా",
+        "క్రీస్తయేసు వలె దేహం",
+        "కావాలి",
+        "యాగముగా"
+      ],
+      "english": [
+        "Dehaanni Devuniki",
+        "Ivvaali",
+        "Kaanukagaa",
+        "Kreesthayesu vale deham",
+        "Kaavaali",
+        "Yaagamugaa"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఓ దేహాన్ని దేవునికి",
+        "ఇవ్వాలి కానుకగా",
+        "క్రీస్తయేసు వలె దేహం",
+        "కావాలి యాగముగా",
+        "నీ ధనము ధాన్యము కంటే",
+        "ఒక పాపి మార్పు ముఖ్యం",
+        "నీ ధనము ధాన్యము కంటే",
+        "ఒక పాపి మార్పు ముఖ్యం",
+        "ప్రకటించు క్రీస్తు కొరకే",
+        "మరణించు",
+        "పాపి కొర కొరకే",
+        "నీకిష్టమైనది",
+        "కావాలి",
+        "దేవునికి",
+        "బలి అర్పణ",
+        "కొరలేదు",
+        "దేవుడు",
+        "బలి అర్పణ",
+        "కోరలేదు",
+        "దేవుడు  ||ప్రభు||",
+        "వాక్యాన్ని చదువుకో",
+        "నీకిష్టమైనది",
+        "కావాలి దేవునికి",
+        "బలి అర్పణ",
+        "కొరలేదు",
+        "దేవుడు",
+        "బలి అర్పణ",
+        "కొరలేదు",
+        "దేవుడు",
+        "ప్లీజ్"
+      ],
+      "english": [
+        "O dehaanni Devuniki",
+        "Ivvaali kaanukagaa",
+        "Kreesthayesu vale deham",
+        "Kaavaali yaagamugaa",
+        "Nee dhanamu dhaanyamu kante",
+        "Oka paapi maarpu mukhyam",
+        "Nee dhanamu dhaanyamu kante",
+        "Oka paapi maarpu mukhyam",
+        "Prakatinchu Kreesthu korake",
+        "Maraninchu",
+        "Paapi kora korake",
+        "Neekishtamainadhi",
+        "Kaavaali",
+        "Devuniki",
+        "Bali arpana",
+        "Koraledhu",
+        "Devudu",
+        "Bali arpana",
+        "Koraledhu",
+        "Devudu  ||Prabhu||",
+        "Vaakyaanni chadhuvuko",
+        "Neekishtamainadhi",
+        "Kaavaali Devuniki",
+        "Bali arpana",
+        "Koraledhu",
+        "Devudu",
+        "Bali arpana",
+        "Koraledhu",
+        "Devudu",
+        "Pleej"
+      ]
+    }
+  ]
+}

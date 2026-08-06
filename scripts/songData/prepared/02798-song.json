@@ -1,0 +1,56 @@
+{
+  "song_name": "Nae Neevaadanai Yunda Goaredhan Yaesu",
+  "author": {
+    "Authored by": "",
+    "రచన": "ఫ్రాన్సెస్ జేన్వేన్ ఆల్స్టీన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "నే నీవాఁడనై యుండఁ గోరెదన్ యేసు ప్రియ రక్షకా",
+      "నీవు చూపు ప్రేమను గాంచితిన్ నన్నుఁ జేర్చు నీదరిన్",
+      "నన్నుఁ జేర్చు చేర్చు చేర్చు రక్షకా నీవు పడ్డ సిల్వకున్",
+      "నన్నుఁ జేర్చు చేర్చు చేర్చు రక్షకా గాయపడ్డ ప్రక్కకున్"
+    ],
+    "english": [
+      "Nae Neevaadanai Yunda Goaredhan Yaesu Priya Rakshakaa",
+      "Neevu Choopu Praemanu Gaanchithin Nannu Jaerchu Needharin",
+      "Nannu Jaerchu Chaerchu Chaerchu Rakshakaa Neevu Padda Silvakun",
+      "Nannu Jaerchu Chaerchu Chaerchu Rakshakaa Gaayapadda Prakkakun"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నన్నుఁ బ్రతిష్ఠపర్చుమీ నాధా నీదు కృపవల్లనే",
+        "నాదు నాత్మ నిన్ను నిరీక్షించు నీ చిత్తంబు నాదగున్"
+      ],
+      "english": [
+        "Nannu Brathishtaparchumee Naadhaa Needhu Krupavallanae",
+        "Naadhu Naathma Ninnu Nireekshinchu Nee Chiththambu Naadhagun"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీదు సన్నిధిలో నిఁక నుండ నెంత తుష్టి నాకగున్",
+        "స్నేహితుని మాటలాడెదన్ సర్వశక్త ప్రభుతో"
+      ],
+      "english": [
+        "Needhu Sannidhiloa Nika Nunda Nentha Thushti Naakagun",
+        "Snaehithuni Maatalaadedhan Sarvashaktha Prabhuthoa"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "నీదు దివ్య ప్రేమాతిశయము ఇహ బుద్ధి కందదు",
+        "పరమందున దాని శ్రేష్ఠత నే ననుభవించెదన్"
+      ],
+      "english": [
+        "Needhu Dhivya Praemaathishayamu Iha Buddhi Kandhadhu",
+        "Paramandhuna Dhaani Shraeshtatha Nae Nanubhavinchedhan"
+      ]
+    }
+  ]
+}

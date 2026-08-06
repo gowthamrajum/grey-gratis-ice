@@ -1,0 +1,72 @@
+{
+  "song_name": "Parishududavu",
+  "author": {
+    "Authored by": "Esther Evelyne",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "హలేలూయా – హలేలూయా",
+      "హలేలూయా – హలేలూయా"
+    ],
+    "english": [
+      "Hallelujah – Hallelujah",
+      "Hallelujah – Hallelujah"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరిశుద్ధుడవు, నా దేవుడవు",
+        "నీ సన్నిధిలోనే, ఆనందము"
+      ],
+      "english": [
+        "Parishuddhudavu, naa devudavu",
+        "nee sannidhilone, aanandhamu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అను పల్లవి:",
+        "స్తుతియు మహిమ",
+        "స్తోత్రం ఘనత",
+        "నీకే చెల్లును, నీకే కలుగును"
+      ],
+      "english": [
+        "Pre-chorus:",
+        "Sthuthiyu mahima",
+        "sthothram ghanatha",
+        "neeke chellunu, neeke Kalugunu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అత్యున్నత సింహాసనముపై – ఆసీనుడవైయున్నావు,",
+        "అత్యంత ప్రేమ – నాపై చూపియున్నావు"
+      ],
+      "english": [
+        "Athyunnatha simhasanamupai",
+        "aaseenudavai yunnavu,",
+        "athyantha prema",
+        "naapai choopi yunnavu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "సర్వోనతుడా, మహోన్నతుడా",
+        "నీకే ఆరాధన",
+        "నీకే స్తుతి కీర్తన"
+      ],
+      "english": [
+        "Pre-chorus:",
+        "Sarvonatthudaa, mahonnathudaa",
+        "neeke aaraadhana",
+        "neeke sthuthi keerthana"
+      ]
+    }
+  ]
+}

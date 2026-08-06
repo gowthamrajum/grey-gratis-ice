@@ -1,0 +1,65 @@
+{
+  "song_name": "Maeghaa Roodumdai Prabhuyaesu Athi Vaegamugaa Naethemchun",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "మేఘా రూఢుండై - ప్రభుయేసు, అతి వేగముగా",
+      "నేతెంచున్ ఏతెంచున్ ఏతెంచున్",
+      "ఆకాశమునుండే వాడైన యేసు యిలకు నేతెంచున్"
+    ],
+    "english": [
+      "Maeghaa RooDuMdai - Prabhuyaesu, Athi Vaegamugaa",
+      "NaetheMchun AetheMchun AetheMchun",
+      "AakaashamunuMdae Vaadaina Yaesu Yilaku NaetheMchun"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆకాశమందాయనను - సంధింప",
+        "ఏకముగ నేగుదురు - నిజ విశ్వాసులందరు"
+      ],
+      "english": [
+        "AakaashamMdhaayananu - SMDhiMpa",
+        "Aekamuga Naegudhuru - Nija VishvaasulMdharu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాపబంధకముల్ ఆయనే త్రుంచున్",
+        "పాపముల నెడబాపున్ ప్రభుయేసే నినురక్షించున్"
+      ],
+      "english": [
+        "PaapabMDhakamul Aayanae ThruMchun",
+        "Paapamula Nedabaapun Prabhuyaesae NinurakShiMchun"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "రక్తముచే విమోచన మొంది",
+        "యేసుతో నేగ నాయత్తమా? క్రీస్తేసే - నీకై రాగన్"
+      ],
+      "english": [
+        "Rakthamuchae Vimoachana MoMdhi",
+        "Yaesuthoa Naega Naayaththamaa? Kreesthaesae - Neekai Raagan"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "శాశ్వత జీవము నిచ్చును నీకు",
+        "తండ్రితో నైక్యపర్చునిన్ - నదాతనతోనే నిన్నుంచున్"
+      ],
+      "english": [
+        "Shaashvatha Jeevamu Nichchunu Neeku",
+        "ThMdrithoa Naikyaparchunin - Nadhaathanathoanae NinnuMchun"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "song_name": "Na Raja Na Deva Stotra",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా రాజా నా దేవా స్తొత్ర గీతం పాడెదను",
+      "నా ప్రభువా నా రక్షకా ఉత్సహించి ఆరాధింతును",
+      "నిన్నే ప్రమించుచున్నాను నీకై జీవించుచున్నాను (2)"
+    ],
+    "english": [
+      "Na Raja Na Deva Stotra Gitam Padedanu",
+      "Na Prabuva Na Rakshaka Utsahimchi Aradhimtunu",
+      "Ninne Pramimchuchunnanu Nikai Jivimchuchunnanu (2)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నలిగిన వారికి నీవే మహా దుర్గము",
+        "దారి తప్పిన వారికి కృపా మార్గము",
+        "నన్ను నడిపించు నీవే నా ప్రాణము (2)"
+      ],
+      "english": [
+        "Naligina Variki Nive Maha Durgamu",
+        "Dari Tappina Variki Krupa Margamu",
+        "Nannu Nadipimchu Nive Na Pranamu (2)"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అడిగిన వారికి నీవే ఐశ్వర్యము",
+        "ఆత్మ వరములతో నింపె అపురూప దైవము",
+        "తొలకరివానతో నన్ను అభిషేకించుము (2)"
+      ],
+      "english": [
+        "Adigina Variki Nive Aisvaryamu",
+        "Atma Varamulato Nimpe Apurupa Daivamu",
+        "Tolakarivanato Nannu Abishekimchumu (2)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "song_name": "Kallalo Kanneeru Endhuku",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కళ్ళల్లో కన్నీరు ఎందుకూ గుండెల్లో దిగులు ఎందుకూ ఇక నీవు కలతచెందకూ నెమ్మది లేకుందా గుండెల్లో గాయమైనదా ఇక అవి ఉండబోవుగా యేసే నీ రక్షణ...యేసే నీ నిరీక్షణ యేసే నీ రక్షణ.యేసే నీ నిరీక్షణ |కళ్ళల్లో|"
+    ],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హొరు గాలులూ వీచగా...తుఫానులు చెలరెగగా మాట మాత్రం సెలవియ్యగ నిమ్మళమయెనుగా|2| యేసే నీ నావిక భయము చెందకూ నీవు ఇక",
+        "కలత చెందకూ నీవు ఇక |కళ్ళల్లో|"
+      ],
+      "english": []
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కరువు ఖడ్గములు వచ్చినా...నింద వేదన చుట్టినా లోకమంత ఏకమైనా భయము చెందకుమా|2| యేసే నీ రక్షక.",
+        "సంతసించుము నీవు ఇక |కళ్ళల్లో| Kaḷḷallō kannīru endukū guṇḍellō digulu endukū ika nīvu kalatacendakū nem'madi lēkundā guṇḍellō gāyamainadā ika avi uṇḍabōvugā yēsē nī rakṣaṇa...Yēsē nī nirīkṣaṇa yēsē nī rakṣaṇa.Yēsē nī nirīkṣaṇa |kallallo|"
+      ],
+      "english": []
+    },
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "Horu gālulū vīcagā...Tuphānulu celaregagā māṭa mātraṁ selaviyyaga nim'maḷamayenugā|2| yēsē nī nāvika bhayamu cendakū nīvu ika",
+        "Kalata cendakū nīvu ika |kallallo|"
+      ],
+      "english": []
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "Karuvu khaḍgamulu vaccinā...Ninda vēdana cuṭṭinā lōkamanta ēkamainā bhayamu cendakumā|2| yēsē nī rakṣaka.",
+        "Santasin̄cumu nīvu ika |kallallo|"
+      ],
+      "english": []
+    }
+  ]
+}

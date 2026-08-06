@@ -1,0 +1,44 @@
+{
+  "song_name": "Dhahana bali neeku nanishtamu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "మల్లెల దావీదు"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "దహన బలి నీకు ననిష్టము మరియు దైవ బలులు విరిగిన యాత్మయే",
+      "యెహోవ దేవ విరిగి నలిగిన యట్టి హృదయం బలక్ష్యంబు సేయవు ||దహన||"
+    ],
+    "english": [
+      "Dhahana bali neeku nanishtamu mariyu daiva balulu virigina yaathmaye",
+      "Yehova Deva virigi naligina yatti hrudayam balakshyambu seyavu ||Dhahana||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ కటాక్షముతో సీయోనున కిపుడే నెనరుతోడను మేలు చేయుమి",
+        "ప్రాకటంబుగను యోరూషలే మునకుఁ బ్రాకారములను గట్టించుమి  ||దహన||"
+      ],
+      "english": [
+        "Nee kataakshamutho Seeyonuna kipude nenaruthodanu melu cheyumi",
+        "Praakatambuganu Yoorooshale munaku braakaaramulanu gattinchumi ||Dhahana||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అంతట నీతియుక్తంబు లౌ బలుల యాగముల సర్వాంగ హోమముల్",
+        "ఎంతో యిష్టంబౌ బలిపీఠము మీఁద నెన్నో కోడెల జనులర్పించుతురు  ||దహన||"
+      ],
+      "english": [
+        "Anthata neethiyukthambu lau balula yaagamula sarvaanga homamul",
+        "Entho ishtambau balipeethamu meeda nenno kodela janularpinchuthuru ||Dhahana||"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "song_name": "Aashcharyamau anugraham",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆశ్చర్యమౌ అనుగ్రహం",
+      "రక్షించె దోషినన్ కోల్పోతిన్ నన్",
+      "చేపట్టబడితిన్ అంధత్వం వీడితిన్",
+      "వేధన్ తొలగించెన్ అనుగ్రహం",
+      "భయంబున్ వీడితిన్"
+    ],
+    "english": [
+      "Aashcharyamau anugraham",
+      "Rakshinche dhoshinan kolpothin nan",
+      "Chepattabadhithin andhathvam veedithin",
+      "Vedhan tholaginchen anugraham",
+      "Bhayambun veedithin"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ప్రత్యక్షమాయె నా యప్పుడే",
+        "విశ్వాసం వెల్లువాయే",
+        "నా బంధకం తొలగించావు",
+        "నా దేవా రక్షకా నాకై చెల్లించావు",
+        "ప్రవాహమై నీ కృపయే నాకు",
+        "నిత్య ప్రేమ ఆశ్చర్యమౌ"
+      ],
+      "english": [
+        "Prathyakshamaaye naa yappude",
+        "Vishwaasam velluvaaye",
+        "Naa bandhakam tholaginchaavu",
+        "Naa Deva rakshakaa naakai chellinchaavu",
+        "Pravaahamai nee krupaye naaku",
+        "Nithya prema aashcharyamau"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మేలైన దేవుని వాగ్ధానముల్",
+        "నీ వాక్యమే నా నిరీక్షణ",
+        "నా కేడెము నా స్వాస్థ్యము",
+        "జీవిత కాలమంతా",
+        "నా బంధకం తొలగించావు",
+        "నాదేవా రక్షకా నాకైచెల్లించావు",
+        "ప్రవాహమై నీ కైపయే నాకు",
+        "నిత్య ప్రేమ ఆశ్చర్యమౌ"
+      ],
+      "english": [
+        "Melaina Devuni vaagdhaanamul",
+        "Nee vaakyame naa nireekshana",
+        "Naa kedemu naa swaasthyamu",
+        "Jeevitha kaalamanthaa",
+        "Naa bandhakam tholaginchaavu",
+        "Naa Deva rakshakaa naakai chellinchaavu",
+        "Pravaahamai nee krupaye naaku",
+        "Nithya prema aashcharyamau"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "గతించు భూమి మంచువలే",
+        "చీకటి సూర్యుని కమ్ముట నైనా",
+        "నన్ను పిలచిన నా దేవుడుండ",
+        "నిత్యం నా తోడు నీవే",
+        "నిత్యం నా తోడు నీవే"
+      ],
+      "english": [
+        "Gathinchu bhoomi manchuvale",
+        "Cheekati sooryuni kammuta nainaa",
+        "Nannu pilachina naa Dhevudunda",
+        "Nithyam naa thodu neeve",
+        "Nithyam naa thodu neeve"
+      ]
+    }
+  ]
+}

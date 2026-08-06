@@ -1,0 +1,34 @@
+{
+  "song_name": "Vachesindi Krottha",
+  "author": {
+    "Authored by": "Pastor Pandu Prem Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "వచ్చేసింది క్రొత్త వత్సరం",
+      "ఏమి తెచ్చింది మనకోసం",
+      "ఎవరికి తెలుసును ఓ నేస్తం",
+      "యేసుకే తెలియును వాస్తవం"
+    ],
+    "english": [
+      "Vachesindhi krotha vathsaram",
+      "emi thechindhi manakosam",
+      "evariki thelusunu oh nestham",
+      "yesuke theliyunu vaasthavam"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు వైపు చూస్తూ ఓ నేస్తం",
+        "సాగిపొమ్ము విజయం సాధ్యం"
+      ],
+      "english": [
+        "Yesu vaipu choosthu oh nestham",
+        "saagipommu vijayam saadhyam"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "song_name": "Naa paapame ninu lokamu cherchenu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా పాపమే నిను లోకము చేర్చెను",
+      "నా దోషమే నిను సిలువను వేసెను (2)",
+      "నేనేగా పెంచితి నీ భారం",
+      "తండ్రికి నిను చేసితిని దూరం (2) ||నా పాపమే||"
+    ],
+    "english": [
+      "Naa paapame ninu lokamu cherchenu",
+      "Naa dhoshame ninu siluvanu vesenu (2)",
+      "Nenegaa penchithi nee bhaaram",
+      "Thandriki ninu chesithini dooram (2) ||Naa paapame||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆ గెత్సేమనే వనములోన నువ్వు చేసిన ఆ ప్రార్థనలో",
+        "నీ రుధిరము స్వేదము బిందువులుగా మారి ఎడతెగకుండా కురిసిన (2)",
+        "నువ్వు నలుగుట తండ్రి కోరెను",
+        "నా పాపము నీపై మోపెను (2)",
+        "నువ్వు చూపిన వినయమే కాదా?",
+        "నా పాలిట వెలకట్టని క్రయధనముగ మారెను  ||నా||"
+      ],
+      "english": [
+        "Aa Gethsemane vanamulona nuvvu chesina aa praarthanalo",
+        "Nee rudhiramu swedhamu binduvulugaa maari edathegakundaa kurisina (2)",
+        "Nuvvu naluguta thandri korenu",
+        "Naa paapamu neepai mopenu (2)",
+        "Nuvvu choopina vinayame kaadaa?",
+        "Naa paalita velakattani krayadhanamuga maarenu ||Naa||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఆ సిలువలో, నీ బాధలలో చూచితిని నా పాపము",
+        "నీ ప్రేమతో కార్చిన రుధిరం చెల్లించేను నా మూల్యము (2)",
+        "ఈ మరణము నా కోసమే",
+        "నీ యాతన నా లోపమే (2)",
+        "ఏమున్నది నాలోన ఘనము",
+        "నీ ప్రాణము పెట్టి నన్ను చేర్చితివి పరము  ||నా||"
+      ],
+      "english": [
+        "Aa siluvalo, nee baadhalalo choochithini naa paapamu",
+        "Nee prematho kaarchina rudhiram chellinchenu naa moolyamu (2)",
+        "Ee maranamu naa kosame",
+        "Nee yaathana naa lopame (2)",
+        "Emunnadi naalona ghanamu",
+        "Nee praanamu petti nannu cherchithivi paramu ||Naa||"
+      ]
+    }
+  ]
+}

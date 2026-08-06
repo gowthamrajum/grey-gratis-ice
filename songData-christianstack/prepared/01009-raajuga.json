@@ -1,0 +1,73 @@
+{
+  "song_name": "Raajuga",
+  "author": {
+    "Authored by": "Bro D Paul Jaya Kumar",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "రాజుగా రారాజుగా",
+      "ఏతెంచెనే బెత్లెహేములోన",
+      "రాజుగా క్రీస్తురాజుగా",
+      "ఉదయించెనే ఈ భువిలోన"
+    ],
+    "english": [
+      "Raajugaa raaraajugaa",
+      "ethenchene betlehemulona",
+      "raajugaa kreesthu raajugaa",
+      "udayinchene ee bhuvilona"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "లోకానికి శుభవార్తగా",
+        "మానవాళియే పరవశింపగా",
+        "నాలో నింపెను ఉల్లాసమే",
+        "నాలో నిండెను ఉత్సాహమే"
+      ],
+      "english": [
+        "lokaaniki subhavaarthagaa",
+        "maanavaaliye paravasimpagaa",
+        "naalo nimpenu ullaasame",
+        "naalo nindenu utsaahame"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "క్రిస్మస్ క్రిస్మస్ హ్యపి హ్యపి క్రిస్మస్",
+        "క్రిస్మస్ క్రిస్మస్ మెర్రి మెర్రి క్రిస్మస్"
+      ],
+      "english": [
+        "Christmas Christmas Happy Happy Christmas",
+        "Christmas Christmas Merry Merry Christmas[Rap]"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "[Rap]",
+        "దావీదు పురమునందు",
+        "ధన్యుడేసు పుట్టెను",
+        "గొల్లలొచ్చి జ్ఞానులొచ్చి",
+        "ఆరాధించె యేసును",
+        "క్రీస్తు ద్వారా రక్షణ",
+        "లోకానికి వచ్చెను",
+        "మన పాప శాపములు",
+        "తొలగింప వచ్చెను"
+      ],
+      "english": [
+        "Dhaaveedhu puramunandhu",
+        "dhanyudesu puttenu",
+        "gollalochi gnaanulochi",
+        "aaraadhinche yesunu",
+        "kreesthu dwaaraa rakshana",
+        "lokaaniki vachenu",
+        "mana paapa saapamulu",
+        "tholagimpa vachenu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "song_name": "Laali laali laalamma laali",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "లాలి లాలి లాలమ్మ లాలి - లాలనుచు బాడరే బాల యేసునకు || లాలి ||"
+    ],
+    "english": [
+      "Laali laali laalamma laali - Laalanuchu baadare baala Yesunaku || Laali ||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "పరలోకపు దేవ తనయుడోయమ్మా - పుడమిపై బాలుడుగ పుట్టెనోయమ్మా  ||లాలి||"
+      ],
+      "english": [
+        "Paralokapu Deva thanayudoyammaa - Pudamipai baaluduga puttenoyammaa  ||Laali||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "ఇహ పరాదుల కర్త యితడేనొ యమ్మా - మహిబాలనము జేయు మహితుడోయమ్మా  ||లాలి||"
+      ],
+      "english": [
+        "Iha paraadhula kartha ithadeno yammaa - Mahibaalanamu jeyu mahithudoyammaa  ||Laali||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఆదియంతము లేని యనఘుడో యమ్మా - ఆదాము దోషమున కడ్డుపడె నమ్మా  ||లాలి||"
+      ],
+      "english": [
+        "Aadiyanthamu leni yanaghudo yammaa - Aadaamu dhoshamuna kaddupade nammaa  ||Laali||"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "యూదులకు రాజుగా బుట్టెనోయమ్మా - యూదు లాతని తోడ వాదించిరమ్మా  ||లాలి||"
+      ],
+      "english": [
+        "Yoodhulaku raajugaa buttenoyammaa - Yoodhu laathani thoda vaadhinchirammaa  ||Laali||"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "నర గొర్రెల మంద కాపరో యమ్మా - గొర్రెలకు నందంబు క్రీస్తు తానమ్మా  ||లాలి||"
+      ],
+      "english": [
+        "Nara gorrela manda kaaparo yammaa - Gorrelaku nandambu Kreesthu thaanammaa  ||Laali||"
+      ]
+    }
+  ]
+}

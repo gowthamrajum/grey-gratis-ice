@@ -1,0 +1,34 @@
+{
+  "song_name": "Israyelu Devuda",
+  "author": {
+    "Authored by": "K Y Ratnam",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "బోలో క్రీస్తు మహరాజ్ కి జై",
+      "బోలో క్రీస్తు మహరాజ్ కే జై"
+    ],
+    "english": [
+      "Bolo kreesthu maharaaj ki jai",
+      "bolo kreesthu maharaaj ke jai"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఇశ్రాయేలు దేవుడా మా కాపరి యేసయ్యా",
+        "నిత్యము స్తుతియించి ఘనపరచెదం",
+        "స్తుతి చెల్లింతుము స్తుతి అర్పింతుము",
+        "పూజ్యనీయుడా"
+      ],
+      "english": [
+        "Israayelu devudaa maa kaapari yesayyaa",
+        "nithyamu sthuthiyinchi ghanaparachedam",
+        "sthuthi chellinthumu sthuthi arpinthumu",
+        "poojyaneeyudaa"
+      ]
+    }
+  ]
+}

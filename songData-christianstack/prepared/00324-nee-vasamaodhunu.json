@@ -1,0 +1,28 @@
+{
+  "song_name": "Nee Vasamaodhunu",
+  "author": {
+    "Authored by": "Pastor T Jafanya Sastry, Visakhapatnam",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీ వశమౌదును – స్వాధీనమౌదును",
+      "పరవశమొందుచు – నీ ఆరాధనలో"
+    ],
+    "english": [
+      "Nee vasamoudhunu – swaadheenamoudhunu",
+      "paravasamondhuchu – nee aaraadhanalo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసయ్య, యేసయ్య, యేసయ్య, యేసయ్య"
+      ],
+      "english": [
+        "Yesayya, yesayya, yesayya, yesayya"
+      ]
+    }
+  ]
+}

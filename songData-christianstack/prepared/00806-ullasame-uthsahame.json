@@ -1,0 +1,38 @@
+{
+  "song_name": "Ullasame Uthsahame",
+  "author": {
+    "Authored by": "JC Kuchipudi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఉల్లాసమే ఉత్సాహమే",
+      "ఉరికే వురిమే సంతోషమే",
+      "ఉప్పొంగి అలరించే ఆనందమే",
+      "ఊరంతా క్రిస్మస్ సంబరమే",
+      "ఉప్పొంగి అలరించే ఆనందమే",
+      "ఊరంతా క్రిస్మస్ సంభ్రంభమే"
+    ],
+    "english": [
+      "Ullaasame uthsaahame",
+      "urike vurime santhoshame",
+      "uppongi alarinche aanandhame",
+      "ooranthaa christmas sambarame",
+      "uppongi alarinche aanandhame",
+      "ooranthaa christmas sambhrambhame"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "హ్యాపీ హ్యాపీ హ్యాపీ హ్యాపీ హ్యాపీ క్రిస్మస్",
+        "మెర్రి మెర్రి మెర్రి మెర్రి మెర్రి క్రిస్మస్"
+      ],
+      "english": [
+        "Happy happy happy happy happy Christmas",
+        "Merry merry merry merry merry Christmas"
+      ]
+    }
+  ]
+}

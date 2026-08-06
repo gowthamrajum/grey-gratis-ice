@@ -1,0 +1,75 @@
+{
+  "song_name": "Krupayu Kshemamu",
+  "author": {
+    "Authored by": "Psalms 23 from Holy Bible",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "నా ప్రాణమును సేదదీర్చును",
+      "నీతి మార్గములో నడిపించును",
+      "నీ దుడ్డుకఱ్ఱయు దండమును",
+      "నన్ను ఆదరించును యేసయ్య"
+    ],
+    "english": [
+      "Krupayu kshemamu naa ventey vachunu",
+      "chirakaalamu nivasinthunu",
+      "yesu nee mandhiramulo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నా యేసయ్య మంచి కాపరి",
+        "నాకు లేమి కలుగదు",
+        "పచ్చికగల చోట్లలో పరుండజేయును",
+        "శాంతి జలముల యొద్ద నడిపించున్"
+      ],
+      "english": [
+        "Naa yesayya manchi kaapari",
+        "naaku lemi kalugadhu",
+        "pachikagala chotlalo parundajeyunu",
+        "shanthi jalamula yoddha nadipinchun"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "గాడాంధకారములో ఉండినను నీ తోడు నాకుండును",
+        "మరణపు లోయలో సంచరించినా నేను బయపడను"
+      ],
+      "english": [
+        "Gaadaandhakaaramulo undinanu nee thodu naakundunu",
+        "maranapu loyalo sancharinchinaa nenu bayapadanu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "కృపయు క్షేమము నా వెంటే వచ్చును",
+        "చిరకాలము నివసింతును యేసు నీ మందిరములో"
+      ],
+      "english": [
+        "Pre-chorus:",
+        "Naa praanamunu sedhadheerchunu",
+        "neethi maargamulo nadipinchunu",
+        "nee dhuddu karrayu dhandamunu",
+        "nannu aadharinchunu yesayya"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "శత్రువుల యెదుట నీవు నాకు భోజనము సిద్ధపరచెదవు",
+        "నూనెతో నా తల అంటియున్నావు నా గిన్నె నిండి పొర్లును"
+      ],
+      "english": [
+        "Sathruvula yedhuta neevu naaku",
+        "bhojanamu siddhaparachedhavu",
+        "noonetho naa thala antiyunnaavu",
+        "naa ginne nindi porlunu"
+      ]
+    }
+  ]
+}

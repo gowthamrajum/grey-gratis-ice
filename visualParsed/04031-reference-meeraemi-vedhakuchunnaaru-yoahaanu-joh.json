@@ -1,0 +1,80 @@
+{
+  "song_name": "Neevu denini vedhakuchunnaavu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "నీవు దేనిని వెదకుచున్నావు - ఈ పాపలోకము నందు",
+      "విను యేసుని స్వరమును"
+    ],
+    "english": [
+      "Neevu denini vedhakuchunnaavu - Ee paapalokamu nandu",
+      "Vinu Yesuni swaramunu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఈ సూర్యుని క్రింద నీవు - బుద్ధి జ్ఞానము వెదకుచున్నావు",
+        "ఆనంద ధన ఘనతలు - పొందగోరుచునున్నావు",
+        "ఇవి యన్నియు వ్యర్థమే ఎరుగు - దుఃఖంబె లోకమంతయును",
+        "చింతింతువు ఒకనాడు"
+      ],
+      "english": [
+        "Ee sooryuni krinda neevu - Budhdhi gnaanamu vedhakuchunnaavu",
+        "Aananda dhana ghanathalu - Pondhagoruchununnaavu",
+        "Ivi yanniyu vyarthame erugu - Dhuhkhambe lokamanthayunu",
+        "Chinthinthuvu okanaadu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేవుని రాజ్యము నీతి - వెదకుము నీవు మొదట",
+        "బహు చెంతనుండె నీకు - మారు మనస్సు నొందుము నేడె",
+        "నూతన జన్మమును పొంది - ప్రవేశించుట అందున",
+        "అంగీకరించుము నేడె"
+      ],
+      "english": [
+        "Devuni raajyamu neethi - Vedhakumu neevu modhata",
+        "Bahu chenthanunde neeku - Maaru manassu nondhumu nede",
+        "Noothana janmamunu pondi - Praveshinchuta andhuna",
+        "Angeekarinchumu nede"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "శాశ్వత రాజ్యము పొంద - యోగ్యత అవసరము",
+        "ఆత్మలో దీనులు - వారిదే నిత్య రాజ్యం",
+        "దుఃఖపడువారును - విరిగిన హృదయులందరును",
+        "శాంతి ఆనందం పొందెదరు"
+      ],
+      "english": [
+        "Shaashwatha raajyamu ponda - Yogyatha avasaramu",
+        "Aathmalo dheenulu - Vaaridhe nithya raajyam",
+        "Dhuhkhapaduvaarunu - Virigina hrudhayulandharunu",
+        "Shaanthi aanandam pondedaru"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కనికరము గలవారు - హౄదయ శుద్ధి గలవారు",
+        "సమాధానపరచువారు - తన పుత్రులవుదురు",
+        "హింసను పొందువారు - దీర్ఘ శాంతము గలవారున్",
+        "ఆ రాజ్యములో నుందురు"
+      ],
+      "english": [
+        "Kanikaramu galavaaru - Hrudaya shuddhi galavaaru",
+        "Samaadhaanaparachuvaaru - Thana puthrulavudhuru",
+        "Himsanu pondhuvaaru - Deergha shaanthamu galavaarun",
+        "Aa raajyamulo nundhuru"
+      ]
+    }
+  ]
+}

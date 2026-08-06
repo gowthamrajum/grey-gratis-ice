@@ -1,0 +1,52 @@
+{
+  "song_name": "Aadedhan paadedan",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఆడెదన్ పాడెదన్",
+      "ఆడెదన్, పాడెదన్, యేసుని సన్నిధిలో యేసుని సన్నిధిలో",
+      "స్తుతింతును ఆరాధింతున్ యేసుని సన్నిధిలో",
+      "ఉజ్జీవ మిచ్చిన దేవుని సన్నిధిలో",
+      "ఆడెదన్, పాడెదన్, యేసుని సన్నిధిలో నను బలపరచిన దేవుని సన్నిధిలో",
+      "స్తుతింతును ఆరాధింతున్ యేసుని సన్నిధిలో",
+      "ఉజ్జీవ మిచ్చిన దేవుని సన్నిధిలో"
+    ],
+    "english": [
+      "Aadedhan paadedan",
+      "Aadedhan, paadedan, Yesuni sannidhilo Yesuni sannidhilo",
+      "Sthuthinthunu aaraadhinthun Yesuni sannidhilo",
+      "Ujjeeva michchina Devuni sannidhilo",
+      "Aadedhan, paadedan, Yesuni sannidhilo nanu balaparachina Devuni sannidhilo",
+      "Sthuthinthunu aaraadhinthun Yesuni sannidhilo",
+      "Ujjeeva michchina Devuni sannidhilo"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నను దర్శించి నూతన జీవం యిచ్చిన సన్నిధిలో",
+        "నను బలపరచి ఆదరించిన యేసుని సన్నిధిలో (2)  ||ఆడెదన్||"
+      ],
+      "english": [
+        "Nanu darshinchi noothana jeevam ichchina sannidhilo",
+        "Nanu balaparachi aadarinchina Yesuni sannidhilo (2)  ||Aadedhan||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరిశుద్దాత్మజ్వాల రగిలించి నన్ను మండించిన సన్నిధిలో",
+        "పరిశుద్దాత్మలో నను అభిషేకించిన యేసుని సన్నిధిలో (2)  ||ఆడెదన్||"
+      ],
+      "english": [
+        "Parishuddhaathmajwaala ragilinchi nannu mandinchina sannidhilo",
+        "Parishuddhaathmalo nanu abhishekinchina Yesuni sannidhilo (2)  ||Aadedhan||"
+      ]
+    }
+  ]
+}

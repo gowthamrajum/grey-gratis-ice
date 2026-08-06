@@ -1,0 +1,85 @@
+{
+  "song_name": "Sarvaloaka Nivaasulaaraa Aanandhinchu Dhellaru",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "సర్వలోక నివాసులారా - ఆనందించు డెల్లరు",
+      "దేవుని గురించి కీర్తనలు పాడుచుండుడి"
+    ],
+    "english": [
+      "Sarvaloaka Nivaasulaaraa - Aanandhinchu Dhellaru",
+      "Dhaevuni Gurinchi Keerthanalu Paaduchundudi"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆయన నామ ప్రభావమును - కీర్తించి స్తోత్రించుడి",
+        "ఆయనకు ప్రభావము - ఆరోపించి స్తుతించుడి"
+      ],
+      "english": [
+        "Aayana Naama Prabhaavamunu - Keerthinchi Sthoathrinchudi",
+        "Aayanaku Prabhaavamu - Aaroapinchi Sthuthinchudi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నీదు కార్యములు ఎంతో - భీకరమైనట్టివి",
+        "నీ బలాతిశయమును బట్టి - శత్రువులు లొంగెదరు"
+      ],
+      "english": [
+        "Needhu Kaaryamulu Enthoa - Bheekaramainattivi",
+        "Nee Balaathishayamunu Batti - Shathruvulu Longedharu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "సర్వలోకమును నీకు - నమస్కరించి పాడును",
+        "నీదు నామమును బట్టి - నిన్ను కీర్తించును"
+      ],
+      "english": [
+        "Sarvaloakamunu Neeku - Namaskarinchi Paadunu",
+        "Needhu Naamamunu Batti - Ninnu Keerthinchunu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "చూడరండి దేవుని - ఆశ్చర్య కార్యములన్",
+        "నరుల యెడల చేయు పనుల - వలన భీకరుండహా"
+      ],
+      "english": [
+        "Choodarandi Dhaevuni - Aashcharya Kaaryamulan",
+        "Narula Yedala Chaeyu Panula - Valana Bheekarundahaa"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "సాగరమును ఎండినట్టి - భూమిగను మార్చెను",
+        "జనులు కాలినడక చేత - దాటిరి సముద్రమున్"
+      ],
+      "english": [
+        "Saagaramunu Endinatti - Bhoomiganu Maarchenu",
+        "Janulu Kaalinadaka Chaetha - Dhaatiri Samudhramun"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "ఆయనలో హర్షంచితిమి - నిత్యమేలుచున్నాడు",
+        "అన్యజనుల మీద తన - దృష్టి యుంచి యున్నాడు"
+      ],
+      "english": [
+        "Aayanaloa Harshanchithimi - Nithyamaeluchunnaadu",
+        "Anyajanula Meedha Thana - Dhrushti Yunchi Yunnaadu"
+      ]
+    }
+  ]
+}

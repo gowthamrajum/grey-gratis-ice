@@ -1,0 +1,31 @@
+{
+  "song_name": "Reference: vaaru gorrepilla rakthamunu battiyu,",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "వారు గొఱ్ఱెపిల్ల రక్తమును బట్టియున్",
+        "తామిచ్చు సాక్ష్యమున్ బట్టియున్",
+        "సాతానుఁ జయించి యున్నారు గాని",
+        "మరణము వరకు తమ ప్రాణములను",
+        "ప్రేమించిన వారు కారు"
+      ],
+      "english": [
+        "Vaaru gorrepilla rakthamunu battiyun",
+        "Thaamichchu saakshyamun battiyun",
+        "Saathaanu jayinchi yunnaaru gaani",
+        "Maranamu varaku thama praanamulanu",
+        "Preminchina vaaru kaaru"
+      ]
+    }
+  ]
+}

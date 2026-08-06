@@ -1,0 +1,97 @@
+{
+  "song_name": "Prabhuni seva jeyarammu O yauvanudaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ప్రభుని సేవ జేయరమ్ము ఓ యౌవనుడా",
+      "ప్రబలజేయ ప్రభు సువార్తకిమ్ము నీ బలం",
+      "శుభమునిట్టి సేవ జేయ యువ జనాళికిన్"
+    ],
+    "english": [
+      "Prabhuni seva jeyarammu O yauvanudaa",
+      "Prabalajeya Prabhu suvaarthakimmu nee balam",
+      "Shubhamunitti seva jeya yuva janaalikin"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "యేసు క్రీస్తు సిలువపైని మరణ మాయెను",
+        "చేసెను పాపికి గొప్ప విడుదల",
+        "నొసగెను మానవులకు నిత్య జీవము",
+        "వాసిగ ప్రజలలో తెలియ జేయవా?"
+      ],
+      "english": [
+        "Yesu Kreesthu siluvapaini marana maayenu",
+        "Chesenu paapiki goppa vidudala",
+        "Nosagenu maanavulaku nithya jeevamu",
+        "Vaasiga prajalalo theliya jeyavaa?"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పాప వస్త్రములను తీసె ప్రభువు క్రీస్తుడు",
+        "శాపగ్రాహి యాయెను ఓ యౌవనుడా",
+        "కప్పెను రక్షణ వస్త్రము నీకు",
+        "తప్పక ప్రకటింపవా గొప్ప రక్షణ?"
+      ],
+      "english": [
+        "Paapa vasthramulanu theese Prabhuvu Kreesthudu",
+        "Shaapagraahi yaayenu O yauvanudaa",
+        "Kappenu rakshana vasthramu neeku",
+        "Thappaka prakatimpavaa goppa rakshana?"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "పాదములకు సువార్తనే చెప్పులొసగెను",
+        "హృదయమందు శాంతి ఆనందమొసగెను",
+        "శోధనా బాధలెన్నో నీకు వున్ననూ",
+        "నాథుని సువార్తను బోధపరచవా?"
+      ],
+      "english": [
+        "Paadamulaku suvaarthane cheppulosagenu",
+        "Hrudayamandu shaanthi aanandhamosagenu",
+        "Shodhanaa baadhalenno neeku vunnanoo",
+        "Naathuni suvaarthanu bodhaparachavaa?"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "తప్పిపోయినట్టి నిన్ను కనికరించెను",
+        "గొప్పవిందు చేసి ఉంగరమును పెట్టెను",
+        "తప్పులన్ని మన్నించెను గొప్ప దేవుడు",
+        "తప్పక క్షమియించవా నీ విరోధులన్?"
+      ],
+      "english": [
+        "Thappipoyinatti ninnu kanikarinchenu",
+        "Goppavindhu chesi ungaramunu pettenu",
+        "Thappulanni manninchenu goppa Devudu",
+        "Thappaka kshamiyinchavaa nee virodhulan?"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "పరలోకపు బహుమానము నీవు పొందను",
+        "పరిశుద్ధుల సహవాసం నీకు శ్రేష్ఠము",
+        "పరలోకపు పందెమందు అంతము వరకు",
+        "పరుగెత్తవా జీవకిరీటంబు పొందను?"
+      ],
+      "english": [
+        "Paralokapu bahumaanamu neevu pondhanu",
+        "Parishuddhula sahavaasam neeku shreshtamu",
+        "Paralokapu pandemandu anthamu varaku",
+        "Parugetthavaa jeevakireetambu pondhanu?"
+      ]
+    }
+  ]
+}

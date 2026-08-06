@@ -1,0 +1,53 @@
+{
+  "song_name": "Kalugugaaka Deva kalugugaaka",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": [
+      "పులిపాక జగన్నాధము"
+    ]
+  },
+  "main_stanza": {
+    "telugu": [
+      "కలుగుఁగాక దేవా కలుగుఁగాక కలుగుఁగాక మా కిలలో నిప్పుడు",
+      "విలువ లేని దయ గల నీ దీవెన ||కలుగు||"
+    ],
+    "english": [
+      "Kalugugaaka Deva kalugugaaka kalugugaaka maa kilalo nippudu",
+      "Viluva leni daya gala nee deevena ||Kalugu||"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "తనయుని కరుణయుఁ దండ్రి దేవు దయ తనరు నాత్మ కృప తప్పక",
+        "మాకుఁ ||గలుగు||"
+      ],
+      "english": [
+        "Thanayuni karunayu dhandri Devu daya thanaru naathma krupa thappaka",
+        "Maaku ||Galugu||"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మనమున భక్తులు మరువక యైక్యము ఘనముగఁ బెంపఁగ ఘన",
+        "సహాయము  ||కలుగుఁగాక||"
+      ],
+      "english": [
+        "Manamuna bhakthulu maruvaka yaikyamu ghanamuga bempaga ghana",
+        "Sahaayamu ||Kalugugaaka||"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఇట్టి యైక్యమును యేసునితో మరి గట్టిగఁ బెంచిన ఘన సౌఖ్యంబు  ||కలుగుఁగాక||"
+      ],
+      "english": [
+        "Itti yaikyamunu Yesunitho mari gattiga benchina ghana saukhyambu ||Kalugugaaka||"
+      ]
+    }
+  ]
+}

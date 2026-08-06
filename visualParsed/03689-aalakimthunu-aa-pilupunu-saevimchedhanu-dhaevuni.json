@@ -1,0 +1,73 @@
+{
+  "song_name": "Aalakinthunu aa pilupunu sevinchedhanu Devuni",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [],
+    "english": []
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఆలకింతును ఆ పిలుపును (3 సార్లు)",
+        "సేవించెదను దేవుని",
+        "సేవించెదను (3 సార్లు) దేవుని",
+        "సేవించెదను (3 సార్లు) దేవుని"
+      ],
+      "english": [
+        "Aalakinthunu aa pilupunu (3 saarlu)",
+        "Sevinchedhanu Devuni",
+        "Sevinchedhanu (3 saarlu) Devuni",
+        "Sevinchedhanu (3 saarlu) Devuni"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "కొండలందున లోయలందున (3 సార్లు)",
+        "సేవించెదను దేవుని"
+      ],
+      "english": [
+        "Kondalandhuna loyalandhuna (3 saarlu)",
+        "Sevinchedhanu Devuni"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "అడవైనను మెట్టలైనను (3 సార్లు)",
+        "సేవించెదను దేవుని"
+      ],
+      "english": [
+        "Adavainanu mettalainanu (3 saarlu)",
+        "Sevinchedhanu Devuni"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "కష్టమైనను సుఖమైనను (3 సార్లు)",
+        "సేవించెదను దేవుని"
+      ],
+      "english": [
+        "Kashtamainanu sukhamainanu (3 saarlu)",
+        "Sevinchedhanu Devuni"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఎండలైనను వర్షమైనను (3 సార్లు)",
+        "సేవించెదను దేవుని"
+      ],
+      "english": [
+        "Endalainanu varshamainanu (3 saarlu)",
+        "Sevinchedhanu Devuni"
+      ]
+    }
+  ]
+}

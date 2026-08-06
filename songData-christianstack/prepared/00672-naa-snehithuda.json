@@ -1,0 +1,39 @@
+{
+  "song_name": "Naa Snehithuda",
+  "author": {
+    "Authored by": "Divya David, Dr. Pammi Daniel, Prabhu Pammi",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "దేవా..దేవా..దేవా..దేవా.."
+    ],
+    "english": [
+      "devaa..devaa..devaa..devaa.."
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీ ముఖం మనోహరం",
+        "నీ స్వరం మధురము",
+        "నా ప్రియుడా యేసయ్య"
+      ],
+      "english": [
+        "Nee mukham manoharam",
+        "nee swaram madhuramu",
+        "naa priyudaa yesayya"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దేవా..దేవా..దేవా..దేవా.."
+      ],
+      "english": [
+        "devaa..devaa..devaa..devaa.."
+      ]
+    }
+  ]
+}

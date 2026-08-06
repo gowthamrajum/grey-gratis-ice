@@ -1,0 +1,40 @@
+{
+  "song_name": "Hallelujah",
+  "author": {
+    "Authored by": "Pastor K Rajababu",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "హల్లేలూయ అని పాడి స్తుతింపను",
+      "రారే జనులరా మనసారా ఊరూరా",
+      "హల్లేలూయ అని పాడి స్తుతింపను",
+      "రారే జనులరా ఊరూరా నోరారా"
+    ],
+    "english": [
+      "Hallelujah ani paadi sthuthimpanu",
+      "rare janulara manasara uruura",
+      "Hallelujah ani paadi sthuthimpanu",
+      "rare janulara uruura norara"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "రారే రారే అన్నల్లార ! రమ్యమైన యేసుని చూడ",
+        "రారే రారే అక్కల్లార ! రమ్యమైన యేసుని చూడ",
+        "రారే రారే చెల్లెల్లార ! రమ్యమైన యేసుని చూడ",
+        "రారే రారే తమ్ముల్లార ! రమ్యమైన యేసుని చూడ",
+        "రమ్యమైన యేసుని చూడ",
+        "రమ్యమైన యేసుని చూడ"
+      ],
+      "english": [
+        "Raare raare annallara ! Ramyamina yesuni chuda",
+        "Raare raare akkallara ! Ramyamina yesuni chuda",
+        "Raare raare chellellara ! Ramyamina yesuni chuda",
+        "Raare raare tammullara ! Ramyamina yesuni chuda"
+      ]
+    }
+  ]
+}

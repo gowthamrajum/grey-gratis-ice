@@ -1,0 +1,66 @@
+{
+  "song_name": "Sajeevudaina vaarini meerela mruthulalo vedakuchunnaaru",
+  "source": "wtc",
+  "author": {
+    "Authored by": [
+      "Anne Deborah K Mohanty"
+    ],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సజీవుడైన వారిని మీరేల మృతులలో వెదకుచున్నారు (2)",
+      "ఆయన ఇక్కడ లేడు లేచి యున్నాడు (4) (సజీవుడైన)"
+    ],
+    "english": [
+      "Sajeevudaina vaarini meerela mruthulalo vedakuchunnaaru (2)",
+      "Aayana ikkada ledu lechi yunnaadu (4) (Sajeevudaina)"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "మనుష్య కుమారుడు హల్లేలుయా",
+        "మరణము నొందెను హల్లేలుయా",
+        "ముడవ దినమున హల్లేలుయా",
+        "తిరిగిలేచెను హల్లేలుయా (2) (ఆయన)",
+        "హేయ్! ఈ పాట నీకు అర్దమైయిందా? అర్దముకాకపోతే ఇప్పుడు విను",
+        "దేవుడు మనుష్యరూపములో వచ్చి నీ కొరకు ప్రాణము ఇచ్చి",
+        "ఆయన నీ బారన్ని మొయటానికి సిద్దముగా ఉన్నాడు",
+        "ఆయనే నీ కొరకు రక్తము చిందించినా యేసు",
+        "ఆయనలోనే రక్షణ ఆయనలోనే నిరీక్షణ",
+        "ఆయనలోనే విమోచన ఆయనలోనే విడుదల",
+        "ఆయనలోనే సమాదానం ఆయనలోనే నిత్యజీవం"
+      ],
+      "english": [
+        "Manushya kumaarudu halleluya",
+        "Maranamu nondenu halleluya",
+        "Moodava dinamuna halleluya",
+        "Thirigilechenu halleluya (2) (Aayana)",
+        "Hey! Ee paata neeku ardhamaindhaa? Ardhamu kaakapothe ippudu vinu",
+        "Devudu manushyaroopamulo vachchi nee koraku praanamu ichchi",
+        "Aayana nee bhaaraanni moyadaaniki siddhamugaa unnaadu",
+        "Aayane nee koraku rakthamu chindhinchina Yesu",
+        "Aayanalone rakshana aayanalone nireekshana",
+        "Aayanalone vimochana aayanalone vidudala",
+        "Aayanalone samaadhaanam aayanalone nithyajeevam"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "సమస్త జనములు హల్లేలుయా",
+        "ఆయన పేరిట హల్లేలుయా",
+        "మారుమనస్సు పొంది హల్లేలుయా",
+        "రక్షింపబడుదురు హల్లేలుయా (2) (ఆయన)"
+      ],
+      "english": [
+        "Samastha janamulu halleluya",
+        "Aayana perita halleluya",
+        "Maarumanassu pondi halleluya",
+        "Rakshimpabaduduru halleluya (2) (Aayana)"
+      ]
+    }
+  ]
+}

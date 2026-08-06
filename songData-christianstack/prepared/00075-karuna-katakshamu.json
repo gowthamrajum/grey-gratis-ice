@@ -1,0 +1,84 @@
+{
+  "song_name": "Karuna Katakshamu",
+  "author": {
+    "Authored by": "",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కరుణ కటాక్షము గల యేసయ్యా",
+      "నను విస్తరింపజేయు మహనీయ",
+      "దివ్య సుందరమ – దయకు నిలయమ",
+      "దివిలో కాంతితేజమా",
+      "పరిమళ నామమ – ప్రేమకు నిలయమ",
+      "పరిశుద్ధ స్తుతి గానమా"
+    ],
+    "english": [
+      "Karuna kataakshamu gala Yesayya",
+      "Nanu vistharimpajeyu mahaneya",
+      "Dhivya sundharama – dhayaku nilayama",
+      "Dhivilo kaanthi thejamaa",
+      "Parimala naamama – premaku nilayama",
+      "Parishuddha sthuthi gaanamaa"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "ఏమున్నదనీ నాపై లక్ష్యముంచినావు",
+        "ఆదరించి ప్రేమించి కటాక్షించినావు",
+        "నీ రెక్కల నీడే సురక్షితం",
+        "నీ పాద సన్నిధె క్షేమము",
+        "కృపవెంబడి కృపను – నిత్యమైన ప్రేమను",
+        "అధికమైన మహిమను విస్తరింపజేసావు"
+      ],
+      "english": [
+        "Emunnadhani naapai lakshyamunchinaavu",
+        "Aadharinchi preminchi kataakshinchinaavu",
+        "Nee rekkala neede surakshitham",
+        "Nee paada sannidhe kshemamu",
+        "Krupa vembadi krupanu – nityamaina premanu",
+        "Adhikamaina mahimanu vistarimpajesaavu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "నేనెంతటి వాడనని ఇంతగ హెచ్చించావు",
+        "ఏలుటకు ఎన్నుకొని అభిషేకించావు",
+        "నీ ఇష్టునిగా నివసించెదను",
+        "నీ ఉద్దేశము నే మరువను",
+        "కృపవెంబడి కృపను – నిత్యమైన ప్రేమను",
+        "అధికమైన మహిమను విస్తరింపజేసావు"
+      ],
+      "english": [
+        "Nenenthati vaadanani inthaga hecchinchaavu",
+        "Elutaku ennukoni abhishekinchaavu",
+        "Nee ishtuniga nivasinchedhanu",
+        "Nee uddheshamu ne maruvanu",
+        "Krupa vembadi krupanu – nithyamaina premanu",
+        "Adhikamaina mahimanu vistharimpajesaavu"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ఏ యోగ్యత లేని నాకు తోడుగ నిలిచావు",
+        "నింద అవమానములో ఘనతనిచ్చినావు",
+        "నీ నడిపింపుకు లోబడితిని",
+        "నీ స్వాస్థ్యముకై వేచియుంటిని",
+        "కృపవెంబడి కృపను – నిత్యమైన ప్రేమను",
+        "అధికమైన మహిమను విస్తరింపజేసావు"
+      ],
+      "english": [
+        "Ae yogyatha leni naaku thooduga nilichaavu",
+        "Nindha avamaanamulo ghanathanichchinaavu",
+        "Nee nadipimpuku lobadithini",
+        "Nee swasthyamu kai vechiyuntini",
+        "Krupa vembadi krupanu – nithyamaina premanu",
+        "Adhikamaina mahimanu vistharimpajesaavu"
+      ]
+    }
+  ]
+}

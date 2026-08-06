@@ -1,0 +1,62 @@
+{
+  "song_name": "Srushti pithaa sarvonnathaa",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "సృష్టి పితా - సర్వో న్నతా = సమర్పింతున్ - సర్వస్వమున్"
+    ],
+    "english": [
+      "Srushti pithaa - Sarvonnathaa = Samarpinthun - Sarvasvamun"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "భూమి ఆకాశము నీవే - భూధర శిఖరములు నీవే = భూ ప్రజలు నీవారే -",
+        "బల శౌర్యములు నీవే"
+      ],
+      "english": [
+        "Bhoomi aakaashamu neeve - Bhoodhara shikharamulu neeve = Bhoo prajalu neevaare -",
+        "Bala shauryamulu neeve"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "మా వెండి బంగారములు నీవే - మాకున్న వరములు నీవే = మా దేహముల్ -",
+        "మా గేహముల్ మా జీవితము నీవే"
+      ],
+      "english": [
+        "Maa vendi bangaaramulu neeve - Maakunna varamulu neeve = Maa dhehamul -",
+        "Maa gehamul maa jeevithamu neeve"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "వెల లేని గాలి వెలుతురులు - విలువైన పాడి పైరులు = వివిధంబులైన",
+        "దీవెనలు - నీ కరుణా వర్షములు"
+      ],
+      "english": [
+        "Vela leni gaali veluthurulu - Viluvaina paadi pairulu = Vividhambulaina",
+        "Deevenalu - Nee karunaa varshamulu"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "పరిశుద్ద గ్రంథపు పలుకులు - పరలోక తేనె చినుకులు = ప్రభు యేసుని",
+        "మాటలు - మా వెల్గు బాటలు"
+      ],
+      "english": [
+        "Parishuddha granthapu palukulu - Paraloka thene chinukulu = Prabhu Yesuni",
+        "Maatalu - Maa velgu baatalu"
+      ]
+    }
+  ]
+}

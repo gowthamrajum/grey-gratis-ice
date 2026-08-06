@@ -1,0 +1,97 @@
+{
+  "song_name": "O premagala Yesu preminchinaavu mammu",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "ఓ ప్రేమగల యేసు - ప్రేమించినావు మమ్ము",
+      "స్మరించుచు స్తుతింతున్ - రక్షణ నిచ్చినావు"
+    ],
+    "english": [
+      "O premagala Yesu - Preminchinaavu mammu",
+      "Smarinchuchu sthuthinthun - Rakshana nichchinaavu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అద్భుత యాగమందు - అందరికై బలియై",
+        "అందరి పాపములకు - ప్రాయశ్చిత్తమైతివి"
+      ],
+      "english": [
+        "Adbhutha yaagamandhu - Andarikai baliyai",
+        "Andari paapamulaku - Praayashchitthamaithivi"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "దాసులమై మేముండ - మోషేను పంపితివి",
+        "చేసితివి స్వతంత్రులుగా - నీ బాహుబలము తోడ"
+      ],
+      "english": [
+        "Dhaasulamai memunda - Moshenu pampithivi",
+        "Chesithivi svathanthrulugaa - Nee baahubalamu thoda"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "క్షమాపణానందముతో - సాగింపచేసి మమ్ము",
+        "యాత్రలో మాకు తోడై - విజయము నిచ్చితివి"
+      ],
+      "english": [
+        "Kshamaapanaanandhamutho - Saagimpachesi mammu",
+        "Yaathralo maaku thodai - Vijayamu nichchithivi"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఎడారి అడవిలోన - ఊటల నదులు నడిపి",
+        "ఎండిన నేలనంత - పచ్చిక బయలు చేసెన్"
+      ],
+      "english": [
+        "Edaari adavilona - Ootala nadulu nadipi",
+        "Endina nelanantha - Pachchika bayalu chesen"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "బాబెలు నుండి మమ్ము - విడిపించితివి నీవు",
+        "బంధకముల తెంచి - తప్పు బోధ బాపినావు"
+      ],
+      "english": [
+        "Baabelu nundi mammu - Vidipinchithivi neevu",
+        "Bandhakamula thenchi - Thappu bodha baapinaavu"
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "telugu": [
+        "సహవాసమిచ్చి సంఘ - అంగముల జేసినావు",
+        "సాక్షులను చేసి మమ్ము - శత్రువుల సిగ్గుపరచె"
+      ],
+      "english": [
+        "Sahavaasamichchi sangha - Angamula jesinaavu",
+        "Saakshulanu chesi mammu - Shathruvula sigguparache"
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "telugu": [
+        "మహా ప్రేమ గల యేసు - మాకై చేసితివన్ని",
+        "ఘనపరతు హల్లెలూయ - ఈ గొప్ప రక్షణ కొరకు"
+      ],
+      "english": [
+        "Mahaa prema gala Yesu - Maakai chesithivanni",
+        "Ghanaparathu hallelooya - Ee goppa rakshana koraku"
+      ]
+    }
+  ]
+}

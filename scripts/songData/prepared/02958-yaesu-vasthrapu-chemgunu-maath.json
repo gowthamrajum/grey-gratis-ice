@@ -1,0 +1,74 @@
+{
+  "song_name": "Yaesu Vasthrapu Chengunu Maathramae",
+  "author": {
+    "Authored by": "",
+    "రచన": "తూపిలి బెంజిమిన్"
+  },
+  "main_stanza": {
+    "telugu": [
+      "యేసు వస్త్రపు చెంగును మాత్రమే యాసించి ముట్టినట్టి",
+      "దోసకారుల రోగముల్ వెంటనే తొలఁగి పోయెను నిజముగ"
+    ],
+    "english": [
+      "Yaesu Vasthrapu Chengunu Maathramae Yaasinchi Muttinatti",
+      "Dhoasakaarula Roagamul Ventanae Tholagi Poayenu Nijamuga"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "గుంపుకూడిన జనులతోఁ బ్రభు యేసు సొంపుతోఁ బోవునపుడు",
+        "తెంపుతో రమణి యొకతె ప్రభు చెంగు తెలియకుండను ముట్టెను"
+      ],
+      "english": [
+        "Gumpukoodina Janulathoa Brabhu Yaesu Somputhoa Boavunapudu",
+        "Themputhoa Ramani Yokathe Prabhu Chengu Theliyakundanu Muttenu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "అంతటను రక్తధార యామె కొ కింతైన లేకపోయె",
+        "ఇంతలోఁ ప్రభువు యెఱిఁగి తనయొక్క వింతఁ జూపెను జనులకు"
+      ],
+      "english": [
+        "Anthatanu Rakthadhaara Yaame Ko Kinthaina Laekapoaye",
+        "Inthaloa Prabhuvu Yerigi Thanayokka Vintha Joopenu Janulaku"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "ప్రజలార మీలో నొకరిన్ నాదు ప్ర భావంబు స్వస్థపరచె",
+        "నిజమంచుఁ ప్రభువు చెప్పె వణుఁకుతో గజయాన వచ్చి నిల్చె"
+      ],
+      "english": [
+        "Prajalaara Meeloa Nokarin Naadhu Pra Bhaavambu Svasthaparache",
+        "Nijamanchu Prabhuvu Cheppe Vanukuthoa Gajayaana Vachchi Nilche"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "ఒదుగుచుండిన వనితతో శ్రీయేసు అదురు మానుమి యింకను",
+        "ఇదిగో నీ విశ్వాసము రక్షించె ముదిత నెమ్మదిని వెళ్లు"
+      ],
+      "english": [
+        "Odhuguchundina Vanithathoa Shreeyaesu Adhuru Maanumi Yinkanu",
+        "Idhigoa Nee Vishvaasamu Rakshinche Mudhitha Nemmadhini Vellu"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "ఏపుమీరగ యేసును మీ యొక్క ప్రాపుగా నమ్ముకొనుఁడి",
+        "ఆపదలు దొలఁగించును నిజముగఁ పాపముక్తులఁ జేయును"
+      ],
+      "english": [
+        "Aepumeeraga Yaesunu Mee Yokka Praapugaa Nammukonudi",
+        "Aapadhalu Dholaginchunu Nijamuga Paapamukthula Jaeyunu"
+      ]
+    }
+  ]
+}

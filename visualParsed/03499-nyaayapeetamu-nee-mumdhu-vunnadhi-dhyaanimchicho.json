@@ -1,0 +1,95 @@
+{
+  "song_name": "Nyaayapeethamu nee mundu vunnadhi",
+  "source": "wtc",
+  "author": {
+    "Authored by": [],
+    "రచన": []
+  },
+  "main_stanza": {
+    "telugu": [
+      "న్యాయపీఠము నీ ముందు వున్నది",
+      "ధ్యానించిచూడు కూర్చున్న దెవరో"
+    ],
+    "english": [
+      "Nyaayapeethamu nee mundu vunnadhi",
+      "Dhyaaninchichoodu koorchunna dhevaro"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "నీవు నశించుట కోరడు ప్రభువు",
+        "ఓపికతో ఆయనే వేచి యున్నాడు",
+        "పశ్చాత్తాప పడుమిప్పుడైనా",
+        "నిశ్చయ మెరుగు నరకము తప్పదు"
+      ],
+      "english": [
+        "Neevu nashinchuta koradu prabhuvu",
+        "Opikatho aayane vechi yunnaadu",
+        "Pashchaatthaapa padumippudainaa",
+        "Nishchaya merugu narakamu thappadu"
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "telugu": [
+        "పరీక్షించుకొనుము నీమరణమెప్పుడో",
+        "రక్తము ద్వారా ముక్తి పొందితివా",
+        "కఠినత్వముతో తృణీకరించిన",
+        "న్యాయ త్రాసు ఉన్నది రారాజు చేతిలో"
+      ],
+      "english": [
+        "Pareekshinchukonumu neemaranameppudo",
+        "Rakthamu dwaaraa mukthi pondhithivaa",
+        "Kathinathvamutho thruneekarinchina",
+        "Nyaaya thraasu unnadi raaraaju chethilo"
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "telugu": [
+        "దాగి యున్న పాపము ప్రభుయేసు చూచెను",
+        "అంధకార పాపము తన కంటపడెను",
+        "తన దృష్టినుండి తప్పించుకొందువా",
+        "తీర్పు కొడవలి తనచేతనుండగ"
+      ],
+      "english": [
+        "Daagi yunna paapamu Prabhuyesu choochenu",
+        "Andhakaara paapamu thana kantapadenu",
+        "Thana dhrushtinundi thappinchukondhuvaa",
+        "Theerpu kodavali thanachethanundaga"
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "telugu": [
+        "అందరికొరకై గ్రంథముల్ తెరువగ",
+        "వారి విషయమై వ్రాసిన రీతిన్",
+        "దేవ గొర్రెపిల్ల న్యాయము తీర్చును",
+        "తన చేతనున్నది తీర్పుకై చేట"
+      ],
+      "english": [
+        "Andharikorakai granthamul theruvaga",
+        "Vaari vishayamai vraasina reethin",
+        "Deva gorrepilla nyaayamu theerchunu",
+        "Thana chethanunnadhi theerpukai chetha"
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "telugu": [
+        "క్రీస్తు యేసునందు శిక్షా విధిలేదు",
+        "దీవెనల నొందుచు ఘనత నొందెదరు",
+        "ఎల్లప్పుడాయనతోనే యుండెదరు",
+        "ప్రభువే నిచ్చును జీవకిరీటము"
+      ],
+      "english": [
+        "Kreesthu Yesunandu shikshaa vidhiledhu",
+        "Dheevenala nondhuchu ghanatha nondhedaru",
+        "Ellappudaayanathone yundedaru",
+        "Prabhuve nichchunu jeevakireetamu"
+      ]
+    }
+  ]
+}

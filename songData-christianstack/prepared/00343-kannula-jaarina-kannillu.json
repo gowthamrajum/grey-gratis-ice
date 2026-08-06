@@ -1,0 +1,35 @@
+{
+  "song_name": "Kannula Jaarina Kannillu",
+  "author": {
+    "Authored by": "Pastor B Shalem Raju",
+    "రచన": ""
+  },
+  "main_stanza": {
+    "telugu": [
+      "కన్నులు జారిన కన్నీళ్లు",
+      "తడిపెను దేవుని పాదాలు",
+      "ఇప్పటినుండి నీ కళ్ళు",
+      "చూచును దేవుని కార్యాలు"
+    ],
+    "english": [
+      "Kannulu jaarina kanneellu",
+      "thadipenu dhevuni paadhaalu",
+      "ippatinundi nee kallu",
+      "choochunu dhevuni kaaryaalu"
+    ]
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "telugu": [
+        "అ.ప.",
+        "ఉందిలే దీవెన – ఎందుకావేదన",
+        "పొందిన యాతన – దేవుడే మరచునా"
+      ],
+      "english": [
+        "Undhile dheevena – endhukaavedhana",
+        "pondhina yaathana – dhevude marachunaa"
+      ]
+    }
+  ]
+}
