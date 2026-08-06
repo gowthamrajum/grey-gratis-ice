@@ -1305,7 +1305,11 @@ app.get("/broadcast/:room/stream", (req, res) => {
 // `end` asks the presenter to take the room off air altogether. Like every other
 // command the relay only carries it: the presenter is what stops publishing and
 // blacks the room out, because the relay has no deck to stop.
-const CONTROL_CMDS = new Set(["next", "prev", "goto", "blackout", "clear", "logo", "end"]);
+// "verse" carries a payload rather than an index: the operator's phone already
+// has both bibles, so it resolves the reference itself and sends the finished
+// lines. That keeps the relay ignorant of scripture — it forwards `arg`
+// verbatim, as it always has — and means the presenter needs no bible either.
+const CONTROL_CMDS = new Set(["next", "prev", "goto", "blackout", "clear", "logo", "end", "verse"]);
 
 function bcControl(r) {
   if (!r.control) r.control = { pin: "", clients: new Set(), seq: 0, updatedAt: 0, operator: null };

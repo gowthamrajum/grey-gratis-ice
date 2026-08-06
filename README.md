@@ -106,13 +106,8 @@ needs none of this and always works.
    Keep the Access Key ID and Secret.
 4. Set these on the Render service:
 
-   | Variable | Value |
-   | --- | --- |
-   | `R2_ACCOUNT_ID` | Cloudflare account id |
-   | `R2_ACCESS_KEY_ID` | from the API token |
-   | `R2_SECRET_ACCESS_KEY` | from the API token |
-   | `R2_BUCKET` | `cantica-media` |
-   | `R2_PUBLIC_BASE` | `https://pub-….r2.dev` or your custom domain |
+
+
 
 5. **The bucket needs CORS** — the browser talks to R2 directly, so R2 is what
    has to allow it. Bucket ▸ Settings ▸ CORS policy:
