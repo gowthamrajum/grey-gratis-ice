@@ -1,0 +1,5151 @@
+{
+  "listed_at": "2026-08-06T20:46:19.524Z",
+  "library_size": 4580,
+  "counts": {
+    "duplicate-title": 28,
+    "no-stanzas": 19,
+    "marker-in-title": 29,
+    "unsplit": 61
+  },
+  "songs": [
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 129,
+      "song_name": "Kummari O Kummari",
+      "main_stanza": {
+        "telugu": [
+          "కుమ్మరి ఓ కుమ్మరి జగతుత్పత్తిదారి",
+          "జిగట మన్నైన నా వంక చల్లగ చూడుమయ్యా",
+          "ఆ ఆ ఆ చల్లగ చూడుమయ్యా"
+        ],
+        "english": [
+          "Kummari O Kummari Jagathuthpaththidaari",
+          "Jigata Mannaina Naa Vanka Challaga Choodumayyaa",
+          "Aaa Aaa Aaa Challaga Choodumayyaa"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "పనికిరాని పాత్రనని – పారవేయకుమా",
+            "పొంగి పొరలు పాత్రగా – నన్ను నింపుమా (2)",
+            "సువార్తలోని పాత్రలన్నీ – శ్రీ యేసుని పొగడుచుండ",
+            "సాక్షిగానుండు పాత్రగజేసి – సత్యముతో నింపుము తండ్రి",
+            "ఆ ఆ ఆ సత్యముతో నింపుము తండ్రి ||కుమ్మరి||"
+          ],
+          "english": [
+            "Panikiraani Paathranani Paaraveyakumaa",
+            "Pongi Poralu Paathragaa Nannu Nimpumaa (2)",
+            "Suvaarthaloni Paathralanni Sree Yesuni Pogaduchunda",
+            "Saakshiga Nundu Paathragajesi Sathyamutho Nimpumu Thandri",
+            "Aaa Aaa Aaa Sathyamutho Nimpumu Thandri ||Kummari||"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "విలువలేని పాత్రను నేను – కొనువారు లేరెవ్వరు",
+            "వెలలేని నీదు రక్తంబుతో – వెలుగొందు పాత్రగజేసి (2)",
+            "ఆటంకములనుండి తప్పించి నన్ను – ఎల్లప్పుడు కావుమయ్యా",
+            "పగిలియున్న పాత్రను నేను – సరిచేసి వాడుమయ్యా",
+            "ఆ ఆ ఆ సరిచేసి వాడుమయ్యా ||కుమ్మరి||"
+          ],
+          "english": [
+            "Viluvaleni Paathranu Nenu Konuvaaru Lerevvaru",
+            "Velaleni Needu Rakthambutho Velugondu Paathragajesi (2)",
+            "Aatankamulanundi Thappinchi Nannu Ellappudu Kaavumayyaa",
+            "Pagiliyunna Paathranu Nenu Sarichesi Vaadumayyaa",
+            "Aaa Aaa Aaa Sarichesi Vaadumayyaa ||Kummari||"
+          ]
+        },
+        {
+          "stanza_number": 3,
+          "telugu": [
+            "లోకాశతో నిండి ఉప్పొంగుచూ – మార్గంబు నే దప్పితిన్",
+            "మనుషేచ్ఛలన్నియు స్థిరమనుచునే – మనశ్శాంతి కోల్పోతిని (2)",
+            "పోగొట్టుకున్న పాత్రయనుచు – పరుగెత్తి నను పట్టితివి",
+            "ప్రాణంబు నాలో ఉన్నప్పుడే – నీ పాదంబుల్ పట్టితిన్",
+            "ఆ ఆ ఆ నీ పాదంబుల్ పట్టితిన్ ||కుమ్మరి||"
+          ],
+          "english": [
+            "Lokaashatho Nindi Upponguchoo Maargambu Ne Dappithin",
+            "Manushechchalanniyu Sthiramanuchune Manashaanthi Kolpothini (2)",
+            "Pogottukunna Pathrayanuchu Parugeththi Nanu Pattithivi",
+            "Praanambu Naalo Unnappude Nee Paadambul Pattithin",
+            "Aaa Aaa Aaa Nee Paadambul Pattithin ||Kummari||"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [
+          "C A J  Prasad Rao"
+        ],
+        "రచన": [
+          "సి ఏ జే  ప్రసాద్ రావు"
+        ]
+      },
+      "source": "clz",
+      "created_at": "2025-04-29 01:10:35",
+      "last_updated_at": "2026-08-06T16:01:11.447Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 335,
+      "song_name": "Prabhuvaa Neeve Naadu Sharanam",
+      "main_stanza": {
+        "telugu": [
+          "ప్రభువా నీవే నాదు శరణం",
+          "ఆశ్రయించితి నీ చరణములే (2)"
+        ],
+        "english": [
+          "Prabhuvaa Neeve Naadu Sharanam",
+          "Aashrayinchithi Nee Charanamule (2)"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "అపవాది క్రియలందు బంధీనైతిన్",
+            "కృప చూపి నను విముక్తుని చేయుమా",
+            "విపరీతి గతి పొందియుంటిన్",
+            "నీదు ముక్తి ప్రభావింపనిమ్ము ||ప్రభువా||"
+          ],
+          "english": [
+            "Apavaadi Kriyalandu Bandheenaithin",
+            "Krupa Choopi Nanu Vimukthuni Cheyumaa",
+            "Vipareethi Gathi Pondiyuntin",
+            "Needu Mukthi Prabhaavimpanimmu ||Prabhuvaa||"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "మరణ ఛాయలు నాపై బ్రమ్ముకొనెను",
+            "కరుణించి నీ దివ్య కాంతి నిమ్ము",
+            "చెదరిన నీదు ప్రతి రూపం",
+            "నాపై సరి చేసి ముద్రించు దేవా"
+          ],
+          "english": [
+            "Marana Chaayalu Naapai Bramuukonenu",
+            "Karuninchi Nee Divya Kaanthi Nimmu",
+            "Chedarina Needu Prathi Roopam",
+            "Naapai Sari Chesi Mudrinchu Devaa"
+          ]
+        },
+        {
+          "stanza_number": 3,
+          "telugu": [
+            "నీ న్యాయ విధులన్ని భంగ పరచి",
+            "గాయపరచితి నేను అపరాధిని",
+            "పరితాపమును పొందుచుంటి",
+            "నాదు పాపము క్షమియించు దేవా ||ప్రభువా||"
+          ],
+          "english": [
+            "Nee Nyaaya Vidhulanni Bhanga Parachi",
+            "Gaayaparachithi Nenu Aparaadhini",
+            "Parithaapamunu Ponduchunti",
+            "Naadu Paapamu Kshamiyinchi Devaa ||Prabhuvaa||"
+          ]
+        },
+        {
+          "stanza_number": 4,
+          "telugu": [
+            "పాప భారము తొడ అరుదించితి",
+            "సేద తీర్చుము శాంతి జలములతో",
+            "నీ ప్రేమ రుధిర శ్రవంతి",
+            "శాప భారము తొలగించు దేవా ||ప్రభువా||"
+          ],
+          "english": [
+            "Paapa Bhaaramu Thoda Arudinchithi",
+            "Seda Theerchumu Shaanthi Jalamulatho",
+            "Nee Prema Rudhira Shravanthi",
+            "Shaapa Bhaaramu Tholaginchu Devaa ||Prabhuvaa||"
+          ]
+        },
+        {
+          "stanza_number": 5,
+          "telugu": [
+            "శరణం యేసు చరణం (4) ||ప్రభువా||"
+          ],
+          "english": [
+            "Sharanam Yesu Charanam (4) ||Prabhuvaa||"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [
+          "Lankapalli Samuel John"
+        ],
+        "రచన": [
+          "లంకపల్లి శామ్యూల్ జాన్"
+        ]
+      },
+      "source": "clz",
+      "created_at": "2025-04-29 01:10:35",
+      "last_updated_at": "2026-08-06T16:25:03.972Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-structural"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 515,
+      "song_name": "Brathikeda Nee Kosame",
+      "main_stanza": {
+        "telugu": [
+          "బ్రతికెద నీ కోసమే",
+          "నా ఊపిరి నీ ధ్యానమే",
+          "నా జీవితమే నీకంకితమై – (2)",
+          "నీదు సేవ జేతు పుణ్యమాని భావింతు",
+          "నేను చివర శ్వాస వరకు ||బ్రతికెద||"
+        ],
+        "english": [
+          "Brathikeda Nee Kosame",
+          "Naa Oopiri Nee Dhyaaname",
+          "Naa Jeevithame Neekankithamai – (2)",
+          "Needu Seva Jethu Punyamani Bhaavinthu",
+          "Nenu Chivara Shwaasa Varaku ||Brathikeda||"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "శ్రమయును బాధయు నాకు కలిగినా",
+            "వైరులు ఎల్లరు నన్ను చుట్టినా",
+            "నీదు న్యాయ శాసనమునే పాటింతు (2)",
+            "నాలోని బలము నన్ను విడిచినా",
+            "నా కన్ను దృష్టి తప్పిపోయినా (2)",
+            "నిన్ను చేరి నీదు శక్తి పొంద",
+            "నీదు ఆత్మ తోడ లోక రక్షకా ||బ్రతికెద||"
+          ],
+          "english": [
+            "Shramayunu Baadhayu Naaku Kaliginaa",
+            "Vairulu Ellaru Nannu Chuttinaa",
+            "Needu Nyaaya Shaasanamune Paatinthu (2)",
+            "Naaloni Balamu Nannu Vidichinaa",
+            "Naa Kannu Drushti Thappipoyinaa (2)",
+            "Ninnu Cheri Needu Shakthi Ponda",
+            "Needu Aathma Thoda Loka Rakshakaa ||Brathikeda||"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "వాక్యమే మ్రోగుట విశ్వాసము వెల్లడి చేయుట",
+            "ఇహమందున యోగ్యమైన కార్యముగా నే తలచి (2)",
+            "నీదు రుధిరంబు చేత నేను",
+            "కడగబడిన నీదు సొత్తు కాదా (2)",
+            "నిన్ను జూప లోకంబులోన",
+            "నీదు వెలుగు దీపముగా నాథా ||బ్రతికెద||"
+          ],
+          "english": [
+            "Vaakyame Mroguta Vishwaasamu Velladi Cheyuta",
+            "Ihamanduna Yogyamaina Kaaryamugaa Ne Thalachi (2)",
+            "Needu Rudhirambu Chetha Nenu",
+            "Kadagabadina Needu Sotthu Kaadaa (2)",
+            "Ninnu Joopa Lokambulona",
+            "Needu Velugu Deepamugaa Naathaa ||Brathikeda||"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [
+          "Raj Prakash Paul"
+        ],
+        "రచన": [
+          "రాజ్ ప్రకాష్ పాల్"
+        ]
+      },
+      "source": "clz",
+      "created_at": "2025-04-29 01:10:35",
+      "last_updated_at": "2026-08-06T16:04:04.486Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 607,
+      "song_name": "Maargam Sathyam Jeevam",
+      "main_stanza": {
+        "telugu": [
+          "మార్గం సత్యం జీవం నీవే యేసు",
+          "సర్వం సకలం నీవే క్రీస్తు (2)",
+          "మా ఆధారం నీవేనయ్యా",
+          "మా అనుబంధం నీతోనేనయ్యా (2)",
+          "వధియింపబడిన ఓ గొర్రెపిల్ల",
+          "ప్రభువైన మా యేసువా",
+          "మా స్తుతి స్తోత్రముల్ నీకే",
+          "మహిమా ప్రభావముల్ నీకే (2) ||మార్గం||"
+        ],
+        "english": [
+          "Maargam Sathyam Jeevam Neeve Yesu",
+          "Sarvam Sakalam Neeve Kreesthu (2)",
+          "Maa Aadhaaram Neevenayyaa",
+          "Maa Anubandham Neethonenayyaa (2)",
+          "Vadhiyimpabadina O Gorrepilla",
+          "Prabhuvaina Maa Yesuvaa",
+          "Maa Sthuthi Sthothramul Neeke",
+          "Mahimaa Prabhaavamul Neeke (2) ||Maargam||"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "పరమును విడిచావు మాకై",
+            "నరునిగా పుట్టావు ధరపై (2)",
+            "ఆహా నీదెంత ప్రేమ",
+            "ఎవరికైనా వర్ణింప తరమా (2) ||వధియింప||"
+          ],
+          "english": [
+            "Paramunu Vidichaavu Maakai",
+            "Narunigaa Puttaavu Dharapai (2)",
+            "Aahaa Needentha Prema",
+            "Evarikainaa Varnimpa Tharamaa (2) ||Vadhiyimpa||"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "కలువరిలో రక్తమును కార్చి",
+            "విలువగు ప్రాణమును ఇచ్చి (2)",
+            "తెచ్చావు భువికి రక్షణ",
+            "ఇచ్చావు పాప క్షమాపణ (2) ||వధియింప||"
+          ],
+          "english": [
+            "Kaluvarilo Rakthamunu Kaarchi",
+            "Viluvagu Praanamunu Ichchi (2)",
+            "Thechchaavu Bhuviki Rakshana",
+            "Ichchaavu Paapa Kshamaapana (2) ||Vadhiyimpa||"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "clz",
+      "created_at": "2025-04-29 01:10:35",
+      "last_updated_at": "2026-08-06T16:04:39.179Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 1011,
+      "song_name": "Jeeva Naadha Mukthi Daatha",
+      "main_stanza": {
+        "telugu": [
+          "జీవ నాథ ముక్తి దాత",
+          "శాంతి దాత పరమాత్మ",
+          "పావనాత్మ పరుగిడి రావా",
+          "నా హృదిలో నివసింప రావా",
+          "నీ రాక కోసం వేచియున్నాను",
+          "వెలిగించు నాలో నీ దివ్య జ్యోతి – (2)"
+        ],
+        "english": [
+          "Jeeva Naadha Mukthi Daatha",
+          "Shaanthi Daatha Paramaathma",
+          "Paavanaathma Parugidi Raavaa",
+          "Naa Hrudilo Nivasimpa Raavaa",
+          "Nee Raaka Kosam Vechiyunnaanu",
+          "Veliginchu Naalo Nee Divya Jyothi – (2)"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "ముక్తి ప్రసాదించుము",
+            "భక్తిని నేర్పించుము",
+            "నీ ఆనందముతో నను నింపుము – (2)",
+            "వేంచేయు మా ఆత్మ దేవా",
+            "వెలిగించు నాలో నీ దివ్య జ్యోతి – (2) ||జీవ నాథ||"
+          ],
+          "english": [
+            "Mukthi Prasaadinchumu",
+            "Bhakthini Nerpinchumu",
+            "Nee Aanandamutho Nanu Nimpumu (2)",
+            "Vencheyu Maa Aathma Devaa",
+            "Veliginchu Naalo Divya Jyothi – (2) ||Jeeva Naadha||"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "నీ శాంతి నింపంగ రావా",
+            "నీ శక్తి నింపంగ రావా (2)",
+            "నీ పరమ వారములతో నింపేవా (2)",
+            "వేంచేయు మా ఆత్మ దేవా",
+            "వెలిగించు నాలో నీ దివ్య జ్యోతి – (2) ||జీవ నాథ||"
+          ],
+          "english": [
+            "Nee Shaanthi Nimpanga Raavaa",
+            "Nee Shakthi Nimpanga Raavaa (2)",
+            "Nee Parama Varamulatho Nimpavaa (2)",
+            "Vencheyu Maa Aathma Devaa",
+            "Veliginchu Naalo Divya Jyothi – (2) ||Jeeva Naadha||"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "clz",
+      "created_at": "2025-04-29 01:10:35",
+      "last_updated_at": "2026-08-06T16:07:04.817Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 1616,
+      "song_name": "Neetho Unte Jeevitham",
+      "main_stanza": {
+        "telugu": [
+          "నీతో ఉంటే జీవితం - వేదనైన రంగుల పయనం",
+          "నీతో ఉంటే జీవితం - బాటేదైన పువ్వుల కుసుమం (2)",
+          "నువ్వే నా ప్రాణాధారము",
+          "నువ్వే నా జీవాధారము (2)"
+        ],
+        "english": [
+          "Neetho Unte Jeevitham - Vedanaina Rangula Payanam",
+          "Neetho Unte Jeevitham - Baatedaina Puvvula Kusumam (2)",
+          "Nuvve Naa Praanaadhaaramu",
+          "Nuvve Naa Jeevaadhaaramu (2)"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "నువ్వే లేకపోతే నేను జీవించలేను",
+            "నువ్వే లేకపోతే నేను బ్రతుకలేను",
+            "నువ్వే లేకపోతే నేను ఊహించలేను",
+            "నువ్వే లేకపోతే నేను లేనే లేను",
+            "నిను విడచిన క్షణమే - ఒక యుగమై గడిచే నా జీవితము",
+            "చెదరిన నా బ్రతుకే - నిను వెతికే నీ తోడు కోసం (2) ||నువ్వే నా||"
+          ],
+          "english": [
+            "Nuvve Lekapothe Nenu Jeevinchalenu",
+            "Nuvve Lekapothe Nenu Brathukalenu",
+            "Nuvve Lekapothe Nenu Oohinchalenu",
+            "Nuvve Lekapothe Nenu Lene Lenu",
+            "Ninu Vidichina Kshaname - Oka Yugamai Gadiche Naa Jeevithamu",
+            "Chedarina Naa Brathuke - Ninu Vethike Nee Thodu Kosam (2) ||Nuvve Naa||"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "తూహీ మేరే జీవన్ యేషూ - తూహీ హే ప్రభూ",
+            "తూహీ మేరే మన్ మే యేషూ - కోయి నే ప్రభూ (2)",
+            "తేరే బిన్ మే తో జీనా సబర్నా ముషికిల్ హే యారో",
+            "తేరే బిన్ మే గుజర్నా బితానా యా మున్ కిన్ ప్యారో (2)",
+            "తూహీ మేరే ప్రాణాధార్ హే",
+            "తూహీ మేరే జీవాధార్ హే(2)"
+          ],
+          "english": [
+            "Thoohi Mere Jeevan Yeshu - Thoohi Hai Prabhu",
+            "Thoohi Mere Man Me Yeshu - Koyi Nai Prabhu (2)",
+            "There Bin Me Tho Jeenaa Sabarna Mushikil He Yaaro",
+            "There Bin Me Gujarna Bithaana Yaa Mun Kin Pyaaro (2)",
+            "Thoohi Mere Praanaadhaar He",
+            "Thoohi Mere Jeevaadhaar He (2)"
+          ]
+        },
+        {
+          "stanza_number": 3,
+          "telugu": [
+            "నీతో నేను జీవిస్తానే కలకాలము",
+            "నిన్నే నేను ప్రేమిస్తానే చిరకాలము",
+            "లోకంలో నేనెన్నో వెతికా అంతా శూన్యము",
+            "చివరికి నువ్వే నిలిచావే సదాకాలము",
+            "నిను విడువను దేవా - నా ప్రభువా నా ప్రాణదాత",
+            "నీ చేతితో మలచి - నను విరచి సరిచేయు నాథా (2) ||నువ్వే నా||"
+          ],
+          "english": [
+            "Neetho Nenu Jeevisthaane Kalakaalamu",
+            "Ninne Nenu Premisthaane Chirakaalamu",
+            "Lokamlo Nenenno Vethikaa Anthaa Shoonyamu",
+            "Chivariki Nuvve Nilichaave Sadaakaalamu",
+            "Ninu Viduvanu Devaa - Naa Prabhuvaa Naa Praanadaatha",
+            "Nee Chethitho Malachi - Nanu Virachi Saricheyu Naadhaa (2) ||Nuvve Naa||"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [
+          "Robert Stoll"
+        ],
+        "రచన": [
+          "రాబర్ట్ స్టోల్"
+        ]
+      },
+      "source": "clz",
+      "created_at": "2026-08-04T03:07:53.461Z",
+      "last_updated_at": "2026-08-06T16:10:52.019Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer"
+    },
+    {
+      "faults": [
+        {
+          "fault": "no-stanzas",
+          "remove": false,
+          "detail": "4 lines, never split into stanzas"
+        }
+      ],
+      "remove": false,
+      "song_id": 1646,
+      "song_name": "Aa Srehstambau Grandhamulo",
+      "main_stanza": {
+        "telugu": [
+          "ఆ శ్రేష్టంబౌ గ్రంథములో",
+          "ఏ చోట చూచినా ఆదరణ యున్నది",
+          "సుఖ దుఃఖములో వాగ్ధానమున్నవి",
+          "విశ్వాసముంచి ధ్యానించుడి"
+        ],
+        "english": [
+          "Aa Srehstambau Grandhamulo",
+          "Ae Chota Choochinaa Aadarana Yunnadi",
+          "Sukha Dukhamulo Vaagdhaanamunnavi",
+          "Vishwaasamunchi Dhyaaninchudi"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "Songs of Zion"
+        ],
+        "రచన": [
+          "సీయోను గీతాలు"
+        ]
+      },
+      "source": "clz",
+      "created_at": "2026-08-04T03:08:11.328Z",
+      "last_updated_at": "2026-08-05T21:10:08.667Z",
+      "created_by": "System",
+      "last_updated_by": "Source Tagging"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 1761,
+      "song_name": "Krupa kalugunu gaaka",
+      "main_stanza": {
+        "telugu": [
+          "కృప కలుగును గాక కృప కలుగును గాక",
+          "మా బ్రతుకులలో",
+          "కృప కలుగును గాక మా బ్రతుకులలో",
+          "కృప కలుగును గాక కృప కలుగును గాక",
+          "కృప కలుగును గాక మా బ్రతుకులలో",
+          "కృప కలుగును గాక మా బ్రతుకులలో",
+          "కృప కలుగును గాక యేసయ్యా",
+          "కృప కలుగును గాక యేసయ్యా",
+          "కృప కలుగును గాక కృప వెంబడి",
+          "కృపను పొందుదుము గాక కృప వెంబడి",
+          "కృపను పొందుదుము గాక ఆమెన్ ఆమెన్ ఆమెన్",
+          "ఆమెన్ కృప కలుగును గాక మా",
+          "నోటనున్న మాటను ప్రభువు స్థిరపరచును"
+        ],
+        "english": [
+          "Krupa kalugunu gaaka krupa kalugunu gaaka",
+          "Maa brathukulalo",
+          "Krupa kalugunu gaaka maa brathukulalo",
+          "Krupa kalugunu gaaka krupa kalugunu gaaka",
+          "Krupa kalugunu gaaka maa brathukulalo",
+          "Krupa kalugunu gaaka maa brathukulalo",
+          "Krupa kalugunu gaaka Yesayyaa",
+          "Krupa kalugunu gaaka Yesayyaa",
+          "Krupa kalugunu gaaka krupa vembadi",
+          "Krupanu ponduthumu gaaka krupa vembadi",
+          "Krupanu ponduthumu gaaka aamen aamen aamen",
+          "Aamen krupa kalugunu gaaka maa",
+          "Notanunna maatanu prabhuvu sthiraparachunu"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "స్థిరపరచును గాక ||కృప||",
+            "కృప కలుగును గాక ||కృప|| ||కృప|| ||కృప||"
+          ],
+          "english": [
+            "Sthiraparachunu gaaka ||Krupa||",
+            "Krupa kalugunu gaaka ||Krupa|| ||Krupa|| ||Krupa||"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "నిను సేవించుటలో",
+            "కృప కలుగును గాక నిను",
+            "ప్రేమించుటలో",
+            "కృప కలుగునుగాక క నిను",
+            "ప్రకటించుటకు",
+            "కృప కలుగును గాక నిను ఘనపరచుటకు ||కృప||",
+            "నిన్ను సేవించుటలో ||కృప||"
+          ],
+          "english": [
+            "Ninu sevinchutalo",
+            "Krupa kalugunu gaaka ninu",
+            "Preminchutalo",
+            "Krupa kalugunugaaka ka ninu",
+            "Prakatinchutaku",
+            "Krupa kalugunu gaaka ninu ghanaparachutaku ||Krupa||",
+            "Ninnu sevinchutalo ||Krupa||"
+          ]
+        },
+        {
+          "stanza_number": 3,
+          "telugu": [
+            "నిను ప్రేమించుటలో ||కృప||",
+            "నిను ప్రకటించుటకు"
+          ],
+          "english": [
+            "Ninu preminchutalo ||Krupa||",
+            "Ninu prakatinchutaku"
+          ]
+        },
+        {
+          "stanza_number": 4,
+          "telugu": [
+            "కృప కలుగును గాక నిను ఘనపరచుటకు ||కృప||",
+            "నీకై",
+            "జీవించుటకు",
+            "అధికమైన ||కృప||",
+            "నీకై మరణించుటకు",
+            "శ్రేష్టమైన ||కృప||",
+            "ప్రభువు స్థిరపరచును గాక ఆమెన్ ఆమెన్",
+            "ఆమెన్ ఆమెన్ కృప కలుగును గాక మా నోట ||కృప||"
+          ],
+          "english": [
+            "Krupa kalugunu gaaka ninu ghanaparachutaku ||Krupa||",
+            "Neekai",
+            "Jeevinchutaku",
+            "Adhikamaina ||Krupa||",
+            "Neekai maraninchutaku",
+            "Shreshtamaina ||Krupa||",
+            "Prabhuvu sthiraparachunu gaaka aamen aamen",
+            "Aamen aamen krupa kalugunu gaaka maa nota ||Krupa||"
+          ]
+        },
+        {
+          "stanza_number": 5,
+          "telugu": [
+            "నున్న మాటను ప్రభువు స్థిరపరచును గాక కృప ||కృప||"
+          ],
+          "english": [
+            "Nunna maatanu prabhuvu sthiraparachunu gaaka krupa ||Krupa||"
+          ]
+        },
+        {
+          "stanza_number": 6,
+          "telugu": [
+            "మా పనిపాటులలో",
+            "కృప కలుగును గాక మా ఆరోగ్యములో",
+            "కృప కలుగును గాక మా పరిచర్యలలో",
+            "లో కృప కలుగును గాక ప్రతి",
+            "వ్యవహారములో ||కృప||",
+            "మా పనిపాటులలో",
+            "కృప కలుగును గాక మా ఆరోగ్యములో",
+            "కృప కలుగును గాక మా పరిచర్యలలో",
+            "కృప కలుగును గాక ప్రతి",
+            "వ్యవహారములో",
+            "కృప కలుగును గాక నీ చిత్తము",
+            "నెరవేర్చుటకు",
+            "అమితమైన ||కృప||",
+            "నీ రాజ్యమును",
+            "పొందుటకు",
+            "అనంతమైన ||కృప||",
+            "స్థిర స్థిరపరచును గాక ఆమెన్",
+            "గాక ||కృప||",
+            "కృప కలుగును నుగాక యేసయ్యా ||కృప||"
+          ],
+          "english": [
+            "Maa panipaatulalo",
+            "Krupa kalugunu gaaka maa aarogyamulo",
+            "Krupa kalugunu gaaka maa paricharyalalo",
+            "Lo krupa kalugunu gaaka prathi",
+            "Vyavahaaramulo ||Krupa||",
+            "Maa panipaatulalo",
+            "Krupa kalugunu gaaka maa aarogyamulo",
+            "Krupa kalugunu gaaka maa paricharyalalo",
+            "Krupa kalugunu gaaka prathi",
+            "Vyavahaaramulo",
+            "Krupa kalugunu gaaka nee chitthamu",
+            "Neraverchutaku",
+            "Amithamaina ||Krupa||",
+            "Nee raajyamunu",
+            "Pondutaku",
+            "Ananthamaina ||Krupa||",
+            "Sthira sthiraparachunu gaaka aamen",
+            "Gaaka ||Krupa||",
+            "Krupa kalugunu nugaaka Yesayyaa ||Krupa||"
+          ]
+        },
+        {
+          "stanza_number": 7,
+          "telugu": [
+            "స్థిరపరచును గాక",
+            "స్తుతి స్తుతి స్తుతి స్తుతి కృప",
+            "కలిగెను గనుక మా నోట నున్న మాటను",
+            "ప్రభువు స్థిరపరచెను గనుక ||కృప||"
+          ],
+          "english": [
+            "Sthiraparachunu gaaka",
+            "Sthuthi sthuthi sthuthi sthuthi krupa",
+            "Kaligenu ganuka maa nota nunna maatanu",
+            "Prabhuvu sthiraparachenu ganuka ||Krupa||"
+          ]
+        },
+        {
+          "stanza_number": 8,
+          "telugu": [
+            "స్తుతి స్తుతి స్తుతి స్తుతి కృప కలిగెను",
+            "గనుక మా నోట నున్న మాటను ప్రభువు",
+            "స్థిరపరచెను గనుక",
+            "స్తుతి స్తుతి స్తుతి స్తుతి కృప కలిగెను",
+            "గనుక మా నోట నున్న మాటను ప్రభు",
+            "స్థిరపరచెను గనుక"
+          ],
+          "english": [
+            "Sthuthi sthuthi sthuthi sthuthi krupa kaligenu",
+            "Ganuka maa nota nunna maatanu prabhuvu",
+            "Sthiraparachenu ganuka",
+            "Sthuthi sthuthi sthuthi sthuthi krupa kaligenu",
+            "Ganuka maa nota nunna maatanu prabhu",
+            "Sthiraparachenu ganuka"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [
+          "Jonah Samuel"
+        ],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T21:27:07.092Z",
+      "last_updated_at": "2026-08-06T16:11:06.951Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 1991,
+      "song_name": "Naa rakshakuni vembadinthu nannitan",
+      "main_stanza": {
+        "telugu": [
+          "నా రక్షకుని వెంబడింతు నన్నిటన్",
+          "ఘోరమైన కొండలైన జంకొందను",
+          "సురక్షితంబుగాను నేను వెళ్లుదున్",
+          "బరమ కిరీట మొందువరకు.",
+          "||యేసున్ నేను ఎన్నఁ డెన్నడును",
+          "ఆసతో నన్నిటన్ వెంబడింతును",
+          "భాసురంబౌ ప్రభు వెంట కన్నుల్",
+          "మూసికొని యొక్కఁడేని వెళ్లుదున్||"
+        ],
+        "english": [
+          "Naa rakshakuni vembadinthu nannitan",
+          "Ghoramaina kondalaina jankondanu",
+          "Surakshithambugaanu nenu velludun",
+          "Parama kireeta mondhuvaraku.",
+          "||Yesun nenu enna dennadanunu",
+          "Aasatho nannitan vembadinthunu",
+          "Bhaasurambau prabhu venta kannul",
+          "Moosikoni yokkadeni velludun||"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "నా యేసు తోడ వెళ్లుచుందు",
+            "నెల్లడన్",
+            "ప్రయాసమైన లోయలై భయ",
+            "పడన్",
+            "దయఁ జూపు యేసు నన్ను వెం",
+            "డించుచో",
+            "భయ మేల భువనంబులోదగన్"
+          ],
+          "english": [
+            "Naa Yesu thoda velluchundu",
+            "Nelladan",
+            "Prayaasamaina loyalai bhaya",
+            "Padan",
+            "Daya joopu Yesu nannu vem",
+            "Dinchucho",
+            "Bhaya mela bhuvanambulodhagan"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "నా కాలమెల్ల యేసుసందునమ్ము",
+            "దున్",
+            "భీకరింపు వాధియైన నేదాటుదున్",
+            "నా కర్తతోడ నెందునైన నేగుదున్",
+            "నాక మెక్కితండ్రిఁ చువరకున్."
+          ],
+          "english": [
+            "Naa kaalamella Yesusandunammu",
+            "Dun",
+            "Bheekarimpu vaadhiyaina nedaatudun",
+            "Naa karthathoda nendunaina negudun",
+            "Naaka mekkithandri chuvarakun."
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": [
+          "విలియం ఆర్కట్ కషింగ్"
+        ]
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T21:27:41.347Z",
+      "last_updated_at": "2026-08-05T21:27:41.347Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 2373,
+      "song_name": "Nrupaa vimochakaa Prabhoo velaadi nolla nee",
+      "main_stanza": {
+        "telugu": [
+          "నృపా! విమోచకా! ప్రభూ వేలాది నోళ్ల నీ",
+          "కృపా జయప్రభావముల్ నుతింతు నెంతయున్."
+        ],
+        "english": [
+          "Nrupaa! vimochakaa! Prabhoo velaadi nolla nee",
+          "Krupaa jayaprabhaavamul nuthimthu nenthayun."
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "కృపాధికార! దేవ! నీ సాయంబు జేయుమా",
+            "భవత్ర్పభావ కీర్తులన్ జాటంగ నెల్లెడన్."
+          ],
+          "english": [
+            "Krupaadhikaara! Deva! nee saayambu jeyumaa",
+            "Bhavathprabhaava keerthulan jaatamga nelledan."
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "భయంబు చింతఁ బాపును హర్షంబు పాపికి",
+            "సౌఖ్యంబు జీవశాంతులు నీ నామ మిచ్చును."
+          ],
+          "english": [
+            "Bhayambu chimtha baapunu harshambu paapiki",
+            "Saukhyambu jeevashaamthulu nee naama michchunu."
+          ]
+        },
+        {
+          "stanza_number": 3,
+          "telugu": [
+            "విముక్తి జేయు ఖైదిని పాపంబు బాపును",
+            "పాపాత్ము శుద్ధుజేఁయును శ్రీయేసు రక్తము."
+          ],
+          "english": [
+            "Vimukthi jeyu khaidhini paapambu baapunu",
+            "Paapaathmu shuddhujeyunu Shreeyesu rakthamu."
+          ]
+        },
+        {
+          "stanza_number": 4,
+          "telugu": [
+            "జనాళి! పాపు లెల్లరు! శ్రీయేసున్ నమ్ముఁడి",
+            "కృపావిముక్తులందుఁడి సంపూర్ణ భక్తితో."
+          ],
+          "english": [
+            "Janaali! paapu lellaru! Shreeyesun nammudi",
+            "Krupaavimukthulandhudi sampoorna bhakthitho."
+          ]
+        },
+        {
+          "stanza_number": 5,
+          "telugu": [
+            "అర్పించె యేసు ప్రాణమున్ నరాళిఁగావను;",
+            "యజ్ఙంపు దేవు గొఱ్ఱెపై నఘంబు వేయుఁడి."
+          ],
+          "english": [
+            "Arpimche Yesu praanamun naraaligaavanu;",
+            "Yajnampu Devu gorrepai naghambu veyudi."
+          ]
+        },
+        {
+          "stanza_number": 6,
+          "telugu": [
+            "సత్కీర్తి స్తోత్ర ప్తేమల నభాన భూమిని",
+            "సర్వత్ర దేవుఁడొందుగా సద్భక్త పాళిచే."
+          ],
+          "english": [
+            "Sathkeerthi sthothra premala nabhaana bhoomini",
+            "Sarvathra Dhevudondhugaa sadbhaktha paaliche."
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": [
+          "చార్ల్స్ వెస్లీ"
+        ]
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T21:29:00.476Z",
+      "last_updated_at": "2026-08-05T21:29:00.476Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 2644,
+      "song_name": "Neeve naa oopiri",
+      "main_stanza": {
+        "telugu": [
+          "నీవే నా ఊపిరి",
+          "నీవే నా ఊపిరి",
+          "నీ సన్నిధియే - నాకు జీవం ||నీవే ఊపి||"
+        ],
+        "english": [
+          "Neeve naa oopiri",
+          "Neeve naa oopiri",
+          "Nee sannidhiye - Naaku jeevam ||Neeve oopi||"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "నీవే.......నా కొరిక నీవే",
+            "నేవే..... నా ఆశ నీవే",
+            "నీవే జీవాహరం",
+            "నీవే జీవాహరం",
+            "నీ వాక్యము - నాకు జీవం ||నీవే జీవా||"
+          ],
+          "english": [
+            "Neeve.......naa korika neeve",
+            "Neeve..... naa aasha neeve",
+            "Neeve jeevaahaaram",
+            "Neeve jeevaahaaram",
+            "Nee vaakyamu - Naaku jeevam ||Neeve jeevaa||"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "నీవే......నా కొరిక నీవే",
+            "నీవే.... నా ఆశ నీవే"
+          ],
+          "english": [
+            "Neeve......naa korika neeve",
+            "Neeve.... naa aasha neeve"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T21:29:57.728Z",
+      "last_updated_at": "2026-08-05T21:29:57.728Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 2727,
+      "song_name": "Nee velugunu nee sathyamunu",
+      "main_stanza": {
+        "telugu": [
+          "వెలుగిచ్చి నాకు మార్గము చూపు",
+          "వెలిగించి నా మది ప్రియ యేసు"
+        ],
+        "english": [
+          "Velugichchi naaku maargamu choopu",
+          "Veliginchi naa madi priya Yesu"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "గురి చేరుటకే ఈ నా యాత్ర - సరిగా భువిలో నే చేరుటకు",
+            "కోరి నీ వెలుగు నే నడచుటకు - ప్రభూ! నడిపించు"
+          ],
+          "english": [
+            "Guri cherutake ee naa yaathra - Sarigaa bhuvilo ne cherutaku",
+            "Kori nee velugu ne nadachutaku - Prabhoo! Nadipinchu"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "ఘోరచీకటి నన్నావరింప - మార్గమున ఘోర తుఫాను రేగ",
+            "కరమునెత్తి ప్రభూ! గద్దించుము - ప్రభూ! రక్షించుము"
+          ],
+          "english": [
+            "Ghoracheekati nannaavarimpa - Maargamuna ghora thuphaanu rega",
+            "Karamuneththi Prabhoo! Gaddhinchumu - Prabhoo! Rakshinchumu"
+          ]
+        },
+        {
+          "stanza_number": 3,
+          "telugu": [
+            "నిను చేరి నిత్యం - నీతో నుండుటకే - నేనాశించితి నా హృదయములో",
+            "నను బలపరచి నిలుపుము - ప్రభూ! స్థిరముగను"
+          ],
+          "english": [
+            "Ninu cheri nithyam - Neetho nundutake - Nenaashinchithi naa hrudayamulo",
+            "Nanu balaparachi nilupumu - Prabhoo! Sthiramuganu"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T21:30:24.037Z",
+      "last_updated_at": "2026-08-06T16:23:52.632Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-structural"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 3227,
+      "song_name": "Yehova naa kaapari naaku lemi kalugadu",
+      "main_stanza": {
+        "telugu": [
+          "యెహోవా నా కాపరి - లేమి కలుగదు",
+          "పచ్చికలపై పరుండజేయుచున్నాడు"
+        ],
+        "english": [
+          "Yehova naa kaapari - Lemi kalugadu",
+          "Pachchikalapai parundajeyuchunnaadu"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "శాంతికరంబగు శ్రేష్ఠ జలముల - చెంత నన్నడిపించుచున్నాడు"
+          ],
+          "english": [
+            "Shaanthikarambagu shreshtta jalamula - Chentha nannadipinchuchunnaadu"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "సర్వదా నాదు ప్రాణంబునకు - సేద దీర్చుచున్నాడు యెహోవా"
+          ],
+          "english": [
+            "Sarvadaa naadu praanambunaku - Seda dheerchuchunnaadu Yehova"
+          ]
+        },
+        {
+          "stanza_number": 3,
+          "telugu": [
+            "తన నామమును బట్టి నీతి మార్గములో - నన్ను చక్కగా నడుపుచున్నాడు"
+          ],
+          "english": [
+            "Thana naamamunu batti neethi maargamulo - Nannu chakkagaa nadupuchunnaadu"
+          ]
+        },
+        {
+          "stanza_number": 4,
+          "telugu": [
+            "చీకటి లోయలో నే తిరిగినను - ఎట్టి అపాయమునకు భయపడను"
+          ],
+          "english": [
+            "Cheekati loyalo ne thiriginanu - Etti apaayamunaku bhayapadanu"
+          ]
+        },
+        {
+          "stanza_number": 5,
+          "telugu": [
+            "నీ దుడ్డుకర్ర నీ దండముతో న-న్నాదరించి తోడై యుందువు"
+          ],
+          "english": [
+            "Nee dhuddukarra nee dandamutho na-nnaadharinchi thodai yunduvu"
+          ]
+        },
+        {
+          "stanza_number": 6,
+          "telugu": [
+            "నా శత్రువుల యెదుట నీవు నాకు - భోజనము సిద్ధపరచుదువు"
+          ],
+          "english": [
+            "Naa shathruvula eduta neevu naaku - Bhojanamu siddhaparachuduvu"
+          ]
+        },
+        {
+          "stanza_number": 7,
+          "telugu": [
+            "నూనెతో నా తల నంటియున్నావు - నా గిన్నె నిండి పొర్లుచున్నది"
+          ],
+          "english": [
+            "Noonetho naa thala nantiyunnaavu - Naa ginne nindi porluchunnadhi"
+          ]
+        },
+        {
+          "stanza_number": 8,
+          "telugu": [
+            "నన్ను వెంటాడు సదా కృప క్షేమము - నిత్యమెహోవా మందిరములో నుండెద"
+          ],
+          "english": [
+            "Nannu ventaadu sadaa krupa kshemamu - Nithyamehova mandiramulo nundedha"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:13:27.826Z",
+      "last_updated_at": "2026-08-05T22:13:27.826Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 3230,
+      "song_name": "Yehova naa kaapari naaku lemi kalugadu",
+      "main_stanza": {
+        "telugu": [
+          "యేసు ప్రభూ కాపరి నాకు - వాసిగా స్తుతించెదన్",
+          "యేసు గొఱ్ఱెపిల్లను - పోయెదను తన వెంట"
+        ],
+        "english": [
+          "Yesu Prabhoo kaapari naaku - Vaasigaa sthuthinchedan",
+          "Yesu gorrepillanu - Poyedanu thana venta"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "పచ్చిక పట్లకు - మచ్చికతో నడుపున్",
+            "స్వచ్ఛ జలముచెంత - నిచ్చును విశ్రాంతి",
+            "ముందు ముందు వెళ్లుచు - పొందుగా రక్షించు నన్ను",
+            "తన మాధుర్య స్వరంబున - తనివి దీర్చును"
+          ],
+          "english": [
+            "Pachchika patlaku - Machchikatho nadupun",
+            "Svachchha jalamuchentha - Nichchunu vishraanthi",
+            "Mundu mundu velluchu - Pondhugaa rakshinchu nannu",
+            "Thana maadhurya swarambuna - Thanivi dheerchunu"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "మరణపులోయ ద్వారా - సరిగా నడిపించును",
+            "అడవి భయములెల్ల - ఎడబాపి రక్షించున్",
+            "హత్తి ఒత్తి కట్టి గాయా - లెంతో ఆదరించును",
+            "వింతగు ఆయన ప్రేమ సేవలో - సంతోషింతును"
+          ],
+          "english": [
+            "Maranapuloya dwaaraa - Sarigaa nadipinchunu",
+            "Adavi bhayamulella - Edabaapi rakshinchun",
+            "Hatthi otthi katti gaayaa - Lentho aadarinchunu",
+            "Vinthagu aayana prema sevalo - Santhoshinthunu"
+          ]
+        },
+        {
+          "stanza_number": 3,
+          "telugu": [
+            "శత్రుల ముందాహారం - సంసిద్ధము జేయును",
+            "నా గిన్నె నిండించి - పొర్లి పారజేసి",
+            "కడిగి కడిగి శుద్ధిచేసి - ఆత్మదానమిచ్చెను",
+            "వడిగా ఆయన సాయమున - జయమున వెళ్ళెదను"
+          ],
+          "english": [
+            "Shathrula mundhaahaaram - Samsidhdhamu jeyunu",
+            "Naa ginne nindinchi - Porli paarajesi",
+            "Kadigi kadigi shudhdhichesi - Aathmadhaanamichchenu",
+            "Vadigaa aayana saayamuna - Jayamuna velledanu"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:13:28.100Z",
+      "last_updated_at": "2026-08-05T22:13:28.100Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 3280,
+      "song_name": "aayana dhanavanthudai yundiyu meeru",
+      "main_stanza": {
+        "telugu": [
+          "క్రీస్తు యేసు దయాళు ప్రభు - నీవే సృష్టికర్తవు",
+          "నీవే మా రక్షకుడవని హల్లెలూయ పాడెదం"
+        ],
+        "english": [
+          "Kreesthu Yesu dayaalu prabhu - Neeve srushtikarthavu",
+          "Neeve maa rakshakudavani hallelooya paadedam"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "పాప జగాన - జన్మించితివి - పేద గృహాన - పెరిగితివి",
+            "సంకట కష్టములనుభవించి మమ్మును రక్షించితివి - ప్రియ యేసు",
+            "మమ్మును రక్షించితివి - మమ్ము"
+          ],
+          "english": [
+            "Paapa jagaana - Janminchithivi - Pedha gruhaana - Perigithivi",
+            "Sankata kashtamulanubhavinchi mammunu rakshinchithivi - Priya Yesu",
+            "Mammunu rakshinchithivi - Mammu"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "జీవిత నావా - తుఫాను చేత - తల్లడిల్లగ - ఒక్క మాటతో",
+            "ఆజ్ఞాపించి తుఫాను నాపి - దరికి జేర్చితివి - ప్రియ యేసు",
+            "దరికి జేర్చితివి - దరికి"
+          ],
+          "english": [
+            "Jeevitha naavaa - Thuphaanu chetha - Thalladillaga - Okka maatatho",
+            "Aagnaapinchi thuphaanu naapi - Dariki jerchithivi - Priya Yesu",
+            "Dariki jerchithivi - Dariki"
+          ]
+        },
+        {
+          "stanza_number": 3,
+          "telugu": [
+            "ఎన్నో విధాల - పోనట్టి నాదు - పాప రోగము - నీ వస్త్రమును",
+            "ముట్టినంతనే - అద్భుతముగ - నివారణాయెను",
+            "ప్రియ యేసు నివారణాయెను - నివార"
+          ],
+          "english": [
+            "Enno vidhaala - Ponatti naadu - Paapa rogamu - Nee vasthramunu",
+            "Muttinanthane - Adbhuthamuga - Nivaaranaayenu",
+            "Priya Yesu nivaaranaayenu - Nivaara"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:13:41.387Z",
+      "last_updated_at": "2026-08-06T17:06:27.731Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-title"
+    },
+    {
+      "faults": [
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"... \""
+        }
+      ],
+      "remove": true,
+      "song_id": 3487,
+      "song_name": "... neevu naaku thodai",
+      "main_stanza": {
+        "telugu": [
+          "నడ్పుమా మహా యెహోవా - లోకయాత్ర యందున",
+          "నీదు శక్తి నాకు దిక్కు - నన్ రక్షంప జేపట్టు",
+          "దివ్యమన్నా దివ్యమన్నా - నా కాహారమై యుండు"
+        ],
+        "english": [
+          "Nadpumaa mahaa Yehova - Lokayaathra yanduna",
+          "Needu shakthi naaku dikku - Nan rakshampa jepattu",
+          "Dhivyamannaa dhivyamannaa - Naa kaahaaramai yundu"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "ఊటగా స్వచ్ఛజలంబు - బండనుండి పారనీ",
+            "అగ్ని మేఘ స్తంభాలచే - నడవిన్ నన్ దాటించు",
+            "గొప్ప ప్రాపూ గొప్ప ప్రాపూ - నాకు డాలు నీవే"
+          ],
+          "english": [
+            "Ootagaa svachchhajalambu - Bandanundi paaranee",
+            "Agni megha sthambhaalache - Nadavin nan dhaatinchu",
+            "Goppa praapoo goppa praapoo - Naaku daalu neeve"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "యోర్దాన్ నది దాటువేళ - భీతులెల్ల బాపుము",
+            "మృత్యు శ్రమలన్ని నన్ను - క్షేమ కానాన్ జేర్చును",
+            "స్తుతిగీతి స్తుతిగీతి - నీ కర్పింతు నిత్యము"
+          ],
+          "english": [
+            "Yordhaan nadi dhaatuvela - Bheethulella baapumu",
+            "Mruthyu shramalanni nannu - Kshema Kaanaan jerchunu",
+            "Sthuthigeethi sthuthigeethi - Nee karpinthu nithyamu"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:14:47.208Z",
+      "last_updated_at": "2026-08-06T17:06:30.083Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-title"
+    },
+    {
+      "faults": [
+        {
+          "fault": "no-stanzas",
+          "remove": false,
+          "detail": "4 lines, never split into stanzas"
+        }
+      ],
+      "remove": false,
+      "song_id": 3609,
+      "song_name": "Aakaashamunu bhoomiyu gathinchunu gaani",
+      "main_stanza": {
+        "telugu": [
+          "యేసుని వాక్కు నిత్యము నిల్చున్",
+          "ఏమి మారినన్ పొల్లుపోదు",
+          "భూమ్యాకాశముల్ గతించినను",
+          "మా రాజు పల్కు మారదు"
+        ],
+        "english": [
+          "Yesuni vaakku nithyamu nilchun",
+          "Emi maarinan pollupodhu",
+          "Bhoomyaakaashamul gathinchinanu",
+          "Maa raaju palku maaradu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:16:00.390Z",
+      "last_updated_at": "2026-08-06T17:08:27.327Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-sourced"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 3610,
+      "song_name": "Idigo nenu thalupunoddha niluchundi",
+      "main_stanza": {
+        "telugu": [
+          "యేసునే స్తుతించు",
+          "రేపే మగునో తెలియనందున స్తుతించు"
+        ],
+        "english": [
+          "Yesune sthuthinchu",
+          "Repe maguno teliyanandhuna sthuthinchu"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "వచ్చెనేసు స్వర్గమునుండి",
+            "ముక్తి సందేశము దెచ్చెనేసు",
+            "లేచి మారుమనస్సు నొందు",
+            "రక్షణ నొంది సంస్తుతించు"
+          ],
+          "english": [
+            "Vachchenesu svargamunundi",
+            "Mukthi sandhesamu dechchenesu",
+            "Lechi maarumanassu nondu",
+            "Rakshana nondi samsthuthinchu"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "రా యేసు రమ్మను చున్నాడు పాపి రా",
+            "నమ్ము నీకు రక్షణ నిచ్చును",
+            "హృదయ తలుపు తట్టుచున్నాడు",
+            "నీ హృదయ ద్వారము తెరువుము",
+            "యేసు ప్రభున్ లోన రానిమ్ము స్తుతించు"
+          ],
+          "english": [
+            "Raa Yesu rammanu chunnaadu paapi raa",
+            "Nammu neeku rakshana nichchunu",
+            "Hrudaya thalupu thattuchunnaadu",
+            "Nee hrudaya dwaaramu theruvumu",
+            "Yesu Prabhun lona raanimmu sthuthinchu"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:16:00.190Z",
+      "last_updated_at": "2026-08-05T22:16:00.190Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "no-stanzas",
+          "remove": false,
+          "detail": "2 lines, never split into stanzas"
+        }
+      ],
+      "remove": false,
+      "song_id": 3614,
+      "song_name": "Nedu meeru korukonudi",
+      "main_stanza": {
+        "telugu": [
+          "నేడు మీరు కోరుకొనుడి, మీ రెవరిని సేవించెదరో",
+          "మేము ప్రభుని సేవించెదము, మన ప్రభుని"
+        ],
+        "english": [
+          "Nedu meeru korukonudi, mee revarini sevinchedharo",
+          "Memu Prabhuni sevinchedhamu, mana Prabhuni"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:16:04.528Z",
+      "last_updated_at": "2026-08-06T16:24:25.634Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-structural"
+    },
+    {
+      "faults": [
+        {
+          "fault": "no-stanzas",
+          "remove": false,
+          "detail": "4 lines, never split into stanzas"
+        }
+      ],
+      "remove": false,
+      "song_id": 3615,
+      "song_name": "Yehovaakoraku eduru choochuvaaru noothana",
+      "main_stanza": {
+        "telugu": [
+          "యెహోవా కొరకు యెదురుచూచువారు",
+          "నూతన బలమును పొందుదురు",
+          "వారు పక్షిరాజువలె రెక్కలు - చాచి పైకి ఎగురుదురు",
+          "అలయక పరుగెత్తుదురు - సొమ్మసిల్లక నడచిపోవుదురు"
+        ],
+        "english": [
+          "Yehova koraku edhuruchoochuvaaru",
+          "Noothana balamunu pondhudhuru",
+          "Vaaru pakshiraajuvale rekkalu - Chaachi paiki egurudhuru",
+          "Alayaka parugetthudhuru - Sommasillaka nadachipovudhuru"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:16:04.608Z",
+      "last_updated_at": "2026-08-06T16:24:25.993Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-structural"
+    },
+    {
+      "faults": [
+        {
+          "fault": "no-stanzas",
+          "remove": false,
+          "detail": "6 lines, never split into stanzas"
+        }
+      ],
+      "remove": false,
+      "song_id": 3617,
+      "song_name": "Aa ayidhu rottelanu rendu",
+      "main_stanza": {
+        "telugu": [
+          "ఐదు రొట్టెలు చేపలు రెండు",
+          "ఐదు వేలకు పంచిపెట్టెన్",
+          "పంక్తి పంక్తిగా కూర్చుండ",
+          "పంచి పెట్టిరి ప్రజలందరికి",
+          "పండ్రెండు గంపలు మిగిలెను",
+          "ప్రభుకు మహిమ కలిగెను"
+        ],
+        "english": [
+          "Aidu rottelu chepalu rendu",
+          "Aidu velaku panchipetten",
+          "Pankthi pankthigaa koorchunda",
+          "Panchi pettiri prajalandhariki",
+          "Pandrendu gampalu migilenu",
+          "Prabhuku mahima kaligenu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:16:04.885Z",
+      "last_updated_at": "2026-08-06T17:06:33.311Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-title"
+    },
+    {
+      "faults": [
+        {
+          "fault": "no-stanzas",
+          "remove": false,
+          "detail": "4 lines, never split into stanzas"
+        }
+      ],
+      "remove": false,
+      "song_id": 3618,
+      "song_name": "Sarvajanulaaraa Devuni koniyaadudi",
+      "main_stanza": {
+        "telugu": [
+          "సర్వజనులారా - దేవుని కొనియాడుడి",
+          "అన్య జనులారా - దేవుని స్తుతించుడి",
+          "ఆయా కృప - మన యెడల నత్యధికము",
+          "ఆయన విశ్వాస్యత - నిత్యముండు నల్లెలూయ"
+        ],
+        "english": [
+          "Sarvajanulaaraa - Devuni koniyaadudi",
+          "Anya janulaaraa - Devuni sthuthinchudi",
+          "Aayana krupa - mana edala nathyadhikamu",
+          "Aayana vishwaasyatha - nithyamundu nallelooya"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:16:04.928Z",
+      "last_updated_at": "2026-08-06T16:24:26.723Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-structural"
+    },
+    {
+      "faults": [
+        {
+          "fault": "no-stanzas",
+          "remove": false,
+          "detail": "2 lines, never split into stanzas"
+        }
+      ],
+      "remove": false,
+      "song_id": 3619,
+      "song_name": "Yesukreesthu ninna nedu okkatereethigaa",
+      "main_stanza": {
+        "telugu": [
+          "నిన్న నేడు నిత్యకాల - మేసు మారడు",
+          "యెన్నడైన మారడేసు - మహిమ యేసునకు"
+        ],
+        "english": [
+          "Ninna nedu nithyakaala - Mesu maaradu",
+          "Ennadaina maaradesu - Mahima Yesunaku"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:16:05.103Z",
+      "last_updated_at": "2026-08-06T16:24:27.172Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-structural"
+    },
+    {
+      "faults": [
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Reference:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 3620,
+      "song_name": "Reference: naashanakaramaina guntalo nundiyu jigatagala",
+      "main_stanza": {
+        "telugu": [
+          "ఓ దేవునికి మహిమ - లేవనెత్తెను",
+          "నన్ను లేవనెత్తెను యేసు",
+          "తన చెయ్యిచాచి నన్ను రక్షించెను",
+          "ఓ దేవునికే మహిమ"
+        ],
+        "english": [
+          "O Devuniki mahima - Levanetthenu",
+          "Nannu levanetthenu Yesu",
+          "Thana cheyyichaachi nannu rakshinchenu",
+          "O Devunike mahima"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "యేసుని ప్రేమింతును ఎక్కువగా ప్రేమింతును",
+            "నే నద్దరి యొడ్డున చేరినప్పుడు ఎక్కువగా స్తుతియింతును"
+          ],
+          "english": [
+            "Yesuni preminthunu ekkuvagaa preminthunu",
+            "Ne naddhari yodduna cherinappudu ekkuvagaa sthuthiyinthunu"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:16:05.331Z",
+      "last_updated_at": "2026-08-06T17:08:27.705Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-sourced"
+    },
+    {
+      "faults": [
+        {
+          "fault": "no-stanzas",
+          "remove": false,
+          "detail": "5 lines, never split into stanzas"
+        }
+      ],
+      "remove": false,
+      "song_id": 3621,
+      "song_name": "vaaru gorrepilla rakthamunu battiyu",
+      "main_stanza": {
+        "telugu": [
+          "వారు గొఱ్ఱెపిల్ల రక్తమును బట్టియున్",
+          "తామిచ్చు సాక్ష్యమున్ బట్టియున్",
+          "సాతానుఁ జయించి యున్నారు గాని",
+          "మరణము వరకు తమ ప్రాణములను",
+          "ప్రేమించిన వారు కారు"
+        ],
+        "english": [
+          "Vaaru gorrepilla rakthamunu battiyun",
+          "Thaamichchu saakshyamun battiyun",
+          "Saathaanu jayinchi yunnaaru gaani",
+          "Maranamu varaku thama praanamulanu",
+          "Preminchina vaaru kaaru"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:16:05.434Z",
+      "last_updated_at": "2026-08-06T17:06:34.090Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-title"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 3866,
+      "song_name": "Kummari o kummari",
+      "main_stanza": {
+        "telugu": [
+          "కుమ్మరి ఓ కుమ్మరి - జగదుత్పత్తిధారి",
+          "జిగటమన్నైన నా వంక - చల్లగ చూడుమయ్యా"
+        ],
+        "english": [
+          "Kummari o kummari - Jagadhuthpatthidhaari",
+          "Jigatamannaina naa vanka - Challaga choodumayyaa"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "పనికి రాని పాత్రయని - పారవేయకుమా",
+            "పొంగి పొరలు పాత్రగా - నన్ను నింపుమా (2) ||కుమ్మరి||"
+          ],
+          "english": [
+            "Paniki raani paathrayani - Paaraveyakumaa",
+            "Pongi poralu paathragaa - Nannu nimpumaa (2) ||Kummari||"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "యోగ్యమైన పాత్రగా - పావన పరచుమా",
+            "ఘనతయైన పాత్రగా - మార్చివేయుమా (2) ||కుమ్మరి||"
+          ],
+          "english": [
+            "Yogyamaina paathragaa - Paavana parachumaa",
+            "Ghanathayaina paathragaa - Maarchiveyumaa (2) ||Kummari||"
+          ]
+        },
+        {
+          "stanza_number": 3,
+          "telugu": [
+            "లేఖన మందలి పాత్రలు - యేసుని స్తుతియించెగా",
+            "నన్నును అట్టి పాత్రగా - మార్చివేయుమా (2) ||కుమ్మరి||"
+          ],
+          "english": [
+            "Lekhana mandali paathralu - Yesuni sthuthiyinchegaa",
+            "Nannunu atti paathragaa - Maarchiveyumaa (2) ||Kummari||"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:22:42.205Z",
+      "last_updated_at": "2026-08-06T16:15:48.844Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 3875,
+      "song_name": "Maargam sathyam jeevam",
+      "main_stanza": {
+        "telugu": [
+          "మార్గం సత్యం జీవం క్రీస్తేసని చాటేద్దాం -చేయి చేయి కలిపి ప్రభు రాజ్యం కట్టేద్దాం (2)",
+          "హొ హొ హో ఒ ఓ - ఒ హొ హొ హో ఒ ఓ ఒ",
+          "ఒ ఓ హొ హొ హో హొ ఒ - ఓ హో హొ హొ హో హొ హొ"
+        ],
+        "english": [
+          "Maargam sathyam jeevam Kreesthesani chaateddaam - Cheyi cheyi kalipi Prabhu raajyam katteddaam (2)",
+          "Ho ho ho o o - O ho ho ho o o o",
+          "O o ho ho ho ho o - O ho ho ho ho ho ho"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "సృష్టికి కారకుడు జనులందరి రక్షకుడు - శాంతి స్థాపకుడు మా దేవుడే యేసతడు (2)",
+            "పదరా ఈ వార్తను చాటుతు దేశ దేశాలకు - ఎదురే లేదింక మనకు ఆత్మ ఉన్నందుకు (2) ||మార్గం||"
+          ],
+          "english": [
+            "Srushtiki kaarakudu janulandhari rakshakudu - Shaanthi sthaapakudu maa Devude Yesathadu (2)",
+            "Padaraa ee vaarthanu chaatuthu desha dheshaalaku - Edhure ledhinka manaku aathma unnandhuku (2) ||Maargam||"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "రాజుల రాజతడు ప్రతి ప్రభువుకు ప్రభువతడు - రానై యున్నాడు కొదమ సింహమై ఓ నాడు (2)",
+            "పదరా ఈ వార్తను చాటుతు దేశ దేశాలకు - ఎదురే లేదింక మనకు ఆత్మ ఉన్నందుకు (2) ||మార్గం||"
+          ],
+          "english": [
+            "Raajula raajathadu prathi prabhuvuku prabhuvathadu - Raanai yunnaadu kodama simhamai o naadu (2)",
+            "Padaraa ee vaarthanu chaatuthu desha dheshaalaku - Edhure ledhinka manaku aathma unnandhuku (2) ||Maargam||"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [
+          "Bro Anil Kumar"
+        ],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:22:46.103Z",
+      "last_updated_at": "2026-08-06T16:15:51.753Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 3878,
+      "song_name": "Brathikeda nee kosame",
+      "main_stanza": {
+        "telugu": [
+          "బ్రతికెద నీ కోసమే నా ధ్యానమే",
+          "నా జీవితమే నీ కంకితమై",
+          "నీదు సేవజేతు పుణ్యమని భావింతు నేను చివరి శ్వాస వరకు",
+          "బ్రతికెద నీ కోసమే (స్వామీ) బ్రతికెద నీ కోసమే"
+        ],
+        "english": [
+          "Brathikeda nee kosame naa dhyaaname",
+          "Naa jeevithame nee kankithamai",
+          "Needu sevajethu punyamani bhaavinthu nenu chivari shwaasa varaku",
+          "Brathikeda nee kosame (Swaamee) brathikeda nee kosame"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "శ్రమయును బాధయు నాకు కలిగిన వైరులు ఎల్లరు నన్ను చుట్టినా",
+            "నీదు న్యాయ శాసనమునే పాటింతు",
+            "నాలోని బలము నన్ను విడచినా నా కన్నుదృష్టి తప్పిపోయినా",
+            "నిన్ను చేరి నీదు శక్తి పొంది నీదు ఆత్మతోడ లోక రక్షకా"
+          ],
+          "english": [
+            "Shramayunu baadhayu naaku kaligina vairulu ellaru nannu chuttinaa",
+            "Needu nyaaya shaasanamune paatinthu",
+            "Naaloni balamu nannu vidachinaa naa kannudhrushti thappipoyinaa",
+            "Ninnu cheri needu shakthi pondi needu aathmathoda loka rakshakaa"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "వాక్యమే మ్రోగుట విశ్వాసము వెల్లడి చేయుట",
+            "ఇహమందును యోగ్యమైన కార్యముగా నే తలచి",
+            "నీదు రుధిరంబు చేత నేను కడగబడిన నీదు సొత్తు కాదా",
+            "నిన్ను జూప లోకంబులోన నీదు వెలుగు దీపముగా నాధా"
+          ],
+          "english": [
+            "Vaakyame mroguta vishwaasamu velladi cheyuta",
+            "Ihamandhunu yogyamaina kaaryamugaa ne thalachi",
+            "Needu rudhirambu chetha nenu kadagabadina needu sotthu kaadaa",
+            "Ninnu joopa lokambulona needu velugu deepamugaa naadhaa"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [
+          "Bro Raj Prakash Paul"
+        ],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:22:47.715Z",
+      "last_updated_at": "2026-08-05T22:22:47.715Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "no-stanzas",
+          "remove": false,
+          "detail": "3 lines, never split into stanzas"
+        }
+      ],
+      "remove": false,
+      "song_id": 3926,
+      "song_name": "Aashcharyakarudu aalochanakartha balavanthudaina Devudu",
+      "main_stanza": {
+        "telugu": [
+          "ఆయన నామము ఆశ్చర్యుడు ఆయన పేరాలోచనకర్త",
+          "బలమైన నిత్యుడునగు తండ్రి సమాధానకర్త నాయేసు",
+          "బలమైన నిత్యుడునగు తండ్రి ఇమ్మానుయేల్ రక్షకుడేసు"
+        ],
+        "english": [
+          "Aayana naamamu aashcharyudu aayana peraalochanakartha",
+          "Balamaina nithyudunagu thandri samaadhaanakartha naayesu",
+          "Balamaina nithyudunagu thandri Immaanuyel rakshakudesu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:23:06.031Z",
+      "last_updated_at": "2026-08-06T16:24:34.123Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-structural"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 3957,
+      "song_name": "Jeeva naadha mukthi daatha",
+      "main_stanza": {
+        "telugu": [
+          "జీవ నాధ ముక్తి దాత",
+          "శాంతి దాత పరమాత్మ",
+          "పావనాత్మ పరుగిడి రావా",
+          "నా హృదిలో నివసింప రావా",
+          "నీ రాక కోసం వేచియున్నాను",
+          "వెలిగించు నాలో నీ దివ్య జ్యోతి – (2)"
+        ],
+        "english": [
+          "Jeeva naadha mukthi daatha",
+          "Shaanthi daatha paramaathma",
+          "Paavanaathma parugidi raavaa",
+          "Naa hrudilo nivasimpa raavaa",
+          "Nee raaka kosam vechiyunnaanu",
+          "Veliginchu naalo nee divya jyothi – (2)"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "ముక్తి ప్రసాదించుము",
+            "భక్తిని నేర్పించుము",
+            "నీ ఆనందముతో నను నింపుము – (2)",
+            "వేంచేయు మా ఆత్మ దేవా",
+            "వెలిగించు నాలో నీ దివ్య జ్యోతి – (2) ||జీవ నాధ||"
+          ],
+          "english": [
+            "Mukthi prasaadinchumu",
+            "Bhakthini nerpinchumu",
+            "Nee aanandamutho nanu nimpumu – (2)",
+            "Vencheyu maa aathma Deva",
+            "Veliginchu naalo nee divya jyothi – (2) ||Jeeva naadha||"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "నీ శాంతి నింపంగ రావా",
+            "నీ శక్తి నింపంగ రావా (2)",
+            "నీ పరమ వారములతో నింపేవా (2) ||జీవ||"
+          ],
+          "english": [
+            "Nee shaanthi nimpanga raavaa",
+            "Nee shakthi nimpanga raavaa (2)",
+            "Nee parama vaaramulatho nimpevaa (2) ||Jeeva||"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:23:17.330Z",
+      "last_updated_at": "2026-08-06T16:23:12.612Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-structural"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 3958,
+      "song_name": "Prabhuvaa neeve naadu sharanam",
+      "main_stanza": {
+        "telugu": [
+          "ప్రభువా నీవే నాదు శరణం",
+          "ఆశ్రయించితి నీ లే (2)",
+          "అపవాది క్రియలందు బంధీనైతిన్",
+          "కృప చూపి నను విముక్తుని చేయుమా",
+          "విపరీతి గతి పొందియుంటిన్",
+          "నీదు ముక్తి ప్రభావింపనిమ్ము ||ప్రభువా||"
+        ],
+        "english": [
+          "Prabhuvaa neeve naadu sharanam",
+          "Aashrayinchithi nee le (2)",
+          "Apavaadi kriyalandu bandheenaithin",
+          "Krupa choopi nanu vimukthuni cheyumaa",
+          "Vipareethi gathi pondhiyuntin",
+          "Needu mukthi prabhaavimpanimmu ||Prabhuvaa||"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "మరణ ఛాయలు నాపై బ్రమ్ముకొనెను",
+            "కరుణించి నీ దివ్య కాంతి నిమ్ము",
+            "చెదరిన నీదు ప్రతి రూపం",
+            "నాపై సరి చేసి ముద్రించు దేవా",
+            "నీ న్యాయ విధులన్ని భంగ పరచి",
+            "గాయపరచితి నేను అపరాధిని",
+            "పరితాపమును పొందుచుంటి",
+            "నాదు పాపము క్షమియించు దేవా ||ప్రభువా||"
+          ],
+          "english": [
+            "Marana chhaayalu naapai brammukonenu",
+            "Karuninchi nee divya kaanthi nimmu",
+            "Chedarina needu prathi roopam",
+            "Naapai sari chesi mudhrinchu Deva",
+            "Nee nyaaya vidhulanni bhanga parachi",
+            "Gaayaparachithi nenu aparaadhini",
+            "Parithaapamunu pondhuchunti",
+            "Naadu paapamu kshamiyinchu Deva ||Prabhuvaa||"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "పాప భారము తొడ అరుదించితి",
+            "సేద తీర్చుము శాంతి జలములతో",
+            "నీ ప్రేమ రుధిర శ్రవంతి",
+            "శాప భారము తొలగించు దేవా ||ప్రభువా||",
+            "శరణం యేసు (4) ||ప్రభువా||"
+          ],
+          "english": [
+            "Paapa bhaaramu thoda arudhenchithi",
+            "Seda theerchumu shaanthi jalamulatho",
+            "Nee prema rudhira shravanthi",
+            "Shaapa bhaaramu tholaginchu Deva ||Prabhuvaa||",
+            "Sharanam Yesu (4) ||Prabhuvaa||"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:23:17.413Z",
+      "last_updated_at": "2026-08-06T16:16:02.741Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 3975,
+      "song_name": "Neetho unte jeevitham",
+      "main_stanza": {
+        "telugu": [
+          "నీతో ఉంటే జీవితం",
+          "వేదనైనా రంగుల పయనం",
+          "నీతో ఉంటే జీవితం",
+          "భాటేదైనా పువ్వుల కుసుమం ( 2)",
+          "నువ్వే నా ప్రాణాధారము…",
+          "నువ్వే నా జీవధారము (2)"
+        ],
+        "english": [
+          "Neetho unte jeevitham",
+          "Vedanainaa rangula payanam",
+          "Neetho unte jeevitham",
+          "Bhaatedhainaa puvvula kusumam ( 2)",
+          "Nuvve naa praanaadhaaramu…",
+          "Nuvve naa jeevadhaaramu (2)"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "నువ్వే లేకపోతే నేను జీవించలేను",
+            "నువ్వే లేకపోతే నేను బ్రతుకలేను",
+            "నువ్వే లేక పోతే నేను ఊహించలేను",
+            "నువ్వే లేక పోతే నేను లేనేలేను (2)",
+            "నిను విడిచిన క్షణమే",
+            "ఒక యుగమై గడచె నా జీవితము",
+            "చెదరిన నా బ్రతుకే",
+            "నిన్ను వెతికే నీ తోడు కోసం(2)",
+            "( నువ్వే నా ప్రాణాధారము )"
+          ],
+          "english": [
+            "Nuvve lekapothe nenu jeevinchalenu",
+            "Nuvve lekapothe nenu brathukalenu",
+            "Nuvve leka pothe nenu oohinchalenu",
+            "Nuvve leka pothe nenu lenelenu (2)",
+            "Ninu vidichina kshaname",
+            "Oka yugamai gadache naa jeevithamu",
+            "Chedarina naa brathuke",
+            "Ninnu vethike nee thodu kosam(2)",
+            "( Nuvve naa praanaadhaaramu )"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "నీతో నేను జీవిస్థాలే కల కాలము",
+            "నిన్నే నేను ప్రేమిస్తానే చిరకాలము",
+            "లోకంలో నేనెన్నో వేతికా అంత శూన్యము",
+            "చివరికీ నువ్వే నిలిచవే సదాకాలము (2)",
+            "నిను విడువను దేవా",
+            "నా ప్రభువా నా ప్రాణనాధ",
+            "నీ చేతితో మలచి",
+            "నను విరచి సరిచేయునాధ (2)",
+            "( నువ్వే నా ప్రాణాధారము )"
+          ],
+          "english": [
+            "Neetho nenu jeevisthaane kala kaalamu",
+            "Ninne nenu premisthaane chirakaalamu",
+            "Lokamlo nenenno vethikaa antha shoonyamu",
+            "Chivarikee nuvve nilichave sadaakaalamu (2)",
+            "Ninu viduvanu Deva",
+            "Naa Prabhuvaa naa praananaadha",
+            "Nee chethitho malachi",
+            "Nanu virachi saricheyunaadha (2)",
+            "( Nuvve naa praanaadhaaramu )"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [
+          "Raj Prakash Paul"
+        ],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T22:23:29.514Z",
+      "last_updated_at": "2026-08-05T22:23:29.514Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 3989,
+      "song_name": "Nee velugunu nee sathyamunu",
+      "main_stanza": {
+        "telugu": [
+          "నీ వెలుగు నీ సత్యము బయలు దేరనిమ్ము",
+          "దేవా ... నా ... దేవా"
+        ],
+        "english": [
+          "Nee velugu nee sathyamu bayalu dheranimmu",
+          "Deva ... naa ... Deva"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "నాకు త్రోవచూపునూ - అది నీ నివాస స్థలముకు",
+            "నన్ను తోడుకొని వచ్చును - దేవా నా దేవా"
+          ],
+          "english": [
+            "Naaku throvachoopunoo - Adhi nee nivaasa sthalamuku",
+            "Nannu thodukoni vachchunu - Deva naa Deva"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "అప్పుడు నీకు సితారతో - స్తుతి గీతము చెల్లింతును",
+            "ఓ ... హోసన్నా ... హోసన్నా - దేవా నా దేవా"
+          ],
+          "english": [
+            "Appudu neeku sithaaratho - Sthuthi geethamu chellinthunu",
+            "O ... hosannaa ... hosannaa - Deva naa Deva"
+          ]
+        },
+        {
+          "stanza_number": 3,
+          "telugu": [
+            "ఏల క్రుంగిపోతివి - భీతిన్ విడు నా ప్రాణమా",
+            "ప్రీతిన్ ప్రభుని గనుమా - దేవా నా దేవా"
+          ],
+          "english": [
+            "Ela krungipothivi - Bheethin vidu naa praanamaa",
+            "Preethin Prabhuni ganumaa - Deva naa Deva"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T23:35:11.045Z",
+      "last_updated_at": "2026-08-06T16:23:53.738Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-structural"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 3993,
+      "song_name": "Aayana dhanavanthudai yundiyu meeru",
+      "main_stanza": {
+        "telugu": [
+          "జై జై జై జై రాజుల రాజా",
+          "పాత్రుడ వీవే మా ప్రభు వీవే"
+        ],
+        "english": [
+          "Jai jai jai jai raajula raajaa",
+          "Paathruda veeve maa Prabhu veeve"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "అన్ని కాలములలో నీ నామము",
+            "మహోన్నతము మహోన్నతుడా",
+            "వాగ్దానము నెరవేర్చిన దేవా",
+            "మాట తప్పని మహోపకారి"
+          ],
+          "english": [
+            "Anni kaalamulalo nee naamamu",
+            "Mahonnathamu mahonnathudaa",
+            "Vaagdhaanamu neraverchina Deva",
+            "Maata thappani mahopakaari"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "దూతల మాదిరి గీతముల్ పాడుచు",
+            "సతతము నిన్నే స్తోత్రించెదము",
+            "గొల్లలు గాంచిన ఘన కాపరి మా",
+            "ఉల్లము నందు ఉల్లసించెదము"
+          ],
+          "english": [
+            "Doothala maadiri geethamul paaduchu",
+            "Sathathamu ninne sthothrinchedhamu",
+            "Gollalu gaanchina ghana kaapari maa",
+            "Ullamu nandu ullasinchedhamu"
+          ]
+        },
+        {
+          "stanza_number": 3,
+          "telugu": [
+            "తూర్పున తారను గాంచిన జ్ఞానులు",
+            "రాజుల రాజ నీవే యనుచు",
+            "బంగారము సాంబ్రాణి బోళమును",
+            "అర్పించి ఆరాధించిరిగా"
+          ],
+          "english": [
+            "Thoorpuna thaaranu gaanchina gnaanulu",
+            "Raajula raaja neeve yanuchu",
+            "Bangaaramu saambraani bolamunu",
+            "Arpinchi aaraadhinchirigaa"
+          ]
+        },
+        {
+          "stanza_number": 4,
+          "telugu": [
+            "ధనవంతుడవగు ఓ మా ప్రభువా",
+            "ధనహీనుడుగా నైతివి మాకై",
+            "మా దారిద్ర్యము తీసివేయ",
+            "నరరూపమున జన్మించితివి"
+          ],
+          "english": [
+            "Dhanavanthudavagu o maa Prabhuvaa",
+            "Dhanaheenudugaa naithivi maakai",
+            "Maa daaridhryamu theesiveya",
+            "Nararoopamuna janminchithivi"
+          ]
+        },
+        {
+          "stanza_number": 5,
+          "telugu": [
+            "యేసు ప్రభుండా రక్తము కార్చి",
+            "ఎంచి మమ్ము విమోచించితివి",
+            "ఎంచలేను నీ మేలుల నెపుడు",
+            "ఎన్నదగిన మా దేవుడ నీవే"
+          ],
+          "english": [
+            "Yesu Prabhundaa rakthamu kaarchi",
+            "Enchi mammu vimochinchithivi",
+            "Enchalenu nee melula nepudu",
+            "Ennadhagina maa Devuda neeve"
+          ]
+        },
+        {
+          "stanza_number": 6,
+          "telugu": [
+            "మాకై సిలువలో మరణించితివి",
+            "మరణపు ముల్లును విరచిన ప్రభువా",
+            "యుగయుగములకు నీకే మహిమ",
+            "నిరతము స్తోత్రము హల్లెలూయ"
+          ],
+          "english": [
+            "Maakai siluvalo maraninchithivi",
+            "Maranapu mullunu virachina Prabhuvaa",
+            "Yugayugamulaku neeke mahima",
+            "Nirathamu sthothramu hallelooya"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T23:35:16.101Z",
+      "last_updated_at": "2026-08-06T16:23:55.251Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-structural"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 3994,
+      "song_name": "Nrupaa vimochakaa Prabhoo velaadi nolla nee",
+      "main_stanza": {
+        "telugu": [
+          "నృపా విమోచకా ప్రభూ - వేలాది నోళ్ల నీ",
+          "గృపా జయప్రభావముల్ - నుతింతు నెంతయున్"
+        ],
+        "english": [
+          "Nrupaa vimochakaa Prabhoo - Velaadi nolla nee",
+          "Krupaa jayaprabhaavamul - Nuthinthu nenthayun"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "కృపాధికార దేవ నీ సాయంబు జేయుమా",
+            "భవత్ర్వభావ కీర్తులన్ - జాటంగ నెల్లడన్"
+          ],
+          "english": [
+            "Krupaadhikaara Deva nee saayambu jeyumaa",
+            "Bhavathsvabhaava keerthulan - Jaatanga nelladan"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "భయంబు చింతబావును - హర్షంబు పాపికి",
+            "సౌఖ్యంబు జీవశాంతులు - నీనామ మిచ్చును"
+          ],
+          "english": [
+            "Bhayambu chinthabaapunu - Harshambu paapiki",
+            "Saukhyambu jeevashaanthulu - Neenaama michchunu"
+          ]
+        },
+        {
+          "stanza_number": 3,
+          "telugu": [
+            "విముక్తి జేయు ఖైదిని - పాపంబు బావును",
+            "పాపాత్ము శుద్ధిచేయును శ్రీ యేసు రక్తము"
+          ],
+          "english": [
+            "Vimukthi jeyu khaidhini - Paapambu baapunu",
+            "Paapaathmu shuddhicheyunu Shree Yesu rakthamu"
+          ]
+        },
+        {
+          "stanza_number": 4,
+          "telugu": [
+            "జనాళి పాపు లెల్లరు - శ్రీ యేసున్ నమ్ముడి",
+            "కృపా విముక్తులందరు - నంపూర్ణ భక్తితో"
+          ],
+          "english": [
+            "Janaali paapu lellaru - Shree Yesun nammudi",
+            "Krupaa vimukthulandharu - Nampoorna bhakthitho"
+          ]
+        },
+        {
+          "stanza_number": 5,
+          "telugu": [
+            "అర్పించె యేసు ప్రాణమున్ - నరాళిగావను",
+            "యజ్ఞంబు దేవ గొఱ్ఱెపై - నఘంబు వేయుడి"
+          ],
+          "english": [
+            "Arpinche Yesu praanamun - Naraaligaavanu",
+            "Yagnambu Deva gorrepai - Naghambu veyudi"
+          ]
+        },
+        {
+          "stanza_number": 6,
+          "telugu": [
+            "సత్కీర్తి స్తోత్ర ప్రేమల - నభావ భూమిని",
+            "సర్వత్ర దేవుడొందుగా - సద్భక్తవాళిచే"
+          ],
+          "english": [
+            "Sathkeerthi sthothra premala - Nabhaava bhoomini",
+            "Sarvathra dhevudondhugaa - Sadbhakthavaaliche"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T23:35:17.298Z",
+      "last_updated_at": "2026-08-06T16:23:55.607Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-structural"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 3998,
+      "song_name": "Naa rakshakuni vembadinthu nannitan",
+      "main_stanza": {
+        "telugu": [
+          "నా రక్షకుని వెంబడింతు నన్నిటన్",
+          "ఘోరమైన కొండలైన జంకొందను",
+          "సురక్షితంబుగా నేను వెళ్ళెదన్",
+          "పరమ కిరీట మొందువరకు",
+          "యేసున్ నేను ఎన్నడెన్నడును",
+          "ఆశతో నన్నిటన్ వెంబడింతును",
+          "భాసురంబౌ ప్రభు వెంట కన్నుల్",
+          "మూసికొని యెక్కడేని వెళ్ళుదున్"
+        ],
+        "english": [
+          "Naa rakshakuni vembadinthu nannitan",
+          "Ghoramaina kondalaina jankondhanu",
+          "Surakshithambugaa nenu velledhan",
+          "Parama kireeta mondhuvaraku",
+          "Yesun nenu ennadennadunu",
+          "Aashatho nannitan vembadinthunu",
+          "Bhaasurambau Prabhu venta kannul",
+          "Moosikoni ekkadeni velludhun"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "నా యేసు తోడ వెళ్ళుచుందు నెల్లడన్",
+            "బ్రయాసమైన లోయలైన భయపడన్",
+            "దయజూపు యేసు నన్ను వెంబడించుచో",
+            "భయమేల భువనంబులో దగన్"
+          ],
+          "english": [
+            "Naa Yesu thoda velluchundhu nelladan",
+            "Prayaasamaina loyalaina bhayapadan",
+            "Dhayajoopu Yesu nannu vembadinchucho",
+            "Bhayamela bhuvanambulo dhagan"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "నా కాలమెల్ల యేసునందు నమ్ముదున్",
+            "భీకరంపు వార్థియైన నే దాటుదున్",
+            "నా కర్తతోడ నెందునైన నేగుదున్",
+            "నాక మెక్కి తండ్రి జూచు వరకున్."
+          ],
+          "english": [
+            "Naa kaalamella Yesunandu nammudhun",
+            "Bheekarampu vaarthiyaina ne dhaatudhun",
+            "Naa karthathoda nendhunaina negudhun",
+            "Naaka mekki thandri joochu varakun."
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T23:35:22.293Z",
+      "last_updated_at": "2026-08-06T16:23:57.093Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-structural"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 4000,
+      "song_name": "Idigo nenu thalupunoddha niluchundi",
+      "main_stanza": {
+        "telugu": [
+          "శ్రమలను పొందె శ్రీ యేసుడు నీ కొరకై సిలువలో"
+        ],
+        "english": [
+          "Shramalanu ponde Shree Yesudu nee korakai siluvalo"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "సదయుడు ప్రేమించె - శత్రువైన నిన్ను",
+            "దూరస్థుడవైన నీ యెడల - దయచూపించె",
+            "వహించె నీ శాపం భరించె నీ పాపం",
+            "నీ మనస్సు మార్చుకొనిన - సంతసించును ప్రభుయేసు"
+          ],
+          "english": [
+            "Sadhayudu preminche - Shathruvaina ninnu",
+            "Dhoorasthudavaina nee edala - Dhayachoopinche",
+            "Vahinche nee shaapam bharinche nee paapam",
+            "Nee manassu maarchukonina - Santhasinchunu Prabhuyesu"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "దొంగవై నీవున్నా - దురితంబులెన్నున్నా",
+            "దోషంబుల క్షమియించు - తన సిలువ రక్తముతో",
+            "తెరచెనుగా నీ కొరకు - పరలోక ద్వారము",
+            "నెమ్మది నిచ్చును నీకు - యేసుని విశ్వసించిన"
+          ],
+          "english": [
+            "Dhongavai neevunnaa - Dhurithambulennunnaa",
+            "Dhoshambula kshamiyinchu - Thana siluva rakthamutho",
+            "Therachenugaa nee koraku - Paraloka dwaaramu",
+            "Nemmadi nichchunu neeku - Yesuni vishwasinchina"
+          ]
+        },
+        {
+          "stanza_number": 3,
+          "telugu": [
+            "ఎవరేసు రక్తములో - కడుగబడెదరో",
+            "వారే చేరెదరు - తన సంఘమునందు",
+            "అంగీకరించుము - యేసును నీవు",
+            "కలిగించు నీకు తృప్తిని - నేడే నీ వాయనను వేడు"
+          ],
+          "english": [
+            "Evaresu rakthamulo - Kadugabadedharo",
+            "Vaare cheredharu - Thana sanghamunandhu",
+            "Angeekarinchumu - Yesunu neevu",
+            "Kaliginchu neeku thrupthini - Nede neevu aayananu vedu"
+          ]
+        },
+        {
+          "stanza_number": 4,
+          "telugu": [
+            "సిలువపై యేసు - సర్వ మర్పించె",
+            "నీ రక్షణ కొరకు - క్రయము చెల్లించె",
+            "యేసునకు నీవు - ఏమియ్యగలవు?",
+            "తెరువు నీ హృదయ ద్వారమును - నేడే ప్రవేశించును తాను"
+          ],
+          "english": [
+            "Siluvapai Yesu - Sarvam arpinche",
+            "Nee rakshana koraku - Krayamu chellinche",
+            "Yesunaku neevu - Emiyyagalavu?",
+            "Theruvu nee hrudaya dhvaaramunu - Nede praveshinchunu thaanu"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-05T23:35:24.460Z",
+      "last_updated_at": "2026-08-06T16:25:02.429Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-structural"
+    },
+    {
+      "faults": [
+        {
+          "fault": "no-stanzas",
+          "remove": false,
+          "detail": "5 lines, never split into stanzas"
+        }
+      ],
+      "remove": false,
+      "song_id": 4250,
+      "song_name": "Prabhu Yesu Janmamu",
+      "main_stanza": {
+        "telugu": [
+          "ఆ మధ్య రాత్రిలో బేత్లెహేము పురములో",
+          "పశువుల శాలలో ప్రభుయేసు జన్మము",
+          "జగమే వెలుగై నిండినరాత్రి",
+          "చీకటి తొలగి పోయినవేళ",
+          "దేవుడే మనకు తోడుండగా"
+        ],
+        "english": [
+          "Aa madhya raathrilo bethelehemu puramulo",
+          "pasuvula saalalo prabhuyesu janmamu",
+          "jagamey velugai nindina raathri",
+          "cheekati tholagi poyinavela",
+          "devudey manaku thodundagaa"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "Medidi Prasanna kumar"
+        ],
+        "రచన": []
+      },
+      "source": "cst",
+      "created_at": "2026-08-06T00:16:42.807Z",
+      "last_updated_at": "2026-08-06T16:24:37.894Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-structural"
+    },
+    {
+      "faults": [
+        {
+          "fault": "no-stanzas",
+          "remove": false,
+          "detail": "5 lines, never split into stanzas"
+        }
+      ],
+      "remove": false,
+      "song_id": 4266,
+      "song_name": "Krupayu Samadhanamu",
+      "main_stanza": {
+        "telugu": [
+          "కృపయూ సమాధానము",
+          "కృపయూ సమాధానము",
+          "ప్రభుయేసుని అనుభవజ్ఞానములో",
+          "అభివృద్ధి నొందును గాక",
+          "అభివృద్ధి నొందును గాక"
+        ],
+        "english": [
+          "Krupayuu samaadhanamu",
+          "krupayuu samaadhanamu",
+          "prabhu yesuni anubhava gnaanamulo",
+          "abhivruddhi nondhunu gaaka",
+          "abhivruddhi nondhunu gaaka"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "Jasper Kunapo"
+        ],
+        "రచన": []
+      },
+      "source": "cst",
+      "created_at": "2026-08-06T00:17:02.254Z",
+      "last_updated_at": "2026-08-06T16:22:51.556Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-structural"
+    },
+    {
+      "faults": [
+        {
+          "fault": "no-stanzas",
+          "remove": false,
+          "detail": "4 lines, never split into stanzas"
+        }
+      ],
+      "remove": false,
+      "song_id": 4327,
+      "song_name": "Stuthiyu",
+      "main_stanza": {
+        "telugu": [
+          "స్తుతియు మహిమయు నీకే – క్షితికిన్‌ దివికిన్‌ నీటి",
+          "వితతికిన్‌ కర్తవై – వెలయు మా దేవ",
+          "ప్రతి వస్తువును మాకు బహుమతిగా నిచ్చు",
+          "హితుడా మా ప్రేమ నీ – కెట్లు చూపుదును"
+        ],
+        "english": [
+          "Stuthiyu Mahimayu neeke – kshithikin divikin neeti",
+          "vithathikin karthaavai – velayu maa Deva",
+          "prathi vasthuvunu maaku bahumathigaa nichu",
+          "hithudaa maa prema nee – ketlu choopudhunu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "Devadas Mungamuri"
+        ],
+        "రచన": []
+      },
+      "source": "cst",
+      "created_at": "2026-08-06T00:18:18.984Z",
+      "last_updated_at": "2026-08-06T16:24:54.124Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer-structural"
+    },
+    {
+      "faults": [
+        {
+          "fault": "no-stanzas",
+          "remove": false,
+          "detail": "14 lines, never split into stanzas"
+        }
+      ],
+      "remove": false,
+      "song_id": 4454,
+      "song_name": "Yesu Vaipu",
+      "main_stanza": {
+        "telugu": [
+          "యేసు వైపు చూచుచు",
+          "నీ పయనమంత సాగని",
+          "కృతఙత స్తోత్రాలతో",
+          "రెట్టింపు ప్రేమ భక్తితో",
+          "యేసు ఉంటే చాలనే",
+          "నిశ్చయంబు ఉన్నచో",
+          "ఎడారిలో సెలయేరులే",
+          "ఇరుకులో విషాలతే",
+          "యేసురాజు ద్వజము బట్టి",
+          "ముందుగా నడువగా",
+          "జయ జయ గానాలతో",
+          "క్షణ క్షణం హుషారుగా",
+          "కరుములెత్తి గలము విప్పి",
+          "యేసుకే జయం అంటు సాగిపోదుము"
+        ],
+        "english": [
+          "Yeasu vaipu choochuchu",
+          "nee payanamanta saagani",
+          "kRta~mata stoatraalatoa",
+          "reTTimpu preama bhaktitoa",
+          "yeasu unTea chaalanea",
+          "niSchayambu unnachoa",
+          "eDaariloa selayearulea",
+          "irukuloa vishaalatea",
+          "yeasuraaju dwajamu baTTi",
+          "mundugaa naDuvagaa",
+          "jaya jaya gaanaalatoa",
+          "kshaNa kshaNam hushaarugaa",
+          "karumuletti galamu vippi",
+          "yeasukea jayam anTu saagipoadumu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "Joel Kodali"
+        ],
+        "రచన": []
+      },
+      "source": "cst",
+      "created_at": "2026-08-06T00:20:55.684Z",
+      "last_updated_at": "2026-08-06T16:19:01.223Z",
+      "created_by": "System",
+      "last_updated_by": "sanitizer"
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 4463,
+      "song_name": "Krupa Kalugunu Gaaka",
+      "main_stanza": {
+        "telugu": [
+          "కృప కలుగును గాక కృప కలుగును గాక",
+          "మా బ్రతుకులలో కృప కలుగును గాక",
+          "యేసయ్యా కృప కలుగును గాక",
+          "కృప వెంబడి కృపను పొందుదుము గాక"
+        ],
+        "english": [
+          "Krupa kalugunu gaaka krupa kalugunu gaaka",
+          "Maa brathukulalo krupa kalugunu gaaka",
+          "Yesayya krupa kalugunu gaaka",
+          "Krupa vembadi krupanu pondudumu gaaka"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "ఆమెన్ ఆమెన్ ఆమెన్ ఆమెన్ కృప కలుగును గాక",
+            "మా నోటనున్న మాటను ప్రభువు స్థిరపరచును గాక"
+          ],
+          "english": [
+            "Amen Amen Amen Amen krupa kalugunu gaaka",
+            "Maa notanunna maatanu Prabhuvu sthiraparachunu gaaka"
+          ]
+        },
+        {
+          "stanza_number": 2,
+          "telugu": [
+            "స్తుతి స్తుతి స్తుతి స్తుతి కృప కలిగెను గనుక",
+            "మా నోట నున్న మాటను ప్రభువు స్థిరపరచెను గనుక"
+          ],
+          "english": [
+            "Sthuthi sthuthi sthuthi sthuthi krupa kaligenu ganuka",
+            "Maa nota nunna maatanu Prabhuvu sthiraparachenu ganuka"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [
+          "Jonah Samuel"
+        ],
+        "రచన": []
+      },
+      "source": "cst",
+      "created_at": "2026-08-06T17:38:01.392Z",
+      "last_updated_at": "2026-08-06T17:38:01.392Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "duplicate-title",
+          "remove": false,
+          "detail": "2 songs share this name"
+        }
+      ],
+      "remove": false,
+      "song_id": 4517,
+      "song_name": "Neeve Naa Oopiri",
+      "main_stanza": {
+        "telugu": [
+          "నీవే నా ఊపిరి నీవే నా ఊపిరి",
+          "నీ సన్నిధియే - నాకు జీవం",
+          "నీవే నా ఆశ నీవే"
+        ],
+        "english": [
+          "Neeve Naa Oopiri Neeve Naa Oopiri",
+          "Nee Sannidhiye - Naaku Jeevam",
+          "Neeve Naa Aasa Neeve"
+        ]
+      },
+      "stanzas": [
+        {
+          "stanza_number": 1,
+          "telugu": [
+            "నీవే జీవాహరం నీవే జీవాహరం",
+            "నీ వాక్యము - నాకు జీవం",
+            "నీవే నా ఆశ నీవే"
+          ],
+          "english": [
+            "Neeve Jeevaaharam Neeve Jeevaaharam",
+            "Nee Vaakyamu - Naaku Jeevam",
+            "Neeve Naa Aasa Neeve"
+          ]
+        }
+      ],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:38:49.216Z",
+      "last_updated_at": "2026-08-06T17:38:49.216Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "no-stanzas",
+          "remove": false,
+          "detail": "4 lines, never split into stanzas"
+        }
+      ],
+      "remove": false,
+      "song_id": 4519,
+      "song_name": "Yesu Na Somtam Netiki Enatiki",
+      "main_stanza": {
+        "telugu": [
+          "యేసు నా సొంతం నేటికి ఏనాటికి (2)",
+          "యేసునే పూజింతు నేటికి ఏనాటికి",
+          "యేసునే స్తుతియింతు నేటికి ఏనాటికి",
+          "యేసుకై జీవింతు నేటికి ఏనాటికి"
+        ],
+        "english": [
+          "Yesu Na Somtam Netiki Enatiki (2)",
+          "Yesune Pujimtu Netiki Enatiki",
+          "Yesune Stutiyimtu Netiki Enatiki",
+          "Yesukai Jivimtu Netiki Enatiki"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:38:51.212Z",
+      "last_updated_at": "2026-08-06T17:38:51.212Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "no-stanzas",
+          "remove": false,
+          "detail": "2 lines, never split into stanzas"
+        }
+      ],
+      "remove": false,
+      "song_id": 4524,
+      "song_name": "Pithaa Suthaa Varaathmaka",
+      "main_stanza": {
+        "telugu": [
+          "పితా, సుతా, వరాత్మక! త్రియేక దేవ నామక!",
+          "నిరంతరంబు స్తోత్రము ఘనంబు నీకే స్తోత్రము"
+        ],
+        "english": [
+          "Pithaa, Suthaa, Varaathmaka! Thriyaeka Dhaeva Naamaka!",
+          "Nirantharambu Sthoathramu Ghanambu Neekae Sthoathramu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:38:57.723Z",
+      "last_updated_at": "2026-08-06T17:38:57.723Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "no-stanzas",
+          "remove": false,
+          "detail": "4 lines, never split into stanzas"
+        }
+      ],
+      "remove": false,
+      "song_id": 4525,
+      "song_name": "Sthoathrinchudi Srushtikarthan Thandri",
+      "main_stanza": {
+        "telugu": [
+          "స్తోత్రించుడి సృష్టికర్తన్ తండ్రి గొప్ప ప్రేమను",
+          "మన యాగమైన గొఱ్ఱెన్ పైని రాజు యాజకున్",
+          "ముక్తియూట యైనవాని జీవకర్తయౌ దేవున్",
+          "ఏక దేవుడౌ యెహోవన్ పాడు డేకమౌ హృదిన్"
+        ],
+        "english": [
+          "Sthoathrinchudi Srushtikarthan Thandri Goppa Praemanu",
+          "Mana Yaagamaina Gorren Paini Raaju Yaajakun",
+          "Mukthiyoota Yainavaani Jeevakarthayau Dhaevun",
+          "Aeka Dhaevudau Yehoavan Paadu Daekamau Hrudhin"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:38:58.364Z",
+      "last_updated_at": "2026-08-06T17:38:58.364Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "no-stanzas",
+          "remove": false,
+          "detail": "3 lines, never split into stanzas"
+        }
+      ],
+      "remove": false,
+      "song_id": 4526,
+      "song_name": "Maa Dhaevunakunu Sthoathamulu Mahimayu",
+      "main_stanza": {
+        "telugu": [
+          "మా దేవునకును స్తోతములు మహిమయు జ్ఞానము నామీదన్",
+          "మాదు కృతజ్ఞతగల స్తుతియు న్మఱి ఘనతా శక్తియు బలమున్",
+          "యుగయుగములకును గల్గునుగాక ఆ...మెన్"
+        ],
+        "english": [
+          "Maa Dhaevunakunu Sthoathamulu Mahimayu JnYaanamu Naameedhan",
+          "Maadhu KruthajnYthagala Sthuthiyu NmaRi Ghanathaa Shakthiyu Balamun",
+          "Yugayugamulakunu Galgunugaaka Aa...Men"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:38:59.199Z",
+      "last_updated_at": "2026-08-06T17:38:59.199Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "no-stanzas",
+          "remove": false,
+          "detail": "2 lines, never split into stanzas"
+        }
+      ],
+      "remove": false,
+      "song_id": 4527,
+      "song_name": "MaeLlanni Yichchu Dhaevunin SthuthiMchu",
+      "main_stanza": {
+        "telugu": [
+          "మేళ్లన్ని యిచ్చు దేవునిన్ స్తుతించు సర్వ సృష్టియున్",
+          "స్తుతించు మోక్ష సైన్యముల్ పితృ పుత్ర శుద్ధాత్మలన్"
+        ],
+        "english": [
+          "MaeLlanni Yichchu Dhaevunin SthuthiMchu Sarva SruShtiyun",
+          "SthuthiMchu MoakSh Sainyamul Pithru Puthra ShudhDhaathmalan"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:38:59.875Z",
+      "last_updated_at": "2026-08-06T17:38:59.875Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "no-stanzas",
+          "remove": false,
+          "detail": "2 lines, never split into stanzas"
+        }
+      ],
+      "remove": false,
+      "song_id": 4528,
+      "song_name": "Pithru Puthra ShudhDhaathmalai",
+      "main_stanza": {
+        "telugu": [
+          "పితృ పుత్ర శుద్ధాత్మలై మేళ్లన్ని యిచ్చు దేవుని",
+          "స్తుతించు సర్వ లోకమా స్తుతించు దివ్య సైన్యమా"
+        ],
+        "english": [
+          "Pithru Puthra ShudhDhaathmalai MaeLlanni Yichchu Dhaevuni",
+          "SthuthiMchu Sarva Loakamaa SthuthiMchu Dhivya Sainyamaa"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:00.640Z",
+      "last_updated_at": "2026-08-06T17:39:00.640Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 117 chars, 4 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4529,
+      "song_name": "Grmtha Vaagdhaanamulanni Naavi",
+      "main_stanza": {
+        "telugu": [
+          "అను గ్రంథ వాగ్దానములన్ని నావిఅను ప్రతి అద్యాయము వరుస వచనముఅను తన దివ్య ప్రేమ వాగ్దానములుఅను గ్రంథ వాగ్దానములన్ని నావి"
+        ],
+        "english": [
+          "ch:grMTha vaagdhaanamulanni naavich:prathi adhyaayamu varusa vachanamuch:thana dhivya praema vaagdhaanamuluch:grMTha vaagdhaanamulanni naavi"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:02.330Z",
+      "last_updated_at": "2026-08-06T17:39:02.330Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 134 chars, 3 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4530,
+      "song_name": "Ch:aanMdhM Naa KaanMdhM AanMdhM ParamaanMdhMch:aathmanu",
+      "main_stanza": {
+        "telugu": [
+          "అను ఆనందం నా కానందం ఆనందం పరమానందంఅను ఆత్మను శుద్ధిపర్చెను - నేత్రమువలె కాపాడునుఅను ఆడుదును నే పాడుదును - వెదకి వచ్చి నన్ను రక్షించెను"
+        ],
+        "english": [
+          "ch:aanMdhM naa kaanMdhM aanMdhM paramaanMdhMch:aathmanu shudhDhiparchenu - naethramuvale kaapaadunuch:aadudhunu nae paadudhunu - vedhaki vachchi nannu rakShiMchenu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:03.083Z",
+      "last_updated_at": "2026-08-06T17:39:03.083Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 240 chars, 5 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4531,
+      "song_name": "Ch:viMthayaina Yaesu RakShkuMdu - Thaanae",
+      "main_stanza": {
+        "telugu": [
+          "అను వింతయైన యేసు రక్షకుండు - తానే నిన్ను నడుపును (3)అను యుద్దాలన్నీ తీరి - జయమొందువరకు - నా ప్రభు నిన్ను నడుపునుఅను ఓ నా ప్రియ సోదరా - భువి నుండునపుడుఅను అగత్య మేసు - నీ రక్షణకై - నిన్ను ద్దచు సదాఅను యుగముల బండలో - శాశ్వతబండలో నీ - కాశ్రయము"
+        ],
+        "english": [
+          "ch:viMthayaina yaesu rakShkuMdu - thaanae ninnu nadupunu (3)ch:yudhdhaalannee theeri - jayamoMdhuvaraku - naa prabhu ninnu nadupunuch:oa naa priya soadharaa - bhuvi nuMdunapuduch:agathya maesu - nee rakShNakai - ninnu dhdhachu sadhaach:yugamula bMdaloa - shaashvathabMdaloa nee - kaashrayamu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:04.181Z",
+      "last_updated_at": "2026-08-06T17:39:04.181Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 205 chars, 5 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4532,
+      "song_name": "Ch:sthuthi Ghanatha Mahima Needhae Mahima",
+      "main_stanza": {
+        "telugu": [
+          "అను స్తుతి ఘనత మహిమ నీదే మహిమ నీదే మహిమ నీదే అను స్తుతి ఘనత మహిమ నీదే - నీవే మా రాజువుఅను స్తోత్రం స్తోత్రం - శుద్ధు లారాధింతురుఅను స్తోత్రం స్తోత్రం నీవే మారాజువుఅను స్తుతి ఘనత, మహిమ నీదే - నీవే మా రాజువు"
+        ],
+        "english": [
+          "ch:sthuthi ghanatha mahima needhae mahima needhae mahima needhae ch:sthuthi ghanatha mahima needhae - neevae maa raajuvuch:sthoathrM sthoathrM - shudhDhu laaraaDhiMthuruch:sthoathrM sthoathrM neevae maaraajuvuch:sthuthi ghanatha, mahima needhae - neevae maa raajuvu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:05.350Z",
+      "last_updated_at": "2026-08-06T17:39:05.350Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 134 chars, 4 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4533,
+      "song_name": "Ch:halle Looya Aa - Aamen",
+      "main_stanza": {
+        "telugu": [
+          "అను హల్లె లూయ ఆ ఆ - ఆమెన్ హల్లె లూయఅను ఆమెన్ హల్లె లూయ - హల్లె లూయ ఆమెన్అను రాజాధి రాజా - కర్తాది కర్తాఅను రాజ్యం బలం ఘన - మహిమయు నీదే"
+        ],
+        "english": [
+          "ch:halle looya aa aa - aamen halle looych:aamen halle looya - halle looya aamench:raajaaDhi raajaa - karthaadhi karthaach:raajyM balM ghana - mahimayu needhae"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:06.108Z",
+      "last_updated_at": "2026-08-06T17:39:06.108Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 199 chars, 5 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4534,
+      "song_name": "Ch:naakaanMdhM KaaraNMbidhae PaapabhaaramMtha Poayenuch:sarvakaalamu PaaduchuMdhunu",
+      "main_stanza": {
+        "telugu": [
+          "అను నాకానందం కారణంబిదే పాపభారమంత పోయెనుఅను సర్వకాలము పాడుచుందును - యేసు భాసురమెల్ల బాపెనుఅను పాప భారముచే కృంగియుంటినిఅను పాప భారము తీసి సమాధాన మిచ్చెనుఅను సర్వకాలము పాడుచుందును - యేసు భారమెల్ల బాపెను"
+        ],
+        "english": [
+          "ch:naakaanMdhM kaaraNMbidhae paapabhaaramMtha poayenuch:sarvakaalamu paaduchuMdhunu - yaesu bhaasuramella baapenuch:paapa bhaaramuchae kruMgiyuMtinich:paapa bhaaramu theesi samaaDhaana michchenuch:sarvakaalamu paaduchuMdhunu - yaesu bhaaramella baapenu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:07.206Z",
+      "last_updated_at": "2026-08-06T17:39:07.206Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 209 chars, 4 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4535,
+      "song_name": "Ch:adhbhutha Shakthikaladhu Rakthamuloa - GoRRepilla",
+      "main_stanza": {
+        "telugu": [
+          "అను అద్భుత శక్తికలదు రక్తములో - గొఱ్ఱెపిల్ల రక్తములోఅను అద్భుత శక్తికలదు రక్తములో - పరిశుద్ధ రక్తములోఅను శాంతి ప్రేమానంద నిత్యజీవము - గొఱ్ఱెపిల్ల రక్తములోఅను శాంతి ప్రేమానంద నిత్య జీవము - యేసు ప్రశస్త రక్తములో"
+        ],
+        "english": [
+          "ch:adhbhutha shakthikaladhu rakthamuloa - goRRepilla rakthamuloach:adhbhutha shakthikaladhu rakthamuloa - parishudhDha rakthamuloach:shaaMthi praemaanMdha nithyajeevamu - goRRepilla rakthamuloach:shaaMthi praemaanMdha nithya jeevamu - yaesu prashastha rakthamuloa"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:07.879Z",
+      "last_updated_at": "2026-08-06T17:39:07.879Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 168 chars, 4 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4536,
+      "song_name": "Ch:nee Jeevitha Naavaloa Kreesthunu -",
+      "main_stanza": {
+        "telugu": [
+          "అను నీ జీవిత నావలో క్రీస్తును - యుంచుకొని యున్నచోఅను చిరునగవుతో సాహసించెదవు - భీకర తుఫానులలోఅను సాగి వెళ్ళుచు - సాగి వెళ్ళుచుఅను చిరునగవుతో సాహసించెదవు - భీకర తుఫానులలో"
+        ],
+        "english": [
+          "ch:nee jeevitha naavaloa kreesthunu - yuMchukoni yunnachoach:chirunagavuthoa saahasiMchedhavu - bheekara thuphaanulaloach:saagi veLLuchu - saagi veLLuchuch:chirunagavuthoa saahasiMchedhavu - bheekara thuphaanulaloa"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:08.699Z",
+      "last_updated_at": "2026-08-06T17:39:08.699Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 65 chars, 2 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4537,
+      "song_name": "Ch:yaesu Theerche Naa - AppunMthayuch:paapadaagu",
+      "main_stanza": {
+        "telugu": [
+          "అను యేసు తీర్చె నా - అప్పునంతయుఅను పాపడాగు లన్నియు - తానే కడిగెను"
+        ],
+        "english": [
+          "ch:yaesu theerche naa - appunMthayuch:paapadaagu lanniyu - thaanae kadigenu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:09.398Z",
+      "last_updated_at": "2026-08-06T17:39:09.398Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 94 chars, 2 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4538,
+      "song_name": "Ch:krupachaetha RakShiMchenu Krupachaetha RakShiMchenuch:idhae Naa",
+      "main_stanza": {
+        "telugu": [
+          "అను కృపచేత రక్షించెను కృపచేత రక్షించెనుఅను ఇదే నా కథ స్తుతి దేవునికే - కృపచేత నన్ను రక్షించెను"
+        ],
+        "english": [
+          "ch:krupachaetha rakShiMchenu krupachaetha rakShiMchenuch:idhae naa kaTha sthuthi dhaevunikae - krupachaetha nannu rakShiMchenu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:10.183Z",
+      "last_updated_at": "2026-08-06T17:39:10.183Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 83 chars, 2 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4539,
+      "song_name": "Ch:poayenu Poayenu Naa Paapa Bhaaramella",
+      "main_stanza": {
+        "telugu": [
+          "అను పోయెను పోయెను పోయెను నా పాప భారమెల్ల పోయెనుఅను సర్వ పాపంబులు - శుద్ధ రక్తమందును"
+        ],
+        "english": [
+          "ch:poayenu poayenu poayenu naa paapa bhaaramella poayenuch:sarva paapMbulu - shudhDha rakthamMdhunu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:10.864Z",
+      "last_updated_at": "2026-08-06T17:39:10.864Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 74 chars, 2 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4540,
+      "song_name": "Ch:eMtha Adhbhutha Dhanamu AnMtha Dhaivavaramuch:dhivya",
+      "main_stanza": {
+        "telugu": [
+          "అను ఎంత అద్భుత ధనము అనంత దైవవరముఅను దివ్య గ్రంధము నేను కలసి యాత్ర వెళ్ళెదం"
+        ],
+        "english": [
+          "ch:eMtha adhbhutha Dhanamu anMtha dhaivavaramuch:dhivya grMDhamu naenu kalasi yaathra veLLedhM"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:11.581Z",
+      "last_updated_at": "2026-08-06T17:39:11.581Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 112 chars, 3 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4541,
+      "song_name": "Ch:paapamun DhuHkhamunu - VeMtanae -",
+      "main_stanza": {
+        "telugu": [
+          "అను పాపమున్ దుఃఖమును - వెంటనే - విడువుమాఅను యేసు వైపు చూచిన - వెంటవచ్చు ఆనందంఅను ఆనందం ఆనందం - దుఃఖమే లేదు ఆనందం"
+        ],
+        "english": [
+          "ch:paapamun dhuHkhamunu - veMtanae - viduvumaach:yaesu vaipu choochina - veMtavachchu aanMdhMch:aanMdhM aanMdhM - dhuHkhamae laedhu aanMdhM"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:12.215Z",
+      "last_updated_at": "2026-08-06T17:39:12.215Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 124 chars, 4 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4542,
+      "song_name": "Ch:dhaagiyuMdhu Nee AashrayamMdhunch:keedu Thaakani Choatuloa",
+      "main_stanza": {
+        "telugu": [
+          "అను దాగియుందు నీ ఆశ్రయమందున్అను కీడు తాకని చోటులో భయమే లేదుఅను దాగియుందును కల్వరేసునిఅను క్రీస్తు పునరుత్థానములో దాగియుందును"
+        ],
+        "english": [
+          "ch:dhaagiyuMdhu nee aashrayamMdhunch:keedu thaakani choatuloa bhayamae laedhuch:dhaagiyuMdhunu kalvaraesunich:kreesthu punaruthThaanamuloa dhaagiyuMdhunu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:13.024Z",
+      "last_updated_at": "2026-08-06T17:39:13.024Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 109 chars, 3 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4543,
+      "song_name": "Ch:nithya Dhaeva Jeevaathma Naa Pai",
+      "main_stanza": {
+        "telugu": [
+          "అను నిత్య దేవ జీవాత్మ నా పై దిగుమాఅను విరిగించి కరిగించి నిరూపించి నింపుము అను నిత్య దేవ జీవాత్మ నా పై దిగుమా"
+        ],
+        "english": [
+          "ch:nithya dhaeva jeevaathma naa pai dhigumaach:virigiMchi karigiMchi niroopiMchi niMpumu ch:nithya dhaeva jeevaathma naa pai dhigumaa"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:13.799Z",
+      "last_updated_at": "2026-08-06T17:39:13.799Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 176 chars, 4 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4544,
+      "song_name": "Ch:aathmala CheMthaku Nadupu BoaDhiMpanu Naerpumu",
+      "main_stanza": {
+        "telugu": [
+          "అను ఆత్మల చెంతకు నడుపు బోధింపను నేర్పుము ప్రభువాఅను మిత్రులు పాపములో బడిరి తమ మార్గము గానరుఅను శ్రద్ధతో కాన రెవ్వరు ప్రార్థన జేయరుఅను నా యెద జీవముతో నింపి ప్రార్థించను నేర్పుము"
+        ],
+        "english": [
+          "ch:aathmala cheMthaku nadupu boaDhiMpanu naerpumu prabhuvaach:mithrulu paapamuloa badiri thama maargamu gaanaruch:shradhDhathoa kaana revvaru praarThana jaeyaruch:naa yedha jeevamuthoa niMpi praarThiMchanu naerpumu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:14.816Z",
+      "last_updated_at": "2026-08-06T17:39:14.816Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 88 chars, 2 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4545,
+      "song_name": "Ch:chaethun Adhbhutha Manenu Chaethun Adhbhutha",
+      "main_stanza": {
+        "telugu": [
+          "అను చేతున్ అద్భుత మనెను చేతున్ అద్భుత మనెనుఅను ఆశించి అడిగినన్ దాని కన్న - ప్రభుఁనుతించు"
+        ],
+        "english": [
+          "ch:chaethun adhbhutha manenu chaethun adhbhutha manenuch:aashiMchi adiginan dhaani kanna - prabhuAOnuthiMchu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:15.679Z",
+      "last_updated_at": "2026-08-06T17:39:15.679Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 74 chars, 2 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4546,
+      "song_name": "Ch:sthuthiMchu Naa PraaNamaa - Mahima",
+      "main_stanza": {
+        "telugu": [
+          "అను స్తుతించు నా ప్రాణమా - మహిమ హల్లెలూయఅను స్తుతించు నా ప్రాణమా - ప్రభును"
+        ],
+        "english": [
+          "ch:sthuthiMchu naa praaNamaa - mahima hallelooych:sthuthiMchu naa praaNamaa - prabhunu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:16.585Z",
+      "last_updated_at": "2026-08-06T17:39:16.585Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 106 chars, 2 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4547,
+      "song_name": "Ch:mahima Ghanatha Sthuthi Sthoathramu -",
+      "main_stanza": {
+        "telugu": [
+          "అను మహిమ ఘనత స్తుతి స్తోత్రము - గొర్రెపిల్లకే నిత్యముఅను యేసు క్రీస్తు మా రక్షకుడు - హల్లెలూయా - హల్లె లూయ"
+        ],
+        "english": [
+          "ch:mahima ghanatha sthuthi sthoathramu - gorrepillakae nithyamuch:yaesu kreesthu maa rakShkudu - hallelooyaa - halle looy"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:17.261Z",
+      "last_updated_at": "2026-08-06T17:39:17.261Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 125 chars, 4 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4548,
+      "song_name": "Ch:aashcharya Maashcharya Maesu Naakuch:aaloachana Karthayu",
+      "main_stanza": {
+        "telugu": [
+          "అను ఆశ్చర్య మాశ్చర్య మేసు నాకుఅను ఆలోచన కర్తయు రక్షకుండునుఅను పాప శాపముల బాపి నన్ను రక్షించెన్అను ఆశ్చర్యమే యేసునకు స్తోత్రము"
+        ],
+        "english": [
+          "ch:aashcharya maashcharya maesu naakuch:aaloachana karthayu rakShkuMdunuch:paapa shaapamula baapi nannu rakShiMchench:aashcharyamae yaesunaku sthoathramu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:18.782Z",
+      "last_updated_at": "2026-08-06T17:39:18.782Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 247 chars, 7 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4549,
+      "song_name": "Ch:aanMdhaanMdhamu - MahadhaanMdhamuch:yaesu Prabhunaku -",
+      "main_stanza": {
+        "telugu": [
+          "అను ఆనందానందము - మహదానందముఅను యేసు ప్రభునకు - జయమని పాడుఅను నాదు పాపమంతయు - తన శరీరమందుఅను ప్రేమతోడ మోసె నాదు - ప్రియుడేసు రాజుఅను నాకు బదులు మరణ మొంది - సమాధి యాయెనుఅను నాకై సమాధి నుండి - మరల లేచెనుఅను యేసు నావాడు - నే ప్రియుని వాడను - ఆనందానందము"
+        ],
+        "english": [
+          "ch:aanMdhaanMdhamu - mahadhaanMdhamuch:yaesu prabhunaku - jayamani paaduch:naadhu paapamMthayu - thana shareeramMdhuch:praemathoada moase naadhu - priyudaesu raajuch:naaku badhulu maraNa moMdhi - samaaDhi yaayenuch:naakai samaaDhi nuMdi - marala laechenuch:yaesu naavaadu - nae priyuni vaadanu - aanMdhaanMdhamu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:19.437Z",
+      "last_updated_at": "2026-08-06T17:39:19.437Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 185 chars, 4 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4550,
+      "song_name": "Ch:aashcharya - Aashcharya - Yaesu",
+      "main_stanza": {
+        "telugu": [
+          "అను ఆశ్చర్య - ఆశ్చర్య - యేసు - నీతో సమానులేరి!అను ఆశ్చర్య - ఆశ్చర్య - యేసు - అత్యంత సుందరుడవుఅను ఆశ్చర్య - ఆశ్చర్య - యేసు - నిన్నెంతో ప్రేమింతునుఅను సుందరులలో సుందరుడవు - నాయేసు ప్రభువా"
+        ],
+        "english": [
+          "ch:aashcharya - aashcharya - yaesu - neethoa samaanulaeri!ch:aashcharya - aashcharya - yaesu - athyMtha suMdharudavuch:aashcharya - aashcharya - yaesu - ninneMthoa praemiMthunuch:suMdharulaloa suMdharudavu - naayaesu prabhuvaa"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:20.146Z",
+      "last_updated_at": "2026-08-06T17:39:20.146Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 208 chars, 6 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4551,
+      "song_name": "Ch:yaesuni SanniDhi EMthoa AanMdhMch:eMthoa AanMdhM,",
+      "main_stanza": {
+        "telugu": [
+          "అను యేసుని సన్నిధి ఎంతో ఆనందంఅను ఎంతో ఆనందం, ఎంతో ఆనందంఅను ప్రభుయేసుని సన్నిధి ఎంతో ఆనందం, ఎంతో ఆనందంఅను పాప భారమెల్ల దొర్లిపోయెనేఅను దొర్లి పోయెనే దొర్లిపోయెనేఅను నా పాప భారమెల్ల దొర్లి పోయెనే, దొర్లి పోయెనే"
+        ],
+        "english": [
+          "ch:yaesuni sanniDhi eMthoa aanMdhMch:eMthoa aanMdhM, eMthoa aanMdhMch:prabhuyaesuni sanniDhi eMthoa aanMdhM, eMthoa aanMdhMch:paapa bhaaramella dhorlipoayenaech:dhorli poayenae dhorlipoayenaech:naa paapa bhaaramella dhorli poayenae, dhorli poayenae"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:20.903Z",
+      "last_updated_at": "2026-08-06T17:39:20.903Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 147 chars, 4 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4552,
+      "song_name": "Ch:thoorpuna, Padamara, Uththara, DhakShiNamuch:kreesthu Su-vaarthathoa,",
+      "main_stanza": {
+        "telugu": [
+          "అను తూర్పున, పడమర, ఉత్తర, దక్షిణముఅను క్రీస్తు సు-వార్తతో, వెళ్ళవలె మనముఅను నల్లని, తెల్లని ప్రతిజాతి ప్రజలకుఅను క్రీస్తు సు-వార్తతో, వెళ్ళవలె మనము"
+        ],
+        "english": [
+          "ch:thoorpuna, padamara, uththara, dhakShiNamuch:kreesthu su-vaarthathoa, veLLavale manamuch:nallani, thellani prathijaathi prajalakuch:kreesthu su-vaarthathoa, veLLavale manamu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:21.880Z",
+      "last_updated_at": "2026-08-06T17:39:21.880Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 229 chars, 4 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4553,
+      "song_name": "Ch:naa Yedhaloan Naa Yedhaloan -",
+      "main_stanza": {
+        "telugu": [
+          "అను నా యెదలోన్ నా యెదలోన్ - రమ్ము నా యెదలోన్ ప్రభుయేసుఅను రమ్ము నేడే, వసింప రమ్ము - రమ్ము నా యెదలోన్ ప్రభుయేసుఅను నా యెదనుండి నా యెద నుండి - నా యెద నుండి ప్రకాశించుముఅను ప్రకాశించు నేడే, ప్రకాశించు సదా - నా యెదలో నుండి ప్రభు యేసు"
+        ],
+        "english": [
+          "ch:naa yedhaloan naa yedhaloan - rammu naa yedhaloan prabhuyaesuch:rammu naedae, vasiMpa rammu - rammu naa yedhaloan prabhuyaesuch:naa yedhanuMdi naa yedha nuMdi - naa yedha nuMdi prakaashiMchumuch:prakaashiMchu naedae, prakaashiMchu sadhaa - naa yedhaloa nuMdi prabhu yaesu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:22.556Z",
+      "last_updated_at": "2026-08-06T17:39:22.556Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 180 chars, 4 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4554,
+      "song_name": "Ch:nallanidhi Naa Paapa HrudhayM -",
+      "main_stanza": {
+        "telugu": [
+          "అను నల్లనిది నా పాప హృదయం - నా రక్షకుడు వచ్చు వరకుఅను తెల్ల జేసె కడిగిదాని యేసు ప్రశస్త రక్తమేఅను బంగారు వీధుల నడిచెదనని ఆయన వాక్యం తెల్పెఅను ఓ ధన్య మద్భుత దినము నా పాపం కడిగె నేసు"
+        ],
+        "english": [
+          "ch:nallanidhi naa paapa hrudhayM - naa rakShkudu vachchu varakuch:thella jaese kadigidhaani yaesu prashastha rakthamaech:bMgaaru veeDhula nadichedhanani aayana vaakyM thelpech:oa Dhanya madhbhutha dhinamu naa paapM kadige naesu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:23.414Z",
+      "last_updated_at": "2026-08-06T17:39:23.414Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 140 chars, 4 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4555,
+      "song_name": "Ch:yaesu Kreesthu Aayanae Naa Sarva",
+      "main_stanza": {
+        "telugu": [
+          "అను యేసు క్రీస్తు ఆయనే నా సర్వ మాయనేఅను నే కోరు వడాయనే నా సమస్తముఅను జ్ఞానం, శక్తి, నీతియు, నిత్య పరిశుద్ధతఅను నిశ్చయ పూర్ణ విమోచన సర్వమాయనే"
+        ],
+        "english": [
+          "ch:yaesu kreesthu aayanae naa sarva maayanaech:nae koaru vadaayanae naa samasthamuch:jnYaanM, shakthi, neethiyu, nithya parishudhDhathch:nishchaya poorNa vimoachana sarvamaayanae"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:24.120Z",
+      "last_updated_at": "2026-08-06T17:39:24.120Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 125 chars, 4 markers left in it"
+        },
+        {
+          "fault": "marker-in-title",
+          "remove": true,
+          "detail": "title carries \"Ch:\""
+        }
+      ],
+      "remove": true,
+      "song_id": 4556,
+      "song_name": "Ch:aahaa Aahaa Idhigoa Marala Vasthimich:aahaa",
+      "main_stanza": {
+        "telugu": [
+          "అను ఆహా ఆహా ఇదిగో మరల వస్తిమిఅను ఆహా అహా బహు సంతసంబేగాఅను మనమెల్లరము యేసు ప్రేమ నేర్చుకొనుటకుఅను నిజమైన స్థలంబు బైబిల్ స్కూల్"
+        ],
+        "english": [
+          "ch:aahaa aahaa idhigoa marala vasthimich:aahaa ahaa bahu sMthasMbaegaach:manamellaramu yaesu praema naerchukonutakuch:nijamaina sThalMbu baibil skool"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:25.571Z",
+      "last_updated_at": "2026-08-06T17:39:25.571Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 187 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4559,
+      "song_name": "Keertintunu Aaraadhintunu",
+      "main_stanza": {
+        "telugu": [
+          "లాలల లాలల లాలల లలల కీర్తింతును ఆరాధింతున్ నీ నామమును నే మహిమపరతును //2// //2// మా సృష్టికర్తవు నీవేనని ఆధారభుతుడా నీవేనని మాపాప రక్షణ నీవేనని రానున్న రారాజు నీవేనని //2// //కీర్తింతును //"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:27.603Z",
+      "last_updated_at": "2026-08-06T17:39:27.603Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 403 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4563,
+      "song_name": "Yehova Ninnu Sthuthiyinchuta Yentho Yentho Manchidhi",
+      "main_stanza": {
+        "telugu": [
+          "యెహోవాను స్తుతించుట - యెంతో యెంతో మంచిది1. మహోన్నతుండా నీ నామము - స్తుతించుటయే బహు మంచిది హల్లేలూయ - హల్లేలూయ -హల్లేలూయ - హలెలూయ2. గంభీర ధ్వని గల సితారతోను - స్తుతించుటయే బహు మంచిది హల్లేలూయ - హల్లేలూయ -హల్లేలూయ - హలెలూయ3. పది తంతులను,స్వరమండలముతో - స్తుతించుటయే బహు మంచిది హల్లేలూయ - హల్లేలూయ -హల్లేలూయ - హలెలూయ4. రేయింబవళ్ళు వేనోళ్లతోను - స్తుతించుటయే బహు మంచిది హల్లేలూయ - హల్లేలూయ -హల్లేలూయ – హలెలూయ"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:32.177Z",
+      "last_updated_at": "2026-08-06T17:39:32.177Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 235 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4564,
+      "song_name": "Aa Halleluyaa",
+      "main_stanza": {
+        "telugu": [
+          "ఆ హల్లెలుయా … ఆ హల్లెలుయా …ప్రభుయేసుడే యేలునుఆ హల్లెలుయా … ఆ హల్లెలుయా …ప్రభుయేసుడే యేలునుఆ హల్లెలుయా … ఆ హల్లెలుయా …శుద్దుడా … శుద్దుడా … పరిశుద్ద ప్రభువాఅర్హుడవు… అర్హుడవు …శుద్దుడా … శుద్దుడా … పరిశుద్ద ప్రభువాఅర్హుడవు… అర్హుడవు … ఆ"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:32.898Z",
+      "last_updated_at": "2026-08-06T17:39:32.898Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 293 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4565,
+      "song_name": "Hrudini Marchu Deva",
+      "main_stanza": {
+        "telugu": [
+          "హృదిని మార్చు దేవా – యధార్ధమైనదిగా హృదిని మార్చు దేవా – నీలా ఉండునట్లు నీవు కుమ్మరివి – నేను మంటిని మలచి రూపింపుమని – నా ప్రార్ధన …. change my heart, O God, Make it ever true; Change my heart, O God, May I be like YouYou are the Potter, I am the clay; Mould me and make me, This is what I pray"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:33.792Z",
+      "last_updated_at": "2026-08-06T17:39:33.792Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 251 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4566,
+      "song_name": "Naa Chenthanundumu O Yesayya",
+      "main_stanza": {
+        "telugu": [
+          "నా చెంత నుండుము ఓ యేసయ్య నే నిన్ను విడచి బ్రతుకలేనయ్య చీకటి సమయములో వెలుగులో నను నడుపు మరణపు సమయములో జీవముతో నింపు కన్నీటి సమయములో తల్లిలా ఓదార్చు కష్టముల సమయములో తండ్రిలా కాపాడు వాక్యం చదివే సమయములో గురువుగా బోధించు ప్రార్ధించే సమయములో దైవంలా ఆలకించు"
+        ],
+        "english": [
+          "naa chenthanundumu o yesayya ne ninnu vidachi brathukalenayya cheekati samayamulo velugulo nanu nadupu maranapu samayamulo jeevamutho nimpu kanniti samayamulo thallila odhaarchu kashtamula samayamulo thandrila kaapaadu vaakyam chadhive samayamulo guruvugaa bodhinchu praardhinche samayamulo daivamla aalakinchu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:34.682Z",
+      "last_updated_at": "2026-08-06T17:39:34.682Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 300 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4567,
+      "song_name": "Okasaari Choodaalani",
+      "main_stanza": {
+        "telugu": [
+          "ఒకసారి చూడాలనీ ఒకసారి తాకాలనీ నీకోసం నే వేచి ఉన్నా ఆరాధనా ఆరాధనా ఆరాధనా యేసుకే నిత్యము నిను చూడాలని నీతోనే నడవాలనీ నా గుండె లోతుల్లోని ఆశయ్యా నా ప్రియుడా – నా యేసయ్యా నీ ధ్యాసయే నా శ్వాసయ్యా ఒక్క క్షణము యుగమాయే గుండంతా బరువాయే నేను నిన్ను చూడని రోజునా నా ప్రియుడా – నా యేసయ్యా నీ ధ్యాసయే నా శ్వాసయ్యా"
+        ],
+        "english": [
+          "okasaari choodaalani okasaari thaakaalani neekosam ne vechi unnaa aaradhanaa aaradhanaa aaradhanaa yesuke nithyamu ninu choodalani neethone nadavaalani naa gunde lothulloni aashayya naa priyudaa – naa yesayya nee dhyaasaye naa swaasayya okka kshanamu yugamaaye gundanthaa baruvaaye nenu ninnu choodani rojunaa naa priyudaa – naa yesayya nee dhyaasaye naa swaasayya"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "Bro Augustine Dandingi"
+        ],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:35.317Z",
+      "last_updated_at": "2026-08-06T17:39:35.317Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 476 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4568,
+      "song_name": "Naa Yeduta Neevu Therachina Thalupulu",
+      "main_stanza": {
+        "telugu": [
+          "నా యెదుట నీవు తెరచిన తలుపులు వేయ లేరుగా ఎవ్వరు వేయలేరుగా నీవు తెరచిన తలుపులు రాజుల రాజా ప్రభువుల ప్రభువా నీకు సాటి ఎవ్వరు లేరయా నీ సింహాసనం నా హృదయాన నీ కృపతోనే స్థాపించు రాజా కరుణమయుడా కృపాసనముగా కరుణా పీఠాన్నీ నీవు మార్చావు కృప పొందునట్లు నాకు ధైర్యమిచ్చి నీ సన్నిధికి నన్ను చేర్చితివా ప్రధాన యాజకుడా నా యేసురాజా నిత్య యాజకత్వము చేయుచున్నవాడా యాజకరాజ్యమైన నిత్య సీయోను నూతన యెరుషలేం కట్టుచున్నవాడా నా యెదుట నీవు తెరచిన తలుపులు వేయ లేరుగా ఎవ్వరు వేయలేరుగా నీవు తెరచిన తలుపులు"
+        ],
+        "english": [
+          "naa yeduta neevu therachina thalupulu veya lerugaa evvaru veyalerugaa neevu therachina thalupulu raajula raajaa prabhuvula prabhuvaa neeku saati evvaru lerayaa nee simhaasanam naa hrudhayaana nee krupathone sthaapinchu raajaa karunamayudaa krupaasanamugaa karunaa peetaanni neevu maarchaavu krupa pondhunatlu naaku dhairyamichi nee sannidhiki nannu cherchithivaa pradhaana yaajakudaa naa yesuraajaa nithya yaajakathvamu cheyuchunnavaadaa yaajakaraajyamaina nithya seeyonu noothana yerushalem kattuchunnavaadaa naa yeduta neevu therachina thalupulu veya lerugaa evvaru veyalerugaa neevu therachina thalupulu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "Pastor John Wesley"
+        ],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:36.400Z",
+      "last_updated_at": "2026-08-06T17:39:36.400Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 263 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4569,
+      "song_name": "Maranapu Mullunu Virachi Jayinchina",
+      "main_stanza": {
+        "telugu": [
+          "మరణపు ముల్లును విరచి జయించిన జీవాధిపతి జయశీలుడు ఓ మరణమా నీ ముల్లెక్కడ పాతాళమా నీ జయమెక్కడ పునరుత్థానుడు దేవుడు జీవాధిపతియు జయశీలుడు సిలువ మరణము పొందియు పాపము శాపము భరియించియు మహిమతో లేచిన యేసుడు జీవాధిపతియు జయశీలుడు మరణపు ముల్లును విరచి జయించిన జీవాధిపతి జయశీలుడు"
+        ],
+        "english": [
+          "maranapu mullunu virachi jayinchina jeevaadhipathi jayaseeludu oh maranamaa nee mullekkada paathaalamaa nee jayamekkada punarutthaanudu devudu jeevaadhipathiyu jayaseeludu siluva maranamu pondhiyu paapamu saapamu bhariyinchiyu mahimatho lechina yesudu jeevaadhipathiyu jayaseeludu maranapu mullunu virachi jayinchina jeevaadhipathi jayaseeludu"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "Pastor Kamala Timothy Mallipudi"
+        ],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:37.436Z",
+      "last_updated_at": "2026-08-06T17:39:37.436Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 414 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4570,
+      "song_name": "Krupa Vembadi Krupa Nichina Devaa",
+      "main_stanza": {
+        "telugu": [
+          "కృప వెంబడి కృప నిచ్చిన దేవా సమృద్ధి కృపనిచ్చితివే నీ కృప సమృద్ధి కృప తడబడిన నా బ్రతుకును కృపతో నీవు ఆదుకొని సరిచేసి ఆదుకొని సరిచేసినావయ్యా యేసయ్యా నా యేసయ్యా దరిలేని నా బ్రతుకును కృపతో నీవు ఓదార్చి దరిచేర్చి ఓదార్చి దరిచేర్చినావయ్యా యేసయ్యా నా యేసయ్యా మితిలేని పాపినైన నను నీ కృపతో విడిపించి రక్షించి విడిపించి రక్షించినావయ్యా యేసయ్యా నా యేసయ్యా కృప వెంబడి కృప నిచ్చిన దేవా సమృద్ధి కృపనిచ్చితివే నీ కృప సమృద్ధి కృప"
+        ],
+        "english": [
+          "krupa vembadi krupa nichina devaa samruddhi krupanichithive nee krupa samruddhi krupa thadabadina naa brathukunu krupatho neevu aadhukoni sarichesi aadhukoni sarichesinaavayyaa yesayyaa naa yesayyaa dharileni naa brathukunu krupatho neevu odhaarchi dharicherchi odhaarchi daricherchinaavayyaa yesayyaa naa yesayyaa mithileni paapinaina nanu nee krupatho vidipinchi rakshinchi vidipinchi rakshinchinaavayyaa yesayyaa naa yesayyaa krupa vembadi krupa nichina devaa samruddhi krupanichithive nee krupa samruddhi krupa"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "Pastor Yesaiah Bonam"
+        ],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:38.109Z",
+      "last_updated_at": "2026-08-06T17:39:38.109Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 575 chars, 1 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4571,
+      "song_name": "Thalli Thandrulla Kannaa Minna Ayina Prema Naa Yesuni Prema",
+      "main_stanza": {
+        "telugu": [
+          "తల్లి తండ్రులకన్నా మిన్న అయిన ప్రేమ నా యేసుని ప్రేమ క్షమియించు ప్రేమ ఓదార్చు ప్రేమ నా యేసుని ప్రేమ Verse1: నా అనువారందరు విడచినపుడు నా పక్షమున నీవు నిలిచావు ఏ తోడు లేని నాకు తోడైయావు నా ప్రతి అడుగున నీవు నిలిచావు Chorus: హల్లెలూయా యేసయ్య నీ ప్రేమకై వందనం తల్లి తండ్రులకన్నా మిన్న అయినా ప్రేమ నా యేసుని ప్రేమ క్షమియించు ప్రేమ ఓదార్చు ప్రేమ నా యేసుని ప్రేమా Verse2: అర్హత లేని నాకు అర్హతనిచ్చావు నీ ప్రేమ ప్రకటించుటకై తల్లి గర్భములో ఉన్నప్పుడే ఎన్నుకున్నావు నీ నామ మహిమ కొరకై తల్లి తండ్రులకన్నా మిన్న అయినా ప్రేమ నా యేసుని ప్రేమ క్షేమియించు ప్రేమ ఓదార్చు ప్రేమ నా యేసుని ప్రేమా"
+        ],
+        "english": [
+          "thalli thandrulla kannaa minna ayina prema naa yesuni prema kshamiyinchu prema odhaarchu prema naa yesuni prema verse1: naa anuvaarandharu vidachinapudu naa pakshamuna neevu nilichaavu ey thodu leni naaku thodaiyaavu naa prathi aduguna neevu nilichaavu chorus: hallelujah yesayya nee premakai vandhanam thalli thandrulla kannaa minna ayina prema naa yesuni prema kshamiyinchu prema odhaarchu prema naa yesuni prema verse2: arhatha leni naaku arhathanichaavu nee prema prakatinchutakai thalli garbhamulo unnappude ennukunnaavu nee naama mahima korakai thalli thandrulla kannaa minna ayina prema naa yesuni prema kshamiyinchu prema odhaarchu prema naa yesuni prema"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "Srimanth katamala"
+        ],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:38.907Z",
+      "last_updated_at": "2026-08-06T17:39:38.907Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 441 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4572,
+      "song_name": "Naa Premikudaa Naa Praana Naadhudaa",
+      "main_stanza": {
+        "telugu": [
+          "నా ప్రేమికుడా నా ప్రాణ నాధుడా నిన్నే నే ఆరాదింతున్ నా తోడు నీవే నా ఆశ నీవే నిన్నే నే ఆరాదింతున్ నీ కృపతో నన్ను హెచ్చించావు నీ సాక్షిగా నన్ను నిలిపావు నా కన్నీటిని తుడిచావు నన్ను ప్రేమతో హత్తుకొన్నావు నీవే మార్గము నీవే సత్యము నీవే జీవము నా యేసయ్యా నిన్నే కీర్తింతును యేసయ్యా నిన్నే ప్రేమింతును యేసయ్యా నిన్నే సేవింతును యేసయ్యా నిన్నే ఘనపరతును యేసయ్యా పావనుడా పోషకుడా పరిశుద్ధుడా నా యేసయ్యా నీ రాజ్యములో నను చేర్చుటకు నీ ప్రాణమునే అర్పించితివి"
+        ],
+        "english": [
+          "naa premikudaa naa praana naadhudaa ninne ne aaraadhinthun naa thodu neeve naa aasa neeve ninne ne aaraadhinthun nee krupatho nannu hechinchaavu nee saakshigaa nannu nilipaavu naa kanneetini thudichaavu nannu preamatho hatthukonnaavu neeve maargamu neeve sathyamu neeve jeevamu naa yesayyaa ninne keerthinthunu yesayyaa ninne preminthunu yesayyaa ninne sevinthunu yesayyaa ninne ghanaparathunu yesayyaa paavanudaa poshakudaa parishuddhudaa naa yesayyaa nee raajyamulo nanu cherchutaku nee praanamune arpinchithivi"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "Hannah Grace"
+        ],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:39.546Z",
+      "last_updated_at": "2026-08-06T17:39:39.546Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 1014 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4573,
+      "song_name": "Sambaramaascharyaalatho Bhoomi Oopiri Bigabatteney",
+      "main_stanza": {
+        "telugu": [
+          "సంబరమాశ్చర్యాలతో భూమి ఊపిరి బిగబట్టెనే శిశువు మృదువు హస్త స్పర్శను పుడమి ముద్దాడెనే ఆకాశం చుక్కలతో అలంకరించుకొనెనే అందులో ఒక తార రక్షకుని జాడ తెలిపింది చమకు చమకు మంటు ఒక తార వెలసెనే నింగి నేల ఏకమై సందడి చేసెనే కన్యక గర్భాన రారాజు పుట్టాడే ఊరు వాడ వీధుల్లలో సందడి చేద్దామే Chorus: సందడి సందడి సందడి సందడి సందడి చేద్దామే బేత్లెహేము పురములోన సందడి చేద్దామే సందడి సందడి సందడి సందడి సందడి చేద్దామే దావీదు పురములోన సందడి చేద్దామే నక్షత్ర రాశులు వింత కాంతులు ఈనే సర్వదూతాలి సిద్దపడెనే యుగయుగాల నిరీక్షణ ఫలియించెనే సర్వ సృష్టి నీ రాకకై సాక్ష్యమిచ్చెనే సర్వోన్నతమైన స్థలములలో దేవునికే మహిమ భూమిపై ఉన్న వారికి సమాధానం అని దూత చెప్పెనే అయ్యో మరియమ్మ అవమానము పొందే గాబ్రియేలు దూతొచ్చి భయపడకని చెప్పెనే పుట్టబోవు బిడ్డ పరిశుద్ధుడని చెప్పెనే సర్వోన్నతుని కుమారుడని చెప్పెనే యుగయుగాలనేలే రారాజు నీలో నుండి వచ్చుననెనే ఇమ్మానుయేలు దేవుడు ఏసుక్రీస్తు అని చెప్పెనే నదులు సంతోషముతో ఉప్పొంగెనే అలలు నాట్యమాడి స్తుతియించెనే సస్యశ్యామలం గుసగుసలాడే శాంతి సమాధానం వచ్చిందని చెప్పెనే సర్వ భూమి నీ రాకతో పరవశించెనే సృష్టి తలవంచి స్వాగతించెనే"
+        ],
+        "english": [
+          "sambaramaascharyaalatho bhoomi oopiri bigabatteney sisuvu mrudhuvu hastha sparsanu pudami muddhaadeney aakaasam chukkalatho alankarinchukoneney andhulo oka thaara rakshakuni jaada thelipindhi chamaku chamaku mantu oka thaara velaseney ningi nela ekamai sandhadi cheseney kanyaka garbhaana raaraaju puttaadey ooru vaada veedhullalo sandhadi cheddhaamey chorus: sandhadi sandhadi sandhadi sandhadi sandhadi cheddaamey bethlehemu puramulona sandhadi cheddaamey sandhadi sandhadi sandhadi sandhadi sandhadi cheddaamey dhaaveedhu puramulona sandhadi cheddaamey nakshathra raasulu vintha kaanthulu eeney sarva dhoothaali siddhapadeney yugayugaala nireekshana phaliyincheney sarva srushti nee raakakai saakshamicheney sarvonnathamaina sthalamulalo dhevunikey mahima bhoomipai unna vaariki samaadhaanam ani dhootha cheppeney ayyo mariyamma avamaanamu pondhey gaabriyelu dhoothochi bhayapadakani cheppeney puttabovu bidda parishuddhudani cheppeney sarvonnathuni kumaarudani cheppeney yugayugaalaneley raaraaju neelo nundi vachunaneney imaanuyelu dhevudu yesu kreesthu ani cheppeney nadhulu santhoshamutho uppongeney alalu naatyamaadi sthuthiyincheney sasyasyamalam gusagusalaadey saanthi samaadhaanam vachindhani cheppeney sarva bhoomi nee raakatho paravasincheney srusti thalavanchi swaagathincheney"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "Dr Shalem Raj",
+          "Azuba Daniel kalyanapu"
+        ],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:41.127Z",
+      "last_updated_at": "2026-08-06T17:39:41.127Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 558 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4574,
+      "song_name": "Yehovaa Naa Devaa Nee Dhayalo Kaayumaa",
+      "main_stanza": {
+        "telugu": [
+          "యెహోవా నా దేవా నీ దయలో కాయుమా ఎన్నికే లేని నన్ను ప్రేమించితివే ఏలికగా నను మలచితివే నా నీతికి ఆధారమగు దేవా నేను మొరపెట్టగా ఇరుకులలో నేను కృంగినప్పుడు నాకు విశాలత కలిగించుమా! నన్ను కరుణించుమా – నాపై కృప చూపుమా! నరులెల్లరు ఎంత కాలం నా కీర్తిననిచెదరు పనికిరాని వాటిని ప్రేమించెదరు నేరాలుగా వాటిని మలిచెదరు నన్ను కరుణించుమా – నాపై కృప చూపుమా! యెహోవా శాంతి నాకు దయచేసి సమాధానమిచ్చితివే ధాన్య ద్రాక్షముల కన్నా అధికముగా నీవు ఆనందముతో నింపితివే! నన్ను నియమించితివే – నాలో ఫలించితివే! యెహోవా నా దేవా నీ దయలో కాచితివే పాపినైన నన్ను ప్రేమించితివే నీ వారసునిగా నిలిపితివే"
+        ],
+        "english": [
+          "yehovaa naa devaa nee dhayalo kaayumaa ennike leni nannu preminchithive elika gaa nanu malachithive naa neethiki aadhaaramagu devaa nenu morapettagaa irukulalo nenu krunginappudu naaku visaalatha kaliginchumaa nannu karuninchumaa – naapai krupa choopumaa! narulellaru entha kaalam naa keerthi nanichedharu panikiraani vaatini preminchedharu neraalugaa vaatini malichedharu nannu karuninchumaa – naapai krupa choopumaa! yehovaa saanthi naaku dhayachesi samaadhaanamichithive dhaanya dhraakshamula kannaa adhikamuga neevu aanandhamutho nimpithive! nannu niyaminchithive – naalo phalinchithive! yehovaa naa devaa nee dhayalo kaayumaa paapinaina nannu preminchithive nee vaarasunigaa nilipithive"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "P James"
+        ],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:41.927Z",
+      "last_updated_at": "2026-08-06T17:39:41.927Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 442 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4575,
+      "song_name": "Ne Namme Nammakamu Eppatiki Neeve",
+      "main_stanza": {
+        "telugu": [
+          "నే నమ్మే నమ్మకము – ఎప్పటికి నీవే దీవెనలు కలిగిన నిను నమ్మెదన్ దీవెనలు లేకున్న నిను నమ్మెదన్ నీకే నా ఆరాధన – నిన్నే నే ఘనపరచెదన్ నీకే నా ఆరాధన – నీకే సమస్తము తెలిసిన త్రియేకుడా నా ముందు నడచుచు నడిపించుమా శత్రు సైన్యములు విడిచి పోవును నీ వాగ్ధాన శక్తి నిలిచి పోవును ఆపద సమయములో – నిను వెదకితిన్ ఆదరణ ఇచ్చుటకు వచ్చితివి నీ వాగ్ధనములన్నియు నెరవేరును నీ వాక్యపు శక్తి నిలిచి పోవును నీకే నా ఆరాధన – నిన్నే నే ఘనపరచెదన్ నీకే నా ఆరాధన – నీకే యేసయ్యా…"
+        ],
+        "english": [
+          "ne namme nammakamu – eppatiki neeve dheevenalu kaligina ninu nammedhan dheevenalu lekunna ninu nammedhan neeke naa aaraadhanaa – ninne ne ghanaparachedhan neeke naa aaraadhanaa – neeke samasthamu thelisina thriyekudaa naa mundhu nadachuchu nadipinchumaa sathru sainyamulu vidichi povunu nee vaagdhaana sakthi nilichi povunu aapadha samayamulo ninu vedhakithin aadharana ichutaku vachithivi nee vaagdhaanamulanniyu neraverunu nee vaakyapu sakthi nilichi povunu neeke naa aaraadhanaa – ninne ne ghanaparachedhan neeke naa aaraadhanaa – neeke yesayyaa…"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "Benny Joshua"
+        ],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:43.091Z",
+      "last_updated_at": "2026-08-06T17:39:43.091Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 1036 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4576,
+      "song_name": "Abraham Gari Viswasam",
+      "main_stanza": {
+        "telugu": [
+          "ఓ అబ్రహామా విశ్వాస గిరిశిఖరమా దేవుని స్వరాన్ని హృదయంతో వినిన వానివి పిలుపు వచ్చినప్పుడే పయనం మొదలెట్టినవాడా నమ్మికే నీ నడక వాగ్దానమే నీ శ్వాస ఉరువులో జీవించిన రోజున ఒక స్వరం పలికే నేను చూపించు దేశానికి నడిపెదను అని ఊరు నీ బంధువులని సొంతమట్టిని వదిలి తెలియని దారులలో అడుగులు వేసిన ధీరుడా మేఘంలా కదిలి నక్షత్రంలా వెలిగిన అజ్ఞాతంలోన దేవునిపై ఆశ పెట్టిన నీ హృదయం ఓ అబ్రహామా విశ్వాసగిరి శిఖరమా దేవుని స్వరాన్ని హృదయంతో వినిన వానివి సంతానం లేని హృదయంలో ఒకనిట్టూర్పు ఉన్నా ఆకాశ నక్షత్రాల వలె సంతానమని మాటవిచ్చే వృద్ధాప్యంలోనూ ఆశ చచ్చిపోనియక సారానవ్వులోనూ ఆనందం నింపిన ప్రభువు ఇస్సాకు పుట్టిన రోజు వాగ్దానాలు ప్రతిధ్వనించిన స్వర్ణ క్షణం ఓ ఓ అబ్రహామా విశ్వాసగిరి శిఖరమా దేవుని స్వరాన్ని హృదయంతో వినిన వానివి అత్యంత కఠినమైన రోజు ఉదయించగా నీ కుమారుని అర్పించుము అన్న వాక్యమొచ్చే హృదయం విడవనిచ్చిన విశ్వా విశ్వాసం మాత్రం తగ్గలే మోరియా పర్వతం పై కన్నీటి ప్రార్థన నిలిచింది కత్తిపైకెగసిన వేళ దేవుడు గొర్రె పిల్లను సిద్ధం చేసాడు నీ నోటి మాట ఒక్కటే యెహోవాయి అన్ని కలపించువాడే నా దేవుడు ఓ అబ్రహామా విశ్వాసగిరి శిఖరమా దేవుని స్వరాన్ని హృదయంతో విలినవానివి"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:44.099Z",
+      "last_updated_at": "2026-08-06T17:39:44.099Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 660 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4577,
+      "song_name": "Jeevahaaramu Kreesthe Kreesthe Jeevadhipathi",
+      "main_stanza": {
+        "telugu": [
+          "జీవాహారము క్రీస్తే జీవాధిపతి శ్రీ యేసే జీవాహారము క్రీస్తే జీవాధిపతి శ్రీ యేసే జీవాహారము క్రీస్తే ఆయన రుధిరంబిలలో జీవామృతమే మనకు ఆయన రుధిరం పిలదు జీవామృతమే మనకు ఆయన కార్యము సఫలము చేయగా పాపికి మోక్షము సమకూర్చి జీవాహారము క్రీస్తే జీవాధిపతి శ్రీ యేసే జీవాహారము క్రీస్తే ప్రభు యేసుని కృప మనపై అపురూపము అది అమరం ప్రభు యేసుని కృప మనపై అపురూపము అది అమరం పావనమము నూతన జీవము ప్రేమకు పెన్నిది ప్రియతమము జీవాహారము క్రీస్తే జీవాధిపతి శ్రీ యేసే జీవారము క్రీస్తే ఆత్మాంతరమున మనము ఆరాధింతుము ప్రభుని ఆత్మాంతరమున మనము ఆరాధింతుము ప్రభుని ఆయ ఆయన నామము అమృతపానము జీవన మార్గము శుభకరము జీవాహారము క్రీస్తే జీవాధిపతి శ్రీ యేసే జీవాహారము క్రీస్తే జీవాధిపతి శ్రీ యేసే జీవాహారము క్రీస్తే"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:44.861Z",
+      "last_updated_at": "2026-08-06T17:39:44.861Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 1319 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4578,
+      "song_name": "Dharanilo Velasindu La",
+      "main_stanza": {
+        "telugu": [
+          "ధరణిలో వెలసినాడు దైవతనయుడు పగలో పుట్టినాడు పరమాత్ముడు ధరణిలో వెలసినాడు దైవతనయుడు పకలో పుట్టినాడు పరమాత్ముడు పుట్టినాడు క్రీస్తు కన్య మరియ గర్భమందు పుట్టినాడు క్రీస్తు కన్య మరియ గర్భమందు లోకమే సంతోషించగా బహుసుర మాయగా ఊరువాడ పరవసించగా మహోసకడియాయగా లోకమే సంతసించగా మోసకరమాయగా ఓరువాడ పరవసించడి ఆయన ఆ ఆ దూతలు చెప్పిన సంతోష వార్తంట గొల్లలు చేసిన ఆనంద గానమట దూతలు చెప్పిన సంతోష వార్తంట గొల్లలు చేసెని ఆనంద గానమట జ్ఞానులకు తెలిపే నక్షత్రం జ్ఞానులకు తెలిపే నక్షత్రం దారంట ఎరువు వెళ్లే పాలై యేసు చెంత ఇరుగురు వెళ్లినే బాల యేసు చెంతకుండా లోకమే సంతసించగా బహు సమరమాయగా గురువ పరవసించగా బహుసరి ఆయగా లోకమే సంతసించగా బహు సమరమాయగా ఉడువ పరవసించగా బహుసరియాయగా లేఖనము నెరవేర్చే క్షణమంట లోక పాపములు మోసే నీ నాధుడ ట లేఖనము నెరవేర్చే క్షణమంట లోక పాపములు మోసేటి నాధుడట నీకు నాకు రక్షణ ఇచ్చునట నీకు నాకు రక్షణ ఇచ్చునట నిన్ను నన్ను నడిపించే నాదుట నిన్ను నన్ను నడిపించే నాదుట లోకమే సంతసిషించగా బహు సంబరమాయగా ఓవడ పరవసిం ించగా బహు సంగడియగా లోకమే సంతసించగా బహు సమరమాయగాడ పరవసించగా బహుసరియాయిగా ఆఓ పాపము తొలగించే పరిశుద్ధుడు తానంట శాపము తొలగించే దైవతనయ తానంట పాపము తొలగించే పరిశుద్ధుడుతా తారంట శాపము తొలగించే దైవ తనయతారంట నిన్ను నన్ను రక్షించే నాదుడంట నిన్ను నన్ను రక్షించే నాదుట నీకు నాకు ఇమ్మాను ఏలంట నీకు నాకు ఇమ్మాను ఏలంటగా లోకమే సంతసించగా బహు సంబరమాయగా ఉరువ పరవసించగా బహు సందడి ఆయగా లోకమే సంతసించగా బహు సమరమాయగా పడువాడ పరవసించగా బహు సందడి ఆయగా ఓన"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:46.208Z",
+      "last_updated_at": "2026-08-06T17:39:46.208Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 1798 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4580,
+      "song_name": "Nuthana Samvatsaramulo Naidoinchu Prabhuva",
+      "main_stanza": {
+        "telugu": [
+          "హ నూతన సంవత్సరములో నడిపించుము ప్రభువా నీ కృపలో మమ్ములను దాచుము దేవా నూతన సంవత్సర తరములో నడిపించుము ప్రభువా నీ కృపలో మమ్ములను దాచుము దేవా నీ వాక్యమే మా వెలుగు నీ సత్యమే మా దారి యేసయ్య నీతోనే సాగెదము సదా మహిమ స్తుతి ఆరాధన యేసయ్య నీకే అర్పణ మహిమ స్తుతి ఆరాధన నిత్యము నీకే మా వందనం మహిమ స్తుతి ఆరాధన సర్వాధికారుడవు నీవే మహిమ స్తుతి ఆరాధన యుగ యుగములకు రాజువు నీవే నూతన సంవత్సరములో నడిపించుము ప్రభువా నీ కృపలో మమ్ములను ను దాచు దేవా గత సంవత్సరమంతా కాపాడిన దేవా కన్నీళ్లలోను ఆదరించిన దేవా గత సంవత్సరమంతా కాపాడిన దేవా కన్నీళ్లలోను ఆదరించిన దేవా మా పొరపట్లెన్ని క్షమించిన ప్రభువా మరువలేము నీదు ప్రేమను యేసయ్యా మహిమ స్తుతి ఆరాధన యేసయ్య నీకే అర్పణ మహిమ స్తుతి ఆరాధన ఆరాధన నిత్యము నీకే మా వందనం మహిమ స్తుతి ఆరాధన సర్వాధికారుడవు నీవే మహిమ స్తుతి ఆరాధన యుగ యుగములకు రాజువు నీవే నూతన సంవత్సరములో నడిపించుము ప్రభువా నీ కృపలో మమ్ములను దాచుము దేవా ఆ ఈ నూతన కాలములో తోడుండుమయ్యా ప్రతి అడుగులో మమ్ములను నడి నడిపించుమయ్యా ఈ నూతన కాలములో తోడుండుమయ్యా ప్రతి అడుగులో మమ్ములను నడిపించుమయ్యా మా ఆశలన్నీ నెరవేర్చు ప్రభువా విశ్వాసముతో జీవింపనేర్పుమయ్య యేసయ్యా మహిమ స్తుతి ఆరాధన యేసయ్య నీకే అర్పణ మహిమ స్తుతి ఆరాధన నిత్యము నీకే మా వందనం మహిమ స్తుతి ఆరాధన సర్వాధికారుడవు నీవే మహిమ స్తుతి ఆరాధన యుగ యుగములకు రాజువు నీవే నూతన సంవత్సరములో నడిపించుము ప్రభువా నీ కృపలో మమ్ములను దాచుము దేవా నీ వాక్యమే మా పాదములకు దీపమయ్యానీ నీ చిత్తమే మా జీవం మార్గమయ్యా నీ వాక్యమే మా పాదములకు దీపమయ్య నీ చిత్తమే మా జీవ మార్గమయ్యా మా భయములన్నీ తొలగించు ప్రభువా పరిశుద్ధముగా జీవింపనేర్పుమై యేసయ్య మహిమ స్తుతి ఆరాధన యేసయ్య నీకే అర్పణ మహిమ స్తుతి ఆరాధన నిత్యము నీకే మా వందనం మహిమ స్తుతి ఆరాధన సర్వాధికారుడవు నీవే మహిమ స్తుతి ఆరాధన యుగ యుగములకు రాజువు నీవే నూతన సంవత్సరములో నడిపించుము ప్రభువా నీ కృపలో మమ్ములను దాచుము దేవా నూతన సంవత్సరములో నడిపించుము ప్రభువా నీ కృపలో మమ్ములను దాచుము దేవా నీ వాక్యమే మా వెలుగు నీ సత్యమే మాదా దారి యేసయ్య నీతోనే సాగెదము సదా"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "Sis. Swaroopa Pradeep"
+        ],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:48.079Z",
+      "last_updated_at": "2026-08-06T17:39:48.079Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 2362 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4582,
+      "song_name": "Viswadhipathi Vani Pogadi",
+      "main_stanza": {
+        "telugu": [
+          "ఆ ధనిసగత మగసనిస ధనిసగత పదమనిమగమ కృపా సత్య సంపూర్ణుడా జ్ఞానము గల మనోహరుడా కృపా సత్య సంపూర్ణుడా జ్ఞానము గల మనోహరుడా ఆదియు నీవై అంతము నీవై సృష్టినంతటిని చేసావు ఆదియు నీవై అంతము నీవై సృష్టినంతటిని చేసావు అమరుడవు శూరుడవు సర్వము నేలేర రాజువు విశ్వాధిపతివని పొగడి శోభ శోభను వివరించెదను గుణశీలుడవని కొనియాడి ఆరాధన చేసెదను విశ్వాధిపతివని పొగడి శోభను వివరించెదను గుణశీలుడవని కొనియాడి ఆరాధన చేసెదను కృపా సత్య సంపూర్ణుడా జ్ఞానము గల మనోహరుడా ఆ ఉదయించే గర్భములో కిరణాలను విభజించావు ప్రపంచములంతటను ప్రసరింపజేసావు ఉదయించే గర్భములో కిరణాలను విభజించావు ప్రపంచములంతటను ప్రసరింపజేసావు బహుకలలతో వర్ణములతో ధరణిని నింపావు జగములను రమ్యముగా అలంకరించావు అమరుడవు శూరుడవు సర్వముని నేలే రారాజు విశ్వాధిపతివని పొగడి శోభను వివరించెదను గుణశీలుడవని కొనియాడి ఆరాధన చేసెదను విశ్వాధిపతివని పొగిడి శోధను వివరించెదను గుణశీలుడవని కొనియాడి ఆరాధన చేసెదను కృపా సత్య సంపూర్ణుడా జ్ఞాన నముగల మనోహరుడా ఆకాశమంతటిని ఓతెరగా పరిచావు జలరాసుల ఆవిరిని అవసరముగా మార్చావు ఆ ఆకాశమంతటిని ఓ తెరగా పరిచావు జలరాసుల ఆవిరిని అవసరముగా మార్చావు సస్యములతో మానవుల ఆకలినే తీర్చావు మణ్యములో జీవాలకు తృప్తిని పంచావు అమరుడవు శూరుడవు సర్ సర్వమునేలే రారాజు విశ్వాధిపతివని పొగడి శోభను వివరించెదను గుణశీలుడవని కొనియాడి ఆరాధన చేసెదను విశ్వాధిపతివని పొగడి శోభను వివరించెదను గుణశీలుడవని కొనియాడి ఆరాధన చేసెదను కృపా సత్య సంపూర్ణుడా సాని ని సద ని దని మ ద మద గ సగమదనిస కృపా సత్య సంపూర్ణుడా మదమ పదమగమ సగమ పద గమని ని మదని సమద సరి మదనిస కగులమంతటను తారలనేర్పరచావు కాలములను తెలుపుటకు జ్యోతులను ఉంచావు ఖగోలమంతటను తారలనే నేర్పరచావు కాలములను తెలుపుటకు జ్యోతులను ఉంచావు ఉష్ణముతో సర్వములో సమతుల్యత స్థాపించావు ఉరుములతో మెరుపులతో శక్తిని సృష్టించావు అమరుడవు శూరుడవు సర్వమునేలే రారాజువు విశ్వాధిపతి వనిపో పోగడి శోభను వివరించెదను గుణశీలుడవని కొనియాడి ఆరాధన చేసెదను విశ్వాధిపతివని పొగడి శోభను వివరించెదను గుణశీలుడవని కొనియాడి ఆరాధన చేసెదను కృపా సత్య సంపూర్ణుడా జ్ఞానము గల మనోహరుడా కృపా సత్య సంపూర్ణుడా జ్ఞానము గల మనోహరుడా ఆదియు నీవై అంతము నీవై సృష్టినంతటిని చేసావు ఆదియు నీవై అంతము నీవై సృష్టినంతటిని చేసావు అమరుడవు శూరుడవు సర్వము నేలేర రాజువు విశ్వాధిపతివని పొగ బడి శోభను వివరించెదను గుణశీలుడవని కొనియాడి ఆరాధన చేసెదను విశ్వాధిపతివని పొగడి శోభను వివరించెదను గుణశీలుడవని కొనియాడి ఆరాధన చేసెదను కృపా సత్య కృపా సత్య సంపూర్ణుడా సానిసనిద దమ నీ ధని దమ గ స గ మ ద ద ని స గ మ ద ద ని స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స స గ మమమమ ద ద ద ని సత్య సంపూర్ణుడా యేసయ్యా కృపా ఆసక్తి సంపూర్ణ"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "BRO.PRAKASH GARU"
+        ],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:49.796Z",
+      "last_updated_at": "2026-08-06T17:39:49.796Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 1783 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4583,
+      "song_name": "Gathinchina Kaalamantha",
+      "main_stanza": {
+        "telugu": [
+          "నూతన సంవత్సరమైన దయా కేరేటం ఇచ్చి మన జీవితంలో చేసిన మేలుల కొరకై తండ్రి అయిన దేవునికి ఎల్లప్పుడూ కృతజ్ఞతా స్తుతులు చెల్లిద్దాం గతించిన కాలమంతా నన్ను కాపాడితివి నూతన సంవత్సరం నాకు నీవు ఇచ్చితివి గతించిన న కాలమంతా నన్ను కాపాడితివి నూతన సంవత్సరం నాకు నీవు ఇచ్చితివి దేవా నీకే స్తోత్రము తండ్రి నీకే స్తోత్రం దేవా నీకే స్తోత్రము తండ్రి నీకే స్తోత్రము దేవా నీకే స్తోత్రము తండ్రి నీకే స్తోత్రము దేవా నీకే స్తోత్రము తండ్రి నీకే స్తోత్రము గతించిన కాలమంతా నన్ను కాపాడితివి నూతన సంవత్సరం నాకు నీవు ఇచ్చితివి నూతన హృదయాన్ని నాకు దయచేయుము తండ్రి నూతన స్వభావం దయచేయుము తండ్రి నీ కీర్తిని చాటుటకే నా ప్రాణం నిలిపితివి నేను బ్రతికి ఉన్నానంటే నీ కృపయే నూతన హృదయాన్ని నాకు దయచేయుము తండ్రి నూతన స్వభావం దయచేయుము తండ్రి నీ కీర్తిని చాటుటకే నా ప్రాణం నిలిపితివి నేను బ్రతికి ఉన్నానంటే నీ కృపయే కాలములో సమయములో నీ వసమే తండ్రి నీ సెలవు లేక నేను భోజనం చేయగలనా కాలమున సమయములో నీ వసమే తండ్రి నీ సెలవు లేక నేను పూజనం చేయగలనా దేవా నీకే స్తోత్రము తండ్రి నీకే స్తోత్రము దేవా నీకే స్తోత్రము తండ్రి నీకే స్తోత్రము గతించిన కాలమంతా నన్ను కాపాడితివి నూతన సంవత్సరం నాకు నీవు ఇచ్చితివి గడిచిన దినములలో కష్టాలెన్ని ఎదురైనా నీ వాక్యమే నన్ను ధైర్య పరచెను నా బ్రతుకు పయనంలో నీవు చేసిన మేలులు నేను లెక్కింపలేనన్ని ఉన్నవి తండ్రి గడిచిన దినములలో కష్టాలు ఎన్ని ఎదురైనా నీ వాక్యమే నన్ను ధైర్యపరచెను నా బ్రతుకు పయనంలో నీవు చేసిన మేలులు నేను లెక్కింప లేనన్ని ఉన్నవి తండ్రి నా జీవిత కాలమంతా నీ సేవ చేసినదాన నీ రుణము ఎప్పటికీ నేను తీర్చగలనా నా జీవిత కాలమంతా నీ సేవ చేసిన గాని నీ ఋణము ఎప్పటికీ నేను తీర్చగలనా దేవా నీకే స్తోత్రము తండ్రి నీకే స్తోత్రము దేవా నీకే స్తోత్రము తండ్రి నీకే స్తోత్రము గతించిన కాలమంతా నన్ను కాపాడితివి నూతన సంవత్సరం నాకు నీవు ఇచ్చితివి దేవా నీకే స్తోత్రము తండ్రి నీకే స్తోత్రము దేవా నీకే స్తోత్రము తండ్రి నీకే స్తోత్రము దేవా నీకే స్తోత్రము తండ్రి తండ్రి నీకే స్తోత్రము ఓ దేవా నీకే స్తోత్రము తండ్రి నీకే స్తోత్రము"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "BRO.CH.SIVA"
+        ],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:51.195Z",
+      "last_updated_at": "2026-08-06T17:39:51.195Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 1520 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4584,
+      "song_name": "Yesu Raju Janminchinadu Nee Kosam",
+      "main_stanza": {
+        "telugu": [
+          "ఆ యేసు రాజు జన్మించినాడు నీకోసం పశుశాలలో పవళించినాడు మనకోసం యేసు రాజు జన్మించినాడు నీకోసం పశుశాలలో పవళించినాడు మనకోసం యూదుల రాజుగా పుట్టినావుగా జగతికి రక్షణ తెచ్చినాడుగా యూదుల రాజుగా పుట్టినాడుగా జగతికి రక్షణ తెచ్చినాడుగా ఆకాశ వీధుల్లో దూతల పాటలతో అందరము కలిసి ఆడి పాడి ఆరాధించెదము ఆనందించెదము రారాజు యేసుని మహిమ పరచెదం ఆరాధించెదము ఆనందించెదము రారాజు యేసుని మహిమ పరచెదం యేసు రాజు జన్మించినాడు నీకోసం పశుశాలలో పౌలించినాడు మనకోసం బెత్లెహేము ఊరిలో పశువుల పాకలో బాలుడైన యేసయ్య జన్మించినాడుగా ఎంతో మహ మహనీయుడు చూడ చక్కనివాడు పశువుల తొట్టిలో పరుండినాడుగా బెత్లెహేము ఊరిలో పశువుల పాకలో బాలుడైన యేసయ్య జన్మించునాడుగా ఎంతో మహనీయుడు చూడ చక్కనివాడు పశువుల తొట్టిలో పరుండినాడుగా పాపం తొలగింపను శాపం విడిపించను చీకటిలో ఉన్న ప్రజల వెలుగులో నడిపించను పాపం తొలగింపను శాపం విడిపించెను చీకటిలో ఉన్న ప్రజల వెలుగులో నడిపించెను పరమును విడిచి దీనునిగా ఇల దిగి వచ్చెను ఆరాధించెదము ఆనందించెదము రారాజు యేసుని మహిమ పరచెదం తూర్పు దేశపు ముగ్గురు జ్ఞానులు తరదరి చూపగా వచ్చినారుగా ఇంటిలోనికి వచ్చి ఆనందభరితులై శి శిశువును చూచి పరవశించినారుగా తూర్పు దేశపు ముగ్గురు జ్ఞానులు తరదారి చూపగా వచ్చినారుగా ఇంటిలోనికి వచ్చి ఆనందభరితులై శిశువును చూచి పరవసించినారుగా ఆశ్చర్యకరుడు ఆలోచనకర్తకు బంగారం సామ్రాణి బోనము కానుకగా ఆశ్చర్యకరుడు ఆలోచనకర్తకు బంగారము సామ్రాణి బోలము కనుకగా సాగిలపడి పూజించి సమర్పించిరి ఆరాధించెదము ఆనందించెద దము రారాజు యేసుని మహిమ పరచెదం యేసు రాజు జన్మించినాడు నీకోసం పశుశాలలో పవలించినాడు మనకోసం యూదుల రాజుగా పుట్టినాడుగా జగతికి రక్షణ తెచ్చినాడుగా ఆకాశవీధుల దూతల పాటలతో అందరము కలిసి ఆడి పాడి ఆరాధించెదము ఆనందించెదము రారాజు యేసుని మహిమ పరచెదం"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:52.508Z",
+      "last_updated_at": "2026-08-06T17:39:52.508Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 1072 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4585,
+      "song_name": "Bhayamesthunchi Yessaya",
+      "main_stanza": {
+        "telugu": [
+          "కదలలేక ఉన్నాను కన్నీటితో ఉన్నాను కనికరించవా నా యేసయ్య కష్టాల గాయాలు మధిస్తున్నాయ్యా కడతేరే మార్గం చూపవా మేసయ్య కదలలేక ఉన్నాను కన్నీటితో ఉన్నాను కనికరించవా నా యేసయ్య భయమేస్తోంది యేసయ్య బ్రతుకంటే భయమేస్తుంది యేసయ్యా నువ్వు లేనిదే నీ కృప లేనిదే ఒక్క అడుగు కూడా వేయలేనయ్యా శరీరమంతా వ్యాధితో కృంగిపోయాను మనసంతా బాధతో కుమిలిపోయాను వైద్యులకే అంతు చిక్కని రోగమాయనే నా స్థితిని చూసి అందరూ జాలిపడెనే స్వస్థపరచు దేవా నీ హస్తం చాపితవా మరణపడక నుండి నన్ను లేవనెత్తవా భయమేస్తోంది యేసయ్య బ్రతుకంటే భయమేస్తోంది యేసయ్య నువ్వు లేని లేనిదే నీ కృప లేనిదే ఎంత చేసినా ఎవరికీ నచ్చలేదయ్యా ఏమి చేసినా లోపాలు వెతికారు యేసయ్యా నా అనేవారే నన్ను పరాయి చేశారు కారణం లేకుండా నిర్దేశించారు ప్రేమకు రూపం నీవే నా బంధం నీవే నన్ను అర్థం చేసుకునే హృదయం నీవే భయమేస్తుంది యేసయ్య బ్రతుకంటే భయమేస్తుంది యేసయ్య య్యా నువ్వు లేనిదే నీ కృప లేనిదే తుఫానులో నావల నా జీవితం ఎటు పోతుందో తెలియని ఆయోమాయం గద్దించి తుఫాన్ నును ఆపిన దేవా నా సమస్యలను అణచివేయవా నీ వాక్యమే నాకు ధైర్యం నీ సన్నిధే నాకు స్వర్గం నా చేయి పట్టి నడిపించు గట్టు చేర్చుము భయమేస్తోంది యేసయ్య బ్రతుకంటే భయమేస్తోంది ఉంది యేసయ్యా నువ్వు లేనిదే నీ కృప లేనిదే"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:53.706Z",
+      "last_updated_at": "2026-08-06T17:39:53.706Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 1620 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4586,
+      "song_name": "Lokanike Shubavartha",
+      "main_stanza": {
+        "telugu": [
+          "త రక్షకుడు జనియించెను నేడు లోకాన సంబరమ ఆయన రక్షకుడు జనియించెను నేడు లోకాన సంబరమాయెను దేవుడే మానవుడై కన్య గర్భమునందు ఉద్భవించినాడు కారణముడై శుభవార్త శుభవార్త లోకానికి ఒక శుభవార్త ఇది శుభవార్త శుభవార్త యుద్ధానికే ఒక శుభవార్త రక్షకుడు జనియించెను నేడు లోకాన సంబరమాయన ఓ ఆ ఆ అమ్మరా వీటిలో తరవసింది ఆయలో అమ్మరా వీధిలో మారవలసింది ఆయనలో క్రీస్తు జననము ప్రకటించిన లోకానికి ఆ చూపెన జ్ఞానులతో యేసు నాతకు కానుకలు సమర్పించి స్తుతించిరి ఆల యేసునకు బంగారు సమర్పించిరి ఆ క్రీస్తు రాజులకు రక్షకుడు జనియించెను నేడు లోకాన సంబరమాయన రక్షకుడు జనియించెను నేడు లోకాన సంబరమాయెను దేవుడే మానవుడై కన్య గర్భమునందు ఒప్పించినాడు కారణుడై శుభవార్త శుభవార్త లోకానికే ఒక శుభవార్త ఈ శుభవార్త శుభవార్త లోకానికే ఒక శుభవార్త రక్షకుడు జనియించెను నేడు లోకాన సమ్మరమాయన త దూతల గానములోన దూతల గానములోన దివ్యకాంతులే ఆరేనీ అలంకర రించెను యేసు జనానమా సృష్టి అంతయు ఆనందించెను లోక రక్షకుడే జనించెను మానవాళకై స్తుతి నను కురిపించెను ప్రేమ మూర్తియై రక్షకుడు జనియించెను నేడు లోకాన సమ్మరమాయన రక్షకుడు జనియించెను నేడు లోకాన సంబరమాయెను దేవుడే మానవుడై కన్య గర్భమునందు ఉద్భవించినాడు కారణుడై శుభవార్త శుభవార్త యుగాశు శుభవార్త ఇది శుభవార్త శుభవార్త లోకానికే ఒక శుభవార్త రక్షకుడు జనియించెను నేడు లోకాన సమ్మరమాయన ఓ ఆ ఆ దేవుడే నరునిగా శలమా నివసించినా దేవుడే నరునిగా నిశల మధ్య నివసించెను దైవ వాక్యమున్ బోధించెను మానవానికి వారి హృదయమున్ బాగు చేసిన పాపమును తొలగించి రక్షించిన ఓ కరుణా పాత్రుడవై నిత్యజీవ జీవమును చూపించును ఆ సజీవారివై రక్షకుడు జనియించెను నేడు లోకాన సంబరమాయన రక్షకుడు జనియించెను నేడు లోకాన సమ్మరమాయన దేవుడే మానవుడై అన్యవర్గములను ఉద్భవించినాడు కారణుడై శుభవార్త శుభవార్త యుగానికే ఒక శుభవార్త ఇది శుభవార్త శుభవార్త యుగానికే ఒక శుభవార్త రక్షకుడు జనియించెను నేడు లోకాన సంబమరమాయెను"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:54.420Z",
+      "last_updated_at": "2026-08-06T17:39:54.420Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 942 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4587,
+      "song_name": "Neelanti Prema Evvaru Chupaleru",
+      "main_stanza": {
+        "telugu": [
+          "నీలాంటి ప్రేమ ఎవరూ చూపలేరు నీలాంటి త్యాగం ఎవరూ చేయలేరు నీలాంటి శ్రమలు ఎవరూ పొందలేరు నీలాంటి శ్రమలు ఎవరు పొందలేరు నిన్ను నమ్ముకుంటే చాలు నిన్ను నమ్ముకుంటే చాలు నీలాంటి ప్రేమ ఎవరూ చూపలేరు నీలాంటి త్యాగం ఎవరూ చేయలేరు కళ్ళున్నవారేగా కనబడలేదా నీవు చెవులున్నవారే గా వినబడలేదా నీ స్వరము కళ్ళున్నవారిగా కనబడలేదా నీవు చెవులున్నవారిగా వినబడలేదా నీ స్వరము ఆది యందు ఉన్నావు గాని అయ్యా నిన్నెరుగకుం ంటివి చీకటిలోనే వెలుగై ున్నావు అయినా నిను చేరకుంటిని నీలాంటి ప్రేమ ఎవరూ చూపలేరు నీలాంటి త్యాగం ఎవరూ చేయలేరు ప్రాణం పెట్టావు నీవే నిత్యజీవము విడుదలనిచ్చావు నీవంటివారెవ్వరు ప్రాణ ణం పెత్తావు నీవే నిత్యజీవము విడుదలనిచ్చావు నీవంటి వారెవ్వరు తప్పిపోయిన గొర్రెలన్నిటిని సమకూర్చే మంచి కాపరి దివిని విడచి భూమికే చేతించిన దివ్యమైన ప్రేమ ఇది నీలాంటి ప్రేమ ఎవరూ చూపలేరు నీలాంటి త్యాగం ఎవరూ చేయలేరు నీలాంటి శ్రమలు ఎవరూ పొందలేరు నీలాంటి శ్రమను ఎవరు పొందలేరు నిన్ను నమ్ముకుంటే చాలు నా జీవితాన నిన్ను నమ్ముకుంటే చాలు నీలాంటి ప్రేమ ఎవరూ చూపలేరు నీలాంటి త్యాగం ఎవరూ చేయలేరు"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:55.217Z",
+      "last_updated_at": "2026-08-06T17:39:55.217Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 2052 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4588,
+      "song_name": "Aaradhananku Arhuda",
+      "main_stanza": {
+        "telugu": [
+          "ఆదియందు వాక్యము ఉండెను వాక్యము దేవుని యద్ద ఉండెను వాక్యమే దేవుడై ుండెను ఆ వాక్యమే శరీరధారియై ఈ లోకంలో జన్మించెను ఆ వాక్యమే శరీర శరీర దారిలే ఈ లోకంలో జన్మించెను ఆదియందు వాక్యము ఉండెను వాక్యము దేవుని యద్ద ఉండెను వాక్యమే దేవుడై యుండెను ఆ వాక్యమే శరీరధారియై ఈ లోకంలో జన్మించెను ఆ వాక్యమే శరీరధారియై ఈ లోకంలో జన్మించెను ఆయనే యేసుక్రీస్తు యేసు ఈ లోక రక్షకుడు అల్ఫా ఒమేగా నిత్యుడైన దేవుడు ఆయనే యేసుక్రీస్తు ఈ లోక రక్షకుడు అల్ఫా ఒమేగా నిత్యుడైన దేవుడు ఆదియందు వాక్యము ఉండెను వాక్యము దేవుని యొద్ద ఉండెను వాక్యమే దేవుడై ుండెను ఆ వాక్యమే శరీరధారియై ఈ లోకంలో జన్మించెను ఆ వాక్యమే శరీరధారియై ఈ లోకంలో జన్మించెను లోకమంతా అంధకారములో జీవించుచుండగా యేసుక్రీస్తు వెలుగుగా వచ్చి మార్గము చూపించెను లోకమంతా అంధకారములోచ జీవించుచుండగా యేసుక్రీస్తు వెలుగుగా వచ్చి మార్గము చూపించెను యేసే వెలుగు యేసే మార్గం యేసే వెలుగు యేసే మార్గం ఆది యందు వాక్యము ఉండెను వాక్యము దేవుని యద్ద ఉండెను వాక్యమే దేవుడై ుండెను ఆ వాక్యమే శరీరధారియై ఈ లోకంలో జన్మి మించెను ఆ భాగ్యమే శరీరదారియై ఈ లోకంలో జన్మించెను పాప శాప బంధకాలలో మానవుడు ఉండగా యేసుక్రీస్తు రక్తము చిందించి విడుదల దయచేసెను పాప శాప బంధకాలలో మానవుడు ఉండగా యేసుక్రీస్తు రక్తము చిందించి విడుదల దయచేసెను యేసే సత్యం సర్వ సత్యం యేసే సత్యం సర్వ సత్యం ఆదియందు వాక్యమ ఉండెను వాక్యము దేవుని యద్ద ఉండెను వాక్యమే దేవుడై ుండెను ఆవా ఆ వాక్యమే శరీర దారియై ఈ లోకంలో జన్మించెను ఆ వాక్యమే శరీర దారియై ఈ లోకంలో జన్మించెను పరుమును విడిచి పువికేతించి మనిషిగా జీవించి మనకు జీవము నిచ్చుటకు తన ప్రాణములు అర్పించెను పరమును విడిచి భువికేతించి మనిషిగా జీవించి మనము జీవము నిచ్చుటకు తన ప్రాణమును అర్పించెను యేసే జీవం నిత్యజీవం యేసే జీవం నిత్యజీవం ఆయందు వాక్యమ ఉండెను వాక్యము దేవుని యద్ద ఉండెను వాక్యమే దేవుడై ుండెను ఆ వాక్యమే శరీర ధారియే ఈ లోకంలో జన్మించెను ఆ వాక్యమే శరీర దారియే ఈ లోకంలో జన్మించెను యేసే దేవుడు లోకంలో జన్మించి ప్రతిశోధనను జయించెన్ మరణాన్ని ఓడించి సజీవుడై లేచి పరములకు ఏర్పంచెన్ తిరిగి రానైయున్న దేవా నీకే స్తోత్రం రాజుల లరాజా నీకే స్తోత్రం ప్రభువుల ప్రభువా నీకే స్తోత్రం సర్వాధికారి సర్వోన్నతుడు సర్వాధికారి సర్వోన్నతుడు సత్య స్వరూపి స్తుతులకు పాత్రుడు ఆరాధనకు అర్హుడు ఆరాధనకు అర్హుడు ఆరాధనకు అర్హుడు ఆరాధనకు ఆరాధన ఆరాధనతో ఆరాధన ఆరాధన ఆరాధన ఆరాధనా"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "Sis. Priscilla Robert"
+        ],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:56.294Z",
+      "last_updated_at": "2026-08-06T17:39:56.294Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 1093 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4589,
+      "song_name": "Dhevude Yesu Dhevude Nazareyudaina Yesu",
+      "main_stanza": {
+        "telugu": [
+          "దేవుడే యేసు దేవుడే నజరేయుడైన యేసునా నా దేవుడే దేవుడే యేసు దేవుడే నజరేయుడైన యేసు నా దేవుడే దేవుడే నాకు ఆనందం నే వెతికే సంతోషం నా కార్ల వేడి కార్లై కంచులేసి పాడెదను దేవుడే నాకు ఆనందం నే వెతికే సంతోషం నా కాళ్ళు లేడికయై కంతులేసి పాడెదను దేవుడే యేసు దేవుడే నజరేయుడైన యేసు నా దేవుడే దేవుడే యేసు దేవుడే నజరేయుడైన యేసు నా దేవుడే ద్రాక్ష చెట్టు ఫలించకున్నా అంజూరం పూయకున్నా ఒలీవకాపు కాయకున్నా పైరు పందుకు రాకున్నా గొర్రెలు గొద్దిల లేకున్నా సాల పశువులు లేకున్నా దేవుడే నాకు ఆనందం నే వెతికే సంతోషం దేవుడే యేసు దేవుడే నజరేయుడైన యేసు నా దేవుడే దేవుడే యేసు దేవుడే నజరేయుడైన యేసు నా దేవుడే సంపదలెన్ని పెరిగినా సంతానం వృద్ధి ుద్ధి అయిన సామ్రాజ్యాలే పొందిన సమృద్ధి విస్తరించిన రథములు రౌతులు నాకున్నా విస్తార సేవకులున్న ప్రియుడే నాకు ఆనందం నే వెతికే సంతోషం నా ప్రియుడే యేసు నా ప్రియుడే నజరేయుడైన యేసు నా ప్రియుడే నా ప్రియుడే యేసు నా ప్రియుడే నజరేయుడైన యేసు నా ప్రియుడే ప్రియుడే నాకు ఆనందం నే వెతిదికే సంతోషం నా కార్లు లేని కలై గంతులేసి పాడెదను ప్రియుడే నాకు ఆనందం నే వెతికే సంతోషం నా కాళ్ళు లేని కళ్ళై గంతులే లేచి పాడెదను దేవుడే యేసు దేవుడే నజరేయుడైన యేసు నా దేవుడే దేవుడే యేసు దేవుడే నజరేయుడైన యేసు నా దేవుడే ఈ"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:58.063Z",
+      "last_updated_at": "2026-08-06T17:39:58.063Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 2036 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4590,
+      "song_name": "Yesu Kristhu Prabhuvu Andhariki Prabhuvu",
+      "main_stanza": {
+        "telugu": [
+          "అపోస్తులుల కార్యములు వ అధ్యాయము వ వచనం ప్రకారం యేసుక్రీస్తు అందరికీ ప్రభువు యేసుక్రీస్తు ప్రభువు అందరికీ ప్రభువు యేసుక్రీస్తు ప్రభువు అందరికీ ప్రభువు అందరికీ ప్రభువు యేసుక్రీస్తు ప్రభువు మన అందరికీ ప్రభువు యేసుక్రీస్తు ప్రభువు కృపాస సత్య సంపూర్ణుడు దవల వర్ణుడు శాంతి నొసగువాడు సమాధానాన్నిచ్చువాడు రాజులకు రాజు ప్రభువులకు ప్రభువు దేవాది దేవుడు యేసుక్రీస్తు ప్రభువు కృపా సత్య సంపూర్ణుడు దవలవర్ణుడు శాంతి నసగువా వాడు సమాధానాన్నిచ్చువాడు రాజులకు రాజు ప్రభువులకు ప్రభువు దేవాది దేవుడు యేసుక్రీస్తు ప్రభువు యేసుక్రీస్తు ప్రభువు అందరికీ ప్రభువు యేసుక్రీస్తు ప్రభువు అందరికీ ప్రభువు అందరికీ ప్రభువు యేసుక్రీస్తు ప్రభువు మన అందరికీ ప్రభువు యేసుక్రీస్తు ప్రభువు వాగ్దానమిచ్చువాడు నెరవేర్చువాడు మాటతప పనివాడు నమ్మదగినవాడు జ్ఞానమిచ్చువాడు సమృద్ధినిచ్చువాడు ఒకే ఒక్క దేవుడు యేసుక్రీస్తు ప్రభువు వాగ్దానమిచ్చువాడు నెరవేర్చువాడు మాట తప్పనివాడు నమ్మదగినవాడు జ్ఞానమిచ్చువాడు సమృద్ధినిచ్చువాడు ఒకే ఒక్క దేవుడు యేసుక్రీస్తు ప్రభువు యేసుక్రీస్తు ప్రభువు అందరికీ ప్రభువు యేసుక్రీస్తు ప్రభువు అందరికీ ప్రభువు అందరికీ ప్రభువు యేసుక్రీస్తు ప్రభువు మన అందరికీ ప్రభువు యేసుక్రీస్తు ప్రభువు ఇరుగులో విశాలతను కలుగజేయువాడు దుఃఖమునకు ప్రతిగా సంతోషమిచ్చువాడు బలహీనత తీసివేసి బలాన్నిచ్చువాడు కృప గల దేవుడు యేసుక్రీస్తు ప్రభువు ఇరుకులో విశాలతను కలుగజేయువాడు దుఃఖమునకు ప్రతిగా సంతోషమ బలమిచ్చువాడు బలహీనత తీసివేసి బలాన్నిచ్చువాడు కృపగల దేవుడు యేసుక్రీస్తు ప్రభువు యేసుక్రీస్తు ప్రభువు అందరికీ ప్రభువు యేసుక్రీస్తు ప్రభువు అందరికీ ప్రభువు అందరికీ ప్రభువు యేసుక్రీస్తు ప్రభువు మన అందరికీ ప్రభువు యేసుక్రీస్తు ప్రభువు ఓ అద్భుతములు చేయువాడు ఆచర్యములు చూపువాడు అక్కరలు ఎరుగువాడు అన్నియు తీర్చువాడు ఏకారుడుడై త్వరలో రానున్నవాడు మనల్ని కొనిపోవువాడు యేసుక్రీస్తు ప్రభువు అద్భుతములు చేయువాడు ఆచర్యములు చూపువాడు అక్కరలు ఎరుగువాడు అన్నియు తీర్చువాడు మీకారుడు త్వరలో లో రానున్నవాడు మనల్ని కొనిపోవువాడు యేసుక్రీస్తు ప్రభువు యేసుక్రీస్తు ప్రభువు అందరికీ ప్రభువు యేసుక్రీస్తు ప్రభువు అందరికీ ప్రభువు అందరికీ ప్రభువు యేసుక్రీస్తు ప్రభువు మన అందరికీ ప్రభువు యేసుక్రీస్తు ప్రభువు ఈ లోకానికి ప్రభువు యేసుక్రీస్తు క్రీస్తు ప్రభువు ఈ లోకానికి ప్రభువు యేసుక్రీస్తు ప్రభువు జై బోలో ఇస్మసిీకి జై"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:58.698Z",
+      "last_updated_at": "2026-08-06T17:39:58.698Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 1799 chars, 8 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4591,
+      "song_name": "NAA VIJAYA SAARADHI NEEVE",
+      "main_stanza": {
+        "telugu": [
+          "తగిత హ యేసయ్య నా విజయ సారధి నీవేగా నడిపించుము నను అనునిత్యము నా విజయ సారధి నీవేగా నడిపించుము నను అనునిత్యము యడారులన్నీ ఏదేనులాయని ఎడారులన్నీ ఏదేనులాయని నాతో నీవుండగా ఆ నీతో నేనుండగా నాతో నీవుండగా నీతో నేనుండగా జయసి సీయుడా జయమే మోపించితివి ప్రతివత్సరం కనువిందు చేసితివి జయశీలుడా జయమే విమోగించితివి ప్రతి వత్సరం మంది చేసితివి నా విజయ సారధి నీవేగా నడిపించుము నను అనునిత వనుకుచుండగా నా పాదముల్ ఎదుట నున్న విపత్తు చూసి వణకుచుండగా నా పాదము ఎదుట నున్న విపత్తు చూసి శరణు వేరగా విధాత నిన్నే నీ శౌర్యమునకు సాక్షిగా చేసి శరను వేడగా విధాత నిన్నే నీ శౌర్యమునకు సాక్షిగా చేసి విజయ బుందుగి వినిపి చావు విజయందు వినిపించావు జయశీలుడా జయమే మోగించితివి ప్రతిమత్సరం నను విందు చేసితివి జయశీలుడా జయమేరి మోగించితివి ప్రతి మత్సరం కన్ను చేసితివి నా విజయసా రారది నీవేగా నడిపించుము నన్ను అనునిత్యము ప్రతికూల స్థితులందు మము ధైర్యపరచి నా కుడి రక్కన నీడవై నిలిచి ప్రతికూల స్థితులందు మము ధైర్యపరచి నా కుడి ప్రక్కన నీడవై నిలిచి బాధనొందిన దేశమందు వేదనలన్నీ వేడుకగా చేసి బాధనొందిన దేశమందు ందు వేదనలన్నీ వేడుకగా చేసి విజయ ధ్వజముగా స్థాపించవు విజయ ధ్వజముగా స్థాపించవు జయశీనుడా జయమే మోగించితివి ప్రతివత్సరం కనువిందు చేసితివి జయశీలుడా జయ మేము చూపించితివి ప్రతి వత్సరం కరుణింప చేసితివి నా విజయ సారధి నీవేగా నడిపించుము నను అనునిత్యము ఆయే ఆయన నీ ఉరుగప్పిన నా దోషముల్ నిలువరించిన నీ కృప చూసి నీ ఉరుగప్పిన నా దోషముల్ నిలువరించిన నీ కృప చూసి నీవెరపోయిన ప్రతి వాది ఎదుట నీ పవిత్రతకు ప్రతీకగా చేసి నీవెరపోయిన ప్రతివాది ఎదుట నీ పవిత్రతకు ప్రతీకగా చేసి విజయమకు నాకిచ్చావు నీ జయ మాకు నాకిచ్చావు జయశీయుడా జయమే మోగించితివి ప్రతి వచనం అను చేసితివి జయశీల జయమే మోగించితివి ప్రతివరం నన్ను చేసితివి నా విజయసార రతి నీవేగా నడిపించుము నను అనునిత్యము నా విజయ సారధి నీవేగా నడిపించుము నను అనునిత్యము ఎడారులన్నీ ఏదేనులాయనే ఎడారులన్నీ ఏదేనులాయనే నాతో నీవుండగా ఆ నీతో నేనుండగా నాతో నీవుండగా నీతో నేనుండగా జయశీలుడా జయమే మోపించితివి అతివచనం కనువిందు చేసితివి చేసితివి"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:39:59.396Z",
+      "last_updated_at": "2026-08-06T17:39:59.396Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 1307 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4592,
+      "song_name": "Vachindhi Kotha Samvacharam",
+      "main_stanza": {
+        "telugu": [
+          "వచ్చింది కొత్త సంవత్సరం కృపలతో నిందిన కాలము యెహో యెహోవా చేసిన దినము అద్భుతముల సాక్ష్యము వెనుకటివి మరచి ముందుకు సాగుదాం యేసుతో కలిసి విజయ గీతము పాడుదాం వచ్చింది కొత్త సంవత్సరం ఆశలతో నిండిన కాలము విశ్వాసమే మాయుధము యేస సేధారము గతకాలమంతా నన్ను నడిపించావు కన్నీటి లోయలో నీవే తోడైనావు పడిన ప్రతి చోట నన్ను లేపినావు నీ కృపతోనే నన్ను నిలిపినావు నా అడుగులు జారనివ్వలేదు నా శత్రువులను గెలవనివ్వలేదు ఈ నూతన సంవత్సరమంతటాని చేయి నాపై విడువకు వచ్చింది కొత్త సంవత్సరం కృపలతో నిండిన కాలము యెహోవా చేసిన దినము అద్భుతము ముల సాక్ష్యము వెనుకటిని మరచి ముందుకు సాగుదాం యేసుతో కలిసి విజయ గీతము పాడుదాం వ్యాధులు సమీపించిన భయపడను లేమి వచ్చినా కృంగిపోను యెహోవా రాఫా నా స్వస్థత యెహోవా ఈరే నా సమృద్ధి తలుపులు మూసిన మనుషు షులు ద్వారాలు తెరిచే దేవుడివి నీవు ఈ సంవత్సరమంతటా నా జీవితంలో అద్భుతములు జరుగునని నమ్మెదను అసాధ్యము సాధ్యము చేయు దేవుడివి చీకటిలో వెలుగు వెలిగించే వాడివి ఎడారిలో మార్గము చూపించేవాడివి ఈ సంవత్సరము నా అద్భుత సంవత్సరము నీ వాక్యమే నా దీపము ప్రభువా నీ ఆత్మే నాకు మార్గదర్శకుడు ప్రతిదినము నీ సన్నిధిలో విజయ జీవితం నడిపించుము నా కుటుంబం నీ చేతిలో నా సేవ నీ మహిమకై ఈ నూతన సంవత్సరమంతా యేసు నామమే ఘనత పొందును వచ్చింది కొత్త సంవత్సరం కృపలతో నిండిన కాలము యెహోవా చేసిన దినము అద్భుతముల సాక్ష్యము నా నోటి స్తుతి ఆగదు ఎప్పుడు నా జీవితం నీ మహిమకే యేసు వచ్చింది కొత్త సంబ సంవత్సరం యేసుతో నడిచే కాలము విజయం మా వారసత్వము యేసే మారాజ్యము"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:40:00.103Z",
+      "last_updated_at": "2026-08-06T17:40:00.103Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 1637 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4593,
+      "song_name": "AADHARANAKARTHA",
+      "main_stanza": {
+        "telugu": [
+          "నీ కన్నులు నన్ను చూచినవి యేసయ్య నీ కౌగిలిలో దాచావు మేసయ్యా నీ కన్నులు నన్ను చూచినవి యేసయ్య నీ కౌగిలిలో దాచావు మెసయ్యా నీకే ఆరాధన నీకే స్తుతి మాలిక నీకే ఆరాధన నీకే స్తుతి మాలిక ఆశయ్యా చిన్న ఆశయ్యా యేసయ్య నిన్ను చూడాలని ఆసయ్య చిన్న ఆశయ్యా యేసయ్య నిన్ను చేరాలని నీ కన్నులు నన్ను చూచినవి యేసయ్యా నీ కౌగిలిన దాచావు మేసయ్యా హల్లెలూయ నా కన్నీళ్లను పుట్టెల దాచావు నా కన్న కన్న తండ్రిగా నన్ను ఎత్తుకున్నావు నా కన్నీళ్లను బుడ్డిలో దాచావు నా కన్న తండ్రిగా నన్ను ఎత్తుకున్నావు నా కాప కాపారేవై కాపాడుతుంటివై కంటికి అప్పల కాచుకుంటివే నా కాపారవై కాపాడుతుంటివే కంటికి రెప్పల కాచుకుంటివే ఆశయ్యా చిన్న ఆశయ్యా యేసయ్య నిన్ను చూడాలని నే ఆశయ్యా చిన్న ఆశయ్యా యేసయ్య నిన్ను చేరాలని నీ కన్నులు నన్ను చూసిన యేసయ్య నీ కౌగిలిలో దాచావు మెసయ్య హల్లెలూయ విరిగిన మనసు నీకు ఇష్టముగా నలిగిన హృదయము లక్ష్యము చేయువాడా విరిగిన మనసు నీకు ఇష్టముగా నలిగిన హృదయము లక్ష్యము చేయువాడా నా హృదయముతో ఆరాధింతును నిన్నే ఘనపరతును నా హృదయముతో ఆరాధింతును నిన్నే ఘనపరతును ఆశయ్య చిన్న ఆశయ్యా యేసయ్య నిన్ను చూడాలనే ఆశయ్యా చిన్న ఆశయ్యా యేసయ్య నిన్ను చేరాలని నీ కన్నులు నన్ను చూచినవి యేసయ్యా నీ కౌగిలిలో దాచావు మెసయ్యా అభిషేక తైలముతో నన్ను నింపుమయ్యా నీ ఆత్మతో నన్ను బలపరచుము యేసయ్యా అభిషేక తైలముతో నన్ను నింపుమయ్యా నీ ఆత్మతో నన్ను బలపరచుము యేసయ్య నిన్నే నేను స్తుతియించెదను నాకున్న ఆధారము నీవేగా నిన్నే నేను స్తుతియించెదను నాకున్న ఆధారము నీవేగా ఆశయ్యా చిన్న ఆశయ్యా యేసయ్య నిన్ను చూడాలని ఆశయ్యా చిన్న ఆశయ్యా యేసయ్య నిన్ను చేరాలని నీ కన్నులు నన్ను చూచినవి యేసయ్యా నీ కౌగిలిలో దాచావు మెసయ్య నీ కన్నులు నన్ను చూచి చూచినది యేసయ్య నీ కౌగిలిలో దాచావు మేసయ్యా నీకే ఆరాధన నీకే స్తుతి మాలిక నీకే ఆరాధన నీకే స్తుతి మాలిక ఆశయ్యా చిన్న ఆశయ్యా యేసయ్య నిన్ను చూడాలని ఆశయ్యా చిన్న ఆశయ్యా యేసయ్య నిన్ను చేరాలని"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:40:00.805Z",
+      "last_updated_at": "2026-08-06T17:40:00.805Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 1646 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4594,
+      "song_name": "Nee Krupa Lenidhe Ne Brathukagalana",
+      "main_stanza": {
+        "telugu": [
+          "ఓ నీ కృప లేనిదే నే బ్రతుకగలనా నీ దయ లేనిదే నే నిలువగలనా నీ కృప లేనిదే దే నే బ్రతుకగలనా నీ దయ లేనిదే నే నిలువగలనా నాపైన నీకెంత ప్రేమయా నీకై జీవింతును యేసయ్యా నాపైన నీకెంత ప్రేమయా నీకై జీవింతును యేసయ్య నీకై జీవింతును యేసయ్య నీ కృప లేనిదే నీ బ్రతుకగలనా నీ దయ లేనిది నే నిలువగలనా నాపైన నీకున్న తలంపులు బహు విస్తారములై ఉన్నవి నాకై నీవు చేసే కార్యములు ఆశ్చర్యకరములై ఉన్నవి నాపైన నీకున్న తలంపులు బహు విస్తారములై ఉన్నవి వే నాకై నీవు చేసే కార్యములు ఆశ్చర్యకరములై ఉన్నవి వర్ణించగలనా నీ ప్రేమను వివరించగలనా నీ కృపను వర్ణించగలనా నీ ప్రేమను వివరించగలనా నీ కృపలో నీకై జీవింతును యేసయ్యా నీకై జీవింతును యేసయ్యా నీ కృప లేనిదే నే బ్రతుకగలనా నీ దయలే లేనిదే నే నిలువగలనా నీ కృప లేనిదే నే బ్రతుకగలనా నీ దయ లేనిది నే నిలువగలనా నాపై నీవిచ్చే దీవెనలు శాశ్వతానందమై ున్నవి నాకై నీవు దాచే మేలులు ఊహలకంద నీవై ున్నవి నాపై నీవిచ్చే దీవెనలు శాశ్వతానందమై ున్నవి నాకై నీవు దాచే మేలులు ఊహలకందనివై ున్నవి వర్ణించగలనా నీ ప్రేమను వివరించగలనా నీ కృపను వర్ణించగలనా నీ ప్రేమను వివరించగల ననా నీ కృపలో నీకై జీవింతును యేసయ్యా నీకై జీవింతును యేసయ్యా నీ కృప లేనిదే నే బ్రతుకగలనా నీ దయ లేనిదే నేని నిలవగలనా నీ కృప లేనిదే నే బ్రతుకగలనా నీ దయ లేనిది నే నిలువగలనా నాకై నీవే ఇచ్చిన ఈ రక్షణ నా నిరీక్షణ ఆధారమే నాకై నీవిచ్చే ఆరాధ్యము నిత్యజీవపు సౌభాగ్యమే నాకై నీవిచ్చిన నీ రక్షణ నా నిరీక్షణ ఆధారమే నాకై నీవిచ్చి ఆరాధ్యుము నిత్యజీవపు సౌభాగ్యమే వర్ణించగలనా నీ ప్రేమను వివరించగలనా నీ కృపను ను వర్ణించగలనా నీ ప్రేమను వివరించగలనా నీ కృపను నీకై జీవింతును యేసయ్యా నీకై జీవింతును యేసయ్యా నీ కృప లేనిదే నే బ్రతుకగలనా నీ దయ లేనిదే నే నిలువగలనా నీ కృప లేనిదే నే బ్రతుకగలనా నీ దయ లేనిదే నే నిలువగలనా నాపైన నీకెంత ప్రేమయా నీకై జీవింతును యేసయ్యా నాపైన నీకెంత ప్రేమయా నీకై జీవింతును యేసయ్యా నీకై జీవింతును యేసయ్యా"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "Naresh Rapaka"
+        ],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:40:02.787Z",
+      "last_updated_at": "2026-08-06T17:40:02.787Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 1096 chars, 0 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4596,
+      "song_name": "I Naresh Rapaka",
+      "main_stanza": {
+        "telugu": [
+          "నీ మాటే నాకు ప్రాణం నీ బాటే నాకు క్షేమం నీ మాటే నాకు ప్రాణం నీ బాటే నాకు క్షేమం వినిపిం చుమయ్యా నీ స్వరము నాలో నడిపించుమయ్యా నీ చిత్తములో వినిపించుమయ్యా నీ స్వరము నాలో నడిపించుమయ్యా నీ చిత్తములో నా మంచి యేసయ్యా నీవుంటే చాలయ్యా నా మంచి యేసయ్యా నీవుంటే చాలయ్యా య్యా ఆశలు లేని నా జీవితాన ఆశలు నింపెను నీ మధుర స్వరమే ఆశలు లు లేని నా జీవితాన ఆశలు నింపెను నీ మధుర స్వరనే ఆపద సమయాన ఆదుకొని కృంగిన సమయాన కృప చూపి ఆపద సమయాన ఆదుకొని కృంగిన సమయాన కృప చూపి నీ సాక్షిగా నను పిలచినావు నా మంచి యేసయ్యా నీవుంటే చాలయ్యా నా మంచి యేసయ్యా నీవుంటే చాలయ్యా నీ మాటే నాకు ప్రాణం నీ బాటే నాకు క్షేమం నీ మాటే నాకు ప్రాణం నీ బాటే నాకు క్షేమం గమ్యమే లేని నా జీవితాన గమ్యము చూపెను నీ రక్షణ మార్గమే గమ్యమే లేని నా జీవితాన గమ్యము చూపెను నీ రక్షణ మార్గమే పడిన సమయాన లేవదీసి అలసిన సమయాన సేదీచి పడిన సమయాన లేవదీసి అలసిన సమయాన సేదీర్చి నీ మార్గములో నిలిపినావు నా మంచి యేసయ్యా నీవుంటే చాలయ్యా నా మంచి యేసయ్యా నీవుంటే చాలయ్యా నీ మాటే నాకు ప్రాణం నీ బాటే నాకు క్షేమం నీ మాటే నాకు ప్రాణం నీ బాటే నాకు క్షేమం విని వినిపించుమయ్యా నీ స్వరము నాలో నడిపించుమయ్యా నీ చిత్తములో నా మంచి యేసయ్యా నీవుంటే చాలయ్యా నా మంచి యేసయ్యా నీవుంటే చాలయ్యా త"
+        ],
+        "english": []
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:40:04.497Z",
+      "last_updated_at": "2026-08-06T17:40:04.497Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    },
+    {
+      "faults": [
+        {
+          "fault": "unsplit",
+          "remove": true,
+          "detail": "one line, 649 chars, 1 markers left in it"
+        }
+      ],
+      "remove": true,
+      "song_id": 4636,
+      "song_name": "Rajadhi Raju Mahimaanvithudu",
+      "main_stanza": {
+        "telugu": [
+          "రాజాధిరాజు - మహిమాన్వితుడై మేఘావాహనుడై వచ్చుచున్నాడు రాజాధిరాజు - మహిమాన్వితుడై మేఘావాహనుడై వచ్చుచున్నాడు రాజాధిరాజు - మహిమాన్వితుడై మేఘావాహనుడై వచ్చుచున్నాడు VERSE 1 ప్రాణ ప్రియుని స్వర్ణాముఖము తేజోమయుని చూడబోదుము రాజాధిరాజు - మహిమాన్వితుడై మేఘావాహనుడై వచ్చుచున్నాడు VERSE 2 నీత్యానందము నీత్యజీవము ప్రభు సముఖములో అనుభవించెదము రాజాధిరాజు - మహిమాన్వితుడై మేఘావాహనుడై వచ్చుచున్నాడు VERSE 3 ఒక్కొకరిగా ప్రభుతోకలసి మహిమనగరులో నివసించెదము రాజాధిరాజు - మహిమాన్వితుడై మేఘావాహనుడై వచ్చుచున్నాడు CHORUS రాజాధిరాజు - మహిమాన్వితుడై మేఘావాహనుడై వచ్చుచున్నాడు రాజాధిరాజు - మహిమాన్వితుడై మేఘావాహనుడై వచ్చుచున్నాడు Inspired by: Malayalam worship song by 7 Trumpets"
+        ],
+        "english": [
+          "Rajaadhi Raaju – Mahimanvithudai Meghavaahanudai Vachuchunnadu Rajaadhi Raaju – Mahimanvithudai Meghavaahanudai Vachuchunnadu Rajaadhi Raaju – Mahimanvithudai Meghavaahanudai Vachuchunnadu VERSE 1 Praana Priyuni Svarnaamukhamu Tejomayuni Choodabodumu Rajaadhi Raaju – Mahimanvithudai Meghavaahanudai Vachuchunnadu VERSE 2 Nithyaanandamu Nithyajivamu Prabhu Samukhamulo Anubhavinchedamu Rajaadhi Raaju – Mahimanvithudai Meghavaahanudai Vachuchunnadu VERSE 3 Okkokarigaa Prabhuto Kalasi Mahimanagarulo Nivasinchedamu Rajaadhi Raaju – Mahimanvithudai Meghavaahanudai Vachuchunnadu CHORUS Rajaadhi Raaju – Mahimanvithudai Meghavaahanudai Vachuchunnadu Rajaadhi Raaju – Mahimanvithudai Meghavaahanudai Vachuchunnadu Inspired by: Malayalam worship song by 7 Trumpets"
+        ]
+      },
+      "stanzas": [],
+      "author": {
+        "Authored by": [
+          "Pr. P. P. Mathew",
+          "Paippad"
+        ],
+        "రచన": []
+      },
+      "source": "wtc",
+      "created_at": "2026-08-06T17:40:48.264Z",
+      "last_updated_at": "2026-08-06T17:40:48.264Z",
+      "created_by": "System",
+      "last_updated_by": ""
+    }
+  ]
+}

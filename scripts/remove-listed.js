@@ -1,31 +1,41 @@
 /**
  * Delete the songs a review list names, from the live library.
  *
- * Reads reviewNeeded/untransliterated.json — the full rows, saved before
- * anything was removed — and deletes those ids. The list is what makes this
- * safe: every row in it carries the whole song, so any of them can be posted
- * back exactly as it was.
+ * Reads a list under reviewNeeded/ — the full rows, saved before anything was
+ * removed — and deletes those ids. The list is what makes this safe: every row
+ * in it carries the whole song, so any of them can be posted back exactly as it
+ * was.
+ *
+ * A list may mark only SOME of its rows for removal: audit-needed.json holds
+ * songs that stay in the library and are merely worth a look, alongside the
+ * ones that come out. Rows carrying `remove: false` are left alone.
  *
  * Refuses to run against a list it cannot read, and stops on the first refusal
  * from the library rather than carrying on through a hundred of them.
  *
- *   node scripts/remove-listed.js           show what would go
- *   node scripts/remove-listed.js --apply   delete them
+ *   node scripts/remove-listed.js                          show what would go
+ *   node scripts/remove-listed.js --apply                  delete them
+ *   node scripts/remove-listed.js audit-needed.json --apply   …from another list
  */
 const fs = require("fs");
 const path = require("path");
 
 const BASE = process.env.RELAY_BASE || "https://grey-gratis-ice.onrender.com";
-const LIST = path.join(__dirname, "..", "reviewNeeded", "untransliterated.json");
+const named = process.argv.slice(2).find((a) => !a.startsWith("--"));
+const LIST = path.join(__dirname, "..", "reviewNeeded", named || "untransliterated.json");
 const APPLY = process.argv.includes("--apply");
 
 (async () => {
   const list = JSON.parse(fs.readFileSync(LIST, "utf8"));
-  const songs = list.songs || [];
-  if (!songs.length) throw new Error("the list is empty — nothing to do");
+  // `remove` absent means the whole list is a removal list — that is how
+  // untransliterated.json was written, before lists carried both kinds.
+  const songs = (list.songs || []).filter((s) => s.remove !== false);
+  if (!songs.length) throw new Error("the list marks nothing for removal — nothing to do");
+  const kept = (list.songs || []).length - songs.length;
 
   const before = (await fetch(`${BASE}/songs/count`).then((r) => r.json())).total;
-  console.log(`library holds ${before} songs; the list names ${songs.length}`);
+  console.log(`library holds ${before} songs; ${path.basename(LIST)} marks ${songs.length} for removal` +
+    (kept ? ` (${kept} more are listed but stay)` : ""));
   console.log(`saved in full at reviewNeeded/${path.basename(LIST)} — restorable\n`);
 
   if (!APPLY) {
