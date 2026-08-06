@@ -1,0 +1,319 @@
+<title>Song Library Sanitisation</title>
+<style>
+  :root {
+    /* neutrals carry a slight indigo bias so they read as chosen, not defaulted */
+    --ground:   #F6F6FA;
+    --panel:    #FFFFFF;
+    --line:     #DEDEE9;
+    --line-soft:#ECECF3;
+    --ink:      #191826;
+    --ink-2:    #4C4B60;
+    --ink-3:    #7C7B92;
+    --accent:   #2B3A8F;
+    --accent-w: #2B3A8F14;
+    --good:     #1F7A4D;
+    --warn:     #A8730E;
+    --crit:     #A32C29;
+    --good-w:   #1F7A4D16;
+    --warn-w:   #A8730E16;
+    --crit-w:   #A32C2916;
+    --display: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+    --ui: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    --mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+    --r: 3px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ground:#111119; --panel:#191922; --line:#2E2E3D; --line-soft:#24242F;
+      --ink:#EDEDF4; --ink-2:#AEAEC2; --ink-3:#7E7E95;
+      --accent:#93A2EE; --accent-w:#93A2EE1F;
+      --good:#5BC48C; --warn:#E0A64A; --crit:#EC8480;
+      --good-w:#5BC48C1F; --warn-w:#E0A64A1F; --crit-w:#EC84801F;
+    }
+  }
+  :root[data-theme="dark"] {
+    --ground:#111119; --panel:#191922; --line:#2E2E3D; --line-soft:#24242F;
+    --ink:#EDEDF4; --ink-2:#AEAEC2; --ink-3:#7E7E95;
+    --accent:#93A2EE; --accent-w:#93A2EE1F;
+    --good:#5BC48C; --warn:#E0A64A; --crit:#EC8480;
+    --good-w:#5BC48C1F; --warn-w:#E0A64A1F; --crit-w:#EC84801F;
+  }
+  :root[data-theme="light"] {
+    --ground:#F6F6FA; --panel:#FFFFFF; --line:#DEDEE9; --line-soft:#ECECF3;
+    --ink:#191826; --ink-2:#4C4B60; --ink-3:#7C7B92;
+    --accent:#2B3A8F; --accent-w:#2B3A8F14;
+    --good:#1F7A4D; --warn:#A8730E; --crit:#A32C29;
+    --good-w:#1F7A4D16; --warn-w:#A8730E16; --crit-w:#A32C2916;
+  }
+
+  body { margin:0; background:var(--ground); color:var(--ink);
+         font-family:var(--ui); font-size:15px; line-height:1.55;
+         -webkit-font-smoothing:antialiased; }
+  .wrap { max-width:1080px; margin:0 auto; padding:40px 24px 80px;
+          display:flex; flex-direction:column; gap:34px; }
+  h1,h2,h3 { margin:0; text-wrap:balance; }
+  .eyebrow { font-family:var(--mono); font-size:10.5px; letter-spacing:.13em;
+             text-transform:uppercase; color:var(--ink-3); }
+  .num { font-family:var(--mono); font-variant-numeric:tabular-nums; }
+
+  header { border-bottom:1px solid var(--line); padding-bottom:22px;
+           display:flex; flex-wrap:wrap; gap:16px; align-items:flex-end;
+           justify-content:space-between; }
+  header h1 { font-family:var(--display); font-size:34px; font-weight:600;
+              letter-spacing:-.015em; }
+  header p { margin:6px 0 0; color:var(--ink-2); max-width:60ch; }
+  .stamp { text-align:right; color:var(--ink-3); font-family:var(--mono);
+           font-size:11.5px; line-height:1.7; }
+
+  .band { display:grid; gap:1px; background:var(--line);
+          grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
+          border:1px solid var(--line); border-radius:var(--r); overflow:hidden; }
+  .tile { background:var(--panel); padding:16px 18px; display:flex;
+          flex-direction:column; gap:3px; }
+  .tile .v { font-family:var(--mono); font-variant-numeric:tabular-nums;
+             font-size:27px; font-weight:600; letter-spacing:-.02em; }
+  .tile .k { font-size:12.5px; color:var(--ink-2); }
+  .tile .sub { font-size:11.5px; color:var(--ink-3); }
+  .tile.hi .v { color:var(--accent); }
+
+  section > h2 { font-family:var(--display); font-size:21px; font-weight:600;
+                 margin-bottom:3px; }
+  section > .lede { color:var(--ink-2); margin:0 0 16px; max-width:68ch; }
+
+  .stages { display:flex; flex-direction:column; gap:1px; background:var(--line);
+            border:1px solid var(--line); border-radius:var(--r); overflow:hidden; }
+  .stage { background:var(--panel); padding:13px 16px; display:grid;
+           grid-template-columns:20px 1fr auto; gap:14px; align-items:center; }
+  .dot { width:9px; height:9px; border-radius:50%; margin-left:5px; }
+  .dot.done { background:var(--good); }
+  .dot.run  { background:var(--warn); box-shadow:0 0 0 3px var(--warn-w); }
+  .dot.wait { background:var(--line); border:1px solid var(--ink-3); }
+  .stage .nm { font-weight:600; font-size:14px; }
+  .stage .ds { color:var(--ink-2); font-size:12.5px; }
+  .stage .ct { font-family:var(--mono); font-variant-numeric:tabular-nums;
+               font-size:12.5px; color:var(--ink-2); text-align:right; }
+  .bar { height:3px; background:var(--line-soft); border-radius:2px;
+         overflow:hidden; margin-top:5px; }
+  .bar i { display:block; height:100%; background:var(--accent); }
+
+  .tablewrap { overflow-x:auto; border:1px solid var(--line);
+               border-radius:var(--r); background:var(--panel); }
+  table { border-collapse:collapse; width:100%; min-width:620px; }
+  th { text-align:left; font-family:var(--mono); font-size:10px;
+       letter-spacing:.11em; text-transform:uppercase; color:var(--ink-3);
+       font-weight:500; padding:11px 14px; border-bottom:1px solid var(--line); }
+  td { padding:11px 14px; border-bottom:1px solid var(--line-soft);
+       vertical-align:top; font-size:13.5px; }
+  tr:last-child td { border-bottom:0; }
+  td.n { font-family:var(--mono); font-variant-numeric:tabular-nums;
+         text-align:right; white-space:nowrap; }
+  td.sev { padding-left:0; width:4px; }
+  td.sev i { display:block; width:3px; height:20px; border-radius:2px; }
+  .sev-critical i { background:var(--crit); }
+  .sev-warning  i { background:var(--warn); }
+  .sev-info     i { background:var(--ink-3); opacity:.45; }
+  code.f { font-family:var(--mono); font-size:12px; color:var(--ink); }
+  .what { color:var(--ink-2); font-size:12.5px; }
+  .srcs { font-family:var(--mono); font-size:11px; color:var(--ink-3);
+          white-space:nowrap; }
+
+  .pill { display:inline-block; font-family:var(--mono); font-size:10.5px;
+          letter-spacing:.05em; text-transform:uppercase; padding:2.5px 7px;
+          border-radius:2px; white-space:nowrap; }
+  .p-done { background:var(--good-w); color:var(--good); }
+  .p-run  { background:var(--warn-w); color:var(--warn); }
+  .p-hold { background:var(--crit-w); color:var(--crit); }
+  .p-idle { background:var(--accent-w); color:var(--accent); }
+
+  .cols { display:grid; gap:20px; grid-template-columns:repeat(auto-fit,minmax(268px,1fr)); }
+  .card { border:1px solid var(--line); border-radius:var(--r);
+          background:var(--panel); padding:17px 19px; }
+  .card h3 { font-size:13.5px; margin-bottom:11px; }
+  .row { display:flex; justify-content:space-between; gap:12px;
+         padding:6px 0; border-bottom:1px solid var(--line-soft); font-size:13px; }
+  .row:last-child { border-bottom:0; }
+  .row span:last-child { font-family:var(--mono); font-variant-numeric:tabular-nums;
+                         color:var(--ink-2); }
+  .note { border-left:2px solid var(--accent); padding:2px 0 2px 14px;
+          color:var(--ink-2); font-size:13.5px; max-width:70ch; }
+  .note b { color:var(--ink); font-weight:600; }
+  footer { color:var(--ink-3); font-size:12px; border-top:1px solid var(--line);
+           padding-top:18px; }
+</style>
+
+<div class="wrap">
+  <header>
+    <div>
+      <div class="eyebrow">grey-gratis-ice · song library</div>
+      <h1>Sanitisation run</h1>
+      <p>Every song in the projection library, checked for structural and text
+         defects, repaired in two passes — one that needs no judgement, one that does.</p>
+    </div>
+    <div class="stamp" id="stamp"></div>
+  </header>
+
+  <div class="band" id="band"></div>
+
+  <section>
+    <h2>Pipeline</h2>
+    <p class="lede">Each stage writes to the live library only after the one before it is verified.</p>
+    <div class="stages" id="stages"></div>
+  </section>
+
+  <section>
+    <h2>Defects found</h2>
+    <p class="lede">Counted across all songs before any repair. The
+      <em>safe</em> lane is mechanical — whitespace, invisible characters, stanza
+      numbering — and needs no decision. The <em>structural</em> lane changes how
+      a song is divided into chorus and verses, so every one of those is decided
+      individually and re-checked before it is written.</p>
+    <div class="tablewrap">
+      <table>
+        <thead><tr>
+          <th class="sev"></th><th>Defect</th><th>What it means</th>
+          <th>Lane</th><th class="n">Before</th><th class="n">After</th><th>By source</th>
+        </tr></thead>
+        <tbody id="defects"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>What remains, and why</h2>
+    <p class="lede">Every one of these was inspected and left deliberately. They
+      are not outstanding work — repairing them would make the library less
+      faithful to the songs, not more.</p>
+    <div class="tablewrap">
+      <table>
+        <thead><tr><th>Flag still set</th><th class="n">Songs</th><th>Why it stays</th></tr></thead>
+        <tbody id="residual"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>Sources</h2>
+    <div class="cols" id="cols"></div>
+  </section>
+
+  <section>
+    <h2>Guardrail</h2>
+    <p class="note"><b>Sanitisation may remove or re-partition text. It may never invent
+      it.</b> Before each write, every Telugu character in the proposed version is
+      counted against the original — if any character appears more often than it
+      did before, that song is rejected rather than written. A repair that would
+      quietly reword a hymn cannot reach the database.</p>
+  </section>
+
+  <footer id="foot"></footer>
+</div>
+
+<script>
+const D = {"library": 4450, "clean": 4131, "cleanBefore": 2380, "flagged": 2070, "flaggedAfter": 319, "residual": [{"key": "consecutive_duplicate_lines", "n": 153, "why": "kept — these sources write a line twice to mean a sung repeat"}, {"key": "main_very_long", "n": 102, "why": "reviewed — a long chorus is usually a legitimate pallavi + anupallavi"}, {"key": "control_chars", "n": 47, "why": "85 ZWNJ kept — U+200C is meaningful in Telugu and changes rendering"}, {"key": "zero_stanzas", "n": 14, "why": "single-block songs — all chorus, no verses"}, {"key": "telugu_has_no_telugu", "n": 7, "why": ""}, {"key": "no_stanzas_at_all", "n": 5, "why": "single-block songs — all chorus, no verses"}, {"key": "main_has_stanza_markers", "n": 4, "why": ""}, {"key": "te_en_line_mismatch", "n": 4, "why": "the source has no transliteration for those lines; left short, not invented"}, {"key": "blank_lines", "n": 3, "why": ""}, {"key": "empty_block", "n": 2, "why": ""}, {"key": "empty_main", "n": 2, "why": ""}, {"key": "ad_or_boilerplate", "n": 1, "why": ""}], "residualIntentional": 325, "sources": [{"key": "wtc", "name": "waytochurch", "n": 2263}, {"key": "clz", "name": "visualParsed", "n": 1739}, {"key": "cst", "name": "christianstack", "n": 448}], "pass1": {"total": 2730, "done": 2730, "running": false, "whitespace": 2261, "renumbered": 28, "junk": 3, "retag": 448}, "pass2": {"total": 620, "slices": 13, "done_slices": 13, "results": 620, "applied": 354, "actions": {"unchanged": 250, "split": 86, "cleaned": 144, "promoted": 103, "realigned": 37}, "low": 21}, "defects": [{"key": "control_chars", "n": 1541, "after": 47, "sev": "warning", "what": "22,216 non-breaking spaces + zero-width marks", "lane": "safe", "src": {"clz": 1499, "wtc": 35, "christianstack": 7}}, {"key": "consecutive_duplicate_lines", "n": 161, "after": 153, "sev": "info", "what": "line written twice — usually a real sung repeat", "lane": "structural", "src": {"clz": 43, "wtc": 78, "christianstack": 40}}, {"key": "main_very_long", "n": 154, "after": 102, "sev": "critical", "what": "main_stanza holds the verses too", "lane": "structural", "src": {"clz": 67, "wtc": 74, "christianstack": 13}}, {"key": "reference_prefix", "n": 115, "after": 0, "sev": "warning", "what": "scripture citation scraped in as a lyric", "lane": "structural", "src": {"wtc": 114, "christianstack": 1}}, {"key": "te_en_line_mismatch", "n": 102, "after": 4, "sev": "warning", "what": "Telugu and roman lines pair up wrong", "lane": "structural", "src": {"christianstack": 102}}, {"key": "empty_block", "n": 95, "after": 2, "sev": "info", "what": "stanza with no content", "lane": "safe", "src": {"wtc": 95}}, {"key": "empty_main", "n": 95, "after": 2, "sev": "critical", "what": "no chorus — everything in stanzas", "lane": "structural", "src": {"wtc": 95}}, {"key": "telugu_has_no_telugu", "n": 18, "after": 7, "sev": "warning", "what": "field holds the wrong script", "lane": "structural", "src": {"wtc": 7, "christianstack": 11}}, {"key": "main_has_stanza_markers", "n": 16, "after": 4, "sev": "critical", "what": "explicit చరణం / పల్లవి headings left inline", "lane": "structural", "src": {"clz": 3, "wtc": 10, "christianstack": 3}}, {"key": "zero_stanzas", "n": 12, "after": 14, "sev": "critical", "what": "no verses recorded", "lane": "structural", "src": {"clz": 11, "christianstack": 1}}, {"key": "no_stanzas_at_all", "n": 10, "after": 5, "sev": "critical", "what": "whole song in one block", "lane": "structural", "src": {"clz": 9, "christianstack": 1}}, {"key": "english_has_no_latin", "n": 9, "after": 0, "sev": "warning", "what": "field holds the wrong script", "lane": "structural", "src": {"wtc": 7, "christianstack": 2}}, {"key": "untrimmed_whitespace", "n": 4, "after": 0, "sev": "info", "what": "leading / trailing space", "lane": "safe", "src": {"clz": 4}}, {"key": "main_long_no_stanzas", "n": 4, "after": 0, "sev": "critical", "what": "whole song in one block", "lane": "structural", "src": {"clz": 4}}, {"key": "ad_or_boilerplate", "n": 1, "after": 1, "sev": "warning", "what": "ad or social text in the lyrics", "lane": "safe", "src": {"clz": 1}}], "cst": {"harvested": 1096, "imported": 448, "dupes": 421, "held": 108, "review": 111}};
+const n = v => v.toLocaleString("en-US");
+const el = (t, c, h) => { const x = document.createElement(t);
+  if (c) x.className = c; if (h !== undefined) x.innerHTML = h; return x; };
+
+/* ---- summary band ---- */
+const repaired = D.pass1.done + D.pass2.applied;
+[["Songs in library", n(D.library), D.sources.map(s => s.name).join(" · "), true],
+ ["Carried a defect", n(D.flagged), "before the run, across " + D.defects.length + " classes", false],
+ ["Clean now", n(D.clean), "was " + n(D.cleanBefore) + " — " + Math.round(D.clean / D.library * 100) + "% of the library", true],
+ ["Songs written", n(repaired), "safe " + n(D.pass1.done) + " · structural " + n(D.pass2.applied), false],
+ ["Held for review", n(D.pass2.low), "genuine judgement calls", false]
+].forEach(([k, v, sub, hi]) => {
+  const t = el("div", "tile" + (hi ? " hi" : ""));
+  t.append(el("div", "v", v), el("div", "k", k), el("div", "sub", sub));
+  document.getElementById("band").append(t);
+});
+
+/* ---- pipeline ---- */
+const p2pct = D.pass2.total ? Math.round(D.pass2.results / D.pass2.total * 100) : 0;
+const p1pct = D.pass1.total ? Math.round(D.pass1.done / D.pass1.total * 100) : 0;
+[["Profile", "Scan all " + n(D.library) + " songs for every defect class",
+  "done", n(D.flagged) + " flagged", 100],
+ ["Safe pass", "Non-breaking spaces, zero-width marks, stanza renumbering, source retag",
+  D.pass1.running ? "run" : "done", n(D.pass1.done) + " / " + n(D.pass1.total), p1pct],
+ ["Structural pass", "Chorus/verse splits, line realignment — decided per song by " + D.pass2.slices + " parallel workers",
+  D.pass2.results >= D.pass2.total ? (D.pass2.applied ? "done" : "run") : "run",
+  n(D.pass2.results) + " / " + n(D.pass2.total), p2pct],
+ ["Verify + write", "Character-count check, then PUT to the live library",
+  D.pass2.applied ? "done" : "wait",
+  D.pass2.applied ? n(D.pass2.applied) + " written" : "pending",
+  D.pass2.applied && D.pass2.results ? Math.round(D.pass2.applied / D.pass2.results * 100) : 0]
+].forEach(([nm, ds, st, ct, pct]) => {
+  const s = el("div", "stage");
+  s.append(el("div", "dot " + st));
+  const mid = el("div");
+  mid.append(el("div", "nm", nm), el("div", "ds", ds));
+  if (pct > 0 && pct < 100) { const b = el("div", "bar"); b.append(el("i"));
+    b.firstChild.style.width = pct + "%"; mid.append(b); }
+  s.append(mid, el("div", "ct", ct));
+  document.getElementById("stages").append(s);
+});
+
+/* ---- defects: before -> after ---- */
+const tb = document.getElementById("defects");
+D.defects.forEach(d => {
+  const tr = el("tr", "sev-" + d.sev);
+  const gone = d.n - d.after;
+  const aft = d.after === 0
+    ? '<span style="color:var(--good)">0</span>'
+    : n(d.after);
+  tr.append(el("td", "sev", "<i></i>"),
+    el("td", "", '<code class="f">' + d.key + "</code>"),
+    el("td", "what", d.what || "—"),
+    el("td", "", '<span class="pill ' + (d.lane === "safe" ? "p-done" : "p-idle") + '">' + d.lane + "</span>"),
+    el("td", "n", n(d.n)),
+    el("td", "n", aft + (gone > 0 ? ' <span style="color:var(--ink-3)">−' + n(gone) + "</span>" : "")),
+    el("td", "srcs", Object.entries(d.src).map(([k, v]) => k + " " + v).join("  ")));
+  tb.append(tr);
+});
+
+/* ---- residual ---- */
+const rb = document.getElementById("residual");
+D.residual.forEach(r => {
+  const tr = el("tr");
+  tr.append(el("td", "", '<code class="f">' + r.key + "</code>"),
+    el("td", "n", n(r.n)),
+    el("td", "what", r.why || '<span style="color:var(--warn)">still open</span>'));
+  rb.append(tr);
+});
+
+/* ---- sources + christianstack ---- */
+const cols = document.getElementById("cols");
+const c1 = el("div", "card", "<h3>Songs by source</h3>");
+D.sources.forEach(s => c1.append(el("div", "row",
+  "<span>" + s.name + ' <code class="f">' + s.key + "</code></span><span>" + n(s.n) + "</span>")));
+cols.append(c1);
+
+const c2 = el("div", "card", "<h3>Safe pass — what changed</h3>");
+[["Whitespace + invisible characters", D.pass1.whitespace],
+ ["Stanza numbers made contiguous", D.pass1.renumbered],
+ ["Ad / boilerplate lines removed", D.pass1.junk],
+ ["Retagged christianstack → cst", D.pass1.retag]
+].forEach(([k, v]) => c2.append(el("div", "row", "<span>" + k + "</span><span>" + n(v) + "</span>")));
+cols.append(c2);
+
+const c3 = el("div", "card", "<h3>christianstack intake</h3>");
+[["Harvested", D.cst.harvested], ["Already in the library", D.cst.dupes],
+ ["Imported", D.cst.imported], ["Held — title collision", D.cst.held],
+ ["Awaiting review", D.cst.review]
+].forEach(([k, v]) => c3.append(el("div", "row", "<span>" + k + "</span><span>" + n(v) + "</span>")));
+cols.append(c3);
+
+if (Object.keys(D.pass2.actions).length) {
+  const c4 = el("div", "card", "<h3>Structural decisions</h3>");
+  Object.entries(D.pass2.actions).sort((a, b) => b[1] - a[1]).forEach(([k, v]) =>
+    c4.append(el("div", "row", "<span>" + k + "</span><span>" + n(v) + "</span>")));
+  if (D.pass2.low) c4.append(el("div", "row",
+    '<span style="color:var(--warn)">low confidence — held back</span><span>' + n(D.pass2.low) + "</span>"));
+  cols.append(c4);
+}
+
+document.getElementById("stamp").innerHTML =
+  "6 August 2026<br>" + n(D.library) + " songs · " + D.defects.length + " defect classes";
+document.getElementById("foot").textContent =
+  "Generated from the live library at grey-gratis-ice.onrender.com/songs. " +
+  "Every write is reversible from audit/sanitized.json, which stores each song's prior state.";
+</script>

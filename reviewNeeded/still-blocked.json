@@ -1,0 +1,1002 @@
+[
+ {
+  "id": "christianstack/00006-nee-vaakyame-nannu.json",
+  "title": "Nee Vaakyame Nannu",
+  "reason": "duplicate of \"Nee Vaakyame Nannu Brathikinchenu\" (91% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00024-gaadandhakaramulo.json",
+  "title": "Gaadandhakaramulo",
+  "reason": "duplicate of \"Gaadaandhakaaramulo Ne Nadachina\" (76% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00052-adigadigo-alladigo.json",
+  "title": "Adigadigo Alladigo",
+  "reason": "duplicate of \"Adhigadhigo Alladhigo\" (95% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00116-mundhuke-velledhanu.json",
+  "title": "Mundhuke Velledhanu",
+  "reason": "duplicate of \"Munduke velledanu\" (82% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00166-mahonnathuda.json",
+  "title": "Mahonnathuda",
+  "reason": "duplicate of \"Mahonnathudaa Maa Devaa\" (79% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00321-akshayamainadi.json",
+  "title": "Akshayamainadi",
+  "reason": "duplicate of \"Akshaya mainadhi Yesuni rakthamu\" (86% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00435-manne-kadhayya.json",
+  "title": "Manne Kadhayya",
+  "reason": "duplicate of \"Mannegadayyaa Mannegadayyaa\" (94% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00437-paiki-egiredhavu.json",
+  "title": "Paiki Egiredhavu",
+  "reason": "duplicate of \"Devuni aanandam ninu kammunu\" (80% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00498-srikarunda-sri-yesunadha.json",
+  "title": "Srikarunda Sri Yesunadha",
+  "reason": "duplicate of \"Shreekarunda Shreeyesunaadhaa - Shreemanthudav\" (97% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00502-jayinchenu.json",
+  "title": "Jayinchenu",
+  "reason": "duplicate of \"Maranamu jayinchenu\" (87% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00519-soundarya-seeyonulo.json",
+  "title": "Soundarya Seeyonulo",
+  "reason": "duplicate of \"Bahu saundharya Seeyonulo sthuthi simhaasanaas\" (99% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00540-anandam-arbhatame.json",
+  "title": "Anandam Arbhatame",
+  "reason": "duplicate of \"Aanandam aarbhaatame ilalo\" (91% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00611-dhavalavarnuda-ratnavarnuda.json",
+  "title": "Dhavalavarnuda Ratnavarnuda",
+  "reason": "duplicate of \"Davalavarnudaa\" (95% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00627-oddu-cheri-nee-yedhuta.json",
+  "title": "Oddu Cheri Nee Yedhuta",
+  "reason": "duplicate of \"Odducheri nee eduta nilpunapudu\" (97% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00656-sudhooramu.json",
+  "title": "Sudhooramu",
+  "reason": "duplicate of \"Sudhooramu Ee Payanamu\" (95% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00684-toorpu-nundi-padamaraku.json",
+  "title": "Toorpu Nundi Padamaraku",
+  "reason": "duplicate of \"Thoorpu nundi padamaraku entha dhooramo\" (86% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00771-koti-koti-sthothram-daddy.json",
+  "title": "Koti Koti Sthothram Daddy",
+  "reason": "duplicate of \"Sthothrabali Sthothrabali\" (82% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00799-aha-anandame.json",
+  "title": "Aha Anandame",
+  "reason": "duplicate of \"Aahaa Aanandame\" (90% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00866-na-praanam-na-sarvam.json",
+  "title": "Na Praanam Na Sarvam",
+  "reason": "duplicate of \"Naa praanam naa sarvam antharangamuna\" (97% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00940-neeve.json",
+  "title": "Neeve",
+  "reason": "duplicate of \"Neeve Aashrayadurgam\" (85% lyric overlap)"
+ },
+ {
+  "id": "christianstack/00976-naa-hrudhayam.json",
+  "title": "Naa Hrudhayam",
+  "reason": "duplicate of \"Naa hrudayam paadene nee premane\" (80% lyric overlap)"
+ },
+ {
+  "id": "christianstack/01033-adiyu-neeve.json",
+  "title": "Adiyu Neeve",
+  "reason": "duplicate of \"Aadiyu Neeve Anthamu Neeve\" (94% lyric overlap)"
+ },
+ {
+  "id": "christianstack/01043-deva-vembadinchithi.json",
+  "title": "Deva Vembadinchithi",
+  "reason": "duplicate of \"Deva vembadinchithi nee naamamun\" (96% lyric overlap)"
+ },
+ {
+  "id": "christianstack/01058-vesaarina.json",
+  "title": "Vesaarina",
+  "reason": "duplicate of \"Vesaarina Manase\" (97% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/00023-aaha-mahaanandame.json",
+  "title": "Aahaa Mahaanandame",
+  "reason": "duplicate of \"Aahaa mahaanandhame\" (96% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/00126-varninchaleni-thyaagam-oodaarpu-nondhani-vainam.json",
+  "title": "Varninchaleni Thyaagam Oodaarpu Nondhani Vainam",
+  "reason": "duplicate of \"Varninchaleni Tyaagam\" (skeleton match)"
+ },
+ {
+  "id": "waytochurch/00154-prabhuva-neelo-jeevinchuta-ab.json",
+  "title": "Prabhuvaa Neelo Jeevinchuta Krupaa Baahulyame",
+  "reason": "duplicate of \"Prabhuvaa Neelo Jeevinchuta\" (92% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/00174-shudhdhaa-hrudhaayam-kalugajeyumu.json",
+  "title": "Shudhdhaa Hrudhaayam Kalugajeyumu",
+  "reason": "duplicate of \"Shuddha hrudayam kalugajeyumu\" (97% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/00328-dheva-ni-krupa-nirantharam.json",
+  "title": "Dheva Ni Krupa Nirantharam",
+  "reason": "duplicate of \"Deva nee krupa nirantharam\" (94% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/00402-entho-vintha-entho-chintha.json",
+  "title": "Entho Vintha Entho Chintha",
+  "reason": "duplicate of \"Entho vintha entho chintha\" (94% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/00609-emta-mamchi-devudavayya-2-chimta.json",
+  "title": "Emta Mamchi Devudavayya",
+  "reason": "duplicate of \"Entha Manchi Devudavesayyaa\" (86% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/00681-jo-lali-2-bala-yesu.json",
+  "title": "Jo Jo Lali Bala Yesu Lali",
+  "reason": "duplicate of \"Jo jo laali baala Yesu laali\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/00685-kadavari-dinamulalo-ravali-ujjivam-yesuni.json",
+  "title": "Kadavari Dinamulalo Ravali Ujjivam",
+  "reason": "duplicate of \"Kadavari dinamulalo raavaali ujjeevam\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/00894-tejassambamdhulara-kristuni-dharimchukonudi-vija.json",
+  "title": "Tejassambamdhulara Kristuni Dharimchukonudi Vijayuluga Yilalo",
+  "reason": "duplicate of \"Thejassambandhulaaraa Kreesthuni dharinchukonu\" (98% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/00912-yehova-na-mora-lalichenu-dana.json",
+  "title": "Yehova Na Mora Lalichenu",
+  "reason": "duplicate of \"Yehova Naa Moralaalinchenu\" (81% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02370-mukti-dilaye-eeshu-naam.json",
+  "title": "Mukti Dilaye Eeshu Naam",
+  "reason": "duplicate of \"Mukthi dhilaaye Eeshu naam\" (98% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02470-nee-maat-naa-paata.json",
+  "title": "Nee Maata Naa Paatagaa",
+  "reason": "duplicate of \"Nee maata naa paatagaa\" (89% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02474-emtha-praema-yemtha-praema-yem.json",
+  "title": "Entha Praema Yentha Praema",
+  "reason": "duplicate of \"Entha prema entha prema\" (92% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02481-yehoavaa-bhajana-chaeymdi-paap.json",
+  "title": "Yehoavaa Bhajana Chaeyandi",
+  "reason": "duplicate of \"Yehova bhajana cheyandi\" (94% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02497-oa-prabhumdaa-nin-nutheemchuchunnaamu-vinayamuth.json",
+  "title": "Oa Prabhumdaa Nin Nutheemchuchunnaamu Vinayamuthoada",
+  "reason": "duplicate of \"O Prabhundaa nin nutheenchuchunnaamu vinayamut\" (96% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02533-idhigoa-naa-shishyulaaraa-yeru.json",
+  "title": "Idhigoa Naa Shishyulaaraa",
+  "reason": "duplicate of \"Idigo naa shishyulaaraa\" (91% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02546-naadu-vachchinatlu-gaadhu-nae.json",
+  "title": "Naadu Vachchinatlu Gaadhu Naedu Vachchuta",
+  "reason": "duplicate of \"Naadu vachchinatlu gaadhu nedu vachchuta\" (92% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02547-mahimathoa-mana-yaesu-ihamunak.json",
+  "title": "Mahimathoa Mana Yaesu Ihamunaku Vaenchaeyun",
+  "reason": "duplicate of \"Mahimatho mana Yesu ihamunaku vencheyun\" (89% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02549-oahoahoa-maa-yannalaaraa-yudhy.json",
+  "title": "Oahoahoa Maa Yannalaaraa Yudhyoagimpandi",
+  "reason": "duplicate of \"Ohoho maa yannalaaraa yudhyogimpandi\" (91% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02570-dhaevuni-grmdhamu-dhinadhinamu.json",
+  "title": "Dhaevuni Grandhamu Dhinadhinamu",
+  "reason": "duplicate of \"Devuni grandhamu dinadinamu\" (89% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02573-mammuao-praemao-joochi-dhaevua.json",
+  "title": "Mammu Praema Joochi Dhaevudu",
+  "reason": "duplicate of \"Mammu prema joochi Devudu\" (94% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02577-ella-soadharu-laikyatha-vasiyi.json",
+  "title": "Ella Soadharu Laikyatha Vasiyinchuta",
+  "reason": "duplicate of \"Ella sodharu laikyatha vasiyinchuta\" (89% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02589-dhaevaa-shishuvula-dhechchith.json",
+  "title": "Dhaevaa Shishuvula Dhechchithimi",
+  "reason": "duplicate of \"Devaa shishuvula dhechchithimi\" (95% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02608-yaesu-naatha-kathaa-sudhaa-ras.json",
+  "title": "Yaesu Naatha Kathaa Sudhaa Rasa",
+  "reason": "duplicate of \"Yesu naatha kathaa sudhaa rasa\" (94% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02621-song.json",
+  "title": "Janu Landharu Vinandi Dhivya Sangathi",
+  "reason": "duplicate of \"Janu landharu vinandi divya sangathi\" (96% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02623-dharaniloani-dhanamu-lella-dha.json",
+  "title": "Dharaniloani Dhanamu Lella Dharanipaalai Poavunu",
+  "reason": "duplicate of \"Dharaniloni dhanamu lella dharanipaalai povunu\" (90% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02625-paapulaku-sakhumdu-mana-praapu.json",
+  "title": "Paapulaku Sakhundu Mana Praapu",
+  "reason": "duplicate of \"Paapulaku sakhundu mana praapu\" (90% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02626-yaesunae-saevimparmdi-moasapoa.json",
+  "title": "Yaesunae Saevimparandi Moasapoakandi",
+  "reason": "duplicate of \"Yesune sevimparandi mosapokandi\" (92% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02643-dhaeva-dheenapaapini-oa-paava.json",
+  "title": "Dhaeva Dheenapaapini Oa Paavana",
+  "reason": "duplicate of \"Deva dheenapaapini o paavana\" (91% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02646-song.json",
+  "title": "Unnattu Naenu Vachchedhan",
+  "reason": "duplicate of \"Unnattu nenu vachchedhan paapinaina nan pilvag\" (87% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02647-song.json",
+  "title": "Oa Yaesu Rakshakaa Nee Pilpu Vindhunu",
+  "reason": "duplicate of \"O Yesu rakshakaa nee pilpu vindunu\" (100% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02657-yaesuaodu-raaaogan-jaesina-dho.json",
+  "title": "Yaesudu Raagan Jaesina Dhoshamu",
+  "reason": "duplicate of \"Yesudu raagan jesina doshamu\" (87% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02659-song.json",
+  "title": "Silva Chentha Naesuvaa Chaerchi Nannu Nunchu",
+  "reason": "duplicate of \"Silva chentha Nesuvaa cherchi nannu nunchu\" (94% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02660-song.json",
+  "title": "Daagu Naedhi Maapunu Vaega Yaesu Raktha Dhaarae",
+  "reason": "duplicate of \"Daagu nedhi maapunu vega Yesu raktha daare\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02665-song.json",
+  "title": "Yaesu Naavaadani Nammudhun Bhaasillu",
+  "reason": "duplicate of \"Yesu naavaadani nammudhun bhaasillu\" (94% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02666-aanmdha-magu-mukthi-yae-naa-mm.json",
+  "title": "Aanandha Magu Mukthi Yae Naa Mandhiramu",
+  "reason": "duplicate of \"Aananda magu mukthi e naa mandiramu\" (91% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02670-veerula-mayyaa-jaya-veerula-ma.json",
+  "title": "Veerula Mayyaa Jaya Veerula Mayyaa",
+  "reason": "duplicate of \"Veerula mayyaa jaya veerula mayyaa\" (91% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02680-song.json",
+  "title": "Dhaapujaeruchu Baadumu Jeevapu Maatalan",
+  "reason": "duplicate of \"Daapu jeruchu baadumu jeevapu maatalan\" (90% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02681-song.json",
+  "title": "Yaesuni Jaera Vaegamu Raa Maargamu",
+  "reason": "duplicate of \"Yesuni jera vegamu raa maargamu\" (97% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02684-laelemmu-kraisthavuaodaa-neelo.json",
+  "title": "Laelemmu Kraisthavudaa Neeloa Maelkoni",
+  "reason": "duplicate of \"Lelemmu kraisthavudaa neelo melkoni\" (89% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02685-aela-chimtha-yaela-vmtha-yicha.json",
+  "title": "Aela Chintha Yaela Vantha",
+  "reason": "duplicate of \"Ela chintha ela vantha\" (92% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02697-imdhulaedhu-niluchu-pattanm-kr.json",
+  "title": "IMdhulaedhu Niluchu PattaNM Kreesthu Yaathrikulaku",
+  "reason": "duplicate of \"Indhuledhu niluchu pattanam Kreesthu yaathriku\" (92% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02699-ghanamaina-kreesthu-krupao-gan.json",
+  "title": "Ghanamaina Kreesthu KrupAO GanugoMti Nipudu",
+  "reason": "duplicate of \"Ghanamaina Kreesthu krupa ganugonti nipudu\" (94% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02702-song.json",
+  "title": "JeevithMbu Ghoara KaShtanaShtMbul AavariMchi",
+  "reason": "duplicate of \"Jeevithambu ghora kashtanashtambul\" (95% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02705-vina-rammu-yaesu-naadhuaoda-na.json",
+  "title": "Vina Rammu Yaesu Naadhuda",
+  "reason": "duplicate of \"Vina rammu Yesu naadhuda\" (93% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02714-dhaevaa-sahaayamu-nimmaa-jeevm.json",
+  "title": "Dhaevaa Sahaayamu Nimmaa",
+  "reason": "duplicate of \"Devaa sahaayamu nimmaa\" (95% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02723-song.json",
+  "title": "Oa Dhaeva RakShkaa Nae VishvaasMbuthoa",
+  "reason": "duplicate of \"O Deva rakshakaa ne vishvaasambutho\" (98% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02725-dhinadhinamuku-dhikku-neevae-m.json",
+  "title": "Dhinadhinamuku Dhikku Neevae Maa Dhaevudaa",
+  "reason": "duplicate of \"Dhinadhinamunaku dikku neeve maa Devudaa\" (87% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02729-manasu-nichchi-vinumaa-madhi-n.json",
+  "title": "Manasu Nichchi Vinumaa Madhi NanusariMchi Chanumaa",
+  "reason": "duplicate of \"Manasu nichchi vinumaa madi nanusarinchi chanu\" (92% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02734-emdhu-kae-chimthimchedhavu-naa.json",
+  "title": "Endhu Kae Chinthinchedhavu Naa",
+  "reason": "duplicate of \"Endhu ke chinthinchedhavu naa\" (97% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02741-veruvanaela-manasaa-kreesthuni.json",
+  "title": "Veruvanaela Manasaa Kreesthuni Vaedavae",
+  "reason": "duplicate of \"Veruvanela manasaa Kreesthuni vedave\" (91% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02742-oa-dhaeva-naenu-nee-dhaapuna-n.json",
+  "title": "Oa Dhaeva Naenu Nee Dhaapuna Numdedhan",
+  "reason": "duplicate of \"O Deva nenu nee daapuna nundedhan\" (93% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02745-yehoava-naa-kaapari-yiaokao-go.json",
+  "title": "Yehoava Naa Kaapari Yika Godhu Vaemi",
+  "reason": "duplicate of \"Yehova naa kaapari inka godu vemi\" (89% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02759-oa-dhaevaa-nannuao-broava-need.json",
+  "title": "Oa Dhaevaa Nannu Broava Needhe Bhaaramayya",
+  "reason": "duplicate of \"O Devaa nannu brova neede bhaaramayya\" (92% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02764-yaesu-naamm-beththi-paadudhama.json",
+  "title": "Yaesu Naamam Beththi Paadudhama",
+  "reason": "duplicate of \"Yesu naamam betti paadudhama\" (91% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02765-yaesu-bhakthavarulathoa-ni-vaa.json",
+  "title": "Yaesu Bhakthavarulathoa Ni Vaasamundhama",
+  "reason": "duplicate of \"Yesu bhakthavarulatho nivaasamundhama\" (93% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02769-jeevamu-poavagan-dhaevuni-sann.json",
+  "title": "Jeevamu Poavagan Dhaevuni Sannidhi",
+  "reason": "duplicate of \"Jeevamu povagan Devuni sannidhi\" (88% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02773-song.json",
+  "title": "Anthya Dhinamandhu Dhootha Boora Noodhu",
+  "reason": "duplicate of \"Anthya dinamandu dootha boora noodhu\" (98% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02774-song.json",
+  "title": "Yaesuni Chaethulandu Yaesuni Rommunan",
+  "reason": "duplicate of \"Yesuni chethulandhu Yesuni rommunan\" (89% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02777-shrumgaara-dhvaarmbu-maa-yaesu.json",
+  "title": "Shrungaara Dhvaarambu Maa Yaesu",
+  "reason": "duplicate of \"Shrungaara dhvaarambu maa Yesu\" (90% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02778-dhaevadhaevuni-goppa-puramu-pa.json",
+  "title": "Dhaevadhaevuni Goppa Puramu",
+  "reason": "duplicate of \"Dhevadhevuni goppa puramu\" (87% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02791-smpoorna-parishudhdhi-nimmu-sa.json",
+  "title": "Sampoorna Parishudhdhi Nimmu Sathya",
+  "reason": "duplicate of \"Sampoorna parishuddhi nimmu sathya\" (93% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02797-song.json",
+  "title": "Sampoorna Jeevamu Sampaththi Naaku Gaan",
+  "reason": "duplicate of \"Sampoorna jeevamu sampaththi naaku gaan\" (95% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02811-song.json",
+  "title": "Raepu Maapu Goodaramya Maina Ginjal",
+  "reason": "duplicate of \"Repu maapu goodaramya maina ginjal\" (95% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02812-song.json",
+  "title": "Paapamu Valana Chedinavaani Praemathoa",
+  "reason": "duplicate of \"Paapamu valana chedinavaani prematho\" (98% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02815-song.json",
+  "title": "Oadduchaeri Nee Yedhuta Nilpunapudu",
+  "reason": "duplicate of \"Odducheri nee eduta nilpunapudu\" (97% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02817-prabhu-saeva-kidhiyae-samaymbu.json",
+  "title": "Prabhu Saeva Kidhiyae Samayambu",
+  "reason": "duplicate of \"Prabhu seva kidhiye samayambu\" (94% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02825-chaalunu-loaka-bhoagamulu-chaa.json",
+  "title": "Chaalunu Loaka Bhoagamulu Chaalunu",
+  "reason": "duplicate of \"Chaalunu loka bhogamulu chaalunu\" (90% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02829-sakalaemdhriyamulaaraa-chaala.json",
+  "title": "Sakalaemdhriyamulaaraa Chaala",
+  "reason": "duplicate of \"Sakalendriyamulaaraa chaala\" (92% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02830-aedhiyadhi-yaedhiyadhi-yaedhir.json",
+  "title": "Aedhiyadhi Yaedhiyadhi Yaedhiraa",
+  "reason": "duplicate of \"Edhiyadhi edhiyadhi edhiraa\" (90% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02834-paramuloana-baramuloanao-paapa.json",
+  "title": "Paramuloana Baramuloana Paapa Maemi Laedhugaa",
+  "reason": "duplicate of \"Paramulona paramulona paapa memi ledugaa\" (90% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02839-vimdhu-parammdhuaobemdli-vimdh.json",
+  "title": "Vindhu Paramandhubendli Vindhu",
+  "reason": "duplicate of \"Vindu paramandhubendli vindu\" (93% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02841-dhaevara-broavumaa-dheena-kutu.json",
+  "title": "Dhaevara Broavumaa Dheena Kutumbamun",
+  "reason": "duplicate of \"Devara brovumaa deena kutumbamun\" (89% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02851-maelukoni-yika-laechi-yaesuni.json",
+  "title": "Maelukoni Yika Laechi Yaesuni",
+  "reason": "duplicate of \"Melukoni ika lechi Yesuni\" (92% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02857-baalakaa-nee-varthanamu-gaa-pa.json",
+  "title": "Baalakaa Nee Varthanamu Gaa Paadukoni Jeevimparaa",
+  "reason": "duplicate of \"Baalakaa nee varthanamu gaa paadukoni jeevimpa\" (93% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02858-song.json",
+  "title": "Shree Yaesureethigaanu Praemimpa Goarudhun",
+  "reason": "duplicate of \"Shree Yesureethigaanu premimpa gorudhun\" (89% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02859-chaethuleththi-vmdhanamulu-cha.json",
+  "title": "Chaethuleththi Vandhanamulu Chaethu Mipudae",
+  "reason": "duplicate of \"Chethuletthi vandanamulu chethu mipude\" (91% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02864-hallelooya-nee-kallelooya-chal.json",
+  "title": "Hallelooya Nee Kallelooya Challagaa Rammippu Daesu",
+  "reason": "duplicate of \"Hallelooya nee kallelooya challagaa rammippu D\" (85% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02865-aa-chinna-vaariloa-naenumdi-yu.json",
+  "title": "Aa Chinna Vaariloa Naenundi Yunna",
+  "reason": "duplicate of \"Aa chinna vaarilo nenundi yunna\" (92% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02866-yaesuboali-mmchibudhdhi-yemthoa-prae.json",
+  "title": "Yaesuboali Manchibudhdhi Yenthoa Praemagaliginae",
+  "reason": "duplicate of \"Yesuboli manchibudhdhi entho premagaligine\" (95% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02872-baala-yaesuni-joodarae-karu-na.json",
+  "title": "Baala Yaesuni Joodarae",
+  "reason": "duplicate of \"Baala Yesuni joodare\" (94% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02873-chinna-paraloakamanna-mana-hrudhaym-anna.json",
+  "title": "Chinna Paraloakamanna Mana Hrudhaym Anna",
+  "reason": "duplicate of \"Chinna paralokamanna mana hrudayam anna\" (93% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02879-jaym-jaym-hallelooya-jaym-jaya.json",
+  "title": "Jayam Jayam Hallelooya",
+  "reason": "duplicate of \"Jayam jayam hallelooya\" (93% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02881-raajaa-naa-dhaevaa-nannu-gaava.json",
+  "title": "Raajaa Naa Dhaevaa Nannu Gaava Raavae Prabhu",
+  "reason": "duplicate of \"Raajaa naa Devaa nannu gaava raave Prabhu\" (91% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02882-yaesunaadhaa-raaraaraa-maa-jee.json",
+  "title": "Yaesunaadhaa Raaraaraa Maa Jeevanaadhaa",
+  "reason": "duplicate of \"Yesunaadhaa raaraaraa maa jeevanaadhaa\" (83% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02884-dhaeva-kaavavae-naedu-mammulan.json",
+  "title": "Dhaeva Kaavavae Naedu Mammulan",
+  "reason": "duplicate of \"Deva kaavave nedu mammulan\" (90% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02885-dhaevakaavavae-raathri-mammula.json",
+  "title": "Dhaevakaavavae Raathri Mammulan",
+  "reason": "duplicate of \"Devakaavave raathri mammulan\" (85% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02888-yaesu-bhajanayae-manalanu-aa-s.json",
+  "title": "Yaesu Bhajanayae Manalanu Aa Sugathiki Dheeyu",
+  "reason": "duplicate of \"Yesu bhajanaye manalanu aa sugathiki dheeyu\" (92% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02908-naa-priya-yaesunipai-aanukoni.json",
+  "title": "Naa Priya Yaesunipai Aanukoni",
+  "reason": "duplicate of \"Naa priya Yesunipai aanukoni\" (96% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02922-madhurm-madhurm-madhurm-yaesun.json",
+  "title": "MaDhurM MaDhurM MaDhurM YaesunaaDha KaTha MaDhurM",
+  "reason": "duplicate of \"Madhuram madhuram madhuram Yesunaadha katha ma\" (96% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02940-yaesu-naama-memthoa-madhurm-ya.json",
+  "title": "Yaesu Naama Menthoa Madhuram",
+  "reason": "duplicate of \"Yesu naama mentho madhuram\" (91% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02942-yaesae-bhagavannaamm-bhajimpa.json",
+  "title": "Yaesae Bhagavannaamam Bhajimpanu",
+  "reason": "duplicate of \"Yese bhagavannaamam bhajimpanu\" (95% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02945-shree-yaesu-dhivya-naamasmaran.json",
+  "title": "Shree Yaesu Dhivya Naamasmarana",
+  "reason": "duplicate of \"Shree Yesu divya naamasmarana\" (92% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02967-annaa-mana-yaesu-prabhuni-kann.json",
+  "title": "Annaa Mana Yaesu Prabhuni Kanna",
+  "reason": "duplicate of \"Annaa mana Yesu prabhuni kanna\" (95% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02971-yaesuraaju-needhu-praema-nemch.json",
+  "title": "Yaesuraaju Needhu Praema Nencha",
+  "reason": "duplicate of \"Yesuraaju needu prema nencha\" (90% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02984-yaesunaadhuni-siluvapaini-vaes.json",
+  "title": "Yaesunaadhuni Siluvapaini Vaesi",
+  "reason": "duplicate of \"Yesunaadhuni siluvapaini vesi\" (88% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02985-ennaodu-gaamchedhamoa-yaesuni.json",
+  "title": "Ennadu Gaanchedhamoa Yaesuni",
+  "reason": "duplicate of \"Ennadu gaanchedhamo Yesuni\" (92% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/02993-kalvari-girijaeru-manasaa-silv.json",
+  "title": "Kalvari Girijaeru Manasaa Silva Sarasa",
+  "reason": "duplicate of \"Kalvari girijeru manasaa silva sarasa\" (90% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03001-naa-korakuao-chanipoayi-naaaod.json",
+  "title": "Naa Koraku Chanipoayi Naada",
+  "reason": "duplicate of \"Naa koraku chanipoyi naadha\" (95% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03003-song.json",
+  "title": "Silvayodhdha Jaerudhun Beedha Heenayandhudan",
+  "reason": "duplicate of \"Silvayodhdha jerudhun beeda heenayandhudan\" (94% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03030-dhaeva-kumaaraa-dheenoapakaara.json",
+  "title": "Dhaeva Kumaaraa Dheenoapakaaraa",
+  "reason": "duplicate of \"Deva kumaaraa dheenopakaaraa\" (90% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03032-song.json",
+  "title": "Sundhara Rakshakaa Srushtiyokka Naadhaa",
+  "reason": "duplicate of \"Sundara rakshakaa srushtiyokka naadhaa\" (97% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03038-neevu-naa-dhaevumdavai-yu-nnaa.json",
+  "title": "Neevu Naa Dhaevundavai Yunnaavu",
+  "reason": "duplicate of \"Neevu naa dhevundavai yunnaavu\" (92% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03048-maanavula-maelu-koraku-jnyaani.json",
+  "title": "Maanavula Maelu Koraku Jnaaniyaina Dhaevudu",
+  "reason": "duplicate of \"Maanavula melu koraku jnaaniyaina Devudu\" (91% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03062-parama-thmdri-ninnu-mae-mee-pa.json",
+  "title": "Parama Thandri Ninnu Mae Mee Parasa",
+  "reason": "duplicate of \"Parama thandri ninnu me mee parasa\" (92% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03068-yehoava-sannidhini-nee-sthoath.json",
+  "title": "Yehoava Sannidhini Nee Sthoathragaanamuthoa",
+  "reason": "duplicate of \"Yehova sannidhini nee sthothragaanamutho\" (93% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03073-sukhulaaraa-smghmpu-badi-smbhmbunaku-naarumadi.json",
+  "title": "Sukhulaaraa SMghMpu Badi SMbhMbunaku Naarumadi",
+  "reason": "duplicate of \"Sukhulaaraa sanghampu badi sambhambunaku naaru\" (91% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03090-choodarae-maaraeaodu-putti-naa.json",
+  "title": "Choodarae Maaraedu Putti Naadu",
+  "reason": "duplicate of \"Choodare maaredu putti naadu\" (91% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03095-naadhu-praanamu-prabhuni-migul.json",
+  "title": "Naadhu Praanamu Prabhuni Migula",
+  "reason": "duplicate of \"Naadu praanamu Prabhuni migula\" (94% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03096-nee-samaadhaanamu-dhaasuni-kip.json",
+  "title": "Nee Samaadhaanamu Dhaasuni Kippudu",
+  "reason": "duplicate of \"Nee samaadhaanamu daasuni kippudu\" (95% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03102-song.json",
+  "title": "Haayi Loakamaa Prabhuvachchen",
+  "reason": "duplicate of \"Haayi lokamaa prabhuvachchen\" (97% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03103-song.json",
+  "title": "Randi Paada Dhoothalaaraa",
+  "reason": "duplicate of \"Randi paada doothalaaraa\" (80% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03121-sthoathramu-saeyarae-soadharul.json",
+  "title": "Sthoathramu Saeyarae Soadharulaara",
+  "reason": "duplicate of \"Sthothramu seyare sodharulaara\" (91% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03123-song.json",
+  "title": "Mundhu Kandharunu Jaeranu Endhu Boayinan",
+  "reason": "duplicate of \"Mundu kandharunu jeranu endhu boyinan\" (97% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03134-song.json",
+  "title": "Dhaevumdu Praema Rakshimche Nannu",
+  "reason": "duplicate of \"Devundu prema rakshinche nannu\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03135-mahima-noppu-janaka-neeku-mahi.json",
+  "title": "Mahima Noppu Janaka Neeku",
+  "reason": "duplicate of \"Mahima noppu janaka neeku\" (92% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03136-kaluguaogaaka-dhaevaa-kaluguao.json",
+  "title": "KaluguAOgaaka Dhaevaa KaluguAOgaaka",
+  "reason": "duplicate of \"Kalugugaaka Deva kalugugaaka\" (89% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03145-emthadhooramu-moayimchedharu-svaami-kimtha-siluv.json",
+  "title": "EMthadhooramu MoayiMchedharu Svaami",
+  "reason": "duplicate of \"Enthadhooramu moyinchedharu Swaami\" (88% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03147-aahaaaaamthyatheerpu-nmdh.json",
+  "title": "Aahaa AMthyatheerpu NMdhuna",
+  "reason": "duplicate of \"Aahaa anthyatheerpu nanduna\" (81% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03151-kalvariloani-shraeshtudaa-karu.json",
+  "title": "Kalvariloani ShraeShtudaa",
+  "reason": "duplicate of \"Kalvariloni shreshtudaa\" (89% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03154-aanmdhamaanmdha-maayenu-naadhu.json",
+  "title": "Aanandhamaanandha Maayenu Naadhu Priyakumaaruni Yandhu",
+  "reason": "duplicate of \"Aanandhamaanandha maayenu naadu priyakumaaruni\" (94% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03165-reference-neevu-ishraayaelu-chaeyu-sthoathramula.json",
+  "title": "Neevu Ishraayaelu Chaeyu Sthoathramula Meedha Aaseenudavai Yunnaavu",
+  "reason": "duplicate of \"Neevu Ishraayelu cheyu sthothramula meeda aase\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03181-reference-nee-velugunu-nee-sathyamunu.json",
+  "title": "Nee Velugu Nee Sathyamu Bayalu Dheranimmu Dhevaa",
+  "reason": "duplicate of \"Nee velugunu nee sathyamunu\" (97% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03187-reference-dhaevaa-nee-krupachoppuna-nannu.json",
+  "title": "Dhaevaa Nee Krupachoppuna Nannu Karunimpumu",
+  "reason": "duplicate of \"Devaa nee krupachoppuna nannu karunimpumu\" (89% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03191-reference-aayana-thana-mukhakaamthi-maameedha.json",
+  "title": "Aayana Thana MukhakaaMthi Maameedha PrakaashiMpajaeyunu Gaaka",
+  "reason": "duplicate of \"Aayana thana mukhakaanthi maameedha prakaashim\" (94% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03192-reference-athani-paeru-nithyamu-niluchunu.json",
+  "title": "Athani Paeru Nithyamu Niluchunu",
+  "reason": "duplicate of \"Athani peru nithyamu niluchunu\" (81% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03193-reference-yoodhaaloa-dhaevudu-prasidhdhudu-ishra.json",
+  "title": "Yoodhaaloa Dhaevudu PrasidhDhudu",
+  "reason": "duplicate of \"Yoodhaalo Devudu prasiddhudu\" (93% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03194-reference-naenu-elugeththi-dhaevuniki-morrapettu.json",
+  "title": "Naenu Elugeththi Dhaevuniki MoRRapettudhunu",
+  "reason": "duplicate of \"Nenu elugetthi Devuniki morrapettudhunu\" (92% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03195-reference-manaku-balamaiyunna-dhaevuniki-aanmdha.json",
+  "title": "Manaku Balamaiyunna Dhaevuniki AanaMdha Gaanamu Chaeyudi",
+  "reason": "duplicate of \"Manaku balamaiyunna Devuniki aananda gaanamu c\" (95% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03196-reference-nee-mmdhiramunmdhu-nivasimchuvaaru-dha.json",
+  "title": "Nee MaMdhiramunaMdhu NivasiMchuvaaru Dhanyulu",
+  "reason": "duplicate of \"Nee mandhiramunandhu nivasinchuvaaru dhanyulu\" (89% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03203-reference-aayana-thana-rekkalathoa-ninnu.json",
+  "title": "Aayana Thana Rekkalathoa Ninnu Kappunu",
+  "reason": "duplicate of \"Sarvannathuni chaatuna\" (83% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03206-reference-yehoavaa-meedha-paadudi-aayana.json",
+  "title": "Yehoavaa Meedha Kroththa Keerthana Paadudi",
+  "reason": "duplicate of \"Yehova meeda krottha keerthana paadudi\" (100% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03217-reference-yehoavaa-mmdhiramunaku-velludhamani-ja.json",
+  "title": "Yehoavaa MMdhiramunaku Nadichedhamu",
+  "reason": "duplicate of \"Yehova mandhiramunaku nadichedhamu\" (97% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03223-reference-yehoavaa-dhayaaludu-aayanaku-kruthajny.json",
+  "title": "Yehoavaanu SthuthiMchudi Aayana DhayaaLudu",
+  "reason": "duplicate of \"Yehovaanu sthuthinchudi aayana dayaaludu\" (90% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03226-reference-yehoavaa-amdhariki-upakaari-aayana.json",
+  "title": "Yehoavaa Andharikini Mahoapakaarundu",
+  "reason": "duplicate of \"Yehova andharikini mahopakaarundu\" (98% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03235-reference-yehoavaanu-sthuthimchudi-yehoavaaku-kr.json",
+  "title": "Yehoavaaku Kroththa Keerthana Paadudi",
+  "reason": "duplicate of \"Yehovaaku kroththa keerthana paadudi\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03247-reference-naa-prabhuvaa-naa-dhaevaa.json",
+  "title": "SuMdhara RakShkudaa",
+  "reason": "duplicate of \"Sundara rakshakudaa\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03263-reference-aashagala-praanamunu-aayana-thrupthipa.json",
+  "title": "Yaesu Thrupthi Parachithivi",
+  "reason": "duplicate of \"Yesu thrupthi parachithivi\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03351-sthuthiyimchu-priyudaa-sadhaa-yaesuni.json",
+  "title": "Sthuthiyinchu Priyudaa Sadhaa Yaesuni",
+  "reason": "duplicate of \"Sthuthiyinchu priyudaa sadaa Yesuni\" (96% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03380-sthoathrimchi-keerthimchedhamu-hallelooy.json",
+  "title": "Sthoathrimchi Keerthimchedhamu Hallelooya",
+  "reason": "duplicate of \"Sthothrinchi keerthinchedhamu hallelooya\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03410-yaesuni-shramalathoada-aashathoa-paalu-pomdhedha.json",
+  "title": "Yaesuni Shramalathoada Aashathoa Paalu Pomdhedhanu",
+  "reason": "duplicate of \"Yesuni shramalathoda aashatho paalu pondedanu\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03436-raajaadhiraajaa-raavae-raaju-yaesu-raajyamaela-r.json",
+  "title": "Raajaadhiraajaa Raavae Raaju Yaesu Raajyamaela Raavae",
+  "reason": "duplicate of \"Raajaadhiraajaa raave - Raaju Yesu raajyamela \" (88% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03440-maeghamu-meedha-yaesuraaju-vaega-milakuvachchun.json",
+  "title": "Maeghamu Meedha Yaesuraaju Vaega Milakuvachchun",
+  "reason": "duplicate of \"Meghamu meeda Yesuraaju vega milakuvachchun\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03445-parishudhdhulellaru-yaesun-pogadi-paadi-yaarbhat.json",
+  "title": "Parishudhdhulellaru Yaesun Pogadi Paadi Yaarbhatimchi Paramunanumda",
+  "reason": "duplicate of \"Parishudhdhulellaru Yesun pogadi paadi yaarbha\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03458-kreesthu-yaesu-vachchunu-aayaththamuga-numdudi.json",
+  "title": "Kreesthu Yaesu Vachchunu Aayaththamuga Numdudi",
+  "reason": "duplicate of \"Kreesthu Yesu vachchunu aayaththamuga nundudi\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03639-reference-naenu-elugeththi-dhaevuniki-morra.json",
+  "title": "Yaesu Yaesu MoRRanaaliMchu",
+  "reason": "duplicate of \"Yesu Yesu morranaalinchu\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03641-reference-naenu-choodagaa-mmdhirapu-gadapakrimdh.json",
+  "title": "JeevaMpu Jalanadhulu Uchitha Jeevanadhi",
+  "reason": "duplicate of \"nenu choodagaa mandhirapu gadapakrindha\" (97% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03647-reference-yehoavaa-smvathsaramulu-jaruguchumdaga.json",
+  "title": "JeeviMpachaeyumu Nammi PraarThiMthumu",
+  "reason": "duplicate of \"Yehovaa, samvathsaramulu jaruguchundagaa nee\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/03650-reference-yehoavaa-naa-kuththaramimmu-keerthana.json",
+  "title": "Yaesoo Naa Prabhuvaa Nee Praema Laekunna",
+  "reason": "duplicate of \"Yesoo naa prabhuvaa - Nee prema lekunna\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/05756-raajaa-nee-bhavanamuloa-raeyimbagalu-vaechiyumdh.json",
+  "title": "Raajaa Nee Bhavanamuloa Raeyimbagalu Vaechiyumdhunu",
+  "reason": "duplicate of \"Raajaa nee bhavanamulo reyimbagalu vechiyundun\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/05819-ascharyamou-anugraham.json",
+  "title": "Ascharyamou Anugraham",
+  "reason": "duplicate of \"Aashcharyamau anugraham\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/05850-song.json",
+  "title": "ధింతక్కు ధింతక్కు ధింతక్కు తయ్యారె",
+  "reason": "duplicate of \"Dhinthakku dhinthakku dhinthakku thayyaare\" (82% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/05885-song.json",
+  "title": "సర్వశక్తుడు నా సొంతమయ్యెను మృత్యుంజయుడు నా జీవమయ్యెను",
+  "reason": "duplicate of \"Sarvashakthudu naa sonthamayyenu mruthyunjayud\" (97% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/05917-o-sodara-anduko.json",
+  "title": "O Sodara Anduko",
+  "reason": "duplicate of \"O sodaraa anduko\" (96% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/06066-yesu-rakshakaa-shathakoti-sthothram-y-s.json",
+  "title": "Yesu Rakshakaa Shathakoti Sthothram Y S",
+  "reason": "duplicate of \"Yesu rakshakaa shathakoti sthothram\" (82% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/06107-arambamayindhi-restoration-restoration.json",
+  "title": "Arambamayindhi Restoration Restoration",
+  "reason": "duplicate of \"Aarambhamayyindi Restoration\" (82% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/12506-sundharamaina-dehaalenno-shithilam-kaaledhaa.json",
+  "title": "Sundharamaina Dehaalenno Shithilam Kaaledhaa",
+  "reason": "duplicate of \"Sundaramaina Dhehaalenno\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/12529-hosannaa-hosannaa-daaveedu-thanayaa-hosannaa.json",
+  "title": "Hosannaa Hosannaa Daaveedu Thanayaa Hosannaa",
+  "reason": "duplicate of \"Daaveedu Thanayaa Hosannaa\" (97% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/13397-vekuvane-naa-devuni-aaraadhinthunu.json",
+  "title": "Vekuvane Naa Devuni Aaraadhinthunu",
+  "reason": "duplicate of \"Neethone Gadipeyaalani\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/19014-neevalle-neevalle-naa-kintha-shanthoshamu.json",
+  "title": "Neevalle Neevalle Naa Kintha Shanthoshamu",
+  "reason": "duplicate of \"Nee valle nee valle naa kintha santhoshamu\" (95% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/27529-saripodhu-aradhana.json",
+  "title": "Saripodhu Aradhana",
+  "reason": "duplicate of \"Saripodu Aaraadhana\" (92% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/28002-muttedan-ninu-muttedan.json",
+  "title": "Muttedan Ninu Muttedan",
+  "reason": "duplicate of \"Muttedan\" (98% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/28038-na-jeevithamu-ne-maata-thone-aarambhinchedan.json",
+  "title": "Na Jeevithamu Ne Maata Thone Aarambhinchedan",
+  "reason": "duplicate of \"Naa jeevithamu nee maatathone aarambhinchedan\" (96% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/29590-el-roi-vai-nanu-chudaga.json",
+  "title": "El Roi Vai Nanu Chudaga",
+  "reason": "duplicate of \"El Roi vai nanu choodagaa\" (88% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/29842-preme-naa-maargam-dheva.json",
+  "title": "Preme Naa Maargam Dheva",
+  "reason": "duplicate of \"Preme naa maargam Devaa\" (94% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/29917-jalari-panduga.json",
+  "title": "JALARI PANDUGA",
+  "reason": "duplicate of \"Jaalari panduga\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/29972-nutan-vatsar-subhavelalo.json",
+  "title": "Nutan Vatsar Subhavelalo",
+  "reason": "duplicate of \"Noothana vathsara shubhavelalo\" (95% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/29978-song.json",
+  "title": "సార్వభౌముడా నా యేసయ్యా",
+  "reason": "duplicate of \"Saarvabhaumudaa naa Yesayyaa\" (97% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/29991-song.json",
+  "title": "నా దేవా నే నీతో ఉంటా ప్రతిక్షణం",
+  "reason": "duplicate of \"Naa Devaa ne neetho untaa prathikshanam\" (95% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/30010-song.json",
+  "title": "అనుభవించే ప్రతి యివి",
+  "reason": "duplicate of \"Anubhavinche prathi ivi\" (93% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/30011-song.json",
+  "title": "ఆదరించే వారు లేక",
+  "reason": "duplicate of \"Aadarinche vaaru leka\" (89% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/30054-song.json",
+  "title": "ప్రేమే జగతికి మూలం – యేసు క్రీస్తు ప్రేమ",
+  "reason": "duplicate of \"Preme Jagathiki Moolam\" (83% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/30141-asayam-neeve-yessaiah-adharam-neve-messaiah.json",
+  "title": "Asayam Neeve Yessaiah Adharam Neve Messaiah",
+  "reason": "duplicate of \"Aashrayam neeve Yesayyaa aadhaaram neeve Messa\" (99% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/30203-deva-neeke-na-stuthi-padedan.json",
+  "title": "Deva Neeke Na Stuthi Padedan",
+  "reason": "duplicate of \"Deva neeke naa sthuthi paadedan\" (93% lyric overlap)"
+ },
+ {
+  "id": "waytochurch/30333-song.json",
+  "title": "కరములే కరములు యేసయ్యా",
+  "reason": "duplicate of \"Karamule karamulu Yesayya\" (80% lyric overlap)"
+ }
+]

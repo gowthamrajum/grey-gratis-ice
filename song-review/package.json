@@ -1,0 +1,16 @@
+{
+  "name": "song-review",
+  "version": "1.0.0",
+  "description": "Human review queue for songs that never made it into the grey-gratis-ice library",
+  "main": "server.js",
+  "scripts": {
+    "build": "node build-queue.js",
+    "build:refresh": "node build-queue.js --refresh",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.15.15",
+    "express": "^4.21.2"
+  },
+  "engines": { "node": "20.x" }
+}

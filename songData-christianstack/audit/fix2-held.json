@@ -1,0 +1,337 @@
+[
+ {
+  "song_id": 2297,
+  "song_name": "Ananthamu nundi ananthamu varaku",
+  "changes": [
+   "rewrap",
+   "main_has_stanza_markers"
+  ],
+  "updated_by": "sanitizer-sourced",
+  "main_stanza": {
+   "telugu": [
+    "ఆనన్తము నున్డి అనన్తము వరకు జీవిన్చు ఢెవ",
+    "ణిత్యత్వము నున్డి, నిత్యత్వము వరకు నివసిన్చు ఢెవ",
+    "ఏఎ భువికి యెల్లలను నియమిన్చినావు",
+    "సన్డ్రాలకు సరిహడ్దులు స్తపిన్చినావు",
+    "ణీ మహిమతొ నన్ను నిమ్పుము",
+    "ణీ మహిమతొ నన్ను నిమ్పుము",
+    "ఆఅరడిన్తున్, ఆఅరడిన్తున్, ఆఅరదిన్తునూ ణిన్నె"
+   ],
+   "english": [
+    "Ananthamu nundi ananthamu varaku jeevinchu Deva",
+    "Nithyathvamu nundi, nithyathvamu varaku nivasinchu Deva",
+    "Ee bhuviki ellalanu niyaminchinaavu",
+    "Sandraalaku sarihaddhulu sthaapinchinaavu",
+    "Nee mahimatho nannu nimpumu",
+    "Nee mahimatho nannu nimpumu",
+    "Aaraadhinthun, aaraadhinthun, aaraadhinthunoo ninne"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "భూమ్యకశములు స్రుస్టిన్చినావు",
+     "ణీ పొలికలొ నన్ను నిర్మిన్చినావు",
+     "ణీ చిట్తము నాలొ నెరవెర్చుము ఢెవ,",
+     "ణీ కొరకై జీవిన్తును"
+    ],
+    "english": [
+     "Bhoomyaakaashamulu srushtinchinaavu",
+     "Nee polikalo nannu nirminchinaavu",
+     "Nee chitthamu naalo neraverchumu Deva,",
+     "Nee korakai jeevinthunu"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "Vఇశ్వమును నిరతమ్ పలిన్చువాడ",
+     "ణీ హస్తముతొ నన్ను నడిపిన్చుము",
+     "ణీ రెక్కల వొడిలొనె నా క్శెమము ఢెవ",
+     "ణా హ్రుడయము అర్పిన్తును"
+    ],
+    "english": [
+     "Vishwamunu niratham paalinchuvaada",
+     "Nee hasthamutho nannu nadipinchumu",
+     "Nee rekkala vodilone naa kshemamu Deva",
+     "Naa hrudayamu arpinthunu"
+    ]
+   }
+  ],
+  "_sources": [],
+  "_note": "Deleted the scraped section label 'Chorus - ' / 'ఛొరుస్ - ' that was welded onto the front of the last line of the main block; the words after it are lyrics and were kept in place, so block boundaries are unchanged. NOT otherwise repaired and should be re-sourced before use: the entire Telugu body of this record is machine-transliterated garbage generated from the romanisation, not real Telugu - 'ణ' substituted for 'న' throughout ('ణిత్యత్వము', 'ణీ', 'ణా'), 'డ' for 'ద', a stray Latin 'V' inside 'వఇశ్వమును' in stanza 2, and broken conjuncts ('నున్డి', 'జీవిన్చు'). Correcting that means rewriting the whole Telugu column, which requires a published source and must not be generated. Held low for a human.",
+  "_edits": [
+   {
+    "kind": "deleted-junk",
+    "before": "ఛొరుస్ - ఆఅరడిన్తున్, ఆఅరడిన్తున్, ఆఅరదిన్తునూ ణిన్నె",
+    "after": "ఆఅరడిన్తున్, ఆఅరడిన్తున్, ఆఅరదిన్తునూ ణిన్నె"
+   },
+   {
+    "kind": "deleted-junk",
+    "before": "Chorus - Aaraadhinthun, aaraadhinthun, aaraadhinthunoo ninne",
+    "after": "Aaraadhinthun, aaraadhinthun, aaraadhinthunoo ninne"
+   }
+  ],
+  "_rewrap": true
+ },
+ {
+  "song_id": 3554,
+  "song_name": "Paapula rakshakudu Yesu goppa dhevaadhi Devudu Yesu",
+  "changes": [
+   "rewrap",
+   "empty_block",
+   "empty_main"
+  ],
+  "updated_by": "sanitizer-sourced",
+  "main_stanza": {
+   "telugu": [
+    "పాపుల రక్షకుడు యేసు",
+    "గొప్ప దేవాది దేవుడు యేసు"
+   ],
+   "english": [
+    "Paapula rakshakudu Yesu",
+    "Goppa dhevaadhi Devudu Yesu"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "కృపతో కౌగలించె నను యేసు",
+     "ఉపకారి నన్ను చేర్చె యేసు",
+     "సర్వంబులో నాకు సర్వమేసు",
+     "సర్వశక్తిగల యేసు హల్లెలూయ ఆమెన్"
+    ],
+    "english": [
+     "Krupatho kaugalinche nanu Yesu",
+     "Upakaari nannu cherche Yesu",
+     "Sarvambulo naaku sarvamesu",
+     "Sarvashakthigala Yesu hallelooya aamen"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "గొఱ్ఱెలకు గొప్ప కాపరి యేసు",
+     "దొరుకు తన్ను వెదకు వారి కేసు",
+     "ఆరాధికులకు పరిశుద్ధుడేసు",
+     "నిరాశగలవారి మిత్రుడేసు"
+    ],
+    "english": [
+     "Gorrelaku goppa kaapari Yesu",
+     "Dhoruku thannu vedhaku vaari kesu",
+     "Aaraadhikulaku parishuddhudesu",
+     "Niraashagalavaari mithrudesu"
+    ]
+   },
+   {
+    "stanza_number": 3,
+    "telugu": [
+     "నాదు మార్గంబునకు వెలుగు యేసు",
+     "నాదు పాదంబులకు దీపము యేసు",
+     "నాదు దాహంబునకు పానము యేసు",
+     "నాదు యజ్ఞానంబునకు జ్ఞానము యేసు"
+    ],
+    "english": [
+     "Naadu maargambunaku velugu Yesu",
+     "Naadu paadhambulaku deepamu Yesu",
+     "Naadu dhaahambunaku paanamu Yesu",
+     "Naadu ajnaanambunaku jnaanamu Yesu"
+    ]
+   },
+   {
+    "stanza_number": 4,
+    "telugu": [
+     "నాదు రోగంబులకు వైద్యుడు యేసు",
+     "నాదు బాధ్యతల వహించు నేసు",
+     "నాదు ఏకాంతములో తోడు యేసు",
+     "నాకు తేనె కంటె బహు తీపి యేసు"
+    ],
+    "english": [
+     "Naadu rogambulaku vaidhyudu Yesu",
+     "Naadu baadhyathala vahinchu nesu",
+     "Naadu ekaanthamulo thodu Yesu",
+     "Naaku thene kante bahu theepi Yesu"
+    ]
+   },
+   {
+    "stanza_number": 5,
+    "telugu": [
+     "నాకు రక్షకుడు రక్షణ యేసు",
+     "నాకు విమోచకుడు విమోచ నేసు",
+     "నాకు జీవంబును దేవుడు యేసు",
+     "నాకు నీతి నాదు వెలుగు యేసు"
+    ],
+    "english": [
+     "Naaku rakshakudu rakshana Yesu",
+     "Naaku vimochakudu vimocha nesu",
+     "Naaku jeevambunu Devudu Yesu",
+     "Naaku neethi naadu velugu Yesu"
+    ]
+   },
+   {
+    "stanza_number": 6,
+    "telugu": [
+     "నాకు మాదిరి వెంబడించ యేసు",
+     "నాకు ముందు నడచు నాయకుడేసు",
+     "నాకు దుఃఖంబులో ఆదరణేసు",
+     "నాదు కష్టంబులో ధైర్యము యేసు"
+    ],
+    "english": [
+     "Naaku maadiri vembadincha Yesu",
+     "Naaku mundu nadachu naayakudesu",
+     "Naaku duhkhambulo aadharanesu",
+     "Naadu kashtambulo dhairyamu Yesu"
+    ]
+   },
+   {
+    "stanza_number": 7,
+    "telugu": [
+     "నాదు హృదయంబున యున్నవాడు యేసు",
+     "నాదు వృద్ధికి కారకుండు యేసు",
+     "నాదు కృంగుదలలో తోడనుండు యేసు",
+     "నాదు సర్వమందు నిల సర్వమేసు"
+    ],
+    "english": [
+     "Naadu hrudhayambuna yunnavaadu Yesu",
+     "Naadu vruddhiki kaarakundu Yesu",
+     "Naadu krungudhalalo thodanundu Yesu",
+     "Naadu sarvamandhu nila sarvamesu"
+    ]
+   }
+  ],
+  "_sources": [],
+  "_note": "Split the over-long first block and promoted the pallavi into the empty main slot. Stanza 1 held 6 lines while stanzas 2-7 hold 4 each, so 6 = 2-line pallavi + 4-line verse 1; the split leaves seven uniform 4-line charanams and stanzas 2-7 keep their numbers. Took the first two lines as the pallavi because they are the song title and that reading preserves the source line order. LOW because the record supports a rival split: lines 5-6 ('సర్వంబులో నాకు సర్వమేసు / సర్వశక్తిగల యేసు హల్లెలూయ ఆమెన్') close on 'hallelooya aamen' and read like the sung refrain, which would make lines 1-4 verse 1 instead. Both readings keep every line; only which pair sits in the main slot differs. A source or someone who knows the tune should settle it. No text added, altered or dropped.",
+  "_edits": [
+   {
+    "kind": "split",
+    "before": "పాపుల రక్షకుడు యేసు / గొప్ప దేవాది దేవుడు యేసు / కృపతో కౌగలించె నను యేసు / ఉపకారి నన్ను చేర్చె యేసు / సర్వంబులో నాకు సర్వమేసు / సర్వశక్తిగల యేసు హల్లెలూయ ఆమెన్",
+    "after": "MAIN (pallavi): పాపుల రక్షకుడు యేసు / గొప్ప దేవాది దేవుడు యేసు  ||  VERSE 1: కృపతో కౌగలించె నను యేసు / ఉపకారి నన్ను చేర్చె యేసు / సర్వంబులో నాకు సర్వమేసు / సర్వశక్తిగల యేసు హల్లెలూయ ఆమెన్"
+   },
+   {
+    "kind": "split",
+    "before": "Paapula rakshakudu Yesu / Goppa dhevaadhi Devudu Yesu / Krupatho kaugalinche nanu Yesu / Upakaari nannu cherche Yesu / Sarvambulo naaku sarvamesu / Sarvashakthigala Yesu hallelooya aamen",
+    "after": "MAIN (pallavi): Paapula rakshakudu Yesu / Goppa dhevaadhi Devudu Yesu  ||  VERSE 1: Krupatho kaugalinche nanu Yesu / Upakaari nannu cherche Yesu / Sarvambulo naaku sarvamesu / Sarvashakthigala Yesu hallelooya aamen"
+   }
+  ],
+  "_rewrap": true
+ },
+ {
+  "song_id": 4318,
+  "song_name": "Idi Christmas Veduka",
+  "changes": [
+   "rewrap",
+   "telugu_has_no_telugu"
+  ],
+  "updated_by": "sanitizer-sourced",
+  "main_stanza": {
+   "telugu": [
+    "ఇది క్రిస్మస్ వేడుక – క్రీస్తేసుని పుట్టుక",
+    "మానవాళికి ఇది కానుక – దేవ దేవుని ప్రణాళిక"
+   ],
+   "english": [
+    "Idi christmas veduka – kreesthesuni puttuka",
+    "maanavaaliki idi kaanuka – deva devuni pranaalika"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "Happy Happy Happy Christmas",
+     "Merry Merry Merry Christmas"
+    ],
+    "english": [
+     "Happy Happy Happy Christmas",
+     "Merry Merry Merry Christmas"
+    ]
+   }
+  ],
+  "_sources": [],
+  "_note": "Both 'stanzas' were byte-identical copies of the same two-line English refrain ('Happy Happy Happy Christmas' / 'Merry Merry Merry Christmas'), which is a scrape duplicate rather than two blocks -- the second copy was dropped. The refrain itself is genuinely sung in English, so 'telugu_has_no_telugu' is expected here and no Telugu was invented for it. The real problem remains: this record has a pallavi and a refrain and NO charanams at all, so it needs re-sourcing before it is usable on screen. Held low for that reason.",
+  "_edits": [
+   {
+    "kind": "deleted-junk",
+    "before": "Happy Happy Happy Christmas / Merry Merry Merry Christmas  (duplicate stanza 2)",
+    "after": null
+   }
+  ],
+  "_rewrap": true
+ },
+ {
+  "song_id": 4454,
+  "song_name": "Yesu Vaipu",
+  "changes": [
+   "rewrap",
+   "no_stanzas_at_all",
+   "zero_stanzas"
+  ],
+  "updated_by": "sanitizer-sourced",
+  "main_stanza": {
+   "telugu": [
+    "యేసు వైపు చూచుచు",
+    "నీ పయనమంత సాగని",
+    "కృతఙత స్తోత్రాలతో",
+    "రెట్టింపు ప్రేమ భక్తితో"
+   ],
+   "english": [
+    "Yeasu vaipu choochuchu",
+    "nee payanamanta saagani",
+    "kRta~mata stoatraalatoa",
+    "reTTimpu preama bhaktitoa"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "యేసు ఉంటే చాలనే",
+     "నిశ్చయంబు ఉన్నచో",
+     "ఎడారిలో సెలయేరులే",
+     "ఇరుకులో విషాలతే"
+    ],
+    "english": [
+     "yeasu unTea chaalanea",
+     "niSchayambu unnachoa",
+     "eDaariloa selayearulea",
+     "irukuloa vishaalatea"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "యేసురాజు ద్వజము బట్టి",
+     "ముందుగా నడువగా",
+     "జయ జయ గానాలతో",
+     "క్షణ క్షణం హుషారుగా",
+     "కరుములెత్తి గలము విప్పి",
+     "యేసుకే జయం అంటు సాగిపోదుము"
+    ],
+    "english": [
+     "yeasuraaju dwajamu baTTi",
+     "mundugaa naDuvagaa",
+     "jaya jaya gaanaalatoa",
+     "kshaNa kshaNam hushaarugaa",
+     "karumuletti galamu vippi",
+     "yeasukea jayam anTu saagipoadumu"
+    ]
+   }
+  ],
+  "_sources": [],
+  "_note": "One-block song: all 14 lines sat in main_stanza with zero charanams, so the whole song projected as a single unscrollable slab. Split on sense boundaries the lines themselves give: 1-4 are the pallavi (యేసు వైపు చూచుచు ... రెట్టింపు ప్రేమ భక్తితో), 5-8 a 4-line charanam opening on యేసు ఉంటే చాలనే, 9-14 a 6-line charanam opening on యేసురాజు ద్వజము బట్టి and closing the song on యేసుకే జయం అంటు సాగిపోదుము. Telugu and romanised arrays already paired 1:1 and were sliced together; not one character changed. LOW because the record carries no పల్లవి/చరణం headings and no ||...|| chorus-return marks, so the 4/4/6 division is inferred from sense alone -- 4/4/4/2 with the last couplet as a coda is an equally readable reading, and only the published layout can settle it. Two further things flagged but deliberately NOT touched: the romanisation is machine-generated ITRANS-style output ('kRta~mata', 'niSchayambu', 'eDaariloa') rather than the readable romanisation the rest of the library uses, and 'కరుములెత్తి' looks like a scrape typo for 'కరములెత్తి' (raising hands) -- correcting either would mean writing text out of my own head.",
+  "_edits": [
+   {
+    "kind": "split",
+    "before": "రెట్టింపు ప్రేమ భక్తితో",
+    "after": "యేసు ఉంటే చాలనే"
+   },
+   {
+    "kind": "split",
+    "before": "ఇరుకులో విషాలతే",
+    "after": "యేసురాజు ద్వజము బట్టి"
+   }
+  ],
+  "_rewrap": true
+ }
+]

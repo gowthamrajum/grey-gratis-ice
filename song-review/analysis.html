@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>reviewNeeded — what's wrong with each song</title>
+<style>
+  :root {
+    --ground:#F6F6FA; --panel:#FFF; --line:#DEDEE9; --line-soft:#ECECF3;
+    --ink:#191826; --ink-2:#4C4B60; --ink-3:#7C7B92;
+    --accent:#2B3A8F; --accent-w:#2B3A8F14;
+    --good:#1F7A4D; --warn:#A8730E; --crit:#A32C29;
+    --good-w:#1F7A4D16; --warn-w:#A8730E16; --crit-w:#A32C2916;
+    --display:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+    --ui:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    --mono:ui-monospace,"SF Mono",SFMono-Regular,Menlo,monospace;
+    --te:"Noto Sans Telugu","Gautami","Nirmala UI",sans-serif;
+  }
+  @media (prefers-color-scheme:dark){:root{
+    --ground:#111119; --panel:#191922; --line:#2E2E3D; --line-soft:#24242F;
+    --ink:#EDEDF4; --ink-2:#AEAEC2; --ink-3:#7E7E95;
+    --accent:#93A2EE; --accent-w:#93A2EE1F;
+    --good:#5BC48C; --warn:#E0A64A; --crit:#EC8480;
+    --good-w:#5BC48C1F; --warn-w:#E0A64A1F; --crit-w:#EC84801F;}}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--ui);
+       font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+  a{color:var(--accent)}
+  .wrap{max-width:1180px;margin:0 auto;padding:28px 20px 80px}
+  h1{font-family:var(--display);font-size:30px;margin:0 0 4px;font-weight:600}
+  .sub{color:var(--ink-2);margin:0 0 20px;max-width:70ch}
+  .mono{font-family:var(--mono);font-variant-numeric:tabular-nums}
+
+  .top{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap;margin-bottom:18px}
+  button{font:inherit;padding:8px 15px;border:1px solid var(--line);border-radius:3px;
+    background:var(--panel);color:var(--ink);cursor:pointer}
+  button:hover{border-color:var(--accent);color:var(--accent)}
+  button.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+  button.primary:hover{opacity:.9;color:#fff}
+  button[disabled]{opacity:.5;cursor:default}
+  button[aria-pressed=true]{border-color:var(--accent);color:var(--accent);background:var(--accent-w)}
+  :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+  input[type=search]{font:inherit;padding:8px 11px;border:1px solid var(--line);
+    border-radius:3px;background:var(--panel);color:var(--ink);min-width:220px}
+
+  .progress{height:4px;background:var(--line-soft);border-radius:2px;overflow:hidden;margin-bottom:20px}
+  .progress i{display:block;height:100%;background:var(--accent);width:0;transition:width .12s linear}
+  .progress.idle{opacity:0}
+
+  .band{display:grid;gap:1px;background:var(--line);border:1px solid var(--line);
+        border-radius:3px;overflow:hidden;margin-bottom:20px;
+        grid-template-columns:repeat(auto-fit,minmax(140px,1fr))}
+  .tile{background:var(--panel);padding:14px 16px;cursor:pointer;text-align:left;border:0;
+        display:flex;flex-direction:column;gap:2px;border-radius:0}
+  .tile:hover{background:var(--accent-w)}
+  .tile[aria-pressed=true]{background:var(--accent-w);box-shadow:inset 3px 0 0 var(--accent)}
+  .tile .v{font-family:var(--mono);font-variant-numeric:tabular-nums;font-size:25px;
+           font-weight:600;letter-spacing:-.02em}
+  .tile .k{font-size:12.5px;color:var(--ink-2)}
+  .tile .d{font-size:11.5px;color:var(--ink-3)}
+  .v.ready{color:var(--good)} .v.duplicate{color:var(--ink-3)}
+  .v.fixable{color:var(--warn)} .v.needs-source{color:var(--warn)}
+  .v.not-a-song{color:var(--crit)} .v.title-blocked{color:var(--accent)}
+
+  .list{border:1px solid var(--line);border-radius:3px;overflow:hidden;background:var(--panel)}
+  .row{display:grid;grid-template-columns:4px 1fr auto;gap:13px;align-items:start;
+       padding:11px 15px;border-bottom:1px solid var(--line-soft)}
+  .row:last-child{border-bottom:0}
+  .row.new{animation:in .5s ease}
+  @keyframes in{from{background:var(--accent-w)}to{background:transparent}}
+  @media (prefers-reduced-motion:reduce){.row.new{animation:none}
+    .progress i{transition:none}}
+  .stripe{width:3px;height:100%;min-height:24px;border-radius:2px;background:var(--ink-3);opacity:.35}
+  .sev-critical .stripe{background:var(--crit);opacity:1}
+  .sev-warning .stripe{background:var(--warn);opacity:1}
+  .sev-ok .stripe{background:var(--good);opacity:1}
+  .t{font-weight:600;font-size:14px}
+  .why{color:var(--ink-2);font-size:12.5px;margin-top:2px}
+  .why b{color:var(--ink);font-weight:600}
+  .meta{font-family:var(--mono);font-size:11px;color:var(--ink-3);margin-top:3px}
+  .tags{display:flex;gap:5px;flex-wrap:wrap;justify-content:flex-end;max-width:340px}
+  .pill{font-family:var(--mono);font-size:10px;letter-spacing:.05em;text-transform:uppercase;
+        padding:2px 6px;border-radius:2px;white-space:nowrap;background:var(--accent-w);color:var(--accent)}
+  .pill.k{background:var(--crit-w);color:var(--crit)}
+  .pill.w{background:var(--warn-w);color:var(--warn)}
+  .pill.g{background:var(--good-w);color:var(--good)}
+  .pill.n{background:var(--line-soft);color:var(--ink-3)}
+  .empty{padding:30px;text-align:center;color:var(--ink-3)}
+  .status{font-family:var(--mono);font-size:12px;color:var(--ink-3)}
+</style>
+</head>
+<body><div class="wrap">
+  <div class="top">
+    <div>
+      <h1>What's wrong with each song</h1>
+      <p class="sub">Every song in <code class="mono">reviewNeeded/</code> — the ones not in the
+        library — diagnosed one at a time. Results stream in as they are worked out.
+        <a href="/">Back to the review queue</a></p>
+    </div>
+    <div style="display:flex;gap:8px;align-items:center">
+      <span class="status" id="status"></span>
+      <button class="primary" id="run">Re-run analysis</button>
+    </div>
+  </div>
+
+  <div class="progress idle" id="prog"><i></i></div>
+  <div class="band" id="band"></div>
+
+  <div class="top" style="margin-bottom:12px">
+    <input type="search" id="q" placeholder="Search title or file…">
+    <span class="status" id="shown"></span>
+  </div>
+  <div class="list" id="rows"><div class="empty">Loading…</div></div>
+</div>
+<script>
+const K = new URLSearchParams(location.search).get("k");
+const q = (p) => K ? (p + (p.includes("?") ? "&" : "?") + "k=" + encodeURIComponent(K)) : p;
+const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g,
+  (c) => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+
+const VERDICTS = [
+  ["ready",        "Ready to import",  "nothing wrong with it"],
+  ["fixable",      "Fixable",          "repairable from the record"],
+  ["title-blocked","Title blocked",    "good song, the 409 rule refuses it"],
+  ["duplicate",    "Duplicate",        "already in the library, or twice here"],
+  ["needs-source", "Needs the source", "incomplete lyrics"],
+  ["not-a-song",   "Not a song",       "no Telugu at all"],
+];
+let ALL = [], filter = null, es = null;
+
+const worst = (r) => r.issues.some((i) => i.s === "critical") ? "critical"
+                   : r.issues.some((i) => i.s === "warning") ? "warning"
+                   : r.verdict === "ready" ? "ok" : "info";
+
+function why(r) {
+  if (r.duplicate_of) return `Already in the library as <b>#${r.duplicate_of.song_id} ${esc(r.duplicate_of.name)}</b>${r.duplicate_of.how ? ` — ${esc(r.duplicate_of.how)}` : ""}.`;
+  if (r.twin_in_review) return `A second copy of <b>${esc(r.twin_in_review)}</b>, also awaiting review.`;
+  if (r.issues.length) return r.issues.map((i) => esc(i.t)).join(" ");
+  if (r.title_blocked_by) return `Nothing wrong with the song. <code class="mono">POST /songs</code> will refuse it — the title is ${Math.round(r.title_blocked_by.score * 100)}% similar to <b>#${r.title_blocked_by.song_id} ${esc(r.title_blocked_by.name)}</b>, which is a different song. Rename, then import.`;
+  return "No defects found.";
+}
+
+function rowHtml(r) {
+  const t = [];
+  if (r.verdict === "ready") t.push('<span class="pill g">ready</span>');
+  if (r.title_blocked_by && r.verdict !== "ready") t.push('<span class="pill">renames</span>');
+  for (const i of r.issues.slice(0, 3))
+    t.push(`<span class="pill ${i.s === "critical" ? "k" : i.s === "warning" ? "w" : "n"}">${esc(i.k)}</span>`);
+  t.push(`<span class="pill n">${esc(r.corpus)}</span>`);
+  return `<div class="row sev-${worst(r)} new" data-v="${esc(r.verdict)}" data-s="${esc((r.title + " " + r.file).toLowerCase())}">
+    <span class="stripe"></span>
+    <span><span class="t">${esc(r.title)}</span>
+      <div class="why">${why(r)}</div>
+      <div class="meta">${esc(r.file)} · ${r.telugu_lines} telugu lines · ${r.stanzas} stanzas${r.author ? " · " + esc(r.author) : ""}</div></span>
+    <span class="tags">${t.join("")}</span></div>`;
+}
+
+function paint() {
+  const counts = {};
+  for (const r of ALL) counts[r.verdict] = (counts[r.verdict] || 0) + 1;
+  document.getElementById("band").innerHTML = VERDICTS.map(([k, label, d]) =>
+    `<button class="tile" data-v="${k}" aria-pressed="${filter === k}">
+       <span class="v ${k}">${counts[k] || 0}</span>
+       <span class="k">${label}</span><span class="d">${d}</span></button>`).join("");
+  const term = document.getElementById("q").value.trim().toLowerCase();
+  const show = ALL.filter((r) => (!filter || r.verdict === filter) &&
+                                 (!term || (r.title + " " + r.file).toLowerCase().includes(term)));
+  document.getElementById("shown").textContent =
+    `${show.length} of ${ALL.length} shown`;
+  document.getElementById("rows").innerHTML = show.length
+    ? show.map(rowHtml).join("")
+    : '<div class="empty">Nothing matches.</div>';
+}
+
+document.getElementById("band").onclick = (e) => {
+  const b = e.target.closest("button[data-v]"); if (!b) return;
+  filter = filter === b.dataset.v ? null : b.dataset.v; paint();
+};
+document.getElementById("q").oninput = paint;
+
+function stream() {
+  if (es) es.close();
+  ALL = [];
+  const btn = document.getElementById("run"); btn.disabled = true;
+  const prog = document.getElementById("prog"); prog.classList.remove("idle");
+  document.getElementById("rows").innerHTML = '<div class="empty">Analysing…</div>';
+  es = new EventSource(q("/api/analysis/stream"));
+  es.addEventListener("song", (e) => {
+    const { i, n, r } = JSON.parse(e.data);
+    ALL.push(r);
+    prog.firstElementChild.style.width = (i / n * 100) + "%";
+    document.getElementById("status").textContent = `analysing ${i} / ${n}`;
+    if (i % 25 === 0 || i === n) paint();
+  });
+  es.addEventListener("done", (e) => {
+    es.close(); btn.disabled = false; prog.classList.add("idle");
+    document.getElementById("status").textContent =
+      `${JSON.parse(e.data).total} songs analysed`;
+    paint();
+  });
+  es.addEventListener("error", () => {
+    es.close(); btn.disabled = false; prog.classList.add("idle");
+    document.getElementById("status").textContent = "stream interrupted — showing what arrived";
+    paint();
+  });
+}
+document.getElementById("run").onclick = stream;
+
+// show the last completed run immediately; re-run is a click away
+fetch(q("/api/analysis")).then((r) => r.json()).then((d) => {
+  ALL = d.results || [];
+  document.getElementById("status").textContent = ALL.length
+    ? `${ALL.length} songs · last run ${new Date(d.generated).toLocaleString()}`
+    : "no run yet";
+  ALL.length ? paint() : stream();
+}).catch(stream);
+</script>
+</body></html>

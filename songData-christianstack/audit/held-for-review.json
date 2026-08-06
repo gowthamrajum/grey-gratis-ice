@@ -1,0 +1,2034 @@
+[
+ {
+  "song_id": 1763,
+  "song_name": "Thalli vadilo pavalinche biddavale",
+  "note": "Guessed boundaries: pallavi is the opening couplet sung twice; the \"Vedhana ledu/Bhayamannadhi\" section matches the shape of the existing verses, and the pallavi restates before the \"Nee upakaaram\" section. Text is fragmented mid-phrase, so low confidence.",
+  "flags": [
+   "consecutive_duplicate_lines",
+   "main_very_long"
+  ],
+  "main_stanza": {
+   "telugu": [
+    "తల్లివడిలో పవలించే బిడ్డవలేనే",
+    "తండ్రి నీ ఒడిలోనే వదికితినయ్యా",
+    "తల్లి వడిలో పవలించే బిడ్డవలేనే",
+    "తండ్రి నీ వడిలోనే వదిగితినయ్యా"
+   ],
+   "english": [
+    "Thallivadilo pavalinche biddavalene",
+    "Thandri nee odilone vadhigithinayyaa",
+    "Thalli vadilo pavalinche biddavalene",
+    "Thandri nee vadilone vadhigithinayyaa"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "వేదన లేదు",
+     "శోధన లేదు",
+     "వేదన లేదు",
+     "శోధన లేదు",
+     "నీ హస్తం విడువనయ్యా",
+     "నే నీ హస్తం విడువనయ్యా",
+     "భయమన్నది",
+     "లేనే లేదు",
+     "భయమన్నది",
+     "లేనే లేదు",
+     "ప్రేమతో నడిపితివి",
+     "నీ ప్రేమ ప్రేమతో నడిపితివి"
+    ],
+    "english": [
+     "Vedhana ledu",
+     "Shodhana ledu",
+     "Vedhana ledu",
+     "Shodhana ledu",
+     "Nee hastham viduvanayyaa",
+     "Ne nee hastham viduvanayyaa",
+     "Bhayamannadhi",
+     "Lene ledu",
+     "Bhayamannadhi",
+     "Lene ledu",
+     "Prematho nadipithivi",
+     "Nee prema prematho nadipithivi"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "తల్లి వడిలో పవలించే బిడ్డవలేనే",
+     "తండ్రి నీ వడిలోనే వదిగితినయ్యా",
+     "తల్లి వడిలో పవలించే బిడ్డవలేనే",
+     "తండ్రి నీ వడిలోనే వదిగితినయ్యా",
+     "నీ ఉపకారం",
+     "స్మరించి",
+     "నీ ఉపకారం",
+     "స్మరించి",
+     "స్తుతి స్తోత్రం చెల్లెదను",
+     "నీకు స్తుతి స్తోత్రం తెలిపెదను"
+    ],
+    "english": [
+     "Thalli vadilo pavalinche biddavalene",
+     "Thandri nee vadilone vadhigithinayyaa",
+     "Thalli vadilo pavalinche biddavalene",
+     "Thandri nee vadilone vadhigithinayyaa",
+     "Nee upakaaram",
+     "Smarinchi",
+     "Nee upakaaram",
+     "Smarinchi",
+     "Sthuthi sthothram chelledhanu",
+     "Neeku sthuthi sthothram thelipedhanu"
+    ]
+   },
+   {
+    "stanza_number": 3,
+    "telugu": [
+     "చేయి విడువని",
+     "నా యేసయ్య",
+     "చేయి విడువని",
+     "నా యేసయ్య",
+     "కల్వరి నాయ నాయకుడా",
+     "నా కల్వరి నాయకుడా ||తల్లివడిలో||",
+     "తండ్రి నీ వడిలోనే వదికితినయ్యా ||తల్లివడిలో||"
+    ],
+    "english": [
+     "Cheyi viduvani",
+     "Naa Yesayya",
+     "Cheyi viduvani",
+     "Naa Yesayya",
+     "Kalvari naa naayakudaa",
+     "Naa Kalvari naayakudaa ||Thallivadilo||",
+     "Thandri nee vadilone vadhigithinayyaa ||Thallivadilo||"
+    ]
+   },
+   {
+    "stanza_number": 4,
+    "telugu": [
+     "మంచి కాపరి",
+     "జీవ కాపరి",
+     "మంచి కాపరి",
+     "జీవ కాపరి",
+     "హృదయ పాలకుడా",
+     "నా హృదయ",
+     "పాలకుడా",
+     "ఆధారమై",
+     "వచ్చితివా",
+     "ఆధారమై",
+     "వచ్చితివా",
+     "ఆత్మతో తో నడిపితివా",
+     "నీ ఆత్మతో నడిపితివా"
+    ],
+    "english": [
+     "Manchi kaapari",
+     "Jeeva kaapari",
+     "Manchi kaapari",
+     "Jeeva kaapari",
+     "Hrudaya paalakudaa",
+     "Naa hrudaya",
+     "Paalakudaa",
+     "Aadhaaramai",
+     "Vachchithivaa",
+     "Aadhaaramai",
+     "Vachchithivaa",
+     "Aathmatho tho nadipithivaa",
+     "Nee aathmatho nadipithivaa"
+    ]
+   },
+   {
+    "stanza_number": 5,
+    "telugu": [
+     "నిన్ను నేను పట్టుకుంటిని",
+     "నిన్ను నేను పట్టుకుంటిని",
+     "భుజము పైన సోలెదను",
+     "నీ భుజము పైన సోలెదను",
+     "నీ రెక్కల",
+     "నీడల నుండి",
+     "నీ రెక్కల",
+     "నీడల నుండి",
+     "లోకాని",
+     "మరచితిని",
+     "ఈ లోకాన్ని మరచితిని",
+     "తల్లి వడిలో పవలించే బిడ్డవలెనే"
+    ],
+    "english": [
+     "Ninnu nenu pattukuntini",
+     "Ninnu nenu pattukuntini",
+     "Bhujamu paina soledhanu",
+     "Nee bhujamu paina soledhanu",
+     "Nee rekkala",
+     "Needala nundi",
+     "Nee rekkala",
+     "Needala nundi",
+     "Lokaani",
+     "Marachithini",
+     "Ee lokaanni marachithini",
+     "Thalli vadilo pavalinche biddavalene"
+    ]
+   },
+   {
+    "stanza_number": 6,
+    "telugu": [
+     "తండ్రి నీ వడిలోనే వదిగితినయ్యా",
+     "తల్లి వడిలో పవళించే బిడ్డవలెనే",
+     "తండ్రి నీ ఒడిలోనే వదిగితినయ్యా",
+     "హల్లెలూయా హల్లెలూయ"
+    ],
+    "english": [
+     "Thandri nee vadilone vadhigithinayyaa",
+     "Thalli vadilo pavalinche biddavalene",
+     "Thandri nee odilone vadhigithinayyaa",
+     "Hallelooyaa hallelooya"
+    ]
+   }
+  ]
+ },
+ {
+  "song_id": 1765,
+  "song_name": "Yesayya Nuvve Naa Aasha",
+  "note": "Chorus (\"Yesayya / Nuvve naa aasha / Nuvve naa nammakam...\") promoted to main since it carries the title and the ||Yesayya|| markers point at it; the opening section and the following verse become blocks 1 and 2. Lines are fragmented mid-phrase and a verse straddles the old main/stanza boundary, so low confidence.",
+  "flags": [
+   "consecutive_duplicate_lines",
+   "main_very_long"
+  ],
+  "main_stanza": {
+   "telugu": [
+    "యేసయ్యా",
+    "నువ్వే నా ఆశ",
+    "నువ్వే నా నమ్మకం",
+    "చీకటి దారుల్లో",
+    "నడిచినా",
+    "నీ వెలుగే",
+    "నా గమ్యం"
+   ],
+   "english": [
+    "Yesayya",
+    "Nuvve naa aasha",
+    "Nuvve naa nammakam",
+    "Cheekati dhaarullo",
+    "Nadichinaa",
+    "Nee veluge",
+    "Naa gamyam"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "యేసయ్యా",
+     "యేసయ్యా",
+     "ఈ క్షణంలోనే",
+     "నీ సన్నిధి నాకు చాలయ్యా",
+     "ఎన్ని ఎన్ని మాటలు దాచుకున్నా",
+     "నీ ముందే అన్నీ కరిగిపోయాయ్యా",
+     "ఈ లోకం నన్ను అర్థం చేయని వేళ",
+     "నీ చూపే నాకు ధైర్యమయింది",
+     "నేను",
+     "ఒంటరిగా ఉన్నాననుకున్నప్పుడు",
+     "నీ సన్నిధే నాకు తోడయింది"
+    ],
+    "english": [
+     "Yesayya",
+     "Yesayya",
+     "Ee kshanamlone",
+     "Nee sannidhi naaku chaalayya",
+     "Enni enni maatalu dhaachukunnaa",
+     "Nee munde annee karigipoyaayya",
+     "Ee lokam nannu artham cheyani vela",
+     "Nee choope naaku dhairyamayindhi",
+     "Nenu",
+     "Ontarigaa unnaananukunnappudu",
+     "Nee sannidhe naaku thodayindhi"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "నా గుండెలో భయాలు పెరిగినప్పుడు",
+     "నీ మాట నన్ను నిలబెట్టిందయ్యా",
+     "నా శక్తి అంతా కరిగిపోయిన",
+     "వేళ",
+     "నీ బలం నన్ను మోసిందయ్యా",
+     "నేను అడగకముందే",
+     "తెలిసినవాడా",
+     "నా కన్నీళ్ల విలువ"
+    ],
+    "english": [
+     "Naa gundelo bhayaalu periginappudu",
+     "Nee maata nannu nilabettindhayya",
+     "Naa shakthi anthaa karigipoyina",
+     "Vela",
+     "Nee balam nannu mosindhayya",
+     "Nenu adagakamundhe",
+     "Thelisinavaadaa",
+     "Naa kanneella viluva"
+    ]
+   },
+   {
+    "stanza_number": 3,
+    "telugu": [
+     "తెలిసినవాడా డా",
+     "మాటలు లేకుండానే",
+     "నీవు",
+     "నా హృదయాన్ని శాంతి పరిచావయ్యా ||యేసయ్యా||",
+     "నువ్వే నా ఆశ",
+     "నువ్వే నా నమ్మకం",
+     "ఈ జీవితం",
+     "మారిపోయినా",
+     "నా నిన్ను వదలనయ్యా",
+     "ప్రభు",
+     "ఇక నా మార్గాలు కాదు యేసయ్యా",
+     "నీ చిత్తమే",
+     "నా దారి",
+     "నా రేపు ఎలా",
+     "ఉంటుందో తెలియకపోయినా",
+     "నీ చేతుల్లోనే",
+     "నన్ను పెట్ట పెట్టుకున్నా",
+     "నా భయాలు నా భరాలు నా నిన్న రేపు అన్నీ"
+    ],
+    "english": [
+     "Thelisinavaadaa",
+     "Maatalu lekundaane",
+     "Neevu",
+     "Naa hrudayaanni shaanthi parichaavayya ||Yesayya||",
+     "Nuvve naa aasha",
+     "Nuvve naa nammakam",
+     "Ee jeevitham",
+     "Maaripoyinaa",
+     "Naa ninnu vadhalanayya",
+     "Prabhu",
+     "Ika naa maargaalu kaadu Yesayya",
+     "Nee chitthame",
+     "Naa daari",
+     "Naa repu elaa",
+     "Untundho theliyakapoyinaa",
+     "Nee chethullone",
+     "Nannu pettukunnaa",
+     "Naa bhayaalu naa bhaaraalu naa ninna repu annee"
+    ]
+   },
+   {
+    "stanza_number": 4,
+    "telugu": [
+     "నీ పాదాల దగ్గర వదిలేస్తున్నా",
+     "నన్ను నీవే",
+     "నడిపించయ్యా ||యేసయ్యా||",
+     "నువ్వే నా ఆశ",
+     "నా శ్వాసలో",
+     "కూడా నీవే",
+     "నా ఊపిరి ఉన్నంతవరకు",
+     "నీ పేరే నా ప్రార్ధన యేసయ్యా",
+     "నీ కృపలో నిలిపేయ్యా",
+     "నీ ప్రేమలో దాచేయ్యా",
+     "ఈ జన్మంతా",
+     "నీదయ్యా"
+    ],
+    "english": [
+     "Nee paadaala dhaggara vadhilesthunnaa",
+     "Nannu neeve",
+     "Nadipinchayya ||Yesayya||",
+     "Nuvve naa aasha",
+     "Naa shwaasalo",
+     "Koodaa neeve",
+     "Naa oopiri unnanthavaraku",
+     "Nee pere naa praardhana Yesayya",
+     "Nee krupalo nilipeyya",
+     "Nee premalo dhaacheyya",
+     "Ee janmanthaa",
+     "Needhayya"
+    ]
+   },
+   {
+    "stanza_number": 5,
+    "telugu": [
+     "నా జీవితం",
+     "నీదయ్యా ||యేసయ్యా||"
+    ],
+    "english": [
+     "Naa jeevitham",
+     "Needhayya ||Yesayya||"
+    ]
+   }
+  ]
+ },
+ {
+  "song_id": 1807,
+  "song_name": "Lokaanaa unnadi okade devudu",
+  "note": "Deleted the \"Chorus:\" heading line. The 4-line \"Sajeevudu mana devudu\" block it labelled becomes block 1, and the 8 \"Yese mana X thaane mana Y\" lines after it are a verse matching the existing one. Left the 11 opening lines in main because the verses' \"|| Pilisthe ||\" markers point inside them; an alternative reading makes lines 4-11 a third verse - needs review.",
+  "flags": [
+   "main_has_stanza_markers",
+   "main_very_long"
+  ],
+  "main_stanza": {
+   "telugu": [
+    "లోకానా ఉన్నది ఒకడే దేవుడు",
+    "ప్రేమించు పాలించు ఏకైక నాధుడు",
+    "మన దేవుడు సజీవుడు",
+    "పిలిస్తే పలికేవాడు జగములనేలేవాడు",
+    "సకలం సృజియించినవాడు కునుకడు నిదురపోడు",
+    "సర్వోన్నత స్థలములలోన ఘన మహిమలు కలిగినవాడు",
+    "స్వయంగ మన దరిచేరి మనకండగ నిలిచేవాడు",
+    "చెరలోన నున్నవారికి విడుదల నిచ్చువాడు",
+    "క్రుంగినవారిని లేవనెత్తువాడు",
+    "నశియించువారిని వెదకి రక్షించువాడు",
+    "తనవారి గుండెలలో నివాసం చేయువాడు"
+   ],
+   "english": [
+    "Lokaanaa unnadi okade devudu",
+    "Preminchu paalinchu ekaika naadhudu",
+    "Mana devudu sajeevudu",
+    "Pilisthe palikevaadu jagamulanelevaadu",
+    "Sakalam srujiyinchinavaadu kunukadu nidurapodu",
+    "Sarvonnatha sthalamulalona ghana mahimalu kaliginavaadu",
+    "Swayanga mana dharicheri manakandaga nilichevaadu",
+    "Cheralona nunnavaariki vidudala nichchuvaadu",
+    "Krunginavaarini levanetthuvaadu",
+    "Nashiyinchuvaarini vedaki rakshinchuvaadu",
+    "Thanavaari gundelalo nivaasam cheyuvaadu"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "సజీవుడు మన దేవుడు నరుడై భువి చేరినవాడు",
+     "సజీవుడు మన దేవుడు మనకై మరణించినవాడు",
+     "సజీవుడు మన దేవుడు మరణం జయించినవాడు",
+     "సజీవుడు మన దేవుడు మరల రానున్నవాడు"
+    ],
+    "english": [
+     "Sajeevudu mana devudu narudai bhuvi cherinavaadu",
+     "Sajeevudu mana devudu manakai maraninchinavaadu",
+     "Sajeevudu mana devudu maranam jayinchinavaadu",
+     "Sajeevudu mana devudu marala raanunnavaadu"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "యేసే మన విమోచకుడు గొప్ప నిరీక్షణ కర్త",
+     "శాంతి సమాధానములు వరముగా నిచ్చువాడు",
+     "యేసే మన రక్షణ సంఘం తానే మన ఉన్నత దుర్గం",
+     "తన స్నేహితులు అంటు మనలను పిలిచేవాడు",
+     "తన రెక్కల క్రింద మనలను దాచువాడు",
+     "తన వెచ్చని వడిలో మనకున్నది ఎంతో క్షేమం",
+     "లోకాన లేరు యేసయ్యను మించినవారు",
+     "యేసే మన దైవం తానే మన అతిశయము || పిలిస్తే ||"
+    ],
+    "english": [
+     "Yese mana vimochakudu goppa nireekshana kartha",
+     "Shaanthi samaadhaanamulu varamugaa nichchuvaadu",
+     "Yese mana rakshana sangham thaane mana unnatha dhurgam",
+     "Thana snehithulu antu manalanu pilichevaadu",
+     "Thana rekkala krinda manalanu daachuvaadu",
+     "Thana vechchani vadilo manakunnadhi entho kshemam",
+     "Lokaana leru Yesayyanu minchinavaaru",
+     "Yese mana daivam thaane mana athishayamu || Pilisthe ||"
+    ]
+   },
+   {
+    "stanza_number": 3,
+    "telugu": [
+     "యేసే మన ప్రాణాధారం తానే మన జీవాహారం",
+     "జీవజలధారలు మనలో ప్రవహింపజేయువాడు",
+     "యేసే మన ఘనతకు మూలం తానే ఘనకీర్తికి మార్గం",
+     "నీతిమంతులు అంటు మనలను పిలిచేవాడు",
+     "తన ప్రాణమే వెలగ మనలను కొన్నవాడు",
+     "మనకంత విలువ తన విలువనిచ్చువాడు",
+     "యేసయ్యను ఎరిగిన ప్రతిజీవికి నిత్యజీవం",
+     "ఆ రాజుని కాదని బ్రతికుండుట ఎవరికి సాధ్యం || పిలిస్తే ||"
+    ],
+    "english": [
+     "Yese mana praanaadhaaram thaane mana jeevaahaaram",
+     "Jeevajaladhaaralu manalo pravahimpajeyuvaadu",
+     "Yese mana ghanathaku moolam thaane ghanakeerthiki maargam",
+     "Neethimanthulu antu manalanu pilichevaadu",
+     "Thana praaname velaga manalanu konnavaadu",
+     "Manakantha viluva thana viluvanichchuvaadu",
+     "Yesayyanu erigina prathijeeviki nithyajeevam",
+     "Aa raajuni kaadani brathikunduta evariki saadhyam || Pilisthe ||"
+    ]
+   }
+  ]
+ },
+ {
+  "song_id": 1966,
+  "song_name": "Nee Premanu Nee Karunanu",
+  "note": "Chorus ends at 'naalo nimpumu' (line 5, matching the 5-line verses); the following 6-line block is a separate section, moved out ahead of the two charanams. Boundary of the second block is a guess.",
+  "flags": [
+   "main_very_long"
+  ],
+  "main_stanza": {
+   "telugu": [
+    "నీ ప్రేమను నీ కరుణను",
+    "నీ శాంతిని నీ శక్తిని",
+    "నీ వివేకము నీ సాత్వీకము",
+    "నీ వినయము నీ స్వభావము",
+    "నాలో నింపుము"
+   ],
+   "english": [
+    "Nee premanu nee karunanu",
+    "Nee shaanthini nee shakthini",
+    "Nee vivekamu nee saathveekamu",
+    "Nee vinayamu nee swabhaavamu",
+    "Naalo nimpumu"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "నింపుము నీ కాంతిని",
+     "పరిశుద్దుడా నీ ఆత్మను",
+     "మా హృదిలో నింపుము",
+     "నీ మహిమ నీ ఘనత",
+     "నీ ప్రభావం నిలుచును…..",
+     "నిరతము ఓ యేసయ్య"
+    ],
+    "english": [
+     "Nimpumu nee kaanthini",
+     "Parishuddhudaa nee aathmanu",
+     "Maa hrudilo nimpumu",
+     "Nee mahima nee ghanatha",
+     "Nee prabhaavam niluchunu…..",
+     "Nirathamu o Yesayya"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "శోధన వేదన భరియించుచు",
+     "శిలువలో శ్రమలను పొందుచు",
+     "నిన్ను హింసించిన వారిని",
+     "నీవు మన్నించిన రీతిగ",
+     "మమ్మును మన్నించుము దేవా నేడే"
+    ],
+    "english": [
+     "Shodhana vedhana bhariyinchuchu",
+     "Shiluvalo shramalanu pondhuchu",
+     "Ninnu himsinchina vaarini",
+     "Neevu manninchina reethiga",
+     "Mammunu manninchumu Deva nede"
+    ]
+   },
+   {
+    "stanza_number": 3,
+    "telugu": [
+     "నీతో కూడ శిలువలో వ్రేలడిన",
+     "నేరస్తులలో ఒకని మొరను విని",
+     "నేడు నీవు నాతో పరదేసులో",
+     "ఉందువంటు నీవిచ్చిన అభయము",
+     "మాకును దయచేయుము దేవా నేడే"
+    ],
+    "english": [
+     "Neetho kooda shiluvalo vreladina",
+     "Nerasthulalo okani moranu vini",
+     "Nedu neevu naatho paradhesulo",
+     "Undhuvantu neevichchina abhayamu",
+     "Maakunu dayacheyumu Deva nede"
+    ]
+   }
+  ]
+ },
+ {
+  "song_id": 3857,
+  "song_name": "Sharanam Prabhuvaa",
+  "note": "Auto-caption text, but the title chorus is visible: 'Sharanam Prabhuvaa...' (main lines 15-16 + stanza 1) promoted to main and the 'Thappipothini' block made verse 1. Fragmented, so boundary is a guess.",
+  "flags": [
+   "consecutive_duplicate_lines",
+   "main_very_long"
+  ],
+  "main_stanza": {
+   "telugu": [
+    "శరణం ప్రభువా శరణం ప్రభువా",
+    "నిన్ను విడిచి నేను తప్పిపోతినయ్యా",
+    "శిక్షించకయ్యా",
+    "రక్షించుమయ్య",
+    "నిన్ను విడచి నేను జీవించలేను"
+   ],
+   "english": [
+    "Sharanam Prabhuvaa sharanam Prabhuvaa",
+    "Ninnu vidichi nenu thappipothinayyaa",
+    "Shikshinchakayyaa",
+    "rakshinchumayya",
+    "Ninnu vidachi nenu jeevinchalenu"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "తప్పిపోతిని తప్పిపోతిని",
+     "తప్పి పోతిని",
+     "నిన్ను విడచి మళ్ళీ మళ్ళీ దూరం పోతిని",
+     "ఒక్క మరణి ఒక మరణి",
+     "పాపం చేసితి",
+     "మోయలేని పాపమంతా మూటకట్టి",
+     "రక్షించువారు",
+     "లేక తిరుగుచుంటిని",
+     "అపవాది",
+     "బాణమునకు గురి అయతిని",
+     "రక్షించువారు",
+     "రులేక తిరుగుచుంటిని",
+     "అపవాది బానమునకు",
+     "గురి అయతిని"
+    ],
+    "english": [
+     "Thappipothini thappipothini",
+     "Thappi pothini",
+     "Ninnu vidachi mallee mallee dooram pothini",
+     "Okka marani oka marani",
+     "Paapam chesithi",
+     "Moyaleni paapamanthaa mootakatti",
+     "Rakshinchuvaaru",
+     "Leka thiruguchuntini",
+     "Apavaadi",
+     "baanamunaku guri ayathini",
+     "Rakshinchuvaaru",
+     "ruleka thiruguchuntini",
+     "Apavaadi baanamunaku",
+     "guri ayathini"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "లోకమ ంతా అందమని మురిసిపోతిని",
+     "అంధకారం వెలుగనే ప్రమలో ఉండి",
+     "లోకమంతా అందమనే మురిసిపోతిని",
+     "అంధకారం వెలుగనే ప్రమలో ఉంటిని",
+     "నీతి గల మార్గంనే విడిచియుంటిని",
+     "దుష్టుల",
+     "మార్గంనే గైకొంటిని",
+     "నీతిగల",
+     "మార్గంనే విడచియుంటిని",
+     "దుష్టుల మార్గం నే గైకొంటిని",
+     "శిక్షించకయ్యా",
+     "రక్షించుమయ్యా",
+     "నిన్ను విడిచి నేనుజీ జీవించలేను ||తప్పిపోతిని||"
+    ],
+    "english": [
+     "Lokamanthaa andhamani murisipothini",
+     "Andhakaaram velugane bhramalo undi",
+     "Lokamanthaa andhamane murisipothini",
+     "Andhakaaram velugane bhramalo untini",
+     "Neethi gala maargamne vidichiyuntini",
+     "Dushtula",
+     "maargamne gaikontini",
+     "Neethigala",
+     "maargamne vidachiyuntini",
+     "Dushtula maargam ne gaikontini",
+     "Shikshinchakayyaa",
+     "rakshinchumayyaa",
+     "Ninnu vidichi nenujee jeevinchalenu ||Thappipothini||"
+    ]
+   },
+   {
+    "stanza_number": 3,
+    "telugu": [
+     "యేసయ్య",
+     "యేసయ్య",
+     "శుద్ధి చేసి నూతనపరచయ్యా",
+     "యేసయ్య",
+     "యేసయ్య యేసయ్యా",
+     "బుద్ధి నేర్పి నీ బాటలో నడుపయ్యా"
+    ],
+    "english": [
+     "Yesayya",
+     "Yesayya",
+     "shuddhi chesi noothanaparachayyaa",
+     "Yesayya",
+     "Yesayya Yesayyaa",
+     "buddhi nerpi nee baatalo nadupayyaa"
+    ]
+   },
+   {
+    "stanza_number": 4,
+    "telugu": [
+     "యేసయ్యా",
+     "యేసయ్యా",
+     "శుద్ధి చేసి నూతనపరచయ్యా",
+     "యేసయ్య",
+     "యేసయ్య",
+     "బుద్ధి నేర్పి నీ బాటలో నడుపయ్యా",
+     "యేసయ్య",
+     "యేసయ్య",
+     "శుద్ధి చేసి నూతనపరచయ్యా",
+     "యేసయ్యా"
+    ],
+    "english": [
+     "Yesayyaa",
+     "Yesayyaa",
+     "shuddhi chesi noothanaparachayyaa",
+     "Yesayya",
+     "Yesayya",
+     "buddhi nerpi nee baatalo nadupayyaa",
+     "Yesayya",
+     "Yesayya",
+     "shuddhi chesi noothanaparachayyaa",
+     "Yesayyaa"
+    ]
+   },
+   {
+    "stanza_number": 5,
+    "telugu": [
+     "యేసయ్యా",
+     "ముద్ది నేర్పి నీ మాటల నడుపయ్యా",
+     "శరణం ప్రభువా శరణం ప్రభువా",
+     "నీ ఆత్మతో",
+     "నన్ను అభిషేకించయ్యా",
+     "రూపించుమయ్యా",
+     "బ్రతికించుమయ్యా",
+     "నీ సాక్షిగా",
+     "నేను జీవించెదనయ్యా",
+     "శరణం ప్రభువా శరణం ప్రభువా",
+     "నీ ఆత్మతో నన్ను అభిషేకించయ్యా",
+     "రూపించుమయ్యా",
+     "బ్రతికించుమయ్యా",
+     "నీ సాక్షిగా నేను జీవిం ించెదనయ్యా"
+    ],
+    "english": [
+     "Yesayyaa",
+     "Buddhi nerpi nee maatala nadupayyaa",
+     "Sharanam Prabhuvaa sharanam Prabhuvaa",
+     "Nee aathmatho",
+     "nannu abhishekinchayyaa",
+     "Roopinchumayyaa",
+     "brathikinchumayyaa",
+     "Nee saakshigaa",
+     "nenu jeevinchedhanayyaa",
+     "Sharanam Prabhuvaa sharanam Prabhuvaa",
+     "Nee aathmatho nannu abhishekinchayyaa",
+     "Roopinchumayyaa",
+     "brathikinchumayyaa",
+     "Nee saakshigaa nenu jeevinchedhanayyaa"
+    ]
+   }
+  ]
+ },
+ {
+  "song_id": 3978,
+  "song_name": "Jagamulanele paripaalaka Telugu kristiyan saang",
+  "note": "Deleted main lines 2-6, which are the singer's spoken introduction ('...kaabatti ee paata andharikee vachchina paate...'), not lyrics; the remaining lines are the chorus.",
+  "flags": [
+   "consecutive_duplicate_lines",
+   "main_very_long"
+  ],
+  "main_stanza": {
+   "telugu": [
+    "జగముల నేలే పరిపాలక జగతికి నీవే ఆధారము",
+    "జగములలే",
+    "పరిపాలక",
+    "జగతికి నీవే",
+    "ఆధారమా",
+    "ఆత్మతో",
+    "మనసుతో స్తోత్రగానం"
+   ],
+   "english": [
+    "Jagamula nele paripaalaka jagathiki neeve aadhaaramu",
+    "Jagamulanele",
+    "Paripaalaka",
+    "Jagathiki neeve",
+    "Aadhaaramaa",
+    "Aathmatho",
+    "Manasutho sthothragaanam"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "పాడెద",
+     "నిరదము ప్రేమ గీతము",
+     "యేసయ్యా",
+     "యేసయ్యా",
+     "నీ కృపా",
+     "చాలయ్యా"
+    ],
+    "english": [
+     "Paadeda",
+     "Nirathamu prema geethamu",
+     "Yesayya",
+     "Yesayya",
+     "Nee krupaa",
+     "Chaalayya"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "యేసయ్యా",
+     "యేసయ్యా",
+     "నీ ప్రేమే",
+     "చాలయ్యా"
+    ],
+    "english": [
+     "Yesayya",
+     "Yesayya",
+     "Nee preme",
+     "Chaalayya"
+    ]
+   },
+   {
+    "stanza_number": 3,
+    "telugu": [
+     "జగములనేలే",
+     "పరిపాలక"
+    ],
+    "english": [
+     "Jagamulanele",
+     "Paripaalaka"
+    ]
+   },
+   {
+    "stanza_number": 4,
+    "telugu": [
+     "జగతికి నీవే ఆధారమా",
+     "ఆత్మతో మనసుతో స్తోత్రగానము",
+     "పాడెద నిరద దము ప్రేమ గీతము యేసయ్యా"
+    ],
+    "english": [
+     "Jagathiki neeve aadhaaramaa",
+     "Aathmatho manasutho sthothragaanamu",
+     "Paadeda niratha thamu prema geethamu Yesayya"
+    ]
+   },
+   {
+    "stanza_number": 5,
+    "telugu": [
+     "యేసయ్యా",
+     "నీ కృపా"
+    ],
+    "english": [
+     "Yesayya",
+     "Nee krupaa"
+    ]
+   },
+   {
+    "stanza_number": 6,
+    "telugu": [
+     "చాలయ్యా",
+     "యేసయ్యా",
+     "యేసయ్యా"
+    ],
+    "english": [
+     "Chaalayya",
+     "Yesayya",
+     "Yesayya"
+    ]
+   },
+   {
+    "stanza_number": 7,
+    "telugu": [
+     "నీ ప్రేమే",
+     "చాలయ్యా"
+    ],
+    "english": [
+     "Nee preme",
+     "Chaalayya"
+    ]
+   },
+   {
+    "stanza_number": 8,
+    "telugu": [
+     "మహారాజుగా నా తోడువై నిలిచావు ప్రతి",
+     "స్థలమున నా భారము నీవు మోయగా సులువాయే నా",
+     "పయనము నీ దయ చేతనే కలిగిన క్షేమము ఎన్నడు",
+     "నరివేదంటూ గట్టిగా చప్పలు కొడుతూ పాడదాం",
+     "మహారాజుగా",
+     "నా తోడువై",
+     "నిలిచావు ప్రతి స్థలమున"
+    ],
+    "english": [
+     "Mahaaraajugaa naa thoduvai nilichaavu prathi",
+     "Sthalamuna naa bhaaramu neevu moyagaa suluvaaye naa",
+     "Payanamu nee daya chethane kaligina kshemamu ennadu",
+     "Nanu veedadhantoo gattigaa chappatlu kodutoo paadadhaam",
+     "Mahaaraajugaa",
+     "Naa thoduvai",
+     "Nilichaavu prathi sthalamuna"
+    ]
+   },
+   {
+    "stanza_number": 9,
+    "telugu": [
+     "నా భారము",
+     "నివమాయగా",
+     "సులువాయే నా పయనము"
+    ],
+    "english": [
+     "Naa bhaaramu",
+     "Neevu moyagaa",
+     "Suluvaaye naa payanamu"
+    ]
+   },
+   {
+    "stanza_number": 10,
+    "telugu": [
+     "మహారాజుగా",
+     "నా దోరువై",
+     "నిలిచావు ప్రతి స్థలమున",
+     "నా భారము",
+     "నీవు మాయగా",
+     "సులువాయే నా పయనము"
+    ],
+    "english": [
+     "Mahaaraajugaa",
+     "Naa thoduvai",
+     "Nilichaavu prathi sthalamuna",
+     "Naa bhaaramu",
+     "Neevu moyagaa",
+     "Suluvaaye naa payanamu"
+    ]
+   },
+   {
+    "stanza_number": 11,
+    "telugu": [
+     "నీ దయచేనే",
+     "కలిగిన క్షేమము",
+     "ఎన్నడు నను వీడదే"
+    ],
+    "english": [
+     "Nee dhayachethane",
+     "Kaligina kshemamu",
+     "Ennadu nanu veedadhe"
+    ]
+   },
+   {
+    "stanza_number": 12,
+    "telugu": [
+     "నీ దయచేతనే",
+     "కలిగిన క్షేమము ఎన్న ఎన్నడు నను",
+     "వీడదే",
+     "నీ సన్నిధిలో",
+     "పొందిన మేలు జరగని సౌభాగ్యమే"
+    ],
+    "english": [
+     "Nee dhayachethane",
+     "Kaligina kshemamu enna ennadu nanu",
+     "Veedadhe",
+     "Nee sannidhilo",
+     "Pondina melu jaragani saubhaagyame"
+    ]
+   },
+   {
+    "stanza_number": 13,
+    "telugu": [
+     "నీ సన్నిధిలో",
+     "పొందిన మేలు కలగని సౌభాగ్యమే"
+    ],
+    "english": [
+     "Nee sannidhilo",
+     "Pondina melu kalagani saubhaagyame"
+    ]
+   },
+   {
+    "stanza_number": 14,
+    "telugu": [
+     "యేసయ్యా",
+     "యేసయ్యా"
+    ],
+    "english": [
+     "Yesayya",
+     "Yesayya"
+    ]
+   },
+   {
+    "stanza_number": 15,
+    "telugu": [
+     "నీ కృప",
+     "చాలయ్యా"
+    ],
+    "english": [
+     "Nee krupa",
+     "Chaalayya"
+    ]
+   },
+   {
+    "stanza_number": 16,
+    "telugu": [
+     "యేసయ్యా",
+     "యేసయ్యా",
+     "నీ ప్రేమే",
+     "చాలయ్యా",
+     "యేసయ్యా",
+     "యేసయ్యా",
+     "నీ కృపా",
+     "చాలయ్యా",
+     "యేసయ్యా",
+     "యేసయ్యా"
+    ],
+    "english": [
+     "Yesayya",
+     "Yesayya",
+     "Nee preme",
+     "Chaalayya",
+     "Yesayya",
+     "Yesayya",
+     "Nee krupaa",
+     "Chaalayya",
+     "Yesayya",
+     "Yesayya"
+    ]
+   },
+   {
+    "stanza_number": 17,
+    "telugu": [
+     "నీ ప్రేమే",
+     "చాలయ్యా",
+     "జగములనేలే",
+     "పరిపాలక",
+     "జగదిగి నీవే ఆధారమా",
+     "సుకుమారుడా",
+     "నీ చిత్తము నేనెంత విధింతును నీ",
+     "మహిమ ప్రకటించగా నేనెంత ధన్యుడను జనులకు",
+     "లేదయ్యా ఈ శుభ తరణము నాకుఇది నీవుఇచ్చిన",
+     "గొప్ప భాగ్యము జీవితమంతా నీకు కల్పించి నీ",
+     "రుణము తీరుస్తానంటూ చప్పదాము",
+     "సుకుమారుడా",
+     "నీ చరితము",
+     "నేనెంత",
+     "వివరింతును"
+    ],
+    "english": [
+     "Nee preme",
+     "Chaalayya",
+     "Jagamulanele",
+     "Paripaalaka",
+     "Jagathiki neeve aadhaaramaa",
+     "Sukumaarudaa",
+     "Nee chitthamu nenentha vivarinthunu nee",
+     "Mahima prakatinchagaa nenentha dhanyudanu janulaku",
+     "Ledhayya ee shubha tharunamu naaku idhi neevu ichchina",
+     "Goppa bhaagyamu jeevithamanthaa neekarpinchi nee",
+     "Runamu theerusthaanantoo paadadhaamu",
+     "Sukumaarudaa",
+     "Nee charithamu",
+     "Nenentha",
+     "Vivarinthunu"
+    ]
+   },
+   {
+    "stanza_number": 18,
+    "telugu": [
+     "నీ మహిమను",
+     "ప్రకటించగా",
+     "నేనెంత ధన్యుడను"
+    ],
+    "english": [
+     "Nee mahimanu",
+     "Prakatinchagaa",
+     "Nenentha dhanyudanu"
+    ]
+   },
+   {
+    "stanza_number": 19,
+    "telugu": [
+     "సుకుమారుడా",
+     "నీ చరితము",
+     "నేనెంత వివరింతును",
+     "నీ మహిమను",
+     "ప్రకటించగా",
+     "నేనెంత ధన్య ధన్యుడను",
+     "గనులకు లేదే",
+     "ఈ శుభ తరుణం",
+     "నాగిది నీ భాగ్యమా"
+    ],
+    "english": [
+     "Sukumaarudaa",
+     "Nee charithamu",
+     "Nenentha vivarinthunu",
+     "Nee mahimanu",
+     "Prakatinchagaa",
+     "Nenentha dhanya dhanyudanu",
+     "Ghanulaku lede",
+     "Ee shubha tharunam",
+     "Naakidhi nee bhaagyamaa"
+    ]
+   },
+   {
+    "stanza_number": 20,
+    "telugu": [
+     "ఘనులకు లేదే",
+     "నీ శుభ తరుణం",
+     "నాకిది నీ భాగ్యమా"
+    ],
+    "english": [
+     "Ghanulaku lede",
+     "Nee shubha tharunam",
+     "Naakidhi nee bhaagyamaa"
+    ]
+   },
+   {
+    "stanza_number": 21,
+    "telugu": [
+     "జీవితమంతా",
+     "నీ కర్పిం",
+     "నీ ఋణమునే తీర్చనా"
+    ],
+    "english": [
+     "Jeevithamanthaa",
+     "Neekarpinchi",
+     "Nee runamune theerchanaa"
+    ]
+   },
+   {
+    "stanza_number": 22,
+    "telugu": [
+     "జీవితమంతా",
+     "ఈ గర్పించి",
+     "నీ ఋణమునే తీర్చనా",
+     "యేసయ్యా",
+     "యేసయ్యా",
+     "నీ కృప",
+     "చాలయ్యా",
+     "యేసయ్యా",
+     "యేసయ్యా"
+    ],
+    "english": [
+     "Jeevithamanthaa",
+     "Neekarpinchi",
+     "Nee runamune theerchanaa",
+     "Yesayya",
+     "Yesayya",
+     "Nee krupa",
+     "Chaalayya",
+     "Yesayya",
+     "Yesayya"
+    ]
+   },
+   {
+    "stanza_number": 23,
+    "telugu": [
+     "నీ ప్రేమే",
+     "చాలయ్యా",
+     "యేసయ్యా",
+     "యేసయ్యా",
+     "నీ కృపా",
+     "చాలయ్యా",
+     "యేసయ్యా",
+     "యేసయ్యా",
+     "నీ ప్రేమే",
+     "చాలయ్యా",
+     "జగములనేలే"
+    ],
+    "english": [
+     "Nee preme",
+     "Chaalayya",
+     "Yesayya",
+     "Yesayya",
+     "Nee krupaa",
+     "Chaalayya",
+     "Yesayya",
+     "Yesayya",
+     "Nee preme",
+     "Chaalayya",
+     "Jagamulanele"
+    ]
+   },
+   {
+    "stanza_number": 24,
+    "telugu": [
+     "పరిపాలక",
+     "జగతికి నీవే ఆధారమా",
+     "ఆత్మతో మనసుతో స్తోత్రగానము",
+     "పాడెద నిరతము",
+     "ప్రేమ గీతము",
+     "యేసయ్యా",
+     "యేసయ్యా"
+    ],
+    "english": [
+     "Paripaalaka",
+     "Jagathiki neeve aadhaaramaa",
+     "Aathmatho manasutho sthothragaanamu",
+     "Paadeda nirathamu",
+     "Prema geethamu",
+     "Yesayya",
+     "Yesayya"
+    ]
+   },
+   {
+    "stanza_number": 25,
+    "telugu": [
+     "నీ కృపా",
+     "చాలయ్యా"
+    ],
+    "english": [
+     "Nee krupaa",
+     "Chaalayya"
+    ]
+   },
+   {
+    "stanza_number": 26,
+    "telugu": [
+     "యేసయ్యా",
+     "యేసయ్యా",
+     "నీ ప్రేమే",
+     "చాలయ్యా"
+    ],
+    "english": [
+     "Yesayya",
+     "Yesayya",
+     "Nee preme",
+     "Chaalayya"
+    ]
+   },
+   {
+    "stanza_number": 27,
+    "telugu": [
+     "యేసయ్యా",
+     "యేసయ్యా",
+     "నీ కృప",
+     "చాలయ్యా",
+     "యేసయ్యా",
+     "యేసయ్యా",
+     "నీ ప్రేమే",
+     "చాలయ్యా",
+     "హలెలూయ హలెలూయ"
+    ],
+    "english": [
+     "Yesayya",
+     "Yesayya",
+     "Nee krupa",
+     "Chaalayya",
+     "Yesayya",
+     "Yesayya",
+     "Nee preme",
+     "Chaalayya",
+     "Halelooya halelooya"
+    ]
+   }
+  ]
+ },
+ {
+  "song_id": 4011,
+  "song_name": "Kanikara poornudaa naa Yesayyaa",
+  "note": "Auto-caption text: main lines 1-23 are the pallavi and its 'Neevunte naa venta' refrain repeated; the last main line ('Evvaru naatho leni vela') starts verse 1 and was joined to stanza 1.",
+  "flags": [
+   "main_very_long"
+  ],
+  "main_stanza": {
+   "telugu": [
+    "కనికర పూర్ణుడా",
+    "నా యేసయ్యా",
+    "నీ రక్షణ నాకిచ్చుటకు",
+    "నీ హస్తపు నీడకు పిలిచి విలువైన నీ",
+    "రక్తాన్ని నా కొరకు కార్చినావు",
+    "పలుమార్లు వైదొలిగినను",
+    "నీ ప్రేమ నిలబెట్టింది",
+    "పనికి రాని పాత్రను నేను విలువగా నను",
+    "మార్చినావు",
+    "నీవుంటే నా వెంట అంతే చాలయ్యా",
+    "నీ ప్రేమకు సాటేది",
+    "లేనే",
+    "లేదయ్యా",
+    "నీవుంటే నా వెంట అంతే చాలయ్యా",
+    "నీ ప్రేమకు",
+    "సాటేది",
+    "లేనే లేదయ్యా",
+    "కనికార పూర్ణుడా",
+    "నా",
+    "యేసయ్యా",
+    "నీ రక్షణ నాకిచ్చుటకు",
+    "నీ హస్తపు నీడకు పిలిచి విలువైన నీ",
+    "రక్తాన్ని నా కొరకు కార్చినావు"
+   ],
+   "english": [
+    "Kanikara poornudaa",
+    "Naa Yesayyaa",
+    "Nee rakshana naakichchutaku",
+    "Nee hasthapu needaku pilichi viluvaina nee",
+    "Rakthaanni naa koraku kaarchinaavu",
+    "Palumaarlu vaidholiginanu",
+    "Nee prema nilabettindhi",
+    "Paniki raani paathranu nenu viluvagaa nanu",
+    "Maarchinaavu",
+    "Neevunte naa venta anthe chaalayyaa",
+    "Nee premaku saatedhi",
+    "Lene",
+    "Ledayyaa",
+    "Neevunte naa venta anthe chaalayyaa",
+    "Nee premaku",
+    "Saatedhi",
+    "Lene ledayyaa",
+    "Kanikara poornudaa",
+    "Naa",
+    "Yesayyaa",
+    "Nee rakshana naakichchutaku",
+    "Nee hasthapu needaku pilichi viluvaina nee",
+    "Rakthaanni naa koraku kaarchinaavu"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "ఎవ్వరు నాతో లేని వేళ",
+     "ఒంటరిగా నేనున్న వేళ",
+     "ఆదరించేవారు",
+     "లేక ఎక్కి ఎక్కి ఎక్కి ఎచ్చిన వేళ"
+    ],
+    "english": [
+     "Evvaru naatho leni vela",
+     "Ontarigaa nenunna vela",
+     "Aadharinchevaaru",
+     "Leka ekki ekki ekki edchina vela"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "నీవు నాతో ఉన్నావయ్యా నన్ను ఆదరించావయ్యా",
+     "కన్నీరు తుడిచావయ్యా",
+     "నన్ను హత్తుకున్నావయ్యా",
+     "నీవుంటే నా వెంట అంతే చాలయ్యా",
+     "నీ ప్రేమకు సాటేదే",
+     "లేనే లేదయ్యా",
+     "నీవుంటే నా వెంట ంట అంతే చాలయ్యా",
+     "నీ ప్రేమకు సాటేది",
+     "లేనే లేదయ్యా ||కనికర|| ||కనికర||"
+    ],
+    "english": [
+     "Neevu naatho unnaavayyaa nannu aadharinchaavayyaa",
+     "Kanneeru thudichaavayyaa",
+     "Nannu hatthukunnaavayyaa",
+     "Neevunte naa venta anthe chaalayyaa",
+     "Nee premaku saatedhi",
+     "Lene ledayyaa",
+     "Neevunte naa venta nta anthe chaalayyaa",
+     "Nee premaku saatedhi",
+     "Lene ledayyaa ||Kanikara|| ||Kanikara||"
+    ]
+   },
+   {
+    "stanza_number": 3,
+    "telugu": [
+     "గుండె బరువుతో నేను నేలకు",
+     "ఒరిగిపోగా మాటలన్నీ గొంతులోనే",
+     "నువ్వబోయిన వేళ",
+     "నన్ను నువ్వు చూసావయ్యా",
+     "నెమ్మది నాకిచ్చావయ్యా",
+     "నాతో నీవు నడిచావయ్యా",
+     "నీతో నన్ను నిలిపావయ్యా",
+     "నా వెంట అంటే చాలయ్యా",
+     "నీ ప్రేమకు సాటేది",
+     "లేనే లేదయ్యా ||కనికర||"
+    ],
+    "english": [
+     "Gunde baruvutho nenu nelaku",
+     "Origipogaa maatalannee gonthulone",
+     "Nuvvaboyina vela",
+     "Nannu nuvvu choosaavayyaa",
+     "Nemmadi naakichchaavayyaa",
+     "Naatho neevu nadichaavayyaa",
+     "Neetho nannu nilipaavayyaa",
+     "Naa venta anthe chaalayyaa",
+     "Nee premaku saatedhi",
+     "Lene ledayyaa ||Kanikara||"
+    ]
+   }
+  ]
+ },
+ {
+  "song_id": 4454,
+  "song_name": "Yesu Vaipu",
+  "note": "Song had no stanzas at all: split the 14-line block into pallavi (1-4), charanam (5-8) and the 'Yesuraaju dwajamu' closing section (9-14). Boundaries inferred from sense only.",
+  "flags": [
+   "main_very_long",
+   "no_stanzas_at_all",
+   "zero_stanzas"
+  ],
+  "main_stanza": {
+   "telugu": [
+    "యేసు వైపు చూచుచు",
+    "నీ పయనమంత సాగని",
+    "కృతఙత స్తోత్రాలతో",
+    "రెట్టింపు ప్రేమ భక్తితో"
+   ],
+   "english": [
+    "Yeasu vaipu choochuchu",
+    "nee payanamanta saagani",
+    "kRta~mata stoatraalatoa",
+    "reTTimpu preama bhaktitoa"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "యేసు ఉంటే చాలనే",
+     "నిశ్చయంబు ఉన్నచో",
+     "ఎడారిలో సెలయేరులే",
+     "ఇరుకులో విషాలతే"
+    ],
+    "english": [
+     "yeasu unTea chaalanea",
+     "niSchayambu unnachoa",
+     "eDaariloa selayearulea",
+     "irukuloa vishaalatea"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "యేసురాజు ద్వజము బట్టి",
+     "ముందుగా నడువగా",
+     "జయ జయ గానాలతో",
+     "క్షణ క్షణం హుషారుగా",
+     "కరుములెత్తి గలము విప్పి",
+     "యేసుకే జయం అంటు సాగిపోదుము"
+    ],
+    "english": [
+     "yeasuraaju dwajamu baTTi",
+     "mundugaa naDuvagaa",
+     "jaya jaya gaanaalatoa",
+     "kshaNa kshaNam hushaarugaa",
+     "karumuletti galamu vippi",
+     "yeasukea jayam anTu saagipoadumu"
+    ]
+   }
+  ]
+ },
+ {
+  "song_id": 3493,
+  "song_name": "Intha goppa saakshi samoohamu",
+  "note": "Stanza 1 is 7 lines against 4-line verses and lines 5-7 read as a refrain (\"Mahima parachedhanu - Mahimalo nundedhanu\"), so I split them into main_stanza - but the marker is weak and the title gives no anchor, so this boundary is a guess.",
+  "flags": [
+   "empty_main"
+  ],
+  "main_stanza": {
+   "telugu": [
+    "ఎంతో సుందర జీవితము - మహిమతో నిండినది",
+    "సదా సర్వదా క్రీస్తుతో నుండి",
+    "మహిమ పరచెదను - మహిమలో నుండెదను"
+   ],
+   "english": [
+    "Entho sundara jeevithamu - Mahimatho nindinadhi",
+    "Sadaa sarvadaa Kreesthutho nundi",
+    "Mahima parachedhanu - Mahimalo nundedhanu"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "క్రీస్తుని చూచుచు సాగివెళ్ళెదను - సీయోను యాత్రలో",
+     "లోకమున్ విడిచి చేరుకొందును మహిమ దేశమున్",
+     "క్రీస్తుని అనుగ్రహములో సురక్షిత హస్తములలో",
+     "మహానందముతో స్తుతించుచు చేరుదు నాదేశమున్"
+    ],
+    "english": [
+     "Kreesthuni choochuchu saagivelledhanu - Seeyonu yaathralo",
+     "Lokamun vidichi cherukondhunu mahima dheshamun",
+     "Kreesthuni anugrahamulo surakshitha hasthamulalo",
+     "Mahaanandhamutho sthuthinchuchu cherudhu naadheshamun"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "దుఃఖ శ్రమలలో నన్ను రక్షించు దాగుచోటు ఆయనే",
+     "సంకటక్లేశ పరీక్షలలో జయము పొందెదను",
+     "ప్రభునికై జీవించెదను ఆయన అడుగు జాడలలో",
+     "ఆత్మ ప్రాణ శరీరము లర్పించి ఆయనను సేవింతును"
+    ],
+    "english": [
+     "Duhkha shramalalo nannu rakshinchu dhaaguchotu aayane",
+     "Sankataklesha pareekshalalo jayamu pondedanu",
+     "Prabhunikai jeevinchedanu aayana adugu jaadalalo",
+     "Aathma praana shareeramu larpinchi aayananu sevinthunu"
+    ]
+   },
+   {
+    "stanza_number": 3,
+    "telugu": [
+     "యాత్రికుడను ఈ జగమందు - పరవాసినైతి నేను",
+     "స్వల్పజీవితము భువియందు గడిపి - చేరుదున్ ఆ దేశమున్",
+     "నాకై విజ్ఞాపనము చేయు - మహాయాజకుడు యేసునితో",
+     "తోడి వారసుడనై ఆయనతో - నిత్యము ఏలెదను"
+    ],
+    "english": [
+     "Yaathrikudanu ee jagamandhu - Paravaasinaithi nenu",
+     "Swalpajeevithamu bhuviyandu gadipi - Cherudhun aa dheshamun",
+     "Naakai vignyaapanamu cheyu - Mahaayaajakudu Yesunitho",
+     "Thodi vaarasudanai aayanatho - Nithyamu eledhanu"
+    ]
+   }
+  ]
+ },
+ {
+  "song_id": 3551,
+  "song_name": "Ne bhraminchi nilchithi prema pravaahamu therichoochi",
+  "note": "Stanza 1 was 4 lines against 2-line verses elsewhere. Promoted the second couplet (both lines turn on 'rakthamuche' - the Saviour's blood) as the refrain, leaving the past-tense narrative couplet as verse 1. The first couplet is an equally plausible refrain, so this boundary is a guess.",
+  "flags": [
+   "empty_main"
+  ],
+  "main_stanza": {
+   "telugu": [
+    "పవిత్ర రక్తముచేత - నా పాపమెల్ల తీరె",
+    "నాదరణ పొందితినిపుడు - రక్షకుని రక్తముచే"
+   ],
+   "english": [
+    "Pavithra rakthamuchetha - Naa paapamella theere",
+    "Naadharana pondhithinipudu - Rakshakuni rakthamuche"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "నే భ్రమించి నిల్చితి ప్రేమ - ప్రవాహము తేరిచూచి",
+     "నా హృదయమందు సంపూర్ణ - సమాధానము నొందితిన్"
+    ],
+    "english": [
+     "Ne bhraminchi nilchithi prema - Pravaahamu therichoochi",
+     "Naa hrudayamandu sampoorna - Samaadhaanamu nondhithin"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "మున్ముందు ఈ ఓదార్పు చూడ - మిగుల ప్రయాసనొంది",
+     "వ్యర్థప్రయాస వీడినంత - రక్షకుని కృపనొందితి"
+    ],
+    "english": [
+     "Munmundhu ee odaarpu chooda - Migula prayaasanondhi",
+     "Vyarthaprayaasa veedinantha - Rakshakuni krupanondhithi"
+    ]
+   },
+   {
+    "stanza_number": 3,
+    "telugu": [
+     "తన కరము నా మీదనుంచి - నన్ను స్వస్థపడుమనెన్",
+     "నే నాయన వస్త్రము ముట్టి - ఆరోగ్యము పొందితిని"
+    ],
+    "english": [
+     "Thana karamu naa meedhanunchi - Nannu svasthapadumanen",
+     "Ne naayana vasthramu mutti - Aarogyamu pondithini"
+    ]
+   },
+   {
+    "stanza_number": 4,
+    "telugu": [
+     "నిరంతరము పుణ్య నాథుండు - నా ప్రక్క నుందుననెను",
+     "తనముఖ భాసురముచేత - నా యెదను నింపుచుండున్"
+    ],
+    "english": [
+     "Nirantharamu punya naathundu - Naa prakka nundhunanenu",
+     "Thanamukha bhaasuramuchetha - Naa edanu nimpuchundun"
+    ]
+   }
+  ]
+ },
+ {
+  "song_id": 3554,
+  "song_name": "Paapula rakshakudu Yesu goppa dhevaadhi Devudu Yesu",
+  "note": "Stanza 1 ran 6 lines against uniform 4-line verses. Promoted the closing 'Sarvambulo naaku sarvamesu / ... hallelooya aamen' couplet as the refrain (doxology close, and the final verse echoes it). The opening couplet matches the stored title, so the other split is also defensible - guessing.",
+  "flags": [
+   "empty_main"
+  ],
+  "main_stanza": {
+   "telugu": [
+    "సర్వంబులో నాకు సర్వమేసు",
+    "సర్వశక్తిగల యేసు హల్లెలూయ ఆమెన్"
+   ],
+   "english": [
+    "Sarvambulo naaku sarvamesu",
+    "Sarvashakthigala Yesu hallelooya aamen"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "పాపుల రక్షకుడు యేసు",
+     "గొప్ప దేవాది దేవుడు యేసు",
+     "కృపతో కౌగలించె నను యేసు",
+     "ఉపకారి నన్ను చేర్చె యేసు"
+    ],
+    "english": [
+     "Paapula rakshakudu Yesu",
+     "Goppa dhevaadhi Devudu Yesu",
+     "Krupatho kaugalinche nanu Yesu",
+     "Upakaari nannu cherche Yesu"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "గొఱ్ఱెలకు గొప్ప కాపరి యేసు",
+     "దొరుకు తన్ను వెదకు వారి కేసు",
+     "ఆరాధికులకు పరిశుద్ధుడేసు",
+     "నిరాశగలవారి మిత్రుడేసు"
+    ],
+    "english": [
+     "Gorrelaku goppa kaapari Yesu",
+     "Dhoruku thannu vedhaku vaari kesu",
+     "Aaraadhikulaku parishuddhudesu",
+     "Niraashagalavaari mithrudesu"
+    ]
+   },
+   {
+    "stanza_number": 3,
+    "telugu": [
+     "నాదు మార్గంబునకు వెలుగు యేసు",
+     "నాదు పాదంబులకు దీపము యేసు",
+     "నాదు దాహంబునకు పానము యేసు",
+     "నాదు యజ్ఞానంబునకు జ్ఞానము యేసు"
+    ],
+    "english": [
+     "Naadu maargambunaku velugu Yesu",
+     "Naadu paadhambulaku deepamu Yesu",
+     "Naadu dhaahambunaku paanamu Yesu",
+     "Naadu ajnaanambunaku jnaanamu Yesu"
+    ]
+   },
+   {
+    "stanza_number": 4,
+    "telugu": [
+     "నాదు రోగంబులకు వైద్యుడు యేసు",
+     "నాదు బాధ్యతల వహించు నేసు",
+     "నాదు ఏకాంతములో తోడు యేసు",
+     "నాకు తేనె కంటె బహు తీపి యేసు"
+    ],
+    "english": [
+     "Naadu rogambulaku vaidhyudu Yesu",
+     "Naadu baadhyathala vahinchu nesu",
+     "Naadu ekaanthamulo thodu Yesu",
+     "Naaku thene kante bahu theepi Yesu"
+    ]
+   },
+   {
+    "stanza_number": 5,
+    "telugu": [
+     "నాకు రక్షకుడు రక్షణ యేసు",
+     "నాకు విమోచకుడు విమోచ నేసు",
+     "నాకు జీవంబును దేవుడు యేసు",
+     "నాకు నీతి నాదు వెలుగు యేసు"
+    ],
+    "english": [
+     "Naaku rakshakudu rakshana Yesu",
+     "Naaku vimochakudu vimocha nesu",
+     "Naaku jeevambunu Devudu Yesu",
+     "Naaku neethi naadu velugu Yesu"
+    ]
+   },
+   {
+    "stanza_number": 6,
+    "telugu": [
+     "నాకు మాదిరి వెంబడించ యేసు",
+     "నాకు ముందు నడచు నాయకుడేసు",
+     "నాకు దుఃఖంబులో ఆదరణేసు",
+     "నాదు కష్టంబులో ధైర్యము యేసు"
+    ],
+    "english": [
+     "Naaku maadiri vembadincha Yesu",
+     "Naaku mundu nadachu naayakudesu",
+     "Naaku duhkhambulo aadharanesu",
+     "Naadu kashtambulo dhairyamu Yesu"
+    ]
+   },
+   {
+    "stanza_number": 7,
+    "telugu": [
+     "నాదు హృదయంబున యున్నవాడు యేసు",
+     "నాదు వృద్ధికి కారకుండు యేసు",
+     "నాదు కృంగుదలలో తోడనుండు యేసు",
+     "నాదు సర్వమందు నిల సర్వమేసు"
+    ],
+    "english": [
+     "Naadu hrudhayambuna yunnavaadu Yesu",
+     "Naadu vruddhiki kaarakundu Yesu",
+     "Naadu krungudhalalo thodanundu Yesu",
+     "Naadu sarvamandhu nila sarvamesu"
+    ]
+   }
+  ]
+ },
+ {
+  "song_id": 3919,
+  "song_name": "Pagatilo megha sthambhamugaa - Raathrilo agni sthambhamugaa",
+  "note": "Stanza 1 held two 4-line units merged. Every 4-line unit in the song follows the same template (two content lines, then '...Prabhuvaa' / '...thivi'), so there is likely no true refrain: promoted the FIRST unit and split the second out as verse 1. The 'Dhanya dhanya dhanya Prabhuku' unit reads like a chorus though, so this boundary is a guess.",
+  "flags": [
+   "empty_main"
+  ],
+  "main_stanza": {
+   "telugu": [
+    "పగటిలో మేఘ స్తంభముగా",
+    "రాత్రిలో యగ్ని స్తంభముగా",
+    "రక్షకుడవుగా నుండి ప్రభువా",
+    "సుఖశాంతితో గాచితివి"
+   ],
+   "english": [
+    "Pagatilo megha sthambhamugaa",
+    "Raathrilo agni sthambhamugaa",
+    "Rakshakudavugaa nundi Prabhuvaa",
+    "Sukhashaanthitho gaachithivi"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "ధన్య ధన్య ధన్య ప్రభుకు",
+     "తానే రక్షణ మన కొసగే",
+     "నీ సన్నిధికి నడిపి ప్రభువా",
+     "రాత్రింబవళ్ళు గాచితివి"
+    ],
+    "english": [
+     "Dhanya dhanya dhanya Prabhuku",
+     "Thaane rakshana mana kosage",
+     "Nee sannidhiki nadipi Prabhuvaa",
+     "Raathrimbavallu gaachithivi"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "వాక్యమన్నాతో పోషించి",
+     "బండ నీళ్ళను త్రాగించితివి",
+     "ఆత్మకు తృప్తి నిచ్చి ప్రభువా",
+     "శాంతిని నా కిచ్చితివి"
+    ],
+    "english": [
+     "Vaakyamannaatho poshinchi",
+     "Banda neellanu thraaginchithivi",
+     "Aathmaku thrupthi nichchi Prabhuvaa",
+     "Shaanthini naa kichchithivi"
+    ]
+   },
+   {
+    "stanza_number": 3,
+    "telugu": [
+     "ఆత్మీయ సుందర హృదయములో",
+     "ఆత్మ ప్రాణ శరీరములో",
+     "ఆత్మీయజీవ మొసగి ప్రభువా",
+     "ఆత్మను మేల్కొలిపితివి"
+    ],
+    "english": [
+     "Aathmeeya sundara hrudayamulo",
+     "Aathma praana shareeramulo",
+     "Aathmeeyajeeva mosagi Prabhuvaa",
+     "Aathmanu melkolipithivi"
+    ]
+   },
+   {
+    "stanza_number": 4,
+    "telugu": [
+     "కానానులోనికి తెచ్చితివి",
+     "పరశుధ్ధులతో జేర్చితివి",
+     "ప్రణుతించెదను నిన్ను ప్రభువా",
+     "సాగిలపడి పూజింతున్"
+    ],
+    "english": [
+     "Kaanaanuloniki thechchithivi",
+     "Parashudhdhulatho jerchithivi",
+     "Pranuthinchedhanu ninnu Prabhuvaa",
+     "Saagilapadi poojinthun"
+    ]
+   }
+  ]
+ },
+ {
+  "song_id": 3278,
+  "song_name": "Sthuthiyinchudi shudhdhudehovaanu sthuthiyinchudi",
+  "note": "main_stanza held only the psalm number '148' - deleted as junk; every verse is 2 lines except the first which has a 3rd line that is exactly the song title, so that line was promoted as the pallavi. Boundary is inferred - low confidence.",
+  "flags": [
+   "english_has_no_latin",
+   "telugu_has_no_telugu"
+  ],
+  "main_stanza": {
+   "telugu": [
+    "స్తుతియించుడి శుద్ధుడెహోవాను స్తుతియించుడి"
+   ],
+   "english": [
+    "Sthuthiyinchudi shudhdhudehovaanu sthuthiyinchudi"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "స్తుతియించుడాయన నాకాశవాసులారా",
+     "స్తుతియించుడి ఉన్నతస్థలములలో"
+    ],
+    "english": [
+     "Sthuthiyinchudaayana naakaashavaasulaaraa",
+     "Sthuthiyinchudi unnathasthalamulalo"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "స్తుతియించుడి దూతలారా మీరందరు",
+     "స్తుతియించుడాయనన్ సైన్యములారా"
+    ],
+    "english": [
+     "Sthuthiyinchudi doothalaaraa meerandaru",
+     "Sthuthiyinchudaayanan sainyamulaaraa"
+    ]
+   },
+   {
+    "stanza_number": 3,
+    "telugu": [
+     "స్తుతియించుడి సూర్యచంద్రులారా మీరు",
+     "కాంతిగల నక్షత్రములారా"
+    ],
+    "english": [
+     "Sthuthiyinchudi sooryachandhrulaaraa meeru",
+     "Kaanthigala nakshathramulaaraa"
+    ]
+   },
+   {
+    "stanza_number": 4,
+    "telugu": [
+     "స్తుతియించుడి పరమాకాశములారా",
+     "స్తుతియించుడి ఆకాశ జలములారా"
+    ],
+    "english": [
+     "Sthuthiyinchudi paramaakaashamulaaraa",
+     "Sthuthiyinchudi aakaasha jalamulaaraa"
+    ]
+   },
+   {
+    "stanza_number": 5,
+    "telugu": [
+     "స్తుతియించుడి సమస్త మకరములారా",
+     "స్తుతియించుడి అగాధ జలములారా"
+    ],
+    "english": [
+     "Sthuthiyinchudi samastha makaramulaaraa",
+     "Sthuthiyinchudi agaadha jalamulaaraa"
+    ]
+   },
+   {
+    "stanza_number": 6,
+    "telugu": [
+     "స్తుతియించుడగ్నియు వడగండ్లార",
+     "స్తుతియించుడాయన నావిరి హిమమా"
+    ],
+    "english": [
+     "Sthuthiyinchudagniyu vadagandlaara",
+     "Sthuthiyinchudaayana naaviri himamaa"
+    ]
+   },
+   {
+    "stanza_number": 7,
+    "telugu": [
+     "స్తుతియించు డాజ్ఞకు లోబడు తుఫాను",
+     "స్తుతియించుడి పర్వతములు గుట్టలారా"
+    ],
+    "english": [
+     "Sthuthiyinchu daagnaku lobadu thuphaanu",
+     "Sthuthiyinchudi parvathamulu guttalaaraa"
+    ]
+   },
+   {
+    "stanza_number": 8,
+    "telugu": [
+     "స్తుతియించుడి సమస్త ఫల వృక్షములారా",
+     "స్తుతియించుడి దేవదారు వృక్షములారా"
+    ],
+    "english": [
+     "Sthuthiyinchudi samastha phala vrukshamulaaraa",
+     "Sthuthiyinchudi dhevadhaaru vrukshamulaaraa"
+    ]
+   },
+   {
+    "stanza_number": 9,
+    "telugu": [
+     "స్తుతియించుడి మీరు కౄర మృగములారా",
+     "స్తుతియించుడి మీరు సాధు జంతువులారా"
+    ],
+    "english": [
+     "Sthuthiyinchudi meeru kroora mrugamulaaraa",
+     "Sthuthiyinchudi meeru saadhu janthuvulaaraa"
+    ]
+   },
+   {
+    "stanza_number": 10,
+    "telugu": [
+     "స్తుతియించుడి నేల ప్రాకు జీవులారా",
+     "స్తుతియించుడి మీ రాకాశ పక్షులారా"
+    ],
+    "english": [
+     "Sthuthiyinchudi nela praaku jeevulaaraa",
+     "Sthuthiyinchudi mee raakaasha pakshulaaraa"
+    ]
+   },
+   {
+    "stanza_number": 11,
+    "telugu": [
+     "స్తుతియించుడాయనన్ భూరాజులారా",
+     "స్తుతియించుడి సమస్త జనంబులారా"
+    ],
+    "english": [
+     "Sthuthiyinchudaayanan bhooraajulaaraa",
+     "Sthuthiyinchudi samastha janambulaaraa"
+    ]
+   }
+  ]
+ },
+ {
+  "song_id": 4395,
+  "song_name": "Paadedha",
+  "note": "Stanza 1 english was a verbatim copy of the pallavi english (a scraped chorus repeat), not the verse's transliteration, so it paired the chorus against the 8 verse lines. Dropped it; the real verse transliteration is absent from the source. Marked low because this deletes duplicated real text.",
+  "flags": [
+   "te_en_line_mismatch"
+  ],
+  "main_stanza": {
+   "telugu": [
+    "పాడెదా పాడెదా పాడెద యేసయ్యా",
+    "నీ నామ గానము నే చేసెద యేసయ్యా",
+    "నా హృదయ స్పందన తకదిమి తాళమై",
+    "నా కంఠధ్వని మధురశ్రావ్యమై",
+    "నా శ్వాసము సరిగమ నాదమై"
+   ],
+   "english": [
+    "Paadedha paadedha paadedha yesayya",
+    "nee naama gaanamu ne chesedha yesayya",
+    "naa hrudhaya spandhana thakadhimi thaalamai",
+    "naa kantadwani madhura sraavyamai",
+    "naa swaasamu sarigama naadhamai"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "నీవు చేసిన మేళుల మరువక",
+     "నా దోషముల క్షమించిన వాడవని",
+     "సంకటముల కుదుర్చిన వాడవని",
+     "మరణము నుండి కాపాడితివని",
+     "నా నేరములకు శిక్ష విధించక",
+     "అతిక్రమ క్రియలకు ప్రతిఫలమివ్వక",
+     "ఎన్నడు కలువని భూదిశలవలే",
+     "అపరాధముల దూరపరచితివని"
+    ],
+    "english": []
+   }
+  ]
+ },
+ {
+  "song_id": 1722,
+  "song_name": "Ninne Ninne Sthuthiyinthun - Ninne Ninne Keerthinthun",
+  "note": "Guessed boundaries: pallavi = first 3 lines, then a repeat of the pallavi, the single charanam with its Aaraadhana refrain, and the closing line.",
+  "flags": [
+   "main_long_no_stanzas",
+   "no_stanzas_at_all",
+   "zero_stanzas"
+  ],
+  "main_stanza": {
+   "telugu": [
+    "నిన్నే నిన్నే స్తుతియింతున్ - నిన్నే నిన్నే కీర్తింతున్",
+    "నిన్నే నిన్నే సేవింతున్ - నా యేసయ్యా (2)",
+    "ఆరాధన ఆరాధనా - ఆరాధన ఆరాధనా (2)"
+   ],
+   "english": [
+    "Ninne Ninne Sthuthiyinthun - Ninne Ninne Keerthinthun",
+    "Ninne Ninne Sevinthun - Naa Yesayyaa (2)",
+    "Aaraadhana Aaraadhanaa - Aaraadhana Aaraadhanaa (2)"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "నిన్నే నిన్నే స్తుతియింతున్ - నిన్నే నిన్నే కీర్తింతున్",
+     "నిన్నే నిన్నే సేవింతున్ - నా యేసయ్యా (2)"
+    ],
+    "english": [
+     "Ninne Ninne Sthuthiyinthun - Ninne Ninne Keerthinthun",
+     "Ninne Ninne Sevinthun - Naa Yesayyaa (2)"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "నా ధీనస్థితి నుండి - నన్ను లేవనెత్తావే - విలువైన నీ సేవ నాకిచ్చినావే (2)",
+     "ఆరాధన ఆరాధనా - ఆరాధన ఆరాధనా (2)"
+    ],
+    "english": [
+     "Naa Dheenasthithi Nundi - Nannu Levaneththaave - Viluvaina Nee Seva Naakichchinaave (2)",
+     "Aaraadhana Aaraadhanaa - Aaraadhana Aaraadhanaa (2)"
+    ]
+   },
+   {
+    "stanza_number": 3,
+    "telugu": [
+     "పరిశుద్ధుడా నీకే ఆరాధనా.. (4)"
+    ],
+    "english": [
+     "Parishuddhudaa Neeke Aaraadhanaa.. (4)"
+    ]
+   }
+  ]
+ },
+ {
+  "song_id": 2297,
+  "song_name": "Ananthamu nundi ananthamu varaku",
+  "note": "Promoted the 'Chorus -' line into main and moved the opening 6 lines out as stanza 1; the 'Chorus -' prefix could not be stripped without editing text, so flagged for review.",
+  "flags": [
+   "consecutive_duplicate_lines",
+   "main_has_stanza_markers"
+  ],
+  "main_stanza": {
+   "telugu": [
+    "ఛొరుస్ - ఆఅరడిన్తున్, ఆఅరడిన్తున్, ఆఅరదిన్తునూ ణిన్నె"
+   ],
+   "english": [
+    "Chorus - Aaraadhinthun, aaraadhinthun, aaraadhinthunoo ninne"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "ఆనన్తము నున్డి అనన్తము వరకు జీవిన్చు ఢెవ",
+     "ణిత్యత్వము నున్డి, నిత్యత్వము వరకు నివసిన్చు ఢెవ",
+     "ఏఎ భువికి యెల్లలను నియమిన్చినావు",
+     "సన్డ్రాలకు సరిహడ్దులు స్తపిన్చినావు",
+     "ణీ మహిమతొ నన్ను నిమ్పుము",
+     "ణీ మహిమతొ నన్ను నిమ్పుము"
+    ],
+    "english": [
+     "Ananthamu nundi ananthamu varaku jeevinchu Deva",
+     "Nithyathvamu nundi, nithyathvamu varaku nivasinchu Deva",
+     "Ee bhuviki ellalanu niyaminchinaavu",
+     "Sandraalaku sarihaddhulu sthaapinchinaavu",
+     "Nee mahimatho nannu nimpumu",
+     "Nee mahimatho nannu nimpumu"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "భూమ్యకశములు స్రుస్టిన్చినావు",
+     "ణీ పొలికలొ నన్ను నిర్మిన్చినావు",
+     "ణీ చిట్తము నాలొ నెరవెర్చుము ఢెవ,",
+     "ణీ కొరకై జీవిన్తును"
+    ],
+    "english": [
+     "Bhoomyaakaashamulu srushtinchinaavu",
+     "Nee polikalo nannu nirminchinaavu",
+     "Nee chitthamu naalo neraverchumu Deva,",
+     "Nee korakai jeevinthunu"
+    ]
+   },
+   {
+    "stanza_number": 3,
+    "telugu": [
+     "Vఇశ్వమును నిరతమ్ పలిన్చువాడ",
+     "ణీ హస్తముతొ నన్ను నడిపిన్చుము",
+     "ణీ రెక్కల వొడిలొనె నా క్శెమము ఢెవ",
+     "ణా హ్రుడయము అర్పిన్తును"
+    ],
+    "english": [
+     "Vishwamunu niratham paalinchuvaada",
+     "Nee hasthamutho nannu nadipinchumu",
+     "Nee rekkala vodilone naa kshemamu Deva",
+     "Naa hrudayamu arpinthunu"
+    ]
+   }
+  ]
+ }
+]

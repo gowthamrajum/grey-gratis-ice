@@ -1,0 +1,389 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Song review</title>
+<style>
+  :root {
+    --ground:#F6F6FA; --panel:#FFF; --line:#DEDEE9; --line-soft:#ECECF3;
+    --ink:#191826; --ink-2:#4C4B60; --ink-3:#7C7B92;
+    --accent:#2B3A8F; --accent-w:#2B3A8F14;
+    --good:#1F7A4D; --warn:#A8730E; --crit:#A32C29;
+    --good-w:#1F7A4D16; --warn-w:#A8730E16; --crit-w:#A32C2916;
+    --display:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+    --ui:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    --mono:ui-monospace,"SF Mono",SFMono-Regular,Menlo,monospace;
+    --te:"Noto Sans Telugu","Gautami","Nirmala UI",sans-serif;
+    /* JSON syntax colours are aliases of the tokens above, so the dark block
+       below re-theming --accent/--good/--warn/--crit re-themes these too. */
+    --j-key:var(--accent); --j-str:var(--good); --j-num:var(--warn);
+    --j-lit:var(--crit); --j-punc:var(--ink-3);
+  }
+  @media (prefers-color-scheme:dark){:root{
+    --ground:#111119; --panel:#191922; --line:#2E2E3D; --line-soft:#24242F;
+    --ink:#EDEDF4; --ink-2:#AEAEC2; --ink-3:#7E7E95;
+    --accent:#93A2EE; --accent-w:#93A2EE1F;
+    --good:#5BC48C; --warn:#E0A64A; --crit:#EC8480;
+    --good-w:#5BC48C1F; --warn-w:#E0A64A1F; --crit-w:#EC84801F;}}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--ui);
+       font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+  a{color:var(--accent)}
+  .wrap{max-width:1240px;margin:0 auto;padding:26px 20px 70px}
+  h1{font-family:var(--display);font-size:28px;margin:0 0 4px;font-weight:600}
+  h2{font-family:var(--display);font-size:18px;margin:0 0 8px;font-weight:600}
+  h3{font-size:12px;margin:0 0 8px;font-family:var(--mono);letter-spacing:.1em;
+     text-transform:uppercase;color:var(--ink-3);font-weight:500}
+  .sub{color:var(--ink-2);margin:0 0 18px}
+  .mono{font-family:var(--mono);font-variant-numeric:tabular-nums}
+
+  .bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:16px}
+  input[type=search],select,input[type=text]{font:inherit;padding:7px 10px;
+    border:1px solid var(--line);border-radius:3px;background:var(--panel);color:var(--ink)}
+  input[type=search]{min-width:230px;flex:1}
+  button{font:inherit;padding:7px 13px;border:1px solid var(--line);border-radius:3px;
+    background:var(--panel);color:var(--ink);cursor:pointer}
+  button:hover{border-color:var(--accent);color:var(--accent)}
+  button.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+  button.primary:hover{opacity:.9;color:#fff}
+  button[aria-pressed=true]{border-color:var(--accent);color:var(--accent);
+    background:var(--accent-w)}
+  :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+  .counts{display:flex;gap:16px;flex-wrap:wrap;margin-bottom:14px;
+          font-family:var(--mono);font-size:12px;color:var(--ink-3)}
+  .counts b{color:var(--ink);font-weight:600}
+
+  .list{border:1px solid var(--line);border-radius:3px;overflow:hidden;background:var(--panel)}
+  .row{display:grid;grid-template-columns:4px 1fr auto;gap:13px;align-items:center;
+       padding:10px 14px;border-bottom:1px solid var(--line-soft);cursor:pointer;
+       text-decoration:none;color:inherit}
+  .row:last-child{border-bottom:0}
+  .row:hover{background:var(--accent-w)}
+  .stripe{width:3px;height:26px;border-radius:2px;background:var(--ink-3);opacity:.4}
+  .critical .stripe{background:var(--crit);opacity:1}
+  .warning .stripe{background:var(--warn);opacity:1}
+  .t{font-weight:600;font-size:14px}
+  .m{color:var(--ink-2);font-size:12.5px;margin-top:1px}
+  .tags{display:flex;gap:5px;flex-wrap:wrap;justify-content:flex-end}
+  .pill{font-family:var(--mono);font-size:10px;letter-spacing:.05em;text-transform:uppercase;
+        padding:2px 6px;border-radius:2px;white-space:nowrap;background:var(--accent-w);color:var(--accent)}
+  .pill.k{background:var(--crit-w);color:var(--crit)}
+  .pill.w{background:var(--warn-w);color:var(--warn)}
+  .pill.d{background:var(--good-w);color:var(--good)}
+
+  .cols{display:grid;gap:18px;grid-template-columns:1fr 1fr;align-items:start}
+  @media (max-width:900px){.cols{grid-template-columns:1fr}}
+  .card{border:1px solid var(--line);border-radius:3px;background:var(--panel);padding:16px 18px}
+  .block{margin-bottom:14px}
+  .block .lbl{font-family:var(--mono);font-size:10px;letter-spacing:.1em;
+    text-transform:uppercase;color:var(--accent);margin-bottom:4px}
+  .te{font-family:var(--te);font-size:15px;line-height:1.75}
+  .en{color:var(--ink-3);font-size:12.5px;line-height:1.6;font-style:italic}
+  .issue{display:grid;grid-template-columns:3px 1fr;gap:11px;padding:9px 0;
+         border-bottom:1px solid var(--line-soft)}
+  .issue:last-child{border-bottom:0}
+  .issue i{display:block;border-radius:2px;background:var(--ink-3);opacity:.4}
+  .issue.critical i{background:var(--crit);opacity:1}
+  .issue.warning i{background:var(--warn);opacity:1}
+  .issue .k{font-family:var(--mono);font-size:11px;color:var(--ink-3)}
+  .issue .t2{font-size:13.5px}
+  textarea{width:100%;min-height:120px;font:inherit;padding:10px;border:1px solid var(--line);
+    border-radius:3px;background:var(--ground);color:var(--ink);resize:vertical}
+  .choices{display:flex;flex-wrap:wrap;gap:7px;margin:10px 0}
+  iframe{width:100%;height:520px;border:1px solid var(--line);border-radius:3px;background:#fff}
+  .framenote{font-size:12px;color:var(--ink-3);margin-top:7px}
+  .saved{color:var(--good);font-size:12.5px}
+
+  .jsonp summary{cursor:pointer;color:var(--accent);font-family:var(--mono);
+    font-size:11.5px;letter-spacing:.05em}
+  .jsonp .bar{margin:12px 0 10px}
+  .jsonp .bar button{padding:4px 10px;font-size:12.5px}
+  .jsonp .hint{font-size:12px;color:var(--ink-3);margin:0 0 10px}
+  pre.json{margin:0;padding:12px 14px;max-height:460px;overflow:auto;
+    background:var(--ground);border:1px solid var(--line-soft);border-radius:3px;
+    font-family:var(--mono);font-size:12.5px;line-height:1.65;color:var(--j-punc);
+    white-space:pre;tab-size:2}
+  pre.json .k{color:var(--j-key)}
+  pre.json .s{color:var(--j-str)}
+  pre.json .n{color:var(--j-num)}
+  pre.json .b{color:var(--j-lit)}
+  .note{border-left:2px solid var(--accent);padding-left:12px;color:var(--ink-2);font-size:13.5px}
+  .top{display:flex;justify-content:space-between;align-items:flex-start;gap:14px;margin-bottom:16px;flex-wrap:wrap}
+</style>
+</head>
+<body><div class="wrap" id="app">loading…</div>
+<script>
+const K = new URLSearchParams(location.search).get("k");
+const q = (p) => K ? (p + (p.includes("?") ? "&" : "?") + "k=" + encodeURIComponent(K)) : p;
+const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g,
+  (c) => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+const app = document.getElementById("app");
+let QUEUE = null;
+
+const DECISIONS = [
+  ["import-as-is",   "Import as-is"],
+  ["import-fixed",   "Import after the fix I describe"],
+  ["apply-proposal", "Apply the proposed fix"],
+  ["rename",         "Rename, then import"],
+  ["duplicate",      "Duplicate — leave out"],
+  ["keep-this",      "Duplicate: keep THIS copy"],
+  ["keep-other",     "Duplicate: keep the OTHER copy"],
+  ["retitle",        "Wrong title — retitle it"],
+  ["reharvest",      "Source is broken — re-harvest"],
+  ["discard",        "Not a song — discard"],
+  ["skip",           "Undecided"],
+];
+
+async function list() {
+  if (!QUEUE) QUEUE = await (await fetch(q("/api/queue"))).json();
+  const st = JSON.parse(sessionStorage.getItem("filters") || "{}");
+  app.innerHTML = `
+    <h1>Song review</h1>
+    <p class="sub">Every song from visualParsed, waytochurch and christianstack that is
+      <strong>not</strong> in the library, plus the ones already in it that the sanitiser
+      could not decide. Open a song to see what looks wrong, compare it against its
+      source, and say how it should be fixed.</p>
+    <div class="counts" id="counts"></div>
+    <div class="bar">
+      <input type="search" id="search" placeholder="Search title…" value="${esc(st.s || "")}">
+      <select id="src">
+        <option value="">All groups</option>
+        ${[...new Map(QUEUE.items.map((x) => [x.source, x.sourceName])).entries()]
+          .map(([k, v]) => `<option value="${esc(k)}">${esc(v)} (${QUEUE.items.filter((y) => y.source === k).length})</option>`).join("")}
+      </select>
+      <button id="inlib" aria-pressed="${st.L ? "true" : "false"}">Already in the library</button>
+      <select id="sev">
+        <option value="">Any severity</option>
+        <option value="critical">Critical</option>
+        <option value="warning">Warning</option>
+        <option value="info">Info</option>
+      </select>
+      <button id="undec" aria-pressed="${st.u ? "true" : "false"}">Undecided only</button>
+      <a href="${q("/export")}"><button>Export decisions</button></a>
+    </div>
+    <div class="list" id="rows"></div>`;
+  const $ = (i) => document.getElementById(i);
+  $("src").value = st.src || ""; $("sev").value = st.sev || "";
+  let undec = !!st.u;
+  let onlyLib = !!st.L;
+
+  function draw() {
+    const s = $("search").value.trim().toLowerCase();
+    sessionStorage.setItem("filters", JSON.stringify(
+      { s, src: $("src").value, sev: $("sev").value, u: undec, L: onlyLib }));
+    const items = QUEUE.items.filter((x) =>
+      (!s || x.title.toLowerCase().includes(s)) &&
+      (!$("src").value || x.source === $("src").value) &&
+      (!$("sev").value || x.severity === $("sev").value) &&
+      (!undec || !x.decision) &&
+      (!onlyLib || !!x.songId));
+    const done = QUEUE.items.filter((x) => x.decision).length;
+    $("counts").innerHTML =
+      `<span><b>${QUEUE.total}</b> songs awaiting a decision</span>
+       <span><b>${done}</b> decided</span>
+       <span><b>${items.length}</b> shown</span>
+       <span>library has <b>${QUEUE.library}</b></span>`;
+    $("rows").innerHTML = items.length ? items.map((x) => `
+      <a class="row ${x.severity}" href="${q("/item/" + x.id)}">
+        <span class="stripe"></span>
+        <span><span class="t">${esc(x.title) || "(untitled)"}</span>
+          <div class="m">${esc(x.reason)}</div></span>
+        <span class="tags">
+          ${x.decision ? `<span class="pill d">${esc(x.decision)}</span>` : ""}
+          ${x.issues.slice(0, 2).map((i) =>
+            `<span class="pill ${i.s === "critical" ? "k" : i.s === "warning" ? "w" : ""}">${esc(i.k)}</span>`).join("")}
+          <span class="pill">${esc(x.sourceName)}</span>
+        </span></a>`).join("")
+      : `<div style="padding:26px;text-align:center;color:var(--ink-3)">Nothing matches those filters.</div>`;
+  }
+  $("search").oninput = draw; $("src").onchange = draw; $("sev").onchange = draw;
+  $("undec").onclick = (e) => { undec = !undec;
+    e.currentTarget.setAttribute("aria-pressed", String(undec)); draw(); };
+  $("inlib").onclick = (e) => { onlyLib = !onlyLib;
+    e.currentTarget.setAttribute("aria-pressed", String(onlyLib)); draw(); };
+  draw();
+}
+
+function blocks(song) {
+  const b = [];
+  const one = (lbl, x) => {
+    if (!x) return;
+    const te = x.telugu || [], en = x.english || [];
+    if (!te.length && !en.length) return;
+    b.push(`<div class="block"><div class="lbl">${lbl}</div>
+      <div class="te">${te.map(esc).join("<br>")}</div>
+      ${en.length ? `<div class="en">${en.map(esc).join("<br>")}</div>` : ""}</div>`);
+  };
+  one("Chorus", song.main_stanza);
+  (song.stanzas || []).forEach((s, i) => one("Verse " + (i + 1), s));
+  return b.join("") || `<p class="sub">No lyrics recorded.</p>`;
+}
+
+// The record behind the page: what is stored, and the proposal when there is
+// one. JSON.stringify leaves Telugu as real characters — keep it that way.
+function record(it) {
+  const rec = { id: it.id, source: it.source, sourceName: it.sourceName,
+                title: it.title || "", author: it.author || "" };
+  if (it.songId) rec.songId = it.songId;
+  rec.song = { main_stanza: (it.song || {}).main_stanza || null,
+               stanzas: (it.song || {}).stanzas || [] };
+  if (it.proposed) { rec.proposal = it.proposal || null; rec.proposed = it.proposed; }
+  return JSON.stringify(rec, null, 2);
+}
+
+// Colour the tokens only. Everything left over is JSON punctuation, which has
+// no HTML-special characters, so escaping the matched tokens is enough.
+const TOK = /"(?:\\.|[^"\\])*"|\b(?:true|false|null)\b|-?\d+(?:\.\d+)?(?:[eE][+-]?\d+)?/g;
+function highlight(s) {
+  return s.replace(TOK, (m, off) => {
+    const cls = m[0] === '"' ? (/^\s*:/.test(s.slice(off + m.length)) ? "k" : "s")
+              : /^-?\d/.test(m) ? "n" : "b";
+    return `<span class="${cls}">${esc(m)}</span>`;
+  });
+}
+
+async function copyText(t) {
+  try {
+    if (navigator.clipboard && isSecureContext) {
+      await navigator.clipboard.writeText(t); return true;
+    }
+  } catch {}
+  // http:// on a LAN has no clipboard API — fall back to the old trick
+  try {
+    const ta = document.createElement("textarea");
+    ta.value = t; ta.setAttribute("readonly", "");
+    ta.style.cssText = "position:fixed;top:-1000px;opacity:0";
+    document.body.appendChild(ta); ta.select();
+    const ok = document.execCommand("copy");
+    ta.remove(); return ok;
+  } catch { return false; }
+}
+
+async function detail(id) {
+  const it = await (await fetch(q("/api/item/" + id))).json();
+  if (it.error) { app.innerHTML = `<p>Not found. <a href="${q("/")}">Back</a></p>`; return; }
+  const r = it.review || {};
+  const json = record(it);
+  app.innerHTML = `
+    <div class="top">
+      <div>
+        <a href="${q("/")}">&larr; All songs</a>
+        <h1>${esc(it.title) || "(untitled)"}</h1>
+        <p class="sub">${esc(it.sourceName)}${it.songId ? " · library #" + it.songId : ""}${it.author ? " · " + esc(it.author) : ""}</p>
+      </div>
+      <div class="tags">${it.issues.map((i) =>
+        `<span class="pill ${i.s === "critical" ? "k" : i.s === "warning" ? "w" : ""}">${esc(i.k)}</span>`).join("")}</div>
+    </div>
+    <p class="note">${esc(it.reason)}</p><br>
+    <div class="cols">
+      <div>
+        <div class="card"><h3>What looks wrong</h3>
+          ${it.issues.length ? it.issues.map((i) => `<div class="issue ${i.s}"><i></i>
+            <span><div class="k">${esc(i.k)}</div><div class="t2">${esc(i.t)}</div></span></div>`).join("")
+            : `<p class="sub" style="margin:0">Nothing detected automatically — it is here because it never made it into the library.</p>`}
+        </div><br>
+        ${it.proposal ? `<div class="card"><h3>Proposed fix (not applied)</h3>
+          <p style="margin:0 0 10px">${esc(it.proposal)}</p>
+          <details><summary style="cursor:pointer;color:var(--accent)">Show the proposed structure</summary>
+            <div style="margin-top:12px">${blocks(it.proposed || {})}</div></details></div><br>` : ""}
+        <div class="card"><h3>Stored now</h3>${blocks(it.song)}</div>
+        ${it.twin ? `<br><div class="card"><h3>The other copy — #${it.twin.song_id}</h3>
+          <p class="sub" style="margin:0 0 12px">${esc(it.twin.song_name)}
+            <span class="pill">${esc(it.twin.source)}</span></p>
+          ${blocks(it.twin)}</div>` : ""}<br>
+        <div class="card jsonp"><h3>JSON</h3>
+          <details>
+            <summary>Show the record as JSON</summary>
+            <div class="bar">
+              <button id="copyjson">Copy JSON</button>
+              <a href="${q("/api/item/" + encodeURIComponent(id) + "/raw")}"
+                 target="_blank" rel="noopener"><button>Open raw</button></a>
+              <span id="copymsg" class="saved"></span>
+            </div>
+            <p class="hint">Exactly what is stored${it.proposed ? ", plus the proposed structure" : ""} — 2-space indent, Telugu unescaped.</p>
+            <pre class="json">${highlight(json)}</pre>
+          </details>
+        </div>
+      </div>
+      <div>
+        <div class="card"><h3>Source</h3>
+          ${it.sourceUrl ? `<a href="${esc(it.sourceUrl)}" target="_blank" rel="noopener">${esc(it.sourceUrl)}</a>
+            <div style="margin-top:10px"><iframe src="${esc(it.sourceUrl)}" loading="lazy"
+              referrerpolicy="no-referrer" sandbox="allow-scripts allow-same-origin allow-popups"></iframe></div>
+            <p class="framenote">If the frame stays blank the site refuses to be embedded — use the link above.</p>`
+            : it.sourceFile ? `<p class="sub" style="margin:0">Parsed from a slide deck, no web source.
+                <code class="mono">${esc(it.sourceFile)}</code></p>`
+            : `<p class="sub" style="margin:0">No source page recorded for this song.</p>`}
+          ${it.scraped ? `<div style="margin-top:16px"><h3>What the source page said</h3>
+            ${(it.scraped.telugu || []).map((blk, i) => `<div class="block">
+              <div class="lbl">${i === 0 ? "Chorus" : "Verse " + i}</div>
+              <div class="te">${(blk || []).map(esc).join("<br>")}</div>
+              ${(it.scraped.english || [])[i] ? `<div class="en">${((it.scraped.english || [])[i] || []).map(esc).join("<br>")}</div>` : ""}
+            </div>`).join("")}
+            ${it.scraped.credits ? `<h3 style="margin-top:14px">Credits</h3>
+              ${Object.entries(it.scraped.credits).map(([k, v]) =>
+                `<div class="m"><strong>${esc(k)}:</strong> ${esc(v)}</div>`).join("")}` : ""}
+          </div>` : ""}
+        </div><br>
+        <div class="card"><h3>Your decision</h3>
+          <div class="choices" id="choices">
+            ${DECISIONS.map(([v, l]) => `<button data-v="${v}" aria-pressed="${r.decision === v}">${l}</button>`).join("")}
+          </div>
+          <label class="m" for="cmt">How should this song be fixed?</label>
+          <textarea id="cmt" placeholder="e.g. verse 2 belongs in the chorus; or: same song as #1420, drop it">${esc(r.comment || "")}</textarea>
+          <div class="bar" style="margin:10px 0 0">
+            <input type="text" id="who" placeholder="Your name (optional)" value="${esc(r.reviewer || "")}">
+            <button class="primary" id="save">Save</button>
+            <span id="msg" class="saved"></span>
+          </div>
+          ${r.updated_at ? `<p class="m" style="margin-top:8px">Last saved ${esc(r.updated_at)}</p>` : ""}
+        </div>
+      </div>
+    </div>`;
+
+  document.getElementById("copyjson").onclick = async (e) => {
+    const btn = e.currentTarget, msg = document.getElementById("copymsg");
+    const ok = await copyText(json);
+    msg.textContent = ok ? `Copied ${json.length.toLocaleString()} characters.`
+                         : "Could not copy — select the text instead.";
+    msg.style.color = ok ? "var(--good)" : "var(--crit)";
+    btn.setAttribute("aria-pressed", String(ok));
+    setTimeout(() => { msg.textContent = ""; btn.removeAttribute("aria-pressed"); }, 2500);
+  };
+
+  let chosen = r.decision || "";
+  document.getElementById("choices").onclick = (e) => {
+    const b = e.target.closest("button[data-v]"); if (!b) return;
+    chosen = b.dataset.v;
+    [...e.currentTarget.querySelectorAll("button")].forEach((x) =>
+      x.setAttribute("aria-pressed", String(x === b)));
+  };
+  document.getElementById("save").onclick = async (e) => {
+    const btn = e.currentTarget; btn.disabled = true;
+    const res = await fetch(q("/api/item/" + id), {
+      method: "POST", headers: { "content-type": "application/json" },
+      body: JSON.stringify({ decision: chosen,
+        comment: document.getElementById("cmt").value,
+        reviewer: document.getElementById("who").value }) });
+    btn.disabled = false;
+    document.getElementById("msg").textContent = res.ok ? "Saved." : "Could not save.";
+    if (res.ok && QUEUE) { const t = QUEUE.items.find((x) => x.id === id); if (t) t.decision = chosen; }
+    setTimeout(() => { document.getElementById("msg").textContent = ""; }, 2500);
+  };
+}
+
+function route() {
+  const m = location.pathname.match(/^\/item\/(.+)$/);
+  m ? detail(decodeURIComponent(m[1])) : list();
+}
+addEventListener("popstate", route);
+addEventListener("click", (e) => {
+  const a = e.target.closest("a[href]");
+  if (!a || a.target === "_blank" || !a.getAttribute("href").startsWith("/")) return;
+  e.preventDefault(); history.pushState({}, "", a.getAttribute("href")); route();
+});
+route();
+</script>
+</body></html>

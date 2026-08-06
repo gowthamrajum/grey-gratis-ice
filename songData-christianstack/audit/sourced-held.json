@@ -1,0 +1,693 @@
+[
+ {
+  "song_id": 3493,
+  "song_name": "Intha goppa saakshi samoohamu",
+  "changes": [
+   "rewrap",
+   "held_undecided"
+  ],
+  "updated_by": "sanitizer-sourced",
+  "main_stanza": {
+   "telugu": [
+    "ఎంతో సుందర జీవితము - మహిమతో నిండినది",
+    "సదా సర్వదా క్రీస్తుతో నుండి",
+    "మహిమ పరచెదను - మహిమలో నుండెదను"
+   ],
+   "english": [
+    "Entho sundara jeevithamu - Mahimatho nindinadhi",
+    "Sadaa sarvadaa Kreesthutho nundi",
+    "Mahima parachedhanu - Mahimalo nundedhanu"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "క్రీస్తుని చూచుచు సాగివెళ్ళెదను - సీయోను యాత్రలో",
+     "లోకమున్ విడిచి చేరుకొందును మహిమ దేశమున్",
+     "క్రీస్తుని అనుగ్రహములో సురక్షిత హస్తములలో",
+     "మహానందముతో స్తుతించుచు చేరుదు నాదేశమున్"
+    ],
+    "english": [
+     "Kreesthuni choochuchu saagivelledhanu - Seeyonu yaathralo",
+     "Lokamun vidichi cherukondhunu mahima dheshamun",
+     "Kreesthuni anugrahamulo surakshitha hasthamulalo",
+     "Mahaanandhamutho sthuthinchuchu cherudhu naadheshamun"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "దుఃఖ శ్రమలలో నన్ను రక్షించు దాగుచోటు ఆయనే",
+     "సంకటక్లేశ పరీక్షలలో జయము పొందెదను",
+     "ప్రభునికై జీవించెదను ఆయన అడుగు జాడలలో",
+     "ఆత్మ ప్రాణ శరీరము లర్పించి ఆయనను సేవింతును"
+    ],
+    "english": [
+     "Duhkha shramalalo nannu rakshinchu dhaaguchotu aayane",
+     "Sankataklesha pareekshalalo jayamu pondedanu",
+     "Prabhunikai jeevinchedanu aayana adugu jaadalalo",
+     "Aathma praana shareeramu larpinchi aayananu sevinthunu"
+    ]
+   },
+   {
+    "stanza_number": 3,
+    "telugu": [
+     "యాత్రికుడను ఈ జగమందు - పరవాసినైతి నేను",
+     "స్వల్పజీవితము భువియందు గడిపి - చేరుదున్ ఆ దేశమున్",
+     "నాకై విజ్ఞాపనము చేయు - మహాయాజకుడు యేసునితో",
+     "తోడి వారసుడనై ఆయనతో - నిత్యము ఏలెదను"
+    ],
+    "english": [
+     "Yaathrikudanu ee jagamandhu - Paravaasinaithi nenu",
+     "Swalpajeevithamu bhuviyandu gadipi - Cherudhun aa dheshamun",
+     "Naakai vignyaapanamu cheyu - Mahaayaajakudu Yesunitho",
+     "Thodi vaarasudanai aayanatho - Nithyamu eledhanu"
+    ]
+   }
+  ],
+  "_sources": [],
+  "_note": "Kept the previous pass's split - moving the last 3 lines of the 7-line stanza 1 into the pallavi leaves verse 1 at 4 lines, matching verses 2 and 3 exactly, and those 3 lines do read as a refrain. But a real problem the previous pass did not flag: the stored title 'Intha goppa saakshi samoohamu' appears NOWHERE in the stored text. Searching for it returned nothing. On the other songs in this packet the stored title reliably quotes the pallavi, which suggests this song's actual pallavi was never scraped and what I have promoted is a refrain-like tail of verse 1 standing in for it. Low: the split is tidy but may be papering over missing content. A human should check the source for a chorus beginning 'Intha goppa saakshi samoohamu' before this is written.",
+  "_edits": [
+   {
+    "kind": "split",
+    "before": "ఎంతో సుందర జీవితము - మహిమతో నిండినది",
+    "after": "ఎంతో సుందర జీవితము - మహిమతో నిండినది"
+   },
+   {
+    "kind": "split",
+    "before": "సదా సర్వదా క్రీస్తుతో నుండి",
+    "after": "సదా సర్వదా క్రీస్తుతో నుండి"
+   },
+   {
+    "kind": "split",
+    "before": "మహిమ పరచెదను - మహిమలో నుండెదను",
+    "after": "మహిమ పరచెదను - మహిమలో నుండెదను"
+   },
+   {
+    "kind": "split",
+    "before": "Entho sundara jeevithamu - Mahimatho nindinadhi",
+    "after": "Entho sundara jeevithamu - Mahimatho nindinadhi"
+   },
+   {
+    "kind": "split",
+    "before": "Sadaa sarvadaa Kreesthutho nundi",
+    "after": "Sadaa sarvadaa Kreesthutho nundi"
+   },
+   {
+    "kind": "split",
+    "before": "Mahima parachedhanu - Mahimalo nundedhanu",
+    "after": "Mahima parachedhanu - Mahimalo nundedhanu"
+   }
+  ],
+  "_rewrap": true
+ },
+ {
+  "song_id": 3551,
+  "song_name": "Ne bhraminchi nilchithi prema pravaahamu therichoochi",
+  "changes": [
+   "rewrap",
+   "held_undecided"
+  ],
+  "updated_by": "sanitizer-sourced",
+  "main_stanza": {
+   "telugu": [
+    "నే భ్రమించి నిల్చితి ప్రేమ - ప్రవాహము తేరిచూచి",
+    "నా హృదయమందు సంపూర్ణ - సమాధానము నొందితిన్"
+   ],
+   "english": [
+    "Ne bhraminchi nilchithi prema - Pravaahamu therichoochi",
+    "Naa hrudayamandu sampoorna - Samaadhaanamu nondhithin"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "పవిత్ర రక్తముచేత - నా పాపమెల్ల తీరె",
+     "నాదరణ పొందితినిపుడు - రక్షకుని రక్తముచే"
+    ],
+    "english": [
+     "Pavithra rakthamuchetha - Naa paapamella theere",
+     "Naadharana pondhithinipudu - Rakshakuni rakthamuche"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "మున్ముందు ఈ ఓదార్పు చూడ - మిగుల ప్రయాసనొంది",
+     "వ్యర్థప్రయాస వీడినంత - రక్షకుని కృపనొందితి"
+    ],
+    "english": [
+     "Munmundhu ee odaarpu chooda - Migula prayaasanondhi",
+     "Vyarthaprayaasa veedinantha - Rakshakuni krupanondhithi"
+    ]
+   },
+   {
+    "stanza_number": 3,
+    "telugu": [
+     "తన కరము నా మీదనుంచి - నన్ను స్వస్థపడుమనెన్",
+     "నే నాయన వస్త్రము ముట్టి - ఆరోగ్యము పొందితిని"
+    ],
+    "english": [
+     "Thana karamu naa meedhanunchi - Nannu svasthapadumanen",
+     "Ne naayana vasthramu mutti - Aarogyamu pondithini"
+    ]
+   },
+   {
+    "stanza_number": 4,
+    "telugu": [
+     "నిరంతరము పుణ్య నాథుండు - నా ప్రక్క నుందుననెను",
+     "తనముఖ భాసురముచేత - నా యెదను నింపుచుండున్"
+    ],
+    "english": [
+     "Nirantharamu punya naathundu - Naa prakka nundhunanenu",
+     "Thanamukha bhaasuramuchetha - Naa edanu nimpuchundun"
+    ]
+   }
+  ],
+  "_sources": [],
+  "_note": "Reversed the previous pass's choice. It promoted the SECOND couplet of the 4-line stanza 1 as the refrain on a thematic reading ('rakthamuche'); I promoted the FIRST couplet, because the stored title 'Ne bhraminchi nilchithi prema pravaahamu therichoochi' is exactly that first couplet. That heuristic is not free-floating - it is corroborated inside this packet: on song 3278 the stored title matched the pallavi line even though that line sat 3rd inside a verse rather than first in the blob, so these titles track the pallavi rather than simply copying the opening line. Either split leaves verse 1 as a couplet matching verses 2-4, so verse length cannot decide it. Lines moved, never edited. Low: this is one heuristic against the previous pass's, and no published copy was found to arbitrate.",
+  "_edits": [
+   {
+    "kind": "split",
+    "before": "నే భ్రమించి నిల్చితి ప్రేమ - ప్రవాహము తేరిచూచి",
+    "after": "నే భ్రమించి నిల్చితి ప్రేమ - ప్రవాహము తేరిచూచి"
+   },
+   {
+    "kind": "split",
+    "before": "నా హృదయమందు సంపూర్ణ - సమాధానము నొందితిన్",
+    "after": "నా హృదయమందు సంపూర్ణ - సమాధానము నొందితిన్"
+   },
+   {
+    "kind": "split",
+    "before": "Ne bhraminchi nilchithi prema - Pravaahamu therichoochi",
+    "after": "Ne bhraminchi nilchithi prema - Pravaahamu therichoochi"
+   },
+   {
+    "kind": "split",
+    "before": "Naa hrudayamandu sampoorna - Samaadhaanamu nondhithin",
+    "after": "Naa hrudayamandu sampoorna - Samaadhaanamu nondhithin"
+   }
+  ],
+  "_rewrap": true
+ },
+ {
+  "song_id": 3554,
+  "song_name": "Paapula rakshakudu Yesu goppa dhevaadhi Devudu Yesu",
+  "changes": [
+   "rewrap",
+   "held_undecided"
+  ],
+  "updated_by": "sanitizer-sourced",
+  "main_stanza": {
+   "telugu": [
+    "పాపుల రక్షకుడు యేసు",
+    "గొప్ప దేవాది దేవుడు యేసు"
+   ],
+   "english": [
+    "Paapula rakshakudu Yesu",
+    "Goppa dhevaadhi Devudu Yesu"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "కృపతో కౌగలించె నను యేసు",
+     "ఉపకారి నన్ను చేర్చె యేసు",
+     "సర్వంబులో నాకు సర్వమేసు",
+     "సర్వశక్తిగల యేసు హల్లెలూయ ఆమెన్"
+    ],
+    "english": [
+     "Krupatho kaugalinche nanu Yesu",
+     "Upakaari nannu cherche Yesu",
+     "Sarvambulo naaku sarvamesu",
+     "Sarvashakthigala Yesu hallelooya aamen"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "గొఱ్ఱెలకు గొప్ప కాపరి యేసు",
+     "దొరుకు తన్ను వెదకు వారి కేసు",
+     "ఆరాధికులకు పరిశుద్ధుడేసు",
+     "నిరాశగలవారి మిత్రుడేసు"
+    ],
+    "english": [
+     "Gorrelaku goppa kaapari Yesu",
+     "Dhoruku thannu vedhaku vaari kesu",
+     "Aaraadhikulaku parishuddhudesu",
+     "Niraashagalavaari mithrudesu"
+    ]
+   },
+   {
+    "stanza_number": 3,
+    "telugu": [
+     "నాదు మార్గంబునకు వెలుగు యేసు",
+     "నాదు పాదంబులకు దీపము యేసు",
+     "నాదు దాహంబునకు పానము యేసు",
+     "నాదు యజ్ఞానంబునకు జ్ఞానము యేసు"
+    ],
+    "english": [
+     "Naadu maargambunaku velugu Yesu",
+     "Naadu paadhambulaku deepamu Yesu",
+     "Naadu dhaahambunaku paanamu Yesu",
+     "Naadu ajnaanambunaku jnaanamu Yesu"
+    ]
+   },
+   {
+    "stanza_number": 4,
+    "telugu": [
+     "నాదు రోగంబులకు వైద్యుడు యేసు",
+     "నాదు బాధ్యతల వహించు నేసు",
+     "నాదు ఏకాంతములో తోడు యేసు",
+     "నాకు తేనె కంటె బహు తీపి యేసు"
+    ],
+    "english": [
+     "Naadu rogambulaku vaidhyudu Yesu",
+     "Naadu baadhyathala vahinchu nesu",
+     "Naadu ekaanthamulo thodu Yesu",
+     "Naaku thene kante bahu theepi Yesu"
+    ]
+   },
+   {
+    "stanza_number": 5,
+    "telugu": [
+     "నాకు రక్షకుడు రక్షణ యేసు",
+     "నాకు విమోచకుడు విమోచ నేసు",
+     "నాకు జీవంబును దేవుడు యేసు",
+     "నాకు నీతి నాదు వెలుగు యేసు"
+    ],
+    "english": [
+     "Naaku rakshakudu rakshana Yesu",
+     "Naaku vimochakudu vimocha nesu",
+     "Naaku jeevambunu Devudu Yesu",
+     "Naaku neethi naadu velugu Yesu"
+    ]
+   },
+   {
+    "stanza_number": 6,
+    "telugu": [
+     "నాకు మాదిరి వెంబడించ యేసు",
+     "నాకు ముందు నడచు నాయకుడేసు",
+     "నాకు దుఃఖంబులో ఆదరణేసు",
+     "నాదు కష్టంబులో ధైర్యము యేసు"
+    ],
+    "english": [
+     "Naaku maadiri vembadincha Yesu",
+     "Naaku mundu nadachu naayakudesu",
+     "Naaku duhkhambulo aadharanesu",
+     "Naadu kashtambulo dhairyamu Yesu"
+    ]
+   },
+   {
+    "stanza_number": 7,
+    "telugu": [
+     "నాదు హృదయంబున యున్నవాడు యేసు",
+     "నాదు వృద్ధికి కారకుండు యేసు",
+     "నాదు కృంగుదలలో తోడనుండు యేసు",
+     "నాదు సర్వమందు నిల సర్వమేసు"
+    ],
+    "english": [
+     "Naadu hrudhayambuna yunnavaadu Yesu",
+     "Naadu vruddhiki kaarakundu Yesu",
+     "Naadu krungudhalalo thodanundu Yesu",
+     "Naadu sarvamandhu nila sarvamesu"
+    ]
+   }
+  ],
+  "_sources": [],
+  "_note": "Reversed the previous pass's choice, same reasoning as 3551. Stanza 1 ran 6 lines against uniform 4-line verses, so exactly one couplet is the refrain; both candidates leave verse 1 at 4 lines, so length cannot decide. The previous pass took the closing doxology couplet ('Sarvambulo naaku sarvamesu / ... hallelooya aamen'); I took the opening couplet because it is word-for-word the stored title. Its argument is real though - that closing couplet does read as a doxology and verse 7 echoes it - so this is genuinely contested and stays low. Note the whole song is a litany with every line ending 'Yesu', which is why the internal evidence is so weak here. Lines moved, never edited.",
+  "_edits": [
+   {
+    "kind": "split",
+    "before": "పాపుల రక్షకుడు యేసు",
+    "after": "పాపుల రక్షకుడు యేసు"
+   },
+   {
+    "kind": "split",
+    "before": "గొప్ప దేవాది దేవుడు యేసు",
+    "after": "గొప్ప దేవాది దేవుడు యేసు"
+   },
+   {
+    "kind": "split",
+    "before": "Paapula rakshakudu Yesu",
+    "after": "Paapula rakshakudu Yesu"
+   },
+   {
+    "kind": "split",
+    "before": "Goppa dhevaadhi Devudu Yesu",
+    "after": "Goppa dhevaadhi Devudu Yesu"
+   }
+  ],
+  "_rewrap": true
+ },
+ {
+  "song_id": 3919,
+  "song_name": "Pagatilo megha sthambhamugaa - Raathrilo agni sthambhamugaa",
+  "changes": [
+   "rewrap",
+   "held_undecided"
+  ],
+  "updated_by": "sanitizer-sourced",
+  "main_stanza": {
+   "telugu": [
+    "పగటిలో మేఘ స్తంభముగా",
+    "రాత్రిలో యగ్ని స్తంభముగా",
+    "రక్షకుడవుగా నుండి ప్రభువా",
+    "సుఖశాంతితో గాచితివి"
+   ],
+   "english": [
+    "Pagatilo megha sthambhamugaa",
+    "Raathrilo agni sthambhamugaa",
+    "Rakshakudavugaa nundi Prabhuvaa",
+    "Sukhashaanthitho gaachithivi"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "ధన్య ధన్య ధన్య ప్రభుకు",
+     "తానే రక్షణ మన కొసగే",
+     "నీ సన్నిధికి నడిపి ప్రభువా",
+     "రాత్రింబవళ్ళు గాచితివి"
+    ],
+    "english": [
+     "Dhanya dhanya dhanya Prabhuku",
+     "Thaane rakshana mana kosage",
+     "Nee sannidhiki nadipi Prabhuvaa",
+     "Raathrimbavallu gaachithivi"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "వాక్యమన్నాతో పోషించి",
+     "బండ నీళ్ళను త్రాగించితివి",
+     "ఆత్మకు తృప్తి నిచ్చి ప్రభువా",
+     "శాంతిని నా కిచ్చితివి"
+    ],
+    "english": [
+     "Vaakyamannaatho poshinchi",
+     "Banda neellanu thraaginchithivi",
+     "Aathmaku thrupthi nichchi Prabhuvaa",
+     "Shaanthini naa kichchithivi"
+    ]
+   },
+   {
+    "stanza_number": 3,
+    "telugu": [
+     "ఆత్మీయ సుందర హృదయములో",
+     "ఆత్మ ప్రాణ శరీరములో",
+     "ఆత్మీయజీవ మొసగి ప్రభువా",
+     "ఆత్మను మేల్కొలిపితివి"
+    ],
+    "english": [
+     "Aathmeeya sundara hrudayamulo",
+     "Aathma praana shareeramulo",
+     "Aathmeeyajeeva mosagi Prabhuvaa",
+     "Aathmanu melkolipithivi"
+    ]
+   },
+   {
+    "stanza_number": 4,
+    "telugu": [
+     "కానానులోనికి తెచ్చితివి",
+     "పరశుధ్ధులతో జేర్చితివి",
+     "ప్రణుతించెదను నిన్ను ప్రభువా",
+     "సాగిలపడి పూజింతున్"
+    ],
+    "english": [
+     "Kaanaanuloniki thechchithivi",
+     "Parashudhdhulatho jerchithivi",
+     "Pranuthinchedhanu ninnu Prabhuvaa",
+     "Saagilapadi poojinthun"
+    ]
+   }
+  ],
+  "_sources": [],
+  "_note": "Kept the previous pass's split of the merged 8-line stanza 1 into two 4-line units, promoting the first; it agrees with the stored title, which quotes that unit's opening two lines. But I want to record the previous pass's doubt as a live alternative rather than let it disappear: all five 4-line units in this song share one template (two content lines, then a '...Prabhuvaa' line, then a '...thivi' line), so it is entirely possible this song has NO refrain and is five parallel verses - in which case the right answer is an empty main block, not a promoted first unit. The 'Dhanya dhanya dhanya Prabhuku' unit is also a more natural-sounding chorus than the one I promoted. Lines moved, never edited. Low - a published copy would settle it in seconds.",
+  "_edits": [
+   {
+    "kind": "split",
+    "before": "పగటిలో మేఘ స్తంభముగా",
+    "after": "పగటిలో మేఘ స్తంభముగా"
+   },
+   {
+    "kind": "split",
+    "before": "రాత్రిలో యగ్ని స్తంభముగా",
+    "after": "రాత్రిలో యగ్ని స్తంభముగా"
+   },
+   {
+    "kind": "split",
+    "before": "రక్షకుడవుగా నుండి ప్రభువా",
+    "after": "రక్షకుడవుగా నుండి ప్రభువా"
+   },
+   {
+    "kind": "split",
+    "before": "సుఖశాంతితో గాచితివి",
+    "after": "సుఖశాంతితో గాచితివి"
+   },
+   {
+    "kind": "split",
+    "before": "Pagatilo megha sthambhamugaa",
+    "after": "Pagatilo megha sthambhamugaa"
+   },
+   {
+    "kind": "split",
+    "before": "Raathrilo agni sthambhamugaa",
+    "after": "Raathrilo agni sthambhamugaa"
+   },
+   {
+    "kind": "split",
+    "before": "Rakshakudavugaa nundi Prabhuvaa",
+    "after": "Rakshakudavugaa nundi Prabhuvaa"
+   },
+   {
+    "kind": "split",
+    "before": "Sukhashaanthitho gaachithivi",
+    "after": "Sukhashaanthitho gaachithivi"
+   }
+  ],
+  "_rewrap": true
+ },
+ {
+  "song_id": 4031,
+  "song_name": "Chinni Tammudu Chitti Chellelu",
+  "changes": [
+   "rewrap",
+   "block_misaligned"
+  ],
+  "updated_by": "sanitizer-sourced",
+  "main_stanza": {
+   "telugu": [
+    "చిన్ని చిన్ని తమ్ముడు – చిట్టి చిట్టి చెల్లెలు",
+    "యేసయ్యను ఆరాధిస్తున్నావా….",
+    "యేసయ్య మాటను వింటున్నావా… ఓ ఓ ఓ ఓ"
+   ],
+   "english": [
+    "Chinni chinni thammudu chitti chitti chellelu",
+    "Yesayyanu aaradhisthunnava?",
+    "Yesayya maatanu vintunnava?"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "యోనా దేవునిమాట వినకపోయెనూ",
+     "కానీ చేపేమో దేవుని మాట అనుసరించెను",
+     "నీవు దేవుని మాట వింటున్నావా లేదా",
+     "మాట వినుటే కదా నిజమైన ఆరాధనా",
+     "యేసయ్యను ఆరాధిస్తున్నావా….",
+     "యేసయ్య మాటను వింటున్నావా… ఓ ఓ ఓ ఓ"
+    ],
+    "english": [
+     "Yona devuni maata vinakapoyenu",
+     "Kaani chepa devunini anusarinchenu",
+     "Neevu devuni maata vintunnava leda?",
+     "Maata vinte kada nizamaina aaradhana!"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "బిలాము దేవుని మాట త్రోసివేసేనూ",
+     "కానీ గాడిదేమో దేవునికొరకు మాటలాడేను",
+     "నీవు దేవుని మాట వింటున్నావా లేదా",
+     "మాట వినుటే కదా నిజమైన ఆరాధనా",
+     "యేసయ్యను ఆరాధిస్తున్నావా….",
+     "యేసయ్య మాటను వింటున్నావా… ఓ ఓ ఓ ఓ"
+    ],
+    "english": [
+     "Bilaamu devuni maata throsivesenu",
+     "Kaani gaadida devuni koraku maatlaadenu",
+     "Neevu devuni maata vintunnava leda?",
+     "Maata vinte kada nizamaina aaradhana!"
+    ]
+   }
+  ],
+  "_sources": [],
+  "_note": "Chorus only: the romanisation repeated its two question lines a second time; the Telugu has them once. Removed the repeat -> 3/3. HUMAN REVIEW NEEDED: both verses remain 6 Telugu / 4 romanised. The two extra Telugu lines are the chorus-return refrain, which the romanisation scrape omitted. Fixing needs either a source for the missing romanisation or a decision to drop the refrain lines from the verses. Did neither - the short array is left honest rather than filled in.",
+  "_edits": [
+   {
+    "kind": "deleted-junk",
+    "before": "Yesayya maatanu vintunnava?",
+    "after": null
+   },
+   {
+    "kind": "deleted-junk",
+    "before": "O Yesayyanu aaradhisthunnava?",
+    "after": null
+   }
+  ],
+  "_rewrap": true
+ },
+ {
+  "song_id": 4050,
+  "song_name": "Siluva Prayanam",
+  "changes": [
+   "rewrap",
+   "block_misaligned"
+  ],
+  "updated_by": "sanitizer-sourced",
+  "main_stanza": {
+   "telugu": [
+    "కలువరిలో సాగిన సిలువ ప్రయాణం",
+    "కరుణామయుని ప్రేమత్యాగం",
+    "నీ కొరకే…. నా కొరకే…",
+    "యేసు సిలువ మరణం"
+   ],
+   "english": [
+    "Kaluvarilo saagina siluva prayaanam",
+    "Karunaamayuni prema thyaagam",
+    "Nee korake naa korake",
+    "Yesu siluva maranam"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "శిష్యుడే అమ్మిన సైనికుడే ఉమ్మిన",
+     "అప్పగించబడిన నీవు అవమానం పొందిన",
+     "అందరి రక్షణ కోరే అన్యాయపు తీర్పు పొంది",
+     "అపవాదిని బంధించితీవీ",
+     "ఆ..అపవాదిని బంధించితీవీ",
+     "నీ కొరకే నా కొరకే",
+     "యేసు సిలువ మరణం"
+    ],
+    "english": [
+     "Shishyude ammina sainikude ummina",
+     "Appaginchabadi neevu avamaanamu pondhina",
+     "Andhari rakshana kori anyaayapu theerpu pondhenu",
+     "Apavaadhini bandhinchithivi"
+    ]
+   },
+   {
+    "stanza_number": 2,
+    "telugu": [
+     "యూదులే సుధులై సాధువునే శోధించిన",
+     "వెంబడించివాడే ఏసు ఎవరో నేనేరుగననీ",
+     "పడి చెడిన గొర్రెను బాగుచేయుటకై",
+     "సిలువలో వ్రేలాడితివి",
+     "ఆ…సిలువలో వ్రేలాడితివి",
+     "నీ కొరకే… నా కొరకే..",
+     "యేసు సిలువ మరణం"
+    ],
+    "english": [
+     "Yoodhule soodhulai saadhuvuni shodhinchina",
+     "Vembadinchuvaade Yesu evaro neneruganani",
+     "Padichedina gorrenu baagu cheyutakai",
+     "Siluvalo vrelaadithivi"
+    ]
+   }
+  ],
+  "_sources": [
+   "https://christianstack.com/lyrics/siluva-prayanam-jessi-telugu-christian-lyrics/"
+  ],
+  "_note": "Chorus only. The romanisation had the two closing Telugu lines run together on one line; split at the boundary the Telugu itself marks, using only text already present. Chorus now 4/4. The two charanams are NOT fixed and are left untouched: each has 7 Telugu lines against 4 romanised, and what the romanisation is missing is the 'aa..' echo line plus the two chorus tag-back lines. Supplying those would mean writing transliteration myself, so I left the arrays short and honest. The fetched page reports 4-line verses with the tag-back present, i.e. a different layout from this record, which I could not reconcile without transcribing lyrics from the page. Needs a human with the album booklet.",
+  "_edits": [
+   {
+    "kind": "realigned",
+    "before": "Nee korake naa korake Yesu siluva maranam",
+    "after": "Nee korake naa korake ⏎ Yesu siluva maranam"
+   }
+  ],
+  "_rewrap": true
+ },
+ {
+  "song_id": 4395,
+  "song_name": "Paadedha",
+  "changes": [
+   "rewrap",
+   "block_misaligned",
+   "held_undecided"
+  ],
+  "updated_by": "sanitizer-sourced",
+  "main_stanza": {
+   "telugu": [
+    "పాడెదా పాడెదా పాడెద యేసయ్యా",
+    "నీ నామ గానము నే చేసెద యేసయ్యా",
+    "నా హృదయ స్పందన తకదిమి తాళమై",
+    "నా కంఠధ్వని మధురశ్రావ్యమై",
+    "నా శ్వాసము సరిగమ నాదమై"
+   ],
+   "english": [
+    "Paadedha paadedha paadedha yesayya",
+    "nee naama gaanamu ne chesedha yesayya",
+    "naa hrudhaya spandhana thakadhimi thaalamai",
+    "naa kantadwani madhura sraavyamai",
+    "naa swaasamu sarigama naadhamai"
+   ]
+  },
+  "stanzas": [
+   {
+    "stanza_number": 1,
+    "telugu": [
+     "నీవు చేసిన మేళుల మరువక",
+     "నా దోషముల క్షమించిన వాడవని",
+     "సంకటముల కుదుర్చిన వాడవని",
+     "మరణము నుండి కాపాడితివని",
+     "నా నేరములకు శిక్ష విధించక",
+     "అతిక్రమ క్రియలకు ప్రతిఫలమివ్వక",
+     "ఎన్నడు కలువని భూదిశలవలే",
+     "అపరాధముల దూరపరచితివని"
+    ],
+    "english": []
+   }
+  ],
+  "_sources": [],
+  "_note": "Confirms the held_note. Stanza 1 pairs 8 Telugu verse lines against 5 romanised lines that are the PALLAVI's romanisation, not the verse's: lines 2-5 are byte-identical to main_stanza english and line 1 differs only in lengthened vowels. On screen this shows the chorus beside the verse. Removed the 5 wrong lines and left english empty rather than invent a verse romanisation. No published page carrying this song's verse transliteration was found (searched 'Paadedha paadedha yesayya', Victor Rampogu on christianstack, waytochurch, uecf.net). Held at LOW so a human signs off before the deletion is written.",
+  "_edits": [
+   {
+    "kind": "deleted-junk",
+    "before": "Paadedhaa paadedhaa paadedhaa yesayya",
+    "after": null
+   },
+   {
+    "kind": "deleted-junk",
+    "before": "nee naama gaanamu ne chesedha yesayya",
+    "after": null
+   },
+   {
+    "kind": "deleted-junk",
+    "before": "naa hrudhaya spandhana thakadhimi thaalamai",
+    "after": null
+   },
+   {
+    "kind": "deleted-junk",
+    "before": "naa kantadwani madhura sraavyamai",
+    "after": null
+   },
+   {
+    "kind": "deleted-junk",
+    "before": "naa swaasamu sarigama naadhamai",
+    "after": null
+   }
+  ],
+  "_rewrap": true
+ }
+]

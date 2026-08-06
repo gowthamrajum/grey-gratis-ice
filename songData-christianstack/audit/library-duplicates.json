@@ -1,0 +1,1481 @@
+{
+ "summary": {
+  "duplicate_pairs": 47,
+  "clusters": 47,
+  "redundant_copies": 47,
+  "cross_source_pairs": 25,
+  "title_conflicts": 4
+ },
+ "title_conflicts": [
+  {
+   "a": 247,
+   "b": 389,
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_opening": true,
+   "a_name": "Puttinaadanta Yesu Naathudu",
+   "b_name": "Thoorupu Dikkuna Chukka Butte",
+   "a_src": "clz",
+   "b_src": "clz",
+   "a_len": 248,
+   "b_len": 248,
+   "kind": "near-identical"
+  },
+  {
+   "a": 1956,
+   "b": 3919,
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_opening": true,
+   "a_name": "Dhanya dhanya dhanya Prabhuku thaane rakshana mana kosage",
+   "b_name": "Pagatilo megha sthambhamugaa - Raathrilo agni sthambhamugaa",
+   "a_src": "wtc",
+   "b_src": "wtc",
+   "a_len": 225,
+   "b_len": 225,
+   "kind": "near-identical"
+  },
+  {
+   "a": 921,
+   "b": 3780,
+   "jaccard": 0.945,
+   "containment": 1.0,
+   "same_opening": false,
+   "a_name": "Doshivaa Prabhu",
+   "b_name": "Sarva maanava paapa parihaaraarthamai doshivaa Prabhu",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 301,
+   "b_len": 326,
+   "kind": "near-identical"
+  },
+  {
+   "a": 1099,
+   "b": 3793,
+   "jaccard": 0.916,
+   "containment": 0.964,
+   "same_opening": false,
+   "a_name": "Vaaduko Naa Yesayyaa",
+   "b_name": "Vaadabaarani vishwaasam - Kopaginchani vaathsalyam",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 263,
+   "b_len": 259,
+   "kind": "near-identical"
+  }
+ ],
+ "pairs": [
+  {
+   "a": 216,
+   "b": 1286,
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_opening": true,
+   "a_name": "Neeke Naa Aaraadhanaa",
+   "b_name": "Neeke Naa Aaraadhana",
+   "a_src": "clz",
+   "b_src": "clz",
+   "a_len": 156,
+   "b_len": 156,
+   "kind": "near-identical"
+  },
+  {
+   "a": 247,
+   "b": 389,
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_opening": true,
+   "a_name": "Puttinaadanta Yesu Naathudu",
+   "b_name": "Thoorupu Dikkuna Chukka Butte",
+   "a_src": "clz",
+   "b_src": "clz",
+   "a_len": 248,
+   "b_len": 248,
+   "kind": "near-identical"
+  },
+  {
+   "a": 1956,
+   "b": 3919,
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_opening": true,
+   "a_name": "Dhanya dhanya dhanya Prabhuku thaane rakshana mana kosage",
+   "b_name": "Pagatilo megha sthambhamugaa - Raathrilo agni sthambhamugaa",
+   "a_src": "wtc",
+   "b_src": "wtc",
+   "a_len": 225,
+   "b_len": 225,
+   "kind": "near-identical"
+  },
+  {
+   "a": 921,
+   "b": 3780,
+   "jaccard": 0.945,
+   "containment": 1.0,
+   "same_opening": false,
+   "a_name": "Doshivaa Prabhu",
+   "b_name": "Sarva maanava paapa parihaaraarthamai doshivaa Prabhu",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 301,
+   "b_len": 326,
+   "kind": "near-identical"
+  },
+  {
+   "a": 1099,
+   "b": 3793,
+   "jaccard": 0.916,
+   "containment": 0.964,
+   "same_opening": false,
+   "a_name": "Vaaduko Naa Yesayyaa",
+   "b_name": "Vaadabaarani vishwaasam - Kopaginchani vaathsalyam",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 263,
+   "b_len": 259,
+   "kind": "near-identical"
+  },
+  {
+   "a": 202,
+   "b": 3909,
+   "jaccard": 0.895,
+   "containment": 0.945,
+   "same_opening": false,
+   "a_name": "Devuni Prema Idigo",
+   "b_name": "Devuni prema idigo janulaara",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 760,
+   "b_len": 759,
+   "kind": "near-identical"
+  },
+  {
+   "a": 1604,
+   "b": 3980,
+   "jaccard": 0.885,
+   "containment": 0.952,
+   "same_opening": false,
+   "a_name": "Devudu Choosthunnaadu",
+   "b_name": "Oo oo oo oo oo",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 451,
+   "b_len": 442,
+   "kind": "near-identical"
+  },
+  {
+   "a": 685,
+   "b": 807,
+   "jaccard": 0.881,
+   "containment": 0.969,
+   "same_opening": true,
+   "a_name": "Parishuddhudaa Paavanudaa",
+   "b_name": "Aaraadhana Neeke",
+   "a_src": "clz",
+   "b_src": "clz",
+   "a_len": 171,
+   "b_len": 183,
+   "kind": "near-identical"
+  },
+  {
+   "a": 1348,
+   "b": 3956,
+   "jaccard": 0.866,
+   "containment": 0.931,
+   "same_opening": true,
+   "a_name": "Entho Bhaagyambu",
+   "b_name": "Entho bhaagyambu Shree Yesu dorikenu",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 171,
+   "b_len": 172,
+   "kind": "near-identical"
+  },
+  {
+   "a": 387,
+   "b": 1593,
+   "jaccard": 0.86,
+   "containment": 0.941,
+   "same_opening": true,
+   "a_name": "Raajula Raajaa",
+   "b_name": "Raajula Raajaa Raanaiyunnavaadaa",
+   "a_src": "clz",
+   "b_src": "clz",
+   "a_len": 187,
+   "b_len": 181,
+   "kind": "near-identical"
+  },
+  {
+   "a": 335,
+   "b": 3958,
+   "jaccard": 0.848,
+   "containment": 0.932,
+   "same_opening": false,
+   "a_name": "Prabhuvaa Neeve Naadu Sharanam",
+   "b_name": "Prabhuvaa neeve naadu sharanam",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 239,
+   "b_len": 232,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 2087,
+   "b": 3487,
+   "jaccard": 0.839,
+   "containment": 0.916,
+   "same_opening": true,
+   "a_name": "Nadpumee mahaa Yehova loka yaathra yanduna",
+   "b_name": "Reference: ... neevu naaku thodai",
+   "a_src": "wtc",
+   "b_src": "wtc",
+   "a_len": 166,
+   "b_len": 165,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 1361,
+   "b": 3954,
+   "jaccard": 0.826,
+   "containment": 0.948,
+   "same_opening": false,
+   "a_name": "Nee Krupa Leni Kshanamu",
+   "b_name": "Nee krupa leni kshanamu nee daya leni kshanamu",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 221,
+   "b_len": 250,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 521,
+   "b": 3913,
+   "jaccard": 0.817,
+   "containment": 0.902,
+   "same_opening": false,
+   "a_name": "Vijaya Geethamul Paadare",
+   "b_name": "Vijayageethamul paadare Kreesthunaku jaya",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 357,
+   "b_len": 359,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 2902,
+   "b": 3734,
+   "jaccard": 0.803,
+   "containment": 0.894,
+   "same_opening": false,
+   "a_name": "Maataadu naa prabhuvaa naatho maataadu",
+   "b_name": "Maatlaadu naa Prabhuvaa naatho maataadu naa Prabhuvaa",
+   "a_src": "wtc",
+   "b_src": "wtc",
+   "a_len": 143,
+   "b_len": 144,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 2620,
+   "b": 3923,
+   "jaccard": 0.794,
+   "containment": 0.885,
+   "same_opening": false,
+   "a_name": "Jayaraaju jendaa etthi choopuchu yudhdhamucheya velledamu",
+   "b_name": "Velludhaam gelichedham rakshakuni naamamunanu",
+   "a_src": "wtc",
+   "b_src": "wtc",
+   "a_len": 203,
+   "b_len": 203,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 2455,
+   "b": 3921,
+   "jaccard": 0.788,
+   "containment": 0.884,
+   "same_opening": false,
+   "a_name": "Immaanuyeluni rakthamu nindina ootaye",
+   "b_name": "Hallelooyaa Yesuvaa kalvaripaina mruthudaa",
+   "a_src": "wtc",
+   "b_src": "wtc",
+   "a_len": 200,
+   "b_len": 201,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 714,
+   "b": 3907,
+   "jaccard": 0.781,
+   "containment": 0.881,
+   "same_opening": false,
+   "a_name": "Saakshyamichcheda",
+   "b_name": "Saakshya michcheda swaami Yesu",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 375,
+   "b_len": 372,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 1635,
+   "b": 3964,
+   "jaccard": 0.777,
+   "containment": 0.89,
+   "same_opening": false,
+   "a_name": "Naa Thodu Neeve Devaa",
+   "b_name": "Naa thodu neeve Deva",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 230,
+   "b_len": 238,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 400,
+   "b": 3210,
+   "jaccard": 0.738,
+   "containment": 0.851,
+   "same_opening": false,
+   "a_name": "Raare Choothamu",
+   "b_name": "Raare choothumu raajasuthudee",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 227,
+   "b_len": 226,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 1011,
+   "b": 3957,
+   "jaccard": 0.722,
+   "containment": 0.867,
+   "same_opening": false,
+   "a_name": "Jeeva Naadha Mukthi Daatha",
+   "b_name": "Jeeva naadha mukthi daatha",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 172,
+   "b_len": 148,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 883,
+   "b": 3902,
+   "jaccard": 0.718,
+   "containment": 0.926,
+   "same_opening": false,
+   "a_name": "Phalamulanaashinchina Paraloka Thandri",
+   "b_name": "Satthuva bhoomilo",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 228,
+   "b_len": 305,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 1322,
+   "b": 1594,
+   "jaccard": 0.715,
+   "containment": 0.859,
+   "same_opening": false,
+   "a_name": "Nadipinchu Naa Naavaa",
+   "b_name": "Guide My Boat",
+   "a_src": "clz",
+   "b_src": "clz",
+   "a_len": 500,
+   "b_len": 472,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 1967,
+   "b": 3785,
+   "jaccard": 0.702,
+   "containment": 0.848,
+   "same_opening": false,
+   "a_name": "Nee kanti paapavale nannu kaachutaku",
+   "b_name": "Kanti paapa vale nannu",
+   "a_src": "wtc",
+   "b_src": "wtc",
+   "a_len": 327,
+   "b_len": 359,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 721,
+   "b": 3948,
+   "jaccard": 0.699,
+   "containment": 0.836,
+   "same_opening": false,
+   "a_name": "Lechinaadayyaa",
+   "b_name": "Lechinaadayya maranapu mullu",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 240,
+   "b_len": 341,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 1510,
+   "b": 3934,
+   "jaccard": 0.696,
+   "containment": 0.821,
+   "same_opening": false,
+   "a_name": "Kallundi Choodaleni",
+   "b_name": "Kallundi choodaleni endaro unnaaru",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 173,
+   "b_len": 173,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 262,
+   "b": 2849,
+   "jaccard": 0.694,
+   "containment": 0.829,
+   "same_opening": false,
+   "a_name": "Nuvvante Ishtamu Naa Yesayyaa",
+   "b_name": "Neeku ishtudigaa ilalo ne undaalani",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 246,
+   "b_len": 251,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 239,
+   "b": 691,
+   "jaccard": 0.675,
+   "containment": 0.841,
+   "same_opening": false,
+   "a_name": "Nenunnaa Nenunnaa",
+   "b_name": "Paapaaniki Naaku Ae Sambandhamu Ledu",
+   "a_src": "clz",
+   "b_src": "clz",
+   "a_len": 840,
+   "b_len": 674,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 1085,
+   "b": 3889,
+   "jaccard": 0.665,
+   "containment": 0.821,
+   "same_opening": false,
+   "a_name": "Nee Premaa Nee Karunaa",
+   "b_name": "Nee prema nee karuna chaalunayaa",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 242,
+   "b_len": 229,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 2305,
+   "b": 2935,
+   "jaccard": 0.665,
+   "containment": 0.812,
+   "same_opening": false,
+   "a_name": "Nammi nammi manushyulanu neevu nammi palumaarlu",
+   "b_name": "Nammi Nammi",
+   "a_src": "wtc",
+   "b_src": "wtc",
+   "a_len": 236,
+   "b_len": 242,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 2536,
+   "b": 2930,
+   "jaccard": 0.664,
+   "containment": 0.819,
+   "same_opening": false,
+   "a_name": "Udayinchinaadu Kreesthudu nedu",
+   "b_name": "Udayinchinaadu Kreesthudu nedu udayinchinaadu",
+   "a_src": "wtc",
+   "b_src": "wtc",
+   "a_len": 260,
+   "b_len": 248,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 515,
+   "b": 3878,
+   "jaccard": 0.654,
+   "containment": 0.795,
+   "same_opening": false,
+   "a_name": "Brathikeda Nee Kosame",
+   "b_name": "Brathikeda nee kosame",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 235,
+   "b_len": 237,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 1796,
+   "b": 3918,
+   "jaccard": 0.613,
+   "containment": 0.763,
+   "same_opening": false,
+   "a_name": "Mahaa vaidhyundu vachchenu prajaali",
+   "b_name": "Maadhuryampu naamamu modhamichchugaanamu",
+   "a_src": "wtc",
+   "b_src": "wtc",
+   "a_len": 279,
+   "b_len": 277,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 64,
+   "b": 3960,
+   "jaccard": 0.609,
+   "containment": 0.871,
+   "same_opening": true,
+   "a_name": "Naa Priyudu Yesu",
+   "b_name": "Naa priyudu Yesu – Naa priyudu Yesu",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 344,
+   "b_len": 267,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 2476,
+   "b": 3408,
+   "jaccard": 0.601,
+   "containment": 0.789,
+   "same_opening": false,
+   "a_name": "Jagathi kethenche rakshana kartha",
+   "b_name": "Jagathi karudhenche rakshanakartha paapula mora vinenu Yesu",
+   "a_src": "wtc",
+   "b_src": "wtc",
+   "a_len": 131,
+   "b_len": 120,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 1297,
+   "b": 3974,
+   "jaccard": 0.591,
+   "containment": 0.754,
+   "same_opening": false,
+   "a_name": "Jai Jai Yesu",
+   "b_name": "Jai Jai Yesu Raajaa",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 291,
+   "b_len": 283,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 275,
+   "b": 1386,
+   "jaccard": 0.588,
+   "containment": 0.746,
+   "same_opening": false,
+   "a_name": "Melainaa Keedainaa",
+   "b_name": "Nenellappudu Yehovaa Ninu",
+   "a_src": "clz",
+   "b_src": "clz",
+   "a_len": 222,
+   "b_len": 225,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 926,
+   "b": 3955,
+   "jaccard": 0.586,
+   "containment": 0.76,
+   "same_opening": true,
+   "a_name": "Shaashwathamaina Prematho",
+   "b_name": "Shaashwathamaina Prematho Nanu Preminchaavayya",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 1380,
+   "b_len": 1303,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 1958,
+   "b": 1985,
+   "jaccard": 0.586,
+   "containment": 0.742,
+   "same_opening": true,
+   "a_name": "Yesu ninnu joothu nindhudhetagaa agocharaarthamul ne muttudhun",
+   "b_name": "Yesoo nin joothu nindu dhetagaa",
+   "a_src": "wtc",
+   "b_src": "wtc",
+   "a_len": 236,
+   "b_len": 238,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 1877,
+   "b": 2462,
+   "jaccard": 0.574,
+   "containment": 0.734,
+   "same_opening": false,
+   "a_name": "Naadhaa Samuyelu reethi nee yaamodha shabdamu",
+   "b_name": "Naathaa Samooyelu Reethi - Neeyaamodha Shabdamu",
+   "a_src": "wtc",
+   "b_src": "wtc",
+   "a_len": 199,
+   "b_len": 201,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 2360,
+   "b": 3884,
+   "jaccard": 0.574,
+   "containment": 0.802,
+   "same_opening": false,
+   "a_name": "Naa vedhanalo vedakithini",
+   "b_name": "Naa vedhanalo vedakithini Sree Yesuni paadaalanu",
+   "a_src": "wtc",
+   "b_src": "wtc",
+   "a_len": 141,
+   "b_len": 120,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 14,
+   "b": 3885,
+   "jaccard": 0.566,
+   "containment": 0.749,
+   "same_opening": false,
+   "a_name": "Naa Praanaaniki Praanam",
+   "b_name": "Naa praanaaniki praanam neeve Yesayya",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 284,
+   "b_len": 272,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 1482,
+   "b": 3905,
+   "jaccard": 0.561,
+   "containment": 0.744,
+   "same_opening": false,
+   "a_name": "Aasheervaadambul Maa Meeda",
+   "b_name": "Aasheervaadhambul maameedha varshimpajeyu",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 182,
+   "b_len": 171,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 1997,
+   "b": 3577,
+   "jaccard": 0.559,
+   "containment": 0.717,
+   "same_opening": false,
+   "a_name": "Shrungaara deshamu cheragaane naa dhuhkha",
+   "b_name": "Idhe naaku aanandamu aanandamu aanandamu",
+   "a_src": "wtc",
+   "b_src": "wtc",
+   "a_len": 216,
+   "b_len": 216,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 245,
+   "b": 3911,
+   "jaccard": 0.557,
+   "containment": 0.717,
+   "same_opening": false,
+   "a_name": "Koniyaada Tharame Ninnu",
+   "b_name": "Koniyaada dharame ninnu komala hrudaya",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 277,
+   "b_len": 276,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 1903,
+   "b": 3580,
+   "jaccard": 0.555,
+   "containment": 0.718,
+   "same_opening": false,
+   "a_name": "Anthya dinamandu dootha boora noodhu",
+   "b_name": "Anthyadhinamandhu dootha boora noodhuchundagaa",
+   "a_src": "wtc",
+   "b_src": "wtc",
+   "a_len": 218,
+   "b_len": 219,
+   "kind": "strong overlap"
+  },
+  {
+   "a": 1616,
+   "b": 3975,
+   "jaccard": 0.539,
+   "containment": 0.805,
+   "same_opening": true,
+   "a_name": "Neetho Unte Jeevitham",
+   "b_name": "Neetho unte jeevitham",
+   "a_src": "clz",
+   "b_src": "wtc",
+   "a_len": 344,
+   "b_len": 268,
+   "kind": "same song, one longer"
+  }
+ ],
+ "clusters": [
+  {
+   "members": [
+    {
+     "song_id": 216,
+     "name": "Neeke Naa Aaraadhanaa",
+     "source": "clz",
+     "skeleton_len": 156
+    },
+    {
+     "song_id": 1286,
+     "name": "Neeke Naa Aaraadhana",
+     "source": "clz",
+     "skeleton_len": 156
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 247,
+     "name": "Puttinaadanta Yesu Naathudu",
+     "source": "clz",
+     "skeleton_len": 248
+    },
+    {
+     "song_id": 389,
+     "name": "Thoorupu Dikkuna Chukka Butte",
+     "source": "clz",
+     "skeleton_len": 248
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 1956,
+     "name": "Dhanya dhanya dhanya Prabhuku thaane rakshana mana kosage",
+     "source": "wtc",
+     "skeleton_len": 225
+    },
+    {
+     "song_id": 3919,
+     "name": "Pagatilo megha sthambhamugaa - Raathrilo agni sthambhamugaa",
+     "source": "wtc",
+     "skeleton_len": 225
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 921,
+     "name": "Doshivaa Prabhu",
+     "source": "clz",
+     "skeleton_len": 301
+    },
+    {
+     "song_id": 3780,
+     "name": "Sarva maanava paapa parihaaraarthamai doshivaa Prabhu",
+     "source": "wtc",
+     "skeleton_len": 326
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 1099,
+     "name": "Vaaduko Naa Yesayyaa",
+     "source": "clz",
+     "skeleton_len": 263
+    },
+    {
+     "song_id": 3793,
+     "name": "Vaadabaarani vishwaasam - Kopaginchani vaathsalyam",
+     "source": "wtc",
+     "skeleton_len": 259
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 202,
+     "name": "Devuni Prema Idigo",
+     "source": "clz",
+     "skeleton_len": 760
+    },
+    {
+     "song_id": 3909,
+     "name": "Devuni prema idigo janulaara",
+     "source": "wtc",
+     "skeleton_len": 759
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 1604,
+     "name": "Devudu Choosthunnaadu",
+     "source": "clz",
+     "skeleton_len": 451
+    },
+    {
+     "song_id": 3980,
+     "name": "Oo oo oo oo oo",
+     "source": "wtc",
+     "skeleton_len": 442
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 685,
+     "name": "Parishuddhudaa Paavanudaa",
+     "source": "clz",
+     "skeleton_len": 171
+    },
+    {
+     "song_id": 807,
+     "name": "Aaraadhana Neeke",
+     "source": "clz",
+     "skeleton_len": 183
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 1348,
+     "name": "Entho Bhaagyambu",
+     "source": "clz",
+     "skeleton_len": 171
+    },
+    {
+     "song_id": 3956,
+     "name": "Entho bhaagyambu Shree Yesu dorikenu",
+     "source": "wtc",
+     "skeleton_len": 172
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 387,
+     "name": "Raajula Raajaa",
+     "source": "clz",
+     "skeleton_len": 187
+    },
+    {
+     "song_id": 1593,
+     "name": "Raajula Raajaa Raanaiyunnavaadaa",
+     "source": "clz",
+     "skeleton_len": 181
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 335,
+     "name": "Prabhuvaa Neeve Naadu Sharanam",
+     "source": "clz",
+     "skeleton_len": 239
+    },
+    {
+     "song_id": 3958,
+     "name": "Prabhuvaa neeve naadu sharanam",
+     "source": "wtc",
+     "skeleton_len": 232
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 2087,
+     "name": "Nadpumee mahaa Yehova loka yaathra yanduna",
+     "source": "wtc",
+     "skeleton_len": 166
+    },
+    {
+     "song_id": 3487,
+     "name": "Reference: ... neevu naaku thodai",
+     "source": "wtc",
+     "skeleton_len": 165
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 1361,
+     "name": "Nee Krupa Leni Kshanamu",
+     "source": "clz",
+     "skeleton_len": 221
+    },
+    {
+     "song_id": 3954,
+     "name": "Nee krupa leni kshanamu nee daya leni kshanamu",
+     "source": "wtc",
+     "skeleton_len": 250
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 521,
+     "name": "Vijaya Geethamul Paadare",
+     "source": "clz",
+     "skeleton_len": 357
+    },
+    {
+     "song_id": 3913,
+     "name": "Vijayageethamul paadare Kreesthunaku jaya",
+     "source": "wtc",
+     "skeleton_len": 359
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 2902,
+     "name": "Maataadu naa prabhuvaa naatho maataadu",
+     "source": "wtc",
+     "skeleton_len": 143
+    },
+    {
+     "song_id": 3734,
+     "name": "Maatlaadu naa Prabhuvaa naatho maataadu naa Prabhuvaa",
+     "source": "wtc",
+     "skeleton_len": 144
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 2620,
+     "name": "Jayaraaju jendaa etthi choopuchu yudhdhamucheya velledamu",
+     "source": "wtc",
+     "skeleton_len": 203
+    },
+    {
+     "song_id": 3923,
+     "name": "Velludhaam gelichedham rakshakuni naamamunanu",
+     "source": "wtc",
+     "skeleton_len": 203
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 2455,
+     "name": "Immaanuyeluni rakthamu nindina ootaye",
+     "source": "wtc",
+     "skeleton_len": 200
+    },
+    {
+     "song_id": 3921,
+     "name": "Hallelooyaa Yesuvaa kalvaripaina mruthudaa",
+     "source": "wtc",
+     "skeleton_len": 201
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 714,
+     "name": "Saakshyamichcheda",
+     "source": "clz",
+     "skeleton_len": 375
+    },
+    {
+     "song_id": 3907,
+     "name": "Saakshya michcheda swaami Yesu",
+     "source": "wtc",
+     "skeleton_len": 372
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 1635,
+     "name": "Naa Thodu Neeve Devaa",
+     "source": "clz",
+     "skeleton_len": 230
+    },
+    {
+     "song_id": 3964,
+     "name": "Naa thodu neeve Deva",
+     "source": "wtc",
+     "skeleton_len": 238
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 400,
+     "name": "Raare Choothamu",
+     "source": "clz",
+     "skeleton_len": 227
+    },
+    {
+     "song_id": 3210,
+     "name": "Raare choothumu raajasuthudee",
+     "source": "wtc",
+     "skeleton_len": 226
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 1011,
+     "name": "Jeeva Naadha Mukthi Daatha",
+     "source": "clz",
+     "skeleton_len": 172
+    },
+    {
+     "song_id": 3957,
+     "name": "Jeeva naadha mukthi daatha",
+     "source": "wtc",
+     "skeleton_len": 148
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 883,
+     "name": "Phalamulanaashinchina Paraloka Thandri",
+     "source": "clz",
+     "skeleton_len": 228
+    },
+    {
+     "song_id": 3902,
+     "name": "Satthuva bhoomilo",
+     "source": "wtc",
+     "skeleton_len": 305
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 1322,
+     "name": "Nadipinchu Naa Naavaa",
+     "source": "clz",
+     "skeleton_len": 500
+    },
+    {
+     "song_id": 1594,
+     "name": "Guide My Boat",
+     "source": "clz",
+     "skeleton_len": 472
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 1967,
+     "name": "Nee kanti paapavale nannu kaachutaku",
+     "source": "wtc",
+     "skeleton_len": 327
+    },
+    {
+     "song_id": 3785,
+     "name": "Kanti paapa vale nannu",
+     "source": "wtc",
+     "skeleton_len": 359
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 721,
+     "name": "Lechinaadayyaa",
+     "source": "clz",
+     "skeleton_len": 240
+    },
+    {
+     "song_id": 3948,
+     "name": "Lechinaadayya maranapu mullu",
+     "source": "wtc",
+     "skeleton_len": 341
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 1510,
+     "name": "Kallundi Choodaleni",
+     "source": "clz",
+     "skeleton_len": 173
+    },
+    {
+     "song_id": 3934,
+     "name": "Kallundi choodaleni endaro unnaaru",
+     "source": "wtc",
+     "skeleton_len": 173
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 262,
+     "name": "Nuvvante Ishtamu Naa Yesayyaa",
+     "source": "clz",
+     "skeleton_len": 246
+    },
+    {
+     "song_id": 2849,
+     "name": "Neeku ishtudigaa ilalo ne undaalani",
+     "source": "wtc",
+     "skeleton_len": 251
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 239,
+     "name": "Nenunnaa Nenunnaa",
+     "source": "clz",
+     "skeleton_len": 840
+    },
+    {
+     "song_id": 691,
+     "name": "Paapaaniki Naaku Ae Sambandhamu Ledu",
+     "source": "clz",
+     "skeleton_len": 674
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 1085,
+     "name": "Nee Premaa Nee Karunaa",
+     "source": "clz",
+     "skeleton_len": 242
+    },
+    {
+     "song_id": 3889,
+     "name": "Nee prema nee karuna chaalunayaa",
+     "source": "wtc",
+     "skeleton_len": 229
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 2305,
+     "name": "Nammi nammi manushyulanu neevu nammi palumaarlu",
+     "source": "wtc",
+     "skeleton_len": 236
+    },
+    {
+     "song_id": 2935,
+     "name": "Nammi Nammi",
+     "source": "wtc",
+     "skeleton_len": 242
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 2536,
+     "name": "Udayinchinaadu Kreesthudu nedu",
+     "source": "wtc",
+     "skeleton_len": 260
+    },
+    {
+     "song_id": 2930,
+     "name": "Udayinchinaadu Kreesthudu nedu udayinchinaadu",
+     "source": "wtc",
+     "skeleton_len": 248
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 515,
+     "name": "Brathikeda Nee Kosame",
+     "source": "clz",
+     "skeleton_len": 235
+    },
+    {
+     "song_id": 3878,
+     "name": "Brathikeda nee kosame",
+     "source": "wtc",
+     "skeleton_len": 237
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 1796,
+     "name": "Mahaa vaidhyundu vachchenu prajaali",
+     "source": "wtc",
+     "skeleton_len": 279
+    },
+    {
+     "song_id": 3918,
+     "name": "Maadhuryampu naamamu modhamichchugaanamu",
+     "source": "wtc",
+     "skeleton_len": 277
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 64,
+     "name": "Naa Priyudu Yesu",
+     "source": "clz",
+     "skeleton_len": 344
+    },
+    {
+     "song_id": 3960,
+     "name": "Naa priyudu Yesu – Naa priyudu Yesu",
+     "source": "wtc",
+     "skeleton_len": 267
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 2476,
+     "name": "Jagathi kethenche rakshana kartha",
+     "source": "wtc",
+     "skeleton_len": 131
+    },
+    {
+     "song_id": 3408,
+     "name": "Jagathi karudhenche rakshanakartha paapula mora vinenu Yesu",
+     "source": "wtc",
+     "skeleton_len": 120
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 1297,
+     "name": "Jai Jai Yesu",
+     "source": "clz",
+     "skeleton_len": 291
+    },
+    {
+     "song_id": 3974,
+     "name": "Jai Jai Yesu Raajaa",
+     "source": "wtc",
+     "skeleton_len": 283
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 275,
+     "name": "Melainaa Keedainaa",
+     "source": "clz",
+     "skeleton_len": 222
+    },
+    {
+     "song_id": 1386,
+     "name": "Nenellappudu Yehovaa Ninu",
+     "source": "clz",
+     "skeleton_len": 225
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 926,
+     "name": "Shaashwathamaina Prematho",
+     "source": "clz",
+     "skeleton_len": 1380
+    },
+    {
+     "song_id": 3955,
+     "name": "Shaashwathamaina Prematho Nanu Preminchaavayya",
+     "source": "wtc",
+     "skeleton_len": 1303
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 1958,
+     "name": "Yesu ninnu joothu nindhudhetagaa agocharaarthamul ne muttudhun",
+     "source": "wtc",
+     "skeleton_len": 236
+    },
+    {
+     "song_id": 1985,
+     "name": "Yesoo nin joothu nindu dhetagaa",
+     "source": "wtc",
+     "skeleton_len": 238
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 1877,
+     "name": "Naadhaa Samuyelu reethi nee yaamodha shabdamu",
+     "source": "wtc",
+     "skeleton_len": 199
+    },
+    {
+     "song_id": 2462,
+     "name": "Naathaa Samooyelu Reethi - Neeyaamodha Shabdamu",
+     "source": "wtc",
+     "skeleton_len": 201
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 2360,
+     "name": "Naa vedhanalo vedakithini",
+     "source": "wtc",
+     "skeleton_len": 141
+    },
+    {
+     "song_id": 3884,
+     "name": "Naa vedhanalo vedakithini Sree Yesuni paadaalanu",
+     "source": "wtc",
+     "skeleton_len": 120
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 14,
+     "name": "Naa Praanaaniki Praanam",
+     "source": "clz",
+     "skeleton_len": 284
+    },
+    {
+     "song_id": 3885,
+     "name": "Naa praanaaniki praanam neeve Yesayya",
+     "source": "wtc",
+     "skeleton_len": 272
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 1482,
+     "name": "Aasheervaadambul Maa Meeda",
+     "source": "clz",
+     "skeleton_len": 182
+    },
+    {
+     "song_id": 3905,
+     "name": "Aasheervaadhambul maameedha varshimpajeyu",
+     "source": "wtc",
+     "skeleton_len": 171
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 1997,
+     "name": "Shrungaara deshamu cheragaane naa dhuhkha",
+     "source": "wtc",
+     "skeleton_len": 216
+    },
+    {
+     "song_id": 3577,
+     "name": "Idhe naaku aanandamu aanandamu aanandamu",
+     "source": "wtc",
+     "skeleton_len": 216
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 245,
+     "name": "Koniyaada Tharame Ninnu",
+     "source": "clz",
+     "skeleton_len": 277
+    },
+    {
+     "song_id": 3911,
+     "name": "Koniyaada dharame ninnu komala hrudaya",
+     "source": "wtc",
+     "skeleton_len": 276
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 1903,
+     "name": "Anthya dinamandu dootha boora noodhu",
+     "source": "wtc",
+     "skeleton_len": 218
+    },
+    {
+     "song_id": 3580,
+     "name": "Anthyadhinamandhu dootha boora noodhuchundagaa",
+     "source": "wtc",
+     "skeleton_len": 219
+    }
+   ]
+  },
+  {
+   "members": [
+    {
+     "song_id": 1616,
+     "name": "Neetho Unte Jeevitham",
+     "source": "clz",
+     "skeleton_len": 344
+    },
+    {
+     "song_id": 3975,
+     "name": "Neetho unte jeevitham",
+     "source": "wtc",
+     "skeleton_len": 268
+    }
+   ]
+  }
+ ]
+}
