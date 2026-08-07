@@ -9,6 +9,7 @@ const Anthropic = require("@anthropic-ai/sdk");
 const path = require("path");
 const { r2Config, presignUpload, MAX_BYTES: R2_MAX_BYTES } = require("./r2");
 const push = require("./push");
+const access = require("./access");
 
 const app = express();
 
@@ -1081,6 +1082,9 @@ ${rawLyrics}`
 // because they belong beside each other; both are self-contained and dormant
 // until their keys are set.
 push.register(app, { run, get, all });
+
+// Who may open the builder, and who is holding a service open.
+access.register(app);
 
 app.get("/media/config", (req, res) => {
   res.json({ enabled: r2Config().ok, maxBytes: R2_MAX_BYTES });
