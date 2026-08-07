@@ -20,7 +20,8 @@
     "playwright": "^1.62.1",
     "sqlite": "^5.0.1",
     "sqlite3": "^5.1.7",
-    "string-similarity": "^4.0.4"
+    "string-similarity": "^4.0.4",
+    "web-push": "^3.6.7"
   },
   "engines": {
     "node": "20.x"

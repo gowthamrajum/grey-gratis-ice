@@ -8,6 +8,7 @@ const cors = require("cors");
 const Anthropic = require("@anthropic-ai/sdk");
 const path = require("path");
 const { r2Config, presignUpload, MAX_BYTES: R2_MAX_BYTES } = require("./r2");
+const push = require("./push");
 
 const app = express();
 
@@ -1076,6 +1077,11 @@ ${rawLyrics}`
 // Dormant until R2 is configured, and it says so rather than failing: the app
 // asks first and hides the upload option, so nobody is offered something that
 // cannot work.
+// Notifications for the church app. Registered before the media routes only
+// because they belong beside each other; both are self-contained and dormant
+// until their keys are set.
+push.register(app, { run, get, all });
+
 app.get("/media/config", (req, res) => {
   res.json({ enabled: r2Config().ok, maxBytes: R2_MAX_BYTES });
 });
@@ -1807,6 +1813,7 @@ function scheduleRandomCleanup() {
 
 (async () => {
   await initDb();
+  await push.initPushDb(run);
   await deleteOldPresentationsCompletely();
   scheduleRandomCleanup();
   await purgeExpiredServices();
