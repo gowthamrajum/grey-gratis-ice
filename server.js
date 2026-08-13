@@ -1319,7 +1319,7 @@ app.get("/broadcast/:room/stream", (req, res) => {
 // has both bibles, so it resolves the reference itself and sends the finished
 // lines. That keeps the relay ignorant of scripture — it forwards `arg`
 // verbatim, as it always has — and means the presenter needs no bible either.
-const CONTROL_CMDS = new Set(["next", "prev", "goto", "blackout", "clear", "logo", "end", "verse"]);
+const CONTROL_CMDS = new Set(["next", "prev", "goto", "blackout", "clear", "logo", "end", "verse", "verseoff"]);
 
 function bcControl(r) {
   if (!r.control) r.control = { pin: "", clients: new Set(), seq: 0, updatedAt: 0, operator: null };
