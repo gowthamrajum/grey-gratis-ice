@@ -1369,11 +1369,25 @@ app.post("/broadcast/:room/control/claim", (req, res) => {
   const pin = String(body.pin || "");
   const who = String(body.operatorId || "");
   const role = body.role === "presenter" ? "presenter" : "remote";
-  if (!ctl.pin) return res.status(409).json({ error: "presenter-offline" });
-  if (pin !== ctl.pin) return res.status(401).json({ error: "bad-pin" });
+  if (!ctl.pin && !ctl.masterPin) return res.status(409).json({ error: "presenter-offline" });
+  /**
+   * Two PINs, two levels of claim.
+   *
+   * The ordinary one takes a seat nobody is holding. The master one takes it
+   * from whoever is — the person who can walk over and say "I'll drive" should
+   * not have to ask the phone that already has it, and that phone is usually in
+   * somebody's pocket by the time it matters.
+   *
+   * A master claim does not need `force`: entering the senior PIN IS the
+   * intent, and asking twice for the same thing is how a taking-over turns into
+   * a conversation nobody has time for.
+   */
+  const isMaster = !!ctl.masterPin && pin === ctl.masterPin;
+  const isChild = !!ctl.pin && pin === ctl.pin;
+  if (!isMaster && !isChild) return res.status(401).json({ error: "bad-pin" });
   if (!who) return res.status(400).json({ error: "bad-operator" });
   const held = heldOperator(ctl);
-  if (held && held.id !== who && !body.force) {
+  if (held && held.id !== who && !isMaster && !body.force) {
     return res.status(409).json({
       error: "operator-taken",
       role: held.role,
@@ -1383,8 +1397,10 @@ app.post("/broadcast/:room/control/claim", (req, res) => {
   }
   const now = Date.now();
   const mine = held && held.id === who;
-  ctl.operator = { id: who, role, at: now, since: mine ? held.since : now };
-  res.json({ ok: true, ttlMs: OPERATOR_TTL_MS, since: ctl.operator.since });
+  // Recorded on the seat, so the phone being displaced can be told it was the
+  // master that took it rather than another volunteer with the same PIN.
+  ctl.operator = { id: who, role, at: now, since: mine ? held.since : now, master: isMaster };
+  res.json({ ok: true, ttlMs: OPERATOR_TTL_MS, since: ctl.operator.since, master: isMaster });
 });
 
 // Hand the seat back on the way out, so the next phone doesn't wait out the lease.
@@ -1402,7 +1418,11 @@ app.get("/broadcast/:room/control/stream", (req, res) => {
   const r = bcRoom(req.params.room);
   const ctl = bcControl(r);
   const pin = String(req.query.pin || "");
+  const masterPin = String(req.query.masterPin || "");
   if (pin) { ctl.pin = pin; ctl.updatedAt = Date.now(); }
+  // The second, senior PIN. Registered the same way and by the same machine —
+  // whoever is running the presenter decides who can take the seat back.
+  if (masterPin) { ctl.masterPin = masterPin; ctl.updatedAt = Date.now(); }
   res.set({
     "Content-Type": "text/event-stream",
     "Cache-Control": "no-cache, no-transform",
@@ -1463,11 +1483,15 @@ app.get("/broadcast/:room/control/status", (req, res) => {
   res.set("Cache-Control", "no-store");
   res.json({
     online: ctl.clients.size > 0,
-    hasPin: !!ctl.pin,
-    pinOk: !!ctl.pin && pin === ctl.pin,
+    hasPin: !!ctl.pin || !!ctl.masterPin,
+    pinOk: (!!ctl.pin && pin === ctl.pin) || (!!ctl.masterPin && pin === ctl.masterPin),
+    /** whether the PIN just offered is the senior one */
+    isMaster: !!ctl.masterPin && pin === ctl.masterPin,
     operatorHeld: !!held,
     operatorMine: !!held && !!who && held.id === who,
-    operatorRole: held ? held.role || "remote" : null
+    operatorRole: held ? held.role || "remote" : null,
+    /** whether the seat is currently held by a master — a child cannot take it */
+    operatorMaster: !!held && !!held.master
   });
 });
 
