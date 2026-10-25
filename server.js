@@ -1322,7 +1322,7 @@ app.get("/broadcast/:room/stream", (req, res) => {
 const CONTROL_CMDS = new Set(["next", "prev", "goto", "blackout", "clear", "logo", "end", "verse", "verseoff"]);
 
 function bcControl(r) {
-  if (!r.control) r.control = { pin: "", clients: new Set(), seq: 0, updatedAt: 0, operator: null };
+  if (!r.control) r.control = { pin: "", clients: new Set(), seq: 0, updatedAt: 0, seats: { service: null, sermon: null } };
   return r.control;
 }
 
@@ -1343,14 +1343,41 @@ function bcControl(r) {
 // the seat frees itself instead of stranding the room until a restart.
 const OPERATOR_TTL_MS = 40 * 1000;
 
-/** The seat's current holder, or null once its lease has lapsed. */
-function heldOperator(ctl) {
-  if (!ctl.operator) return null;
-  if (Date.now() - ctl.operator.at > OPERATOR_TTL_MS) {
-    ctl.operator = null;
+// -------------------------------
+// …per job: one phone for the service, one for the sermon
+// -------------------------------
+// Running the slides and quoting scripture are two people's jobs on a Sunday,
+// so a room has two seats. The SERVICE seat drives the deck; the SERMON seat
+// puts verses up and takes them down, and can step back to the sermon card or
+// on to the next section when it is done. Each command belongs to the seat
+// whose job it is, so the two phones can't take each other's controls.
+//
+// A seat nobody holds doesn't block its commands: a single phone doing both
+// jobs — and every remote from before there were two seats — still works.
+const SEATS = ["service", "sermon"];
+const SEAT_CMDS = {
+  service: new Set(["next", "prev", "goto", "blackout", "clear", "logo", "end"]),
+  sermon: new Set(["verse", "verseoff", "goto"])
+};
+/** Whose job a command is when its sender holds no seat that covers it. */
+const cmdSeat = (cmd) => (cmd === "verse" || cmd === "verseoff" ? "sermon" : "service");
+/** An unknown or missing seat is the service seat — what the one seat always was. */
+const seatOf = (v) => (v === "sermon" ? "sermon" : "service");
+
+/** A seat's current holder, or null once its lease has lapsed. */
+function heldOperator(ctl, seat = "service") {
+  const op = ctl.seats[seat];
+  if (!op) return null;
+  if (Date.now() - op.at > OPERATOR_TTL_MS) {
+    ctl.seats[seat] = null;
     return null;
   }
-  return ctl.operator;
+  return op;
+}
+
+/** Either PIN may drive. The master one only adds the right to take a seat. */
+function pinMatches(ctl, pin) {
+  return (!!ctl.pin && pin === ctl.pin) || (!!ctl.masterPin && pin === ctl.masterPin);
 }
 
 // Take the seat, or renew it. The same operatorId asking again is the heartbeat.
@@ -1369,6 +1396,8 @@ app.post("/broadcast/:room/control/claim", (req, res) => {
   const pin = String(body.pin || "");
   const who = String(body.operatorId || "");
   const role = body.role === "presenter" ? "presenter" : "remote";
+  // The presenter device runs the deck, so it can only ever hold the service seat.
+  const seat = role === "presenter" ? "service" : seatOf(body.seat);
   if (!ctl.pin && !ctl.masterPin) return res.status(409).json({ error: "presenter-offline" });
   /**
    * Two PINs, two levels of claim.
@@ -1386,10 +1415,11 @@ app.post("/broadcast/:room/control/claim", (req, res) => {
   const isChild = !!ctl.pin && pin === ctl.pin;
   if (!isMaster && !isChild) return res.status(401).json({ error: "bad-pin" });
   if (!who) return res.status(400).json({ error: "bad-operator" });
-  const held = heldOperator(ctl);
+  const held = heldOperator(ctl, seat);
   if (held && held.id !== who && !isMaster && !body.force) {
     return res.status(409).json({
       error: "operator-taken",
+      seat,
       role: held.role,
       since: held.since,
       freeInMs: OPERATOR_TTL_MS - (Date.now() - held.at)
@@ -1399,16 +1429,21 @@ app.post("/broadcast/:room/control/claim", (req, res) => {
   const mine = held && held.id === who;
   // Recorded on the seat, so the phone being displaced can be told it was the
   // master that took it rather than another volunteer with the same PIN.
-  ctl.operator = { id: who, role, at: now, since: mine ? held.since : now, master: isMaster };
-  res.json({ ok: true, ttlMs: OPERATOR_TTL_MS, since: ctl.operator.since, master: isMaster });
+  ctl.seats[seat] = { id: who, role, at: now, since: mine ? held.since : now, master: isMaster };
+  res.json({ ok: true, seat, ttlMs: OPERATOR_TTL_MS, since: ctl.seats[seat].since, master: isMaster });
 });
 
 // Hand the seat back on the way out, so the next phone doesn't wait out the lease.
 app.post("/broadcast/:room/control/release", (req, res) => {
   const ctl = bcControl(bcRoom(req.params.room));
-  const who = String((req.body || {}).operatorId || "");
-  const held = heldOperator(ctl);
-  if (held && who && held.id === who) ctl.operator = null;
+  const body = req.body || {};
+  const who = String(body.operatorId || "");
+  // A named seat releases just that one — a phone switching jobs gives up the
+  // old seat after taking the new one. Unnamed, everything this phone holds.
+  for (const seat of body.seat ? [seatOf(body.seat)] : SEATS) {
+    const held = heldOperator(ctl, seat);
+    if (held && who && held.id === who) ctl.seats[seat] = null;
+  }
   res.json({ ok: true });
 });
 
@@ -1440,7 +1475,7 @@ app.get("/broadcast/:room/control/stream", (req, res) => {
     // Nothing is presenting any more, so the seat belongs to no service: the
     // next broadcast in this room starts with it free rather than inheriting
     // whoever happened to be operating the last one.
-    if (ctl.clients.size === 0) ctl.operator = null;
+    if (ctl.clients.size === 0) ctl.seats = { service: null, sermon: null };
   });
 });
 
@@ -1452,18 +1487,24 @@ app.post("/broadcast/:room/control", (req, res) => {
   const body = req.body || {};
   const pin = String(body.pin || "");
   const cmd = String(body.cmd || "");
-  if (!ctl.pin) return res.status(409).json({ error: "presenter-offline" });
-  if (pin !== ctl.pin) return res.status(401).json({ error: "bad-pin" });
+  if (!ctl.pin && !ctl.masterPin) return res.status(409).json({ error: "presenter-offline" });
+  // Either PIN. Accepting only the ordinary one here, while claim and status
+  // took both, let a phone connect with the master PIN and then bounced it
+  // back to the PIN screen on its first command.
+  if (!pinMatches(ctl, pin)) return res.status(401).json({ error: "bad-pin" });
   if (!CONTROL_CMDS.has(cmd)) return res.status(400).json({ error: "bad-cmd" });
   if (ctl.clients.size === 0) return res.status(409).json({ error: "presenter-offline" });
-  // Only the phone holding the seat may drive. An unclaimed room still accepts
-  // commands, so a remote too old to claim one keeps working exactly as before.
-  const held = heldOperator(ctl);
-  if (held && held.id !== String(body.operatorId || "")) {
-    return res.status(409).json({ error: "not-operator" });
+  // The sender's own seat, if it holds one whose job this is. Otherwise the
+  // command belongs to the seat that does that job, and only goes through if
+  // nobody holds it — a remote too old to claim one keeps working as before.
+  const who = String(body.operatorId || "");
+  const mine = SEATS.find((seat) => SEAT_CMDS[seat].has(cmd) && heldOperator(ctl, seat)?.id === who && who);
+  if (mine) {
+    // Driving is itself a sign of life, so it renews the lease.
+    heldOperator(ctl, mine).at = Date.now();
+  } else if (heldOperator(ctl, cmdSeat(cmd))) {
+    return res.status(409).json({ error: "not-operator", seat: cmdSeat(cmd) });
   }
-  // Driving is itself a sign of life, so it renews the lease.
-  if (held) held.at = Date.now();
   ctl.seq++;
   const frame = `event: command\ndata: ${JSON.stringify({ seq: ctl.seq, cmd, arg: body.arg ?? null })}\n\n`;
   for (const c of ctl.clients) { try { c.write(frame); } catch (_) {} }
@@ -1479,12 +1520,22 @@ app.get("/broadcast/:room/control/status", (req, res) => {
   const ctl = bcControl(r);
   const pin = String(req.query.pin || "");
   const who = String(req.query.operatorId || "");
-  const held = heldOperator(ctl);
+  // The operator* fields describe the seat asked about — the service seat when
+  // none is named, which is the one every older caller means.
+  const seat = seatOf(req.query.seat);
+  const held = heldOperator(ctl, seat);
+  const seats = {};
+  for (const s of SEATS) {
+    const h = heldOperator(ctl, s);
+    seats[s] = { held: !!h, mine: !!h && !!who && h.id === who };
+  }
   res.set("Cache-Control", "no-store");
   res.json({
     online: ctl.clients.size > 0,
     hasPin: !!ctl.pin || !!ctl.masterPin,
-    pinOk: (!!ctl.pin && pin === ctl.pin) || (!!ctl.masterPin && pin === ctl.masterPin),
+    pinOk: pinMatches(ctl, pin),
+    seat,
+    seats,
     /** whether the PIN just offered is the senior one */
     isMaster: !!ctl.masterPin && pin === ctl.masterPin,
     operatorHeld: !!held,
