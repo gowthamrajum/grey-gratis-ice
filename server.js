@@ -7,6 +7,7 @@ const stringSimilarity = require("string-similarity");
 const cors = require("cors");
 const Anthropic = require("@anthropic-ai/sdk");
 const path = require("path");
+const crypto = require("crypto");
 const { r2Config, presignUpload, MAX_BYTES: R2_MAX_BYTES } = require("./r2");
 const push = require("./push");
 const access = require("./access");
@@ -1235,6 +1236,31 @@ access.register(app);
 // A background is uploaded once — straight to R2 from the presenter, with a
 // URL from /media/upload-url — and then registered here, so every presenter
 // computer lists it and the phones and stream can load it from the same place.
+//
+// Only admins add to it or take from it — from the Background Library page on
+// Cantica Web. Every presenter only reads it. MEDIA_ADMIN_PIN, or the church's
+// existing admin PIN (PUSH_ADMIN_PIN, the one behind Send a notification) when
+// that is unset, so it works today without new setup and can be split later.
+// Neither set: nobody can change the library, which is the safe way round.
+const MEDIA_ADMIN_PIN = process.env.MEDIA_ADMIN_PIN || process.env.PUSH_ADMIN_PIN || "";
+function mediaAdminOk(req) {
+  if (!MEDIA_ADMIN_PIN) return false;
+  // In the body, or as "Authorization: Pin <pin>" — the relay's CORS only lets
+  // Content-Type and Authorization through from a browser, so no custom header.
+  const auth = /^Pin\s+(.+)$/i.exec(req.get("authorization") || "");
+  const given = String((auth && auth[1]) || (req.body && req.body.pin) || "");
+  const a = crypto.createHash("sha256").update(given).digest();
+  const b = crypto.createHash("sha256").update(MEDIA_ADMIN_PIN).digest();
+  return crypto.timingSafeEqual(a, b);
+}
+
+// The admin page asks this before showing its controls.
+app.post("/media/admin/check", (req, res) => {
+  if (!MEDIA_ADMIN_PIN) return res.status(503).json({ error: "no-admin-pin", message: "No admin PIN is set on the relay." });
+  if (!mediaAdminOk(req)) return res.status(403).json({ error: "bad-pin", message: "That PIN didn’t match." });
+  res.json({ ok: true });
+});
+
 const bgRow = (r) => ({
   id: Number(r.id), name: r.name, url: r.url, kind: r.kind, bytes: Number(r.bytes || 0), createdAt: r.createdAt
 });
@@ -1250,6 +1276,7 @@ app.get("/media/backgrounds", async (req, res) => {
 });
 
 app.post("/media/backgrounds", async (req, res) => {
+  if (!mediaAdminOk(req)) return res.status(403).json({ error: "admin-only", message: "Only an admin can add to the background library — use Cantica’s Background Library page." });
   const { name, url, kind, bytes } = req.body || {};
   const cfg = r2Config();
   // Only files in this church's own media store: the library is a list of
@@ -1276,6 +1303,7 @@ app.post("/media/backgrounds", async (req, res) => {
 // Out of the library. The file stays in the media store: a service saved with
 // it as its background still finds it.
 app.delete("/media/backgrounds/:id", async (req, res) => {
+  if (!mediaAdminOk(req)) return res.status(403).json({ error: "admin-only", message: "Only an admin can remove from the background library." });
   try {
     const r = await run("DELETE FROM backgrounds WHERE id = ?", [req.params.id]);
     if (!r.rowsAffected) return res.status(404).send("Not in the library.");
