@@ -242,6 +242,13 @@ async function initDb() {
   // already holds without re-matching lyrics. Short slugs: "clz", "sv".
   await addColumnIfMissing("songs", "source TEXT DEFAULT ''");
 
+  // The sermon outline, kept apart from the deck: the preacher writes it in the
+  // Sermon Builder while someone else builds the service, and two people saving
+  // one JSON blob would each overwrite the other's work. '' = never set (an
+  // older service may still carry its outline inside the deck); 'null' = taken
+  // out on purpose.
+  await addColumnIfMissing("services", "sermonOutline TEXT DEFAULT ''");
+
   await run(`
     CREATE TABLE IF NOT EXISTS psalms (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -534,7 +541,8 @@ app.get("/services", async (req, res) => {
     const to = normalizeServiceDate(req.query.to);
 
     let sql = `SELECT id, serviceDay, serviceDate, active, createdDateTime, updatedDateTime,
-                      LENGTH(serviceData) AS serviceDataLength
+                      LENGTH(serviceData) AS serviceDataLength,
+                      CASE WHEN sermonOutline NOT IN ('', 'null') THEN 1 ELSE 0 END AS hasSermon
                FROM services WHERE 1=1`;
     const params = [];
     if (from) { sql += " AND serviceDate >= ?"; params.push(from); }
@@ -546,7 +554,9 @@ app.get("/services", async (req, res) => {
       services: rows.map((row) => ({
         ...serviceRow(row),
         // characters, not bytes — a cheap "how big is this deck" for the list UI
-        serviceDataLength: Number(row.serviceDataLength)
+        serviceDataLength: Number(row.serviceDataLength),
+        // set in the Sermon Builder (an outline still inside an older deck isn't counted)
+        hasSermon: !!row.hasSermon
       })),
       total: rows.length,
       retentionDays: SERVICE_RETENTION_DAYS
@@ -561,7 +571,8 @@ app.get("/services/:id", async (req, res) => {
   try {
     const row = await get("SELECT * FROM services WHERE id = ?", [req.params.id]);
     if (!row) return res.status(404).send("Service not found.");
-    res.json({ ...serviceRow(row), serviceData: parseServiceData(row.serviceData) });
+    const view = sermonView(row);
+    res.json({ ...serviceRow(row), serviceData: view.serviceData, sermon: view.sermon });
   } catch (e) {
     res.status(500).send(e.message);
   }
@@ -579,6 +590,14 @@ app.put("/services/:id", async (req, res) => {
   if (serviceDate !== undefined && !date) return res.status(400).send("serviceDate must be YYYY-MM-DD.");
 
   try {
+    // An older service carries its outline inside the deck, and the Service
+    // Builder no longer sends one. Move it to its own column before the deck is
+    // replaced, so the first save from the new builder doesn't silently drop it.
+    const before = await get("SELECT serviceData, sermonOutline FROM services WHERE id = ?", [req.params.id]);
+    if (before && !parseOutlineColumn(before.sermonOutline).set) {
+      const legacy = outlineInDeck(parseServiceData(before.serviceData));
+      if (legacy) await run("UPDATE services SET sermonOutline = ? WHERE id = ?", [JSON.stringify(legacy), req.params.id]);
+    }
     const now = new Date().toISOString();
     const sets = ["serviceData = ?", "updatedDateTime = ?"];
     const params = [data, now];
@@ -603,6 +622,104 @@ app.put("/services/:id", async (req, res) => {
         message: "Another service already exists for that day and date. Edit that one instead."
       });
     }
+    res.status(500).send(e.message);
+  }
+});
+
+// -------------------------------
+// Sermon outline (Sermon Builder)
+// -------------------------------
+// Stored in its own column and written by its own endpoint, then put into the
+// deck whenever a service is READ — as the same `slot: "sermon"` item the
+// Service Builder used to embed, so Cantica's presenter files it into its
+// Sermon card exactly as before and needs no change to pick it up.
+
+/** An outline as stored — `{ title, points[] }` with at least one point — or null. */
+function readOutline(v) {
+  if (!v || typeof v !== "object") return null;
+  const points = Array.isArray(v.points) ? v.points.map((p) => String(p).trim()).filter(Boolean) : [];
+  return points.length ? { title: String(v.title ?? "").trim(), points } : null;
+}
+function parseOutlineColumn(text) {
+  if (!text) return { set: false, outline: null };
+  try { return { set: true, outline: readOutline(JSON.parse(text)) }; } catch (_) { return { set: false, outline: null }; }
+}
+/** The outline an older service carried inside its deck, if any. */
+function outlineInDeck(data) {
+  const items = data && data.service && Array.isArray(data.service.items) ? data.service.items : [];
+  for (const it of items) {
+    const sl = (it.slides || []).find((x) => x && x.outline === true);
+    if (sl) return readOutline({ title: sl.caption || "", points: sl.lines });
+  }
+  return null;
+}
+/**
+ * The deck with this outline in it: any outline item already there taken out,
+ * and the column's put in where the sermon falls when the deck is played as it
+ * stands — after the worship, ahead of the communion and offering songs and
+ * the clips. The presenter files it by its slot, not its position. Ids derive
+ * from the service, so reading the same service twice yields the same slide.
+ */
+function withSermon(data, outline, serviceId) {
+  if (!data || typeof data !== "object" || !data.service || !Array.isArray(data.service.items)) return data;
+  const items = data.service.items.filter((it) => it && it.slot !== "sermon");
+  if (outline) {
+    const title = outline.title;
+    const item = {
+      id: `sermon-${serviceId}`,
+      title: "Sermon Outline",
+      kind: "text",
+      slot: "sermon",
+      slides: [{
+        id: `sermon-${serviceId}-outline`,
+        kind: "text",
+        label: title || "Sermon outline",
+        lines: outline.points,
+        ...(title ? { caption: title } : {}),
+        outline: true,
+        broadcastUsers: true
+      }]
+    };
+    const at = items.findIndex((it) => it.slot === "communion" || it.slot === "offering" || it.slot === "media");
+    items.splice(at < 0 ? items.length : at, 0, item);
+  }
+  return { ...data, service: { ...data.service, items } };
+}
+/** The outline a service shows, and its deck with that outline in place. */
+function sermonView(row) {
+  const deck = parseServiceData(row.serviceData);
+  const col = parseOutlineColumn(row.sermonOutline);
+  if (!col.set) return { sermon: outlineInDeck(deck), serviceData: deck };
+  return { sermon: col.outline, serviceData: withSermon(deck, col.outline, Number(row.id)) };
+}
+
+app.get("/services/:id/sermon", async (req, res) => {
+  try {
+    const row = await get("SELECT * FROM services WHERE id = ?", [req.params.id]);
+    if (!row) return res.status(404).send("Service not found.");
+    res.json({ ...serviceRow(row), sermon: sermonView(row).sermon });
+  } catch (e) {
+    res.status(500).send(e.message);
+  }
+});
+
+// Set the outline (`{ outline: { title, points } }`), or take it out
+// (`{ outline: null }`). Touches nothing else on the service.
+app.put("/services/:id/sermon", async (req, res) => {
+  const body = req.body || {};
+  if (!("outline" in body)) return res.status(400).send("outline is required (an object, or null to remove it).");
+  const outline = body.outline === null ? null : readOutline(body.outline);
+  if (body.outline !== null && !outline) return res.status(400).send("An outline needs at least one point.");
+  try {
+    const now = new Date().toISOString();
+    const r = await run("UPDATE services SET sermonOutline = ?, updatedDateTime = ? WHERE id = ?", [
+      JSON.stringify(outline), now, req.params.id
+    ]);
+    if (!r.rowsAffected) return res.status(404).send("Service not found.");
+    const row = await get("SELECT * FROM services WHERE id = ?", [req.params.id]);
+    servicesChanged("sermon");
+    res.json({ ...serviceRow(row), sermon: outline });
+  } catch (e) {
     res.status(500).send(e.message);
   }
 });
