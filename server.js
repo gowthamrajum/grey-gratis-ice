@@ -167,6 +167,18 @@ app.use(cors(corsOptions));
 // same stable URLs — grey-gratis-ice.onrender.com/backgrounds/<category>/<file>.
 // Drop more JPGs into public/backgrounds/<category>/ and they're served at once.
 app.use("/backgrounds", express.static(path.join(__dirname, "public", "backgrounds"), { maxAge: "7d" }));
+
+// The stream's footer — church name on the left, the rotating ticker on the
+// right — as an OBS Browser source, the way the lyrics lower third already is.
+// It was a local file on the streaming computer, so every change meant copying
+// it there, and a renamed folder silently broke the source. Served from here, a
+// push is live in a minute. Self-contained (embedded fonts, inline SVG), so it
+// needs nothing else from this server. no-cache: OBS holds on to pages hard
+// enough without being told to.
+app.get("/overlay/footer", (req, res) => {
+  res.set("Cache-Control", "no-cache");
+  res.sendFile(path.join(__dirname, "public", "overlay", "footer.html"));
+});
 app.options("*", cors(corsOptions));
 
 // -------------------------------
