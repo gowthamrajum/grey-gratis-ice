@@ -261,6 +261,20 @@ async function initDb() {
   // out on purpose.
   await addColumnIfMissing("services", "sermonOutline TEXT DEFAULT ''");
 
+  // The shared background library: videos (and images) uploaded once to the
+  // media store and offered in every presenter's background picker. The file
+  // itself lives in R2; this is the list of them.
+  await run(`
+    CREATE TABLE IF NOT EXISTS backgrounds (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      name TEXT NOT NULL,
+      url TEXT NOT NULL UNIQUE,
+      kind TEXT NOT NULL DEFAULT 'video',
+      bytes INTEGER DEFAULT 0,
+      createdAt TEXT NOT NULL
+    )
+  `);
+
   await run(`
     CREATE TABLE IF NOT EXISTS psalms (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -1214,6 +1228,62 @@ push.register(app, { run, get, all });
 
 // Who may open the builder, and who is holding a service open.
 access.register(app);
+
+// -------------------------------
+// Shared background library
+// -------------------------------
+// A background is uploaded once — straight to R2 from the presenter, with a
+// URL from /media/upload-url — and then registered here, so every presenter
+// computer lists it and the phones and stream can load it from the same place.
+const bgRow = (r) => ({
+  id: Number(r.id), name: r.name, url: r.url, kind: r.kind, bytes: Number(r.bytes || 0), createdAt: r.createdAt
+});
+
+app.get("/media/backgrounds", async (req, res) => {
+  try {
+    const rows = await all("SELECT * FROM backgrounds ORDER BY createdAt DESC, id DESC");
+    res.set("Cache-Control", "no-store");
+    res.json({ backgrounds: rows.map(bgRow) });
+  } catch (e) {
+    res.status(500).send(e.message);
+  }
+});
+
+app.post("/media/backgrounds", async (req, res) => {
+  const { name, url, kind, bytes } = req.body || {};
+  const cfg = r2Config();
+  // Only files in this church's own media store: the library is a list of
+  // things it holds, not a bookmark list for anything on the internet.
+  if (!cfg.ok) return res.status(503).json({ error: "not-configured", message: "No media store is configured." });
+  if (typeof url !== "string" || !url.startsWith(cfg.publicBase + "/")) {
+    return res.status(400).json({ error: "bad-url", message: "That file isn't in the media store." });
+  }
+  const k = kind === "image" ? "image" : "video";
+  const title = String(name || "").trim().slice(0, 120) || url.split("/").pop();
+  try {
+    const now = new Date().toISOString();
+    await run(
+      "INSERT INTO backgrounds (name, url, kind, bytes, createdAt) VALUES (?, ?, ?, ?, ?) ON CONFLICT(url) DO UPDATE SET name = excluded.name",
+      [title, url, k, Number(bytes) || 0, now]
+    );
+    const row = await get("SELECT * FROM backgrounds WHERE url = ?", [url]);
+    res.status(201).json(bgRow(row));
+  } catch (e) {
+    res.status(500).send(e.message);
+  }
+});
+
+// Out of the library. The file stays in the media store: a service saved with
+// it as its background still finds it.
+app.delete("/media/backgrounds/:id", async (req, res) => {
+  try {
+    const r = await run("DELETE FROM backgrounds WHERE id = ?", [req.params.id]);
+    if (!r.rowsAffected) return res.status(404).send("Not in the library.");
+    res.json({ ok: true });
+  } catch (e) {
+    res.status(500).send(e.message);
+  }
+});
 
 app.get("/media/config", (req, res) => {
   res.json({ enabled: r2Config().ok, maxBytes: R2_MAX_BYTES });
