@@ -272,9 +272,13 @@ async function initDb() {
       url TEXT NOT NULL UNIQUE,
       kind TEXT NOT NULL DEFAULT 'video',
       bytes INTEGER DEFAULT 0,
-      createdAt TEXT NOT NULL
+      createdAt TEXT NOT NULL,
+      tags TEXT DEFAULT ''
     )
   `);
+  // Tags arrived after the table did: CREATE above only reaches a fresh
+  // database, this is what adds the column where the table already exists.
+  await addColumnIfMissing("backgrounds", "tags TEXT DEFAULT ''");
 
   await run(`
     CREATE TABLE IF NOT EXISTS psalms (
@@ -1262,8 +1266,29 @@ app.post("/media/admin/check", (req, res) => {
 });
 
 const bgRow = (r) => ({
-  id: Number(r.id), name: r.name, url: r.url, kind: r.kind, bytes: Number(r.bytes || 0), createdAt: r.createdAt
+  id: Number(r.id), name: r.name, url: r.url, kind: r.kind, bytes: Number(r.bytes || 0), createdAt: r.createdAt,
+  tags: parseTags(r.tags)
 });
+
+/**
+ * Tags, so a growing library can be searched — "christmas", "water",
+ * "sunrise". Lower-case, trimmed, no duplicates, a dozen at most, short; a
+ * leading # is dropped, so "#Christmas" and "christmas" are the same tag.
+ * Stored as a JSON array.
+ */
+function cleanTags(v) {
+  const list = Array.isArray(v) ? v : typeof v === "string" ? v.split(",") : [];
+  const out = [];
+  for (const t of list) {
+    const tag = String(t).trim().toLowerCase().replace(/^#+/, "").replace(/\s+/g, " ").slice(0, 24);
+    if (tag && !out.includes(tag)) out.push(tag);
+    if (out.length >= 12) break;
+  }
+  return out;
+}
+function parseTags(text) {
+  try { const v = JSON.parse(text || "[]"); return Array.isArray(v) ? cleanTags(v) : []; } catch (_) { return []; }
+}
 
 app.get("/media/backgrounds", async (req, res) => {
   try {
@@ -1277,7 +1302,7 @@ app.get("/media/backgrounds", async (req, res) => {
 
 app.post("/media/backgrounds", async (req, res) => {
   if (!mediaAdminOk(req)) return res.status(403).json({ error: "admin-only", message: "Only an admin can add to the background library — use Cantica’s Background Library page." });
-  const { name, url, kind, bytes } = req.body || {};
+  const { name, url, kind, bytes, tags } = req.body || {};
   const cfg = r2Config();
   // Only files in this church's own media store: the library is a list of
   // things it holds, not a bookmark list for anything on the internet.
@@ -1290,11 +1315,31 @@ app.post("/media/backgrounds", async (req, res) => {
   try {
     const now = new Date().toISOString();
     await run(
-      "INSERT INTO backgrounds (name, url, kind, bytes, createdAt) VALUES (?, ?, ?, ?, ?) ON CONFLICT(url) DO UPDATE SET name = excluded.name",
-      [title, url, k, Number(bytes) || 0, now]
+      "INSERT INTO backgrounds (name, url, kind, bytes, createdAt, tags) VALUES (?, ?, ?, ?, ?, ?) ON CONFLICT(url) DO UPDATE SET name = excluded.name, tags = excluded.tags",
+      [title, url, k, Number(bytes) || 0, now, JSON.stringify(cleanTags(tags))]
     );
     const row = await get("SELECT * FROM backgrounds WHERE url = ?", [url]);
     res.status(201).json(bgRow(row));
+  } catch (e) {
+    res.status(500).send(e.message);
+  }
+});
+
+// Rename a background or change its tags (admins). PUT, not PATCH: the relay's
+// CORS lets GET/POST/PUT/DELETE through from a browser, and nothing else.
+app.put("/media/backgrounds/:id", async (req, res) => {
+  if (!mediaAdminOk(req)) return res.status(403).json({ error: "admin-only", message: "Only an admin can change the background library." });
+  const body = req.body || {};
+  const sets = [];
+  const params = [];
+  if (typeof body.name === "string" && body.name.trim()) { sets.push("name = ?"); params.push(body.name.trim().slice(0, 120)); }
+  if ("tags" in body) { sets.push("tags = ?"); params.push(JSON.stringify(cleanTags(body.tags))); }
+  if (!sets.length) return res.status(400).json({ error: "nothing-to-change", message: "Send a name or tags." });
+  try {
+    params.push(req.params.id);
+    const r = await run(`UPDATE backgrounds SET ${sets.join(", ")} WHERE id = ?`, params);
+    if (!r.rowsAffected) return res.status(404).send("Not in the library.");
+    res.json(bgRow(await get("SELECT * FROM backgrounds WHERE id = ?", [req.params.id])));
   } catch (e) {
     res.status(500).send(e.message);
   }
