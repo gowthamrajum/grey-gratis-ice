@@ -1,0 +1,1614 @@
+[
+ {
+  "question": "Who built the ark?",
+  "options": [
+   "Noah",
+   "Abraham",
+   "David",
+   "Moses"
+  ],
+  "answer": 0,
+  "reference": "Genesis 6:14",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "In how many days did God create the heavens and the earth before He rested?",
+  "options": [
+   "5",
+   "6",
+   "3",
+   "7"
+  ],
+  "answer": 1,
+  "reference": "Genesis 2:2",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Who was swallowed by a great fish?",
+  "options": [
+   "Peter",
+   "Elijah",
+   "Jonah",
+   "Daniel"
+  ],
+  "answer": 2,
+  "reference": "Jonah 1:17",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Who killed the giant Goliath?",
+  "options": [
+   "Jonathan",
+   "Saul",
+   "Samson",
+   "David"
+  ],
+  "answer": 3,
+  "reference": "1 Samuel 17:50",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Who led the Israelites out of Egypt?",
+  "options": [
+   "Moses",
+   "Joshua",
+   "Abraham",
+   "Aaron"
+  ],
+  "answer": 0,
+  "reference": "Exodus 3:10",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What was the name of Abraham's wife?",
+  "options": [
+   "Leah",
+   "Sarah",
+   "Rachel",
+   "Rebekah"
+  ],
+  "answer": 1,
+  "reference": "Genesis 17:15",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Who was thrown into the lions' den?",
+  "options": [
+   "Joseph",
+   "Shadrach",
+   "Daniel",
+   "Jeremiah"
+  ],
+  "answer": 2,
+  "reference": "Daniel 6:16",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Who was sold into slavery by his brothers?",
+  "options": [
+   "Reuben",
+   "Benjamin",
+   "Esau",
+   "Joseph"
+  ],
+  "answer": 3,
+  "reference": "Genesis 37:28",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What did God create on the first day?",
+  "options": [
+   "Light",
+   "The sun",
+   "Animals",
+   "Plants"
+  ],
+  "answer": 0,
+  "reference": "Genesis 1:3",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Who was the first man?",
+  "options": [
+   "Noah",
+   "Adam",
+   "Seth",
+   "Abel"
+  ],
+  "answer": 1,
+  "reference": "Genesis 2:7",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Who deceived his father Isaac to receive Esau's blessing?",
+  "options": [
+   "Joseph",
+   "Laban",
+   "Jacob",
+   "Ishmael"
+  ],
+  "answer": 2,
+  "reference": "Genesis 27:19",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which sea did God part so Israel could cross on dry ground?",
+  "options": [
+   "The Dead Sea",
+   "The Mediterranean Sea",
+   "The Sea of Galilee",
+   "The Red Sea"
+  ],
+  "answer": 3,
+  "reference": "Exodus 15:4",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "How many commandments did God give Moses on the tablets?",
+  "options": [
+   "Ten",
+   "Twelve",
+   "Five",
+   "Seven"
+  ],
+  "answer": 0,
+  "reference": "Exodus 34:28",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "On which mountain did Moses receive the Ten Commandments?",
+  "options": [
+   "Mount Carmel",
+   "Mount Sinai",
+   "Mount Ararat",
+   "Mount Zion"
+  ],
+  "answer": 1,
+  "reference": "Exodus 19:20",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Where did Noah's ark come to rest?",
+  "options": [
+   "Mount Hermon",
+   "Mount Sinai",
+   "The mountains of Ararat",
+   "Mount Nebo"
+  ],
+  "answer": 2,
+  "reference": "Genesis 8:4",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What sign did God give Noah of His promise never to flood the earth again?",
+  "options": [
+   "A dove",
+   "An olive tree",
+   "A star",
+   "A rainbow"
+  ],
+  "answer": 3,
+  "reference": "Genesis 9:13",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Whose great strength was tied to his uncut hair?",
+  "options": [
+   "Samson",
+   "Absalom",
+   "Gideon",
+   "Goliath"
+  ],
+  "answer": 0,
+  "reference": "Judges 16:17",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Who was the first king of Israel?",
+  "options": [
+   "Solomon",
+   "Saul",
+   "Samuel",
+   "David"
+  ],
+  "answer": 1,
+  "reference": "1 Samuel 10:1",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which son of David asked God for wisdom?",
+  "options": [
+   "Amnon",
+   "Absalom",
+   "Solomon",
+   "Adonijah"
+  ],
+  "answer": 2,
+  "reference": "1 Kings 3:9",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which prophet was taken up to heaven in a whirlwind?",
+  "options": [
+   "Elisha",
+   "Jeremiah",
+   "Isaiah",
+   "Elijah"
+  ],
+  "answer": 3,
+  "reference": "2 Kings 2:11",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Who was Moses' brother?",
+  "options": [
+   "Aaron",
+   "Caleb",
+   "Joshua",
+   "Levi"
+  ],
+  "answer": 0,
+  "reference": "Exodus 4:14",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Who was the mother of the prophet Samuel?",
+  "options": [
+   "Deborah",
+   "Hannah",
+   "Naomi",
+   "Ruth"
+  ],
+  "answer": 1,
+  "reference": "1 Samuel 1:20",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which queen of Persia risked her life to save the Jewish people?",
+  "options": [
+   "The Queen of Sheba",
+   "Vashti",
+   "Esther",
+   "Jezebel"
+  ],
+  "answer": 2,
+  "reference": "Esther 4:16",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What food did God give Israel from heaven in the wilderness?",
+  "options": [
+   "Figs",
+   "Bread from Egypt",
+   "Dates",
+   "Manna"
+  ],
+  "answer": 3,
+  "reference": "Exodus 16:31",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which city's walls fell after Israel marched around it?",
+  "options": [
+   "Jericho",
+   "Ai",
+   "Babylon",
+   "Jerusalem"
+  ],
+  "answer": 0,
+  "reference": "Joshua 6:20",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Who led Israel into the promised land after Moses died?",
+  "options": [
+   "Aaron",
+   "Joshua",
+   "Caleb",
+   "Gideon"
+  ],
+  "answer": 1,
+  "reference": "Joshua 1:2",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Who was Ruth's mother-in-law?",
+  "options": [
+   "Orpah",
+   "Elizabeth",
+   "Naomi",
+   "Hannah"
+  ],
+  "answer": 2,
+  "reference": "Ruth 1:4",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of these was one of Noah's sons?",
+  "options": [
+   "Seth",
+   "Enoch",
+   "Lot",
+   "Shem"
+  ],
+  "answer": 3,
+  "reference": "Genesis 6:10",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of his wives did Jacob love most?",
+  "options": [
+   "Rachel",
+   "Leah",
+   "Zilpah",
+   "Bilhah"
+  ],
+  "answer": 0,
+  "reference": "Genesis 29:30",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What new name did God give Jacob?",
+  "options": [
+   "Abraham",
+   "Israel",
+   "Judah",
+   "Peniel"
+  ],
+  "answer": 1,
+  "reference": "Genesis 32:28",
+  "category": "Old Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "In which town was Jesus born?",
+  "options": [
+   "Jerusalem",
+   "Nazareth",
+   "Bethlehem",
+   "Capernaum"
+  ],
+  "answer": 2,
+  "reference": "Matthew 2:1",
+  "category": "New Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Who was the mother of Jesus?",
+  "options": [
+   "Martha",
+   "Anna",
+   "Elizabeth",
+   "Mary"
+  ],
+  "answer": 3,
+  "reference": "Matthew 1:18",
+  "category": "New Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Who baptized Jesus in the Jordan?",
+  "options": [
+   "John the Baptist",
+   "Peter",
+   "Philip",
+   "Andrew"
+  ],
+  "answer": 0,
+  "reference": "Matthew 3:13",
+  "category": "New Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "How many apostles did Jesus choose?",
+  "options": [
+   "Seventy",
+   "Twelve",
+   "Seven",
+   "Ten"
+  ],
+  "answer": 1,
+  "reference": "Luke 6:13",
+  "category": "New Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which disciple betrayed Jesus?",
+  "options": [
+   "Peter",
+   "Thomas",
+   "Judas Iscariot",
+   "Thaddaeus"
+  ],
+  "answer": 2,
+  "reference": "Matthew 26:14",
+  "category": "New Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which disciple denied Jesus three times?",
+  "options": [
+   "Judas",
+   "John",
+   "James",
+   "Peter"
+  ],
+  "answer": 3,
+  "reference": "Luke 22:61",
+  "category": "New Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What was the first miracle (sign) Jesus did?",
+  "options": [
+   "Turning water into wine",
+   "Healing a blind man",
+   "Walking on water",
+   "Feeding the 5,000"
+  ],
+  "answer": 0,
+  "reference": "John 2:11",
+  "category": "New Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "In which town did Jesus turn water into wine?",
+  "options": [
+   "Jericho",
+   "Cana",
+   "Bethany",
+   "Nazareth"
+  ],
+  "answer": 1,
+  "reference": "John 2:1",
+  "category": "New Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "On which day did Jesus rise from the dead?",
+  "options": [
+   "The seventh day",
+   "The first day",
+   "The third day",
+   "The fortieth day"
+  ],
+  "answer": 2,
+  "reference": "1 Corinthians 15:4",
+  "category": "New Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which tax collector climbed a tree to see Jesus?",
+  "options": [
+   "Bartimaeus",
+   "Nicodemus",
+   "Matthew",
+   "Zacchaeus"
+  ],
+  "answer": 3,
+  "reference": "Luke 19:4",
+  "category": "New Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "How many loaves did Jesus use to feed the 5,000?",
+  "options": [
+   "Five",
+   "Two",
+   "Seven",
+   "Twelve"
+  ],
+  "answer": 0,
+  "reference": "Matthew 14:17",
+  "category": "New Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What did Jesus walk on to reach His disciples' boat?",
+  "options": [
+   "Ice",
+   "Water",
+   "A sandbar",
+   "A bridge"
+  ],
+  "answer": 1,
+  "reference": "Matthew 14:25",
+  "category": "New Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Who wrote most of the letters in the New Testament?",
+  "options": [
+   "James",
+   "Peter",
+   "Paul",
+   "John"
+  ],
+  "answer": 2,
+  "reference": "Romans 1:1",
+  "category": "New Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What was the apostle Paul's name before he was called Paul?",
+  "options": [
+   "Simon",
+   "Silas",
+   "Stephen",
+   "Saul"
+  ],
+  "answer": 3,
+  "reference": "Acts 13:9",
+  "category": "New Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "On the road to which city did Jesus appear to Saul?",
+  "options": [
+   "Damascus",
+   "Jerusalem",
+   "Rome",
+   "Antioch"
+  ],
+  "answer": 0,
+  "reference": "Acts 9:3",
+  "category": "New Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Whom did Jesus raise after four days in the tomb?",
+  "options": [
+   "Jairus' daughter",
+   "Lazarus",
+   "Dorcas",
+   "The widow's son"
+  ],
+  "answer": 1,
+  "reference": "John 11:39",
+  "category": "New Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Who was the Roman governor who handed Jesus over to be crucified?",
+  "options": [
+   "Herod",
+   "Caesar Augustus",
+   "Pontius Pilate",
+   "Felix"
+  ],
+  "answer": 2,
+  "reference": "Matthew 27:26",
+  "category": "New Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What gifts did the wise men bring to Jesus?",
+  "options": [
+   "Silver, oil and wine",
+   "Gold, silver and bronze",
+   "Bread, fish and wine",
+   "Gold, frankincense and myrrh"
+  ],
+  "answer": 3,
+  "reference": "Matthew 2:11",
+  "category": "New Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What is the prayer Jesus taught His disciples, beginning \"Our Father\", called?",
+  "options": [
+   "The Lord's Prayer",
+   "The Beatitudes",
+   "The Magnificat",
+   "The Great Commission"
+  ],
+  "answer": 0,
+  "reference": "Matthew 6:9",
+  "category": "New Testament",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What is the first book of the Bible?",
+  "options": [
+   "Exodus",
+   "Genesis",
+   "Psalms",
+   "Matthew"
+  ],
+  "answer": 1,
+  "reference": "Genesis 1:1",
+  "category": "General",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What is the last book of the Bible?",
+  "options": [
+   "Jude",
+   "Acts",
+   "Revelation",
+   "Malachi"
+  ],
+  "answer": 2,
+  "reference": "Revelation 22:21",
+  "category": "General",
+  "difficulty": "easy"
+ },
+ {
+  "question": "How many books are in the New Testament?",
+  "options": [
+   "66",
+   "39",
+   "24",
+   "27"
+  ],
+  "answer": 3,
+  "reference": "Matthew–Revelation",
+  "category": "General",
+  "difficulty": "easy"
+ },
+ {
+  "question": "How many books are in the Old Testament (Protestant Bible)?",
+  "options": [
+   "39",
+   "46",
+   "66",
+   "27"
+  ],
+  "answer": 0,
+  "reference": "Genesis–Malachi",
+  "category": "General",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What is the shortest verse in the English Bible (KJV)?",
+  "options": [
+   "\"Pray continually.\"",
+   "\"Jesus wept.\"",
+   "\"Rejoice always.\"",
+   "\"God is love.\""
+  ],
+  "answer": 1,
+  "reference": "John 11:35",
+  "category": "General",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which psalm begins \"The LORD is my shepherd\"?",
+  "options": [
+   "Psalm 1",
+   "Psalm 91",
+   "Psalm 23",
+   "Psalm 119"
+  ],
+  "answer": 2,
+  "reference": "Psalm 23:1",
+  "category": "General",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Who was Abraham's nephew who lived in Sodom?",
+  "options": [
+   "Laban",
+   "Ishmael",
+   "Nahor",
+   "Lot"
+  ],
+  "answer": 3,
+  "reference": "Genesis 14:12",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "What was the name of the son Hagar bore to Abraham?",
+  "options": [
+   "Ishmael",
+   "Esau",
+   "Midian",
+   "Isaac"
+  ],
+  "answer": 0,
+  "reference": "Genesis 16:15",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Who is the oldest person recorded in the Bible?",
+  "options": [
+   "Enoch",
+   "Methuselah",
+   "Noah",
+   "Adam"
+  ],
+  "answer": 1,
+  "reference": "Genesis 5:27",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Who interpreted Pharaoh's dream of seven fat and seven thin cows?",
+  "options": [
+   "Daniel",
+   "Moses",
+   "Joseph",
+   "Jacob"
+  ],
+  "answer": 2,
+  "reference": "Genesis 41:25",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "How many plagues did God send on Egypt?",
+  "options": [
+   "Twelve",
+   "Three",
+   "Seven",
+   "Ten"
+  ],
+  "answer": 3,
+  "reference": "Exodus 7–12",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "What was the last plague on Egypt?",
+  "options": [
+   "The death of the firstborn",
+   "Locusts",
+   "Hail",
+   "Darkness"
+  ],
+  "answer": 0,
+  "reference": "Exodus 12:29",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which left-handed judge killed Eglon, king of Moab?",
+  "options": [
+   "Shamgar",
+   "Ehud",
+   "Jephthah",
+   "Othniel"
+  ],
+  "answer": 1,
+  "reference": "Judges 3:15",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which judge defeated the Midianites with only 300 men?",
+  "options": [
+   "Samson",
+   "Barak",
+   "Gideon",
+   "Jephthah"
+  ],
+  "answer": 2,
+  "reference": "Judges 7:7",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which prophetess judged Israel and went to battle with Barak?",
+  "options": [
+   "Miriam",
+   "Huldah",
+   "Jael",
+   "Deborah"
+  ],
+  "answer": 3,
+  "reference": "Judges 4:4",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which priest raised the boy Samuel in the house of the LORD?",
+  "options": [
+   "Eli",
+   "Phinehas",
+   "Abiathar",
+   "Zadok"
+  ],
+  "answer": 0,
+  "reference": "1 Samuel 2:11",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Whose wife was Bathsheba before she married David?",
+  "options": [
+   "Abner",
+   "Uriah the Hittite",
+   "Joab",
+   "Nabal"
+  ],
+  "answer": 1,
+  "reference": "2 Samuel 11:3",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which prophet confronted David after his sin with Bathsheba?",
+  "options": [
+   "Gad",
+   "Samuel",
+   "Nathan",
+   "Elijah"
+  ],
+  "answer": 2,
+  "reference": "2 Samuel 12:7",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Who was the wife of King Ahab who led Israel into Baal worship?",
+  "options": [
+   "Athaliah",
+   "Michal",
+   "Delilah",
+   "Jezebel"
+  ],
+  "answer": 3,
+  "reference": "1 Kings 16:31",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "On which mountain did Elijah challenge the prophets of Baal?",
+  "options": [
+   "Mount Carmel",
+   "Mount Moriah",
+   "Mount Gilboa",
+   "Mount Sinai"
+  ],
+  "answer": 0,
+  "reference": "1 Kings 18:19",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Who succeeded Elijah as prophet?",
+  "options": [
+   "Gehazi",
+   "Elisha",
+   "Obadiah",
+   "Jonah"
+  ],
+  "answer": 1,
+  "reference": "2 Kings 2:15",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "What names were Daniel's three friends given in Babylon?",
+  "options": [
+   "Shem, Ham and Japheth",
+   "Eldad, Medad and Gad",
+   "Shadrach, Meshach and Abednego",
+   "Mordecai, Haman and Hegai"
+  ],
+  "answer": 2,
+  "reference": "Daniel 1:7",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which king of Babylon saw a hand writing on the wall?",
+  "options": [
+   "Darius",
+   "Nebuchadnezzar",
+   "Cyrus",
+   "Belshazzar"
+  ],
+  "answer": 3,
+  "reference": "Daniel 5:5",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Who led the rebuilding of Jerusalem's walls?",
+  "options": [
+   "Nehemiah",
+   "Haggai",
+   "Zerubbabel",
+   "Ezra"
+  ],
+  "answer": 0,
+  "reference": "Nehemiah 6:15",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "For how many days and nights did it rain during the flood?",
+  "options": [
+   "7",
+   "40",
+   "100",
+   "150"
+  ],
+  "answer": 1,
+  "reference": "Genesis 7:12",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "For how many years did Israel wander in the wilderness?",
+  "options": [
+   "70",
+   "12",
+   "40",
+   "7"
+  ],
+  "answer": 2,
+  "reference": "Numbers 14:33",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "What did Esau sell his birthright for?",
+  "options": [
+   "Thirty pieces of silver",
+   "A flock of sheep",
+   "A coat",
+   "A bowl of stew"
+  ],
+  "answer": 3,
+  "reference": "Genesis 25:34",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Who was the father of King David?",
+  "options": [
+   "Jesse",
+   "Boaz",
+   "Obed",
+   "Saul"
+  ],
+  "answer": 0,
+  "reference": "Ruth 4:22",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which prophet saw a valley of dry bones come to life?",
+  "options": [
+   "Jeremiah",
+   "Ezekiel",
+   "Daniel",
+   "Isaiah"
+  ],
+  "answer": 1,
+  "reference": "Ezekiel 37:1",
+  "category": "Old Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Who was the father of John the Baptist?",
+  "options": [
+   "Joseph",
+   "Simeon",
+   "Zechariah",
+   "Zebedee"
+  ],
+  "answer": 2,
+  "reference": "Luke 1:13",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Who was the mother of John the Baptist?",
+  "options": [
+   "Salome",
+   "Mary",
+   "Anna",
+   "Elizabeth"
+  ],
+  "answer": 3,
+  "reference": "Luke 1:13",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Who was the high priest when Jesus was tried?",
+  "options": [
+   "Caiaphas",
+   "Ananias",
+   "Gamaliel",
+   "Annas"
+  ],
+  "answer": 0,
+  "reference": "Matthew 26:57",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Who was made to carry Jesus' cross?",
+  "options": [
+   "Barabbas",
+   "Simon of Cyrene",
+   "Joseph of Arimathea",
+   "Simon Peter"
+  ],
+  "answer": 1,
+  "reference": "Mark 15:21",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Who asked Pilate for Jesus' body and laid it in his own tomb?",
+  "options": [
+   "Lazarus",
+   "John",
+   "Joseph of Arimathea",
+   "Nicodemus"
+  ],
+  "answer": 2,
+  "reference": "Matthew 27:57",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Who was the first Christian martyr?",
+  "options": [
+   "Philip",
+   "Peter",
+   "James",
+   "Stephen"
+  ],
+  "answer": 3,
+  "reference": "Acts 7:59",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which Pharisee came to Jesus by night?",
+  "options": [
+   "Nicodemus",
+   "Joseph",
+   "Simon",
+   "Gamaliel"
+  ],
+  "answer": 0,
+  "reference": "John 3:2",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "On which feast did the Holy Spirit come upon the disciples?",
+  "options": [
+   "Purim",
+   "Pentecost",
+   "Tabernacles",
+   "Passover"
+  ],
+  "answer": 1,
+  "reference": "Acts 2:1",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which disciple said he would not believe unless he saw the nail marks?",
+  "options": [
+   "Andrew",
+   "Philip",
+   "Thomas",
+   "Bartholomew"
+  ],
+  "answer": 2,
+  "reference": "John 20:25",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "In Jesus' parable, who helped the man beaten by robbers?",
+  "options": [
+   "A Pharisee",
+   "A priest",
+   "A Levite",
+   "A Samaritan"
+  ],
+  "answer": 3,
+  "reference": "Luke 10:33",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "In the parable of the lost son, what was he sent to feed?",
+  "options": [
+   "Pigs",
+   "Camels",
+   "Goats",
+   "Sheep"
+  ],
+  "answer": 0,
+  "reference": "Luke 15:15",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which apostle was a tax collector, also called Levi?",
+  "options": [
+   "Bartholomew",
+   "Matthew",
+   "Thaddaeus",
+   "Simon the Zealot"
+  ],
+  "answer": 1,
+  "reference": "Mark 2:14",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which two brothers did Jesus call \"Sons of Thunder\"?",
+  "options": [
+   "Philip and Nathanael",
+   "Jude and Simon",
+   "James and John",
+   "Peter and Andrew"
+  ],
+  "answer": 2,
+  "reference": "Mark 3:17",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which physician wrote a Gospel and the book of Acts?",
+  "options": [
+   "Silas",
+   "Mark",
+   "Titus",
+   "Luke"
+  ],
+  "answer": 3,
+  "reference": "Colossians 4:14",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "On which island was John when he received the Revelation?",
+  "options": [
+   "Patmos",
+   "Cyprus",
+   "Malta",
+   "Crete"
+  ],
+  "answer": 0,
+  "reference": "Revelation 1:9",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Who was chosen to replace Judas among the twelve?",
+  "options": [
+   "Barsabbas",
+   "Matthias",
+   "Silas",
+   "Barnabas"
+  ],
+  "answer": 1,
+  "reference": "Acts 1:26",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which couple lied about the price of their land and died?",
+  "options": [
+   "Aquila and Priscilla",
+   "Zechariah and Elizabeth",
+   "Ananias and Sapphira",
+   "Ahab and Jezebel"
+  ],
+  "answer": 2,
+  "reference": "Acts 5:1",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Who travelled with Paul on his first missionary journey?",
+  "options": [
+   "Luke",
+   "Silas",
+   "Timothy",
+   "Barnabas"
+  ],
+  "answer": 3,
+  "reference": "Acts 13:2",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Paul's chapter on love (\"love is patient, love is kind\") was written to which church?",
+  "options": [
+   "Corinth",
+   "Philippi",
+   "Ephesus",
+   "Rome"
+  ],
+  "answer": 0,
+  "reference": "1 Corinthians 13:4",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "What is the first fruit of the Spirit listed in Galatians?",
+  "options": [
+   "Peace",
+   "Love",
+   "Faith",
+   "Joy"
+  ],
+  "answer": 1,
+  "reference": "Galatians 5:22",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "In which garden did Jesus pray before His arrest?",
+  "options": [
+   "Eden",
+   "Bethany",
+   "Gethsemane",
+   "Olivet"
+  ],
+  "answer": 2,
+  "reference": "Matthew 26:36",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "What was the place where Jesus was crucified called?",
+  "options": [
+   "Gabbatha",
+   "Gilgal",
+   "Gethsemane",
+   "Golgotha"
+  ],
+  "answer": 3,
+  "reference": "John 19:17",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "With how many loaves did Jesus feed the 4,000?",
+  "options": [
+   "Seven",
+   "Five",
+   "Three",
+   "Twelve"
+  ],
+  "answer": 0,
+  "reference": "Matthew 15:34",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "In which city were the disciples first called Christians?",
+  "options": [
+   "Rome",
+   "Antioch",
+   "Jerusalem",
+   "Corinth"
+  ],
+  "answer": 1,
+  "reference": "Acts 11:26",
+  "category": "New Testament",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which Gospel is the shortest?",
+  "options": [
+   "Luke",
+   "Matthew",
+   "Mark",
+   "John"
+  ],
+  "answer": 2,
+  "reference": "Mark 1–16",
+  "category": "General",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which book of the Bible has the most chapters?",
+  "options": [
+   "Jeremiah",
+   "Genesis",
+   "Isaiah",
+   "Psalms"
+  ],
+  "answer": 3,
+  "reference": "Psalms 1–150",
+  "category": "General",
+  "difficulty": "medium"
+ },
+ {
+  "question": "How many chapters are in the book of Psalms?",
+  "options": [
+   "150",
+   "176",
+   "120",
+   "100"
+  ],
+  "answer": 0,
+  "reference": "Psalms 1–150",
+  "category": "General",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Who was the father of Methuselah?",
+  "options": [
+   "Lamech",
+   "Enoch",
+   "Seth",
+   "Jared"
+  ],
+  "answer": 1,
+  "reference": "Genesis 5:21",
+  "category": "Old Testament",
+  "difficulty": "hard"
+ },
+ {
+  "question": "How many years did Methuselah live?",
+  "options": [
+   "950",
+   "930",
+   "969",
+   "777"
+  ],
+  "answer": 2,
+  "reference": "Genesis 5:27",
+  "category": "Old Testament",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which king of Judah began to reign at eight and found the Book of the Law in the temple?",
+  "options": [
+   "Uzziah",
+   "Hezekiah",
+   "Joash",
+   "Josiah"
+  ],
+  "answer": 3,
+  "reference": "2 Kings 22:1",
+  "category": "Old Testament",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Who was the king of Salem and priest who blessed Abram?",
+  "options": [
+   "Melchizedek",
+   "Bera",
+   "Abimelech",
+   "Jethro"
+  ],
+  "answer": 0,
+  "reference": "Genesis 14:18",
+  "category": "Old Testament",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which prophet was told to marry Gomer?",
+  "options": [
+   "Micah",
+   "Hosea",
+   "Amos",
+   "Joel"
+  ],
+  "answer": 1,
+  "reference": "Hosea 1:3",
+  "category": "Old Testament",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which king dreamed of a statue of gold, silver, bronze, iron and clay?",
+  "options": [
+   "Darius",
+   "Pharaoh",
+   "Nebuchadnezzar",
+   "Belshazzar"
+  ],
+  "answer": 2,
+  "reference": "Daniel 2:31",
+  "category": "Old Testament",
+  "difficulty": "hard"
+ },
+ {
+  "question": "What was the name of Moses' wife?",
+  "options": [
+   "Jochebed",
+   "Miriam",
+   "Elisheba",
+   "Zipporah"
+  ],
+  "answer": 3,
+  "reference": "Exodus 2:21",
+  "category": "Old Testament",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Who was Moses' father-in-law, the priest of Midian?",
+  "options": [
+   "Jethro",
+   "Eli",
+   "Laban",
+   "Reuben"
+  ],
+  "answer": 0,
+  "reference": "Exodus 3:1",
+  "category": "Old Testament",
+  "difficulty": "hard"
+ },
+ {
+  "question": "How many people were saved in Noah's ark?",
+  "options": [
+   "Twelve",
+   "Eight",
+   "Six",
+   "Ten"
+  ],
+  "answer": 1,
+  "reference": "1 Peter 3:20",
+  "category": "Old Testament",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which son of David was caught by his hair in an oak tree?",
+  "options": [
+   "Adonijah",
+   "Solomon",
+   "Absalom",
+   "Amnon"
+  ],
+  "answer": 2,
+  "reference": "2 Samuel 18:9",
+  "category": "Old Testament",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which king of Bashan had a bed made of iron?",
+  "options": [
+   "Balak",
+   "Sihon",
+   "Agag",
+   "Og"
+  ],
+  "answer": 3,
+  "reference": "Deuteronomy 3:11",
+  "category": "Old Testament",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Whose donkey spoke to him?",
+  "options": [
+   "Balaam",
+   "Balak",
+   "Saul",
+   "Gehazi"
+  ],
+  "answer": 0,
+  "reference": "Numbers 22:28",
+  "category": "Old Testament",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Ruth was the great-grandmother of which king?",
+  "options": [
+   "Saul",
+   "David",
+   "Solomon",
+   "Rehoboam"
+  ],
+  "answer": 1,
+  "reference": "Ruth 4:17",
+  "category": "Old Testament",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Who was Timothy's mother?",
+  "options": [
+   "Lydia",
+   "Lois",
+   "Eunice",
+   "Priscilla"
+  ],
+  "answer": 2,
+  "reference": "2 Timothy 1:5",
+  "category": "New Testament",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which young man fell from a window while Paul preached late into the night?",
+  "options": [
+   "Trophimus",
+   "Onesimus",
+   "Tychicus",
+   "Eutychus"
+  ],
+  "answer": 3,
+  "reference": "Acts 20:9",
+  "category": "New Testament",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which Roman centurion's household received the Holy Spirit when Peter preached?",
+  "options": [
+   "Cornelius",
+   "Julius",
+   "Claudius Lysias",
+   "Longinus"
+  ],
+  "answer": 0,
+  "reference": "Acts 10:44",
+  "category": "New Testament",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which seller of purple cloth believed Paul's message in Philippi?",
+  "options": [
+   "Phoebe",
+   "Lydia",
+   "Dorcas",
+   "Chloe"
+  ],
+  "answer": 1,
+  "reference": "Acts 16:14",
+  "category": "New Testament",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Who baptized the Ethiopian official?",
+  "options": [
+   "Paul",
+   "Peter",
+   "Philip",
+   "Barnabas"
+  ],
+  "answer": 2,
+  "reference": "Acts 8:38",
+  "category": "New Testament",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which tentmaking couple worked with Paul in Corinth?",
+  "options": [
+   "Philemon and Apphia",
+   "Ananias and Sapphira",
+   "Andronicus and Junia",
+   "Aquila and Priscilla"
+  ],
+  "answer": 3,
+  "reference": "Acts 18:2",
+  "category": "New Testament",
+  "difficulty": "hard"
+ }
+]

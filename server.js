@@ -11,6 +11,7 @@ const crypto = require("crypto");
 const { r2Config, presignUpload, MAX_BYTES: R2_MAX_BYTES } = require("./r2");
 const push = require("./push");
 const access = require("./access");
+const trivia = require("./trivia");
 
 const app = express();
 
@@ -1358,6 +1359,10 @@ app.delete("/media/backgrounds/:id", async (req, res) => {
   }
 });
 
+// Bible trivia (trivia.js) — questions with four options and the right one.
+// Changing the set takes the same admin PIN as the background library.
+trivia.register(app, { run, get, all, adminOk: mediaAdminOk });
+
 app.get("/media/config", (req, res) => {
   res.json({ enabled: r2Config().ok, maxBytes: R2_MAX_BYTES });
 });
@@ -2165,6 +2170,7 @@ function scheduleRandomCleanup() {
 (async () => {
   await initDb();
   await push.initPushDb(run);
+  await trivia.initTriviaDb(run, get);
   await deleteOldPresentationsCompletely();
   scheduleRandomCleanup();
   await purgeExpiredServices();
