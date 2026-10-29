@@ -2,6 +2,35 @@
 
 This project includes a [Node.js](https://nodejs.org/en/about/) server script that uses a persistent [SQLite](https://www.sqlite.org) database. The app also includes a front-end with two web pages that connect to the database using the server API. 📊
 
+## Team and Schedule Builder
+
+The church team, and each month's schedule of songs and who serves. The code is in `schedule.js`, and the JSON shape is in cantica-web's `docs/schedule-builder/`.
+
+**Users (the team).** Anyone can read the team. Adding, changing or removing people needs `USERS_API_KEY`, sent as `Authorization: Bearer <key>`. With no key set, nobody can change the team.
+
+- `GET /users` — the team (`?all=1` also lists people who were removed)
+- `GET /users/:id`
+- `POST /users` — `{ "name", "roles": [...] }`, or an array of them. The `id` is made from the name.
+- `PUT /users/:id` — change `name` and/or `roles`
+- `DELETE /users/:id` — takes someone off the team. They still show on schedules that already had them.
+
+Roles: `vocals`, `keys`, `drums`, `guitar`, `camera`, `powerpoint`, `sound`, `greeter`.
+
+**Schedules.** One per month (`YYYY-MM`). Writes need the builder PIN (`Authorization: Pin <pin>`) when `BUILDER_PIN` is set.
+
+- `GET /schedules` — every month planned, without the detail
+- `GET /schedules/:month` — the month, plus `allSundays`, `people` (the name for each id) and `gaps` (roles still short of their minimum). A month not planned yet comes back empty, not as a 404.
+- `PUT /schedules/:month` — save the whole month
+- `PUT /schedules/:month/sundays/:date` — save one Sunday and leave the rest as they are
+- `DELETE /schedules/:month`
+
+A month that isn't finished still saves, and any missing roles come back in `gaps`. A save is refused with `400 { errors: [...] }` when:
+
+- a date isn't a Sunday in that month
+- an id isn't on the team
+- a person is put in a role they don't fill
+- the same person (or guest) is used twice on one Sunday
+
 ## Live broadcast relay (Lumen Presenter → OBS)
 
 A tiny in‑memory pub/sub used by [Lumen Presenter](https://github.com/gowthamrajum/lumen-presenter) to stream the current live slide to a web page / OBS **Browser Source** as a transparent lyrics/scripture lower‑third. No database, no extra process — it just rides along on this service.
