@@ -667,11 +667,24 @@ app.put("/services/:id", async (req, res) => {
 // Service Builder used to embed, so Cantica's presenter files it into its
 // Sermon card exactly as before and needs no change to pick it up.
 
-/** An outline as stored — `{ title, points[] }` with at least one point — or null. */
+/**
+ * An outline as stored — `{ title, points[], sections?[][] }` with at least one
+ * point — or null.
+ *
+ * `sections` is the points split into slides, for an outline too long to read
+ * on one; it is kept only when there is more than one, so a one-slide outline
+ * stays exactly `{ title, points }`. `points` is always every point flattened,
+ * which is what a reader that predates `sections` puts on its single slide.
+ * Mirrors cantica-web's lib/outline makeOutline — keep the two in step.
+ */
 function readOutline(v) {
   if (!v || typeof v !== "object") return null;
-  const points = Array.isArray(v.points) ? v.points.map((p) => String(p).trim()).filter(Boolean) : [];
-  return points.length ? { title: String(v.title ?? "").trim(), points } : null;
+  const clean = (list) => (Array.isArray(list) ? list.map((p) => String(p).trim()).filter(Boolean) : []);
+  const title = String(v.title ?? "").trim();
+  const sections = (Array.isArray(v.sections) ? v.sections : []).map(clean).filter((x) => x.length);
+  if (sections.length) return { title, points: sections.flat(), ...(sections.length > 1 ? { sections } : {}) };
+  const points = clean(v.points);
+  return points.length ? { title, points } : null;
 }
 function parseOutlineColumn(text) {
   if (!text) return { set: false, outline: null };
@@ -681,8 +694,8 @@ function parseOutlineColumn(text) {
 function outlineInDeck(data) {
   const items = data && data.service && Array.isArray(data.service.items) ? data.service.items : [];
   for (const it of items) {
-    const sl = (it.slides || []).find((x) => x && x.outline === true);
-    if (sl) return readOutline({ title: sl.caption || "", points: sl.lines });
+    const mine = (it.slides || []).filter((x) => x && x.outline === true);
+    if (mine.length) return readOutline({ title: mine[0].caption || "", sections: mine.map((x) => x.lines) });
   }
   return null;
 }
@@ -698,20 +711,24 @@ function withSermon(data, outline, serviceId) {
   const items = data.service.items.filter((it) => it && it.slot !== "sermon");
   if (outline) {
     const title = outline.title;
+    // One slide per section, each carrying the title. The first keeps the id a
+    // one-slide outline always had, so a presenter showing it keeps it up.
+    const parts = outline.sections && outline.sections.length ? outline.sections : [outline.points];
+    const name = title || "Sermon outline";
     const item = {
       id: `sermon-${serviceId}`,
       title: "Sermon Outline",
       kind: "text",
       slot: "sermon",
-      slides: [{
-        id: `sermon-${serviceId}-outline`,
+      slides: parts.map((lines, i) => ({
+        id: i ? `sermon-${serviceId}-outline-${i + 1}` : `sermon-${serviceId}-outline`,
         kind: "text",
-        label: title || "Sermon outline",
-        lines: outline.points,
+        label: parts.length > 1 ? `${name} · ${i + 1}/${parts.length}` : name,
+        lines,
         ...(title ? { caption: title } : {}),
         outline: true,
         broadcastUsers: true
-      }]
+      }))
     };
     const at = items.findIndex((it) => it.slot === "communion" || it.slot === "offering" || it.slot === "media");
     items.splice(at < 0 ? items.length : at, 0, item);
